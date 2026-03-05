@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Physical''}'
-      - '{''value'': ''Cyber''}'
+      - Physical
+      - Cyber
       required: true
     - id: 3
       name: incident_description
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''On-Site''}'
-      - '{''value'': ''Off-Site''}'
+      - On-Site
+      - Off-Site
       required: true
     - id: 5
       name: incident_status
@@ -41,8 +41,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Open''}'
-      - '{''value'': ''Closed''}'
+      - Open
+      - Closed
       required: false
     - id: 6
       name: incident_category
@@ -50,8 +50,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Physical''}'
-      - '{''value'': ''Cyber''}'
+      - Physical
+      - Cyber
       required: false
     - id: 7
       name: incident_category_other

@@ -4,183 +4,90 @@ inputSchema:
     title: Stock Requisition Form
     pages:
     - id: 1
-      name: form_id_1
-      label: stock_requisition_form
+      name: unique_id
+      label: Form Unique ID
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
-      name: form_id_2
-      label: stock_description
+      name: form_description
+      label: Form Description
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: form_category
-      label: category
+      name: assigned_tool
+      label: Assigned Tool
       hint: null
-      type: select_multiple
-      options:
-      - Request Forms
-      - Storekeeper Forms
+      type: text
+      options: []
       required: true
     - id: 4
-      name: form_description
-      label: description
+      name: output_file
+      label: Output File
       hint: null
       type: text
       options: []
       required: true
     - id: 5
-      name: form_assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 6
-      name: form_ids_1
-      label: form_ids_1
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 7
-      name: form_ids_2
-      label: form_ids_2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: form_output_file
-      label: output_file
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 9
-      name: form_ids_3
-      label: form_ids_3
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: form_title
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
       name: form_category
-      label: category
+      label: Form Category
       hint: null
       type: select_multiple
       options:
       - Request Forms
       - Storekeeper Forms
-      required: false
-    - id: 12
-      name: form_description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: form_assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: form_ids_4
-      label: form_ids_4
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: form_ids_5
-      label: form_ids_5
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: form_output_file
-      label: output_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
+      required: true
+    - id: 6
       name: form_title
-      label: title
+      label: Form Title
       hint: null
       type: text
       options: []
-      required: false
-    - id: 18
-      name: form_category
-      label: category
+      required: true
+    - id: 7
+      name: form_id_1
+      label: Form ID 1
       hint: null
-      type: select_one
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: form_id_2
+      label: Form ID 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: form_output_file
+      label: Form Output File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: form_category_1
+      label: Category
+      hint: null
+      type: select_multiple
       options:
       - Request Forms
       - Storekeeper Forms
-      required: false
-    - id: 19
-      name: form_description
-      label: description
+      required: true
+    - id: 11
+      name: form_description_1
+      label: Description
       hint: null
       type: text
       options: []
-      required: false
-    - id: 20
-      name: form_assigned_tool
-      label: assigned_tool
+      required: true
+    - id: 12
+      name: assigned_tool_1
+      label: Tool
       hint: null
       type: text
       options: []
-      required: false
-    - id: 21
-      name: form_ids_6
-      label: form_ids_6
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: form_ids_7
-      label: form_ids_7
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: form_output_file
-      label: output_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_title
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

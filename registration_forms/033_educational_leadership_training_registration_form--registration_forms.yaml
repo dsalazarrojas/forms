@@ -11,97 +11,93 @@ inputSchema:
       options: []
       required: false
     - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
       name: email
       label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 3
+    - id: 4
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 4
-      name: select_one
+    - id: 5
+      name: role
       label: Role
       hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
+      type: text
+      options: []
       required: false
-    - id: 5
-      name: select_multiple
+    - id: 6
+      name: skills
       label: Skills
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
-      - option_3
+      - Programming
+      - Leadership
+      - Management
+      - Communication
       required: false
-    - id: 6
-      name: date
-      label: Date
+    - id: 7
+      name: date_of_birth
+      label: Date of birth
       hint: null
       type: date
       options: []
       required: false
-    - id: 7
-      name: time
-      label: Time
+    - id: 8
+      name: time_available
+      label: Time available
       hint: null
       type: time
       options: []
       required: false
-    - id: 8
-      name: note
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
     - id: 9
-      name: select_one
+      name: location
       label: Location
       hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
+      type: text
+      options: []
       required: false
     - id: 10
-      name: select_multiple
+      name: interests
       label: Interests
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
+      - Learning
+      - Personal growth
+      - Networking
       required: false
     - id: 11
-      name: email
+      name: alternate_email
       label: Alternate Email
       hint: null
       type: email
       options: []
       required: false
     - id: 12
-      name: select_one
+      name: status
       label: Status
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
+      - Active
+      - Inactive
       required: false
     - id: 13
-      name: note
+      name: additional_notes
       label: Additional Notes
       hint: null
       type: note
@@ -113,19 +109,19 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
+      - 'True'
+      - 'False'
       required: false
     - id: 15
-      name: time
-      label: Time
+      name: time_for_training
+      label: Time for training
       hint: null
       type: time
       options: []
       required: false
     - id: 16
-      name: date
-      label: Date
+      name: date_of_training
+      label: Date of training
       hint: null
       type: date
       options: []
@@ -136,66 +132,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - Other
+      - 'True'
+      - 'False'
       required: false
     - id: 18
-      name: note
-      label: Select Multiple
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: select_multiple
-      label: Select One
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: date
-      label: Time
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: select_one
-      label: Select Multiple
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: select_multiple
-      label: Select One
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: note
+      name: notes
       label: Notes
       hint: null
       type: note

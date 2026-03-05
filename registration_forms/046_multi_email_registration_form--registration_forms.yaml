@@ -79,10 +79,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 111, ''name'': ''team-1'', ''label'': ''Team 1''}'
-      - '{''id'': 112, ''name'': ''team-2'', ''label'': ''Team 2''}'
-      - '{''id'': 113, ''name'': ''team-3'', ''label'': ''Team 3''}'
-      - '{''id'': 114, ''name'': ''team-4'', ''label'': ''Team 4''}'
+      - Team 1
+      - Team 2
+      - Team 3
+      - Team 4
       required: false
     - id: 12
       name: training
@@ -90,9 +90,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 121, ''name'': ''training-1'', ''label'': ''Training 1''}'
-      - '{''id'': 122, ''name'': ''training-2'', ''label'': ''Training 2''}'
-      - '{''id'': 123, ''name'': ''training-3'', ''label'': ''Training 3''}'
+      - Training 1
+      - Training 2
+      - Training 3
       required: false
     - id: 13
       name: notes
@@ -107,8 +107,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 141, ''name'': ''assigned-1'', ''label'': ''Assigned 1''}'
-      - '{''id'': 142, ''name'': ''assigned-2'', ''label'': ''Assigned 2''}'
+      - Assigned 1
+      - Assigned 2
       required: false
     - id: 15
       name: contact_number
@@ -130,10 +130,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 171, ''name'': ''follow_up-1'', ''label'': ''Follow up 1''}'
-      - '{''id'': 172, ''name'': ''follow_up-2'', ''label'': ''Follow up 2''}'
-      - '{''id'': 173, ''name'': ''follow_up-3'', ''label'': ''Follow up 3''}'
-      - '{''id'': 174, ''name'': ''follow_up-4'', ''label'': ''Follow up 4''}'
+      - Follow up 1
+      - Follow up 2
+      - Follow up 3
+      - Follow up 4
       required: false
     - id: 18
       name: follow_up_2
@@ -141,9 +141,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 181, ''name'': ''follow_up_2-1'', ''label'': ''Follow up 2''}'
-      - '{''id'': 182, ''name'': ''follow_up_2-2'', ''label'': ''Follow up 2''}'
-      - '{''id'': 183, ''name'': ''follow_up_2-3'', ''label'': ''Follow up 2''}'
+      - Follow up 2
+      - Other
       required: false
     - id: 19
       name: workflow
@@ -151,8 +150,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 191, ''name'': ''workflow-1'', ''label'': ''Workflow 1''}'
-      - '{''id'': 192, ''name'': ''workflow-2'', ''label'': ''Workflow 2''}'
+      - Workflow 1
+      - Workflow 2
       required: false
     - id: 20
       name: event_id
@@ -160,8 +159,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 201, ''name'': ''event-1'', ''label'': ''Event 1''}'
-      - '{''id'': 202, ''name'': ''event-2'', ''label'': ''Event 2''}'
+      - Event 1
+      - Event 2
       required: false
     - id: 21
       name: member_id
@@ -169,7 +168,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 211, ''name'': ''member-1'', ''label'': ''Member 1''}'
+      - Member 1
       - Other
       required: false
     - id: 22
@@ -178,8 +177,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 221, ''name'': ''team-1'', ''label'': ''Team 1''}'
-      - '{''id'': 222, ''name'': ''team-2'', ''label'': ''Team 2''}'
+      - Team 1
+      - Team 2
       required: false
     - id: 23
       name: assigned_tool
@@ -187,7 +186,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 231, ''name'': ''assigned-1'', ''label'': ''Assigned 1''}'
+      - Assigned 1
       - Other
       required: false
     - id: 24
@@ -196,9 +195,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 241, ''name'': ''follow_up_3-1'', ''label'': ''Follow up 3''}'
-      - '{''id'': 242, ''name'': ''follow_up_3-2'', ''label'': ''Follow up 3''}'
-      - '{''id'': 243, ''name'': ''follow_up_3-3'', ''label'': ''Follow up 3''}'
+      - Follow up 3
+      - Other
       required: false
     - id: 25
       name: notes_2

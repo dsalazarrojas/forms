@@ -37,16 +37,11 @@ inputSchema:
       hint: Select the role that best describes you
       type: select_one
       options:
-      - label: Physician (MD/DO)
-        value: physician
-      - label: Nurse (RN/LPN)
-        value: nurse
-      - label: Care Manager/Coordinator
-        value: care_manager
-      - label: Practice Administrator
-        value: administrator
-      - label: Social Worker
-        value: social_worker
+      - Physician (MD/DO)
+      - Nurse (RN/LPN)
+      - Care Manager/Coordinator
+      - Practice Administrator
+      - Social Worker
       required: true
     - id: 6
       name: session_registration_header
@@ -61,12 +56,9 @@ inputSchema:
       hint: Select the one that fits your schedule
       type: select_one
       options:
-      - label: March 10, 2026 - 10:00 AM (Virtual)
-        value: session_1
-      - label: March 12, 2026 - 2:00 PM (In-Person)
-        value: session_2
-      - label: March 17, 2026 - 9:00 AM (Virtual)
-        value: session_3
+      - March 10, 2026 - 10:00 AM (Virtual)
+      - March 12, 2026 - 2:00 PM (In-Person)
+      - March 17, 2026 - 9:00 AM (Virtual)
       required: true
     - id: 8
       name: care_coordination_interest_areas
@@ -74,16 +66,11 @@ inputSchema:
       hint: Select the topics you would like to focus on
       type: select_multiple
       options:
-      - label: Transitions of Care
-        value: transitions
-      - label: Team-Based Care Communication
-        value: communication
-      - label: Primary Care Provider (PCP) Engagement
-        value: pcp_engagement
-      - label: Patient Education & Activation
-        value: patient_ed
-      - label: Using Technology for Coordination
-        value: technology
+      - Transitions of Care
+      - Team-Based Care Communication
+      - Primary Care Provider (PCP) Engagement
+      - Patient Education & Activation
+      - Using Technology for Coordination
       required: true
     - id: 9
       name: preferred_workshop_format_style
@@ -91,14 +78,10 @@ inputSchema:
       hint: Select how you like to learn
       type: select_one
       options:
-      - label: Lecture Style (Expert Speaker)
-        value: lecture
-      - label: Interactive Group Workshop
-        value: interactive
-      - label: Case Study Review
-        value: case_study
-      - label: Open Q&A Session
-        value: qa
+      - Lecture Style (Expert Speaker)
+      - Interactive Group Workshop
+      - Case Study Review
+      - Open Q&A Session
       required: true
     - id: 10
       name: attendee_special_needs_header
@@ -134,7 +117,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Registered and Confirmed
-        value: registered
+      - Registered and Confirmed
       - Other
       required: true

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pre-Production''}'
-      - '{''id'': 2, ''label'': ''In-Production''}'
-      - '{''id'': 3, ''label'': ''Post-Production''}'
+      - Pre-Production
+      - In-Production
+      - Post-Production
       required: true
     - id: 3
       name: location
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Camera''}'
-      - '{''id'': 2, ''label'': ''Audio''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Camera
+      - Audio
+      - Other
       required: true
     - id: 5
       name: frequency

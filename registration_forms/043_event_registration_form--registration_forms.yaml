@@ -15,14 +15,14 @@ inputSchema:
     title: Event Registration Form
     pages:
     - id: 1
-      name: event_registration_form
+      name: participant_details_form
       label: Participant Details
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 2
-      name: event_attendant_registration_form
+      name: event_details_form
       label: Event Details
       hint: null
       type: text
@@ -43,148 +43,22 @@ inputSchema:
       options: []
       required: true
     - id: 5
-      name: registration_form
-      label: Registration
+      name: payment_form
+      label: Payment
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: payment_form
-      label: Payment
+      name: participant_status_form
+      label: Participant Status
       hint: null
       type: text
       options: []
       required: true
     - id: 7
-      name: payment_form
-      label: Payment
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 8
-      name: payment_form
-      label: Payment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: participant_details_form
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 10
-      name: participant_details_form
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: participant_details_form
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: participant_details_form
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: participant_details_form
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: participant_details_form
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: event_details_form
-      label: Event Details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: event_details_form
-      label: Event Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: event_details_form
-      label: Event Details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: event_details_form
-      label: Event Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: event_details_form
-      label: Event Details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: event_details_form
-      label: Event Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: event_details_form
-      label: Event Details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: participant_status_form
-      label: Participant Status
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: participant_status_form
-      label: Participant Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: participant_status_form
-      label: Participant Status
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: participant_status_form
-      label: Participant Status
+      name: additional_comments_form
+      label: Additional Comments
       hint: null
       type: text
       options: []

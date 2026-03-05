@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 12
       name: preferred_date
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 13
       name: reservation_method
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 14
       name: reservation_time_format
@@ -111,9 +111,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 15
       name: note
@@ -142,7 +142,7 @@ inputSchema:
       required: false
     - id: 18
       name: preferred_phone_number
-      label: Phone
+      label: Preferred Phone Number
       hint: null
       type: select_multiple
       options:
@@ -151,7 +151,7 @@ inputSchema:
       required: true
     - id: 19
       name: preferred_email
-      label: Email
+      label: Preferred Email
       hint: null
       type: select_multiple
       options:
@@ -160,7 +160,7 @@ inputSchema:
       required: true
     - id: 20
       name: message_to_guest
-      label: Message
+      label: Message To Guest
       hint: null
       type: select_multiple
       options:
@@ -196,7 +196,7 @@ inputSchema:
       required: false
     - id: 24
       name: reservation_method_note1
-      label: Notes
+      label: Reservation Method Note1
       hint: null
       type: select_multiple
       options:

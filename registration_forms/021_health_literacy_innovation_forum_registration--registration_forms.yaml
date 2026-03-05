@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: attendee_type_other
@@ -82,20 +82,20 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
       name: registration_method_other
-      label: If Other
+      label: Registration Method Other
       hint: null
       type: text
       options: []
       required: false
     - id: 13
       name: registration_method_other_input
-      label: Please specify
+      label: Registration Method Other Input
       hint: null
       type: text
       options: []
@@ -115,20 +115,20 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 16
       name: payment_method_other
-      label: If Other
+      label: Payment Method Other
       hint: null
       type: text
       options: []
       required: false
     - id: 17
       name: payment_method_other_input
-      label: Please specify
+      label: Payment Method Other Input
       hint: null
       type: text
       options: []

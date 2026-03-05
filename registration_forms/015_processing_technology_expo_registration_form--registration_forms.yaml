@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: company
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Attendee''}'
-      - '{''id'': 2, ''label'': ''Speaker''}'
-      - '{''id'': 3, ''label'': ''Exhibitor''}'
+      - Attendee
+      - Speaker
+      - Exhibitor
       required: false
     - id: 9
       name: note

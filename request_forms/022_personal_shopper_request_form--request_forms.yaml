@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Shoes''}'
-      - '{''id'': 2, ''label'': ''Clothing''}'
-      - '{''id'': 3, ''label'': ''Accessories''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Shoes
+      - Clothing
+      - Accessories
+      - Other
       required: false
     - id: 7
       name: shopper_preference
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 8
       name: notes

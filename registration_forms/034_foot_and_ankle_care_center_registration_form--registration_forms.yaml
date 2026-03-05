@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Foot Condition''}'
-      - '{''id'': 3, ''label'': ''Ankle Condition''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - None
+      - Foot Condition
+      - Ankle Condition
+      - Other
       required: true
     - id: 6
       name: date_of_birth
@@ -90,9 +90,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Foot Specialist''}'
-      - '{''id'': 2, ''label'': ''Ankle Specialist''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Foot Specialist
+      - Ankle Specialist
+      - Both
       required: true
     - id: 13
       name: additional_notes
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Phone''}'
-      - '{''id'': 2, ''label'': ''Email''}'
-      - '{''id'': 3, ''label'': ''Text''}'
+      - Phone
+      - Email
+      - Text
       required: false
     - id: 15
       name: emergency_contact_name

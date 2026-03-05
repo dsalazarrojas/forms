@@ -237,7 +237,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I accept
-      - false
+      - 'False'
       required: true
     - id: 29
       name: cancellation_policy
@@ -245,8 +245,8 @@ inputSchema:
       hint: Do you understand policy
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 30
       name: refund_policy
@@ -254,8 +254,8 @@ inputSchema:
       hint: Do you understand refunds
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 31
       name: promotional_code

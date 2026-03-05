@@ -4,58 +4,52 @@ inputSchema:
     title: Trip Request Form
     pages:
     - id: 1
-      name: trip_request_form_page
-      label: First Page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: travel_details
-      label: travel_details
+      name: is_business_trip
+      label: Is this a business or personal trip?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: true
+    - id: 2
+      name: travel_departure_date
+      label: When is the departure date?
+      hint: null
+      type: date
+      options: []
+      required: true
     - id: 3
-      name: travel_dates
-      label: travel_dates
+      name: travel_return_date
+      label: When is the return date?
       hint: null
       type: date
       options: []
       required: true
     - id: 4
-      name: travel_type
-      label: travel_type
+      name: trip_purpose
+      label: What is the purpose of the trip?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 5
-      name: departure_airport
-      label: departure_airport
+      name: email
+      label: Email address
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: email
+      options: []
       required: true
     - id: 6
-      name: arrival_airport
-      label: arrival_airport
+      name: phone
+      label: Phone number
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 7
-      name: travel_agent
-      label: travel_agent
+      name: is_travel_agency_associated
+      label: Is this travel agency associated with the trip?
       hint: null
       type: select_one
       options:
@@ -63,134 +57,37 @@ inputSchema:
       - 'No'
       required: true
     - id: 8
-      name: travel_request_id
-      label: travel_request_id
+      name: travel_agency_address
+      label: Travel agency address
       hint: null
-      type: number
+      type: text
       options: []
-      required: true
+      required: false
     - id: 9
-      name: travel_request_status
-      label: travel_request_status
+      name: travel_agency_contact
+      label: Travel agency contact person
       hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 10
-      name: notes
-      label: notes
+      name: travel_agency_phone
+      label: Travel agency phone number
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 11
-      name: email
-      label: email
+      name: travel_agency_email
+      label: Travel agency email
       hint: null
       type: email
       options: []
       required: false
     - id: 12
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: travel_agency
-      label: travel_agency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: travel_agency_address
-      label: travel_agency_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: travel_agency_contact
-      label: travel_agency_contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: travel_agency_phone
-      label: travel_agency_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: travel_agency_email
-      label: travel_agency_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
       name: notes
-      label: notes
+      label: Notes
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 19
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: travel_agency
-      label: travel_agency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: travel_agency_address
-      label: travel_agency_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: travel_agency_contact
-      label: travel_agency_contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: travel_agency_phone
-      label: travel_agency_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: travel_agency_email
-      label: travel_agency_email
-      hint: null
-      type: email
       options: []
       required: false

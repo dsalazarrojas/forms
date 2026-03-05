@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Immediate''}'
-      - '{''id'': 2, ''label'': ''Ongoing''}'
-      - '{''id'': 3, ''label'': ''One-time''}'
+      - Immediate
+      - Ongoing
+      - One-time
       required: false
     - id: 5
       name: date
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''None''}'
+      - Email
+      - Phone
+      - None
       required: false
     - id: 9
       name: email
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Cancel''}'
+      - Submit
+      - Cancel
       required: false
     - id: 12
       name: release_agreement
@@ -101,6 +101,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false

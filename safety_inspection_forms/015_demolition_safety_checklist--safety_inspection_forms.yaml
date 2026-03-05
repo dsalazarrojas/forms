@@ -15,55 +15,48 @@ inputSchema:
     title: Demolition Safety Checklist
     pages:
     - id: 1
-      name: demolition_safety_checklist_page1
+      name: general_information
       label: General Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: general_information
-      label: site_address
+      name: site_details
+      label: Site Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: general_information
-      label: project_name
+      name: site_location
+      label: Site Location
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: general_information
-      label: project_manager
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: demolition_safety_checklist_page2
+      name: safety_plan
       label: Demolition Safety Plan
       hint: null
       type: select_multiple
       options:
-      - Demolition Plan
-      - Safety Plan
-      - Environmental Plan
+      - Mechanical
+      - Explosive
+      - Other
       required: false
-    - id: 6
-      name: demolition_safety_checklist_page2
-      label: hazardous_substance_handling
+    - id: 5
+      name: hazardous_substances
+      label: Hazardous Substance Handling
       hint: null
       type: select_one
       options:
       - 'True'
       - 'False'
       required: false
-    - id: 7
+    - id: 6
       name: hazardous_hazards
-      label: hazardous_hazards
+      label: Hazardous Hazards
       hint: null
       type: select_one
       options:
@@ -73,71 +66,29 @@ inputSchema:
       - Electrical
       - Other
       required: false
-    - id: 8
-      name: demolition_safety_checklist_page3
-      label: Site Safety
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: site_access_control
-      label: site_access_control
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: site_access_control
-      label: site_access_control_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: demolition_safety_checklist_page4
+    - id: 7
+      name: personal_protective_equipment
       label: Personal Protective Equipment
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
-      name: personal_protective_equipment
-      label: personal_protective_equipment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: demolition_safety_checklist_page5
+    - id: 8
+      name: special_equipment
       label: Special Equipment
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
-      name: special_equipment
-      label: special_equipment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: demolition_safety_checklist_page6
+    - id: 9
+      name: emergency_response_plan
       label: Emergency Response Plan
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
-      name: emergency_response_plan
-      label: emergency_response_plan
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: demolition_safety_checklist_page7
+    - id: 10
+      name: demolition_methods
       label: Demolition Methods
       hint: null
       type: select_multiple
@@ -146,15 +97,8 @@ inputSchema:
       - Explosive
       - Other
       required: false
-    - id: 18
-      name: demolition_methods
-      label: demolition_methods
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: demolition_safety_checklist_page8
+    - id: 11
+      name: special_hazards
       label: Special Hazards
       hint: null
       type: select_one
@@ -162,44 +106,9 @@ inputSchema:
       - 'True'
       - 'False'
       required: false
-    - id: 20
-      name: special_hazards
-      label: special_hazards
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: special_hazards_2
-      label: special_hazards_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: demolition_safety_checklist_page9
-      label: Environmental Hazards
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
+    - id: 12
       name: environmental_hazards
-      label: environmental_hazards
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: environmental_hazards_2
-      label: environmental_hazards_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: environmental_hazards_3
-      label: environmental_hazards_3
+      label: Environmental Hazards
       hint: null
       type: text
       options: []

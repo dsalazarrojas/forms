@@ -1,212 +1,83 @@
 inputSchema:
   type: object
   properties:
-    title: packard_foundation_reunion_2018_travel_request_form
+    title: Packard Foundation Reunion 2018 Travel Request Form
     pages:
     - id: 1
-      name: first_page
-      label: First_Page
+      name: traveling
+      label: Are you traveling for this event?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 2
-      name: first_page_2
-      label: More_info
+      name: events_attending
+      label: Are you attending this event?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      required: false
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 3
-      name: dates_of_attendence
-      label: dates_of_attendence
+      name: submitting_request
+      label: Have you submitted a request?
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 4
       name: travel_purpose
-      label: travel_purpose
+      label: Travel purpose
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Personal
+      - Business
+      required: true
     - id: 5
       name: travel_arrangement
-      label: travel_arrangement
+      label: How are you planning to travel?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      required: false
+      - By plane
+      - By car
+      - Other
+      required: true
     - id: 6
-      name: travel_details
-      label: travel_details
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: submit_request
-      label: submit_request
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 8
-      name: first_page_2
-      label: Additional_Request
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: additional_request
-      label: Additional_Request
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: first_page_3
-      label: Contact_Information
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: first_page_4
-      label: First_Page_4
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 12
-      name: travel_date
-      label: travel_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: travel_time
-      label: travel_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: travel_cost
-      label: travel_cost
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: form_submission
-      label: form_submission
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 16
-      name: first_page_6
-      label: Contact_Information
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: first_page_7
-      label: Contact_Information
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: form_submission
-      label: Form_Submission
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 19
-      name: first_page_8
-      label: First_Page_8
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 20
-      name: additional_request_2
-      label: Additional_Request
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: first_page_9
-      label: Contact_Information
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: first_page_10
-      label: First_Page_10
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 23
       name: travel_info
-      label: travel_info
+      label: Travel information
       hint: null
       type: text
       options: []
-      required: false
-    - id: 24
-      name: additional_travel_info
-      label: Additional_Travel_Info
+      required: true
+    - id: 7
+      name: form_submission
+      label: Form submission
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: first_page_11
-      label: First_Page_11
+      type: select_one
+      options:
+      - Submit
+      - Not submit
+      required: true
+    - id: 8
+      name: contact_info
+      label: Contact information
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
+    - id: 9
+      name: travel_details
+      label: Additional travel details
+      hint: null
+      type: text
+      options: []
+      required: true

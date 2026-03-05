@@ -15,146 +15,51 @@ inputSchema:
     title: Uniform Residential Loan Application Form
     pages:
     - id: 1
-      name: loan_term
-      label: Loan Term
+      name: personal_loan_info
+      label: Personal Loan Information
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 2
-      name: property_type
-      label: Property Type
-      hint: null
-      type: select_one
-      options:
-      - primary_residence
-      - investment
-      - second_home
-      - rental
-      required: true
-    - id: 3
-      name: loan_term
-      label: Loan Term
+      name: employment_info
+      label: Employment Information
       hint: null
       type: text
       options: []
-      required: true
-    - id: 4
-      name: property_type
-      label: Property Type
+      required: false
+    - id: 3
+      name: financial_info
+      label: Financial Information
       hint: null
-      type: select_one
-      options:
-      - primary_residence
-      - investment
-      - second_home
-      - rental
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: loan_purpose
+      label: Loan Purpose
+      hint: null
+      type: text
+      options: []
       required: true
     - id: 5
-      name: loan_term
-      label: Loan Term
+      name: other_assets
+      label: Other Assets
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 6
-      name: property_type
-      label: Property Type
+      name: loan_history
+      label: Loan History
       hint: null
-      type: select_one
-      options:
-      - primary_residence
-      - investment
-      - second_home
-      - rental
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 7
-      name: loan_term
-      label: Loan Term
+      name: other_info
+      label: Other Information
       hint: null
       type: text
       options: []
-      required: true
-    - id: 8
-      name: property_type
-      label: Property Type
-      hint: null
-      type: select_one
-      options:
-      - primary_residence
-      - investment
-      - second_home
-      - rental
-      required: true
-    - id: 9
-      name: loan_term
-      label: Loan Term
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 10
-      name: property_type
-      label: Property Type
-      hint: null
-      type: select_one
-      options:
-      - primary_residence
-      - investment
-      - second_home
-      - rental
-      required: true
-    - id: 11
-      name: loan_term
-      label: Loan Term
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: property_type
-      label: Property Type
-      hint: null
-      type: select_one
-      options:
-      - primary_residence
-      - investment
-      - second_home
-      - rental
-      required: true
-    - id: 13
-      name: loan_term
-      label: Loan Term
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: property_type
-      label: Property Type
-      hint: null
-      type: select_one
-      options:
-      - primary_residence
-      - investment
-      - second_home
-      - rental
-      required: true
-    - id: 15
-      name: loan_term
-      label: Loan Term
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: property_type
-      label: Property Type
-      hint: null
-      type: select_one
-      options:
-      - primary_residence
-      - investment
-      - second_home
-      - rental
-      required: true
+      required: false

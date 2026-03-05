@@ -12,194 +12,90 @@ inputSchema:
       required: false
     - id: 2
       name: course_selection_page
-      label: select_courses
+      label: Which course are you interested in?
       hint: null
       type: select_one
       options:
-      - '{''value'': ''math''}'
-      - '{''value'': ''science''}'
-      - '{''value'': ''english''}'
+      - Math
+      - Science
+      - English
       required: true
     - id: 3
       name: other_projects
-      label: other_projects
+      label: Do you have any other projects?
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: other_info
-      label: other_info
+      label: What is your other info?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: other_projects
-      label: other_projects
+      name: age
+      label: What is your age?
       hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''math''}'
-      - '{''value'': ''science''}'
-      - '{''value'': ''english''}'
+      type: number
+      options: []
       required: true
     - id: 6
-      name: other_projects
-      label: other_projects
+      name: date_of_birth
+      label: What is the date of birth?
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''math''}'
-      - '{''value'': ''science''}'
-      - '{''value'': ''english''}'
+      type: date
+      options: []
       required: false
     - id: 7
-      name: other_projects
-      label: other_projects
+      name: time_of_selection
+      label: What is your time of selection?
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 8
+      name: note
+      label: What is your note about other projects?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: course_selection_multiple
+      label: Which course are you interested in (Select Multiple)?
+      hint: null
+      type: select_multiple
+      options:
+      - Math
+      - Science
+      - English
+      required: true
+    - id: 10
+      name: confirm
+      label: Is this correct?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
       name: submit_button
       label: Submit
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 12
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: other_projects
-      label: other_projects
+      name: other_projects2
+      label: Do you have any other projects (Select One)?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: other_projects
-      label: other_projects
-      hint: null
-      type: text
-      options: []
+      - 'True'
+      - 'False'
       required: false

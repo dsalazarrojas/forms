@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''New Client'', ''label'': ''New Client''}'
-      - '{''value'': ''Returning Client'', ''label'': ''Returning Client''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - New Client
+      - Returning Client
+      - Other
       required: true
     - id: 6
       name: services
@@ -47,12 +47,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Wedding'', ''label'': ''Wedding''}'
-      - '{''value'': ''Corporate Event'', ''label'': ''Corporate Event''}'
-      - '{''value'': ''Private Party'', ''label'': ''Private Party''}'
-      - '{''value'': ''Bar/Bat Mitzvah'', ''label'': ''Bar/Bat Mitzvah''}'
-      - '{''value'': ''Club Night'', ''label'': ''Club Night''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Wedding
+      - Corporate Event
+      - Private Party
+      - Bar/Bat Mitzvah
+      - Club Night
+      - Other
       required: true
     - id: 7
       name: contact_date

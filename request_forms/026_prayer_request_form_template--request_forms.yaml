@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Candle 1''}'
-      - '{''id'': 2, ''name'': ''Candle 2''}'
-      - '{''id'': 3, ''name'': ''Candle 3''}'
+      - Candle 1
+      - Candle 2
+      - Candle 3
       required: false
     - id: 7
       name: prayer_type
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Prayer 1''}'
-      - '{''id'': 2, ''name'': ''Prayer 2''}'
-      - '{''id'': 3, ''name'': ''Prayer 3''}'
+      - Prayer 1
+      - Prayer 2
+      - Prayer 3
       required: false
     - id: 8
       name: donation_amount
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''USD''}'
-      - '{''id'': 2, ''name'': ''EUR''}'
+      - USD
+      - EUR
       required: false
     - id: 10
       name: prayer_date
@@ -101,8 +101,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
+      - Active
+      - Inactive
       required: true
     - id: 14
       name: assign_to
@@ -110,9 +110,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''User''}'
-      - '{''id'': 2, ''name'': ''Group''}'
-      - '{''id'': 3, ''name'': ''Admin''}'
+      - User
+      - Group
+      - Admin
       required: true
     - id: 15
       name: prayer_category
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Category 1''}'
-      - '{''id'': 2, ''name'': ''Category 2''}'
-      - '{''id'': 3, ''name'': ''Category 3''}'
+      - Category 1
+      - Category 2
+      - Category 3
       required: true
     - id: 16
       name: assign_to_user
@@ -167,8 +167,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''User 1''}'
-      - '{''id'': 2, ''name'': ''User 2''}'
+      - User 1
+      - User 2
       required: false
     - id: 22
       name: assigned_at_time

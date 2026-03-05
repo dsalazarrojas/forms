@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: allergies
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Food allergy''}'
-      - '{''label'': ''Medication allergy''}'
+      - Food allergy
+      - Medication allergy
       required: false
     - id: 7
       name: medical_conditions_text

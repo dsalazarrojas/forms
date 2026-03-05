@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 7.1, ''label'': ''State 1'', ''value'': ''State 1''}'
-      - '{''id'': 7.2, ''label'': ''State 2'', ''value'': ''State 2''}'
-      - '{''id'': 7.3, ''label'': ''State 3'', ''value'': ''State 3''}'
-      - '{''id'': 7.4, ''label'': ''State 4'', ''value'': ''State 4''}'
+      - State 1
+      - State 2
+      - State 3
+      - State 4
       required: false
     - id: 8
       name: zip
@@ -97,10 +97,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 13.1, ''label'': ''Bi-Weekly'', ''value'': ''Bi-Weekly''}'
-      - '{''id'': 13.2, ''label'': ''Monthly'', ''value'': ''Monthly''}'
-      - '{''id'': 13.3, ''label'': ''Quarterly'', ''value'': ''Quarterly''}'
-      - '{''id'': 13.4, ''label'': ''Annually'', ''value'': ''Annually''}'
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 14
       name: rent_start_date
@@ -129,10 +129,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 17.1, ''label'': ''Single'', ''value'': ''Single''}'
-      - '{''id'': 17.2, ''label'': ''Double'', ''value'': ''Double''}'
-      - '{''id'': 17.3, ''label'': ''Triple'', ''value'': ''Triple''}'
-      - '{''id'': 17.4, ''label'': ''Fourplex'', ''value'': ''Fourplex''}'
+      - Single
+      - Double
+      - Triple
+      - Fourplex
       required: false
     - id: 18
       name: move_in_floor
@@ -147,8 +147,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 19.1, ''label'': True, ''value'': ''Yes''}'
-      - '{''id'': 19.2, ''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: move_out_floor
@@ -163,8 +163,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 21.1, ''label'': True, ''value'': ''Yes''}'
-      - '{''id'': 21.2, ''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: rent_status
@@ -172,9 +172,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 22.1, ''label'': ''Paid'', ''value'': ''Paid''}'
-      - '{''id'': 22.2, ''label'': ''Pending'', ''value'': ''Pending''}'
-      - '{''id'': 22.3, ''label'': ''Not Paid'', ''value'': ''Not Paid''}'
+      - Paid
+      - Pending
+      - Not Paid
       required: false
     - id: 23
       name: rent_type
@@ -182,9 +182,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 23.1, ''label'': ''Leased'', ''value'': ''Leased''}'
-      - '{''id'': 23.2, ''label'': ''Month-to-Month'', ''value'': ''Month-to-Month''}'
-      - '{''id'': 23.3, ''label'': ''Other'', ''value'': ''Other''}'
+      - Leased
+      - Month-to-Month
+      - Other
       required: false
     - id: 24
       name: renter_type
@@ -192,9 +192,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 24.1, ''label'': ''Individual'', ''value'': ''Individual''}'
-      - '{''id'': 24.2, ''label'': ''Couple'', ''value'': ''Couple''}'
-      - '{''id'': 24.3, ''label'': ''Family'', ''value'': ''Family''}'
+      - Individual
+      - Couple
+      - Family
       required: false
     - id: 25
       name: signature

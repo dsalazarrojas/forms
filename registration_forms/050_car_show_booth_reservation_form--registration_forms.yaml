@@ -202,10 +202,10 @@ inputSchema:
       hint: How many will you display?
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
-      - 4
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       - 5 or more
       required: true
     - id: 25
@@ -250,7 +250,7 @@ inputSchema:
       options:
       - Yes - 6 ft
       - Yes - 8 ft
-      - false
+      - 'False'
       required: true
     - id: 30
       name: chairs_needed
@@ -376,7 +376,7 @@ inputSchema:
       - Yes - will share on social media
       - Yes - will distribute flyers
       - Yes - both
-      - false
+      - 'False'
       required: false
     - id: 44
       name: how_heard_about_event

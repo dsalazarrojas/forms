@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - adaptation_for_screen
-      - adaptation_for_stage
-      - adaptation_for_stage_and_screen
-      - adaptation_for_other
+      - adaptation for screen
+      - adaptation for stage
+      - adaptation for stage and screen
+      - adaptation for other
       required: false
     - id: 8
       name: adaptation_for
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - adaptation_for_screen
-      - adaptation_for_stage
-      - adaptation_for_stage_and_screen
+      - adaptation for screen
+      - adaptation for stage
+      - adaptation for stage and screen
       required: false
     - id: 9
       name: request_date
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - script_status_draft
-      - script_status_preferred
-      - script_status_registered
+      - script status draft
+      - script status preferred
+      - script status registered
       required: false
     - id: 12
       name: producer_email
@@ -117,9 +117,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - adaptation_status_approved
-      - adaptation_status_pending
-      - adaptation_status_denied
+      - adaptation status approved
+      - adaptation status pending
+      - adaptation status denied
       required: false
     - id: 16
       name: review_comments
@@ -183,8 +183,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - agreement_signed_yes
-      - agreement_signed_no
+      - agreement signed yes
+      - agreement signed no
       required: false
     - id: 25
       name: agreement_signed_date

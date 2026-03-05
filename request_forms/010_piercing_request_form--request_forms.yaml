@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Eyelid'', ''value'': ''Eyelid''}'
-      - '{''label'': ''Navel'', ''value'': ''Navel''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - Eyelid
+      - Navel
+      - Other
       required: true
     - id: 5
       name: body_part
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Navel'', ''value'': ''Navel''}'
-      - '{''label'': ''Back'', ''value'': ''Back''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - Navel
+      - Back
+      - Other
       required: true
     - id: 6
       name: pain_level
@@ -50,8 +50,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1-5'', ''value'': ''1-5''}'
-      - '{''label'': ''6-10'', ''value'': ''6-10''}'
+      - 1-5
+      - 6-10
       required: true
     - id: 7
       name: note

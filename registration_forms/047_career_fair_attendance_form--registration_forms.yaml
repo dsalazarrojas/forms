@@ -1,92 +1,81 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Career Fair Attendance Form
     pages:
-      - id: 1
-        name: attendance_header
-        label: -- Attendance Registration --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: attendee_name
-        label: Attendee name
-        hint: Full name for registration
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: organization
-        label: Organization
-        hint: Employer or school
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: email
-        label: Email
-        hint: For event communications
-        type: email
-        options: []
-        required: true
-      - id: 5
-        name: role_or_major
-        label: Role or major
-        hint: Job title or student major
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: session_interests
-        label: Session interests
-        hint: Which sessions are you interested in
-        type: select_multiple
-        options:
-          - Resume reviews
-          - Employer panels
-          - Interview prep
-          - Networking events
-        required: false
-      - id: 7
-        name: accessibility_needs
-        label: Accessibility needs
-        hint: Any accommodations required
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: consent_to_share_contact
-        label: Consent to share contact with employers
-        hint: Allow employers to contact you
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 9
-        name: arrival_time_estimate
-        label: Arrival time estimate
-        hint: Expected arrival time at event
-        type: time
-        options: []
-        required: false
-      - id: 10
-        name: additional_comments
-        label: Additional comments
-        hint: Any other details for organizers
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: attendance_header
+      label: -- Attendance Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee name
+      hint: Full name for registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Employer or school
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: For event communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: role_or_major
+      label: Role or major
+      hint: Job title or student major
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_interests
+      label: Session interests
+      hint: Which sessions are you interested in
+      type: select_multiple
+      options:
+      - Resume reviews
+      - Employer panels
+      - Interview prep
+      - Networking events
+      required: false
+    - id: 7
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_to_share_contact
+      label: Consent to share contact with employers
+      hint: Allow employers to contact you
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: arrival_time_estimate
+      label: Arrival time estimate
+      hint: Expected arrival time at event
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other details for organizers
+      type: text
+      options: []
+      required: false

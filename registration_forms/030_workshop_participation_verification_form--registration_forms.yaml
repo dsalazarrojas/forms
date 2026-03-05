@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
-      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 2
       name: participant_name
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
-      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      - Option 2
+      - Option 3
       required: false
     - id: 8
       name: participant_attendance
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: participant_attendance_confirmed
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: participant_attendance_reason
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Late'', ''value'': ''late''}'
-      - '{''label'': ''No Show'', ''value'': ''no show''}'
+      - Late
+      - No Show
       required: false
     - id: 11
       name: comments
@@ -90,9 +90,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good'', ''value'': ''good''}'
-      - '{''label'': ''Bad'', ''value'': ''bad''}'
-      - '{''label'': ''Neutral'', ''value'': ''neutral''}'
+      - Good
+      - Bad
+      - Neutral
       required: false
     - id: 12
       name: participant_feedback
@@ -100,9 +100,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good'', ''value'': ''good''}'
-      - '{''label'': ''Bad'', ''value'': ''bad''}'
-      - '{''label'': ''Neutral'', ''value'': ''neutral''}'
+      - Good
+      - Bad
+      - Neutral
       required: false
     - id: 13
       name: participant_satisfaction
@@ -110,9 +110,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good'', ''value'': ''good''}'
-      - '{''label'': ''Bad'', ''value'': ''bad''}'
-      - '{''label'': ''Neutral'', ''value'': ''neutral''}'
+      - Good
+      - Bad
+      - Neutral
       required: false
     - id: 14
       name: feedback_reason
@@ -141,8 +141,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: participant_survey_reason
@@ -192,9 +192,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''On-site'', ''value'': ''on-site''}'
-      - '{''label'': ''Off-site'', ''value'': ''off-site''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - On-site
+      - Off-site
+      - Other
       required: false
     - id: 25
       name: participant_survey_additional_comments
@@ -202,6 +202,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

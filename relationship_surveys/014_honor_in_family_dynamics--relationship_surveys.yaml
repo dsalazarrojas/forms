@@ -4,133 +4,55 @@ inputSchema:
     title: Honor In Family Dynamics
     pages:
     - id: 1
-      name: honor_in_family_dynamics
-      label: what_is_honor
+      name: family_structure
+      label: How do you describe your current family structure?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - single parent family
+      - nuclear family
+      - extended family
+      - blended family
+      - other
       required: false
     - id: 2
-      name: family_structure
-      label: what_is_family
+      name: decision_making_process_husband
+      label: Do you always follow the advice of your husband/partner in decision-making?
       hint: null
-      type: select_multiple
+      type: radio
       options:
-      - mother
-      - father
-      - sibling
-      - other_relative
+      - 'True'
+      - 'False'
+      - sometimes
       required: false
     - id: 3
-      name: decision_making_process
-      label: how_do_decisions
-      hint: null
-      type: select_one
-      options:
-      - always_follow_my_husband
-      - always_follow_my_family
-      - always_follow_my_parents
-      - always_follow_my_parents
-      - always_follow_my_mother
-      - always_follow_my_son
-      - always_follow_my_wife
-      - other
-      required: false
-    - id: 4
-      name: honor_influence
-      label: how_does_honor_influence
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: conflict_resolution
-      label: how_do_youresolve
+      name: honor_influence_family
+      label: How does the concept of honor influence your relationships within your
+        family?
       hint: null
       type: select_multiple
       options:
-      - always_argue
-      - sometimes_argue
-      - rarely_argue
-      - never_argue
+      - very important
+      - somewhat important
+      - not very important
+      - not at all
       required: false
-    - id: 6
-      name: emotions_in_conflict
-      label: how_do_you_feel
-      hint: null
-      type: select_one
-      options:
-      - angry
-      - sad
-      - happy
-      - neutral
-      required: false
-    - id: 7
-      name: relationship_quality
-      label: how_good
-      hint: null
-      type: select_one
-      options:
-      - good
-      - bad
-      - neutral
-      required: true
-    - id: 8
-      name: family_member_participation
-      label: who_is_involved
-      hint: null
-      type: select_one
-      options:
-      - everyone
-      - parents
-      - children
-      - spouse
-      - other
-      required: false
-    - id: 9
-      name: honor_influence_level
-      label: level_of_honor
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: honor_influence_source
-      label: where_did_you_get
-      hint: null
-      type: select_one
-      options:
-      - family
-      - friends
-      - school
-      - other
-      required: false
-    - id: 11
-      name: honor_influence_type
-      label: what_type_of_honor
-      hint: null
-      type: select_one
-      options:
-      - cultural
-      - religious
-      - societal
-      - personal
-      required: false
-    - id: 12
+    - id: 4
       name: conflict_resolution_strategies
-      label: how_do_you_resolve
+      label: What are your conflict resolution strategies when disagreements arise
+        within your family?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - seek_help
+      - seek help
       - avoid
       - compromise
-      - give_in
+      - give in
       - take
       required: true
-    - id: 13
+    - id: 5
       name: relationship_expectations
-      label: what_do_you_expect
+      label: What do you expect from your relationships within your family?
       hint: null
       type: select_multiple
       options:
@@ -141,90 +63,37 @@ inputSchema:
       - commitment
       - other
       required: false
-    - id: 14
-      name: honor_influence_source
-      label: where_did_you_get_honor
+    - id: 6
+      name: emotions_in_conflict
+      label: How do you feel when conflicts arise within your family?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - family
-      - friends
-      - school
-      - other
+      - angry
+      - sad
+      - happy
+      - neutral
       required: false
-    - id: 15
-      name: family_dynamics
-      label: what_are_family_dynamics
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: honor_value_scale
-      label: how_important
-      hint: null
-      type: select_one
-      options:
-      - very_important
-      - somewhat_important
-      - not_very_important
-      - not_at_all
-      required: false
-    - id: 17
-      name: honor_importance
-      label: what_did_you_learn
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
+    - id: 7
       name: conflict_resolution_effect
-      label: how_do_conflicts_affect
+      label: How do conflicts affect the dynamics of your family relationships?
       hint: null
       type: select_one
       options:
-      - affect_family_happiness
-      - affect_relationships_with_others
-      - have_no_effect
+      - affect family happiness
+      - affect relationships with others
+      - have no effect
       required: true
-    - id: 19
-      name: honor_influence_factors
-      label: what_factors
+    - id: 8
+      name: honor_importance
+      label: How important is the concept of honor to you in your family relationships?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
-    - id: 20
-      name: family_dynamics_description
-      label: what_are_your_family_dynamics
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: honor_value
-      label: what_is_honor
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: honor_definition
-      label: what_is_honor
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: honor_concept
-      label: what_is_honor
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
+    - id: 9
       name: honor_characteristics
-      label: what_characteristics
+      label: What are some key characteristics of honor in your family?
       hint: null
       type: select_multiple
       options:
@@ -233,9 +102,79 @@ inputSchema:
       - loyalty
       - other
       required: false
-    - id: 25
-      name: honor_importance_influence
-      label: why_is_honor
+    - id: 10
+      name: conflict_resolution_strategies_2
+      label: What conflict resolution strategies do you use in your family?
+      hint: null
+      type: select_multiple
+      options:
+      - seek help
+      - avoid
+      - compromise
+      - give in
+      - take
+      required: true
+    - id: 11
+      name: conflict_resolution_effect_2
+      label: How do you resolve conflicts within your family?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: honor_factors
+      label: What factors influence the concept of honor in your family?
+      hint: null
+      type: select_multiple
+      options:
+      - cultural
+      - religious
+      - societal
+      - personal
+      required: false
+    - id: 13
+      name: conflict_resolution_strategies_3
+      label: Conflict Resolution Strategies 3
+      hint: null
+      type: select_multiple
+      options:
+      - seek help
+      - avoid
+      - compromise
+      - give in
+      - take
+      required: true
+    - id: 14
+      name: family_dynamics_description
+      label: What are your family dynamics like?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: honor_concept
+      label: What is honor in your family?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: honor_value
+      label: What is the value of honor in your family?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: honor_definition
+      label: What is the definition of honor in your family?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: honor_importance_2
+      label: Why is honor important in your family?
       hint: null
       type: text
       options: []

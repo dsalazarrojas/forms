@@ -211,8 +211,8 @@ inputSchema:
       hint: Can you move for this position
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Maybe - depends on opportunity
       required: true
     - id: 26
@@ -221,7 +221,7 @@ inputSchema:
       hint: Have you attached your resume
       type: select_one
       options:
-      - true
+      - 'True'
       - Will send later
       - Not yet
       required: true
@@ -231,8 +231,8 @@ inputSchema:
       hint: Have you attached a cover letter
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not required
       required: false
     - id: 28

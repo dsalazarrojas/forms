@@ -4,25 +4,46 @@ inputSchema:
     title: sales_prospecting_management_form
     pages:
     - id: 1
-      name: prospecting_form_1
-      label: sales_order_forms
+      name: sales_stage
+      label: Sales Stage
       hint: null
       type: select_one
       options:
-      - Form1
-      - Form2
-      - Form3
-      required: false
+      - Stage1
+      - Stage2
+      - Stage3
+      required: true
     - id: 2
-      name: customer_data_1
-      label: customer_name
-      hint: Enter customer name here
+      name: customer_name
+      label: Customer Name
+      hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: sales_rep_1
-      label: sales_rep
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: sales_rep
+      label: Sales Rep
       hint: null
       type: select_one
       options:
@@ -30,9 +51,9 @@ inputSchema:
       - Sales Rep2
       - Sales Rep3
       required: true
-    - id: 4
-      name: sales_manager_1
-      label: sales_manager
+    - id: 7
+      name: sales_manager
+      label: Sales Manager
       hint: null
       type: select_multiple
       options:
@@ -40,30 +61,9 @@ inputSchema:
       - Sales Manager2
       - Sales Manager3
       required: true
-    - id: 5
-      name: customer_address_1
-      label: customer_address
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: email_1
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 7
-      name: phone_number_1
-      label: phone_number
-      hint: null
-      type: text
-      options: []
-      required: true
     - id: 8
-      name: sales_stage_1
-      label: sales_stage
+      name: sales_stage_email
+      label: Sales Stage Email
       hint: null
       type: select_one
       options:
@@ -72,76 +72,15 @@ inputSchema:
       - Stage3
       required: true
     - id: 9
-      name: customer_data_2
-      label: customer_email
-      hint: Enter customer email here
+      name: customer_note
+      label: Customer Note
+      hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: sales_manager_2
-      label: sales_manager_email
-      hint: null
-      type: select_one
-      options:
-      - Sales Manager1
-      - Sales Manager2
-      - Sales Manager3
-      required: false
-    - id: 11
-      name: customer_data_3
-      label: customer_phone
-      hint: Enter customer phone number here
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: sales_rep_2
-      label: sales_rep_email
-      hint: null
-      type: select_one
-      options:
-      - Sales Rep1
-      - Sales Rep2
-      - Sales Rep3
-      required: true
-    - id: 13
-      name: sales_stage_2
-      label: sales_stage_email
-      hint: null
-      type: select_one
-      options:
-      - Stage1
-      - Stage2
-      - Stage3
-      required: false
-    - id: 14
-      name: customer_address_2
-      label: customer_address_email
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: sales_manager_3
-      label: sales_manager_phone
-      hint: null
-      type: select_one
-      options:
-      - Sales Manager1
-      - Sales Manager2
-      - Sales Manager3
-      required: true
-    - id: 16
-      name: customer_data_4
-      label: customer_note
-      hint: Enter customer note here
-      type: text
-      options: []
-      required: false
-    - id: 17
       name: sales_prospecting_manager
-      label: sales_prospecting_manager
+      label: Sales Prospecting Manager
       hint: null
       type: select_one
       options:
@@ -149,71 +88,3 @@ inputSchema:
       - Sales Prospecting Manager2
       - Sales Prospecting Manager3
       required: true
-    - id: 18
-      name: customer_note
-      label: customer_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: sales_stage_3
-      label: sales_stage
-      hint: null
-      type: select_one
-      options:
-      - Stage1
-      - Stage2
-      - Stage3
-      required: true
-    - id: 20
-      name: sales_manager_4
-      label: sales_manager
-      hint: null
-      type: select_multiple
-      options:
-      - Sales Manager1
-      - Sales Manager2
-      - Sales Manager3
-      required: true
-    - id: 21
-      name: customer_email_2
-      label: customer_email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 22
-      name: phone_number_2
-      label: phone_number
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: customer_address_2
-      label: customer_address
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: sales_stage_4
-      label: sales_stage
-      hint: null
-      type: select_one
-      options:
-      - Stage1
-      - Stage2
-      - Stage3
-      required: true
-    - id: 25
-      name: sales_rep_3
-      label: sales_rep
-      hint: null
-      type: select_one
-      options:
-      - Sales Rep1
-      - Sales Rep2
-      - Sales Rep3
-      required: false

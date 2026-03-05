@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Home''}'
-      - '{''id'': 2, ''label'': ''Work''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Home
+      - Work
+      - Other
       required: false
     - id: 3
       name: product_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Browser Extension''}'
-      - '{''id'': 2, ''label'': ''Mobile App''}'
-      - '{''id'': 3, ''label'': ''Web App''}'
+      - Browser Extension
+      - Mobile App
+      - Web App
       required: false
     - id: 4
       name: design_request
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - chatjimmy
+      - Other
       required: false
     - id: 10
       name: submission_status
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pending''}'
-      - '{''id'': 2, ''label'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Done''}'
+      - Pending
+      - In Progress
+      - Done
       required: false
     - id: 11
       name: notes

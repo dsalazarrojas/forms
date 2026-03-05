@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: true
     - id: 3
       name: project_description
@@ -165,8 +165,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 24, ''label'': ''Active''}'
-      - '{''id'': 25, ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 24
       name: assigned_tool
@@ -174,8 +174,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''other''}'
+      - chatjimmy
+      - other
       required: true
     - id: 25
       name: comments

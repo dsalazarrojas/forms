@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Website''}'
-      - '{''id'': 2, ''label'': ''Mobile App''}'
-      - '{''id'': 3, ''label'': ''E-commerce''}'
+      - Website
+      - Mobile App
+      - E-commerce
       required: false
     - id: 5
       name: content_request_type
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Text''}'
-      - '{''id'': 2, ''label'': ''Image''}'
-      - '{''id'': 3, ''label'': ''Video''}'
+      - Text
+      - Image
+      - Video
       required: false
     - id: 6
       name: description
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: submit_reason

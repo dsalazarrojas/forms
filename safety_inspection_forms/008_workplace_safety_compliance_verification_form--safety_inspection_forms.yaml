@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Partially Trained''}'
+      - 'True'
+      - 'False'
+      - Partially Trained
       required: true
     - id: 3
       name: safety_practices
@@ -26,8 +26,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: regulatory_requirements
@@ -49,8 +49,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: safety_equipment
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Complete''}'
-      - '{''id'': 2, ''name'': ''Partially''}'
-      - '{''id'': 3, ''name'': ''None''}'
+      - Complete
+      - Partially
+      - None
       required: false
     - id: 8
       name: employee_involvement
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: training_programs
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Complete''}'
-      - '{''id'': 2, ''name'': ''Partial''}'
+      - Complete
+      - Partial
       required: false
     - id: 10
       name: safety_equipment_testing
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: safety_inspection_frequency
@@ -95,10 +95,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Monthly''}'
-      - '{''id'': 4, ''name'': ''Quarterly''}'
-      - '{''id'': 5, ''name'': ''Other''}'
-      - '{''id'': 6, ''name'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Other
+      - Never
       required: false

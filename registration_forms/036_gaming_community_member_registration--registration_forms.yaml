@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Member''}'
-      - '{''label'': ''Moderator''}'
-      - '{''label'': ''Admin''}'
+      - Member
+      - Moderator
+      - Admin
       required: false
     - id: 5
       name: discord_tag
@@ -89,8 +89,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: other_member_of
@@ -147,10 +147,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''UTC-0''}'
-      - '{''label'': ''UTC+1''}'
-      - '{''label'': ''UTC+2''}'
-      - '{''label'': ''UTC+3''}'
+      - UTC-0
+      - UTC+1
+      - UTC+2
+      - UTC+3
       required: false
     - id: 21
       name: country
@@ -158,18 +158,18 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''United States''}'
-      - '{''label'': ''Canada''}'
-      - '{''label'': ''Mexico''}'
-      - '{''label'': ''United Kingdom''}'
-      - '{''label'': ''Australia''}'
-      - '{''label'': ''Japan''}'
-      - '{''label'': ''China''}'
-      - '{''label'': ''India''}'
-      - '{''label'': ''South Africa''}'
-      - '{''label'': ''Germany''}'
-      - '{''label'': ''France''}'
-      - '{''label'': ''Other''}'
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Australia
+      - Japan
+      - China
+      - India
+      - South Africa
+      - Germany
+      - France
+      - Other
       required: false
     - id: 22
       name: language
@@ -177,14 +177,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''French''}'
-      - '{''label'': ''Spanish''}'
-      - '{''label'': ''Chinese''}'
-      - '{''label'': ''Japanese''}'
-      - '{''label'': ''German''}'
-      - '{''label'': ''Korean''}'
-      - '{''label'': ''Other''}'
+      - English
+      - French
+      - Spanish
+      - Chinese
+      - Japanese
+      - German
+      - Korean
+      - Other
       required: false
     - id: 23
       name: age

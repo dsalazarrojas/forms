@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''John Doe''}'
-      - '{''name'': ''Jane Doe''}'
-      - '{''name'': ''Other''}'
+      - John Doe
+      - Jane Doe
+      - Other
       required: false
     - id: 6
       name: department
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Accounting''}'
-      - '{''name'': ''Management''}'
-      - '{''name'': ''Sales''}'
+      - Accounting
+      - Management
+      - Sales
       required: false
     - id: 7
       name: phone_number
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True}'
-      - '{''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: reason_for_release

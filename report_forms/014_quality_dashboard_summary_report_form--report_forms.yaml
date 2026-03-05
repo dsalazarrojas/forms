@@ -4,8 +4,8 @@ inputSchema:
     title: Quality Dashboard Summary Report Form
     pages:
     - id: 1
-      name: form_1
-      label: Quality Dashboard
+      name: team_performance
+      label: Team Performance
       hint: null
       type: select_one
       options:
@@ -13,178 +13,76 @@ inputSchema:
       - Poor
       required: false
     - id: 2
-      name: form_2
-      label: Team
+      name: team_participation
+      label: Team Participation
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
-      name: form_3
-      label: Total Issues
+      name: issues_reported
+      label: Number of Issues Reported
       hint: null
       type: number
       options: []
       required: false
     - id: 4
-      name: form_4
+      name: issues_resolved
       label: Number of Issues Resolved
       hint: null
       type: number
       options: []
       required: false
     - id: 5
-      name: form_5
+      name: total_score
       label: Total Score
       hint: null
       type: number
       options: []
       required: false
     - id: 6
-      name: form_6
-      label: Date
+      name: report_date
+      label: Report Date
       hint: null
       type: date
       options: []
       required: false
     - id: 7
-      name: form_7
-      label: Time
+      name: report_time
+      label: Report Time
       hint: null
       type: time
       options: []
       required: false
     - id: 8
-      name: form_8
-      label: Email
+      name: team_email
+      label: Team Email
       hint: null
       type: email
       options: []
       required: false
     - id: 9
-      name: form_9
-      label: Phone
+      name: team_phone
+      label: Team Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: form_10
-      label: Note
+      name: team_note
+      label: Additional Note for Team
       hint: null
       type: note
       options: []
       required: false
     - id: 11
-      name: form_11
+      name: quality_kpis
       label: Quality KPIs
       hint: null
       type: select_multiple
       options:
       - Good
       - Poor
-      required: false
-    - id: 12
-      name: form_12
-      label: Total Score
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: form_13
-      label: Quality KPIs
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Poor
-      required: false
-    - id: 14
-      name: form_14
-      label: Quality Score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: form_15
-      label: Quality Score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: form_16
-      label: Quality Score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: form_17
-      label: Score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: form_18
-      label: Score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: form_19
-      label: Score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: form_20
-      label: Score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: form_21
-      label: Score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: form_22
-      label: Score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: form_23
-      label: Score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: form_24
-      label: Score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: form_25
-      label: Score
-      hint: null
-      type: number
-      options: []
       required: false

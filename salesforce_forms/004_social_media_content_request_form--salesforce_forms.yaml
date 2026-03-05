@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Video''}'
-      - '{''text'': ''Image''}'
-      - '{''text'': ''Post''}'
+      - Video
+      - Image
+      - Post
       required: true
     - id: 4
       name: content_description
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Facebook''}'
-      - '{''text'': ''Twitter''}'
-      - '{''text'': ''Instagram''}'
+      - Facebook
+      - Twitter
+      - Instagram
       required: true
     - id: 6
       name: content_publishing_schedule
@@ -50,10 +50,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Daily''}'
-      - '{''text'': ''Weekly''}'
-      - '{''text'': ''Bi-Weekly''}'
-      - '{''text'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
       required: false
     - id: 7
       name: additional_details
@@ -145,9 +145,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Approved''}'
-      - '{''text'': ''Rejected''}'
-      - '{''text'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: true
     - id: 20
       name: request_notes

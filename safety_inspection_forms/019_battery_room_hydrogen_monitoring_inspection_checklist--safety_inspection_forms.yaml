@@ -89,7 +89,7 @@ inputSchema:
       options:
       - Yes - Working
       - Yes - Failed
-      - false
+      - 'False'
       required: true
     - id: 12
       name: emergency_lighting
@@ -109,7 +109,7 @@ inputSchema:
       options:
       - Yes - In Date
       - Yes - Expired
-      - false
+      - 'False'
       required: true
     - id: 14
       name: eyewash_station
@@ -158,8 +158,8 @@ inputSchema:
       hint: Any electrolyte leaks
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: temperature_reading

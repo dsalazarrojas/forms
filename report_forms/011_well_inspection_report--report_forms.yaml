@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Caution''}'
-      - '{''id'': 3, ''label'': ''Critical''}'
-      - '{''id'': 4, ''label'': ''N/A''}'
+      - Good
+      - Caution
+      - Critical
+      - N/A
       required: true
     - id: 6
       name: inspection_date
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Repair''}'
-      - '{''id'': 2, ''label'': ''Replace''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Repair
+      - Replace
+      - Other
       required: false
     - id: 10
       name: recommended_actions_others
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - John Doe
+      - Jane Doe
+      - Other
       required: true
     - id: 12
       name: assigned_inspector_others
@@ -103,7 +103,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: true
     - id: 14
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - John Doe
+      - Jane Doe
+      - Other
       required: false
     - id: 15
       name: assigned_manager_others

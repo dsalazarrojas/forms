@@ -37,10 +37,9 @@ inputSchema:
       hint: Select the program you are interested in
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: mentee_name
@@ -51,21 +50,21 @@ inputSchema:
       required: false
     - id: 7
       name: mentee_email
-      label: Email
+      label: Mentee Email
       hint: null
       type: email
       options: []
       required: false
     - id: 8
       name: mentee_phone
-      label: Phone
+      label: Mentee Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 9
       name: mentee_bio
-      label: Bio
+      label: Mentee Bio
       hint: A brief description of the mentee
       type: text
       options: []

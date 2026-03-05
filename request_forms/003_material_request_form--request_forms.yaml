@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''name'': ''Paint''}'
-      - '{''id'': 1, ''name'': ''Tools''}'
-      - '{''id'': 2, ''name'': ''Supplies''}'
+      - Paint
+      - Tools
+      - Supplies
       required: false
     - id: 3
       name: building_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''name'': ''New Construction''}'
-      - '{''id'': 1, ''name'': ''Renovation''}'
-      - '{''id'': 2, ''name'': ''Repairs''}'
+      - New Construction
+      - Renovation
+      - Repairs
       required: false
     - id: 4
       name: quantity
@@ -43,10 +43,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''name'': ''Builders''}'
-      - '{''id'': 1, ''name'': ''Architects''}'
-      - '{''id'': 2, ''name'': ''Development Directors''}'
-      - '{''id'': 3, ''name'': ''Property Managers''}'
+      - Builders
+      - Architects
+      - Development Directors
+      - Property Managers
       required: false
     - id: 6
       name: building_material
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''name'': ''Paint''}'
-      - '{''id'': 1, ''name'': ''Tools''}'
-      - '{''id'': 2, ''name'': ''Supplies''}'
+      - Paint
+      - Tools
+      - Supplies
       required: false
     - id: 7
       name: project_manager
@@ -64,7 +64,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''name'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 8
@@ -80,7 +80,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''name'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 10

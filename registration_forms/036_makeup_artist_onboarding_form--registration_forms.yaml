@@ -6,39 +6,28 @@ inputSchema:
     - id: 1
       name: artist_info
       label: Artist Information
-      hint: null
+      hint: Enter your artist name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: contact_info
       label: Contact Information
-      hint: null
+      hint: Enter your contact details
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: availability
       label: Availability
-      hint: null
-      type: number
+      hint: Select your availability
+      type: date
       options: []
-      required: false
+      required: true
     - id: 4
       name: work_experience
       label: Work Experience
-      hint: null
-      type: select_multiple
-      options:
-      - 5 years
-      - 10 years
-      - 15 years
-      - 20 years
-      required: false
-    - id: 5
-      name: education
-      label: Education
-      hint: null
+      hint: Select your work experience
       type: select_one
       options:
       - High School
@@ -46,126 +35,64 @@ inputSchema:
       - Some College
       - Bachelor's Degree
       - Master's Degree
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: experience_photoshop
       label: Experience in Photoshop
-      hint: null
-      type: select_multiple
+      hint: Select your experience level
+      type: select_one
       options:
       - Basic
       - Intermediate
       - Advanced
       - Expert
-      required: false
-    - id: 7
-      name: experience_makeup_artist_tools
+      required: true
+    - id: 6
+      name: experience_tools
       label: Experience with Makeup Artist Tools
-      hint: null
+      hint: Select your experience level
       type: select_one
       options:
       - None
-      - Waxes
       - Brushes
+      - Waxes
       - Makeup machines
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: experience_photography
       label: Experience with Photography
-      hint: null
-      type: select_multiple
+      hint: Select your experience level
+      type: select_one
       options:
       - None
       - Basic
       - Intermediate
       - Advanced
-      required: false
-    - id: 9
-      name: work_availability
-      label: Work Availability
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: work_availability_end_date
-      label: End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 8
       name: work_location
       label: Work Location
-      hint: null
-      type: select_multiple
+      hint: Select your work location
+      type: select_one
       options:
       - Online
       - In-store
       - Studio
-      required: false
-    - id: 12
-      name: availability
-      label: Availability
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: availability_2
-      label: Availability
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: availability_3
-      label: Availability
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: work_hours
-      label: Work Hours
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: payment
-      label: Payment
-      hint: null
-      type: select_multiple
+      required: true
+    - id: 9
+      name: payment_rate
+      label: Payment Rate
+      hint: Select your payment rate
+      type: select_one
       options:
       - $20/hour
       - $30/hour
       - $40/hour
-      required: false
-    - id: 17
-      name: payment_2
-      label: Payment
-      hint: null
-      type: select_multiple
-      options:
-      - $25/hour
-      - $35/hour
-      - $45/hour
-      required: false
-    - id: 18
-      name: payment_3
-      label: Payment
-      hint: null
-      type: select_multiple
-      options:
-      - $30/hour
-      - $40/hour
-      - $50/hour
-      required: false
-    - id: 19
+      required: true
+    - id: 10
       name: work_schedule
       label: Work Schedule
-      hint: null
+      hint: Select your work schedule
       type: select_multiple
       options:
       - Monday
@@ -175,88 +102,11 @@ inputSchema:
       - Friday
       - Saturday
       - Sunday
-      required: false
-    - id: 20
-      name: work_schedule_2
-      label: Work Schedule
-      hint: null
-      type: select_multiple
-      options:
-      - Monday
-      - Tuesday
-      - Wednesday
-      - Thursday
-      - Friday
-      - Saturday
-      - Sunday
-      required: false
-    - id: 21
-      name: work_schedule_3
-      label: Work Schedule
-      hint: null
-      type: select_multiple
-      options:
-      - Monday
-      - Tuesday
-      - Wednesday
-      - Thursday
-      - Friday
-      - Saturday
-      - Sunday
-      required: false
-    - id: 22
-      name: work_schedule_4
-      label: Work Schedule
-      hint: null
-      type: select_multiple
-      options:
-      - Monday
-      - Tuesday
-      - Wednesday
-      - Thursday
-      - Friday
-      - Saturday
-      - Sunday
-      required: false
-    - id: 23
-      name: work_schedule_5
-      label: Work Schedule
-      hint: null
-      type: select_multiple
-      options:
-      - Monday
-      - Tuesday
-      - Wednesday
-      - Thursday
-      - Friday
-      - Saturday
-      - Sunday
-      required: false
-    - id: 24
-      name: work_schedule_6
-      label: Work Schedule
-      hint: null
-      type: select_multiple
-      options:
-      - Monday
-      - Tuesday
-      - Wednesday
-      - Thursday
-      - Friday
-      - Saturday
-      - Sunday
-      required: false
-    - id: 25
-      name: work_schedule_7
-      label: Work Schedule
-      hint: null
-      type: select_multiple
-      options:
-      - Monday
-      - Tuesday
-      - Wednesday
-      - Thursday
-      - Friday
-      - Saturday
-      - Sunday
-      required: false
+      required: true
+    - id: 11
+      name: end_date
+      label: End Date
+      hint: Select your end date
+      type: date
+      options: []
+      required: true

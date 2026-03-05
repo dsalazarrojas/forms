@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Condo''}'
-      - '{''id'': 2, ''label'': ''Single Family Home''}'
-      - '{''id'': 3, ''label'': ''Townhouse''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Condo
+      - Single Family Home
+      - Townhouse
+      - Other
       required: false
     - id: 2
       name: number_of_bedrooms
@@ -20,10 +20,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': 1}'
-      - '{''id'': 2, ''label'': 2}'
-      - '{''id'': 3, ''label'': 3}'
-      - '{''id'': 4, ''label'': ''4 or more''}'
+      - '1'
+      - '2'
+      - '3'
+      - 4 or more
       required: false
     - id: 3
       name: price_range
@@ -31,9 +31,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Under 200,000''}'
-      - '{''id'': 2, ''label'': ''200,000-400,000''}'
-      - '{''id'': 3, ''label'': ''400,000 or more''}'
+      - Under 200,000
+      - 200,000-400,000
+      - 400,000 or more
       required: false
     - id: 4
       name: location
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''City''}'
-      - '{''id'': 2, ''label'': ''Suburb''}'
-      - '{''id'': 3, ''label'': ''Rural''}'
+      - City
+      - Suburb
+      - Rural
       required: false
     - id: 5
       name: desired_move_in_date
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''French''}'
+      - English
+      - Spanish
+      - French
       required: false
     - id: 8
       name: preferred_contact_method
@@ -75,7 +75,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Phone''}'
-      - '{''id'': 2, ''label'': ''Email''}'
-      - '{''id'': 3, ''label'': ''In Person''}'
+      - Phone
+      - Email
+      - In Person
       required: false

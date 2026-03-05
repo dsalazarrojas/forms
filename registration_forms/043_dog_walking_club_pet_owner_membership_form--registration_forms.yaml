@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Monthly'', ''value'': ''Monthly''}'
-      - '{''label'': ''Quarterly'', ''value'': ''Quarterly''}'
-      - '{''label'': ''Annually'', ''value'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 13
       name: start_date
@@ -110,9 +110,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Online'', ''value'': ''Online''}'
-      - '{''label'': ''Offline'', ''value'': ''Offline''}'
-      - '{''label'': ''Both'', ''value'': ''Both''}'
+      - Online
+      - Offline
+      - Both
       required: false
     - id: 16
       name: pet_insurance
@@ -120,8 +120,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: walk_frequency
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily'', ''value'': ''Daily''}'
-      - '{''label'': ''3-4 Times a Week'', ''value'': ''3-4 Times a Week''}'
-      - '{''label'': ''2-3 Times a Month'', ''value'': ''2-3 Times a Month''}'
+      - Daily
+      - 3-4 Times a Week
+      - 2-3 Times a Month
       required: false
     - id: 18
       name: start_date2
@@ -188,7 +188,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active'', ''value'': ''Active''}'
-      - '{''label'': ''Inactive'', ''value'': ''Inactive''}'
-      - '{''label'': ''Expired'', ''value'': ''Expired''}'
+      - Active
+      - Inactive
+      - Expired
       required: false

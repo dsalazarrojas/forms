@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 3
       name: safety_checklist
@@ -37,15 +26,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Trigger is safe to use''}'
-      - '{''label'': ''Safety is engaged properly''}'
-      - '{''label'': ''Trigger is locked and safe''}'
-      - '{''label'': ''Trigger is not locked and safe''}'
-      - '{''label'': ''Magazine release is functional''}'
-      - '{''label'': ''Ejector is functional''}'
-      - '{''label'': ''Magazine is properly seated''}'
-      - '{''label'': ''Chamber is clear''}'
-      - '{''label'': ''Barrel is free from obstructions''}'
+      - Trigger is safe to use
+      - Safety is engaged properly
+      - Trigger is locked and safe
+      - Trigger is not locked and safe
+      - Magazine release is functional
+      - Ejector is functional
+      - Magazine is properly seated
+      - Chamber is clear
+      - Barrel is free from obstructions
       required: false
     - id: 4
       name: maintenance_record
@@ -60,19 +49,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Glock 19''}'
-      - '{''label'': ''Glock 20''}'
-      - '{''label'': ''Glock 21''}'
-      - "label:\u0E1B\u0E23\u0E30\u0E01 Glock 22"
-      - '{''label'': ''Glock 23''}'
-      - '{''label'': ''Glock 24''}'
-      - '{''label'': ''Glock 25''}'
-      - '{''label'': ''Glock 26''}'
-      - '{''label'': ''Glock 27''}'
-      - '{''label'': ''Glock 28''}'
-      - '{''label'': ''Glock 29''}'
-      - '{''label'': ''Glock 30''}'
-      - '{''label'': ''Glock 31''}'
+      - Glock 19
+      - Glock 20
+      - Glock 21
+      - label:ประก Glock 22
+      - Glock 23
+      - Glock 24
+      - Glock 25
+      - Glock 26
+      - Glock 27
+      - Glock 28
+      - Glock 29
+      - Glock 30
+      - Glock 31
       required: false
     - id: 6
       name: inspection_date
@@ -87,11 +76,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Operational''}'
-      - '{''label'': ''Damaged''}'
-      - '{''label'': ''Functional''}'
-      - '{''label'': ''Non-Operational''}'
-      - '{''label'': ''Requires Maintenance''}'
+      - Operational
+      - Damaged
+      - Functional
+      - Non-Operational
+      - Requires Maintenance
       required: false
     - id: 8
       name: inspection_status
@@ -99,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Incomplete''}'
-      - '{''label'': ''Complete''}'
-      - '{''label'': ''Not Inspected''}'
+      - Incomplete
+      - Complete
+      - Not Inspected
       required: false
     - id: 9
       name: glock_maintenance_record

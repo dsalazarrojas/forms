@@ -4,94 +4,144 @@ inputSchema:
     title: Game Schedule Submission Form
     pages:
     - id: 1
-      name: user_input_1
+      name: team_info_1
       label: Team Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: user_input_2
+      name: team_info_2
       label: Team Size
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: user_input_3
-      label: Schedule Dates
+      name: multiple_schedules_3
+      label: Multiple Schedules
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: schedule_start_date_4
+      label: Schedule Start Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 4
-      name: user_input_4
-      label: Schedule Time
+      required: true
+    - id: 5
+      name: schedule_end_date_5
+      label: Schedule End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: schedule_time_6
+      label: Schedule Start Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 5
-      name: user_input_5
-      label: Game Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: user_input_6
-      label: Schedule
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true
     - id: 7
-      name: user_input_7
-      label: Venue
+      name: schedule_end_time_7
+      label: Schedule End Time
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 8
-      name: user_input_8
-      label: Team Size
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: user_input_9
+      name: game_type_8
       label: Game Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: user_input_10
-      label: Schedule
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: game_type_9
+      label: Multiple Game Types
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: user_input_11
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: venue_info_10
       label: Venue
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 11
+      name: multiple_venues_11
+      label: Multiple Venues
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 12
-      name: user_input_12
-      label: Team Size
+      name: team_size_12
+      label: Team Size 12
       hint: null
       type: number
       options: []
-      required: false
+      required: true
+    - id: 13
+      name: capacity_13
+      label: Estimated Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: open_to_public_14
+      label: Open to Public
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: fee_15
+      label: Game Fee
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: fee_waiver_16
+      label: Fee Waiver
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: confirm_submission_17
+      label: Confirm Your Schedule Submission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: confirmation_18
+      label: Is This Correct?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

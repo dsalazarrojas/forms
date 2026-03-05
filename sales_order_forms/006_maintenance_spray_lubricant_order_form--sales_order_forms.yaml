@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Lubri 1'', ''label'': ''Lubri 1''}'
-      - '{''value'': ''Lubri 2'', ''label'': ''Lubri 2''}'
+      - Lubri 1
+      - Lubri 2
       required: false
     - id: 3
       name: spray_concentration
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''1%'', ''label'': ''1%''}'
-      - '{''value'': ''2%'', ''label'': ''2%''}'
-      - '{''value'': ''5%'', ''label'': ''5%''}'
+      - 1%
+      - 2%
+      - 5%
       required: false
     - id: 4
       name: delivery_date
@@ -77,7 +77,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 11
@@ -86,6 +86,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''In Progress'', ''label'': ''In Progress''}'
-      - '{''value'': ''Completed'', ''label'': ''Completed''}'
+      - In Progress
+      - Completed
       required: false

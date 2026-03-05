@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Good'', ''text'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Bad'', ''text'': ''Bad''}'
+      - Good
+      - Bad
       required: false
     - id: 4
       name: damage_present
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''text'': True}'
-      - '{''id'': 2, ''name'': False, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: damage_details
@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''text'': True}'
-      - '{''id'': 2, ''name'': False, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: additional_comments

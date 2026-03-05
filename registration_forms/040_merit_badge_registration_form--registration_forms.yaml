@@ -4,7 +4,7 @@ inputSchema:
     title: Merit Badge Registration Form
     pages:
     - id: 1
-      name: name
+      name: registration_info
       label: Registration Information
       hint: null
       type: text
@@ -19,168 +19,76 @@ inputSchema:
       required: false
     - id: 3
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
       required: false
     - id: 4
       name: phone
-      label: phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: date
-      label: date
+      label: Date
       hint: null
       type: date
       options: []
       required: false
     - id: 6
-      name: name
-      label: Name
+      name: time
+      label: Time
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 7
-      name: name
-      label: Name
+      name: name_2
+      label: Name 2
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: name
-      label: Name
+      name: name_3
+      label: Name 3
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: name
-      label: Name
+      name: select_option
+      label: Select Option
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
       required: false
     - id: 10
-      name: name
-      label: Name
+      name: checkbox_option
+      label: Checkbox Option
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option 1
+      - Option 2
       required: false
     - id: 11
-      name: name
-      label: Name
+      name: radio_option
+      label: Radio Option
       hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - Option 1
+      - Option 2
       required: false
     - id: 12
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: name
-      label: Name
+      name: note_field
+      label: Note
       hint: null
       type: text
       options: []

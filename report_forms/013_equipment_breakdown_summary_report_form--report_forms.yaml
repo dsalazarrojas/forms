@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Maintenance Team''}'
-      - '{''value'': ''Operations Team''}'
-      - '{''value'': ''Both''}'
-      - '{''value'': ''Not Specified''}'
+      - Maintenance Team
+      - Operations Team
+      - Both
+      - Not Specified
       required: false
     - id: 10
       name: repair_status
@@ -76,10 +76,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Completed''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Not Started''}'
-      - '{''value'': ''Cancelled''}'
+      - Completed
+      - In Progress
+      - Not Started
+      - Cancelled
       required: false
     - id: 11
       name: comments
@@ -94,11 +94,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Operational''}'
-      - '{''value'': ''Maintenance''}'
-      - '{''value'': ''Not Available''}'
-      - '{''value'': ''Other''}'
-      - '{''value'': ''Unknown''}'
+      - Operational
+      - Maintenance
+      - Not Available
+      - Other
+      - Unknown
       required: false
     - id: 13
       name: priority
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 14
       name: equipment_tag
@@ -116,11 +116,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Critical''}'
-      - '{''value'': ''Important''}'
-      - '{''value'': ''Non-Critical''}'
-      - '{''value'': ''Not Tagged''}'
-      - '{''value'': ''Unknown''}'
+      - Critical
+      - Important
+      - Non-Critical
+      - Not Tagged
+      - Unknown
       required: false
     - id: 15
       name: notes

@@ -15,86 +15,199 @@ inputSchema:
     title: Manufacturing Daily Production Submission Form
     pages:
     - id: 1
-      name: none
-      label: None
+      name: product_name
+      label: Product Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: none
-      label: None
+      name: manufacturing_process
+      label: Manufacturing Process
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: none
-      label: None
+      name: production_quantity
+      label: Total Production Quantity
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: none
-      label: None
+      name: next_three_days
+      label: Next 3 Days' Production Quantity
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 1-2
+      - 2-5
+      - 5-10
+      required: true
     - id: 5
-      name: none
-      label: None
+      name: production_shift
+      label: Production Shift
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Morning Shift
+      - Afternoon Shift
+      - Evening Shift
+      required: true
     - id: 6
-      name: none
-      label: None
+      name: production_location
+      label: Production Location
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Plant 1
+      - Plant 2
+      - Remote Production
+      required: true
     - id: 7
-      name: none
-      label: None
+      name: supervisor_name
+      label: Supervisor Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: none
-      label: None
+      name: machine_used
+      label: Machine Used
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Machine A
+      - Machine B
+      - Manual Production
+      required: true
     - id: 9
-      name: none
-      label: None
+      name: maintenance_schedule
+      label: Maintenance Schedule
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 10
-      name: none
-      label: None
+      name: quality_control_process
+      label: Quality Control Process
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Visual Inspection
+      - Sampling
+      - 100% Inspection
+      required: true
     - id: 11
-      name: none
-      label: None
+      name: production_status
+      label: Production Status
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Delayed
+      required: true
     - id: 12
-      name: none
-      label: None
+      name: defects_detected
+      label: Defects Detected
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: reason_for_delay
+      label: Reason for Delay
       hint: null
       type: text
       options: []
       required: false
+    - id: 14
+      name: units_produced
+      label: Units Produced
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: production_cycle_time
+      label: Production Cycle Time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: quality_of_goods
+      label: Quality of Goods
+      hint: null
+      type: select_one
+      options:
+      - Acceptable
+      - Defective
+      - Scrap
+      required: true
+    - id: 17
+      name: units_reworked
+      label: Units Reworked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 19
+      name: production_shift_start_time
+      label: Production Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: production_shift_end_time
+      label: Production Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: production_duration
+      label: Production Duration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: production_shift_2
+      label: Production Shift 2
+      hint: null
+      type: select_one
+      options:
+      - Morning Shift
+      - Afternoon Shift
+      - Evening Shift
+      required: true
+    - id: 24
+      name: production_shift_type
+      label: Production Shift Type
+      hint: null
+      type: select_one
+      options:
+      - Single Shift
+      - Double Shift
+      - Triple Shift
+      required: true

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Tenant Requested''}'
-      - '{''id'': 2, ''label'': ''Landlord Requested''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Tenant Requested
+      - Landlord Requested
+      - Other
       required: false
     - id: 5
       name: tenant_signature_date
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Accepted''}'
-      - '{''id'': 2, ''label'': ''Declined''}'
-      - '{''id'': 3, ''label'': ''In Progress''}'
+      - Accepted
+      - Declined
+      - In Progress
       required: false
     - id: 10
       name: lease_document_upload

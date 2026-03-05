@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - Other
       required: false
     - id: 3
       name: equipment
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Friend''}'
-      - '{''id'': 2, ''label'': ''Family''}'
-      - '{''id'': 3, ''label'': ''Staff''}'
+      - Friend
+      - Family
+      - Staff
       required: false
     - id: 12
       name: observer_phone

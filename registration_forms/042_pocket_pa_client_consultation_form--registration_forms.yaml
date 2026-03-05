@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Email'', ''value'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone'', ''value'': ''Phone''}'
-      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      - Email
+      - Phone
+      - Other
       required: true
     - id: 3
       name: contact_method_other
@@ -47,11 +47,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Monday'', ''value'': ''Monday''}'
-      - '{''id'': 2, ''name'': ''Tuesday'', ''value'': ''Tuesday''}'
-      - '{''id'': 3, ''name'': ''Wednesday'', ''value'': ''Wednesday''}'
-      - '{''id'': 4, ''name'': ''Thursday'', ''value'': ''Thursday''}'
-      - '{''id'': 5, ''name'': ''Friday'', ''value'': ''Friday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
       required: true
     - id: 7
       name: appointment_duration_unit
@@ -59,10 +59,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''15 minutes'', ''value'': 15}'
-      - '{''id'': 2, ''name'': ''30 minutes'', ''value'': 30}'
-      - '{''id'': 3, ''name'': ''45 minutes'', ''value'': 45}'
-      - '{''id'': 4, ''name'': ''60 minutes'', ''value'': 60}'
+      - '15'
+      - '30'
+      - '45'
+      - '60'
       required: true
     - id: 8
       name: client_message

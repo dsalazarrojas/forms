@@ -90,12 +90,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I agree to the terms and conditions'', ''value'': 1}'
-      - '{''label'': ''I do not agree to the terms and conditions'', ''value'': 2}'
+      - I agree to the terms and conditions
+      - I do not agree to the terms and conditions
       required: true
     - id: 13
       name: participant_agreement_other
-      label: Other (please specify)
+      label: Participant Agreement Other
       hint: null
       type: text
       options: []
@@ -106,8 +106,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''chatjimmy'', ''value'': ''chatjimmy''}'
-      - '{''label'': ''Another tool'', ''value'': ''another_tool''}'
+      - chatjimmy
+      - Another tool
       required: true
     - id: 15
       name: participant_signature
@@ -136,8 +136,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I agree'', ''value'': 1}'
-      - '{''label'': ''I do not agree'', ''value'': 2}'
+      - I agree
+      - I do not agree
       required: false
     - id: 19
       name: participant_agreement_ip_comments
@@ -148,7 +148,7 @@ inputSchema:
       required: false
     - id: 20
       name: participant_agreement_ip_comments_other
-      label: Other (please specify)
+      label: Participant Agreement Ip Comments Other
       hint: null
       type: text
       options: []
@@ -176,7 +176,7 @@ inputSchema:
       required: false
     - id: 24
       name: participant_agreement_ip_ip_other
-      label: Other (please specify)
+      label: Participant Agreement Ip Ip Other
       hint: null
       type: text
       options: []

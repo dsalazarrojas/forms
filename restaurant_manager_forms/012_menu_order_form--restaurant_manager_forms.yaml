@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Breakfast'', ''label'': ''Breakfast''}'
-      - '{''value'': ''Lunch'', ''label'': ''Lunch''}'
-      - '{''value'': ''Dinner'', ''label'': ''Dinner''}'
+      - Breakfast
+      - Lunch
+      - Dinner
       required: false
     - id: 3
       name: order_form
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Breakfast'', ''label'': ''Breakfast''}'
-      - '{''value'': ''Lunch'', ''label'': ''Lunch''}'
-      - '{''value'': ''Dinner'', ''label'': ''Dinner''}'
+      - Breakfast
+      - Lunch
+      - Dinner
       required: false
     - id: 5
       name: order_details
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Stripe'', ''label'': ''Stripe''}'
-      - '{''value'': ''PayPal'', ''label'': ''PayPal''}'
-      - '{''value'': ''Authorize.net'', ''label'': ''Authorize.net''}'
+      - Stripe
+      - PayPal
+      - Authorize.net
       required: false
     - id: 7
       name: payment_amount

@@ -16,176 +16,97 @@ inputSchema:
     pages:
     - id: 1
       name: entry_form
-      label: win_a_survival_kit_contest_entry_form
-      hint: null
+      label: Full Name
+      hint: Enter your full name as it appears on your ID
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: entry_form
-      label: contest_info
-      hint: null
+      name: contact_info
+      label: Contact Information
+      hint: Enter your email address and phone number
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: entry_form
-      label: winner_selection
-      hint: null
+      name: contest_info
+      label: Contest Information
+      hint: Briefly describe the contest
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: entry_form
-      label: contest_rules
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: contest_rules
+      label: Contest Rules
+      hint: Acknowledge understanding of the contest rules
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 5
-      name: entry_form
-      label: terms_of_service
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: terms_of_service
+      label: Terms of Service
+      hint: Acknowledge understanding of the terms of service
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 6
-      name: entry_form
-      label: winner_notification
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: winner_notification
+      label: Winner Notification
+      hint: How would you like to receive the winner notification
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Both
+      required: true
     - id: 7
-      name: entry_form
-      label: entry_form
-      hint: null
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you'd like to share
       type: text
       options: []
       required: false
     - id: 8
-      name: entry_form
-      label: entry_form
-      hint: null
+      name: confirm_contact_info
+      label: Confirm Contact Information
+      hint: Enter your email address and phone number again
       type: text
       options: []
       required: false
     - id: 9
-      name: entry_form
-      label: entry_form
-      hint: null
+      name: confirm_contest_info
+      label: Confirm Contest Information
+      hint: Briefly describe the contest again
       type: text
       options: []
       required: false
     - id: 10
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
+      name: confirm_terms_of_service
+      label: Confirm Terms of Service
+      hint: Reiterate understanding of the terms of service
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 11
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
+      name: confirm_winner_notification
+      label: Confirm Winner Notification
+      hint: Confirm how you want to receive the winner notification
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Both
       required: false
     - id: 12
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: entry_form
-      label: entry_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: entry_form
-      label: entry_form
-      hint: null
+      name: additional_info
+      label: Additional Information
+      hint: Is there anything else you'd like to share?
       type: text
       options: []
       required: false

@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: signed_by
@@ -60,10 +60,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''photo''}'
-      - '{''value'': ''video''}'
-      - '{''value'': ''audio''}'
-      - '{''value'': ''none''}'
+      - photo
+      - video
+      - audio
+      - none
       required: false
     - id: 9
       name: photo_credit

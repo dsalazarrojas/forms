@@ -16,9 +16,9 @@ inputSchema:
       hint: List sales leaders participating
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Unknown''}'
+      - 'True'
+      - 'False'
+      - Unknown
       required: false
     - id: 3
       name: participant_goals
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: training_teams
@@ -161,10 +161,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Challenge 1''}'
-      - '{''value'': ''Challenge 2''}'
-      - '{''value'': ''Challenge 3''}'
-      - '{''value'': ''Other (please specify)''}'
+      - Challenge 1
+      - Challenge 2
+      - Challenge 3
+      - Other (please specify)
       required: false
     - id: 23
       name: participant_programs_involved
@@ -172,10 +172,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Challenge 1''}'
-      - '{''value'': ''Challenge 2''}'
-      - '{''value'': ''Challenge 3''}'
-      - '{''value'': ''Other (please specify)''}'
+      - Challenge 1
+      - Challenge 2
+      - Challenge 3
+      - Other (please specify)
       required: false
     - id: 24
       name: participant_goal_type

@@ -1,74 +1,63 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Book Bundle Removal Request Form
     pages:
-      - id: 1
-        name: request_header
-        label: -- Removal Request --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: requester_name
-        label: Requester name
-        hint: Staff or partner requesting removal
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: book_bundle_id
-        label: Book bundle identifier
-        hint: SKU or bundle code
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: reason_for_removal
-        label: Reason for removal
-        hint: Explain why the bundle should be removed
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: effective_date
-        label: Effective date of removal
-        hint: When to remove bundle
-        type: date
-        options: []
-        required: false
-      - id: 6
-        name: approval_required
-        label: Approval required
-        hint: Does this action require manager approval
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 7
-        name: approver_name
-        label: Approver name
-        hint: Name of approving manager
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: notes
-        label: Notes
-        hint: Any additional information
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: request_header
+      label: -- Removal Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Staff or partner requesting removal
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: book_bundle_id
+      label: Book bundle identifier
+      hint: SKU or bundle code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_removal
+      label: Reason for removal
+      hint: Explain why the bundle should be removed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: effective_date
+      label: Effective date of removal
+      hint: When to remove bundle
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: approval_required
+      label: Approval required
+      hint: Does this action require manager approval
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: approver_name
+      label: Approver name
+      hint: Name of approving manager
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

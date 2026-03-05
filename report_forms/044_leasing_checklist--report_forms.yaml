@@ -4,225 +4,110 @@ inputSchema:
     title: Leasing Checklist
     pages:
     - id: 1
-      name: checklist_1
+      name: voicemail_checklist
       label: Check Voicemail
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 2
-      name: checklist_2
+      name: email_checklist
       label: Check Email
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
-      name: checklist_3
+      name: work_order_checklist
       label: Open Work Order
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 4
-      name: checklist_4
+      name: payment_checklist
       label: Payment
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 5
-      name: checklist_5
+      name: key_log_checklist
       label: Update Key Log
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 6
-      name: checklist_6
-      label: Check Email
+      name: update_email_checklist
+      label: Update Email Checklist
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
       required: false
     - id: 7
-      name: checklist_7
-      label: Check Voicemail
+      name: voicemail_checklist_2
+      label: Voicemail Checklist 2
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 8
-      name: checklist_8
-      label: Update Key Log
+      name: update_key_log_checklist
+      label: Update Key Log Checklist
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 9
-      name: checklist_9
-      label: Open Work Order
+      name: open_work_order_checklist
+      label: Open Work Order Checklist
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 10
-      name: checklist_10
-      label: Check Email
+      name: check_email_2
+      label: Check Email 2
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: checklist_11
-      label: Check Voicemail
+      name: check_voicemail_2
+      label: Check Voicemail 2
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: checklist_12
-      label: Payment
+      name: payment_2
+      label: Payment 2
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
-      required: false
-    - id: 13
-      name: checklist_13
-      label: Update Key Log
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
-      required: false
-    - id: 14
-      name: checklist_14
-      label: Open Work Order
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
-      required: false
-    - id: 15
-      name: checklist_15
-      label: Check Email
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
-      required: false
-    - id: 16
-      name: checklist_16
-      label: Check Voicemail
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
-      required: false
-    - id: 17
-      name: checklist_17
-      label: Update Key Log
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
-      required: false
-    - id: 18
-      name: checklist_18
-      label: Open Work Order
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
-      required: false
-    - id: 19
-      name: checklist_19
-      label: Check Email
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
-      required: false
-    - id: 20
-      name: checklist_20
-      label: Check Voicemail
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
-      required: false
-    - id: 21
-      name: checklist_21
-      label: Payment
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
-      required: false
-    - id: 22
-      name: checklist_22
-      label: Update Key Log
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
-      required: false
-    - id: 23
-      name: checklist_23
-      label: Open Work Order
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
-      required: false
-    - id: 24
-      name: checklist_24
-      label: Check Email
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
-      required: false
-    - id: 25
-      name: checklist_25
-      label: Check Voicemail
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 0, ''label'': False}'
-      - '{''id'': 1, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false

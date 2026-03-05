@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Single Family'', ''value'': ''Single Family''}'
-      - '{''label'': ''Multi Family'', ''value'': ''Multi Family''}'
-      - '{''label'': ''Condo'', ''value'': ''Condo''}'
+      - Single Family
+      - Multi Family
+      - Condo
       required: true
     - id: 3
       name: property_age
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Active'', ''value'': ''Active''}'
-      - '{''label'': ''Sold'', ''value'': ''Sold''}'
-      - '{''label'': ''Leased'', ''value'': ''Leased''}'
+      - Active
+      - Sold
+      - Leased
       required: false
     - id: 6
       name: neighborhood_details
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Urban'', ''value'': ''Urban''}'
-      - '{''label'': ''Rural'', ''value'': ''Rural''}'
-      - '{''label'': ''Mixed Use'', ''value'': ''Mixed Use''}'
+      - Urban
+      - Rural
+      - Mixed Use
       required: true
     - id: 9
       name: market_trends

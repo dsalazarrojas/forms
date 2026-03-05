@@ -51,10 +51,10 @@ inputSchema:
       hint: Which AGM are you attending?
       type: select_one
       options:
-      - 2026
-      - 2025
-      - 2024
-      - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       required: true
     - id: 8
       name: attendance_type
@@ -173,8 +173,8 @@ inputSchema:
       hint: Will you need parking?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not Applicable
       required: false
     - id: 20

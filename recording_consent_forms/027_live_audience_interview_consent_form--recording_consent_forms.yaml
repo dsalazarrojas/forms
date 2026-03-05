@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option1'': ''I consent to be recorded on camera.''}'
-      - '{''option2'': ''I do not consent to be recorded on camera.''}'
+      - Option 1
+      - Option 2
       required: true
     - id: 12
       name: participant_agreement
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option1'': True}'
-      - '{''option2'': False}'
-      - '{''option3'': ''I do not understand the terms.''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 13
       name: date_of_birth

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''New Request''}'
-      - '{''id'': 2, ''label'': ''Renewal Request''}'
-      - '{''id'': 3, ''label'': ''Cancellation Request''}'
+      - New Request
+      - Renewal Request
+      - Cancellation Request
       required: true
     - id: 5
       name: start_date
@@ -54,10 +54,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Small Boat''}'
-      - '{''id'': 2, ''label'': ''Large Boat''}'
-      - '{''id'': 3, ''label'': ''JetSki''}'
-      - '{''id'': 4, ''label'': ''Vessel with a trailer''}'
+      - Small Boat
+      - Large Boat
+      - JetSki
+      - Vessel with a trailer
       required: false
     - id: 8
       name: boat_length

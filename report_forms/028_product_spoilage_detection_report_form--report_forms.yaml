@@ -30,12 +30,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Leaking''}'
-      - '{''label'': ''Moldy''}'
-      - '{''label'': ''Rotten''}'
-      - '{''label'': ''Sour''}'
-      - '{''label'': ''Swollen''}'
-      - '{''label'': ''Other''}'
+      - Leaking
+      - Moldy
+      - Rotten
+      - Sour
+      - Swollen
+      - Other
       required: false
     - id: 5
       name: spoilage_evidence
@@ -50,11 +50,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''New''}'
-      - '{''label'': ''Used''}'
-      - '{''label'': ''Damaged''}'
-      - '{''label'': ''Expiration''}'
-      - '{''label'': ''Other''}'
+      - New
+      - Used
+      - Damaged
+      - Expiration
+      - Other
       required: false
     - id: 7
       name: location
@@ -62,11 +62,11 @@ inputSchema:
       hint: Where the spoilt product was found
       type: select_one
       options:
-      - '{''label'': ''Warehouse''}'
-      - '{''label'': ''Retail''}'
-      - '{''label'': ''Manufacturing''}'
-      - '{''label'': ''Transportation''}'
-      - '{''label'': ''Other''}'
+      - Warehouse
+      - Retail
+      - Manufacturing
+      - Transportation
+      - Other
       required: false
     - id: 8
       name: action_taken
@@ -74,10 +74,10 @@ inputSchema:
       hint: What action was taken to address the spoilt product
       type: select_multiple
       options:
-      - '{''label'': ''Replaced''}'
-      - '{''label'': ''Reboxed''}'
-      - '{''label'': ''Discarded''}'
-      - '{''label'': ''None''}'
+      - Replaced
+      - Reboxed
+      - Discarded
+      - None
       required: false
     - id: 9
       name: notes

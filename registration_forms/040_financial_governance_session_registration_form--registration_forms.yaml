@@ -100,10 +100,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Financial Governance Session''}'
-      - '{''id'': 2, ''name'': ''Other''}'
-      - '{''id'': 3, ''name'': ''Both''}'
-      - '{''id'': 4, ''name'': ''No Preference''}'
+      - Financial Governance Session
+      - Other
+      - Both
+      - No Preference
       required: true
     - id: 15
       name: session_topics
@@ -111,11 +111,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Financial Planning''}'
-      - '{''id'': 2, ''name'': ''Risk Management''}'
-      - '{''id'': 3, ''name'': ''Financial Analysis''}'
-      - '{''id'': 4, ''name'': ''Financial Modeling''}'
-      - '{''id'': 5, ''name'': ''Financial Reporting''}'
+      - Financial Planning
+      - Risk Management
+      - Financial Analysis
+      - Financial Modeling
+      - Financial Reporting
       required: true
     - id: 16
       name: submit
@@ -137,8 +137,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: agreement
@@ -146,9 +146,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Undisclosed''}'
+      - 'True'
+      - 'False'
+      - Undisclosed
       required: true
     - id: 20
       name: session_attendance
@@ -156,9 +156,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Online''}'
-      - '{''id'': 2, ''name'': ''In-person''}'
-      - '{''id'': 3, ''name'': ''Both''}'
+      - Online
+      - In-person
+      - Both
       required: true
     - id: 21
       name: payment_method
@@ -166,9 +166,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Credit Card''}'
-      - '{''id'': 2, ''name'': ''Bank Transfer''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Credit Card
+      - Bank Transfer
+      - Other
       required: true
     - id: 22
       name: payment_terms
@@ -190,8 +190,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: email_confirmation
@@ -199,6 +199,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false

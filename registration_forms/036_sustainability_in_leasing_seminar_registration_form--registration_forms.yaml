@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: select_multiple
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: date_time
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 11, ''label'': ''Option 1''}'
-      - '{''id'': 12, ''label'': ''Option 2''}'
-      - '{''id'': 13, ''label'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 12
       name: select_multiple_with_options
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 14, ''label'': ''Option 1''}'
-      - '{''id'': 15, ''label'': ''Option 2''}'
-      - '{''id'': 16, ''label'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 13
       name: integer
@@ -136,7 +136,7 @@ inputSchema:
       required: false
     - id: 18
       name: note_without_label
-      label: None
+      label: Note Without Label
       hint: null
       type: note
       options: []
@@ -150,7 +150,7 @@ inputSchema:
       required: false
     - id: 20
       name: email_without_label
-      label: None
+      label: Email Without Label
       hint: null
       type: email
       options: []
@@ -164,7 +164,7 @@ inputSchema:
       required: false
     - id: 22
       name: phone_without_label
-      label: None
+      label: Phone Without Label
       hint: null
       type: text
       options: []
@@ -178,7 +178,7 @@ inputSchema:
       required: false
     - id: 24
       name: time_without_label
-      label: None
+      label: Time Without Label
       hint: null
       type: time
       options: []

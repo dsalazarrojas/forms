@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Single Family'', ''value'': ''Single Family''}'
-      - '{''id'': 2, ''label'': ''Condo'', ''value'': ''Condo''}'
-      - '{''id'': 3, ''label'': ''Townhouse'', ''value'': ''Townhouse''}'
-      - '{''id'': 4, ''label'': ''Multi-Family'', ''value'': ''Multi-Family''}'
+      - Single Family
+      - Condo
+      - Townhouse
+      - Multi-Family
       required: true
     - id: 3
       name: property_status
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active'', ''value'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Sold'', ''value'': ''Sold''}'
-      - '{''id'': 3, ''label'': ''Under Contract'', ''value'': ''Under Contract''}'
-      - '{''id'': 4, ''label'': ''Pending'', ''value'': ''Pending''}'
+      - Active
+      - Sold
+      - Under Contract
+      - Pending
       required: true
     - id: 4
       name: property_use
@@ -38,10 +38,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Primary Residence'', ''value'': ''Primary Residence''}'
-      - '{''id'': 2, ''label'': ''Investment'', ''value'': ''Investment''}'
-      - '{''id'': 3, ''label'': ''Rental'', ''value'': ''Rental''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      - Primary Residence
+      - Investment
+      - Rental
+      - Other
       required: false
     - id: 5
       name: lot_size
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Residential'', ''value'': ''Residential''}'
-      - '{''id'': 2, ''label'': ''Commercial'', ''value'': ''Commercial''}'
-      - '{''id'': 3, ''label'': ''Industrial'', ''value'': ''Industrial''}'
+      - Residential
+      - Commercial
+      - Industrial
       required: false
     - id: 7
       name: building_size
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Gable'', ''value'': ''Gable''}'
-      - '{''id'': 2, ''label'': ''Hip'', ''value'': ''Hip''}'
-      - '{''id'': 3, ''label'': ''Flat'', ''value'': ''Flat''}'
+      - Gable
+      - Hip
+      - Flat
       required: false
     - id: 11
       name: foundation_type
@@ -97,11 +97,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Full Basement'', ''value'': ''Full Basement''}'
-      - '{''id'': 2, ''label'': ''Crawl Space'', ''value'': ''Crawl Space''}'
-      - '{''id'': 3, ''label'': ''Pier and Beam'', ''value'': ''Pier and Beam''}'
-      - '{''id'': 4, ''label'': ''Slab'', ''value'': ''Slab''}'
-      - '{''id'': 5, ''label'': ''Other'', ''value'': ''Other''}'
+      - Full Basement
+      - Crawl Space
+      - Pier and Beam
+      - Slab
+      - Other
       required: false
     - id: 12
       name: exterior_finish
@@ -109,11 +109,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Stucco'', ''value'': ''Stucco''}'
-      - '{''id'': 2, ''label'': ''Vinyl'', ''value'': ''Vinyl''}'
-      - '{''id'': 3, ''label'': ''Brick'', ''value'': ''Brick''}'
-      - '{''id'': 4, ''label'': ''Metal'', ''value'': ''Metal''}'
-      - '{''id'': 5, ''label'': ''Other'', ''value'': ''Other''}'
+      - Stucco
+      - Vinyl
+      - Brick
+      - Metal
+      - Other
       required: false
     - id: 13
       name: heating_systems
@@ -121,10 +121,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Central AC'', ''value'': ''Central AC''}'
-      - '{''id'': 2, ''label'': ''Heat Pump'', ''value'': ''Heat Pump''}'
-      - '{''id'': 3, ''label'': ''Propane'', ''value'': ''Propane''}'
-      - '{''id'': 4, ''label'': ''None'', ''value'': ''None''}'
+      - Central AC
+      - Heat Pump
+      - Propane
+      - None
       required: false
     - id: 14
       name: electrical_systems
@@ -132,9 +132,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''200-amp service'', ''value'': ''200-amp service''}'
-      - '{''id'': 2, ''label'': ''400-amp service'', ''value'': ''400-amp service''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      - 200-amp service
+      - 400-amp service
+      - Other
       required: false
     - id: 15
       name: plumbing_systems
@@ -142,9 +142,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''City'', ''value'': ''City''}'
-      - '{''id'': 2, ''label'': ''Well'', ''value'': ''Well''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      - City
+      - Well
+      - Other
       required: false
     - id: 16
       name: fire_safety_systems
@@ -152,10 +152,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Smoke Detector'', ''value'': ''Smoke Detector''}'
-      - '{''id'': 2, ''label'': ''Fire Alarm'', ''value'': ''Fire Alarm''}'
-      - '{''id'': 3, ''label'': ''Sprinkler System'', ''value'': ''Sprinkler System''}'
-      - '{''id'': 4, ''label'': ''None'', ''value'': ''None''}'
+      - Smoke Detector
+      - Fire Alarm
+      - Sprinkler System
+      - None
       required: false
     - id: 17
       name: fire_safety_equipment
@@ -163,11 +163,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Fire Extinguisher'', ''value'': ''Fire Extinguisher''}'
-      - '{''id'': 2, ''label'': ''Fire Alarm System'', ''value'': ''Fire Alarm System''}'
-      - '{''id'': 3, ''label'': ''Fire Sprinkler System'', ''value'': ''Fire Sprinkler
-        System''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      - Fire Extinguisher
+      - Fire Alarm System
+      - Fire Sprinkler System
+      - Other
       required: false
     - id: 18
       name: security_systems
@@ -175,10 +174,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Gate'', ''value'': ''Gate''}'
-      - '{''id'': 2, ''label'': ''Alarm'', ''value'': ''Alarm''}'
-      - '{''id'': 3, ''label'': ''Fence'', ''value'': ''Fence''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      - Gate
+      - Alarm
+      - Fence
+      - Other
       required: false
     - id: 19
       name: water_supply
@@ -186,10 +185,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''City'', ''value'': ''City''}'
-      - '{''id'': 2, ''label'': ''Private'', ''value'': ''Private''}'
-      - '{''id'': 3, ''label'': ''Well'', ''value'': ''Well''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      - City
+      - Private
+      - Well
+      - Other
       required: false
     - id: 20
       name: sewage_disposal
@@ -197,9 +196,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''City'', ''value'': ''City''}'
-      - '{''id'': 2, ''label'': ''Private'', ''value'': ''Private''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      - City
+      - Private
+      - Other
       required: false
     - id: 21
       name: garbage_disposal
@@ -207,9 +206,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''City'', ''value'': ''City''}'
-      - '{''id'': 2, ''label'': ''Private'', ''value'': ''Private''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      - City
+      - Private
+      - Other
       required: false
     - id: 22
       name: utility_payments
@@ -217,9 +216,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Included'', ''value'': ''Included''}'
-      - '{''id'': 2, ''label'': ''Separate'', ''value'': ''Separate''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      - Included
+      - Separate
+      - Other
       required: false
     - id: 23
       name: taxes_paid
@@ -227,9 +226,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Included'', ''value'': ''Included''}'
-      - '{''id'': 2, ''label'': ''Separate'', ''value'': ''Separate''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      - Included
+      - Separate
+      - Other
       required: false
     - id: 24
       name: insurance_provider
@@ -237,9 +236,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Included'', ''value'': ''Included''}'
-      - '{''id'': 2, ''label'': ''Separate'', ''value'': ''Separate''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      - Included
+      - Separate
+      - Other
       required: false
     - id: 25
       name: additional_info

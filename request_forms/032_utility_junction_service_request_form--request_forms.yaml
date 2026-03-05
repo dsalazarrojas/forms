@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Electricity'', ''value'': ''electricity''}'
-      - '{''id'': 2, ''name'': ''Water'', ''value'': ''water''}'
-      - '{''id'': 3, ''name'': ''Gas'', ''value'': ''gas''}'
+      - electricity
+      - water
+      - gas
       required: true
     - id: 4
       name: service_area
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''North'', ''value'': ''north''}'
-      - '{''id'': 2, ''name'': ''South'', ''value'': ''south''}'
-      - '{''id'': 3, ''name'': ''East'', ''value'': ''east''}'
-      - '{''id'': 4, ''name'': ''West'', ''value'': ''west''}'
+      - north
+      - south
+      - east
+      - west
       required: true
     - id: 5
       name: contact_name
@@ -93,7 +93,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjประก'', ''value'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 13

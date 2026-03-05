@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''PayPal''}'
-      - '{''label'': ''Stripe''}'
-      - '{''label'': ''Authorize.net''}'
+      - PayPal
+      - Stripe
+      - Authorize.net
       required: false
     - id: 7
       name: submit
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: false
     - id: 9
       name: payment_method_other

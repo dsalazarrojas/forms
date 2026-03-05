@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Category A''}'
-      - '{''label'': ''Category B''}'
-      - '{''label'': ''Category C''}'
+      - Category A
+      - Category B
+      - Category C
       required: false
     - id: 3
       name: tag_name
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Team A''}'
-      - '{''label'': ''Team B''}'
+      - Team A
+      - Team B
       required: false
     - id: 10
       name: priority
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 11
       name: review_status
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''In Review''}'
-      - '{''label'': ''Rejected''}'
-      - '{''label'': ''Approved''}'
+      - In Review
+      - Rejected
+      - Approved
       required: false
     - id: 12
       name: request_date
@@ -111,6 +111,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''John Doe''}'
-      - '{''label'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: false

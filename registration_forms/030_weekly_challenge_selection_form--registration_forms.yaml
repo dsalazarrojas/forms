@@ -4,189 +4,53 @@ inputSchema:
     title: Weekly Challenge Selection Form
     pages:
     - id: 1
-      name: participant_id
-      label: participant_id
+      name: participant_info
+      label: Participant Info
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 2
-      name: challenge_id
-      label: Challenge
+      name: challenge_selection
+      label: Challenge Selection
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 3
       name: start_date
       label: Start Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
       name: end_date
       label: End Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 5
       name: start_time
       label: Start Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 6
       name: end_time
       label: End Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 7
       name: participant_preferences
       label: Participant Preferences
       hint: null
       type: note
       options: []
-      required: false
-    - id: 8
-      name: participant_preferences
-      label: Participant Preferences
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: participant_preferences
-      label: Participant Preferences
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: participant_preferences
-      label: Participant Preferences
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: participant_preferences
-      label: Participant Preferences
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: participant_preferences
-      label: Participant Preferences
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: participant_id
-      label: Participant ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: participant_id
-      label: Participant ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: participant_id
-      label: Participant ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: participant_id
-      label: Participant ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: participant_id
-      label: Participant ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: participant_id
-      label: Participant ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: participant_id
-      label: Participant ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: challenge_id
-      label: Challenge
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: challenge_id
-      label: Challenge
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: challenge_id
-      label: Challenge
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: challenge_id
-      label: Challenge
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: challenge_id
-      label: Challenge
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: participant_id
-      label: Participant ID
-      hint: null
-      type: number
-      options: []
-      required: false
+      required: true

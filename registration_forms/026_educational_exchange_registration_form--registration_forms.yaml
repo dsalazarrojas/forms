@@ -93,8 +93,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Inbound'', ''value'': 1}'
-      - '{''label'': ''Outbound'', ''value'': 2}'
+      - Inbound
+      - Outbound
       required: false
     - id: 14
       name: student_status
@@ -102,7 +102,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Active'', ''value'': 1}'
-      - '{''label'': ''Inactive'', ''value'': 2}'
-      - '{''label'': ''Pending'', ''value'': 3}'
+      - Active
+      - Inactive
+      - Pending
       required: false

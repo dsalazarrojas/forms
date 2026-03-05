@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option_name'': True}'
-      - '{''option_name'': False}'
-      - '{''option_name'': ''Undecided''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 7
       name: event_details_4
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option_name'': True}'
-      - '{''option_name'': False}'
+      - Option 1
+      - Option 2
       required: true
     - id: 10
       name: participant_agreement
@@ -77,9 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option_name'': ''I have read, understand, and agree with the above terms''}'
-      - '{''option_name'': ''I have not read, do not understand, and do not agree
-        with the above terms''}'
+      - Option 1
+      - Option 2
       required: true
     - id: 11
       name: event_host

@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Individual'', ''label'': ''Individual''}'
-      - '{''id'': 2, ''name'': ''Organization'', ''label'': ''Organization''}'
+      - Individual
+      - Organization
       required: false
     - id: 10
       name: payment_details
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Online Payment'', ''label'': ''Online Payment''}'
-      - '{''id'': 2, ''name'': ''Offline Payment'', ''label'': ''Offline Payment''}'
+      - Online Payment
+      - Offline Payment
       required: false
     - id: 12
       name: card_details
@@ -139,8 +139,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Confirm'', ''label'': ''Confirm''}'
-      - '{''id'': 2, ''name'': ''Decline'', ''label'': ''Decline''}'
+      - Confirm
+      - Decline
       required: false
     - id: 20
       name: submit_button

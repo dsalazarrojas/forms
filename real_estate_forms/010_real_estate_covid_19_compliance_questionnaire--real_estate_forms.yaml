@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''No COVID-19 symptoms''}'
-      - '{''label'': ''Have COVID-19''}'
-      - '{''label'': ''Have had COVID-19 recently''}'
-      - '{''label'': ''Unsure''}'
+      - No COVID-19 symptoms
+      - Have COVID-19
+      - Have had COVID-19 recently
+      - Unsure
       required: false
     - id: 5
       name: travel_history
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not Sure''}'
+      - 'True'
+      - 'False'
+      - Not Sure
       required: false
     - id: 8
       name: health_declaration
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': ''Partially Vaccinated''}'
-      - '{''label'': ''Fully Vaccinated''}'
+      - 'False'
+      - Partially Vaccinated
+      - Fully Vaccinated
       required: false
     - id: 10
       name: test_result
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''No Test Done''}'
-      - '{''label'': ''Negative''}'
-      - '{''label'': ''Positive''}'
+      - No Test Done
+      - Negative
+      - Positive
       required: false
     - id: 11
       name: visitor_pledge
@@ -92,10 +92,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''I will follow the instructions of the property manager''}'
-      - '{''label'': ''I will take necessary precautions to prevent the spread of
-        COVID-19''}'
-      - '{''label'': ''Not Sure''}'
+      - I will follow the instructions of the property manager
+      - I will take necessary precautions to prevent the spread of COVID-19
+      - Not Sure
       required: false
     - id: 12
       name: property_condition
@@ -117,8 +116,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 15
       name: property_access_time
@@ -133,11 +132,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Less than once a week''}'
-      - '{''label'': ''1-2 times a week''}'
-      - '{''label'': ''3-4 times a week''}'
-      - '{''label'': ''5-6 times a week''}'
-      - '{''label'': ''Every day''}'
+      - Less than once a week
+      - 1-2 times a week
+      - 3-4 times a week
+      - 5-6 times a week
+      - Every day
       required: false
     - id: 17
       name: property_access_duration
@@ -155,42 +154,42 @@ inputSchema:
       required: false
     - id: 19
       name: property_access_time_in_hours
-      label: Property Access Time
+      label: Property Access Time In Hours
       hint: null
       type: time
       options: []
       required: false
     - id: 20
       name: property_access_frequency_in_days
-      label: Property Access Frequency
+      label: Property Access Frequency In Days
       hint: null
       type: number
       options: []
       required: false
     - id: 21
       name: visitor_pledge_frequency
-      label: Visitor Pledge
+      label: Visitor Pledge Frequency
       hint: null
       type: text
       options: []
       required: false
     - id: 22
       name: property_access_time_in_seconds
-      label: Property Access Time
+      label: Property Access Time In Seconds
       hint: null
       type: number
       options: []
       required: false
     - id: 23
       name: visitor_pledge_frequency_in_days
-      label: Visitor Pledge
+      label: Visitor Pledge Frequency In Days
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: property_access_time_in_seconds
-      label: Property Access Time
+      name: property_access_time_in_seconds_2
+      label: Property Access Time In Seconds 2
       hint: null
       type: text
       options: []

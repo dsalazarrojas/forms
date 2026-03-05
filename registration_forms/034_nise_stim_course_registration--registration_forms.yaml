@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Course''}'
-      - '{''value'': ''Workshop''}'
+      - Course
+      - Workshop
       required: false
     - id: 4
       name: course_description
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Confirmed''}'
-      - '{''value'': ''Cancelled''}'
+      - Pending
+      - Confirmed
+      - Cancelled
       required: false
     - id: 10
       name: notes
@@ -147,8 +147,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Followed up''}'
-      - '{''value'': ''Not followed up''}'
+      - Followed up
+      - Not followed up
       required: false
     - id: 21
       name: follow_up_notes
@@ -163,8 +163,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Paid''}'
-      - '{''value'': ''Unpaid''}'
+      - Paid
+      - Unpaid
       required: false
     - id: 23
       name: payment_method

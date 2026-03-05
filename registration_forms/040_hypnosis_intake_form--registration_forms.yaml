@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: allergies
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: medical_conditions
@@ -95,7 +95,7 @@ inputSchema:
       required: false
     - id: 13
       name: emergency_contact_name
-      label: Name
+      label: Emergency Contact Name
       hint: null
       type: text
       options: []
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 16
       name: medical_provider
@@ -126,27 +126,27 @@ inputSchema:
       required: false
     - id: 17
       name: medical_provider_name
-      label: Name
+      label: Medical Provider Name
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: medical_provider_phone
-      label: Phone
+      label: Medical Provider Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 19
       name: medical_provider_relationship
-      label: Relationship
+      label: Medical Provider Relationship
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 20
       name: medical_providers
@@ -173,7 +173,7 @@ inputSchema:
       required: false
     - id: 23
       name: medical_tests_name
-      label: Name
+      label: Medical Tests Name
       hint: null
       type: text
       options: []

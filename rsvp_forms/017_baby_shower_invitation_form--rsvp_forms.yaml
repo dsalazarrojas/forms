@@ -1,86 +1,80 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Baby Shower Invitation Form
     pages:
-      - id: 1
-        name: host_name
-        label: Host name
-        hint: Person organizing the shower
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: event_date
-        label: Event date
-        hint: Date of baby shower
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: event_time
-        label: Event time
-        hint: Start time
-        type: time
-        options: []
-        required: false
-      - id: 4
-        name: venue
-        label: Venue address
-        hint: Location and directions
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: rsvp_by_date
-        label: RSVP by date
-        hint: Deadline for responses
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: guest_name
-        label: Guest name
-        hint: Full name for RSVP
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: attending_status
-        label: Attending status
-        hint: Will you attend
-        type: select_one
-        options: [Attending, Not attending, Maybe]
-        required: true
-      - id: 8
-        name: plus_one
-        label: Will you bring a plus one
-        hint: Indicate if bringing a guest
-        type: select_one
-        options: [Yes, No]
-        required: false
-      - id: 9
-        name: dietary_needs
-        label: Dietary needs
-        hint: Allergies or restrictions
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: message_for_host
-        label: Message for host
-        hint: Any notes for the organizer
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: host_name
+      label: Host name
+      hint: Person organizing the shower
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event date
+      hint: Date of baby shower
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_time
+      label: Event time
+      hint: Start time
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: venue
+      label: Venue address
+      hint: Location and directions
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rsvp_by_date
+      label: RSVP by date
+      hint: Deadline for responses
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: guest_name
+      label: Guest name
+      hint: Full name for RSVP
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: attending_status
+      label: Attending status
+      hint: Will you attend
+      type: select_one
+      options:
+      - Attending
+      - Not attending
+      - Maybe
+      required: true
+    - id: 8
+      name: plus_one
+      label: Will you bring a plus one
+      hint: Indicate if bringing a guest
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: dietary_needs
+      label: Dietary needs
+      hint: Allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: message_for_host
+      label: Message for host
+      hint: Any notes for the organizer
+      type: text
+      options: []
+      required: false

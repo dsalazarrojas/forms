@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Outdoor'', ''value'': 1}'
-      - '{''label'': ''Indoor'', ''value'': 2}'
+      - Outdoor
+      - Indoor
       required: false
     - id: 5
       name: guest_preferences
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''50'', ''value'': 1}'
-      - '{''label'': ''100'', ''value'': 2}'
-      - '{''label'': ''150'', ''value'': 3}'
+      - '50'
+      - '100'
+      - '150'
       required: false
     - id: 6
       name: contact_details
@@ -56,10 +56,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Planners'', ''value'': 1}'
-      - '{''label'': ''Venue'', ''value'': 2}'
-      - '{''label'': ''Photographer'', ''value'': 3}'
-      - '{''label'': ''Caterer'', ''value'': 4}'
+      - Planners
+      - Venue
+      - Photographer
+      - Caterer
       required: false
     - id: 8
       name: comments

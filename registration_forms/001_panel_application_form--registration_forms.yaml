@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10000, ''name'': ''Business''}'
-      - '{''id'': 10001, ''name'': ''Institution''}'
-      - '{''id'': 10002, ''name'': ''Organization''}'
+      - Business
+      - Institution
+      - Organization
       required: true
     - id: 5
       name: address
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10003, ''name'': ''Pending''}'
-      - '{''id'': 10004, ''name'': ''Approved''}'
-      - '{''id'': 10005, ''name'': ''Rejected''}'
+      - Pending
+      - Approved
+      - Rejected
       required: false
     - id: 10
       name: assigned_tool
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10006, ''name'': ''chatjimmy''}'
-      - '{''id'': 10007, ''name'': ''another_tool''}'
+      - chatjimmy
+      - another tool
       required: false
     - id: 11
       name: created_at

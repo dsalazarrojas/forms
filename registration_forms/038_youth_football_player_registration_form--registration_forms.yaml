@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Team A''}'
-      - '{''value'': ''Team B''}'
-      - '{''value'': ''Team C''}'
+      - Team A
+      - Team B
+      - Team C
       required: true
     - id: 8
       name: parent_phone
@@ -142,8 +142,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Online Payment''}'
-      - '{''value'': ''Offline Payment''}'
+      - Online Payment
+      - Offline Payment
       required: true
     - id: 20
       name: payment_amount
@@ -158,9 +158,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Quarterly''}'
-      - '{''value'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: true
     - id: 22
       name: payment_date
@@ -175,8 +175,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Paid''}'
-      - '{''value'': ''Outstanding''}'
+      - Paid
+      - Outstanding
       required: false
     - id: 24
       name: payment_method_additional

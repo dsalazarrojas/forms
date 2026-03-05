@@ -5,196 +5,89 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: Natural Person FICA Declaration Soukop
+      label: Natural Person FICA Declaration
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: category
-      label: category
+      label: Select Category
       hint: null
       type: select_one
       options:
       - Real Estate Forms
       - Other Forms
-      - Forms
-      required: true
+      required: false
     - id: 3
-      name: description
-      label: Natural Person FICA Declaration
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 4
       name: assigned_tool
       label: Assigned Tool
       hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 4
       name: form_ids
-      label: Form Ids
+      label: Select Form Id
       hint: null
       type: select_one
       options:
-      - '86633'
-      - '123456'
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
       required: true
     - id: 6
-      name: output_file
-      label: Output File
+      name: title
+      label: Enter Title
       hint: null
       type: text
       options: []
       required: true
     - id: 7
-      name: assigned_tool
-      label: Assigned Tool
+      name: category_2
+      label: Category 2
       hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - Other
+      type: text
+      options: []
       required: true
     - id: 8
-      name: category
-      label: Category
+      name: output_file
+      label: Output File
       hint: null
       type: text
       options: []
       required: true
     - id: 9
-      name: assigned_tool
-      label: Assigned Tool
+      name: assigned_tool_2
+      label: Assigned Tool 2
       hint: null
       type: select_one
       options:
       - chatjimmy
       - Other
-      required: true
+      required: false
     - id: 10
-      name: description
-      label: Description
+      name: form_ids_2
+      label: Form Ids
       hint: null
-      type: text
-      options: []
-      required: true
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
     - id: 11
-      name: title
-      label: Title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - Other
-      required: true
-    - id: 13
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: form_ids
-      label: Form Ids
-      hint: null
-      type: select_one
-      options:
-      - '86633'
-      - '123456'
-      required: true
-    - id: 17
-      name: output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - Other
-      required: true
-    - id: 19
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - Other
-      required: true
-    - id: 21
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: title
-      label: Title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - Other
-      required: true
-    - id: 24
-      name: form_ids
-      label: Form Ids
-      hint: null
-      type: select_one
-      options:
-      - '86633'
-      - '123456'
-      required: true
-    - id: 25
-      name: output_file
-      label: Output File
+      name: output_file_2
+      label: Output File 2
       hint: null
       type: text
       options: []

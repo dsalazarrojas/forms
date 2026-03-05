@@ -57,8 +57,8 @@ inputSchema:
       hint: Which year
       type: select_one
       options:
-      - 2026
-      - 2027
+      - '2026'
+      - '2027'
       - Multi-year 2026-2027
       required: true
     - id: 8
@@ -134,7 +134,7 @@ inputSchema:
       options:
       - Yes definitely
       - Maybe
-      - false
+      - 'False'
       required: false
     - id: 15
       name: committee_interest

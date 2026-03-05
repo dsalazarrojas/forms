@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Check''}'
-      - '{''id'': 2, ''label'': ''Cash''}'
-      - '{''id'': 3, ''label'': ''Wire Transfer''}'
+      - Check
+      - Cash
+      - Wire Transfer
       required: true
     - id: 7
       name: payment_date
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Paid''}'
-      - '{''id'': 2, ''label'': ''Unpaid''}'
+      - Paid
+      - Unpaid
       required: true
     - id: 9
       name: buyer_name

@@ -5,180 +5,75 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: Page 1
-      hint: null
-      type: note
-      options: []
-      required: false
+      label: Submission Agreement
+      hint: Please confirm your agreement to release the voice sample portfolio
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 2
       name: page_2
-      label: Consent
-      hint: null
+      label: Release Type
+      hint: Select one of the options below
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - General Release
+      - Specialized Release
       required: true
     - id: 3
-      name: page_2_consent_type
-      label: Consent Type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: page_3
+      label: Release Details
+      hint: Please provide any additional conditions or notes
+      type: note
+      options: []
       required: true
     - id: 4
-      name: page_3
-      label: Agreement
-      hint: null
-      type: note
+      name: page_4
+      label: Release Date
+      hint: The date when the release will start
+      type: date
       options: []
       required: true
     - id: 5
-      name: page_4
-      label: Portfolio Release
-      hint: null
-      type: date
+      name: page_5
+      label: Recording Release
+      hint: How will the recording be released?
+      type: note
       options: []
       required: true
     - id: 6
-      name: page_4_start_date
-      label: Start Date
-      hint: null
-      type: date
+      name: page_6
+      label: Submitter's Name
+      hint: Please provide your name
+      type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: page_5
-      label: Recording Release
-      hint: null
-      type: note
+      name: page_7
+      label: Submitter's Email
+      hint: Please provide your email address
+      type: email
       options: []
       required: true
     - id: 8
-      name: page_6
-      label: Recording Release Notes
-      hint: null
-      type: note
+      name: page_8
+      label: Submitter's Phone
+      hint: Please provide your phone number
+      type: text
       options: []
       required: true
     - id: 9
-      name: page_7
-      label: Electronic Signature
-      hint: null
-      type: email
+      name: page_9
+      label: Confirmation Notes
+      hint: Any additional notes about this release
+      type: note
       options: []
       required: true
     - id: 10
-      name: page_8
-      label: Signature
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: page_8_signature
-      label: Signature
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: page_9
-      label: Signature Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 13
-      name: page_9_signature_date
-      label: Signature Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 14
       name: page_10
-      label: Submit
+      label: Submission Complete
       hint: null
       type: text
-      options: []
-      required: true
-    - id: 15
-      name: page_10_submit
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: page_11
-      label: Confirmation
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 17
-      name: page_12
-      label: Confirmation Notes
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 18
-      name: page_13
-      label: Submitter's Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: page_13_submitter_s_name
-      label: Submitter's Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: page_14
-      label: Submitter's Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 21
-      name: page_14_submitter_s_email
-      label: Submitter's Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 22
-      name: page_15
-      label: Submitter's Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: page_15_submitter_s_phone
-      label: Submitter's Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: page_16
-      label: Page 16
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 25
-      name: page_17
-      label: Page 17
-      hint: null
-      type: note
       options: []
       required: true

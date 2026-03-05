@@ -93,9 +93,9 @@ inputSchema:
       hint: Please specify the type of test you wish to perform (e.g., PCR, antigen).
       type: select_one
       options:
-      - '{''option1'': ''PCR''}'
-      - '{''option2'': ''Antigen''}'
-      - '{''option3'': ''Other''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 14
       name: lab_name
@@ -131,9 +131,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option1'': ''Scheduled''}'
-      - '{''option2'': ''In progress''}'
-      - '{''option3'': ''Complete''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 19
       name: lab_note
@@ -148,9 +148,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option1'': ''Positive''}'
-      - '{''option2'': ''Negative''}'
-      - '{''option3'': ''Inconclusive''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 21
       name: test_requester

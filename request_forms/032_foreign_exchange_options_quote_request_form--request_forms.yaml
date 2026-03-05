@@ -17,8 +17,7 @@ inputSchema:
       type: select_multiple
       options:
       - None
-      - None
-      - None
+      - Other
       required: false
     - id: 3
       name: price
@@ -158,10 +157,10 @@ inputSchema:
       options:
       - bid
       - offer
-      - best_deal
-      - best_price
-      - no_spread
-      - spread_available
+      - best deal
+      - best price
+      - no spread
+      - spread available
       required: false
     - id: 19
       name: spread2
@@ -171,10 +170,10 @@ inputSchema:
       options:
       - bid
       - offer
-      - best_deal
-      - best_price
-      - no_spread
-      - spread_available
+      - best deal
+      - best price
+      - no spread
+      - spread available
       required: false
     - id: 20
       name: price_type
@@ -183,9 +182,9 @@ inputSchema:
       type: select_one
       options:
       - market
-      - market_mtm
+      - market mtm
       - price
-      - price_mtm
+      - price mtm
       required: false
     - id: 21
       name: strike_type
@@ -193,7 +192,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - at_strike
+      - at strike
       - forward
       required: false
     - id: 22

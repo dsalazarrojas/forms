@@ -1,128 +1,92 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Pest Control Cleanup Referral Form
     pages:
     - id: 1
-      name: pest_control_cleanup_referral_form
-      label: Pest Control Cleanup Referral
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: pest_control_service_type
+      label: What type of pest control service do you need?
+      hint: Please select the type of service
+      type: select_one
+      options:
+      - Extermination
+      - Prevention
+      - Inspection
+      required: true
     - id: 2
-      name: pest_control_service_team
-      label: Service Team
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: priority
-      label: Priority
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: pest_control_services
-      label: Pest Control Services
-      hint: What type of pest control service do you need?
-      type: text
-      options: []
-      required: false
-    - id: 5
+      label: Which of the following pest control services do you need?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Rodent control
+      - Insect control
+      required: true
+    - id: 3
       name: service_address
       label: Service Address
-      hint: null
+      hint: Enter the service address
       type: text
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: pest_control_cleanup_date
+      label: Date
+      hint: Enter the date of the desired pest control service
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: pest_control_cleanup_time
+      label: Time
+      hint: Enter the time of the desired pest control service
+      type: time
+      options: []
+      required: true
     - id: 6
-      name: service_address_2
-      label: Service Address
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: is_urgent
+      label: Is this an urgent request?
+      hint: Yes/No
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 7
-      name: service_address_3
-      label: Service Address
-      hint: null
+      name: contact_phone
+      label: Service Contact Number
+      hint: Enter the contact number
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: service_address_4
-      label: Service Address
-      hint: null
+      name: contact_email
+      label: Service Contact Email
+      hint: Enter the contact email
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: service_address_5
-      label: Service Address
-      hint: null
-      type: text
+      name: note
+      label: Additional notes
+      hint: Enter any additional comments or notes
+      type: note
       options: []
       required: false
     - id: 10
-      name: pest_control_cleanup_date
-      label: Date
-      hint: null
-      type: text
-      options: []
+      name: pest_control_service_team
+      label: Pest Control Services
+      hint: Select the service team
+      type: select_multiple
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
       required: false
     - id: 11
-      name: pest_control_cleanup_time
-      label: Time
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: pest_control_cleanup_date_2
-      label: Date
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: pest_control_cleanup_time_2
-      label: Time
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: note
-      label: Additional notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: contact_phone
-      label: Service Contact Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: contact_email
-      label: Service Contact Email
-      hint: null
+      name: pest_control_cleanup_referral
+      label: Pest Control Referral
+      hint: Enter the referral information
       type: text
       options: []
       required: false

@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''saas''}'
-      - '{''id'': 2, ''label'': ''partner''}'
-      - '{''id'': 3, ''label'': ''custom''}'
+      - saas
+      - partner
+      - custom
       required: false
     - id: 8
       name: team
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''saas''}'
-      - '{''id'': 2, ''label'': ''partner''}'
+      - saas
+      - partner
       required: false
     - id: 9
       name: comments

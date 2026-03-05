@@ -44,10 +44,10 @@ inputSchema:
       hint: Which AGM are you reserving for?
       type: select_one
       options:
-      - 2026
-      - 2025
-      - 2024
-      - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       required: true
     - id: 7
       name: reservation_type
@@ -162,8 +162,8 @@ inputSchema:
       hint: Will you need parking?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: arrival_time
@@ -198,7 +198,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Agree
-      - false
+      - 'False'
       required: true
     - id: 22
       name: confirmation_method

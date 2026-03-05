@@ -241,8 +241,8 @@ inputSchema:
       hint: Do you need hotel recommendations
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 28
       name: transportation_needed
@@ -250,8 +250,8 @@ inputSchema:
       hint: Do you need transportation assistance
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 29
       name: how_did_you_hear
@@ -274,7 +274,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I agree
-      - false
+      - 'False'
       required: true
     - id: 31
       name: code_of_conduct
@@ -283,7 +283,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I agree
-      - false
+      - 'False'
       required: true
     - id: 32
       name: photo_release
@@ -292,7 +292,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I allow
-      - false
+      - 'False'
       required: true
     - id: 33
       name: liability_waiver
@@ -301,7 +301,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I accept
-      - false
+      - 'False'
       required: true
     - id: 34
       name: registration_date
@@ -317,7 +317,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I certify
-      - false
+      - 'False'
       required: true
     - id: 36
       name: parent_signature
@@ -326,6 +326,6 @@ inputSchema:
       type: select_one
       options:
       - Yes, signed
-      - false
+      - 'False'
       - Not applicable
       required: false

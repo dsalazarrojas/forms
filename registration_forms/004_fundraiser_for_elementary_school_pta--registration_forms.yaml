@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''one time''}'
-      - '{''value'': ''monthly''}'
-      - '{''value'': ''yearly''}'
+      - one time
+      - monthly
+      - yearly
       required: false
     - id: 4
       name: donation_duration
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''month''}'
-      - '{''value'': ''three months''}'
-      - '{''value'': ''six months''}'
-      - '{''value'': ''one year''}'
+      - month
+      - three months
+      - six months
+      - one year
       required: false
     - id: 5
       name: email
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''text''}'
-      - '{''value'': ''email''}'
-      - '{''value'': ''social media''}'
+      - text
+      - email
+      - social media
       required: false
     - id: 8
       name: share_to
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''friends''}'
-      - '{''value'': ''family''}'
-      - '{''value'': ''social media''}'
+      - friends
+      - family
+      - social media
       required: false
     - id: 9
       name: share_link
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''text''}'
-      - '{''value'': ''email''}'
-      - '{''value'': ''social media''}'
+      - text
+      - email
+      - social media
       required: false
     - id: 10
       name: donation_method
@@ -88,8 +88,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''online''}'
-      - '{''value'': ''offline''}'
+      - online
+      - offline
       required: false
     - id: 11
       name: payment_method
@@ -97,8 +97,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''credit card''}'
-      - '{''value'': ''bank transfer''}'
+      - credit card
+      - bank transfer
       required: false
     - id: 12
       name: school_email
@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''general''}'
-      - '{''value'': ''specific''}'
+      - general
+      - specific
       required: false
     - id: 16
       name: school_name

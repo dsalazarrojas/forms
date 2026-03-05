@@ -4,191 +4,100 @@ inputSchema:
     title: Industrial Sustainability Metrics Report Form
     pages:
     - id: 1
-      name: industrial_sustainability_metrics_report_form_1
-      label: Industrial
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: esg_kpis
       label: ESG KPIs
-      hint: null
+      hint: Please select all applicable ESG KPIs
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: true
+    - id: 2
+      name: sustainability_report_date
+      label: Date
+      hint: Please select the date of the sustainability report
+      type: date
+      options: []
       required: true
     - id: 3
-      name: industrial_sustainability_metrics_report_form_3
-      label: Sustainability Metrics
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      name: sustainability_report_time
+      label: Time
+      hint: Please select the time of the sustainability report
+      type: time
+      options: []
       required: false
     - id: 4
-      name: industrial_sustainability_metrics_report_form_4
-      label: environmental_kpis
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
+      name: email
+      label: Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
     - id: 5
-      name: industrial_sustainability_metrics_report_form_5
-      label: Report
-      hint: null
+      name: phone
+      label: Phone
+      hint: Please enter your phone number
       type: text
       options: []
       required: false
     - id: 6
-      name: date
-      label: Date
-      hint: null
-      type: date
+      name: notes
+      label: Notes
+      hint: Please add any additional notes
+      type: note
       options: []
-      required: true
+      required: false
     - id: 7
-      name: industrial_sustainability_metrics_report_form_7
-      label: time
-      hint: null
-      type: time
-      options: []
+      name: category
+      label: Category
+      hint: Please select the category of the sustainability report
+      type: select_one
+      options:
+      - Energy
+      - Water
+      - Waste
+      - Land use
+      - Carbon footprint
       required: false
     - id: 8
-      name: industrial_sustainability_metrics_report_form_8
-      label: Email
-      hint: null
-      type: email
-      options: []
+      name: metric_achievement
+      label: Metric Achievement
+      hint: Please select the level of metric achievement
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
       required: false
     - id: 9
-      name: industrial_sustainability_metrics_report_form_9
-      label: Phone
-      hint: null
-      type: text
+      name: target_date
+      label: Target Date
+      hint: Please select the target date for metric achievement
+      type: date
       options: []
       required: false
     - id: 10
-      name: note
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: industrial_sustainability_metrics_report_form_11
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: industrial_sustainability_metrics_report_form_12
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: industrial_sustainability_metrics_report_form_13
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: industrial_sustainability_metrics_report_form_14
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: industrial_sustainability_metrics_report_form_15
-      label: Category
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: industrial_sustainability_metrics_report_form_16
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: industrial_sustainability_metrics_report_form_17
-      label: Category
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: industrial_sustainability_metrics_report_form_18
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: industrial_sustainability_metrics_report_form_19
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: industrial_sustainability_metrics_report_form_20
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: industrial_sustainability_metrics_report_form_21
-      label: Category
-      hint: null
+      name: current_date
+      label: Current Date
+      hint: Please select the current date of the report
       type: date
       options: []
       required: false
-    - id: 22
-      name: industrial_sustainability_metrics_report_form_22
-      label: Category
-      hint: null
-      type: time
-      options: []
+    - id: 11
+      name: metric_type
+      label: Metric Type
+      hint: Please select the type of metric
+      type: select_multiple
+      options:
+      - Quantity
+      - Rate
       required: false
-    - id: 23
-      name: industrial_sustainability_metrics_report_form_23
-      label: Category
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: industrial_sustainability_metrics_report_form_24
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: industrial_sustainability_metrics_report_form_25
-      label: Category
-      hint: null
-      type: note
-      options: []
+    - id: 12
+      name: metric_level
+      label: Metric Level
+      hint: Please select the level of metric achievement
+      type: select_multiple
+      options:
+      - High
+      - Low
       required: false

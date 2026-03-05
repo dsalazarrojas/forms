@@ -218,8 +218,8 @@ inputSchema:
       hint: Do you have doctor approval
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not Required
       required: true
     - id: 28
@@ -229,7 +229,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Sign
-      - false
+      - 'False'
       required: true
     - id: 29
       name: photo_release
@@ -238,7 +238,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Authorize
-      - false
+      - 'False'
       required: false
     - id: 30
       name: terms_and_conditions
@@ -247,7 +247,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Accept
-      - false
+      - 'False'
       required: true
     - id: 31
       name: payment_method

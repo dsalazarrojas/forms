@@ -16,9 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''name'': ''Category'', ''label'': ''Category''}'
-      - '{''id'': 1, ''name'': ''Category'', ''label'': ''Category''}'
-      - '{''id'': 2, ''name'': ''Category'', ''label'': ''Category''}'
+      - Category
+      - Other
       required: false
     - id: 3
       name: description
@@ -61,9 +60,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''name'': ''United States'', ''label'': ''United States''}'
-      - '{''id'': 1, ''name'': ''United States'', ''label'': ''United States''}'
-      - '{''id'': 2, ''name'': ''United States'', ''label'': ''United States''}'
+      - United States
+      - Other
       required: false
     - id: 9
       name: state
@@ -71,9 +69,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''name'': ''Alabama'', ''label'': ''Alabama''}'
-      - '{''id'': 1, ''name'': ''Alabama'', ''label'': ''Alabama''}'
-      - '{''id'': 2, ''name'': ''Alabama'', ''label'': ''Alabama''}'
+      - Alabama
+      - Other
       required: false
     - id: 10
       name: city

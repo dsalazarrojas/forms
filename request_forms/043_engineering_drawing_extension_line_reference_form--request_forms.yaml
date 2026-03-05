@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Requestor''}'
-      - '{''value'': ''Engineer''}'
-      - '{''value'': ''Drafter''}'
-      - '{''value'': ''Manager''}'
-      - '{''value'': ''Other''}'
-      - '{''value'': ''Not Specified''}'
+      - Requestor
+      - Engineer
+      - Drafter
+      - Manager
+      - Other
+      - Not Specified
       required: false
     - id: 3
       name: drawing_info
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Accept''}'
-      - '{''value'': ''Reject''}'
-      - '{''value'': ''Conditional''}'
+      - Accept
+      - Reject
+      - Conditional
       required: false
     - id: 8
       name: assigned_user
@@ -67,11 +67,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy''}'
-      - '{''value'': ''engineering''}'
-      - '{''value'': ''drafting''}'
-      - '{''value'': ''other''}'
-      - '{''value'': ''not-assigned''}'
+      - chatjimmy
+      - engineering
+      - drafting
+      - other
+      - not-assigned
       required: false
     - id: 9
       name: status
@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''inactive''}'
+      - active
+      - inactive
       required: false
     - id: 10
       name: due_date

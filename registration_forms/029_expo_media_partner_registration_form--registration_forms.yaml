@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Press Pass''}'
-      - '{''id'': 2, ''label'': ''Interview''}'
-      - '{''id'': 3, ''label'': ''Press Conference''}'
-      - '{''id'': 4, ''label'': ''Booth''}'
+      - Press Pass
+      - Interview
+      - Press Conference
+      - Booth
       required: true
     - id: 5
       name: coverage_areas
@@ -41,8 +41,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Main Stage''}'
-      - '{''id'': 2, ''label'': ''Exhibition Halls''}'
+      - Main Stage
+      - Exhibition Halls
       required: true
     - id: 6
       name: start_date
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: additional_comments

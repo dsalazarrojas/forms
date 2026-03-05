@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''en''}'
-      - '{''value'': ''es''}'
-      - '{''value'': ''fr''}'
-      - '{''value'': ''zh''}'
+      - en
+      - es
+      - fr
+      - zh
       required: false
     - id: 3
       name: audio_output
@@ -27,8 +27,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''mp3''}'
-      - '{''value'': ''wav''}'
+      - mp3
+      - wav
       required: false
     - id: 4
       name: video_file
@@ -43,13 +43,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''4K''}'
-      - '{''value'': ''8K''}'
-      - '{''value'': ''1080p''}'
-      - '{''value'': ''1080i''}'
-      - '{''value'': ''2K''}'
-      - '{''value'': ''4K''}'
-      - '{''value'': ''6K''}'
+      - 4K
+      - 8K
+      - 1080p
+      - 1080i
+      - 2K
+      - 6K
       required: false
     - id: 6
       name: transcription_speed
@@ -57,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''normal''}'
-      - '{''value'': ''fast''}'
-      - '{''value'': ''priority''}'
+      - normal
+      - fast
+      - priority
       required: false
     - id: 7
       name: email_to

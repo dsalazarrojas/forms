@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
-      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
-      - '{''id'': 3, ''label'': ''Undecided'', ''value'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 3
       name: question_two
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Freelancer'', ''value'': ''Freelancer''}'
-      - '{''id'': 2, ''label'': ''Full-time'', ''value'': ''Full-time''}'
+      - Freelancer
+      - Full-time
       required: false
     - id: 7
       name: question_six
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Positive'', ''value'': ''Positive''}'
-      - '{''id'': 2, ''label'': ''Neutral'', ''value'': ''Neutral''}'
-      - '{''id'': 3, ''label'': ''Negative'', ''value'': ''Negative''}'
+      - Positive
+      - Neutral
+      - Negative
       required: false
     - id: 8
       name: question_seven
@@ -66,8 +66,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
-      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: question_eight
@@ -75,10 +75,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''15 minutes'', ''value'': ''15 minutes''}'
-      - '{''id'': 2, ''label'': ''30 minutes'', ''value'': ''30 minutes''}'
-      - '{''id'': 3, ''label'': ''60 minutes'', ''value'': ''60 minutes''}'
-      - '{''id'': 4, ''label'': ''1 hour'', ''value'': ''1 hour''}'
+      - 15 minutes
+      - 30 minutes
+      - 60 minutes
+      - 1 hour
       required: false
     - id: 10
       name: question_nine
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
-      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: question_ten
@@ -95,8 +95,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
-      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: question_eleven
@@ -104,8 +104,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
-      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: question_twelve
@@ -120,8 +120,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Submit'', ''value'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Save as draft'', ''value'': ''Save as draft''}'
+      - Submit
+      - Save as draft
       required: false
     - id: 15
       name: question_fifteen
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''High'', ''value'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low'', ''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 16
       name: question_sixteen
@@ -146,8 +146,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
-      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: question_eighteen
@@ -155,8 +155,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
-      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: question_nineteen
@@ -164,8 +164,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Bad'', ''value'': ''Bad''}'
+      - Good
+      - Bad
       required: false
     - id: 20
       name: question_twenty
@@ -180,10 +180,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Social media'', ''value'': ''Social media''}'
-      - '{''id'': 2, ''label'': ''Google search'', ''value'': ''Google search''}'
-      - '{''id'': 3, ''label'': ''Referral'', ''value'': ''Referral''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      - Social media
+      - Google search
+      - Referral
+      - Other
       required: false
     - id: 22
       name: question_twenty_two
@@ -191,8 +191,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
-      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: question_twenty_three

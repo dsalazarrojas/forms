@@ -23,8 +23,8 @@ inputSchema:
       hint: Check this only if the required safety equipment is available
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: drill_conducted
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: drill_frequency
@@ -41,11 +41,11 @@ inputSchema:
       hint: How often do drills occur at this location?
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Quarterly''}'
-      - '{''id'': 5, ''label'': ''Rarely''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
       required: false
     - id: 6
       name: drill_duration

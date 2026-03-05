@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: phone
@@ -74,10 +74,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Forward''}'
-      - '{''id'': 2, ''label'': ''Defense''}'
-      - '{''id'': 3, ''label'': ''Goalie''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Forward
+      - Defense
+      - Goalie
+      - Other
       required: true
     - id: 11
       name: emergency_contact_relationship

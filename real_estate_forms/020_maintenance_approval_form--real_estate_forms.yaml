@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Leasehold''}'
-      - '{''id'': 2, ''label'': ''Fee Simple''}'
-      - '{''id'': 3, ''label'': ''Land lease''}'
+      - Leasehold
+      - Fee Simple
+      - Land lease
       required: false
     - id: 3
       name: contact_first_name
@@ -110,7 +110,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approved''}'
-      - '{''id'': 2, ''label'': ''Rejected''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: false

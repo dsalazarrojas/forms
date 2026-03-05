@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': ''true''}'
-      - '{''id'': 2, ''label'': False, ''value'': ''false''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: delivery_choice
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Home Delivery'', ''value'': ''home''}'
-      - '{''id'': 2, ''label'': ''Pickup'', ''value'': ''pickup''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Home Delivery
+      - Pickup
+      - Other
       required: false
     - id: 10
       name: other_delivery_details
@@ -84,10 +84,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Apple Pie'', ''value'': ''apple pie''}'
-      - '{''id'': 2, ''label'': ''Blueberry Pie'', ''value'': ''blueberry pie''}'
-      - '{''id'': 3, ''label'': ''Lemon Meringue Pie'', ''value'': ''lemon meringue
-        pie''}'
+      - Apple Pie
+      - Blueberry Pie
+      - Lemon Meringue Pie
       required: true
     - id: 12
       name: name_of_gift_receiver
@@ -116,9 +115,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Delivery via email'', ''value'': ''delivery via
-        email''}'
-      - '{''id'': 2, ''label'': ''Delivery via SMS'', ''value'': ''delivery via SMS''}'
+      - Delivery via email
+      - Delivery via SMS
       required: false
     - id: 16
       name: delivery_date
@@ -126,9 +124,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Next week'', ''value'': ''next week''}'
-      - '{''id'': 2, ''label'': ''Next month'', ''value'': ''next month''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Next week
+      - Next month
+      - Other
       required: true
     - id: 17
       name: delivery_time
@@ -171,8 +169,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Color'', ''value'': ''color''}'
-      - '{''id'': 2, ''label'': ''Black and White'', ''value'': ''black and white''}'
+      - Color
+      - Black and White
       required: true
     - id: 23
       name: name_of_designer

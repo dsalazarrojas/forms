@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Park Maintenance'', ''label'': ''Park Maintenance''}'
-      - '{''value'': ''Park Upgrade'', ''label'': ''Park Upgrade''}'
-      - '{''value'': ''Park Removal'', ''label'': ''Park Removal''}'
+      - Park Maintenance
+      - Park Upgrade
+      - Park Removal
       required: true
     - id: 3
       name: select_multiple_equipment
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Bench'', ''label'': ''Bench''}'
-      - '{''value'': ''Picnic Table'', ''label'': ''Picnic Table''}'
-      - '{''value'': ''Play Equipment'', ''label'': ''Play Equipment''}'
+      - Bench
+      - Picnic Table
+      - Play Equipment
       required: true
     - id: 4
       name: select_one_frequency
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Rarely'', ''label'': ''Rarely''}'
-      - '{''value'': ''Occasionally'', ''label'': ''Occasionally''}'
-      - '{''value'': ''Frequently'', ''label'': ''Frequently''}'
+      - Rarely
+      - Occasionally
+      - Frequently
       required: false
     - id: 5
       name: park_name

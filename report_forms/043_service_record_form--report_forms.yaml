@@ -67,10 +67,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 9.1, ''name'': ''monthly'', ''label'': ''Monthly''}'
-      - '{''id'': 9.2, ''name'': ''quarterly'', ''label'': ''Quarterly''}'
-      - '{''id'': 9.3, ''name'': ''semi_annual'', ''label'': ''Semi-annual''}'
-      - '{''id'': 9.4, ''name'': ''yearly'', ''label'': ''Yearly''}'
+      - Monthly
+      - Quarterly
+      - Semi-annual
+      - Yearly
       required: false
     - id: 10
       name: service_type
@@ -78,12 +78,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10.1, ''name'': ''Oil Service'', ''label'': ''Oil Service''}'
-      - '{''id'': 10.2, ''name'': ''Tire Service'', ''label'': ''Tire Service''}'
-      - '{''id'': 10.3, ''name'': ''Maintenance Service'', ''label'': ''Maintenance
-        Service''}'
-      - '{''id'': 10.4, ''name'': ''Inspection Service'', ''label'': ''Inspection
-        Service''}'
+      - Oil Service
+      - Tire Service
+      - Maintenance Service
+      - Inspection Service
       required: false
     - id: 11
       name: notes

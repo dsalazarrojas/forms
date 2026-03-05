@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''name'': True}'
-      - '{''id'': 1, ''name'': False}'
-      - '{''id'': 2, ''name'': ''Not Applicable''}'
+      - 'True'
+      - 'False'
+      - Not Applicable
       required: true
     - id: 6
       name: attendee_count
@@ -89,10 +89,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''name'': ''Movie Premiere''}'
-      - '{''id'': 1, ''name'': ''Q&A''}'
-      - '{''id'': 2, ''name'': ''Panel Discussion''}'
-      - '{''id'': 3, ''name'': ''Press Conference''}'
+      - Movie Premiere
+      - Q&A
+      - Panel Discussion
+      - Press Conference
       required: false
     - id: 13
       name: contact_email

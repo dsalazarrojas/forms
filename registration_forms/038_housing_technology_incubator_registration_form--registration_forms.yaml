@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Incubator'', ''label'': ''Incubator''}'
-      - '{''id'': 2, ''name'': ''Accelerator'', ''label'': ''Accelerator''}'
-      - '{''id'': 2, ''name'': ''Research center'', ''label'': ''Research center''}'
-      - '{''id'': 3, ''name'': ''Incubator-accelerator'', ''label'': ''Incubator-accelerator''}'
-      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      - Incubator
+      - Accelerator
+      - Research center
+      - Incubator-accelerator
+      - Other
       required: false
     - id: 5
       name: startup_type
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Housing tech'', ''label'': ''Housing tech''}'
-      - '{''id'': 2, ''name'': ''Real estate'', ''label'': ''Real estate''}'
-      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
+      - Housing tech
+      - Real estate
+      - Other
       required: false
     - id: 6
       name: location

@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''residential'', ''value'': ''Residential''}'
-      - '{''id'': 2, ''name'': ''commercial'', ''value'': ''Commercial''}'
-      - '{''id'': 3, ''name'': ''industrial'', ''value'': ''Industrial''}'
+      - Residential
+      - Commercial
+      - Industrial
       required: true
     - id: 9
       name: property_status
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''available'', ''value'': ''Available''}'
-      - '{''id'': 2, ''name'': ''rented'', ''value'': ''Rented''}'
-      - '{''id'': 3, ''name'': ''sold'', ''value'': ''Sold''}'
+      - Available
+      - Rented
+      - Sold
       required: true
     - id: 10
       name: contact_method
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''phone'', ''value'': ''Phone''}'
-      - '{''id'': 2, ''name'': ''email'', ''value'': ''Email''}'
-      - '{''id'': 3, ''name'': ''message'', ''value'': ''Message''}'
+      - Phone
+      - Email
+      - Message
       required: false
     - id: 11
       name: lead_source
@@ -88,11 +88,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''agent'', ''value'': ''Agent''}'
-      - '{''id'': 2, ''name'': ''online'', ''value'': ''Online''}'
-      - '{''id'': 3, ''name'': ''referral'', ''value'': ''Referral''}'
-      - '{''id'': 4, ''name'': ''print'', ''value'': ''Print''}'
-      - '{''id'': 5, ''name'': ''social'', ''value'': ''Social''}'
+      - Agent
+      - Online
+      - Referral
+      - Print
+      - Social
       required: true
     - id: 12
       name: realty_company
@@ -100,9 +100,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''realty_company_1'', ''value'': ''Realty Company 1''}'
-      - '{''id'': 2, ''name'': ''realty_company_2'', ''value'': ''Realty Company 2''}'
-      - '{''id'': 3, ''name'': ''realty_company_3'', ''value'': ''Realty Company 3''}'
+      - Realty Company 1
+      - Realty Company 2
+      - Realty Company 3
       required: true
     - id: 13
       name: property_address
@@ -159,10 +159,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''new'', ''value'': ''New''}'
-      - '{''id'': 2, ''name'': ''follow_up'', ''value'': ''Follow-up''}'
-      - '{''id'': 3, ''name'': ''converted'', ''value'': ''Converted''}'
-      - '{''id'': 4, ''name'': ''expired'', ''value'': ''Expired''}'
+      - New
+      - Follow-up
+      - Converted
+      - Expired
       required: true
     - id: 21
       name: follow_up_date

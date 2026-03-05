@@ -16,191 +16,141 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: how_to_be_successful_as_a_ceo_with_multiple_busineses
+      label: How To Be Successful As A Ceo With Multiple Businesses
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: form_description
-      label: description
-      hint: null
+      label: Description
+      hint: Briefly describe yourself
       type: text
       options: []
       required: false
     - id: 3
-      name: form_category
-      label: category
+      name: rsvp_form_title
+      label: RSVP Form Title
       hint: null
-      type: select_multiple
-      options:
-      - RSVP Forms
-      - other
+      type: text
+      options: []
       required: false
     - id: 4
-      name: rsvp_forms
-      label: rsvp_forms
+      name: rsvp_do_you_feel_overwhelmed_at_times
+      label: Do You Feel Overwhelmed At Times?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
       required: false
     - id: 5
-      name: do_you_feel_overwhelmed_at_times
-      label: do_you_feel_overwhelmed_at_times
+      name: rsvp_do_you_use_time_blocks
+      label: Do You Use Time Blocks?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
       required: false
     - id: 6
-      name: do_you_use_time_blocks
-      label: time_blocks
+      name: rsvp_do_you_feel_stress_prophets_stresses
+      label: How Do You Feel About Stress?
+      hint: null
+      type: select_one
+      options:
+      - A Lot
+      - A Little
+      - Not at All
+      required: false
+    - id: 7
+      name: rsvp_successful_with_multiple_businesses
+      label: How to Be Successful with Multiple Businesses
       hint: null
       type: select_multiple
       options:
-      - 'True'
-      - 'False'
-      - not_sure
+      - Sign Up Today
+      - Contact Us Later
+      - No Interest
       required: false
-    - id: 7
-      name: do_you_feel_stress_prophets_stresses
-      label: stresses
+    - id: 8
+      name: rsvp_form
+      label: RSVP Form
+      hint: null
+      type: select_multiple
+      options:
+      - RSVP Form for Form Title
+      - Another RSVP Form
+      - No RSVP Form
+      required: false
+    - id: 9
+      name: rsvp_output_file
+      label: Output File
+      hint: Please enter the output file name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rsvp_form_id
+      label: Form ID
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: do_you_feel_stress_with_much_stress
-      label: much_stress
-      hint: null
-      type: select_one
-      options:
-      - a_lot
-      - little_stress
-      required: false
-    - id: 9
-      name: how_to_be_successful_with_multiple_businesses
-      label: successful_with_multiple_businesses
-      hint: null
-      type: select_multiple
-      options:
-      - sign_up_today
-      - contact_us_later
-      - do_not_want_to_learn
-      required: false
-    - id: 10
-      name: how_to_be_successful_with_multiple_businesses_stress_free
-      label: stress_free
-      hint: null
-      type: select_one
-      options:
-      - sign_up_today
-      - contact_us_later
-      - do_not_want_to_learn
-      required: false
     - id: 11
-      name: how_to_be_successful_with_multiple_businesses_stress_free_why
-      label: why
+      name: assigned_tool
+      label: Assigned Tool
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: rsvp
-      label: rsvp
+      name: form_description_2
+      label: Form Description 2
       hint: null
-      type: select_multiple
-      options:
-      - sign_up_today
-      - contact_us_later
-      - do_not_want_to_learn
+      type: text
+      options: []
       required: false
     - id: 13
-      name: assigned_tool
-      label: rsvp_forms
+      name: rsvp_form_output
+      label: RSVP Form Output
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: output_file
-      label: output_file
+      name: rsvp_form_id_2
+      label: Rsvp Form Id 2
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: form_id
-      label: form_id
+      name: successful_with_multiple_businesses_why
+      label: Why Be Successful with Multiple Businesses
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: form_id
-      label: form_id
+      name: form_title_2
+      label: Form Title
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: assigned_tool
-      label: rsvp_forms
+      name: rsvp_forms
+      label: RSVP Forms
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: assigned_tool
-      label: rsvp_forms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: assigned_tool
-      label: rsvp_forms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: assigned_tool
-      label: rsvp_forms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: assigned_tool
-      label: rsvp_forms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: assigned_tool
-      label: rsvp_forms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: assigned_tool
-      label: rsvp_forms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: assigned_tool
-      label: rsvp_forms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: assigned_tool
-      label: rsvp_forms
+      name: output_file
+      label: Output File (2)
       hint: null
       type: text
       options: []

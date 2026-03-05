@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: false
     - id: 13
       name: notes
@@ -103,8 +103,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Phone''}'
+      - Email
+      - Phone
       required: false
     - id: 15
       name: comments
@@ -119,6 +119,6 @@ inputSchema:
       hint: Select the best way prophets would like to receive their confirmation
       type: select_multiple
       options:
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Phone''}'
+      - Email
+      - Phone
       required: false

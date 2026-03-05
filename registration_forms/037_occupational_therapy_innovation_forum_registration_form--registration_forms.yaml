@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Student'', ''value'': ''Student''}'
-      - '{''label'': ''Practitioner'', ''value'': ''Practitioner''}'
-      - '{''label'': ''Educator'', ''value'': ''Educator''}'
+      - Student
+      - Practitioner
+      - Educator
       required: true
     - id: 10
       name: affiliation
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Student'', ''value'': ''Student''}'
-      - '{''label'': ''Practitioner'', ''value'': ''Practitioner''}'
-      - '{''label'': ''Educator'', ''value'': ''Educator''}'
+      - Student
+      - Practitioner
+      - Educator
       required: false
     - id: 11
       name: date_of_registration
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''PayPal'', ''value'': ''PayPal''}'
-      - '{''label'': ''Bank Transfer'', ''value'': ''Bank Transfer''}'
-      - '{''label'': ''Cash'', ''value'': ''Cash''}'
+      - PayPal
+      - Bank Transfer
+      - Cash
       required: false
     - id: 14
       name: payment_amount
@@ -116,8 +116,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Paid'', ''value'': ''Paid''}'
-      - '{''label'': ''Not Paid'', ''value'': ''Not Paid''}'
+      - Paid
+      - Not Paid
       required: true
     - id: 16
       name: notes

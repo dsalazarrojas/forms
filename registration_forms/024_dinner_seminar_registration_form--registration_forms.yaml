@@ -58,10 +58,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Vegetarian''}'
-      - '{''label'': ''Gluten-free''}'
-      - '{''label'': ''Vegan''}'
-      - '{''label'': ''Other''}'
+      - Vegetarian
+      - Gluten-free
+      - Vegan
+      - Other
       required: true
     - id: 9
       name: attendee_diet_other
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
+      - 'False'
+      - 'True'
       required: true
     - id: 11
       name: guest_name_other

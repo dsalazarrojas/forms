@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not received payment''}'
-      - '{''label'': ''Not received payment confirmation''}'
-      - '{''label'': ''Other reasons''}'
+      - Not received payment
+      - Not received payment confirmation
+      - Other reasons
       required: true
     - id: 4
       name: supporting_documents
@@ -44,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Invoice''}'
-      - '{''label'': ''Receipt''}'
-      - '{''label'': ''Other documents''}'
+      - Invoice
+      - Receipt
+      - Other documents
       required: true
     - id: 5
       name: new_date
@@ -75,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not received payment''}'
-      - '{''label'': ''Not received payment confirmation''}'
-      - '{''label'': ''Other''}'
+      - Not received payment
+      - Not received payment confirmation
+      - Other
       required: true
     - id: 9
       name: supporting_document_3

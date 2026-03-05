@@ -1,267 +1,256 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Clock In Out Error Form
     pages:
-      - id: 1
-        name: form_header
-        label: Clock In-Out Error Report Form
-        hint: Use this form to report and correct clock-in or clock-out errors
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: employee_name
-        label: Employee Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: employee_id
-        label: Employee ID
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: department
-        label: Department
-        hint: null
-        type: select_one
-        options:
-          - Administration
-          - Operations
-          - Facilities
-          - Maintenance
-          - Security
-          - Housekeeping
-          - Customer Service
-          - Other
-        required: true
-      - id: 5
-        name: position
-        label: Position or Job Title
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: supervisor_name
-        label: Supervisor Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: report_date
-        label: Date Reporting Error
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 8
-        name: error_date
-        label: Date of Error
-        hint: When did the error occur
-        type: date
-        options: []
-        required: true
-      - id: 9
-        name: shift_date
-        label: Shift Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 10
-        name: scheduled_start
-        label: Scheduled Start Time
-        hint: null
-        type: time
-        options: []
-        required: true
-      - id: 11
-        name: scheduled_end
-        label: Scheduled End Time
-        hint: null
-        type: time
-        options: []
-        required: true
-      - id: 12
-        name: error_type
-        label: Type of Error
-        hint: null
-        type: select_one
-        options:
-          - Forgot to Clock In
-          - Forgot to Clock Out
-          - Clocked In Wrong Time
-          - Clocked Out Wrong Time
-          - Clocked In Wrong Location
-          - Clocked Out Wrong Location
-          - System Did Not Record
-          - Double Entry
-          - Other
-        required: true
-      - id: 13
-        name: error_description
-        label: Describe the Error
-        hint: What happened
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: correct_clock_in
-        label: Correct Clock-In Time
-        hint: What it should be
-        type: time
-        options: []
-        required: true
-      - id: 15
-        name: correct_clock_out
-        label: Correct Clock-Out Time
-        hint: What it should be
-        type: time
-        options: []
-        required: true
-      - id: 16
-        name: recorded_clock_in
-        label: Recorded Clock-In Time
-        hint: What system shows
-        type: time
-        options: []
-        required: false
-      - id: 17
-        name: recorded_clock_out
-        label: Recorded Clock-Out Time
-        hint: What system shows
-        type: time
-        options: []
-        required: false
-      - id: 18
-        name: cause_of_error
-        label: What Caused the Error
-        hint: null
-        type: select_one
-        options:
-          - Employee Forgetfulness
-          - Time Clock Malfunction
-          - System Error
-          - Power Outage
-          - Network Issue
-          - Wrong Terminal Used
-          - Rushed or Emergency
-          - Other
-        required: true
-      - id: 19
-        name: cause_details
-        label: Additional Details About Cause
-        hint: If needed
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: hours_worked
-        label: Actual Hours Worked
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 21
-        name: break_taken
-        label: Did You Take Your Scheduled Break
-        hint: null
-        type: select_one
-        options:
-          - Yes Full Break
-          - Yes Partial Break
-          - No Worked Through
-          - Not Applicable
-        required: true
-      - id: 22
-        name: overtime_involved
-        label: Does This Involve Overtime Hours
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 23
-        name: overtime_details
-        label: Overtime Details
-        hint: If yes explain
-        type: text
-        options: []
-        required: false
-      - id: 24
-        name: pay_impact
-        label: Will This Affect Your Pay
-        hint: null
-        type: select_one
-        options:
-          - Yes Underpaid
-          - Yes Overpaid
-          - No Impact
-          - Not Sure
-        required: true
-      - id: 25
-        name: witness_if_any
-        label: Witness Name
-        hint: If applicable
-        type: text
-        options: []
-        required: false
-      - id: 26
-        name: employee_signature
-        label: Employee Signature
-        hint: Type full name
-        type: text
-        options: []
-        required: true
-      - id: 27
-        name: signature_date
-        label: Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 28
-        name: supervisor_verification
-        label: Supervisor Verification
-        hint: null
-        type: select_one
-        options:
-          - Verified Accurate
-          - Needs Investigation
-          - Denied
-        required: false
-      - id: 29
-        name: supervisor_signature
-        label: Supervisor Signature
-        hint: Type full name
-        type: text
-        options: []
-        required: false
-      - id: 30
-        name: payroll_processed
-        label: Payroll Processing Status
-        hint: HR use
-        type: select_one
-        options:
-          - Processed
-          - Pending
-          - Not Yet Submitted
-        required: false
+    - id: 1
+      name: form_header
+      label: Clock In-Out Error Report Form
+      hint: Use this form to report and correct clock-in or clock-out errors
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Administration
+      - Operations
+      - Facilities
+      - Maintenance
+      - Security
+      - Housekeeping
+      - Customer Service
+      - Other
+      required: true
+    - id: 5
+      name: position
+      label: Position or Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: report_date
+      label: Date Reporting Error
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: error_date
+      label: Date of Error
+      hint: When did the error occur
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: scheduled_start
+      label: Scheduled Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: scheduled_end
+      label: Scheduled End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: error_type
+      label: Type of Error
+      hint: null
+      type: select_one
+      options:
+      - Forgot to Clock In
+      - Forgot to Clock Out
+      - Clocked In Wrong Time
+      - Clocked Out Wrong Time
+      - Clocked In Wrong Location
+      - Clocked Out Wrong Location
+      - System Did Not Record
+      - Double Entry
+      - Other
+      required: true
+    - id: 13
+      name: error_description
+      label: Describe the Error
+      hint: What happened
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: correct_clock_in
+      label: Correct Clock-In Time
+      hint: What it should be
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: correct_clock_out
+      label: Correct Clock-Out Time
+      hint: What it should be
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: recorded_clock_in
+      label: Recorded Clock-In Time
+      hint: What system shows
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: recorded_clock_out
+      label: Recorded Clock-Out Time
+      hint: What system shows
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: cause_of_error
+      label: What Caused the Error
+      hint: null
+      type: select_one
+      options:
+      - Employee Forgetfulness
+      - Time Clock Malfunction
+      - System Error
+      - Power Outage
+      - Network Issue
+      - Wrong Terminal Used
+      - Rushed or Emergency
+      - Other
+      required: true
+    - id: 19
+      name: cause_details
+      label: Additional Details About Cause
+      hint: If needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: hours_worked
+      label: Actual Hours Worked
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: break_taken
+      label: Did You Take Your Scheduled Break
+      hint: null
+      type: select_one
+      options:
+      - Yes Full Break
+      - Yes Partial Break
+      - No Worked Through
+      - Not Applicable
+      required: true
+    - id: 22
+      name: overtime_involved
+      label: Does This Involve Overtime Hours
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: overtime_details
+      label: Overtime Details
+      hint: If yes explain
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: pay_impact
+      label: Will This Affect Your Pay
+      hint: null
+      type: select_one
+      options:
+      - Yes Underpaid
+      - Yes Overpaid
+      - No Impact
+      - Not Sure
+      required: true
+    - id: 25
+      name: witness_if_any
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: employee_signature
+      label: Employee Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: supervisor_verification
+      label: Supervisor Verification
+      hint: null
+      type: select_one
+      options:
+      - Verified Accurate
+      - Needs Investigation
+      - Denied
+      required: false
+    - id: 29
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: payroll_processed
+      label: Payroll Processing Status
+      hint: HR use
+      type: select_one
+      options:
+      - Processed
+      - Pending
+      - Not Yet Submitted
+      required: false

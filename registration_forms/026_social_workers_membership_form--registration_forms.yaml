@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''A'', ''name'': ''Member''}'
-      - '{''id'': ''B'', ''name'': ''Associate''}'
+      - Member
+      - Associate
       required: false
     - id: 11
       name: member_since
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''C'', ''name'': ''Active''}'
-      - '{''id'': ''D'', ''name'': ''Inactive''}'
-      - '{''id'': ''E'', ''name'': ''New''}'
+      - Active
+      - Inactive
+      - New
       required: false
     - id: 14
       name: email
@@ -133,8 +133,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''1'', ''name'': ''Member''}'
-      - '{''id'': ''2'', ''name'': ''Non-Member''}'
+      - Member
+      - Non-Member
       required: false
     - id: 19
       name: subcategory
@@ -142,8 +142,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''1'', ''name'': ''Category''}'
-      - '{''id'': ''2'', ''name'': ''Another Category''}'
+      - Category
+      - Another Category
       required: false
     - id: 20
       name: location
@@ -151,9 +151,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''1'', ''name'': ''New York''}'
-      - '{''id'': ''2'', ''name'': ''California''}'
-      - '{''id'': ''3'', ''name'': ''Chicago''}'
+      - New York
+      - California
+      - Chicago
       required: false
     - id: 21
       name: work_hours
@@ -168,18 +168,18 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''1'', ''name'': ''January''}'
-      - '{''id'': ''2'', ''name'': ''February''}'
-      - '{''id'': ''3'', ''name'': ''March''}'
-      - '{''id'': ''4'', ''name'': ''April''}'
-      - '{''id'': ''5'', ''name'': ''May''}'
-      - '{''id'': ''6'', ''name'': ''June''}'
-      - '{''id'': ''7'', ''name'': ''July''}'
-      - '{''id'': ''8'', ''name'': ''August''}'
-      - '{''id'': ''9'', ''name'': ''September''}'
-      - '{''id'': ''10'', ''name'': ''October''}'
-      - '{''id'': ''11'', ''name'': ''November''}'
-      - '{''id'': ''12'', ''name'': ''December''}'
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
       required: false
     - id: 23
       name: member_since_year
@@ -187,19 +187,19 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''1'', ''name'': 2010}'
-      - '{''id'': ''2'', ''name'': 2011}'
-      - '{''id'': ''3'', ''name'': 2012}'
-      - '{''id'': ''4'', ''name'': 2013}'
-      - '{''id'': ''5'', ''name'': 2014}'
-      - '{''id'': ''6'', ''name'': 2015}'
-      - '{''id'': ''7'', ''name'': 2016}'
-      - '{''id'': ''8'', ''name'': 2017}'
-      - '{''id'': ''9'', ''name'': 2018}'
-      - '{''id'': ''10'', ''name'': 2019}'
-      - '{''id'': ''11'', ''name'': 2020}'
-      - '{''id'': ''12'', ''name'': 2021}'
-      - '{''id'': ''13'', ''name'': 2022}'
+      - '2010'
+      - '2011'
+      - '2012'
+      - '2013'
+      - '2014'
+      - '2015'
+      - '2016'
+      - '2017'
+      - '2018'
+      - '2019'
+      - '2020'
+      - '2021'
+      - '2022'
       required: false
     - id: 24
       name: member_since_month_days

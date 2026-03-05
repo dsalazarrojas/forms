@@ -4,191 +4,92 @@ inputSchema:
     title: Vendor Vetting Initiative Registration Form
     pages:
     - id: 1
-      name: vendor_vetting_initiative_registration_form
-      label: Vendor Vetting Initiative Registration Form
+      name: vendor_vetting_info
+      label: Vendor Information Form
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: name
-      label: name
+      name: first_contact_details
+      label: First Contact Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: address
-      label: address
+      name: submissions
+      label: Submissions
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: contact_number
-      label: contact_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 6
-      name: vetting_status
-      label: vetting_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 7
-      name: date_of_first_contact
-      label: date_of_first_contact
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: time_of_first_contact
-      label: time_of_first_contact
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 9
-      name: date_of_last_contact
-      label: date_of_last_contact
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: time_of_last_contact
-      label: time_of_last_contact
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: frequency_of_contact
-      label: frequency_of_contact
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
       name: notes
-      label: notes
+      label: Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 13
+    - id: 5
       name: assigned_to
-      label: assigned_to
+      label: Assigned to
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 14
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: submitted_on
-      label: submitted_on
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: submitted_on
-      label: submitted_on
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: vetting_status_updated_on
-      label: vetting_status_updated_on
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: vetting_status_updated_on
-      label: vetting_status_updated_on
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
+    - id: 6
       name: contact_name
-      label: contact_name
+      label: Contact Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 21
+    - id: 7
       name: contact_email
-      label: contact_email
+      label: Contact Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 22
-      name: assigned_to
-      label: assigned_to
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: submitted_on
-      label: submitted_on
+    - id: 8
+      name: vetting_status_updated
+      label: Vetting Status Updated
       hint: null
       type: date
       options: []
       required: false
-    - id: 25
-      name: submitted_on
-      label: submitted_on
+    - id: 9
+      name: vetting_status_updated_2
+      label: Vetting Status Updated 2
       hint: null
       type: time
       options: []
       required: false
+    - id: 10
+      name: submission_details
+      label: Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_completion_status
+      label: Form Completion Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

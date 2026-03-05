@@ -1,165 +1,154 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cancellation And Refund Policy For Private Courses
     pages:
-      - id: 1
-        name: student_info_section
-        label: -- Student Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: student_full_name
-        label: Student Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: registration_id
-        label: Student ID or Registration Number
-        hint: Found in your enrollment confirmation email
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: student_email
-        label: Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 5
-        name: course_name
-        label: Course Name
-        hint: Full title of the course you are enrolled in
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: instructor_name
-        label: Instructor Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: request_details_section
-        label: -- Request Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: request_type
-        label: Type of Request
-        hint: What action would you like to take
-        type: select_one
-        options:
-          - Full Cancellation
-          - Partial Cancellation
-          - Rescheduling Request
-          - Course Transfer
-        required: true
-      - id: 9
-        name: reason_primary
-        label: Reason for Request
-        hint: Select the most accurate reason
-        type: select_one
-        options:
-          - Scheduling Conflict
-          - Medical Reason
-          - Relocation
-          - Dissatisfaction
-          - Other
-        required: true
-      - id: 10
-        name: reason_details
-        label: Elaborate on Reason
-        hint: Provide additional context for your request
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: policy_ack_section
-        label: -- Refund Policy Acknowledgement --
-        hint: Please review our standard terms
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: read_policy_confirmation
-        label: I have read the cancellation policy
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 13
-        name: refund_expectation
-        label: Percentage of refund expected
-        hint: Based on our notice period rules
-        type: select_one
-        options:
-          - 100% (7+ days notice)
-          - 50% (3-6 days notice)
-          - 0% (less than 3 days)
-          - Other
-        required: true
-      - id: 14
-        name: refund_method
-        label: Refund Method
-        hint: Preferred way to receive your refund
-        type: select_one
-        options:
-          - Credit Card (Back to original)
-          - PayPal
-          - Bank Transfer
-          - Course Credit for Future
-        required: true
-      - id: 15
-        name: confirmation_section
-        label: -- Confirmation --
-        hint: Review and sign
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: non_refundable_agreement
-        label: Agreement to non-refundable fees
-        hint: Administrative fees may be deducted from the refund
-        type: select_one
-        options:
-          - I agree
-          - I do not agree
-        required: true
-      - id: 17
-        name: finality_understanding
-        label: I understand the finality of this decision
-        hint: Cancellation may lead to loss of placement in the course
-        type: select_one
-        options:
-          - Yes, I confirm
-          - No
-        required: true
-      - id: 18
-        name: submission_date
-        label: Submission Date
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: student_info_section
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registration_id
+      label: Student ID or Registration Number
+      hint: Found in your enrollment confirmation email
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: course_name
+      label: Course Name
+      hint: Full title of the course you are enrolled in
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: request_details_section
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: request_type
+      label: Type of Request
+      hint: What action would you like to take
+      type: select_one
+      options:
+      - Full Cancellation
+      - Partial Cancellation
+      - Rescheduling Request
+      - Course Transfer
+      required: true
+    - id: 9
+      name: reason_primary
+      label: Reason for Request
+      hint: Select the most accurate reason
+      type: select_one
+      options:
+      - Scheduling Conflict
+      - Medical Reason
+      - Relocation
+      - Dissatisfaction
+      - Other
+      required: true
+    - id: 10
+      name: reason_details
+      label: Elaborate on Reason
+      hint: Provide additional context for your request
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policy_ack_section
+      label: -- Refund Policy Acknowledgement --
+      hint: Please review our standard terms
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: read_policy_confirmation
+      label: I have read the cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: refund_expectation
+      label: Percentage of refund expected
+      hint: Based on our notice period rules
+      type: select_one
+      options:
+      - 100% (7+ days notice)
+      - 50% (3-6 days notice)
+      - 0% (less than 3 days)
+      - Other
+      required: true
+    - id: 14
+      name: refund_method
+      label: Refund Method
+      hint: Preferred way to receive your refund
+      type: select_one
+      options:
+      - Credit Card (Back to original)
+      - PayPal
+      - Bank Transfer
+      - Course Credit for Future
+      required: true
+    - id: 15
+      name: confirmation_section
+      label: -- Confirmation --
+      hint: Review and sign
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: non_refundable_agreement
+      label: Agreement to non-refundable fees
+      hint: Administrative fees may be deducted from the refund
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 17
+      name: finality_understanding
+      label: I understand the finality of this decision
+      hint: Cancellation may lead to loss of placement in the course
+      type: select_one
+      options:
+      - Yes, I confirm
+      - 'False'
+      required: true
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

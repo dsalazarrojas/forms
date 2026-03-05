@@ -1,227 +1,216 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Brand Standard Room Inspection Form
     pages:
-      - id: 1
-        name: inspection_date
-        label: Inspection Date
-        hint: Date when the inspection was conducted
-        type: date
-        options: []
-        required: true
-      - id: 2
-        name: room_number
-        label: Room Number
-        hint: Enter the room number or identifier
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: guest_name
-        label: Guest Name
-        hint: Name of the current or departing guest
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: check_in_date
-        label: Check-in Date
-        hint: When the guest checked in
-        type: date
-        options: []
-        required: false
-      - id: 5
-        name: check_out_date
-        label: Check-out Date
-        hint: When the guest is checking out
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: bed_condition
-        label: Bed and Bedding Condition
-        hint: Rate the condition of beds and linens
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Acceptable
-          - Needs cleaning
-          - Damaged
-        required: true
-      - id: 7
-        name: furniture_condition
-        label: Furniture Condition
-        hint: Assess all furniture pieces
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Acceptable
-          - Needs repair
-          - Damaged
-        required: true
-      - id: 8
-        name: walls_ceiling
-        label: Walls and Ceiling Condition
-        hint: Check for stains, marks, or damage
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Minor marks
-          - Needs cleaning
-          - Damaged or stained
-        required: true
-      - id: 9
-        name: flooring_condition
-        label: Flooring Condition
-        hint: Assess carpet or hard flooring
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Acceptable
-          - Needs cleaning
-          - Damaged
-        required: true
-      - id: 10
-        name: bathroom_condition
-        label: Bathroom Condition
-        hint: Rate bathroom cleanliness and fixtures
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Acceptable
-          - Needs cleaning
-          - Damaged
-        required: true
-      - id: 11
-        name: bathroom_fixtures
-        label: Bathroom Fixtures and Plumbing
-        hint: Check sinks, toilets, showers
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Minor issues
-          - Needs repair
-          - Major issues
-        required: true
-      - id: 12
-        name: hvac_temperature
-        label: HVAC and Temperature Control
-        hint: Test heating and cooling system
-        type: select_one
-        options:
-          - Working properly
-          - Good
-          - Minor issues
-          - Needs adjustment
-          - Not working
-        required: true
-      - id: 13
-        name: lighting_fixtures
-        label: Lighting Fixtures and Bulbs
-        hint: Check all lights and bulbs
-        type: select_one
-        options:
-          - All working
-          - Most working
-          - Some not working
-          - Several out
-          - Most out
-        required: true
-      - id: 14
-        name: electronics_tv
-        label: Television and Electronics
-        hint: Test TV, remote, and other electronics
-        type: select_one
-        options:
-          - All working
-          - Good
-          - Minor issues
-          - Needs replacement
-          - Not working
-        required: true
-      - id: 15
-        name: door_locks
-        label: Doors and Locks
-        hint: Check all door locks and hinges
-        type: select_one
-        options:
-          - Secure and working
-          - Good
-          - Minor issues
-          - Needs repair
-          - Broken
-        required: true
-      - id: 16
-        name: window_blinds
-        label: Windows and Window Coverings
-        hint: Check windows, screens, blinds
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Acceptable
-          - Needs cleaning
-          - Damaged
-        required: true
-      - id: 17
-        name: cleanliness_overall
-        label: Overall Cleanliness
-        hint: General assessment of room cleanliness
-        type: select_one
-        options:
-          - Spotless
-          - Very clean
-          - Clean
-          - Needs cleaning
-          - Dirty
-        required: true
-      - id: 18
-        name: odors_issues
-        label: Odors or Unusual Issues
-        hint: Note any smells or unusual conditions
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: maintenance_items
-        label: Maintenance and Repairs Needed
-        hint: List all items needing repair or maintenance
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: deep_clean_needed
-        label: Does room need deep cleaning
-        hint: Select if professional deep clean required
-        type: select_one
-        options:
-          - No
-          - Yes - light cleaning
-          - Yes - thorough cleaning
-          - Yes - complete deep clean
-        required: true
-      - id: 21
-        name: inspector_name
-        label: Inspector Name
-        hint: Name of person conducting inspection
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: Date when the inspection was conducted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: room_number
+      label: Room Number
+      hint: Enter the room number or identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_name
+      label: Guest Name
+      hint: Name of the current or departing guest
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: check_in_date
+      label: Check-in Date
+      hint: When the guest checked in
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: check_out_date
+      label: Check-out Date
+      hint: When the guest is checking out
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: bed_condition
+      label: Bed and Bedding Condition
+      hint: Rate the condition of beds and linens
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs cleaning
+      - Damaged
+      required: true
+    - id: 7
+      name: furniture_condition
+      label: Furniture Condition
+      hint: Assess all furniture pieces
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs repair
+      - Damaged
+      required: true
+    - id: 8
+      name: walls_ceiling
+      label: Walls and Ceiling Condition
+      hint: Check for stains, marks, or damage
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Minor marks
+      - Needs cleaning
+      - Damaged or stained
+      required: true
+    - id: 9
+      name: flooring_condition
+      label: Flooring Condition
+      hint: Assess carpet or hard flooring
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs cleaning
+      - Damaged
+      required: true
+    - id: 10
+      name: bathroom_condition
+      label: Bathroom Condition
+      hint: Rate bathroom cleanliness and fixtures
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs cleaning
+      - Damaged
+      required: true
+    - id: 11
+      name: bathroom_fixtures
+      label: Bathroom Fixtures and Plumbing
+      hint: Check sinks, toilets, showers
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Minor issues
+      - Needs repair
+      - Major issues
+      required: true
+    - id: 12
+      name: hvac_temperature
+      label: HVAC and Temperature Control
+      hint: Test heating and cooling system
+      type: select_one
+      options:
+      - Working properly
+      - Good
+      - Minor issues
+      - Needs adjustment
+      - Not working
+      required: true
+    - id: 13
+      name: lighting_fixtures
+      label: Lighting Fixtures and Bulbs
+      hint: Check all lights and bulbs
+      type: select_one
+      options:
+      - All working
+      - Most working
+      - Some not working
+      - Several out
+      - Most out
+      required: true
+    - id: 14
+      name: electronics_tv
+      label: Television and Electronics
+      hint: Test TV, remote, and other electronics
+      type: select_one
+      options:
+      - All working
+      - Good
+      - Minor issues
+      - Needs replacement
+      - Not working
+      required: true
+    - id: 15
+      name: door_locks
+      label: Doors and Locks
+      hint: Check all door locks and hinges
+      type: select_one
+      options:
+      - Secure and working
+      - Good
+      - Minor issues
+      - Needs repair
+      - Broken
+      required: true
+    - id: 16
+      name: window_blinds
+      label: Windows and Window Coverings
+      hint: Check windows, screens, blinds
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs cleaning
+      - Damaged
+      required: true
+    - id: 17
+      name: cleanliness_overall
+      label: Overall Cleanliness
+      hint: General assessment of room cleanliness
+      type: select_one
+      options:
+      - Spotless
+      - Very clean
+      - Clean
+      - Needs cleaning
+      - Dirty
+      required: true
+    - id: 18
+      name: odors_issues
+      label: Odors or Unusual Issues
+      hint: Note any smells or unusual conditions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: maintenance_items
+      label: Maintenance and Repairs Needed
+      hint: List all items needing repair or maintenance
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: deep_clean_needed
+      label: Does room need deep cleaning
+      hint: Select if professional deep clean required
+      type: select_one
+      options:
+      - 'False'
+      - Yes - light cleaning
+      - Yes - thorough cleaning
+      - Yes - complete deep clean
+      required: true
+    - id: 21
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of person conducting inspection
+      type: text
+      options: []
+      required: true

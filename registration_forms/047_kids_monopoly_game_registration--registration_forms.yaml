@@ -65,11 +65,11 @@ inputSchema:
       hint: When would you like to play your game session?
       type: select_multiple
       options:
-      - '{''value'': 10, ''label'': ''Monopoly Session 1''}'
-      - '{''value'': 11, ''label'': ''Monopoly Session 2''}'
-      - '{''value'': 12, ''label'': ''Monopoly Session 3''}'
-      - '{''value'': 13, ''label'': ''Monopoly Session 4''}'
-      - '{''value'': 14, ''label'': ''Monopoly Session 5''}'
+      - Monopoly Session 1
+      - Monopoly Session 2
+      - Monopoly Session 3
+      - Monopoly Session 4
+      - Monopoly Session 5
       required: true
     - id: 10
       name: consent
@@ -77,6 +77,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true

@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Bacteria ''}'
-      - '{''id'': 2, ''label'': ''Virus ''}'
-      - '{''id'': 3, ''label'': ''Other ''}'
-      - '{''id'': 4, ''label'': ''Mold/Toxin ''}'
+      - Bacteria
+      - Virus
+      - Other
+      - Mold/Toxin
       required: false
     - id: 3
       name: severity
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Warehouse ''}'
-      - '{''id'': 2, ''label'': ''Factory ''}'
-      - '{''id'': 3, ''label'': ''Distributor ''}'
-      - '{''id'': 4, ''label'': ''Retail ''}'
+      - Warehouse
+      - Factory
+      - Distributor
+      - Retail
       required: false
     - id: 5
       name: photos

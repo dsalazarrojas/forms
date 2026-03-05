@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Customer''}'
-      - '{''id'': 2, ''label'': ''Manager''}'
-      - '{''id'': 3, ''label'': ''Employee''}'
+      - Customer
+      - Manager
+      - Employee
       required: false
     - id: 6
       name: select_multiple
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Marketing''}'
-      - '{''id'': 2, ''label'': ''Sales''}'
-      - '{''id'': 3, ''label'': ''Operations''}'
+      - Marketing
+      - Sales
+      - Operations
       required: false
     - id: 7
       name: date

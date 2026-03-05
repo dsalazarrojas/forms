@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''construction'', ''label'': ''Construction''}'
-      - '{''name'': ''repair'', ''label'': ''Repair''}'
-      - '{''name'': ''maintenance'', ''label'': ''Maintenance''}'
+      - Construction
+      - Repair
+      - Maintenance
       required: false
     - id: 2
       name: service_description
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''home'', ''label'': ''Home''}'
-      - '{''name'': ''office'', ''label'': ''Office''}'
-      - '{''name'': ''commercial'', ''label'': ''Commercial''}'
+      - Home
+      - Office
+      - Commercial
       required: false
     - id: 4
       name: service_start_date

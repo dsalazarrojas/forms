@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''program1'', ''label'': ''Program 1''}'
-      - '{''id'': 2, ''name'': ''program2'', ''label'': ''Program 2''}'
-      - '{''id'': 3, ''name'': ''program3'', ''label'': ''Program 3''}'
+      - Program 1
+      - Program 2
+      - Program 3
       required: false
     - id: 3
       name: application_date
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''pending'', ''label'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''approved'', ''label'': ''Approved''}'
-      - '{''id'': 3, ''name'': ''rejected'', ''label'': ''Rejected''}'
+      - Pending
+      - Approved
+      - Rejected
       required: false
     - id: 5
       name: comments

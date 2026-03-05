@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''participant''}'
-      - '{''label'': ''instructor''}'
-      - '{''label'': ''studio''}'
+      - participant
+      - instructor
+      - studio
       required: false
     - id: 10
       name: submit_date
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''active''}'
-      - '{''label'': ''inactive''}'
-      - '{''label'': ''cancelled''}'
+      - active
+      - inactive
+      - cancelled
       required: false
     - id: 12
       name: class_status_note
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''yoga''}'
-      - '{''label'': ''meditation''}'
-      - '{''label'': ''other''}'
+      - yoga
+      - meditation
+      - other
       required: false
     - id: 14
       name: session_duration

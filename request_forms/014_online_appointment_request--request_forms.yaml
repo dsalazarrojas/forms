@@ -4,7 +4,7 @@ inputSchema:
     title: Online Appointment Request
     pages:
     - id: 1
-      name: treatment_select
+      name: select_treatment
       label: Select a Treatment
       hint: null
       type: select_multiple
@@ -13,176 +13,64 @@ inputSchema:
       - 'No'
       required: false
     - id: 2
-      name: date_select_1
-      label: Prophets preferred date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 3
-      name: time_select_1
-      label: Prophets preferred time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 4
-      name: date_select_2
+      name: preferred_date
       label: Preferred Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 5
-      name: time_select_2
-      label: Prophets preferred time
+    - id: 3
+      name: preferred_time
+      label: Preferred Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 6
-      name: contact_note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 7
-      name: contact_email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
+    - id: 4
       name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 9
-      name: contact_phone
+      required: true
+    - id: 5
+      name: phone
       label: Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 10
-      name: contact_address
+      required: true
+    - id: 6
+      name: address
       label: Address
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: contact_city
+    - id: 7
+      name: city
       label: City
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
-      name: contact_state
+    - id: 8
+      name: state
       label: State
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: contact_zip
+    - id: 9
+      name: zip
       label: Zip
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
-      name: contact_other
+    - id: 10
+      name: other
       label: Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: contact_other2
-      label: Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: contact_17
-      label: Other 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: contact_18
-      label: Other 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: contact_19
-      label: Other 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: contact_20
-      label: Other 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: contact_21
-      label: Other 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: contact_22
-      label: Other 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: contact_23
-      label: Other 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: contact_24
-      label: Other 9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: contact_25
-      label: Other 10
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: contact_26
-      label: Other 11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: contact_27
-      label: Other 12
       hint: null
       type: text
       options: []

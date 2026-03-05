@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Meeting''}'
-      - '{''label'': ''Event''}'
-      - '{''label'': ''Training''}'
+      - Meeting
+      - Event
+      - Training
       required: false
     - id: 2
       name: event_date
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Wheelchair''}'
-      - '{''label'': ''Service Animal''}'
-      - '{''label'': ''Service Animal Assistant''}'
+      - Wheelchair
+      - Service Animal
+      - Service Animal Assistant
       required: false
     - id: 7
       name: event_reservations
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: event_notes

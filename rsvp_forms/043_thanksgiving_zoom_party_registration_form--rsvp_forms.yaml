@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: true
     - id: 6
       name: date_of_birth
@@ -75,10 +75,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Spouse''}'
-      - '{''value'': ''Friend''}'
-      - '{''value'': ''Family''}'
-      - '{''value'': ''Other''}'
+      - Spouse
+      - Friend
+      - Family
+      - Other
       required: true
     - id: 11
       name: rsvp_type
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Host''}'
-      - '{''value'': ''Guest''}'
-      - '{''value'': ''Both''}'
+      - Host
+      - Guest
+      - Both
       required: true
     - id: 12
       name: message
@@ -110,10 +110,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Vegetarian''}'
-      - '{''value'': ''Vegan''}'
-      - '{''value'': ''Gluten-free''}'
-      - '{''value'': ''None''}'
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - None
       required: true
     - id: 15
       name: special_requests
@@ -163,9 +163,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Guest 1''}'
-      - '{''value'': ''Guest 2''}'
-      - '{''value'': ''Guest 3''}'
+      - Guest 1
+      - Guest 2
+      - Guest 3
       required: true
     - id: 22
       name: host_message

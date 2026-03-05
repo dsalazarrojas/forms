@@ -114,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Somewhat
       required: true
     - id: 17
@@ -132,7 +132,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I assume risks
-      - false
+      - 'False'
       required: true
     - id: 19
       name: understand_hazards
@@ -141,7 +141,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I understand
-      - false
+      - 'False'
       required: true
     - id: 20
       name: release_liability
@@ -150,7 +150,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I release
-      - false
+      - 'False'
       required: true
     - id: 21
       name: authorize_emergency
@@ -159,7 +159,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I authorize
-      - false
+      - 'False'
       required: true
     - id: 22
       name: section_emergency_contact

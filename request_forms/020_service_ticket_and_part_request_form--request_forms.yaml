@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 7, ''label'': ''Repair''}'
-      - '{''id'': 8, ''label'': ''Replacement''}'
-      - '{''id'': 9, ''label'': ''Other''}'
+      - Repair
+      - Replacement
+      - Other
       required: false
     - id: 5
       name: service_type
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 11, ''label'': ''Service 1''}'
-      - '{''id'': 12, ''label'': ''Service 2''}'
-      - '{''id'': 13, ''label'': ''Service 3''}'
+      - Service 1
+      - Service 2
+      - Service 3
       required: false
     - id: 6
       name: part_details

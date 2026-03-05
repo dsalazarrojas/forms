@@ -16,7 +16,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Retail''}'
+      - Retail
       - Wholesale
       - Food and Beverage
       - Grocery
@@ -55,9 +55,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''I agree to the Terms and Conditions''}'
       - I agree to the Terms and Conditions
-      - I agree to the Terms and Conditions
+      - Other
       required: false
     - id: 8
       name: store_payment_info

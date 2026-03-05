@@ -62,10 +62,10 @@ inputSchema:
       hint: What year are you looking for?
       type: select_one
       options:
-      - 2026
-      - 2025
-      - 2024
-      - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       - Any recent year
       required: true
     - id: 9
@@ -134,7 +134,7 @@ inputSchema:
       hint: Do you need financing?
       type: select_one
       options:
-      - true
+      - 'True'
       - No - paying cash
       - Maybe - depends on rates
       required: true
@@ -144,8 +144,8 @@ inputSchema:
       hint: Do you have a vehicle to trade?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: trade_in_details

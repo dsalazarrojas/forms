@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Referrals''}'
-      - '{''value'': ''Open House''}'
-      - '{''value'': ''Other''}'
+      - Referrals
+      - Open House
+      - Other
       required: true
     - id: 6
       name: lead_agent
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Real Estate Agent''}'
-      - '{''value'': ''Other''}'
-      - '{''value'': ''Other 2''}'
+      - Real Estate Agent
+      - Other
+      - Other 2
       required: true
     - id: 7
       name: house_address
@@ -106,7 +106,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Qualified''}'
-      - '{''value'': ''Not Qualified''}'
-      - '{''value'': ''Follow up Needed''}'
+      - Qualified
+      - Not Qualified
+      - Follow up Needed
       required: true

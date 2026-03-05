@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Free Trial''}'
-      - '{''id'': 2, ''name'': ''Pro Monthly''}'
-      - '{''id'': 3, ''name'': ''Premium Quarterly''}'
+      - Free Trial
+      - Pro Monthly
+      - Premium Quarterly
       required: false
     - id: 4
       name: subscription_start_date
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 7
       name: subscription_timezone
@@ -57,9 +57,9 @@ inputSchema:
       hint: Select Timezone
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''UTC-0''}'
-      - '{''id'': 2, ''name'': ''UTC-1''}'
-      - '{''id'': 3, ''name'': ''UTC-2''}'
+      - UTC-0
+      - UTC-1
+      - UTC-2
       required: false
     - id: 8
       name: timezone_offset

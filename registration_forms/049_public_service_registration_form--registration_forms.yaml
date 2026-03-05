@@ -4,12 +4,12 @@ inputSchema:
     title: Public Service Registration Form
     pages:
     - id: 1
-      name: registration_form_1
-      label: Public Service Registration
+      name: public_service_info
+      label: Public Service Information
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: participant_info_1
       label: Participant Information
@@ -18,149 +18,44 @@ inputSchema:
       options: []
       required: false
     - id: 3
-      name: public_service_info_1
-      label: Public Service Information
+      name: participant_info_2
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: participant_info_2
-      label: Participant Information
+      name: participant_info_3
+      label: Phone
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
+      name: participant_info_4
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
       name: registration_date
       label: Registration Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 6
-      name: participant_email
-      label: Participant Email
-      hint: null
-      type: email
-      options: []
-      required: false
+      required: true
     - id: 7
-      name: participant_phone
-      label: Participant Phone
+      name: participant_info_5
+      label: Participant Contact Method
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: participant_address
-      label: Participant Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: organization_info
-      label: Organization Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: participant_info_3
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: participant_info_4
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: participant_info_5
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
       name: participant_info_6
-      label: Participant Information
+      label: Additional Comments
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: participant_info_7
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: participant_info_8
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: participant_info_9
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: participant_info_10
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: participant_info_11
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: participant_info_12
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: participant_info_13
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: participant_info_14
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: participant_info_15
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: participant_info_16
-      label: Participant Information
-      hint: null
-      type: text
+      type: note
       options: []
       required: false

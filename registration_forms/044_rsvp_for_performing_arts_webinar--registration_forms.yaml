@@ -4,233 +4,78 @@ inputSchema:
     title: RSVP For Performing Arts Webinar
     pages:
     - id: 1
-      name: name
-      label: first_name
+      name: first_name
+      label: First Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: last_name
+      name: last_name
+      label: Last Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
-      required: true
+      required: false
     - id: 4
       name: phone
-      label: phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: true
     - id: 5
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 6
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 7
-      name: select
-      label: select
+      name: select1
+      label: Select one option
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 8
-      name: note
-      label: note
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 6
+      name: select2
+      label: Select multiple options
       hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: email
-      label: confirm_email
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 7
+      name: confirm_email
+      label: Confirm Email
       hint: null
       type: email
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
       options: []
       required: true
     - id: 10
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: select
-      label: select2
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 13
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
       name: note
-      label: note
+      label: Note
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 15
-      name: select
-      label: select1
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 16
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: select
-      label: select3
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 19
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: select
-      label: select4
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 22
-      name: email
-      label: confirm_email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 23
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: select
-      label: select5
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 26
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 27
-      name: email
-      label: confirm_email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 28
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 29
-      name: select
-      label: select6
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: true
-    - id: 30
-      name: phone
-      label: phone
-      hint: null
-      type: text
       options: []
       required: true

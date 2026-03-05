@@ -27,8 +27,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: folder_name
@@ -71,8 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: team_members
@@ -80,8 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: submit_date
@@ -103,8 +106,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
       name: form_submitter
@@ -135,22 +139,22 @@ inputSchema:
       options: []
       required: false
     - id: 17
-      name: request_form_version
-      label: Request Form Version
+      name: request_form_version_2
+      label: Request Form Version 2
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: request_form_submitter
-      label: Request Form Submitter
+      name: request_form_submitter_2
+      label: Request Form Submitter 2
       hint: null
       type: text
       options: []
       required: false
     - id: 19
-      name: submitter
-      label: submitter
+      name: submitter_2
+      label: Submitter 2
       hint: null
       type: email
       options: []
@@ -161,17 +165,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 21
-      name: team_members
-      label: Team Members
+      name: team_members_2
+      label: Team Members 2
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 22
       name: team_name
@@ -188,15 +194,15 @@ inputSchema:
       options: []
       required: false
     - id: 24
-      name: form_submitter
-      label: Form Submitter
+      name: form_submitter_2
+      label: Form Submitter 2
       hint: null
       type: text
       options: []
       required: false
     - id: 25
-      name: request_form_version
-      label: Request Form Version
+      name: request_form_version_3
+      label: Request Form Version 3
       hint: null
       type: text
       options: []

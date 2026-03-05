@@ -53,10 +53,10 @@ inputSchema:
       hint: Select the type of event
       type: select_one
       options:
-      - '{1: ''Worship Service''}'
-      - '{2: ''Bible Study''}'
-      - '{3: ''Fellowship''}'
-      - '{4: ''Other''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: true
     - id: 8
       name: event_organizer
@@ -106,10 +106,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{1: ''Form Submission 1''}'
-      - '{2: ''Form Submission 2''}'
-      - '{3: ''Form Submission 3''}'
-      - '{4: ''Form Submission 4''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 15
       name: ministry_confirmation
@@ -117,9 +117,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{1: True}'
-      - '{2: False}'
-      - '{3: ''Undecided''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 16
       name: follow_up

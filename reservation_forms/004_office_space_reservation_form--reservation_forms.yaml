@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Room 1''}'
-      - '{''value'': 2, ''label'': ''Room 2''}'
-      - '{''value'': 3, ''label'': ''Room 3''}'
+      - Room 1
+      - Room 2
+      - Room 3
       required: false
     - id: 4
       name: start_time
@@ -36,7 +36,7 @@ inputSchema:
       required: false
     - id: 5
       name: end_time
-      label: End Date
+      label: End Time
       hint: null
       type: time
       options: []
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''meeting_room'', ''label'': ''Meeting Room''}'
-      - '{''value'': ''office'', ''label'': ''Office''}'
-      - '{''value'': ''storage_room'', ''label'': ''Storage Room''}'
+      - Meeting Room
+      - Office
+      - Storage Room
       required: false
     - id: 10
       name: capacity
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''available'', ''label'': ''Available''}'
-      - '{''value'': ''reserved'', ''label'': ''Reserved''}'
-      - '{''value'': ''unavailable'', ''label'': ''Unavailable''}'
+      - Available
+      - Reserved
+      - Unavailable
       required: false
     - id: 13
       name: notes
@@ -116,8 +116,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: submit_date
@@ -177,16 +177,16 @@ inputSchema:
       required: false
     - id: 24
       name: submitter_form_submitted
-      label: Form Submitted
+      label: Submitter Form Submitted
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: submitter_submit_date
-      label: Submit Date
+      label: Submitter Submit Date
       hint: null
       type: date
       options: []

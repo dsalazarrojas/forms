@@ -4,200 +4,102 @@ inputSchema:
     title: shannonsmani_of_the_month_
     pages:
     - id: 1
-      name: order_date
-      label: Order Date
+      name: order_details
+      label: Order Details
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 2
-      name: customer_name
-      label: customer name
+      name: customer_info
+      label: Customer Information
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: product_name
-      label: product name
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Shipped
+      - Cancelled
+      required: true
+    - id: 4
+      name: additional_info
+      label: Additional Information
       hint: null
       type: text
       options: []
       required: false
-    - id: 4
-      name: quantity
-      label: quantity
-      hint: null
-      type: number
-      options: []
-      required: false
     - id: 5
-      name: customer_email
-      label: customer email
+      name: product_info
+      label: Product Information
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 6
-      name: customer_phone
-      label: customer phone
+      name: repeated_questions
+      label: Repeated Questions
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: customer_address
-      label: customer address
+      name: order_comments
+      label: Order Comments
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 8
-      name: order_comments
-      label: order comments
+      name: sales_rep
+      label: Sales Rep
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - Sales
+      - Support
+      - Marketing
       required: false
     - id: 9
-      name: customer_company
-      label: customer company
+      name: existing_customer
+      label: Existing Customer
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - New
+      - Existing
       required: false
     - id: 10
-      name: order_status
-      label: order status
+      name: order_status_2
+      label: Order Status 2
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Shipped''}'
-      - '{''value'': ''Cancelled''}'
+      - Pending
+      - Shipped
+      - Cancelled
       required: false
     - id: 11
-      name: customer_rep
-      label: customer rep
+      name: sales_rep_2
+      label: Sales Rep 2
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Sales''}'
-      - '{''value'': ''Support''}'
-      - '{''value'': ''Marketing''}'
+      - Sales
+      - Support
+      - Marketing
       required: false
     - id: 12
-      name: customer_type
-      label: customer type
+      name: existing_customer_2
+      label: Existing Customer 2
       hint: null
       type: select_one
       options:
-      - '{''value'': ''New''}'
-      - '{''value'': ''Existing''}'
-      required: false
-    - id: 13
-      name: customer_notes
-      label: customer notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: customer_type
-      label: customer type_
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''New''}'
-      - '{''value'': ''Existing''}'
-      required: false
-    - id: 15
-      name: customer_rep
-      label: customer rep_
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Sales''}'
-      - '{''value'': ''Support''}'
-      - '{''value'': ''Marketing''}'
-      required: false
-    - id: 16
-      name: customer_address
-      label: customer address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: order_date
-      label: order date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: customer_name
-      label: customer name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: product_name
-      label: product name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: quantity
-      label: quantity
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: customer_email
-      label: customer email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: customer_phone
-      label: customer phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: customer_address
-      label: customer address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: order_comments
-      label: order comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: customer_company
-      label: customer company
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: order_status
-      label: order status
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Shipped''}'
-      - '{''value'': ''Cancelled''}'
+      - New
+      - Existing
       required: false

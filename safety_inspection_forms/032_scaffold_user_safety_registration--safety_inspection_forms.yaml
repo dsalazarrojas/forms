@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''confirmed''}'
-      - '{''id'': 2, ''label'': ''not confirmed''}'
+      - confirmed
+      - not confirmed
       required: false
     - id: 6
       name: safetystatus
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''confirmed''}'
-      - '{''id'': 2, ''label'': ''not confirmed''}'
-      - '{''id'': 3, ''label'': ''unknown''}'
+      - confirmed
+      - not confirmed
+      - unknown
       required: false
     - id: 7
       name: comments

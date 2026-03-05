@@ -53,10 +53,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Shipped''}'
-      - '{''label'': ''Delivered''}'
-      - '{''label'': ''Canceled''}'
+      - Pending
+      - Shipped
+      - Delivered
+      - Canceled
       required: false
     - id: 8
       name: shipping_comments
@@ -134,9 +134,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Ground''}'
-      - '{''label'': ''Air''}'
-      - '{''label'': ''Sea''}'
+      - Ground
+      - Air
+      - Sea
       required: false
     - id: 19
       name: shipping_status_2
@@ -144,10 +144,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Shipped''}'
-      - '{''label'': ''Delivered''}'
-      - '{''label'': ''Canceled''}'
+      - Pending
+      - Shipped
+      - Delivered
+      - Canceled
       required: false
     - id: 20
       name: shipping_comments_2

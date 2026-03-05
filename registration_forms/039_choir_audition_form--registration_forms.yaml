@@ -148,7 +148,7 @@ inputSchema:
       - Yes, fluently
       - Yes, basically
       - A little
-      - false
+      - 'False'
       required: true
     - id: 19
       name: has_performed_solo
@@ -159,7 +159,7 @@ inputSchema:
       - Yes, frequently
       - Yes, a few times
       - Yes, once
-      - false
+      - 'False'
       required: false
     - id: 20
       name: musical_training
@@ -174,8 +174,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: instruments_list
@@ -232,7 +232,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
+      - 'True'
       - No, I will bring one
       - No, I will sing a cappella
       - No, I have backing track
@@ -243,8 +243,8 @@ inputSchema:
       hint: If no accompanist
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 31
       name: availability
@@ -311,7 +311,7 @@ inputSchema:
       - Yes, definitely
       - Yes, somewhat
       - Maybe
-      - false
+      - 'False'
       required: true
     - id: 38
       name: performance_attendance
@@ -319,7 +319,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
+      - 'True'
       - No, have some conflicts
       - Not sure
       required: true

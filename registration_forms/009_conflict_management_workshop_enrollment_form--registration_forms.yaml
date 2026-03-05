@@ -113,8 +113,8 @@ inputSchema:
       hint: Are you dealing with ongoing team conflicts
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: management_role
@@ -124,7 +124,7 @@ inputSchema:
       options:
       - Yes - Direct Reports
       - Yes - Indirect Reports
-      - false
+      - 'False'
       required: true
     - id: 16
       name: dietary_requirements
@@ -181,7 +181,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Accept
-      - false
+      - 'False'
       required: true
     - id: 22
       name: cancellation_policy
@@ -189,8 +189,8 @@ inputSchema:
       hint: You understand the cancellation terms
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: referral_source

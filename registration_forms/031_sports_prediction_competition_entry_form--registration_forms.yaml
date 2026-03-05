@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Win''}'
-      - '{''id'': 2, ''label'': ''Lose''}'
-      - '{''id'': 3, ''label'': ''Draw''}'
+      - Win
+      - Lose
+      - Draw
       required: false
     - id: 7
       name: prediction
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Team A''}'
-      - '{''id'': 2, ''label'': ''Team B''}'
-      - '{''id'': 3, ''label'': ''Team C''}'
+      - Team A
+      - Team B
+      - Team C
       required: false
     - id: 8
       name: participant_name

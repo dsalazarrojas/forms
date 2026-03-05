@@ -48,9 +48,9 @@ inputSchema:
       type: select_one
       options:
       - 1 (just me)
-      - 2
-      - 3
-      - 4
+      - '2'
+      - '3'
+      - '4'
       - 5 or more
       required: true
     - id: 7
@@ -89,8 +89,8 @@ inputSchema:
       hint: Wheelchair access, sign language, etc.
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: accessibility_details
@@ -117,8 +117,8 @@ inputSchema:
       hint: At the event venue
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: award_recognition
@@ -126,8 +126,8 @@ inputSchema:
       hint: As an award recipient
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 15

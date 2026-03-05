@@ -23,8 +23,8 @@ inputSchema:
       hint: Are you coming?
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': 1}'
-      - '{''id'': 2, ''label'': False, ''value'': 2}'
+      - 'True'
+      - 'False'
       required: true
     - id: 4
       name: rsvp_date
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Option 1'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Option 2'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Option 3'', ''value'': 3}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 9
       name: comments
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Option 1'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Option 2'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Option 3'', ''value'': 3}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 11
       name: email

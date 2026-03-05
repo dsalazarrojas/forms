@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''HR''}'
-      - '{''id'': 2, ''label'': ''Marketing''}'
-      - '{''id'': 3, ''label'': ''Schools''}'
+      - HR
+      - Marketing
+      - Schools
       required: true
     - id: 4
       name: media_location
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Online''}'
-      - '{''id'': 2, ''label'': ''In-person''}'
-      - '{''id'': 3, ''label'': ''Phone''}'
+      - Online
+      - In-person
+      - Phone
       required: true
     - id: 5
       name: email
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: note
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''HR''}'
-      - '{''id'': 2, ''label'': ''Marketing''}'
-      - '{''id'': 3, ''label'': ''Schools''}'
+      - HR
+      - Marketing
+      - Schools
       required: true
     - id: 19
       name: media_location_2
@@ -146,9 +146,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Online''}'
-      - '{''id'': 2, ''label'': ''In-person''}'
-      - '{''id'': 3, ''label'': ''Phone''}'
+      - Online
+      - In-person
+      - Phone
       required: true
     - id: 20
       name: consent_date
@@ -163,9 +163,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Online''}'
-      - '{''id'': 2, ''label'': ''In-person''}'
-      - '{''id'': 3, ''label'': ''Phone''}'
+      - Online
+      - In-person
+      - Phone
       required: true
     - id: 22
       name: participant_consent
@@ -173,8 +173,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: participant_school_name

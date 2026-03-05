@@ -4,57 +4,47 @@ inputSchema:
     title: Lawn Topdressing Quote Request
     pages:
     - id: 1
-      name: lawn_topdressing_quote_request_form
-      label: Lawn Topdressing Quote Request
+      name: user_name
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: client_name
-      label: clients_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: email
-      label: email
+      name: email_address
+      label: Email address
       hint: null
       type: email
       options: []
       required: false
-    - id: 4
-      name: phone
-      label: phone
+    - id: 3
+      name: phone_number
+      label: Phone number
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
+    - id: 4
       name: job_type
-      label: job_type
+      label: Job Type
       hint: null
       type: select_multiple
       options:
       - Grass
-      - Lawn Renovation
       - Landscaping
-      - Fertilization
       required: false
-    - id: 6
-      name: service_area
-      label: service_area
+    - id: 5
+      name: job_area
+      label: Job Area
       hint: null
       type: select_multiple
       options:
       - Local
       - Regional
-      - State
       required: false
-    - id: 7
+    - id: 6
       name: schedule_type
-      label: schedule_type
+      label: Schedule
       hint: null
       type: select_one
       options:
@@ -62,37 +52,37 @@ inputSchema:
       - Ongoing
       - Recurring
       required: false
-    - id: 8
+    - id: 7
       name: estimated_job_size
-      label: estimated_job_size
+      label: Estimated Job Size
       hint: null
       type: number
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: start_date
-      label: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: finish_date
+      label: Finish Date
       hint: null
       type: date
       options: []
       required: false
     - id: 10
-      name: finish_date
-      label: finish_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
       name: job_duration
-      label: job_duration
+      label: Job Duration
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
+    - id: 11
       name: address
-      label: address
+      label: Address
       hint: null
       type: select_one
       options:
@@ -106,51 +96,9 @@ inputSchema:
       - Office Building
       - Farm
       required: false
-    - id: 13
-      name: property_size
-      label: property_size
-      hint: null
-      type: select_multiple
-      options:
-      - Small
-      - Medium
-      - Large
-      - XL
-      - Extra Large
-      required: false
-    - id: 14
-      name: yard_size
-      label: yard_size
-      hint: null
-      type: select_multiple
-      options:
-      - Small
-      - Medium
-      - Large
-      - XL
-      - Extra Large
-      required: false
-    - id: 15
-      name: estimated_job_cost
-      label: estimated_job_cost
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: payment_terms
-      label: payment_terms
-      hint: null
-      type: select_multiple
-      options:
-      - Cash
-      - Check
-      - Credit Card
-      - Online Banking
-      required: false
-    - id: 17
+    - id: 12
       name: follow_up_method
-      label: follow_up_method
+      label: Follow-up Method
       hint: null
       type: select_one
       options:
@@ -158,9 +106,9 @@ inputSchema:
       - Email
       - In-person
       required: false
-    - id: 18
+    - id: 13
       name: follow_up_schedule
-      label: follow_up_schedule
+      label: Follow-up Schedule
       hint: null
       type: select_multiple
       options:
@@ -168,66 +116,21 @@ inputSchema:
       - Weekly
       - Monthly
       required: false
-    - id: 19
-      name: notes
-      label: notes
+    - id: 14
+      name: estimated_job_cost
+      label: Estimated Job Cost
       hint: null
-      type: text
+      type: number
       options: []
       required: false
-    - id: 20
-      name: assigned_tool
-      label: assigned_tool
+    - id: 15
+      name: payment_terms
+      label: Payment Terms
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: form_id
-      label: form_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: output_file
-      label: output_file
-      hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Online Banking
       required: false

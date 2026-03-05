@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Session 1''}'
-      - '{''id'': 2, ''label'': ''Session 2''}'
-      - '{''id'': 10, ''label'': ''Session 3''}'
-      - '{''id'': 11, ''label'': ''Session 4''}'
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
       required: false
     - id: 10
       name: additional_comments
@@ -83,8 +83,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: confirm_email

@@ -53,15 +53,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Other''}'
-      - '{''id'': 2, ''label'': ''Patron behavior''}'
-      - '{''id'': 3, ''label'': ''Patron property damage''}'
-      - '{''id'': 4, ''label'': ''Library material damage''}'
-      - '{''id'': 5, ''label'': ''Other property damage''}'
-      - '{''id'': 6, ''label'': ''Other''}'
-      - '{''id'': 7, ''label'': ''Other''}'
-      - '{''id'': 8, ''label'': ''Other''}'
-      - '{''id'': 9, ''label'': ''Other''}'
+      - Other
+      - Patron behavior
+      - Patron property damage
+      - Library material damage
+      - Other property damage
       required: true
     - id: 8
       name: attachment
@@ -83,13 +79,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Send a note to the patron''}'
-      - '{''id'': 2, ''label'': ''Call the patron''}'
-      - '{''id'': 3, ''label'': ''Follow-up meeting''}'
-      - '{''id'': 4, ''label'': ''Other''}'
-      - '{''id'': 5, ''label'': ''Other''}'
-      - '{''id'': 6, ''label'': ''Other''}'
-      - '{''id'': 7, ''label'': ''Other''}'
+      - Send a note to the patron
+      - Call the patron
+      - Follow-up meeting
+      - Other
       required: true
     - id: 11
       name: follow_up_contacts
@@ -97,13 +90,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Patron''}'
-      - '{''id'': 2, ''label'': ''Staff''}'
-      - '{''id'': 3, ''label'': ''Other''}'
-      - '{''id'': 4, ''label'': ''Other''}'
-      - '{''id'': 5, ''label'': ''Other''}'
-      - '{''id'': 6, ''label'': ''Other''}'
-      - '{''id'': 7, ''label'': ''Other''}'
+      - Patron
+      - Staff
+      - Other
       required: true
     - id: 12
       name: follow_up_comments

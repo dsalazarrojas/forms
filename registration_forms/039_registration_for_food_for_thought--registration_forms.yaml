@@ -65,11 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''role'', ''label'': ''role'', ''value'': ''Financial
-        Analyst''}'
-      - '{''id'': 11, ''name'': ''role'', ''label'': ''role'', ''value'': ''Software
-        Developer''}'
-      - '{''id'': 12, ''name'': ''role'', ''label'': ''role'', ''value'': ''Other''}'
+      - role
+      - Other
       required: false
     - id: 10
       name: select_multiple_1
@@ -77,16 +74,16 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 14, ''name'': ''skill1'', ''label'': ''skill1'', ''value'': ''Excel''}'
-      - '{''id'': 15, ''name'': ''skill2'', ''label'': ''skill2'', ''value'': ''Python''}'
-      - '{''id'': 16, ''name'': ''skill3'', ''label'': ''skill3'', ''value'': ''Java''}'
-      - '{''id'': 17, ''name'': ''skill4'', ''label'': ''skill4'', ''value'': ''C++''}'
-      - '{''id'': 18, ''name'': ''skill5'', ''label'': ''skill5'', ''value'': ''HTML''}'
-      - '{''id'': 19, ''name'': ''skill6'', ''label'': ''skill6'', ''value'': ''CSS''}'
-      - '{''id'': 20, ''name'': ''skill7'', ''label'': ''skill7'', ''value'': ''Other''}'
-      - '{''id'': 21, ''name'': ''skill8'', ''label'': ''skill8'', ''value'': ''Database''}'
-      - '{''id'': 22, ''name'': ''skill9'', ''label'': ''skill9'', ''value'': ''JavaScript''}'
-      - '{''id'': 23, ''name'': ''skill10'', ''label'': ''skill10'', ''value'': ''SQL''}'
+      - skill1
+      - skill2
+      - skill3
+      - skill4
+      - skill5
+      - skill6
+      - skill7
+      - skill8
+      - skill9
+      - skill10
       required: false
     - id: 11
       name: note

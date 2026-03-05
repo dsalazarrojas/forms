@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: attendees
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''attending'', ''label'': ''Attending''}'
-      - '{''id'': 2, ''name'': ''not_attending'', ''label'': ''Not Attending''}'
+      - Attending
+      - Not Attending
       required: true
     - id: 9
       name: comments

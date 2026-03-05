@@ -16,175 +16,86 @@ inputSchema:
     pages:
     - id: 1
       name: customer_information
-      label: customer-information
+      label: What is the customer's name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: order_details
-      label: order-details
+      name: customer_notes
+      label: What are the customer's notes?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: customer_information_2
-      label: customer_information_2
+      name: order_details
+      label: What is the order date and time?
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 4
-      name: customer_information_2
-      label: customer_information_2
+      name: order_status
+      label: What is the order status?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Delivered
+      - Cancelled
+      required: true
     - id: 5
-      name: order_details_2
-      label: order_details_2
+      name: payment_method
+      label: What is the payment method?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
     - id: 6
-      name: customer_information
-      label: customer information
+      name: customer_address
+      label: What is the customer's address?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: order_information
-      label: order information
+      name: delivery_details
+      label: What is the delivery information?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: customer_notes
-      label: customer notes
+      name: payment_details
+      label: What is the payment information?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: order_information_2
-      label: order information 2
+      name: customer_acceptance
+      label: Is the customer accepting the terms and conditions?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 10
-      name: delivery_information
-      label: delivery information
+      name: delivery_notes
+      label: What are the delivery notes?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: customer_notes_2
-      label: customer notes 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: delivery_information_2
-      label: delivery information 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: delivery_notes
-      label: delivery notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: payment_information
-      label: payment information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: delivery_notes_2
-      label: delivery notes 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: payment_information_2
-      label: payment information 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: payment_notes
-      label: payment notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: customer_acceptance
-      label: customer acceptance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: customer_acceptance_2
-      label: customer acceptance 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: payment_acceptance
-      label: payment acceptance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: customer_acceptance_2
-      label: customer acceptance 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: payment_acceptance_2
-      label: payment acceptance 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: payment_acceptance_3
-      label: payment acceptance 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: payment_acceptance_4
-      label: payment acceptance 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: payment_acceptance_5
-      label: payment acceptance 5
+      name: payment_confirmation
+      label: What is the payment confirmation?
       hint: null
       type: text
       options: []

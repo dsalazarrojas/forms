@@ -1,194 +1,183 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Content Report Form
     pages:
-      - id: 1
-        name: reporter_name
-        label: Your Name
-        hint: Full name (optional)
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: reporter_email
-        label: Your Email
-        hint: Email for follow-up
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: report_date
-        label: Report Date
-        hint: Date of this report
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: content_url
-        label: Content URL
-        hint: URL of the content being reported
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: content_title
-        label: Content Title
-        hint: Title of the content
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: report_category
-        label: Report Category
-        hint: What is the nature of your report?
-        type: select_one
-        options:
-          - Inaccurate Information
-          - Outdated Content
-          - Broken Links
-          - Copyright Infringement
-          - Inappropriate Content
-          - Technical Issue
-          - Spam or Misleading
-          - Other
-        required: true
-      - id: 7
-        name: issue_description
-        label: Issue Description
-        hint: Describe the issue in detail
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: issue_location
-        label: Issue Location
-        hint: Where specifically is the issue located?
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: severity_level
-        label: Severity Level
-        hint: How severe is this issue?
-        type: select_one
-        options:
-          - Low
-          - Medium
-          - High
-          - Critical
-        required: true
-      - id: 10
-        name: first_observed
-        label: First Observed
-        hint: When did you first notice this issue?
-        type: date
-        options: []
-        required: false
-      - id: 11
-        name: affected_users
-        label: Affected Users
-        hint: Who is affected by this issue?
-        type: select_one
-        options:
-          - All Users
-          - Mobile Users Only
-          - Desktop Users Only
-          - Specific User Group
-          - Unknown
-        required: true
-      - id: 12
-        name: browser_used
-        label: Browser Used
-        hint: What browser are you using?
-        type: select_one
-        options:
-          - Chrome
-          - Firefox
-          - Safari
-          - Edge
-          - Internet Explorer
-          - Other
-          - Not Applicable
-        required: false
-      - id: 13
-        name: device_used
-        label: Device Used
-        hint: What device are you using?
-        type: select_one
-        options:
-          - Desktop
-          - Laptop
-          - Tablet
-          - Mobile Phone
-          - Other
-        required: false
-      - id: 14
-        name: screenshots_attached
-        label: Screenshots Attached
-        hint: Do you have screenshots to share?
-        type: select_one
-        options:
-          - Yes, I will attach them
-          - No
-        required: false
-      - id: 15
-        name: suggested_fix
-        label: Suggested Fix
-        hint: Do you have a suggestion for fixing this?
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: similar_issues
-        label: Similar Issues
-        hint: Have you seen similar issues elsewhere?
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: impact_description
-        label: Impact Description
-        hint: How does this issue affect users?
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: urgency
-        label: Urgency
-        hint: How quickly should this be addressed?
-        type: select_one
-        options:
-          - As Soon As Possible
-          - Within a Week
-          - Within a Month
-          - No Rush
-        required: true
-      - id: 19
-        name: willing_to_help
-        label: Willing to Help
-        hint: Are you willing to assist in resolving this?
-        type: select_one
-        options:
-          - Yes, happy to help
-          - Maybe, depending on time
-          - No, just reporting
-        required: false
-      - id: 20
-        name: additional_comments
-        label: Additional Comments
-        hint: Any other information
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: reporter_name
+      label: Your Name
+      hint: Full name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporter_email
+      label: Your Email
+      hint: Email for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: Date of this report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: content_url
+      label: Content URL
+      hint: URL of the content being reported
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: content_title
+      label: Content Title
+      hint: Title of the content
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: report_category
+      label: Report Category
+      hint: What is the nature of your report?
+      type: select_one
+      options:
+      - Inaccurate Information
+      - Outdated Content
+      - Broken Links
+      - Copyright Infringement
+      - Inappropriate Content
+      - Technical Issue
+      - Spam or Misleading
+      - Other
+      required: true
+    - id: 7
+      name: issue_description
+      label: Issue Description
+      hint: Describe the issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: issue_location
+      label: Issue Location
+      hint: Where specifically is the issue located?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: severity_level
+      label: Severity Level
+      hint: How severe is this issue?
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 10
+      name: first_observed
+      label: First Observed
+      hint: When did you first notice this issue?
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: affected_users
+      label: Affected Users
+      hint: Who is affected by this issue?
+      type: select_one
+      options:
+      - All Users
+      - Mobile Users Only
+      - Desktop Users Only
+      - Specific User Group
+      - Unknown
+      required: true
+    - id: 12
+      name: browser_used
+      label: Browser Used
+      hint: What browser are you using?
+      type: select_one
+      options:
+      - Chrome
+      - Firefox
+      - Safari
+      - Edge
+      - Internet Explorer
+      - Other
+      - Not Applicable
+      required: false
+    - id: 13
+      name: device_used
+      label: Device Used
+      hint: What device are you using?
+      type: select_one
+      options:
+      - Desktop
+      - Laptop
+      - Tablet
+      - Mobile Phone
+      - Other
+      required: false
+    - id: 14
+      name: screenshots_attached
+      label: Screenshots Attached
+      hint: Do you have screenshots to share?
+      type: select_one
+      options:
+      - Yes, I will attach them
+      - 'False'
+      required: false
+    - id: 15
+      name: suggested_fix
+      label: Suggested Fix
+      hint: Do you have a suggestion for fixing this?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: similar_issues
+      label: Similar Issues
+      hint: Have you seen similar issues elsewhere?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: impact_description
+      label: Impact Description
+      hint: How does this issue affect users?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: urgency
+      label: Urgency
+      hint: How quickly should this be addressed?
+      type: select_one
+      options:
+      - As Soon As Possible
+      - Within a Week
+      - Within a Month
+      - No Rush
+      required: true
+    - id: 19
+      name: willing_to_help
+      label: Willing to Help
+      hint: Are you willing to assist in resolving this?
+      type: select_one
+      options:
+      - Yes, happy to help
+      - Maybe, depending on time
+      - No, just reporting
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

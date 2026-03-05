@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Attendee''}'
-      - '{''name'': ''Delegate''}'
-      - '{''name'': ''Guest''}'
+      - Attendee
+      - Delegate
+      - Guest
       required: false
     - id: 8
       name: registration_date
@@ -68,7 +68,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Registered''}'
-      - '{''name'': ''Confirmed''}'
-      - '{''name'': ''Cancelled''}'
+      - Registered
+      - Confirmed
+      - Cancelled
       required: true

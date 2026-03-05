@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Solo''}'
-      - '{''value'': 2, ''label'': ''Couple''}'
-      - '{''value'': 3, ''label'': ''Family''}'
+      - Solo
+      - Couple
+      - Family
       required: true
     - id: 8
       name: attending_with
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''partner'', ''label'': ''My Partner''}'
-      - '{''value'': ''friend'', ''label'': ''Friend''}'
-      - '{''value'': ''family'', ''label'': ''Family''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - My Partner
+      - Friend
+      - Family
+      - Other
       required: true
     - id: 9
       name: special_request

@@ -4,197 +4,43 @@ inputSchema:
     title: Titration Data Collection Form
     pages:
     - id: 1
-      name: experiment_id
-      label: Experiment Id
+      name: page1
+      label: Experiment Details
       hint: null
-      type: number
+      type: text
       options: []
-      required: true
+      required: false
     - id: 2
-      name: student_name
-      label: Student Name
+      name: page2
+      label: Equipment and Methods
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 3
-      name: instructor_name
-      label: Instructor Name
+      name: page3
+      label: Submission Information
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 4
-      name: instructor_role
-      label: Instructor Role
+      name: page4
+      label: Additional Information
       hint: null
-      type: select_one
-      options:
-      - Student/Trainee
-      - Instructor
-      - QC
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 5
-      name: experiment_type
-      label: Experiment Type
+      name: page5
+      label: Experiment Details (2)
       hint: null
-      type: select_multiple
-      options:
-      - Titration
-      - Potentiometry
-      - Colorimetry
-      - Electrochemistry
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 6
-      name: equipment_used
-      label: Equipment Used
-      hint: null
-      type: select_multiple
-      options:
-      - Burette
-      - Pipette
-      - Thermometer
-      required: true
-    - id: 7
-      name: titration_method
-      label: Titration Method
-      hint: null
-      type: select_one
-      options:
-      - Manual
-      - Automatic
-      required: true
-    - id: 8
-      name: titration_equipment
-      label: Titration Equipment
-      hint: null
-      type: select_multiple
-      options:
-      - Stirrer
-      - Balance
-      - Heating Element
-      required: false
-    - id: 9
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: submission_date
-      label: Submission Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 11
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: select_one
-      options:
-      - User 1
-      - User 2
-      - User 3
-      required: true
-    - id: 12
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: experiment_date
-      label: Experiment Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: equipment_status
-      label: Equipment Status
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Bad
-      - Missing
-      required: false
-    - id: 15
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: remarks
-      label: Remarks
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: submission_time
-      label: Submission Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: experiment_time
-      label: Experiment Time
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: remarks
-      label: Remarks
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: remarks
-      label: Remarks
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: remarks
-      label: Remarks
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: comments
-      label: Comments
+      name: page6
+      label: Final Information
       hint: null
       type: text
       options: []

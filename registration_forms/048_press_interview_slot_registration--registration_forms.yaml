@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Journalist''}'
-      - '{''label'': ''Media Professional''}'
+      - Journalist
+      - Media Professional
       required: false
     - id: 6
       name: journalist_details
@@ -49,7 +49,7 @@ inputSchema:
       required: false
     - id: 7
       name: journalist_details_name
-      label: name
+      label: Journalist Details Name
       hint: null
       type: text
       options: []
@@ -63,14 +63,14 @@ inputSchema:
       required: false
     - id: 9
       name: journalist_details_phone
-      label: phone
+      label: Journalist Details Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 10
       name: journalist_details_email
-      label: email
+      label: Journalist Details Email
       hint: null
       type: text
       options: []

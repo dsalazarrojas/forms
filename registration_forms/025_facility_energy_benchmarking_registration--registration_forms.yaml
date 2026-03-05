@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Facility''}'
-      - '{''id'': 2, ''label'': ''Utility Company''}'
-      - '{''id'': 3, ''label'': ''Other''}'
-      - '{''id'': 4, ''label'': ''None''}'
+      - Facility
+      - Utility Company
+      - Other
+      - None
       required: true
     - id: 5
       name: building_sqft
@@ -48,12 +48,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 2020, ''value'': 2020}'
-      - '{''id'': 2, ''label'': 2019, ''value'': 2019}'
-      - '{''id'': 3, ''label'': 2018, ''value'': 2018}'
-      - '{''id'': 4, ''label'': 2017, ''value'': 2017}'
-      - '{''id'': 5, ''label'': 2016, ''value'': 2016}'
-      - '{''id'': 6, ''label'': 2015, ''value'': 2015}'
+      - '2020'
+      - '2019'
+      - '2018'
+      - '2017'
+      - '2016'
+      - '2015'
       required: true
     - id: 7
       name: contact_street_address
@@ -75,53 +75,53 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Alabama''}'
-      - '{''id'': 2, ''label'': ''Alaska'', ''value'': ''Alaska''}'
-      - '{''id'': 3, ''label'': ''Arizona'', ''value'': ''Arizona''}'
-      - '{''id'': 4, ''label'': ''Arkansas'', ''value'': ''Arkansas''}'
-      - '{''id'': 5, ''label'': ''California'', ''value'': ''California''}'
-      - '{''id'': 6, ''label'': ''Colorado'', ''value'': ''Colorado''}'
-      - '{''id'': 7, ''label'': ''Connecticut'', ''value'': ''Connecticut''}'
-      - '{''id'': 8, ''label'': ''Delaware'', ''value'': ''Delaware''}'
-      - '{''id'': 9, ''label'': ''Florida'', ''value'': ''Florida''}'
-      - '{''id'': 10, ''label'': ''Georgia'', ''value'': ''Georgia''}'
-      - '{''id'': 11, ''label'': ''Hawaii'', ''value'': ''Hawaii''}'
-      - '{''id'': 12, ''label'': ''Idaho'', ''value'': ''Idaho''}'
-      - '{''id'': 13, ''label'': ''Illinois'', ''value'': ''Illinois''}'
-      - '{''id'': 14, ''label'': ''Indiana'', ''value'': ''Indiana''}'
-      - '{''id'': 15, ''label'': ''Iowa'', ''value'': ''Iowa''}'
-      - '{''id'': 16, ''label'': ''Kansas'', ''value'': ''Kansas''}'
-      - '{''id'': 17, ''label'': ''Kentucky'', ''value'': ''Kentucky''}'
-      - '{''id'': 18, ''label'': ''Louisiana'', ''value'': ''Louisiana''}'
-      - '{''id'': 19, ''label'': ''Maine'', ''value'': ''Maine''}'
-      - '{''id'': 20, ''label'': ''Maryland'', ''value'': ''Maryland''}'
-      - '{''id'': 21, ''label'': ''Massachusetts'', ''value'': ''Massachusetts''}'
-      - '{''id'': 22, ''label'': ''Michigan'', ''value'': ''Michigan''}'
-      - '{''id'': 23, ''label'': ''Minnesota'', ''value'': ''Minnesota''}'
-      - '{''id'': 24, ''label'': ''Mississippi'', ''value'': ''Mississippi''}'
-      - '{''id'': 25, ''label'': ''Missouri'', ''value'': ''Missouri''}'
-      - '{''id'': 26, ''label'': ''Montana'', ''value'': ''Montana''}'
-      - '{''id'': 27, ''label'': ''Nebraska'', ''value'': ''Nebraska''}'
-      - '{''id'': 28, ''label'': ''Nevada'', ''value'': ''Nevada''}'
-      - '{''id'': 29, ''label'': ''New Hampshire'', ''value'': ''New Hampshire''}'
-      - '{''id'': 30, ''label'': ''New Jersey'', ''value'': ''New Jersey''}'
-      - '{''id'': 31, ''label'': ''New Mexico'', ''value'': ''New Mexico''}'
-      - '{''id'': 32, ''label'': ''New York'', ''value'': ''New York''}'
-      - '{''id'': 33, ''label'': ''North Carolina'', ''value'': ''North Carolina''}'
-      - '{''id'': 34, ''label'': ''North Dakota'', ''value'': ''North Dakota''}'
-      - '{''id'': 35, ''label'': ''Ohio'', ''value'': ''Ohio''}'
-      - '{''id'': 36, ''label'': ''Oklahoma'', ''value'': ''Oklahoma''}'
-      - '{''id'': 37, ''label'': ''Oregon'', ''value'': ''Oregon''}'
-      - '{''id'': 38, ''label'': ''Pennsylvania'', ''value'': ''Pennsylvania''}'
-      - '{''id'': 39, ''label'': ''Rhode Island'', ''value'': ''Rhode Island''}'
-      - '{''id'': 40, ''label'': ''Tennessee'', ''value'': ''Tennessee''}'
-      - '{''id'': 41, ''label'': ''Texas'', ''value'': ''Texas''}'
-      - '{''id'': 42, ''label'': ''Utah'', ''value'': ''Utah''}'
-      - '{''id'': 43, ''label'': ''Vermont'', ''value'': ''Vermont''}'
-      - '{''id'': 44, ''label'': ''Virginia'', ''value'': ''Virginia''}'
-      - '{''id'': 45, ''label'': ''Washington'', ''value'': ''Washington''}'
-      - '{''id'': 46, ''label'': ''West Virginia'', ''value'': ''West Virginia''}'
-      - '{''id'': 47, ''label'': ''Wisconsin'', ''value'': ''Wisconsin''}'
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
       required: true
     - id: 10
       name: contact_zip
@@ -150,10 +150,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
-      - '{''id'': 3, ''label'': ''Conditional'', ''value'': ''Conditional''}'
-      - '{''id'': 4, ''label'': ''None'', ''value'': ''None''}'
+      - 'True'
+      - 'False'
+      - Conditional
+      - None
       required: true
     - id: 14
       name: participant_name
@@ -168,52 +168,31 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''City Manager'', ''value'': ''City Manager''}'
-      - '{''id'': 2, ''label'': ''Mayor'', ''value'': ''Mayor''}'
-      - '{''id'': 3, ''label'': ''City Councilor'', ''value'': ''City Councilor''}'
-      - '{''id'': 4, ''label'': ''City Council Member'', ''value'': ''City Council
-        Member''}'
-      - '{''id'': 5, ''label'': ''City Council Member - 2nd'', ''value'': ''City Council
-        Member - 2nd''}'
-      - '{''id'': 6, ''label'': ''City Councilor At-Large'', ''value'': ''City Councilor
-        At-Large''}'
-      - '{''id'': 7, ''label'': ''City Councilor - 2nd'', ''value'': ''City Councilor
-        - 2nd''}'
-      - '{''id'': 8, ''label'': ''Mayor - Elect'', ''value'': ''Mayor - Elect''}'
-      - '{''id'': 9, ''label'': ''City Councilor - 3rd'', ''value'': ''City Councilor
-        - 3rd''}'
-      - '{''id'': 10, ''label'': ''City Councilor - 4th'', ''value'': ''City Councilor
-        - 4th''}'
-      - '{''id'': 11, ''label'': ''City Manager - Elect'', ''value'': ''City Manager
-        - Elect''}'
-      - '{''id'': 12, ''label'': ''City Manager - 2nd'', ''value'': ''City Manager
-        - 2nd''}'
-      - '{''id'': 13, ''label'': ''City Manager - 3rd'', ''value'': ''City Manager
-        - 3rd''}'
-      - '{''id'': 14, ''label'': ''City Manager - 4th'', ''value'': ''City Manager
-        - 4th''}'
-      - '{''id'': 15, ''label'': ''City Manager - 5th'', ''value'': ''City Manager
-        - 5th''}'
-      - '{''id'': 16, ''label'': ''City Councilor - 1st Assistant'', ''value'': ''City
-        Councilor - 1st Assistant''}'
-      - '{''id'': 17, ''label'': ''City Councilor - 2nd Assistant'', ''value'': ''City
-        Councilor - 2nd Assistant''}'
-      - '{''id'': 18, ''label'': ''City Councilor - 3rd Assistant'', ''value'': ''City
-        Councilor - 3rd Assistant''}'
-      - '{''id'': 19, ''label'': ''City Councilor - 4th Assistant'', ''value'': ''City
-        Councilor - 4th Assistant''}'
-      - '{''id'': 20, ''label'': ''City Councilor - 5th Assistant'', ''value'': ''City
-        Councilor - 5th Assistant''}'
-      - '{''id'': 21, ''label'': ''City Councilor - 6th Assistant'', ''value'': ''City
-        Councilor - 6th Assistant''}'
-      - '{''id'': 22, ''label'': ''City Councilor - 7th Assistant'', ''value'': ''City
-        Councilor - 7th Assistant''}'
-      - '{''id'': 23, ''label'': ''City Councilor - 8th Assistant'', ''value'': ''City
-        Councilor - 8th Assistant''}'
-      - '{''id'': 24, ''label'': ''City Councilor - 9th Assistant'', ''value'': ''City
-        Councilor - 9th Assistant''}'
-      - '{''id'': 25, ''label'': ''City Councilor - 10th Assistant'', ''value'': ''City
-        Councilor - 10th Assistant''}'
+      - City Manager
+      - Mayor
+      - City Councilor
+      - City Council Member
+      - City Council Member - 2nd
+      - City Councilor At-Large
+      - City Councilor - 2nd
+      - Mayor - Elect
+      - City Councilor - 3rd
+      - City Councilor - 4th
+      - City Manager - Elect
+      - City Manager - 2nd
+      - City Manager - 3rd
+      - City Manager - 4th
+      - City Manager - 5th
+      - City Councilor - 1st Assistant
+      - City Councilor - 2nd Assistant
+      - City Councilor - 3rd Assistant
+      - City Councilor - 4th Assistant
+      - City Councilor - 5th Assistant
+      - City Councilor - 6th Assistant
+      - City Councilor - 7th Assistant
+      - City Councilor - 8th Assistant
+      - City Councilor - 9th Assistant
+      - City Councilor - 10th Assistant
       required: true
     - id: 16
       name: participant_department
@@ -249,8 +228,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
-      - '{''id'': 3, ''label'': ''Conditional'', ''value'': ''Conditional''}'
-      - '{''id'': 4, ''label'': ''None'', ''value'': ''None''}'
+      - 'True'
+      - 'False'
+      - Conditional
+      - None
       required: true

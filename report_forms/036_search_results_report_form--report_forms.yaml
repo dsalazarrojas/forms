@@ -4,193 +4,104 @@ inputSchema:
     title: search_results_report_form
     pages:
     - id: 1
-      name: search_results
-      label: search_results
+      name: search_query
+      label: What is the search query?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: keyword
-      label: keyword
+      name: search_results_range
+      label: What is the range of search results?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: results
-      label: results
-      hint: Total number of results
       type: number
       options: []
       required: true
-    - id: 4
-      name: results_range
-      label: results_range
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: keyword
-      label: keyword
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: date_range
-      label: date_range
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
+    - id: 3
       name: time_range
-      label: time_range
+      label: What is the time range?
       hint: null
       type: time
       options: []
-      required: false
-    - id: 8
-      name: search_results
-      label: search_results
+      required: true
+    - id: 4
+      name: search_results_count
+      label: What is the number of search results?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 9
-      name: search_results_range
-      label: search_results_range
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
+      required: true
+    - id: 5
       name: search_results_type
-      label: search_results_type
+      label: Is the search results type relevant?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
+      required: true
+    - id: 6
+      name: notes
+      label: What are the notes for the search results?
+      hint: null
+      type: note
+      options: []
       required: false
+    - id: 7
+      name: search_results_range_type
+      label: Is the search results range relevant?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: search_results_type_range
+      label: What is the search results range?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Range 1
+      - Range 2
+      required: true
+    - id: 9
+      name: search_results_relevance
+      label: Is the search results relevant?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: search_results_type_relevance
+      label: Search Results Type Relevance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 11
-      name: search_results
-      label: search_results
+      name: search_results_range_relevance
+      label: Search Results Range Relevance
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 12
-      name: search_results
-      label: search_results
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: notes_range
-      label: notes_range
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: search_results
-      label: search_results
+      name: search_results_range_type_2
+      label: Search Results Range Type 2
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 17
-      name: search_results
-      label: search_results
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: search_results
-      label: search_results
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: search_results
-      label: search_results
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: search_results
-      label: search_results
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: search_results
-      label: search_results
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: search_results
-      label: search_results
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: search_results
-      label: search_results
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: search_results
-      label: search_results
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: search_results
-      label: search_results
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Range 1
+      - Range 2
+      required: true

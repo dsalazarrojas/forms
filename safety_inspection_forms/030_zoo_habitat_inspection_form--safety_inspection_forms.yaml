@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Mammals''}'
-      - '{''label'': ''Birds''}'
-      - '{''label'': ''Reptiles''}'
-      - '{''label'': ''Fish''}'
-      - '{''label'': ''Insects''}'
+      - Mammals
+      - Birds
+      - Reptiles
+      - Fish
+      - Insects
       required: false
     - id: 3
       name: enclosure_type
@@ -39,9 +28,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Open''}'
-      - '{''label'': ''Enclosed''}'
-      - '{''label'': ''Indoor''}'
+      - Open
+      - Enclosed
+      - Indoor
       required: false
     - id: 4
       name: habitat_condition
@@ -56,9 +45,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 6
       name: animal_feeding_status
@@ -66,8 +55,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Feeding''}'
-      - '{''label'': ''Not Feeding''}'
+      - Feeding
+      - Not Feeding
       required: false
     - id: 7
       name: facility_care_status
@@ -75,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 8
       name: observation_status
@@ -85,8 +74,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Observed''}'
-      - '{''label'': ''Not Observed''}'
+      - Observed
+      - Not Observed
       required: false
     - id: 9
       name: notes

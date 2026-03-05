@@ -1,99 +1,143 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Restaurant Operating Expense Control
     pages:
     - id: 1
-      name: restaurant_evaluation_form
-      label: Restaurant Evaluation Form
+      name: introduction
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: expenses_control
-      label: Expenses Control
+      name: common_expenses
+      label: What are some common expenses that restaurants incur?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 3
-      name: operational_costs
-      label: Operational Costs
+      name: cost_management
+      label: How are those expenses managed and controlled?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: restaurant_evaluation_form
-      label: Restaurant Evaluation Form
+      name: operational_cost_process
+      label: What is the process for evaluating operational costs?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: expenses_control
-      label: Expenses Control
+      name: cost_calculation
+      label: How are restaurant operational costs calculated?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: operational_costs
-      label: Operational Costs
+      name: cost_control_methods
+      label: What are some common methods for controlling restaurant expenses?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 7
-      name: restaurant_evaluation_form
-      label: Restaurant Evaluation Form
+      name: cost_areas
+      label: What are the top 3 areas where restaurants can cut down on costs?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 8
-      name: operational_costs
-      label: Operational Costs
+      name: cost_reasons
+      label: What are some common reasons why restaurant operational expenses are
+        high?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: restaurant_evaluation_form
-      label: Restaurant Evaluation Form
+      name: tracking_tools
+      label: What are some common tools or software used for tracking restaurant expenses?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 10
-      name: operational_costs
-      label: Operational Costs
+      name: cost_management_practices
+      label: What are some best practices for managing operational costs in restaurants?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: restaurant_evaluation_form
-      label: Restaurant Evaluation Form
+      name: current_system
+      label: How does the current system help in managing restaurant operational costs?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: current_issues
+      label: What are some common issues with current restaurant expense tracking?
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
-      name: expenses_control
-      label: Expenses Control
+    - id: 13
+      name: cost_impact
+      label: How does restaurant operational cost control impact customer satisfaction?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: conclusion
+      label: Conclusion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: recommendations
+      label: What can be improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: final_comments
+      label: Final comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: end
+      label: End
       hint: null
       type: text
       options: []

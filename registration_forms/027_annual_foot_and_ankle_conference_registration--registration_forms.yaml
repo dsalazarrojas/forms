@@ -62,10 +62,10 @@ inputSchema:
       hint: Which year are you attending?
       type: select_one
       options:
-      - 2026
-      - 2025
-      - 2024
-      - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       required: true
     - id: 8
       name: registration_type
@@ -113,8 +113,8 @@ inputSchema:
       hint: Do you need continuing education credits?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: license_number
@@ -174,7 +174,7 @@ inputSchema:
       options:
       - Yes, Definitely
       - Maybe
-      - false
+      - 'False'
       required: false
     - id: 18
       name: hotel_needed
@@ -182,8 +182,8 @@ inputSchema:
       hint: Do you need hotel recommendations?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Already Booked
       required: false
     - id: 19
@@ -192,8 +192,8 @@ inputSchema:
       hint: Need help with transportation?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: first_time_attendee
@@ -201,8 +201,8 @@ inputSchema:
       hint: Is this your first conference?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 21
       name: referral_source
@@ -244,7 +244,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Agree
-      - false
+      - 'False'
       required: true
     - id: 25
       name: special_requests

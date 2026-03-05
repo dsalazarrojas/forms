@@ -1,82 +1,71 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Chipper Inspection Checklist
     pages:
-      - id: 1
-        name: inspector
-        label: Inspector Name
-        hint: Person performing the safety inspection
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: inspection_date
-        label: Inspection Date
-        hint: Date of inspection
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: chipper_id
-        label: Chipper Identifier
-        hint: Asset tag or serial number
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: guards_in_place
-        label: Safety Guards in Place
-        hint: Verify that safety guards are installed
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 5
-        name: emergency_stop
-        label: Emergency Stop Function
-        hint: Test emergency stop operation
-        type: select_one
-        options:
-          - Operational
-          - Faulty
-          - Not Present
-        required: true
-      - id: 6
-        name: hydraulic_leaks
-        label: Hydraulic Leaks Observed
-        hint: Check for fluid leaks
-        type: select_one
-        options:
-          - None
-          - Minor
-          - Major
-        required: true
-      - id: 7
-        name: operator_training_current
-        label: Operator Training Current
-        hint: Are operators trained and certified
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 8
-        name: recommendations
-        label: Recommendations
-        hint: Safety improvements or repairs needed
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: inspector
+      label: Inspector Name
+      hint: Person performing the safety inspection
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: chipper_id
+      label: Chipper Identifier
+      hint: Asset tag or serial number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guards_in_place
+      label: Safety Guards in Place
+      hint: Verify that safety guards are installed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: emergency_stop
+      label: Emergency Stop Function
+      hint: Test emergency stop operation
+      type: select_one
+      options:
+      - Operational
+      - Faulty
+      - Not Present
+      required: true
+    - id: 6
+      name: hydraulic_leaks
+      label: Hydraulic Leaks Observed
+      hint: Check for fluid leaks
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Major
+      required: true
+    - id: 7
+      name: operator_training_current
+      label: Operator Training Current
+      hint: Are operators trained and certified
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: recommendations
+      label: Recommendations
+      hint: Safety improvements or repairs needed
+      type: text
+      options: []
+      required: false

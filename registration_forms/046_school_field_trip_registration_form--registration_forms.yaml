@@ -121,9 +121,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Educational'', ''value'': ''educational''}'
-      - '{''label'': ''Recreational'', ''value'': ''recreational''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Educational
+      - Recreational
+      - Other
       required: false
     - id: 18
       name: trip_status
@@ -131,10 +131,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Confirmed'', ''value'': ''confirmed''}'
-      - '{''label'': ''In progress'', ''value'': ''in_progress''}'
-      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
-      - '{''label'': ''Pending'', ''value'': ''pending''}'
+      - Confirmed
+      - In progress
+      - Cancelled
+      - Pending
       required: false
     - id: 19
       name: trip_budget
@@ -177,9 +177,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Confirmed'', ''value'': ''confirmed''}'
-      - '{''label'': ''Not Attending'', ''value'': ''not_attending''}'
-      - '{''label'': ''Absent'', ''value'': ''absent''}'
+      - Confirmed
+      - Not Attending
+      - Absent
       required: false
     - id: 25
       name: teacher_attendance
@@ -187,7 +187,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Confirmed'', ''value'': ''confirmed''}'
-      - '{''label'': ''Not Attending'', ''value'': ''not_attending''}'
-      - '{''label'': ''Absent'', ''value'': ''absent''}'
+      - Confirmed
+      - Not Attending
+      - Absent
       required: false

@@ -4,15 +4,15 @@ inputSchema:
     title: Security Program Registration Form
     pages:
     - id: 1
-      name: first_page
-      label: registration_form
+      name: participant_info
+      label: Participant Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: event_details
-      label: event_details
+      label: Event Details
       hint: null
       type: select_multiple
       options:
@@ -20,46 +20,84 @@ inputSchema:
       - 'No'
       required: false
     - id: 3
-      name: participant_info
-      label: participant_info
+      name: participant_contact
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_experience
+      label: Security Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: participant_skills
+      label: Skills or Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - Penetration Testing
+      - Vulnerability Assessment
+      - Cybersecurity Consulting
+      - Security Research
+      required: false
+    - id: 6
+      name: update_preferences
+      label: Update Preferences
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 7
+      name: background_check
+      label: Background Check
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 4
-      name: participant_info_1
-      label: participant
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 5
-      name: participant_info_2
-      label: participant
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: participant_info_3
-      label: participant
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: participant_info_4
-      label: participant
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 8
-      name: registration_form_1
-      label: participant
+      name: mailing_list
+      label: Mailing List
       hint: null
-      type: text
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 9
+      name: first_time_attending
+      label: First Time Attending
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: participant_notes
+      label: Additional Notes
+      hint: null
+      type: note
       options: []
       required: false

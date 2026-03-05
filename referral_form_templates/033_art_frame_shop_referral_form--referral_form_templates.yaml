@@ -1,86 +1,81 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Art Frame Shop Referral Form
     pages:
-      - id: 1
-        name: referrer_name
-        label: Referrer name
-        hint: Person making the referral
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: customer_name
-        label: Customer name
-        hint: Person being referred
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: contact_info
-        label: Contact information
-        hint: Phone or email
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: project_description
-        label: Project description
-        hint: Type of framing or artwork details
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: preferred_contact_method
-        label: Preferred contact method
-        hint: How should the shop contact
-        type: select_one
-        options: [Phone, Email]
-        required: false
-      - id: 6
-        name: urgency
-        label: Urgency
-        hint: Expected turnaround urgency
-        type: select_one
-        options: [Standard, Rush]
-        required: true
-      - id: 7
-        name: referral_notes
-        label: Referral notes
-        hint: Any additional information
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: consent_to_share
-        label: Consent to share contact
-        hint: Customer permission to be contacted
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 9
-        name: shop_receipt_id
-        label: Internal receipt ID
-        hint: For shop use after acceptance
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: follow_up_date
-        label: Follow up date
-        hint: Date to follow up on referral
-        type: date
-        options: []
-        required: false
+    - id: 1
+      name: referrer_name
+      label: Referrer name
+      hint: Person making the referral
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Person being referred
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact information
+      hint: Phone or email
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_description
+      label: Project description
+      hint: Type of framing or artwork details
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How should the shop contact
+      type: select_one
+      options:
+      - Phone
+      - Email
+      required: false
+    - id: 6
+      name: urgency
+      label: Urgency
+      hint: Expected turnaround urgency
+      type: select_one
+      options:
+      - Standard
+      - Rush
+      required: true
+    - id: 7
+      name: referral_notes
+      label: Referral notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_to_share
+      label: Consent to share contact
+      hint: Customer permission to be contacted
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: shop_receipt_id
+      label: Internal receipt ID
+      hint: For shop use after acceptance
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_date
+      label: Follow up date
+      hint: Date to follow up on referral
+      type: date
+      options: []
+      required: false

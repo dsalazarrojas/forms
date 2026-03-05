@@ -20,137 +20,134 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: last_name
       label: Last Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
       name: company
-      label: Company
+      label: Company Name
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: title
+      name: job_title
       label: Job Title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: job_title
-      label: Job Title
+      name: department
+      label: Department
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: job_title_other
-      label: Job Title
+      name: job_description
+      label: Job Description
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: job_title_other_2
-      label: Job Title
+      name: skills
+      label: Skills
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: job_title_other_3
-      label: Job Title
+      name: experience
+      label: Experience
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 10
-      name: job_title_other_4
-      label: Job Title
+      name: availability
+      label: Availability
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Full time
+      - Part time
+      - Flexible
+      required: true
     - id: 11
-      name: job_title_other_5
-      label: Job Title
+      name: location
+      label: Location
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: job_other
-      label: Job Title
+      name: contact_number
+      label: Contact Number
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 13
-      name: job_other_2
-      label: Job Title
+      name: emergency_contact
+      label: Emergency Contact
       hint: null
-      type: text
+      type: email
       options: []
       required: false
     - id: 14
-      name: job_other_3
-      label: Job Title
+      name: job_type
+      label: Job Type
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Manager
+      - Team Member
+      - Intern
+      required: true
     - id: 15
-      name: job_other_4
-      label: Job Title
+      name: job_type_other
+      label: Job Type (Other)
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: job_other_5
-      label: Job Title
+      name: experience_years
+      label: Experience (Years)
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 17
-      name: job_title
-      label: Job Title
+      name: experience_range
+      label: Experience Range
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Entry Level
+      - Mid-level
+      - Senior
       required: false
     - id: 18
-      name: job_title_2
-      label: Job Title
+      name: submit
+      label: Submit
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: job_title_3
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: job_title_4
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true

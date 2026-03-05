@@ -4,92 +4,142 @@ inputSchema:
     title: Process Efficiency Collaboration Application Form
     pages:
     - id: 1
-      name: process_efficiency_collaboration_application_form_1
-      label: Process Improvement Idea
-      hint: null
+      name: process_efficiency_collaboration_form_1
+      label: Improvement Idea
+      hint: Please describe your improvement idea
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: process_efficiency_collaboration_application_form_2
+      name: process_efficiency_collaboration_form_2
       label: Collaboration Method
-      hint: null
+      hint: How would you like to collaborate?
       type: select_one
       options:
-      - Collaboration
-      - Inclusion
-      - Exclusion
-      required: false
+      - Option A
+      - Option B
+      - Option C
+      required: true
     - id: 3
-      name: process_efficiency_collaboration_application_form_3
+      name: process_efficiency_collaboration_form_3
       label: Submission Date
-      hint: null
+      hint: Select a date for your submission
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
-      name: process_efficiency_collaboration_application_form_4
+      name: process_efficiency_collaboration_form_4
       label: Submission Time
-      hint: null
+      hint: Select a time for your submission
       type: time
       options: []
-      required: false
+      required: true
     - id: 5
-      name: process_efficiency_collaboration_application_form_5
+      name: process_efficiency_collaboration_form_5
       label: Contact Information
-      hint: null
+      hint: Enter your contact email address
       type: email
       options: []
-      required: false
+      required: true
     - id: 6
-      name: process_efficiency_collaboration_application_form_6
+      name: process_efficiency_collaboration_form_6
       label: Phone Number
-      hint: null
+      hint: Enter your phone number
       type: text
       options: []
       required: false
     - id: 7
-      name: process_efficiency_collaboration_application_form_7
+      name: process_efficiency_collaboration_form_7
       label: Additional Comments
-      hint: null
+      hint: Please provide any additional comments
       type: note
       options: []
       required: false
     - id: 8
-      name: process_efficiency_collaboration_application_form_8
+      name: process_efficiency_collaboration_form_8
       label: Submission Status
-      hint: null
+      hint: Select the status of your submission
       type: select_one
       options:
       - In Progress
       - Completed
       - Cancelled
-      required: false
+      required: true
     - id: 9
-      name: process_efficiency_collaboration_application_form_9
-      label: Submission Date
-      hint: null
+      name: process_efficiency_collaboration_form_9
+      label: Process Efficiency Collaboration Form 9
+      hint: Select a date for your submission
       type: date
       options: []
-      required: false
+      required: true
     - id: 10
-      name: process_efficiency_collaboration_application_form_10
-      label: Submission Time
-      hint: null
+      name: process_efficiency_collaboration_form_10
+      label: Process Efficiency Collaboration Form 10
+      hint: Select a time for your submission
       type: time
       options: []
-      required: false
+      required: true
     - id: 11
-      name: process_efficiency_collaboration_application_form_11
-      label: Contact Information
-      hint: null
+      name: process_efficiency_collaboration_form_11
+      label: Process Efficiency Collaboration Form 11
+      hint: Enter your contact information
       type: email
       options: []
-      required: false
+      required: true
     - id: 12
-      name: process_efficiency_collaboration_application_form_12
-      label: Phone Number
-      hint: null
+      name: process_efficiency_collaboration_form_12
+      label: Process Efficiency Collaboration Form 12
+      hint: Enter your phone number
       type: text
+      options: []
+      required: true
+    - id: 13
+      name: process_efficiency_collaboration_form_13
+      label: Submission Reason
+      hint: Please describe the reason for your submission
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: process_efficiency_collaboration_form_14
+      label: Submission Location
+      hint: Please select the location of your submission
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 15
+      name: process_efficiency_collaboration_form_15
+      label: Submission Type
+      hint: Please select the type of your submission
+      type: select_one
+      options:
+      - Option C
+      - Option D
+      required: false
+    - id: 16
+      name: process_efficiency_collaboration_form_16
+      label: Submission Frequency
+      hint: Please select the frequency of your submission
+      type: select_one
+      options:
+      - Option E
+      - Option F
+      required: false
+    - id: 17
+      name: process_efficiency_collaboration_form_17
+      label: Submission Time Frame
+      hint: Please select the time frame of your submission
+      type: select_one
+      options:
+      - Option G
+      - Option H
+      required: false
+    - id: 18
+      name: process_efficiency_collaboration_form_18
+      label: Submission Deadline
+      hint: Please select the submission deadline
+      type: date
       options: []
       required: false

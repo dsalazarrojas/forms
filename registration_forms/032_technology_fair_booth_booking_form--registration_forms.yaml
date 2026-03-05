@@ -4,76 +4,15 @@ inputSchema:
     title: Technology Fair Booth Booking Form
     pages:
     - id: 1
-      name: technology_fair_booth_booking_form
-      label: technology_fair_booth_booking_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: exhibitor_details
-      label: exhibitor_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: booth_booking_details
-      label: booth_booking_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: booth_booking_form_save
-      label: save
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: technology_fair_date
-      label: technology_fair_date
-      hint: YYYY-MM-DD
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: technology_fair_time
-      label: technology_fair_time
-      hint: "HH:MM:SS"
-      type: time
-      options: []
-      required: false
-    - id: 7
-      name: booth_booking_notes
-      label: booth_booking_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: technology_fair_location
-      label: technology_fair_location
-      hint: null
-      type: select_one
-      options:
-      - Technology Center
-      - Science Museum
-      - Convention Center
-      - Online
-      - Other
-      required: true
-    - id: 9
       name: exhibit_name
-      label: exhibit_name
+      label: Exhibit Name
       hint: Enter your full company name
       type: text
       options: []
       required: true
-    - id: 10
+    - id: 2
       name: booth_type
-      label: booth_type
+      label: Booth Type
       hint: null
       type: select_one
       options:
@@ -82,58 +21,58 @@ inputSchema:
       - 12m X 12m
       - Other
       required: true
-    - id: 11
+    - id: 3
       name: number_of_exhibitors
-      label: number_of_exhibitors
+      label: Number of Exhibitors
       hint: null
       type: number
       options: []
       required: true
-    - id: 12
+    - id: 4
       name: contact_person
-      label: contact_person
+      label: Contact Person
       hint: null
       type: text
       options: []
       required: true
-    - id: 13
+    - id: 5
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
       required: true
-    - id: 14
+    - id: 6
       name: phone
-      label: phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: true
-    - id: 15
+    - id: 7
       name: booth_requirements
-      label: booth_requirements
+      label: Booth Requirements
       hint: null
       type: text
       options: []
       required: true
-    - id: 16
+    - id: 8
       name: technology_fair_date
-      label: technology_fair_date
+      label: Technology Fair Date
       hint: YYYY-MM-DD
       type: date
       options: []
       required: true
-    - id: 17
+    - id: 9
       name: technology_fair_time
-      label: technology_fair_time
-      hint: "HH:MM:SS"
+      label: Technology Fair Time
+      hint: HH -MM -SS
       type: time
       options: []
       required: true
-    - id: 18
+    - id: 10
       name: technology_fair_location
-      label: technology_fair_location
+      label: Technology Fair Location
       hint: null
       type: select_one
       options:
@@ -143,43 +82,18 @@ inputSchema:
       - Online
       - Other
       required: true
-    - id: 19
+    - id: 11
       name: online_booking
-      label: online_booking
+      label: Online Booking
       hint: null
       type: select_one
       options:
       - 'True'
       - 'False'
       required: true
-    - id: 20
-      name: technology_fair_date
-      label: technology_fair_date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 21
-      name: technology_fair_time
-      label: technology_fair_time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 22
-      name: technology_fair_location
-      label: technology_fair_location
-      hint: null
-      type: select_one
-      options:
-      - Technology Center
-      - Science Museum
-      - Convention Center
-      - Online
-      required: true
-    - id: 23
-      name: booth_type
-      label: booth_type
+    - id: 12
+      name: technology_fair_size
+      label: Booth Size
       hint: null
       type: select_one
       options:
@@ -187,18 +101,11 @@ inputSchema:
       - 6m x 6m
       - 12m X 12m
       - Other
-      required: false
-    - id: 24
-      name: number_of_exhibitors
-      label: number_of_exhibitors
+      required: true
+    - id: 13
+      name: note
+      label: Note
       hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: contact_person
-      label: contact_person
-      hint: null
-      type: text
+      type: note
       options: []
       required: false

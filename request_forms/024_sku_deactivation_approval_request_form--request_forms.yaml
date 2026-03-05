@@ -9,54 +9,75 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 2
       name: reason_for_deactivation
       label: Reason for Deactivation
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: deactivation_date
       label: Deactivation Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
       name: deactivation_time
       label: Deactivation Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 5
-      name: reason_for_deactivation
-      label: Reason for Deactivation
+      name: sku_id
+      label: SKU ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sales_representative
+      label: Sales Representative
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
-      name: deactivation_date
-      label: Deactivation Date
+    - id: 8
+      name: reason_for_deactivation_if_no
+      label: Reason for Deactivation (if no)
       hint: null
-      type: date
+      type: text
       options: []
       required: false
-    - id: 7
-      name: deactivation_time
-      label: Deactivation Time
+    - id: 9
+      name: deactivation_time_if_no
+      label: Deactivation Time (if no)
       hint: null
       type: time
       options: []
       required: false
-    - id: 8
-      name: sku_id
-      label: SKU ID
+    - id: 10
+      name: deactivation_date_if_no
+      label: Deactivation Date (if no)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: sku_id_if_no
+      label: SKU ID (if no)
       hint: null
       type: number
       options: []

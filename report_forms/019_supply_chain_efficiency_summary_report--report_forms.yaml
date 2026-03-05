@@ -23,12 +23,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''metric_1'', ''label'': ''Metric 1''}'
-      - '{''id'': 2, ''name'': ''metric_2'', ''label'': ''Metric 2''}'
-      - '{''id'': 3, ''name'': ''metric_3'', ''label'': ''Metric 3''}'
-      - '{''id'': 4, ''name'': ''metric_4'', ''label'': ''Metric 4''}'
-      - '{''id'': 5, ''name'': ''metric_5'', ''label'': ''Metric 5''}'
-      - '{''id'': 6, ''name'': ''metric_6'', ''label'': ''Metric 6''}'
+      - Metric 1
+      - Metric 2
+      - Metric 3
+      - Metric 4
+      - Metric 5
+      - Metric 6
       required: false
     - id: 4
       name: bottlenecks
@@ -50,8 +50,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''submit_now'', ''label'': ''Submit Now''}'
-      - '{''id'': 2, ''name'': ''save_for_later'', ''label'': ''Save for Later''}'
+      - Submit Now
+      - Save for Later
       required: true
     - id: 7
       name: date
@@ -101,10 +101,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''attachment_1'', ''label'': ''Attachment 1''}'
-      - '{''id'': 2, ''name'': ''attachment_2'', ''label'': ''Attachment 2''}'
-      - '{''id'': 3, ''name'': ''attachment_3'', ''label'': ''Attachment 3''}'
-      - '{''id'': 4, ''name'': ''attachment_4'', ''label'': ''Attachment 4''}'
+      - Attachment 1
+      - Attachment 2
+      - Attachment 3
+      - Attachment 4
       required: false
     - id: 14
       name: user
@@ -112,8 +112,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''user_1'', ''label'': ''User 1''}'
-      - '{''id'': 2, ''name'': ''user_2'', ''label'': ''User 2''}'
+      - User 1
+      - User 2
       required: false
     - id: 15
       name: notes

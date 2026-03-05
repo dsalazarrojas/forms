@@ -12,170 +12,65 @@ inputSchema:
       required: false
     - id: 2
       name: consent_to_publish
-      label: Consent to Publish
+      label: Do you consent to publish your interview?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 3
       name: signature
-      label: Signature
+      label: Please sign below
       hint: null
       type: note
       options: []
       required: false
     - id: 4
       name: interviewer_name
-      label: Interviewer Name
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: contact_number
-      label: Contact Number
+      label: What is your contact number?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: email
-      label: Email
+      name: interview_date
+      label: Date
       hint: null
-      type: email
+      type: date
       options: []
       required: false
     - id: 7
-      name: date
-      label: Date
+      name: interview_time
+      label: Time
       hint: null
-      type: date
+      type: time
       options: []
       required: false
     - id: 8
-      name: time
-      label: Time
+      name: additional_comments
+      label: Do you have any additional comments or concerns about this interview?
       hint: null
-      type: time
+      type: note
       options: []
       required: false
     - id: 9
-      name: additional_comments
-      label: Additional Comments
+      name: signature_date
+      label: Signature Date
       hint: null
-      type: note
+      type: date
       options: []
       required: false
     - id: 10
-      name: signature_date
-      label: Signature Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: contact_number
-      label: Contact Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: additional_comments
-      label: Additional Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: signature_date
-      label: Signature Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: contact_number
-      label: Contact Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: additional_comments
-      label: Additional Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: signature_date
-      label: Signature Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: contact_number
-      label: Contact Number
+      name: confirm_interview_details
+      label: Confirm Interview Details
       hint: null
       type: text
       options: []

@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 4
       name: case_type
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Ticket''}'
-      - '{''id'': 2, ''label'': ''Task''}'
-      - '{''id'': 3, ''label'': ''Question''}'
+      - Ticket
+      - Task
+      - Question
       required: true
     - id: 5
       name: resolution
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Team 1''}'
-      - '{''id'': 2, ''label'': ''Team 2''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Team 1
+      - Team 2
+      - Other
       required: true
     - id: 12
       name: customer_name
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Team 1''}'
-      - '{''id'': 2, ''label'': ''Team 2''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Team 1
+      - Team 2
+      - Other
       required: true
     - id: 16
       name: case_type
@@ -125,9 +125,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Ticket''}'
-      - '{''id'': 2, ''label'': ''Task''}'
-      - '{''id'': 3, ''label'': ''Question''}'
+      - Ticket
+      - Task
+      - Question
       required: true
     - id: 17
       name: ticket_status
@@ -135,9 +135,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Closed''}'
-      - '{''id'': 3, ''label'': ''In Progress''}'
+      - Active
+      - Closed
+      - In Progress
       required: true
     - id: 18
       name: closed_date
@@ -159,9 +159,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Goal 1''}'
-      - '{''id'': 2, ''label'': ''Goal 2''}'
-      - '{''id'': 3, ''label'': ''Goal 3''}'
+      - Goal 1
+      - Goal 2
+      - Goal 3
       required: true
     - id: 21
       name: submitted_objectives
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Objective 1''}'
-      - '{''id'': 2, ''label'': ''Objective 2''}'
-      - '{''id'': 3, ''label'': ''Objective 3''}'
+      - Objective 1
+      - Objective 2
+      - Objective 3
       required: true
     - id: 22
       name: submitted_actions
@@ -179,9 +179,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Action 1''}'
-      - '{''id'': 2, ''label'': ''Action 2''}'
-      - '{''id'': 3, ''label'': ''Action 3''}'
+      - Action 1
+      - Action 2
+      - Action 3
       required: true
     - id: 23
       name: submitted_results
@@ -189,9 +189,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Result 1''}'
-      - '{''id'': 2, ''label'': ''Result 2''}'
-      - '{''id'': 3, ''label'': ''Result 3''}'
+      - Result 1
+      - Result 2
+      - Result 3
       required: true
     - id: 24
       name: submitted_notes

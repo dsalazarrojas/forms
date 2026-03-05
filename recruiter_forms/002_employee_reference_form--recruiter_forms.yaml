@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''title'': ''Mr''}'
-      - '{''title'': ''Mrs''}'
-      - '{''title'': ''Ms''}'
-      - '{''title'': ''Dr''}'
-      - '{''title'': ''Prof''}'
+      - Mr
+      - Mrs
+      - Ms
+      - Dr
+      - Prof
       required: false
     - id: 4
       name: contact_first_name
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''first_name'': ''John''}'
-      - '{''first_name'': ''Jane''}'
-      - '{''first_name'': ''Doe''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 6
       name: contact_company
@@ -136,11 +136,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''title'': ''IT''}'
-      - '{''title'': ''Manager''}'
-      - '{''title'': ''Team Lead''}'
-      - '{''title'': ''Team Member''}'
-      - '{''title'': ''Other''}'
+      - IT
+      - Manager
+      - Team Lead
+      - Team Member
+      - Other
       required: false
     - id: 19
       name: contact_job_start
@@ -190,6 +190,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''title'': True}'
-      - '{''title'': False}'
+      - 'True'
+      - 'False'
       required: true

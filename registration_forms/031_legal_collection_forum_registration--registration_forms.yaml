@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''PayPal''}'
-      - '{''label'': ''Stripe''}'
-      - '{''label'': ''Bank Transfer''}'
+      - PayPal
+      - Stripe
+      - Bank Transfer
       required: false
     - id: 5
       name: payment_terms
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''I agree to the terms and conditions''}'
-      - '{''label'': ''I agree to the payment terms''}'
+      - I agree to the terms and conditions
+      - I agree to the payment terms
       required: false
     - id: 6
       name: legal_agreement
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Conference''}'
-      - '{''label'': ''Workshop''}'
-      - '{''label'': ''Forum''}'
+      - Conference
+      - Workshop
+      - Forum
       required: false
     - id: 18
       name: event_status
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Live''}'
-      - '{''label'': ''Postponed''}'
-      - '{''label'': ''Canceled''}'
+      - Live
+      - Postponed
+      - Canceled
       required: false
     - id: 19
       name: event_venue
@@ -146,9 +146,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Online''}'
-      - '{''label'': ''Offline''}'
-      - '{''label'': ''Hybrid''}'
+      - Online
+      - Offline
+      - Hybrid
       required: false
     - id: 20
       name: attendee_name

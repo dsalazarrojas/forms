@@ -4,154 +4,134 @@ inputSchema:
     title: Virtual Assistant End Of Day Report Form
     pages:
     - id: 1
-      name: first_page
-      label: First page
+      name: what_did_you_achieve
+      label: What did you accomplish today?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: end_of_day_report
-      label: end_of_day_report
+      name: biggest_challenges
+      label: What were the biggest challenges you faced?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: end_of_day_report
-      label: end_of_day_report
+      name: what_did_you_learn
+      label: What did you learn today?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: select_multiple
-      label: select_multiple
+      name: did_anything_different
+      label: What did you do differently than usual?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 5
-      name: select_multiple
-      label: select_multiple
+      name: greatest_success
+      label: What was the most significant success you achieved?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 6
-      name: date
-      label: date
+      name: what_didnt_go_as_planned
+      label: What didn't go as planned?
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 7
-      name: time
-      label: time
+      name: start_time
+      label: What time did you start working?
       hint: null
       type: time
       options: []
       required: false
     - id: 8
-      name: email
-      label: email
+      name: finish_time
+      label: What time did you finish work?
       hint: null
-      type: email
+      type: time
       options: []
       required: false
     - id: 9
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: select_one
-      label: what_did_you_do
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 0, ''label'': ''Nothing''}'
-      - '{''id'': 1, ''label'': ''Something''}'
-      - '{''id'': 2, ''label'': ''Everything''}'
-      required: false
-    - id: 12
-      name: select_one
-      label: what_didnt_you_do
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 0, ''label'': ''Nothing''}'
-      - '{''id'': 1, ''label'': ''Something''}'
-      - '{''id'': 2, ''label'': ''Everything''}'
-      required: false
-    - id: 13
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 16
+    - id: 10
       name: phone
-      label: phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 17
+    - id: 11
       name: note
-      label: note
+      label: Note
       hint: null
       type: note
       options: []
       required: false
-    - id: 18
-      name: date
-      label: date
+    - id: 12
+      name: did_you_do_anything
+      label: What did you do today?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: didnt_do_anything
+      label: What did you not do today?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_report
+      label: Date of the report
       hint: null
       type: date
       options: []
       required: false
-    - id: 19
-      name: time
-      label: time
+    - id: 15
+      name: time_of_report
+      label: Time of the report
       hint: null
       type: time
       options: []
       required: false
-    - id: 20
-      name: select_one
-      label: what_would_you_like_to_report
+    - id: 16
+      name: report_what
+      label: What would you like to report?
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''label'': ''Something''}'
-      - '{''id'': 1, ''label'': ''Everything''}'
+      - Nothing
+      - Something
+      - Everything
+      required: false
+    - id: 17
+      name: accomplished_goals
+      label: How did you accomplish your goals today?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: anything_else
+      label: Would you like to report on anything else?
+      hint: null
+      type: select_one
+      options:
+      - Nothing
+      - Something
+      - Everything
       required: false

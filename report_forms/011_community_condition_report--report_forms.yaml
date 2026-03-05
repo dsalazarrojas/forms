@@ -1,150 +1,139 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Community Condition Report
     pages:
-      - id: 1
-        name: reporter_name
-        label: Reporter Name
-        hint: Full name of person reporting
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: reporter_contact
-        label: Contact Information
-        hint: Phone or email
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: report_date
-        label: Date of Report
-        hint: When are you submitting this report?
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: issue_location
-        label: Location of Issue
-        hint: Specific address or description
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: issue_type
-        label: Type of Issue
-        hint: Select the primary issue category
-        type: select_one
-        options:
-          - Pothole or Road Damage
-          - Broken Streetlight
-          - Graffiti
-          - Trash or Debris
-          - Drainage Problem
-          - Sidewalk Damage
-          - Abandoned Vehicle
-          - Noise Complaint
-          - Property Maintenance
-          - Other
-        required: true
-      - id: 6
-        name: issue_severity
-        label: Severity Level
-        hint: How urgent is this issue?
-        type: select_one
-        options:
-          - Critical - Immediate Attention
-          - High - Within 24 Hours
-          - Medium - Within Week
-          - Low - Routine Maintenance
-        required: true
-      - id: 7
-        name: issue_description
-        label: Detailed Description
-        hint: Describe the issue in detail
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: photo_upload
-        label: Photo Description
-        hint: Describe any photos you have taken
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: safety_hazard
-        label: Is This a Safety Hazard
-        hint: Does this pose immediate danger?
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 10
-        name: affected_area
-        label: Area Affected
-        hint: Who or what is affected?
-        type: select_one
-        options:
-          - Single Property
-          - Multiple Properties
-          - Public Space
-          - Traffic Flow
-          - Pedestrian Safety
-          - Entire Neighborhood
-        required: true
-      - id: 11
-        name: duration_of_issue
-        label: How Long Has This Issue Existed
-        hint: Duration the issue has been present
-        type: select_one
-        options:
-          - Less than 24 hours
-          - 1-7 days
-          - 1-4 weeks
-          - 1-6 months
-          - More than 6 months
-        required: true
-      - id: 12
-        name: previous_reports
-        label: Have You Reported This Before
-        hint: Has this been reported previously?
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 13
-        name: previous_report_date
-        label: Previous Report Date
-        hint: When was it previously reported?
-        type: date
-        options: []
-        required: false
-      - id: 14
-        name: recommended_action
-        label: Recommended Action
-        hint: What should be done to fix this?
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: additional_comments
-        label: Additional Comments
-        hint: Any other relevant information
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: reporter_name
+      label: Reporter Name
+      hint: Full name of person reporting
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporter_contact
+      label: Contact Information
+      hint: Phone or email
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Date of Report
+      hint: When are you submitting this report?
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: issue_location
+      label: Location of Issue
+      hint: Specific address or description
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_type
+      label: Type of Issue
+      hint: Select the primary issue category
+      type: select_one
+      options:
+      - Pothole or Road Damage
+      - Broken Streetlight
+      - Graffiti
+      - Trash or Debris
+      - Drainage Problem
+      - Sidewalk Damage
+      - Abandoned Vehicle
+      - Noise Complaint
+      - Property Maintenance
+      - Other
+      required: true
+    - id: 6
+      name: issue_severity
+      label: Severity Level
+      hint: How urgent is this issue?
+      type: select_one
+      options:
+      - Critical - Immediate Attention
+      - High - Within 24 Hours
+      - Medium - Within Week
+      - Low - Routine Maintenance
+      required: true
+    - id: 7
+      name: issue_description
+      label: Detailed Description
+      hint: Describe the issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photo_upload
+      label: Photo Description
+      hint: Describe any photos you have taken
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: safety_hazard
+      label: Is This a Safety Hazard
+      hint: Does this pose immediate danger?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: affected_area
+      label: Area Affected
+      hint: Who or what is affected?
+      type: select_one
+      options:
+      - Single Property
+      - Multiple Properties
+      - Public Space
+      - Traffic Flow
+      - Pedestrian Safety
+      - Entire Neighborhood
+      required: true
+    - id: 11
+      name: duration_of_issue
+      label: How Long Has This Issue Existed
+      hint: Duration the issue has been present
+      type: select_one
+      options:
+      - Less than 24 hours
+      - 1-7 days
+      - 1-4 weeks
+      - 1-6 months
+      - More than 6 months
+      required: true
+    - id: 12
+      name: previous_reports
+      label: Have You Reported This Before
+      hint: Has this been reported previously?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: previous_report_date
+      label: Previous Report Date
+      hint: When was it previously reported?
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: recommended_action
+      label: Recommended Action
+      hint: What should be done to fix this?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

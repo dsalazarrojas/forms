@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Urban''}'
-      - '{''id'': 2, ''label'': ''Rural''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Urban
+      - Rural
+      - Both
       required: false
     - id: 3
       name: battery_budget
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Forest''}'
-      - '{''id'': 2, ''label'': ''Mountain''}'
-      - '{''id'': 3, ''label'': ''Waterfront''}'
+      - Forest
+      - Mountain
+      - Waterfront
       required: false
     - id: 6
       name: camera_height
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''24 Hours''}'
-      - '{''id'': 2, ''label'': ''48 Hours''}'
-      - '{''id'': 3, ''label'': ''72 Hours''}'
+      - 24 Hours
+      - 48 Hours
+      - 72 Hours
       required: false
     - id: 8
       name: battery_type
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''AA''}'
-      - '{''id'': 2, ''label'': ''D''}'
-      - '{''id'': 3, ''label'': ''9V''}'
+      - AA
+      - D
+      - 9V
       required: false
     - id: 9
       name: recommended_battery

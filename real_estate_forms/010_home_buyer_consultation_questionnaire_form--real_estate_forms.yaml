@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Single Family Home''}'
-      - '{''id'': 2, ''value'': ''Townhouse''}'
-      - '{''id'': 3, ''value'': ''Condo''}'
-      - '{''id'': 4, ''value'': ''Other''}'
-      - '{''id'': 5, ''value'': ''Unknown''}'
+      - Single Family Home
+      - Townhouse
+      - Condo
+      - Other
+      - Unknown
       required: false
     - id: 3
       name: budget
@@ -35,10 +35,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': 1}'
-      - '{''id'': 2, ''value'': 2}'
-      - '{''id'': 3, ''value'': 3}'
-      - '{''id'': 4, ''value'': ''More''}'
+      - '1'
+      - '2'
+      - '3'
+      - More
       required: false
     - id: 5
       name: num_bath
@@ -95,11 +95,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''City''}'
-      - '{''id'': 2, ''value'': ''Suburbs''}'
-      - '{''id'': 3, ''value'': ''Rural''}'
-      - '{''id'': 4, ''value'': ''Other''}'
-      - '{''id'': 5, ''value'': ''Unknown''}'
+      - City
+      - Suburbs
+      - Rural
+      - Other
+      - Unknown
       required: false
     - id: 13
       name: num_parking_spaces
@@ -128,11 +128,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Corner Lot''}'
-      - '{''id'': 2, ''value'': ''Linear Lot''}'
-      - '{''id'': 3, ''value'': ''Cul-de-sac Lot''}'
-      - '{''id'': 4, ''value'': ''Other''}'
-      - '{''id'': 5, ''value'': ''Unknown''}'
+      - Corner Lot
+      - Linear Lot
+      - Cul-de-sac Lot
+      - Other
+      - Unknown
       required: false
     - id: 17
       name: view
@@ -140,11 +140,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Ocean View''}'
-      - '{''id'': 2, ''value'': ''Mountain View''}'
-      - '{''id'': 3, ''value'': ''City View''}'
-      - '{''id'': 4, ''value'': ''Country View''}'
-      - '{''id'': 5, ''value'': ''Other''}'
+      - Ocean View
+      - Mountain View
+      - City View
+      - Country View
+      - Other
       required: false
     - id: 18
       name: home_features
@@ -152,11 +152,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Pool''}'
-      - '{''id'': 2, ''value'': ''Gourmet Kitchen''}'
-      - '{''id'': 3, ''value'': ''High Ceilings''}'
-      - '{''id'': 4, ''value'': ''Large Kitchen Island''}'
-      - '{''id'': 5, ''value'': ''Other''}'
+      - Pool
+      - Gourmet Kitchen
+      - High Ceilings
+      - Large Kitchen Island
+      - Other
       required: false
     - id: 19
       name: neighborhood_characteristics
@@ -171,10 +171,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Very Safe''}'
-      - '{''id'': 2, ''value'': ''Somewhat Safe''}'
-      - '{''id'': 3, ''value'': ''Somewhat Not Safe''}'
-      - '{''id'': 4, ''value'': ''Not Safe''}'
+      - Very Safe
+      - Somewhat Safe
+      - Somewhat Not Safe
+      - Not Safe
       required: false
     - id: 21
       name: neighborhood_fellowship
@@ -182,10 +182,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Very Active''}'
-      - '{''id'': 2, ''value'': ''Somewhat Active''}'
-      - '{''id'': 3, ''value'': ''Somewhat Not Active''}'
-      - '{''id'': 4, ''value'': ''Not Active''}'
+      - Very Active
+      - Somewhat Active
+      - Somewhat Not Active
+      - Not Active
       required: false
     - id: 22
       name: neighborhood_recreation
@@ -193,10 +193,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Very Recreational''}'
-      - '{''id'': 2, ''value'': ''Somewhat Recreational''}'
-      - '{''id'': 3, ''value'': ''Somewhat Not Recreational''}'
-      - '{''id'': 4, ''value'': ''Not Recreational''}'
+      - Very Recreational
+      - Somewhat Recreational
+      - Somewhat Not Recreational
+      - Not Recreational
       required: false
     - id: 23
       name: neighborhood_affordability
@@ -204,10 +204,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Very Affordable''}'
-      - '{''id'': 2, ''value'': ''Somewhat Affordable''}'
-      - '{''id'': 3, ''value'': ''Somewhat Not Affordable''}'
-      - '{''id'': 4, ''value'': ''Not Affordable''}'
+      - Very Affordable
+      - Somewhat Affordable
+      - Somewhat Not Affordable
+      - Not Affordable
       required: false
     - id: 24
       name: neighborhood_housing_type
@@ -215,10 +215,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Single Family''}'
-      - '{''id'': 2, ''value'': ''Townhouse''}'
-      - '{''id'': 3, ''value'': ''Condo''}'
-      - '{''id'': 4, ''value'': ''Other''}'
+      - Single Family
+      - Townhouse
+      - Condo
+      - Other
       required: false
     - id: 25
       name: home_amenities
@@ -226,9 +226,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Pool''}'
-      - '{''id'': 2, ''value'': ''Gourmet Kitchen''}'
-      - '{''id'': 3, ''value'': ''High Ceilings''}'
-      - '{''id'': 4, ''value'': ''Large Kitchen Island''}'
-      - '{''id'': 5, ''value'': ''Other''}'
+      - Pool
+      - Gourmet Kitchen
+      - High Ceilings
+      - Large Kitchen Island
+      - Other
       required: false

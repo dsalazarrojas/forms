@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''completed''}'
-      - '{''value'': ''not_completed''}'
-      - '{''value'': ''partially_completed''}'
+      - completed
+      - not completed
+      - partially completed
       required: false
     - id: 4
       name: task_completion_status_hint
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''high''}'
-      - '{''value'': ''medium''}'
-      - '{''value'': ''low''}'
+      - high
+      - medium
+      - low
       required: false
     - id: 6
       name: productivity_level_hint
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''submitted''}'
-      - '{''value'': ''saved''}'
-      - '{''value'': ''cancelled''}'
+      - submitted
+      - saved
+      - cancelled
       required: false
     - id: 14
       name: submitted_hint
@@ -123,9 +123,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''saved''}'
-      - '{''value'': ''not_saved''}'
-      - '{''value'': ''cancelled''}'
+      - saved
+      - not saved
+      - cancelled
       required: false
     - id: 17
       name: virtual_assistant_cancelled
@@ -133,9 +133,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''saved''}'
-      - '{''value'': ''not_saved''}'
-      - '{''value'': ''submitted''}'
+      - saved
+      - not saved
+      - submitted
       required: false
     - id: 18
       name: form_submission_id

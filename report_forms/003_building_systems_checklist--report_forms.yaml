@@ -1,229 +1,218 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Building Systems Checklist
     pages:
-      - id: 1
-        name: inspection_info
-        label: Inspection Information
-        hint: Basic inspection details
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: inspection_date
-        label: Inspection Date
-        hint: Date of this inspection
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: inspector_name
-        label: Inspector Name
-        hint: Name of the inspector
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: building_name
-        label: Building Name
-        hint: Which building is being inspected
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: floor_area
-        label: Floor or Area
-        hint: Specific floor or area inspected
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: security_systems
-        label: Security Systems
-        hint: Security equipment status
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: security_cameras
-        label: Security Cameras
-        hint: Are all cameras functioning properly
-        type: select_one
-        options:
-        - All Functional
-        - Most Functional
-        - Some Issues
-        - Major Issues
-        - Not Functional
-        required: true
-      - id: 8
-        name: access_control_systems
-        label: Access Control Systems
-        hint: Card readers and access points
-        type: select_one
-        options:
-        - All Functional
-        - Most Functional
-        - Some Issues
-        - Major Issues
-        - Not Functional
-        required: true
-      - id: 9
-        name: alarm_systems
-        label: Alarm Systems
-        hint: Intrusion and panic alarms
-        type: select_one
-        options:
-        - All Functional
-        - Most Functional
-        - Some Issues
-        - Major Issues
-        - Not Functional
-        required: true
-      - id: 10
-        name: fire_safety
-        label: Fire Safety
-        hint: Fire safety equipment status
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: fire_extinguishers
-        label: Fire Extinguishers
-        hint: Are fire extinguishers accessible and charged
-        type: select_one
-        options:
-        - All Compliant
-        - Most Compliant
-        - Some Issues
-        - Major Issues
-        - Non-Compliant
-        required: true
-      - id: 12
-        name: fire_alarms
-        label: Fire Alarms
-        hint: Smoke detectors and fire alarm systems
-        type: select_one
-        options:
-        - All Functional
-        - Most Functional
-        - Some Issues
-        - Major Issues
-        - Not Functional
-        required: true
-      - id: 13
-        name: emergency_lighting
-        label: Emergency Lighting
-        hint: Exit signs and emergency lights
-        type: select_one
-        options:
-        - All Functional
-        - Most Functional
-        - Some Issues
-        - Major Issues
-        - Not Functional
-        required: true
-      - id: 14
-        name: doors_and_gates
-        label: Doors and Gates
-        hint: Entry and exit points
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: main_doors
-        label: Main Doors and Contacts
-        hint: Condition of main entry doors
-        type: select_one
-        options:
-        - Excellent Condition
-        - Good Condition
-        - Fair Condition
-        - Poor Condition
-        - Needs Immediate Repair
-        required: true
-      - id: 16
-        name: entry_gates
-        label: Entry Gates
-        hint: Vehicle and pedestrian gates
-        type: select_one
-        options:
-        - All Functional
-        - Most Functional
-        - Some Issues
-        - Major Issues
-        - Not Functional
-        required: true
-      - id: 17
-        name: exit_gates
-        label: Exit Gates
-        hint: Emergency and regular exit gates
-        type: select_one
-        options:
-        - All Functional
-        - Most Functional
-        - Some Issues
-        - Major Issues
-        - Not Functional
-        required: true
-      - id: 18
-        name: lighting
-        label: Lighting
-        hint: Building illumination
-        type: note
-        options: []
-        required: false
-      - id: 19
-        name: external_sign_lighting
-        label: External Sign Lighting
-        hint: Building signage illumination
-        type: select_one
-        options:
-        - All Functional
-        - Most Functional
-        - Some Issues
-        - Major Issues
-        - Not Functional
-        required: true
-      - id: 20
-        name: interior_lighting
-        label: Interior Lighting
-        hint: General interior illumination
-        type: select_one
-        options:
-        - All Functional
-        - Most Functional
-        - Some Issues
-        - Major Issues
-        - Not Functional
-        required: true
-      - id: 21
-        name: additional_notes
-        label: Additional Notes
-        hint: Any other observations or concerns
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: follow_up_required
-        label: Follow-Up Required
-        hint: Is immediate follow-up needed
-        type: select_one
-        options:
-        - No
-        - Yes - Routine
-        - Yes - Urgent
-        - Yes - Emergency
-        required: true
+    - id: 1
+      name: inspection_info
+      label: Inspection Information
+      hint: Basic inspection details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of this inspection
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of the inspector
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: building_name
+      label: Building Name
+      hint: Which building is being inspected
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: floor_area
+      label: Floor or Area
+      hint: Specific floor or area inspected
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: security_systems
+      label: Security Systems
+      hint: Security equipment status
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: security_cameras
+      label: Security Cameras
+      hint: Are all cameras functioning properly
+      type: select_one
+      options:
+      - All Functional
+      - Most Functional
+      - Some Issues
+      - Major Issues
+      - Not Functional
+      required: true
+    - id: 8
+      name: access_control_systems
+      label: Access Control Systems
+      hint: Card readers and access points
+      type: select_one
+      options:
+      - All Functional
+      - Most Functional
+      - Some Issues
+      - Major Issues
+      - Not Functional
+      required: true
+    - id: 9
+      name: alarm_systems
+      label: Alarm Systems
+      hint: Intrusion and panic alarms
+      type: select_one
+      options:
+      - All Functional
+      - Most Functional
+      - Some Issues
+      - Major Issues
+      - Not Functional
+      required: true
+    - id: 10
+      name: fire_safety
+      label: Fire Safety
+      hint: Fire safety equipment status
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: fire_extinguishers
+      label: Fire Extinguishers
+      hint: Are fire extinguishers accessible and charged
+      type: select_one
+      options:
+      - All Compliant
+      - Most Compliant
+      - Some Issues
+      - Major Issues
+      - Non-Compliant
+      required: true
+    - id: 12
+      name: fire_alarms
+      label: Fire Alarms
+      hint: Smoke detectors and fire alarm systems
+      type: select_one
+      options:
+      - All Functional
+      - Most Functional
+      - Some Issues
+      - Major Issues
+      - Not Functional
+      required: true
+    - id: 13
+      name: emergency_lighting
+      label: Emergency Lighting
+      hint: Exit signs and emergency lights
+      type: select_one
+      options:
+      - All Functional
+      - Most Functional
+      - Some Issues
+      - Major Issues
+      - Not Functional
+      required: true
+    - id: 14
+      name: doors_and_gates
+      label: Doors and Gates
+      hint: Entry and exit points
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: main_doors
+      label: Main Doors and Contacts
+      hint: Condition of main entry doors
+      type: select_one
+      options:
+      - Excellent Condition
+      - Good Condition
+      - Fair Condition
+      - Poor Condition
+      - Needs Immediate Repair
+      required: true
+    - id: 16
+      name: entry_gates
+      label: Entry Gates
+      hint: Vehicle and pedestrian gates
+      type: select_one
+      options:
+      - All Functional
+      - Most Functional
+      - Some Issues
+      - Major Issues
+      - Not Functional
+      required: true
+    - id: 17
+      name: exit_gates
+      label: Exit Gates
+      hint: Emergency and regular exit gates
+      type: select_one
+      options:
+      - All Functional
+      - Most Functional
+      - Some Issues
+      - Major Issues
+      - Not Functional
+      required: true
+    - id: 18
+      name: lighting
+      label: Lighting
+      hint: Building illumination
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: external_sign_lighting
+      label: External Sign Lighting
+      hint: Building signage illumination
+      type: select_one
+      options:
+      - All Functional
+      - Most Functional
+      - Some Issues
+      - Major Issues
+      - Not Functional
+      required: true
+    - id: 20
+      name: interior_lighting
+      label: Interior Lighting
+      hint: General interior illumination
+      type: select_one
+      options:
+      - All Functional
+      - Most Functional
+      - Some Issues
+      - Major Issues
+      - Not Functional
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations or concerns
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_required
+      label: Follow-Up Required
+      hint: Is immediate follow-up needed
+      type: select_one
+      options:
+      - 'False'
+      - Yes - Routine
+      - Yes - Urgent
+      - Yes - Emergency
+      required: true

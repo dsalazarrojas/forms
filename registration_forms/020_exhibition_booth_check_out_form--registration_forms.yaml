@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''A''}'
-      - '{''id'': 2, ''label'': ''B''}'
-      - '{''id'': 3, ''label'': ''C''}'
+      - A
+      - B
+      - C
       required: false
     - id: 7
       name: electricity
@@ -54,9 +54,9 @@ inputSchema:
       hint: Wattage 120v
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Off'', ''value'': ''0''}'
-      - '{''id'': 2, ''label'': ''120v'', ''value'': ''120''}'
-      - '{''id'': 3, ''label'': ''200w'', ''value'': ''200''}'
+      - 'Off'
+      - 120v
+      - 200w
       required: false
     - id: 8
       name: water
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''On'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''Off'', ''value'': ''0''}'
+      - 'On'
+      - 'Off'
       required: false
     - id: 10
       name: audio_visual
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''On'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''Off'', ''value'': ''0''}'
+      - 'On'
+      - 'Off'
       required: false
     - id: 11
       name: heating_ventilation_air_conditioning
@@ -96,8 +96,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''On'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''Off'', ''value'': ''0''}'
+      - 'On'
+      - 'Off'
       required: false
     - id: 13
       name: event_manager_email
@@ -119,8 +119,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 16
       name: exhibition_booth_representative
@@ -135,8 +135,8 @@ inputSchema:
       hint: Select one or more options
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 18
       name: services_require
@@ -144,8 +144,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''No'', ''value'': ''0''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 19
       name: notes
@@ -160,8 +160,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 21
       name: exhibition_booth_check_out_form_checked
@@ -169,8 +169,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 22
       name: exhibition_booth_confirmation
@@ -178,8 +178,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 23
       name: exhibition_booth_check_out_form_submitted
@@ -187,8 +187,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 24
       name: exhibition_booth_check_out_form_checked_by_exhibition_manager
@@ -196,8 +196,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 25
       name: exhibition_booth_check_out_form_checked_by_technical_teams
@@ -205,6 +205,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      - 'Yes'
+      - 'No'
       required: false

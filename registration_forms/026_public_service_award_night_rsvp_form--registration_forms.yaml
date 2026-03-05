@@ -7,192 +7,100 @@ inputSchema:
       name: main
       label: Main
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 2
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: contact_email
-      label: contact_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 4
-      name: contact_phone
-      label: contact_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: guest_count
-      label: guest_count
+      label: Guest Count
       hint: null
       type: number
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 3
       name: guest_attendee_names
-      label: guest_attendee_names
+      label: Guest Attendee Names
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
+    - id: 4
       name: guest_attendee_email
-      label: guest_attendee_email
+      label: Guest Attendee Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 8
-      name: guest_attendee_phone
-      label: guest_attendee_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
+    - id: 5
       name: will_attend
-      label: will_attend
+      label: Will Attend
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 10
+      required: true
+    - id: 6
       name: comments
-      label: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
+    - id: 7
       name: special_requests
-      label: special_requests
+      label: Special Requests
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
+    - id: 8
       name: rsvp_type
-      label: rsvp_type
+      label: RSVP Type
       hint: null
       type: select_one
       options:
-      - '{''name'': ''RSVP'', ''description'': None, ''value'': ''RSVP''}'
-      - '{''name'': ''Not RSVP'', ''description'': None, ''value'': ''Not RSVP''}'
-      required: false
-    - id: 13
+      - In Person
+      - Virtual
+      required: true
+    - id: 9
       name: guest_diet
-      label: guest_diet
+      label: Guest Diet
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Vegan'', ''description'': ''Vegan'', ''value'': ''Vegan''}'
-      - '{''name'': ''Vegetarian'', ''description'': None, ''value'': ''Vegetarian''}'
-      - '{''name'': ''Omnivore'', ''description'': None, ''value'': ''Omnivore''}'
-      - '{''name'': ''None'', ''description'': None, ''value'': ''None''}'
-      required: false
-    - id: 14
-      name: guest_diet_notes
-      label: guest_diet_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
+      - Vegan
+      - Vegetarian
+      - Omnivore
+      - None
+      required: true
+    - id: 10
       name: rsvp_time
-      label: rsvp_time
+      label: RSVP Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 16
+    - id: 11
       name: rsvp_date
-      label: rsvp_date
+      label: RSVP Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 17
+    - id: 12
       name: special_instructions
-      label: special_instructions
+      label: Special Instructions
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
-      name: rsvp_type
-      label: rsvp_type
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': ''In Person'', ''description'': None, ''value'': ''In Person''}'
-      - '{''name'': ''Virtual'', ''description'': None, ''value'': ''Virtual''}'
-      - '{''name'': ''Phone Call'', ''description'': None, ''value'': ''Phone Call''}'
-      required: false
-    - id: 19
-      name: rsvp_type_details
-      label: rsvp_type_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
+    - id: 13
       name: confirm_attendance
-      label: confirm_attendance
+      label: Confirm Attendance
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''description'': None, ''value'': True}'
-      - '{''name'': False, ''description'': None, ''value'': False}'
-      required: false
-    - id: 22
-      name: rsvp_type
-      label: rsvp_type
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': ''In Person'', ''description'': None, ''value'': ''In Person''}'
-      - '{''name'': ''Virtual'', ''description'': None, ''value'': ''Virtual''}'
-      - '{''name'': ''Phone Call'', ''description'': None, ''value'': ''Phone Call''}'
-      required: false
-    - id: 23
-      name: rsvp_type_details
-      label: rsvp_type_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: rsvp_type
-      label: rsvp_type
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': ''RSVP'', ''description'': None, ''value'': ''RSVP''}'
-      - '{''name'': ''Not RSVP'', ''description'': None, ''value'': ''Not RSVP''}'
-      required: false
-    - id: 25
-      name: special_instructions
-      label: special_instructions
-      hint: null
-      type: text
-      options: []
-      required: false
+      - 'True'
+      - 'False'
+      required: true

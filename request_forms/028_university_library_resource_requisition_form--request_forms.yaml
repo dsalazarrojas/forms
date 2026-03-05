@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Book''}'
-      - '{''text'': ''Journal''}'
-      - '{''text'': ''Database''}'
+      - Book
+      - Journal
+      - Database
       required: false
     - id: 3
       name: resource_quantity
@@ -40,9 +40,9 @@ inputSchema:
       hint: Low, Medium, High
       type: select_multiple
       options:
-      - '{''text'': ''Low''}'
-      - '{''text'': ''Medium''}'
-      - '{''text'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 6
       name: user_department
@@ -50,9 +50,9 @@ inputSchema:
       hint: Name of the department the user belongs to
       type: select_one
       options:
-      - '{''text'': ''Arts''}'
-      - '{''text'': ''Science''}'
-      - '{''text'': ''Engineering''}'
+      - Arts
+      - Science
+      - Engineering
       required: false
     - id: 7
       name: resource_name
@@ -67,7 +67,7 @@ inputSchema:
       hint: Awaiting Review, Approved, Rejected
       type: select_multiple
       options:
-      - '{''text'': ''Awaiting Review''}'
-      - '{''text'': ''Approved''}'
-      - '{''text'': ''Rejected''}'
+      - Awaiting Review
+      - Approved
+      - Rejected
       required: false

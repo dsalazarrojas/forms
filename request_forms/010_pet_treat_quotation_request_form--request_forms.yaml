@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pet 1''}'
-      - '{''id'': 2, ''label'': ''Pet 2''}'
-      - '{''id'': 3, ''label'': ''Pet 3''}'
+      - Pet 1
+      - Pet 2
+      - Pet 3
       required: false
     - id: 3
       name: contact_name
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Quote 1''}'
-      - '{''id'': 2, ''label'': ''Quote 2''}'
-      - '{''id'': 3, ''label'': ''Quote 3''}'
+      - Quote 1
+      - Quote 2
+      - Quote 3
       required: false
     - id: 8
       name: date_request
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Dog''}'
-      - '{''id'': 2, ''label'': ''Cat''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Dog
+      - Cat
+      - Other
       required: false
     - id: 12
       name: pet_breed
@@ -137,9 +137,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 19
       name: quote_type
@@ -147,8 +147,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''One-off''}'
-      - '{''id'': 2, ''label'': ''Ongoing''}'
+      - One-off
+      - Ongoing
       required: false
     - id: 20
       name: additional_info
@@ -191,6 +191,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''No signature''}'
-      - '{''id'': 2, ''label'': ''Signature required''}'
+      - No signature
+      - Signature required
       required: false

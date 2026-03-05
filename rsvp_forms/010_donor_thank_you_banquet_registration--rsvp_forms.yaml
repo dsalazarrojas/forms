@@ -18,49 +18,51 @@ inputSchema:
       name: rsvp_details
       label: RSVP Details
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: true
     - id: 2
       name: name
-      label: first_name
+      label: First Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: name
-      label: last_name
+      name: last_name
+      label: Last Name
       hint: null
       type: text
       options: []
       required: true
     - id: 4
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
       required: true
     - id: 5
       name: phone
-      label: phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: meal_preferences
-      label: meal_preferences
+      label: Meal Preferences
       hint: null
       type: select_one
       options:
       - Vegetarian
       - Non-Vegetarian
-      required: true
+      required: false
     - id: 7
-      name: meal_preferences
-      label: meal_preferences
+      name: meal_preferences_multi
+      label: Meal Preferences Multi
       hint: null
       type: select_multiple
       options:
@@ -69,152 +71,23 @@ inputSchema:
       - Fish
       required: false
     - id: 8
-      name: meal_preferences
-      label: meal_preferences
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 9
-      name: meal_preferences
-      label: meal_preferences
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
       name: accommodations
-      label: accommodations
+      label: Accommodations
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
+    - id: 9
       name: note
-      label: additional_notes
+      label: Additional Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 12
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 13
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: select_multiple
-      options:
-      - Beef
-      - Chicken
-      required: false
-    - id: 14
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: select_one
-      options:
-      - Beef
-      - Vegetarian
-      required: false
-    - id: 15
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: select_multiple
-      options:
-      - Vegetarian
-      - Fish
-      required: false
-    - id: 16
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: select_one
-      options:
-      - Beef
-      - Chicken
-      required: false
-    - id: 17
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: select_multiple
-      options:
-      - Beef
-      - Vegetarian
-      required: false
-    - id: 18
-      name: rsvp_details
-      label: rsvp_details
+    - id: 10
+      name: date
+      label: Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 19
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: select_one
-      options:
-      - Beef
-      - Vegetarian
-      required: false
-    - id: 20
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: select_multiple
-      options:
-      - Chicken
-      - Fish
-      required: false
-    - id: 21
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: select_multiple
-      options:
-      - Beef
-      - Chicken
-      required: false
-    - id: 22
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: select_multiple
-      options:
-      - Beef
-      - Fish
-      required: false
-    - id: 23
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: select_one
-      options:
-      - Beef
-      - Chicken
-      required: false
-    - id: 24
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: select_one
-      options:
-      - 'No'
-      - 'Yes'
       required: false

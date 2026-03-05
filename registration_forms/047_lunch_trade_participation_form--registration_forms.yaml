@@ -30,13 +30,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Monday''}'
-      - '{''label'': ''Tuesday''}'
-      - '{''label'': ''Wednesday''}'
-      - '{''label'': ''Thursday''}'
-      - '{''label'': ''Friday''}'
-      - '{''label'': ''Saturday''}'
-      - '{''label'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 5
       name: start_time
@@ -65,7 +65,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 9
@@ -74,12 +74,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 1}'
-      - '{''label'': 2}'
-      - '{''label'': 3}'
-      - '{''label'': 4}'
-      - '{''label'': 5}'
-      - '{''label'': ''More''}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - More
       required: false
     - id: 10
       name: confirmed
@@ -87,8 +87,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: notes_confirmed

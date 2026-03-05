@@ -44,12 +44,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''6-1'', ''name'': ''Less than 1 year'', ''label'': ''Less than
-        1 year''}'
-      - '{''id'': ''6-2'', ''name'': ''1-2 years'', ''label'': ''1-2 years''}'
-      - '{''id'': ''6-3'', ''name'': ''2-5 years'', ''label'': ''2-5 years''}'
-      - '{''id'': ''6-4'', ''name'': ''More than 5 years'', ''label'': ''More than
-        5 years''}'
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
       required: false
     - id: 7
       name: training_history
@@ -57,10 +55,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''7-1'', ''name'': ''No experience'', ''label'': ''No experience''}'
-      - '{''id'': ''7-2'', ''name'': True, ''label'': True}'
-      - '{''id'': ''7-3'', ''name'': ''Prefer not to say'', ''label'': ''Prefer not
-        to say''}'
+      - No experience
+      - 'True'
+      - Prefer not to say
       required: false
     - id: 8
       name: certification
@@ -68,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''8-1'', ''name'': ''Certified'', ''label'': ''Certified''}'
-      - '{''id'': ''8-2'', ''name'': ''Not Certified'', ''label'': ''Not Certified''}'
+      - Certified
+      - Not Certified
       required: false
     - id: 9
       name: workshop_date
@@ -84,9 +81,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''10-1'', ''name'': ''10:00-11:30'', ''label'': ''10:00-11:30''}'
-      - '{''id'': ''10-2'', ''name'': ''13:00-14:00'', ''label'': ''13:00-14:00''}'
-      - '{''id'': ''10-3'', ''name'': ''16:00-17:00'', ''label'': ''16:00-17:00''}'
+      - 10:00-11:30
+      - 13:00-14:00
+      - 16:00-17:00
       required: false
     - id: 11
       name: availability
@@ -94,8 +91,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''11-1'', ''name'': True, ''label'': True}'
-      - '{''id'': ''11-2'', ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: other_equine_experience

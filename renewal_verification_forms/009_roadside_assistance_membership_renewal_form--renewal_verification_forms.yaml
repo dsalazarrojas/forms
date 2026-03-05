@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Basic''}'
-      - '{''value'': ''Premium''}'
-      - '{''value'': ''Plus''}'
-      - '{''value'': ''Ultimate''}'
+      - Basic
+      - Premium
+      - Plus
+      - Ultimate
       required: false
     - id: 4
       name: expiration_date
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''credit_card''}'
-      - '{''value'': ''bank_transfer''}'
-      - '{''value'': ''other''}'
+      - credit card
+      - bank transfer
+      - other
       required: false
     - id: 6
       name: payment_terms_accepted
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''accepted''}'
-      - '{''value'': ''not_accepted''}'
-      - '{''value'': ''declined''}'
+      - accepted
+      - not accepted
+      - declined
       required: false
     - id: 7
       name: vehicle_type
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''car''}'
-      - '{''value'': ''truck''}'
-      - '{''value'': ''motorcycle''}'
-      - '{''value'': ''van''}'
+      - car
+      - truck
+      - motorcycle
+      - van
       required: false
     - id: 8
       name: vehicle_year

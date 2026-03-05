@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Closed''}'
-      - '{''id'': 3, ''label'': ''On Hold''}'
+      - Active
+      - Closed
+      - On Hold
       required: true
     - id: 6
       name: stakeholder_list
@@ -47,10 +47,10 @@ inputSchema:
       hint: List of stakeholders involved in the project
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Team Members''}'
-      - '{''id'': 2, ''label'': ''External Contractors''}'
-      - '{''id'': 3, ''label'': ''Project Sponsor''}'
-      - '{''id'': 4, ''label'': ''Customers''}'
+      - Team Members
+      - External Contractors
+      - Project Sponsor
+      - Customers
       required: true
     - id: 7
       name: stakeholder_comments
@@ -114,9 +114,9 @@ inputSchema:
       hint: Overall rating of the project
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Satisfactory''}'
-      - '{''id'': 2, ''label'': ''Unsatisfactory''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
+      - Satisfactory
+      - Unsatisfactory
+      - Neutral
       required: true
     - id: 16
       name: stakeholder_uploads

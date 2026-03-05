@@ -58,10 +58,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''EST''}'
-      - '{''label'': ''MST''}'
-      - '{''label'': ''CST''}'
-      - '{''label'': ''PST''}'
+      - EST
+      - MST
+      - CST
+      - PST
       required: false
     - id: 9
       name: role
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Participant''}'
-      - '{''label'': ''Trainer''}'
-      - '{''label'': ''Other''}'
+      - Participant
+      - Trainer
+      - Other
       required: false
     - id: 10
       name: note

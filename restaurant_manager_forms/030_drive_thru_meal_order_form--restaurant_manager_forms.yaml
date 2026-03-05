@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Water''}'
-      - '{''id'': 2, ''name'': ''Soda''}'
-      - '{''id'': 3, ''name'': ''Juice''}'
-      - '{''id'': 4, ''name'': ''Coffee''}'
-      - '{''id'': 5, ''name'': ''Tea''}'
+      - Water
+      - Soda
+      - Juice
+      - Coffee
+      - Tea
       required: true
     - id: 3
       name: order_side_sauce
@@ -28,10 +28,10 @@ inputSchema:
       hint: Choose one or more
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Ketchup''}'
-      - '{''id'': 2, ''name'': ''Mustard''}'
-      - '{''id'': 3, ''name'': ''Hot Sauce''}'
-      - '{''id'': 4, ''name'': ''None''}'
+      - Ketchup
+      - Mustard
+      - Hot Sauce
+      - None
       required: true
     - id: 4
       name: order_entr_e
@@ -39,11 +39,11 @@ inputSchema:
       hint: Choose one or more
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Burger''}'
-      - '{''id'': 2, ''name'': ''Fries''}'
-      - '{''id'': 3, ''name'': ''Salad''}'
-      - '{''id'': 4, ''name'': ''Chicken''}'
-      - '{''id'': 5, ''name'': ''Combo''}'
+      - Burger
+      - Fries
+      - Salad
+      - Chicken
+      - Combo
       required: true
     - id: 5
       name: order_toppings
@@ -51,13 +51,13 @@ inputSchema:
       hint: Choose one or more
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Cheese''}'
-      - '{''id'': 2, ''name'': ''Pickles''}'
-      - '{''id'': 3, ''name'': ''Onions''}'
-      - '{''id'': 4, ''name'': ''Tomatoes''}'
-      - '{''id'': 5, ''name'': ''Mayo''}'
-      - '{''id'': 6, ''name'': ''Ketchup''}'
-      - '{''id'': 7, ''name'': ''Mustard''}'
+      - Cheese
+      - Pickles
+      - Onions
+      - Tomatoes
+      - Mayo
+      - Ketchup
+      - Mustard
       required: true
     - id: 6
       name: order_payment_method
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Cash''}'
-      - '{''id'': 2, ''name'': ''Credit Card''}'
-      - '{''id'': 3, ''name'': ''Debit Card''}'
+      - Cash
+      - Credit Card
+      - Debit Card
       required: false
     - id: 7
       name: order_comment
@@ -96,10 +96,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''In Progress''}'
-      - '{''id'': 3, ''name'': ''Complete''}'
-      - '{''id'': 4, ''name'': ''Cancelled''}'
+      - Pending
+      - In Progress
+      - Complete
+      - Cancelled
       required: true
     - id: 11
       name: assigned_tool

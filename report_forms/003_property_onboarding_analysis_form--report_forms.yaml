@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Residential''}'
-      - '{''id'': 2, ''name'': ''Commercial''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Residential
+      - Commercial
+      - Other
       required: false
     - id: 3
       name: property_status
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active'', ''label'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive'', ''label'': ''Inactive''}'
-      - '{''id'': 3, ''name'': ''Unknown'', ''label'': ''Unknown''}'
+      - Active
+      - Inactive
+      - Unknown
       required: false
     - id: 4
       name: property_address
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Residential'', ''label'': ''Residential''}'
-      - '{''id'': 2, ''name'': ''Commercial'', ''label'': ''Commercial''}'
-      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
+      - Residential
+      - Commercial
+      - Other
       required: false
     - id: 8
       name: property_location
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Required'', ''label'': ''Required''}'
-      - '{''id'': 2, ''name'': ''Not Required'', ''label'': ''Not Required''}'
-      - '{''id'': 3, ''name'': ''Unknown'', ''label'': ''Unknown''}'
+      - Required
+      - Not Required
+      - Unknown
       required: false
     - id: 13
       name: property_owner

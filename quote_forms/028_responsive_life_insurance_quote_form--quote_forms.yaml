@@ -4,189 +4,94 @@ inputSchema:
     title: Responsive Life Insurance Quote Form
     pages:
     - id: 1
-      name: form_details
-      label: Form Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: life_insurance_type
       label: Life Insurance Type
-      hint: null
+      hint: Choose type of life insurance
       type: select_one
       options:
       - Life Insurance
       - Term Life Insurance
       - Whole Life Insurance
-      required: false
-    - id: 3
+      required: true
+    - id: 2
       name: life_insurance_amount
       label: Life Insurance Amount
-      hint: null
+      hint: Enter life insurance amount
       type: number
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: policyholder_name
+      label: Policyholder Name
+      hint: Enter policyholder name
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: name
-      label: Name
-      hint: null
+      name: policyholder_email
+      label: Policyholder Email
+      hint: Enter policyholder email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: policyholder_phone
+      label: Policyholder Phone
+      hint: Enter policyholder phone number
       type: text
       options: []
       required: false
-    - id: 5
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
     - id: 6
-      name: phone
-      label: Phone
-      hint: null
+      name: policyholder_address
+      label: Policyholder Address
+      hint: Enter policyholder address
       type: text
       options: []
       required: false
     - id: 7
-      name: address
-      label: Address
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: smoking_status
+      label: Smoking Status
+      hint: Non-smoker or smoker?
+      type: select_one
+      options:
+      - Non-smoker
+      - Smoker
+      required: true
     - id: 8
-      name: life_insurance_type
-      label: Life Insurance Type
-      hint: null
-      type: select_one
-      options:
-      - Life Insurance
-      - Term Life Insurance
-      - Whole Life Insurance
-      required: false
+      name: policyholder_age
+      label: Policyholder Age
+      hint: Enter policyholder age
+      type: number
+      options: []
+      required: true
     - id: 9
-      name: life_insurance_amount
-      label: Life Insurance Amount
-      hint: null
-      type: number
+      name: policyholder_date_of_birth
+      label: Policyholder Date of Birth
+      hint: Enter policyholder date of birth
+      type: date
       options: []
-      required: false
+      required: true
     - id: 10
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: employment_status
+      label: Employment Status
+      hint: Select employment status
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Self-Employed
+      required: true
     - id: 11
-      name: email
-      label: Email
-      hint: null
-      type: email
+      name: income_level
+      label: Income Level
+      hint: Enter policyholder income level
+      type: number
       options: []
-      required: false
+      required: true
     - id: 12
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: address
-      label: Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: life_insurance_type
-      label: Life Insurance Type
-      hint: null
-      type: select_one
-      options:
-      - Life Insurance
-      - Term Life Insurance
-      - Whole Life Insurance
-      required: false
-    - id: 15
-      name: life_insurance_amount
-      label: Life Insurance Amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: address
-      label: Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: life_insurance_type
-      label: Life Insurance Type
-      hint: null
-      type: select_one
-      options:
-      - Life Insurance
-      - Term Life Insurance
-      - Whole Life Insurance
-      required: false
-    - id: 21
-      name: life_insurance_amount
-      label: Life Insurance Amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: address
-      label: Address
-      hint: null
-      type: text
+      name: existing_medical_conditions
+      label: Existing Medical Conditions
+      hint: Enter any existing medical conditions
+      type: note
       options: []
       required: false

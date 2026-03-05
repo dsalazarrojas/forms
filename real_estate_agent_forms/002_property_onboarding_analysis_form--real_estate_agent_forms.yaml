@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive''}'
-      - '{''id'': 3, ''name'': ''pending''}'
+      - active
+      - inactive
+      - pending
       required: false
     - id: 5
       name: property_condition
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''excellent''}'
-      - '{''id'': 2, ''name'': ''good''}'
-      - '{''id'': 3, ''name'': ''fair''}'
+      - excellent
+      - good
+      - fair
       required: false
     - id: 6
       name: property_features
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''great''}'
-      - '{''id'': 2, ''name'': ''average''}'
-      - '{''id'': 3, ''name'': ''poor''}'
+      - great
+      - average
+      - poor
       required: false
     - id: 15
       name: property_legal
@@ -123,9 +123,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''occupied''}'
-      - '{''id'': 2, ''name'': ''vacant''}'
-      - '{''id'': 3, ''name'': ''leased''}'
+      - occupied
+      - vacant
+      - leased
       required: false
     - id: 17
       name: property_management
@@ -154,8 +154,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: property_rent_schedule
@@ -184,9 +184,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''on-time''}'
-      - '{''id'': 2, ''name'': ''overdue''}'
-      - '{''id'': 3, ''name'': ''pending''}'
+      - on-time
+      - overdue
+      - pending
       required: false
     - id: 25
       name: property_reviews

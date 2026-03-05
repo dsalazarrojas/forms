@@ -158,7 +158,7 @@ inputSchema:
       hint: Yes or no
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes - 1 pet
       - Yes - 2 pets
       - Yes - 3 or more
@@ -176,7 +176,7 @@ inputSchema:
       hint: Yes or no
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes - certified heat-treated
       - Yes - will purchase here
       required: true
@@ -186,7 +186,7 @@ inputSchema:
       hint: Yes or no
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes - for personal consumption
       required: false
     - id: 24
@@ -253,7 +253,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I acknowledge
-      - false
+      - 'False'
       required: true
     - id: 32
       name: liability_waiver
@@ -262,7 +262,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I accept
-      - false
+      - 'False'
       required: true
     - id: 33
       name: visitor_signature

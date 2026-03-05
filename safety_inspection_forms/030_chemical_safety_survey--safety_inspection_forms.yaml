@@ -1,294 +1,283 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Chemical Safety Survey
     pages:
-      - id: 1
-        name: respondent_name
-        label: Your Name
-        hint: Optional - Your full name
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: department
-        label: Department
-        hint: Your department or work area
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: job_title
-        label: Job Title
-        hint: Your job title
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: years_experience
-        label: Years of Experience
-        hint: How long have you worked with chemicals
-        type: select_one
-        options:
-          - Less than 1 year
-          - 1-3 years
-          - 3-5 years
-          - 5-10 years
-          - Over 10 years
-        required: true
-      - id: 5
-        name: survey_date
-        label: Survey Date
-        hint: Date of this survey
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: chemical_handling_frequency
-        label: How Often Do You Handle Chemicals
-        hint: Frequency of chemical handling
-        type: select_one
-        options:
-          - Daily
-          - Several times a week
-          - Once a week
-          - Occasionally
-          - Rarely
-        required: true
-      - id: 7
-        name: safety_training_received
-        label: Have You Received Safety Training
-        hint: Have you completed chemical safety training
-        type: select_one
-        options:
-          - Yes, within the last year
-          - Yes, 1-2 years ago
-          - Yes, over 2 years ago
-          - No, never
-        required: true
-      - id: 8
-        name: training_adequacy
-        label: Was Training Adequate
-        hint: Did the training prepare you adequately
-        type: select_one
-        options:
-          - Very adequate
-          - Adequate
-          - Somewhat adequate
-          - Inadequate
-          - Very inadequate
-        required: true
-      - id: 9
-        name: ppe_availability
-        label: Is PPE Readily Available
-        hint: Is personal protective equipment available
-        type: select_one
-        options:
-          - Always available
-          - Usually available
-          - Sometimes available
-          - Rarely available
-          - Never available
-        required: true
-      - id: 10
-        name: ppe_types_used
-        label: Types of PPE Used
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Safety goggles
-          - Face shield
-          - Lab coat
-          - Gloves
-          - Respirator
-          - Apron
-          - Closed-toe shoes
-          - Other
-        required: true
-      - id: 11
-        name: ppe_condition
-        label: Condition of PPE
-        hint: What is the condition of available PPE
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Very Poor
-        required: true
-      - id: 12
-        name: ppe_compliance
-        label: How Often Do You Wear PPE
-        hint: Your PPE compliance rate
-        type: select_one
-        options:
-          - Always
-          - Most of the time
-          - Sometimes
-          - Rarely
-          - Never
-        required: true
-      - id: 13
-        name: msds_sds_access
-        label: Do You Have Access to SDS
-        hint: Can you access Safety Data Sheets
-        type: select_one
-        options:
-          - Yes, easily accessible
-          - Yes, but difficult to access
-          - No, not available
-          - Not sure what SDS is
-        required: true
-      - id: 14
-        name: chemical_storage
-        label: Chemical Storage Conditions
-        hint: How would you rate storage conditions
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Very Poor
-        required: true
-      - id: 15
-        name: labeling_compliance
-        label: Are Chemicals Properly Labeled
-        hint: Is labeling adequate in your area
-        type: select_one
-        options:
-          - Always
-          - Usually
-          - Sometimes
-          - Rarely
-          - Never
-        required: true
-      - id: 16
-        name: ventilation_quality
-        label: Ventilation Quality
-        hint: How is the ventilation in your work area
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Very Poor
-        required: true
-      - id: 17
-        name: emergency_equipment
-        label: Emergency Equipment Availability
-        hint: Are eyewash stations and showers accessible
-        type: select_one
-        options:
-          - Yes, all accessible
-          - Some accessible
-          - Limited access
-          - No emergency equipment
-        required: true
-      - id: 18
-        name: spill_kits_available
-        label: Are Spill Kits Available
-        hint: Do you have access to spill cleanup kits
-        type: select_one
-        options:
-          - Yes, multiple locations
-          - Yes, one location
-          - No
-          - Not sure
-        required: true
-      - id: 19
-        name: incident_history
-        label: Have You Been Involved in an Incident
-        hint: Any chemical-related incidents in the past year
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 20
-        name: incident_details
-        label: Incident Details
-        hint: Briefly describe any incidents
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: near_misses
-        label: Have You Experienced Near Misses
-        hint: Any close calls in the past year
-        type: select_one
-        options:
-          - Yes, multiple
-          - Yes, one or two
-          - No
-        required: true
-      - id: 22
-        name: safety_communication
-        label: Safety Communication
-        hint: How well does management communicate safety issues
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Very Poor
-        required: true
-      - id: 23
-        name: safety_culture
-        label: Safety Culture
-        hint: How would you describe the safety culture
-        type: select_one
-        options:
-          - Excellent - Safety is top priority
-          - Good - Safety is important
-          - Fair - Safety is sometimes prioritized
-          - Poor - Safety is not prioritized
-          - Very Poor - Safety is ignored
-        required: true
-      - id: 24
-        name: reporting_barriers
-        label: Barriers to Reporting
-        hint: What prevents you from reporting safety concerns
-        type: select_multiple
-        options:
-          - No barriers
-          - Fear of retaliation
-          - Too much paperwork
-          - No time
-          - Nothing gets done anyway
-          - Do not know how to report
-          - Other
-        required: true
-      - id: 25
-        name: safety_improvements
-        label: Suggested Safety Improvements
-        hint: What safety improvements would you suggest
-        type: text
-        options: []
-        required: false
-      - id: 26
-        name: overall_safety_rating
-        label: Overall Safety Rating
-        hint: How safe do you feel working with chemicals
-        type: select_one
-        options:
-          - Very safe
-          - Safe
-          - Neutral
-          - Unsafe
-          - Very unsafe
-        required: true
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional - Your full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: Your department or work area
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_experience
+      label: Years of Experience
+      hint: How long have you worked with chemicals
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 5
+      name: survey_date
+      label: Survey Date
+      hint: Date of this survey
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: chemical_handling_frequency
+      label: How Often Do You Handle Chemicals
+      hint: Frequency of chemical handling
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Once a week
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 7
+      name: safety_training_received
+      label: Have You Received Safety Training
+      hint: Have you completed chemical safety training
+      type: select_one
+      options:
+      - Yes, within the last year
+      - Yes, 1-2 years ago
+      - Yes, over 2 years ago
+      - No, never
+      required: true
+    - id: 8
+      name: training_adequacy
+      label: Was Training Adequate
+      hint: Did the training prepare you adequately
+      type: select_one
+      options:
+      - Very adequate
+      - Adequate
+      - Somewhat adequate
+      - Inadequate
+      - Very inadequate
+      required: true
+    - id: 9
+      name: ppe_availability
+      label: Is PPE Readily Available
+      hint: Is personal protective equipment available
+      type: select_one
+      options:
+      - Always available
+      - Usually available
+      - Sometimes available
+      - Rarely available
+      - Never available
+      required: true
+    - id: 10
+      name: ppe_types_used
+      label: Types of PPE Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Safety goggles
+      - Face shield
+      - Lab coat
+      - Gloves
+      - Respirator
+      - Apron
+      - Closed-toe shoes
+      - Other
+      required: true
+    - id: 11
+      name: ppe_condition
+      label: Condition of PPE
+      hint: What is the condition of available PPE
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: ppe_compliance
+      label: How Often Do You Wear PPE
+      hint: Your PPE compliance rate
+      type: select_one
+      options:
+      - Always
+      - Most of the time
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 13
+      name: msds_sds_access
+      label: Do You Have Access to SDS
+      hint: Can you access Safety Data Sheets
+      type: select_one
+      options:
+      - Yes, easily accessible
+      - Yes, but difficult to access
+      - No, not available
+      - Not sure what SDS is
+      required: true
+    - id: 14
+      name: chemical_storage
+      label: Chemical Storage Conditions
+      hint: How would you rate storage conditions
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 15
+      name: labeling_compliance
+      label: Are Chemicals Properly Labeled
+      hint: Is labeling adequate in your area
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 16
+      name: ventilation_quality
+      label: Ventilation Quality
+      hint: How is the ventilation in your work area
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 17
+      name: emergency_equipment
+      label: Emergency Equipment Availability
+      hint: Are eyewash stations and showers accessible
+      type: select_one
+      options:
+      - Yes, all accessible
+      - Some accessible
+      - Limited access
+      - No emergency equipment
+      required: true
+    - id: 18
+      name: spill_kits_available
+      label: Are Spill Kits Available
+      hint: Do you have access to spill cleanup kits
+      type: select_one
+      options:
+      - Yes, multiple locations
+      - Yes, one location
+      - 'False'
+      - Not sure
+      required: true
+    - id: 19
+      name: incident_history
+      label: Have You Been Involved in an Incident
+      hint: Any chemical-related incidents in the past year
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: incident_details
+      label: Incident Details
+      hint: Briefly describe any incidents
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: near_misses
+      label: Have You Experienced Near Misses
+      hint: Any close calls in the past year
+      type: select_one
+      options:
+      - Yes, multiple
+      - Yes, one or two
+      - 'False'
+      required: true
+    - id: 22
+      name: safety_communication
+      label: Safety Communication
+      hint: How well does management communicate safety issues
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 23
+      name: safety_culture
+      label: Safety Culture
+      hint: How would you describe the safety culture
+      type: select_one
+      options:
+      - Excellent - Safety is top priority
+      - Good - Safety is important
+      - Fair - Safety is sometimes prioritized
+      - Poor - Safety is not prioritized
+      - Very Poor - Safety is ignored
+      required: true
+    - id: 24
+      name: reporting_barriers
+      label: Barriers to Reporting
+      hint: What prevents you from reporting safety concerns
+      type: select_multiple
+      options:
+      - No barriers
+      - Fear of retaliation
+      - Too much paperwork
+      - No time
+      - Nothing gets done anyway
+      - Do not know how to report
+      - Other
+      required: true
+    - id: 25
+      name: safety_improvements
+      label: Suggested Safety Improvements
+      hint: What safety improvements would you suggest
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: overall_safety_rating
+      label: Overall Safety Rating
+      hint: How safe do you feel working with chemicals
+      type: select_one
+      options:
+      - Very safe
+      - Safe
+      - Neutral
+      - Unsafe
+      - Very unsafe
+      required: true

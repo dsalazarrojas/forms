@@ -27,17 +27,16 @@ inputSchema:
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
       name: library_materials_requested
       label: Library Materials Requested
       hint: null
       type: select_multiple
       options:
-      - '{''option_0'': ''Book''}'
-      - '{''option_1'': ''DVD''}'
-      - '{''option_2'': ''CD''}'
-      - '{''option_3'': ''Other''}'
+      - Book
+      - DVD
+      - Other
       required: false
     - id: 4
       name: resource_title
@@ -45,7 +44,7 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: resource_url
       label: Resource URL
@@ -61,150 +60,36 @@ inputSchema:
       options: []
       required: true
     - id: 7
-      name: user_reported_error_message_details
-      label: User Reported Error Message Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: library_solution
       label: Library Solution
       hint: null
       type: select_one
       options:
-      - '{''option_0'': ''None''}'
-      - '{''option_1'': ''Resource not available''}'
-      - '{''option_2'': ''Need to purchase''}'
-      - '{''option_3'': ''Other''}'
+      - None
+      - Resource not available
+      - Need to purchase
+      - Other
       required: false
-    - id: 9
+    - id: 8
       name: library_materials_sourced
       label: Library Materials Sourced
       hint: null
       type: select_multiple
       options:
-      - '{''option_0'': ''Book''}'
-      - '{''option_1'': ''DVD''}'
-      - '{''option_2'': ''CD''}'
-      - '{''option_3'': ''Other''}'
+      - Book
+      - DVD
+      - Other
       required: false
+    - id: 9
+      name: librarian_reported_error_message
+      label: Librarian Reported Error Message
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 10
-      name: library_materials_sourced_details
-      label: Library Materials Sourced Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
       name: library_solution_details
       label: Library Solution Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: librarian_reported_error_message
-      label: Librarian Reported Error Message
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: librarian_reported_error_message_details
-      label: Librarian Reported Error Message Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: librarian_solution
-      label: Librarian Solution
-      hint: null
-      type: select_one
-      options:
-      - '{''option_0'': ''None''}'
-      - '{''option_1'': ''Resource not available''}'
-      - '{''option_2'': ''Need to purchase''}'
-      - '{''option_3'': ''Other''}'
-      required: false
-    - id: 15
-      name: librarian_solution_details
-      label: Librarian Solution Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: user_reported_error_message
-      label: User Reported Error Message
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: user_reported_error_message_details
-      label: User Reported Error Message Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: librarian_reported_error_message
-      label: Librarian Reported Error Message
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: librarian_reported_error_message_details
-      label: Librarian Reported Error Message Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: library_solution
-      label: Library Solution
-      hint: null
-      type: select_one
-      options:
-      - '{''option_0'': ''None''}'
-      - '{''option_1'': ''Resource not available''}'
-      - '{''option_2'': ''Need to purchase''}'
-      - '{''option_3'': ''Other''}'
-      required: false
-    - id: 21
-      name: library_solution_details
-      label: Library Solution Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: user_reported_error_message
-      label: User Reported Error Message
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: user_reported_error_message_details
-      label: User Reported Error Message Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: librarian_reported_error_message
-      label: Librarian Reported Error Message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: librarian_reported_error_message_details
-      label: Librarian Reported Error Message Details
       hint: null
       type: text
       options: []

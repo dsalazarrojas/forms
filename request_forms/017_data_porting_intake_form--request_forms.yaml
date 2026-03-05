@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Email and Phone''}'
-      - '{''label'': ''Email, Phone, and In-Person''}'
-      - '{''label'': ''Phone and In-Person''}'
-      - '{''label'': ''In-Person''}'
+      - Email
+      - Email and Phone
+      - Email, Phone, and In-Person
+      - Phone and In-Person
+      - In-Person
       required: false
     - id: 7
       name: requestor_email
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Data Transfers''}'
-      - '{''label'': ''Account Information''}'
-      - '{''label'': ''Account Management''}'
+      - Data Transfers
+      - Account Information
+      - Account Management
       required: true
     - id: 9
       name: transfer_type
@@ -73,8 +73,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Single''}'
-      - '{''label'': ''Multiple''}'
+      - Single
+      - Multiple
       required: true
     - id: 10
       name: data_transfer_date
@@ -91,8 +91,8 @@ inputSchema:
       options: []
       required: false
     - id: 12
-      name: notes
-      label: Notes
+      name: notes_2
+      label: Notes 2
       hint: null
       type: note
       options: []
@@ -103,8 +103,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Primary''}'
+      - None
+      - Primary
       required: true
     - id: 14
       name: requestor_phone_extension
@@ -128,29 +128,29 @@ inputSchema:
       options: []
       required: false
     - id: 17
-      name: requestor_email
-      label: Requestor Email
+      name: requestor_email_2
+      label: Requestor Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 18
       name: transfer_date
-      label: Transfer Date
+      label: Transfer Date (2)
       hint: null
       type: date
       options: []
       required: false
     - id: 19
-      name: transfer_time
-      label: Transfer Time
+      name: transfer_time_2
+      label: Transfer Time 2
       hint: null
       type: time
       options: []
       required: false
     - id: 20
-      name: notes_2
-      label: Notes
+      name: notes_2_2
+      label: Notes 2 2
       hint: null
       type: note
       options: []
@@ -184,8 +184,8 @@ inputSchema:
       options: []
       required: false
     - id: 25
-      name: requestor_work_phone
-      label: Requestor Work Phone
+      name: requestor_work_phone_2
+      label: Requestor Work Phone 2
       hint: null
       type: text
       options: []

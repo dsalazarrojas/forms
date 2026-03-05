@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
-      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
-      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: true
     - id: 7
       name: payment_amount
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Small'', ''value'': ''small''}'
-      - '{''label'': ''Medium'', ''value'': ''medium''}'
-      - '{''label'': ''Large'', ''value'': ''large''}'
+      - Small
+      - Medium
+      - Large
       required: true
     - id: 10
       name: vegetarian_meal
@@ -78,6 +78,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': ''yes''}'
-      - '{''label'': False, ''value'': ''no''}'
+      - 'True'
+      - 'False'
       required: true

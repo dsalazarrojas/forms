@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Team'', ''value'': ''Team''}'
-      - '{''id'': 2, ''name'': ''Employee'', ''value'': ''Employee''}'
-      - '{''id'': 3, ''name'': ''Department'', ''value'': ''Department''}'
-      - '{''id'': 4, ''name'': ''Location'', ''value'': ''Location''}'
+      - Team
+      - Employee
+      - Department
+      - Location
       required: false
     - id: 3
       name: assessment_date
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Team'', ''value'': ''Team''}'
-      - '{''id'': 2, ''name'': ''Employee'', ''value'': ''Employee''}'
+      - Team
+      - Employee
       required: false
     - id: 11
       name: submission_date

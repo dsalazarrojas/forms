@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Employed'', ''value'': ''employed''}'
-      - '{''label'': ''Self-Employed'', ''value'': ''self-employed''}'
-      - '{''label'': ''Unemployed'', ''value'': ''unemployed''}'
+      - Employed
+      - Self-Employed
+      - Unemployed
       required: false
     - id: 9
       name: tenant_occupations
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Doctor'', ''value'': ''doctor''}'
-      - '{''label'': ''Lawyer'', ''value'': ''lawyer''}'
-      - '{''label'': ''Teacher'', ''value'': ''teacher''}'
+      - Doctor
+      - Lawyer
+      - Teacher
       required: false
     - id: 10
       name: tenant_education
@@ -92,6 +92,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None'', ''value'': ''none''}'
-      - '{''label'': True, ''value'': True}'
+      - None
+      - 'True'
       required: false

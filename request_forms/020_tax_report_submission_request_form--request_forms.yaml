@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''W2''}'
-      - '{''value'': 1095}'
-      - '{''value'': ''other''}'
+      - W2
+      - '1095'
+      - other
       required: false
     - id: 4
       name: tax_report_due_date
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''tax_return''}'
-      - '{''value'': ''financial_statement''}'
-      - '{''value'': ''other''}'
+      - tax return
+      - financial statement
+      - other
       required: false
     - id: 7
       name: tax_report_submission_status
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''submitted''}'
-      - '{''value'': ''pending''}'
-      - '{''value'': ''cancelled''}'
+      - submitted
+      - pending
+      - cancelled
       required: false
     - id: 8
       name: tax_report_submission_comment

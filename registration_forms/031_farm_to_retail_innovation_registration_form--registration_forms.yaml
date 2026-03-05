@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''challenge'', ''label'': ''Challenge''}'
-      - '{''value'': ''accelerator'', ''label'': ''Accelerator''}'
-      - '{''value'': ''program'', ''label'': ''Program''}'
+      - Challenge
+      - Accelerator
+      - Program
       required: false
     - id: 6
       name: challenge_location
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''national'', ''label'': ''National''}'
-      - '{''value'': ''regional'', ''label'': ''Regional''}'
-      - '{''value'': ''international'', ''label'': ''International''}'
+      - National
+      - Regional
+      - International
       required: false
     - id: 7
       name: start_date
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''partnership'', ''label'': ''Partnership''}'
-      - '{''value'': ''collaboration'', ''label'': ''Collaboration''}'
+      - Partnership
+      - Collaboration
       required: false
     - id: 10
       name: agrifood_sector
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''product'', ''label'': ''Product''}'
-      - '{''value'': ''service'', ''label'': ''Service''}'
-      - '{''value'': ''technology'', ''label'': ''Technology''}'
+      - Product
+      - Service
+      - Technology
       required: false
     - id: 13
       name: innovation_status

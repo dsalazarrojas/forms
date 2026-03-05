@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''On Track''}'
-      - '{''id'': 2, ''name'': ''Delayed''}'
-      - '{''id'': 3, ''name'': ''On Hold''}'
-      - '{''id'': 4, ''name'': ''Complete''}'
+      - On Track
+      - Delayed
+      - On Hold
+      - Complete
       required: false
     - id: 4
       name: project_status_details
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Concrete Foundation''}'
-      - '{''id'': 2, ''name'': ''Structural Frame''}'
-      - '{''id'': 3, ''name'': ''Glazing''}'
-      - '{''id'': 4, ''name'': ''Finishing Work''}'
+      - Concrete Foundation
+      - Structural Frame
+      - Glazing
+      - Finishing Work
       required: false
     - id: 6
       name: delay_reason

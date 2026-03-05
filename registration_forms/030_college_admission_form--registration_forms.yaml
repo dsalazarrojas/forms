@@ -237,7 +237,7 @@ inputSchema:
       options:
       - Yes Will Apply
       - Maybe
-      - false
+      - 'False'
       required: true
     - id: 30
       name: fafsa_filed
@@ -245,8 +245,8 @@ inputSchema:
       hint: Free Application for Federal Student Aid
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - In Progress
       required: false
     - id: 31
@@ -290,8 +290,8 @@ inputSchema:
       hint: Have you submitted essays
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - In Progress
       required: true
     - id: 37
@@ -300,8 +300,8 @@ inputSchema:
       hint: Have you sent transcripts
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - In Progress
       required: true
     - id: 38
@@ -310,8 +310,8 @@ inputSchema:
       hint: Have you sent recommendations
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - In Progress
       required: true
     - id: 39
@@ -320,8 +320,8 @@ inputSchema:
       hint: Campus tour
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Planning To
       required: false
     - id: 40
@@ -347,7 +347,7 @@ inputSchema:
       - Yes Parent
       - Yes Sibling
       - Yes Other Relative
-      - false
+      - 'False'
       required: false
     - id: 42
       name: veteran_status
@@ -357,7 +357,7 @@ inputSchema:
       options:
       - Yes Active Duty
       - Yes Veteran
-      - false
+      - 'False'
       required: false
     - id: 43
       name: application_fee
@@ -376,5 +376,5 @@ inputSchema:
       type: select_one
       options:
       - Yes I Accept
-      - false
+      - 'False'
       required: true

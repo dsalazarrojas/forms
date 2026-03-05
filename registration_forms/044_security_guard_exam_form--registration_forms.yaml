@@ -44,10 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''security guard'', ''label'': ''Security Guard''}'
-      - '{''id'': 2, ''name'': ''head of security'', ''label'': ''Head of Security''}'
-      - '{''id'': 3, ''name'': ''security team leader'', ''label'': ''Security Team
-        Leader''}'
+      - Security Guard
+      - Head of Security
+      - Security Team Leader
       required: false
     - id: 7
       name: select_multiple
@@ -55,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''English'', ''label'': ''English''}'
-      - '{''id'': 2, ''name'': ''Spanish'', ''label'': ''Spanish''}'
-      - '{''id'': 3, ''name'': ''French'', ''label'': ''French''}'
+      - English
+      - Spanish
+      - French
       required: false
     - id: 8
       name: note

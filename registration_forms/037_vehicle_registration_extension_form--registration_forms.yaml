@@ -15,177 +15,144 @@ inputSchema:
     title: vehicle_registration_extension_form
     pages:
     - id: 1
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
+      name: vehicle_info
+      label: Vehicle Registration Information
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
+      name: driver_info
+      label: Driver Information
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
+      name: vehicle_license_info
+      label: Vehicle License
+      hint: Enter license number and issuing agency
       type: text
       options: []
       required: true
     - id: 4
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
+      name: vehicle_mileage_info
+      label: Vehicle Mileage
+      hint: Enter current mileage
+      type: number
       options: []
       required: true
     - id: 5
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
+      name: vehicle_mechanical_info
+      label: Vehicle Mechanical Info
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - New
+      - Used
+      - Lease
+      - Auction
       required: true
     - id: 6
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
-      options: []
+      name: driver_conduct
+      label: Driver Conduct
+      hint: Has the vehicle been involved in any accidents or incidents?
+      type: select_multiple
+      options:
+      - None
+      - Accident
+      - Incident
+      - Both
       required: true
     - id: 7
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
-      options: []
+      name: vehicle_ext
+      label: Vehicle Extension
+      hint: Is this vehicle extended?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 8
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
-      options: []
+      name: driver_conduct_agree
+      label: Driver Conduct Agreement
+      hint: I agree with the driver conduct
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
       required: true
     - id: 9
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
-      options: []
+      name: vehicle_ext_agree
+      label: Vehicle Extension Agreement
+      hint: I agree with the vehicle extension
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
       required: true
     - id: 10
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
+      name: vehicle_ext_details
+      label: Vehicle Extension Details
       hint: null
       type: text
       options: []
       required: true
     - id: 11
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
+      name: vehicle_ext_reason
+      label: Vehicle Extension Reason
+      hint: Enter reason for extension
       type: text
       options: []
       required: true
     - id: 12
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
+      name: vehicle_ext_start_date
+      label: Vehicle Extension Start Date
+      hint: Enter start date of extension
+      type: date
       options: []
       required: true
     - id: 13
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
+      name: vehicle_ext_end_date
+      label: Vehicle Extension End Date
+      hint: Enter end date of extension
+      type: date
       options: []
       required: true
     - id: 14
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
+      name: vehicle_ext_period
+      label: Vehicle Extension Period
+      hint: Extension period in months
+      type: number
       options: []
       required: true
     - id: 15
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
+      name: vehicle_ext_notes
+      label: Vehicle Extension Notes
       hint: null
-      type: text
+      type: note
       options: []
-      required: true
+      required: false
     - id: 16
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
+      name: vehicle_ext_agreed
+      label: Vehicle Extension Agreed
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Agreed
+      - Disagreed
       required: true
     - id: 17
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
+      name: vehicle_ext_date
+      label: Vehicle Extension Date
       hint: null
-      type: text
+      type: date
       options: []
       required: true
     - id: 18
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
+      name: vehicle_ext_comments
+      label: Vehicle Extension Comments
       hint: null
       type: text
       options: []
-      required: true
-    - id: 19
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: vehicle_registration_extension_form
-      label: Vehicle Registration Extension Form
-      hint: null
-      type: text
-      options: []
-      required: true
+      required: false

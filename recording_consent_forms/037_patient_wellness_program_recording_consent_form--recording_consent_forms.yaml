@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: emergency_contact_name
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Self'', ''value'': ''self''}'
-      - '{''label'': ''Parent'', ''value'': ''parent''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Self
+      - Parent
+      - Other
       required: false
     - id: 9
       name: emergency_contact_address
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Session'', ''value'': ''session''}'
-      - '{''label'': ''Series'', ''value'': ''series''}'
-      - '{''label'': ''Series + Session'', ''value'': ''series_session''}'
+      - Session
+      - Series
+      - Series + Session
       required: false
     - id: 17
       name: recording_method
@@ -129,8 +129,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Manual'', ''value'': ''manual''}'
-      - '{''label'': ''Automated'', ''value'': ''automated''}'
+      - Manual
+      - Automated
       required: false
     - id: 18
       name: recording_location
@@ -159,8 +159,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: release_of_instrumental
@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: patient_agreement
@@ -177,8 +177,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: provider_agreement
@@ -186,8 +186,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: notes

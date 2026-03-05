@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Consultation''}'
-      - '{''id'': 2, ''value'': ''Follow-up Consultation''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - Consultation
+      - Follow-up Consultation
+      - Other
       required: true
     - id: 5
       name: visit_date
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 4, ''value'': ''Hair Specialist''}'
-      - '{''id'': 5, ''value'': ''Doctor''}'
-      - '{''id'': 6, ''value'': ''Assistant''}'
+      - Hair Specialist
+      - Doctor
+      - Assistant
       required: true
     - id: 10
       name: followup_date
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 7, ''value'': ''Pending''}'
-      - '{''id'': 8, ''value'': ''Complete''}'
-      - '{''id'': 9, ''value'': ''In Progress''}'
+      - Pending
+      - Complete
+      - In Progress
       required: true
     - id: 15
       name: notes

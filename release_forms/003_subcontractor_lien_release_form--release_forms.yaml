@@ -4,36 +4,36 @@ inputSchema:
     title: Subcontractor Lien Release Form
     pages:
     - id: 1
-      name: subcontractor_lien_release_form_1
-      label: lien_release
+      name: lien_release_form
+      label: Lien Release Form
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: subcontractor_lien_release_form_2
-      label: contractor_name
+      name: contractor_name
+      label: Contractor Name
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: contractor_address
-      label: contractors_address
+      name: address
+      label: Address
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: contractor_city
-      label: city
+      name: city
+      label: City
       hint: null
       type: text
       options: []
       required: true
     - id: 5
-      name: contractor_state
-      label: state
+      name: state
+      label: State
       hint: null
       type: select_one
       options:
@@ -41,43 +41,43 @@ inputSchema:
       - 'No'
       required: true
     - id: 6
-      name: contractor_zip
-      label: zip
+      name: zip
+      label: Zip
       hint: null
       type: text
       options: []
       required: true
     - id: 7
       name: date_of_completion
-      label: date_of_completion
+      label: Date of Completion
       hint: null
       type: date
       options: []
       required: true
     - id: 8
       name: job_location
-      label: job_location
+      label: Job Location
       hint: null
       type: text
       options: []
       required: true
     - id: 9
       name: job_site_address
-      label: job_site_address
+      label: Job Site Address
       hint: null
       type: text
       options: []
       required: true
     - id: 10
       name: job_site_city
-      label: city
+      label: Job Site City
       hint: null
       type: text
       options: []
       required: true
     - id: 11
       name: job_site_state
-      label: state
+      label: Job Site State
       hint: null
       type: select_one
       options:
@@ -86,98 +86,91 @@ inputSchema:
       required: true
     - id: 12
       name: job_site_zip
-      label: zip
+      label: Job Site Zip
       hint: null
       type: text
       options: []
       required: true
     - id: 13
-      name: general_contractor_lien_amount
-      label: lien_amount
+      name: lien_amount
+      label: Lien Amount
       hint: null
       type: number
       options: []
       required: true
     - id: 14
       name: general_contractor_name
-      label: contractor_name
+      label: General Contractor Name
       hint: null
       type: text
       options: []
       required: true
     - id: 15
       name: general_contractor_phone
-      label: phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: true
     - id: 16
       name: general_contractor_email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
       required: true
     - id: 17
       name: general_contractor_address
-      label: address
+      label: General Contractor Address
       hint: null
       type: text
       options: []
       required: true
     - id: 18
-      name: subcontractor_lien_release
-      label: release
+      name: release
+      label: Release
       hint: null
       type: text
       options: []
       required: true
     - id: 19
-      name: subcontractor_signature
-      label: signature
+      name: signature
+      label: Signature
       hint: null
       type: text
       options: []
       required: true
     - id: 20
       name: date
-      label: date
+      label: Date
       hint: null
       type: date
       options: []
       required: true
     - id: 21
       name: job_number
-      label: job_number
+      label: Job Number
       hint: null
       type: text
       options: []
       required: true
     - id: 22
       name: job_description
-      label: job_description
+      label: Job Description
       hint: null
       type: text
       options: []
       required: true
     - id: 23
-      name: general_contractor_lien_type
-      label: lien_type
+      name: lien_type
+      label: Lien Type
       hint: null
       type: text
       options: []
       required: true
     - id: 24
-      name: job_site_name
-      label: job_site
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: general_contractor_name_2
-      label: contractor_name
+      name: job_site
+      label: Job Site
       hint: null
       type: text
       options: []

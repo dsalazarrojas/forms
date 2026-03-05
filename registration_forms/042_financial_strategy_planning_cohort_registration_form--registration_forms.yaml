@@ -51,10 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 8, ''name'': ''Financial Strategy Cohort'', ''label'': ''Financial
-        Strategy Cohort'', ''value'': ''Financial Strategy Cohort''}'
-      - '{''id'': 9, ''name'': ''Other Cohort'', ''label'': ''Other Cohort'', ''value'':
-        ''Other Cohort''}'
+      - Financial Strategy Cohort
+      - Other Cohort
       required: false
     - id: 8
       name: cohort_details
@@ -69,6 +67,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 12, ''name'': True, ''label'': True, ''value'': True}'
-      - '{''id'': 13, ''name'': False, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true

@@ -1,135 +1,157 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cadet Uniform Attendance Form
     pages:
-      - id: 1
-        name: header_attendance_info
-        label: -- Attendance and Identity --
-        hint: Uniform Inspection and Distribution Record
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: cadet_full_name
-        label: Cadet Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: cadet_id_number
-        label: Cadet ID Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: platoon_unit
-        label: Platoon or Unit
-        hint: null
-        type: select_one
-        options: [Platoon A, Platoon B, Platoon C, Platoon D, Support Staff]
-        required: true
-      - id: 5
-        name: attendance_status
-        label: Attendance Status
-        hint: null
-        type: select_one
-        options: [Present - In Uniform, Present - Out of Uniform, Absent - Excused, Absent - Unexcused]
-        required: true
-      - id: 6
-        name: header_uniform_check
-        label: -- Uniform Distribution and Check --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: uniform_items_issued
-        label: Items Issued Today
-        hint: select all that apply
-        type: select_multiple
-        options: [Tunic, Trousers, Beret/Cover, Belt, Boots, Rank Insignia, Name Tag]
-        required: false
-      - id: 8
-        name: uniform_condition
-        label: General Condition of Issued Uniform
-        hint: null
-        type: select_one
-        options: [New, Excellent, Serviceable, Needs Repair/Exchange]
-        required: true
-      - id: 9
-        name: alteration_needed
-        label: Does any item require professional alteration
-        hint: null
-        type: select_one
-        options: [No, Yes - Hemming, Yes - Waist, Yes - Sleeves]
-        required: false
-      - id: 10
-        name: header_inspection
-        label: -- Inspection Results --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: grooming_standards
-        label: Grooming Standards Met
-        hint: hair, shave, jewelry
-        type: select_one
-        options: [Pass, Fail]
-        required: true
-      - id: 12
-        name: boot_shine_quality
-        label: Boot Shine and Maintenance
-        hint: null
-        type: select_one
-        options: [Excellent, Standard, Sub-standard]
-        required: true
-      - id: 13
-        name: gear_accountability
-        label: All gear accounted for since last session
-        hint: null
-        type: select_one
-        options: [Yes, No - Missing items reported]
-        required: true
-      - id: 14
-        name: inspector_comments
-        label: Inspector Remarks
-        hint: specify any deficiencies or outstanding performance
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: inspector_name
-        label: Inspected By
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: inspection_date
-        label: Date of Inspection
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 17
-        name: cadet_acknowledgment
-        label: I acknowledge the uniform items received and my attendance status
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
+    - id: 1
+      name: header_attendance_info
+      label: -- Attendance and Identity --
+      hint: Uniform Inspection and Distribution Record
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cadet_full_name
+      label: Cadet Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cadet_id_number
+      label: Cadet ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: platoon_unit
+      label: Platoon or Unit
+      hint: null
+      type: select_one
+      options:
+      - Platoon A
+      - Platoon B
+      - Platoon C
+      - Platoon D
+      - Support Staff
+      required: true
+    - id: 5
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - Present - In Uniform
+      - Present - Out of Uniform
+      - Absent - Excused
+      - Absent - Unexcused
+      required: true
+    - id: 6
+      name: header_uniform_check
+      label: -- Uniform Distribution and Check --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: uniform_items_issued
+      label: Items Issued Today
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Tunic
+      - Trousers
+      - Beret/Cover
+      - Belt
+      - Boots
+      - Rank Insignia
+      - Name Tag
+      required: false
+    - id: 8
+      name: uniform_condition
+      label: General Condition of Issued Uniform
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Excellent
+      - Serviceable
+      - Needs Repair/Exchange
+      required: true
+    - id: 9
+      name: alteration_needed
+      label: Does any item require professional alteration
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - Yes - Hemming
+      - Yes - Waist
+      - Yes - Sleeves
+      required: false
+    - id: 10
+      name: header_inspection
+      label: -- Inspection Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: grooming_standards
+      label: Grooming Standards Met
+      hint: hair, shave, jewelry
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 12
+      name: boot_shine_quality
+      label: Boot Shine and Maintenance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Standard
+      - Sub-standard
+      required: true
+    - id: 13
+      name: gear_accountability
+      label: All gear accounted for since last session
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - No - Missing items reported
+      required: true
+    - id: 14
+      name: inspector_comments
+      label: Inspector Remarks
+      hint: specify any deficiencies or outstanding performance
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: inspector_name
+      label: Inspected By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: inspection_date
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: cadet_acknowledgment
+      label: I acknowledge the uniform items received and my attendance status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

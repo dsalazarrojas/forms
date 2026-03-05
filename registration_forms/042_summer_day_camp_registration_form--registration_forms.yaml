@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Parent'', ''value'': ''Parent''}'
-      - '{''id'': 2, ''label'': ''Guardian'', ''value'': ''Guardian''}'
+      - Parent
+      - Guardian
       required: false
     - id: 3
       name: camper_info
@@ -25,8 +25,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Boy'', ''value'': ''Boy''}'
-      - '{''id'': 2, ''label'': ''Girl'', ''value'': ''Girl''}'
+      - Boy
+      - Girl
       required: true
     - id: 4
       name: payment_info

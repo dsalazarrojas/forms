@@ -34,14 +34,14 @@ inputSchema:
     - id: 5
       name: site_safety_officer_check_in_form_page_5
       label: Check In Date
-      hint: YYYY-MM-DD
+      hint: null
       type: date
       options: []
       required: false
     - id: 6
       name: site_safety_officer_check_in_form_page_6
       label: Check In Time
-      hint: "HH:MM AM/PM"
+      hint: null
       type: time
       options: []
       required: false
@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: site_safety_officer_check_in_form_page_9
@@ -74,141 +74,42 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: site_safety_officer_check_in_form_page_11
-      label: Weather Conditions
+      label: Incident Reports
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: site_safety_officer_check_in_form_page_12
-      label: Incident Reports
+      label: Safety Officer Availability
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: site_safety_officer_check_in_form_page_13
-      label: Incident Reports
+      label: Site Safety Officer Check In Form Page 13
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: site_safety_officer_check_in_form_page_14
-      label: Safety Officer
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: site_safety_officer_check_in_form_page_15
-      label: Safety Officer
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: site_safety_officer_check_in_form_page_16
-      label: Weather Conditions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: site_safety_officer_check_in_form_page_17
-      label: Weather Conditions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: site_safety_officer_check_in_form_page_18
-      label: Safety Officer
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: site_safety_officer_check_in_form_page_19
-      label: Safety Officer
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: site_safety_officer_check_in_form_page_20
       label: Site Conditions
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: site_safety_officer_check_in_form_page_21
-      label: Site Conditions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: site_safety_officer_check_in_form_page_22
-      label: Weather Conditions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: site_safety_officer_check_in_form_page_23
-      label: Weather Conditions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: site_safety_officer_check_in_form_page_24
-      label: Safety Officer
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: site_safety_officer_check_in_form_page_25
-      label: Safety Officer
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false

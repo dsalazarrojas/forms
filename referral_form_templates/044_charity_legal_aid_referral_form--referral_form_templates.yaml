@@ -98,8 +98,8 @@ inputSchema:
       hint: Scheduled hearing
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: court_date_value
@@ -116,7 +116,7 @@ inputSchema:
       options:
       - Yes represented
       - Yes not represented
-      - false
+      - 'False'
       required: false
     - id: 14
       name: household_size
@@ -143,8 +143,8 @@ inputSchema:
       hint: Government aid
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: prior_legal_help

@@ -4,176 +4,106 @@ inputSchema:
     title: Landlord And Rental Property Information Form
     pages:
     - id: 1
-      name: landlord_and_rental_property_information_form
-      label: Landlord and Rental Property Information Form
+      name: property_address
+      label: Property Address
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: address
-      label: address
+      name: property_city
+      label: Property City
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: city
-      label: city
+      name: property_state
+      label: Property State
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: state
-      label: state
+      name: property_zip_code
+      label: Property Zip Code
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: zip_code
-      label: zip_code
+      name: property_type
+      label: Property Type
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - house
+      - apartment
+      - condo
+      - townhouse
       required: false
     - id: 6
-      name: property_type
-      label: property_type
+      name: property_use
+      label: Property Use
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - residential
+      - commercial
+      - industrial
       required: false
     - id: 7
-      name: property_use
-      label: property_use
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: rent_amount
-      label: rent_amount
+      label: Rent Amount
       hint: null
       type: number
       options: []
+      required: true
+    - id: 8
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
       required: false
     - id: 9
-      name: lease_start_date
-      label: lease_start_date
+      name: lease_end_date
+      label: Lease End Date
       hint: null
       type: date
       options: []
       required: false
     - id: 10
-      name: lease_end_date
-      label: lease_end_date
+      name: landlord_info
+      label: Landlord Information
       hint: null
-      type: date
+      type: note
       options: []
       required: false
     - id: 11
-      name: landlord_info
-      label: landlord_info
+      name: landlord_phone
+      label: Landlord Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: landlord_phone
-      label: landlord_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
       name: landlord_email
-      label: landlord_email
+      label: Landlord Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 14
+    - id: 13
       name: property_info
-      label: property_info
+      label: Property Information
       hint: null
-      type: text
+      type: note
       options: []
       required: false
-    - id: 15
-      name: property_address
-      label: property_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: property_city
-      label: property_city
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: property_state
-      label: property_state
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: property_zip_code
-      label: property_zip_code
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
+    - id: 14
       name: property_country
-      label: property_country
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: property_use
-      label: property_use
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: property_type
-      label: property_type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: lease_start_date
-      label: lease_start_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: lease_end_date
-      label: lease_end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: rent_amount
-      label: rent_amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: landlord_info
-      label: landlord_info
+      label: Property Country
       hint: null
       type: text
       options: []

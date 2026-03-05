@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Availability Issue''}'
-      - '{''value'': 2, ''label'': ''Access Issue''}'
-      - '{''value'': 3, ''label'': ''Maintenance Issue''}'
+      - Availability Issue
+      - Access Issue
+      - Maintenance Issue
       required: true
     - id: 3
       name: issue_description
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 5
       name: affected_software_version
@@ -85,10 +85,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Assigned''}'
-      - '{''value'': 2, ''label'': ''In Progress''}'
-      - '{''value'': 3, ''label'': ''Resolved''}'
-      - '{''value'': 4, ''label'': ''Closed''}'
+      - Assigned
+      - In Progress
+      - Resolved
+      - Closed
       required: true
     - id: 12
       name: assigned_to
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Team A''}'
-      - '{''value'': 2, ''label'': ''Team B''}'
-      - '{''value'': 3, ''label'': ''Team C''}'
+      - Team A
+      - Team B
+      - Team C
       required: true
     - id: 13
       name: due_date
@@ -162,9 +162,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Ticket 1''}'
-      - '{''value'': 2, ''label'': ''Ticket 2''}'
-      - '{''value'': 3, ''label'': ''Ticket 3''}'
+      - Ticket 1
+      - Ticket 2
+      - Ticket 3
       required: true
     - id: 22
       name: software_packages
@@ -172,8 +172,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Package 1''}'
-      - '{''value'': 2, ''label'': ''Package 2''}'
+      - Package 1
+      - Package 2
       required: true
     - id: 23
       name: priority_level

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Manager'', ''value'': ''manager''}'
-      - '{''label'': ''Director'', ''value'': ''director''}'
-      - '{''label'': ''Team Member'', ''value'': ''team_member''}'
+      - Manager
+      - Director
+      - Team Member
       required: false
     - id: 7
       name: job_title_3
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Manager'', ''value'': ''manager''}'
-      - '{''label'': ''Director'', ''value'': ''director''}'
-      - '{''label'': ''Team Member'', ''value'': ''team_member''}'
+      - Manager
+      - Director
+      - Team Member
       required: false
     - id: 8
       name: date
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: job_title_4
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Full-Time'', ''value'': ''full-time''}'
-      - '{''label'': ''Part-Time'', ''value'': ''part-time''}'
-      - '{''label'': ''Contract'', ''value'': ''contract''}'
+      - Full-Time
+      - Part-Time
+      - Contract
       required: false
     - id: 16
       name: job_title_8
@@ -125,9 +125,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Full-Time'', ''value'': ''full-time''}'
-      - '{''label'': ''Part-Time'', ''value'': ''part-time''}'
-      - '{''label'': ''Contract'', ''value'': ''contract''}'
+      - Full-Time
+      - Part-Time
+      - Contract
       required: false
     - id: 17
       name: job_title_9
@@ -170,8 +170,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: job_title_15

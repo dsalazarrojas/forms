@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Excellent''}'
-      - '{''id'': 2, ''value'': ''Fair''}'
-      - '{''id'': 3, ''value'': ''Poor''}'
-      - '{''id'': 4, ''value'': ''N/A''}'
+      - Excellent
+      - Fair
+      - Poor
+      - N/A
       required: false
     - id: 8
       name: safety_harnesses_used
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
-      - '{''id'': 3, ''value'': ''Not Applicable''}'
+      - 'True'
+      - 'False'
+      - Not Applicable
       required: false
     - id: 9
       name: inspection_results
@@ -86,10 +86,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Certified''}'
-      - '{''id'': 2, ''value'': ''Non-Certified''}'
-      - '{''id'': 3, ''value'': ''Unknown''}'
-      - '{''id'': 4, ''value'': ''N/A''}'
+      - Certified
+      - Non-Certified
+      - Unknown
+      - N/A
       required: false
     - id: 12
       name: training_status
@@ -97,10 +97,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Completed''}'
-      - '{''id'': 2, ''value'': ''Not Completed''}'
-      - '{''id'': 3, ''value'': ''Not Required''}'
-      - '{''id'': 4, ''value'': ''N/A''}'
+      - Completed
+      - Not Completed
+      - Not Required
+      - N/A
       required: false
     - id: 13
       name: certification_date
@@ -129,10 +129,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Available''}'
-      - '{''id'': 2, ''value'': ''Not Available''}'
-      - '{''id'': 3, ''value'': ''Partially Available''}'
-      - '{''id'': 4, ''value'': ''N/A''}'
+      - Available
+      - Not Available
+      - Partially Available
+      - N/A
       required: false
     - id: 17
       name: fire_extinguisher
@@ -140,10 +140,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Available''}'
-      - '{''id'': 2, ''value'': ''Not Available''}'
-      - '{''id'': 3, ''value'': ''Partially Available''}'
-      - '{''id'': 4, ''value'': ''N/A''}'
+      - Available
+      - Not Available
+      - Partially Available
+      - N/A
       required: false
     - id: 18
       name: emergency_exits
@@ -151,10 +151,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Clearly Marked''}'
-      - '{''id'': 2, ''value'': ''Not Clearly Marked''}'
-      - '{''id'': 3, ''value'': ''Partially Clearly Marked''}'
-      - '{''id'': 4, ''value'': ''N/A''}'
+      - Clearly Marked
+      - Not Clearly Marked
+      - Partially Clearly Marked
+      - N/A
       required: false
     - id: 19
       name: emergency_contact_number

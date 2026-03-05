@@ -51,11 +51,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''name'': ''None'', ''label'': ''None''}'
-      - '{''id'': 1, ''name'': ''kidney_disease'', ''label'': ''Kidney disease''}'
-      - '{''id'': 2, ''name'': ''diabetes'', ''label'': ''diabetes''}'
-      - '{''id'': 3, ''name'': ''heart_disease'', ''label'': ''heart disease''}'
-      - '{''id'': 4, ''name'': ''lung_disease'', ''label'': ''lung disease''}'
+      - None
+      - Kidney disease
+      - diabetes
+      - heart disease
+      - lung disease
       required: false
     - id: 8
       name: blood_type
@@ -63,16 +63,16 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''name'': ''None'', ''label'': ''None''}'
-      - '{''id'': 1, ''name'': ''a_positive'', ''label'': ''A+''}'
-      - '{''id'': 2, ''name'': ''a_negative'', ''label'': ''A-''}'
-      - '{''id'': 3, ''name'': ''b_positive'', ''label'': ''B+''}'
-      - '{''id'': 4, ''name'': ''ab_positive'', ''label'': ''AB+''}'
-      - '{''id'': 5, ''name'': ''ab_negative'', ''label'': ''AB-''}'
-      - '{''id'': 6, ''name'': ''b_negative'', ''label'': ''B-''}'
-      - '{''id'': 7, ''name'': ''o_positive'', ''label'': ''O+''}'
-      - '{''id'': 8, ''name'': ''o_negative'', ''label'': ''O-''}'
-      - '{''id'': 9, ''name'': ''ab_positive'', ''label'': ''AB''}'
+      - None
+      - A+
+      - A-
+      - B+
+      - AB+
+      - AB-
+      - B-
+      - O+
+      - O-
+      - AB
       required: false
     - id: 9
       name: medical_notes
@@ -87,8 +87,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''name'': False, ''label'': False}'
-      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 11
       name: confirm_address
@@ -96,6 +96,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''name'': False, ''label'': False}'
-      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false

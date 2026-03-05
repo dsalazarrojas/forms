@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''1'', ''label'': ''Appraiser 1''}'
-      - '{''value'': ''2'', ''label'': ''Appraiser 2''}'
-      - '{''value'': ''3'', ''label'': ''Appraiser 3''}'
+      - Appraiser 1
+      - Appraiser 2
+      - Appraiser 3
       required: false
     - id: 3
       name: property_address
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''1'', ''label'': ''Single Family''}'
-      - '{''value'': ''2'', ''label'': ''Condo''}'
-      - '{''value'': ''3'', ''label'': ''Townhouse''}'
+      - Single Family
+      - Condo
+      - Townhouse
       required: false
     - id: 10
       name: property_status
@@ -78,7 +78,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''1'', ''label'': ''Active''}'
-      - '{''value'': ''2'', ''label'': ''Sold''}'
-      - '{''value'': ''3'', ''label'': ''Off Market''}'
+      - Active
+      - Sold
+      - Off Market
       required: false

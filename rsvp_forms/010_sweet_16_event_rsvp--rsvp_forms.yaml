@@ -16,179 +16,45 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 3
-      name: rsvp
-      label: RSVP
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rsvp_confirmation
+      label: Confirm your RSVP
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 4
+    - id: 5
       name: attendees
       label: Attendees
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: special_requests
-      label: Special Requests
-      hint: null
-      type: note
-      options: []
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 6
       name: message
-      label: Message
+      label: Message or Comment
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: message
-      label: Message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: message
-      label: Message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: special_requests
-      label: Special Requests
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: comment
-      label: Comment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: comment
-      label: Comment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: comment
-      label: Comment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: special_requests
-      label: Special Requests
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: attendees
-      label: Attendees
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: rsvp
-      label: RSVP
+      name: confirm_rsvp
+      label: Confirm Rsvp
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 16
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: message
-      label: Message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: attendees
-      label: Attendees
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: attendees
-      label: Attendees
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: attendees
-      label: Attendees
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false

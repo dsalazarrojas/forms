@@ -5,240 +5,143 @@ inputSchema:
     pages:
     - id: 1
       name: registration_form
-      label: Registration Form
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: email
-      label: email
+      name: contact_email
+      label: What is your contact email?
       hint: null
       type: email
       options: []
       required: false
-    - id: 4
-      name: phone
-      label: phone
+    - id: 3
+      name: contact_phone
+      label: What is your phone number?
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
-      name: select_one
-      label: Select One
+    - id: 4
+      name: preferred_language
+      label: Which of the following is your preferred language?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - English
+      - French
       required: false
-    - id: 6
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 7
-      name: date
-      label: Date
+    - id: 5
+      name: arrival_time
+      label: What is your availability for the hackathon?
       hint: null
       type: date
       options: []
       required: false
-    - id: 8
-      name: time
-      label: Time
+    - id: 6
+      name: arrival_time_2
+      label: When do you plan to arrive?
       hint: null
       type: time
       options: []
       required: false
-    - id: 9
-      name: note
-      label: Note
+    - id: 7
+      name: notes
+      label: Do you have any notes or comments?
       hint: null
       type: note
       options: []
       required: false
+    - id: 8
+      name: developer_non_developer
+      label: Are you a developer or non-developer?
+      hint: null
+      type: select_multiple
+      options:
+      - Developer
+      - Non-Developer
+      required: false
+    - id: 9
+      name: transportation
+      label: What is your preferred mode of transportation?
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Bike
+      - Walk
+      required: false
     - id: 10
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 11
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 12
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 13
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 14
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 16
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 17
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 19
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 20
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 22
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 23
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 25
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 26
-      name: name
-      label: name
+      name: dietary_restrictions
+      label: Do you have any dietary restrictions or special requests?
       hint: null
       type: text
       options: []
       required: false
-    - id: 27
-      name: date
-      label: date
+    - id: 11
+      name: experience
+      label: How many years of experience do you have with programming?
       hint: null
-      type: date
+      type: number
       options: []
+      required: false
+    - id: 12
+      name: preferred_transportation
+      label: Preferred Transportation
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Bike
+      - Walk
+      required: false
+    - id: 13
+      name: special_accommodations
+      label: Do you require any special accommodations during the hackathon?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: team_work
+      label: Are you able to work in a team?
+      hint: null
+      type: select_one
+      options:
+      - Team
+      - Individual
+      required: false
+    - id: 15
+      name: departure_time
+      label: What time do you plan to leave the hackathon?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: Do you have any allergies or health conditions we should know about?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contacts
+      label: Do you have any emergency contacts we should have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attendance
+      label: Are you able to attend the whole event?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false

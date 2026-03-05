@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Working''}'
-      - '{''id'': 2, ''label'': ''Not Working''}'
-      - '{''id'': 3, ''label'': ''Unknown''}'
+      - Working
+      - Not Working
+      - Unknown
       required: true
     - id: 3
       name: system_tested_page
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Unknown''}'
+      - 'True'
+      - 'False'
+      - Unknown
       required: true
     - id: 4
       name: system_tested_details
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Low''}'
-      - '{''id'': 3, ''label'': ''Unknown''}'
+      - Good
+      - Low
+      - Unknown
       required: true
     - id: 8
       name: battery_capacity_page
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 9
       name: inspection_frequency_page
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Monthly''}'
-      - '{''id'': 2, ''label'': ''Bi-Monthly''}'
-      - '{''id'': 3, ''label'': ''Quarterly''}'
+      - Monthly
+      - Bi-Monthly
+      - Quarterly
       required: true
     - id: 10
       name: inspection_next_scheduled
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 1}'
-      - '{''id'': 2, ''label'': 2}'
-      - '{''id'': 3, ''label'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: true
     - id: 13
       name: last_tested_date
@@ -195,7 +195,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Scheduled''}'
-      - '{''id'': 3, ''label'': ''In Progress''}'
+      - None
+      - Scheduled
+      - In Progress
       required: true

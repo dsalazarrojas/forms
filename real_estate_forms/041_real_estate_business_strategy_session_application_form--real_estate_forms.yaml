@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Phone''}'
-      - '{''id'': 2, ''name'': ''Email''}'
-      - '{''id'': 3, ''name'': ''In Person''}'
+      - Phone
+      - Email
+      - In Person
       required: false
     - id: 4
       name: contact_preferences
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Phone''}'
-      - '{''id'': 2, ''name'': ''Email''}'
-      - '{''id'': 3, ''name'': ''In Person''}'
+      - Phone
+      - Email
+      - In Person
       required: false
     - id: 5
       name: strategy_session_topics
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''United States''}'
-      - '{''id'': 2, ''name'': ''Canada''}'
-      - '{''id'': 3, ''name'': ''Mexico''}'
+      - United States
+      - Canada
+      - Mexico
       required: false
     - id: 15
       name: session_length

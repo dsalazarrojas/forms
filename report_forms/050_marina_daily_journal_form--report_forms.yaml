@@ -58,11 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '0'
-      - '1'
-      - '2'
-      - '3'
-      - '4'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
       name: vessel_draft_type
@@ -75,7 +73,7 @@ inputSchema:
       required: false
     - id: 8
       name: vessel_length_in_feet
-      label: Vessel Length
+      label: Vessel Length In Feet
       hint: null
       type: number
       options: []
@@ -120,7 +118,7 @@ inputSchema:
       required: false
     - id: 14
       name: prophets_depth_in_feet
-      label: Prophets Depth
+      label: Prophets Depth In Feet
       hint: null
       type: number
       options: []
@@ -154,7 +152,7 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: vessel_draft_type
+      name: vessel_draft_type_2
       label: Vessel Draft Type
       hint: null
       type: select_multiple
@@ -172,15 +170,15 @@ inputSchema:
       - Aft
       required: false
     - id: 21
-      name: vessel_type_description
-      label: Vessel Type Description
+      name: vessel_type_description_2
+      label: Vessel Type Description 2
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: vessel_type
-      label: Vessel Type
+      name: vessel_type_2
+      label: Vessel Type 2
       hint: null
       type: select_multiple
       options:
@@ -188,7 +186,7 @@ inputSchema:
       - Yacht
       required: false
     - id: 23
-      name: vessel_draft_depth
+      name: vessel_draft_depth_2
       label: Vessel Draft Depth
       hint: null
       type: number

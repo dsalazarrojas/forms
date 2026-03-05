@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''type'': ''single_family_home''}'
-      - '{''type'': ''condominium''}'
-      - '{''type'': ''townhouse''}'
-      - '{''type'': ''duplex''}'
-      - '{''type'': ''apartment_complex''}'
-      - '{''type'': ''single_family_home_with_mortgage''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
       required: false
     - id: 3
       name: home_square_footage
@@ -43,11 +43,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''location'': ''single_family_home''}'
-      - '{''location'': ''condominium''}'
-      - '{''location'': ''townhouse''}'
-      - '{''location'': ''duplex''}'
-      - '{''location'': ''apartment_complex''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 6
       name: policy_holder_type
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''type'': ''individual''}'
-      - '{''type'': ''joint''}'
-      - '{''type'': ''corporate''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 7
       name: policy_holder_first_name
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''phone'': ''mobile''}'
-      - '{''phone'': ''landline''}'
-      - '{''phone'': ''email''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 11
       name: date_of_birth

@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Gluten-free''}'
-      - '{''label'': ''Lactose-free''}'
-      - '{''label'': ''Nut-free''}'
-      - '{''label'': ''Other (Specify)''}'
+      - None
+      - Gluten-free
+      - Lactose-free
+      - Nut-free
+      - Other (Specify)
       required: false
     - id: 6
       name: child_food_allergies
@@ -49,16 +49,16 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Peanut''}'
-      - '{''label'': ''Tree Nut''}'
-      - '{''label'': ''Fish''}'
-      - '{''label'': ''Shellfish''}'
-      - '{''label'': ''Milk''}'
-      - '{''label'': ''Eggs''}'
-      - '{''label'': ''Soy''}'
-      - '{''label'': ''Wheat''}'
-      - '{''label'': ''Other (Specify)''}'
+      - None
+      - Peanut
+      - Tree Nut
+      - Fish
+      - Shellfish
+      - Milk
+      - Eggs
+      - Soy
+      - Wheat
+      - Other (Specify)
       required: false
     - id: 7
       name: number_of_children
@@ -94,8 +94,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Mother''}'
-      - '{''label'': ''Guardian''}'
+      - Mother
+      - Guardian
       required: false
     - id: 12
       name: message_to_teacher
@@ -131,7 +131,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Other (Specify)''}'
+      - Other (Specify)
       - Other
       required: false
     - id: 17
@@ -147,9 +147,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Head Teacher''}'
-      - '{''label'': ''Assistant''}'
+      - None
+      - Head Teacher
+      - Assistant
       required: false
     - id: 19
       name: teacher_signature_date

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Turkey''}'
-      - '{''id'': 2, ''name'': ''Veggie''}'
-      - '{''id'': 3, ''name'': ''Ham''}'
+      - Turkey
+      - Veggie
+      - Ham
       required: false
     - id: 5
       name: order_time
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''form_submitted''}'
-      - '{''id'': 2, ''name'': ''form_submitted''}'
+      - form submitted
+      - Other
       required: false
     - id: 10
       name: form_submitted_2
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''form_submitted_2''}'
-      - '{''id'': 2, ''name'': ''form_submitted_2''}'
+      - form submitted 2
+      - Other
       required: false
     - id: 11
       name: date
@@ -100,9 +100,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''sandwich_menu_1''}'
-      - '{''id'': 2, ''name'': ''sandwich_menu_2''}'
-      - '{''id'': 3, ''name'': ''sandwich_menu_3''}'
+      - sandwich menu 1
+      - sandwich menu 2
+      - sandwich menu 3
       required: false
     - id: 14
       name: menu
@@ -110,9 +110,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''menu_1''}'
-      - '{''id'': 2, ''name'': ''menu_2''}'
-      - '{''id'': 3, ''name'': ''menu_3''}'
+      - menu 1
+      - menu 2
+      - menu 3
       required: false
     - id: 15
       name: quantity
@@ -183,8 +183,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''sandwich_menu_2_1''}'
-      - '{''id'': 2, ''name'': ''sandwich_menu_2_2''}'
+      - sandwich menu 2 1
+      - sandwich menu 2 2
       required: false
     - id: 25
       name: sandwich_menu_3
@@ -192,6 +192,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''sandwich_menu_3_1''}'
-      - '{''id'': 2, ''name'': ''sandwich_menu_3_2''}'
+      - sandwich menu 3 1
+      - sandwich menu 3 2
       required: false

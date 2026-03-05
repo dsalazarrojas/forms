@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: true
     - id: 8
       name: preferred_time
@@ -68,13 +68,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      - '{''id'': 4, ''label'': ''Thursday''}'
-      - '{''id'': 5, ''label'': ''Friday''}'
-      - '{''id'': 6, ''label'': ''Saturday''}'
-      - '{''id'': 7, ''label'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 10
       name: appointment_date
@@ -173,9 +173,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Online''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''In-person''}'
+      - Online
+      - Phone
+      - In-person
       required: false
     - id: 24
       name: demo_notes

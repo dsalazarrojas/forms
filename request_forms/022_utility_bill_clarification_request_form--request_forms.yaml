@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Electricity''}'
-      - '{''id'': 2, ''name'': ''Gas''}'
-      - '{''id'': 3, ''name'': ''Water''}'
+      - Electricity
+      - Gas
+      - Water
       required: false
     - id: 4
       name: address
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Overbilling''}'
-      - '{''id'': 2, ''name'': ''Delayed Service''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Overbilling
+      - Delayed Service
+      - Other
       required: false
     - id: 13
       name: employee_name

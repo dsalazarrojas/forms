@@ -18,9 +18,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Maintenance Issue''}'
-      - '{''id'': 2, ''label'': ''Noise Complaint''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Maintenance Issue
+      - Noise Complaint
+      - Other
       required: true
     - id: 3
       name: resident_complaint_description
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Phone''}'
-      - '{''id'': 2, ''label'': ''Email''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Phone
+      - Email
+      - Other
       required: true
     - id: 6
       name: staff_name
@@ -59,9 +59,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Phone''}'
-      - '{''id'': 2, ''label'': ''Email''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Phone
+      - Email
+      - Other
       required: true
     - id: 8
       name: staff_department

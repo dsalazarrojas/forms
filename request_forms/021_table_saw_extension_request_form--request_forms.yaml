@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Denied''}'
-      - '{''value'': ''Pending''}'
+      - Approved
+      - Denied
+      - Pending
       required: false
     - id: 3
       name: equipment_id
@@ -75,10 +75,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Available''}'
-      - '{''value'': ''In Use''}'
-      - '{''value'': ''Maintenance''}'
-      - '{''value'': ''Out of Order''}'
+      - Available
+      - In Use
+      - Maintenance
+      - Out of Order
       required: false
     - id: 11
       name: extension_days
@@ -116,8 +116,8 @@ inputSchema:
       options: []
       required: false
     - id: 16
-      name: equipment_id
-      label: Equipment Id
+      name: equipment_id_2
+      label: Equipment Id 2
       hint: null
       type: text
       options: []
@@ -172,21 +172,21 @@ inputSchema:
       options: []
       required: false
     - id: 24
-      name: workshop_name
-      label: Workshop Name
+      name: workshop_name_2
+      label: Workshop Name 2
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: supervisor_approval2
-      label: Supervisor Approval
+      label: Supervisor Approval2
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Denied''}'
-      - '{''value'': ''Pending''}'
+      - Approved
+      - Denied
+      - Pending
       required: false
     - id: 26
       name: extension_start_time

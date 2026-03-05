@@ -1,152 +1,133 @@
 inputSchema:
   type: object
   properties:
-    title: estate_plan_client_questionnaire_template
+    title: Estate Plan Client Questionnaire Template
     pages:
     - id: 1
-      name: name
-      label: first_name
+      name: first_name
+      label: Enter First Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: last_name
-      label: last_name
+      label: Enter Last Name
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: email
-      label: email
+      label: Enter Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
-      name: phone
-      label: phone_number
+      name: phone_number
+      label: Enter Phone Number
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: spouse_first_name
-      label: first_name
+      label: Spouse's First Name
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: spouse_last_name
-      label: last_name
+      label: Spouse's Last Name
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 7
       name: spouse_email
-      label: email
+      label: Spouse's Email
       hint: null
       type: email
       options: []
       required: false
     - id: 8
       name: spouse_phone
-      label: phone_number
+      label: Spouse's Phone Number
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: first_child_name
-      label: first_child
+      name: first_child
+      label: First Child's Name
       hint: null
       type: text
       options: []
       required: false
     - id: 10
       name: first_child_age
-      label: age
+      label: First Child's Age
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 11
-      name: last_child_name
-      label: last_child
+      name: last_child
+      label: Last Child's Name
       hint: null
       type: text
       options: []
       required: false
     - id: 12
       name: children_count
-      label: children_count
+      label: Number of Children
       hint: null
       type: number
       options: []
       required: false
     - id: 13
       name: dependent_first_name
-      label: dependent_first_name
+      label: Dependent's First Name
       hint: null
       type: text
       options: []
       required: false
     - id: 14
       name: dependent_last_name
-      label: dependent_last_name
+      label: Dependent's Last Name
       hint: null
       type: text
       options: []
       required: false
     - id: 15
       name: dependent_age
-      label: dependent_age
+      label: Dependent's Age
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 16
       name: dependent_phone
-      label: dependent_phone
+      label: Dependent's Phone Number
       hint: null
       type: text
       options: []
       required: false
     - id: 17
       name: dependent_email
-      label: dependent_email
+      label: Dependent's Email
       hint: null
       type: email
       options: []
       required: false
     - id: 18
-      name: other_dependent_first_name
-      label: first_name
+      name: other_dependents
+      label: Additional Dependents
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: other_dependent_last_name
-      label: last_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: other_dependent_phone
-      label: phone_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: other_dependent_email
-      label: email
-      hint: null
-      type: email
-      options: []
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
       required: false

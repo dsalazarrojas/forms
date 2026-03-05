@@ -18,10 +18,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Manager''}'
-      - '{''label'': ''Team Leader''}'
-      - '{''label'': ''HR''}'
-      - '{''label'': ''Other''}'
+      - Manager
+      - Team Leader
+      - HR
+      - Other
       required: false
     - id: 3
       name: division
@@ -38,10 +38,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Recruiting''}'
-      - '{''label'': ''Hiring''}'
-      - '{''label'': ''Training''}'
-      - '{''label'': ''Other''}'
+      - Recruiting
+      - Hiring
+      - Training
+      - Other
       required: false
     - id: 5
       name: description
@@ -56,8 +56,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''chatjimmy''}'
-      - '{''label'': ''Other''}'
+      - chatjimmy
+      - Other
       required: false
     - id: 7
       name: date
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Open''}'
-      - '{''label'': ''Closed''}'
-      - '{''label'': ''In Progress''}'
+      - Open
+      - Closed
+      - In Progress
       required: false
     - id: 9
       name: priority
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
+      - Low
+      - High
+      - Medium
       required: false
     - id: 10
       name: resolution

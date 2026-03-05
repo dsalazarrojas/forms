@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Q1 2024''}'
-      - '{''id'': 2, ''name'': ''Q2 2024''}'
-      - '{''id'': 3, ''name'': ''Q3 2024''}'
-      - '{''id'': 4, ''name'': ''Q4 2024''}'
+      - Q1 2024
+      - Q2 2024
+      - Q3 2024
+      - Q4 2024
       required: false
     - id: 3
       name: trend_visibility
@@ -97,13 +97,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''I have read and understand the terms of this form
-        submission''}'
-      - '{''id'': 2, ''name'': ''I understand that this form submission is used for
-        internal purposes only''}'
-      - '{''id'': 14, ''name'': ''platform_metrics_report_form_submit_confirmation''}'
-      - '{''id'': 15, ''name'': ''platform_metrics_report_form_submit_confirmation''}'
-      - '{''id'': 16, ''name'': ''platform_metrics_report_form_submit_confirmation_2''}'
+      - I have read and understand the terms of this form submission
+      - I understand that this form submission is used for internal purposes only
+      - platform metrics report form submit confirmation
+      - platform metrics report form submit confirmation 2
       required: false
     - id: 14
       name: submission_date

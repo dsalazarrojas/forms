@@ -5,199 +5,168 @@ inputSchema:
     pages:
     - id: 1
       name: store_name
-      label: store_name
-      hint: null
+      label: Store Name
+      hint: Enter the name of the store
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: department
-      label: department
-      hint: null
+      label: Department
+      hint: Select the department
       type: select_one
       options:
-      - '{''value'': ''Men''}'
-      - '{''value'': ''Women''}'
-      required: false
+      - Men
+      - Women
+      required: true
     - id: 3
       name: category
-      label: category
-      hint: null
+      label: Category
+      hint: Select the category
       type: select_multiple
       options:
-      - '{''value'': ''Tops''}'
-      - '{''value'': ''Bottoms''}'
-      - '{''value'': ''Dresses''}'
-      required: false
+      - Tops
+      - Bottoms
+      - Dresses
+      required: true
     - id: 4
       name: request_date
-      label: request_date
-      hint: null
+      label: Request Date
+      hint: Enter the request date
       type: date
       options: []
-      required: false
+      required: true
     - id: 5
       name: delivery_date
-      label: delivery_date
-      hint: null
+      label: Delivery Date
+      hint: Enter the delivery date
       type: date
       options: []
-      required: false
+      required: true
     - id: 6
       name: delivery_time
-      label: delivery_time
-      hint: null
+      label: Delivery Time
+      hint: Enter the delivery time
       type: time
       options: []
-      required: false
+      required: true
     - id: 7
       name: quantity
-      label: quantity
-      hint: null
+      label: Quantity
+      hint: Enter the quantity
       type: number
       options: []
-      required: false
+      required: true
     - id: 8
       name: contact_name
-      label: contact_name
-      hint: null
+      label: Contact Name
+      hint: Enter the contact name
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
       name: phone_number
-      label: phone_number
-      hint: null
+      label: Phone Number
+      hint: Enter the phone number
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
       name: email_address
-      label: email_address
-      hint: null
+      label: Email Address
+      hint: Enter the email address
       type: email
       options: []
-      required: false
+      required: true
     - id: 11
       name: store_number
-      label: store_number
-      hint: null
+      label: Store Number
+      hint: Select the store number
       type: select_one
       options:
-      - '{''value'': ''Store 1''}'
-      - '{''value'': ''Store 2''}'
-      required: false
+      - Store 1
+      - Store 2
+      required: true
     - id: 12
       name: location
-      label: location
-      hint: null
+      label: Location
+      hint: Select the location
       type: select_multiple
       options:
-      - '{''value'': ''Location 1''}'
-      - '{''value'': ''Location 2''}'
-      required: false
+      - Location 1
+      - Location 2
+      required: true
     - id: 13
+      name: approval_status
+      label: Approval Status
+      hint: Select the approval status
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 14
+      name: approval_by
+      label: Approval By
+      hint: Select the approval by
+      type: select_one
+      options:
+      - John
+      - Jane
+      required: true
+    - id: 15
+      name: delivery_confirmation
+      label: Delivery Confirmation
+      hint: Select the delivery confirmation
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      required: true
+    - id: 16
+      name: delivery_notes
+      label: Delivery Notes
+      hint: Enter the delivery notes
+      type: note
+      options: []
+      required: true
+    - id: 17
       name: remarks
-      label: remarks
-      hint: null
+      label: Remarks
+      hint: Enter any remarks
       type: note
       options: []
       required: false
-    - id: 14
-      name: approval_status
-      label: approval_status
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Rejected''}'
-      required: false
-    - id: 15
-      name: approval_by
-      label: approval_by
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''John''}'
-      - '{''value'': ''Jane''}'
-      required: false
-    - id: 16
+    - id: 18
       name: approval_date
-      label: approval_date
-      hint: null
+      label: Approval Date
+      hint: Enter the approval date
       type: date
       options: []
       required: false
-    - id: 17
-      name: delivery_confirmation
-      label: delivery_confirmation
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Confirmed''}'
-      - '{''value'': ''Not Confirmed''}'
-      required: false
-    - id: 18
-      name: delivery_confirmation_by
-      label: delivery_confirmation_by
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''John''}'
-      - '{''value'': ''Jane''}'
-      required: false
     - id: 19
       name: delivery_confirmation_date
-      label: delivery_confirmation_date
-      hint: null
+      label: Delivery Confirmation Date
+      hint: Enter the delivery confirmation date
       type: date
       options: []
       required: false
     - id: 20
-      name: delivery_notes
-      label: delivery_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: remarks
-      label: remarks
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: store_name
-      label: store_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: department
-      label: department
-      hint: null
+      name: delivery_confirmation_by
+      label: Delivery Confirmation By
+      hint: Select the delivery confirmation by
       type: select_one
       options:
-      - '{''value'': ''Men''}'
-      - '{''value'': ''Women''}'
+      - John
+      - Jane
       required: false
-    - id: 24
-      name: category
-      label: category
-      hint: null
-      type: select_multiple
+    - id: 21
+      name: delivery_confirmation_status
+      label: Delivery Confirmation Status
+      hint: Select the delivery confirmation status
+      type: select_one
       options:
-      - '{''value'': ''Tops''}'
-      - '{''value'': ''Bottoms''}'
-      - '{''value'': ''Dresses''}'
-      required: false
-    - id: 25
-      name: quantity
-      label: quantity
-      hint: null
-      type: number
-      options: []
+      - Confirmed
+      - Not Confirmed
       required: false

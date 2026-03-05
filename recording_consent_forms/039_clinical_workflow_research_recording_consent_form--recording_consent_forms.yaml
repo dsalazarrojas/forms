@@ -1,347 +1,337 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Clinical Workflow Research Recording Consent Form
     pages:
-      - id: 1
-        name: consent_header
-        label: Clinical Workflow Research Recording Consent Form
-        hint: This form obtains consent for audio or video recording of clinical workflow for research purposes
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: study_title
-        label: Study Title
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: study_id
-        label: Study ID
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: principal_investigator
-        label: Principal Investigator
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: institution
-        label: Institution or Facility
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: participant_name
-        label: Participant Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: participant_role
-        label: Your Role
-        hint: null
-        type: select_one
-        options:
-          - Physician
-          - Nurse
-          - Nurse Practitioner
-          - Physician Assistant
-          - Pharmacist
-          - Technician
-          - Therapist
-          - Administrative Staff
-          - Support Staff
-          - Other
-        required: true
-      - id: 8
-        name: department
-        label: Department or Unit
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: recording_purpose
-        label: I Understand the Purpose of Recording
-        hint: To study clinical workflow patterns
-        type: select_one
-        options:
-          - Yes I Understand
-          - No I Need More Information
-        required: true
-      - id: 10
-        name: recording_type
-        label: Types of Recording
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Video Recording
-          - Audio Recording
-          - Screen Capture
-          - Motion Tracking
-          - Other
-        required: true
-      - id: 11
-        name: recording_locations
-        label: Recording Locations
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 12
-        name: recording_duration
-        label: I Understand the Recording Duration
-        hint: How long recordings will take place
-        type: select_one
-        options:
-          - Yes I Understand
-          - No I Need More Information
-        required: true
-      - id: 13
-        name: recording_schedule
-        label: Recording Schedule
-        hint: When recordings will occur
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: what_will_be_recorded
-        label: I Understand What Will Be Recorded
-        hint: Activities interactions etc.
-        type: select_one
-        options:
-          - Yes I Understand
-          - No I Need More Information
-        required: true
-      - id: 15
-        name: patient_interactions
-        label: I Understand How Patient Interactions Will Be Handled
-        hint: Blurring pausing etc.
-        type: select_one
-        options:
-          - Yes I Understand
-          - No I Need More Information
-        required: true
-      - id: 16
-        name: phi_protection
-        label: I Understand How PHI Will Be Protected
-        hint: Protected health information
-        type: select_one
-        options:
-          - Yes I Understand
-          - No I Need More Information
-        required: true
-      - id: 17
-        name: data_storage
-        label: I Understand How Recordings Will Be Stored
-        hint: Secure servers encryption etc.
-        type: select_one
-        options:
-          - Yes I Understand
-          - No I Need More Information
-        required: true
-      - id: 18
-        name: data_access
-        label: I Understand Who Will Have Access to Recordings
-        hint: null
-        type: select_one
-        options:
-          - Yes I Understand
-          - No I Need More Information
-        required: true
-      - id: 19
-        name: data_retention
-        label: I Understand How Long Recordings Will Be Kept
-        hint: Retention period
-        type: select_one
-        options:
-          - Yes I Understand
-          - No I Need More Information
-        required: true
-      - id: 20
-        name: data_destruction
-        label: I Understand How Recordings Will Be Destroyed
-        hint: At end of retention period
-        type: select_one
-        options:
-          - Yes I Understand
-          - No I Need More Information
-        required: true
-      - id: 21
-        name: usage_of_recordings
-        label: I Understand How Recordings Will Be Used
-        hint: Analysis presentations publications
-        type: select_one
-        options:
-          - Yes I Understand
-          - No I Need More Information
-        required: true
-      - id: 22
-        name: publication_consent
-        label: I Consent to Use of De-identified Clips in Publications
-        hint: For educational or research purposes
-        type: select_one
-        options:
-          - Yes I Consent
-          - No I Do Not Consent
-        required: true
-      - id: 23
-        name: presentation_consent
-        label: I Consent to Use of De-identified Clips in Presentations
-        hint: At conferences or meetings
-        type: select_one
-        options:
-          - Yes I Consent
-          - No I Do Not Consent
-        required: true
-      - id: 24
-        name: voluntary_participation
-        label: I Understand Participation Is Voluntary
-        hint: null
-        type: select_one
-        options:
-          - Yes I Understand
-          - No I Need More Information
-        required: true
-      - id: 25
-        name: right_to_pause_recording
-        label: I Understand I Can Request to Pause Recording
-        hint: At any time
-        type: select_one
-        options:
-          - Yes I Understand
-          - No I Need More Information
-        required: true
-      - id: 26
-        name: right_to_withdraw
-        label: I Understand I Can Withdraw at Any Time
-        hint: null
-        type: select_one
-        options:
-          - Yes I Understand
-          - No I Need More Information
-        required: true
-      - id: 27
-        name: employment_not_affected
-        label: I Understand My Employment Will Not Be Affected
-        hint: By participation decision
-        type: select_one
-        options:
-          - Yes I Understand
-          - No I Need More Information
-        required: true
-      - id: 28
-        name: contact_information
-        label: I Have Contact Information for Questions
-        hint: null
-        type: select_one
-        options:
-          - Yes I Have It
-          - No I Need It
-        required: true
-      - id: 29
-        name: questions_answered
-        label: Have All Your Questions Been Answered
-        hint: null
-        type: select_one
-        options:
-          - Yes All Questions Answered
-          - Most Questions Answered
-          - I Still Have Questions
-        required: true
-      - id: 30
-        name: remaining_questions
-        label: Please List Remaining Questions
-        hint: If any
-        type: text
-        options: []
-        required: false
-      - id: 31
-        name: copy_of_form
-        label: Have You Received a Copy of This Form
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Will Receive Later
-        required: true
-      - id: 32
-        name: participant_decision
-        label: Your Decision
-        hint: null
-        type: select_one
-        options:
-          - I Agree to Participate
-          - I Do Not Agree to Participate
-          - I Need More Time to Decide
-        required: true
-      - id: 33
-        name: participant_signature
-        label: Participant Signature
-        hint: Type full name
-        type: text
-        options: []
-        required: true
-      - id: 34
-        name: signature_date
-        label: Date of Signature
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 35
-        name: witness_name
-        label: Witness Name
-        hint: If applicable
-        type: text
-        options: []
-        required: false
-      - id: 36
-        name: witness_signature
-        label: Witness Signature
-        hint: Type full name
-        type: text
-        options: []
-        required: false
-      - id: 37
-        name: investigator_name
-        label: Investigator Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 38
-        name: investigator_signature
-        label: Investigator Signature
-        hint: Type full name
-        type: text
-        options: []
-        required: true
-      - id: 39
-        name: investigator_signature_date
-        label: Date
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: consent_header
+      label: Clinical Workflow Research Recording Consent Form
+      hint: This form obtains consent for audio or video recording of clinical workflow
+        for research purposes
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_title
+      label: Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: study_id
+      label: Study ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: principal_investigator
+      label: Principal Investigator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: institution
+      label: Institution or Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_role
+      label: Your Role
+      hint: null
+      type: select_one
+      options:
+      - Physician
+      - Nurse
+      - Nurse Practitioner
+      - Physician Assistant
+      - Pharmacist
+      - Technician
+      - Therapist
+      - Administrative Staff
+      - Support Staff
+      - Other
+      required: true
+    - id: 8
+      name: department
+      label: Department or Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: recording_purpose
+      label: I Understand the Purpose of Recording
+      hint: To study clinical workflow patterns
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Information
+      required: true
+    - id: 10
+      name: recording_type
+      label: Types of Recording
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Video Recording
+      - Audio Recording
+      - Screen Capture
+      - Motion Tracking
+      - Other
+      required: true
+    - id: 11
+      name: recording_locations
+      label: Recording Locations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recording_duration
+      label: I Understand the Recording Duration
+      hint: How long recordings will take place
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Information
+      required: true
+    - id: 13
+      name: recording_schedule
+      label: Recording Schedule
+      hint: When recordings will occur
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: what_will_be_recorded
+      label: I Understand What Will Be Recorded
+      hint: Activities interactions etc.
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Information
+      required: true
+    - id: 15
+      name: patient_interactions
+      label: I Understand How Patient Interactions Will Be Handled
+      hint: Blurring pausing etc.
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Information
+      required: true
+    - id: 16
+      name: phi_protection
+      label: I Understand How PHI Will Be Protected
+      hint: Protected health information
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Information
+      required: true
+    - id: 17
+      name: data_storage
+      label: I Understand How Recordings Will Be Stored
+      hint: Secure servers encryption etc.
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Information
+      required: true
+    - id: 18
+      name: data_access
+      label: I Understand Who Will Have Access to Recordings
+      hint: null
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Information
+      required: true
+    - id: 19
+      name: data_retention
+      label: I Understand How Long Recordings Will Be Kept
+      hint: Retention period
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Information
+      required: true
+    - id: 20
+      name: data_destruction
+      label: I Understand How Recordings Will Be Destroyed
+      hint: At end of retention period
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Information
+      required: true
+    - id: 21
+      name: usage_of_recordings
+      label: I Understand How Recordings Will Be Used
+      hint: Analysis presentations publications
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Information
+      required: true
+    - id: 22
+      name: publication_consent
+      label: I Consent to Use of De-identified Clips in Publications
+      hint: For educational or research purposes
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 23
+      name: presentation_consent
+      label: I Consent to Use of De-identified Clips in Presentations
+      hint: At conferences or meetings
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 24
+      name: voluntary_participation
+      label: I Understand Participation Is Voluntary
+      hint: null
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Information
+      required: true
+    - id: 25
+      name: right_to_pause_recording
+      label: I Understand I Can Request to Pause Recording
+      hint: At any time
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Information
+      required: true
+    - id: 26
+      name: right_to_withdraw
+      label: I Understand I Can Withdraw at Any Time
+      hint: null
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Information
+      required: true
+    - id: 27
+      name: employment_not_affected
+      label: I Understand My Employment Will Not Be Affected
+      hint: By participation decision
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Information
+      required: true
+    - id: 28
+      name: contact_information
+      label: I Have Contact Information for Questions
+      hint: null
+      type: select_one
+      options:
+      - Yes I Have It
+      - No I Need It
+      required: true
+    - id: 29
+      name: questions_answered
+      label: Have All Your Questions Been Answered
+      hint: null
+      type: select_one
+      options:
+      - Yes All Questions Answered
+      - Most Questions Answered
+      - I Still Have Questions
+      required: true
+    - id: 30
+      name: remaining_questions
+      label: Please List Remaining Questions
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: copy_of_form
+      label: Have You Received a Copy of This Form
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Will Receive Later
+      required: true
+    - id: 32
+      name: participant_decision
+      label: Your Decision
+      hint: null
+      type: select_one
+      options:
+      - I Agree to Participate
+      - I Do Not Agree to Participate
+      - I Need More Time to Decide
+      required: true
+    - id: 33
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: witness_signature
+      label: Witness Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: investigator_name
+      label: Investigator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: investigator_signature
+      label: Investigator Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: investigator_signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

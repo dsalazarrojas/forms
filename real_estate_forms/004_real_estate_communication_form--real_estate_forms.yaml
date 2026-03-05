@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''House''}'
-      - '{''label'': ''Apartment''}'
-      - '{''label'': ''Condo''}'
+      - House
+      - Apartment
+      - Condo
       required: true
     - id: 3
       name: address
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Sales''}'
-      - '{''label'': ''Rental''}'
-      - '{''label'': ''Other''}'
+      - Sales
+      - Rental
+      - Other
       required: false
     - id: 10
       name: appointment_time
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: comments
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''ID''}'
-      - '{''label'': ''Passport''}'
-      - '{''label'': ''Other''}'
+      - ID
+      - Passport
+      - Other
       required: false
     - id: 16
       name: upload
@@ -125,9 +125,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Resume''}'
-      - '{''label'': ''ID Scan''}'
-      - '{''label'': ''Other''}'
+      - Resume
+      - ID Scan
+      - Other
       required: false
     - id: 17
       name: upload_file
@@ -142,8 +142,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: submit

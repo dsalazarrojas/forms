@@ -20,22 +20,15 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: contact_info
       label: Contact Information
-      hint: null
+      hint: Please enter your name, email, and phone number separated by comma
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: questions
-      label: Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: rsvp
       label: RSVP
       hint: null
@@ -45,28 +38,21 @@ inputSchema:
       - RSVP No
       - Unable to Attend
       required: true
+    - id: 4
+      name: questions
+      label: Questions
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 5
-      name: questions_2
-      label: Questions 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: additional_questions
-      label: Additional Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: notes
       label: Notes
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
+    - id: 6
       name: contact_preferences
       label: Contact Preferences
       hint: null
@@ -75,123 +61,31 @@ inputSchema:
       - Email
       - Phone
       - Both
+      required: true
+    - id: 7
+      name: question_1
+      label: Would you like to receive updates on this event?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 8
+      name: question_2
+      label: Would you like to provide feedback on this event?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 9
-      name: question_1
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: question_2
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
       name: question_3
-      label: How would you rate the event?
+      label: Would you like to suggest a new event topic?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: question_4
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: question_5
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: question_6
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: question_7
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: question_8
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: question_9
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: question_10
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: question_11
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: question_12
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: question_13
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: question_14
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: question_15
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: question_16
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: question_17
-      label: How would you rate the event?
-      hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false

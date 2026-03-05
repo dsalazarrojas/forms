@@ -12,174 +12,107 @@ inputSchema:
       required: true
     - id: 2
       name: site_location
-      label: site_location
+      label: Site Location
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: date
-      label: date
+      label: Date of Report
       hint: null
       type: date
       options: []
       required: true
     - id: 4
       name: equipment_used
-      label: equipment_used
+      label: Equipment Used
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 5
       name: incident_reported
-      label: incident_reported
+      label: Incident Reported
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 6
       name: notes
-      label: notes
+      label: Notes
       hint: null
       type: note
       options: []
       required: true
     - id: 7
       name: comments
-      label: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: true
     - id: 8
       name: submitted_by
-      label: submitted_by
+      label: Submitted By
       hint: null
-      type: email
+      type: text
       options: []
       required: true
     - id: 9
-      name: submitted
-      label: submitted
+      name: location_map
+      label: Location Map
       hint: null
-      type: time
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 10
-      name: prophets
-      label: prophets
+      name: submitted_date
+      label: Date of Submission
       hint: null
-      type: number
+      type: date
       options: []
       required: true
     - id: 11
-      name: site_activity
-      label: site_activity
+      name: submitted
+      label: User Contact Info
       hint: null
       type: text
       options: []
       required: true
     - id: 12
-      name: comments
-      label: comments
+      name: submitted_date_2
+      label: Submission Date
       hint: null
-      type: text
+      type: date
       options: []
       required: true
     - id: 13
       name: submitted_by_name
-      label: submitted_by_name
+      label: User Name
       hint: null
       type: text
       options: []
       required: true
     - id: 14
       name: submitted_by_email
-      label: submitted_by_email
+      label: User Email
       hint: null
-      type: text
+      type: email
       options: []
       required: true
     - id: 15
       name: submitted_by_phone
-      label: submitted_by_phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: location_map
-      label: location_map
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: true
-    - id: 17
-      name: submitted_date
-      label: submitted_date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 18
-      name: submitted_by_user
-      label: submitted_by_user
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: submitted
-      label: submitted
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 20
-      name: submitted_by_name
-      label: submitted_by_name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: submitted_by_email
-      label: submitted_by_email
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: submitted_by_phone
-      label: submitted_by_phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: submitted
-      label: submitted
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 24
-      name: submitted_by_name
-      label: submitted_by_name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: submitted_by_email
-      label: submitted_by_email
+      label: User Phone
       hint: null
       type: text
       options: []

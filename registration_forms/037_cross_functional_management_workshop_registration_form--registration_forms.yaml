@@ -65,11 +65,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Team Member''}'
-      - '{''id'': 2, ''label'': ''Team Lead''}'
-      - '{''id'': 3, ''label'': ''Participant''}'
-      - '{''id'': 4, ''label'': ''Speaker''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Team Member
+      - Team Lead
+      - Participant
+      - Speaker
+      - Other
       required: false
     - id: 10
       name: participant_availability
@@ -77,10 +77,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening''}'
-      - '{''id'': 4, ''label'': ''All''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - All
       required: true
     - id: 11
       name: submission_status
@@ -88,10 +88,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not Started''}'
-      - '{''id'': 2, ''label'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Completed''}'
-      - '{''id'': 4, ''label'': ''Cancelled''}'
+      - Not Started
+      - In Progress
+      - Completed
+      - Cancelled
       required: true
     - id: 12
       name: submission_date

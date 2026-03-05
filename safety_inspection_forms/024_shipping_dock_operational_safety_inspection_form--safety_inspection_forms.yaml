@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''North Dock''}'
-      - '{''value'': ''South Dock''}'
-      - '{''value'': ''East Dock''}'
-      - '{''value'': ''West Dock''}'
+      - North Dock
+      - South Dock
+      - East Dock
+      - West Dock
       required: true
     - id: 3
       name: hazards
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Spill''}'
-      - '{''value'': ''Fall''}'
-      - '{''value'': ''Fire''}'
+      - Spill
+      - Fall
+      - Fire
       required: true
     - id: 4
       name: findings
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''CA''}'
-      - '{''value'': ''NY''}'
-      - '{''value'': ''TX''}'
+      - CA
+      - NY
+      - TX
       required: false
     - id: 21
       name: location_country

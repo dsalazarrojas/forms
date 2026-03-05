@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Chat''}'
-      - '{''label'': ''SMS''}'
+      - Email
+      - Chat
+      - SMS
       required: false
     - id: 3
       name: threshold_action
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Send Notification''}'
-      - '{''label'': ''Send Alert''}'
-      - '{''label'': ''Send Warning''}'
+      - Send Notification
+      - Send Alert
+      - Send Warning
       required: false
     - id: 4
       name: notification_method_details
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''seconds''}'
-      - '{''label'': ''minutes''}'
-      - '{''label'': ''hours''}'
+      - seconds
+      - minutes
+      - hours
       required: false
     - id: 10
       name: threshold_type
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Absolute''}'
-      - '{''label'': ''Relative''}'
+      - Absolute
+      - Relative
       required: false
     - id: 11
       name: threshold_condition
@@ -90,10 +90,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Above''}'
-      - '{''label'': ''Below''}'
-      - '{''label'': ''Between''}'
-      - '{''label'': ''Not Above''}'
+      - Above
+      - Below
+      - Between
+      - Not Above
       required: false
     - id: 12
       name: alert_level
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 13
       name: notification_method_2
@@ -111,8 +111,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Chat''}'
+      - Email
+      - Chat
       required: false
     - id: 14
       name: notification_method_3
@@ -120,7 +120,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''SMS''}'
+      - SMS
       - Other
       required: false
     - id: 15
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 17
       name: threshold_interval
@@ -146,9 +146,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 18
       name: threshold_description

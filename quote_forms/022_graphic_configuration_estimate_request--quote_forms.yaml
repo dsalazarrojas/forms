@@ -93,8 +93,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Agency''}'
-      - '{''id'': 2, ''label'': ''Team''}'
+      - Agency
+      - Team
       required: false
     - id: 14
       name: team_members
@@ -158,9 +158,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Graphic''}'
-      - '{''id'': 2, ''label'': ''Digital''}'
-      - '{''id'': 3, ''label'': ''Branding''}'
+      - Graphic
+      - Digital
+      - Branding
       required: false
     - id: 23
       name: design_type_2
@@ -168,9 +168,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 4, ''label'': ''Brochure''}'
-      - '{''id'': 5, ''label'': ''Print Ad''}'
-      - '{''id'': 6, ''label'': ''Packaging''}'
+      - Brochure
+      - Print Ad
+      - Packaging
       required: false
     - id: 24
       name: submitter_department

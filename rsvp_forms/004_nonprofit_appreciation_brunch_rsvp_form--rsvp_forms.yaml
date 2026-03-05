@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Phone''}'
-      - '{''id'': 2, ''label'': ''Email''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Phone
+      - Email
+      - Other
       required: false
     - id: 5
       name: rsvp_status
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Attending''}'
-      - '{''id'': 2, ''label'': ''Declined''}'
-      - '{''id'': 3, ''label'': ''Maybe''}'
+      - Attending
+      - Declined
+      - Maybe
       required: false
     - id: 6
       name: additional_guests

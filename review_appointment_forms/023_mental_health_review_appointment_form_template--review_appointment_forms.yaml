@@ -4,192 +4,130 @@ inputSchema:
     title: mental_health_review_appointment_form_template
     pages:
     - id: 1
-      name: mental_health_review_appointment_form_template_page_1
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_1
+      label: Patient Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: mental_health_review_appointment_form_template_page_2
-      label: mental_health_review_appointment_form_template
+      name: mental_health_review_appointment_form_page_2
+      label: Contact Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: mental_health_review_appointment_form_template_page_3
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_3
+      label: Medical History
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: mental_health_review_appointment_form_template_page_4
-      label: mental_health_review_appointment_form_template
+      name: mental_health_review_appointment_form_page_4
+      label: Current Medications
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: mental_health_review_appointment_form_template_page_5
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_5
+      label: Reason for Visit
       hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: mental_health_review_appointment_form_template_page_6
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_6
+      label: Preferred Appointment Time
       hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
+      type: time
+      options: []
+      required: true
     - id: 7
-      name: mental_health_review_appointment_form_template_page_7
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_7
+      label: Availability for Follow-up Visits
       hint: null
-      type: time
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      required: true
     - id: 8
-      name: mental_health_review_appointment_form_template_page_8
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_8
+      label: Notes from Previous Visits
       hint: null
       type: note
       options: []
-      required: false
+      required: true
     - id: 9
-      name: mental_health_review_appointment_form_template_page_9
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_9
+      label: Contact Information (Emergency Contact)
       hint: null
-      type: email
+      type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: mental_health_review_appointment_form_template_page_10
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_10
+      label: Insurance Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: mental_health_review_appointment_form_template_page_11
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_11
+      label: Medical Provider's Availability
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: mental_health_review_appointment_form_template_page_12
-      label: mental_health_review_appointment_form_template
-      hint: This is another page with a hint.
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
+      name: mental_health_review_appointment_form_page_12
+      label: Patient's Goals and Objectives
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 13
-      name: mental_health_review_appointment_form_template_page_13
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_13
+      label: Mental Health Concerns
       hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 14
-      name: mental_health_review_appointment_form_template_page_14
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_14
+      label: Treatment Options
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
+      required: true
     - id: 15
-      name: mental_health_review_appointment_form_template_page_15
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_15
+      label: Progress Monitoring
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 16
-      name: mental_health_review_appointment_form_template_page_16
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_16
+      label: Follow-up Schedule
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 17
-      name: mental_health_review_appointment_form_template_page_17
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_17
+      label: Patient's Feedback
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
+      required: true
     - id: 18
-      name: mental_health_review_appointment_form_template_page_18
-      label: mental_health_review_appointment_form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: mental_health_review_appointment_form_template_page_19
-      label: mental_health_review_appointment_form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: mental_health_review_appointment_form_template_page_20
-      label: mental_health_review_appointment_form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: mental_health_review_appointment_form_template_page_21
-      label: mental_health_review_appointment_form
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: mental_health_review_appointment_form_template_page_22
-      label: mental_health_review_appointment_form
+      name: mental_health_review_appointment_form_page_18
+      label: Additional Comments
       hint: null
       type: text
       options: []
-      required: false
-    - id: 23
-      name: mental_health_review_appointment_form_template_page_23
-      label: mental_health_review_appointment_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: mental_health_review_appointment_form_template_page_24
-      label: mental_health_review_appointment_form
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: mental_health_review_appointment_form_template_page_25
-      label: mental_health_review_appointment_form
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

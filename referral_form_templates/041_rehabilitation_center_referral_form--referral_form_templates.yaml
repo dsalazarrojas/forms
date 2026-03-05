@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Self''}'
-      - '{''value'': ''Family member''}'
-      - '{''value'': ''Doctor''}'
-      - '{''value'': ''Insurance company''}'
+      - Self
+      - Family member
+      - Doctor
+      - Insurance company
       required: true
     - id: 8
       name: referral_date
@@ -118,9 +118,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Male''}'
-      - '{''value'': ''Female''}'
-      - '{''value'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: true
     - id: 17
       name: patient_race
@@ -128,10 +128,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''White''}'
-      - '{''value'': ''Black''}'
-      - '{''value'': ''Asian''}'
-      - '{''value'': ''Other''}'
+      - White
+      - Black
+      - Asian
+      - Other
       required: true
     - id: 18
       name: patient_language
@@ -139,9 +139,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''English''}'
-      - '{''value'': ''Spanish''}'
-      - '{''value'': ''Other''}'
+      - English
+      - Spanish
+      - Other
       required: true
     - id: 19
       name: patient_ethnicity
@@ -149,10 +149,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Asian or Pacific Islander''}'
-      - '{''value'': ''White''}'
-      - '{''value'': ''Black''}'
-      - '{''value'': ''Other''}'
+      - Asian or Pacific Islander
+      - White
+      - Black
+      - Other
       required: true
     - id: 20
       name: primary_care_provider
@@ -160,9 +160,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Doctor''}'
-      - '{''value'': ''Nurse Practitioner''}'
-      - '{''value'': ''Clinic''}'
+      - Doctor
+      - Nurse Practitioner
+      - Clinic
       required: true
     - id: 21
       name: primary_care_facility
@@ -170,9 +170,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Hospital''}'
-      - '{''value'': ''Clinic''}'
-      - '{''value'': ''Other''}'
+      - Hospital
+      - Clinic
+      - Other
       required: true
     - id: 22
       name: primary_care_phone

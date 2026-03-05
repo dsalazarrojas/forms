@@ -11,202 +11,63 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 4
-      name: phone_number
-      label: Phone Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: workshop_attendance
+      name: workshop_attendance_single
       label: Workshop Attendance
       hint: null
       type: select_one
       options:
-      - '2022-09-01'
-      - '2022-09-02'
-      - '2022-09-03'
+      - Option A
+      - Option B
+      required: true
+    - id: 3
+      name: workshop_attendance_multiple
+      label: Workshop Attendance Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 4
+      name: workshop_participation
+      label: Workshop Participation
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 5
+      name: workshop_attendance_confirm
+      label: Workshop Attendance Confirm
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: true
     - id: 6
-      name: name
-      label: Name
+      name: repeat_workshop_attendance
+      label: Repeat Workshop Attendance
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 7
-      name: name
-      label: Name
+      name: repeat_workshop_participation
+      label: Repeat Workshop Participation
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 8
-      name: name
-      label: Name
+      name: repeat_personal_info
+      label: Repeat Personal Info
       hint: null
       type: text
       options: []
-      required: false
-    - id: 9
-      name: workshop_attendance
-      label: Workshop Attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 01-09-2022
-      - 02-09-2022
-      - 03-09-2022
-      required: true
-    - id: 10
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: workshop_attendance
-      label: Workshop Attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: workshop_attendance
-      label: Workshop Attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: workshop_attendance
-      label: Workshop Attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: workshop_attendance
-      label: Workshop Attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: workshop_attendance
-      label: Workshop Attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: workshop_attendance
-      label: Workshop Attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: workshop_attendance
-      label: Workshop Attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: workshop_attendance
-      label: Workshop Attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: workshop_attendance
-      label: Workshop Attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: workshop_attendance
-      label: Workshop Attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: workshop_attendance
-      label: Workshop Attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: workshop_attendance
-      label: Workshop Attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: workshop_attendance
-      label: Workshop Attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

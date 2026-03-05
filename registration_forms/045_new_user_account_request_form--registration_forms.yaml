@@ -4,192 +4,109 @@ inputSchema:
     title: New User Account Request Form
     pages:
     - id: 1
-      name: new_user_account_request_form
-      label: New User Account Request Form
-      hint: null
+      name: user_name
+      label: Enter your name
+      hint: Please enter your full name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: name
-      hint: Enter your name
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: email
-      label: email
-      hint: Enter your email
+      name: user_email
+      label: Enter your email
+      hint: Please enter your email
       type: email
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: user_password
+      label: Enter your password
+      hint: Please enter a password
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: password
-      label: password
-      hint: Enter your password
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: confirm_password
-      label: confirm_password
-      hint: Confirm your password
+      label: Confirm your password
+      hint: Please confirm your password
       type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: account_type
-      label: account_type
+      label: Select your account type
       hint: null
       type: select_one
       options:
       - New User
       - Returning User
       - Guest
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: account_preferences
-      label: account_preferences
-      hint: Select all that apply
+      label: Select your preferences
+      hint: null
       type: select_multiple
       options:
       - Customize my dashboard
       - Receive emails
       - Allow tracking
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: submit
-      label: submit
+      label: Submit
       hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Enter your phone number
+      hint: Please enter your phone number
       type: text
       options: []
       required: false
     - id: 9
-      name: name_2
-      label: name
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: email_2
-      label: email_2
-      hint: null
+      name: confirm_email
+      label: Confirm your email
+      hint: Please confirm your email
       type: email
+      options: []
+      required: true
+    - id: 10
+      name: password_2
+      label: Password 2
+      hint: null
+      type: text
       options: []
       required: false
     - id: 11
-      name: phone
-      label: phone
+      name: confirm_password_2
+      label: Confirm Password 2
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: submit_2
-      label: submit
+      name: account_preferences_2
+      label: Select your account preferences
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Customize my dashboard
+      - Receive emails
+      - Allow tracking
       required: false
     - id: 13
-      name: name_3
-      label: name
-      hint: null
+      name: user_phone
+      label: User Phone
+      hint: Please enter your phone number
       type: text
       options: []
       required: false
     - id: 14
-      name: email_3
-      label: email_3
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: confirm_email
-      label: confirm_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: password_2
-      label: password_2
-      hint: null
+      name: confirm_phone
+      label: Confirm your phone number
+      hint: Please confirm your phone number
       type: text
       options: []
-      required: false
-    - id: 17
-      name: confirm_password_2
-      label: confirm_password_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: account_preferences_2
-      label: account_preferences_2
-      hint: null
-      type: select_multiple
-      options:
-      - Customize my dashboard
-      - Receive emails
-      - Allow tracking
-      required: false
-    - id: 19
-      name: submit_3
-      label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: name_4
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: email_4
-      label: email_4
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: phone_2
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: submit_4
-      label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: account_type
-      label: account_type
-      hint: null
-      type: select_one
-      options:
-      - New User
-      - Returning User
-      - Guest
-      required: false
-    - id: 25
-      name: account_preferences
-      label: account_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - Customize my dashboard
-      - Receive emails
-      - Allow tracking
       required: false

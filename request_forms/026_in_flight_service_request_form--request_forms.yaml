@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Urgent'', ''label'': ''Urgent''}'
-      - '{''value'': ''Non-Urgent'', ''label'': ''Non-Urgent''}'
+      - Urgent
+      - Non-Urgent
       required: false
     - id: 4
       name: service_requested
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Departing'', ''label'': ''Departing''}'
-      - '{''value'': ''Delayed'', ''label'': ''Delayed''}'
-      - '{''value'': ''Arrived'', ''label'': ''Arrived''}'
+      - Departing
+      - Delayed
+      - Arrived
       required: false
     - id: 11
       name: service_type
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Catering'', ''label'': ''Catering''}'
-      - '{''value'': ''Cabin Crew'', ''label'': ''Cabin Crew''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Catering
+      - Cabin Crew
+      - Other
       required: false
     - id: 12
       name: note

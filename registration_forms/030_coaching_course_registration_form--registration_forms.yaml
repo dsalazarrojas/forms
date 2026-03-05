@@ -209,8 +209,8 @@ inputSchema:
       hint: Registering before deadline
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 26
       name: group_discount
@@ -218,8 +218,8 @@ inputSchema:
       hint: Multiple people from same organization
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 27
       name: how_heard_about_course
@@ -248,7 +248,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Accept
-      - false
+      - 'False'
       required: true
     - id: 30
       name: cancellation_policy

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Single''}'
-      - '{''id'': 2, ''label'': ''Double''}'
-      - '{''id'': 3, ''label'': ''Suite''}'
+      - Single
+      - Double
+      - Suite
       required: false
     - id: 3
       name: room_number
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Laundry''}'
-      - '{''id'': 2, ''label'': ''Wi-Fi''}'
-      - '{''id'': 3, ''label'': ''Room Service''}'
-      - '{''id'': 4, ''label'': ''Towels''}'
+      - Laundry
+      - Wi-Fi
+      - Room Service
+      - Towels
       required: false
     - id: 7
       name: inquiry_type
@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''General Inquiry''}'
-      - '{''id'': 2, ''label'': ''Special Request''}'
+      - General Inquiry
+      - Special Request
       required: false
     - id: 8
       name: special_requests

@@ -9,54 +9,57 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: course_details
       label: Course Details
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 3
-      name: date
-      label: Date
+      name: submission_date
+      label: Submission Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
-      name: time
-      label: Time
+      name: submission_time
+      label: Submission Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 5
       name: comments
       label: Comments
       hint: null
       type: note
       options: []
-      required: false
+      required: true
     - id: 6
       name: submitted_by
       label: Submitted By
       hint: null
       type: select_one
       options:
-      - User A
-      - User B
-      - User C
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 7
       name: email_sent
       label: Email Sent
       hint: null
       type: select_one
       options:
-      - 'True'
-      - 'False'
-      required: false
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 8
       name: email_sent_details
       label: Email Sent Details
@@ -65,135 +68,9 @@ inputSchema:
       options: []
       required: false
     - id: 9
-      name: comments
-      label: Comments
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: note
       options: []
-      required: false
-    - id: 10
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: date_sent
-      label: Date Sent
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: time_sent
-      label: Time Sent
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: email_sent_details
-      label: Email Sent Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: email_sent
-      label: Email Sent
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: date_sent
-      label: Date Sent
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: time_sent
-      label: Time Sent
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: email_sent
-      label: Email Sent
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

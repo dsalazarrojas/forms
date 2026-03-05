@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Actor'', ''value'': ''actor''}'
-      - '{''id'': 2, ''label'': ''Director'', ''value'': ''director''}'
-      - '{''id'': 3, ''label'': ''Producer'', ''value'': ''producer''}'
+      - Actor
+      - Director
+      - Producer
       required: false
     - id: 6
       name: time
@@ -64,14 +64,14 @@ inputSchema:
       required: false
     - id: 9
       name: event_date
-      label: Date
+      label: Event Date
       hint: null
       type: date
       options: []
       required: false
     - id: 10
       name: event_time
-      label: Time
+      label: Event Time
       hint: null
       type: time
       options: []
@@ -117,28 +117,28 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: confirm_participation_hint
-      label: Confirm participation
+      label: Confirm Participation Hint
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: confirm_participation_label
-      label: Confirm participation
+      label: Confirm Participation Label
       hint: null
       type: text
       options: []
       required: false
     - id: 19
       name: confirm_participation_label_hint
-      label: Confirm participation
+      label: Confirm Participation Label Hint
       hint: null
       type: text
       options: []
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Open'', ''value'': ''open''}'
-      - '{''id'': 2, ''label'': ''Closed'', ''value'': ''closed''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - Open
+      - Closed
+      - In Progress
       required: false
     - id: 21
       name: participant_status
@@ -159,30 +159,30 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Attending'', ''value'': ''attending''}'
-      - '{''id'': 2, ''label'': ''Not Attending'', ''value'': ''not_attending''}'
-      - '{''id'': 3, ''label'': ''Pending'', ''value'': ''pending''}'
+      - Attending
+      - Not Attending
+      - Pending
       required: false
     - id: 22
       name: participant_status_hint
-      label: Participant status
+      label: Participant Status Hint
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Attending'', ''value'': ''attending''}'
-      - '{''id'': 2, ''label'': ''Not Attending'', ''value'': ''not_attending''}'
-      - '{''id'': 3, ''label'': ''Pending'', ''value'': ''pending''}'
+      - Attending
+      - Not Attending
+      - Pending
       required: false
     - id: 23
       name: participant_status_label
-      label: Participant status
+      label: Participant Status Label
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: participant_status_label_hint
-      label: Participant status
+      label: Participant Status Label Hint
       hint: null
       type: text
       options: []

@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Single''}'
-      - '{''label'': ''In a relationship''}'
-      - '{''label'': ''Engaged''}'
-      - '{''label'': ''Married''}'
+      - Single
+      - In a relationship
+      - Engaged
+      - Married
       required: true
     - id: 2
       name: how_did_you_meet
@@ -55,10 +55,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''3 months''}'
-      - '{''label'': ''6-12 months''}'
-      - '{''label'': ''1 year or more''}'
-      - '{''label'': ''Never''}'
+      - 3 months
+      - 6-12 months
+      - 1 year or more
+      - Never
       required: true
     - id: 8
       name: reasons_for_marriage
@@ -73,8 +73,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: premarital_coaching
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: marriage_readiness_level
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 12
       name: what_would_make_your_marriage_stronger

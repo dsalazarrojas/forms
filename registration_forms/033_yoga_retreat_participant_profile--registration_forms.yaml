@@ -51,11 +51,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''no_condition'', ''name'': ''No condition''}'
-      - '{''id'': 2, ''name'': ''HBP''}'
-      - '{''id'': 3, ''name'': ''Knee problems''}'
-      - '{''id'': 4, ''name'': ''Back problems''}'
-      - '{''id'': 5, ''name'': ''Other''}'
+      - No condition
+      - HBP
+      - Knee problems
+      - Back problems
+      - Other
       required: true
     - id: 8
       name: medical_device
@@ -63,10 +63,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Oxygen tank''}'
-      - '{''id'': 2, ''name'': ''Wheelchair''}'
-      - '{''id'': 3, ''name'': ''Crutches''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Oxygen tank
+      - Wheelchair
+      - Crutches
+      - Other
       required: false
     - id: 9
       name: medication

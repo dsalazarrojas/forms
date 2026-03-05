@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Investor''}'
-      - '{''label'': ''Attendee''}'
-      - '{''label'': ''Both''}'
+      - Investor
+      - Attendee
+      - Both
       required: false
     - id: 9
       name: company_representative
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: notes

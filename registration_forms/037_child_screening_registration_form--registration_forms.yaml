@@ -58,12 +58,9 @@ inputSchema:
       hint: Demographic info
       type: select_one
       options:
-      - label: Male
-        value: male
-      - label: Female
-        value: female
-      - label: Other
-        value: other
+      - Male
+      - Female
+      - Other
       required: false
     - id: 9
       name: section_screening_selection
@@ -78,16 +75,11 @@ inputSchema:
       hint: Select the primary assessment
       type: select_one
       options:
-      - label: Vision Screening
-        value: vision
-      - label: Hearing Screening
-        value: hearing
-      - label: Speech and Language
-        value: speech
-      - label: Developmental Milestone
-        value: developmental
-      - label: Dental Health
-        value: dental
+      - Vision Screening
+      - Hearing Screening
+      - Speech and Language
+      - Developmental Milestone
+      - Dental Health
       required: true
     - id: 11
       name: preferred_location
@@ -95,12 +87,9 @@ inputSchema:
       hint: Choose a convenient site
       type: select_one
       options:
-      - label: Main Medical Clinic
-        value: clinic
-      - label: School Site Location
-        value: school
-      - label: Community Center
-        value: community
+      - Main Medical Clinic
+      - School Site Location
+      - Community Center
       required: true
     - id: 12
       name: section_screening_history
@@ -115,10 +104,8 @@ inputSchema:
       hint: In the requested area
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: current_concerns

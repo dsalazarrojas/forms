@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''LTL''}'
-      - '{''id'': 2, ''label'': ''LCL''}'
-      - '{''id'': 3, ''label'': ''FTL''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - LTL
+      - LCL
+      - FTL
+      - Other
       required: false
     - id: 6
       name: pickup_date
@@ -111,11 +111,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''In Transit''}'
-      - '{''id'': 2, ''label'': ''Delivered''}'
-      - '{''id'': 3, ''label'': ''On Hold''}'
-      - '{''id'': 4, ''label'': ''Cancelled''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - In Transit
+      - Delivered
+      - On Hold
+      - Cancelled
+      - Other
       required: false
     - id: 16
       name: notes
@@ -172,9 +172,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Standard''}'
-      - '{''id'': 2, ''label'': ''Express''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Standard
+      - Express
+      - Other
       required: false
     - id: 24
       name: shipment_carrier
@@ -182,9 +182,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''UPS''}'
-      - '{''id'': 2, ''label'': ''FedEx''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - UPS
+      - FedEx
+      - Other
       required: false
     - id: 25
       name: shipment_tracking_number

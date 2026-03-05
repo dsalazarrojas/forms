@@ -30,12 +30,9 @@ inputSchema:
       hint: State at room temperature
       type: select_one
       options:
-      - label: Solid
-        value: solid
-      - label: Liquid
-        value: liquid
-      - label: Gas
-        value: gas
+      - Solid
+      - Liquid
+      - Gas
       required: true
     - id: 5
       name: ghs_classification
@@ -43,16 +40,11 @@ inputSchema:
       hint: Primary hazard category
       type: select_one
       options:
-      - label: Flammable
-        value: flammable
-      - label: Toxic
-        value: toxic
-      - label: Corrosive
-        value: corrosive
-      - label: Oxidizer
-        value: oxidizer
-      - label: Non-Hazardous
-        value: none
+      - Flammable
+      - Toxic
+      - Corrosive
+      - Oxidizer
+      - Non-Hazardous
       required: true
     - id: 6
       name: section_storage_location
@@ -81,14 +73,10 @@ inputSchema:
       hint: Select the unit used
       type: select_one
       options:
-      - label: Grams (g)
-        value: g
-      - label: Milliliters (ml)
-        value: ml
-      - label: Kilograms (kg)
-        value: kg
-      - label: Liters (L)
-        value: l
+      - Grams (g)
+      - Milliliters (ml)
+      - Kilograms (kg)
+      - Liters (L)
       required: true
     - id: 10
       name: expiration_date

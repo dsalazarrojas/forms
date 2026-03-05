@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: event_date
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: food_prefs
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Vegetarian''}'
-      - '{''id'': 2, ''label'': ''Non-Vegetarian''}'
-      - '{''id'': 3, ''label'': ''Gluten-Free''}'
+      - Vegetarian
+      - Non-Vegetarian
+      - Gluten-Free
       required: false
     - id: 11
       name: dietary_restrictions
@@ -100,8 +100,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''In-Person''}'
-      - '{''id'': 2, ''label'': ''Online''}'
+      - In-Person
+      - Online
       required: false
     - id: 14
       name: rsvp_comment
@@ -123,8 +123,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Event Type 1''}'
-      - '{''id'': 2, ''label'': ''Event Type 2''}'
+      - Event Type 1
+      - Event Type 2
       required: false
     - id: 17
       name: event_details
@@ -153,8 +153,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''dd/mm/yyyy''}'
-      - '{''id'': 2, ''label'': ''dd-mm-yyyy''}'
+      - dd/mm/yyyy
+      - dd-mm-yyyy
       required: false
     - id: 21
       name: attendee_attendance
@@ -162,6 +162,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Attendee 1''}'
-      - '{''id'': 2, ''label'': ''Attendee 2''}'
+      - Attendee 1
+      - Attendee 2
       required: false

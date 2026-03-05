@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''hydrant_1'', ''label'': ''Hydrant 1''}'
-      - '{''id'': 11, ''name'': ''hydrant_2'', ''label'': ''Hydrant 2''}'
-      - '{''id'': 12, ''name'': ''hydrant_3'', ''label'': ''Hydrant 3''}'
+      - Hydrant 1
+      - Hydrant 2
+      - Hydrant 3
       required: false
     - id: 3
       name: condition
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 20, ''name'': ''good'', ''label'': ''Good''}'
-      - '{''id'': 21, ''name'': ''fair'', ''label'': ''Fair''}'
-      - '{''id'': 22, ''name'': ''poor'', ''label'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 4
       name: notes
@@ -43,7 +43,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 50, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 6
@@ -56,7 +56,7 @@ inputSchema:
     - id: 7
       name: time_visited
       label: Time Visited
-      hint: "hh:mm AM/PM"
+      hint: hh:mm AM/PM
       type: time
       options: []
       required: false

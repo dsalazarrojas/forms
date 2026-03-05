@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Attendee''}'
-      - '{''value'': ''Organizer''}'
-      - '{''value'': ''Speaker''}'
+      - Attendee
+      - Organizer
+      - Speaker
       required: false
     - id: 7
       name: time_field
@@ -89,9 +89,9 @@ inputSchema:
       hint: Select an event category
       type: select_multiple
       options:
-      - '{''value'': ''Fundraiser''}'
-      - '{''value'': ''Event''}'
-      - '{''value'': ''Registration''}'
+      - Fundraiser
+      - Event
+      - Registration
       required: false
     - id: 13
       name: form_field
@@ -99,9 +99,9 @@ inputSchema:
       hint: Select a form
       type: select_one
       options:
-      - '{''value'': ''Fundraiser''}'
-      - '{''value'': ''Event''}'
-      - '{''value'': ''Registration''}'
+      - Fundraiser
+      - Event
+      - Registration
       required: false
     - id: 14
       name: assigned_tool_field
@@ -109,9 +109,9 @@ inputSchema:
       hint: Select a tool
       type: select_one
       options:
-      - '{''value'': ''chatjimmy''}'
-      - '{''value'': ''chatjimmy2''}'
-      - '{''value'': ''chatjimmy3''}'
+      - chatjimmy
+      - chatjimmy2
+      - chatjimmy3
       required: false
     - id: 15
       name: form_id_field
@@ -126,9 +126,9 @@ inputSchema:
       hint: Select an output file
       type: select_one
       options:
-      - '{''value'': ''050_fundraiser_check_in_form--registration_forms''}'
-      - '{''value'': ''050_fundraiser_check_in_form--forms''}'
-      - '{''value'': ''050_fundraiser_check_in_form--forms_2''}'
+      - 050 fundraiser check in form--registration forms
+      - 050 fundraiser check in form--forms
+      - 050 fundraiser check in form--forms 2
       required: false
     - id: 17
       name: output_file_path_field
@@ -136,9 +136,9 @@ inputSchema:
       hint: Select an output file path
       type: select_one
       options:
-      - '{''value'': ''/path/to/output1''}'
-      - '{''value'': ''/path/to/output2''}'
-      - '{''value'': ''/path/to/output3''}'
+      - /path/to/output1
+      - /path/to/output2
+      - /path/to/output3
       required: false
     - id: 18
       name: submit_button

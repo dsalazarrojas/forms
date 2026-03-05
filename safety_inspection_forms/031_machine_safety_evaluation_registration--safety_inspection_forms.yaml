@@ -5,186 +5,107 @@ inputSchema:
     pages:
     - id: 1
       name: machine_safety_evaluation_form
-      label: machine_safety_evaluation_form
+      label: Is the machine safe to operate?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 2
       name: facility_location
-      label: facility_location
+      label: Where is the facility located?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: facility
-      label: facility
+      name: facility_name
+      label: Facility name
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: machine_type
-      label: machine_type
+      label: Type of the machine?
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 5
       name: hazard_location
-      label: hazard_location
+      label: Where is the hazard?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: hazard
-      label: hazard
+      name: hazard_description
+      label: Description of the hazard?
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 7
       name: corrective_action
-      label: corrective_action
+      label: Corrective action taken?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: corrective_action_effective_date
-      label: corrective_action_effective_date
+      name: corrective_action_date
+      label: Effective date of corrective action?
       hint: null
       type: date
       options: []
       required: false
     - id: 9
       name: compliance_status
-      label: compliance_status
+      label: Compliance status?
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
-      required: true
+      required: false
     - id: 10
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: assigned_to
-      label: assigned_to
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: date_assigned
-      label: date_assigned
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 13
-      name: completion_status
-      label: completion_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 14
       name: safety_rating
-      label: safety_rating
+      label: Safety rating?
       hint: null
       type: number
       options: []
       required: false
-    - id: 15
+    - id: 11
       name: risk_level
-      label: risk_level
+      label: Risk level?
       hint: null
       type: select_one
       options:
       - High
       - Low
       required: false
-    - id: 16
+    - id: 12
       name: review_date
-      label: review_date
+      label: Next review date?
       hint: null
       type: date
       options: []
       required: false
-    - id: 17
-      name: review_by
-      label: review_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
+    - id: 13
       name: completed
-      label: completed
+      label: Is the task completed?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 19
+    - id: 14
       name: reviewer_comments
-      label: reviewer_comments
+      label: Reviewer comments?
       hint: null
       type: note
       options: []
       required: false
-    - id: 20
-      name: completed_by
-      label: completed_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: completed_date
-      label: completed_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: facility_location
-      label: facility_location
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: facility
-      label: facility
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: machine_type
-      label: machine_type
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: hazard
-      label: hazard
-      hint: null
-      type: text
-      options: []
-      required: true

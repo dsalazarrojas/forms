@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Correct''}'
-      - '{''label'': ''Incorrect''}'
-      - '{''label'': ''Not Applicable''}'
+      - Correct
+      - Incorrect
+      - Not Applicable
       required: true
     - id: 3
       name: hazards
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Fall from height''}'
-      - '{''label'': ''Electrocution''}'
-      - '{''label'': ''Caught in moving equipment''}'
-      - '{''label'': ''Other''}'
+      - Fall from height
+      - Electrocution
+      - Caught in moving equipment
+      - Other
       required: false
     - id: 4
       name: corrective_action
@@ -114,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''John Doe''}'
-      - '{''label'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: true
     - id: 16
       name: ewp_location
@@ -130,11 +130,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Sunny''}'
-      - '{''label'': ''Cloudy''}'
-      - '{''label'': ''Rain''}'
-      - '{''label'': ''Windy''}'
-      - '{''label'': ''Stormy''}'
+      - Sunny
+      - Cloudy
+      - Rain
+      - Windy
+      - Stormy
       required: true
     - id: 18
       name: remarks

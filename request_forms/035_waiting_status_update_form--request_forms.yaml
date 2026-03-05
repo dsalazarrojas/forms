@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Ticket''}'
-      - '{''id'': 2, ''label'': ''Order''}'
-      - '{''id'': 3, ''label'': ''Application''}'
+      - Ticket
+      - Order
+      - Application
       required: true
     - id: 3
       name: request_status
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Open''}'
-      - '{''id'': 2, ''label'': ''Closed''}'
-      - '{''id'': 3, ''label'': ''Waiting''}'
+      - Open
+      - Closed
+      - Waiting
       required: true
     - id: 4
       name: update_status
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''User A''}'
-      - '{''id'': 2, ''label'': ''User B''}'
-      - '{''id'': 3, ''label'': ''User C''}'
+      - User A
+      - User B
+      - User C
       required: true
     - id: 10
       name: notes
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''User A''}'
-      - '{''id'': 2, ''label'': ''User B''}'
-      - '{''id'': 3, ''label'': ''User C''}'
+      - User A
+      - User B
+      - User C
       required: true
     - id: 13
       name: follow_up_user_name

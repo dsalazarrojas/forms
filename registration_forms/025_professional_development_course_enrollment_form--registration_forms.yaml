@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Program A''}'
-      - '{''id'': 2, ''label'': ''Program B''}'
-      - '{''id'': 3, ''label'': ''Program C''}'
+      - Program A
+      - Program B
+      - Program C
       required: false
     - id: 3
       name: payment_details
@@ -33,11 +33,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Course 1''}'
-      - '{''id'': 2, ''label'': ''Course 2''}'
-      - '{''id'': 3, ''label'': ''Course 3''}'
-      - '{''id'': 4, ''label'': ''Course 4''}'
-      - '{''id'': 5, ''label'': ''Course 5''}'
+      - Course 1
+      - Course 2
+      - Course 3
+      - Course 4
+      - Course 5
       required: false
     - id: 5
       name: participant_info_repeat
@@ -52,9 +52,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': datetime.date(2024, 1, 1)}'
-      - '{''id'': 2, ''label'': datetime.date(2024, 1, 15)}'
-      - '{''id'': 3, ''label'': datetime.date(2024, 2, 1)}'
+      - '2024-01-01'
+      - '2024-01-15'
+      - '2024-02-01'
       required: false
     - id: 7
       name: time_selection
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''08:00''}'
-      - '{''id'': 2, ''label'': 840}'
-      - '{''id'': 3, ''label'': 960}'
+      - 08:00
+      - '840'
+      - '960'
       required: false
     - id: 8
       name: email

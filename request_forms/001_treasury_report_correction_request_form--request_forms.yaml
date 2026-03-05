@@ -4,177 +4,58 @@ inputSchema:
     title: Treasury Report Correction Request Form
     pages:
     - id: 1
-      name: form_1
-      label: What is your issue?
-      hint: null
+      name: issue
+      label: What is the issue with the report?
+      hint: Please describe the problem with the report.
       type: text
       options: []
       required: false
     - id: 2
-      name: form_2
-      label: Report ID -
-      hint: null
+      name: report_id
+      label: Report ID
+      hint: Please provide the original Report ID number.
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: form_3
+      name: report_date
       label: Report Date
-      hint: null
+      hint: Please provide the original report date.
       type: date
       options: []
       required: false
     - id: 4
-      name: form_4
+      name: report_time
       label: Report Time
-      hint: null
+      hint: Please provide the original report time.
       type: time
       options: []
       required: false
     - id: 5
-      name: form_5
+      name: corrected_date
       label: Corrected Report Date
-      hint: null
+      hint: Please provide the corrected report date.
       type: date
       options: []
       required: false
     - id: 6
-      name: form_6
+      name: corrected_time
       label: Corrected Report Time
-      hint: null
+      hint: Please provide the corrected report time.
       type: time
       options: []
       required: false
     - id: 7
-      name: form_7
-      label: Reason for correction
-      hint: null
+      name: reason
+      label: Reason for the correction
+      hint: Please describe the reason for the correction.
       type: text
       options: []
       required: false
     - id: 8
-      name: form_8
+      name: attachments
       label: Attachments
-      hint: null
+      hint: Attach any supporting documents.
       type: note
-      options: []
-      required: false
-    - id: 9
-      name: form_9
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: form_10
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: form_11
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: form_12
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: form_13
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: form_14
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: form_15
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: form_16
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: form_17
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: form_18
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: form_19
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: form_20
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: form_21
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_22
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_23
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_24
-      label: Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_25
-      label: Attachments
-      hint: null
-      type: text
       options: []
       required: false

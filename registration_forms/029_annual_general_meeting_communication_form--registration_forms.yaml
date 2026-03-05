@@ -37,10 +37,10 @@ inputSchema:
       hint: Which AGM is this for?
       type: select_one
       options:
-      - 2026
-      - 2025
-      - 2024
-      - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       required: true
     - id: 6
       name: attendance_status
@@ -125,8 +125,8 @@ inputSchema:
       hint: Are you attaching documents?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: document_details

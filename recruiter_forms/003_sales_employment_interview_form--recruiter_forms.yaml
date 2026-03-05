@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sales Role 1''}'
-      - '{''id'': 2, ''label'': ''Sales Role 2''}'
-      - '{''id'': 3, ''label'': ''Sales Role 3''}'
+      - Sales Role 1
+      - Sales Role 2
+      - Sales Role 3
       required: true
     - id: 3
       name: years_of_experience
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': "Bachelor''s degree"}'
-      - '{''id'': 2, ''label'': "Master''s degree"}'
-      - '{''id'': 3, ''label'': ''PhD''}'
+      - Bachelor's degree
+      - Master's degree
+      - PhD
       required: true
     - id: 5
       name: job_satisfaction
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Marketing''}'
-      - '{''id'': 2, ''label'': ''Sales''}'
-      - '{''id'': 3, ''label'': ''Engineering''}'
+      - Marketing
+      - Sales
+      - Engineering
       required: true
     - id: 8
       name: skills
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Communication''}'
-      - '{''id'': 2, ''label'': ''Teamwork''}'
-      - '{''id'': 3, ''label'': ''Problem-solving''}'
+      - Communication
+      - Teamwork
+      - Problem-solving
       required: true
     - id: 9
       name: references
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Personal''}'
-      - '{''id'': 2, ''label'': ''Professional''}'
-      - '{''id'': 3, ''label'': ''Social media''}'
+      - Personal
+      - Professional
+      - Social media
       required: true
     - id: 10
       name: salary_requirements
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Health''}'
-      - '{''id'': 2, ''label'': ''Vision''}'
-      - '{''id'': 3, ''label'': ''Dental''}'
+      - Health
+      - Vision
+      - Dental
       required: false
     - id: 12
       name: work_arrangement
@@ -104,9 +104,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Full time''}'
-      - '{''id'': 2, ''label'': ''Part time''}'
-      - '{''id'': 3, ''label'': ''Freelance''}'
+      - Full time
+      - Part time
+      - Freelance
       required: true
     - id: 13
       name: work_place
@@ -114,9 +114,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Home office''}'
-      - '{''id'': 2, ''label'': ''On-site''}'
-      - '{''id'': 3, ''label'': ''Hybrid''}'
+      - Home office
+      - On-site
+      - Hybrid
       required: true
     - id: 14
       name: notice_period
@@ -152,9 +152,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Weeks''}'
-      - '{''id'': 2, ''label'': ''Months''}'
-      - '{''id'': 3, ''label'': ''Years''}'
+      - Weeks
+      - Months
+      - Years
       required: true
     - id: 19
       name: termination_notice_notice_period_unit_short
@@ -162,9 +162,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''weeks''}'
-      - '{''id'': 2, ''label'': ''months''}'
-      - '{''id'': 3, ''label'': ''years''}'
+      - weeks
+      - months
+      - years
       required: true
     - id: 20
       name: termination_notice_notice_period_unit_short_suffix
@@ -172,9 +172,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''s''}'
-      - '{''id'': 2, ''label'': ''s''}'
-      - '{''id'': 3, ''label'': ''s''}'
+      - s
+      - Other
       required: true
     - id: 21
       name: job_title
@@ -189,9 +188,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Directly with a manager''}'
-      - '{''id'': 2, ''label'': ''Indirectly with a manager''}'
-      - '{''id'': 3, ''label'': ''No manager''}'
+      - Directly with a manager
+      - Indirectly with a manager
+      - No manager
       required: true
     - id: 23
       name: supervisor
@@ -199,8 +198,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: team_management
@@ -208,8 +207,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: comments

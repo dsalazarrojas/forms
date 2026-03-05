@@ -5,71 +5,66 @@ inputSchema:
     pages:
     - id: 1
       name: participant_name
-      label: participant name
+      label: Participant Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: email
-      label: email
+      name: participant_email
+      label: Email
       hint: null
       type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
       options: []
       required: false
     - id: 4
-      name: contact_email
-      label: contact email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 5
-      name: contact_phone
-      label: contact phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: team_members
-      label: team members
+      label: Team Members
       hint: null
       type: number
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 5
       name: team_tier
-      label: team tier
+      label: Team Tier
       hint: null
       type: select_one
       options:
       - 1st place
       - 2nd place
       - 3rd place
-      required: false
-    - id: 8
-      name: division
-      label: division
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
       hint: null
-      type: select_one
-      options:
-      - division 1
-      - division 2
-      - division 3
-      - division 4
-      - division 5
-      required: false
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 9
       name: age_group
-      label: age group
+      label: Age Group
       hint: null
       type: select_one
       options:
@@ -79,145 +74,89 @@ inputSchema:
       - 50-59
       - 60-69
       - 70+
-      required: false
+      required: true
     - id: 10
       name: gender
-      label: gender
+      label: Gender
       hint: null
       type: select_one
       options:
-      - male
-      - female
-      - non-binary
-      required: false
+      - Male
+      - Female
+      - Non-Binary
+      required: true
     - id: 11
       name: shirt_size
-      label: shirt size
+      label: Shirt Size
       hint: null
       type: select_one
       options:
-      - small
-      - medium
-      - large
-      required: false
+      - Small
+      - Medium
+      - Large
+      required: true
     - id: 12
-      name: event_date
-      label: event date
+      name: participant_number
+      label: Participant Number
       hint: null
-      type: date
+      type: number
       options: []
-      required: false
+      required: true
     - id: 13
-      name: event_time
-      label: event time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: location
-      label: location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: participant_number
-      label: participant number
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: team_tier
-      label: team tier
-      hint: null
-      type: select_one
-      options:
-      - 1st place
-      - 2nd place
-      - 3rd place
-      required: false
-    - id: 17
       name: division
-      label: division
+      label: Division
       hint: null
       type: select_one
       options:
-      - division 1
-      - division 2
-      - division 3
-      - division 4
-      - division 5
-      required: false
-    - id: 18
-      name: age_group
-      label: age group
-      hint: null
-      type: select_one
-      options:
-      - 18-29
-      - 30-39
-      - 40-49
-      - 50-59
-      - 60-69
-      - 70+
-      required: false
-    - id: 19
-      name: gender
-      label: gender
-      hint: null
-      type: select_one
-      options:
-      - male
-      - female
-      - non-binary
-      required: false
-    - id: 20
-      name: shirt_size
-      label: shirt size
-      hint: null
-      type: select_one
-      options:
-      - small
-      - medium
-      - large
-      required: false
-    - id: 21
-      name: event_date
-      label: event date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: event_time
-      label: event time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: location
-      label: location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: participant_number
-      label: participant number
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
+      - Division 1
+      - Division 2
+      - Division 3
+      - Division 4
+      - Division 5
+      required: true
+    - id: 14
       name: event_tier
-      label: event tier
+      label: Event Tier
       hint: null
       type: select_one
       options:
       - 1st place
       - 2nd place
       - 3rd place
-      required: false
+      required: true
+    - id: 15
+      name: confirm_participant_name
+      label: Confirm Participant Name
+      hint: null
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: confirm_team_members
+      label: Confirm Team Members
+      hint: null
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: confirm_event_date
+      label: Confirm Event Date
+      hint: null
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: confirm_age_group
+      label: Confirm Age Group
+      hint: null
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

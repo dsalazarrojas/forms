@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Phishing Attack'', ''value'': ''Phishing''}'
-      - '{''id'': 2, ''label'': ''Malware Attack'', ''value'': ''Malware''}'
-      - '{''id'': 3, ''label'': ''Denial of Service'', ''value'': ''Denial of Service''}'
-      - '{''id'': 4, ''label'': ''Ransomware'', ''value'': ''Ransomware''}'
+      - Phishing Attack
+      - Malware Attack
+      - Denial of Service
+      - Ransomware
       required: true
     - id: 3
       name: incident_location
@@ -38,8 +27,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Remote'', ''value'': ''Remote''}'
-      - '{''id'': 2, ''label'': ''Local'', ''value'': ''Local''}'
+      - Remote
+      - Local
       required: true
     - id: 4
       name: incident_date
@@ -51,7 +40,7 @@ inputSchema:
     - id: 5
       name: incident_time
       label: Incident Time
-      hint: "HH:MM:SS"
+      hint: HH:MM:SS
       type: time
       options: []
       required: false
@@ -68,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Low'', ''value'': ''Low''}'
-      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''High'', ''value'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 8
       name: incident_status
@@ -78,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Resolved'', ''value'': ''Resolved''}'
-      - '{''id'': 2, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Pending'', ''value'': ''Pending''}'
+      - Resolved
+      - In Progress
+      - Pending
       required: true
     - id: 9
       name: incident_response

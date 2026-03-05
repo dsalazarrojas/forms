@@ -253,8 +253,8 @@ inputSchema:
       hint: Do you need housing
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Maybe
       required: true
     - id: 31
@@ -277,7 +277,7 @@ inputSchema:
       - Yes Arrival Only
       - Yes Departure Only
       - Yes Both
-      - false
+      - 'False'
       required: true
     - id: 33
       name: camp_expectations
@@ -306,8 +306,8 @@ inputSchema:
       hint: Need-based assistance
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 36
       name: registration_fee
@@ -335,7 +335,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Agree
-      - false
+      - 'False'
       required: true
     - id: 39
       name: media_release

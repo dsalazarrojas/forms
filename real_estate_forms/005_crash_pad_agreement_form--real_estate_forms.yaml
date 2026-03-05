@@ -16,8 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: start_date
@@ -56,7 +57,7 @@ inputSchema:
       required: false
     - id: 8
       name: utilities_2
-      label: Utilities
+      label: Utilities 2
       hint: null
       type: number
       options: []
@@ -102,8 +103,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
+      - I agree
+      - I do not agree
       required: false
     - id: 15
       name: tenant_agreement_status
@@ -111,9 +112,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
+      - I agree
+      - I do not agree
       required: false
     - id: 16
       name: crash_pad_agreement_signed
@@ -121,8 +121,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
+      - I agree
+      - I do not agree
       required: false
     - id: 17
       name: crash_pad_agreement_signed_date
@@ -139,15 +139,15 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: crash_pad_agreement_signed_date
-      label: Crash Pad Agreement Signed Date
+      name: crash_pad_agreement_signed_date_2
+      label: Crash Pad Agreement Signed Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 20
-      name: crash_pad_agreement_signed_by
-      label: Crash Pad Agreement Signed By
+      name: crash_pad_agreement_signed_by_2
+      label: Crash Pad Agreement Signed By 2
       hint: null
       type: text
       options: []
@@ -165,9 +165,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
+      - I agree
+      - I do not agree
       required: false
     - id: 23
       name: crash_pad_details
@@ -182,8 +181,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
+      - I agree
+      - I do not agree
       required: false
     - id: 25
       name: agreement_date

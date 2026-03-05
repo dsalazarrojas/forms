@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 2.1, ''name'': ''property_type_1'', ''label'': ''Single''}'
-      - '{''id'': 2.2, ''name'': ''property_type_2'', ''label'': ''Multi-unit''}'
-      - '{''id'': 2.3, ''name'': ''property_type_3'', ''label'': ''Townhouse''}'
+      - Single
+      - Multi-unit
+      - Townhouse
       required: true
     - id: 3
       name: property_size
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 5.1, ''name'': ''price_range_1'', ''label'': ''Low''}'
-      - '{''id'': 5.2, ''name'': ''price_range_2'', ''label'': ''Medium''}'
-      - '{''id'': 5.3, ''name'': ''price_range_3'', ''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 6
       name: contact_info

@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: event_access_type
@@ -60,10 +60,10 @@ inputSchema:
       hint: Select the type of access required
       type: select_multiple
       options:
-      - '{''value'': ''photo'', ''label'': ''Photo''}'
-      - '{''value'': ''video'', ''label'': ''Video''}'
-      - '{''value'': ''interview'', ''label'': ''Interview''}'
-      - '{''value'': ''all'', ''label'': ''All''}'
+      - Photo
+      - Video
+      - Interview
+      - All
       required: true
     - id: 9
       name: access_time
@@ -113,10 +113,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''journalist'', ''label'': ''Journalist''}'
-      - '{''value'': ''camera_person'', ''label'': ''Camera Person''}'
-      - '{''value'': ''photographer'', ''label'': ''Photographer''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - Journalist
+      - Camera Person
+      - Photographer
+      - Other
       required: true
     - id: 16
       name: other_media_type
@@ -173,8 +173,8 @@ inputSchema:
       hint: Is this event a press conference?
       type: select_one
       options:
-      - '{''value'': None, ''label'': True}'
-      - '{''value'': None, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: event_type
@@ -182,10 +182,10 @@ inputSchema:
       hint: What type of event is this?
       type: select_one
       options:
-      - '{''value'': ''conference'', ''label'': ''Conference''}'
-      - '{''value'': ''seminar'', ''label'': ''Seminar''}'
-      - '{''value'': ''workshop'', ''label'': ''Workshop''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - Conference
+      - Seminar
+      - Workshop
+      - Other
       required: true
     - id: 25
       name: event_start_date

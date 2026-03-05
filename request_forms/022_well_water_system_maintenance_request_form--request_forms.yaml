@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Field 1'', ''value'': ''1''}'
-      - '{''label'': ''Field 2'', ''value'': ''2''}'
-      - '{''label'': ''Field 3'', ''value'': ''3''}'
+      - Field 1
+      - Field 2
+      - Field 3
       required: true
     - id: 3
       name: issue_description
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active'', ''value'': ''1''}'
-      - '{''label'': ''Inactive'', ''value'': ''2''}'
+      - Active
+      - Inactive
       required: true
     - id: 7
       name: maintenance_request_reason
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Urgent'', ''value'': ''1''}'
-      - '{''label'': ''Non-urgent'', ''value'': ''2''}'
-      - '{''label'': ''Other'', ''value'': ''3''}'
+      - Urgent
+      - Non-urgent
+      - Other
       required: false
     - id: 8
       name: maintenance_request_priority
@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High'', ''value'': ''1''}'
-      - '{''label'': ''Low'', ''value'': ''2''}'
-      - '{''label'': ''Medium'', ''value'': ''3''}'
+      - High
+      - Low
+      - Medium
       required: false
     - id: 9
       name: maintenance_request_date
@@ -90,9 +90,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Jim'', ''value'': ''1''}'
-      - '{''label'': ''Bob'', ''value'': ''2''}'
-      - '{''label'': ''Alice'', ''value'': ''3''}'
+      - Jim
+      - Bob
+      - Alice
       required: true
     - id: 12
       name: assigned_date

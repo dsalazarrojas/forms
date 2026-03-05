@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -40,21 +29,30 @@ inputSchema:
       label: Oxygen supply status
       hint: Available and functioning
       type: select_one
-      options: [OK, Needs maintenance, N A]
+      options:
+      - OK
+      - Needs maintenance
+      - N A
       required: true
     - id: 5
       name: suction
       label: Suction status
       hint: Functional status
       type: select_one
-      options: [OK, Needs maintenance, N A]
+      options:
+      - OK
+      - Needs maintenance
+      - N A
       required: true
     - id: 6
       name: monitors
       label: Monitors functional
       hint: ECG, BP, SpO2
       type: select_one
-      options: [OK, Needs maintenance, N A]
+      options:
+      - OK
+      - Needs maintenance
+      - N A
       required: true
     - id: 7
       name: notes
@@ -68,5 +66,7 @@ inputSchema:
       label: Sign off complete
       hint: Confirm checklist completion
       type: select_one
-      options: [Yes, No]
+      options:
+      - 'True'
+      - 'False'
       required: true

@@ -51,13 +51,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monday'', ''value'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday'', ''value'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday'', ''value'': ''Wednesday''}'
-      - '{''id'': 4, ''label'': ''Thursday'', ''value'': ''Thursday''}'
-      - '{''id'': 5, ''label'': ''Friday'', ''value'': ''Friday''}'
-      - '{''id'': 6, ''label'': ''Saturday'', ''value'': ''Saturday''}'
-      - '{''id'': 7, ''label'': ''Sunday'', ''value'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 8
       name: check_out
@@ -65,15 +65,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''1 week'', ''value'': ''1 week''}'
-      - '{''id'': 2, ''label'': ''2 weeks'', ''value'': ''2 weeks''}'
-      - '{''id'': 3, ''label'': ''3 weeks'', ''value'': ''3 weeks''}'
-      - '{''id'': 4, ''label'': ''4 weeks'', ''value'': ''4 weeks''}'
-      - '{''id'': 5, ''label'': ''5 weeks'', ''value'': ''5 weeks''}'
-      - '{''id'': 6, ''label'': ''6 weeks'', ''value'': ''6 weeks''}'
-      - '{''id'': 7, ''label'': ''7 weeks'', ''value'': ''7 weeks''}'
-      - '{''id'': 8, ''label'': ''8 weeks'', ''value'': ''8 weeks''}'
-      - '{''id'': 9, ''label'': ''Other'', ''value'': ''other''}'
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      - 4 weeks
+      - 5 weeks
+      - 6 weeks
+      - 7 weeks
+      - 8 weeks
+      - Other
       required: false
     - id: 9
       name: days_to_stay
@@ -95,11 +95,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''House'', ''value'': ''House''}'
-      - '{''id'': 2, ''label'': ''Apartment'', ''value'': ''Apartment''}'
-      - '{''id'': 3, ''label'': ''Condo'', ''value'': ''Condo''}'
-      - '{''id'': 4, ''label'': ''Townhouse'', ''value'': ''Townhouse''}'
-      - '{''id'': 5, ''label'': ''other'', ''value'': ''other''}'
+      - House
+      - Apartment
+      - Condo
+      - Townhouse
+      - other
       required: false
     - id: 12
       name: notes

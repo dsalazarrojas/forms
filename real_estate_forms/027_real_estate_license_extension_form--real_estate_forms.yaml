@@ -4,116 +4,118 @@ inputSchema:
     title: real_estate_license_extension_form
     pages:
     - id: 1
-      name: real_estate_license_extension_form
-      label: real_estate_license_extension_form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: real_estate_license_extension_form_real_estate_license_status
-      label: real_estate_license_status
+      name: real_estate_license_extension_form_status
+      label: Real Estate License Status
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
       required: false
-    - id: 3
-      name: real_estate_license_extension_form_real_estate_license_type
-      label: real_estate_license_type
+    - id: 2
+      name: real_estate_license_extension_form_license_type
+      label: Real Estate License Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 4
-      name: real_estate_license_extension_form_real_estate_license_number
-      label: real_estate_license_number
+    - id: 3
+      name: real_estate_license_extension_form_license_number
+      label: Real Estate License Number
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
+    - id: 4
       name: real_estate_license_extension_form_license_renewal_date
-      label: license_renewal_date
+      label: License Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: real_estate_license_extension_form_license_expiration_date
+      label: License Expiration Date
       hint: null
       type: date
       options: []
       required: false
     - id: 6
-      name: real_estate_license_extension_form_license_expiration_date
-      label: license_expiration_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
       name: real_estate_license_extension_form_license_expiration_date_certification
-      label: license_expiration_date_certification
+      label: License Expiration Date Certification
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 8
+    - id: 7
       name: real_estate_license_extension_form_renewal_fee
-      label: renewal_fee
+      label: Renewal Fee
       hint: null
       type: number
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: real_estate_license_extension_form_renewal_fee_currency
-      label: renewal_fee_currency
+      label: Renewal Fee Currency
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: real_estate_license_extension_form_renewal_fee_other
+      label: Other
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 10
       name: real_estate_license_extension_form_renewal_fee_currency_other
-      label: other
+      label: Real Estate License Extension Form Renewal Fee Currency Other
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: real_estate_license_extension_form_renewal_fee_other
-      label: other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
       name: real_estate_license_extension_form_licensed_since
-      label: licensed_since
+      label: Licensed Since
       hint: null
       type: number
       options: []
       required: false
-    - id: 13
+    - id: 12
       name: real_estate_license_extension_form_license_expiration_date_extension
-      label: license_expiration_date_extension
+      label: License Expiration Date Extension
       hint: null
       type: date
       options: []
       required: false
-    - id: 14
+    - id: 13
       name: real_estate_license_extension_form_extension_period
-      label: extension_period
+      label: Extension Period
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: real_estate_license_extension_form_license_renewal_status
+      label: License Renewal Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
       required: false
     - id: 15
-      name: real_estate_license_extension_form_license_renewal_status
-      label: license_renewal_status
+      name: real_estate_license_extension_form_license_status_extension
+      label: License Status After Extension
       hint: null
       type: select_one
       options:
@@ -121,81 +123,49 @@ inputSchema:
       - Inactive
       required: false
     - id: 16
-      name: real_estate_license_extension_form_submit
-      label: submit
+      name: real_estate_license_extension_form_renewal_type
+      label: Renewal Type
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 17
-      name: real_estate_license_extension_form_license_status_extension
-      label: license_status_extension
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 18
-      name: real_estate_license_extension_form_extension_status
-      label: extension_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 19
-      name: real_estate_license_extension_form_renewal_type
-      label: renewal_type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
       name: real_estate_license_extension_form_renewal_fee_amount
-      label: renewal_fee_amount
+      label: Renewal Fee Amount
       hint: null
       type: number
       options: []
       required: false
-    - id: 21
+    - id: 18
       name: real_estate_license_extension_form_license_expiration_date_extension_certification
-      label: license_expiration_date_extension_certification
+      label: License Expiration Date Extension Certification
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 22
+    - id: 19
       name: real_estate_license_extension_form_renewal_fee_currency_certification
-      label: renewal_fee_currency_certification
+      label: Renewal Fee Currency Certification
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 23
+    - id: 20
       name: real_estate_license_extension_form_renewal_fee_other_certification
-      label: other
+      label: Real Estate License Extension Form Renewal Fee Other Certification
       hint: null
       type: text
       options: []
       required: false
-    - id: 24
-      name: real_estate_license_extension_form_renewal_fee_other
-      label: other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: real_estate_license_extension_form_submit_2
-      label: submit_2
+    - id: 21
+      name: real_estate_license_extension_form_submit
+      label: Submit
       hint: null
       type: text
       options: []

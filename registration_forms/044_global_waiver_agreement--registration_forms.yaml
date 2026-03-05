@@ -24,8 +24,8 @@ inputSchema:
         in an event or activity.
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I agree to participate''}'
-      - '{''id'': 2, ''label'': ''I disagree to participate''}'
+      - I agree to participate
+      - I disagree to participate
       required: true
     - id: 4
       name: date
@@ -110,8 +110,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: staff_agreed
@@ -119,8 +119,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: staff_signature

@@ -23,15 +23,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Beef Cattle''}'
-      - '{''id'': 2, ''name'': ''Pigs''}'
-      - '{''id'': 3, ''name'': ''Sheep''}'
-      - '{''id'': 4, ''name'': ''Horses''}'
-      - '{''id'': 5, ''name'': ''Goats''}'
-      - '{''id'': 6, ''name'': ''Chickens''}'
-      - '{''id'': 7, ''name'': ''Ducks''}'
-      - '{''id'': 8, ''name'': ''Turkeys''}'
-      - '{''id'': 9, ''name'': ''Other''}'
+      - Beef Cattle
+      - Pigs
+      - Sheep
+      - Horses
+      - Goats
+      - Chickens
+      - Ducks
+      - Turkeys
+      - Other
       required: false
     - id: 4
       name: issue_description
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 8
       name: contact_person
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''John Doe''}'
-      - '{''id'': 2, ''name'': ''Jane Doe''}'
-      - '{''id'': 3, ''name'': ''Jim Brown''}'
+      - John Doe
+      - Jane Doe
+      - Jim Brown
       required: false
     - id: 9
       name: farm_location
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Local farm''}'
-      - '{''id'': 2, ''name'': ''Regional''}'
-      - '{''id'': 3, ''name'': ''National''}'
+      - Local farm
+      - Regional
+      - National
       required: false
     - id: 10
       name: support_request

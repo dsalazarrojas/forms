@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Registration Forms''}'
-      - '{''id'': 2, ''label'': ''Event Registration Forms''}'
+      - Registration Forms
+      - Event Registration Forms
       required: true
     - id: 3
       name: description
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Investor''}'
-      - '{''id'': 2, ''label'': ''Private Equity''}'
+      - Investor
+      - Private Equity
       required: true
     - id: 10
       name: session_planning
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: attendee_communications
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: notes

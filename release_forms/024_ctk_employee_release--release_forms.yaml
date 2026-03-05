@@ -1,135 +1,145 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: CTK Employee Release
     pages:
-      - id: 1
-        name: header_release_agreement
-        label: -- Employee Release and Waiver Agreement --
-        hint: Please read carefully before signing
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: employee_full_name
-        label: Employee Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: employee_id
-        label: Employee ID
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: termination_date
-        label: Final Date of Employment
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: section_release_terms
-        label: -- Release of Claims --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: general_release_ack
-        label: I hereby release CTK from all claims and liabilities
-        hint: as defined in the separation agreement
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 7
-        name: confidentiality_ack
-        label: I acknowledge my ongoing confidentiality obligations
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 8
-        name: non_disparagement_ack
-        label: I agree to the non-disparagement clause
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 9
-        name: section_property_return
-        label: -- Return of Company Property --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: laptop_returned
-        label: Laptop and Accessories Returned
-        hint: null
-        type: select_one
-        options: [Yes, No, Not Applicable]
-        required: true
-      - id: 11
-        name: keys_badge_returned
-        label: Keys and Security Badge Returned
-        hint: null
-        type: select_one
-        options: [Yes, No, Not Applicable]
-        required: true
-      - id: 12
-        name: credit_card_returned
-        label: Corporate Credit Card Returned
-        hint: null
-        type: select_one
-        options: [Yes, No, Not Applicable]
-        required: true
-      - id: 13
-        name: final_payment_header
-        label: -- Final Compensation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: final_pay_ack
-        label: I have received my final paycheck and vacation payout
-        hint: null
-        type: select_one
-        options: [Yes, No, Pending]
-        required: true
-      - id: 15
-        name: severance_package_selection
-        label: Severance Package Option Selected
-        hint: if applicable
-        type: select_one
-        options: [Standard, Enhanced, None]
-        required: false
-      - id: 16
-        name: signature_date
-        label: Date Signed
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 17
-        name: witness_name
-        label: Witness or HR Representative Name
-        hint: null
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: header_release_agreement
+      label: -- Employee Release and Waiver Agreement --
+      hint: Please read carefully before signing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_full_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: termination_date
+      label: Final Date of Employment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_release_terms
+      label: -- Release of Claims --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: general_release_ack
+      label: I hereby release CTK from all claims and liabilities
+      hint: as defined in the separation agreement
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: confidentiality_ack
+      label: I acknowledge my ongoing confidentiality obligations
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: non_disparagement_ack
+      label: I agree to the non-disparagement clause
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: section_property_return
+      label: -- Return of Company Property --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: laptop_returned
+      label: Laptop and Accessories Returned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 11
+      name: keys_badge_returned
+      label: Keys and Security Badge Returned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 12
+      name: credit_card_returned
+      label: Corporate Credit Card Returned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 13
+      name: final_payment_header
+      label: -- Final Compensation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: final_pay_ack
+      label: I have received my final paycheck and vacation payout
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Pending
+      required: true
+    - id: 15
+      name: severance_package_selection
+      label: Severance Package Option Selected
+      hint: if applicable
+      type: select_one
+      options:
+      - Standard
+      - Enhanced
+      - None
+      required: false
+    - id: 16
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: witness_name
+      label: Witness or HR Representative Name
+      hint: null
+      type: text
+      options: []
+      required: true

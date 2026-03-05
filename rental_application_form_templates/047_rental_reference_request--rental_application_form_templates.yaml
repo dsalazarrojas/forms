@@ -58,11 +58,11 @@ inputSchema:
       hint: How do you know the applicant?
       type: select_one
       options:
-      - '{''label'': ''Parent'', ''value'': ''Parent''}'
-      - '{''label'': ''Spouse'', ''value'': ''Spouse''}'
-      - '{''label'': ''Friend'', ''value'': ''Friend''}'
-      - '{''label'': ''Family Member'', ''value'': ''Family Member''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - Parent
+      - Spouse
+      - Friend
+      - Family Member
+      - Other
       required: false
     - id: 9
       name: contact_title
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Signature Provided'', ''value'': ''Signature Provided''}'
-      - '{''label'': None, ''value'': None}'
-      - '{''label'': None, ''value'': None}'
+      - Signature Provided
+      - Option 2
+      - Option 3
       required: false
     - id: 16
       name: referee_date

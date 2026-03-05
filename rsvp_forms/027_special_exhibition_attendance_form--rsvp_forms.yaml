@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 71, ''label'': True}'
-      - '{''id'': 711, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: event_details
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 81, ''label'': ''exhibition_info''}'
-      - '{''id'': 82, ''label'': ''exhibition_notes''}'
+      - exhibition info
+      - exhibition notes
       required: false
     - id: 9
       name: attendee_details
@@ -118,6 +118,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 161, ''label'': ''exhibition_details''}'
-      - '{''id'': 162, ''label'': ''exhibition_notes''}'
+      - exhibition details
+      - exhibition notes
       required: false

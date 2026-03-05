@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''residential''}'
-      - '{''id'': 2, ''name'': ''commercial''}'
-      - '{''id'': 3, ''name'': ''agricultural''}'
+      - residential
+      - commercial
+      - agricultural
       required: true
     - id: 4
       name: purchase_price
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive''}'
-      - '{''id'': 3, ''name'': ''pending''}'
+      - active
+      - inactive
+      - pending
       required: true
     - id: 6
       name: property_condition
@@ -50,10 +50,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''excellent''}'
-      - '{''id'': 2, ''name'': ''good''}'
-      - '{''id'': 3, ''name'': ''average''}'
-      - '{''id'': 4, ''name'': ''poor''}'
+      - excellent
+      - good
+      - average
+      - poor
       required: true
     - id: 7
       name: property_features
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''friend''}'
-      - '{''id'': 2, ''name'': ''family''}'
-      - '{''id'': 3, ''name'': ''colleague''}'
+      - friend
+      - family
+      - colleague
       required: true
     - id: 17
       name: property_inspection_fee
@@ -141,9 +141,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''once''}'
-      - '{''id'': 2, ''name'': ''twice''}'
-      - '{''id'': 3, ''name'': ''quarterly''}'
+      - once
+      - twice
+      - quarterly
       required: true
     - id: 19
       name: property_inspector_comments

@@ -79,8 +79,8 @@ inputSchema:
       hint: Fever, cough, shortness of breath, etc.
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 12
       name: covid_exposure
@@ -88,8 +88,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       - Uncertain
       required: true
     - id: 13
@@ -98,8 +98,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 14
       name: vaccination_status

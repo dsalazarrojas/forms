@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pending''}'
-      - '{''id'': 2, ''name'': ''approved''}'
-      - '{''id'': 3, ''name'': ''denied''}'
+      - pending
+      - approved
+      - denied
       required: false
     - id: 5
       name: graduation_date
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''employed''}'
-      - '{''id'': 2, ''name'': ''seeking_employment''}'
-      - '{''id'': 3, ''name'': ''unemployed''}'
-      - '{''id'': 4, ''name'': ''self_employed''}'
+      - employed
+      - seeking employment
+      - unemployed
+      - self employed
       required: false
     - id: 7
       name: job_title
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''full_time''}'
-      - '{''id'': 2, ''name'': ''part_time''}'
-      - '{''id'': 3, ''name'': ''freelance''}'
+      - full time
+      - part time
+      - freelance
       required: false
     - id: 12
       name: job_category
@@ -96,13 +96,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''software_development''}'
-      - '{''id'': 2, ''name'': ''marketing''}'
-      - '{''id'': 3, ''name'': ''customer_service''}'
-      - '{''id'': 4, ''name'': ''sales''}'
-      - '{''id'': 5, ''name'': ''finance''}'
-      - '{''id'': 6, ''name'': ''design''}'
-      - '{''id'': 7, ''name'': ''human_resources''}'
+      - software development
+      - marketing
+      - customer service
+      - sales
+      - finance
+      - design
+      - human resources
       required: false
     - id: 13
       name: job_url
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive''}'
-      - '{''id'': 3, ''name'': ''deleted''}'
+      - active
+      - inactive
+      - deleted
       required: false
     - id: 16
       name: resume

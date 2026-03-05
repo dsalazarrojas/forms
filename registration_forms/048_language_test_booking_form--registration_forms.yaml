@@ -4,9 +4,9 @@ inputSchema:
     title: language_test_booking_form
     pages:
     - id: 1
-      name: language_test_booking_form
+      name: language_select
       label: Select Language
-      hint: Choose a language
+      hint: null
       type: select_one
       options:
       - French
@@ -19,7 +19,7 @@ inputSchema:
     - id: 2
       name: candidate_name
       label: Name
-      hint: Enter the name of the candidate
+      hint: null
       type: text
       options: []
       required: true
@@ -31,16 +31,16 @@ inputSchema:
       options: []
       required: true
     - id: 4
-      name: candidate_phone
+      name: phone
       label: Phone
       hint: null
       type: text
       options: []
       required: true
     - id: 5
-      name: language_test_booking_form_schedule
+      name: schedule
       label: Select Schedule
-      hint: Select a schedule
+      hint: null
       type: select_one
       options:
       - 9am-5pm
@@ -51,7 +51,14 @@ inputSchema:
       - 1pm-9pm
       required: false
     - id: 6
-      name: language_test_booking_form_language
+      name: appointment
+      label: Book an appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: language
       label: Choose Language
       hint: null
       type: select_multiple
@@ -63,29 +70,15 @@ inputSchema:
       - Arabic
       - Japanese
       required: false
-    - id: 7
-      name: language_test_booking_form_appointment
-      label: Book an appointment
-      hint: Select an appointment
-      type: date
-      options: []
-      required: false
     - id: 8
-      name: language_test_booking_form_time
-      label: Select Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 9
-      name: language_test_booking_form_additional_info
+      name: additional_info
       label: Additional Info
-      hint: Enter any additional information
+      hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: language_test_booking_form_terms
+    - id: 9
+      name: terms_agreement
       label: I agree to terms and conditions
       hint: null
       type: select_one
@@ -93,44 +86,31 @@ inputSchema:
       - 'True'
       - 'False'
       required: false
-    - id: 11
-      name: language_test_booking_form_note
+    - id: 10
+      name: notes
       label: Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 12
-      name: language_test_booking_form_phone
+    - id: 11
+      name: phone_2
       label: Enter Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: language_test_booking_form_email
+    - id: 12
+      name: email
       label: Enter Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 14
-      name: language_test_booking_form_language
-      label: Choose Language
+    - id: 13
+      name: schedule2
+      label: Schedule2
       hint: null
-      type: select_multiple
-      options:
-      - French
-      - English
-      - Spanish
-      - Chinese
-      - Arabic
-      - Japanese
-      required: false
-    - id: 15
-      name: language_test_booking_form_schedule
-      label: Select Schedule
-      hint: Select a schedule
       type: select_one
       options:
       - 9am-5pm
@@ -140,101 +120,40 @@ inputSchema:
       - 12pm-8pm
       - 1pm-9pm
       required: false
-    - id: 16
-      name: language_test_booking_form_appointment
-      label: Book an Appointment
-      hint: Select an appointment
+    - id: 14
+      name: appointment2
+      label: Appointment2
+      hint: null
       type: date
       options: []
       required: false
-    - id: 17
-      name: language_test_booking_form_time
+    - id: 15
+      name: time
       label: Select Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 18
-      name: language_test_booking_form_additional_info
-      label: Additional Info
+    - id: 16
+      name: additional_info2
+      label: Additional Info2
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
-      name: language_test_booking_form_terms
-      label: I Agree to Terms and Conditions
+    - id: 17
+      name: terms_agreement2
+      label: Terms Agreement2
       hint: null
       type: select_one
       options:
       - 'True'
       - 'False'
       required: false
-    - id: 20
-      name: language_test_booking_form_note
-      label: Notes
+    - id: 18
+      name: notes2
+      label: Notes2
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 21
-      name: language_test_booking_form_phone
-      label: Enter Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: language_test_booking_form_email
-      label: Enter Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: language_test_booking_form_language
-      label: Choose Language
-      hint: null
-      type: select_multiple
-      options:
-      - French
-      - English
-      - Spanish
-      - Chinese
-      - Arabic
-      - Japanese
-      required: false
-    - id: 24
-      name: language_test_booking_form_schedule
-      label: Select Schedule
-      hint: Select a schedule
-      type: select_one
-      options:
-      - 9am-5pm
-      - 5pm-9pm
-      - 10am-6pm
-      - 11am-7pm
-      - 12pm-8pm
-      - 1pm-9pm
-      required: false
-    - id: 25
-      name: language_test_booking_form_appointment
-      label: Book an Appointment
-      hint: Select an appointment
-      type: date
-      options: []
-      required: false
-    - id: 26
-      name: language_test_booking_form_time
-      label: Select Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 27
-      name: language_test_booking_form_additional_info
-      label: Additional Info
-      hint: null
-      type: text
       options: []
       required: false

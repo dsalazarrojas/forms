@@ -58,11 +58,11 @@ inputSchema:
       hint: Select at least one option
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Check up''}'
-      - '{''id'': 2, ''label'': ''Cleaning''}'
-      - '{''id'': 3, ''label'': ''Surgery''}'
-      - '{''id'': 4, ''label'': ''Implant''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Check up
+      - Cleaning
+      - Surgery
+      - Implant
+      - Other
       required: true
     - id: 9
       name: select_multiple_dental_specialties
@@ -70,10 +70,10 @@ inputSchema:
       hint: Select at least one option
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''General''}'
-      - '{''id'': 2, ''label'': ''Pedodontics''}'
-      - '{''id'': 3, ''label'': ''Orthodontics''}'
-      - '{''id'': 4, ''label'': ''Oral Surgery''}'
+      - General
+      - Pedodontics
+      - Orthodontics
+      - Oral Surgery
       required: true
     - id: 10
       name: select_one_service_type
@@ -81,9 +81,9 @@ inputSchema:
       hint: Select one option
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In Office''}'
-      - '{''id'': 2, ''label'': ''In Home''}'
-      - '{''id'': 3, ''label'': ''Over the Phone''}'
+      - In Office
+      - In Home
+      - Over the Phone
       required: true
     - id: 11
       name: submit
@@ -154,10 +154,10 @@ inputSchema:
       hint: Select one option
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Credit Card''}'
-      - '{''id'': 2, ''label'': ''Cash''}'
-      - '{''id'': 3, ''label'': ''Insurance''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Credit Card
+      - Cash
+      - Insurance
+      - Other
       required: true
     - id: 21
       name: submit_confirmation

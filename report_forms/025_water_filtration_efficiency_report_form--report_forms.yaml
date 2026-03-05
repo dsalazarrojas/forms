@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Source 1''}'
-      - '{''label'': ''Source 2''}'
-      - '{''label'': ''Source 3''}'
+      - Source 1
+      - Source 2
+      - Source 3
       required: false
     - id: 3
       name: flow_direction
@@ -26,8 +26,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Upstream''}'
-      - '{''label'': ''Downstream''}'
+      - Upstream
+      - Downstream
       required: false
     - id: 4
       name: filter_type
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Activated Carbon''}'
-      - '{''label'': ''Ceramic''}'
-      - '{''label'': ''Fiber''}'
+      - Activated Carbon
+      - Ceramic
+      - Fiber
       required: false
     - id: 5
       name: filter_size
@@ -87,8 +87,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Submit''}'
-      - '{''label'': ''Cancel''}'
+      - Submit
+      - Cancel
       required: false
     - id: 12
       name: email

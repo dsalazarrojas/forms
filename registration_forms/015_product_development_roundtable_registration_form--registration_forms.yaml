@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 4
       name: registration_form_data_special_requests
@@ -76,11 +76,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Cash'', ''value'': ''Cash''}'
-      - '{''id'': 2, ''name'': ''Credit'', ''value'': ''Credit''}'
-      - '{''id'': 3, ''name'': ''Cheque'', ''value'': ''Cheque''}'
-      - '{''id'': 4, ''name'': ''PayPal'', ''value'': ''PayPal''}'
-      - '{''id'': 5, ''name'': ''Bank Transfer'', ''value'': ''Bank Transfer''}'
+      - Cash
+      - Credit
+      - Cheque
+      - PayPal
+      - Bank Transfer
       required: true
     - id: 11
       name: registration_form_data_comments
@@ -102,8 +102,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: registration_form_data_is_speaker
@@ -111,8 +111,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: registration_form_data_speaker_name

@@ -207,7 +207,7 @@ inputSchema:
       options:
       - Yes - Current
       - Yes - Expired
-      - false
+      - 'False'
       required: true
     - id: 23
       name: electrical_certification
@@ -217,7 +217,7 @@ inputSchema:
       options:
       - Yes - Current
       - Yes - Expired
-      - false
+      - 'False'
       - Not Applicable
       required: false
     - id: 24
@@ -254,7 +254,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
+      - 'True'
       - No - I have my own
       - Partially
       required: true
@@ -278,8 +278,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Scheduled
       required: true
     - id: 31

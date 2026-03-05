@@ -37,9 +37,9 @@ inputSchema:
       hint: What is the purpose of the property development?
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Residential''}'
-      - '{''id'': 2, ''label'': ''Commercial''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Residential
+      - Commercial
+      - Other
       required: false
     - id: 6
       name: property_name
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Active
+      - Inactive
+      - Other
       required: false
     - id: 20
       name: project_status_notes

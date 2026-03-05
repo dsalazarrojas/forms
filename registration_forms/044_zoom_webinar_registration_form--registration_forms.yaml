@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: join_date
@@ -57,14 +57,14 @@ inputSchema:
       required: false
     - id: 8
       name: registrant_email
-      label: Email
+      label: Registrant Email
       hint: Enter registrant email
       type: email
       options: []
       required: false
     - id: 9
       name: registrant_phone
-      label: Phone
+      label: Registrant Phone
       hint: null
       type: text
       options: []
@@ -75,20 +75,20 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
       name: registrant_join_time
-      label: Join Time
+      label: Registrant Join Time
       hint: Select join time
       type: time
       options: []
       required: false
     - id: 12
       name: registrant_join_date
-      label: Join Date
+      label: Registrant Join Date
       hint: Select join date
       type: date
       options: []

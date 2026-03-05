@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
       name: submission_date
@@ -103,19 +103,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 15
-      name: submission_status
-      label: Submission Status
+      name: submission_status_2
+      label: Submission Status 2
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 16
       name: agreement
@@ -123,9 +123,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - I agree
+      - I do not agree
       required: false
     - id: 17
       name: agreement_date
@@ -142,25 +141,24 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: agreement
-      label: Agreement
+      name: agreement_2
+      label: Agreement 2
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - I agree
+      - I do not agree
       required: false
     - id: 20
-      name: agreement_date
-      label: Agreement Date
+      name: agreement_date_2
+      label: Agreement Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 21
-      name: agreement_time
-      label: Agreement Time
+      name: agreement_time_2
+      label: Agreement Time 2
       hint: null
       type: time
       options: []

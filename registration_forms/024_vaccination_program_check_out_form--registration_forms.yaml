@@ -4,12 +4,12 @@ inputSchema:
     title: Vaccination Program Check Out Form
     pages:
     - id: 1
-      name: patient_information
-      label: Patient Information
+      name: patient_name
+      label: Patient Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: contact_information
       label: Contact Information
@@ -28,8 +28,11 @@ inputSchema:
       name: vaccination_details
       label: Vaccination Details
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Flu
+      - COVID-19
+      - MMR
       required: false
     - id: 5
       name: preferred_contact_method
@@ -66,157 +69,6 @@ inputSchema:
       options: []
       required: false
     - id: 9
-      name: vaccination_type
-      label: Vaccination Type
-      hint: null
-      type: select_one
-      options:
-      - Flu
-      - COVID-19
-      - MMR
-      required: false
-    - id: 10
-      name: vaccination_location
-      label: Vaccination Location
-      hint: null
-      type: select_one
-      options:
-      - Clinic A
-      - Clinic B
-      - Clinic C
-      required: false
-    - id: 11
-      name: patient_notes
-      label: Patient Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: healthcare_provider_notes
-      label: Healthcare Provider Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: follow_up_notes
-      label: Follow Up Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: next_vaccination_date
-      label: Next Vaccination Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: next_vaccination_time
-      label: Next Vaccination Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: next_vaccination_type
-      label: Next Vaccination Type
-      hint: null
-      type: select_one
-      options:
-      - Flu
-      - COVID-19
-      - MMR
-      required: false
-    - id: 17
-      name: next_vaccination_location
-      label: Next Vaccination Location
-      hint: null
-      type: select_one
-      options:
-      - Clinic A
-      - Clinic B
-      - Clinic C
-      required: false
-    - id: 18
-      name: patient_vaccination_status
-      label: Patient Vaccination Status
-      hint: null
-      type: select_one
-      options:
-      - Completed
-      - In Progress
-      - Pending
-      required: false
-    - id: 19
-      name: patient_refused_status
-      label: Patient Refused Status
-      hint: null
-      type: select_one
-      options:
-      - Completed
-      - In Progress
-      - Pending
-      required: false
-    - id: 20
-      name: patient_dose_administered
-      label: Dose Administered
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: patient_vaccination_completed
-      label: Vaccination Completed
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: healthcare_provider_rating
-      label: Healthcare Provider Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: follow_up_required
-      label: Follow Up Required
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: patient_vaccination_count
-      label: Patient Vaccination Count
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: total_cost
-      label: Total Cost
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 26
-      name: follow_up_date
-      label: Follow Up Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 27
-      name: follow_up_time
-      label: Follow Up Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 28
       name: follow_up_location
       label: Follow Up Location
       hint: null
@@ -226,23 +78,9 @@ inputSchema:
       - Clinic B
       - Clinic C
       required: false
-    - id: 29
-      name: patient_contacted
-      label: Patient Contacted
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 30
-      name: patient_follow_up_count
-      label: Patient Follow Up Count
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 31
-      name: next_appointment_status
-      label: Next Appointment Status
+    - id: 10
+      name: follow_up_status
+      label: Follow Up Status
       hint: null
       type: select_one
       options:
@@ -250,17 +88,7 @@ inputSchema:
       - Rescheduled
       - Completed
       required: false
-    - id: 32
-      name: next_follow_up_status
-      label: Next Follow Up Status
-      hint: null
-      type: select_one
-      options:
-      - Scheduled
-      - Rescheduled
-      - Completed
-      required: false
-    - id: 33
+    - id: 11
       name: vaccination_completed
       label: Vaccination Completed
       hint: null
@@ -269,115 +97,12 @@ inputSchema:
       - 'True'
       - 'False'
       required: false
-    - id: 34
-      name: patient_next_vaccination_count
-      label: Patient Next Vaccination Count
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 35
-      name: patient_completed_vaccinations
-      label: Patient Completed Vaccinations
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 36
-      name: healthcare_provider_completed_vaccinations
-      label: Healthcare Provider Completed Vaccinations
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 37
-      name: patient_next_vaccination_status
-      label: Patient Next Vaccination Status
+    - id: 12
+      name: follow_up_required
+      label: Follow Up Required
       hint: null
       type: select_one
       options:
-      - Completed
-      - In Progress
-      - Pending
-      required: false
-    - id: 38
-      name: patient_completed_vaccinations_status
-      label: Patient Completed Vaccinations Status
-      hint: null
-      type: select_one
-      options:
-      - Completed
-      - In Progress
-      - Pending
-      required: false
-    - id: 39
-      name: next_vaccination_dose_administered
-      label: Next Vaccination Dose Administered
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 40
-      name: next_vaccination_type
-      label: Next Vaccination Type
-      hint: null
-      type: select_one
-      options:
-      - Flu
-      - COVID-19
-      - MMR
-      required: false
-    - id: 41
-      name: patient_next_vaccination_type
-      label: Patient Next Vaccination Type
-      hint: null
-      type: select_one
-      options:
-      - Flu
-      - COVID-19
-      - MMR
-      required: false
-    - id: 42
-      name: patient_next_vaccination_status
-      label: Patient Next Vaccination Status
-      hint: null
-      type: select_one
-      options:
-      - Completed
-      - In Progress
-      - Pending
-      required: false
-    - id: 43
-      name: next_follow_up_location
-      label: Next Follow Up Location
-      hint: null
-      type: select_one
-      options:
-      - Clinic A
-      - Clinic B
-      - Clinic C
-      required: false
-    - id: 44
-      name: patient_follow_up_location
-      label: Patient Follow Up Location
-      hint: null
-      type: select_one
-      options:
-      - Clinic A
-      - Clinic B
-      - Clinic C
-      required: false
-    - id: 45
-      name: patient_vaccination_status_history
-      label: Patient Vaccination Status History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: patient_vaccination_status_history
-      label: Patient Vaccination Status History
-      hint: null
-      type: text
-      options: []
+      - 'True'
+      - 'False'
       required: false

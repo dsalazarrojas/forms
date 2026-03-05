@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Service 1''}'
-      - '{''id'': 2, ''label'': ''Service 2''}'
-      - '{''id'': 3, ''label'': ''Service 3''}'
+      - Service 1
+      - Service 2
+      - Service 3
       required: false
     - id: 6
       name: appointment_time
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 7
       name: confirm_appointment
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: schedule_appointment
@@ -66,8 +66,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Now''}'
-      - '{''id'': 2, ''label'': ''Later''}'
+      - Now
+      - Later
       required: false
     - id: 9
       name: schedule_date
@@ -96,6 +96,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Save and Continue Later''}'
+      - Submit
+      - Save and Continue Later
       required: false

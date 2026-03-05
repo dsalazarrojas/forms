@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 100, ''label'': ''Single Family Home'', ''value'': ''single_family_home''}'
-      - '{''id'': 101, ''label'': ''Condo'', ''value'': ''condo''}'
-      - '{''id'': 102, ''label'': ''Townhouse'', ''value'': ''townhouse''}'
-      - '{''id'': 103, ''label'': ''Other'', ''value'': ''other''}'
+      - Single Family Home
+      - Condo
+      - Townhouse
+      - Other
       required: true
     - id: 7
       name: appointment
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 200, ''label'': True, ''value'': True}'
-      - '{''id'': 201, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: real_estate_agreement
@@ -85,6 +85,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 300, ''label'': True, ''value'': True}'
-      - '{''id'': 301, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true

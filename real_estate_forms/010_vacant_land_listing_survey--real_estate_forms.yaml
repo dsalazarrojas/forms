@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Residential''}'
-      - '{''label'': ''Commercial''}'
-      - '{''label'': ''Industrial''}'
+      - Residential
+      - Commercial
+      - Industrial
       required: false
     - id: 3
       name: property_size
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Vacant''}'
-      - '{''label'': ''Leased''}'
-      - '{''label'': ''Sold''}'
+      - Vacant
+      - Leased
+      - Sold
       required: false
     - id: 6
       name: zoning
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''R-1''}'
-      - '{''label'': ''R-2''}'
-      - '{''label'': ''R-3''}'
+      - R-1
+      - R-2
+      - R-3
       required: false
     - id: 7
       name: land_use
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Agricultural''}'
-      - '{''label'': ''Conservation''}'
-      - '{''label'': ''Recreation''}'
+      - Agricultural
+      - Conservation
+      - Recreation
       required: false
     - id: 8
       name: property_use
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Single Family Residence''}'
-      - '{''label'': ''Multi Family Residence''}'
-      - '{''label'': ''Commercial Building''}'
+      - Single Family Residence
+      - Multi Family Residence
+      - Commercial Building
       required: false
     - id: 9
       name: acreage

@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 11, ''name'': ''Skin Care'', ''value'': ''skin_care''}'
-      - '{''id'': 12, ''name'': ''Hair Care'', ''value'': ''hair_care''}'
-      - '{''id'': 13, ''name'': ''Make Up'', ''value'': ''make_up''}'
-      - '{''id'': 14, ''name'': ''Fragrance'', ''value'': ''fragrance''}'
-      - '{''id'': 15, ''name'': ''Personal Care'', ''value'': ''personal_care''}'
-      - '{''id'': 16, ''name'': ''Other'', ''value'': ''other''}'
+      - skin care
+      - hair care
+      - make up
+      - fragrance
+      - personal care
+      - other
       required: false
     - id: 3
       name: product_description
@@ -57,10 +57,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 21, ''name'': ''Red'', ''value'': ''red''}'
-      - '{''id'': 22, ''name'': ''Blue'', ''value'': ''blue''}'
-      - '{''id'': 23, ''name'': ''Black'', ''value'': ''black''}'
-      - '{''id'': 24, ''name'': ''Green'', ''value'': ''green''}'
+      - red
+      - blue
+      - black
+      - green
       required: false
     - id: 8
       name: product_size
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 25, ''name'': ''Small'', ''value'': ''small''}'
-      - '{''id'': 26, ''name'': ''Medium'', ''value'': ''medium''}'
-      - '{''id'': 27, ''name'': ''Large'', ''value'': ''large''}'
-      - '{''id'': 28, ''name'': ''Extra Large'', ''value'': ''extra_large''}'
+      - small
+      - medium
+      - large
+      - extra large
       required: false
     - id: 9
       name: product_weight
@@ -86,12 +86,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 29, ''name'': ''Tube'', ''value'': ''tube''}'
-      - '{''id'': 30, ''name'': ''Bottle'', ''value'': ''bottle''}'
-      - '{''id'': 31, ''name'': ''Jar'', ''value'': ''jar''}'
-      - '{''id'': 32, ''name'': ''Bag'', ''value'': ''bag''}'
-      - '{''id'': 33, ''name'': ''Box'', ''value'': ''box''}'
-      - '{''id'': 34, ''name'': ''Other'', ''value'': ''other''}'
+      - tube
+      - bottle
+      - jar
+      - bag
+      - box
+      - other
       required: true
     - id: 11
       name: product_launch_date

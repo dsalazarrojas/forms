@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sales''}'
-      - '{''id'': 2, ''label'': ''Marketing''}'
-      - '{''id'': 3, ''label'': ''Support''}'
+      - Sales
+      - Marketing
+      - Support
       required: true
     - id: 5
       name: location
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''New York''}'
-      - '{''id'': 2, ''label'': ''Chicago''}'
-      - '{''id'': 3, ''label'': ''London''}'
+      - New York
+      - Chicago
+      - London
       required: true
     - id: 6
       name: email

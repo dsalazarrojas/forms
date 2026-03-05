@@ -56,7 +56,7 @@ inputSchema:
       required: false
     - id: 8
       name: incident_type_select
-      label: Incident Type
+      label: Incident Type Select
       hint: null
       type: select_multiple
       options:
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: incident_severity
@@ -84,7 +84,7 @@ inputSchema:
       required: false
     - id: 11
       name: incident_severity_select
-      label: Incident Severity
+      label: Incident Severity Select
       hint: null
       type: select_multiple
       options:
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
       name: incident_status
@@ -112,7 +112,7 @@ inputSchema:
       required: false
     - id: 14
       name: incident_status_select
-      label: Incident Status
+      label: Incident Status Select
       hint: null
       type: select_multiple
       options:
@@ -121,11 +121,11 @@ inputSchema:
       required: false
     - id: 15
       name: incident_status_select_options
-      label: Incident Status
+      label: Incident Status Select Options
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

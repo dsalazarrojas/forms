@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Standard Shipping''}'
-      - '{''id'': 2, ''name'': ''Express Shipping''}'
-      - '{''id'': 3, ''name'': ''Pickup''}'
+      - Standard Shipping
+      - Express Shipping
+      - Pickup
       required: true
     - id: 3
       name: customer_info
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Motor Repair Kit A''}'
-      - '{''id'': 2, ''name'': ''Motor Repair Kit B''}'
-      - '{''id'': 3, ''name'': ''Motor Repair Kit C''}'
+      - Motor Repair Kit A
+      - Motor Repair Kit B
+      - Motor Repair Kit C
       required: true
     - id: 9
       name: payment_method
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Credit Card''}'
-      - '{''id'': 2, ''name'': ''Bank Transfer''}'
+      - Credit Card
+      - Bank Transfer
       required: true
     - id: 10
       name: payment_details

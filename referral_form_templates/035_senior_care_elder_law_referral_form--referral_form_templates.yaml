@@ -4,198 +4,70 @@ inputSchema:
     title: senior_care_elder_law_referral_form
     pages:
     - id: 1
-      name: first_page
-      label: first_page
-      hint: null
+      name: basic_info
+      label: Basic Information
+      hint: Please provide the following information
       type: text
       options: []
       required: false
     - id: 2
       name: care_team
-      label: care_team
-      hint: null
+      label: Care Team
+      hint: Please select the care team
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 3
       name: client_info
-      label: client_info
-      hint: null
+      label: Client Information
+      hint: Please enter the client's details
       type: text
       options: []
       required: true
     - id: 4
-      name: elder_name
-      label: elder_name
-      hint: null
-      type: text
+      name: referral_date
+      label: Referral Date
+      hint: Please enter the referral date
+      type: date
       options: []
       required: true
     - id: 5
-      name: contact_person
-      label: contact_person
-      hint: null
+      name: follow_up_details
+      label: Follow-up Details
+      hint: Please enter the follow-up details
       type: text
       options: []
       required: true
     - id: 6
-      name: contact_info
-      label: contact_info
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: follow_up_method
+      label: Follow-up Method
+      hint: Please select the follow-up method
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 7
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: Please select the follow-up frequency
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 8
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: referral_date
-      label: referral_date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 10
-      name: follow_up_date
-      label: follow_up_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: follow_up_method
-      label: follow_up_method
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 12
-      name: follow_up_notes
-      label: follow_up_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: elder_law_area
-      label: elder_law_area
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 14
-      name: follow_up_contact
-      label: follow_up_contact
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: follow_up_details
-      label: follow_up_details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
       name: follow_up_status
-      label: follow_up_status
-      hint: null
+      label: Follow-up Status
+      hint: Please select the follow-up status
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 17
-      name: follow_up_notes
-      label: follow_up_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: follow_up_frequency
-      label: follow_up_frequency
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 19
-      name: follow_up_method
-      label: follow_up_method
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: follow_up_notes
-      label: follow_up_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: follow_up_status
-      label: follow_up_status
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 22
-      name: follow_up_notes
-      label: follow_up_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: follow_up_notes
-      label: follow_up_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: follow_up_frequency
-      label: follow_up_frequency
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 25
-      name: follow_up_notes
-      label: follow_up_notes
-      hint: null
-      type: note
-      options: []
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true

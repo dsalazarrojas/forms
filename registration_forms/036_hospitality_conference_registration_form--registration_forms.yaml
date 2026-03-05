@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''conference'', ''label'': ''Conference''}'
-      - '{''id'': 20, ''name'': ''workshop'', ''label'': ''Workshop''}'
-      - '{''id'': 30, ''name'': ''meeting'', ''label'': ''Meeting''}'
+      - Conference
+      - Workshop
+      - Meeting
       required: true
     - id: 6
       name: event_date
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 40, ''name'': True, ''label'': True}'
-      - '{''id'': 50, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: confirm_phone
@@ -91,8 +91,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 60, ''name'': True, ''label'': True}'
-      - '{''id'': 70, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: assigned_tool
@@ -100,8 +100,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 80, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
-      - '{''id'': 90, ''name'': ''other'', ''label'': ''Other''}'
+      - chatjimmy
+      - Other
       required: true
     - id: 14
       name: output_file

@@ -16,8 +16,8 @@ inputSchema:
       hint: Please answer yes or no
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 3
       name: near_miss_happenings
@@ -25,10 +25,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''equipment_failure''}'
-      - '{''value'': ''medication_error''}'
-      - '{''value'': ''patient_medication''}'
-      - '{''value'': ''patient_falls''}'
+      - equipment failure
+      - medication error
+      - patient medication
+      - patient falls
       required: true
     - id: 4
       name: near_miss_happenings
@@ -43,10 +43,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''lack_ofาตรฐาน''}'
-      - '{''value'': ''inadequate_training''}'
-      - '{''value'': ''inadequate_resources''}'
-      - '{''value'': ''other''}'
+      - lack ofาตรฐาน
+      - inadequate training
+      - inadequate resources
+      - other
       required: true
     - id: 6
       name: action_plan
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''create_action_plan''}'
-      - '{''value'': ''update_action_plan''}'
-      - '{''value'': ''no_action_plan''}'
+      - create action plan
+      - update action plan
+      - no action plan
       required: true
     - id: 7
       name: follow_up_actions
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''follow_up_actions''}'
-      - '{''value'': ''no_follow_up_actions''}'
+      - follow up actions
+      - no follow up actions
       required: true
     - id: 8
       name: follow_up_frequency
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''daily''}'
-      - '{''value'': ''weekly''}'
-      - '{''value'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: true
     - id: 9
       name: follow_up_status
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''in_progress''}'
-      - '{''value'': ''completed''}'
-      - '{''value'': ''not_started''}'
+      - in progress
+      - completed
+      - not started
       required: true
     - id: 10
       name: follow_up_comments
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''daily''}'
-      - '{''value'': ''weekly''}'
-      - '{''value'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: true
     - id: 19
       name: follow_up_previous_next_date
@@ -187,9 +187,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''daily''}'
-      - '{''value'': ''weekly''}'
-      - '{''value'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: true
     - id: 24
       name: follow_up_last_previous_next_date

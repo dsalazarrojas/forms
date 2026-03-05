@@ -5,180 +5,87 @@ inputSchema:
     pages:
     - id: 1
       name: registration_form
-      label: Registration Form
-      hint: null
+      label: What's the purpose of your registration?
+      hint: Tell us a little bit about yourself.
       type: text
       options: []
       required: false
     - id: 2
       name: user_email
-      label: user_email
-      hint: null
-      type: text
+      label: User Email
+      hint: Enter your email address.
+      type: email
       options: []
-      required: false
+      required: true
     - id: 3
       name: user_name
-      label: user_name
-      hint: null
+      label: User Name
+      hint: Enter your name.
       type: text
       options: []
       required: false
     - id: 4
-      name: user_phone
-      label: user_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: event_date
-      label: event_date
-      hint: null
+      label: Event Date
+      hint: Select the date of the event.
       type: date
       options: []
       required: false
-    - id: 6
-      name: user_address
-      label: user_address
-      hint: null
+    - id: 5
+      name: event_agreement
+      label: Event Agreement
+      hint: Any comments or notes about the event.
       type: text
       options: []
       required: false
+    - id: 6
+      name: agree_terms
+      label: Agree to Terms
+      hint: Agree to the terms and conditions of the forum.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 7
-      name: user_note
-      label: user_note
-      hint: null
-      type: note
+      name: event_agreement_note
+      label: Event Agreement Note
+      hint: Any additional comments about the event.
+      type: text
       options: []
       required: false
     - id: 8
-      name: email
-      label: email
-      hint: null
-      type: email
+      name: user_agreement
+      label: User Agreement
+      hint: Agreement with the user agreement.
+      type: text
       options: []
       required: false
     - id: 9
-      name: user_password
-      label: user_password
-      hint: null
+      name: form_agreement
+      label: Form Agreement
+      hint: Agreement with the form.
       type: text
       options: []
       required: false
     - id: 10
-      name: user_password_confirmation
-      label: user_password_confirmation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: agree_terms
-      label: agree_terms
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: terms
-      label: terms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: agreement
-      label: agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: event_note
-      label: event_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: user_agreement
-      label: user_agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: agree_terms_note
-      label: agree_terms_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: event_agreement
-      label: event_agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: event_agreement_note
-      label: event_agreement_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
       name: agreement_date
-      label: agreement_date
-      hint: null
+      label: Agreement Date
+      hint: Select the date of the agreement.
       type: date
       options: []
       required: false
-    - id: 20
+    - id: 11
       name: agreement_time
-      label: agreement_time
-      hint: null
+      label: Agreement Time
+      hint: Select the time of the agreement.
       type: time
       options: []
       required: false
-    - id: 21
-      name: agreement
-      label: agreement
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
+    - id: 12
       name: agreement_note
-      label: agreement_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: user_agreement
-      label: user_agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: event_agreement
-      label: event_agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_agreement
-      label: form_agreement
-      hint: null
+      label: Agreement Note
+      hint: Any additional comments about the agreement.
       type: text
       options: []
       required: false

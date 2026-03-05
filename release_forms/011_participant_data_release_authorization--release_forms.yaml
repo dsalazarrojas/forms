@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Participant''}'
-      - '{''label'': ''Program''}'
-      - '{''label'': ''Research Team''}'
+      - Participant
+      - Program
+      - Research Team
       required: false
     - id: 5
       name: form_release_date
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: form_email_recipient

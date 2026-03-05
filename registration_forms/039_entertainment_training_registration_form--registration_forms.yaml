@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''workshop'', ''label'': ''workshop''}'
-      - '{''id'': 2, ''name'': ''class'', ''label'': ''class''}'
-      - '{''id'': 3, ''name'': ''course'', ''label'': ''course''}'
+      - workshop
+      - class
+      - course
       required: true
     - id: 7
       name: start_date
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''online'', ''label'': ''Online''}'
-      - '{''id'': 2, ''name'': ''in_person'', ''label'': ''In Person''}'
-      - '{''id'': 3, ''name'': ''both'', ''label'': ''Both''}'
+      - Online
+      - In Person
+      - Both
       required: true
     - id: 11
       name: notes
@@ -106,8 +106,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''user1'', ''label'': ''User 1''}'
-      - '{''id'': 2, ''name'': ''user2'', ''label'': ''User 2''}'
+      - User 1
+      - User 2
       required: true
     - id: 15
       name: assigned_date

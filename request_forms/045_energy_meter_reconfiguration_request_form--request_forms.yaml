@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''electricity'', ''label'': ''Electricity''}'
-      - '{''value'': ''gas'', ''label'': ''Gas''}'
-      - '{''value'': ''water'', ''label'': ''Water''}'
+      - Electricity
+      - Gas
+      - Water
       required: true
     - id: 4
       name: meter_reading
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''contractor_1'', ''label'': ''Contractor 1''}'
-      - '{''value'': ''contractor_2'', ''label'': ''Contractor 2''}'
+      - Contractor 1
+      - Contractor 2
       required: false
     - id: 10
       name: notes
@@ -105,7 +105,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''request_forms'', ''label'': ''Request Forms''}'
+      - Request Forms
       - Other
       required: true
     - id: 15
@@ -121,7 +121,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''request_forms'', ''label'': ''Request Forms''}'
+      - Request Forms
       - Other
       required: false
     - id: 17
@@ -130,7 +130,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''request_forms'', ''label'': ''Request Forms''}'
+      - Request Forms
       - Other
       required: false
     - id: 18

@@ -44,10 +44,10 @@ inputSchema:
       hint: Which year is this entry for?
       type: select_one
       options:
-      - 2026
-      - 2025
-      - 2024
-      - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       required: true
     - id: 7
       name: entry_category
@@ -180,7 +180,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Consent
-      - false
+      - 'False'
       required: true
     - id: 23
       name: photo_consent
@@ -197,8 +197,8 @@ inputSchema:
       hint: Would you like to be considered for awards?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: volunteer_interest

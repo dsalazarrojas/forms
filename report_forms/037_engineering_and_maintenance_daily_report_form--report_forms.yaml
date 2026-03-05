@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Completed'', ''value'': ''completed''}'
-      - '{''id'': 2, ''label'': ''In Progress'', ''value'': ''in_progress''}'
-      - '{''id'': 3, ''label'': ''Not Started'', ''value'': ''not_started''}'
+      - Completed
+      - In Progress
+      - Not Started
       required: false
     - id: 4
       name: task_description
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Electrical'', ''value'': ''electrical''}'
-      - '{''id'': 2, ''label'': ''Mechanical'', ''value'': ''mechanical''}'
-      - '{''id'': 3, ''label'': ''Software'', ''value'': ''software''}'
+      - Electrical
+      - Mechanical
+      - Software
       required: false
     - id: 8
       name: issue_priority
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High'', ''value'': ''high''}'
-      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''medium''}'
-      - '{''id'': 3, ''label'': ''Low'', ''value'': ''low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 9
       name: notes

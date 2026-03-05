@@ -23,12 +23,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''0''}'
-      - '{''value'': ''1''}'
-      - '{''value'': ''2''}'
-      - '{''value'': ''3''}'
-      - '{''value'': ''4''}'
-      - '{''value'': ''5''}'
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 4
       name: gender
@@ -36,10 +36,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Male''}'
-      - '{''value'': 2, ''label'': ''Female''}'
-      - '{''value'': 3, ''label'': ''Other''}'
-      - '{''value'': 4, ''label'': ''Non-binary''}'
+      - Male
+      - Female
+      - Other
+      - Non-binary
       required: false
     - id: 5
       name: climate_change_concerns
@@ -48,11 +48,11 @@ inputSchema:
         focusing on right now?
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Climate change and global warming''}'
-      - '{''value'': 2, ''label'': ''Economic inequality and poverty''}'
-      - '{''value'': 3, ''label'': ''Racial and social injustice''}'
-      - '{''value'': 4, ''label'': ''War and conflict''}'
-      - '{''value'': 5, ''label'': ''Other''}'
+      - Climate change and global warming
+      - Economic inequality and poverty
+      - Racial and social injustice
+      - War and conflict
+      - Other
       required: false
     - id: 6
       name: policy_priority
@@ -60,12 +60,11 @@ inputSchema:
       hint: Please select one or multiple options.
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Reducing greenhouse gas emissions''}'
-      - '{''value'': 2, ''label'': ''Creating more jobs and opportunities for young
-        people''}'
-      - '{''value'': 3, ''label'': ''Improving public transportation and urban planning''}'
-      - '{''value'': 4, ''label'': ''Protecting and conserving natural spaces''}'
-      - '{''value'': 5, ''label'': ''Increasing public awareness''}'
+      - Reducing greenhouse gas emissions
+      - Creating more jobs and opportunities for young people
+      - Improving public transportation and urban planning
+      - Protecting and conserving natural spaces
+      - Increasing public awareness
       required: false
     - id: 7
       name: government_response
@@ -73,12 +72,12 @@ inputSchema:
       hint: Select all the options that apply to you.
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Reduce greenhouse gas emissions''}'
-      - '{''value'': 2, ''label'': ''Create more jobs and opportunities''}'
-      - '{''value'': 3, ''label'': ''Improve public transportation and urban planning''}'
-      - '{''value'': 4, ''label'': ''Protect natural spaces''}'
-      - '{''value'': 5, ''label'': ''Increase public awareness and education''}'
-      - '{''value'': 6, ''label'': ''Other''}'
+      - Reduce greenhouse gas emissions
+      - Create more jobs and opportunities
+      - Improve public transportation and urban planning
+      - Protect natural spaces
+      - Increase public awareness and education
+      - Other
       required: false
     - id: 8
       name: policy_recommendation

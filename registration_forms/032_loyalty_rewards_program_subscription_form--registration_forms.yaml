@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 6
       name: customer_preferred_channel
@@ -109,7 +109,7 @@ inputSchema:
       required: false
     - id: 13
       name: business_name
-      label: Business Name
+      label: Business Name (2)
       hint: null
       type: text
       options: []
@@ -122,15 +122,15 @@ inputSchema:
       options: []
       required: false
     - id: 15
-      name: contact_number
-      label: Contact Number
+      name: contact_number_2
+      label: Contact Number 2
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: email
-      label: Email
+      name: email_2
+      label: Email 2
       hint: null
       type: text
       options: []
@@ -185,14 +185,14 @@ inputSchema:
       options: []
       required: false
     - id: 24
-      name: business_facebook
-      label: Facebook
+      name: business_facebook_2
+      label: Business Facebook 2
       hint: null
       type: text
       options: []
       required: false
     - id: 25
-      name: notes
+      name: notes_2
       label: Business Notes
       hint: null
       type: note

@@ -1,85 +1,74 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Blasting Safety Checklist
     pages:
-      - id: 1
-        name: checklist_header
-        label: -- Pre Blast Safety Checklist --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: inspector_name
-        label: Inspector name
-        hint: Person completing checklist
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: date
-        label: Date
-        hint: Date of inspection
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: time
-        label: Time
-        hint: Time of inspection
-        type: time
-        options: []
-        required: true
-      - id: 5
-        name: blast_area_secured
-        label: Blast area secured
-        hint: Confirm exclusion zones established
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 6
-        name: communication_confirmed
-        label: Communication confirmed
-        hint: All teams briefed on schedule
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 7
-        name: equipment_checked
-        label: Equipment checked
-        hint: Monitoring and detonation gear verified
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 8
-        name: weather_conditions
-        label: Weather conditions
-        hint: Note wind rain or other factors
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: additional_actions_required
-        label: Additional actions required
-        hint: Any outstanding actions before blast
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: checklist_header
+      label: -- Pre Blast Safety Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector name
+      hint: Person completing checklist
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: Time
+      hint: Time of inspection
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: blast_area_secured
+      label: Blast area secured
+      hint: Confirm exclusion zones established
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: communication_confirmed
+      label: Communication confirmed
+      hint: All teams briefed on schedule
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: equipment_checked
+      label: Equipment checked
+      hint: Monitoring and detonation gear verified
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: weather_conditions
+      label: Weather conditions
+      hint: Note wind rain or other factors
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_actions_required
+      label: Additional actions required
+      hint: Any outstanding actions before blast
+      type: text
+      options: []
+      required: false

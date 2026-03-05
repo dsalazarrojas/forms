@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 101, ''label'': ''Equipment failure'', ''value'': ''Equipment failure''}'
-      - '{''id'': 102, ''label'': ''Employee error'', ''value'': ''Employee error''}'
-      - '{''id'': 103, ''label'': ''Weather'', ''value'': ''Weather''}'
-      - '{''id'': 104, ''label'': ''Other'', ''value'': ''Other''}'
+      - Equipment failure
+      - Employee error
+      - Weather
+      - Other
       required: true
     - id: 8
       name: incident_employees_involved
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 201, ''label'': ''John'', ''value'': ''John''}'
-      - '{''id'': 202, ''label'': ''Jane'', ''value'': ''Jane''}'
-      - '{''id'': 203, ''label'': ''Jim'', ''value'': ''Jim''}'
+      - John
+      - Jane
+      - Jim
       required: true
     - id: 9
       name: witness
@@ -135,8 +135,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 301, ''label'': True, ''value'': ''Reported''}'
-      - '{''id'': 302, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: shift_start_lat

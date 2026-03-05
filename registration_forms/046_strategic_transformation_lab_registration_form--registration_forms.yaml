@@ -6,14 +6,14 @@ inputSchema:
     - id: 1
       name: participant_details
       label: Participant Details
-      hint: null
+      hint: Please provide your name and contact information
       type: text
       options: []
       required: false
     - id: 2
       name: goals
       label: Goals
-      hint: null
+      hint: Describe your professional goals and objectives
       type: text
       options: []
       required: false
@@ -21,12 +21,14 @@ inputSchema:
       name: preferences
       label: Preferences
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 4
-      name: participant_preferences
-      label: Participant Preferences
+      name: participant_preferences_detailed
+      label: Participant Preferences (Detailed)
       hint: null
       type: text
       options: []
@@ -46,31 +48,31 @@ inputSchema:
       options: []
       required: false
     - id: 7
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: phone
-      label: Phone
+      name: submission
+      label: Submission
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: participant_comments
       label: Participant Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: participant_goals
-      label: Participant Goals
+    - id: 9
+      name: participant_phone
+      label: Participant Phone
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
       options: []
       required: false
     - id: 11
@@ -81,107 +83,8 @@ inputSchema:
       options: []
       required: false
     - id: 12
-      name: submission
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: participant_goals_preferences
-      label: Participant Goals Preferences
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: participant_preferences_preferences
-      label: Participant Preferences Preferences
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: submission
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: participant_comments
-      label: Participant Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: participant_goals
-      label: Participant Goals
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: participant_preferences
-      label: Participant Preferences
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: participant_goals_preferences
-      label: Participant Goals Preferences
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: participant_preferences_preferences
-      label: Participant Preferences Preferences
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: submission
-      label: Submission
+      name: transformation_submission
+      label: Transformation Submission
       hint: null
       type: text
       options: []

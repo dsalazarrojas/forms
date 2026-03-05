@@ -15,126 +15,108 @@ inputSchema:
     title: Inventory Depletion Report Log
     pages:
     - id: 1
-      name: inventory_depletion_report_log_form
-      label: inventory_depletion_report
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: inventory_depletion_date
-      label: inventory_depletion_date
+      label: Inventory Depletion Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 3
-      name: inventory_depletion_date
-      label: stock_usage_location
+    - id: 2
+      name: stock_usage_location
+      label: Depleting Store Location(s)
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Store 1''}'
-      - '{''value'': ''Store 2''}'
-      - '{''value'': ''Store 3''}'
+      - Store 1
+      - Store 2
+      - Store 3
+      required: false
+    - id: 3
+      name: stock_usage_shift
+      label: Stock Usage Shift
+      hint: null
+      type: select_one
+      options:
+      - Day
+      - Night
+      - Weekend
       required: false
     - id: 4
-      name: inventory_depletion_date
-      label: stock_usage_location
+      name: inventory_type
+      label: Type of Inventory
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Store 1''}'
-      - '{''value'': ''Store 2''}'
-      - '{''value'': ''Store 3''}'
+      type: text
+      options: []
       required: false
     - id: 5
-      name: inventory_depletion_date
-      label: stock_usage_location
+      name: inventory_depleted
+      label: Inventory Depleted
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Store 1''}'
-      - '{''value'': ''Store 2''}'
-      - '{''value'': ''Store 3''}'
+      type: number
+      options: []
       required: false
     - id: 6
-      name: inventory_depletion_date
-      label: stock_usage_location
+      name: inventory_notes
+      label: Additional Notes
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Store 1''}'
-      - '{''value'': ''Store 2''}'
-      - '{''value'': ''Store 3''}'
+      type: note
+      options: []
       required: false
     - id: 7
-      name: inventory_depletion_date
-      label: stock_usage_location
+      name: inventory_details
+      label: Additional Details
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Store 1''}'
-      - '{''value'': ''Store 2''}'
-      - '{''value'': ''Store 3''}'
+      type: text
+      options: []
       required: false
     - id: 8
-      name: inventory_depletion_date
-      label: stock_usage_location
+      name: inventory_date_range
+      label: Select Date Range
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Store 1''}'
-      - '{''value'': ''Store 2''}'
-      - '{''value'': ''Store 3''}'
+      - Yesterday
+      - This Week
+      - Last Week
       required: false
     - id: 9
-      name: stock_usage_shift
-      label: stock_usage_shift
+      name: inventory_depleted_quantity
+      label: Depleted Quantity
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Day''}'
-      - '{''value'': ''Night''}'
-      - '{''value'': ''Weekend''}'
+      type: number
+      options: []
       required: false
     - id: 10
-      name: stock_usage_shift
-      label: stock_usage_shift
+      name: inventory_reports
+      label: Additional Reports
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''value'': ''Day''}'
-      - '{''value'': ''Night''}'
-      - '{''value'': ''Weekend''}'
+      - Report 1
+      - Report 2
+      - Report 3
       required: false
     - id: 11
-      name: stock_usage_shift
-      label: stock_usage_shift
+      name: stockroom_location
+      label: Stockroom Location
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''value'': ''Day''}'
-      - '{''value'': ''Night''}'
-      - '{''value'': ''Weekend''}'
+      - Location 1
+      - Location 2
+      - Location 3
       required: false
     - id: 12
-      name: stock_usage_shift
-      label: stock_usage_shift
+      name: inventory_comments
+      label: Comments
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Day''}'
-      - '{''value'': ''Night''}'
-      - '{''value'': ''Weekend''}'
+      type: note
+      options: []
       required: false
     - id: 13
-      name: stock_usage_shift
-      label: stock_usage_shift
+      name: additional_questions
+      label: Additional Questions
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Day''}'
-      - '{''value'': ''Night''}'
-      - '{''value'': ''Weekend''}'
+      type: text
+      options: []
       required: false

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Checking'', ''value'': ''checking''}'
-      - '{''label'': ''Savings'', ''value'': ''savings''}'
-      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      - Checking
+      - Savings
+      - Credit Card
       required: false
     - id: 5
       name: account_balance
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Bank Statement'', ''value'': ''bank-statement''}'
-      - '{''label'': ''Check'', ''value'': ''check''}'
-      - '{''label'': ''Receipt'', ''value'': ''receipt''}'
+      - Bank Statement
+      - Check
+      - Receipt
       required: false
     - id: 10
       name: contact_info

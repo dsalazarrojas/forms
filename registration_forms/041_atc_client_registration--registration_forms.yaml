@@ -127,8 +127,8 @@ inputSchema:
       hint: Let us know about any food restrictions
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Prefer not to say
       required: false
     - id: 16
@@ -144,8 +144,8 @@ inputSchema:
       hint: Let us know if you require special accommodations
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Prefer not to say
       required: false
     - id: 18
@@ -161,9 +161,9 @@ inputSchema:
       hint: Select if you agree to receive marketing communications
       type: select_one
       options:
-      - true
+      - 'True'
       - I consent
-      - false
+      - 'False'
       - I do not consent
       required: false
     - id: 20
@@ -172,8 +172,8 @@ inputSchema:
       hint: Please confirm your agreement with our policies
       type: select_one
       options:
-      - true
+      - 'True'
       - I agree
-      - false
+      - 'False'
       - I do not agree
       required: true

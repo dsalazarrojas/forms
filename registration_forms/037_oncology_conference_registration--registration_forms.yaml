@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Attendee''}'
-      - '{''id'': 2, ''label'': ''Staff''}'
-      - '{''id'': 3, ''label'': ''Presenter''}'
+      - Attendee
+      - Staff
+      - Presenter
       required: true
     - id: 2
       name: name
@@ -54,9 +54,9 @@ inputSchema:
       hint: Select 1 of the sessions you would like to attend
       type: select_multiple
       options:
-      - '{''label'': ''Session 1''}'
-      - '{''label'': ''Session 2''}'
-      - '{''label'': ''Session 3''}'
+      - Session 1
+      - Session 2
+      - Session 3
       required: true
     - id: 8
       name: session
@@ -64,9 +64,9 @@ inputSchema:
       hint: Select 2 of the sessions you would like to attend
       type: select_multiple
       options:
-      - '{''label'': ''Session 1''}'
-      - '{''label'': ''Session 2''}'
-      - '{''label'': ''Session 3''}'
+      - Session 1
+      - Session 2
+      - Session 3
       required: false
     - id: 9
       name: session
@@ -74,9 +74,9 @@ inputSchema:
       hint: Select 3 of the sessions you would like to attend
       type: select_multiple
       options:
-      - '{''label'': ''Session 1''}'
-      - '{''label'': ''Session 2''}'
-      - '{''label'': ''Session 3''}'
+      - Session 1
+      - Session 2
+      - Session 3
       required: false
     - id: 10
       name: comments

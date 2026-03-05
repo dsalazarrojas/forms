@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Program 1'', ''description'': ''Program 1''}'
-      - '{''id'': 2, ''name'': ''Program 2'', ''description'': ''Program 2''}'
-      - '{''id'': 3, ''name'': ''Program 3'', ''description'': ''Program 3''}'
+      - Program 1
+      - Program 2
+      - Program 3
       required: false
     - id: 4
       name: program_extension_start_date
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''description'': True}'
-      - '{''id'': 2, ''name'': False, ''description'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: mentorship_program_extension_form_submitter
@@ -63,6 +63,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Mentor'', ''description'': ''Mentor''}'
-      - '{''id'': 2, ''name'': ''Mentee'', ''description'': ''Mentee''}'
+      - Mentor
+      - Mentee
       required: false

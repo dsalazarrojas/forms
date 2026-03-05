@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: number_of_guests
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Vegetarian'', ''value'': ''vegetarian''}'
-      - '{''label'': ''Non-Vegetarian'', ''value'': ''non-vegetarian''}'
-      - '{''label'': ''Omnivore'', ''value'': ''omnivore''}'
+      - Vegetarian
+      - Non-Vegetarian
+      - Omnivore
       required: false
     - id: 9
       name: dietary_restrictions

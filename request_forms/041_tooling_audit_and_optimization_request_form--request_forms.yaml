@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Electrical'', ''label'': ''Electrical''}'
-      - '{''value'': ''Mechanical'', ''label'': ''Mechanical''}'
-      - '{''value'': ''Software'', ''label'': ''Software''}'
+      - Electrical
+      - Mechanical
+      - Software
       required: true
     - id: 3
       name: description
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High'', ''label'': ''High''}'
-      - '{''value'': ''Medium'', ''label'': ''Medium''}'
-      - '{''value'': ''Low'', ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 5
       name: assigned_tool

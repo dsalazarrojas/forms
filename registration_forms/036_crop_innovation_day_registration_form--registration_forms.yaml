@@ -71,14 +71,14 @@ inputSchema:
     - id: 9
       name: email
       label: Email
-      hint: 'Format: example@domain.com'
+      hint: Format - example@domain.com
       type: email
       options: []
       required: false
     - id: 10
       name: phone
       label: Phone
-      hint: 'Format: 123-456-7890'
+      hint: Format - 123-456-7890
       type: text
       options: []
       required: false
@@ -104,8 +104,8 @@ inputSchema:
       options: []
       required: false
     - id: 14
-      name: output
-      label: Output
+      name: output_2
+      label: Output 2
       hint: null
       type: date
       options: []
@@ -144,10 +144,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 20
       name: select_multiple
@@ -155,50 +154,47 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 21
-      name: select_one
-      label: Select One
+      name: select_one_2
+      label: Select One 2
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 22
-      name: select_multiple
-      label: Select Multiple
+      name: select_multiple_2
+      label: Select Multiple 2
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 23
-      name: date
-      label: Date
+      name: date_2
+      label: Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 24
-      name: time
-      label: Time
+      name: time_2
+      label: Time 2
       hint: null
       type: time
       options: []
       required: false
     - id: 25
-      name: decimal
-      label: Decimal
+      name: decimal_2
+      label: Decimal 2
       hint: null
       type: number
       options: []

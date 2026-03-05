@@ -186,8 +186,8 @@ inputSchema:
       hint: Have potential drug interactions been checked?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unable to verify
       required: true
     - id: 25
@@ -196,8 +196,8 @@ inputSchema:
       hint: Are the patient's allergies documented and known?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unable to verify
       required: true
     - id: 26
@@ -214,8 +214,8 @@ inputSchema:
         etc.)?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 28
       name: special_handling_details

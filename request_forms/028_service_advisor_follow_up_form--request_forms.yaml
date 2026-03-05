@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 11, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
-      - '{''id'': 12, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
-      - '{''id'': 13, ''name'': ''not_satisfied'', ''label'': ''not_satisfied''}'
+      - very satisfied
+      - somewhat satisfied
+      - not satisfied
       required: false
     - id: 3
       name: service_advisor_follow_up_form_question
@@ -33,8 +33,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 21, ''name'': True, ''label'': True}'
-      - '{''id'': 22, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: service_advisor_follow_up_form_question

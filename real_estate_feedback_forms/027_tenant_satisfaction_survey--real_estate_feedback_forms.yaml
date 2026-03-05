@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: comments
@@ -95,16 +95,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''laundry_facilities'', ''label'': ''Laundry Facilities''}'
-      - '{''value'': ''parking'', ''label'': ''Parking''}'
-      - '{''value'': ''pool_table'', ''label'': ''Pool Table''}'
-      - '{''value'': ''game_room'', ''label'': ''Game Room''}'
-      - '{''value'': ''exercise_room'', ''label'': ''Exercise Room''}'
-      - '{''value'': ''movie_theater'', ''label'': ''Movie Theater''}'
-      - '{''value'': ''gym'', ''label'': ''Gym''}'
-      - '{''value'': ''community_room'', ''label'': ''Community Room''}'
-      - '{''value'': ''game_room'', ''label'': ''Game Room''}'
-      - '{''value'': ''parking_lot'', ''label'': ''Parking Lot''}'
+      - Laundry Facilities
+      - Parking
+      - Pool Table
+      - Game Room
+      - Exercise Room
+      - Movie Theater
+      - Gym
+      - Community Room
+      - Parking Lot
       required: false
     - id: 14
       name: building_rating

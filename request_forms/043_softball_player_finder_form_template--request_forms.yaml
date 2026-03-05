@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pitcher''}'
-      - '{''id'': 2, ''label'': ''Catcher''}'
-      - '{''id'': 3, ''label'': ''Infielder''}'
-      - '{''id'': 4, ''label'': ''Outfielder''}'
-      - '{''id'': 5, ''label'': ''Masseuse''}'
+      - Pitcher
+      - Catcher
+      - Infielder
+      - Outfielder
+      - Masseuse
       required: false
     - id: 4
       name: email
@@ -63,10 +63,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Novice''}'
-      - '{''id'': 2, ''label'': ''Experienced''}'
-      - '{''id'': 3, ''label'': ''Intermediate''}'
-      - '{''id'': 4, ''label'': ''Advanced''}'
+      - Novice
+      - Experienced
+      - Intermediate
+      - Advanced
       required: false
     - id: 9
       name: player_height

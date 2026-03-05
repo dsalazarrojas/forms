@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 2
       name: capture_goals
@@ -37,8 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: notes
@@ -48,7 +49,7 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: notes
+      name: notes_2
       label: Additional Comments
       hint: null
       type: note
@@ -69,7 +70,7 @@ inputSchema:
       options: []
       required: false
     - id: 9
-      name: notes
+      name: notes_3
       label: Program Owner Notes
       hint: null
       type: note
@@ -83,28 +84,28 @@ inputSchema:
       options: []
       required: false
     - id: 11
-      name: experience_levels
-      label: Experience Levels
+      name: experience_levels_2
+      label: Experience Levels 2
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: notes
+      name: notes_4
       label: Additional Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 13
-      name: email
+      name: email_2
       label: Program Owner Email
       hint: null
       type: email
       options: []
       required: false
     - id: 14
-      name: phone
+      name: phone_2
       label: Program Owner Phone
       hint: null
       type: text
@@ -116,8 +117,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 16
       name: coach
@@ -125,12 +127,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 17
-      name: coach
-      label: Coach
+      name: coach_2
+      label: Coach 2
       hint: null
       type: select_one
       options:
@@ -138,17 +141,18 @@ inputSchema:
       - 'No'
       required: false
     - id: 18
-      name: coach
-      label: Coach
+      name: coach_3
+      label: Coach 3
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 19
-      name: coach
-      label: Coach
+      name: coach_4
+      label: Coach 4
       hint: null
       type: select_one
       options:
@@ -156,8 +160,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 20
-      name: coach
-      label: Coach
+      name: coach_5
+      label: Coach 5
       hint: null
       type: select_one
       options:

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: fall_protection
@@ -36,9 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''hard_hat''}'
-      - '{''id'': 2, ''name'': ''safety_spectacle''}'
-      - '{''id'': 3, ''name'': ''harness''}'
+      - hard hat
+      - safety spectacle
+      - harness
       required: false
     - id: 4
       name: confined_space_entry
@@ -46,8 +35,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: lift_equipment_inspection
@@ -69,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily''}'
-      - '{''id'': 2, ''name'': ''weekly''}'
-      - '{''id'': 3, ''name'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 8
       name: lift_operators_license
@@ -107,9 +96,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''hard_hats''}'
-      - '{''id'': 2, ''name'': ''safety_vests''}'
-      - '{''id'': 3, ''name'': ''safety_glasses''}'
+      - hard hats
+      - safety vests
+      - safety glasses
       required: false
     - id: 13
       name: personal_protection_equipment
@@ -117,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''harness''}'
-      - '{''id'': 2, ''name'': ''fall_protection_equipment''}'
-      - '{''id'': 3, ''name'': ''hard_hat''}'
+      - harness
+      - fall protection equipment
+      - hard hat
       required: false
     - id: 14
       name: rescue_procedure
@@ -148,9 +137,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily''}'
-      - '{''id'': 2, ''name'': ''weekly''}'
-      - '{''id'': 3, ''name'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 18
       name: equipment_testing_frequency
@@ -158,9 +147,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily''}'
-      - '{''id'': 2, ''name'': ''weekly''}'
-      - '{''id'': 3, ''name'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 19
       name: training_frequency
@@ -168,9 +157,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily''}'
-      - '{''id'': 2, ''name'': ''weekly''}'
-      - '{''id'': 3, ''name'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 20
       name: lift_operator_training_frequency
@@ -178,9 +167,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily''}'
-      - '{''id'': 2, ''name'': ''weekly''}'
-      - '{''id'': 3, ''name'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 21
       name: rescue_training_frequency
@@ -188,9 +177,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily''}'
-      - '{''id'': 2, ''name'': ''weekly''}'
-      - '{''id'': 3, ''name'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 22
       name: confined_space_entry_training_frequency
@@ -198,9 +187,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily''}'
-      - '{''id'': 2, ''name'': ''weekly''}'
-      - '{''id'': 3, ''name'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 23
       name: confined_space_entry_procedure_frequency
@@ -208,9 +197,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily''}'
-      - '{''id'': 2, ''name'': ''weekly''}'
-      - '{''id'': 3, ''name'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 24
       name: rescue_equipment_testing_frequency
@@ -218,9 +207,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily''}'
-      - '{''id'': 2, ''name'': ''weekly''}'
-      - '{''id'': 3, ''name'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 25
       name: safety_equipment_testing_frequency
@@ -228,7 +217,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily''}'
-      - '{''id'': 2, ''name'': ''weekly''}'
-      - '{''id'': 3, ''name'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''America/New_York'': ''EST''}'
-      - '{''America/Los_Angeles'': ''PST''}'
-      - '{''America/Chicago'': ''CST''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 3
       name: school_location
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''America/New_York'': ''EST''}'
-      - '{''America/Los_Angeles'': ''PST''}'
-      - '{''America/Chicago'': ''CST''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 7
       name: launch_date
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''EST'': ''Eastern Standard Time''}'
-      - '{''CST'': ''Central Standard Time''}'
-      - '{''PST'': ''Pacific Standard Time''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 10
       name: timezone_note
@@ -147,38 +147,38 @@ inputSchema:
       required: true
     - id: 20
       name: school_director_timezone
-      label: Timezone
+      label: School Director Timezone
       hint: null
       type: select_one
       options:
-      - '{''America/New_York'': ''EST''}'
-      - '{''America/Los_Angeles'': ''PST''}'
-      - '{''America/Chicago'': ''CST''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 21
       name: school_director_launch_date
-      label: Launch Date
+      label: School Director Launch Date
       hint: null
       type: date
       options: []
       required: false
     - id: 22
       name: school_director_launch_time
-      label: Launch Time
+      label: School Director Launch Time
       hint: null
       type: time
       options: []
       required: false
     - id: 23
       name: school_director_timezone_note
-      label: Timezone
+      label: School Director Timezone Note
       hint: null
       type: note
       options: []
       required: false
     - id: 24
       name: school_director_website
-      label: Website
+      label: School Director Website
       hint: null
       type: text
       options: []

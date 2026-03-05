@@ -23,21 +23,21 @@ inputSchema:
       required: true
     - id: 2
       name: smart_sensor_calibration_report_form_page_2
-      label: Report Details
+      label: Calibration Details
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: smart_sensor_calibration_report_form_page_3
-      label: Sensor Calibration Data
+      label: Calibration Status
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
+      - Draft
+      - In Progress
+      - Completed
+      required: true
     - id: 4
       name: smart_sensor_calibration_report_form_page_4
       label: Calibration Date
@@ -62,143 +62,91 @@ inputSchema:
       type: select_multiple
       options:
       - Draft
-      - In Progress
-      - Completed
+      - Published
       required: true
     - id: 7
       name: smart_sensor_calibration_report_form_page_7
-      label: Calibration Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: smart_sensor_calibration_report_form_page_8
-      label: Calibration Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: smart_sensor_calibration_report_form_page_9
-      label: Report Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 10
-      name: smart_sensor_calibration_report_form_page_10
-      label: Submission Status
-      hint: null
-      type: select_multiple
-      options:
-      - Draft
-      - Published
-      required: true
-    - id: 11
-      name: smart_sensor_calibration_report_form_page_11
       label: Sensor Type
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 8
+      name: smart_sensor_calibration_report_form_page_8
+      label: Equipment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: smart_sensor_calibration_report_form_page_9
+      label: Calibration Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: smart_sensor_calibration_report_form_page_10
+      label: Sensor Calibration Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: smart_sensor_calibration_report_form_page_11
+      label: Report Number
+      hint: null
+      type: text
+      options: []
       required: true
     - id: 12
       name: smart_sensor_calibration_report_form_page_12
-      label: Equipment Serial Number
+      label: Sensor Serial Number
       hint: null
       type: text
       options: []
       required: true
     - id: 13
       name: smart_sensor_calibration_report_form_page_13
-      label: Calibration Number
+      label: Sensor ID
       hint: null
       type: text
       options: []
       required: true
     - id: 14
       name: smart_sensor_calibration_report_form_page_14
-      label: Sensor Calibration Frequency
+      label: Smart Sensor Calibration Report Form Page 14
       hint: null
       type: text
       options: []
       required: true
     - id: 15
       name: smart_sensor_calibration_report_form_page_15
-      label: Report Number
+      label: Sensor Data
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 16
       name: smart_sensor_calibration_report_form_page_16
-      label: Serial Number
+      label: Smart Sensor Calibration Report Form Page 16
       hint: null
       type: text
       options: []
       required: true
     - id: 17
       name: smart_sensor_calibration_report_form_page_17
-      label: sensor_type
+      label: Calibration Location
       hint: null
       type: text
       options: []
       required: true
     - id: 18
       name: smart_sensor_calibration_report_form_page_18
-      label: equipment_serial_number
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: smart_sensor_calibration_report_form_page_19
-      label: calibration_number
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: smart_sensor_calibration_report_form_page_20
-      label: sensor_calibration_frequency
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: smart_sensor_calibration_report_form_page_21
-      label: report_number
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: smart_sensor_calibration_report_form_page_22
-      label: sensor_serial_number
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: smart_sensor_calibration_report_form_page_23
-      label: sensor_id
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: smart_sensor_calibration_report_form_page_24
-      label: sensor_frequency
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: smart_sensor_calibration_report_form_page_25
-      label: sensor_data
+      label: Additional Comments
       hint: null
       type: text
       options: []

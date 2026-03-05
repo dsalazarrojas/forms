@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Working full-time''}'
-      - '{''label'': ''Working part-time''}'
-      - '{''label'': ''Unemployed''}'
-      - '{''label'': ''Retired''}'
+      - Working full-time
+      - Working part-time
+      - Unemployed
+      - Retired
       required: false
     - id: 4
       name: marital_status
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Married''}'
-      - '{''label'': ''Single''}'
-      - '{''label'': ''Other (e.g. Domestic partner)''}'
+      - Married
+      - Single
+      - Other (e.g. Domestic partner)
       required: false
     - id: 5
       name: address_history
@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''1-5 years''}'
-      - '{''label'': ''5-10 years''}'
-      - '{''label'': ''More than 10 years''}'
+      - 1-5 years
+      - 5-10 years
+      - More than 10 years
       required: false
     - id: 6
       name: employment_history
@@ -96,10 +96,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Single-family home''}'
-      - '{''label'': ''Condo''}'
-      - '{''label'': ''Townhouse''}'
-      - '{''label'': ''Other''}'
+      - Single-family home
+      - Condo
+      - Townhouse
+      - Other
       required: false
     - id: 13
       name: property_value
@@ -131,39 +131,39 @@ inputSchema:
       required: false
     - id: 17
       name: property_type_2
-      label: What type of property are you looking to purchase?
+      label: Property Type 2
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Single-family home''}'
-      - '{''label'': ''Condo''}'
-      - '{''label'': ''Townhouse''}'
-      - '{''label'': ''Other''}'
+      - Single-family home
+      - Condo
+      - Townhouse
+      - Other
       required: false
     - id: 18
       name: property_value_2
-      label: What is the value of the property you are looking to purchase?
+      label: Property Value 2
       hint: null
       type: number
       options: []
       required: false
     - id: 19
       name: loan_amount_2
-      label: How much of a loan are you looking to secure?
+      label: Loan Amount 2
       hint: null
       type: number
       options: []
       required: false
     - id: 20
       name: down_payment_2
-      label: What is your planned down payment?
+      label: Down Payment 2
       hint: null
       type: number
       options: []
       required: false
     - id: 21
       name: closing_cost_2
-      label: What is the closing cost for the home you are looking to purchase?
+      label: Closing Cost 2
       hint: null
       type: number
       options: []
@@ -174,26 +174,26 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: other_credit_2
-      label: Are you applying with a non-traditional credit history?
+      label: Other Credit 2
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: other_credit_3
-      label: Are you applying with a non-traditional credit history?
+      label: Other Credit 3
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: submit
@@ -201,6 +201,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Submit''}'
-      - '{''label'': ''Cancel''}'
+      - Submit
+      - Cancel
       required: false

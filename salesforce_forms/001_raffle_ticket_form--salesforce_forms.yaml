@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Ticket 1'', ''value'': ''Ticket 1''}'
-      - '{''id'': 2, ''name'': ''Ticket 2'', ''value'': ''Ticket 2''}'
-      - '{''id'': 3, ''name'': ''Ticket 3'', ''value'': ''Ticket 3''}'
+      - Ticket 1
+      - Ticket 2
+      - Ticket 3
       required: false
     - id: 4
       name: entry_4
@@ -54,9 +54,9 @@ inputSchema:
       hint: Select a payment option from the list below
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''PayPal'', ''value'': ''PayPal''}'
-      - '{''id'': 2, ''name'': ''Stripe'', ''value'': ''Stripe''}'
-      - '{''id'': 3, ''name'': ''Authorize Net'', ''value'': ''Authorize Net''}'
+      - PayPal
+      - Stripe
+      - Authorize Net
       required: false
     - id: 8
       name: entry_8
@@ -99,6 +99,6 @@ inputSchema:
       hint: Payment status
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Paid'', ''value'': ''Paid''}'
-      - '{''id'': 2, ''name'': ''Not Paid'', ''value'': ''Not Paid''}'
+      - Paid
+      - Not Paid
       required: false

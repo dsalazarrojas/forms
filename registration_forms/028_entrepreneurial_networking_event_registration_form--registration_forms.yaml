@@ -5,152 +5,158 @@ inputSchema:
     pages:
     - id: 1
       name: first_name
-      label: first-name
+      label: First Name
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: last_name
-      label: last-name
+      label: Last Name
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: business_name
-      label: business-name
+      label: Business Name
       hint: Enter your business name
       type: text
       options: []
       required: true
     - id: 4
       name: job_title
-      label: job-title
+      label: Job Title
       hint: null
       type: text
       options: []
       required: true
     - id: 5
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
       required: true
     - id: 6
       name: phone
-      label: phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: true
     - id: 7
       name: date
-      label: date
+      label: Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 8
       name: time
-      label: time
+      label: Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 9
       name: note
-      label: note
+      label: Note
       hint: null
-      type: note
+      type: text
       options: []
       required: true
     - id: 10
       name: category
-      label: category
+      label: Category
       hint: null
       type: select_one
       options:
-      - category_a
-      - category_b
-      - category_c
+      - Category A
+      - Category B
+      - Category C
       required: true
     - id: 11
       name: select_multiple
-      label: select-multiple
+      label: Select Multiple
       hint: null
       type: select_multiple
       options:
-      - option_a
-      - option_b
-      - option_c
+      - Option A
+      - Option B
+      - Option C
       required: true
     - id: 12
       name: select_one
-      label: select-one
+      label: Select One
       hint: null
       type: select_one
       options:
-      - option_a
-      - option_b
+      - Option A
+      - Option B
       required: true
     - id: 13
       name: integer
-      label: integer
+      label: Integer
       hint: null
       type: number
       options: []
       required: true
     - id: 14
       name: decimal
-      label: decimal
+      label: Decimal
       hint: null
       type: number
       options: []
       required: true
     - id: 15
-      name: text
-      label: text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 17
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 18
-      name: select_one
-      label: select-one-2
+      name: select_one_2
+      label: Select One 2
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: true
-    - id: 19
-      name: select_multiple
-      label: select-multiple-2
+    - id: 16
+      name: select_multiple_2
+      label: Select Multiple 2
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: true
+    - id: 17
+      name: select_one_3
+      label: Select One 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: select_multiple_3
+      label: Select Multiple 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: select_one_4
+      label: Select One 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 20
-      name: select_multiple
-      label: select-multiple-3
+      name: select_multiple_4
+      label: Select Multiple 4
       hint: null
       type: select_multiple
       options:
@@ -158,46 +164,10 @@ inputSchema:
       - 'No'
       required: true
     - id: 21
-      name: select_multiple
-      label: select-multiple-4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: select_multiple
-      label: select-multiple-5
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 23
-      name: select_one
-      label: select-one
+      name: select_one_5
+      label: Select One 5
       hint: null
       type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 24
-      name: select_one
-      label: select-one-2
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 25
-      name: select_multiple
-      label: select-multiple
-      hint: null
-      type: select_multiple
       options:
       - 'Yes'
       - 'No'

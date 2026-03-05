@@ -5,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: Registration Anomaly Review Form
+      label: Registration Anomaly Review Form Title
       hint: null
       type: text
       options: []
@@ -27,158 +27,113 @@ inputSchema:
       options: []
       required: false
     - id: 4
-      name: form_description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: form_id
       label: Form ID
       hint: null
       type: number
       options: []
       required: true
-    - id: 6
+    - id: 5
       name: form_ids
       label: Form IDs
       hint: null
       type: select_multiple
       options:
-      - '20498'
-      - '66618'
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
-    - id: 7
+    - id: 6
       name: output_file
       label: Output File
       hint: null
       type: text
       options: []
       required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 8
-      name: assigned_tool
-      label: Assigned Tool
+      name: review_status
+      label: Review Status
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
     - id: 9
-      name: form_description
-      label: Description
+      name: review_date
+      label: Review Date
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 10
-      name: form_description
-      label: Description
+      name: review_time
+      label: Review Time
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 11
-      name: form_description
-      label: Description
+      name: reviewer
+      label: Reviewer
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: form_category
-      label: Category
+      name: reviewer_comment
+      label: Reviewer Comment
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: form_title
-      label: Title
+      name: action_taken
+      label: Action Taken
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 14
-      name: form_title
-      label: Title
+      name: follow_up
+      label: Follow-up
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 15
-      name: form_category
-      label: Category
+      name: review_notes
+      label: Review Notes
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 16
-      name: assigned_tool
-      label: Assigned Tool
+      name: next_steps
+      label: Next Steps
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 17
-      name: form_description
-      label: Description
+      name: reviewer_id
+      label: Reviewer ID
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 18
-      name: form_description
-      label: Description
+      name: reviewer_email
+      label: Reviewer's Email
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
-    - id: 19
-      name: form_title
-      label: Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: form_category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: form_ids
-      label: Form IDs
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_title
-      label: Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

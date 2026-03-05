@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Goalkeeper''}'
-      - '{''id'': 2, ''label'': ''Defender''}'
-      - '{''id'': 3, ''label'': ''Midfielder''}'
-      - '{''id'': 4, ''label'': ''Forward''}'
+      - Goalkeeper
+      - Defender
+      - Midfielder
+      - Forward
       required: false
     - id: 3
       name: player_age
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 6
       name: coach_name
@@ -93,9 +93,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Very Good''}'
-      - '{''id'': 2, ''label'': ''Average''}'
-      - '{''id'': 3, ''label'': ''Poor''}'
+      - Very Good
+      - Average
+      - Poor
       required: false
     - id: 13
       name: coach_performance
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Very Good''}'
-      - '{''id'': 2, ''label'': ''Average''}'
-      - '{''id'': 3, ''label'': ''Poor''}'
+      - Very Good
+      - Average
+      - Poor
       required: false
     - id: 14
       name: coach_experience
@@ -134,8 +134,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: recommended
@@ -143,8 +143,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: comments
@@ -166,8 +166,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
+      - Male
+      - Female
       required: false
     - id: 22
       name: date_submitted
@@ -182,8 +182,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Head Coach''}'
-      - '{''id'': 2, ''label'': ''Assistant Coach''}'
+      - Head Coach
+      - Assistant Coach
       required: false
     - id: 24
       name: team_name
@@ -198,8 +198,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Team A''}'
-      - '{''id'': 2, ''label'': ''Team B''}'
-      - '{''id'': 3, ''label'': ''Team C''}'
-      - '{''id'': 4, ''label'': ''Team D''}'
+      - Team A
+      - Team B
+      - Team C
+      - Team D
       required: false

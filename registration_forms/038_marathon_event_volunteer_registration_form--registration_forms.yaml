@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: phone
@@ -53,12 +53,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''EST''}'
-      - '{''label'': ''CST''}'
-      - '{''label'': ''PST''}'
-      - '{''label'': ''MST''}'
-      - '{''label'': ''CST''}'
-      - '{''label'': ''AKST''}'
+      - EST
+      - CST
+      - PST
+      - MST
+      - AKST
       required: false
     - id: 8
       name: volunteer_role
@@ -66,9 +65,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Water Station''}'
-      - '{''label'': ''Aid Station''}'
-      - '{''label'': ''Finish Line''}'
+      - Water Station
+      - Aid Station
+      - Finish Line
       required: false
     - id: 9
       name: volunteer_details
@@ -90,8 +89,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: volunteer_start_date
@@ -134,9 +133,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''AM''}'
-      - '{''label'': ''PM''}'
-      - '{''label'': ''All Day''}'
+      - AM
+      - PM
+      - All Day
       required: false
     - id: 18
       name: volunteer_notes
@@ -151,8 +150,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: confirm_assigned_volunteer
@@ -160,8 +159,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: submit
@@ -169,6 +168,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Submit''}'
-      - '{''label'': ''Reset''}'
+      - Submit
+      - Reset
       required: false

@@ -100,8 +100,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: previous_license_details
@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Prefer not to answer
       required: true
     - id: 18
@@ -196,7 +196,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I authorize
-      - false
+      - 'False'
       required: true
     - id: 26
       name: terms_agreement
@@ -205,7 +205,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I agree
-      - false
+      - 'False'
       required: true
     - id: 27
       name: application_signature_date

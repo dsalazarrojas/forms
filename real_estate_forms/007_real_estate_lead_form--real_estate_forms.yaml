@@ -18,10 +18,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''name'', ''label'': ''Full Name'', ''type'': ''text''}'
-      - '{''name'': ''email'', ''label'': ''Email'', ''type'': ''email''}'
-      - '{''name'': ''phone'', ''label'': ''Phone'', ''type'': ''phone''}'
-      - '{''name'': ''address'', ''label'': ''Address'', ''type'': ''text''}'
+      - Full Name
+      - Email
+      - Phone
+      - Address
       required: false
     - id: 3
       name: property_details
@@ -29,14 +29,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''property_type'', ''label'': ''Property Type'', ''type'': ''select_one'',
-        ''options'': [{''id'': 1, ''name'': ''House'', ''value'': ''House''}, {''id'':
-        2, ''name'': ''Apartment'', ''value'': ''Apartment''}, {''id'': 3, ''name'':
-        ''Other'', ''value'': ''Other''}]}'
-      - '{''name'': ''property_location'', ''label'': ''Property Location'', ''type'':
-        ''select_one'', ''options'': [{''id'': 1, ''name'': ''Location 1'', ''value'':
-        ''Location 1''}, {''id'': 2, ''name'': ''Location 2'', ''value'': ''Location
-        2''}, {''id'': 3, ''name'': ''Location 3'', ''value'': ''Location 3''}]}'
+      - Property Type
+      - Property Location
       required: false
     - id: 4
       name: customer_purpose
@@ -44,9 +38,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''To Buy'', ''value'': ''To Buy''}'
-      - '{''id'': 2, ''name'': ''To Rent'', ''value'': ''To Rent''}'
-      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      - To Buy
+      - To Rent
+      - Other
       required: false
     - id: 5
       name: preferred_commute
@@ -68,9 +62,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Month 1'', ''value'': ''Month 1''}'
-      - '{''id'': 2, ''name'': ''Month 2'', ''value'': ''Month 2''}'
-      - '{''id'': 3, ''name'': ''Month 3'', ''value'': ''Month 3''}'
+      - Month 1
+      - Month 2
+      - Month 3
       required: false
     - id: 8
       name: preferred_move_in_year
@@ -78,7 +72,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Year 1'', ''value'': ''Year 1''}'
-      - '{''id'': 2, ''name'': ''Year 2'', ''value'': ''Year 2''}'
-      - '{''id'': 3, ''name'': ''Year 3'', ''value'': ''Year 3''}'
+      - Year 1
+      - Year 2
+      - Year 3
       required: false

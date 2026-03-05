@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: true
     - id: 4
       name: order_status
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''New''}'
-      - '{''id'': 2, ''label'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Completed''}'
+      - New
+      - In Progress
+      - Completed
       required: false
     - id: 5
       name: order_date
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Cash''}'
-      - '{''id'': 2, ''label'': ''Credit Card''}'
-      - '{''id'': 3, ''label'': ''PayPal''}'
+      - Cash
+      - Credit Card
+      - PayPal
       required: true
     - id: 9
       name: marker_layout
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Landscape''}'
-      - '{''id'': 2, ''label'': ''Portrait''}'
-      - '{''id'': 3, ''label'': ''Square''}'
+      - Landscape
+      - Portrait
+      - Square
       required: true
     - id: 10
       name: approval_status
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approved''}'
-      - '{''id'': 2, ''label'': ''Rejected''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: true
     - id: 11
       name: approval_notes

@@ -5,194 +5,72 @@ inputSchema:
     pages:
     - id: 1
       name: tenant_details
-      label: Tenant Details
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: contact_details
-      label: Contact Details
+      name: contact_info
+      label: How can we contact you?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: program_interest
-      label: Program Interest
+      label: Are you interested in the mental wellness program?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 4
       name: report_type
-      label: Report Type
+      label: What type of report do you need?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 5
       name: contact_method
-      label: Contact Method
+      label: How would you like to be contacted?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 6
-      name: mental_wellness_program_details
-      label: Mental Wellness Program Details
+      name: mental_wellness_provider
+      label: Mental Wellness Provider
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 7
       name: program_start_date
       label: Program Start Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 8
       name: program_end_date
       label: Program End Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 9
-      name: mental_wellness_provider
-      label: Mental Wellness Provider
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: contact_person
-      label: Contact Person
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: contact_email
-      label: Contact Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: contact_phone
-      label: Contact Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: program_location
-      label: Program Location
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
       name: additional_comments
       label: Additional Comments
       hint: null
       type: note
       options: []
-      required: false
-    - id: 15
-      name: contact_person
-      label: Contact Person
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: report_type
-      label: Report Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: contact_method
-      label: Contact Method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: program_start_date
-      label: Program Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: program_end_date
-      label: Program End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: mental_wellness_provider
-      label: Mental Wellness Provider
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: contact_person
-      label: Contact Person
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: contact_email
-      label: Contact Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: contact_phone
-      label: Contact Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: program_location
-      label: Program Location
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: additional_comments
-      label: Additional Comments
-      hint: null
-      type: note
-      options: []
-      required: false
+      required: true

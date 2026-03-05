@@ -1,127 +1,116 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Audio Cable Replacement Request Form
     pages:
-      - id: 1
-        name: customer_info_section
-        label: -- Customer and Order Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: customer_name
-        label: Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: original_order_number
-        label: Original Order Number
-        hint: Found on your receipt or confirmation email
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: purchase_date
-        label: Approximate Purchase Date
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 5
-        name: cable_details_section
-        label: -- Cable Issue Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: cable_type
-        label: Cable Type
-        hint: null
-        type: select_one
-        options:
-          - XLR Microphone Cable
-          - TRS Instrument Cable
-          - HDMI Video Cable
-          - Speaker Cable
-          - USB Audio Cable
-          - Other
-        required: true
-      - id: 7
-        name: cable_length
-        label: Cable Length
-        hint: e.g., 3ft, 10ft, 25ft
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: issue_description
-        label: Description of the Problem
-        hint: What is wrong with the cable?
-        type: select_one
-        options:
-          - No signal/Silent
-          - Intermittent signal
-          - Physical damage (fraying/cut)
-          - Connector broken/bent
-          - Static or noise
-        required: true
-      - id: 9
-        name: issue_details_text
-        label: Additional Issue Details
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: device_used_with
-        label: Equipment used with this cable
-        hint: e.g., Focusrite Solo, Shure SM58
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: shipping_section
-        label: -- Replacement Shipping Address --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: shipping_address
-        label: Full Shipping Address
-        hint: Street, City, State, ZIP
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: contact_email
-        label: Email Address
-        hint: For shipping updates
-        type: email
-        options: []
-        required: true
-      - id: 14
-        name: photo_confirmation
-        label: I can provide photos of the damage if requested
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
+    - id: 1
+      name: customer_info_section
+      label: -- Customer and Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: original_order_number
+      label: Original Order Number
+      hint: Found on your receipt or confirmation email
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: purchase_date
+      label: Approximate Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: cable_details_section
+      label: -- Cable Issue Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: cable_type
+      label: Cable Type
+      hint: null
+      type: select_one
+      options:
+      - XLR Microphone Cable
+      - TRS Instrument Cable
+      - HDMI Video Cable
+      - Speaker Cable
+      - USB Audio Cable
+      - Other
+      required: true
+    - id: 7
+      name: cable_length
+      label: Cable Length
+      hint: e.g., 3ft, 10ft, 25ft
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: issue_description
+      label: Description of the Problem
+      hint: What is wrong with the cable?
+      type: select_one
+      options:
+      - No signal/Silent
+      - Intermittent signal
+      - Physical damage (fraying/cut)
+      - Connector broken/bent
+      - Static or noise
+      required: true
+    - id: 9
+      name: issue_details_text
+      label: Additional Issue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: device_used_with
+      label: Equipment used with this cable
+      hint: e.g., Focusrite Solo, Shure SM58
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipping_section
+      label: -- Replacement Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: shipping_address
+      label: Full Shipping Address
+      hint: Street, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_email
+      label: Email Address
+      hint: For shipping updates
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: photo_confirmation
+      label: I can provide photos of the damage if requested
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

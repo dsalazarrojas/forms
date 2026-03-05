@@ -20,22 +20,8 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: requestdescription
-      label: What is the issue
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: detailedinfo
-      label: Detailed Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: servicerequest
       label: Service Request
       hint: null
@@ -43,151 +29,33 @@ inputSchema:
       options:
       - Service 1
       - Service 2
-      required: false
-    - id: 5
+      - Service 3
+      required: true
+    - id: 3
       name: serviceaddress
       label: Service Address
       hint: null
       type: text
       options: []
-      required: false
-    - id: 6
-      name: serviceaddressstreet
-      label: Street
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: servicestatedelivery
-      label: State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: servicestatedelivery
-      label: State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: servicestatedelivery
-      label: State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: servicestatedelivery
-      label: State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: servicestatedelivery
-      label: State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: servicestatedelivery
-      label: State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: servicestatedelivery
-      label: State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: servicecity
-      label: City
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: servicestatedelivery
-      label: State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: servicestatedelivery
-      label: State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: servicestatedelivery
-      label: State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: servicezip
-      label: ZIP
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: servicephone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: serviceemail
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
+      required: true
+    - id: 4
       name: servicemessage
-      label: Message
+      label: Service Message
       hint: null
       type: text
       options: []
-      required: false
-    - id: 22
-      name: serviceattachment
+      required: true
+    - id: 5
+      name: uploadattachment
       label: Upload Attachment
       hint: null
       type: text
       options: []
       required: false
-    - id: 23
-      name: servicelocation
-      label: Location
+    - id: 6
+      name: additionalinfo
+      label: Additional Information
       hint: null
       type: text
       options: []
-      required: false
-    - id: 24
-      name: servicemessageadditionalinfo
-      label: Additional Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: servicerequester
-      label: Requester
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

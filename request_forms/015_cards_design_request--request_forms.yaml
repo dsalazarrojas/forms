@@ -44,16 +44,11 @@ inputSchema:
       hint: Select the purpose of the card
       type: select_one
       options:
-      - label: Business Card
-        value: business
-      - label: Greeting Card
-        value: greeting
-      - label: Thank You Card
-        value: thank_you
-      - label: Postcard
-        value: postcard
-      - label: Custom Request
-        value: custom
+      - Business Card
+      - Greeting Card
+      - Thank You Card
+      - Postcard
+      - Custom Request
       required: true
     - id: 7
       name: card_size_dimensions
@@ -61,14 +56,10 @@ inputSchema:
       hint: Select the preferred dimensions
       type: select_one
       options:
-      - label: Standard (3.5 x 2)
-        value: standard
-      - label: Square (2.5 x 2.5)
-        value: square
-      - label: A7 (5.25 x 7.25)
-        value: a7
-      - label: Custom Dimensions
-        value: custom
+      - Standard (3.5 x 2)
+      - Square (2.5 x 2.5)
+      - A7 (5.25 x 7.25)
+      - Custom Dimensions
       required: true
     - id: 8
       name: orientation_layout_selected
@@ -76,10 +67,8 @@ inputSchema:
       hint: Horizontal or Vertical
       type: select_one
       options:
-      - label: Horizontal (Landscape)
-        value: horizontal
-      - label: Vertical (Portrait)
-        value: vertical
+      - Horizontal (Landscape)
+      - Vertical (Portrait)
       required: true
     - id: 9
       name: material_finish_selection
@@ -87,14 +76,10 @@ inputSchema:
       hint: Select the paper type and coating
       type: select_one
       options:
-      - label: Premium Matte (16pt)
-        value: matte
-      - label: High-Gloss (UV Coating)
-        value: gloss
-      - label: Recycled Kraft
-        value: recycled
-      - label: Pearl (Metallic)
-        value: pearl
+      - Premium Matte (16pt)
+      - High-Gloss (UV Coating)
+      - Recycled Kraft
+      - Pearl (Metallic)
       required: true
     - id: 10
       name: quantity_ordered_total

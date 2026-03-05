@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''credit_card''}'
-      - '{''id'': 2, ''name'': ''bank_transfer''}'
+      - credit card
+      - bank transfer
       required: false
     - id: 3
       name: class_details
@@ -25,10 +25,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''morning_class''}'
-      - '{''id'': 2, ''name'': ''evening_class''}'
-      - '{''id'': 3, ''name'': ''weekend_class''}'
-      - '{''id'': 4, ''name'': ''other_class''}'
+      - morning class
+      - evening class
+      - weekend class
+      - other class
       required: false
     - id: 4
       name: payment_amount

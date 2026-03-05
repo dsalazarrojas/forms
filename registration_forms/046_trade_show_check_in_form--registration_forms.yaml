@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''checked_in'', ''label'': ''Checked In''}'
-      - '{''value'': ''not_checked_in'', ''label'': ''Not Checked In''}'
-      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - Checked In
+      - Not Checked In
+      - Pending
       required: false
     - id: 11
       name: assigned_tool
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - chatjimmy
+      - Other
       required: false
     - id: 12
       name: assigned_tool_other
@@ -105,19 +105,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''user1'', ''label'': ''user1''}'
-      - '{''value'': ''user2'', ''label'': ''user2''}'
-      - '{''value'': ''user3'', ''label'': ''user3''}'
+      - user1
+      - user2
+      - user3
       required: false
     - id: 15
-      name: checkin_user
-      label: Checkin User
+      name: checkin_user_2
+      label: Checkin User 2
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''user1'', ''label'': ''user1''}'
-      - '{''value'': ''user2'', ''label'': ''user2''}'
-      - '{''value'': ''user3'', ''label'': ''user3''}'
+      - user1
+      - user2
+      - user3
       required: false
     - id: 16
       name: checkin_date
@@ -127,32 +127,32 @@ inputSchema:
       options: []
       required: false
     - id: 17
-      name: checkin_time
-      label: Checkin Time
+      name: checkin_time_2
+      label: Checkin Time 2
       hint: null
       type: time
       options: []
       required: false
     - id: 18
-      name: checkin_status
-      label: Checkin Status
+      name: checkin_status_2
+      label: Checkin Status 2
       hint: null
       type: select_one
       options:
-      - '{''value'': ''checked_in'', ''label'': ''Checked In''}'
-      - '{''value'': ''not_checked_in'', ''label'': ''Not Checked In''}'
-      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - Checked In
+      - Not Checked In
+      - Pending
       required: false
     - id: 19
-      name: event_id
-      label: Event ID
+      name: event_id_2
+      label: Event Id 2
       hint: null
       type: text
       options: []
       required: false
     - id: 20
-      name: checkin_location
-      label: Checkin Location
+      name: checkin_location_2
+      label: Checkin Location 2
       hint: null
       type: text
       options: []
@@ -186,8 +186,8 @@ inputSchema:
       options: []
       required: false
     - id: 25
-      name: assigned_tool_other
-      label: Other Tool
+      name: assigned_tool_other_2
+      label: Assigned Tool Other 2
       hint: null
       type: text
       options: []

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Front Desk'', ''value'': ''Front Desk''}'
-      - '{''id'': 2, ''label'': ''Back Office'', ''value'': ''Back Office''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      - Front Desk
+      - Back Office
+      - Other
       required: false
     - id: 3
       name: workstation_ownership
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Employee prophets company'', ''value'': ''Employee''}'
-      - '{''id'': 2, ''label'': ''IT Department'', ''value'': ''IT''}'
-      - '{''id'': 3, ''label'': ''Facility'', ''value'': ''Facility''}'
+      - Employee prophets company
+      - IT Department
+      - Facility
       required: false
     - id: 4
       name: request_date
@@ -99,8 +99,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: notes
@@ -129,8 +129,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: workstation_privacy_shield_activated
@@ -138,8 +138,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: workstation_privacy_shield_expires_at
@@ -147,9 +147,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Never'', ''value'': ''Never''}'
-      - '{''id'': 2, ''label'': ''After 1 month'', ''value'': ''After 1 month''}'
-      - '{''id'': 3, ''label'': ''After 2 month'', ''value'': ''After 2 month''}'
+      - Never
+      - After 1 month
+      - After 2 month
       required: false
     - id: 20
       name: workstation_privacy_shield_renewal_date
@@ -171,9 +171,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approved'', ''value'': ''Approved''}'
-      - '{''id'': 2, ''label'': ''Pending'', ''value'': ''Pending''}'
-      - '{''id'': 3, ''label'': ''Rejected'', ''value'': ''Rejected''}'
+      - Approved
+      - Pending
+      - Rejected
       required: false
     - id: 23
       name: workstation_privacy_shield_renewal_notes
@@ -188,6 +188,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

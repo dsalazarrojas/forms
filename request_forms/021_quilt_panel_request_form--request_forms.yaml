@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Medication''}'
-      - '{''value'': ''Surgery''}'
-      - '{''value'': ''Therapy''}'
+      - Medication
+      - Surgery
+      - Therapy
       required: false
     - id: 6
       name: start_date
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Hospital''}'
-      - '{''value'': ''Clinic''}'
-      - '{''value'': ''Doctor''}'
+      - Hospital
+      - Clinic
+      - Doctor
       required: false
     - id: 11
       name: location

@@ -96,7 +96,7 @@ inputSchema:
       required: false
     - id: 14
       name: remarks
-      label: Additional Remarks
+      label: Remarks
       hint: null
       type: text
       options: []
@@ -107,19 +107,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''chatjimmy''}'
-      - '{''label'': ''Jane Doe''}'
-      - '{''label'': ''John Doe''}'
+      - chatjimmy
+      - Jane Doe
+      - John Doe
       required: false
     - id: 16
       name: remarks_vehicles_returned
-      label: Remarks
+      label: Remarks Vehicles Returned
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Vehicle in Good Condition''}'
-      - '{''label'': ''Vehicle Damaged''}'
-      - '{''label'': ''Vehicle Not Returned''}'
+      - Vehicle in Good Condition
+      - Vehicle Damaged
+      - Vehicle Not Returned
       required: false
     - id: 17
       name: vehicle_return_date
@@ -130,35 +130,35 @@ inputSchema:
       required: false
     - id: 18
       name: remarks_returned
-      label: Additional Remarks
+      label: Remarks Returned
       hint: null
       type: text
       options: []
       required: false
     - id: 19
       name: remarks_returned_vehicle
-      label: Remarks
+      label: Remarks Returned Vehicle
       hint: null
       type: text
       options: []
       required: false
     - id: 20
       name: fuel_consumption_returned
-      label: Fuel Consumed
+      label: Fuel Consumption Returned
       hint: null
       type: number
       options: []
       required: false
     - id: 21
       name: remarks_returned_fuel
-      label: Additional Remarks
+      label: Remarks Returned Fuel
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: remarks_returned_vehicle
-      label: Remarks
+      name: remarks_returned_vehicle_2
+      label: Remarks Returned Vehicle 2
       hint: null
       type: text
       options: []
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Vehicle in Good Condition''}'
-      - '{''label'': ''Vehicle Damaged''}'
-      - '{''label'': ''Vehicle Not Returned''}'
+      - Vehicle in Good Condition
+      - Vehicle Damaged
+      - Vehicle Not Returned
       required: false
     - id: 24
       name: vehicle_return_status
@@ -179,13 +179,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Vehicle is Returned''}'
-      - '{''label'': ''Vehicle Not Returned''}'
-      - '{''label'': ''Vehicle Lost''}'
+      - Vehicle is Returned
+      - Vehicle Not Returned
+      - Vehicle Lost
       required: false
     - id: 25
-      name: remarks_returned_vehicle_status
-      label: Additional Remarks
+      name: remarks_returned_vehicle_status_2
+      label: Remarks Returned Vehicle Status 2
       hint: null
       type: text
       options: []

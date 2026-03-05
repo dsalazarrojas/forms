@@ -44,12 +44,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Army'', ''value'': ''Army''}'
-      - '{''id'': 2, ''label'': ''Navy'', ''value'': ''Navy''}'
-      - '{''id'': 3, ''label'': ''Air Force'', ''value'': ''Air Force''}'
-      - '{''id'': 4, ''label'': ''Marine Corps'', ''value'': ''Marine Corps''}'
-      - '{''id'': 5, ''label'': ''Coast Guard'', ''value'': ''Coast Guard''}'
-      - '{''id'': 6, ''label'': ''Other'', ''value'': ''Other''}'
+      - Army
+      - Navy
+      - Air Force
+      - Marine Corps
+      - Coast Guard
+      - Other
       required: false
     - id: 7
       name: attending
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
-      - '{''id'': 3, ''label'': ''Not Sure'', ''value'': ''Not Sure''}'
+      - 'True'
+      - 'False'
+      - Not Sure
       required: false
     - id: 8
       name: planning_preferences
@@ -102,12 +102,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Online'', ''value'': ''Online''}'
-      - '{''id'': 2, ''label'': ''Location 1'', ''value'': ''Location 1''}'
-      - '{''id'': 3, ''label'': ''Location 2'', ''value'': ''Location 2''}'
-      - '{''id'': 4, ''label'': ''Location 3'', ''value'': ''Location 3''}'
-      - '{''id'': 5, ''label'': ''Location 4'', ''value'': ''Location 4''}'
-      - '{''id'': 6, ''label'': ''Location 5'', ''value'': ''Location 5''}'
+      - Online
+      - Location 1
+      - Location 2
+      - Location 3
+      - Location 4
+      - Location 5
       required: false
     - id: 14
       name: guest_details

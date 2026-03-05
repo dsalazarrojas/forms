@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Attendee''}'
-      - '{''id'': 2, ''name'': ''Speaker''}'
-      - '{''id'': 3, ''name'': ''Organizer''}'
+      - Attendee
+      - Speaker
+      - Organizer
       required: true
     - id: 9
       name: attending_with
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Spouse''}'
-      - '{''id'': 2, ''name'': ''Team''}'
-      - '{''id'': 3, ''name'': ''Client''}'
+      - Spouse
+      - Team
+      - Client
       required: true
     - id: 10
       name: company_size
@@ -78,10 +78,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Small''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Large''}'
-      - '{''id'': 4, ''name'': ''Unknown''}'
+      - Small
+      - Medium
+      - Large
+      - Unknown
       required: true
     - id: 11
       name: registration_type
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Online''}'
-      - '{''id'': 2, ''name'': ''On-site''}'
-      - '{''id'': 3, ''name'': ''Both''}'
+      - Online
+      - On-site
+      - Both
       required: true
     - id: 12
       name: comments

@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Employee''}'
-      - '{''value'': ''Contractor''}'
+      - Employee
+      - Contractor
       required: false
     - id: 4
       name: attendance_date
@@ -97,9 +97,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''I have read, understand, and agree to the terms and conditions''}'
-      - '{''value'': ''I have not read, do not understand, and do not agree to the
-        terms and conditions''}'
+      - I have read, understand, and agree to the terms and conditions
+      - I have not read, do not understand, and do not agree to the terms and conditions
       required: false
     - id: 14
       name: agreement_date

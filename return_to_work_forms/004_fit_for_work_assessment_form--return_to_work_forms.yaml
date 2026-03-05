@@ -4,112 +4,120 @@ inputSchema:
     title: Fit For Work Assessment Form
     pages:
     - id: 1
-      name: return_to_work_forms_1
-      label: Initial Assessment
+      name: initial_assessment
+      label: How are you feeling today?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: return_to_work_forms_2
-      label: Medical Report
+      name: medical_report
+      label: Please describe your medical condition
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: return_to_work_forms_3
-      label: Recommendations
+      name: readiness
+      label: Do you feel ready to return to work?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 4
-      name: return_to_work_forms_4
-      label: Readiness
+      name: recommendations
+      label: What are your recommendations?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: return_to_work_forms_5
-      label: Recommendations
+      name: next_steps
+      label: What are your next steps?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
-      name: return_to_work_forms_6
-      label: Next Steps
+      name: contact_information
+      label: Please provide your contact information
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 7
-      name: return_to_work_forms_7
-      label: Date
+      name: date_of_return
+      label: When do you plan to return to work?
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 8
-      name: return_to_work_forms_8
-      label: Time
+      name: time_of_return
+      label: At what time do you plan to return to work?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: additional_information
+      label: Is there anything else you would like to add?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: support
+      label: Do you need any support?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 11
+      name: frequency_of_work
+      label: How frequently do you plan to work?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 12
+      name: availability
+      label: What are your availability?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 13
+      name: time_of_day
+      label: At what time do you prefer to work?
       hint: null
       type: time
       options: []
       required: false
-    - id: 9
-      name: return_to_work_forms_9
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 10
-      name: return_to_work_forms_10
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: return_to_work_forms_11
-      label: Recommendations
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 12
-      name: return_to_work_forms_12
-      label: Next Steps
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 13
-      name: return_to_work_forms_13
-      label: Date
-      hint: null
-      type: select_one
-      options:
-      - 01/01/2024
-      - 01/02/2024
-      - 01/03/2024
-      required: false
     - id: 14
-      name: return_to_work_forms_14
-      label: Time
+      name: duration
+      label: How long do you plan to work?
       hint: null
-      type: select_one
-      options:
-      - 08:00
-      - 09:00
-      - '600'
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Is there anything else you'd like to add?
+      hint: null
+      type: note
+      options: []
       required: false

@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Team Lead''}'
-      - '{''value'': 2, ''label'': ''Team Member''}'
+      - Team Lead
+      - Team Member
       required: true
     - id: 4
       name: project_description
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Active''}'
-      - '{''value'': 2, ''label'': ''In Progress''}'
-      - '{''value'': 3, ''label'': ''Completed''}'
+      - Active
+      - In Progress
+      - Completed
       required: true
     - id: 6
       name: team_members
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Active''}'
-      - '{''value'': 2, ''label'': ''In Progress''}'
-      - '{''value'': 3, ''label'': ''Completed''}'
+      - Active
+      - In Progress
+      - Completed
       required: true
     - id: 12
       name: team_lead
@@ -94,6 +94,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Team Lead''}'
-      - '{''value'': 2, ''label'': ''Team Member''}'
+      - Team Lead
+      - Team Member
       required: true

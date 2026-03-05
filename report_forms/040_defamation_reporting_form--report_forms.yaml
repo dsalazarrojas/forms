@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: defamed_privately
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: defamed_by
@@ -127,8 +127,8 @@ inputSchema:
       options: []
       required: false
     - id: 18
-      name: defamed_at
-      label: Defamed At
+      name: defamed_at_2
+      label: Defamed At 2
       hint: null
       type: date
       options: []
@@ -142,14 +142,14 @@ inputSchema:
       required: false
     - id: 20
       name: defamed_at_by_entity
-      label: Defamed At By
+      label: Defamed At By Entity
       hint: null
       type: text
       options: []
       required: false
     - id: 21
       name: defamed_by_person_at
-      label: Defamed By Person
+      label: Defamed By Person At
       hint: null
       type: text
       options: []
@@ -170,7 +170,7 @@ inputSchema:
       required: false
     - id: 24
       name: defamed_by_entity_at
-      label: Defamed By Entity
+      label: Defamed By Entity At
       hint: null
       type: text
       options: []

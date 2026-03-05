@@ -44,9 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''report_type'', ''label'': ''Report Type'', ''value'':
-        ''report_type''}'
-      - '{''id'': 2, ''name'': ''report_type'', ''label'': ''Other'', ''value'': ''other''}'
+      - Report Type
+      - Other
       required: false
     - id: 7
       name: comments
@@ -89,7 +88,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''submitted_by'', ''label'': ''System'', ''value'':
-        ''system''}'
-      - '{''id'': 2, ''name'': ''submitted_by'', ''label'': ''User'', ''value'': ''user''}'
+      - System
+      - User
       required: false

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''credit_card''}'
-      - '{''value'': ''bank_transfer''}'
-      - '{''value'': ''check''}'
+      - credit card
+      - bank transfer
+      - check
       required: false
     - id: 4
       name: credit_card_type
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''visa''}'
-      - '{''value'': ''mastercard''}'
-      - '{''value'': ''amex''}'
+      - visa
+      - mastercard
+      - amex
       required: false
     - id: 5
       name: email
@@ -78,11 +78,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''mr''}'
-      - '{''value'': ''mrs''}'
-      - '{''value'': ''dr''}'
-      - '{''value'': ''miss''}'
-      - '{''value'': ''ms''}'
+      - mr
+      - mrs
+      - dr
+      - miss
+      - ms
       required: false
     - id: 11
       name: event_date
@@ -146,9 +146,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''male''}'
-      - '{''value'': ''female''}'
-      - '{''value'': ''other''}'
+      - male
+      - female
+      - other
       required: false
     - id: 20
       name: participant_age
@@ -163,8 +163,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: participant_country

@@ -44,18 +44,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Mediator
-        value: mediator
-      - label: Arbitrator
-        value: arbitrator
-      - label: Attorney
-        value: attorney
-      - label: Academic
-        value: academic
-      - label: Student
-        value: student
-      - label: Other
-        value: other
+      - Mediator
+      - Arbitrator
+      - Attorney
+      - Academic
+      - Student
+      - Other
       required: true
     - id: 7
       name: adr_experience_years
@@ -77,18 +71,12 @@ inputSchema:
       hint: Select all that apply.
       type: select_multiple
       options:
-      - label: Commercial Mediation
-        value: commercial
-      - label: Family Law
-        value: family
-      - label: Labor and Employment
-        value: labor
-      - label: International Arbitration
-        value: international
-      - label: Community Mediation
-        value: community
-      - label: Online Dispute Resolution (ODR)
-        value: odr
+      - Commercial Mediation
+      - Family Law
+      - Labor and Employment
+      - International Arbitration
+      - Community Mediation
+      - Online Dispute Resolution (ODR)
       required: true
     - id: 10
       name: networking_goals
@@ -103,14 +91,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: Advanced Mediation Techniques
-        value: advanced_mediation
-      - label: The Future of Arbitration
-        value: future_arbitration
-      - label: Ethics in ADR
-        value: ethics
-      - label: Building a Successful ADR Practice
-        value: practice_building
+      - Advanced Mediation Techniques
+      - The Future of Arbitration
+      - Ethics in ADR
+      - Building a Successful ADR Practice
       required: true
     - id: 12
       name: logistics_header
@@ -125,18 +109,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: None
-        value: none
-      - label: Vegetarian
-        value: vegetarian
-      - label: Vegan
-        value: vegan
-      - label: Gluten-Free
-        value: gluten_free
-      - label: Dairy-Free
-        value: dairy_free
-      - label: Nut Allergy
-        value: nut_allergy
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
       required: false
     - id: 14
       name: accessibility_needs
@@ -151,10 +129,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: referral_source
@@ -162,14 +138,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Email Invitation
-        value: email
-      - label: LinkedIn
-        value: linkedin
-      - label: Colleague Referral
-        value: colleague
-      - label: Bar Association Website
-        value: bar_association
+      - Email Invitation
+      - LinkedIn
+      - Colleague Referral
+      - Bar Association Website
       required: false
     - id: 17
       name: additional_comments

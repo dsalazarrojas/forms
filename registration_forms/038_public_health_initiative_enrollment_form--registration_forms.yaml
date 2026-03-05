@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 7.1, ''name'': ''Program 1''}'
-      - '{''id'': 7.2, ''name'': ''Program 2''}'
-      - '{''id'': 7.3, ''name'': ''Program 3''}'
+      - Program 1
+      - Program 2
+      - Program 3
       required: false
     - id: 8
       name: submit
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 9.1, ''name'': True}'
-      - '{''id'': 9.2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: follow_up

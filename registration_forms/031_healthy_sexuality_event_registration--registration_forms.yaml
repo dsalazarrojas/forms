@@ -20,212 +20,93 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: participant_preferences
-      label: Participant Preferences
+      name: participant_email
+      label: Email
       hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
+      type: email
+      options: []
+      required: true
     - id: 3
+      name: participant_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: participant_contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
       name: session_preferences
       label: Session Preferences
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Option A
-      - Option B
-      - Option C
-      required: false
-    - id: 4
+      - Session 1
+      - Session 2
+      required: true
+    - id: 6
       name: session_details
       label: Session Details
-      hint: Please note that workshops and educational sessions will have a 30-minute
-        break.
-      type: note
-      options: []
-      required: false
-    - id: 5
-      name: planning_details
-      label: Planning Details
       hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: participant_info_2
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
     - id: 7
-      name: participant_preferences_2
-      label: Participant Preferences
+      name: session_theme
+      label: Session Theme
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
+      - Option A
+      - Option B
+      - Option C
+      required: true
     - id: 8
-      name: session_details_2
-      label: Session Details
+      name: event_date
+      label: Event Date
       hint: null
-      type: select_one
-      options:
-      - Option A
-      - Option B
-      - Option C
-      required: false
+      type: date
+      options: []
+      required: true
     - id: 9
-      name: session_preferences_2
-      label: Session Preferences
+      name: participant_notes
+      label: Participant Notes
       hint: null
-      type: select_one
-      options:
-      - Option A
-      - Option B
-      - Option C
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 10
-      name: session_details_3
-      label: Session Details
+      name: participant_questions
+      label: Participant Questions
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: participant_info_3
-      label: Participant Information
+      name: participant_agree
+      label: Agreement
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 12
-      name: participant_preferences_3
-      label: Participant Preferences
+      name: session_agree
+      label: Session Agree
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 13
-      name: session_details_4
-      label: Session Details
-      hint: null
-      type: select_one
-      options:
-      - Option A
-      - Option B
-      - Option C
-      required: false
-    - id: 14
-      name: session_preferences_4
-      label: Session Preferences
-      hint: null
-      type: select_one
-      options:
-      - Option A
-      - Option B
-      - Option C
-      required: false
-    - id: 15
-      name: session_details_5
-      label: Session Details
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: participant_info_4
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: participant_preferences_4
-      label: Participant Preferences
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 18
-      name: session_details_6
-      label: Session Details
-      hint: null
-      type: select_one
-      options:
-      - Option A
-      - Option B
-      - Option C
-      required: false
-    - id: 19
-      name: session_preferences_5
-      label: Session Preferences
-      hint: null
-      type: select_one
-      options:
-      - Option A
-      - Option B
-      - Option C
-      required: false
-    - id: 20
-      name: session_details_7
-      label: Session Details
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: participant_info_5
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: participant_preferences_5
-      label: Participant Preferences
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 23
-      name: session_details_8
-      label: Session Details
-      hint: null
-      type: select_one
-      options:
-      - Option A
-      - Option B
-      - Option C
-      required: false
-    - id: 24
-      name: session_details_9
-      label: Session Details
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: participant_info_6
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
+      - I agree
+      - I do not agree
+      required: true

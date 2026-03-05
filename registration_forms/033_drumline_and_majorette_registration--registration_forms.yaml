@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''9th'', ''value'': ''9th''}'
-      - '{''label'': ''10th'', ''value'': ''10th''}'
-      - '{''label'': ''11th'', ''value'': ''11th''}'
-      - '{''label'': ''12th'', ''value'': ''12th''}'
-      - '{''label'': ''other'', ''value'': ''other''}'
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      - other
       required: false
     - id: 3
       name: instrument
@@ -28,11 +28,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Snare'', ''value'': ''snare''}'
-      - '{''label'': ''B-flat'', ''value'': ''b-flat''}'
-      - '{''label'': ''Tenor'', ''value'': ''tenor''}'
-      - '{''label'': ''other'', ''value'': ''other''}'
-      - '{''label'': ''other'', ''value'': ''other''}'
+      - Snare
+      - B-flat
+      - Tenor
+      - other
       required: false
     - id: 4
       name: contact_person
@@ -40,9 +39,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Parent'', ''value'': ''parent''}'
-      - '{''label'': ''Teacher'', ''value'': ''teacher''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Parent
+      - Teacher
+      - Other
       required: false
     - id: 5
       name: email
@@ -92,6 +91,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': 1}'
-      - '{''label'': False, ''value'': 2}'
+      - 'True'
+      - 'False'
       required: true

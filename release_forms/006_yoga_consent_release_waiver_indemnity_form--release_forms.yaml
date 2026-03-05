@@ -65,14 +65,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''Medical Condition'': ''None''}'
-      - '{''Medical Condition'': ''Asthma''}'
-      - '{''Medical Condition'': ''Diabetes''}'
-      - '{''Medical Condition'': ''Epilepsy''}'
-      - '{''Medical Condition'': ''High Blood Pressure''}'
-      - '{''Medical Condition'': ''High Cholesterol''}'
-      - '{''Medical Condition'': ''Obesity''}'
-      - '{''Medical Condition'': ''Other''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
       required: false
     - id: 10
       name: emergency_contact_relationship
@@ -80,10 +80,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''Emergency Contact'': ''Mother''}'
-      - '{''Emergency Contact'': ''Father''}'
-      - '{''Emergency Contact'': ''Friend''}'
-      - '{''Emergency Contact'': ''Other''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 11
       name: medical_insurance
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''Medical Insurance'': True}'
-      - '{''Medical Insurance'': False}'
-      - '{''Medical Insurance'': ''Not Applicable''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 12
       name: insurance_provider
@@ -136,10 +136,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''Relationship'': ''Mother''}'
-      - '{''Relationship'': ''Father''}'
-      - '{''Relationship'': ''Friend''}'
-      - '{''Relationship'': ''Other''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 18
       name: emergency_contact_address

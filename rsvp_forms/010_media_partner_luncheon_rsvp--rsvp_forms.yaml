@@ -23,9 +23,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': [{''label'': ''Gluten-free''}, {''value'': ''gluten-free''},
-        {''label'': ''Vegetarian''}, {''value'': ''vegetarian''}, {''label'': ''Vegan''},
-        {''value'': ''vegan''}]}'
+      - Option 1
       - Other
       required: true
     - id: 4
@@ -48,10 +46,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''No Restrictions'', ''value'': ''no_restrictions''}'
-      - '{''label'': ''Gluten-free'', ''value'': ''gluten-free''}'
-      - '{''label'': ''Vegetarian'', ''value'': ''vegetarian''}'
-      - '{''label'': ''Vegan'', ''value'': ''vegan''}'
+      - No Restrictions
+      - Gluten-free
+      - Vegetarian
+      - Vegan
       required: false
     - id: 7
       name: media_partner_luncheon_rsvp_special_requests
@@ -66,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Accept'', ''value'': ''accept''}'
-      - '{''label'': ''Decline'', ''value'': ''decline''}'
+      - Accept
+      - Decline
       required: true
     - id: 9
       name: media_partner_luncheon_rsvp_comments
@@ -103,10 +101,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None'', ''value'': ''none''}'
-      - '{''label'': ''Company 1'', ''value'': ''company-1''}'
-      - '{''label'': ''Company 2'', ''value'': ''company-2''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - None
+      - Company 1
+      - Company 2
+      - Other
       required: true
     - id: 14
       name: media_partner_luncheon_rsvp_job_title
@@ -121,11 +119,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None'', ''value'': ''none''}'
-      - '{''label'': ''CEO'', ''value'': ''ceo''}'
-      - '{''label'': ''CFO'', ''value'': ''cfo''}'
-      - '{''label'': ''CTO'', ''value'': ''cto''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - None
+      - CEO
+      - CFO
+      - CTO
+      - Other
       required: false
     - id: 16
       name: media_partner_luncheon_rsvp_dietary_special_requests

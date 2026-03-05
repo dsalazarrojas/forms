@@ -23,9 +23,9 @@ inputSchema:
       hint: Select from below
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''In Person''}'
+      - Email
+      - Phone
+      - In Person
       required: true
     - id: 4
       name: share_with
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Client''}'
-      - '{''id'': 2, ''label'': ''Attorney''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Client
+      - Attorney
+      - Both
       required: false
     - id: 5
       name: authorization_date

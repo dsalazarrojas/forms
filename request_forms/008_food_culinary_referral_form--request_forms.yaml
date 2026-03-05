@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Program'', ''value'': ''Program''}'
-      - '{''id'': 2, ''name'': ''Service'', ''value'': ''Service''}'
-      - '{''id'': 3, ''name'': ''Event'', ''value'': ''Event''}'
+      - Program
+      - Service
+      - Event
       required: true
     - id: 9
       name: notes
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''New'', ''value'': ''New''}'
-      - '{''id'': 2, ''name'': ''In Progress'', ''value'': ''In Progress''}'
-      - '{''id'': 3, ''name'': ''Closed'', ''value'': ''Closed''}'
+      - New
+      - In Progress
+      - Closed
       required: true
     - id: 15
       name: follow_up_last_contact
@@ -162,9 +162,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''New'', ''value'': ''New''}'
-      - '{''id'': 2, ''name'': ''In Progress'', ''value'': ''In Progress''}'
-      - '{''id'': 3, ''name'': ''Closed'', ''value'': ''Closed''}'
+      - New
+      - In Progress
+      - Closed
       required: false
     - id: 23
       name: follow_up_last_contact_date

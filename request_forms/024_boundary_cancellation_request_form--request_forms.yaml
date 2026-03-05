@@ -161,8 +161,8 @@ inputSchema:
       hint: Is a public hearing needed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 20
@@ -185,8 +185,8 @@ inputSchema:
       hint: Will a new boundary replace this one
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: replacement_boundary_details

@@ -14,7 +14,7 @@ inputSchema:
       - Fire Department C
       required: false
     - id: 2
-      name: firefighter_name
+      name: fire_fighter_name
       label: Fire Fighter Name
       hint: null
       type: text
@@ -60,40 +60,26 @@ inputSchema:
       required: false
     - id: 8
       name: nomination_date_time
-      label: Nomination Date Time
+      label: Nomination Date/Time
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 9
-      name: nominee_name
-      label: Nominee Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: nominee_title
-      label: Nominee Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
       name: nominator_name
       label: Nominator Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
+    - id: 10
       name: nominator_title
       label: Nominator Title
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
+    - id: 11
       name: nominator_department
       label: Nominator Department
       hint: null
@@ -103,99 +89,34 @@ inputSchema:
       - Nominator Department B
       - Nominator Department C
       required: false
-    - id: 14
+    - id: 12
       name: nominator_email
       label: Nominator Email
       hint: null
       type: email
+      options: []
+      required: false
+    - id: 13
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: nomination_date_time_2
+      label: Nomination Date Time 2
+      hint: null
+      type: text
       options: []
       required: false
     - id: 15
-      name: nominator_phone
-      label: Nominator Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: nomination_date_time
-      label: Nomination Date/Time
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: fire_station
-      label: Fire Station
-      hint: null
-      type: select_multiple
-      options:
-      - Fire Station A
-      - Fire Station B
-      - Fire Station C
-      required: false
-    - id: 18
-      name: nominee_name
-      label: Nominee Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: nomination_reason
-      label: Nomination Reason
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: fire_department
-      label: Fire Department
-      hint: null
-      type: select_one
-      options:
-      - Fire Department A
-      - Fire Department B
-      - Fire Department C
-      required: false
-    - id: 21
-      name: nominator_phone
-      label: Nominator Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
       name: fire_station_1
-      label: Fire Station
+      label: Fire Station 1
       hint: null
       type: select_multiple
       options:
       - Fire Station A
       - Fire Station B
       - Fire Station C
-      required: false
-    - id: 23
-      name: nominator_email
-      label: Nominator Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: fire_station_2
-      label: Fire Station
-      hint: null
-      type: select_multiple
-      options:
-      - Fire Station A
-      - Fire Station B
-      - Fire Station C
-      required: false
-    - id: 25
-      name: nominee_name
-      label: Nominee Name
-      hint: null
-      type: text
-      options: []
       required: false

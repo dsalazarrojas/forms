@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''individual''}'
-      - '{''id'': 2, ''name'': ''team''}'
+      - individual
+      - team
       required: false
     - id: 5
       name: team_name
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''captain''}'
-      - '{''id'': 2, ''name'': ''member''}'
+      - captain
+      - member
       required: false
     - id: 7
       name: phone

@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''ABC Medical Group''}'
-      - '{''value'': 2, ''label'': ''DEF Medical Group''}'
-      - '{''value'': 3, ''label'': ''GHI Medical Group''}'
+      - ABC Medical Group
+      - DEF Medical Group
+      - GHI Medical Group
       required: true
     - id: 6
       name: medical_condition
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''General Medicine''}'
-      - '{''value'': 2, ''label'': ''General Surgery''}'
-      - '{''value'': 3, ''label'': ''General Surgery (Pediatrics)''}'
+      - General Medicine
+      - General Surgery
+      - General Surgery (Pediatrics)
       required: false
     - id: 9
       name: date_of_death
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Active''}'
-      - '{''value'': 2, ''label'': ''Inactive''}'
-      - '{''value'': 3, ''label'': ''Denied''}'
+      - Active
+      - Inactive
+      - Denied
       required: true
     - id: 12
       name: date_of_submission

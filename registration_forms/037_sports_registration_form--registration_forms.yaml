@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Adult'', ''label'': ''Adult''}'
-      - '{''name'': ''Youth'', ''label'': ''Youth''}'
+      - Adult
+      - Youth
       required: false
     - id: 3
       name: first_name
@@ -144,8 +144,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''label'': True}'
-      - '{''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: parent_permission
@@ -153,8 +153,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''label'': True}'
-      - '{''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: medical_condition
@@ -176,8 +176,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Pending'', ''label'': ''Pending''}'
-      - '{''name'': ''Registered'', ''label'': ''Registered''}'
+      - Pending
+      - Registered
       required: false
     - id: 25
       name: terms_and_conditions

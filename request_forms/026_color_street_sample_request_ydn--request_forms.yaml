@@ -1,115 +1,104 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Color Street Sample Request - YDN
     pages:
-      - id: 1
-        name: section_ydn_intro
-        label: -- Request Your Free Sample - Your Dream Nails --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: ydn_name
-        label: Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: ydn_email
-        label: Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: ydn_address
-        label: Mailing Address
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: section_ydn_preferences
-        label: -- Nail Style Preferences --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: ydn_color_choice
-        label: What colors do you love?
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: ydn_style_choice
-        label: Preferred Style
-        hint: null
-        type: select_one
-        options:
-          - Solids
-          - Glitters
-          - Designs
-        required: true
-      - id: 8
-        name: section_ydn_followup
-        label: -- Stay Informed --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: ydn_newsletter
-        label: Would you like to join my mailing list for sales?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 10
-        name: ydn_heard_about
-        label: How did you find YDN?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: ydn_facebook_name
-        label: Your Facebook Name
-        hint: To tag you in my VIP group
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: ydn_interests
-        label: Interested in earning free sets or extra income?
-        hint: null
-        type: select_multiple
-        options:
-          - Free Sets (Hosting)
-          - Extra Income (Stylist)
-          - Not at this time
-        required: true
-      - id: 13
-        name: ydn_extra_notes
-        label: Message for me
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: section_ydn_intro
+      label: -- Request Your Free Sample - Your Dream Nails --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ydn_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ydn_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: ydn_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_ydn_preferences
+      label: -- Nail Style Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: ydn_color_choice
+      label: What colors do you love?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: ydn_style_choice
+      label: Preferred Style
+      hint: null
+      type: select_one
+      options:
+      - Solids
+      - Glitters
+      - Designs
+      required: true
+    - id: 8
+      name: section_ydn_followup
+      label: -- Stay Informed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: ydn_newsletter
+      label: Would you like to join my mailing list for sales?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: ydn_heard_about
+      label: How did you find YDN?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: ydn_facebook_name
+      label: Your Facebook Name
+      hint: To tag you in my VIP group
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: ydn_interests
+      label: Interested in earning free sets or extra income?
+      hint: null
+      type: select_multiple
+      options:
+      - Free Sets (Hosting)
+      - Extra Income (Stylist)
+      - Not at this time
+      required: true
+    - id: 13
+      name: ydn_extra_notes
+      label: Message for me
+      hint: null
+      type: text
+      options: []
+      required: false

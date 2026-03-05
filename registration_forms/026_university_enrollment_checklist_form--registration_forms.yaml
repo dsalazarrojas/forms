@@ -12,7 +12,7 @@ inputSchema:
       required: false
     - id: 2
       name: contact_info
-      label: Contact Info
+      label: Contact Information
       hint: null
       type: text
       options: []
@@ -21,172 +21,47 @@ inputSchema:
       name: course_selection
       label: Select Courses
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: course_selection
-      label: Select Courses
-      hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 5
+    - id: 4
       name: documentation
       label: Upload Documentation
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
+    - id: 5
       name: confirmation
       label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: scheduled_event
+      label: Scheduled Event
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: confirmation
-      label: Confirmation
+      name: comments
+      label: Special Comments
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 8
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 13
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: confirmation
-      label: Confirmation
+      name: enrollment_status
+      label: Enrollment Status
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: confirmation
-      label: Confirmation
-      hint: null
-      type: number
-      options: []
-      required: false
+      - Active
+      - Inactive
+      required: true

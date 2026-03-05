@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Meat'', ''label'': ''Meat''}'
-      - '{''value'': ''Vegetarian'', ''label'': ''Vegetarian''}'
-      - '{''value'': ''Vegan'', ''label'': ''Vegan''}'
+      - Meat
+      - Vegetarian
+      - Vegan
       required: true
     - id: 6
       name: special_requests
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Attending'', ''label'': ''Attending''}'
-      - '{''value'': ''Not Attending'', ''label'': ''Not Attending''}'
-      - '{''value'': ''Undecided'', ''label'': ''Undecided''}'
+      - Attending
+      - Not Attending
+      - Undecided
       required: true
     - id: 15
       name: employee_comments
@@ -129,11 +129,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''None'', ''label'': ''None''}'
-      - '{''value'': 1, ''label'': 1}'
-      - '{''value'': 2, ''label'': 2}'
-      - '{''value'': 3, ''label'': 3}'
-      - '{''value'': ''More than 3'', ''label'': ''More than 3''}'
+      - None
+      - '1'
+      - '2'
+      - '3'
+      - More than 3
       required: true
     - id: 18
       name: guest_names
@@ -155,8 +155,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 21
       name: gift_preferences

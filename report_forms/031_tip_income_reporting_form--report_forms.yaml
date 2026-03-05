@@ -30,13 +30,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      - '{''id'': 4, ''label'': ''Thursday''}'
-      - '{''id'': 5, ''label'': ''Friday''}'
-      - '{''id'': 6, ''label'': ''Saturday''}'
-      - '{''id'': 7, ''label'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: true
     - id: 5
       name: tip_earned
@@ -72,11 +72,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening''}'
-      - '{''id'': 4, ''label'': ''Weekend''}'
-      - '{''id'': 5, ''label'': False}'
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - 'False'
       required: true
     - id: 10
       name: shift_2
@@ -84,11 +84,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening''}'
-      - '{''id'': 4, ''label'': ''Weekend''}'
-      - '{''id'': 5, ''label'': False}'
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - 'False'
       required: false
     - id: 11
       name: shift_3
@@ -96,11 +96,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening''}'
-      - '{''id'': 4, ''label'': ''Weekend''}'
-      - '{''id'': 5, ''label'': False}'
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - 'False'
       required: false
     - id: 12
       name: shift_4
@@ -108,11 +108,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening''}'
-      - '{''id'': 4, ''label'': ''Weekend''}'
-      - '{''id'': 5, ''label'': False}'
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - 'False'
       required: false
     - id: 13
       name: submit
@@ -197,8 +197,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Shift Manager''}'
+      - Manager
+      - Shift Manager
       required: true
     - id: 25
       name: submit_to
@@ -206,6 +206,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Shift Manager''}'
-      - '{''id'': 2, ''label'': ''Manager''}'
+      - Shift Manager
+      - Manager
       required: false

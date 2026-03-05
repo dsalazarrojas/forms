@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Gluten-free''}'
-      - '{''label'': ''Lactose-free''}'
-      - '{''label'': ''None''}'
+      - Gluten-free
+      - Lactose-free
+      - None
       required: false
     - id: 5
       name: special_needs
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Marketing''}'
-      - '{''label'': ''Sales''}'
-      - '{''label'': ''Product Development''}'
+      - Marketing
+      - Sales
+      - Product Development
       required: false
     - id: 7
       name: preferences
@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: confirmation_message
@@ -150,8 +150,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Signature''}'
-      - '{''label'': ''Initials Only''}'
+      - Signature
+      - Initials Only
       required: false
     - id: 21
       name: signature_image
@@ -173,9 +173,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Speaker''}'
-      - '{''label'': ''Exhibitor''}'
-      - '{''label'': ''Other''}'
+      - Speaker
+      - Exhibitor
+      - Other
       required: false
     - id: 24
       name: form_submit

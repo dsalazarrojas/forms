@@ -15,186 +15,153 @@ inputSchema:
     title: Digital Audit Trail Report Form
     pages:
     - id: 1
-      name: digital_audit_trail_report_form_page_1
+      name: activity_details
       label: Activity Details
-      hint: null
+      hint: Briefly describe the activity that occurred.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: digital_audit_trail_report_form_page_2
+      name: report_details
       label: Report Details
-      hint: null
+      hint: Select all relevant report details.
       type: select_multiple
       options:
-      - Item 1
-      - Item 2
-      - Item 3
+      - Report Type 1
+      - Report Type 2
+      - Report Type 3
       required: false
     - id: 3
-      name: digital_audit_trail_report_form_page_3
+      name: user_details
       label: User Details
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      - option5
-      - option6
-      required: false
+      hint: Enter user information.
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: digital_audit_trail_report_form_page_4
+      name: additional_info
       label: Additional Information
-      hint: null
+      hint: Enter any additional relevant information.
       type: note
       options: []
       required: false
     - id: 5
-      name: digital_audit_trail_report_form_page_5
+      name: date_and_time
       label: Date and Time
-      hint: null
+      hint: Enter the date and time of the activity.
       type: date
       options: []
-      required: false
+      required: true
     - id: 6
-      name: digital_audit_trail_report_form_page_6
-      label: Date and Time
-      hint: null
-      type: time
+      name: user_id
+      label: User ID
+      hint: Enter user ID.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: digital_audit_trail_report_form_page_7
-      label: Date and Time
-      hint: null
-      type: time
+      name: ip_address
+      label: IP Address
+      hint: Enter IP address.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: digital_audit_trail_report_form_page_8
-      label: Date and Time
-      hint: null
-      type: time
-      options: []
+      name: device_type
+      label: Device Type
+      hint: Select device type.
+      type: select_one
+      options:
+      - Desktop
+      - Mobile
+      - Tablet
+      - Console
       required: false
     - id: 9
-      name: digital_audit_trail_report_form_page_9
-      label: Date and Time
-      hint: null
-      type: time
-      options: []
+      name: device_os
+      label: Device OS
+      hint: Select device OS.
+      type: select_one
+      options:
+      - Windows
+      - MacOS
+      - Linux
+      - Android
       required: false
     - id: 10
-      name: digital_audit_trail_report_form_page_10
-      label: Date and Time
-      hint: null
-      type: time
-      options: []
+      name: browser_type
+      label: Browser Type
+      hint: Select browser type.
+      type: select_one
+      options:
+      - Chrome
+      - Firefox
+      - Safari
+      - IE
       required: false
     - id: 11
-      name: digital_audit_trail_report_form_page_11
-      label: Date and Time
-      hint: null
-      type: time
+      name: location
+      label: Location
+      hint: Enter location.
+      type: text
       options: []
       required: false
     - id: 12
-      name: digital_audit_trail_report_form_page_12
-      label: Date and Time
-      hint: null
-      type: time
+      name: notes
+      label: Notes
+      hint: Add any notes about the activity.
+      type: text
       options: []
       required: false
     - id: 13
-      name: digital_audit_trail_report_form_page_13
-      label: Date and Time
-      hint: null
-      type: time
-      options: []
+      name: date_and_time_activity
+      label: Date and Time Activity
+      hint: Select date and time of activity.
+      type: select_one
+      options:
+      - Yesterday
+      - Today
+      - Tomorrow
+      - This week
       required: false
     - id: 14
-      name: digital_audit_trail_report_form_page_14
-      label: Date and Time
-      hint: null
-      type: time
-      options: []
+      name: activity_type
+      label: Activity Type
+      hint: Select activity type.
+      type: select_one
+      options:
+      - Activity 1
+      - Activity 2
+      - Activity 3
       required: false
     - id: 15
-      name: digital_audit_trail_report_form_page_15
-      label: Date and Time
-      hint: null
-      type: time
-      options: []
+      name: status
+      label: Status
+      hint: Select status.
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - In Progress
       required: false
     - id: 16
-      name: digital_audit_trail_report_form_page_16
-      label: Date and Time
-      hint: null
-      type: time
+      name: comments
+      label: Comments
+      hint: Enter comments.
+      type: text
       options: []
       required: false
     - id: 17
-      name: digital_audit_trail_report_form_page_17
-      label: Date and Time
-      hint: null
-      type: time
+      name: date
+      label: Date
+      hint: Enter date.
+      type: date
       options: []
-      required: false
+      required: true
     - id: 18
-      name: digital_audit_trail_report_form_page_18
-      label: Date and Time
-      hint: null
+      name: time
+      label: Time
+      hint: Enter time.
       type: time
       options: []
-      required: false
-    - id: 19
-      name: digital_audit_trail_report_form_page_19
-      label: Date and Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: digital_audit_trail_report_form_page_20
-      label: Date and Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: digital_audit_trail_report_form_page_21
-      label: Date and Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: digital_audit_trail_report_form_page_22
-      label: Date and Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: digital_audit_trail_report_form_page_23
-      label: Date and Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: digital_audit_trail_report_form_page_24
-      label: Date and Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: digital_audit_trail_report_form_page_25
-      label: Date and Time
-      hint: null
-      type: time
-      options: []
-      required: false
+      required: true

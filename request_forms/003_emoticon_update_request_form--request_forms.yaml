@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -36,156 +25,77 @@ inputSchema:
       options: []
       required: false
     - id: 4
-      name: review_comments
-      label: Review comments
+      name: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: review_comments
-      label: Review comments
+      name: feedback
+      label: Feedback
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: review_comments
-      label: Review comments
+      name: contact_information
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: review_comments
-      label: Review comments
+      name: email
+      label: Email
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 8
-      name: review_comments
-      label: Review comments
+      name: date
+      label: Date
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 9
-      name: review_comments
-      label: Review comments
+      name: request_details
+      label: Request Details
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: review_comments
-      label: Review comments
+      name: select_1
+      label: Select One
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 11
-      name: review_comments
-      label: Review comments
+      name: select_2
+      label: Select Multiple
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 12
-      name: review_comments
-      label: Review comments
+      name: checkboxes
+      label: Checkboxes
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: review_comments
-      label: Review comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: review_comments
-      label: Review comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: review_comments
-      label: Review comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: review_comments
-      label: Review comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: review_comments
-      label: Review comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: review_comments
-      label: Review comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: review_comments
-      label: Review comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: review_comments
-      label: Review comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: review_comments
-      label: Review comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: review_comments
-      label: Review comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: review_comments
-      label: Review comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: review_comments
-      label: Review comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: review_comments
-      label: Review comments
-      hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false

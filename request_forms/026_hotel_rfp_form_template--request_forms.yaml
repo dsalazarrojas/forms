@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Draft''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''Cancelled''}'
+      - Draft
+      - In Progress
+      - Completed
+      - Cancelled
       required: false
     - id: 8
       name: rfp_type
@@ -62,10 +62,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Sales''}'
-      - '{''label'': ''Marketing''}'
-      - '{''label'': ''Operations''}'
-      - '{''label'': ''Other''}'
+      - Sales
+      - Marketing
+      - Operations
+      - Other
       required: false
     - id: 9
       name: rfp_due_date
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Image''}'
-      - '{''label'': ''Document''}'
-      - '{''label'': ''Video''}'
-      - '{''label'': ''Audio''}'
-      - '{''label'': ''Other''}'
+      - Image
+      - Document
+      - Video
+      - Audio
+      - Other
       required: false

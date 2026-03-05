@@ -9,38 +9,31 @@ inputSchema:
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 2
-      name: reviewer
-      label: Reviewer
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: facility
-      label: Facility
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: incident_description
       label: Incident Description
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 3
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
       name: prevention_actions_taken
       label: Prevention Actions Taken
       hint: null
       type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: incident_status
       label: Incident Status
       hint: null
@@ -48,138 +41,64 @@ inputSchema:
       options:
       - Active
       - Inactive
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: follow_up_action
       label: Follow Up Action
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 7
+      name: facility
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 8
       name: reviewer_overseer
-      label: Reviewer Overseer
+      label: Reviewer's Name
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: incident_date
-      label: Incident Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: reviewer_overseer
-      label: Reviewer Overseer
+      name: follow_up_action_2
+      label: Follow Up Action 2
       hint: null
       type: text
       options: []
       required: false
+    - id: 10
+      name: incident_status_2
+      label: Incident Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
     - id: 11
-      name: incident_description
-      label: Incident Description
+      name: prevention_actions_taken_2
+      label: Actions Taken
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: prevention_actions_taken
-      label: Prevention Actions Taken
+      name: facility_2
+      label: Facility Name
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: incident_status
-      label: Incident Status
+      name: reviewer_2
+      label: Reviewer 2
       hint: null
       type: select_one
       options:
-      - Active
-      - Inactive
-      required: false
-    - id: 14
-      name: follow_up_action
-      label: Follow Up Action
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: facility
-      label: Facility
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: reviewer
-      label: Reviewer
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: incident_date
-      label: Incident Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: facility
-      label: Facility
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: reviewer_overseer
-      label: Reviewer Overseer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: incident_status
-      label: Incident Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 21
-      name: follow_up_action
-      label: Follow Up Action
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: incident_description
-      label: Incident Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: prevention_actions_taken
-      label: Prevention Actions Taken
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: reviewer
-      label: Reviewer
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false

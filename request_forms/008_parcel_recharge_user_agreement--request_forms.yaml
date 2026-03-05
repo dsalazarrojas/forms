@@ -15,78 +15,52 @@ inputSchema:
     title: Parcel Recharge User Agreement
     pages:
     - id: 1
-      name: first_page
-      label: User Agreement
+      name: introduction
+      label: What is your name and contact information?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: first_page_subpage
-      label: Subpage
+      name: parcel_details
+      label: Parcel Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: subpage_subsubpage
-      label: subsubpage
+      name: consent
+      label: Consent
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 4
-      name: subsubpage_subpage
-      label: subsubpage
+      name: communication_preferences
+      label: Communication Preferences
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: subpage_subsubpage
-      label: subsubpage
+      name: recharge_options
+      label: Recharge Options
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: subpage_subpage
-      label: subpage
+      name: additional_information
+      label: Additional Information
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: subpage
-      label: User Agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: subpage_subpage
-      label: subpage
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: first_page_subpage
-      label: Subpage
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: subpage
-      label: Subpage
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: first_page
-      label: User Agreement
+      name: comments
+      label: Comments or instructions
       hint: null
       type: text
       options: []

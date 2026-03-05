@@ -4,15 +4,17 @@ inputSchema:
     title: engagement_party_rsvp_survey
     pages:
     - id: 1
-      name: main
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: guest_attendance
-      label: guest_attendance
+      label: Guest attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: dietary_preferences
+      label: Dietary preferences
       hint: null
       type: select_one
       options:
@@ -20,158 +22,93 @@ inputSchema:
       - 'No'
       required: false
     - id: 3
-      name: dietary_preferences
-      label: dietary_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
       name: additional_notes
-      label: additional_notes
+      label: Additional notes
       hint: null
-      type: note
+      type: text
       options: []
       required: false
-    - id: 5
+    - id: 4
       name: rsvp_date
-      label: rsvp_date
+      label: RSVP date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: will_attend
-      label: will_attend
+      label: Will attend
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: will_dine
-      label: will_dine
+      label: Will dine
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: will_work
-      label: will_work
+      label: Will work
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 9
+      required: true
+    - id: 8
       name: rsvp_time
-      label: rsvp_time
+      label: RSVP time
       hint: null
       type: time
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
       options: []
       required: false
     - id: 10
-      name: phone_number
-      label: phone_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 11
       name: guest_name
-      label: guest_name
+      label: Guest name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 12
       name: guest_relation
-      label: guest_relation
+      label: Guest relation
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
+    - id: 13
+      name: guest_message
+      label: Guest message
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 14
-      name: guest_message
-      label: guest_message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
       name: host_message
-      label: host_message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: guest_message
-      label: host_message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: main
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: rsvp_time
-      label: rsvp_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: phone_number
-      label: phone_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: guest_name
-      label: guest_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: guest_message
-      label: guest_message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: host_message
-      label: host_message
+      label: Host message
       hint: null
       type: text
       options: []

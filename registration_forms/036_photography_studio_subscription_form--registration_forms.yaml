@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Quarterly''}'
-      - '{''value'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 6
       name: start_date
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Suspended''}'
-      - '{''value'': ''Expired''}'
+      - Active
+      - Suspended
+      - Expired
       required: false
     - id: 10
       name: payment_method
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Stripe''}'
-      - '{''value'': ''PayPal''}'
-      - '{''value'': ''Bank Transfer''}'
+      - Stripe
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 11
       name: payment_status
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Paid''}'
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Unpaid''}'
+      - Paid
+      - Pending
+      - Unpaid
       required: false
     - id: 12
       name: notes

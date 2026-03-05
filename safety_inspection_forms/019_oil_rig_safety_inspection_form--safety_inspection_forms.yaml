@@ -27,8 +27,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 3
       name: general_inspections_comments
@@ -43,12 +44,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 5
       name: equipment_inspections_comments
-      label: Comments
+      label: Equipment Inspections Comments
       hint: null
       type: text
       options: []
@@ -59,12 +61,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 7
       name: safety_equipment_testing_comments
-      label: Comments
+      label: Safety Equipment Testing Comments
       hint: null
       type: text
       options: []
@@ -75,12 +78,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 9
       name: personnel_inspections_comments
-      label: Comments
+      label: Personnel Inspections Comments
       hint: null
       type: text
       options: []
@@ -94,7 +98,7 @@ inputSchema:
       required: false
     - id: 11
       name: fire_prevention_comments
-      label: Comments
+      label: Fire Prevention Comments
       hint: null
       type: text
       options: []
@@ -105,12 +109,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 13
       name: fire_fighting_equipment_comments
-      label: Comments
+      label: Fire Fighting Equipment Comments
       hint: null
       type: text
       options: []
@@ -121,12 +126,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 15
       name: emergency_exit_routes_comments
-      label: Comments
+      label: Emergency Exit Routes Comments
       hint: null
       type: text
       options: []
@@ -137,12 +143,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 17
       name: electrical_systems_comments
-      label: Comments
+      label: Electrical Systems Comments
       hint: null
       type: text
       options: []
@@ -153,12 +160,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 19
       name: electrical_equipment_testing_comments
-      label: Comments
+      label: Electrical Equipment Testing Comments
       hint: null
       type: text
       options: []
@@ -169,12 +177,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 21
       name: electrical_inspections_comments
-      label: Comments
+      label: Electrical Inspections Comments
       hint: null
       type: text
       options: []
@@ -185,12 +194,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 23
       name: gas_systems_comments
-      label: Comments
+      label: Gas Systems Comments
       hint: null
       type: text
       options: []
@@ -201,12 +211,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 25
       name: gas_equipment_testing_comments
-      label: Comments
+      label: Gas Equipment Testing Comments
       hint: null
       type: text
       options: []

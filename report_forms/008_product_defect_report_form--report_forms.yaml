@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Defected''}'
-      - '{''id'': 2, ''label'': ''Not Defected''}'
-      - '{''id'': 3, ''label'': ''Partially Defected''}'
+      - Defected
+      - Not Defected
+      - Partially Defected
       required: false
     - id: 8
       name: product_condition
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Image''}'
-      - '{''id'': 2, ''label'': ''Comment''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Image
+      - Comment
+      - Both
       required: false
     - id: 12
       name: product_status
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Partially Inactive''}'
+      - Active
+      - Inactive
+      - Partially Inactive
       required: false
     - id: 13
       name: product_rating

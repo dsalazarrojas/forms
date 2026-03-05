@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Murder'', ''value'': ''murder''}'
-      - '{''label'': ''Violent Crime'', ''value'': ''violent_crime''}'
-      - '{''label'': ''Property Crime'', ''value'': ''property_crime''}'
+      - Murder
+      - Violent Crime
+      - Property Crime
       required: false
     - id: 3
       name: clearance_date_range
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Local Police Department'', ''value'': ''local_police_department''}'
-      - '{''label'': ''State Police Department'', ''value'': ''state_police_department''}'
-      - '{''label'': ''Federal Police Department'', ''value'': ''federal_police_department''}'
+      - Local Police Department
+      - State Police Department
+      - Federal Police Department
       required: false
     - id: 8
       name: officer_name

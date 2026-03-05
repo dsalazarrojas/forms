@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Accident''}'
-      - '{''id'': 2, ''label'': ''Near Miss''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Accident
+      - Near Miss
+      - Other
       required: false
     - id: 4
       name: incidentcause
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Minor''}'
-      - '{''id'': 2, ''label'': ''Major''}'
+      - Minor
+      - Major
       required: false
     - id: 6
       name: incidentseverity
@@ -63,6 +63,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Open''}'
-      - '{''id'': 2, ''label'': ''Closed''}'
+      - Open
+      - Closed
       required: false

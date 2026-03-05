@@ -111,8 +111,8 @@ inputSchema:
       hint: Verification of eligibility
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: authorize_premium_billing
@@ -120,8 +120,8 @@ inputSchema:
       hint: Add the premium to my monthly loan payment
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: electronic_signature_consent
@@ -129,6 +129,6 @@ inputSchema:
       hint: I agree to use an electronic signature for this enrollment
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true

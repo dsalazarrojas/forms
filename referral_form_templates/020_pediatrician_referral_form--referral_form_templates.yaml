@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Asthma''}'
-      - '{''id'': 2, ''name'': ''Allergies''}'
-      - '{''id'': 3, ''name'': ''ADHD''}'
-      - '{''id'': 4, ''name'': ''Autism''}'
-      - '{''id'': 5, ''name'': ''Cancer''}'
+      - Asthma
+      - Allergies
+      - ADHD
+      - Autism
+      - Cancer
       required: false
     - id: 4
       name: medications
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Acetaminophen''}'
-      - '{''id'': 2, ''name'': ''Albuterol''}'
-      - '{''id'': 3, ''name'': ''Amoxicillin''}'
+      - Acetaminophen
+      - Albuterol
+      - Amoxicillin
       required: false
     - id: 5
       name: allergies
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Peanuts''}'
-      - '{''id'': 2, ''name'': ''Shellfish''}'
-      - '{''id'': 3, ''name'': ''Tree Nuts''}'
+      - Peanuts
+      - Shellfish
+      - Tree Nuts
       required: false
     - id: 6
       name: contact_information
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Family Member''}'
-      - '{''id'': 2, ''name'': ''General Practitioner''}'
-      - '{''id'': 3, ''name'': ''Specialist''}'
+      - Family Member
+      - General Practitioner
+      - Specialist
       required: false
     - id: 8
       name: notes
@@ -114,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Doctor''}'
-      - '{''id'': 2, ''name'': ''Nurse''}'
+      - Doctor
+      - Nurse
       required: false
     - id: 15
       name: assigned_at
@@ -137,9 +137,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 18
       name: status
@@ -147,9 +147,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''New''}'
-      - '{''id'': 2, ''name'': ''In Progress''}'
-      - '{''id'': 3, ''name'': ''Done''}'
+      - New
+      - In Progress
+      - Done
       required: false
     - id: 19
       name: comments

@@ -1,300 +1,289 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Consent Refusal Report Form
     pages:
-      - id: 1
-        name: report_date
-        label: Report Date
-        hint: Date of refusal report
-        type: date
-        options: []
-        required: true
-      - id: 2
-        name: report_id
-        label: Report ID Number
-        hint: Unique identifier for this report
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: reporter_name
-        label: Reporter Name
-        hint: Name of person documenting refusal
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: reporter_role
-        label: Reporter Role
-        hint: Your position or title
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: reporter_department
-        label: Department
-        hint: Your department or division
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: client_patient_name
-        label: Client or Patient Name
-        hint: Name of person refusing consent
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: client_patient_id
-        label: Client or Patient ID
-        hint: Unique identifier
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: client_patient_dob
-        label: Date of Birth
-        hint: For identification
-        type: date
-        options: []
-        required: false
-      - id: 9
-        name: refusal_date
-        label: Date of Refusal
-        hint: When was consent refused
-        type: date
-        options: []
-        required: true
-      - id: 10
-        name: refusal_time
-        label: Time of Refusal
-        hint: When was consent refused
-        type: time
-        options: []
-        required: false
-      - id: 11
-        name: refusal_location
-        label: Location of Refusal
-        hint: Where did refusal occur
-        type: text
-        options: []
-        required: true
-      - id: 12
-        name: consent_type
-        label: Type of Consent Refused
-        hint: What consent was refused
-        type: select_one
-        options:
-          - Medical Treatment
-          - Surgical Procedure
-          - Medication Administration
-          - Diagnostic Test
-          - Data Sharing
-          - Research Participation
-          - Media Release
-          - Information Release
-          - Other
-        required: true
-      - id: 13
-        name: consent_type_other
-        label: Other Consent Type
-        hint: Specify if other selected
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: procedure_or_treatment
-        label: Specific Procedure or Treatment
-        hint: What was being consented to
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: refusal_reason
-        label: Reason for Refusal
-        hint: Why was consent refused
-        type: select_one
-        options:
-          - Personal beliefs
-          - Religious reasons
-          - Fear or anxiety
-          - Lack of understanding
-          - Previous negative experience
-          - Financial concerns
-          - Family input
-          - Seeking second opinion
-          - Other
-        required: true
-      - id: 16
-        name: refusal_reason_details
-        label: Refusal Reason Details
-        hint: Describe the reason in detail
-        type: text
-        options: []
-        required: true
-      - id: 17
-        name: capacity_assessment
-        label: Was Capacity to Decide Assessed
-        hint: Was decision-making capacity evaluated
-        type: select_one
-        options:
-          - Yes - Has capacity
-          - Yes - Lacks capacity
-          - No - Not assessed
-        required: true
-      - id: 18
-        name: capacity_details
-        label: Capacity Assessment Details
-        hint: Describe assessment if done
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: information_provided
-        label: Was Information Provided
-        hint: Did you explain risks and benefits
-        type: select_one
-        options:
-          - Yes - Fully explained
-          - Yes - Partially explained
-          - No
-        required: true
-      - id: 20
-        name: information_understanding
-        label: Did Client Demonstrate Understanding
-        hint: Did they show they understood
-        type: select_one
-        options:
-          - Yes - Clearly understood
-          - Yes - Seemed to understand
-          - No - Did not understand
-          - Unable to assess
-        required: true
-      - id: 21
-        name: risks_explained
-        label: Were Risks of Refusal Explained
-        hint: Did you explain consequences
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 22
-        name: risks_details
-        label: Risks Explained Details
-        hint: What risks were discussed
-        type: text
-        options: []
-        required: false
-      - id: 23
-        name: alternatives_offered
-        label: Were Alternatives Offered
-        hint: Did you offer other options
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not applicable
-        required: true
-      - id: 24
-        name: alternatives_details
-        label: Alternatives Details
-        hint: What alternatives were discussed
-        type: text
-        options: []
-        required: false
-      - id: 25
-        name: witnesses_present
-        label: Were Witnesses Present
-        hint: Did anyone witness the refusal
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 26
-        name: witness_names
-        label: Witness Names
-        hint: List witnesses if any
-        type: text
-        options: []
-        required: false
-      - id: 27
-        name: family_involved
-        label: Was Family Involved
-        hint: Were family members present or consulted
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 28
-        name: family_details
-        label: Family Involvement Details
-        hint: Describe family involvement
-        type: text
-        options: []
-        required: false
-      - id: 29
-        name: follow_up_planned
-        label: Is Follow-Up Planned
-        hint: Will you follow up with client
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 30
-        name: follow_up_date
-        label: Follow-Up Date
-        hint: When is follow-up scheduled
-        type: date
-        options: []
-        required: false
-      - id: 31
-        name: impact_of_refusal
-        label: Expected Impact of Refusal
-        hint: What are the consequences
-        type: text
-        options: []
-        required: true
-      - id: 32
-        name: reporter_signature
-        label: Reporter Signature
-        hint: Type name as signature
-        type: text
-        options: []
-        required: true
-      - id: 33
-        name: supervisor_notification
-        label: Was Supervisor Notified
-        hint: Has management been informed
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 34
-        name: report_status
-        label: Report Status
-        hint: For administrative use
-        type: select_one
-        options:
-          - Submitted
-          - Under Review
-          - Reviewed
-          - Action Required
-          - Closed
-        required: true
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of refusal report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: report_id
+      label: Report ID Number
+      hint: Unique identifier for this report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_name
+      label: Reporter Name
+      hint: Name of person documenting refusal
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporter_role
+      label: Reporter Role
+      hint: Your position or title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporter_department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_patient_name
+      label: Client or Patient Name
+      hint: Name of person refusing consent
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_patient_id
+      label: Client or Patient ID
+      hint: Unique identifier
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_patient_dob
+      label: Date of Birth
+      hint: For identification
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: refusal_date
+      label: Date of Refusal
+      hint: When was consent refused
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: refusal_time
+      label: Time of Refusal
+      hint: When was consent refused
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: refusal_location
+      label: Location of Refusal
+      hint: Where did refusal occur
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: consent_type
+      label: Type of Consent Refused
+      hint: What consent was refused
+      type: select_one
+      options:
+      - Medical Treatment
+      - Surgical Procedure
+      - Medication Administration
+      - Diagnostic Test
+      - Data Sharing
+      - Research Participation
+      - Media Release
+      - Information Release
+      - Other
+      required: true
+    - id: 13
+      name: consent_type_other
+      label: Other Consent Type
+      hint: Specify if other selected
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: procedure_or_treatment
+      label: Specific Procedure or Treatment
+      hint: What was being consented to
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: refusal_reason
+      label: Reason for Refusal
+      hint: Why was consent refused
+      type: select_one
+      options:
+      - Personal beliefs
+      - Religious reasons
+      - Fear or anxiety
+      - Lack of understanding
+      - Previous negative experience
+      - Financial concerns
+      - Family input
+      - Seeking second opinion
+      - Other
+      required: true
+    - id: 16
+      name: refusal_reason_details
+      label: Refusal Reason Details
+      hint: Describe the reason in detail
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: capacity_assessment
+      label: Was Capacity to Decide Assessed
+      hint: Was decision-making capacity evaluated
+      type: select_one
+      options:
+      - Yes - Has capacity
+      - Yes - Lacks capacity
+      - No - Not assessed
+      required: true
+    - id: 18
+      name: capacity_details
+      label: Capacity Assessment Details
+      hint: Describe assessment if done
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: information_provided
+      label: Was Information Provided
+      hint: Did you explain risks and benefits
+      type: select_one
+      options:
+      - Yes - Fully explained
+      - Yes - Partially explained
+      - 'False'
+      required: true
+    - id: 20
+      name: information_understanding
+      label: Did Client Demonstrate Understanding
+      hint: Did they show they understood
+      type: select_one
+      options:
+      - Yes - Clearly understood
+      - Yes - Seemed to understand
+      - No - Did not understand
+      - Unable to assess
+      required: true
+    - id: 21
+      name: risks_explained
+      label: Were Risks of Refusal Explained
+      hint: Did you explain consequences
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: risks_details
+      label: Risks Explained Details
+      hint: What risks were discussed
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: alternatives_offered
+      label: Were Alternatives Offered
+      hint: Did you offer other options
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 24
+      name: alternatives_details
+      label: Alternatives Details
+      hint: What alternatives were discussed
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: witnesses_present
+      label: Were Witnesses Present
+      hint: Did anyone witness the refusal
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 26
+      name: witness_names
+      label: Witness Names
+      hint: List witnesses if any
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: family_involved
+      label: Was Family Involved
+      hint: Were family members present or consulted
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 28
+      name: family_details
+      label: Family Involvement Details
+      hint: Describe family involvement
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: follow_up_planned
+      label: Is Follow-Up Planned
+      hint: Will you follow up with client
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 30
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: When is follow-up scheduled
+      type: date
+      options: []
+      required: false
+    - id: 31
+      name: impact_of_refusal
+      label: Expected Impact of Refusal
+      hint: What are the consequences
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: reporter_signature
+      label: Reporter Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: supervisor_notification
+      label: Was Supervisor Notified
+      hint: Has management been informed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 34
+      name: report_status
+      label: Report Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Submitted
+      - Under Review
+      - Reviewed
+      - Action Required
+      - Closed
+      required: true

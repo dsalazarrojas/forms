@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: medical_history
@@ -32,11 +32,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''None''}'
-      - '{''id'': 2, ''text'': ''Diabetes''}'
-      - '{''id'': 3, ''text'': ''Hypertension''}'
-      - '{''id'': 4, ''text'': ''High Cholesterol''}'
-      - '{''id'': 5, ''text'': ''Other''}'
+      - None
+      - Diabetes
+      - Hypertension
+      - High Cholesterol
+      - Other
       required: false
     - id: 5
       name: allergies
@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''None''}'
-      - '{''id'': 2, ''text'': ''Peanut''}'
-      - '{''id'': 3, ''text'': ''Gluten''}'
-      - '{''id'': 4, ''text'': ''Other''}'
+      - None
+      - Peanut
+      - Gluten
+      - Other
       required: false
     - id: 6
       name: medication
@@ -69,8 +69,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: medical_provider

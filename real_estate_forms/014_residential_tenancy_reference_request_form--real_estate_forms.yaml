@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''primary'', ''label'': ''Primary''}'
-      - '{''name'': ''secondary'', ''label'': ''Secondary''}'
+      - Primary
+      - Secondary
       required: false
     - id: 5
       name: property_details
@@ -95,8 +95,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''residential'', ''label'': ''Residential''}'
-      - '{''name'': ''commercial'', ''label'': ''Commercial''}'
+      - Residential
+      - Commercial
       required: false
     - id: 14
       name: property_status
@@ -104,33 +104,33 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''rented'', ''label'': ''Rented''}'
-      - '{''name'': ''vacant'', ''label'': ''Vacant''}'
+      - Rented
+      - Vacant
       required: false
     - id: 15
       name: property_address
-      label: Address
+      label: Property Address
       hint: null
       type: text
       options: []
       required: false
     - id: 16
       name: property_city
-      label: City
+      label: Property City
       hint: null
       type: text
       options: []
       required: false
     - id: 17
       name: property_state
-      label: State
+      label: Property State
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: property_postal_code
-      label: Post Code
+      label: Property Postal Code
       hint: null
       type: number
       options: []
@@ -158,21 +158,21 @@ inputSchema:
       required: false
     - id: 22
       name: landlord_phone
-      label: Phone
+      label: Landlord Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 23
       name: landlord_name
-      label: Name
+      label: Landlord Name
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: landlord_email
-      label: Email
+      label: Landlord Email
       hint: null
       type: email
       options: []

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''monthly''}'
-      - '{''value'': ''yearly''}'
-      - '{''value'': ''one-time''}'
+      - monthly
+      - yearly
+      - one-time
       required: false
     - id: 3
       name: plan_choice
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''speed_20mb''}'
-      - '{''value'': ''speed_50mb''}'
-      - '{''value'': ''speed_100mb''}'
+      - speed 20mb
+      - speed 50mb
+      - speed 100mb
       required: false
     - id: 4
       name: installation_preferences
@@ -106,7 +106,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''inactive''}'
-      - '{''value'': ''pending''}'
+      - active
+      - inactive
+      - pending
       required: false

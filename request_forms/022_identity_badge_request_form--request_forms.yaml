@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Accounting''}'
-      - '{''id'': 2, ''label'': ''Engineering''}'
-      - '{''id'': 3, ''label'': ''Marketing''}'
-      - '{''id'': 4, ''label'': ''Sales''}'
+      - Accounting
+      - Engineering
+      - Marketing
+      - Sales
       required: true
     - id: 4
       name: shift
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Day Shift''}'
-      - '{''id'': 2, ''label'': ''Night Shift''}'
-      - '{''id'': 3, ''label'': ''Rotating Shift''}'
+      - Day Shift
+      - Night Shift
+      - Rotating Shift
       required: true
     - id: 5
       name: badge_type
@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Standard''}'
-      - '{''id'': 2, ''label'': ''Senior''}'
-      - '{''id'': 3, ''label'': ''Manager''}'
+      - Standard
+      - Senior
+      - Manager
       required: true
     - id: 6
       name: start_date
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approve''}'
-      - '{''id'': 2, ''label'': ''Deny''}'
+      - Approve
+      - Deny
       required: false
     - id: 10
       name: employee_manager_signature

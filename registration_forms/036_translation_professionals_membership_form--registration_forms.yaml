@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''English'', ''value'': ''English''}'
-      - '{''label'': ''Spanish'', ''value'': ''Spanish''}'
+      - English
+      - Spanish
       required: false
     - id: 9
       name: specialization
@@ -67,10 +67,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Medical'', ''value'': ''Medical''}'
-      - '{''label'': ''Technical'', ''value'': ''Technical''}'
-      - '{''label'': ''Financial'', ''value'': ''Financial''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - Medical
+      - Technical
+      - Financial
+      - Other
       required: false
     - id: 10
       name: certification
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Certified'', ''value'': ''Certified''}'
-      - '{''label'': ''Non-Certified'', ''value'': ''Non-Certified''}'
+      - Certified
+      - Non-Certified
       required: false
     - id: 11
       name: payment_method
@@ -87,8 +87,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Stripe'', ''value'': ''Stripe''}'
-      - '{''label'': ''PayPal'', ''value'': ''PayPal''}'
+      - Stripe
+      - PayPal
       required: false
     - id: 12
       name: amount

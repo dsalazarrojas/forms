@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''chatjimmy''}'
-      - '{''name'': ''other''}'
+      - chatjimmy
+      - other
       required: true
     - id: 10
       name: confirm
@@ -74,6 +74,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': True}'
-      - '{''name'': False}'
+      - 'True'
+      - 'False'
       required: true

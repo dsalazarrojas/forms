@@ -59,11 +59,13 @@ inputSchema:
       - Undecided
       required: false
     - id: 8
-      name: comments
-      label: Comments
+      name: email_sent
+      label: Email Sent
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: contact_phone
@@ -73,123 +75,6 @@ inputSchema:
       options: []
       required: false
     - id: 10
-      name: email_sent
-      label: Email Sent
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 11
-      name: email_sent_date
-      label: Email Sent Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: followup
-      label: Follow-up Needed
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 13
-      name: notes
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: contact_name
-      label: Contact Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: contact_phone
-      label: Contact Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: email_sent
-      label: Email Sent
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 17
-      name: email_sent_date
-      label: Email Sent Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: followup
-      label: Follow-up Needed
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 19
-      name: notes
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: contact_name
-      label: Contact Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: contact_phone
-      label: Contact Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: email_sent
-      label: Email Sent
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 23
-      name: email_sent_date
-      label: Email Sent Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: followup
-      label: Follow-up Needed
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 25
       name: notes
       label: Notes
       hint: null

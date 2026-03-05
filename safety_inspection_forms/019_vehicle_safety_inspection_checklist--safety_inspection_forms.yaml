@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: number
       options: []
-      required: true
+      required: false
     - id: 7
-      name: vin_number_2
+      name: vin
       label: Vin
       hint: null
       type: text
@@ -54,11 +54,11 @@ inputSchema:
       required: false
     - id: 8
       name: safety_inspection_date_2
-      label: Safety Inspection Date
+      label: Safety Inspection Date 2
       hint: null
       type: date
       options: []
-      required: true
+      required: false
     - id: 9
       name: vehicle_make_2
       label: Make
@@ -74,30 +74,61 @@ inputSchema:
       options: []
       required: false
     - id: 11
-      name: year
-      label: Year
+      name: year_2
+      label: Year 2
       hint: null
       type: number
       options: []
-      required: true
-    - id: 12
-      name: vin
-      label: Vin
-      hint: null
-      type: text
-      options: []
       required: false
-    - id: 13
-      name: safety_inspection_date
-      label: Safety Inspection Date
+    - id: 12
+      name: inspection_date
+      label: Inspection Date
       hint: null
       type: date
       options: []
-      required: true
-    - id: 14
-      name: vehicle_make
-      label: Vehicle Make
+      required: false
+    - id: 13
+      name: vehicle_type
+      label: Vehicle Type
       hint: null
       type: text
+      options: []
+      required: true
+    - id: 14
+      name: inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Pending
+      required: true
+    - id: 15
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_length
+      label: Vehicle Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_width
+      label: Vehicle Width
+      hint: null
+      type: number
       options: []
       required: false

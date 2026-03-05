@@ -5,178 +5,92 @@ inputSchema:
     pages:
     - id: 1
       name: user_info
-      label: user_info
+      label: User Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: pool_temperature
-      label: pool_temperature
+      label: Pool Temperature
       hint: null
       type: select_one
       options:
-      - '{''name'': 22, ''label'': ''23°C''}'
-      - '{''name'': 22, ''label'': ''23°C''}'
-      - '{''name'': 24, ''label'': ''24°C''}'
+      - 23°C
+      - 24°C
+      - 25°C
       required: false
     - id: 3
       name: adjustment_duration
-      label: adjustment_duration
+      label: Adjustment Duration
       hint: null
       type: number
       options: []
       required: false
     - id: 4
       name: reason_for_adjustment
-      label: reason_for_adjustment
+      label: Reason for Adjustment
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: pool_size
-      label: pool_size
+      label: Pool Size
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Small'', ''label'': ''Small''}'
-      - '{''name'': ''Medium'', ''label'': ''Medium''}'
-      - '{''name'': ''Large'', ''label'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: false
-    - id: 7
-      name: assigned_tool
-      label: assigned_tool
+    - id: 6
+      name: submitted_by
+      label: Submitted By
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
       options: []
       required: false
     - id: 8
-      name: output_file
-      label: output_file
+      name: time
+      label: Time
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 9
-      name: form_id
-      label: form_id
+      name: email
+      label: Email
       hint: null
-      type: text
+      type: email
       options: []
       required: false
     - id: 10
-      name: category
-      label: category
+      name: notes
+      label: Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: description
-      label: description
+      name: form_category
+      label: Form Category
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 12
-      name: form_category
-      label: form_category
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': ''Request Forms'', ''label'': ''Request Forms''}'
-      - '{''name'': ''Request Forms'', ''label'': ''Request Forms''}'
-      - '{''name'': ''Request Forms'', ''label'': ''Request Forms''}'
-      - '{''name'': ''Request Forms'', ''label'': ''Request Forms''}'
-      - '{''name'': ''Request Forms'', ''label'': ''Request Forms''}'
-      - '{''name'': ''Request Forms'', ''label'': ''Request Forms''}'
-      required: false
-    - id: 13
-      name: assigned_tool_judger
-      label: assigned_tool_judger
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: form_id
-      label: form_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_category
-      label: form_category
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': ''Request Forms'', ''label'': ''Request Forms''}'
-      - '{''name'': ''Request Forms'', ''label'': ''Request Forms''}'
-      - '{''name'': ''Request Forms'', ''label'': ''Request Forms''}'
-      - '{''name'': ''Request Forms'', ''label'': ''Request Forms''}'
-      - '{''name'': ''Request Forms'', ''label'': ''Request Forms''}'
-      required: false
-    - id: 23
-      name: notes
-      label: notes
+      name: assigned_tool
+      label: Assigned Tool
       hint: null
       type: text
       options: []

@@ -1,96 +1,85 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Artistic Workshop Filming Consent Form
     pages:
-      - id: 1
-        name: workshop_title
-        label: Workshop or Event Title
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: participant_full_name
-        label: Participant Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: minor_status
-        label: Is the participant under 18 years of age
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 4
-        name: guardian_name
-        label: Parent or Guardian Name
-        hint: Required if under 18
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: video_consent
-        label: I consent to being video recorded
-        hint: Recordings will be used for educational purposes
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 6
-        name: photography_consent
-        label: I consent to still photography
-        hint: Photographs may be used in marketing materials
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 7
-        name: usage_permission
-        label: Permission for specific uses
-        hint: Check all that apply
-        type: select_multiple
-        options:
-          - Social Media
-          - Workshop Archives
-          - Promotional Brochures
-          - Professional Portfolio
-        required: false
-      - id: 8
-        name: credit_preference
-        label: How would you like to be credited
-        hint: e.g. Full Name, First Name Only, Anonymous
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: contact_email
-        label: Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 10
-        name: consent_date
-        label: Date Signed
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: workshop_title
+      label: Workshop or Event Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: minor_status
+      label: Is the participant under 18 years of age
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: Required if under 18
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: video_consent
+      label: I consent to being video recorded
+      hint: Recordings will be used for educational purposes
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: photography_consent
+      label: I consent to still photography
+      hint: Photographs may be used in marketing materials
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: usage_permission
+      label: Permission for specific uses
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Social Media
+      - Workshop Archives
+      - Promotional Brochures
+      - Professional Portfolio
+      required: false
+    - id: 8
+      name: credit_preference
+      label: How would you like to be credited
+      hint: e.g. Full Name, First Name Only, Anonymous
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: consent_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

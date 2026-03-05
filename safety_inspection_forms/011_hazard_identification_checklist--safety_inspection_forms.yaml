@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''category_a'', ''value'': ''category_a''}'
-      - '{''id'': 2, ''name'': ''category_b'', ''value'': ''category_b''}'
-      - '{''id'': 3, ''name'': ''category_c'', ''value'': ''category_c''}'
+      - category a
+      - category b
+      - category c
       required: true
     - id: 3
       name: hazard_frequency
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''frequent'', ''value'': ''frequent''}'
-      - '{''id'': 2, ''name'': ''occasional'', ''value'': ''occasional''}'
-      - '{''id'': 3, ''name'': ''rare'', ''value'': ''rare''}'
+      - frequent
+      - occasional
+      - rare
       required: true
     - id: 4
       name: severity_level
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''low'', ''value'': ''low''}'
-      - '{''id'': 2, ''name'': ''medium'', ''value'': ''medium''}'
-      - '{''id'': 3, ''name'': ''high'', ''value'': ''high''}'
+      - low
+      - medium
+      - high
       required: true
     - id: 8
       name: prevention_methods

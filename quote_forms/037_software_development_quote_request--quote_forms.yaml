@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': False, ''value'': False}'
-      - '{''id'': 2, ''name'': True, ''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 5
       name: project_manager_name
@@ -95,10 +95,10 @@ inputSchema:
       hint: What is the project status.
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Open'', ''value'': ''Open''}'
-      - '{''id'': 2, ''name'': ''In progress'', ''value'': ''In Progress''}'
-      - '{''id'': 3, ''name'': ''Closed'', ''value'': ''Closed''}'
-      - '{''id'': 4, ''name'': ''Cancelled'', ''value'': ''Cancelled''}'
+      - Open
+      - In Progress
+      - Closed
+      - Cancelled
       required: false
     - id: 14
       name: project_status_other
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low'', ''value'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium'', ''value'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High'', ''value'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 17
       name: project_priority_other
@@ -144,10 +144,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''.NET'', ''value'': ''.net''}'
-      - '{''id'': 2, ''name'': ''Java'', ''value'': ''java''}'
-      - '{''id'': 3, ''name'': ''JavaScript'', ''value'': ''javascript''}'
-      - '{''id'': 4, ''name'': ''Other'', ''value'': ''other''}'
+      - .net
+      - java
+      - javascript
+      - other
       required: false
     - id: 20
       name: project_technology_other

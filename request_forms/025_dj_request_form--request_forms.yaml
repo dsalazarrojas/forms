@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Dance''}'
-      - '{''value'': ''Event''}'
-      - '{''value'': ''Party''}'
-      - '{''value'': ''Wedding''}'
+      - Dance
+      - Event
+      - Party
+      - Wedding
       required: false
     - id: 2
       name: song_type
@@ -20,9 +20,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Pop''}'
-      - '{''value'': ''Rock''}'
-      - '{''value'': ''Hip-Hop''}'
+      - Pop
+      - Rock
+      - Hip-Hop
       required: false
     - id: 3
       name: song_name
@@ -114,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy''}'
-      - '{''value'': ''other''}'
+      - chatjimmy
+      - other
       required: false
     - id: 16
       name: output_file_id

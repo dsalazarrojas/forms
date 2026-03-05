@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Bank Transfer''}'
-      - '{''id'': 2, ''label'': ''PayPal''}'
-      - '{''id'': 3, ''label'': ''Cash''}'
+      - Bank Transfer
+      - PayPal
+      - Cash
       required: false
     - id: 6
       name: payment_amount
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Performance Analytics''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - Performance Analytics
+      - Other
       required: false
     - id: 11
       name: assigned_tool

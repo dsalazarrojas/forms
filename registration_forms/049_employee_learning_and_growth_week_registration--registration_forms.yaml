@@ -4,177 +4,136 @@ inputSchema:
     title: employee_learning_and_growth_week_registration
     pages:
     - id: 1
-      name: employee_learning_and_growth_week_registration
-      label: Registration Details
+      name: employee_name
+      label: Employee Name
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: registration_form
-      label: Registration Form
+      name: employee_email
+      label: Employee Email
       hint: null
-      type: text
+      type: email
       options: []
       required: false
     - id: 3
-      name: employee_learning_and_growth_week_registration_form
-      label: Submission
+      name: department
+      label: Department
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: employee_learning_and_growth_week_registration
-      label: Registration
+      name: job_title
+      label: Job Title
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: employee_learning_and_growth_week_registration_details
-      label: Registration Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: employee_learning_and_growth_week_registration_form_fields
-      label: Form Fields
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: registration_date
       label: Registration Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 8
-      name: employee_learning_and_growth_week_registration_form_submitter
+    - id: 6
+      name: submitter
       label: Submitter
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: learning_objective
-      label: Learning Objective
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
+    - id: 7
       name: learning_objectives
       label: Learning Objectives
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: registration_date
-      label: Registration Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: employee_learning_and_growth_week_registration_form_fields_1
-      label: Form Fields 1
+    - id: 8
+      name: form_fields
+      label: Form Fields
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: employee_learning_and_growth_week_registration_form_fields_2
-      label: Form Fields 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: employee_learning_and_growth_week_registration_form_fields_3
-      label: Form Fields 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: employee_learning_and_growth_week_registration_form_fields_4
-      label: Form Fields 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: employee_learning_and_growth_week_registration_form_fields_5
-      label: Form Fields 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: employee_learning_and_growth_week_registration_form_fields_6
-      label: Form Fields 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: employee_learning_and_growth_week_registration_form_fields_7
-      label: Form Fields 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: employee_learning_and_growth_week_registration_form_fields_8
-      label: Form Fields 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: employee_learning_and_growth_week_registration_form_fields_9
-      label: Form Fields 9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: employee_learning_and_growth_week_registration_form_fields_10
-      label: Form Fields 10
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: registration_form_submitter
-      label: Submitter
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: registration_form_submitter_email
+    - id: 9
+      name: submitter_email
       label: Submitter Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 24
-      name: registration_form_submitter_phone
+    - id: 10
+      name: submitter_phone
       label: Submitter Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 25
-      name: registration_form_submitter_address
+    - id: 11
+      name: submitter_address
       label: Submitter Address
       hint: null
       type: text
       options: []
+      required: false
+    - id: 12
+      name: submitted_for
+      label: Submitter Purpose
+      hint: null
+      type: select_one
+      options:
+      - training
+      - certification
+      - evaluation
+      - other
+      required: false
+    - id: 13
+      name: submitted_on_behalf
+      label: Submitted on Behalf of
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 14
+      name: submitted_for_project
+      label: Submitter Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_for_team
+      label: Submitter Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_additional_comments
+      label: Submitter Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submitted_for_other
+      label: Submitter Other Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_declaration
+      label: Submitter Declaration
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false

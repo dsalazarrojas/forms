@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''high'', ''label'': ''High''}'
-      - '{''id'': ''low'', ''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 6
       name: incident_evidence
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''it'', ''label'': ''IT''}'
-      - '{''id'': ''sec'', ''label'': ''Security''}'
-      - '{''id'': ''op'', ''label'': ''Operations''}'
+      - IT
+      - Security
+      - Operations
       required: false
     - id: 8
       name: incident_status
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''open'', ''label'': ''Open''}'
-      - '{''id'': ''closed'', ''label'': ''Closed''}'
-      - '{''id'': ''pending'', ''label'': ''Pending''}'
+      - Open
+      - Closed
+      - Pending
       required: false
     - id: 9
       name: notes
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''system'', ''label'': ''System''}'
-      - '{''id'': ''network'', ''label'': ''Network''}'
-      - '{''id'': ''application'', ''label'': ''Application''}'
+      - System
+      - Network
+      - Application
       required: false
     - id: 14
       name: incident_reporter
@@ -118,8 +118,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': False, ''label'': False}'
-      - '{''id'': True, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 16
       name: incident_frequency
@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''one_time'', ''label'': ''One Time''}'
-      - '{''id'': ''recurring'', ''label'': ''Recurring''}'
+      - One Time
+      - Recurring
       required: false
     - id: 17
       name: incident_impact
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''low'', ''label'': ''Low''}'
-      - '{''id'': ''medium'', ''label'': ''Medium''}'
-      - '{''id'': ''high'', ''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 18
       name: incident_severity
@@ -146,9 +146,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''low'', ''label'': ''Low''}'
-      - '{''id'': ''medium'', ''label'': ''Medium''}'
-      - '{''id'': ''high'', ''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 19
       name: incident_status_escalation
@@ -156,8 +156,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': False, ''label'': False}'
-      - '{''id'': True, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 20
       name: incident_report_status
@@ -165,9 +165,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''draft'', ''label'': ''Draft''}'
-      - '{''id'': ''submitted'', ''label'': ''Submitted''}'
-      - '{''id'': ''approved'', ''label'': ''Approved''}'
+      - Draft
+      - Submitted
+      - Approved
       required: false
     - id: 21
       name: incident_escalation_count
@@ -189,8 +189,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''open'', ''label'': ''Open''}'
-      - '{''id'': ''closed'', ''label'': ''Closed''}'
+      - Open
+      - Closed
       required: false
     - id: 24
       name: incident_responsible_user

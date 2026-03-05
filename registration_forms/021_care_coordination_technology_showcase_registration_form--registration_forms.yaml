@@ -30,16 +30,11 @@ inputSchema:
       hint: Select the role that best describes you
       type: select_one
       options:
-      - label: IT/Health Tech Specialist
-        value: tech_specialist
-      - label: Care Coordinator/Manager
-        value: care_coordinator
-      - label: Clinical Administrator
-        value: clinical_admin
-      - label: Nurse Manager
-        value: nurse_manager
-      - label: Physician Leader
-        value: physician
+      - IT/Health Tech Specialist
+      - Care Coordinator/Manager
+      - Clinical Administrator
+      - Nurse Manager
+      - Physician Leader
       required: true
     - id: 5
       name: attendee_email_address
@@ -68,12 +63,9 @@ inputSchema:
       hint: Select the one that fits your schedule
       type: select_one
       options:
-      - label: April 15, 2026 (Virtual)
-        value: session_1
-      - label: April 17, 2026 (In-Person)
-        value: session_2
-      - label: April 22, 2026 (Virtual)
-        value: session_3
+      - April 15, 2026 (Virtual)
+      - April 17, 2026 (In-Person)
+      - April 22, 2026 (Virtual)
       required: true
     - id: 9
       name: technology_interest_areas
@@ -81,16 +73,11 @@ inputSchema:
       hint: Select the topics you would like to explore
       type: select_multiple
       options:
-      - label: Remote Patient Monitoring (RPM)
-        value: rpm
-      - label: Electronic Health Records (EHR) Integration
-        value: ehr
-      - label: Telehealth Platforms
-        value: telehealth
-      - label: AI and Predictive Analytics
-        value: ai_analytics
-      - label: Mobile Patient Engagement
-        value: mobile_engagement
+      - Remote Patient Monitoring (RPM)
+      - Electronic Health Records (EHR) Integration
+      - Telehealth Platforms
+      - AI and Predictive Analytics
+      - Mobile Patient Engagement
       required: true
     - id: 10
       name: number_of_attendees_total
@@ -119,7 +106,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Registered and Confirmed
-        value: registered
+      - Registered and Confirmed
       - Other
       required: true

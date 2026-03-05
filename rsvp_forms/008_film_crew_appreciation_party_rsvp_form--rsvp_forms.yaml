@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Attending''}'
-      - '{''label'': ''Unable to Attend''}'
-      - '{''label'': ''Maybe''}'
+      - Attending
+      - Unable to Attend
+      - Maybe
       required: true
     - id: 7
       name: number_of_guests
@@ -75,10 +75,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Vegetarian''}'
-      - '{''label'': ''Vegan''}'
-      - '{''label'': ''Gluten-free''}'
-      - '{''label'': ''Other''}'
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Other
       required: false
     - id: 11
       name: rsvp_by

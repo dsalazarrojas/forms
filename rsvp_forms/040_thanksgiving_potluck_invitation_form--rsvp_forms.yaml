@@ -1,181 +1,90 @@
 inputSchema:
   type: object
   properties:
-    title: thanksgiving_potluck_invitation_form
+    title: Thanksgiving Potluck Invitation Form
     pages:
     - id: 1
       name: potluck_details
-      label: potluck_details
+      label: Potluck Details
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 3
-      name: rsvp_guest
-      label: guest
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: rsvp_message
-      label: message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: rsvp_email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 6
-      name: rsvp_phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: rsvp_time
-      label: rsvp_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: rsvp_date
-      label: rsvp_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
       name: rsvp_status
-      label: rsvp_status
+      label: RSVP Status
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
       required: true
+    - id: 3
+      name: rsvp_message
+      label: RSVP Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rsvp_email
+      label: RSVP Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: rsvp_phone
+      label: RSVP Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_time
+      label: RSVP Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 10
-      name: potluck_details_message
-      label: potluck_details_message
+      name: rsvp_message_2
+      label: RSVP Message (2)
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: potluck_details_guest
-      label: potluck_details_guest
+      name: guest_name_2
+      label: Guest Name 2
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: potluck_details_message
-      label: potluck_details_message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: rsvp_status_message
-      label: rsvp_status_message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: potluck_details_date
-      label: potluck_details_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: potluck_details_time
-      label: potluck_details_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: potluck_details_guest
-      label: potluck_details_guest
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: rsvp_message
-      label: rsvp_message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: rsvp_guest
-      label: guest
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: rsvp_details
-      label: rsvp_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: rsvp_details
-      label: rsvp_details
+      name: rsvp_message_2_2
+      label: Rsvp Message 2 2
       hint: null
       type: text
       options: []

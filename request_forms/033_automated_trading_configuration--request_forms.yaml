@@ -310,10 +310,10 @@ inputSchema:
       hint: Trading leverage
       type: select_one
       options:
-      - 61
-      - 70
-      - 90
-      - 110
+      - '61'
+      - '70'
+      - '90'
+      - '110'
       - 1:100
       - 1:200
       - 1:500
@@ -393,8 +393,8 @@ inputSchema:
       hint: Before live trading
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 43
       name: backtest_period

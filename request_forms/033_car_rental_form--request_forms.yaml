@@ -315,8 +315,8 @@ inputSchema:
       hint: Will there be other drivers?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 37
       name: additional_driver_names
@@ -345,7 +345,7 @@ inputSchema:
       options:
       - Yes - member
       - No - want to join
-      - false
+      - 'False'
       required: false
     - id: 40
       name: loyalty_number
@@ -360,8 +360,8 @@ inputSchema:
       hint: Do you have one?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 42
       name: corporate_account_name
@@ -392,7 +392,7 @@ inputSchema:
       hint: Is this for a special event?
       type: select_one
       options:
-      - false
+      - 'False'
       - Wedding
       - Business trip
       - Vacation

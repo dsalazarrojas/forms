@@ -37,13 +37,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Monday''}'
-      - '{''value'': ''Tuesday''}'
-      - '{''value'': ''Wednesday''}'
-      - '{''value'': ''Thursday''}'
-      - '{''value'': ''Friday''}'
-      - '{''value'': ''Saturday''}'
-      - '{''value'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 6
       name: preferred_workout_time
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
-      - '{''value'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 7
       name: available_days
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Monday''}'
-      - '{''value'': ''Tuesday''}'
-      - '{''value'': ''Wednesday''}'
-      - '{''value'': ''Thursday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
       - Friday
       - Saturday
       - Sunday
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
+      - Morning
+      - Afternoon
       - Evening
       required: false
     - id: 9
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Female''}'
-      - '{''value'': ''Male''}'
+      - Female
+      - Male
       required: false
     - id: 14
       name: preferred_language
@@ -122,8 +122,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''English''}'
-      - '{''value'': ''Spanish''}'
+      - English
+      - Spanish
       required: false
     - id: 15
       name: preferred_location
@@ -131,8 +131,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Online''}'
-      - '{''value'': ''In Person''}'
+      - Online
+      - In Person
       required: false
     - id: 16
       name: emergency_contact_relationship

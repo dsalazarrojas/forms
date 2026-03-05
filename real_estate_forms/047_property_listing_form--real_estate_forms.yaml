@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Residential'', ''value'': ''residential''}'
-      - '{''id'': 2, ''label'': ''Commercial'', ''value'': ''commercial''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Residential
+      - Commercial
+      - Other
       required: false
     - id: 3
       name: listing_price
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''For Sale'', ''value'': ''for_sale''}'
-      - '{''id'': 2, ''label'': ''For Rent'', ''value'': ''for_rent''}'
-      - '{''id'': 3, ''label'': ''Sold Out'', ''value'': ''sold_out''}'
+      - For Sale
+      - For Rent
+      - Sold Out
       required: false
     - id: 6
       name: property_size
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Lot'', ''value'': ''lot''}'
-      - '{''id'': 2, ''label'': ''Land'', ''value'': ''land''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Lot
+      - Land
+      - Other
       required: false
     - id: 12
       name: property_features
@@ -95,10 +95,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Pool'', ''value'': ''pool''}'
-      - '{''id'': 2, ''label'': ''View'', ''value'': ''view''}'
-      - '{''id'': 3, ''label'': ''Parking'', ''value'': ''parking''}'
-      - '{''id'': 4, ''label'': ''Fenced'', ''value'': ''fenced''}'
+      - Pool
+      - View
+      - Parking
+      - Fenced
       required: false
     - id: 13
       name: property_description
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Photos'', ''value'': ''photos''}'
-      - '{''id'': 2, ''label'': ''Videos'', ''value'': ''videos''}'
-      - '{''id'': 3, ''label'': ''3D Tour'', ''value'': ''3d_tour''}'
+      - Photos
+      - Videos
+      - 3D Tour
       required: false
     - id: 16
       name: property_agent
@@ -130,9 +130,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Jimmy'', ''value'': ''jimmy''}'
-      - '{''id'': 2, ''label'': ''Jane'', ''value'': ''jane''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Jimmy
+      - Jane
+      - Other
       required: false
     - id: 17
       name: property_agency
@@ -147,9 +147,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''City'', ''value'': ''city''}'
-      - '{''id'': 2, ''label'': ''State'', ''value'': ''state''}'
-      - '{''id'': 3, ''label'': ''County'', ''value'': ''county''}'
+      - City
+      - State
+      - County
       required: false
     - id: 19
       name: property_zip

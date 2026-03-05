@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Domestic'', ''value'': ''Domestic''}'
-      - '{''id'': 2, ''name'': ''International'', ''value'': ''International''}'
+      - Domestic
+      - International
       required: false
     - id: 10
       name: select_multiple_travel_modes
@@ -74,10 +74,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Car'', ''value'': ''Car''}'
-      - '{''id'': 2, ''name'': ''Train'', ''value'': ''Train''}'
-      - '{''id'': 3, ''name'': ''Plane'', ''value'': ''Plane''}'
-      - '{''id'': 4, ''name'': ''Bus'', ''value'': ''Bus''}'
+      - Car
+      - Train
+      - Plane
+      - Bus
       required: false
     - id: 11
       name: customer_note
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Agent 1'', ''value'': ''Agent 1''}'
-      - '{''id'': 2, ''name'': ''Agent 2'', ''value'': ''Agent 2''}'
+      - Agent 1
+      - Agent 2
       required: false
     - id: 13
       name: assigned_date

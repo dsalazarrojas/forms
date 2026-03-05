@@ -4,199 +4,84 @@ inputSchema:
     title: Survey Platform Subscription Form
     pages:
     - id: 1
-      name: survey_platform_subscription_form
-      label: survey_platform_subscription
-      hint: null
+      name: user_name
+      label: What is your name?
+      hint: Please provide your name.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: email
-      label: email
-      hint: null
+      name: user_email
+      label: What is your email address?
+      hint: Please provide your email address.
       type: email
       options: []
-      required: false
-    - id: 4
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: select_one
-      label: select_one
-      hint: null
+      required: true
+    - id: 3
+      name: contact_method
+      label: How do you want to be contacted (Yes/No)?
+      hint: Please select how you want to be contacted.
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: birthday
+      label: When is your birthday?
+      hint: Please provide your birthday.
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: preferred_time
+      label: What is your preferred contact time?
+      hint: Please provide your preferred contact time.
+      type: time
+      options: []
+      required: true
     - id: 6
-      name: select_multiple
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
+      name: note
+      label: Would you like to leave a note?
+      hint: Please provide any additional information.
+      type: note
+      options: []
       required: false
     - id: 7
-      name: date
-      label: date
-      hint: null
-      type: date
+      name: phone
+      label: What is your phone number?
+      hint: Optional - Please provide your phone number.
+      type: text
       options: []
       required: false
     - id: 8
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 9
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: required_field
-      label: required_field
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: select_one_required
-      label: required
-      hint: null
-      type: select_one
+      name: select_multiple
+      label: Select multiple from the following -
+      hint: Please select multiple options.
+      type: select_multiple
       options:
       - 'Yes'
       - 'No'
+      - Other
       required: false
-    - id: 12
-      name: select_multiple_required
-      label: required
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 13
-      name: email_required
-      label: required
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: phone_required
-      label: required
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: date_required
-      label: required
-      hint: null
+    - id: 9
+      name: date
+      label: Do you have a date to share?
+      hint: Optional - Please provide a date.
       type: date
       options: []
       required: false
-    - id: 16
-      name: time_required
-      label: required
-      hint: null
+    - id: 10
+      name: contact_time
+      label: Do you have a preferred contact time?
+      hint: Optional - Please provide a contact time.
       type: time
       options: []
       required: false
-    - id: 17
-      name: note_required
-      label: required
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
+    - id: 11
       name: text_area
-      label: text_area
-      hint: null
+      label: Would you like to provide a note?
+      hint: Optional - Please provide any additional information.
       type: text
-      options: []
-      required: false
-    - id: 19
-      name: select_one_label
-      label: select_one_label
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 20
-      name: select_multiple_label
-      label: select_multiple_label
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: text_area_label
-      label: text_area_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: required_field_label
-      label: required_field_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: select_one_required_label
-      label: required
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: select_multiple_required_label
-      label: required
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 25
-      name: email_label
-      label: email_label
-      hint: null
-      type: email
       options: []
       required: false

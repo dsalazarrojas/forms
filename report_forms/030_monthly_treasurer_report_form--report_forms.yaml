@@ -4,204 +4,93 @@ inputSchema:
     title: Monthly Treasurer Report Form
     pages:
     - id: 1
-      name: main_page_1
+      name: monthly_report
       label: Monthly Report
-      hint: null
+      hint: Enter a brief summary of the month's activities
       type: text
       options: []
       required: false
     - id: 2
-      name: main_page_2
+      name: income
       label: Income
       hint: Enter income amounts
       type: number
       options: []
       required: false
     - id: 3
-      name: main_page_3
+      name: income_type
       label: Income Type
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Salary
+      - Investments
+      - Business Income
+      required: true
     - id: 4
-      name: main_page_4
-      label: Total Income
-      hint: Total income amount
+      name: expense
+      label: Expense
+      hint: Enter expense amounts
       type: number
       options: []
       required: false
     - id: 5
-      name: main_page_5
-      label: Expenses
-      hint: Enter expense amounts
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: main_page_6
+      name: expense_type
       label: Expense Type
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 7
-      name: main_page_7
-      label: Total Expenses
-      hint: Total expense amount
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: main_page_8
+      - Rent
+      - Food
+      - Transportation
+      required: true
+    - id: 6
+      name: balance
       label: Balance
-      hint: Balance amount
+      hint: Total income and expenses balance
       type: number
       options: []
-      required: false
+      required: true
+    - id: 7
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: submission_time
+      label: Submission Time
+      hint: Time of submission
+      type: time
+      options: []
+      required: true
     - id: 9
-      name: main_page_9
-      label: Notes
-      hint: Additional notes or comments
-      type: note
+      name: contact
+      label: Contact Info
+      hint: Phone number
+      type: text
       options: []
       required: false
     - id: 10
-      name: main_page_10
+      name: email
       label: Email
       hint: null
       type: email
       options: []
       required: false
     - id: 11
-      name: main_page_11
-      label: Phone
-      hint: Phone number
-      type: text
-      options: []
-      required: false
+      name: category
+      label: Category
+      hint: Select a category
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 12
-      name: main_page_12
-      label: Submission Date
-      hint: Date of submission
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: main_page_13
-      label: Submission Time
-      hint: Time of submission
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: main_page_14
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: main_page_15
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: main_page_16
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: main_page_17
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: main_page_18
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: main_page_19
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: main_page_20
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: main_page_21
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: main_page_22
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: main_page_23
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: main_page_24
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: main_page_25
-      label: Category
+      name: category_repeat
+      label: Repeat category selection
       hint: null
       type: select_one
       options:
