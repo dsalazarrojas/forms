@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -69,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Public Access'', ''value'': ''public''}'
-      - '{''label'': ''Private Access'', ''value'': ''private''}'
-      - '{''label'': ''Restricted Access'', ''value'': ''restricted''}'
+      - Public Access
+      - Private Access
+      - Restricted Access
       required: true
     - id: 9
       name: access_type
@@ -79,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Edit'', ''value'': ''edit''}'
-      - '{''label'': ''View'', ''value'': ''view''}'
-      - '{''label'': ''Both'', ''value'': ''both''}'
+      - Edit
+      - View
+      - Both
       required: true
     - id: 10
       name: request_status
@@ -89,10 +78,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Active'', ''value'': ''active''}'
-      - '{''label'': ''Approved'', ''value'': ''approved''}'
-      - '{''label'': ''Pending'', ''value'': ''pending''}'
-      - '{''label'': ''Rejected'', ''value'': ''rejected''}'
+      - Active
+      - Approved
+      - Pending
+      - Rejected
       required: true
     - id: 11
       name: notes

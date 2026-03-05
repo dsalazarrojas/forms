@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''uniform_seller''}'
-      - '{''id'': 20, ''name'': ''jersey_seller''}'
-      - '{''id'': 30, ''name'': ''clothing_seller''}'
+      - uniform seller
+      - jersey seller
+      - clothing seller
       required: true
     - id: 3
       name: order_item
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 40, ''name'': ''uniform''}'
-      - '{''id'': 50, ''name'': ''jersey''}'
-      - '{''id'': 60, ''name'': ''clothing''}'
+      - uniform
+      - jersey
+      - clothing
       required: true
     - id: 5
       name: order_date

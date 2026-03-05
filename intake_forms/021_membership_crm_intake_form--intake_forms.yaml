@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''3-1'', ''label'': ''Member'', ''value'': ''Member''}'
-      - '{''id'': ''3-2'', ''label'': ''Non-Member'', ''value'': ''Non-Member''}'
+      - Member
+      - Non-Member
       required: false
     - id: 4
       name: payment_type
@@ -32,10 +32,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''4-1'', ''label'': ''Payment Type 1'', ''value'': ''Payment Type
-        1''}'
-      - '{''id'': ''4-2'', ''label'': ''Payment Type 2'', ''value'': ''Payment Type
-        2''}'
+      - Payment Type 1
+      - Payment Type 2
       required: false
     - id: 5
       name: payment_date
@@ -57,10 +55,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''7-1'', ''label'': ''Payment Method 1'', ''value'': ''Payment Method
-        1''}'
-      - '{''id'': ''7-2'', ''label'': ''Payment Method 2'', ''value'': ''Payment Method
-        2''}'
+      - Payment Method 1
+      - Payment Method 2
       required: false
     - id: 8
       name: payment_method_details
@@ -75,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''9-1'', ''label'': ''Active'', ''value'': ''Active''}'
-      - '{''id'': ''9-2'', ''label'': ''inactive'', ''value'': ''inactive''}'
+      - Active
+      - inactive
       required: false
     - id: 10
       name: notes

@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Annual''}'
-      - '{''value'': ''Sick''}'
-      - '{''value'': ''Emergency''}'
-      - '{''value'': ''Parental''}'
+      - Annual
+      - Sick
+      - Emergency
+      - Parental
       required: true
     - id: 3
       name: start_date
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Denied''}'
-      - '{''value'': ''Pending''}'
+      - Approved
+      - Denied
+      - Pending
       required: true
     - id: 9
       name: manager_approval
@@ -72,10 +72,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Denied''}'
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''No Response''}'
+      - Approved
+      - Denied
+      - Pending
+      - No Response
       required: true
     - id: 10
       name: employee_acknowledgement
@@ -83,10 +83,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Acknowledged''}'
-      - '{''value'': ''Not Acknowledged''}'
-      - '{''value'': ''Declined''}'
-      - '{''value'': ''No Response''}'
+      - Acknowledged
+      - Not Acknowledged
+      - Declined
+      - No Response
       required: true
     - id: 11
       name: manager_acknowledgement
@@ -94,10 +94,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Acknowledged''}'
-      - '{''value'': ''Not Acknowledged''}'
-      - '{''value'': ''Declined''}'
-      - '{''value'': ''No Response''}'
+      - Acknowledged
+      - Not Acknowledged
+      - Declined
+      - No Response
       required: true
     - id: 12
       name: comments

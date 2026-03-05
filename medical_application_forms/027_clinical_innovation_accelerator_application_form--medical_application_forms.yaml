@@ -1,135 +1,139 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Clinical Innovation Accelerator Application Form
     pages:
-      - id: 1
-        name: applicant_name
-        label: Primary Applicant Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: email_address
-        label: Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: organization_name
-        label: Organization or Clinical Site Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: section_project
-        label: -- Innovation Project Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: project_title
-        label: Title of Innovation Project
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: problem_statement
-        label: Problem Statement - What clinical gap are you addressing?
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: proposed_solution
-        label: Proposed Solution
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: innovation_stage
-        label: Current Stage of Innovation
-        hint: null
-        type: select_one
-        options: [Concept, Prototype, Pilot, Scaling]
-        required: true
-      - id: 9
-        name: section_impact
-        label: -- Impact and Feasibility --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: expected_impact
-        label: Expected Clinical Impact
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 11
-        name: required_resources
-        label: Required Resources from Accelerator
-        hint: Select all that apply
-        type: select_multiple
-        options: [Funding, Mentorship, Lab Space, Clinical Data Access, Networking]
-        required: true
-      - id: 12
-        name: implementation_timeline
-        label: Estimated Timeline for Implementation
-        hint: null
-        type: select_one
-        options: [3-6 Months, 6-12 Months, 12-24 Months, Over 24 Months]
-        required: false
-      - id: 13
-        name: section_team
-        label: -- Team and Collaboration --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: team_members
-        label: Key Team Members and Roles
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: prior_funding
-        label: Have you received prior funding for this project?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: false
-      - id: 16
-        name: documentation_link
-        label: Link for Supporting Documentation - e.g. whitepapers, pitch decks
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: signature
-        label: Applicant Digital Signature
-        hint: null
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: applicant_name
+      label: Primary Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization or Clinical Site Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_project
+      label: -- Innovation Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: project_title
+      label: Title of Innovation Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: problem_statement
+      label: Problem Statement - What clinical gap are you addressing?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: proposed_solution
+      label: Proposed Solution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: innovation_stage
+      label: Current Stage of Innovation
+      hint: null
+      type: select_one
+      options:
+      - Concept
+      - Prototype
+      - Pilot
+      - Scaling
+      required: true
+    - id: 9
+      name: section_impact
+      label: -- Impact and Feasibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: expected_impact
+      label: Expected Clinical Impact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: required_resources
+      label: Required Resources from Accelerator
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Funding
+      - Mentorship
+      - Lab Space
+      - Clinical Data Access
+      - Networking
+      required: true
+    - id: 12
+      name: implementation_timeline
+      label: Estimated Timeline for Implementation
+      hint: null
+      type: select_one
+      options:
+      - 3-6 Months
+      - 6-12 Months
+      - 12-24 Months
+      - Over 24 Months
+      required: false
+    - id: 13
+      name: section_team
+      label: -- Team and Collaboration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: team_members
+      label: Key Team Members and Roles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: prior_funding
+      label: Have you received prior funding for this project?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: documentation_link
+      label: Link for Supporting Documentation - e.g. whitepapers, pitch decks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature
+      label: Applicant Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true

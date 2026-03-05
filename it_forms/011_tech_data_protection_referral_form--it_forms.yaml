@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''IT Team 1''}'
-      - '{''value'': ''Security Team''}'
-      - '{''value'': ''Privacy Team''}'
-      - '{''value'': ''Other''}'
+      - IT Team 1
+      - Security Team
+      - Privacy Team
+      - Other
       required: true
     - id: 3
       name: incident_details
@@ -45,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 5
       name: data_types
@@ -55,10 +44,10 @@ inputSchema:
       hint: Check all that apply
       type: select_multiple
       options:
-      - '{''value'': ''Personal Data''}'
-      - '{''value'': ''Technical Data''}'
-      - '{''value'': ''Business Data''}'
-      - '{''value'': ''Special Category Data''}'
+      - Personal Data
+      - Technical Data
+      - Business Data
+      - Special Category Data
       required: true
     - id: 6
       name: data_classification
@@ -66,10 +55,10 @@ inputSchema:
       hint: Check all that apply
       type: select_multiple
       options:
-      - '{''value'': ''Confidential''}'
-      - '{''value'': ''Public''}'
-      - '{''value'': ''Restricted''}'
-      - '{''value'': ''Private''}'
+      - Confidential
+      - Public
+      - Restricted
+      - Private
       required: true
     - id: 7
       name: incident_description
@@ -84,6 +73,6 @@ inputSchema:
       hint: How was the referral resolved?
       type: select_one
       options:
-      - '{''value'': ''Resolved''}'
-      - '{''value'': ''Not Resolved''}'
+      - Resolved
+      - Not Resolved
       required: true

@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Claustrophobia''}'
-      - '{''label'': ''Ferromagnetic materials''}'
-      - '{''label'': ''Other''}'
+      - None
+      - Claustrophobia
+      - Ferromagnetic materials
+      - Other
       required: false
     - id: 5
       name: claustrophobia
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: ferromagnetic_materials
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: other_risks
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: claustrophobia_question
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Unable to answer''}'
+      - 'True'
+      - 'False'
+      - Unable to answer
       required: false
     - id: 16
       name: ferromagnetic_answer
@@ -130,9 +130,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Unable to answer''}'
+      - 'True'
+      - 'False'
+      - Unable to answer
       required: false
     - id: 17
       name: other_answer
@@ -140,9 +140,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Unable to answer''}'
+      - 'True'
+      - 'False'
+      - Unable to answer
       required: false
     - id: 18
       name: claustrophobia_answer_other

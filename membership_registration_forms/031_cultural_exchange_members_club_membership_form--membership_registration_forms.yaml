@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Member''}'
-      - '{''value'': ''Sponsor''}'
+      - Member
+      - Sponsor
       required: true
     - id: 9
       name: date_of_birth
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: true
     - id: 12
       name: note
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Agree''}'
-      - '{''value'': ''Disagree''}'
+      - Agree
+      - Disagree
       required: true
     - id: 15
       name: submit
@@ -114,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Submit''}'
-      - '{''value'': ''Save and Continue''}'
+      - Submit
+      - Save and Continue
       required: true
     - id: 16
       name: save_and_continue

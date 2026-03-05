@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Value1
-      - Value2
-      - Value3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: evaluation_method
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Value1
-      - Value2
-      - Value3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: system_implementation_plan
@@ -60,31 +60,31 @@ inputSchema:
       required: false
     - id: 8
       name: evaluation_criteria_2
-      label: Evaluation Criteria
+      label: Evaluation Criteria 2
       hint: null
       type: text
       options: []
       required: false
     - id: 9
       name: evaluation_method_2
-      label: Evaluation Method
+      label: Evaluation Method 2
       hint: null
       type: select_one
       options:
-      - Value1
-      - Value2
-      - Value3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: system_implementation_plan_2
-      label: System Implementation Plan
+      label: System Implementation Plan 2
       hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: implementation_details_2
-      label: Implementation Details
+      label: Implementation Details 2
       hint: null
       type: text
       options: []

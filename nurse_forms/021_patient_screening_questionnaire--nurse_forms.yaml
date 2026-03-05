@@ -5,147 +5,154 @@ inputSchema:
     pages:
     - id: 1
       name: patient_info
-      label: patient_info
-      hint: null
+      label: What is the patient's name?
+      hint: Please enter the patient's name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: medical_history
-      label: medical_history
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
       name: contact_info
-      label: contact_info
-      hint: null
+      label: What is the patient's contact info?
+      hint: Enter the patient's address
       type: text
       options: []
-      required: false
-    - id: 4
+      required: true
+    - id: 3
       name: medical_conditions
-      label: medical_conditions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: allergies
-      label: allergies
-      hint: null
+      label: Is the patient taking any medications?
+      hint: Yes or No
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: medical_info
+      label: What is the patient's medical history?
+      hint: Describe the patient's medical history
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_history_additional_info
+      label: Additional medical history info?
+      hint: Enter any additional details
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: medications
-      label: medications
-      hint: null
+      name: medical_history_info
+      label: What are the patient's medical history info?
+      hint: Enter any medical history information
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: medical_history_details
-      label: medical_history_details
-      hint: null
-      type: text
-      options: []
+      name: contact_preferences
+      label: Is the patient's contact info public?
+      hint: Yes or No
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      name: emergency_contact
+      label: Who is the patient's emergency contact?
+      hint: Enter the emergency contact name
+      type: text
+      options: []
       required: false
     - id: 9
-      name: emergency_contact
-      label: emergency_contact
-      hint: null
-      type: text
+      name: age
+      label: What is the patient's age?
+      hint: 0-100 years
+      type: number
       options: []
       required: false
     - id: 10
-      name: medical_info
-      label: medical_info
-      hint: null
+      name: medical_conditions_info
+      label: What is the patient's medical conditions info?
+      hint: Enter any medical conditions information
       type: text
       options: []
       required: false
     - id: 11
-      name: medical_history_info
-      label: medical_history_info
-      hint: null
+      name: medical_conditions_additional_info
+      label: Additional medical conditions info?
+      hint: Enter any additional medical conditions information
       type: text
       options: []
       required: false
     - id: 12
-      name: medical_history_additional_info
-      label: medical_history_additional_info
-      hint: null
+      name: medical_info_2
+      label: What is the patient's medical info?
+      hint: Enter any medical info
       type: text
       options: []
       required: false
     - id: 13
-      name: contact_info
-      label: contact_info
-      hint: null
+      name: medical_info_additional_info
+      label: Additional medical info?
+      hint: Enter any additional medical info
       type: text
       options: []
       required: false
     - id: 14
-      name: allergies_additional_info
-      label: allergies_additional_info
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: contact_preferences_2
+      label: What are the patient's contact preferences?
+      hint: Check your options
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 15
-      name: medical_conditions_additional_info
-      label: medical_conditions_additional_info
-      hint: null
+      name: contact_preferences_info
+      label: Contact preferences info?
+      hint: Enter any contact preferences information
       type: text
       options: []
       required: false
     - id: 16
-      name: medical_info_additional_info
-      label: medical_info_additional_info
-      hint: null
-      type: text
-      options: []
+      name: medical_conditions_2
+      label: What are the patient's medical conditions?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 17
-      name: medications_additional_info
-      label: medications_additional_info
-      hint: null
+      name: medical_history_info_2
+      label: Medical history info?
+      hint: Enter any medical history information
       type: text
       options: []
       required: false
     - id: 18
-      name: medical_conditions
-      label: medical_conditions
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: medical_conditions_info
-      label: medical_history_info
-      hint: null
+      name: medical_conditions_additional
+      label: Medical conditions additional info?
+      hint: Enter any medical conditions additional information
       type: text
       options: []
       required: false
+    - id: 19
+      name: age_range
+      label: What is the patient's age range?
+      hint: Enter 0-17, 18-64, 65-100
+      type: select_one
+      options:
+      - 0-1 year
+      - 2-17 years
+      - 18-64 years
+      - 65-100 years
+      required: true
     - id: 20
-      name: contact_info
-      label: contact
-      hint: null
+      name: contact
+      label: What is the patient's contact info (again)?
+      hint: Enter the patient's address
       type: text
       options: []
       required: false

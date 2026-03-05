@@ -23,12 +23,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''beach'', ''label'': ''Beach''}'
-      - '{''value'': ''city'', ''label'': ''City''}'
-      - '{''value'': ''cultural'', ''label'': ''Cultural''}'
-      - '{''value'': ''food'', ''label'': ''Food and wine''}'
-      - '{''value'': ''nature'', ''label'': ''Nature''}'
-      - '{''value'': ''ski'', ''label'': ''Ski''}'
+      - Beach
+      - City
+      - Cultural
+      - Food and wine
+      - Nature
+      - Ski
       required: false
     - id: 4
       name: trip_start_date
@@ -57,10 +57,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''usd'', ''label'': ''USD''}'
-      - '{''value'': ''eur'', ''label'': ''EUR''}'
-      - '{''value'': ''jpy'', ''label'': ''JPY''}'
-      - '{''value'': ''gbp'', ''label'': ''GBP''}'
+      - USD
+      - EUR
+      - JPY
+      - GBP
       required: false
     - id: 8
       name: description

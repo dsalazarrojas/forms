@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''18-24''}'
-      - '{''label'': ''25-34''}'
-      - '{''label'': ''35-44''}'
-      - '{''label'': ''45-54''}'
-      - '{''label'': ''55-64''}'
-      - '{''label'': ''65+''}'
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
       required: false
     - id: 3
       name: purchase_frequency
@@ -29,11 +29,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Never''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Semiannually''}'
-      - '{''label'': ''Yearly''}'
+      - Never
+      - Monthly
+      - Quarterly
+      - Semiannually
+      - Yearly
       required: false
     - id: 4
       name: preferred_flavor
@@ -41,11 +41,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Original''}'
-      - '{''label'': ''Mixed''}'
-      - '{''label'': ''Fruit Punch''}'
-      - '{''label'': ''Berry''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Original
+      - Mixed
+      - Fruit Punch
+      - Berry
+      - Other (please specify)
       required: false
     - id: 5
       name: purchase_reason
@@ -60,11 +60,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat Dissatisfied''}'
-      - '{''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 7
       name: recommendation_intent
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Yes''}'
-      - '{''label'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 8
       name: other_flavor_specify

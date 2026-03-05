@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Cash'', ''type'': ''text''}'
-      - '{''label'': ''Credit Card'', ''type'': ''text''}'
+      - Cash
+      - Credit Card
       required: false
     - id: 6
       name: email
@@ -88,10 +88,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pending'', ''type'': ''text''}'
-      - '{''label'': ''Paid'', ''type'': ''text''}'
-      - '{''label'': ''Partially Paid'', ''type'': ''text''}'
-      - '{''label'': ''Failed'', ''type'': ''text''}'
+      - Pending
+      - Paid
+      - Partially Paid
+      - Failed
       required: false
     - id: 13
       name: payment_amount

@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''John Doe'', ''value'': ''John Doe''}'
-      - '{''name'': ''Jane Doe'', ''value'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: true
     - id: 5
       name: additional_info
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Open'', ''value'': ''Open''}'
-      - '{''name'': ''In Progress'', ''value'': ''In Progress''}'
-      - '{''name'': ''Closed'', ''value'': ''Closed''}'
+      - Open
+      - In Progress
+      - Closed
       required: true
     - id: 7
       name: budget_approved
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Active'', ''value'': ''Active''}'
-      - '{''name'': ''Inactive'', ''value'': ''Inactive''}'
-      - '{''name'': ''On vacation'', ''value'': ''On vacation''}'
+      - Active
+      - Inactive
+      - On vacation
       required: true
     - id: 17
       name: project_lead_company

@@ -24,8 +24,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''email'', ''label'': ''Email''}'
-      - '{''value'': ''phone'', ''label'': ''Phone''}'
+      - Email
+      - Phone
       required: true
     - id: 4
       name: contact_details
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Warehouse Operations'', ''label'': ''Warehouse Operations''}'
-      - '{''value'': ''HR'', ''label'': ''HR''}'
-      - '{''value'': ''Operations Management'', ''label'': ''Operations Management''}'
+      - Warehouse Operations
+      - HR
+      - Operations Management
       required: true
     - id: 6
       name: manager_name
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Warehouse Staff'', ''label'': ''Warehouse Staff''}'
-      - '{''value'': ''Operations'', ''label'': ''Operations''}'
-      - '{''value'': ''HR'', ''label'': ''HR''}'
+      - Warehouse Staff
+      - Operations
+      - HR
       required: true
     - id: 12
       name: status
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''pending'', ''label'': ''Pending''}'
-      - '{''value'': ''approved'', ''label'': ''Approved''}'
-      - '{''value'': ''denied'', ''label'': ''Denied''}'
+      - Pending
+      - Approved
+      - Denied
       required: true
     - id: 13
       name: remarks

@@ -121,11 +121,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''All Staff''}'
-      - '{''label'': ''Doctors''}'
-      - '{''label'': ''Nurses''}'
-      - '{''label'': ''Both''}'
-      - '{''label'': ''None''}'
+      - All Staff
+      - Doctors
+      - Nurses
+      - Both
+      - None
       required: false
     - id: 18
       name: admission_type
@@ -133,10 +133,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Emergency''}'
-      - '{''label'': ''Elective''}'
-      - '{''label'': ''Both''}'
-      - '{''label'': ''None''}'
+      - Emergency
+      - Elective
+      - Both
+      - None
       required: false
     - id: 19
       name: ward_capacity
@@ -144,10 +144,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Full''}'
-      - '{''label'': ''Partly''}'
-      - '{''label'': ''Over Capacity''}'
-      - '{''label'': ''None''}'
+      - Full
+      - Partly
+      - Over Capacity
+      - None
       required: false
     - id: 20
       name: bed_occupation
@@ -155,10 +155,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Empty''}'
-      - '{''label'': ''Occupied''}'
-      - '{''label'': ''Partly Occupied''}'
-      - '{''label'': ''None''}'
+      - Empty
+      - Occupied
+      - Partly Occupied
+      - None
       required: false
     - id: 21
       name: discharge_status
@@ -166,9 +166,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Admitted''}'
-      - '{''label'': ''Discharged''}'
-      - '{''label'': ''None''}'
+      - Admitted
+      - Discharged
+      - None
       required: false
     - id: 22
       name: reason_for_admission
@@ -176,10 +176,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Medical Emergency''}'
-      - '{''label'': ''Non-Medical''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''None''}'
+      - Medical Emergency
+      - Non-Medical
+      - Other
+      - None
       required: false
     - id: 23
       name: time_of_discharge

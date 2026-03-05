@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily'', ''label'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''weekly'', ''label'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''monthly'', ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 3
       name: production_capacity
@@ -68,10 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''critical_control_points'', ''label'': ''Critical
-        Control Points 1''}'
-      - '{''id'': 2, ''name'': ''critical_control_points'', ''label'': ''Critical
-        Control Points 2''}'
+      - Critical Control Points 1
+      - Critical Control Points 2
       required: false
     - id: 10
       name: corrective_action
@@ -79,10 +77,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''corrective_action'', ''label'': ''Corrective Action
-        1''}'
-      - '{''id'': 2, ''name'': ''corrective_action'', ''label'': ''Corrective Action
-        2''}'
-      - '{''id'': 3, ''name'': ''corrective_action'', ''label'': ''Corrective Action
-        3''}'
+      - Corrective Action 1
+      - Corrective Action 2
+      - Corrective Action 3
       required: false

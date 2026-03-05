@@ -23,9 +23,9 @@ inputSchema:
       hint: List the roles you are available to participate in
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 4
       name: availability
@@ -85,7 +85,7 @@ inputSchema:
       required: false
     - id: 12
       name: submit_button
-      label: Submit
+      label: Submit Button
       hint: null
       type: text
       options: []
@@ -120,14 +120,14 @@ inputSchema:
       required: false
     - id: 17
       name: user_info_label
-      label: User Information
+      label: User Info Label
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: user_info_input
-      label: User Information
+      label: User Info Input
       hint: null
       type: text
       options: []
@@ -141,14 +141,14 @@ inputSchema:
       required: false
     - id: 20
       name: form_version_label
-      label: Form Version
+      label: Form Version Label
       hint: null
       type: text
       options: []
       required: false
     - id: 21
       name: form_version_input
-      label: Form Version
+      label: Form Version Input
       hint: null
       type: text
       options: []
@@ -162,21 +162,21 @@ inputSchema:
       required: false
     - id: 23
       name: page_break_label
-      label: Page Break
+      label: Page Break Label
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: page_break_input
-      label: Page Break
+      label: Page Break Input
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: submitted_by_label
-      label: Submitted By
+      label: Submitted By Label
       hint: null
       type: text
       options: []

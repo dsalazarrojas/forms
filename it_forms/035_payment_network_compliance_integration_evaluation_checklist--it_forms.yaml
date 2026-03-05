@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''John Doe''}'
-      - '{''value'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: true
     - id: 3
       name: review_outcome
@@ -25,8 +25,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pass''}'
-      - '{''value'': ''Fail''}'
+      - Pass
+      - Fail
       required: true
     - id: 4
       name: payment_network
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Stripe''}'
-      - '{''value'': ''PayPal''}'
-      - '{''value'': ''Braintree''}'
+      - Stripe
+      - PayPal
+      - Braintree
       required: true
     - id: 9
       name: payment_gateway_version
@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: review_outcome_escalation_description

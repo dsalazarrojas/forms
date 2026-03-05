@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Product 1''}'
-      - '{''id'': 2, ''name'': ''Product 2''}'
-      - '{''id'': 3, ''name'': ''Product 3''}'
+      - Product 1
+      - Product 2
+      - Product 3
       required: false
     - id: 5
       name: quantity
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Ground''}'
-      - '{''id'': 2, ''name'': ''Air''}'
+      - Ground
+      - Air
       required: false
     - id: 7
       name: ship_to
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Ship To 1''}'
-      - '{''id'': 2, ''name'': ''Ship To 2''}'
-      - '{''id'': 3, ''name'': ''Ship To 3''}'
+      - Ship To 1
+      - Ship To 2
+      - Ship To 3
       required: false
     - id: 8
       name: date
@@ -150,9 +150,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''New''}'
-      - '{''id'': 2, ''name'': ''Open''}'
-      - '{''id'': 3, ''name'': ''In Progress''}'
+      - New
+      - Open
+      - In Progress
       required: false
     - id: 21
       name: order_type
@@ -160,6 +160,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Product''}'
-      - '{''id'': 2, ''name'': ''Service''}'
+      - Product
+      - Service
       required: false

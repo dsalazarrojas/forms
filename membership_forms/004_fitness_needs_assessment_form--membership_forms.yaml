@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''beginner''}'
-      - '{''value'': ''intermediate''}'
-      - '{''value'': ''advanced''}'
+      - beginner
+      - intermediate
+      - advanced
       required: false
     - id: 5
       name: physical_characteristics
@@ -103,8 +103,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: medical_conditions
@@ -112,8 +112,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: medications

@@ -91,8 +91,8 @@ inputSchema:
       hint: Have you had a booster
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not eligible
       required: true
     - id: 10
@@ -103,7 +103,7 @@ inputSchema:
       options:
       - Yes, confirmed
       - Yes, suspected but not confirmed
-      - false
+      - 'False'
       - Not sure
       required: true
     - id: 11
@@ -148,7 +148,7 @@ inputSchema:
       hint: Were you hospitalized
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, general ward
       - Yes, ICU
       - Yes, required ventilation
@@ -226,8 +226,8 @@ inputSchema:
       hint: Are you experiencing symptoms now
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: current_symptoms_list
@@ -259,7 +259,7 @@ inputSchema:
       - Probably yes
       - Undecided
       - Probably no
-      - false
+      - 'False'
       required: true
     - id: 26
       name: additional_comments

@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Option 1'', ''value'': ''value1''}'
-      - '{''id'': 2, ''name'': ''Option 2'', ''value'': ''value2''}'
+      - value1
+      - value2
       required: false
     - id: 8
       name: production_planning_efficiency
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Option 1'', ''value'': ''value1''}'
-      - '{''id'': 2, ''name'': ''Option 2'', ''value'': ''value2''}'
+      - value1
+      - value2
       required: false
     - id: 9
       name: manufacturing_process_improvement
@@ -69,8 +69,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Option 1'', ''value'': ''value1''}'
-      - '{''id'': 2, ''name'': ''Option 2'', ''value'': ''value2''}'
+      - value1
+      - value2
       required: false
     - id: 10
       name: comments
@@ -134,17 +134,17 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Option 1'', ''value'': ''value1''}'
-      - '{''id'': 2, ''name'': ''Option 2'', ''value'': ''value2''}'
+      - value1
+      - value2
       required: false
     - id: 19
-      name: production_planning_efficiency_score_suggestion
-      label: Production Planning Efficiency Score Suggestion
+      name: production_planning_efficiency_score_suggestion_2
+      label: Production Planning Efficiency Score Suggestion 2
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Option 1'', ''value'': ''value1''}'
-      - '{''id'': 2, ''name'': ''Option 2'', ''value'': ''value2''}'
+      - value1
+      - value2
       required: false
     - id: 20
       name: shift_hours_worked_suggestion
@@ -154,8 +154,8 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: production_planning_efficiency_score_suggestion
-      label: Production Planning Efficiency Score Suggestion
+      name: production_planning_efficiency_score_suggestion_3
+      label: Production Planning Efficiency Score Suggestion 3
       hint: null
       type: text
       options: []
@@ -168,8 +168,8 @@ inputSchema:
       options: []
       required: false
     - id: 23
-      name: production_planning_efficiency_suggestion
-      label: Production Planning Efficiency Suggestion
+      name: production_planning_efficiency_suggestion_2
+      label: Production Planning Efficiency Suggestion 2
       hint: null
       type: text
       options: []

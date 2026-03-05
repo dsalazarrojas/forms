@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''running'', ''label'': ''running''}'
-      - '{''id'': 2, ''name'': ''not_running'', ''label'': ''not_running''}'
+      - running
+      - not running
       required: false
     - id: 3
       name: safety_equipment_checked
@@ -36,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''fire_safety_system'', ''label'': ''fire_safety_system''}'
-      - '{''id'': 2, ''name'': ''emergency_exit_signs'', ''label'': ''emergency_exit_signs''}'
-      - '{''id'': 3, ''name'': ''fire_extinguishers'', ''label'': ''fire_extinguishers''}'
+      - fire safety system
+      - emergency exit signs
+      - fire extinguishers
       required: false
     - id: 4
       name: safety_equipment_notes
@@ -53,9 +42,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''circuit_breakers'', ''label'': ''circuit_breakers''}'
-      - '{''id'': 2, ''name'': ''electrical_panel_boxes'', ''label'': ''electrical_panel_boxes''}'
-      - '{''id'': 3, ''name'': ''power_distribution_units'', ''label'': ''power_distribution_units''}'
+      - circuit breakers
+      - electrical panel boxes
+      - power distribution units
       required: false
     - id: 6
       name: electrical_equipment_notes
@@ -70,9 +59,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''cooling_towers'', ''label'': ''cooling_towers''}'
-      - '{''id'': 2, ''name'': ''chillers'', ''label'': ''chillers''}'
-      - '{''id'': 3, ''name'': ''cooling_systems'', ''label'': ''cooling_systems''}'
+      - cooling towers
+      - chillers
+      - cooling systems
       required: false
     - id: 8
       name: cooling_system_notes
@@ -87,9 +76,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''structural_support'', ''label'': ''structural_support''}'
-      - '{''id'': 2, ''name'': ''structural_foundation'', ''label'': ''structural_foundation''}'
-      - '{''id'': 3, ''name'': ''structural_walls'', ''label'': ''structural_walls''}'
+      - structural support
+      - structural foundation
+      - structural walls
       required: false
     - id: 10
       name: structural_equipment_notes
@@ -104,9 +93,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''air_quality_monitors'', ''label'': ''air_quality_monitors''}'
-      - '{''id'': 2, ''name'': ''temperature_monitors'', ''label'': ''temperature_monitors''}'
-      - '{''id'': 3, ''name'': ''humidity_monitors'', ''label'': ''humidity_monitors''}'
+      - air quality monitors
+      - temperature monitors
+      - humidity monitors
       required: false
     - id: 12
       name: environmental_equipment_notes
@@ -121,9 +110,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''cameras'', ''label'': ''cameras''}'
-      - '{''id'': 2, ''name'': ''alarms'', ''label'': ''alarms''}'
-      - '{''id'': 3, ''name'': ''emergency_exit_signs'', ''label'': ''emergency_exit_signs''}'
+      - cameras
+      - alarms
+      - emergency exit signs
       required: false
     - id: 14
       name: security_equipment_notes
@@ -138,9 +127,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''floor_plates'', ''label'': ''floor_plates''}'
-      - '{''id'': 2, ''name'': ''racking_system'', ''label'': ''racking_system''}'
-      - '{''id'': 3, ''name'': ''data_center_equipment'', ''label'': ''data_center_equipment''}'
+      - floor plates
+      - racking system
+      - data center equipment
       required: false
     - id: 16
       name: general_equipment_notes
@@ -155,9 +144,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''fire_sprinkler_system'', ''label'': ''fire_sprinkler_system''}'
-      - '{''id'': 2, ''name'': ''fire_safety_equipment'', ''label'': ''fire_safety_equipment''}'
-      - '{''id'': 3, ''name'': ''smoke_detector'', ''label'': ''smoke_detector''}'
+      - fire sprinkler system
+      - fire safety equipment
+      - smoke detector
       required: false
     - id: 18
       name: fire_safety_equipment_notes
@@ -179,8 +168,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''online'', ''label'': ''online''}'
-      - '{''id'': 2, ''name'': ''offline'', ''label'': ''offline''}'
+      - online
+      - offline
       required: false
     - id: 21
       name: environmental_equipment_status
@@ -188,8 +177,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''online'', ''label'': ''online''}'
-      - '{''id'': 2, ''name'': ''offline'', ''label'': ''offline''}'
+      - online
+      - offline
       required: false
     - id: 22
       name: security_equipment_status
@@ -197,8 +186,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''online'', ''label'': ''online''}'
-      - '{''id'': 2, ''name'': ''offline'', ''label'': ''offline''}'
+      - online
+      - offline
       required: false
     - id: 23
       name: general_equipment_status
@@ -206,8 +195,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''online'', ''label'': ''online''}'
-      - '{''id'': 2, ''name'': ''offline'', ''label'': ''offline''}'
+      - online
+      - offline
       required: false
     - id: 24
       name: cooling_system_status
@@ -215,8 +204,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''online'', ''label'': ''online''}'
-      - '{''id'': 2, ''name'': ''offline'', ''label'': ''offline''}'
+      - online
+      - offline
       required: false
     - id: 25
       name: structural_equipment_status
@@ -224,6 +213,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''online'', ''label'': ''online''}'
-      - '{''id'': 2, ''name'': ''offline'', ''label'': ''offline''}'
+      - online
+      - offline
       required: false

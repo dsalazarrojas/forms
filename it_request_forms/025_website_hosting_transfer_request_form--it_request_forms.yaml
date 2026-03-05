@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Host 1''}'
-      - '{''id'': 2, ''name'': ''Host 2''}'
-      - '{''id'': 3, ''name'': ''Host 3''}'
+      - Host 1
+      - Host 2
+      - Host 3
       required: false
     - id: 3
       name: transfer_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Full Transfer''}'
-      - '{''id'': 2, ''name'': ''Partial Transfer''}'
-      - '{''id'': 3, ''name'': ''Cutover''}'
+      - Full Transfer
+      - Partial Transfer
+      - Cutover
       required: false
     - id: 4
       name: new_url
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''In Progress''}'
-      - '{''id'': 2, ''name'': ''Complete''}'
-      - '{''id'': 3, ''name'': ''Cancelled''}'
+      - In Progress
+      - Complete
+      - Cancelled
       required: false
     - id: 9
       name: notes

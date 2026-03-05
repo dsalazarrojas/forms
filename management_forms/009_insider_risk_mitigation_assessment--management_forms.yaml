@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Option 1'', ''value'': ''1''}'
-      - '{''label'': ''Option 2'', ''value'': ''2''}'
+      - Option 1
+      - Option 2
       required: false
     - id: 3
       name: improvement_ideas
@@ -44,8 +33,8 @@ inputSchema:
       hint: Select team members involved
       type: select_multiple
       options:
-      - '{''label'': ''Option 1'', ''value'': ''1''}'
-      - '{''label'': ''Option 2'', ''value'': ''2''}'
+      - Option 1
+      - Option 2
       required: false
     - id: 5
       name: threat_levels
@@ -53,9 +42,9 @@ inputSchema:
       hint: Select one or more threat levels (High, Medium, Low)
       type: select_multiple
       options:
-      - '{''label'': ''High'', ''value'': ''High''}'
-      - '{''label'': ''Medium'', ''value'': ''Medium''}'
-      - '{''label'': ''Low'', ''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 6
       name: risk_categories
@@ -63,9 +52,9 @@ inputSchema:
       hint: Select one or more risk categories (Financial, Operational, IT, etc.)
       type: select_multiple
       options:
-      - '{''label'': ''Financial'', ''value'': ''Financial''}'
-      - '{''label'': ''Operational'', ''value'': ''Operational''}'
-      - '{''label'': ''IT'', ''value'': ''IT''}'
+      - Financial
+      - Operational
+      - IT
       required: false
     - id: 7
       name: incident_description
@@ -87,9 +76,9 @@ inputSchema:
       hint: Select a risk level (High, Medium, Low)
       type: select_one
       options:
-      - '{''label'': ''High'', ''value'': ''High''}'
-      - '{''label'': ''Medium'', ''value'': ''Medium''}'
-      - '{''label'': ''Low'', ''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 10
       name: incident_impact
@@ -97,9 +86,9 @@ inputSchema:
       hint: Select one or more impact levels (High, Medium, Low)
       type: select_multiple
       options:
-      - '{''label'': ''High'', ''value'': ''High''}'
-      - '{''label'': ''Medium'', ''value'': ''Medium''}'
-      - '{''label'': ''Low'', ''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 11
       name: action_taken
@@ -121,9 +110,9 @@ inputSchema:
       hint: Select the incident status (Open, Closed, In Progress)
       type: select_one
       options:
-      - '{''label'': ''Open'', ''value'': ''Open''}'
-      - '{''label'': ''Closed'', ''value'': ''Closed''}'
-      - '{''label'': ''In Progress'', ''value'': ''In Progress''}'
+      - Open
+      - Closed
+      - In Progress
       required: false
     - id: 14
       name: threat_classification
@@ -131,8 +120,8 @@ inputSchema:
       hint: Select one or more threat classifications (Malicious, Accidental, etc.)
       type: select_multiple
       options:
-      - '{''label'': ''Malicious'', ''value'': ''Malicious''}'
-      - '{''label'': ''Accidental'', ''value'': ''Accidental''}'
+      - Malicious
+      - Accidental
       required: false
     - id: 15
       name: threat_vector
@@ -140,8 +129,8 @@ inputSchema:
       hint: Select one or more threat vectors (Insider, Outsider, etc.)
       type: select_multiple
       options:
-      - '{''label'': ''Insider'', ''value'': ''Insider''}'
-      - '{''label'': ''Outsider'', ''value'': ''Outsider''}'
+      - Insider
+      - Outsider
       required: false
     - id: 16
       name: threat_detection
@@ -156,8 +145,8 @@ inputSchema:
       hint: Select responders involved
       type: select_multiple
       options:
-      - '{''label'': ''Option 1'', ''value'': ''1''}'
-      - '{''label'': ''Option 2'', ''value'': ''2''}'
+      - Option 1
+      - Option 2
       required: false
     - id: 18
       name: incident_responders_details
@@ -172,8 +161,8 @@ inputSchema:
       hint: Select the incident closure status (Closed, Not Closed)
       type: select_one
       options:
-      - '{''label'': ''Closed'', ''value'': ''Closed''}'
-      - '{''label'': ''Not Closed'', ''value'': ''Not Closed''}'
+      - Closed
+      - Not Closed
       required: false
     - id: 20
       name: incident_cause
@@ -181,8 +170,8 @@ inputSchema:
       hint: Select one or more incident causes (Human error, etc.)
       type: select_multiple
       options:
-      - '{''label'': ''Human error'', ''value'': ''Human error''}'
-      - '{''label'': ''System error'', ''value'': ''System error''}'
+      - Human error
+      - System error
       required: false
     - id: 21
       name: incident_effect
@@ -197,9 +186,9 @@ inputSchema:
       hint: Select one or more incident effectiveness (High, Medium, Low)
       type: select_multiple
       options:
-      - '{''label'': ''High'', ''value'': ''High''}'
-      - '{''label'': ''Medium'', ''value'': ''Medium''}'
-      - '{''label'': ''Low'', ''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 23
       name: incident_frequency
@@ -207,9 +196,9 @@ inputSchema:
       hint: Select one or more incident frequencies (High, Medium, Low)
       type: select_multiple
       options:
-      - '{''label'': ''High'', ''value'': ''High''}'
-      - '{''label'': ''Medium'', ''value'': ''Medium''}'
-      - '{''label'': ''Low'', ''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 24
       name: incident_type
@@ -217,8 +206,8 @@ inputSchema:
       hint: Select one or more incident types (Phishing, etc.)
       type: select_multiple
       options:
-      - '{''label'': ''Phishing'', ''value'': ''Phishing''}'
-      - '{''label'': ''Vishing'', ''value'': ''Vishing''}'
+      - Phishing
+      - Vishing
       required: false
     - id: 25
       name: incident_subtype

@@ -157,7 +157,7 @@ inputSchema:
       options:
       - Yes - Confirmed case
       - Yes - Suspected case
-      - false
+      - 'False'
       - Unsure
       required: true
     - id: 20
@@ -185,7 +185,7 @@ inputSchema:
       options:
       - Yes - Confirmed by test
       - Yes - Suspected
-      - false
+      - 'False'
       - Unsure
       required: true
     - id: 23
@@ -270,8 +270,8 @@ inputSchema:
       hint: Do you work in healthcare
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 32
       name: essential_worker
@@ -279,8 +279,8 @@ inputSchema:
       hint: Critical infrastructure
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 33
       name: living_situation
@@ -309,8 +309,8 @@ inputSchema:
       hint: Elderly or immunocompromised
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 36

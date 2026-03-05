@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''very_good''}'
-      - '{''id'': 2, ''label'': ''good''}'
-      - '{''id'': 3, ''label'': ''fair''}'
-      - '{''id'': 4, ''label'': ''poor''}'
+      - very good
+      - good
+      - fair
+      - poor
       required: true
     - id: 4
       name: score
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''walkability''}'
-      - '{''id'': 2, ''label'': ''accessibility''}'
-      - '{''id'': 3, ''label'': ''safety''}'
+      - walkability
+      - accessibility
+      - safety
       required: true
     - id: 6
       name: improvement_2
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''walkability''}'
-      - '{''id'': 2, ''label'': ''accessibility''}'
-      - '{''id'': 3, ''label'': ''safety''}'
+      - walkability
+      - accessibility
+      - safety
       required: true
     - id: 7
       name: priority_level
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''high''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''low''}'
+      - high
+      - medium
+      - low
       required: true
     - id: 8
       name: funding_suggestion

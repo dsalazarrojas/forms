@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''cotton''}'
-      - '{''id'': 2, ''name'': ''polyester''}'
-      - '{''id'': 3, ''name'': ''wool''}'
+      - cotton
+      - polyester
+      - wool
       required: false
     - id: 5
       name: quantity
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''red''}'
-      - '{''id'': 2, ''name'': ''blue''}'
-      - '{''id'': 3, ''name'': ''green''}'
+      - red
+      - blue
+      - green
       required: false
     - id: 7
       name: fabric_width
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''home''}'
-      - '{''id'': 2, ''name'': ''work''}'
-      - '{''id'': 3, ''name'': ''other''}'
+      - home
+      - work
+      - other
       required: false
     - id: 12
       name: fabric_weight
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pounds''}'
-      - '{''id'': 2, ''name'': ''kilograms''}'
-      - '{''id'': 3, ''name'': ''ounces''}'
+      - pounds
+      - kilograms
+      - ounces
       required: false
     - id: 14
       name: fabric_weight_value
@@ -161,8 +161,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''bank_transfer''}'
-      - '{''id'': 2, ''name'': ''credit_card''}'
+      - bank transfer
+      - credit card
       required: false
     - id: 22
       name: order_status
@@ -170,9 +170,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pending''}'
-      - '{''id'': 2, ''name'': ''confirmed''}'
-      - '{''id'': 3, ''name'': ''cancelled''}'
+      - pending
+      - confirmed
+      - cancelled
       required: false
     - id: 23
       name: order_notes
@@ -194,8 +194,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''another_user''}'
+      - chatjimmy
+      - another user
       required: false
     - id: 26
       name: created_at

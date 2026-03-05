@@ -4,21 +4,21 @@ inputSchema:
     title: Seminar Session Request Form
     pages:
     - id: 1
-      name: seminar_session_request_form
-      label: Session details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: session_type
-      label: Session type
+      label: Session Type
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Seminar
+      - Workshop
+      - Lecture
+      required: false
+    - id: 2
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 3
       name: date
@@ -49,130 +49,64 @@ inputSchema:
       options: []
       required: false
     - id: 7
-      name: session_details
-      label: Session details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: preferences
       label: Preferences
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 9
+    - id: 8
       name: email
       label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 10
+    - id: 9
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: note
+    - id: 10
+      name: additional_notes
       label: Additional Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 12
+    - id: 11
       name: assigned_tool
       label: Assigned Tool
       hint: null
       type: text
       options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
-      name: category
-      label: Category
+      name: form_ids
+      label: Form Ids
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
+      type: number
+      options: []
       required: false
     - id: 14
-      name: form_ids
-      label: Form Ids
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
       name: output_file
       label: Output File
       hint: null
       type: text
       options: []
-      required: false
-    - id: 16
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 20
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_ids
-      label: Form Ids
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
       required: false

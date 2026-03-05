@@ -5,183 +5,47 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: Snail Mailing List Request
-      hint: Wanting for a Snail Mail? In that case, you might want to have a look
-        at this form.
+      label: General Contact Information
+      hint: Enter your name and contact email.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: page_2
-      label: Marketer Forms
-      hint: null
+      label: Type of Form
+      hint: Choose the type of form you need.
       type: select_one
       options:
       - Marketer Forms
       - Other
-      required: false
+      required: true
     - id: 3
       name: page_3
-      label: assignedTool
-      hint: null
+      label: Specific Tool Assignment
+      hint: Choose the specific tool.
       type: select_one
       options:
       - chatjimmy
       - Other
-      required: false
+      required: true
     - id: 4
       name: page_4
-      label: outputFile
-      hint: null
-      type: select_one
-      options:
-      - 003_snail_mailing_list_request--marketer_forms.yaml
-      - Other
-      required: false
+      label: Output File Name
+      hint: Enter the name or URL of the output file.
+      type: text
+      options: []
+      required: true
     - id: 5
       name: page_5
-      label: formIds
-      hint: null
+      label: Form IDs
+      hint: Enter the list of IDs for the form.
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: page_6
-      label: Snail Mailing List Request
-      hint: null
-      type: text
+      label: Date of Request
+      hint: Select the date of the request.
+      type: date
       options: []
-      required: false
-    - id: 7
-      name: page_7
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: page_8
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: page_9
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: page_10
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: page_11
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: page_12
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: page_13
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: page_14
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: page_15
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: page_16
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: page_17
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: page_18
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: page_19
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: page_20
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: page_21
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: page_22
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: page_23
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: page_24
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: page_25
-      label: Snail Mailing List Request
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

@@ -15,22 +15,8 @@ inputSchema:
     title: Cross Origin Access Issue Report Form
     pages:
     - id: 1
-      name: cross_origin_access_issue_form
-      label: cross origin access issue
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: issue_description
-      label: issue description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: browser_type_prophets
-      label: browser type
+      name: browser_type
+      label: Browser Type
       hint: null
       type: select_one
       options:
@@ -39,164 +25,70 @@ inputSchema:
       - safari
       - edge
       - internet explorer
-      required: false
+      required: true
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: issue_steps
+      label: Issue Steps
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: issue_steps
-      label: issue steps
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: issue_steps
-      label: issue steps
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: issue_steps
-      label: issue steps
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: issue_details
-      label: issue details
+      label: Issue Details
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
-      name: prophets
-      label: browser version
+      required: true
+    - id: 5
+      name: browser_version
+      label: Browser Version
       hint: null
       type: text
       options: []
-      required: false
-    - id: 9
-      name: prophets
-      label: prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 6
       name: issue_impact
-      label: issue impact
+      label: Issue Impact
       hint: null
       type: select_multiple
       options:
       - high
       - medium
       - low
-      required: false
-    - id: 11
-      name: issue_impact2
-      label: issue impact
-      hint: null
-      type: select_multiple
-      options:
-      - high
-      - medium
-      - low
-      required: false
-    - id: 12
-      name: prophets
-      label: browsers devices
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 7
       name: issue_date
-      label: issue date
+      label: Issue Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 14
-      name: issue_date
-      label: issue date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: issue_date
-      label: issue date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: issue_date
-      label: issue date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
+      required: true
+    - id: 8
       name: issue_time
-      label: issue time
+      label: Issue Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 18
-      name: issue_time
-      label: issue time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: issue_time
-      label: issue time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: issue_time
-      label: issue time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: issue_time
-      label: issue time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
+      required: true
+    - id: 9
       name: issue_reproducible
-      label: issue reproducible
+      label: Reproducible Issue
       hint: null
       type: text
       options: []
-      required: false
-    - id: 23
-      name: issue_reproducible2
-      label: reproducible
+      required: true
+    - id: 10
+      name: issue_frequency
+      label: Issue Frequency
       hint: null
       type: text
       options: []
-      required: false
-    - id: 24
-      name: issue_reproducible3
-      label: issue reproducible
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: issue_reproducible
-      label: issue reproducible
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Employee 1''}'
-      - '{''id'': 2, ''name'': ''Employee 2''}'
-      - '{''id'': 3, ''name'': ''Employee 3''}'
+      - Employee 1
+      - Employee 2
+      - Employee 3
       required: false
     - id: 3
       name: leave_or_remote_work_request_form_3_employees_name
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Sick Leave''}'
-      - '{''id'': 2, ''name'': ''Remote Work''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Sick Leave
+      - Remote Work
+      - Other
       required: false
     - id: 8
       name: leave_or_remote_work_request_form_8_reason
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Personal/Family Leave''}'
-      - '{''id'': 2, ''name'': ''Bereavement Leave''}'
-      - '{''id'': 3, ''name'': ''Family/Medical Leave''}'
+      - Personal/Family Leave
+      - Bereavement Leave
+      - Family/Medical Leave
       required: false
     - id: 9
       name: approval
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Manager Approval''}'
-      - '{''id'': 2, ''name'': ''Team Lead Approval''}'
-      - '{''id'': 3, ''name'': ''Director Approval''}'
+      - Manager Approval
+      - Team Lead Approval
+      - Director Approval
       required: false
     - id: 10
       name: leave_or_remote_work_request_form_10_comments
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
-      - '{''id'': 3, ''name'': ''On Leave''}'
+      - Active
+      - Inactive
+      - On Leave
       required: false
     - id: 12
       name: leave_or_remote_work_request_form_12_approvals_comments
@@ -101,7 +101,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Approval''}'
-      - '{''id'': 2, ''name'': ''Rejection''}'
-      - '{''id'': 3, ''name'': ''Pending''}'
+      - Approval
+      - Rejection
+      - Pending
       required: false

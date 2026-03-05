@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 10
       name: select_multiple
@@ -75,11 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
       name: address
@@ -153,35 +151,35 @@ inputSchema:
       required: false
     - id: 21
       name: phone_type
-      label: Phone
+      label: Phone Type
       hint: null
       type: text
       options: []
       required: false
     - id: 22
       name: email_type
-      label: Email
+      label: Email Type
       hint: null
       type: email
       options: []
       required: false
     - id: 23
       name: website_type
-      label: Website
+      label: Website Type
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: social_media_type
-      label: Social Media
+      label: Social Media Type
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: social_media_url_type
-      label: Social Media URL
+      label: Social Media Url Type
       hint: null
       type: text
       options: []

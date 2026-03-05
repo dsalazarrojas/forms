@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Car''}'
-      - '{''id'': 2, ''name'': ''Truck''}'
-      - '{''id'': 3, ''name'': ''Van''}'
+      - Car
+      - Truck
+      - Van
       required: true
     - id: 9
       name: pickup_time
@@ -152,8 +152,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: notes2

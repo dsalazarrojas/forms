@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': 1}'
-      - '{''id'': 2, ''label'': False, ''value'': 2}'
+      - 'True'
+      - 'False'
       required: true
     - id: 3
       name: email
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''CA'', ''value'': ''CA''}'
-      - '{''id'': 2, ''label'': ''NY'', ''value'': ''NY''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      - CA
+      - NY
+      - Other
       required: true
     - id: 9
       name: work_country
@@ -147,9 +147,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active'', ''value'': ''Active''}'
-      - '{''id'': 2, ''label'': ''On Leave'', ''value'': ''On Leave''}'
-      - '{''id'': 3, ''label'': ''Retired'', ''value'': ''Retired''}'
+      - Active
+      - On Leave
+      - Retired
       required: true
     - id: 21
       name: work_employment_status
@@ -157,9 +157,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Full Time'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Part Time'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': 3}'
+      - Full Time
+      - Part Time
+      - Other
       required: true
     - id: 22
       name: work_shift
@@ -167,9 +167,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Morning'', ''value'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon'', ''value'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Night'', ''value'': ''Night''}'
+      - Morning
+      - Afternoon
+      - Night
       required: true
     - id: 23
       name: work_employment_type
@@ -177,9 +177,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Permanent'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Contract'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Freelance'', ''value'': 3}'
+      - Permanent
+      - Contract
+      - Freelance
       required: true
     - id: 24
       name: work_employment_contract_type
@@ -187,9 +187,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Hourly'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Monthly'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Yearly'', ''value'': 3}'
+      - Hourly
+      - Monthly
+      - Yearly
       required: true
     - id: 25
       name: work_english_level
@@ -197,7 +197,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Native'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Fluent'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Beginner'', ''value'': 3}'
+      - Native
+      - Fluent
+      - Beginner
       required: true

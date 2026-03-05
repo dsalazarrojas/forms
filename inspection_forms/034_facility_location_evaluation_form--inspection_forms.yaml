@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Facility''}'
-      - '{''id'': 2, ''label'': ''Warehouse''}'
-      - '{''id'': 3, ''label'': ''Office''}'
+      - Facility
+      - Warehouse
+      - Office
       required: false
     - id: 3
       name: facility_condition
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Strict''}'
-      - '{''id'': 2, ''label'': ''Moderate''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - Strict
+      - Moderate
+      - Low
       required: false
     - id: 4
       name: facility_equipment
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Strict''}'
-      - '{''id'': 2, ''label'': ''Moderate''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - Strict
+      - Moderate
+      - Low
       required: false
     - id: 6
       name: facility_location_rating
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Jimmy''}'
-      - '{''id'': 2, ''label'': ''Sarah''}'
-      - '{''id'': 3, ''label'': ''Alex''}'
+      - Jimmy
+      - Sarah
+      - Alex
       required: false
     - id: 13
       name: prophets
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Prophet 1''}'
-      - '{''id'': 2, ''label'': ''Prophet 2''}'
-      - '{''id'': 3, ''label'': ''Prophet 3''}'
+      - Prophet 1
+      - Prophet 2
+      - Prophet 3
       required: false
     - id: 14
       name: facility_safety_rating
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Strict''}'
-      - '{''id'': 2, ''label'': ''Moderate''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - Strict
+      - Moderate
+      - Low
       required: false
     - id: 15
       name: facility_safety_rating_date
@@ -132,9 +132,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Jimmy''}'
-      - '{''id'': 2, ''label'': ''Sarah''}'
-      - '{''id'': 3, ''label'': ''Alex''}'
+      - Jimmy
+      - Sarah
+      - Alex
       required: false
     - id: 17
       name: facility_inspector_comments
@@ -156,9 +156,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Jimmy''}'
-      - '{''id'': 2, ''label'': ''Sarah''}'
-      - '{''id'': 3, ''label'': ''Alex''}'
+      - Jimmy
+      - Sarah
+      - Alex
       required: false
     - id: 20
       name: facility_safety_rating_comments
@@ -168,21 +168,21 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: facility_safety_rating_date
-      label: Facility Safety Rating Date
+      name: facility_safety_rating_date_2
+      label: Facility Safety Rating Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 22
-      name: facility_safety_rating_inspector
-      label: Facility Safety Rating Inspector
+      name: facility_safety_rating_inspector_2
+      label: Facility Safety Rating Inspector 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Jimmy''}'
-      - '{''id'': 2, ''label'': ''Sarah''}'
-      - '{''id'': 3, ''label'': ''Alex''}'
+      - Jimmy
+      - Sarah
+      - Alex
       required: false
     - id: 23
       name: facility_safety_rating_inspectors
@@ -190,20 +190,20 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Jimmy''}'
-      - '{''id'': 2, ''label'': ''Sarah''}'
-      - '{''id'': 3, ''label'': ''Alex''}'
+      - Jimmy
+      - Sarah
+      - Alex
       required: false
     - id: 24
-      name: facility_location_rating_date
-      label: Facility Location Rating Date
+      name: facility_location_rating_date_2
+      label: Facility Location Rating Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 25
-      name: facility_safety_rating_comments
-      label: Facility Safety Rating Comments
+      name: facility_safety_rating_comments_2
+      label: Facility Safety Rating Comments 2
       hint: null
       type: text
       options: []

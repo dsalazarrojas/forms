@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Leaking from a pipe''}'
-      - '{''label'': ''Leaking from a pipe and line''}'
-      - '{''label'': ''Leaking from a drain''}'
-      - '{''label'': ''Leaking from a drain and line''}'
+      - Leaking from a pipe
+      - Leaking from a pipe and line
+      - Leaking from a drain
+      - Leaking from a drain and line
       required: false
     - id: 3
       name: pipe_size
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Front''}'
-      - '{''label'': ''Back''}'
-      - '{''label'': ''Both''}'
-      - '{''label'': ''Other''}'
+      - Front
+      - Back
+      - Both
+      - Other
       required: false
     - id: 5
       name: photo

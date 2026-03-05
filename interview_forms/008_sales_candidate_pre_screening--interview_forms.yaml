@@ -16,9 +16,9 @@ inputSchema:
       hint: Enter applicant contact information
       type: select_multiple
       options:
-      - '{''name'': ''Phone'', ''label'': ''Phone''}'
-      - '{''name'': ''Email'', ''label'': ''Email''}'
-      - '{''name'': ''Address'', ''label'': ''Address''}'
+      - Phone
+      - Email
+      - Address
       required: true
     - id: 3
       name: sales_experience
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': 1, ''label'': 0}'
-      - '{''name'': 2, ''label'': ''1-5 years''}'
-      - '{''name'': 3, ''label'': ''5-10 years''}'
-      - '{''name'': 4, ''label'': ''More than 10 years''}'
+      - '0'
+      - 1-5 years
+      - 5-10 years
+      - More than 10 years
       required: true
     - id: 4
       name: schedule_interview
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': 1, ''label'': ''Sales Candidate Pre Screening''}'
-      - '{''name'': 2, ''label'': ''Sales Lead Form''}'
-      - '{''name'': 3, ''label'': ''Other Form''}'
+      - Sales Candidate Pre Screening
+      - Sales Lead Form
+      - Other Form
       required: true
     - id: 10
       name: sales_candidate_pre_screening_form_2

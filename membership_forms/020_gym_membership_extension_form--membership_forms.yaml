@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
-      - '{''label'': ''Quarterly'', ''value'': ''quarterly''}'
-      - '{''label'': ''Annually'', ''value'': ''annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: true
     - id: 3
       name: current_membership_status
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Active'', ''value'': ''active''}'
-      - '{''label'': ''Suspended'', ''value'': ''suspended''}'
-      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
-      - '{''label'': ''Expired'', ''value'': ''expired''}'
+      - Active
+      - Suspended
+      - Cancelled
+      - Expired
       required: true
     - id: 4
       name: renewal_start_date
@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Month-to-Month'', ''value'': ''month_to_month''}'
-      - '{''label'': ''6-Month Extension'', ''value'': ''six_month_extension''}'
+      - Month-to-Month
+      - 6-Month Extension
       required: true
     - id: 8
       name: payment_method
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
-      - '{''label'': ''Cash'', ''value'': ''cash''}'
-      - '{''label'': ''Direct Debit'', ''value'': ''direct_debit''}'
+      - Credit Card
+      - Cash
+      - Direct Debit
       required: false
     - id: 9
       name: payment_terms

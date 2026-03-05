@@ -1,114 +1,122 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Client Marketing Package Selection
     pages:
-      - id: 1
-        name: client_name
-        label: Client Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: business_name
-        label: Business Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: section_package
-        label: -- Package Selection --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 4
-        name: selected_package
-        label: Choose your Marketing Package
-        hint: null
-        type: select_one
-        options: [Basic - $500 per month, Standard - $1,500 per month, Premium - $3,000 per month, Enterprise - Custom]
-        required: true
-      - id: 5
-        name: start_date
-        label: Desired Start Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: contract_length
-        label: Minimum Contract Length
-        hint: null
-        type: select_one
-        options: [3 Months, 6 Months, 12 Months]
-        required: false
-      - id: 7
-        name: section_goals
-        label: -- Goals and Expectations --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: marketing_goals
-        label: What are your top 3 marketing goals?
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: target_channels
-        label: Which channels are you most interested in?
-        hint: null
-        type: select_multiple
-        options: [SEO, PPC, Social Media, Content Marketing, Email Marketing]
-        required: false
-      - id: 10
-        name: top_competitor
-        label: Who is your primary competitor?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: section_payment
-        label: -- Payment and Onboarding --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: payment_method
-        label: Preferred Payment Method
-        hint: null
-        type: select_one
-        options: [Credit Card, Bank Transfer, PayPal]
-        required: false
-      - id: 13
-        name: terms_agreement
-        label: I agree to the terms and conditions of the selected package
-        hint: null
-        type: select_one
-        options: [Yes, I agree]
-        required: true
-      - id: 14
-        name: digital_signature
-        label: Signature - Type Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_package
+      label: -- Package Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: selected_package
+      label: Choose your Marketing Package
+      hint: null
+      type: select_one
+      options:
+      - Basic - $500 per month
+      - Standard - $1
+      - 500 per month
+      - Premium - $3
+      - 000 per month
+      - Enterprise - Custom
+      required: true
+    - id: 5
+      name: start_date
+      label: Desired Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contract_length
+      label: Minimum Contract Length
+      hint: null
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      required: false
+    - id: 7
+      name: section_goals
+      label: -- Goals and Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: marketing_goals
+      label: What are your top 3 marketing goals?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: target_channels
+      label: Which channels are you most interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - SEO
+      - PPC
+      - Social Media
+      - Content Marketing
+      - Email Marketing
+      required: false
+    - id: 10
+      name: top_competitor
+      label: Who is your primary competitor?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_payment
+      label: -- Payment and Onboarding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      required: false
+    - id: 13
+      name: terms_agreement
+      label: I agree to the terms and conditions of the selected package
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - I agree
+      required: true
+    - id: 14
+      name: digital_signature
+      label: Signature - Type Full Name
+      hint: null
+      type: text
+      options: []
+      required: true

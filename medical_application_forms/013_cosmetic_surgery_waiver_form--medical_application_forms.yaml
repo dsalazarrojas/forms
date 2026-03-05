@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Facelift''}'
-      - '{''id'': 2, ''label'': ''Botox''}'
-      - '{''id'': 3, ''label'': ''Tummy Tuck''}'
-      - '{''id'': 4, ''label'': ''Breast Augmentation''}'
-      - '{''id'': 5, ''label'': ''Skin Graft''}'
+      - Facelift
+      - Botox
+      - Tummy Tuck
+      - Breast Augmentation
+      - Skin Graft
       required: false
     - id: 4
       name: surgeon_details
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Dr Smith''}'
-      - '{''id'': 2, ''label'': ''Dr Johnson''}'
-      - '{''id'': 3, ''label'': ''Dr Lee''}'
+      - Dr Smith
+      - Dr Johnson
+      - Dr Lee
       required: true
     - id: 5
       name: risks_and_complications
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Dr Smith''}'
-      - '{''id'': 2, ''label'': ''Dr Johnson''}'
-      - '{''id'': 3, ''label'': ''Dr Lee''}'
+      - Dr Smith
+      - Dr Johnson
+      - Dr Lee
       required: true
     - id: 16
       name: medical_contact
@@ -139,8 +139,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: emergency_contact_name
@@ -162,9 +162,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Local Hospital''}'
-      - '{''id'': 2, ''label'': ''Local Clinic''}'
-      - '{''id'': 3, ''label'': ''Local Doctor''}'
+      - Local Hospital
+      - Local Clinic
+      - Local Doctor
       required: false
     - id: 22
       name: medical_facility_name

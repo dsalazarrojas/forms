@@ -22,7 +22,7 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: correct_answer
+      name: marketing_goal
       label: What is the primary goal of social media marketing?
       hint: null
       type: select_one
@@ -32,7 +32,7 @@ inputSchema:
       - Social Media Management
       required: false
     - id: 3
-      name: social_media_channel
+      name: preferred_channel
       label: Which social media channel do you prefer?
       hint: null
       type: select_multiple
@@ -43,35 +43,14 @@ inputSchema:
       - YouTube
       required: false
     - id: 4
-      name: correct_answer_1
-      label: What is the primary goal of social media marketing?
-      hint: null
-      type: select_one
-      options:
-      - Social Media Marketing
-      - Online Advertising
-      - Social Media Management
-      required: false
-    - id: 5
-      name: correct_answer_2
-      label: Which social media channel do you prefer?
-      hint: null
-      type: select_multiple
-      options:
-      - Facebook
-      - Twitter
-      - Instagram
-      - YouTube
-      required: false
-    - id: 6
-      name: correct_answer_3
+      name: usage_frequency
       label: How often do you use social media?
       hint: null
       type: date
       options: []
       required: false
-    - id: 7
-      name: marketing_goal
+    - id: 5
+      name: knowledge_level
       label: What is your current level of knowledge in marketing?
       hint: null
       type: select_one
@@ -80,9 +59,30 @@ inputSchema:
       - Intermediate
       - Advanced
       required: false
+    - id: 6
+      name: correct_answer
+      label: What is the correct answer about social media marketing?
+      hint: null
+      type: select_one
+      options:
+      - Social Media Marketing
+      - Online Advertising
+      - Social Media Management
+      required: false
+    - id: 7
+      name: actual_channel
+      label: Which social media channel do you actually use?
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - YouTube
+      required: false
     - id: 8
-      name: correct_answer_4
-      label: What is the primary goal of social media marketing?
+      name: actual_answer
+      label: Actual Answer
       hint: null
       type: select_one
       options:
@@ -91,51 +91,19 @@ inputSchema:
       - Social Media Management
       required: false
     - id: 9
-      name: correct_answer_5
-      label: Which social media channel do you prefer?
-      hint: null
-      type: select_multiple
-      options:
-      - Facebook
-      - Twitter
-      - Instagram
-      - YouTube
-      required: false
-    - id: 10
-      name: correct_answer_6
-      label: What is the correct answer about social media marketing?
-      hint: null
-      type: select_one
-      options:
-      - Social Media Marketing
-      - Online Advertising
-      - Social Media Management
-      required: false
-    - id: 11
-      name: correct_answer_7
-      label: How often do you use social media?
+      name: actual_usage
+      label: How often do you actually use social media?
       hint: null
       type: date
       options: []
       required: false
-    - id: 12
-      name: correct_answer_8
-      label: What is the correct answer about social media marketing?
+    - id: 10
+      name: final_answer
+      label: Final Answer
       hint: null
       type: select_one
       options:
       - Social Media Marketing
       - Online Advertising
       - Social Media Management
-      required: false
-    - id: 13
-      name: correct_answer_9
-      label: Which social media channel do you use?
-      hint: null
-      type: select_multiple
-      options:
-      - Facebook
-      - Twitter
-      - Instagram
-      - YouTube
       required: false

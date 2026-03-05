@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''email'', ''label'': ''Email''}'
-      - '{''value'': ''phone'', ''label'': ''Phone''}'
-      - '{''value'': ''address'', ''label'': ''Address''}'
-      - '{''value'': ''fax'', ''label'': ''Fax''}'
+      - Email
+      - Phone
+      - Address
+      - Fax
       required: false
     - id: 6
       name: available_to_start
@@ -62,10 +62,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''associate'', ''label'': ''Associate''}'
-      - '{''value'': ''bachelor'', ''label'': ''Bachelor''}'
-      - '{''value'': ''master'', ''label'': ''Master''}'
-      - '{''value'': ''doctorate'', ''label'': ''Doctorate''}'
+      - Associate
+      - Bachelor
+      - Master
+      - Doctorate
       required: false
     - id: 9
       name: available_hours
@@ -80,10 +80,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''morning'', ''label'': ''Morning''}'
-      - '{''value'': ''afternoon'', ''label'': ''Afternoon''}'
-      - '{''value'': ''evening'', ''label'': ''Evening''}'
-      - '{''value'': ''night'', ''label'': ''Night''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
       required: false
     - id: 11
       name: salary_requirements
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: available_holidays
@@ -114,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: job_position
@@ -123,10 +123,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''nursing_home_caregiver'', ''label'': ''Nursing Home Caregiver''}'
-      - '{''value'': ''caregiver'', ''label'': ''Caregiver''}'
-      - '{''value'': ''healthcare_assistant'', ''label'': ''Healthcare Assistant''}'
-      - '{''value'': ''nurse_aide'', ''label'': ''Nurse Aide''}'
+      - Nursing Home Caregiver
+      - Caregiver
+      - Healthcare Assistant
+      - Nurse Aide
       required: false
     - id: 16
       name: job_type
@@ -134,9 +134,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''full_time'', ''label'': ''Full Time''}'
-      - '{''value'': ''part_time'', ''label'': ''Part Time''}'
-      - '{''value'': ''contract'', ''label'': ''Contract''}'
+      - Full Time
+      - Part Time
+      - Contract
       required: false
     - id: 17
       name: job_status
@@ -144,9 +144,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''single'', ''label'': ''Single''}'
-      - '{''value'': ''married'', ''label'': ''Married''}'
-      - '{''value'': ''in_a_relationship'', ''label'': ''In a Relationship''}'
+      - Single
+      - Married
+      - In a Relationship
       required: false
     - id: 18
       name: gender
@@ -154,8 +154,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''male'', ''label'': ''Male''}'
-      - '{''value'': ''female'', ''label'': ''Female''}'
+      - Male
+      - Female
       required: false
     - id: 19
       name: available_to_work

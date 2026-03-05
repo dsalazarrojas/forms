@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Teacher'', ''value'': ''teacher''}'
-      - '{''id'': 2, ''label'': ''Instructor'', ''value'': ''instructor''}'
-      - '{''id'': 3, ''label'': ''Administrator'', ''value'': ''administrator''}'
+      - Teacher
+      - Instructor
+      - Administrator
       required: false
     - id: 3
       name: years_of_experience
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High School'', ''value'': ''high_school''}'
-      - '{''id'': 2, ''label'': "Bachelor''s", ''value'': ''bachelors''}'
-      - '{''id'': 3, ''label'': "Master''s", ''value'': ''masters''}'
-      - '{''id'': 4, ''label'': ''Ph.D.'', ''value'': ''phd''}'
+      - High School
+      - Bachelor's
+      - Master's
+      - Ph.D.
       required: false
     - id: 5
       name: available_dates
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Morning'', ''value'': ''morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon'', ''value'': ''afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening'', ''value'': ''evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 7
       name: availability_ending
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''morning'', ''value'': ''morning''}'
-      - '{''id'': 2, ''label'': ''afternoon'', ''value'': ''afternoon''}'
-      - '{''id'': 3, ''label'': ''evening'', ''value'': ''evening''}'
+      - morning
+      - afternoon
+      - evening
       required: false
     - id: 9
       name: preferred_contact_days
@@ -78,13 +78,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Monday'', ''value'': ''monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday'', ''value'': ''tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday'', ''value'': ''wednesday''}'
-      - '{''id'': 4, ''label'': ''Thursday'', ''value'': ''thursday''}'
-      - '{''id'': 5, ''label'': ''Friday'', ''value'': ''friday''}'
-      - '{''id'': 6, ''label'': ''Saturday'', ''value'': ''saturday''}'
-      - '{''id'': 7, ''label'': ''Sunday'', ''value'': ''sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 10
       name: preferred_time_zone
@@ -92,14 +92,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pacific'', ''value'': ''pacific''}'
-      - '{''id'': 2, ''label'': ''Eastern'', ''value'': ''eastern''}'
-      - '{''id'': 3, ''label'': ''Central'', ''value'': ''central''}'
-      - '{''id'': 4, ''label'': ''Mountain'', ''value'': ''mountain''}'
-      - '{''id'': 5, ''label'': ''GMT-05'', ''value'': ''gmt_05''}'
-      - '{''id'': 6, ''label'': ''GMT-08'', ''value'': ''gmt_08''}'
-      - '{''id'': 7, ''label'': ''GMT-11'', ''value'': ''gmt_11''}'
-      - '{''id'': 8, ''label'': ''GMT-14'', ''value'': ''gmt_14''}'
-      - '{''id'': 9, ''label'': ''GMT-16'', ''value'': ''gmt_16''}'
-      - '{''id'': 10, ''label'': ''GMT-18'', ''value'': ''gmt_18''}'
+      - Pacific
+      - Eastern
+      - Central
+      - Mountain
+      - GMT-05
+      - GMT-08
+      - GMT-11
+      - GMT-14
+      - GMT-16
+      - GMT-18
       required: false

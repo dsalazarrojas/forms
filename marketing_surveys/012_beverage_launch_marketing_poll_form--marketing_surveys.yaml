@@ -1,272 +1,262 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Beverage Launch Marketing Poll Form
     pages:
-      - id: 1
-        name: section_header_demographics
-        label: -- Demographics --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: age_group
-        label: Age Group
-        hint: Select your age range
-        type: select_one
-        options:
-          - 18-25
-          - 26-35
-          - 36-45
-          - 46-55
-          - 56-65
-          - 65+
-        required: true
-      - id: 3
-        name: gender
-        label: Gender
-        hint: null
-        type: select_one
-        options:
-          - Male
-          - Female
-          - Non-binary
-          - Prefer not to say
-        required: true
-      - id: 4
-        name: location
-        label: Geographic Location
-        hint: What region are you in?
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: lifestyle
-        label: Lifestyle Category
-        hint: Which best describes you?
-        type: select_one
-        options:
-          - Health and fitness focused
-          - Casual consumer
-          - Environmentally conscious
-          - Budget conscious
-          - Adventurous/trendy
-          - Balanced lifestyle
-        required: true
-      - id: 6
-        name: section_header_product
-        label: -- Product Concept --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: product_description
-        label: Product Description
-        hint: Here is our new product - an organic, plant-based sports drink with natural electrolytes. How does this sound to you?
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: first_impression
-        label: What is Your First Impression
-        hint: null
-        type: select_one
-        options:
-          - Very interested
-          - Somewhat interested
-          - Neutral
-          - Somewhat uninterested
-          - Not interested
-        required: true
-      - id: 9
-        name: key_appeal
-        label: Which Aspects Appeal to You Most (Select all that apply)
-        hint: null
-        type: select_multiple
-        options:
-          - Natural/organic ingredients
-          - Plant-based composition
-          - Electrolyte content
-          - Sustainability angle
-          - Taste profile
-          - Brand mission
-          - Convenience
-        required: true
-      - id: 10
-        name: section_header_pricing
-        label: -- Pricing --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: price_point
-        label: Proposed Price Point - How Does It Compare
-        hint: This drink would be priced at $3.99 per bottle
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: price_acceptable
-        label: Is This Price Fair for the Product
-        hint: null
-        type: select_one
-        options:
-          - Very fair
-          - Reasonable
-          - Neutral
-          - Somewhat high
-          - Too expensive
-        required: true
-      - id: 13
-        name: willing_to_pay
-        label: What Price Would You Be Willing to Pay
-        hint: Maximum price point
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: section_header_purchase
-        label: -- Purchase Intent --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: purchase_frequency
-        label: If Available, How Often Would You Purchase This
-        hint: null
-        type: select_one
-        options:
-          - Daily
-          - 3-4 times per week
-          - 1-2 times per week
-          - 2-4 times per month
-          - Once a month
-          - Rarely
-          - Never
-        required: true
-      - id: 16
-        name: purchase_occasion
-        label: When Would You Most Likely Purchase This
-        hint: Select all applicable occasions
-        type: select_multiple
-        options:
-          - Before/during workout
-          - Post-workout recovery
-          - Social gatherings
-          - Casual daily consumption
-          - As a health-conscious choice
-          - Travel or on-the-go
-          - Gift for others
-        required: true
-      - id: 17
-        name: purchase_location
-        label: Where Would You Prefer to Buy This
-        hint: null
-        type: select_multiple
-        options:
-          - Grocery store
-          - Health food stores
-          - Convenience stores
-          - Online retailers
-          - Gym or fitness centers
-          - Restaurants or cafes
-          - Direct from brand
-        required: true
-      - id: 18
-        name: section_header_competition
-        label: -- Competitive Comparison --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 19
-        name: similar_products
-        label: Do You Currently Use Similar Products
-        hint: null
-        type: select_one
-        options:
-          - Yes, regularly
-          - Yes, occasionally
-          - No, but interested
-          - No
-        required: true
-      - id: 20
-        name: competitor_brands
-        label: Which Brands Do You Currently Use or Prefer
-        hint: List competitors you know
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: competitive_advantage
-        label: What Would Make This Better Than Current Options
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: section_header_attributes
-        label: -- Product Attributes --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 23
-        name: taste_expectation
-        label: What Taste Profile Are You Expecting
-        hint: null
-        type: select_one
-        options:
-          - Sweet and fruity
-          - Light and refreshing
-          - Herbal and botanical
-          - Citrus forward
-          - Neutral
-          - No preference
-        required: true
-      - id: 24
-        name: packaging_appeal
-        label: How Important is Packaging Design
-        hint: null
-        type: select_one
-        options:
-          - Very important
-          - Important
-          - Somewhat important
-          - Not very important
-          - Not important
-        required: true
-      - id: 25
-        name: sustainability_important
-        label: How Important Are Sustainability Claims
-        hint: null
-        type: select_one
-        options:
-          - Critical decision factor
-          - Very important
-          - Somewhat important
-          - Nice to have
-          - Not important
-        required: true
-      - id: 26
-        name: additional_feedback
-        label: Additional Feedback or Suggestions
-        hint: Any other thoughts about this product?
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: section_header_demographics
+      label: -- Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: location
+      label: Geographic Location
+      hint: What region are you in?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: lifestyle
+      label: Lifestyle Category
+      hint: Which best describes you?
+      type: select_one
+      options:
+      - Health and fitness focused
+      - Casual consumer
+      - Environmentally conscious
+      - Budget conscious
+      - Adventurous/trendy
+      - Balanced lifestyle
+      required: true
+    - id: 6
+      name: section_header_product
+      label: -- Product Concept --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: product_description
+      label: Product Description
+      hint: Here is our new product - an organic, plant-based sports drink with natural
+        electrolytes. How does this sound to you?
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: first_impression
+      label: What is Your First Impression
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Neutral
+      - Somewhat uninterested
+      - Not interested
+      required: true
+    - id: 9
+      name: key_appeal
+      label: Which Aspects Appeal to You Most (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Natural/organic ingredients
+      - Plant-based composition
+      - Electrolyte content
+      - Sustainability angle
+      - Taste profile
+      - Brand mission
+      - Convenience
+      required: true
+    - id: 10
+      name: section_header_pricing
+      label: -- Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: price_point
+      label: Proposed Price Point - How Does It Compare
+      hint: This drink would be priced at $3.99 per bottle
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: price_acceptable
+      label: Is This Price Fair for the Product
+      hint: null
+      type: select_one
+      options:
+      - Very fair
+      - Reasonable
+      - Neutral
+      - Somewhat high
+      - Too expensive
+      required: true
+    - id: 13
+      name: willing_to_pay
+      label: What Price Would You Be Willing to Pay
+      hint: Maximum price point
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_purchase
+      label: -- Purchase Intent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: purchase_frequency
+      label: If Available, How Often Would You Purchase This
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 3-4 times per week
+      - 1-2 times per week
+      - 2-4 times per month
+      - Once a month
+      - Rarely
+      - Never
+      required: true
+    - id: 16
+      name: purchase_occasion
+      label: When Would You Most Likely Purchase This
+      hint: Select all applicable occasions
+      type: select_multiple
+      options:
+      - Before/during workout
+      - Post-workout recovery
+      - Social gatherings
+      - Casual daily consumption
+      - As a health-conscious choice
+      - Travel or on-the-go
+      - Gift for others
+      required: true
+    - id: 17
+      name: purchase_location
+      label: Where Would You Prefer to Buy This
+      hint: null
+      type: select_multiple
+      options:
+      - Grocery store
+      - Health food stores
+      - Convenience stores
+      - Online retailers
+      - Gym or fitness centers
+      - Restaurants or cafes
+      - Direct from brand
+      required: true
+    - id: 18
+      name: section_header_competition
+      label: -- Competitive Comparison --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: similar_products
+      label: Do You Currently Use Similar Products
+      hint: null
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, occasionally
+      - No, but interested
+      - 'False'
+      required: true
+    - id: 20
+      name: competitor_brands
+      label: Which Brands Do You Currently Use or Prefer
+      hint: List competitors you know
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: competitive_advantage
+      label: What Would Make This Better Than Current Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_attributes
+      label: -- Product Attributes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: taste_expectation
+      label: What Taste Profile Are You Expecting
+      hint: null
+      type: select_one
+      options:
+      - Sweet and fruity
+      - Light and refreshing
+      - Herbal and botanical
+      - Citrus forward
+      - Neutral
+      - No preference
+      required: true
+    - id: 24
+      name: packaging_appeal
+      label: How Important is Packaging Design
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Somewhat important
+      - Not very important
+      - Not important
+      required: true
+    - id: 25
+      name: sustainability_important
+      label: How Important Are Sustainability Claims
+      hint: null
+      type: select_one
+      options:
+      - Critical decision factor
+      - Very important
+      - Somewhat important
+      - Nice to have
+      - Not important
+      required: true
+    - id: 26
+      name: additional_feedback
+      label: Additional Feedback or Suggestions
+      hint: Any other thoughts about this product?
+      type: text
+      options: []
+      required: false

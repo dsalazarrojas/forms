@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''North'', ''label'': ''North''}'
-      - '{''name'': ''South'', ''label'': ''South''}'
-      - '{''name'': ''East'', ''label'': ''East''}'
-      - '{''name'': ''West'', ''label'': ''West''}'
+      - North
+      - South
+      - East
+      - West
       required: false
     - id: 3
       name: region_role
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Chairperson'', ''label'': ''Chairperson''}'
-      - '{''name'': ''Vice-Chairperson'', ''label'': ''Vice-Chairperson''}'
-      - '{''name'': ''Member'', ''label'': ''Member''}'
+      - Chairperson
+      - Vice-Chairperson
+      - Member
       required: true
     - id: 4
       name: contact_details
@@ -72,8 +72,8 @@ inputSchema:
       hint: Please agree to our terms and conditions
       type: select_one
       options:
-      - '{''label'': ''Agree'', ''name'': ''agree_terms''}'
-      - '{''label'': ''Disagree'', ''name'': ''disagree_terms''}'
+      - Agree
+      - Disagree
       required: true
     - id: 10
       name: contact_number

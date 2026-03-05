@@ -180,8 +180,8 @@ inputSchema:
       hint: Skip on holidays
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: calling_parameters
@@ -210,11 +210,11 @@ inputSchema:
       hint: How many retries
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       - No Retry
       required: true
     - id: 26
@@ -311,7 +311,7 @@ inputSchema:
       hint: Is script approved
       type: select_one
       options:
-      - true
+      - 'True'
       - No Pending
       - Needs Review
       required: true
@@ -417,8 +417,8 @@ inputSchema:
       hint: Does this need approval
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 49
       name: submitter_signature

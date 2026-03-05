@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''New Patient''}'
-      - '{''id'': 2, ''label'': ''Existing Patient''}'
-      - '{''id'': 3, ''label'': ''Unknown Patient''}'
+      - New Patient
+      - Existing Patient
+      - Unknown Patient
       required: false
     - id: 5
       name: medical_specialty
@@ -40,12 +40,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Cardiology''}'
-      - '{''id'': 2, ''label'': ''Dermatology''}'
-      - '{''id'': 3, ''label'': ''Endocrinology''}'
-      - '{''id'': 4, ''label'': ''Gastroenterology''}'
-      - '{''id'': 5, ''label'': ''General Practice''}'
-      - '{''id'': 6, ''label'': ''Nephrology''}'
+      - Cardiology
+      - Dermatology
+      - Endocrinology
+      - Gastroenterology
+      - General Practice
+      - Nephrology
       required: false
     - id: 6
       name: patient_phone
@@ -67,11 +67,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Private''}'
-      - '{''id'': 2, ''label'': ''Medicare''}'
-      - '{''id'': 3, ''label'': ''Medicaid''}'
-      - '{''id'': 4, ''label'': ''Tricare''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Private
+      - Medicare
+      - Medicaid
+      - Tricare
+      - Other
       required: false
     - id: 9
       name: medical_record_notes

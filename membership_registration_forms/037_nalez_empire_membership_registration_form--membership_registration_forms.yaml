@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monthly''}'
-      - '{''id'': 2, ''label'': ''Quarterly''}'
-      - '{''id'': 3, ''label'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 5
       name: user_input_date
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Skill 1''}'
-      - '{''id'': 2, ''label'': ''Skill 2''}'
-      - '{''id'': 3, ''label'': ''Skill 3''}'
+      - Skill 1
+      - Skill 2
+      - Skill 3
       required: false
     - id: 9
       name: user_input_username
@@ -92,6 +92,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I Agree''}'
-      - '{''id'': 2, ''label'': ''I Do Not Agree''}'
+      - I Agree
+      - I Do Not Agree
       required: false

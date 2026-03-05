@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': True}'
-      - '{''id'': 3, ''label'': False}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: medication
@@ -44,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Penicillin''}'
-      - '{''id'': 2, ''label'': ''Aspirin''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Penicillin
+      - Aspirin
+      - Other
       required: false
     - id: 5
       name: medical_surgical_history
@@ -82,9 +71,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Never''}'
-      - '{''id'': 2, ''label'': ''Occasionally''}'
-      - '{''id'': 3, ''label'': ''Frequently''}'
+      - Never
+      - Occasionally
+      - Frequently
       required: false
     - id: 10
       name: date_last_worn
@@ -106,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Normal''}'
-      - '{''id'': 2, ''label'': ''Using a respirator''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Normal
+      - Using a respirator
+      - Other
       required: false
     - id: 13
       name: oxygen_level
@@ -123,9 +112,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Left Leg''}'
-      - '{''id'': 2, ''label'': ''Right Leg''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Left Leg
+      - Right Leg
+      - Other
       required: false
     - id: 15
       name: respirator_type
@@ -133,9 +122,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Ventilator''}'
-      - '{''id'': 2, ''label'': ''Non-invasive positive pressure ventilation''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Ventilator
+      - Non-invasive positive pressure ventilation
+      - Other
       required: false
     - id: 16
       name: medical_history_2

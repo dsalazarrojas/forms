@@ -11,95 +11,93 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: questions
-      label: Questions
+      name: performance_1
+      label: Is this data warehouse platform meeting your performance expectations?
       hint: null
       type: select_one
       options:
-      - Is this the primary data warehouse platform for your business?
-      - Is this data warehouse platform the largest for your business?
-      - Does this data warehouse platform have multiple environments?
+      - 'True'
+      - 'False'
       required: true
     - id: 3
-      name: questions_2
-      label: Questions
+      name: refresh_frequency_1
+      label: Is the data refresh frequency meeting your expectations?
       hint: null
       type: select_one
       options:
-      - Is the data quality of your data warehouse platform meeting your expectations?
-      - Is the refresh frequency of your data warehouse platform meeting your expectations?
+      - 'True'
+      - 'False'
       required: true
     - id: 4
-      name: questions_3
-      label: Questions
+      name: improvement_priorities_1
+      label: What are your improvement priorities for the data warehouse platform?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Are you happy with the current performance of your data warehouse platform?
-      - Are you happy with the current performance of your data warehouse platform?
+      - Performance
+      - Data Quality
+      - Other
       required: false
     - id: 5
-      name: questions_4
-      label: Questions
+      name: performance_2
+      label: What are some key performance issues with this platform?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Is the data governance of your data warehouse platform meeting your expectations?
-      - Is the data governance of your data warehouse platform meeting your expectations?
+      - Data refresh times are too long
+      - Data is not up-to-date
+      - Other
       required: false
     - id: 6
-      name: questions_5
-      label: Questions
+      name: data_quality_1
+      label: Is the data quality of this data warehouse platform meeting your expectations?
       hint: null
       type: select_one
       options:
-      - Has the performance of your data warehouse platform met your expectations?
-      - Has the performance of your data warehouse platform met your expectations?
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 7
-      name: questions_6
-      label: Questions
+      name: data_governance_1
+      label: Is the current data governance of your data warehouse platform meeting
+        your expectations?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - What are your improvement priorities for the data warehouse platform?
-      - What are your improvement priorities for the data warehouse platform?
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: questions_7
-      label: Questions
+      name: size
+      label: Is this data warehouse platform the largest for your business?
       hint: null
       type: select_one
       options:
-      - What refresh frequencies would be ideal for your data warehouse platform?
-      - Other
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: questions_8
-      label: Questions
+      name: multiple_environments_1
+      label: Is this data warehouse platform used in multiple environments?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: refresh_frequency_2
+      label: What refresh frequencies would be ideal for your data warehouse platform?
       hint: null
       type: select_multiple
       options:
-      - What refresh frequencies would be ideal for your data warehouse platform?
-      - Other
-      required: false
-    - id: 10
-      name: questions_9
-      label: Questions
-      hint: null
-      type: text
-      options: []
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 11
-      name: questions_10
-      label: Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: questions_11
-      label: Questions
+      name: additional_comments_1
+      label: Do you have any additional comments about this data warehouse platform?
       hint: null
       type: text
       options: []

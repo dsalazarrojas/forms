@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Residential'', ''value'': ''residential''}'
-      - '{''id'': 2, ''label'': ''Commercial'', ''value'': ''commercial''}'
-      - '{''id'': 3, ''label'': ''Mixed'', ''value'': ''mixed''}'
+      - Residential
+      - Commercial
+      - Mixed
       required: false
     - id: 6
       name: property_status
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 4, ''label'': ''Active'', ''value'': ''active''}'
-      - '{''id'': 5, ''label'': ''Inactive'', ''value'': ''inactive''}'
-      - '{''id'': 6, ''label'': ''Under construction'', ''value'': ''under_construction''}'
+      - Active
+      - Inactive
+      - Under construction
       required: false
     - id: 7
       name: inquiry_type
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 7, ''label'': ''General question'', ''value'': ''general_question''}'
-      - '{''id'': 8, ''label'': ''Request for information'', ''value'': ''request_for_information''}'
-      - '{''id'': 9, ''label'': ''Request for proposal'', ''value'': ''request_for_proposal''}'
+      - General question
+      - Request for information
+      - Request for proposal
       required: false
     - id: 8
       name: message

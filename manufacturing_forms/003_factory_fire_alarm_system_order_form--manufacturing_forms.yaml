@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Analog''}'
-      - '{''id'': 2, ''name'': ''Addressable''}'
-      - '{''id'': 3, ''name'': ''Hybrid''}'
-      - '{''id'': 4, ''name'': ''Wireless''}'
-      - '{''id'': 5, ''name'': ''None''}'
+      - Analog
+      - Addressable
+      - Hybrid
+      - Wireless
+      - None
       required: false
     - id: 6
       name: quantity
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: additional_comments

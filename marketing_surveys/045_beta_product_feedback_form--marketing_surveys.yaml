@@ -37,11 +37,11 @@ inputSchema:
       hint: 1 being poor, 5 being excellent
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 6
       name: favorite_feature_desc
@@ -81,11 +81,11 @@ inputSchema:
       hint: 1 being very difficult, 5 being very easy
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 11
       name: setup_ease_status
@@ -103,8 +103,8 @@ inputSchema:
       hint: Technical glitches or errors
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: bug_description_text
@@ -134,7 +134,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - absolutely
-      - false
+      - 'False'
       required: true
     - id: 17
       name: product_improvement_suggestion

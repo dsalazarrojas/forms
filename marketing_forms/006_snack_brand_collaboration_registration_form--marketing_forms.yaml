@@ -32,298 +32,102 @@ inputSchema:
       name: collaboration_requests
       label: Collaboration Requests
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: submission_status
       label: Submission Status
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
-      name: user_info
-      label: User Info
+      name: submission_info
+      label: Submission Info
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: snack_brand_info
-      label: Snack Brand Info
+      name: submission_info_2
+      label: More Submission Info
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: collaboration_info
-      label: Collaboration Info
+      name: submission_status_2
+      label: Follow up question
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: submission_info
-      label: Submission Info
+      name: submission_status_3
+      label: Another follow up question
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: user_inputs_2
-      label: User Inputs 2
+      name: submission_info_3
+      label: More details about the submission
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: submission_status_2
-      label: Submission Status 2
+      name: submission_status_3_2
+      label: Submission Status 3 2
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: collaboration_requests_2
-      label: Collaboration Requests 2
+      name: submission_info_4
+      label: Even more details about the submission
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: submission_info_2
-      label: Submission Info 2
+      name: submission_status_4
+      label: Last follow up question
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: collaboration_requests
-      label: Collaboration Requests
+      name: submission_info_5
+      label: Additional information about the submission
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
+      type: text
+      options: []
       required: false
     - id: 14
-      name: submission_status
-      label: Submission Status
+      name: submission_status_5
+      label: Final follow up question
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
+      type: text
+      options: []
       required: false
     - id: 15
-      name: submission_info
-      label: Submission Info
+      name: submission_info_6
+      label: Last additional comments or information
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: user_inputs_3
-      label: User Inputs 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: submission_status_2
-      label: Submission Status 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: collaboration_requests_2
-      label: Collaboration Requests 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: submission_info_2
-      label: Submission Info 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: collaboration_requests_3
-      label: Collaboration Requests 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: submission_status_3
-      label: Submission Status 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: submission_info_3
-      label: Submission Info 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: submission_status_4
-      label: Submission Status 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: submission_info_4
-      label: Submission Info 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submission_info_5
-      label: Submission Info 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: submission_status_5
-      label: Submission Status 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: submission_info_6
-      label: Submission Info 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
       name: submission_status_6
-      label: Submission Status 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: submission_info_7
-      label: Submission Info 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: submission_status_7
-      label: Submission Status 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: submission_info_8
-      label: Submission Info 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: submission_status_8
-      label: Submission Status 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: submission_info_9
-      label: Submission Info 9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: submission_status_9
-      label: Submission Status 9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: submission_info_10
-      label: Submission Info 10
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: submission_status_10
-      label: Submission Status 10
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: submission_info_11
-      label: Submission Info 11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: submission_status_11
-      label: Submission Status 11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: submission_info_12
-      label: Submission Info 12
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: submission_status_12
-      label: Submission Status 12
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: submission_info_13
-      label: Submission Info 13
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: submission_status_13
-      label: Submission Status 13
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: submission_info_14
-      label: Submission Info 14
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 44
-      name: submission_status_14
-      label: Submission Status 14
+      label: Final submission status
       hint: null
       type: text
       options: []

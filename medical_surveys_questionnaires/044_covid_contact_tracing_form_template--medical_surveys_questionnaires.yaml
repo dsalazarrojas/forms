@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -48,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: follow_up
@@ -57,10 +46,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''In-person'', ''value'': ''in-person''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Phone
+      - Email
+      - In-person
+      - Other
       required: false
     - id: 7
       name: location
@@ -96,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active'', ''value'': ''active''}'
-      - '{''label'': ''Not Active'', ''value'': ''not_active''}'
+      - Active
+      - Not Active
       required: false
     - id: 12
       name: follow_up_status
@@ -105,8 +94,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Completed'', ''value'': ''completed''}'
-      - '{''label'': ''Not Completed'', ''value'': ''not_completed''}'
+      - Completed
+      - Not Completed
       required: false
     - id: 13
       name: follow_up_date

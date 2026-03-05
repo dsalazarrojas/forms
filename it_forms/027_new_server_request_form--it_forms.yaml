@@ -4,186 +4,116 @@ inputSchema:
     title: New Server Request Form
     pages:
     - id: 1
-      name: new_server_request_form_title
-      label: newServerRequestFormTitle
+      name: server_form_title
+      label: New Server Request Form Title
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: name
-      label: name
+      name: server_form_name
+      label: Full Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: email
-      label: email
+      name: server_form_email
+      label: Email
       hint: null
       type: email
       options: []
       required: false
     - id: 4
-      name: phone
-      label: phone
+      name: server_form_operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - Linux
+      - macOS
+      required: true
+    - id: 5
+      name: server_form_hardware_product
+      label: Hardware Product
+      hint: null
+      type: select_one
+      options:
+      - Desktop
+      - Laptop
+      - Server
+      required: true
+    - id: 6
+      name: server_form_software_product
+      label: Software Product
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: server_form_operating_environment
+      label: Operating Environment
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
-      name: operating_system
-      label: operatingSystem
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Windows''}'
-      - '{''id'': 2, ''label'': ''Linux''}'
-      - '{''id'': 3, ''label'': ''macOS''}'
-      required: true
-    - id: 6
-      name: hardware_product
-      label: hardwareProduct
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Desktop''}'
-      - '{''id'': 2, ''label'': ''Laptop''}'
-      - '{''id'': 3, ''label'': ''Server''}'
-      required: true
-    - id: 7
-      name: software_product
-      label: softwareProduct
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 8
-      name: operating_environment
-      label: operatingEnvironment
+      name: server_form_description
+      label: Description
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: description
-      label: description
+      name: server_form_date
+      label: Date
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 10
-      name: operating_system_versions
-      label: operatingSystemVersions
+      name: server_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: server_form_operating_system_versions
+      label: Operating System Versions
       hint: null
       type: select_multiple
       options:
       - Good
       - Fair
       required: false
-    - id: 11
-      name: required_fields
-      label: requiredFields
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 12
-      name: url
-      label: url
+      name: server_form_url
+      label: URL
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: no_coding
-      label: noCoding
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: notes
-      label: notes
+      name: server_form_notes
+      label: Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 17
-      name: assigned_tool
-      label: assignedTool
+    - id: 14
+      name: server_form_assigned_tool
+      label: Assigned Tool
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
-      name: form_id
-      label: formId
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: description
-      label: description
+    - id: 15
+      name: server_form_form_id
+      label: Form ID
       hint: null
       type: text
       options: []

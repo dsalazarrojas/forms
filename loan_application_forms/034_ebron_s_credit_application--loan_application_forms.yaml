@@ -5,63 +5,56 @@ inputSchema:
     pages:
     - id: 1
       name: customer_name
-      label: customer name
+      label: Customer Name
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: customer_email
-      label: customer email
+      label: Customer Email
       hint: null
       type: email
       options: []
       required: false
     - id: 3
       name: customer_phone
-      label: customer phone
+      label: Customer Phone Number
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: loan_amount
-      label: loan amount
+      label: Loan Amount
       hint: null
       type: number
       options: []
       required: false
     - id: 5
       name: loan_duration
-      label: loan duration
+      label: Loan Duration
       hint: null
       type: number
       options: []
       required: false
     - id: 6
       name: purchase_date
-      label: purchase date
+      label: Purchase Date
       hint: null
       type: date
       options: []
       required: false
     - id: 7
       name: purchase_time
-      label: purchase time
+      label: Purchase Time
       hint: null
       type: time
       options: []
       required: false
     - id: 8
-      name: loan_purpose
-      label: loan purpose
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
       name: loan_status
-      label: loan status
+      label: Loan Status
       hint: null
       type: select_one
       options:
@@ -69,305 +62,73 @@ inputSchema:
       - Denied
       - Pending
       required: false
-    - id: 10
+    - id: 9
       name: assigned_tool
-      label: assigned tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: output_file
+      label: Output File
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: output_file
-      label: output file
+      name: customer_address
+      label: Customer Address
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: customer_address
-      label: customer address
+      name: customer_city
+      label: Customer City
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: customer_city
-      label: customer city
+      name: customer_state
+      label: Customer State
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: customer_state
-      label: customer state
+      name: customer_country
+      label: Customer Country
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: customer_zip
-      label: customer zip
+      name: credit_score
+      label: Credit Score
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: customer_country
-      label: customer country
+      name: loan_rate
+      label: Loan Rate
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: credit_score
-      label: credit score
+      name: loan_term
+      label: Loan Term
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: loan_rate
-      label: loan rate
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: loan_term
-      label: loan term
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
       name: loan_fee
-      label: loan fee
+      label: Loan Fee
       hint: null
       type: text
       options: []
-      required: false
-    - id: 21
-      name: loan_amount2
-      label: loan amount 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: loan_amount3
-      label: loan amount 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: loan_amount4
-      label: loan amount 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: loan_amount5
-      label: loan amount 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: customer_comment
-      label: customer comment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: loan_status2
-      label: loan status 2
-      hint: null
-      type: select_multiple
-      options:
-      - Approved
-      - Denied
-      - Pending
-      required: false
-    - id: 27
-      name: customer_name2
-      label: customer name 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: customer_email2
-      label: customer email 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: customer_phone2
-      label: customer phone 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: customer_name3
-      label: customer name 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: customer_name4
-      label: customer name 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: customer_name5
-      label: customer name 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: customer_email3
-      label: customer email 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: customer_address
-      label: customer address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: customer_address2
-      label: customer address 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: customer_telephone
-      label: customer telephone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: loan_term2
-      label: loan term 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: loan_fee2
-      label: loan fee 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: loan_status3
-      label: loan status 3
-      hint: null
-      type: select_one
-      options:
-      - Approved
-      - Denied
-      - Pending
-      required: false
-    - id: 40
-      name: loan_status4
-      label: loan status 4
-      hint: null
-      type: select_multiple
-      options:
-      - Approved
-      - Denied
-      - Pending
-      required: false
-    - id: 41
-      name: customer_phone2
-      label: customer phone 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: customer_address3
-      label: customer address 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: customer_telephone
-      label: customer telephone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 44
-      name: customer_name2
-      label: customer name 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: loan_amount4
-      label: loan amount 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: customer_email2
-      label: customer email 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 47
-      name: customer_telephone
-      label: customer telephone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 48
-      name: loan_term
-      label: loan term
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 49
-      name: loan_status5
-      label: loan status 5
-      hint: null
-      type: select_one
-      options:
-      - Approved
-      - Denied
-      - Pending
-      required: false
-    - id: 50
-      name: loan_status6
-      label: loan status 6
-      hint: null
-      type: select_multiple
-      options:
-      - Approved
-      - Denied
-      - Pending
       required: false

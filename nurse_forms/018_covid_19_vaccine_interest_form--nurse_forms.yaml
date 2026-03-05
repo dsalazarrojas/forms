@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -76,11 +65,11 @@ inputSchema:
       hint: Your interest level
       type: select_one
       options:
-        - Yes, very interested
-        - Somewhat interested
-        - Undecided
-        - Not very interested
-        - Definitely not interested
+      - Yes, very interested
+      - Somewhat interested
+      - Undecided
+      - Not very interested
+      - Definitely not interested
       required: true
     - id: 10
       name: preferred_vaccine_timing
@@ -88,12 +77,12 @@ inputSchema:
       hint: Your preferred timeline
       type: select_one
       options:
-        - As soon as possible
-        - Within 2 weeks
-        - Within 1 month
-        - 1-3 months from now
-        - Later, when more information available
-        - Not planning to get vaccinated
+      - As soon as possible
+      - Within 2 weeks
+      - Within 1 month
+      - 1-3 months from now
+      - Later, when more information available
+      - Not planning to get vaccinated
       required: false
     - id: 11
       name: vaccine_type_interest
@@ -101,10 +90,10 @@ inputSchema:
       hint: Any preference among available vaccines
       type: select_one
       options:
-        - Pfizer-BioNTech
-        - Moderna
-        - Johnson & Johnson
-        - No specific preference
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - No specific preference
       required: false
     - id: 12
       name: reasons_interested_header
@@ -119,14 +108,14 @@ inputSchema:
       hint: Check all reasons that apply to you
       type: select_multiple
       options:
-        - Protect myself from COVID-19
-        - Protect family members
-        - Return to normal activities
-        - Work requirements
-        - Travel requirements
-        - Healthcare provider recommendation
-        - Trust in vaccine safety
-        - Protect vulnerable populations
+      - Protect myself from COVID-19
+      - Protect family members
+      - Return to normal activities
+      - Work requirements
+      - Travel requirements
+      - Healthcare provider recommendation
+      - Trust in vaccine safety
+      - Protect vulnerable populations
       required: false
     - id: 14
       name: concerns_header
@@ -141,10 +130,10 @@ inputSchema:
       hint: Any concerns about vaccination
       type: select_one
       options:
-        - No concerns
-        - Minor concerns
-        - Moderate concerns
-        - Significant concerns
+      - No concerns
+      - Minor concerns
+      - Moderate concerns
+      - Significant concerns
       required: true
     - id: 16
       name: specific_concerns
@@ -173,10 +162,10 @@ inputSchema:
       hint: How is your current health
       type: select_one
       options:
-        - Excellent health
-        - Good health
-        - Fair health
-        - Poor health
+      - Excellent health
+      - Good health
+      - Fair health
+      - Poor health
       required: true
     - id: 20
       name: chronic_conditions_interest
@@ -184,9 +173,9 @@ inputSchema:
       hint: Any ongoing health issues
       type: select_one
       options:
-        - Yes
-        - No
-        - Prefer Not to Say
+      - 'True'
+      - 'False'
+      - Prefer Not to Say
       required: false
     - id: 21
       name: allergies_interest
@@ -194,9 +183,9 @@ inputSchema:
       hint: Any known vaccine allergies
       type: select_one
       options:
-        - No allergies
-        - Have allergies
-        - Unsure
+      - No allergies
+      - Have allergies
+      - Unsure
       required: true
     - id: 22
       name: preference_header
@@ -211,10 +200,10 @@ inputSchema:
       hint: How should we reach you
       type: select_one
       options:
-        - Email
-        - Phone Call
-        - Text Message
-        - Mail
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
       required: true
     - id: 24
       name: preferred_location
@@ -222,12 +211,12 @@ inputSchema:
       hint: Where would you prefer to get vaccinated
       type: select_one
       options:
-        - Local pharmacy
-        - Clinic
-        - Hospital
-        - Community center
-        - Mobile clinic
-        - No preference
+      - Local pharmacy
+      - Clinic
+      - Hospital
+      - Community center
+      - Mobile clinic
+      - No preference
       required: false
     - id: 25
       name: follow_up_consent
@@ -235,6 +224,6 @@ inputSchema:
       hint: Permission to follow up with you
       type: select_one
       options:
-        - Yes, contact me
-        - No, do not contact me
+      - Yes, contact me
+      - No, do not contact me
       required: true

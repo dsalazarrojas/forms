@@ -27,94 +27,57 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Item 1
-      - Item 2
-      - Item 3
-      required: false
+      - Medication A
+      - Medication B
+      - Medication C
+      required: true
     - id: 3
       name: progress_notes
       label: Progress Notes
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: monitoring_frequency
       label: Monitoring Frequency
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 5
       name: ocd_qol
       label: OCQOL
       hint: null
-      type: select_one
-      options:
-      - Item 1
-      - Item 2
-      - Item 3
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 6
       name: treatment_effectiveness
       label: Treatment Effectiveness
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Item 1
-      - Item 2
-      - Item 3
-      required: false
+      - Very effective
+      - Somewhat effective
+      - Not effective
+      required: true
     - id: 7
+      name: follow_up_schedule
+      label: Follow-up Schedule
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
       name: patient_feedback
       label: Patient Feedback
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: additional_comments
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 9
-      name: monitoring_frequency_2
-      label: Monitoring Frequency
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: ocd_qol_2
-      label: OCQOL
-      hint: null
-      type: select_one
-      options:
-      - Item 1
-      - Item 2
-      - Item 3
-      required: false
-    - id: 11
-      name: treatment_effectiveness_2
-      label: Treatment Effectiveness
-      hint: null
-      type: select_multiple
-      options:
-      - Item 1
-      - Item 2
-      - Item 3
-      required: false
-    - id: 12
-      name: patient_feedback_2
-      label: Patient Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: additional_comments_2
+      name: additional_comments
       label: Additional Comments
       hint: null
       type: text

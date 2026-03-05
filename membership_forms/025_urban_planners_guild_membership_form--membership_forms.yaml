@@ -77,19 +77,13 @@ inputSchema:
       required: false
     - id: 11
       name: member_details_repeat
-      label: Member Details
+      label: Member Details Repeat
       hint: null
       type: select_multiple
       options:
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      - '6'
-      - '7'
-      - '8'
-      - '9'
-      - '10'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
       name: submit
@@ -107,7 +101,7 @@ inputSchema:
       required: false
     - id: 14
       name: member_type_options
-      label: Member Type
+      label: Member Type Options
       hint: null
       type: select_multiple
       options:
@@ -120,12 +114,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '8'
-      - '14'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 16
       name: organization_repeat
-      label: Organization
+      label: Organization Repeat
       hint: null
       type: select_multiple
       options:
@@ -134,7 +129,7 @@ inputSchema:
       required: false
     - id: 17
       name: address_repeat
-      label: Address
+      label: Address Repeat
       hint: null
       type: select_multiple
       options:
@@ -143,7 +138,7 @@ inputSchema:
       required: false
     - id: 18
       name: experience_years_repeat
-      label: Experience Years
+      label: Experience Years Repeat
       hint: null
       type: select_multiple
       options:
@@ -152,7 +147,7 @@ inputSchema:
       required: false
     - id: 19
       name: note_repeat
-      label: Note
+      label: Note Repeat
       hint: null
       type: select_multiple
       options:
@@ -161,30 +156,31 @@ inputSchema:
       required: false
     - id: 20
       name: submit_2
-      label: Submit
+      label: Submit 2
       hint: null
       type: text
       options: []
       required: false
     - id: 21
       name: cancel_repeat
-      label: Cancel
+      label: Cancel Repeat
       hint: null
       type: text
       options: []
       required: false
     - id: 22
       name: member_details_repeat_2
-      label: Member Details
+      label: Member Details Repeat 2
       hint: null
       type: select_multiple
       options:
-      - '2'
-      - '6'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 23
       name: experience_years_repeat_2
-      label: Experience Years
+      label: Experience Years Repeat 2
       hint: null
       type: select_multiple
       options:
@@ -193,7 +189,7 @@ inputSchema:
       required: false
     - id: 24
       name: note_repeat_2
-      label: Note
+      label: Note Repeat 2
       hint: null
       type: select_multiple
       options:
@@ -202,7 +198,7 @@ inputSchema:
       required: false
     - id: 25
       name: organization_repeat_2
-      label: Organization
+      label: Organization Repeat 2
       hint: null
       type: select_multiple
       options:

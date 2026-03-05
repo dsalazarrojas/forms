@@ -1,74 +1,63 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Construction Project Management Excellence Award Nomination
     pages:
-      - id: 1
-        name: section_nominee_information
-        label: -- Nominee Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: nominee_name
-        label: Nominee name
-        hint: Individual or team name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: project_name
-        label: Project name
-        hint: Project being nominated
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: nomination_reason
-        label: Nomination reason
-        hint: Describe why this nominee deserves the award
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: key_achievements
-        label: Key achievements
-        hint: List measurable successes or innovations
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: supporting_documents
-        label: Supporting documents note
-        hint: Indicate if attachments are included
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 7
-        name: nominator_name
-        label: Nominator name
-        hint: Person submitting the nomination
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: nominator_contact
-        label: Nominator contact email
-        hint: For follow up questions
-        type: email
-        options: []
-        required: false
+    - id: 1
+      name: section_nominee_information
+      label: -- Nominee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominee_name
+      label: Nominee name
+      hint: Individual or team name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: Project name
+      hint: Project being nominated
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nomination_reason
+      label: Nomination reason
+      hint: Describe why this nominee deserves the award
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: key_achievements
+      label: Key achievements
+      hint: List measurable successes or innovations
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporting_documents
+      label: Supporting documents note
+      hint: Indicate if attachments are included
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: nominator_name
+      label: Nominator name
+      hint: Person submitting the nomination
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominator_contact
+      label: Nominator contact email
+      hint: For follow up questions
+      type: email
+      options: []
+      required: false

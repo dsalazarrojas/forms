@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
-      - '{''label'': ''Retired''}'
+      - Active
+      - Inactive
+      - Retired
       required: false
     - id: 9
       name: leave_type
@@ -68,14 +68,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Sick Leave''}'
-      - '{''label'': ''Family Leave''}'
-      - '{''label'': ''Bereavement Leave''}'
-      - '{''label'': ''Military Leave''}'
-      - '{''label'': ''Jury Duty Leave''}'
-      - '{''label'': ''Vacation Leave''}'
-      - '{''label'': ''Parental Leave''}'
-      - '{''label'': ''Other''}'
+      - Sick Leave
+      - Family Leave
+      - Bereavement Leave
+      - Military Leave
+      - Jury Duty Leave
+      - Vacation Leave
+      - Parental Leave
+      - Other
       required: false
     - id: 10
       name: approver_name
@@ -90,9 +90,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Approve''}'
-      - '{''label'': ''Reject''}'
-      - '{''label'': ''Hold''}'
+      - Approve
+      - Reject
+      - Hold
       required: false
     - id: 12
       name: review_note

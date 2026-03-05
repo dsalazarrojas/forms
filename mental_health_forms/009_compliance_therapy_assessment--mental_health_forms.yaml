@@ -1,86 +1,84 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Compliance Therapy Assessment
     pages:
-      - id: 1
-        name: section_client_info
-        label: -- Client Information --
-        hint: Basic client details
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: client_name
-        label: Client name
-        hint: Full name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: date_of_session
-        label: Date of session
-        hint: Session date
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: presenting_concerns
-        label: Presenting concerns
-        hint: Main issues for therapy
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: engagement_level
-        label: Engagement level
-        hint: Client engagement during session
-        type: select_one
-        options: [High, Moderate, Low]
-        required: true
-      - id: 6
-        name: barriers_to_progress
-        label: Barriers to progress
-        hint: Note any barriers identified
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: safety_concerns
-        label: Safety concerns
-        hint: Any immediate safety risks noted
-        type: select_one
-        options: [None, Low, Moderate, High]
-        required: true
-      - id: 8
-        name: recommended_actions
-        label: Recommended actions
-        hint: Therapist recommendations and plan
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: follow_up_needed
-        label: Follow up needed
-        hint: Is a follow up appointment required
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 10
-        name: clinician_name
-        label: Clinician name
-        hint: Therapist completing the assessment
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: Basic client details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_session
+      label: Date of session
+      hint: Session date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: presenting_concerns
+      label: Presenting concerns
+      hint: Main issues for therapy
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: engagement_level
+      label: Engagement level
+      hint: Client engagement during session
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: true
+    - id: 6
+      name: barriers_to_progress
+      label: Barriers to progress
+      hint: Note any barriers identified
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_concerns
+      label: Safety concerns
+      hint: Any immediate safety risks noted
+      type: select_one
+      options:
+      - None
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 8
+      name: recommended_actions
+      label: Recommended actions
+      hint: Therapist recommendations and plan
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: follow_up_needed
+      label: Follow up needed
+      hint: Is a follow up appointment required
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: clinician_name
+      label: Clinician name
+      hint: Therapist completing the assessment
+      type: text
+      options: []
+      required: true

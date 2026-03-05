@@ -1,142 +1,167 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: International Missions Form
     pages:
     - id: 1
-      name: international_missions_form_page_1
-      label: International Missions Form
-      hint: null
+      name: mission_details
+      label: Mission Details
+      hint: Please provide a brief description of the mission's objectives, goals,
+        and scope.
       type: text
       options: []
       required: false
     - id: 2
-      name: international_missions_form_page_2
-      label: Missionary Form Data
-      hint: null
-      type: text
+      name: mission_dates
+      label: Mission Dates
+      hint: Specify the start and end dates of the mission.
+      type: date
       options: []
-      required: false
+      required: true
     - id: 3
-      name: international_missions_form_page_3
-      label: Mission Details
-      hint: null
-      type: text
-      options: []
+      name: mission_locations
+      label: Mission Locations
+      hint: List the countries or regions where the mission will take place.
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
       required: false
     - id: 4
-      name: international_missions_form_page_4
-      label: Mission Dates
-      hint: null
-      type: text
+      name: mission_expenses
+      label: Mission Expenses
+      hint: Estimate the total expenses for the mission, including travel, accommodation,
+        and other costs.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: international_missions_form_page_5
-      label: Mission Times
-      hint: null
-      type: text
+      name: expenses_per_day
+      label: Expenses Per Day
+      hint: Break down the estimated expenses per day of the mission.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 6
-      name: international_missions_form_page_6
-      label: Mission Locations
-      hint: null
-      type: text
-      options: []
+      name: mission_expenses_category
+      label: Mission Expenses Category
+      hint: Identify the category or categories of expenses, such as food, transportation,
+        and equipment.
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 7
-      name: international_missions_form_page_7
-      label: Mission Expenses
-      hint: null
+      name: mission_objectives
+      label: Mission Objectives
+      hint: Describe the mission's primary objectives, outcomes, or deliverables.
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: international_missions_form_page_8
-      label: Mission Expenses Total
-      hint: null
-      type: text
+      name: mission_duration
+      label: Mission Duration
+      hint: Specify the duration of the mission, including the number of days or weeks.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 9
-      name: international_missions_form_page_9
-      label: Expenses Per Day
-      hint: null
+      name: mission_team
+      label: Mission Team
+      hint: List the team members involved in the mission, including their roles and
+        responsibilities.
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: international_missions_form_page_10
-      label: Mission Expenses Category
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: mission_risks
+      label: Mission Risks
+      hint: Identify potential risks or challenges associated with the mission.
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 11
-      name: international_missions_form_page_11
-      label: Mission Dates
-      hint: null
-      type: text
-      options: []
+      name: mission_success_criteria
+      label: Mission Success Criteria
+      hint: Define the criteria for measuring the mission's success.
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 12
-      name: international_missions_form_page_12
-      label: Mission Dates
-      hint: null
-      type: text
-      options: []
+      name: mission_evaluation
+      label: Mission Evaluation
+      hint: Evaluate the mission's progress and outcomes.
+      type: radio
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 13
-      name: international_missions_form_page_13
-      label: Mission Times
-      hint: null
-      type: text
-      options: []
+      name: mission_dates_confirmation
+      label: Confirm Mission Dates
+      hint: Confirm the mission dates provided.
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 14
-      name: international_missions_form_page_14
-      label: Mission Expenses Category
-      hint: null
-      type: text
-      options: []
+      name: mission_locations_confirmation
+      label: Confirm Mission Locations
+      hint: Confirm the mission locations provided.
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 15
-      name: international_missions_form_page_15
-      label: Mission Dates
-      hint: null
-      type: text
-      options: []
+      name: mission_expenses_confirmation
+      label: Confirm Mission Expenses
+      hint: Confirm the mission expenses provided.
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 16
-      name: international_missions_form_page_16
-      label: Mission Locations
-      hint: null
-      type: text
-      options: []
+      name: mission_expenses_category_confirmation
+      label: Confirm Mission Expenses Category
+      hint: Confirm the mission expenses category provided.
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 17
-      name: international_missions_form_page_17
-      label: Mission Times
-      hint: null
-      type: text
+      name: note
+      label: Additional Information
+      hint: Provide any additional information or comments.
+      type: note
       options: []
       required: false
     - id: 18
-      name: international_missions_form_page_18
-      label: Mission Expenses Total
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: confirmation
+      label: Confirmation
+      hint: Please confirm that the form is complete and accurate.
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

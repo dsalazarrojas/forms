@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Vacation'', ''label'': ''Vacation''}'
-      - '{''id'': 2, ''value'': ''Sick'', ''label'': ''Sick''}'
-      - '{''id'': 3, ''value'': ''Emergency'', ''label'': ''Emergency''}'
-      - '{''id'': 4, ''value'': ''Bereavement'', ''label'': ''Bereavement''}'
+      - Vacation
+      - Sick
+      - Emergency
+      - Bereavement
       required: false
     - id: 3
       name: start_date
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Approved'', ''label'': ''Approved''}'
-      - '{''id'': 2, ''value'': ''Rejected'', ''label'': ''Rejected''}'
-      - '{''id'': 3, ''value'': ''Pending'', ''label'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: false
     - id: 8
       name: comments
@@ -135,9 +135,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''John'', ''label'': ''John''}'
-      - '{''id'': 2, ''value'': ''Jane'', ''label'': ''Jane''}'
-      - '{''id'': 3, ''value'': ''Jim'', ''label'': ''Jim''}'
+      - John
+      - Jane
+      - Jim
       required: false
     - id: 19
       name: leave_status
@@ -145,9 +145,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Approved'', ''label'': ''Approved''}'
-      - '{''id'': 2, ''value'': ''Rejected'', ''label'': ''Rejected''}'
-      - '{''id'': 3, ''value'': ''Pending'', ''label'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: false
     - id: 20
       name: status
@@ -155,8 +155,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Approved'', ''label'': ''Approved''}'
-      - '{''id'': 2, ''value'': ''Rejected'', ''label'': ''Rejected''}'
+      - Approved
+      - Rejected
       required: false
     - id: 21
       name: employee_status
@@ -164,8 +164,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Active'', ''label'': ''Active''}'
-      - '{''id'': 2, ''value'': ''Inactive'', ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 22
       name: manager_status
@@ -173,8 +173,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Active'', ''label'': ''Active''}'
-      - '{''id'': 2, ''value'': ''Inactive'', ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 23
       name: department_status
@@ -182,8 +182,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Active'', ''label'': ''Active''}'
-      - '{''id'': 2, ''value'': ''Inactive'', ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 24
       name: leave_date_type
@@ -191,8 +191,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Start Date'', ''label'': ''Start Date''}'
-      - '{''id'': 2, ''value'': ''End Date'', ''label'': ''End Date''}'
+      - Start Date
+      - End Date
       required: false
     - id: 25
       name: employee_note

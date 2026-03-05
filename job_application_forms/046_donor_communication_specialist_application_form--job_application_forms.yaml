@@ -5,190 +5,87 @@ inputSchema:
     pages:
     - id: 1
       name: job_application_form_1
-      label: Job Title
+      label: What is your current job title?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Current Job Title
+      - Previous Job Title
+      - Other Job Title
+      required: true
     - id: 2
       name: job_application_form_2
-      label: Name
+      label: Please enter your name.
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: job_application_form_3
-      label: Email
+      label: What is your email address?
       hint: null
       type: email
       options: []
       required: true
     - id: 4
       name: job_application_form_4
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: job_application_form_5
-      label: Resume
+      label: Do you have a resume or portfolio that showcases your experience and
+        skills?
       hint: null
       type: text
       options: []
       required: true
+    - id: 5
+      name: job_application_form_5
+      label: What is your availability for the position (select multiple days of the
+        week)?
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
     - id: 6
       name: job_application_form_6
-      label: Availability
+      label: Do you have any specific job preferences (e.g., flexible work hours,
+        remote work)?
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 7
       name: job_application_form_7
-      label: Availability
+      label: What is your expected start date and end date of availability for the
+        position?
       hint: null
-      type: time
+      type: date
       options: []
-      required: false
+      required: true
     - id: 8
       name: job_application_form_8
-      label: Availability
+      label: What is your name as it appears on official documents?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 9
       name: job_application_form_9
-      label: Job Preferences
+      label: Do you have any specific job title preferences?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 10
       name: job_application_form_10
-      label: Work Preferences
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 11
-      name: job_application_form_11
-      label: Availability
+      label: What is your availability for a specific time period?
       hint: null
       type: date
       options: []
       required: false
-    - id: 12
-      name: job_application_form_12
-      label: Job Title
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: job_application_form_13
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: job_application_form_14
-      label: Availability
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 15
-      name: job_application_form_15
-      label: Availability
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: job_application_form_16
-      label: Job Preferences
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: job_application_form_17
-      label: Availability
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: job_application_form_18
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: job_application_form_19
-      label: Job Title
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 20
-      name: job_application_form_20
-      label: Availability
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: job_application_form_21
-      label: Job Preferences
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: job_application_form_22
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: job_application_form_23
-      label: Availability
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: job_application_form_24
-      label: Availability
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: job_application_form_25
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: true

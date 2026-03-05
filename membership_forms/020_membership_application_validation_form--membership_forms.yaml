@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Individual'', ''value'': ''individual''}'
-      - '{''label'': ''Organization'', ''value'': ''organization''}'
-      - '{''label'': ''Business'', ''value'': ''business''}'
+      - Individual
+      - Organization
+      - Business
       required: false
     - id: 6
       name: membership_start_date
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
-      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
-      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 9
       name: address
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Canada'', ''value'': ''canada''}'
-      - '{''label'': ''United States'', ''value'': ''united_states''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Canada
+      - United States
+      - Other
       required: false
     - id: 11
       name: notes

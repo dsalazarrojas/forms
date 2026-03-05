@@ -12,23 +12,20 @@ inputSchema:
       required: false
     - id: 2
       name: pain_management
-      label: Pain Management
+      label: How would you rate the pain management during the procedure?
       hint: null
-      type: select_one
-      options:
-      - Label 1
-      - Label 2
-      - Label 3
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 3
       name: staff_support
       label: Staff Support
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: facility
@@ -38,179 +35,121 @@ inputSchema:
       options: []
       required: false
     - id: 5
-      name: pain_management
-      label: Pain Management
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 6
-      name: medical_professionals
-      label: Medical Professionals
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 7
       name: patient_communication
-      label: Patient Communication
+      label: How would you rate the patient communication during the procedure?
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
+    - id: 6
       name: overall_satisfaction
-      label: Overall Satisfaction
+      label: How satisfied are you with the outcome of the procedure?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
-    - id: 9
+    - id: 7
       name: comments
       label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
+    - id: 8
       name: contact_info
-      label: Contact Info
+      label: How would you like to be contacted?
       hint: null
-      type: email
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 11
+    - id: 9
       name: date
-      label: Date
+      label: Date of Procedure
       hint: null
       type: date
       options: []
       required: false
-    - id: 12
+    - id: 10
       name: time
-      label: Time
+      label: Time of Procedure
       hint: null
       type: time
       options: []
       required: false
-    - id: 13
+    - id: 11
       name: note
-      label: Note
+      label: Any additional notes?
       hint: null
-      type: note
+      type: text
       options: []
+      required: false
+    - id: 12
+      name: medical_professionals
+      label: Medical Professionals involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 13
+      name: staff
+      label: Main point of contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 14
-      name: medical_professionals
-      label: Medical Professionals
+      name: facility_2
+      label: Facility 2
       hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
+      type: text
+      options: []
       required: false
     - id: 15
-      name: staff
-      label: Staff
+      name: patient_communication_2
+      label: How would you rate the patient communication?
       hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
+      type: text
+      options: []
       required: false
     - id: 16
-      name: facility
-      label: Facility
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: patient_communication
-      label: Patient Communication
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: overall_satisfaction
+      name: overall_satisfaction_2
       label: Overall Satisfaction
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 19
-      name: pain_management
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
+      required: true
+    - id: 17
+      name: pain_management_2
       label: Pain Management
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 20
-      name: medical_professionals
-      label: Medical Professionals
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 21
-      name: medical_professionals
-      label: Medical Professionals
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 22
-      name: staff
-      label: Staff
+    - id: 18
+      name: overall_satisfaction_3
+      label: Overall Satisfaction 3
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 23
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: facility
-      label: Facility
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: overall_satisfaction
-      label: Overall Satisfaction
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
+      required: true

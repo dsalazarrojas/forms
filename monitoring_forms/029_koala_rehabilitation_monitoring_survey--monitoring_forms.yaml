@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Healthy''}'
-      - '{''id'': 2, ''label'': ''Sick''}'
-      - '{''id'': 3, ''label'': ''Dead''}'
+      - Healthy
+      - Sick
+      - Dead
       required: true
     - id: 3
       name: koala_behavior
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Medication''}'
-      - '{''id'': 2, ''label'': ''Rest''}'
-      - '{''id'': 3, ''label'': ''Diet''}'
+      - Medication
+      - Rest
+      - Diet
       required: true
     - id: 5
       name: koala_notes

@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sales Data''}'
-      - '{''id'': 2, ''label'': ''Order Data''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Sales Data
+      - Order Data
+      - Other
       required: true
     - id: 2
       name: customer_volume
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 6
       name: customer_segment
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Enterprise''}'
-      - '{''id'': 2, ''label'': ''Small Business''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Enterprise
+      - Small Business
+      - Other
       required: false
     - id: 7
       name: volume_data_source
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''CRM''}'
-      - '{''id'': 2, ''label'': ''ERP''}'
-      - '{''id'': 3, ''label'': ''Database''}'
+      - CRM
+      - ERP
+      - Database
       required: false
     - id: 9
       name: volume_data_last_updated
@@ -91,8 +91,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Automated''}'
-      - '{''id'': 2, ''label'': ''Manual''}'
+      - Automated
+      - Manual
       required: false
     - id: 12
       name: volume_data_last_updated_by_who
@@ -107,8 +107,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sales Manager''}'
-      - '{''id'': 2, ''label'': ''Account Manager''}'
+      - Sales Manager
+      - Account Manager
       required: false
     - id: 14
       name: volume_data_last_updated_who_who
@@ -123,8 +123,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Sales Manager''}'
-      - '{''id'': 2, ''label'': ''Account Manager''}'
+      - Sales Manager
+      - Account Manager
       required: false
     - id: 16
       name: volume_data_last_updated_who_who_who_who
@@ -139,8 +139,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sales Manager''}'
-      - '{''id'': 2, ''label'': ''Account Manager''}'
+      - Sales Manager
+      - Account Manager
       required: false
     - id: 18
       name: volume_data_last_updated_who_who_who_who_who_who

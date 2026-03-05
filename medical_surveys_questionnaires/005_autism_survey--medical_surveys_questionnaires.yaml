@@ -1,94 +1,83 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Autism Survey
     pages:
-      - id: 1
-        name: intro_note
-        label: -- Community Attitudes Survey --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_age
-        label: respondent age
-        hint: Age bracket of the respondent
-        type: select_one
-        options:
-          - Under 18
-          - 18 to 24
-          - 25 to 44
-          - 45 to 64
-          - 65 or older
-        required: false
-      - id: 3
-        name: respondent_relation
-        label: relation to person with autism
-        hint: Relationship to someone with autism if applicable
-        type: select_one
-        options:
-          - Self
-          - Family member
-          - Friend
-          - Caregiver
-          - Not applicable
-        required: false
-      - id: 4
-        name: contact_frequency
-        label: contact frequency
-        hint: How often do you interact with someone with autism
-        type: select_one
-        options:
-          - Daily
-          - Weekly
-          - Monthly
-          - Rarely
-          - Never
-        required: true
-      - id: 5
-        name: comfort_level
-        label: comfort level interacting
-        hint: How comfortable are you interacting in social settings
-        type: select_one
-        options:
-          - Very comfortable
-          - Somewhat comfortable
-          - Neutral
-          - Somewhat uncomfortable
-          - Very uncomfortable
-        required: true
-      - id: 6
-        name: awareness_of_support_services
-        label: awareness of support services
-        hint: Are you aware of local support services for autism
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 7
-        name: barriers_to_inclusion
-        label: barriers to inclusion
-        hint: Describe any barriers you perceive for inclusion
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: suggestions_for_community
-        label: suggestions for community support
-        hint: Ideas to improve social inclusion and accessibility
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: intro_note
+      label: -- Community Attitudes Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_age
+      label: respondent age
+      hint: Age bracket of the respondent
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 24
+      - 25 to 44
+      - 45 to 64
+      - 65 or older
+      required: false
+    - id: 3
+      name: respondent_relation
+      label: relation to person with autism
+      hint: Relationship to someone with autism if applicable
+      type: select_one
+      options:
+      - Self
+      - Family member
+      - Friend
+      - Caregiver
+      - Not applicable
+      required: false
+    - id: 4
+      name: contact_frequency
+      label: contact frequency
+      hint: How often do you interact with someone with autism
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 5
+      name: comfort_level
+      label: comfort level interacting
+      hint: How comfortable are you interacting in social settings
+      type: select_one
+      options:
+      - Very comfortable
+      - Somewhat comfortable
+      - Neutral
+      - Somewhat uncomfortable
+      - Very uncomfortable
+      required: true
+    - id: 6
+      name: awareness_of_support_services
+      label: awareness of support services
+      hint: Are you aware of local support services for autism
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: barriers_to_inclusion
+      label: barriers to inclusion
+      hint: Describe any barriers you perceive for inclusion
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestions_for_community
+      label: suggestions for community support
+      hint: Ideas to improve social inclusion and accessibility
+      type: text
+      options: []
+      required: false

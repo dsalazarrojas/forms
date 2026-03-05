@@ -44,9 +44,9 @@ inputSchema:
       hint: Select membership plan
       type: select_one
       options:
-      - '{''value'': ''Monthly Membership'', ''label'': ''Monthly Membership''}'
-      - '{''value'': ''Yearly Membership'', ''label'': ''Yearly Membership''}'
-      - '{''value'': ''Monthly Plus'', ''label'': ''Monthly Plus''}'
+      - Monthly Membership
+      - Yearly Membership
+      - Monthly Plus
       required: false
     - id: 7
       name: membership_terms_and_conditions
@@ -75,9 +75,9 @@ inputSchema:
       hint: Select a payment method
       type: select_one
       options:
-      - '{''value'': ''PayPal'', ''label'': ''PayPal''}'
-      - '{''value'': ''Bank Transfer'', ''label'': ''Bank Transfer''}'
-      - '{''value'': ''Cash'', ''label'': ''Cash''}'
+      - PayPal
+      - Bank Transfer
+      - Cash
       required: false
     - id: 11
       name: confirm_payment_method
@@ -85,9 +85,9 @@ inputSchema:
       hint: Confirm payment method
       type: select_one
       options:
-      - '{''value'': ''PayPal'', ''label'': ''PayPal''}'
-      - '{''value'': ''Bank Transfer'', ''label'': ''Bank Transfer''}'
-      - '{''value'': ''Cash'', ''label'': ''Cash''}'
+      - PayPal
+      - Bank Transfer
+      - Cash
       required: false
     - id: 12
       name: payment_date

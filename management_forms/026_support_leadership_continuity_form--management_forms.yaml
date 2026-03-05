@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''successor Identified'', ''value'': ''successor_identified''}'
-      - '{''id'': 2, ''label'': ''No Successor Identified'', ''value'': ''no_successor_identified''}'
-      - '{''id'': 3, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      - successor Identified
+      - No Successor Identified
+      - Not Applicable
       required: false
     - id: 2
       name: potential_successors
@@ -19,9 +19,9 @@ inputSchema:
       hint: list of individuals who could potentially be a good fit if a vacancy occurs
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Successors 1'', ''value'': ''successors_1''}'
-      - '{''id'': 2, ''label'': ''Successors 2'', ''value'': ''successors_2''}'
-      - '{''id'': 3, ''label'': ''Successors 3'', ''value'': ''successors_3''}'
+      - Successors 1
+      - Successors 2
+      - Successors 3
       required: false
     - id: 3
       name: resource_needs

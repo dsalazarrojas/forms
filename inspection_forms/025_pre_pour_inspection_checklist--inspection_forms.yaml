@@ -5,185 +5,98 @@ inputSchema:
     pages:
     - id: 1
       name: foundation_quality
-      label: foundation_quality
+      label: Foundation Quality
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - None
-      - Other
-      required: false
+      - very satisfactory
+      - satisfactory
+      - not satisfactory
+      - not acceptable
+      required: true
     - id: 2
       name: concrete_compatibility
-      label: concrete_compatibility
+      label: Concrete Compatibility
       hint: null
       type: select_one
       options:
-      - 'True'
-      - 'False'
-      required: false
+      - suitable
+      - not suitable
+      - unknown
+      required: true
     - id: 3
       name: concrete_finish
-      label: concrete_finish
+      label: Concrete Finish
       hint: null
       type: select_one
       options:
-      - very_good
-      - satisfactory
-      - unsatisfactory
-      required: false
+      - smooth
+      - rough
+      - not applicable
+      required: true
     - id: 4
       name: surface_quality
-      label: surface_quality
+      label: Surface Quality
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - None
-      - Other
-      required: false
+      - free from defects
+      - not free from defects
+      - not applicable
+      required: true
     - id: 5
       name: inspection_date
-      label: inspection_date
+      label: Inspection Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 6
       name: inspection_time
-      label: inspection_time
+      label: Inspection Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 7
       name: pour_depth
-      label: pour_depth
+      label: Pour Depth
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 8
       name: comments
-      label: comments
+      label: Comments
       hint: null
       type: note
       options: []
       required: false
     - id: 9
       name: assignee
-      label: assignee
+      label: Assignee
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
       name: assigned_tool
-      label: assigned_tool
+      label: Assigned Tool
       hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: form_id
-      label: form_id
+      label: Form ID
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 12
       name: category
-      label: category
+      label: Category
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: title
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: form_id
-      label: form_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: title
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_id
-      label: form_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

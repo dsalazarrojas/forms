@@ -4,135 +4,57 @@ inputSchema:
     title: Patient Information And Specialty Selection Form
     pages:
     - id: 1
-      name: patient_info
-      label: patient_info
+      name: patient_name
+      label: Patient's full name
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: specialty
-      label: specialty
-      hint: null
-      type: select_one
-      options:
-      - Cardiology
-      - Dermatology
-      - Endocrinology
-      - Gastroenterology
-      - Nephrology
-      - Pulmonology
-      - Urology
-      required: false
-    - id: 3
-      name: phone_number
-      label: phone_number
+      name: patient_phone
+      label: Patient's phone number
       hint: null
       type: text
       options: []
       required: false
-    - id: 4
-      name: email
-      label: email
+    - id: 3
+      name: patient_email
+      label: Patient's email
       hint: null
       type: email
       options: []
       required: false
-    - id: 5
+    - id: 4
       name: date_of_birth
-      label: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_visit
+      label: Date of visit
       hint: null
       type: date
       options: []
       required: false
     - id: 6
-      name: patient_name
-      label: patient_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: medical_specialty
-      label: medical_specialty
-      hint: null
-      type: select_multiple
-      options:
-      - Cardiology
-      - Dermatology
-      - Endocrinology
-      - Gastroenterology
-      - Nephrology
-      - Pulmonology
-      - Urology
-      required: false
-    - id: 8
-      name: medical_condition
-      label: medical_condition
-      hint: null
-      type: select_multiple
-      options:
-      - None
-      - Cardiac Arrhythmias
-      - Cardiac Arrhythmias
-      - Cardiac Arrhythmias
-      - None
-      - Cardiac Arrhythmias
-      - None
-      - Other
-      required: false
-    - id: 9
-      name: medical_history
-      label: medical_history
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: medical_notes
-      label: medical_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: patient_address
-      label: patient_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: date_of_visit
-      label: date_of_visit
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
       name: time_of_visit
-      label: time_of_visit
+      label: Time of visit
       hint: null
       type: time
       options: []
       required: false
-    - id: 14
-      name: patient_phone
-      label: patient_phone
+    - id: 7
+      name: patient_address
+      label: Patient's address
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
-      name: patient_email
-      label: patient_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
+    - id: 8
       name: medical_provider
-      label: medical_provider
+      label: Medical provider
       hint: null
       type: select_one
       options:
@@ -142,9 +64,9 @@ inputSchema:
       - Dr. Brown
       - Dr. Lee
       required: false
-    - id: 17
-      name: medical_specialty_provider
-      label: medical_specialty_provider
+    - id: 9
+      name: medical_specialty
+      label: Medical specialty
       hint: null
       type: select_one
       options:
@@ -156,31 +78,26 @@ inputSchema:
       - Pulmonology
       - Urology
       required: false
-    - id: 18
-      name: patient_condition
-      label: patient_condition
+    - id: 10
+      name: medical_condition
+      label: Medical condition
       hint: null
       type: select_multiple
       options:
       - None
       - Cardiac Arrhythmias
-      - Cardiac Arrhythmias
-      - Cardiac Arrhythmias
-      - None
-      - Cardiac Arrhythmias
-      - None
       - Other
       required: false
-    - id: 19
+    - id: 11
       name: additional_notes
-      label: additional_notes
+      label: Additional notes
       hint: null
       type: text
       options: []
       required: false
-    - id: 20
+    - id: 12
       name: patient_allergies
-      label: patient_allergies
+      label: Patient's allergies
       hint: null
       type: select_multiple
       options:
@@ -191,9 +108,9 @@ inputSchema:
       - Allergy 4
       - Allergy 5
       required: false
-    - id: 21
+    - id: 13
       name: patient_medications
-      label: patient_medications
+      label: Patient's medications
       hint: null
       type: select_multiple
       options:
@@ -204,30 +121,23 @@ inputSchema:
       - Medication 4
       - Medication 5
       required: false
-    - id: 22
+    - id: 14
       name: medical_history
-      label: medical_history
+      label: Medical history
       hint: null
       type: text
       options: []
       required: false
-    - id: 23
+    - id: 15
       name: medical_notes
-      label: medical_notes
+      label: Medical notes
       hint: null
       type: text
       options: []
       required: false
-    - id: 24
-      name: patient_info
-      label: patient_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
+    - id: 16
       name: specialty_selection
-      label: specialty_selection
+      label: Specialty selection
       hint: null
       type: select_one
       options:
@@ -238,4 +148,18 @@ inputSchema:
       - Nephrology
       - Pulmonology
       - Urology
+      required: false
+    - id: 17
+      name: patient_info
+      label: Patient info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_info_1
+      label: Patient info 1
+      hint: null
+      type: text
+      options: []
       required: false

@@ -11,20 +11,17 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: project_lead
-      label: Lead
+      name: lead_info
+      label: Lead Information
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Lead 1''}'
-      - '{''id'': 2, ''label'': ''Lead 2''}'
-      - '{''id'': 3, ''label'': ''Lead 3''}'
+      type: text
+      options: []
       required: false
     - id: 3
-      name: project_deadline
+      name: deadline
       label: Deadline
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 4
@@ -35,160 +32,68 @@ inputSchema:
       options: []
       required: false
     - id: 5
-      name: payment_terms_1
-      label: Payment Terms 1
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: payment_terms_2
-      label: Payment Terms 2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
       name: project_status
       label: Project Status
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''In Progress'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''On Hold'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Complete'', ''value'': 3}'
+      type: text
+      options: []
       required: false
-    - id: 8
+    - id: 6
       name: approval_details
       label: Approval Details
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: approval_lead
-      label: Lead
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Lead 1''}'
-      - '{''id'': 2, ''label'': ''Lead 2''}'
-      - '{''id'': 3, ''label'': ''Lead 3''}'
-      required: false
-    - id: 10
-      name: approval_deadline
-      label: Deadline
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: approval_status
-      label: Status
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Approved'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Pending'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Rejected'', ''value'': 3}'
-      required: false
-    - id: 12
-      name: approval_comments
-      label: Comments
+    - id: 7
+      name: agreement_details
+      label: Agreement Details
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: project_manager_comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
+    - id: 8
       name: agreement_terms
       label: Agreement Terms
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
-      name: terms_1
-      label: Term 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: terms_2
-      label: Term 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: terms_3
-      label: Term 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: terms_4
-      label: Term 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: agreement_status
-      label: Status
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Approved'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Rejected'', ''value'': 2}'
-      required: false
-    - id: 20
-      name: agreement_comments
+    - id: 9
+      name: project_manager_comments
       label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 21
-      name: agreement_deadline
-      label: Deadline
+    - id: 10
+      name: agreement_date
+      label: Agreement Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 22
-      name: agreement_terms_1
-      label: Term 1
+    - id: 11
+      name: agreement_status_1
+      label: Agreement Status 1
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
       hint: null
       type: text
       options: []
       required: false
-    - id: 23
-      name: agreement_terms_2
-      label: Term 2
+    - id: 13
+      name: signature_date
+      label: Date
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: agreement_terms_3
-      label: Term 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: agreement_terms_4
-      label: Term 4
-      hint: null
-      type: text
+      type: date
       options: []
       required: false

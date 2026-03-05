@@ -128,10 +128,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''John Doe''}'
-      - '{''id'': 2, ''name'': ''Jane Doe''}'
-      - '{''id'': 3, ''name'': ''Bob Smith''}'
-      - '{''id'': 4, ''name'': ''Alice Johnson''}'
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      - Alice Johnson
       required: false
     - id: 19
       name: interviewers_other
@@ -139,10 +139,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''John Doe''}'
-      - '{''id'': 2, ''name'': ''Jane Doe''}'
-      - '{''id'': 3, ''name'': ''Bob Smith''}'
-      - '{''id'': 4, ''name'': ''Alice Johnson''}'
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      - Alice Johnson
       required: false
     - id: 20
       name: job_type
@@ -150,9 +150,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Full-time''}'
-      - '{''id'': 2, ''name'': ''Part-time''}'
-      - '{''id'': 3, ''name'': ''Contract''}'
+      - Full-time
+      - Part-time
+      - Contract
       required: false
     - id: 21
       name: interview_notes
@@ -167,8 +167,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Available''}'
-      - '{''id'': 2, ''name'': ''Not Available''}'
+      - Available
+      - Not Available
       required: false
     - id: 23
       name: other

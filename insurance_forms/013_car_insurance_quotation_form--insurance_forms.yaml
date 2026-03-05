@@ -122,9 +122,9 @@ inputSchema:
       hint: How many vehicles to insure?
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
+      - '1'
+      - '2'
+      - '3'
       - 4 or more
       required: true
     - id: 17
@@ -212,9 +212,9 @@ inputSchema:
       hint: How many drivers?
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
+      - '1'
+      - '2'
+      - '3'
       - 4 or more
       required: true
     - id: 28
@@ -258,8 +258,8 @@ inputSchema:
       type: select_one
       options:
       - None
-      - 1
-      - 2
+      - '1'
+      - '2'
       - 3 or more
       required: true
     - id: 33
@@ -269,8 +269,8 @@ inputSchema:
       type: select_one
       options:
       - None
-      - 1
-      - 2
+      - '1'
+      - '2'
       - 3 or more
       required: true
     - id: 34
@@ -279,7 +279,7 @@ inputSchema:
       hint: Any DUI/DWI convictions?
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes - within 3 years
       - Yes - over 3 years ago
       required: true
@@ -289,8 +289,8 @@ inputSchema:
       hint: Any suspensions or revocations?
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 36
       name: current_insurance
@@ -305,8 +305,8 @@ inputSchema:
       hint: Do you have current insurance?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 38
       name: current_carrier
@@ -351,8 +351,8 @@ inputSchema:
       hint: Do you want collision coverage?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 43
@@ -361,8 +361,8 @@ inputSchema:
       hint: Do you want comprehensive coverage?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 44

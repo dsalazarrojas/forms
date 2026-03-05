@@ -5,35 +5,28 @@ inputSchema:
     pages:
     - id: 1
       name: first_name
-      label: first name
+      label: Patient's first name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: last_name
-      label: last name
+      label: Patient's last name
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: address
-      label: address
+      label: Address
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: city
-      label: city
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: state
-      label: state
+      label: State
       hint: null
       type: select_one
       options:
@@ -59,7 +52,6 @@ inputSchema:
       - MD
       - ME
       - MI
-      - MN
       - MO
       - MT
       - NE
@@ -89,16 +81,16 @@ inputSchema:
       - PR
       - US
       required: true
-    - id: 6
+    - id: 5
       name: zip_code
-      label: zip code
+      label: Zip code
       hint: null
       type: number
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: primary_insurance
-      label: primary insurance
+      label: Primary insurance
       hint: null
       type: select_multiple
       options:
@@ -108,131 +100,52 @@ inputSchema:
       - Cigna
       - Others
       required: false
-    - id: 8
+    - id: 7
       name: medical_condition
-      label: medical condition
+      label: Medical condition
       hint: null
       type: note
       options: []
       required: false
-    - id: 9
-      name: endodontist_recommended
-      label: endodontist recommended
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: true
-    - id: 10
+    - id: 8
       name: date_of_referral
-      label: date of referral
+      label: Date of referral
       hint: null
       type: date
       options: []
       required: true
-    - id: 11
+    - id: 9
       name: date_of_last_visit
-      label: date of last visit
+      label: Date of last visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_referral
+      label: Reason for referral
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: next_appointment
+      label: Next appointment
       hint: null
       type: date
       options: []
       required: false
     - id: 12
-      name: reason_for_referral
-      label: reason for referral
+      name: patient_signature
+      label: Patient signature
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: next_appointment
-      label: next appointment
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: patient_signature
-      label: patient signature
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
       name: doctor_signature
-      label: doctor signature
-      hint: signature of the dentist
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: dentist_name
-      label: dentist name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: date_of_referral
-      label: date of referral
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: date_of_last_visit
-      label: date of last visit
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: reason_for_referral
-      label: reason for referral
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: next_appointment
-      label: next appointment
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: patient_signature
-      label: patient signature
+      label: Doctor signature
       hint: null
       type: text
       options: []
       required: true
-    - id: 22
-      name: doctor_signature
-      label: doctor signature
-      hint: signature of the dentist
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: dentist_name
-      label: dentist name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: date_of_referral
-      label: date of referral
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: date_of_last_visit
-      label: date of last visit
-      hint: null
-      type: date
-      options: []
-      required: false

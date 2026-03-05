@@ -4,189 +4,98 @@ inputSchema:
     title: New Year's Marketing Campaign Evaluation Form
     pages:
     - id: 1
-      name: new_years_marketing_campaign_evaluation_form
-      label: New Year's Marketing Campaign Evaluation
+      name: primary_objective
+      label: What was the primary objective of the marketing campaign?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: marketing_campaign
-      label: Marketing Campaign
+      name: target_audience
+      label: Target audience
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Young Adults
+      - Middle Age
+      - Seniors
+      required: true
     - id: 3
-      name: campaign_name
-      label: Campaign Name
+      name: marketing_channels
+      label: Which marketing channels were used during the campaign?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Social Media
+      - Email Marketing
+      - TV Advertising
+      required: true
     - id: 4
-      name: campaign_duration
-      label: Campaign Duration
+      name: campaign_budget
+      label: Campaign budget
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: target_audience
-      label: Target Audience
+      name: campaign_results
+      label: Campaign results
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: target_audience
-      label: Target Audience
+      name: evaluation_criteria
+      label: Evaluation criteria
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Effectiveness
+      - Efficiency
+      - Credibility
+      required: true
     - id: 7
-      name: marketing_channel
-      label: Marketing Channel
+      name: evaluation_scale
+      label: Evaluation scale
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 1-10
+      - 1-5
+      - 1-2
+      required: true
     - id: 8
-      name: marketing_channel
-      label: Marketing Channel
+      name: date_start
+      label: Start date
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: date
+      options: []
+      required: true
     - id: 9
-      name: campaign_budget
-      label: Campaign Budget
+      name: date_end
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: campaign_duration
+      label: Campaign duration
       hint: null
       type: number
       options: []
-      required: false
-    - id: 10
-      name: campaign_budget
-      label: Campaign Budget
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 11
-      name: marketing_objectives
-      label: Marketing Objectives
+      name: evaluation_score
+      label: Evaluation score
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: marketing_objectives
-      label: Marketing Objectives
+      name: additional_comments
+      label: Additional comments
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 13
-      name: campaign_results
-      label: Campaign Results
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: campaign_results
-      label: Campaign Results
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: evaluation_criteria
-      label: Evaluation Criteria
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: evaluation_criteria
-      label: Evaluation Criteria
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: evaluation_scale
-      label: Evaluation Scale
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: evaluation_scale
-      label: Evaluation Scale
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: evaluation_score
-      label: Evaluation Score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: evaluation_score
-      label: Evaluation Score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: date_time
-      label: Date and Time
-      hint: null
-      type: time
       options: []
       required: false

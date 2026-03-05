@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 2
       name: service_outage_date
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''low'', ''label'': ''Low''}'
-      - '{''value'': ''medium'', ''label'': ''Medium''}'
-      - '{''value'': ''high'', ''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 5
       name: cause
@@ -49,8 +49,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: corrective_action_taken
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''JohnDoe'', ''label'': ''John Doe''}'
-      - '{''value'': ''JaneDoe'', ''label'': ''Jane Doe''}'
-      - '{''value'': ''JimmyDoe'', ''label'': ''Jimmy Doe''}'
+      - John Doe
+      - Jane Doe
+      - Jimmy Doe
       required: true
     - id: 9
       name: notes
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''JohnDoe'', ''label'': ''John Doe''}'
-      - '{''value'': ''JaneDoe'', ''label'': ''Jane Doe''}'
-      - '{''value'': ''JimmyDoe'', ''label'': ''Jimmy Doe''}'
+      - John Doe
+      - Jane Doe
+      - Jimmy Doe
       required: false
     - id: 11
       name: notes_2
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Service A'', ''label'': ''Service A''}'
-      - '{''value'': ''Service B'', ''label'': ''Service B''}'
-      - '{''value'': ''Service C'', ''label'': ''Service C''}'
+      - Service A
+      - Service B
+      - Service C
       required: true
     - id: 13
       name: service_type
@@ -109,8 +109,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''network'', ''label'': ''Network''}'
-      - '{''value'': ''system'', ''label'': ''System''}'
+      - Network
+      - System
       required: true
     - id: 14
       name: location
@@ -118,9 +118,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''location1'', ''label'': ''Location 1''}'
-      - '{''value'': ''location2'', ''label'': ''Location 2''}'
-      - '{''value'': ''location3'', ''label'': ''Location 3''}'
+      - Location 1
+      - Location 2
+      - Location 3
       required: true
     - id: 15
       name: duration
@@ -135,8 +135,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''once'', ''label'': ''Once''}'
-      - '{''value'': ''multiple'', ''label'': ''Multiple''}'
+      - Once
+      - Multiple
       required: true
     - id: 17
       name: recurrence
@@ -144,8 +144,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False, ''label'': False}'
-      - '{''value'': True, ''label'': True}'
+      - 'False'
+      - 'True'
       required: true
     - id: 18
       name: impact_type
@@ -153,8 +153,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''scheduled'', ''label'': ''Scheduled''}'
-      - '{''value'': ''unplanned'', ''label'': ''Unplanned''}'
+      - Scheduled
+      - Unplanned
       required: true
     - id: 19
       name: impact_description

@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Facebook''}'
-      - '{''id'': 2, ''label'': ''Twitter''}'
-      - '{''id'': 3, ''label'': ''Instagram''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Facebook
+      - Twitter
+      - Instagram
+      - Other
       required: false
     - id: 3
       name: social_media_preferred
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Instagram''}'
-      - '{''id'': 2, ''label'': ''Facebook''}'
-      - '{''id'': 3, ''label'': ''Twitter''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Instagram
+      - Facebook
+      - Twitter
+      - Other
       required: false
     - id: 4
       name: social_media_use_frequency
@@ -38,10 +38,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Rarely''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
       required: false
     - id: 5
       name: social_media_awareness
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 7
       name: social_media_goals
@@ -66,10 +66,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Increase followers''}'
-      - '{''id'': 2, ''label'': ''Engagement''}'
-      - '{''id'': 3, ''label'': ''Awareness''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Increase followers
+      - Engagement
+      - Awareness
+      - Other
       required: false
     - id: 8
       name: email
@@ -140,10 +140,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Facebook''}'
-      - '{''id'': 2, ''label'': ''Twitter''}'
-      - '{''id'': 3, ''label'': ''Instagram''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Facebook
+      - Twitter
+      - Instagram
+      - Other
       required: false
     - id: 18
       name: social_media_goals_goals
@@ -158,9 +158,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''To increase followers''}'
-      - '{''id'': 2, ''label'': ''To increase engagement''}'
-      - '{''id'': 3, ''label'': ''To create awareness''}'
+      - To increase followers
+      - To increase engagement
+      - To create awareness
       required: false
     - id: 20
       name: social_media_platforms_other
@@ -182,8 +182,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: phone_opt_in
@@ -191,8 +191,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: note_opt_in
@@ -200,8 +200,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: submission_date

@@ -4,186 +4,141 @@ inputSchema:
     title: Multi Jurisdictional NDA Agreement Form
     pages:
     - id: 1
-      name: legal_forms_nda_agreement_form_1
+      name: jurisdiction_selection
       label: Jurisdiction Selection
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Jurisdiction A
+      - Jurisdiction B
+      - Jurisdiction C
+      required: true
     - id: 2
-      name: legal_forms_nda_agreement_form_2
-      label: Jurisdiction
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: legal_forms_nda_agreement_form_3
-      label: Confidentiality
+      name: confidentiality_agreement
+      label: Confidentiality and Non-Disparagement Agreement
       hint: null
       type: text
       options: []
-      required: false
-    - id: 4
-      name: legal_forms_nda_agreement_form_4
-      label: Confidentiality
+      required: true
+    - id: 3
+      name: signer_information
+      label: Signer Information
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: signer_signature
+      label: Signer Signature and Date
+      hint: null
+      type: date
+      options: []
+      required: true
     - id: 5
-      name: legal_forms_nda_agreement_form_5
-      label: Jurisdiction
+      name: agreement_acceptance
+      label: Agreement Acceptance
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Accept
+      - Decline
+      required: true
     - id: 6
-      name: legal_forms_nda_agreement_form_6
-      label: Acceptance
+      name: date_and_time_stamp
+      label: Date and Time Stamp
       hint: null
       type: date
       options: []
       required: false
     - id: 7
-      name: legal_forms_nda_agreement_form_7
-      label: Signer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: legal_forms_nda_agreement_form_8
-      label: Signer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: legal_forms_nda_agreement_form_9
-      label: Signer
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 10
-      name: legal_forms_nda_agreement_form_10
-      label: Signer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: legal_forms_nda_agreement_form_11
-      label: Signer
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: legal_forms_nda_agreement_form_12
-      label: Signer
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: legal_forms_nda_agreement_form_13
-      label: Signer
+      name: signer_verification
+      label: Signer Verification
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: legal_forms_nda_agreement_form_14
-      label: Signer
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: legal_forms_nda_agreement_form_15
-      label: Date
+      - Individual
+      - Organization
+      required: true
+    - id: 8
+      name: agreement_expiration
+      label: Agreement Expiration
       hint: null
       type: date
       options: []
       required: false
-    - id: 16
-      name: legal_forms_nda_agreement_form_16
-      label: Time
+    - id: 9
+      name: termination
+      label: Termination
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - 30 Days
+      - 60 Days
+      required: true
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: signer_note
+      label: Signer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agreement_version
+      label: Agreement Version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: signer_agreement
+      label: Signer Agreement
+      hint: null
+      type: radio
+      options:
+      - Agree
+      - Decline
+      required: true
+    - id: 14
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: termination_time
+      label: Termination Time
       hint: null
       type: time
       options: []
       required: false
+    - id: 16
+      name: termination_note
+      label: Termination Note
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 17
-      name: legal_forms_nda_agreement_form_17
-      label: Signer
+      name: signer_confirmation
+      label: Signer Confirmation
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 18
-      name: legal_forms_nda_agreement_form_18
-      label: Signer
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: legal_forms_nda_agreement_form_19
-      label: Signer
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: legal_forms_nda_agreement_form_20
-      label: Signer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: legal_forms_nda_agreement_form_21
-      label: Signer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: legal_forms_nda_agreement_form_22
-      label: Signer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: legal_forms_nda_agreement_form_23
-      label: Signer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: legal_forms_nda_agreement_form_24
-      label: Signer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: legal_forms_nda_agreement_form_25
-      label: Signer
+      name: agreement_revision
+      label: Agreement Revision
       hint: null
       type: text
       options: []

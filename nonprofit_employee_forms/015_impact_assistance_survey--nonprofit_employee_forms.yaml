@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Negative''}'
-      - '{''label'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: false
     - id: 3
       name: program_outcome
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Negative''}'
-      - '{''label'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: false
     - id: 4
       name: participant_satisfaction
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 6
       name: participant_satisfaction_rating_range
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 9
       name: participant_recommendation
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: participant_comments
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 12
       name: aid_outcome_rating_range
@@ -103,15 +103,15 @@ inputSchema:
       options: []
       required: false
     - id: 13
-      name: aid_outcome_rating
-      label: Aid Outcome Rating
+      name: aid_outcome_rating_2
+      label: Aid Outcome Rating 2
       hint: null
       type: number
       options: []
       required: false
     - id: 14
-      name: aid_outcome_rating_range
-      label: Aid Outcome Rating Range
+      name: aid_outcome_rating_range_2
+      label: Aid Outcome Rating Range 2
       hint: null
       type: number
       options: []
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Negative''}'
-      - '{''label'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: false
     - id: 17
       name: participant_outcome_rating
@@ -139,8 +139,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 18
       name: participant_outcome_rating_range
@@ -150,15 +150,15 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: participant_outcome_rating
-      label: Participant Outcome Rating
+      name: participant_outcome_rating_2
+      label: Participant Outcome Rating 2
       hint: null
       type: number
       options: []
       required: false
     - id: 20
-      name: participant_outcome_rating_range
-      label: Participant Outcome Rating Range
+      name: participant_outcome_rating_range_2
+      label: Participant Outcome Rating Range 2
       hint: null
       type: number
       options: []
@@ -176,9 +176,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Negative''}'
-      - '{''label'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: false
     - id: 23
       name: nonparticipant_outcome_rating
@@ -186,8 +186,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 24
       name: nonparticipant_outcome_rating_range
@@ -197,8 +197,8 @@ inputSchema:
       options: []
       required: false
     - id: 25
-      name: nonparticipant_outcome_rating
-      label: Non-Participant Outcome Rating
+      name: nonparticipant_outcome_rating_2
+      label: Nonparticipant Outcome Rating 2
       hint: null
       type: number
       options: []

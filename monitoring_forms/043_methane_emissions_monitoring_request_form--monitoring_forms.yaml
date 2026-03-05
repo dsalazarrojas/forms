@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monitoring Forms''}'
-      - '{''id'': 2, ''label'': ''Other Forms''}'
+      - Monitoring Forms
+      - Other Forms
       required: false
     - id: 3
       name: form_description
@@ -67,14 +67,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Quarterly''}'
-      - '{''id'': 5, ''label'': ''Bi-Quarterly''}'
-      - '{''id'': 6, ''label'': ''Semi-Annual''}'
-      - '{''id'': 7, ''label'': ''Annually''}'
-      - '{''id'': 8, ''label'': ''Other (please specify)''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-Quarterly
+      - Semi-Annual
+      - Annually
+      - Other (please specify)
       required: false
     - id: 10
       name: visit_start_date
@@ -166,9 +166,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Pending''}'
-      - '{''id'': 2, ''label'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Completed''}'
+      - Pending
+      - In Progress
+      - Completed
       required: false
     - id: 23
       name: site_visit_scheduled_date

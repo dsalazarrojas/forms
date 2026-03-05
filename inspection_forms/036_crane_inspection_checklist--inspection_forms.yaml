@@ -5,91 +5,133 @@ inputSchema:
     pages:
     - id: 1
       name: crane_inspection_checklist_1
-      label: crane_inspection_checklist_1
+      label: Crane Inspection Checklist Title
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: crane_inspection_checklist_2
-      label: checklist_items
+      label: Inspection Checklist for Crane Model
       hint: null
-      type: select_multiple
-      options:
-      - item_1
-      - item_2
-      - item_3
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 3
       name: crane_inspection_checklist_3
-      label: inspection_frequency
+      label: Inspection Checklist for Crane Type
       hint: null
-      type: number
+      type: text
       options: []
       required: true
     - id: 4
       name: crane_inspection_checklist_4
-      label: inspection_status
+      label: Inspection Checklist for Crane Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: crane_inspection_checklist_5
+      label: What is the current inspection status?
       hint: null
       type: select_one
       options:
-      - passed
-      - failed
-      - pending
-      required: false
-    - id: 5
-      name: crane_inspection_checklist_5
-      label: inspection_date
+      - Passed
+      - Failed
+      - Pending
+      required: true
+    - id: 6
+      name: crane_inspection_checklist_6
+      label: What is the last inspection date?
       hint: null
       type: date
       options: []
       required: true
-    - id: 6
-      name: crane_inspection_checklist_6
-      label: inspection_by
+    - id: 7
+      name: crane_inspection_checklist_7
+      label: Who performed the last inspection?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
-      name: crane_inspection_checklist_7
-      label: notes
+      required: true
+    - id: 8
+      name: crane_inspection_checklist_8
+      label: Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 8
-      name: crane_inspection_checklist_8
-      label: crane_model
+    - id: 9
+      name: crane_inspection_checklist_9
+      label: Crane Model
       hint: null
       type: text
       options: []
       required: true
-    - id: 9
-      name: crane_inspection_checklist_9
-      label: manufacturer
+    - id: 10
+      name: crane_inspection_checklist_10
+      label: Manufacturer
       hint: null
       type: text
       options: []
-      required: false
-    - id: 10
-      name: crane_inspection_checklist_10
-      label: inspection_frequency
+      required: true
+    - id: 11
+      name: crane_inspection_checklist_11
+      label: Inspection Frequency
       hint: null
       type: number
       options: []
+      required: true
+    - id: 12
+      name: crane_inspection_checklist_12
+      label: Crane Inspection Checklist 12
+      hint: null
+      type: note
+      options: []
       required: false
-    - id: 11
-      name: crane_inspection_checklist_11
-      label: inspection_date
+    - id: 13
+      name: crane_inspection_checklist_13
+      label: Last Inspection Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 12
-      name: crane_inspection_checklist_12
-      label: inspection_by
+      required: true
+    - id: 14
+      name: crane_inspection_checklist_14
+      label: Last Inspected By
       hint: null
       type: text
       options: []
+      required: true
+    - id: 15
+      name: crane_inspection_checklist_15
+      label: Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - Annual
+      - Periodic
+      - Special
+      required: true
+    - id: 16
+      name: crane_inspection_checklist_16
+      label: Crane Inspection Checklist 16
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: crane_inspection_checklist_17
+      label: Crane Inspection Checklist 17
+      hint: null
+      type: note
+      options: []
       required: false
+    - id: 18
+      name: crane_inspection_checklist_18
+      label: Last Inspection Frequency
+      hint: null
+      type: number
+      options: []
+      required: true

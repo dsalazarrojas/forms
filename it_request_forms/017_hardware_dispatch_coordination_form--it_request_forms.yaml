@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''IT Request Forms''}'
-      - '{''label'': ''Other''}'
+      - IT Request Forms
+      - Other
       required: true
     - id: 3
       name: description
@@ -39,11 +39,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Scheduled''}'
-      - '{''label'': ''Delivered''}'
-      - '{''label'': ''Canceled''}'
-      - '{''label'': ''Returned''}'
-      - '{''label'': ''Unknown''}'
+      - Scheduled
+      - Delivered
+      - Canceled
+      - Returned
+      - Unknown
       required: true
     - id: 6
       name: assigned_tool
@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''chatjimmy''}'
-      - '{''label'': ''other''}'
+      - chatjimmy
+      - other
       required: true
     - id: 7
       name: form_id

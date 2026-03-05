@@ -1,91 +1,80 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Business Integration Planning Request Form
     pages:
-      - id: 1
-        name: header
-        label: -- Integration Planning Request --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: requester_name
-        label: Requester name
-        hint: Person requesting planning support
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: department
-        label: Department
-        hint: Department or team
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: contact_email
-        label: Contact email
-        hint: For scheduling and clarifications
-        type: email
-        options: []
-        required: true
-      - id: 5
-        name: systems_involved
-        label: Systems involved
-        hint: List systems to be integrated
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: strategic_goals
-        label: Strategic goals
-        hint: High level goals for integration
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: expected_timeline
-        label: Expected timeline
-        hint: Estimated timeline in weeks or months
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: budget_approval
-        label: Budget approval
-        hint: Has budget been approved for this work
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 9
-        name: priority_level
-        label: Priority level
-        hint: Indicate urgency of the request
-        type: select_one
-        options:
-          - Low
-          - Medium
-          - High
-        required: true
-      - id: 10
-        name: additional_notes
-        label: Additional notes
-        hint: Any other relevant information
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: header
+      label: -- Integration Planning Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Person requesting planning support
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Department or team
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For scheduling and clarifications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: systems_involved
+      label: Systems involved
+      hint: List systems to be integrated
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: strategic_goals
+      label: Strategic goals
+      hint: High level goals for integration
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expected_timeline
+      label: Expected timeline
+      hint: Estimated timeline in weeks or months
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: budget_approval
+      label: Budget approval
+      hint: Has budget been approved for this work
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: priority_level
+      label: Priority level
+      hint: Indicate urgency of the request
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

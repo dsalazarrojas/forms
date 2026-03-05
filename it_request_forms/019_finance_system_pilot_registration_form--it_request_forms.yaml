@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''system 1''}'
-      - '{''label'': ''system 2''}'
-      - '{''label'': ''system 3''}'
+      - system 1
+      - system 2
+      - system 3
       required: false
     - id: 5
       name: consent_given
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: email

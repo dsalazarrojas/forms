@@ -16,7 +16,7 @@ inputSchema:
       hint: null
       type: number
       options: []
-      required: true
+      required: false
     - id: 3
       name: design_quality
       label: Design Quality
@@ -27,7 +27,7 @@ inputSchema:
       - Good
       - Fair
       - Poor
-      required: true
+      required: false
     - id: 4
       name: manufacturability
       label: Manufacturability
@@ -38,7 +38,7 @@ inputSchema:
       - Medium
       - Low
       - Not Applicable
-      required: true
+      required: false
     - id: 5
       name: manufacturability_comments
       label: Manufacturability Comments
@@ -47,45 +47,13 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: manufacturability_attachment
-      label: Manufacturability Attachment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: durability
-      label: Durability
-      hint: null
-      type: select_multiple
-      options:
-      - Very Good
-      - Good
-      - Fair
-      - Poor
-      required: true
-    - id: 8
-      name: manufacturability_attachment
-      label: Manufacturability Attachment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
       name: assembly
       label: Assembly
       hint: null
       type: number
       options: []
-      required: true
-    - id: 10
-      name: manufacturability_attachment
-      label: Manufacturability Attachment
-      hint: null
-      type: text
-      options: []
       required: false
-    - id: 11
+    - id: 7
       name: reliability
       label: Reliability
       hint: null
@@ -95,15 +63,8 @@ inputSchema:
       - Medium
       - Low
       - Not Applicable
-      required: true
-    - id: 12
-      name: manufacturability_attachment
-      label: Manufacturability Attachment
-      hint: null
-      type: text
-      options: []
       required: false
-    - id: 13
+    - id: 8
       name: maintainability
       label: Maintainability
       hint: null
@@ -113,29 +74,8 @@ inputSchema:
       - Medium
       - Low
       - Not Applicable
-      required: true
-    - id: 14
-      name: manufacturability_attachment
-      label: Manufacturability Attachment
-      hint: null
-      type: text
-      options: []
       required: false
-    - id: 15
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: manufacturability_attachment
-      label: Manufacturability Attachment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
+    - id: 9
       name: overall_satisfaction
       label: Overall Satisfaction
       hint: null
@@ -146,14 +86,7 @@ inputSchema:
       - Low
       - Not Applicable
       required: false
-    - id: 18
-      name: manufacturability_attachment
-      label: Manufacturability Attachment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
+    - id: 10
       name: design_forces
       label: Design Forces
       hint: null
@@ -163,45 +96,31 @@ inputSchema:
       - Medium
       - Low
       - Not Applicable
-      required: true
-    - id: 20
-      name: manufacturability_attachment
-      label: Manufacturability Attachment
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 21
-      name: manufacturability_attachment
-      label: Manufacturability Attachment
+    - id: 12
+      name: attachment_design
+      label: Attachment (Design)
       hint: null
       type: text
       options: []
       required: false
-    - id: 22
-      name: manufacturability_attachment
-      label: Manufacturability Attachment
+    - id: 13
+      name: attachment_assembly
+      label: Attachment (Assembly)
       hint: null
       type: text
       options: []
       required: false
-    - id: 23
-      name: manufacturability_attachment
-      label: Manufacturability Attachment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: manufacturability_attachment
-      label: Manufacturability Attachment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: manufacturability_attachment
-      label: Manufacturability Attachment
+    - id: 14
+      name: attachment_reliability
+      label: Attachment (Reliability)
       hint: null
       type: text
       options: []

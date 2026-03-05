@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Annual''}'
+      - Monthly
+      - Quarterly
+      - Annual
       required: true
     - id: 6
       name: payment_method
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Credit Card''}'
-      - '{''label'': ''Bank Transfer''}'
+      - Credit Card
+      - Bank Transfer
       required: true
     - id: 7
       name: payment_schedule
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: true
     - id: 9
       name: payment_amount
@@ -136,8 +136,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: true
     - id: 19
       name: membership_status
@@ -145,9 +145,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Cancelled''}'
+      - Active
+      - Pending
+      - Cancelled
       required: true
     - id: 20
       name: notes

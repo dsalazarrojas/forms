@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''active'', ''label'': ''Active''}'
-      - '{''id'': ''inactive'', ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: true
     - id: 3
       name: owner_id
@@ -25,8 +25,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Alice''}'
-      - '{''id'': 2, ''label'': ''Bob''}'
+      - Alice
+      - Bob
       required: true
     - id: 4
       name: key_deliverables
@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John''}'
-      - '{''id'': 2, ''label'': ''Jane''}'
+      - John
+      - Jane
       required: false
     - id: 7
       name: date
@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: manager_approval
@@ -136,8 +136,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: team_approval
@@ -145,8 +145,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: comments

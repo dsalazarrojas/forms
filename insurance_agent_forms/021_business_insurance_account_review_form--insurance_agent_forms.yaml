@@ -55,8 +55,8 @@ inputSchema:
       hint: Has anything changed materially since last review
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: suggested_adjustments
@@ -71,8 +71,8 @@ inputSchema:
       hint: Should an agent reach out for next steps
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: agent_notes

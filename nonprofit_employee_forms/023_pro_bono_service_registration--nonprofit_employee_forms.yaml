@@ -4,41 +4,34 @@ inputSchema:
     title: Pro Bono Service Registration
     pages:
     - id: 1
-      name: form_data
-      label: Pro Bono Service Registration
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: organization
       label: Organization
       hint: null
       type: text
       options: []
-      required: false
-    - id: 3
+      required: true
+    - id: 2
       name: name
       label: Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 4
+      required: true
+    - id: 3
       name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: service_type
       label: Service Type
       hint: null
@@ -46,43 +39,43 @@ inputSchema:
       options:
       - Service 1
       - Service 2
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: service_request_date
       label: Service Request Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: service_request_time
       label: Service Request Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 8
       name: followup_date
       label: Follow-up Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 9
       name: followup_time
       label: Follow-up Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 10
       name: description
       label: Description
       hint: null
       type: note
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 11
       name: assigned_tool
       label: Assigned Tool
       hint: null
@@ -90,8 +83,8 @@ inputSchema:
       options:
       - Tool 1
       - Tool 2
-      required: false
-    - id: 13
+      required: true
+    - id: 12
       name: status
       label: Status
       hint: null
@@ -99,8 +92,8 @@ inputSchema:
       options:
       - Active
       - Inactive
-      required: false
-    - id: 14
+      required: true
+    - id: 13
       name: category
       label: Category
       hint: null
@@ -108,8 +101,8 @@ inputSchema:
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 15
+      required: true
+    - id: 14
       name: subcategory
       label: Subcategory
       hint: null
@@ -117,73 +110,31 @@ inputSchema:
       options:
       - 'Yes'
       - 'No'
+      required: true
+    - id: 15
+      name: tags
+      label: Service Tags
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 16
-      name: tags
-      label: Tags
+      name: tags_2
+      label: Location
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: tags_2
-      label: Tags
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
       name: tags_3
       label: Tags
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
+    - id: 18
       name: tags_4
-      label: Tags
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: tags_5
-      label: Tags
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: tags_6
-      label: Tags
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: tags_7
-      label: Tags
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: tags_8
-      label: Tags
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: tags_9
-      label: Tags
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: tags_10
-      label: Tags
+      label: Tags 4
       hint: null
       type: text
       options: []

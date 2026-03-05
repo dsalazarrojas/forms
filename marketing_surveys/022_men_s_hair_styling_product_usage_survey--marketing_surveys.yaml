@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Never''}'
-      - '{''value'': 2, ''label'': ''Less than 1 time a week''}'
-      - '{''value'': 3, ''label'': ''1 time a week''}'
-      - '{''value'': 4, ''label'': ''2-3 times a week''}'
-      - '{''value'': 5, ''label'': ''Daily''}'
+      - Never
+      - Less than 1 time a week
+      - 1 time a week
+      - 2-3 times a week
+      - Daily
       required: false
     - id: 3
       name: grooming_preferences
@@ -28,11 +28,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Clean shaven''}'
-      - '{''value'': 2, ''label'': ''Light hold''}'
-      - '{''value'': 3, ''label'': ''Medium hold''}'
-      - '{''value'': 4, ''label'': ''Heavy hold''}'
-      - '{''value'': 5, ''label'': ''Other''}'
+      - Clean shaven
+      - Light hold
+      - Medium hold
+      - Heavy hold
+      - Other
       required: false
     - id: 4
       name: hair_type
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Straight''}'
-      - '{''value'': 2, ''label'': ''Curly''}'
-      - '{''value'': 3, ''label'': ''Wavy''}'
-      - '{''value'': 4, ''label'': ''Other''}'
+      - Straight
+      - Curly
+      - Wavy
+      - Other
       required: false
     - id: 5
       name: age
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''English''}'
-      - '{''value'': 2, ''label'': ''Spanish''}'
-      - '{''value'': 3, ''label'': ''French''}'
+      - English
+      - Spanish
+      - French
       required: false
     - id: 9
       name: preferred_contact_channel
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Email''}'
-      - '{''value'': 2, ''label'': ''Phone''}'
-      - '{''value'': 3, ''label'': ''In-app''}'
+      - Email
+      - Phone
+      - In-app
       required: false
     - id: 10
       name: hair_texture
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Thick''}'
-      - '{''value'': 2, ''label'': ''Thin''}'
-      - '{''value'': 3, ''label'': ''Other''}'
+      - Thick
+      - Thin
+      - Other
       required: false
     - id: 11
       name: hair_color
@@ -102,11 +102,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Black''}'
-      - '{''value'': 2, ''label'': ''Blonde''}'
-      - '{''value'': 3, ''label'': ''Brown''}'
-      - '{''value'': 4, ''label'': ''Red''}'
-      - '{''value'': 5, ''label'': ''Other''}'
+      - Black
+      - Blonde
+      - Brown
+      - Red
+      - Other
       required: false
     - id: 12
       name: face_shape
@@ -114,11 +114,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Oval''}'
-      - '{''value'': 2, ''label'': ''Round''}'
-      - '{''value'': 3, ''label'': ''Heart''}'
-      - '{''value'': 4, ''label'': ''Square''}'
-      - '{''value'': 5, ''label'': ''Other''}'
+      - Oval
+      - Round
+      - Heart
+      - Square
+      - Other
       required: false
     - id: 13
       name: beard_length
@@ -133,10 +133,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''None''}'
-      - '{''value'': 2, ''label'': ''Little''}'
-      - '{''value'': 3, ''label'': ''Medium''}'
-      - '{''value'': 4, ''label'': ''Full''}'
+      - None
+      - Little
+      - Medium
+      - Full
       required: false
     - id: 15
       name: preferred_beard_style
@@ -144,10 +144,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''None''}'
-      - '{''value'': 2, ''label'': ''Short''}'
-      - '{''value'': 3, ''label'': ''Medium''}'
-      - '{''value'': 4, ''label'': ''Full''}'
+      - None
+      - Short
+      - Medium
+      - Full
       required: false
     - id: 16
       name: beard_frequency
@@ -155,11 +155,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Never''}'
-      - '{''value'': 2, ''label'': ''Less than 1 time a week''}'
-      - '{''value'': 3, ''label'': ''1 time a week''}'
-      - '{''value'': 4, ''label'': ''2-3 times a week''}'
-      - '{''value'': 5, ''label'': ''Daily''}'
+      - Never
+      - Less than 1 time a week
+      - 1 time a week
+      - 2-3 times a week
+      - Daily
       required: false
     - id: 17
       name: hair_maintenance_frequency
@@ -167,11 +167,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Never''}'
-      - '{''value'': 2, ''label'': ''Less than 1 time a week''}'
-      - '{''value'': 3, ''label'': ''1 time a week''}'
-      - '{''value'': 4, ''label'': ''2-3 times a week''}'
-      - '{''value'': 5, ''label'': ''Daily''}'
+      - Never
+      - Less than 1 time a week
+      - 1 time a week
+      - 2-3 times a week
+      - Daily
       required: false
     - id: 18
       name: beard_maintenance_frequency
@@ -179,9 +179,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Never''}'
-      - '{''value'': 2, ''label'': ''Less than 1 time a week''}'
-      - '{''value'': 3, ''label'': ''1 time a week''}'
-      - '{''value'': 4, ''label'': ''2-3 times a week''}'
-      - '{''value'': 5, ''label'': ''Daily''}'
+      - Never
+      - Less than 1 time a week
+      - 1 time a week
+      - 2-3 times a week
+      - Daily
       required: false

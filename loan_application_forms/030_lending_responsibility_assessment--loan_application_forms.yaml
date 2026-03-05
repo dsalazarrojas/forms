@@ -16,15 +16,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Employed''}'
-      - '{''value'': ''Unemployed''}'
-      - '{''value'': ''Retired''}'
-      - '{''value'': ''Disabled''}'
-      - '{''value'': ''Student''}'
-      - '{''value'': ''Homemaker''}'
-      - '{''value'': ''Self-Employed''}'
-      - '{''value'': ''Other''}'
-      - '{''value'': ''Prefer not to disclose''}'
+      - Employed
+      - Unemployed
+      - Retired
+      - Disabled
+      - Student
+      - Homemaker
+      - Self-Employed
+      - Other
+      - Prefer not to disclose
       required: false
     - id: 3
       name: annual_income
@@ -46,11 +46,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Rent or mortgage''}'
-      - '{''value'': ''Utilities''}'
-      - '{''value'': ''Food''}'
-      - '{''value'': ''Transportation''}'
-      - '{''value'': ''Other''}'
+      - Rent or mortgage
+      - Utilities
+      - Food
+      - Transportation
+      - Other
       required: false
     - id: 6
       name: credit_score
@@ -58,11 +58,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Excellent''}'
-      - '{''value'': ''Good''}'
-      - '{''value'': ''Fair''}'
-      - '{''value'': ''Poor''}'
-      - '{''value'': ''No Credit Check''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - No Credit Check
       required: false
     - id: 7
       name: income_verification
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: employment_verification
@@ -79,6 +79,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false

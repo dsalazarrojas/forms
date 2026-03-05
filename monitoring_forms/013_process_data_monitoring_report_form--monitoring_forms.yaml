@@ -5,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: process_data_monitoring_report_form_1
-      label: Process Data
+      label: Process Data Monitoring
       hint: null
       type: select_multiple
       options:
@@ -16,8 +16,10 @@ inputSchema:
       name: process_data_monitoring_report_form_2
       label: Performance Monitoring
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: true
     - id: 3
       name: process_data_monitoring_report_form_3
@@ -41,7 +43,7 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: process_data_monitoring_report_form_6
       label: Date
@@ -55,24 +57,28 @@ inputSchema:
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 8
       name: process_data_monitoring_report_form_8
-      label: Review Date
+      label: Category
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 9
       name: process_data_monitoring_report_form_9
-      label: Review Time
+      label: Sub Category
       hint: null
-      type: time
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 10
       name: process_data_monitoring_report_form_10
-      label: Category
+      label: Report Type
       hint: null
       type: select_one
       options:
@@ -81,126 +87,36 @@ inputSchema:
       required: true
     - id: 11
       name: process_data_monitoring_report_form_11
-      label: Sub Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: process_data_monitoring_report_form_12
-      label: Report Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 13
-      name: process_data_monitoring_report_form_13
       label: Report Date
       hint: null
       type: date
       options: []
       required: true
-    - id: 14
-      name: process_data_monitoring_report_form_14
+    - id: 12
+      name: process_data_monitoring_report_form_12
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 15
-      name: process_data_monitoring_report_form_15
+      required: true
+    - id: 13
+      name: process_data_monitoring_report_form_13
       label: Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 16
-      name: process_data_monitoring_report_form_16
+      required: true
+    - id: 14
+      name: process_data_monitoring_report_form_14
       label: File
       hint: null
       type: text
       options: []
-      required: false
-    - id: 17
-      name: process_data_monitoring_report_form_17
+      required: true
+    - id: 15
+      name: process_data_monitoring_report_form_15
       label: Note
       hint: null
       type: note
       options: []
-      required: false
-    - id: 18
-      name: process_data_monitoring_report_form_18
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: process_data_monitoring_report_form_19
-      label: Sub Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: process_data_monitoring_report_form_20
-      label: Report Type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: process_data_monitoring_report_form_21
-      label: Review Date
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: process_data_monitoring_report_form_22
-      label: Review Time
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: process_data_monitoring_report_form_23
-      label: Report Date
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: process_data_monitoring_report_form_24
-      label: Email
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: process_data_monitoring_report_form_25
-      label: Phone
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

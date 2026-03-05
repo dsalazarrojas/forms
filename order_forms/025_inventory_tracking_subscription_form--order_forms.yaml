@@ -12,191 +12,136 @@ inputSchema:
       required: false
     - id: 2
       name: stock_item_description
-      label: stock_item_description
+      label: Description
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: quantity
-      label: Quantity
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: reorder_level
-      label: Reorder Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: last_ordered
-      label: Last Ordered
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: next_ordered
-      label: Next Ordered
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
       name: vendor_id
       label: Vendor ID
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
+    - id: 4
       name: vendor_name
       label: Vendor
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
+    - id: 5
       name: vendor_email
       label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 10
+    - id: 6
       name: vendor_phone
       label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
+    - id: 7
       name: stock_level
       label: Stock Level
       hint: null
       type: number
       options: []
       required: false
-    - id: 12
-      name: stock_status
-      label: Stock Status
+    - id: 8
+      name: stock_status_active
+      label: Active/Inactive
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
+      required: false
+    - id: 9
+      name: stock_status_inactive
+      label: Status (Active/Inactive)
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: last_ordered
+      label: Last Ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: next_ordered
+      label: Next Ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reorder_level
+      label: Reorder Level
+      hint: null
+      type: number
+      options: []
       required: false
     - id: 13
       name: stock_status
       label: Stock Status
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Active
-      - Inactive
+      - High
+      - Low
       required: false
     - id: 14
-      name: stock_status
-      label: Stock Status
+      name: stock_status2
+      label: Stock Status2
       hint: null
       type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 15
+      name: stock_level_active
+      label: Stock Level Active
+      hint: null
+      type: select_multiple
       options:
       - Active
       - Inactive
       required: false
-    - id: 15
-      name: stock_level
-      label: Stock Level
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 16
-      name: stock_level
-      label: Stock Level
+      name: stock_level_low
+      label: Stock Level Low
       hint: null
       type: select_multiple
       options:
-      - High
       - Low
+      - High
       required: false
     - id: 17
-      name: stock_item
-      label: Stock Item
+      name: stock_item_low
+      label: Stock Item Low
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Low
+      - High
       required: false
     - id: 18
-      name: prophets
-      label: Prophets
+      name: stock_item_active
+      label: Stock Item Active
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: stock_level
-      label: Stock Level
-      hint: null
-      type: select_multiple
+      type: select_one
       options:
       - High
       - Low
-      required: false
-    - id: 20
-      name: stock_item
-      label: Stock Item
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: stock_item
-      label: Stock Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: stock_item
-      label: Stock Item
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: stock_item
-      label: Stock Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: stock_item
-      label: Stock Item
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: stock_item
-      label: Stock Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

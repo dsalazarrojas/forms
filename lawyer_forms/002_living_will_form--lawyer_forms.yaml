@@ -4,188 +4,177 @@ inputSchema:
     title: Living Will Form
     pages:
     - id: 1
-      name: test_page
-      label: test
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: beneficiary_name
-      label: beneficiary_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: asset_value
-      label: asset_value
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: inheritance_share
-      label: inheritance_share
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: asset_type
-      label: asset_type
-      hint: null
+      name: assets
+      label: What are your assets (e.g., properties, investments, insurance policies,
+        etc.)?
+      hint: List all assets
       type: select_multiple
       options:
       - Asset A
       - Asset B
       - Asset C
-      required: false
-    - id: 6
-      name: distribution_percentage
-      label: distribution_percentage
-      hint: null
+      required: true
+    - id: 2
+      name: distribution
+      label: How would you like your assets to be distributed among beneficiaries?
+      hint: e.g., 25%, 50%, 75%
       type: select_one
       options:
-      - '25'
-      - '50'
-      - '75'
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 3
+      name: beneficiary_name
+      label: Please confirm the names of your beneficiaries.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: executor_email
+      label: What is your email address for executor contact?
+      hint: e.g., example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: executor_phone
+      label: What is your phone number for executor contact?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assets_owed
+      label: How much do you owe to others (e.g., loans, debts, etc.)?
+      hint: null
+      type: number
+      options: []
       required: true
     - id: 7
+      name: executor_name
+      label: Please confirm your executor's name.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: distribution_percentage
+      label: What is the percentage of assets you would like to leave for others?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
       name: assets_owned
-      label: assets_owned
+      label: Confirm the assets you would like to leave for your loved ones.
       hint: null
       type: select_multiple
       options:
       - Asset D
       - Asset E
       - Asset F
-      required: false
-    - id: 8
-      name: assets_left
-      label: assets_left
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: assets_left_hint
-      label: assets_left_hint
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 10
-      name: executor_name
-      label: executor_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: executor_email
-      label: executor_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: executor_phone
-      label: executor_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: assets_owed
-      label: assets_owed
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: assets_owed_hint
-      label: assets_owed_hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: asset_value_hint
-      label: asset_value_hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: distribution_percentage_hint
-      label: distribution_percentage_hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: assets_owned_hint
-      label: assets_owned_hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: assets_left_hint
-      label: assets_left_hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: executor_name_hint
-      label: executor_name_hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: executor_email_hint
-      label: executor_email_hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: executor_phone_hint
-      label: executor_phone_hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: assets_owed_hint
-      label: assets_owed_hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: assets_owed_hint
-      label: assets_owed_hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
       name: assets_owned_2
-      label: assets_owned_2
+      label: Confirm the assets you would like to leave for your loved ones (2).
       hint: null
       type: select_multiple
       options:
       - Asset G
       - Asset H
       - Asset I
+      required: true
+    - id: 11
+      name: executor_email2
+      label: What is the email of your executor?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: executor_phone2
+      label: What is the phone number of your executor?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: assets_left
+      label: Please confirm the assets you have left behind.
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: assets_left_hint
+      label: Assets Left Hint
+      hint: null
+      type: text
+      options: []
       required: false
-    - id: 25
+    - id: 15
+      name: assets_owned_hint
+      label: Assets Owned Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assets_owed_hint
+      label: Assets Owed Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: executor_name_hint
+      label: Executor Name Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: executor_phone_hint
+      label: Executor Phone Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: executor_email_hint
+      label: Executor Email Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assets_owed_2
+      label: Assets Owed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: assets_owed_hint_2
+      label: Assets Owed Hint 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assets_owned_2_2
+      label: Assets Owned 2
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 23
       name: assets_owned_2_hint
-      label: assets_owned_2_hint
+      label: Assets Owned 2 Hint
       hint: null
       type: text
       options: []

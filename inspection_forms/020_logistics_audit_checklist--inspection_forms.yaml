@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: Check the condition of equipment
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Good''}'
-      - '{''id'': 2, ''text'': ''Fair''}'
-      - '{''id'': 3, ''text'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 3
       name: storage_area_clutter
@@ -37,8 +26,8 @@ inputSchema:
       hint: Is the storage area cluttered?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: delivery_schedules
@@ -46,8 +35,8 @@ inputSchema:
       hint: Are delivery schedules up to date?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''On Time''}'
-      - '{''id'': 2, ''text'': ''Behind Schedule''}'
+      - On Time
+      - Behind Schedule
       required: false
     - id: 5
       name: warehouse_layout
@@ -55,8 +44,8 @@ inputSchema:
       hint: Is the warehouse layout well organized?
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: inventory_management
@@ -64,8 +53,8 @@ inputSchema:
       hint: Is inventory management accurate?
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: facility_condition
@@ -73,8 +62,8 @@ inputSchema:
       hint: Is the facility in good condition?
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: personnel_compliance
@@ -82,8 +71,8 @@ inputSchema:
       hint: Are personnel following safety protocols?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: safety_equipment
@@ -91,8 +80,8 @@ inputSchema:
       hint: Are safety equipment available and in good condition?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: fire_procedure
@@ -100,8 +89,8 @@ inputSchema:
       hint: Is a fire procedure established?
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: emergency_equipment
@@ -109,8 +98,8 @@ inputSchema:
       hint: Are emergency equipment available and in good condition?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: emergency_plan
@@ -118,8 +107,8 @@ inputSchema:
       hint: Is an emergency plan established?
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: safety_training
@@ -127,8 +116,8 @@ inputSchema:
       hint: Is safety training up to date?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: first_aid_kit
@@ -136,8 +125,8 @@ inputSchema:
       hint: Are first aid kits available and in good condition?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: emergency_contact
@@ -145,8 +134,8 @@ inputSchema:
       hint: Is an emergency contact established?
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: incident_reporting
@@ -154,8 +143,8 @@ inputSchema:
       hint: Is incident reporting up to date?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: facility_inspector
@@ -163,8 +152,8 @@ inputSchema:
       hint: Is a facility inspector available?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: safety_inspector
@@ -172,8 +161,8 @@ inputSchema:
       hint: Is a safety inspector available?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: fire_inspector
@@ -181,8 +170,8 @@ inputSchema:
       hint: Is a fire inspector available?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: medical_inspector
@@ -190,8 +179,8 @@ inputSchema:
       hint: Is a medical inspector available?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: environmental_inspector
@@ -199,8 +188,8 @@ inputSchema:
       hint: Is an environmental inspector available?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: quality_inspector
@@ -208,8 +197,8 @@ inputSchema:
       hint: Is a quality inspector available?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: maintenance_equipment
@@ -217,8 +206,8 @@ inputSchema:
       hint: Are maintenance equipment and tools available?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: maintenance_schedule
@@ -226,8 +215,8 @@ inputSchema:
       hint: Is a maintenance schedule established?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: review_frequency
@@ -235,10 +224,10 @@ inputSchema:
       hint: How often is this form reviewed?
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Daily''}'
-      - '{''id'': 2, ''text'': ''Weekly''}'
-      - '{''id'': 3, ''text'': ''Monthly''}'
-      - '{''id'': 4, ''text'': ''Quarterly''}'
-      - '{''id'': 5, ''text'': ''Semi-Annually''}'
-      - '{''id'': 6, ''text'': ''Annually''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
       required: false

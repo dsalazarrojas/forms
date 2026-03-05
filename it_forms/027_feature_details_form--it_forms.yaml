@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Desktop'', ''value'': ''desktop''}'
-      - '{''id'': 2, ''text'': ''Laptop'', ''value'': ''laptop''}'
-      - '{''id'': 3, ''text'': ''Mobile'', ''value'': ''mobile''}'
+      - desktop
+      - laptop
+      - mobile
       required: false
     - id: 3
       name: feature_request
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''IT'', ''value'': ''it''}'
-      - '{''id'': 2, ''text'': ''Operations'', ''value'': ''operations''}'
-      - '{''id'': 3, ''text'': ''Marketing'', ''value'': ''marketing''}'
-      - '{''id'': 4, ''text'': ''Sales'', ''value'': ''sales''}'
+      - it
+      - operations
+      - marketing
+      - sales
       required: false
     - id: 7
       name: feature_status
@@ -58,10 +58,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''New'', ''value'': ''new''}'
-      - '{''id'': 2, ''text'': ''Approved'', ''value'': ''approved''}'
-      - '{''id'': 3, ''text'': ''Rejected'', ''value'': ''rejected''}'
-      - '{''id'': 4, ''text'': ''Archived'', ''value'': ''archived''}'
+      - new
+      - approved
+      - rejected
+      - archived
       required: false
     - id: 8
       name: priority
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''High'', ''value'': ''high''}'
-      - '{''id'': 2, ''text'': ''Medium'', ''value'': ''medium''}'
-      - '{''id'': 3, ''text'': ''Low'', ''value'': ''low''}'
+      - high
+      - medium
+      - low
       required: false
     - id: 9
       name: request_date
@@ -93,8 +93,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Bug'', ''value'': ''bug''}'
-      - '{''id'': 2, ''text'': ''New Feature'', ''value'': ''new_feature''}'
+      - bug
+      - new feature
       required: false
     - id: 12
       name: notes

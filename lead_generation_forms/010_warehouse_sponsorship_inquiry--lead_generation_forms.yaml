@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Lead Generation Forms''}'
-      - '{''name'': ''Other''}'
+      - Lead Generation Forms
+      - Other
       required: true
     - id: 3
       name: description
@@ -50,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Landline''}'
-      - '{''name'': ''Mobile''}'
-      - '{''name'': ''Other''}'
+      - Landline
+      - Mobile
+      - Other
       required: false
     - id: 6
       name: lead_owner
@@ -81,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Australia''}'
-      - '{''name'': ''Canada''}'
-      - '{''name'': ''USA''}'
+      - Australia
+      - Canada
+      - USA
       required: true
     - id: 10
       name: state
@@ -91,12 +80,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''NSW''}'
-      - '{''name'': ''VIC''}'
-      - '{''name'': ''QLD''}'
-      - '{''name'': ''WA''}'
-      - '{''name'': ''SA''}'
-      - '{''name'': ''ACT''}'
+      - NSW
+      - VIC
+      - QLD
+      - WA
+      - SA
+      - ACT
       required: false
     - id: 11
       name: postal_code

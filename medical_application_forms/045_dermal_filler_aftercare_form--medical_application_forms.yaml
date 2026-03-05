@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Face'', ''value'': ''face''}'
-      - '{''label'': ''Lips'', ''value'': ''lips''}'
-      - '{''label'': ''Hands'', ''value'': ''hands''}'
-      - '{''label'': ''Feet'', ''value'': ''feet''}'
+      - Face
+      - Lips
+      - Hands
+      - Feet
       required: false
     - id: 4
       name: dermal_filler_injection_time
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Moisturizer'', ''value'': ''moisturizer''}'
-      - '{''label'': ''Sunscreen'', ''value'': ''sunscreen''}'
-      - '{''label'': ''Antioxidant'', ''value'': ''antioxidant''}'
+      - Moisturizer
+      - Sunscreen
+      - Antioxidant
       required: false
     - id: 7
       name: dermal_filler_aftercare_instructions
@@ -65,14 +65,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Redness'', ''value'': ''redness''}'
-      - '{''label'': ''Swelling'', ''value'': ''swelling''}'
-      - '{''label'': ''Blisters'', ''value'': ''blisters''}'
-      - '{''label'': ''Pain'', ''value'': ''pain''}'
-      - '{''label'': ''Redness'', ''value'': ''redness''}'
-      - '{''label'': ''Swelling'', ''value'': ''swelling''}'
-      - '{''label'': ''Blisters'', ''value'': ''blisters''}'
-      - '{''label'': ''Pain'', ''value'': ''pain''}'
+      - Redness
+      - Swelling
+      - Blisters
+      - Pain
       required: false
     - id: 9
       name: dermal_filler_aftercare_contact_info
@@ -87,7 +83,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''In Office'', ''value'': ''in_office''}'
+      - Phone
+      - Email
+      - In Office
       required: false

@@ -1,191 +1,161 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Youth Mentoring Survey
     pages:
     - id: 1
-      name: page_1
-      label: youth_mentoring_survey
+      name: contact_information
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: page_2
-      label: contact_information
+      name: participant_details
+      label: Participant Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: page_3
-      label: program_details
+      name: program_details
+      label: Program Details
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: page_4
-      label: survey_participant_details
+      name: participant_engagement
+      label: Participant Engagement
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 5
-      name: page_5
-      label: program_evaluation
+      name: participant_satisfaction
+      label: Participant Satisfaction
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied Nor Dissatisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 6
-      name: page_6
-      label: survey_results
+      name: participant_outcomes
+      label: Participant Outcomes
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: page_7
-      label: program_goals
+      name: program_goals
+      label: Program Goals
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: page_8
-      label: survey_implementation
+      name: participant_feedback
+      label: Participant Feedback
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 9
-      name: page_9
-      label: program_progress
+      name: program_evaluation
+      label: Program Evaluation
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: page_10
-      label: participant_engagement
+      name: program_progress
+      label: Program Progress
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 11
-      name: page_11
-      label: participant_satisfaction
+      name: participant_retention
+      label: Participant Retention
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 12
-      name: page_12
-      label: participant_outcomes
+      name: program_fidelity
+      label: Program Fidelity
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: page_13
-      label: program_fidelity
+      name: program_improvement
+      label: Program Improvement
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: page_14
-      label: participant_retention
+      name: participant_satisfaction_2
+      label: Participant Satisfaction 2
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 15
-      name: page_15
-      label: participant_feedback
+      name: program_outcomes_2
+      label: Program Outcomes
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Short-term Outcomes
+      - Long-term Outcomes
+      - No Outcomes
       required: false
     - id: 16
-      name: page_16
-      label: program_evaluation
+      name: program_engagement_2
+      label: Program Engagement
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 17
-      name: page_17
-      label: program_goals
+      name: participant_recommended
+      label: Participant Recommended
       hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      - No Opinion
       required: false
     - id: 18
-      name: page_18
-      label: survey_results
+      name: participant_suggest
+      label: Participant Suggest
       hint: null
       type: text
       options: []
       required: false
     - id: 19
-      name: page_19
-      label: participant_outcomes
+      name: participant_outcomes_2
+      label: Participant Outcomes 2
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Short-term Outcomes
+      - Long-term Outcomes
+      - No Outcomes
       required: false
     - id: 20
-      name: page_20
-      label: participant_satisfaction
+      name: program_satisfaction_2
+      label: Program Satisfaction
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: page_21
-      label: participant_engagement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: page_22
-      label: participant_retention
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: page_23
-      label: participant_feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: page_24
-      label: program_fidelity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: page_25
-      label: participant_satisfaction
-      hint: null
-      type: text
+      type: number
       options: []
       required: false

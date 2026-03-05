@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Email'', ''value'': ''email''}'
-      - '{''name'': ''Phone'', ''value'': ''phone''}'
+      - email
+      - phone
       required: true
     - id: 2
       name: name
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: assigned_tool
@@ -69,6 +69,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: true

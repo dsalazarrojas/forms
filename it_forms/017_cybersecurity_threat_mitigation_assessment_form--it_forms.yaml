@@ -15,177 +15,147 @@ inputSchema:
     title: Cybersecurity Threat Mitigation Assessment Form
     pages:
     - id: 1
-      name: threat_mitigation_what
-      label: What
-      hint: null
+      name: threat_mitigation_purpose
+      label: What is the purpose of this threat assessment?
+      hint: (Optional) Describe the reason for this threat assessment
       type: text
       options: []
       required: false
     - id: 2
-      name: threat_mitigation_what_2
-      label: How
-      hint: null
+      name: threat_mitigation_goals
+      label: What are the primary goals for this threat assessment?
+      hint: (Optional) Describe the overall objectives of this threat assessment
       type: text
       options: []
       required: false
     - id: 3
-      name: threat_mitigation_what_3
-      label: What
-      hint: null
-      type: text
-      options: []
+      name: threat_mitigation_stakeholders
+      label: What are the key stakeholders involved in the threat assessment?
+      hint: (Optional) Identify key individuals or teams responsible for this threat
+        assessment
+      type: select_multiple
+      options:
+      - IT Manager
+      - Security Team
+      - Management Team
+      - Risk Management Team
+      - Other (specify)
       required: false
     - id: 4
-      name: threat_mitigation_how
-      label: How
-      hint: null
+      name: threat_mitigation_scope
+      label: What is the scope of the threat assessment?
+      hint: (Optional) Describe the scope of the threat assessment
       type: text
       options: []
       required: false
     - id: 5
-      name: threat_mitigation_why
-      label: Why
-      hint: null
+      name: threat_mitigation_objectives
+      label: What are the threat assessment objectives?
+      hint: (Optional) Describe the specific objectives of the threat assessment
       type: text
       options: []
       required: false
     - id: 6
-      name: threat_mitigation_what_6
-      label: What
-      hint: null
+      name: threat_mitigation_identified_risks
+      label: What are the potential risks identified during the threat assessment?
+      hint: (Optional) Describe any identified risks or threats
       type: text
       options: []
       required: false
     - id: 7
-      name: threat_mitigation_how_2
-      label: How
-      hint: null
+      name: threat_mitigation_mitigation_strategies
+      label: What are the risk mitigation strategies implemented?
+      hint: (Optional) Describe the strategies to mitigate identified risks
       type: text
       options: []
       required: false
     - id: 8
-      name: threat_mitigation_what_7
-      label: What
-      hint: null
+      name: threat_mitigation_kpis
+      label: What are the key performance indicators (KPIs) for the threat assessment?
+      hint: (Optional) Describe the metrics used to measure the effectiveness of the
+        threat assessment
       type: text
       options: []
       required: false
     - id: 9
-      name: threat_mitigation_why_2
-      label: Why
-      hint: null
+      name: threat_mitigation_next_steps
+      label: What are the next steps in the threat assessment process?
+      hint: (Optional) Describe the next steps for the threat assessment process
       type: text
       options: []
       required: false
     - id: 10
-      name: threat_mitigation_what_9
-      label: What
-      hint: null
-      type: text
-      options: []
+      name: threat_mitigation_open_issues
+      label: Are there any open issues or concerns?
+      hint: (Optional) Describe any open issues or concerns
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 11
-      name: threat_mitigation_what_10
-      label: What
-      hint: null
-      type: text
-      options: []
+      name: threat_mitigation_incident_response
+      label: Is there an incident response plan in place?
+      hint: (Optional) Describe the incident response plan
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 12
-      name: threat_mitigation_how_3
-      label: How
-      hint: null
-      type: text
-      options: []
+      name: threat_mitigation_threat_assessment_report
+      label: Is a threat assessment report available?
+      hint: (Optional) Describe the availability of the threat assessment report
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 13
-      name: threat_mitigation_how_4
-      label: How
-      hint: null
-      type: text
+      name: threat_mitigation_comments
+      label: Are there any additional comments or recommendations?
+      hint: (Optional) Provide any additional comments or recommendations
+      type: note
       options: []
       required: false
     - id: 14
-      name: threat_mitigation_what_8
-      label: What
-      hint: null
-      type: text
-      options: []
+      name: threat_mitigation_technical_vulnerabilities
+      label: Are there any technical vulnerabilities identified?
+      hint: (Optional) Describe any technical vulnerabilities identified
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 15
-      name: threat_mitigation_why_3
-      label: Why
-      hint: null
-      type: text
-      options: []
+      name: threat_mitigation_physical_environmental_vulnerabilities
+      label: Are there any physical or environmental vulnerabilities identified?
+      hint: (Optional) Describe any physical or environmental vulnerabilities identified
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 16
-      name: threat_mitigation_what_4
-      label: What
-      hint: null
-      type: text
-      options: []
+      name: threat_mitigation_administrative_management_vulnerabilities
+      label: Are there any administrative or management vulnerabilities identified?
+      hint: (Optional) Describe any administrative or management vulnerabilities identified
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 17
-      name: threat_mitigation_what_5
-      label: What
-      hint: null
+      name: threat_mitigation_other_risks
+      label: Are there any other risks or threats identified?
+      hint: (Optional) Describe any other risks or threats identified
       type: text
       options: []
       required: false
     - id: 18
-      name: threat_mitigation_why_4
-      label: Why
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: threat_mitigation_why_5
-      label: Why
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: threat_mitigation_what_11
-      label: What
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: threat_mitigation_what_12
-      label: What
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: threat_mitigation_why_6
-      label: Why
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: threat_mitigation_how_6
-      label: How
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: threat_mitigation_what_14
-      label: What
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: threat_mitigation_why_7
-      label: Why
-      hint: null
+      name: threat_mitigation_mitigation_plan
+      label: Is there a plan to address any identified risks or threats?
+      hint: (Optional) Describe the plan to address identified risks or threats
       type: text
       options: []
       required: false

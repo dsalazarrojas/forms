@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Car''}'
-      - '{''id'': 2, ''label'': ''Truck''}'
-      - '{''id'': 3, ''label'': ''Bus''}'
+      - Car
+      - Truck
+      - Bus
       required: false
     - id: 9
       name: vehicle_status
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Sold''}'
+      - Active
+      - Inactive
+      - Sold
       required: true
     - id: 10
       name: vehicle_notes

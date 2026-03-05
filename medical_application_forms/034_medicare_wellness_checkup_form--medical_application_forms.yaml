@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''ABC Medical Group''}'
-      - '{''id'': 2, ''text'': ''DEF Medical Group''}'
+      - ABC Medical Group
+      - DEF Medical Group
       required: true
     - id: 5
       name: medical_condition
@@ -109,8 +109,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''A'', ''label'': ''A''}'
-      - '{''id'': 2, ''text'': ''B'', ''label'': ''B''}'
+      - A
+      - B
       required: true
     - id: 16
       name: medication_allergies
@@ -118,9 +118,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''A'', ''label'': ''A''}'
-      - '{''id'': 2, ''text'': ''B'', ''label'': ''B''}'
-      - '{''id'': 3, ''text'': ''C'', ''label'': ''C''}'
+      - A
+      - B
+      - C
       required: true
     - id: 17
       name: medical_providers
@@ -128,8 +128,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Provider 1'', ''label'': ''Provider 1''}'
-      - '{''id'': 2, ''text'': ''Provider 2'', ''label'': ''Provider 2''}'
+      - Provider 1
+      - Provider 2
       required: true
     - id: 18
       name: medical_conditions_list
@@ -137,8 +137,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Condition 1'', ''label'': ''Condition 1''}'
-      - '{''id'': 2, ''text'': ''Condition 2'', ''label'': ''Condition 2''}'
+      - Condition 1
+      - Condition 2
       required: true
     - id: 19
       name: medical_providers_list
@@ -150,8 +150,8 @@ inputSchema:
       - 'No'
       required: true
     - id: 20
-      name: medical_conditions_list
-      label: Medical Conditions List
+      name: medical_conditions_list_2
+      label: Medical Conditions List 2
       hint: null
       type: select_multiple
       options:
@@ -167,21 +167,21 @@ inputSchema:
       required: true
     - id: 22
       name: patient_city
-      label: City
+      label: Patient City
       hint: null
       type: text
       options: []
       required: true
     - id: 23
       name: patient_state
-      label: State
+      label: Patient State
       hint: null
       type: text
       options: []
       required: true
     - id: 24
       name: patient_zip
-      label: Zip
+      label: Patient Zip
       hint: null
       type: text
       options: []

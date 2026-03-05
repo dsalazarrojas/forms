@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 4.1, ''label'': True}'
-      - '{''id'': 4.2, ''label'': False}'
-      - '{''id'': 4.3, ''label'': ''Unsure''}'
+      - 'True'
+      - 'False'
+      - Unsure
       required: true
     - id: 5
       name: skin_revisionskin_problems
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 7.1, ''label'': ''Male''}'
-      - '{''id'': 7.2, ''label'': ''Female''}'
+      - Male
+      - Female
       required: true
     - id: 8
       name: skin_revision_notes

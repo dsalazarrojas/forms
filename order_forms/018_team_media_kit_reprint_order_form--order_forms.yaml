@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''internal_reprint''}'
-      - '{''value'': ''external_use''}'
+      - internal reprint
+      - external use
       required: true
     - id: 7
       name: quantity
@@ -60,10 +60,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''pdf''}'
-      - '{''value'': ''excel''}'
-      - '{''value'': ''csv''}'
-      - '{''value'': ''xml''}'
+      - pdf
+      - excel
+      - csv
+      - xml
       required: false
     - id: 9
       name: delivery_method
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''print''}'
+      - email
+      - print
       required: true
     - id: 10
       name: delivery_date
@@ -101,7 +101,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: true
     - id: 14

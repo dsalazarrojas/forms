@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Partner''}'
-      - '{''id'': 2, ''name'': ''Senior Associate''}'
-      - '{''id'': 3, ''name'': ''Associate''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Partner
+      - Senior Associate
+      - Associate
+      - Other
       required: false
     - id: 6
       name: years_of_experience
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Corporate Law''}'
-      - '{''id'': 2, ''name'': ''Family Law''}'
-      - '{''id'': 3, ''name'': ''Personal Injury''}'
+      - Corporate Law
+      - Family Law
+      - Personal Injury
       required: false
     - id: 8
       name: work_history
@@ -107,8 +107,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: time_zone
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Eastern Time Zone''}'
-      - '{''id'': 2, ''name'': ''Central Time Zone''}'
-      - '{''id'': 3, ''name'': ''Pacific Time Zone''}'
+      - Eastern Time Zone
+      - Central Time Zone
+      - Pacific Time Zone
       required: false
     - id: 16
       name: job_status
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Currently Working''}'
-      - '{''id'': 2, ''name'': ''Not Currently Working''}'
-      - '{''id'': 3, ''name'': ''Retired''}'
+      - Currently Working
+      - Not Currently Working
+      - Retired
       required: false
     - id: 17
       name: job_type
@@ -136,8 +136,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Full-Time''}'
-      - '{''id'': 2, ''name'': ''Part-Time''}'
+      - Full-Time
+      - Part-Time
       required: false
     - id: 18
       name: available_start_date

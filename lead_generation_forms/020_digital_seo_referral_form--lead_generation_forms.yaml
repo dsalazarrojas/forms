@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -41,15 +30,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Google''}'
-      - '{''name'': ''Google Ads''}'
-      - '{''name'': ''Facebook Ads''}'
-      - '{''name'': ''Email''}'
-      - '{''name'': ''Word of Mouth''}'
-      - '{''name'': ''Social Media''}'
-      - '{''name'': ''Referral''}'
-      - '{''name'': ''Website''}'
-      - '{''name'': ''Print Media''}'
+      - Google
+      - Google Ads
+      - Facebook Ads
+      - Email
+      - Word of Mouth
+      - Social Media
+      - Referral
+      - Website
+      - Print Media
       required: true
     - id: 5
       name: lead_status
@@ -57,11 +46,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''New''}'
-      - '{''name'': ''Qualified''}'
-      - '{''name'': ''Referred''}'
-      - '{''name'': ''Converted''}'
-      - '{''name'': ''Lost''}'
+      - New
+      - Qualified
+      - Referred
+      - Converted
+      - Lost
       required: true
     - id: 6
       name: lead_type
@@ -69,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''New Lead''}'
-      - '{''name'': ''Existing Client''}'
-      - '{''name'': ''Hot Lead''}'
+      - New Lead
+      - Existing Client
+      - Hot Lead
       required: false
     - id: 7
       name: first_name

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''0-1 year''}'
-      - '{''label'': ''1-2 years''}'
-      - '{''label'': ''2-3 years''}'
+      - 0-1 year
+      - 1-2 years
+      - 2-3 years
       required: true
     - id: 3
       name: sleep_environment
@@ -40,11 +40,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Sleep Terrors''}'
-      - '{''label'': ''Night Terror''}'
-      - '{''label'': ''Sleepwalking''}'
-      - '{''label'': ''Sleepwalking Disorder''}'
+      - None
+      - Sleep Terrors
+      - Night Terror
+      - Sleepwalking
+      - Sleepwalking Disorder
       required: true
     - id: 6
       name: wake_up_time
@@ -66,10 +66,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 9
       name: sleep_location
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Alone''}'
-      - '{''label'': ''With one other''}'
-      - '{''label'': ''With two or more''}'
+      - Alone
+      - With one other
+      - With two or more
       required: true
     - id: 11
       name: safe_sleep_practices

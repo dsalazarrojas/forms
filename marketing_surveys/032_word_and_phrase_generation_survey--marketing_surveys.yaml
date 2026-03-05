@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Basic''}'
-      - '{''label'': ''Intermediate''}'
-      - '{''label'': ''Advanced''}'
+      - None
+      - Basic
+      - Intermediate
+      - Advanced
       required: false
     - id: 3
       name: preference_scale
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Basic''}'
-      - '{''label'': ''Intermediate''}'
-      - '{''label'': ''Advanced''}'
+      - None
+      - Basic
+      - Intermediate
+      - Advanced
       required: false
     - id: 4
       name: phrase_length
@@ -38,10 +38,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1-10''}'
-      - '{''label'': ''11-20''}'
-      - '{''label'': ''21-50''}'
-      - '{''label'': ''51-100''}'
+      - 1-10
+      - 11-20
+      - 21-50
+      - 51-100
       required: false
     - id: 5
       name: submit
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''Spanish''}'
-      - '{''label'': ''Mandarin''}'
+      - English
+      - Spanish
+      - Mandarin
       required: false
     - id: 7
       name: gender
@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Female''}'
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Other''}'
+      - Female
+      - Male
+      - Other
       required: false
     - id: 8
       name: age
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Manager''}'
-      - '{''label'': ''Developer''}'
-      - '{''label'': ''Customer Service Representative''}'
+      - Manager
+      - Developer
+      - Customer Service Representative
       required: false
     - id: 10
       name: company_size
@@ -93,10 +93,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Less than 10''}'
-      - '{''label'': ''10-50''}'
-      - '{''label'': ''50-200''}'
-      - '{''label'': ''200 or more''}'
+      - Less than 10
+      - 10-50
+      - 50-200
+      - 200 or more
       required: false
     - id: 11
       name: job_type
@@ -104,10 +104,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Management''}'
-      - '{''label'': ''Development''}'
-      - '{''label'': ''Customer Service''}'
-      - '{''label'': ''Marketing''}'
+      - Management
+      - Development
+      - Customer Service
+      - Marketing
       required: false
     - id: 12
       name: work_location
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Office''}'
-      - '{''label'': ''Home''}'
-      - '{''label'': ''Both''}'
+      - Office
+      - Home
+      - Both
       required: false
     - id: 13
       name: industry
@@ -125,9 +125,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Healthcare''}'
-      - '{''label'': ''Finance''}'
-      - '{''label'': ''Marketing''}'
+      - Healthcare
+      - Finance
+      - Marketing
       required: false
     - id: 14
       name: years_in_industry

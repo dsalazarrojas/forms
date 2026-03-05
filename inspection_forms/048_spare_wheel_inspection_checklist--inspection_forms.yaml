@@ -4,198 +4,152 @@ inputSchema:
     title: Spare Wheel Inspection Checklist
     pages:
     - id: 1
-      name: inspection_form_1
-      label: inspection_form_1
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: wheel_type
+      label: What type of spare wheel is this?
+      hint: Please select the type of spare wheel.
+      type: select_one
+      options:
+      - Pneumatic
+      - Semi Pneumatic
+      - Non Pneumatic
+      required: true
     - id: 2
       name: wheel_condition
-      label: wheel_condition
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''New''}'
-      - '{''id'': 2, ''name'': ''Used''}'
-      - '{''id'': 3, ''name'': ''Worn''}'
-      required: false
-    - id: 3
-      name: wheel_pressure
-      label: wheel_pressure
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: wheel_tread_depth
-      label: wheel_tread_depth
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: wheel_center_capsules
-      label: wheel_center_capsules
-      hint: null
+      label: What is the condition of this wheel?
+      hint: Please select the condition.
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''New''}'
-      - '{''id'': 2, ''name'': ''Used''}'
-      - '{''id'': 3, ''name'': ''Worn''}'
-      required: false
+      - New
+      - Used
+      - Worn
+      required: true
+    - id: 3
+      name: wheel_pressure
+      label: What is the wheel pressure?
+      hint: Please enter the pressure in PSI.
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: tire_tread_depth
+      label: What is the tire tread depth?
+      hint: Please enter the depth in mm.
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_model_year
+      label: What is the vehicle model year?
+      hint: Please enter the year.
+      type: number
+      options: []
+      required: true
     - id: 6
-      name: wheel_rim_condition
-      label: wheel_rim_condition
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''New''}'
-      - '{''id'': 2, ''name'': ''Used''}'
-      - '{''id'': 3, ''name'': ''Worn''}'
+      name: vehicle_registration_number
+      label: What is the vehicle registration number?
+      hint: Please enter the registration number.
+      type: text
+      options: []
       required: false
     - id: 7
-      name: tire_pressure
-      label: tire_pressure
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: tire_tread_depth
-      label: tire_tread_depth
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: vehicle_condition
-      label: vehicle_condition
-      hint: null
+      name: vehicle_color
+      label: What is the vehicle color?
+      hint: Please select the color.
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''New''}'
-      - '{''id'': 2, ''name'': ''Used''}'
-      - '{''id'': 3, ''name'': ''Worn''}'
+      - Red
+      - Blue
+      - Green
       required: false
+    - id: 8
+      name: tire_type
+      label: What type of tire is this?
+      hint: Please select the type.
+      type: select_multiple
+      options:
+      - Pneumatic
+      - Semi Pneumatic
+      - Non Pneumatic
+      required: true
+    - id: 9
+      name: spare_wheel_type
+      label: Spare Wheel Type
+      hint: Please select the type.
+      type: select_one
+      options:
+      - Pneumatic
+      - Semi Pneumatic
+      - Non Pneumatic
+      required: true
     - id: 10
-      name: vehicle_model_year
-      label: vehicle_model_year
-      hint: null
-      type: number
-      options: []
-      required: false
+      name: spare_wheel_condition
+      label: What is the condition of this spare wheel?
+      hint: Please select the condition.
+      type: select_multiple
+      options:
+      - New
+      - Used
+      - Worn
+      required: true
     - id: 11
-      name: vehicle_model_year
-      label: vehicle_model_year
-      hint: null
-      type: number
+      name: inspection_date
+      label: What is the inspection date?
+      hint: Please enter the inspection date.
+      type: date
       options: []
-      required: false
+      required: true
     - id: 12
-      name: vehicle_model_year
-      label: vehicle_model_year
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: vehicle_model_year
-      label: vehicle_model_year
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: vehicle_registration_number
-      label: vehicle_registration_number
-      hint: null
+      name: inspector_name
+      label: What is the inspector's name?
+      hint: Please enter the name.
       type: text
+      options: []
+      required: true
+    - id: 13
+      name: inspector_signature
+      label: Inspector's signature?
+      hint: Please sign.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: notes
+      label: Additional notes?
+      hint: Please enter any additional notes.
+      type: note
       options: []
       required: false
     - id: 15
-      name: vehicle_make
-      label: vehicle_make
-      hint: null
+      name: vehicle_model
+      label: What is the vehicle model?
+      hint: Please enter the model.
       type: text
       options: []
       required: false
     - id: 16
       name: vehicle_year
-      label: vehicle_year
-      hint: null
+      label: What is the vehicle year?
+      hint: Please enter the year.
       type: number
       options: []
       required: false
     - id: 17
-      name: vehicle_model
-      label: vehicle_model
-      hint: null
-      type: text
-      options: []
+      name: spare_wheel_rim_condition
+      label: What is the condition of this spare wheel's rim?
+      hint: Please select the condition.
+      type: select_multiple
+      options:
+      - New
+      - Used
+      - Worn
       required: false
     - id: 18
-      name: vehicle_color
-      label: vehicle_color
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: tire_type
-      label: tire_type
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Pneumatic''}'
-      - '{''id'': 2, ''name'': ''Semi Pneumatic''}'
-      - '{''id'': 3, ''name'': ''Non Pneumatic''}'
-      required: false
-    - id: 20
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: spare_wheel_type
-      label: spare_wheel_type
-      hint: null
+      name: vehicle_status
+      label: What is the vehicle status?
+      hint: Please select the status.
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Pneumatic''}'
-      - '{''id'': 2, ''name'': ''Semi Pneumatic''}'
-      - '{''id'': 3, ''name'': ''Non Pneumatic''}'
-      required: false
-    - id: 22
-      name: spare_wheel_condition
-      label: spare_wheel_condition
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''New''}'
-      - '{''id'': 2, ''name'': ''Used''}'
-      - '{''id'': 3, ''name'': ''Worn''}'
-      required: false
-    - id: 23
-      name: inspection_date
-      label: inspection_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: inspector_name
-      label: inspector_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: inspector_signature
-      label: inspector_signature
-      hint: null
-      type: text
-      options: []
+      - New
+      - Used
+      - Worn
       required: false

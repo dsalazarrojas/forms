@@ -1,151 +1,119 @@
 inputSchema:
   type: object
   properties:
-    title: Lease Agreement For Operators
+    title: Leasing Agreement For Operators
     pages:
     - id: 1
-      name: lease_agreement_for_operators_form_template
-      label: lease_agreement_for_operators_form_template
+      name: operator_name
+      label: Operator Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: operator_details
-      label: operator_details
+      name: operator_email
+      label: Contact Email
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: email
+      options: []
+      required: true
     - id: 3
-      name: property_details
-      label: property_details
+      name: property_address
+      label: Property Address
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: lease_start_date
-      label: lease_start_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
-      name: lease_end_date
-      label: lease_end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: lease_amount
-      label: lease_amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: payment_terms
-      label: payment_terms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: rent_payment_frequency
-      label: rent_payment_frequency
+      name: property_type
+      label: Property Type
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 9
-      name: operator_payment_method
-      label: operator_payment_method
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: lease_end_date
-      label: lease_end_date
+      - Residential
+      - Commercial
+      required: true
+    - id: 5
+      name: lease_start_date
+      label: Start Date of Lease
       hint: null
       type: date
       options: []
-      required: false
-    - id: 11
-      name: payment_terms
-      label: payment_terms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: property_insurance
-      label: property_insurance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: property_maintenance
-      label: property_maintenance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
+      required: true
+    - id: 6
       name: lease_end_date
-      label: lease_end_date
+      label: End Date of Lease
       hint: null
       type: date
       options: []
-      required: false
-    - id: 15
-      name: rent_amount
-      label: rent_amount
+      required: true
+    - id: 7
+      name: lease_amount
+      label: Lease Amount
       hint: null
       type: number
       options: []
-      required: false
-    - id: 16
-      name: payment_terms
-      label: payment_terms
+      required: true
+    - id: 8
+      name: payment_frequency
+      label: Rent Payment Frequency
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: lease_agreement
-      label: lease_agreement
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: operator_payment_details
-      label: operator_payment_details
+      - Bank Transfer
+      - Check
+      - Online
+      required: true
+    - id: 10
+      name: operator_insurance
+      label: Operator Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: operator_maintenance
+      label: Operator Maintenance
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
+      required: true
+    - id: 12
       name: property_insurance
-      label: property_insurance
+      label: Property Insurance
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: operator_payment_details
+      label: Operator Payment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: lease_agreement
+      label: Lease Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

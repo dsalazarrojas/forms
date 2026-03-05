@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Observed Issue'', ''value'': ''Observed Issue''}'
-      - '{''label'': ''Corrective Action'', ''value'': ''Corrective Action''}'
-      - '{''label'': ''Pass'', ''value'': ''Pass''}'
+      - Observed Issue
+      - Corrective Action
+      - Pass
       required: false
     - id: 6
       name: non_kosher_items
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pass'', ''value'': ''Pass''}'
-      - '{''label'': ''Fail'', ''value'': ''Fail''}'
-      - '{''label'': ''Not Applicable'', ''value'': ''Not Applicable''}'
+      - Pass
+      - Fail
+      - Not Applicable
       required: false
     - id: 8
       name: notes

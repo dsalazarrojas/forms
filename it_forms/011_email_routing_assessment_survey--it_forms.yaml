@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''IT''}'
-      - '{''id'': 2, ''label'': ''Operations''}'
-      - '{''id'': 3, ''label'': ''Support''}'
-      - '{''id'': 4, ''label'': ''Finance''}'
+      - IT
+      - Operations
+      - Support
+      - Finance
       required: true
     - id: 3
       name: email_routing_process
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Rarely''}'
-      - '{''id'': 2, ''label'': ''Occasionally''}'
-      - '{''id'': 3, ''label'': ''Often''}'
-      - '{''id'': 4, ''label'': ''Very Often''}'
+      - Rarely
+      - Occasionally
+      - Often
+      - Very Often
       required: false
     - id: 5
       name: satisfaction
@@ -59,10 +59,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Too slow''}'
-      - '{''id'': 2, ''label'': ''Too fast''}'
-      - '{''id'': 3, ''label'': ''Confusion''}'
-      - '{''id'': 4, ''label'': ''Lack of information''}'
+      - Too slow
+      - Too fast
+      - Confusion
+      - Lack of information
       required: false
     - id: 8
       name: recommendations

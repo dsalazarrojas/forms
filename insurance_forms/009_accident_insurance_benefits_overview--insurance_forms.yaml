@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -62,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Full-time
-        - Part-time
-        - Contract
-        - Temporary
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
       required: true
     - id: 8
       name: section_coverage
@@ -80,10 +69,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Basic Plan
-        - Standard Plan
-        - Premium Plan
-        - Not currently enrolled
+      - Basic Plan
+      - Standard Plan
+      - Premium Plan
+      - Not currently enrolled
       required: true
     - id: 10
       name: coverage_level
@@ -91,10 +80,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Employee only
-        - Employee plus spouse
-        - Employee plus children
-        - Family
+      - Employee only
+      - Employee plus spouse
+      - Employee plus children
+      - Family
       required: true
     - id: 11
       name: enrollment_date
@@ -116,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: benefits_understood
@@ -125,9 +114,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Yes, fully
-        - Partially - I have some questions
-        - No - I need a full explanation
+      - Yes, fully
+      - Partially - I have some questions
+      - No - I need a full explanation
       required: true
     - id: 15
       name: questions_or_concerns
@@ -149,11 +138,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Yes - Upgrade plan
-        - Yes - Downgrade plan
-        - Yes - Add dependents
-        - Yes - Remove dependents
-        - No changes needed
+      - Yes - Upgrade plan
+      - Yes - Downgrade plan
+      - Yes - Add dependents
+      - Yes - Remove dependents
+      - No changes needed
       required: true
     - id: 18
       name: beneficiary_name
@@ -168,11 +157,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Spouse
-        - Child
-        - Parent
-        - Sibling
-        - Other
+      - Spouse
+      - Child
+      - Parent
+      - Sibling
+      - Other
       required: true
     - id: 20
       name: acknowledgement_date

@@ -4,12 +4,12 @@ inputSchema:
     title: Digital Memory Log For Engineers
     pages:
     - id: 1
-      name: form_title
-      label: Digital Memory Log for Engineers
+      name: project_title
+      label: Project/Asset Title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: category
       label: Category
@@ -18,7 +18,7 @@ inputSchema:
       options:
       - IT Forms
       - Other
-      required: false
+      required: true
     - id: 3
       name: description
       label: Description
@@ -27,8 +27,8 @@ inputSchema:
       options: []
       required: false
     - id: 4
-      name: output_file
-      label: Output File
+      name: output_files
+      label: Output Files
       hint: null
       type: text
       options: []
@@ -48,73 +48,52 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: title
-      label: Title
+      name: tool_name
+      label: Tool Name
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: category
-      label: Category
+      name: category_2
+      label: Category 2
       hint: null
       type: select_multiple
       options:
       - IT Forms
       - Other
       required: false
+    - id: 9
+      name: description_2
+      label: Description 2
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 10
-      name: description
-      label: Description
+      name: project_name
+      label: Project Name
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: form_id
-      label: Form ID
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: assigned_tool
-      label: Assigned Tool
+      name: assigned_tool_2
+      label: Assigned Tool 2
       hint: null
       type: select_one
       options:
       - chatjimmy
       - Other
       required: false
-    - id: 13
-      name: category
-      label: Category
+    - id: 12
+      name: category_3
+      label: Category 3
       hint: null
       type: select_one
       options:
       - IT Forms
       - Other
-      required: false
-    - id: 14
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: title
-      label: Title
-      hint: null
-      type: text
-      options: []
       required: false

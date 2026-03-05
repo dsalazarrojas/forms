@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{1: ''Member 1''}'
-      - '{2: ''Member 2''}'
-      - '{3: ''Member 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 9
       name: non_profit_name
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Monthly'', ''label'': ''Monthly''}'
-      - '{2: ''Yearly'', ''label'': ''Yearly''}'
-      - '{3: ''Quarterly'', ''label'': ''Quarterly''}'
+      - Monthly
+      - Yearly
+      - Quarterly
       required: false
     - id: 15
       name: payment_amount
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{1: ''Active'', ''label'': ''Active''}'
-      - '{2: ''Active'', ''label'': ''Inactive''}'
-      - '{3: ''Pending'', ''label'': ''Pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: false
     - id: 17
       name: renewal_status
@@ -130,8 +130,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{1: ''Renewing'', ''label'': ''Renewing''}'
-      - '{2: ''Not Renewing'', ''label'': ''Not Renewing''}'
+      - Renewing
+      - Not Renewing
       required: false
     - id: 18
       name: membership_date
@@ -153,9 +153,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{1: ''Coalition 1'', ''label'': ''Coalition 1''}'
-      - '{2: ''Coalition 2'', ''label'': ''Coalition 2''}'
-      - '{3: ''Coalition 3'', ''label'': ''Coalition 3''}'
+      - Coalition 1
+      - Coalition 2
+      - Coalition 3
       required: false
     - id: 21
       name: coalition_committees

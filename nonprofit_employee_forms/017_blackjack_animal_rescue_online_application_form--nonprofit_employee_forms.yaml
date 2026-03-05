@@ -91,7 +91,7 @@ inputSchema:
       type: select_one
       options:
       - Yes Approved
-      - false
+      - 'False'
       - Not Applicable - I Own
       required: true
     - id: 12
@@ -100,8 +100,8 @@ inputSchema:
       hint: Do you currently have pets
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: pet_details
@@ -178,8 +178,8 @@ inputSchema:
       hint: Do you have children
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 21
       name: children_ages

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''ground_floor''}'
-      - '{''value'': ''first_floor''}'
-      - '{''value'': ''second_floor''}'
+      - ground floor
+      - first floor
+      - second floor
       required: false
     - id: 4
       name: fire_alarm_system
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''installed''}'
-      - '{''value'': ''not_installed''}'
-      - '{''value'': ''not_applicable''}'
+      - installed
+      - not installed
+      - not applicable
       required: false
     - id: 5
       name: smoke_detector_location
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''near_stairwell''}'
-      - '{''value'': ''near_window''}'
-      - '{''value'': ''near_door''}'
+      - near stairwell
+      - near window
+      - near door
       required: false
     - id: 6
       name: smoke_detector_status
@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''functional''}'
-      - '{''value'': ''non_functional''}'
+      - functional
+      - non functional
       required: false
     - id: 7
       name: fire_extinguisher_type
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''water_chemical''}'
-      - '{''value'': ''dry_chemical''}'
-      - '{''value'': ''clean_agent''}'
+      - water chemical
+      - dry chemical
+      - clean agent
       required: false
     - id: 8
       name: fire_extinguisher_location
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''near_entrance''}'
-      - '{''value'': ''near_fire_alarm_panel''}'
-      - '{''value'': ''near_stairwell''}'
+      - near entrance
+      - near fire alarm panel
+      - near stairwell
       required: false
     - id: 9
       name: fire_extinguisher_status
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''functional''}'
-      - '{''value'': ''non_functional''}'
+      - functional
+      - non functional
       required: false
     - id: 10
       name: fire_alarm_panel
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''present''}'
-      - '{''value'': ''absent''}'
-      - '{''value'': ''non_applicable''}'
+      - present
+      - absent
+      - non applicable
       required: false
     - id: 11
       name: fire_extinguisher_tag

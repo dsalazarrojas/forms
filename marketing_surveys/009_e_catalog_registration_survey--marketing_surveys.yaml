@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''daily''}'
-      - '{''label'': ''weekly''}'
-      - '{''label'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 8
       name: communication_preferences
@@ -63,10 +63,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''email''}'
-      - '{''label'': ''phone''}'
-      - '{''label'': ''post''}'
-      - '{''label'': ''mail''}'
+      - email
+      - phone
+      - post
+      - mail
       required: false
     - id: 9
       name: follow_up

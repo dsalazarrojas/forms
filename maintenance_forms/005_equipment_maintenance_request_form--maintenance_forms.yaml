@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Equipment 1''}'
-      - '{''id'': 2, ''label'': ''Equipment 2''}'
+      - Equipment 1
+      - Equipment 2
       required: true
     - id: 2
       name: description
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Low''}'
-      - '{''id'': 3, ''label'': ''Medium''}'
+      - High
+      - Low
+      - Medium
       required: true
     - id: 4
       name: status
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''New''}'
-      - '{''id'': 2, ''label'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Completed''}'
+      - New
+      - In Progress
+      - Completed
       required: true
     - id: 5
       name: equipment_status
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Available''}'
-      - '{''id'': 2, ''label'': ''Under Maintenance''}'
-      - '{''id'': 3, ''label'': ''Offline''}'
+      - Available
+      - Under Maintenance
+      - Offline
       required: false
     - id: 6
       name: maintenance_due_date
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Staff''}'
-      - '{''id'': 2, ''label'': ''Contractor''}'
-      - '{''id'': 3, ''label'': ''External''}'
+      - Staff
+      - Contractor
+      - External
       required: true
     - id: 10
       name: submitted_date

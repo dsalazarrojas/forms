@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''regression''}'
-      - '{''value'': ''classification''}'
-      - '{''value'': ''clustering''}'
+      - regression
+      - classification
+      - clustering
       required: true
     - id: 3
       name: dataset_size
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''feature_scaling''}'
-      - '{''value'': ''feature_encoding''}'
-      - '{''value'': ''feature_selecting''}'
+      - feature scaling
+      - feature encoding
+      - feature selecting
       required: true
     - id: 6
       name: hyperparameters
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''regression''}'
-      - '{''value'': ''classification''}'
-      - '{''value'': ''clustering''}'
+      - regression
+      - classification
+      - clustering
       required: true
     - id: 11
       name: model_evaluation_method
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''model_selection''}'
-      - '{''value'': ''model_tuning''}'
-      - '{''value'': ''model_ensemble''}'
+      - model selection
+      - model tuning
+      - model ensemble
       required: false
     - id: 12
       name: dataset_size
@@ -98,7 +98,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''small''}'
-      - '{''value'': ''medium''}'
-      - '{''value'': ''large''}'
+      - small
+      - medium
+      - large
       required: true

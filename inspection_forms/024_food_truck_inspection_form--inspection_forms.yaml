@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Closed''}'
+      - Active
+      - Inactive
+      - Closed
       required: false
     - id: 3
       name: food_truck_location
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Expired''}'
+      - Active
+      - Inactive
+      - Expired
       required: false
     - id: 5
       name: food_truck_equipment
@@ -50,8 +50,8 @@ inputSchema:
       hint: Check food preparation and handling areas
       type: select_one
       options:
-      - '{''value'': ''Clean''}'
-      - '{''value'': ''Dirty''}'
+      - Clean
+      - Dirty
       required: false
     - id: 7
       name: temperature_control
@@ -59,8 +59,8 @@ inputSchema:
       hint: Check food temperature
       type: select_one
       options:
-      - '{''value'': ''Within range''}'
-      - '{''value'': ''Below range''}'
+      - Within range
+      - Below range
       required: false
     - id: 8
       name: refrigeration
@@ -68,8 +68,8 @@ inputSchema:
       hint: Check refrigeration units
       type: select_one
       options:
-      - '{''value'': ''Within range''}'
-      - '{''value'': ''Below range''}'
+      - Within range
+      - Below range
       required: false
     - id: 9
       name: food_truck_inspector

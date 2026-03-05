@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''User''}'
-      - '{''value'': ''Lab''}'
-      - '{''value'': ''Warehouse''}'
-      - '{''value'': ''Manufacturing''}'
+      - User
+      - Lab
+      - Warehouse
+      - Manufacturing
       required: true
     - id: 2
       name: submitter_email
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Lab''}'
-      - '{''value'': ''Warehouse''}'
-      - '{''value'': ''Manufacturing''}'
+      - Lab
+      - Warehouse
+      - Manufacturing
       required: true
     - id: 4
       name: location
@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Refrigerated''}'
-      - '{''value'': ''Ambient''}'
-      - '{''value'': ''Freezer''}'
+      - Refrigerated
+      - Ambient
+      - Freezer
       required: true
     - id: 6
       name: storage_condition
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Good''}'
-      - '{''value'': ''Fair''}'
-      - '{''value'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 7
       name: urgency_level
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Low''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 8
       name: supporting_documents
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Lab''}'
-      - '{''value'': ''Warehouse''}'
-      - '{''value'': ''Manufacturing''}'
+      - Lab
+      - Warehouse
+      - Manufacturing
       required: false
     - id: 11
       name: reviewer_email
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not Started''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Completed''}'
+      - Not Started
+      - In Progress
+      - Completed
       required: true
     - id: 16
       name: reviewer_name

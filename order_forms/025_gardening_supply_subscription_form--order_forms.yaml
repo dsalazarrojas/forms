@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Monthly''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Quarterly''}'
-      - '{''id'': 4, ''name'': ''None''}'
+      - Monthly
+      - Weekly
+      - Quarterly
+      - None
       required: true
     - id: 4
       name: delivery_frequency
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Monthly''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Quarterly''}'
+      - Monthly
+      - Weekly
+      - Quarterly
       required: true
     - id: 5
       name: delivery_date
@@ -72,10 +72,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Bank Transfer''}'
-      - '{''id'': 2, ''name'': ''Cash''}'
-      - '{''id'': 3, ''name'': ''Check''}'
-      - '{''id'': 4, ''name'': ''Credit Card''}'
+      - Bank Transfer
+      - Cash
+      - Check
+      - Credit Card
       required: true
     - id: 10
       name: customer_email

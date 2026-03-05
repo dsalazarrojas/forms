@@ -5,278 +5,230 @@ inputSchema:
     pages:
     - id: 1
       name: candidate_name
-      label: candidate_name
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: email
-      label: email
+      label: What is your email address?
       hint: null
       type: email
       options: []
       required: true
     - id: 3
-      name: question_1
-      label: question_1
+      name: experience
+      label: How many years of experience do you have in the fintech industry?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: true
     - id: 4
-      name: question_2
-      label: question_2
+      name: programming_languages
+      label: What programming languages are you proficient in?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Python
+      - Java
+      - JavaScript
+      - C++
+      - SQL
+      - C#
       required: true
     - id: 5
-      name: question_3
-      label: question_3
+      name: job_role
+      label: What is your current job role?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 6
-      name: question_4
-      label: question_4
+      name: company
+      label: What is your current company?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 7
-      name: question_5
-      label: question_5
+      name: expected_salary
+      label: What is your expected salary range?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: true
     - id: 8
-      name: question_6
-      label: question_6
+      name: education
+      label: What is your highest level of education?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 9
-      name: question_7
-      label: question_7
+      name: field_of_interest
+      label: What is your field of interest in fintech?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 10
-      name: question_8
-      label: question_8
+      name: area_of_expertise
+      label: What is your area of expertise in fintech?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 11
-      name: question_9
-      label: question_9
+      name: experience_with_tools
+      label: Can you describe your experience with fintech tools?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 12
-      name: question_10
-      label: question_10
+      name: knowledge_of_fintech
+      label: How would you rate your knowledge of fintech?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: true
     - id: 13
-      name: question_11
-      label: question_11
+      name: fintech_project
+      label: Can you give an example of a fintech project you worked on?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 14
-      name: question_12
-      label: question_12
+      name: experience_with_analysis
+      label: Can you describe your experience with data analysis?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 15
-      name: question_13
-      label: question_13
+      name: financial_modeling
+      label: Can you explain the concept of financial modeling?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 16
-      name: question_14
-      label: question_14
+      name: company_example
+      label: Can you give an example of a fintech company you worked with?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 17
-      name: question_15
-      label: question_15
+      name: fintech_concept
+      label: Can you describe your experience with AI and machine learning?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 18
-      name: question_16
-      label: question_16
+      name: blockchain
+      label: Can you explain the concept of blockchain?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 19
-      name: question_17
-      label: question_17
+      name: fintech_regulations
+      label: Can you explain the concept of fintech regulations?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 20
-      name: question_18
-      label: question_18
+      name: fintech_article
+      label: Can you give an example of a fintech-related article you read?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 21
-      name: question_19
-      label: question_19
+      name: innovation
+      label: Can you describe your experience with fintech innovation?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 22
-      name: question_20
-      label: question_20
+      name: event
+      label: Can you give an example of a fintech event you attended?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 23
-      name: question_21
-      label: question_21
+      name: book
+      label: Can you describe your experience with fintech-related books?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 24
-      name: question_22
-      label: question_22
+      name: research
+      label: Can you give an example of a fintech research paper you read?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 25
-      name: question_23
-      label: question_23
+      name: course
+      label: Can you describe your experience with fintech-related courses?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 26
-      name: question_24
-      label: question_24
+      name: trends
+      label: Can you explain the concept of fintech trends?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 27
-      name: question_25
-      label: question_25
+      name: trend_example
+      label: Can you give an example of a fintech trend you follow?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 28
-      name: question_26
-      label: question_26
+      name: news
+      label: Can you describe your experience with fintech-related news sources?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 29
-      name: question_27
-      label: question_27
+      name: question_29
+      label: Question 29
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 30
-      name: submission
-      label: submission
+      name: question_30
+      label: Question 30
       hint: null
       type: text
       options: []
       required: true
     - id: 31
-      name: email
-      label: email
+      name: expected_salary_2
+      label: Expected Salary 2
       hint: null
-      type: email
+      type: number
       options: []
       required: true
     - id: 32
       name: submission_status
-      label: submission_status
+      label: Submission Status
       hint: null
       type: select_one
       options:
@@ -284,68 +236,18 @@ inputSchema:
       - Inactive
       required: true
     - id: 33
-      name: submitted_on
-      label: submitted_on
+      name: submitted
+      label: Submitted
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: true
     - id: 34
-      name: form_id
-      label: form_id
+      name: submission
+      label: Submission
       hint: null
       type: text
       options: []
-      required: false
-    - id: 35
-      name: category
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 36
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: category
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 38
-      name: submission_status
-      label: submission_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: true
-    - id: 39
-      name: submission_status
-      label: submission_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: true
-    - id: 40
-      name: submitted
-      label: submitted
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: true

@@ -124,11 +124,11 @@ inputSchema:
       hint: Out of 5 stars
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 15
       name: fulfillment_speed_estimate
@@ -190,7 +190,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I agree
-      - false
+      - 'False'
       required: true
     - id: 23
       name: application_submission_date

@@ -4,110 +4,142 @@ inputSchema:
     title: Site Visit Form
     pages:
     - id: 1
-      name: site_visit_form_page_1
-      label: Site Visit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: site_visit_form_page_2
-      label: Contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: site_visit_form_page_3
-      label: Additional Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: contact_details_1
+      name: contact_information_1
       label: Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
-      name: contact_details_2
+      required: true
+    - id: 2
+      name: contact_information_2
+      label: Name (Confirmation)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_information_3
       label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: contact_information_4
+      label: Email (Confirmation)
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_information_5
+      label: Phone (Mobile or Landline)
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: contact_details_3
-      label: Phone
+      name: site_inspection_1
+      label: Checklist 1 (Select Multiple)
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 7
-      name: site_visit_form_page_4
-      label: Site Visit
+      name: site_inspection_2
+      label: Checkboxes 1-5 (Select Multiple)
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 8
-      name: site_visit_form_page_4_1
-      label: Checklist 1
+      name: site_inspection_3
+      label: Checkboxes 6-10 (Select Multiple)
       hint: null
       type: select_multiple
       options:
-      - Checklist 1 Option 1
-      - Checklist 1 Option 2
-      - Checklist 1 Option 3
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 9
-      name: site_visit_form_page_4_2
-      label: Checkboxes 1-5
+      name: site_inspection_4
+      label: Checkboxes 11-15 (Select Multiple)
       hint: null
       type: select_multiple
       options:
-      - Checkboxes 1-5 Option 1
-      - Checkboxes 1-5 Option 2
-      - Checkboxes 1-5 Option 3
-      - Checkboxes 1-5 Option 4
-      - Checkboxes 1-5 Option 5
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 10
-      name: site_visit_form_page_4_3
-      label: Checkboxes 6-10
-      hint: null
-      type: select_multiple
-      options:
-      - Checkboxes 6-10 Option 1
-      - Checkboxes 6-10 Option 2
-      - Checkboxes 6-10 Option 3
-      - Checkboxes 6-10 Option 4
-      - Checkboxes 6-10 Option 5
-      required: false
-    - id: 11
-      name: site_visit_form_page_4_4
-      label: Checkboxes 11-15
-      hint: null
-      type: select_multiple
-      options:
-      - Checkboxes 11-15 Option 1
-      - Checkboxes 11-15 Option 2
-      - Checkboxes 11-15 Option 3
-      - Checkboxes 11-15 Option 4
-      - Checkboxes 11-15 Option 5
-      required: false
-    - id: 12
-      name: site_visit_form_page_5
+      name: site_inspection_5
       label: Site Visit
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 11
+      name: site_inspection_6
+      label: Site Inspection 6
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: site_inspection_7
+      label: Site Inspection 7
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 13
-      name: site_visit_form_page_6
+      name: additional_information_1
       label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_information_2
+      label: Additional Information 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: site_inspection_8
+      label: Checklists 16-20 (Select Multiple)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 16
+      name: site_visit_form_page_6
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: site_visit_form_page_7
+      label: Site Visit Form Page 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: site_visit_form_page_8
+      label: Site Visit Form Page 8
       hint: null
       type: text
       options: []

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Bottled''}'
-      - '{''id'': 2, ''name'': ''Canned''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Bottled
+      - Canned
+      - Other
       required: false
     - id: 4
       name: packaging_design
@@ -44,10 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Simple''}'
-      - '{''id'': 2, ''name'': ''Colorful''}'
-      - '{''id'': 3, ''name'': ''Eye Catching''}'
-      - '{''id'': 4, ''name'': ''Simple''}'
+      - Simple
+      - Colorful
+      - Eye Catching
       required: false
     - id: 5
       name: product_packaging_color
@@ -55,10 +43,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Red''}'
-      - '{''id'': 2, ''name'': ''Green''}'
-      - '{''id'': 3, ''name'': ''Blue''}'
-      - '{''id'': 4, ''name'': ''Yellow''}'
+      - Red
+      - Green
+      - Blue
+      - Yellow
       required: false
     - id: 6
       name: size_and_weight
@@ -87,9 +75,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Small''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 10
       name: packaging_weight
@@ -97,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Lightweight''}'
-      - '{''id'': 2, ''name'': ''Heavy''}'
+      - Lightweight
+      - Heavy
       required: false
     - id: 11
       name: packaging_materials
@@ -106,10 +94,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Plastic''}'
-      - '{''id'': 2, ''name'': ''Paper''}'
-      - '{''id'': 3, ''name'': ''Metal''}'
-      - '{''id'': 4, ''name'': ''Glass''}'
+      - Plastic
+      - Paper
+      - Metal
+      - Glass
       required: false
     - id: 12
       name: shape_of_packaging
@@ -117,11 +105,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Cube''}'
-      - '{''id'': 2, ''name'': ''Cylinder''}'
-      - '{''id'': 3, ''name'': ''Rectangular''}'
-      - '{''id'': 4, ''name'': ''Sphere''}'
-      - '{''id'': 5, ''name'': ''Irregular''}'
+      - Cube
+      - Cylinder
+      - Rectangular
+      - Sphere
+      - Irregular
       required: false
     - id: 13
       name: color_of_packaging
@@ -129,10 +117,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Red''}'
-      - '{''id'': 2, ''name'': ''Green''}'
-      - '{''id'': 3, ''name'': ''Blue''}'
-      - '{''id'': 4, ''name'': ''Yellow''}'
+      - Red
+      - Green
+      - Blue
+      - Yellow
       required: false
     - id: 14
       name: finish_of_packaging
@@ -140,10 +128,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Glossy''}'
-      - '{''id'': 2, ''name'': ''Matte''}'
-      - '{''id'': 3, ''name'': ''Textured''}'
-      - '{''id'': 4, ''name'': ''Embossed''}'
+      - Glossy
+      - Matte
+      - Textured
+      - Embossed
       required: false
     - id: 15
       name: packaging_designer
@@ -172,9 +160,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Automatic''}'
-      - '{''id'': 2, ''name'': ''Manual''}'
-      - '{''id'': 3, ''name'': ''Both''}'
+      - Automatic
+      - Manual
+      - Both
       required: false
     - id: 19
       name: sustainability
@@ -182,9 +170,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 20
       name: product_packaging_design
@@ -192,9 +180,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Simple''}'
-      - '{''id'': 2, ''name'': ''Colorful''}'
-      - '{''id'': 3, ''name'': ''Eye Catching''}'
+      - Simple
+      - Colorful
+      - Eye Catching
       required: false
     - id: 21
       name: packaging_sustainability
@@ -202,9 +190,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 22
       name: eco_friendly_materials
@@ -212,8 +200,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: product_packaging_size
@@ -228,9 +216,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 25
       name: packaging_value
@@ -238,9 +226,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 26
       name: packaging_sustainability_value
@@ -248,9 +236,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 27
       name: packaging_size_cost
@@ -258,9 +246,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 28
       name: packaging_value_cost
@@ -268,7 +256,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false

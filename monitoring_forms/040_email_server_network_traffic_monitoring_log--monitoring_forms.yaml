@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''HTTP'', ''value'': ''http''}'
-      - '{''id'': 2, ''label'': ''SMTP'', ''value'': ''smtp''}'
-      - '{''id'': 3, ''label'': ''POP3'', ''value'': ''pop3''}'
-      - '{''id'': 4, ''label'': ''IMAP'', ''value'': ''imap''}'
-      - '{''id'': 5, ''label'': ''other'', ''value'': ''other''}'
+      - HTTP
+      - SMTP
+      - POP3
+      - IMAP
+      - other
       required: true
     - id: 6
       name: timestamp
@@ -63,11 +63,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Connect'', ''value'': ''connect''}'
-      - '{''id'': 2, ''label'': ''Disconnect'', ''value'': ''disconnect''}'
-      - '{''id'': 3, ''label'': ''Receive'', ''value'': ''receive''}'
-      - '{''id'': 4, ''label'': ''Send'', ''value'': ''send''}'
-      - '{''id'': 5, ''label'': ''other'', ''value'': ''other''}'
+      - Connect
+      - Disconnect
+      - Receive
+      - Send
+      - other
       required: false
     - id: 9
       name: email_id

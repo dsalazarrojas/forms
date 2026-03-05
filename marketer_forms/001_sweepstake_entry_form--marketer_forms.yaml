@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
       name: select_multiple
@@ -61,14 +61,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 9
       name: select_one_with_no_options
-      label: Select one
+      label: Select One With No Options
       hint: null
       type: select_one
       options:
@@ -77,7 +76,7 @@ inputSchema:
       required: false
     - id: 10
       name: select_multiple_with_no_options
-      label: Select multiple
+      label: Select Multiple With No Options
       hint: null
       type: select_multiple
       options:
@@ -85,8 +84,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 11
-      name: select_one_with_no_options
-      label: Select one
+      name: select_one_with_no_options_2
+      label: Select One With No Options 2
       hint: null
       type: select_one
       options:
@@ -94,8 +93,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 12
-      name: select_multiple_with_no_options
-      label: Select multiple
+      name: select_multiple_with_no_options_2
+      label: Select Multiple With No Options 2
       hint: null
       type: select_multiple
       options:
@@ -145,8 +144,8 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: email
-      label: Email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
@@ -159,40 +158,42 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: note
-      label: Note
+      name: note_2
+      label: Note 2
       hint: null
       type: note
       options: []
       required: false
     - id: 22
       name: text2
-      label: Text
+      label: Text2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
       name: select_one2
-      label: Select one
+      label: Select One2
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 24
       name: select_multiple2
-      label: Select multiple
+      label: Select Multiple2
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 25
       name: select_one3
-      label: Select one
+      label: Select One3
       hint: null
       type: select_one
       options:

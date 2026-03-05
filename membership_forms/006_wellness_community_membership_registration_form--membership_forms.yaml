@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Individual''}'
-      - '{''label'': ''Couple''}'
-      - '{''label'': ''Family''}'
+      - Individual
+      - Couple
+      - Family
       required: false
     - id: 7
       name: membership_level
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Basic''}'
-      - '{''label'': ''Premium''}'
+      - Basic
+      - Premium
       required: false
     - id: 8
       name: payment_type
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Bank Transfer''}'
-      - '{''label'': ''Credit Card''}'
+      - Bank Transfer
+      - Credit Card
       required: false
     - id: 9
       name: payment_method
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Online''}'
-      - '{''label'': ''Offline''}'
+      - Online
+      - Offline
       required: false
     - id: 10
       name: address_line_1
@@ -172,8 +172,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 24
       name: assigned_tool

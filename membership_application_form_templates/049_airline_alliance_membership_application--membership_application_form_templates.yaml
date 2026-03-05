@@ -157,8 +157,8 @@ inputSchema:
       hint: Are you IATA member
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: iosaa_certified
@@ -168,7 +168,7 @@ inputSchema:
       options:
       - Yes, current
       - Yes, expired
-      - false
+      - 'False'
       - In progress
       required: true
     - id: 23
@@ -269,8 +269,8 @@ inputSchema:
       hint: Are documents attached
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 35
       name: document_types

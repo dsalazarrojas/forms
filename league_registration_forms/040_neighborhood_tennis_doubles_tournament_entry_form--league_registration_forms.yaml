@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Beginner''}'
-      - '{''label'': ''Intermediate''}'
-      - '{''label'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: false
     - id: 6
       name: team_member_2
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Beginner''}'
-      - '{''label'': ''Intermediate''}'
-      - '{''label'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: true
     - id: 8
       name: team_member_2_phone
@@ -78,19 +78,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Morning''}'
-      - '{''label'': ''Afternoon''}'
-      - '{''label'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 11
       name: team_member_2_match_preference
-      label: Match Preference
+      label: Team Member 2 Match Preference
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Morning''}'
-      - '{''label'': ''Afternoon''}'
-      - '{''label'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 12
       name: team_member_1_match_date
@@ -101,7 +101,7 @@ inputSchema:
       required: true
     - id: 13
       name: team_member_2_match_date
-      label: Match Date
+      label: Team Member 2 Match Date
       hint: null
       type: date
       options: []
@@ -115,7 +115,7 @@ inputSchema:
       required: true
     - id: 15
       name: team_member_2_match_time
-      label: Match Time
+      label: Team Member 2 Match Time
       hint: null
       type: time
       options: []
@@ -129,7 +129,7 @@ inputSchema:
       required: false
     - id: 17
       name: team_member_2_notes
-      label: Notes
+      label: Team Member 2 Notes
       hint: null
       type: note
       options: []
@@ -143,7 +143,7 @@ inputSchema:
       required: false
     - id: 19
       name: team_member_2_agreement
-      label: Agreement
+      label: Team Member 2 Agreement
       hint: null
       type: text
       options: []
@@ -154,17 +154,17 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Tennis Club''}'
-      - '{''label'': ''Home Court''}'
+      - Tennis Club
+      - Home Court
       required: true
     - id: 21
       name: team_member_2_venue
-      label: Team Venue
+      label: Team Member 2 Venue
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Tennis Club''}'
-      - '{''label'': ''Home Court''}'
+      - Tennis Club
+      - Home Court
       required: true
     - id: 22
       name: team_member_1_score
@@ -175,7 +175,7 @@ inputSchema:
       required: true
     - id: 23
       name: team_member_2_score
-      label: Team Score
+      label: Team Member 2 Score
       hint: null
       type: number
       options: []
@@ -189,7 +189,7 @@ inputSchema:
       required: false
     - id: 25
       name: team_member_2_elo
-      label: Team ELO
+      label: Team Member 2 Elo
       hint: null
       type: number
       options: []
@@ -203,7 +203,7 @@ inputSchema:
       required: false
     - id: 27
       name: team_member_2_ucla
-      label: Team UCLA
+      label: Team Member 2 Ucla
       hint: null
       type: text
       options: []

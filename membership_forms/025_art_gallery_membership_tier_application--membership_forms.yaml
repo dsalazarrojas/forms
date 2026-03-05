@@ -90,8 +90,8 @@ inputSchema:
       hint: Have you been a member before
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: previous_member_id
@@ -144,8 +144,8 @@ inputSchema:
       hint: Enable automatic renewal
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: newsletter_subscription
@@ -153,8 +153,8 @@ inputSchema:
       hint: Receive gallery newsletter
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: event_invitations
@@ -162,8 +162,8 @@ inputSchema:
       hint: Receive event invitations
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: volunteer_interest
@@ -171,8 +171,8 @@ inputSchema:
       hint: Interested in volunteering
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Maybe
       required: false
     - id: 21
@@ -198,7 +198,7 @@ inputSchema:
       - Yes - $50
       - Yes - $100
       - Yes - Other Amount
-      - false
+      - 'False'
       required: true
     - id: 23
       name: donation_amount
@@ -248,8 +248,8 @@ inputSchema:
       hint: I accept membership terms and conditions
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 29
       name: additional_comments

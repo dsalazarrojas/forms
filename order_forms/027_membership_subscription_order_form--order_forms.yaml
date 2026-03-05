@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''monthly''}'
-      - '{''value'': ''yearly''}'
-      - '{''value'': ''biyearly''}'
+      - monthly
+      - yearly
+      - biyearly
       required: false
     - id: 3
       name: plan_duration
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''stripe''}'
-      - '{''value'': ''paypal''}'
-      - '{''value'': ''bank_transfer''}'
+      - stripe
+      - paypal
+      - bank transfer
       required: false
     - id: 9
       name: payment_gateway
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''stripe_payments''}'
-      - '{''value'': ''paypal_payments''}'
+      - stripe payments
+      - paypal payments
       required: false
     - id: 10
       name: order_notes

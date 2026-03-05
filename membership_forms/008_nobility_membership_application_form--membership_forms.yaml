@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None'', ''value'': None}'
-      - '{''label'': True, ''value'': 1}'
-      - '{''label'': False, ''value'': 0}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: noble_family_relationship
@@ -47,10 +47,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None'', ''value'': None}'
-      - '{''label'': ''None'', ''value'': None}'
-      - '{''label'': ''None'', ''value'': None}'
-      - '{''label'': ''None'', ''value'': None}'
+      - None
+      - Other
       required: false
     - id: 7
       name: nobility_application_status

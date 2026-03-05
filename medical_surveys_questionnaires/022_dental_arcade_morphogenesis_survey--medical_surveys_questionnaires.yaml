@@ -4,219 +4,158 @@ inputSchema:
     title: dental_arcade_morphogenesis_survey
     pages:
     - id: 1
-      name: intro
-      label: introduction
+      name: introduction
+      label: Introduction
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: patient_info
-      label: patient_info
+      label: Patient Information
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: demographic
-      label: demographic
+      name: dental_clinic
+      label: Dental Clinic
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option 1
+      - Option 2
+      required: true
     - id: 4
-      name: arch_type
-      label: arch_type
+      name: screenings
+      label: Screening
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Option 1
+      - Option 2
       required: false
     - id: 5
-      name: screening
-      label: screening
+      name: participant_info
+      label: Participant Information
       hint: null
       type: text
       options: []
       required: true
     - id: 6
-      name: dental_clinics
-      label: dental_clinics
+      name: screening_assessment
+      label: Screening and Assessment
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Option 1
+      - Option 2
       required: false
     - id: 7
-      name: screening_assessment
-      label: screening_assessment
+      name: study_team
+      label: Study Team
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Option 1
+      - Option 2
       required: false
     - id: 8
-      name: participant_info
-      label: participant_info
+      name: participant_questionnaire
+      label: Participant Questionnaire
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
       required: false
     - id: 9
-      name: study_teams
-      label: study_teams
+      name: participant_survey
+      label: Participant Survey
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Option 1
+      - Option 2
       required: false
     - id: 10
-      name: screenings_assessments
-      label: screenings_assessments
+      name: screenings_participant
+      label: Screening and Participant
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Option 1
+      - Option 2
       required: false
     - id: 11
-      name: screening_assessments
-      label: screening_assessments
+      name: participant_questionnaire_participant
+      label: Participant Questionnaire and Participant
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Option 1
+      - Option 2
       required: false
     - id: 12
-      name: participant_questionnaires
-      label: participant_questionnaires
+      name: participant_questionnaire_participant_2
+      label: Participant Questionnaire Participant 2
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Option 1
+      - Option 2
       required: false
     - id: 13
-      name: screenings_participant_questionnaires
-      label: screenings_participant_questionnaires
+      name: participant_questionnaire_participant_3
+      label: Participant Questionnaire Participant 3
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Option 1
+      - Option 2
       required: false
     - id: 14
-      name: study_screenings_participant_questionnaires
-      label: study_screenings_participant_questionnaires
+      name: participant_questionnaire_2
+      label: Participant Questionnaire 2
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Option 1
+      - Option 2
       required: false
     - id: 15
-      name: participant_questionnaire
-      label: participant_questionnaire
+      name: participant_screening
+      label: Participant Screening
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Option 1
+      - Option 2
       required: false
     - id: 16
-      name: dental_clinic
-      label: dental_clinic
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 17
-      name: participant_survey
-      label: participant_survey
+      name: participant_clinic
+      label: Participant Clinic
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Option 1
+      - Option 2
+      required: false
+    - id: 17
+      name: participant_questionnaire_participant_4
+      label: Participant Questionnaire Participant 4
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
       required: false
     - id: 18
-      name: screenings_participant_screens
-      label: screenings_participant_screens
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: study_teams_screenings
-      label: study_teams_screenings
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: participant_screening
-      label: participant_screening
+      name: participant_questionnaire_3
+      label: Participant Questionnaire 3
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: participant_clinics
-      label: participant_clinics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: participant_questionnaire_participants
-      label: participant_questionnaire_participants
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: screenings_participant_questionnaires
-      label: screenings_participant_questionnaires
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: participant_questionnaire_participants
-      label: participant_questionnaire_participants
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: participant_questionnaire_participants
-      label: participant_questionnaire_participants
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - Option 1
+      - Option 2
       required: false

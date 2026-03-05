@@ -37,14 +37,10 @@ inputSchema:
       hint: Select one
       type: select_one
       options:
-      - label: Less than 120/80 mmHg
-        value: normal
-      - label: 130/90 mmHg
-        value: pre_htn
-      - label: 140/90 mmHg
-        value: stage1
-      - label: 150/100 mmHg
-        value: stage2
+      - Less than 120/80 mmHg
+      - 130/90 mmHg
+      - 140/90 mmHg
+      - 150/100 mmHg
       required: true
     - id: 6
       name: heart_attack_symptoms_common
@@ -52,14 +48,10 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - label: Chest pain or pressure
-        value: chest_pain
-      - label: Shortness of breath
-        value: sob
-      - label: Nausea or lightheadedness
-        value: nausea
-      - label: Pain in jaw, neck, or back
-        value: pain_jaw
+      - Chest pain or pressure
+      - Shortness of breath
+      - Nausea or lightheadedness
+      - Pain in jaw, neck, or back
       required: true
     - id: 7
       name: aerobic_exercise_benefits_cardio
@@ -67,14 +59,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Decreased heart efficiency
-        value: decrease_efficiency
-      - label: Lowered resting heart rate
-        value: lower_rhr
-      - label: Increased LDL cholesterol
-        value: inc_ldl
-      - label: Decreased lung capacity
-        value: dec_lung
+      - Decreased heart efficiency
+      - Lowered resting heart rate
+      - Increased LDL cholesterol
+      - Decreased lung capacity
       required: true
     - id: 8
       name: atherosclerosis_risk_factors
@@ -82,14 +70,10 @@ inputSchema:
       hint: Arterial hardening/plaque
       type: select_multiple
       options:
-      - label: High saturated fat diet
-        value: high_fat
-      - label: Regular physical activity
-        value: physical_activity
-      - label: Chronic stress
-        value: stress
-      - label: Tobacco use
-        value: tobacco
+      - High saturated fat diet
+      - Regular physical activity
+      - Chronic stress
+      - Tobacco use
       required: true
     - id: 9
       name: self_assessed_knowledge_level
@@ -104,14 +88,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: Heart-Healthy Nutrition
-        value: nutrition
-      - label: Stress Management
-        value: stress_mgmt
-      - label: Blood Pressure Control
-        value: bp_control
-      - label: Medication Management
-        value: med_mgmt
+      - Heart-Healthy Nutrition
+      - Stress Management
+      - Blood Pressure Control
+      - Medication Management
       required: false
     - id: 11
       name: preferred_learning_method_style
@@ -119,14 +99,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Video Tutorials
-        value: video
-      - label: Interactive Webinars
-        value: webinars
-      - label: Reading Material (PDFs/Blogs)
-        value: reading
-      - label: In-person Workshops
-        value: workshops
+      - Video Tutorials
+      - Interactive Webinars
+      - Reading Material (PDFs/Blogs)
+      - In-person Workshops
       required: true
     - id: 12
       name: additional_comments_questions

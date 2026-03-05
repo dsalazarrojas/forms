@@ -5,89 +5,116 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: Download Budget Wedding Ideas Form
+      label: Form Title
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: form_category
-      label: Category
+      name: form_budget_category
+      label: Budget Category
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Marketing Forms''}'
-      - '{''label'': ''Wedding Forms''}'
+      - Marketing Forms
+      - Wedding Forms
       required: false
     - id: 3
       name: form_description
-      label: Description
+      label: Event Description
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: form_description
-      label: Description
+      name: form_contact_email
+      label: Contact Email
       hint: null
-      type: text
+      type: email
       options: []
       required: false
     - id: 5
-      name: form_description
-      label: Description
+      name: form_contact_phone
+      label: Contact Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: form_contact_email
-      label: Email
+      name: form_planning_info_decorations
+      label: Planning Info - Decorations
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 7
-      name: form_contact_email
-      label: Email
+      name: form_planning_info_music
+      label: Planning Info - Music
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 8
-      name: form_contact_phone
-      label: Phone
+      name: form_planning_info_food_beverages
+      label: Planning Info - Food & Beverages
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: form_planning_info
-      label: Planning Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: form_planning_info
-      label: Planning Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: form_planning_info
-      label: Planning Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
       name: form_follow_up
       label: Follow-up
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: form_special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_venue
+      label: Venue
+      hint: null
+      type: select_one
+      options:
+      - Church
+      - Outdoor
+      - Restaurant
+      required: false
+    - id: 12
+      name: form_budget_estimate
+      label: Budget Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: form_guests
+      label: Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: form_dress_code
+      label: Dress Code
+      hint: null
+      type: select_one
+      options:
+      - Formal
+      - Casual
+      - None
+      required: false
+    - id: 15
+      name: form_guest_count
+      label: Estimated Guest Count
+      hint: null
+      type: number
+      options: []
       required: false

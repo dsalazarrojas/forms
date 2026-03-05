@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I give my consent'', ''value'': 1}'
-      - '{''label'': "I don''t give my consent", ''value'': 2}'
+      - I give my consent
+      - I don't give my consent
       required: false
     - id: 7
       name: participant_consent_2
@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': 1}'
-      - '{''label'': False, ''value'': 2}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: date_of_birth

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Healing'', ''value'': ''healing''}'
-      - '{''id'': 2, ''label'': ''Not Healing'', ''value'': ''not_healing''}'
-      - '{''id'': 3, ''label'': ''Unhealed'', ''value'': ''unhealed''}'
+      - Healing
+      - Not Healing
+      - Unhealed
       required: false
     - id: 4
       name: wound_size
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Satisfactory'', ''value'': ''satisfactory''}'
-      - '{''id'': 2, ''label'': ''Unsatisfactory'', ''value'': ''unsatisfactory''}'
-      - '{''id'': 3, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      - Satisfactory
+      - Unsatisfactory
+      - Not Applicable
       required: false
     - id: 8
       name: follow_up_care_plan
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Discharged'', ''value'': ''discharged''}'
-      - '{''id'': 2, ''label'': ''Not Discharged'', ''value'': ''not_discharged''}'
+      - Discharged
+      - Not Discharged
       required: false
     - id: 12
       name: reason_for_discharge

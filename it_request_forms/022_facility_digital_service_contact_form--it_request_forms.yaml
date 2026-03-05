@@ -4,188 +4,78 @@ inputSchema:
     title: Facility Digital Service Contact Form
     pages:
     - id: 1
-      name: facility_digital_service_contact_form
-      label: Facility Digital Service Contact Form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: contact_form_location
-      label: contact_form_location
+      name: facility_digital_service_contact_form_1
+      label: What is the location where you are experiencing the issue?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Location 1''}'
-      - '{''id'': 2, ''name'': ''Location 2''}'
-      required: false
-    - id: 3
-      name: contact_form_priority
-      label: contact_form_priority
+      - Location 1
+      - Location 2
+      required: true
+    - id: 2
+      name: facility_digital_service_contact_form_priority
+      label: What is your priority for this issue?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
-      required: false
-    - id: 4
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 3
       name: contact_form_email
-      label: contact_form_email
-      hint: Enter contact email
+      label: What is your contact email?
+      hint: null
       type: email
+      options: []
+      required: true
+    - id: 4
+      name: facility_digital_service_contact_form_phone
+      label: Do you have a phone number to contact you?
+      hint: null
+      type: text
       options: []
       required: false
     - id: 5
-      name: facility_digital_service_contact_form_phone
-      label: contact_form_phone
+      name: facility_digital_service_contact_form_comments
+      label: Please provide more details about the issue
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: contact_form_comments
-      label: contact_form_comments
+      name: facility_digital_service_contact_form_facility
+      label: What facility is experiencing the issue?
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      required: true
+    - id: 7
+      name: facility_digital_service_contact_form_comments_2
+      label: Do you have any comments?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''IT''}'
-      - '{''id'': 2, ''name'': ''Facility''}'
       required: false
     - id: 8
-      name: facility_digital_service_contact_form_facility
-      label: facility_digital_service_contact_form_facility
+      name: facility_digital_service_contact_form_comments_2_2
+      label: How do you want to be contacted?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Location 1''}'
-      - '{''id'': 2, ''name'': ''Location 2''}'
+      type: text
+      options: []
       required: false
     - id: 9
-      name: facility_digital_service_contact_form_priority
-      label: facility_digital_service_contact_form_priority
+      name: facility_digital_service_contact_form_comments_3
+      label: Facility Digital Service Contact Form Comments 3
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      type: text
+      options: []
       required: false
     - id: 10
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: facility_digital_service_contact_form_comments
-      label: facility_digital_service_contact_form_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: facility_digital_service_contact_form_comments
-      label: facility_digital_service_contact_form_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: facility_digital_service_contact_form_comments_2
-      label: facility_digital_service_contact_form_comments_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: facility_digital_service_contact_form_comments_3
-      label: facility_digital_service_contact_form_comments_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
       name: facility_digital_service_contact_form_comments_4
-      label: facility_digital_service_contact_form_comments_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: facility_digital_service_contact_form_comments_5
-      label: facility_digital_service_contact_form_comments_5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: facility_digital_service_contact_form_comments_6
-      label: facility_digital_service_contact_form_comments_6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: facility_digital_service_contact_form_comments_7
-      label: facility_digital_service_contact_form_comments_7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: facility_digital_service_contact_form_comments_8
-      label: facility_digital_service_contact_form_comments_8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: facility_digital_service_contact_form_comments_9
-      label: facility_digital_service_contact_form_comments_9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: facility_digital_service_contact_form_comments_10
-      label: facility_digital_service_contact_form_comments_10
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: facility_digital_service_contact_form_comments_11
-      label: facility_digital_service_contact_form_comments_11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: facility_digital_service_contact_form_comments_12
-      label: facility_digital_service_contact_form_comments_12
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: facility_digital_service_contact_form_comments_13
-      label: facility_digital_service_contact_form_comments_13
+      label: Do you have any other comments?
       hint: null
       type: text
       options: []

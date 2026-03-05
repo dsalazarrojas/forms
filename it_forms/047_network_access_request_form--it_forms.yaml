@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Sales''}'
-      - '{''id'': 2, ''name'': ''Marketing''}'
-      - '{''id'': 3, ''name'': ''IT''}'
+      - Sales
+      - Marketing
+      - IT
       required: true
     - id: 10
       name: manager
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''John Smith''}'
-      - '{''id'': 2, ''name'': ''Jane Doe''}'
-      - '{''id'': 3, ''name'': ''Bob Johnson''}'
+      - John Smith
+      - Jane Doe
+      - Bob Johnson
       required: true
     - id: 11
       name: submit_request

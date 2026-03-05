@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Maintenance''}'
-      - '{''label'': ''Repair''}'
-      - '{''label'': ''Other''}'
+      - None
+      - Maintenance
+      - Repair
+      - Other
       required: false
     - id: 4
       name: notes
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Tool 1''}'
-      - '{''label'': ''Tool 2''}'
-      - '{''label'': ''Tool 3''}'
+      - Tool 1
+      - Tool 2
+      - Tool 3
       required: false
     - id: 9
       name: location_name

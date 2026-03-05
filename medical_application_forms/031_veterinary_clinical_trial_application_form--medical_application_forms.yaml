@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: owner
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Dog''}'
-      - '{''label'': ''Cat''}'
-      - '{''label'': ''Other''}'
+      - Dog
+      - Cat
+      - Other
       required: false
     - id: 7
       name: medical_status
@@ -63,6 +63,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''label'': ''Email'', ''value'': ''email''}'
+      - Phone
+      - Email
       required: false

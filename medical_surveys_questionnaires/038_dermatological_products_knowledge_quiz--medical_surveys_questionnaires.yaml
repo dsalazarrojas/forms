@@ -4,15 +4,8 @@ inputSchema:
     title: Dermatological Products Knowledge Quiz
     pages:
     - id: 1
-      name: introduction
-      label: introduction
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
       name: skin_types
-      label: skin_types
+      label: Skin Types
       hint: null
       type: select_multiple
       options:
@@ -29,10 +22,10 @@ inputSchema:
       - Rosacea
       - Sun Damage
       required: true
-    - id: 3
+    - id: 2
       name: skin_concerns
-      label: skin_concerns
-      hint: What are you concerned about with your skin?
+      label: Skin Concerns
+      hint: null
       type: select_one
       options:
       - Acne
@@ -46,10 +39,10 @@ inputSchema:
       - Skin Tightening
       - Sun Damage
       required: true
-    - id: 4
+    - id: 3
       name: skin_products
-      label: skin_products
-      hint: What skin product do you use?
+      label: Skin Products
+      hint: null
       type: select_multiple
       options:
       - Cream
@@ -62,58 +55,65 @@ inputSchema:
       - Sunscreen
       - Toners
       required: true
-    - id: 5
+    - id: 4
       name: dermatology_questions
-      label: dermatology_questions
+      label: Dermatological Questions
       hint: null
       type: time
       options: []
       required: true
-    - id: 6
-      name: skincare_expert
-      label: skincare_expert
+    - id: 5
+      name: skincare_expert_contact
+      label: Skincare Expert Contact Information
       hint: null
       type: email
       options: []
       required: true
-    - id: 7
-      name: skincare_expert_phone
-      label: skincare_expert_phone
+    - id: 6
+      name: relationship_with_skincare_expert
+      label: Relationship with Skincare Expert
       hint: null
       type: text
       options: []
       required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 8
-      name: skincare_form_comments
-      label: skincare_form_comments
+      name: comments2
+      label: Comments2
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: skincare_form_comments2
-      label: skincare_form_comments
+      name: comments3
+      label: Comments3
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: skincare_expert_signature
-      label: skincare_expert_signature
+      name: comments4
+      label: Comments4
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: skincare_expert_signature2
-      label: skincare_expert_signature
+      name: comments5
+      label: Comments5
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: skincare_expert_signature3
-      label: skincare_expert_signature
+      name: comments6
+      label: Comments6
       hint: null
       type: text
       options: []

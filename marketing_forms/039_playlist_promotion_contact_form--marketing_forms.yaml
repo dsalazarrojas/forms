@@ -5,202 +5,71 @@ inputSchema:
     pages:
     - id: 1
       name: contact
-      label: Contact
+      label: Contact Information
       hint: null
-      type: email
+      type: text
       options: []
-      required: true
+      required: false
     - id: 2
       name: campaign_details
       label: Campaign Details
       hint: null
-      type: select_one
-      options:
-      - Label 1
-      - Label 2
-      - Label 3
+      type: text
+      options: []
       required: false
     - id: 3
       name: artist_info
       label: Artist Info
       hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 4
       name: release_info
       label: Release Info
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 5
-      name: note
-      label: Note
+      name: notes
+      label: Notes
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 6
-      name: note2
-      label: Another Note
+      name: select_one
+      label: Select One
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 7
-      name: phone
-      label: Phone
+      name: select_multiple
+      label: Select Multiple
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: email
-      label: Email
+      name: select_multiple_2
+      label: Select Multiple 2
       hint: null
-      type: email
+      type: text
       options: []
-      required: true
+      required: false
     - id: 9
-      name: select_one
-      label: Select One
+      name: select_one_2
+      label: Select One 2
       hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
+      type: text
+      options: []
       required: false
     - id: 10
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 11
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: decimal
-      label: Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: text
-      label: Text
+      name: select_multiple_3
+      label: Select Multiple 3
       hint: null
       type: text
       options: []
-      required: false
-    - id: 15
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 16
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 17
-      name: text2
-      label: Text 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: date2
-      label: Date 2
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: time2
-      label: Time 2
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: text3
-      label: Text 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 22
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Other
-      required: false
-    - id: 23
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Other
-      required: false
-    - id: 24
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

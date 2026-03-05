@@ -32,17 +32,6 @@ inputSchema:
       options: []
       required: true
     - id: 5
-      name: interest
-      label: Interests
-      hint: null
-      type: select_multiple
-      options:
-      - Housing
-      - Environment
-      - Community
-      - Other
-      required: true
-    - id: 6
       name: how_did_you_hear
       label: How did you hear about us?
       hint: null
@@ -53,63 +42,8 @@ inputSchema:
       - Online Search
       - Other
       required: true
-    - id: 7
-      name: how_did_you_hear_other
-      label: Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: email_frequency
-      label: Email Frequency
-      hint: null
-      type: select_one
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      - Quarterly
-      - Other
-      required: true
-    - id: 9
-      name: email_format
-      label: Email Format
-      hint: null
-      type: select_one
-      options:
-      - HTML
-      - Plain text
-      required: true
-    - id: 10
-      name: language
-      label: Language
-      hint: null
-      type: select_one
-      options:
-      - English
-      - Spanish
-      - French
-      required: true
-    - id: 11
-      name: mailing_list
-      label: Mailing List
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      - Other
-      required: true
-    - id: 12
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: how_can_we_contact
+    - id: 6
+      name: how_did_we_contact
       label: How can we contact you?
       hint: null
       type: select_one
@@ -119,93 +53,60 @@ inputSchema:
       - Mail
       - Other
       required: true
-    - id: 14
-      name: mailchimp_list
-      label: Mailchimp List
+    - id: 7
+      name: mailing_list
+      label: Mailing List
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       - Other
       required: true
-    - id: 15
-      name: mailchimp_list_id
-      label: Mailchimp List ID
+    - id: 8
+      name: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
-      name: mailchimp_list_name
-      label: Mailchimp List Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: mailchimp_list_id
-      label: Mailchimp List ID
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: mailchimp_list_name
-      label: Mailchimp List Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: mailchimp_list_id
-      label: Mailchimp List ID
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: mailchimp_list_name
-      label: Mailchimp List Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: mailchimp_list_id
-      label: Mailchimp List ID
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: mailchimp_list_name
-      label: Mailchimp List Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: mailchimp_list
-      label: Mailchimp List
+    - id: 9
+      name: email_frequency
+      label: Email Frequency
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 10
+      name: email_format
+      label: Email Format
+      hint: null
+      type: select_one
+      options:
+      - HTML
+      - Plain text
+      required: true
+    - id: 11
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: true
+    - id: 12
+      name: contact_method
+      label: How can we send you emails?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       - Other
       required: true
-    - id: 24
-      name: mailchimp_list_id
-      label: Mailchimp List ID
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: mailchimp_list_name
-      label: Mailchimp List Name
-      hint: null
-      type: text
-      options: []
-      required: false

@@ -15,76 +15,124 @@ inputSchema:
     title: User Persona Survey
     pages:
     - id: 1
-      name: user_persona_survey_form
-      label: User Persona Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: user_persona_survey_category
-      label: Category
+      name: marketer_forms_role
+      label: What is your role in the organization?
       hint: null
       type: select_one
       options:
-      - Marketer Forms
+      - Marketing Manager
+      - Sales Manager
+      - Product Manager
+      - IT Manager
       - Other
       required: false
-    - id: 3
-      name: user_persona_survey_description
-      label: Description
+    - id: 2
+      name: marketer_forms_experience
+      label: What is your level of experience with marketing tools?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Novice
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 3
+      name: marketer_forms_automation_tools_use
+      label: How do you currently use marketing automation tools?
+      hint: null
+      type: select_multiple
+      options:
+      - Social media automation
+      - Email marketing
+      - Content creation
+      - Lead generation
+      - Other (please specify)
       required: false
     - id: 4
-      name: user_persona_survey_output_file
-      label: Output File
+      name: marketer_forms_communication_preferred
+      label: What is your preferred way of communication?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Messaging app
+      - Video call
+      - In-person meeting
       required: false
     - id: 5
-      name: user_persona_survey_assigned_tool
-      label: Assigned Tool
+      name: marketer_forms_experience_years
+      label: How many years do you have in experience with marketing software?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 6
-      name: user_persona_survey_form_ids
-      label: Form ID
+      name: marketer_forms_goal
+      label: What is your primary goal when using marketing automation tools?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: user_persona_survey_category_2
-      label: Category
+      name: marketer_forms_pain_points
+      label: Can you describe your current pain points when using marketing automation
+        tools?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: marketer_forms_device_preferred
+      label: Do you prefer using desktop or mobile apps for marketing automation?
       hint: null
       type: select_one
       options:
-      - Marketer Forms
-      - Other
-      required: false
-    - id: 8
-      name: user_persona_survey_description_2
-      label: Description
-      hint: null
-      type: text
-      options: []
+      - Desktop
+      - Mobile
       required: false
     - id: 9
-      name: user_persona_survey_assigned_tool_2
-      label: Assigned Tool
+      name: marketer_forms_features
+      label: Which features are most important to you when using marketing automation
+        tools?
+      hint: null
+      type: select_multiple
+      options:
+      - Personalization
+      - Automation
+      - Integration
+      - Reporting
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: marketer_forms_age_range
+      label: What is your age range?
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
+      required: false
+    - id: 11
+      name: marketer_forms_job_title
+      label: What is your job title?
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: user_persona_survey_form_ids_2
-      label: Form ID
+    - id: 12
+      name: marketer_forms_education
+      label: What is your highest level of education completed?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - High school
+      - Bachelor's degree
+      - Master's degree
+      - Doctoral degree
+      - Other
       required: false

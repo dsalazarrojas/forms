@@ -4,209 +4,35 @@ inputSchema:
     title: Hi Fi Music Service Membership Form
     pages:
     - id: 1
-      name: membership_form
-      label: New Subscriber Form
+      name: basic_info
+      label: Basic Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: name
-      label: Name
+      name: membership_details
+      label: Membership Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: email
-      label: Email
+      name: address_info
+      label: Address Information
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 4
-      name: phone
-      label: Phone
+      name: membership_status
+      label: Membership Status
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: date
-      label: Join Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: membership_plan
-      label: Membership Plan
-      hint: null
-      type: select_one
-      options:
-      - '[''Music Pro'', ''Basic'']'
-      - None
-      required: false
-    - id: 7
-      name: payment_method
-      label: Payment Method
-      hint: null
-      type: select_one
-      options:
-      - '[''Credit Card'', ''Bank Transfer'']'
-      - None
-      required: false
-    - id: 8
       name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: name_2
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: email_2
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: phone_2
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: payment_method_2
-      label: Payment Method
-      hint: null
-      type: select_one
-      options:
-      - '[''Credit Card'', ''Bank Transfer'']'
-      - None
-      required: false
-    - id: 13
-      name: address
-      label: Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: city
-      label: City
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: state
-      label: State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: zip
-      label: Zip
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: country
-      label: Country
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: membership_type
-      label: Membership Type
-      hint: null
-      type: select_one
-      options:
-      - '[''Monthly'', ''Quarterly'', ''Yearly'']'
-      - None
-      required: false
-    - id: 19
-      name: note_2
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: membership_status
-      label: Membership Status
-      hint: null
-      type: select_one
-      options:
-      - '[''Active'', ''Inactive'', ''Pending'']'
-      - None
-      required: false
-    - id: 21
-      name: membership_status_2
-      label: Membership Status
-      hint: null
-      type: select_one
-      options:
-      - '[''Active'', ''Inactive'', ''Pending'']'
-      - None
-      required: false
-    - id: 22
-      name: note_3
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: membership_plan_2
-      label: Membership Plan
-      hint: null
-      type: select_one
-      options:
-      - '[''Monthly'', ''Quarterly'', ''Yearly'']'
-      - None
-      required: false
-    - id: 24
-      name: membership_status_2
-      label: Membership Status
-      hint: null
-      type: select_one
-      options:
-      - '[''Active'', ''Inactive'', ''Pending'']'
-      - None
-      required: false
-    - id: 25
-      name: membership_plan_3
-      label: Membership Plan
-      hint: null
-      type: select_one
-      options:
-      - '[''Monthly'', ''Quarterly'', ''Yearly'']'
-      - None
-      required: false
-    - id: 26
-      name: membership_status_3
-      label: Membership Status
-      hint: null
-      type: select_one
-      options:
-      - '[''Active'', ''Inactive'', ''Pending'']'
-      - None
-      required: false
-    - id: 27
-      name: note_4
       label: Note
       hint: null
       type: note

@@ -15,42 +15,28 @@ inputSchema:
     title: Investment Statement Communication Consent
     pages:
     - id: 1
-      name: form_1
-      label: Investment Statement Communication
+      name: contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: contact_info_1
-      label: Contact Info
+      name: investment_statement
+      label: Investment Statement
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: contact_email_1
+      name: email
       label: Email
       hint: null
       type: email
       options: []
       required: false
     - id: 4
-      name: contact_phone_1
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: investment_statement_1
-      label: Investment Statement
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: statement_frequency_1
+      name: statement_frequency
       label: Statement Frequency
       hint: null
       type: select_one
@@ -59,38 +45,18 @@ inputSchema:
       - Weekly
       - Monthly
       required: false
-    - id: 7
-      name: statement_frequency_2
-      label: statement_frequency_1
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      required: false
-    - id: 8
-      name: email_frequency_1
-      label: email_frequency_1
+    - id: 5
+      name: contact_method
+      label: Contact Method
       hint: null
       type: select_one
       options:
-      - Daily
-      - Weekly
-      - Monthly
+      - Phone
+      - Email
+      - Text
       required: false
-    - id: 9
-      name: email_frequency_2
-      label: email_frequency_1
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      required: false
-    - id: 10
-      name: email_notification_1
+    - id: 6
+      name: email_notification
       label: Email Notification
       hint: null
       type: select_one
@@ -98,68 +64,8 @@ inputSchema:
       - 'True'
       - 'False'
       required: false
-    - id: 11
-      name: email_frequency_3
-      label: email_frequency_1
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      required: false
-    - id: 12
-      name: statement_frequency_3
-      label: statement_frequency_1
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      required: false
-    - id: 13
-      name: contact_method_1
-      label: Contact Method
-      hint: null
-      type: select_one
-      options:
-      - Phone
-      - Email
-      - Text
-      required: false
-    - id: 14
-      name: contact_method_2
-      label: Contact Method
-      hint: null
-      type: select_multiple
-      options:
-      - Phone
-      - Email
-      - Text
-      required: false
-    - id: 15
-      name: contact_method_3
-      label: Contact Method
-      hint: null
-      type: select_one
-      options:
-      - Phone
-      - Email
-      - Text
-      required: false
-    - id: 16
-      name: contact_method_4
-      label: Contact Method
-      hint: null
-      type: select_multiple
-      options:
-      - Phone
-      - Email
-      - Text
-      required: false
-    - id: 17
-      name: email_content_1
+    - id: 7
+      name: email_content
       label: Email Content
       hint: null
       type: select_one
@@ -167,76 +73,17 @@ inputSchema:
       - 'True'
       - 'False'
       required: false
-    - id: 18
-      name: email_content_2
-      label: Email Content
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 19
-      name: statement_frequency_4
-      label: statement_frequency_1
-      hint: null
-      type: select_one
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      required: false
-    - id: 20
-      name: statement_frequency_5
-      label: statement_frequency_1
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      required: false
-    - id: 21
-      name: email_frequency_4
-      label: email_frequency_1
-      hint: null
-      type: select_one
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      required: false
-    - id: 22
-      name: email_frequency_5
-      label: email_frequency_1
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      required: false
-    - id: 23
+    - id: 8
       name: contact_info_2
-      label: Contact Info
+      label: Contact Info 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 24
-      name: contact_phone_2
+    - id: 9
+      name: contact_phone
       label: Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 25
-      name: statement_frequency_6
-      label: statement_frequency_1
-      hint: null
-      type: select_one
-      options:
-      - Daily
-      - Weekly
-      - Monthly
       required: false

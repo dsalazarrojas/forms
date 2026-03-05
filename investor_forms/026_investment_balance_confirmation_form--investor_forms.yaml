@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Stock''}'
-      - '{''value'': ''Bond''}'
-      - '{''value'': ''ETF''}'
-      - '{''value'': ''Mutual Fund''}'
-      - '{''value'': ''Other''}'
+      - Stock
+      - Bond
+      - ETF
+      - Mutual Fund
+      - Other
       required: false
     - id: 7
       name: security_position_details
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Advisor''}'
-      - '{''value'': ''Accountant''}'
-      - '{''value'': ''Other''}'
+      - Advisor
+      - Accountant
+      - Other
       required: false
     - id: 11
       name: auditor_name
@@ -108,9 +108,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pass''}'
-      - '{''value'': ''Fail''}'
-      - '{''value'': ''Pending''}'
+      - Pass
+      - Fail
+      - Pending
       required: false
     - id: 15
       name: comments

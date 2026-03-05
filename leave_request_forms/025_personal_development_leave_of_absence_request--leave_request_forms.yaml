@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''label'': ''Approve with Conditions''}'
-      - '{''id'': 1, ''label'': ''Approve without Conditions''}'
-      - '{''id'': 2, ''label'': ''Decline''}'
+      - Approve with Conditions
+      - Approve without Conditions
+      - Decline
       required: true
     - id: 6
       name: employee_name
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''label'': ''Pending''}'
-      - '{''id'': 1, ''label'': ''Approved''}'
-      - '{''id'': 2, ''label'': ''Declined''}'
+      - Pending
+      - Approved
+      - Declined
       required: true
     - id: 13
       name: assigned_tool

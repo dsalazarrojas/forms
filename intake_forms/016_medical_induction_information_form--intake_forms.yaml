@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''New Patient'', ''label'': ''New Patient''}'
-      - '{''id'': 2, ''name'': ''Follow-up'', ''label'': ''Follow-up''}'
+      - New Patient
+      - Follow-up
       required: false
     - id: 13
       name: contact_method
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Email'', ''label'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone'', ''label'': ''Phone''}'
-      - '{''id'': 3, ''name'': ''SMS'', ''label'': ''SMS''}'
+      - Email
+      - Phone
+      - SMS
       required: false
     - id: 14
       name: contact_frequency
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Daily'', ''label'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly'', ''label'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Monthly'', ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 15
       name: emergency_name
@@ -129,7 +129,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Parent'', ''label'': ''Parent''}'
-      - '{''id'': 2, ''name'': ''Spouse'', ''label'': ''Spouse''}'
-      - '{''id'': 3, ''name'': ''Child'', ''label'': ''Child''}'
+      - Parent
+      - Spouse
+      - Child
       required: false

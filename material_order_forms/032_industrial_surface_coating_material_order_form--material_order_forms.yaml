@@ -5,20 +5,20 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: Industrial Surface Coating Material Order Form
+      label: Form Title
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: category
-      label: Material Order Forms
+      label: Material Order Category
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Material Order Forms''}'
-      - '{''id'': 2, ''label'': ''Coating Forms''}'
-      - '{''id'': 3, ''label'': ''Other Forms''}'
+      - Material Order Forms
+      - Coating Forms
+      - Other Forms
       required: true
     - id: 3
       name: description
@@ -28,194 +28,75 @@ inputSchema:
       options: []
       required: false
     - id: 4
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: date
       label: Date
       hint: null
       type: date
       options: []
       required: true
-    - id: 6
+    - id: 5
       name: time
       label: Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 7
+    - id: 6
       name: email
       label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: note
       label: Note
       hint: null
       type: note
       options: []
       required: false
-    - id: 10
+    - id: 9
       name: material_order_forms
       label: Material Order Forms
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Material Order Forms''}'
-      - '{''id'': 2, ''label'': ''Coating Forms''}'
-      - '{''id'': 3, ''label'': ''Other Forms''}'
+      - Material Order Forms
+      - Coating Forms
+      - Other Forms
+      required: true
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
       required: true
     - id: 11
-      name: submit
-      label: Submit
+      name: material_order_forms_2
+      label: Material Order Forms (again)
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Cancel''}'
+      - Material Order Forms
+      - Coating Forms
+      - Other Forms
       required: true
     - id: 12
-      name: submit
-      label: Submit
+      name: submit_2
+      label: Submit (again)
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Cancel''}'
-      required: true
-    - id: 13
-      name: submit
-      label: Submit
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Cancel''}'
-      required: true
-    - id: 14
-      name: submit
-      label: Submit
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Cancel''}'
-      required: true
-    - id: 15
-      name: submit
-      label: Submit
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Cancel''}'
-      required: true
-    - id: 16
-      name: submit
-      label: Submit
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Cancel''}'
-      required: true
-    - id: 17
-      name: submit
-      label: Submit
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Cancel''}'
-      required: true
-    - id: 18
-      name: submit
-      label: Submit
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Cancel''}'
-      required: true
-    - id: 19
-      name: submit
-      label: Submit
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Cancel''}'
-      required: true
-    - id: 20
-      name: submit
-      label: Submit
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Cancel''}'
-      required: true
-    - id: 21
-      name: material_order_forms
-      label: Material Order Forms
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Material Order Forms''}'
-      - '{''id'': 2, ''label'': ''Coating Forms''}'
-      - '{''id'': 3, ''label'': ''Other Forms''}'
-      required: true
-    - id: 22
-      name: material_order_forms
-      label: Material Order Forms
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Material Order Forms''}'
-      - '{''id'': 2, ''label'': ''Coating Forms''}'
-      - '{''id'': 3, ''label'': ''Other Forms''}'
-      required: true
-    - id: 23
-      name: material_order_forms
-      label: Material Order Forms
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Material Order Forms''}'
-      - '{''id'': 2, ''label'': ''Coating Forms''}'
-      - '{''id'': 3, ''label'': ''Other Forms''}'
-      required: true
-    - id: 24
-      name: material_order_forms
-      label: Material Order Forms
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Material Order Forms''}'
-      - '{''id'': 2, ''label'': ''Coating Forms''}'
-      - '{''id'': 3, ''label'': ''Other Forms''}'
-      required: true
-    - id: 25
-      name: material_order_forms
-      label: Material Order Forms
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Material Order Forms''}'
-      - '{''id'': 2, ''label'': ''Coating Forms''}'
-      - '{''id'': 3, ''label'': ''Other Forms''}'
+      - Submit
+      - Cancel
       required: true

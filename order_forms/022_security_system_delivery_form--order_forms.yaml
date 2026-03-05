@@ -16,9 +16,9 @@ inputSchema:
       hint: Client Name, Address and Contact Details
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''john.doe@example.com''}'
-      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''jane.doe@example.com''}'
-      - '{''id'': 3, ''label'': ''Bob Smith'', ''value'': ''bob.smith@example.com''}'
+      - John Doe
+      - Jane Doe
+      - Bob Smith
       required: false
     - id: 3
       name: delivery_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Delivery'', ''value'': ''delivery''}'
-      - '{''id'': 2, ''label'': ''Pickup'', ''value'': ''pickup''}'
-      - '{''id'': 3, ''label'': ''In Person'', ''value'': ''in_person''}'
+      - Delivery
+      - Pickup
+      - In Person
       required: false
     - id: 4
       name: product_info

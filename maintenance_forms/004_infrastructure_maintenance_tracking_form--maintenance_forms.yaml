@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 5
       name: category
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John''}'
-      - '{''id'': 2, ''label'': ''Jane''}'
-      - '{''id'': 3, ''label'': ''Jim''}'
+      - John
+      - Jane
+      - Jim
       required: false
     - id: 7
       name: status
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''New''}'
-      - '{''id'': 2, ''label'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Done''}'
+      - New
+      - In Progress
+      - Done
       required: false
     - id: 8
       name: due_date
@@ -172,8 +172,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 24
       name: facility_status_notes

@@ -1,236 +1,225 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Anytime Fitness 7 Day Exit Survey
     pages:
-      - id: 1
-        name: member_name
-        label: Member name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: member_id
-        label: Membership ID
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: exit_date
-        label: Membership exit or cancellation date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: membership_duration
-        label: How long were you a member?
-        hint: null
-        type: select_one
-        options:
-          - Less than 1 month
-          - 1-3 months
-          - 3-6 months
-          - 6-12 months
-          - 1-2 years
-          - 2+ years
-        required: true
-      - id: 5
-        name: facility_usage
-        label: How often did you use the facility?
-        hint: null
-        type: select_one
-        options:
-          - Daily
-          - Several times per week
-          - Weekly
-          - A few times per month
-          - Rarely
-          - Never used
-        required: true
-      - id: 6
-        name: primary_fitness_goal
-        label: What was your primary fitness goal?
-        hint: null
-        type: select_one
-        options:
-          - Weight loss
-          - Muscle building
-          - Cardiovascular fitness
-          - General fitness and health
-          - Rehabilitation or recovery
-          - Social connection
-          - Other
-        required: true
-      - id: 7
-        name: goal_achievement
-        label: Did you achieve your fitness goal?
-        hint: null
-        type: select_one
-        options:
-          - Yes, completely
-          - Partially achieved
-          - Not achieved
-          - Too soon to say
-        required: true
-      - id: 8
-        name: facilities_quality
-        label: Quality of facilities and equipment
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Very poor
-        required: true
-      - id: 9
-        name: cleanliness_rating
-        label: Facility cleanliness
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Very poor
-        required: true
-      - id: 10
-        name: equipment_condition
-        label: Condition and maintenance of equipment
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Very poor
-        required: true
-      - id: 11
-        name: staff_friendliness
-        label: Friendliness of staff
-        hint: null
-        type: select_one
-        options:
-          - Very friendly
-          - Friendly
-          - Neutral
-          - Unfriendly
-          - Very unfriendly
-        required: true
-      - id: 12
-        name: staff_knowledge
-        label: Staff knowledge and helpfulness
-        hint: null
-        type: select_one
-        options:
-          - Very knowledgeable and helpful
-          - Knowledgeable and helpful
-          - Adequate
-          - Not very helpful
-          - Unhelpful
-        required: true
-      - id: 13
-        name: class_offerings
-        label: Quality of group fitness classes
-        hint: null
-        type: select_one
-        options:
-          - Excellent variety and quality
-          - Good options
-          - Fair selection
-          - Poor selection
-          - No classes
-        required: false
-      - id: 14
-        name: pricing_value
-        label: Was membership price fair for value?
-        hint: null
-        type: select_one
-        options:
-          - Excellent value
-          - Good value
-          - Fair value
-          - Poor value
-          - Very poor value
-        required: true
-      - id: 15
-        name: cancellation_reason
-        label: Primary reason for cancellation
-        hint: Select main reason
-        type: select_one
-        options:
-          - Moved away
-          - Not using the facility
-          - Cost too high
-          - Dissatisfaction with facility
-          - Inadequate hours
-          - Too crowded
-          - Preferred another gym
-          - Personal circumstances
-          - Other
-        required: true
-      - id: 16
-        name: cancellation_details
-        label: Please elaborate on your reason for canceling
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: improvement_suggestions
-        label: What could we improve?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 18
-        name: willing_return
-        label: Would you consider rejoining in the future?
-        hint: null
-        type: select_one
-        options:
-          - Yes, definitely
-          - Possibly
-          - Unlikely
-          - No
-        required: true
-      - id: 19
-        name: recommend_gym
-        label: Would you recommend Anytime Fitness to others?
-        hint: null
-        type: select_one
-        options:
-          - Yes, definitely
-          - Possibly
-          - Unlikely
-          - No
-        required: true
-      - id: 20
-        name: overall_experience
-        label: Overall experience rating
-        hint: null
-        type: select_one
-        options:
-          - Very satisfied
-          - Satisfied
-          - Neutral
-          - Dissatisfied
-          - Very dissatisfied
-        required: true
+    - id: 1
+      name: member_name
+      label: Member name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_id
+      label: Membership ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exit_date
+      label: Membership exit or cancellation date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: membership_duration
+      label: How long were you a member?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      required: true
+    - id: 5
+      name: facility_usage
+      label: How often did you use the facility?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - A few times per month
+      - Rarely
+      - Never used
+      required: true
+    - id: 6
+      name: primary_fitness_goal
+      label: What was your primary fitness goal?
+      hint: null
+      type: select_one
+      options:
+      - Weight loss
+      - Muscle building
+      - Cardiovascular fitness
+      - General fitness and health
+      - Rehabilitation or recovery
+      - Social connection
+      - Other
+      required: true
+    - id: 7
+      name: goal_achievement
+      label: Did you achieve your fitness goal?
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely
+      - Partially achieved
+      - Not achieved
+      - Too soon to say
+      required: true
+    - id: 8
+      name: facilities_quality
+      label: Quality of facilities and equipment
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 9
+      name: cleanliness_rating
+      label: Facility cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 10
+      name: equipment_condition
+      label: Condition and maintenance of equipment
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 11
+      name: staff_friendliness
+      label: Friendliness of staff
+      hint: null
+      type: select_one
+      options:
+      - Very friendly
+      - Friendly
+      - Neutral
+      - Unfriendly
+      - Very unfriendly
+      required: true
+    - id: 12
+      name: staff_knowledge
+      label: Staff knowledge and helpfulness
+      hint: null
+      type: select_one
+      options:
+      - Very knowledgeable and helpful
+      - Knowledgeable and helpful
+      - Adequate
+      - Not very helpful
+      - Unhelpful
+      required: true
+    - id: 13
+      name: class_offerings
+      label: Quality of group fitness classes
+      hint: null
+      type: select_one
+      options:
+      - Excellent variety and quality
+      - Good options
+      - Fair selection
+      - Poor selection
+      - No classes
+      required: false
+    - id: 14
+      name: pricing_value
+      label: Was membership price fair for value?
+      hint: null
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 15
+      name: cancellation_reason
+      label: Primary reason for cancellation
+      hint: Select main reason
+      type: select_one
+      options:
+      - Moved away
+      - Not using the facility
+      - Cost too high
+      - Dissatisfaction with facility
+      - Inadequate hours
+      - Too crowded
+      - Preferred another gym
+      - Personal circumstances
+      - Other
+      required: true
+    - id: 16
+      name: cancellation_details
+      label: Please elaborate on your reason for canceling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: improvement_suggestions
+      label: What could we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: willing_return
+      label: Would you consider rejoining in the future?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Possibly
+      - Unlikely
+      - 'False'
+      required: true
+    - id: 19
+      name: recommend_gym
+      label: Would you recommend Anytime Fitness to others?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Possibly
+      - Unlikely
+      - 'False'
+      required: true
+    - id: 20
+      name: overall_experience
+      label: Overall experience rating
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true

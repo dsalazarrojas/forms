@@ -1,148 +1,127 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Relocation (Move Away) Request Intake Form
     pages:
-      - id: 1
-        name: section_applicant_details
-        label: -- Applicant Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: applicant_name
-        label: Your Full Name
-        hint: Petitioner name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: applicant_role
-        label: Your role in the case
-        hint: Legal standing
-        type: select_one
-        options:
-          - label: Parent
-            value: parent
-          - label: Legal Representative
-            value: lawyer
-          - label: Mediator
-            value: mediator
-        required: true
-      - id: 4
-        name: section_case_info
-        label: -- Current Case Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: case_number
-        label: Case Number - if applicable
-        hint: Existing court record number
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: child_details
-        label: Child Name and Age
-        hint: Minor subject to relocation
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: section_proposed_relocation
-        label: -- Proposed Relocation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: new_location
-        label: Proposed New City and State
-        hint: Detailed destination
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: move_date
-        label: Anticipated Date of Move
-        hint: Proposed start date
-        type: date
-        options: []
-        required: true
-      - id: 10
-        name: section_move_reason
-        label: -- Reason for Move --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: primary_reason
-        label: Primary reason for move
-        hint: Core justification
-        type: select_one
-        options:
-          - label: New Employment Opportunity
-            value: employment
-          - label: Move closer to Family Support
-            value: family
-          - label: Higher Education
-            value: education
-          - label: Other Reason
-            value: other
-        required: true
-      - id: 12
-        name: detailed_explanation
-        label: Detailed explanation for relocation request
-        hint: Provide context and necessity
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: section_visitation_impact
-        label: -- Visitation Impact --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: visitation_proposal
-        label: Proposed new visitation schedule
-        hint: How will the other parent see the child?
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: parent_notified
-        label: Has the other parent been notified?
-        hint: Status of communication
-        type: select_one
-        options:
-          - label: Yes - Notified and Agrees
-            value: yes_agree
-          - label: Yes - Notified and Disagrees
-            value: yes_disagree
-          - label: No - Not yet notified
-            value: no
-        required: true
-      - id: 16
-        name: today_date
-        label: Today Date
-        hint: Intake date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_applicant_details
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Your Full Name
+      hint: Petitioner name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_role
+      label: Your role in the case
+      hint: Legal standing
+      type: select_one
+      options:
+      - Parent
+      - Legal Representative
+      - Mediator
+      required: true
+    - id: 4
+      name: section_case_info
+      label: -- Current Case Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: case_number
+      label: Case Number - if applicable
+      hint: Existing court record number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: child_details
+      label: Child Name and Age
+      hint: Minor subject to relocation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_proposed_relocation
+      label: -- Proposed Relocation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: new_location
+      label: Proposed New City and State
+      hint: Detailed destination
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: move_date
+      label: Anticipated Date of Move
+      hint: Proposed start date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: section_move_reason
+      label: -- Reason for Move --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_reason
+      label: Primary reason for move
+      hint: Core justification
+      type: select_one
+      options:
+      - New Employment Opportunity
+      - Move closer to Family Support
+      - Higher Education
+      - Other Reason
+      required: true
+    - id: 12
+      name: detailed_explanation
+      label: Detailed explanation for relocation request
+      hint: Provide context and necessity
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_visitation_impact
+      label: -- Visitation Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: visitation_proposal
+      label: Proposed new visitation schedule
+      hint: How will the other parent see the child?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: parent_notified
+      label: Has the other parent been notified?
+      hint: Status of communication
+      type: select_one
+      options:
+      - Yes - Notified and Agrees
+      - Yes - Notified and Disagrees
+      - No - Not yet notified
+      required: true
+    - id: 16
+      name: today_date
+      label: Today Date
+      hint: Intake date
+      type: date
+      options: []
+      required: true

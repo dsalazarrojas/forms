@@ -93,13 +93,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''friend''}'
-      - '{''value'': ''social_media''}'
-      - '{''value'': ''email''}'
-      - '{''value'': ''online_search''}'
-      - '{''value'': ''offline_event''}'
-      - '{''value'': ''referral''}'
-      - '{''value'': ''other''}'
+      - friend
+      - social media
+      - email
+      - online search
+      - offline event
+      - referral
+      - other
       required: false
     - id: 14
       name: demographic_info
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''male''}'
-      - '{''value'': ''female''}'
-      - '{''value'': ''other''}'
+      - male
+      - female
+      - other
       required: false
     - id: 15
       name: other_info

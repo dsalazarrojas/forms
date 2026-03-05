@@ -4,39 +4,32 @@ inputSchema:
     title: pituitary_adenoma_knowledge_quiz
     pages:
     - id: 1
-      name: introduction
-      label: Introduction
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
       name: question_1
       label: What is a pituitary adenoma?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 3
+      required: true
+    - id: 2
       name: question_2
       label: What is the most common type of pituitary adenoma?
       hint: null
       type: select_one
       options:
-      - Adenoma
-      - Other
-      required: false
-    - id: 4
+      - Microadenoma
+      - Macroadenoma
+      required: true
+    - id: 3
       name: question_3
       label: What is the treatment for pituitary adenoma?
       hint: null
       type: select_multiple
       options:
       - Surgery
-      - Other
+      - Chemotherapy
       - Radiotherapy
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: question_4
       label: What is the typical treatment for a large pituitary adenoma?
       hint: null
@@ -44,192 +37,133 @@ inputSchema:
       options:
       - Surgery
       - Radiotherapy
-      - Chemotherapy
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: question_5
       label: What is the typical treatment for a small pituitary adenoma?
+      hint: null
+      type: select_one
+      options:
+      - Chemotherapy
+      - Radiotherapy
+      required: true
+    - id: 6
+      name: question_6
+      label: What are the typical side effects of treatment for pituitary adenoma?
+      hint: null
+      type: select_multiple
+      options:
+      - Headache
+      - Nausea
+      - Vomiting
+      required: true
+    - id: 7
+      name: question_7
+      label: What is the typical treatment for pituitary adenoma when it is too large
+        to be removed surgically?
+      hint: null
+      type: select_one
+      options:
+      - Chemotherapy
+      - Radiotherapy
+      required: true
+    - id: 8
+      name: question_8
+      label: What is the typical treatment for pituitary adenoma when it is too small
+        to be removed surgically?
+      hint: null
+      type: select_one
+      options:
+      - Radiotherapy
+      - Chemotherapy
+      required: true
+    - id: 9
+      name: question_9
+      label: What are the possible causes of pituitary adenoma?
+      hint: null
+      type: select_multiple
+      options:
+      - Genetic mutation
+      - Radiation exposure
+      required: true
+    - id: 10
+      name: question_10
+      label: What is the typical age range for pituitary adenoma diagnosis?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: question_11
+      label: What is the typical treatment for pituitary adenoma in the presence of
+        other health conditions?
+      hint: null
+      type: select_multiple
+      options:
+      - Surgery
+      - Chemotherapy
+      - Radiotherapy
+      required: true
+    - id: 12
+      name: question_12
+      label: What is the expected prognosis for pituitary adenoma?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Bad
+      required: true
+    - id: 13
+      name: question_13
+      label: What is the typical follow-up care for pituitary adenoma?
+      hint: null
+      type: select_multiple
+      options:
+      - Regular check-ups
+      - Medication
+      required: true
+    - id: 14
+      name: question_14
+      label: What are the possible complications of pituitary adenoma treatment?
+      hint: null
+      type: select_multiple
+      options:
+      - Infection
+      - Bleeding
+      required: true
+    - id: 15
+      name: question_15
+      label: What is the typical outcome for pituitary adenoma?
+      hint: null
+      type: select_one
+      options:
+      - Recovery
+      - Death
+      required: true
+    - id: 16
+      name: question_16
+      label: What are the typical tests and exams for pituitary adenoma diagnosis?
+      hint: null
+      type: select_multiple
+      options:
+      - MRI
+      - CT scan
+      required: true
+    - id: 17
+      name: question_17
+      label: What is the typical treatment for pituitary adenoma in pregnancy?
       hint: null
       type: select_multiple
       options:
       - Surgery
       - Radiotherapy
-      required: false
-    - id: 7
-      name: question_6
-      label: What is the typical side effect of radiotherapy for pituitary adenoma?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: question_7
-      label: What is the typical side effect of surgery for pituitary adenoma?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: question_8
-      label: What is the typical side effect of chemotherapy for pituitary adenoma?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: introduction_2
-      label: Introduction 2
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: question_9
-      label: What is the typical treatment for pituitary adenoma when it is too large
-        to be removed surgically?
-      hint: null
-      type: select_one
-      options:
-      - Chemotherapy
-      - Radiotherapy
-      required: false
-    - id: 12
-      name: question_10
-      label: What is the typical treatment for pituitary adenoma when it is too small
-        to be removed surgically?
-      hint: null
-      type: select_one
-      options:
-      - Surgery
-      - Radiotherapy
-      required: false
-    - id: 13
-      name: question_11
-      label: What is the typical treatment for pituitary adenoma when it is too large
-        to be removed surgically?
-      hint: null
-      type: select_one
-      options:
-      - Chemotherapy
-      - Radiotherapy
-      required: false
-    - id: 14
-      name: question_12
-      label: What is the typical treatment for pituitary adenoma when it is too small
-        to be removed surgically?
-      hint: null
-      type: select_one
-      options:
-      - Radiotherapy
-      - Chemotherapy
-      required: false
-    - id: 15
-      name: question_13
-      label: What is the typical treatment for pituitary adenoma when it is too large
-        to be removed surgically?
-      hint: null
-      type: select_one
-      options:
-      - Radiotherapy
-      - Chemotherapy
-      required: false
-    - id: 16
-      name: question_14
-      label: What is the typical treatment for pituitary adenoma when it is too small
-        to be removed surgically?
-      hint: null
-      type: select_one
-      options:
-      - Surgery
-      - Radiotherapy
-      required: false
-    - id: 17
-      name: question_15
-      label: What is the typical treatment for pituitary adenoma when it is too large
-        to be removed surgically?
-      hint: null
-      type: select_one
-      options:
-      - Radiotherapy
-      - Chemotherapy
-      required: false
+      required: true
     - id: 18
-      name: question_16
-      label: What is the typical treatment for pituitary adenoma when it is too small
-        to be removed surgically?
-      hint: null
-      type: select_one
-      options:
-      - Chemotherapy
-      - Radiotherapy
-      required: false
-    - id: 19
-      name: question_17
-      label: What is the typical treatment for pituitary adenoma when it is too large
-        to be removed surgically?
-      hint: null
-      type: select_one
-      options:
-      - Chemotherapy
-      - Radiotherapy
-      required: false
-    - id: 20
       name: question_18
-      label: What is the typical treatment for pituitary adenoma when it is too small
-        to be removed surgically?
+      label: What is the typical treatment for pituitary adenoma in children?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
+      - Surgery
       - Radiotherapy
-      - Chemotherapy
-      required: false
-    - id: 21
-      name: question_19
-      label: What is the typical treatment for pituitary adenoma when it is too large
-        to be removed surgically?
-      hint: null
-      type: select_one
-      options:
-      - Radiotherapy
-      - Chemotherapy
-      required: false
-    - id: 22
-      name: question_20
-      label: What is the typical treatment for pituitary adenoma when it is too small
-        to be removed surgically?
-      hint: null
-      type: select_one
-      options:
-      - Chemotherapy
-      - Other
-      required: false
-    - id: 23
-      name: question_21
-      label: What is the typical treatment for pituitary adenoma when it is too large
-        to be removed surgically?
-      hint: null
-      type: select_one
-      options:
-      - Chemotherapy
-      - Other
-      required: false
-    - id: 24
-      name: question_22
-      label: What is the typical treatment for pituitary adenoma when it is too small
-        to be removed surgically?
-      hint: null
-      type: select_one
-      options:
-      - Radiotherapy
-      - Other
-      required: false
-    - id: 25
-      name: question_23
-      label: What is the typical treatment for pituitary adenoma when it is too large
-        to be removed surgically?
-      hint: null
-      type: select_one
-      options:
-      - Radiotherapy
-      - Other
-      required: false
+      required: true

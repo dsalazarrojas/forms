@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -22,178 +11,105 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: form_information
-      label: Form Information
+      name: patient_info
+      label: Patient Info
       hint: Please fill out the form information
       type: text
       options: []
       required: false
     - id: 3
-      name: patient_info
-      label: Patient Info
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Select a patient from the list'', ''value'': 1}'
-      - '{''label'': ''Select another patient from the list'', ''value'': 2}'
-      required: false
-    - id: 4
-      name: patient_info
-      label: Patient Info
+      name: patient_info_2
+      label: Patient Info 2
       hint: Please select a patient from the list
       type: select_one
       options:
-      - '{''label'': ''Select a patient from the list'', ''value'': 1}'
-      - '{''label'': ''Select another patient from the list'', ''value'': 2}'
+      - Select a patient from the list
+      - Select another patient from the list
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 5
-      name: medical_history
-      label: Medical History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: medical_history
-      label: Medical History
-      hint: Please fill out medical history
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: neurological_status
-      label: Neurological Status
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Select one option'', ''value'': 1}'
-      - '{''label'': ''Select another option'', ''value'': 2}'
-      required: false
-    - id: 8
-      name: neurological_status
-      label: Neurological Status
-      hint: Please select neurological status
-      type: select_multiple
-      options:
-      - '{''label'': ''Select one option'', ''value'': 1}'
-      - '{''label'': ''Select another option'', ''value'': 2}'
-      required: false
-    - id: 9
-      name: rehabilitation_goals
-      label: Rehabilitation Goals
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
       name: rehabilitation_goals
       label: Rehabilitation Goals
       hint: Please enter your goals
       type: text
       options: []
       required: false
-    - id: 11
-      name: physical_therapy
-      label: Physical Therapy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
+    - id: 6
       name: physical_therapy
       label: Physical Therapy
       hint: Enter physical therapy
       type: text
       options: []
       required: false
-    - id: 13
-      name: occupational_therapy
-      label: Occupational Therapy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
+    - id: 7
       name: occupational_therapy
       label: Occupational Therapy
       hint: Enter occupational therapy
       type: text
       options: []
       required: false
-    - id: 15
-      name: speech_therapy
-      label: Speech Therapy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: speech_therapy
-      label: Speech Therapy
-      hint: Enter speech therapy
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: cognitive_therapy
-      label: Cognitive Therapy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
+    - id: 8
       name: cognitive_therapy
       label: Cognitive Therapy
       hint: Enter cognitive therapy
       type: text
       options: []
       required: false
-    - id: 19
-      name: recreational_activities
-      label: Recreational Activities
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
+    - id: 9
       name: recreational_activities
       label: Recreational Activities
       hint: Enter recreational activities
       type: text
       options: []
       required: false
-    - id: 21
-      name: social_interactions
-      label: Social Interactions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
+    - id: 10
       name: social_interactions
       label: Social Interactions
       hint: Enter social interactions
       type: text
       options: []
       required: false
-    - id: 23
-      name: medical_history
-      label: Medical History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: medical_history
-      label: Medical History
-      hint: Enter medical history
-      type: text
-      options: []
-      required: false
-    - id: 25
+    - id: 11
       name: neurological_status
       label: Neurological Status
-      hint: null
+      hint: Enter neurological status
       type: text
+      options: []
+      required: false
+    - id: 12
+      name: overall_progress
+      label: Overall Progress
+      hint: Rate your overall progress
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: progress_tracking
+      label: Progress Tracking
+      hint: Track your progress
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 14
+      name: goal_setting
+      label: Goal Setting
+      hint: Set specific goals
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: self_assessment
+      label: Self-Assessment
+      hint: Rate your emotions, pain levels, or energy levels
+      type: number
       options: []
       required: false

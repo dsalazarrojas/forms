@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
-      - '{''label'': ''N/A''}'
+      - Excellent
+      - Fair
+      - Poor
+      - N/A
       required: false
     - id: 8
       name: production_capacity
@@ -125,10 +125,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
-      - '{''label'': ''N/A''}'
+      - High
+      - Medium
+      - Low
+      - N/A
       required: false
     - id: 18
       name: comments
@@ -178,8 +178,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: safety_incident_description

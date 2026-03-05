@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Member suspended for violating rules''}'
-      - '{''value'': ''Member suspended for non-payment of dues''}'
-      - '{''value'': ''Member suspended for non-payment of fines''}'
+      - Member suspended for violating rules
+      - Member suspended for non-payment of dues
+      - Member suspended for non-payment of fines
       required: false
     - id: 3
       name: suspension_duration
@@ -26,13 +26,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''1 day''}'
-      - '{''value'': ''1 week''}'
-      - '{''value'': ''1 month''}'
-      - '{''value'': ''6 months''}'
-      - '{''value'': ''1 year''}'
-      - '{''value'': ''2 years''}'
-      - '{''value'': ''5 years''}'
+      - 1 day
+      - 1 week
+      - 1 month
+      - 6 months
+      - 1 year
+      - 2 years
+      - 5 years
       required: false
     - id: 4
       name: suspension_start_date
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Facility A''}'
-      - '{''value'': ''Facility B''}'
-      - '{''value'': ''Facility C''}'
+      - Facility A
+      - Facility B
+      - Facility C
       required: false
     - id: 8
       name: member_id

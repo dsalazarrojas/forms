@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Asthma''}'
-      - '{''label'': ''Diabetes''}'
-      - '{''label'': ''Cancer''}'
+      - Asthma
+      - Diabetes
+      - Cancer
       required: false
     - id: 4
       name: medical_history
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Asthma''}'
-      - '{''label'': ''Peanuts''}'
-      - '{''label'': ''Penicillin''}'
+      - Asthma
+      - Peanuts
+      - Penicillin
       required: false
     - id: 6
       name: medical_procedure
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Surgery''}'
-      - '{''label'': ''Medication''}'
-      - '{''label'': ''Consultation''}'
+      - Surgery
+      - Medication
+      - Consultation
       required: false
     - id: 7
       name: medical_procedure_other

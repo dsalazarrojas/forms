@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''leave_month''}'
-      - '{''value'': ''leave_type''}'
+      - leave month
+      - leave type
       required: false
     - id: 3
       name: leave_month
@@ -25,18 +25,18 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''January''}'
-      - '{''value'': ''February''}'
-      - '{''value'': ''March''}'
-      - '{''value'': ''April''}'
-      - '{''value'': ''May''}'
-      - '{''value'': ''June''}'
-      - '{''value'': ''July''}'
-      - '{''value'': ''August''}'
-      - '{''value'': ''September''}'
-      - '{''value'': ''October''}'
-      - '{''value'': ''November''}'
-      - '{''value'': ''December''}'
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
       required: false
     - id: 4
       name: leave_type
@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Vacation''}'
-      - '{''value'': ''Sick''}'
-      - '{''value'': ''Other''}'
+      - Vacation
+      - Sick
+      - Other
       required: false
     - id: 5
       name: start_date

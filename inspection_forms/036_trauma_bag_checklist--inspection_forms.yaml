@@ -15,149 +15,63 @@ inputSchema:
     title: Trauma Bag Checklist
     pages:
     - id: 1
-      name: trauma_bag_checklist_1
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: trauma_bag_checklist_2
-      label: trauma_bag_contents
+      name: trauma_bag_contents
+      label: Trauma Bag Contents
       hint: null
       type: select_multiple
       options:
       - Aloe
       - Antiseptic
-      - Bleeding
-      - Broken
-      - Burn
-      - Cold
-      - DVT
+      - Bleeding control
+      - Burn cream
+      - Cold pack
+      - DVT prevention kit
       - Gauze
-      - Hypothermia
+      - Hypothermia prevention kit
       - Tourniquet
-      - Tourniquet
-      - Tourniquet_Kit
-      - Tourniquet_Straight
-      - Tourniquet_Trap
-      - Tourniquet_Upper
-      - Tourniquet_Lower
-      - Tourniquet_Straight_Trap
-      - Tourniquet_Upper_Trap
+      - Tourniquet kit
+      - Tourniquet straight
+      - Tourniquet trap
+      - Tourniquet upper
       required: true
-    - id: 3
-      name: trauma_bag_checklist_3
-      label: first_responder
+    - id: 2
+      name: first_responder
+      label: First Responder
       hint: null
       type: select_one
       options:
-      - First Responder
       - First Responder
       - Second Responder
       - Third Responder
       - None
       required: true
-    - id: 4
-      name: trauma_bag_checklist_4
-      label: trauma_bags_location
+    - id: 3
+      name: location
+      label: Location
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
-      name: trauma_bag_checklist_5
-      label: date_and_time
+    - id: 4
+      name: date
+      label: Date
       hint: null
       type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
       options: []
       required: false
     - id: 6
-      name: trauma_bag_checklist_6
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
-      name: trauma_bag_checklist_7
-      label: missing_items
-      hint: null
-      type: select_multiple
-      options:
-      - Missing items
-      - Missing
-      - Missing items
-      - Item 1
-      - Item 2
-      required: true
-    - id: 8
-      name: trauma_bag_checklist_8
-      label: first_responder
-      hint: null
-      type: select_one
-      options:
-      - First Responder
-      - First Responder
-      - Second Responder
-      - Third Responder
-      - None
-      required: true
-    - id: 9
-      name: trauma_bag_checklist_9
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: trauma_bag_checklist_10
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: trauma_bag_checklist_11
-      label: missing_items
+      name: missing_items
+      label: Missing Items
       hint: null
       type: select_multiple
       options:
       - Missing item 1
       - Missing item 2
       required: true
-    - id: 12
-      name: trauma_bag_checklist_12
-      label: location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: trauma_bag_checklist_13
-      label: location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: trauma_bag_checklist_14
-      label: location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: trauma_bag_checklist_15
-      label: location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: trauma_bag_checklist_16
-      label: location
-      hint: null
-      type: text
-      options: []
-      required: false

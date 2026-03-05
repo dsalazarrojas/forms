@@ -27,8 +27,8 @@ inputSchema:
       - Backup Generator B
       required: false
     - id: 4
-      name: backup_generator_select_form
-      label: Backup Generator
+      name: backup_generator_select_form_2
+      label: Backup Generator Select Form 2
       hint: null
       type: select_one
       options:
@@ -45,14 +45,14 @@ inputSchema:
       - 'No'
       required: false
     - id: 6
-      name: power_select_form
-      label: Power Select
+      name: power_select_form_2
+      label: Power Select Form 2
       hint: null
       type: select_one
       options:
-      - '100'
-      - '150'
-      - '250'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
       name: features_select_form
@@ -60,19 +60,19 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
-      name: features_select_form
-      label: Features Select
+      name: features_select_form_2
+      label: Features Select Form 2
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: delivery_address
@@ -83,7 +83,7 @@ inputSchema:
       required: false
     - id: 10
       name: delivery_address_2
-      label: Delivery Address
+      label: Delivery Address 2
       hint: null
       type: text
       options: []

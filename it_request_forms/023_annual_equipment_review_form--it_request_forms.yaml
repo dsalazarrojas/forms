@@ -51,10 +51,10 @@ inputSchema:
       hint: Which year is this review for?
       type: select_one
       options:
-      - 2026
-      - 2025
-      - 2024
-      - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       required: true
     - id: 7
       name: equipment_category
@@ -194,8 +194,8 @@ inputSchema:
       hint: Any problems identified?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: issue_details
@@ -213,7 +213,7 @@ inputSchema:
       - Yes, Urgent
       - Yes, Soon
       - Considering
-      - false
+      - 'False'
       required: true
     - id: 25
       name: replacement_justification
@@ -235,8 +235,8 @@ inputSchema:
       hint: Does equipment need disposal?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Pending Decision
       required: false
     - id: 28

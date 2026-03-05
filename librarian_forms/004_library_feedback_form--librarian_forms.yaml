@@ -20,32 +20,30 @@ inputSchema:
     - id: 3
       name: email
       label: Email
-      hint: example@example.com
+      hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: fax
-      label: Fax
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: comments
       label: Comments
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Neutral
+      - Good
+      - Excellent
+      required: true
+    - id: 6
       name: category
       label: Category
       hint: null
@@ -55,64 +53,24 @@ inputSchema:
       - Praise
       - Problem
       - Suggestion
-      required: false
-    - id: 8
-      name: rating
-      label: Rating
-      hint: null
-      type: select_multiple
-      options:
-      - Very poor
-      - Poor
-      - Neutral
-      - Good
-      - Excellent
-      required: false
-    - id: 9
-      name: category_other
+      required: true
+    - id: 7
+      name: other_category
       label: Other category
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: email_other
-      label: Other email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: phone_other
-      label: Other phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: fax_other
-      label: Other fax
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: comments_other
+    - id: 8
+      name: other_comments
       label: Other comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
-      name: category_other
-      label: Other category
+    - id: 9
+      name: other_category_2
+      label: Other category 2
       hint: null
       type: select_one
       options:
@@ -120,8 +78,8 @@ inputSchema:
       - Category 2
       - Category 3
       required: false
-    - id: 16
-      name: rating_other
+    - id: 10
+      name: other_rating
       label: Other rating
       hint: null
       type: select_multiple
@@ -132,66 +90,17 @@ inputSchema:
       - Good
       - Excellent
       required: false
-    - id: 17
-      name: other_comments
-      label: Other comments
+    - id: 11
+      name: other_comments_2
+      label: Other comments 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
-      name: other_category
-      label: Other category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: other_rating
-      label: Other rating
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
+    - id: 12
       name: submit
       label: Submit
       hint: null
       type: text
       options: []
-      required: false
-    - id: 21
-      name: name_1
-      label: Name 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: email_1
-      label: Email 1
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: phone_1
-      label: Phone 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: fax_1
-      label: Fax 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: name_2
-      label: Name 2
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

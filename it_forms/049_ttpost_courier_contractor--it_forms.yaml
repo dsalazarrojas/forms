@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Contractor''}'
-      - '{''value'': ''Freelancer''}'
+      - Contractor
+      - Freelancer
       required: true
     - id: 7
       name: job_description
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Physical''}'
-      - '{''value'': ''Mailing''}'
+      - Physical
+      - Mailing
       required: true
     - id: 9
       name: zip
@@ -83,8 +83,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 12
       name: job_type
@@ -101,7 +101,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: true
     - id: 14
@@ -168,22 +168,22 @@ inputSchema:
       options: []
       required: false
     - id: 23
-      name: deleted_at
-      label: Deleted At
+      name: deleted_at_2
+      label: Deleted At 2
       hint: null
       type: date
       options: []
       required: false
     - id: 24
-      name: created_at
-      label: Created At
+      name: created_at_2
+      label: Created At 2
       hint: null
       type: date
       options: []
       required: false
     - id: 25
-      name: updated_at
-      label: Updated At
+      name: updated_at_2
+      label: Updated At 2
       hint: null
       type: date
       options: []

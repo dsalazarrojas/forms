@@ -87,8 +87,8 @@ inputSchema:
       hint: Have you been a member of this club previously
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: participation_goals
@@ -152,7 +152,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Agree
-      - false
+      - 'False'
       required: true
     - id: 18
       name: liability_waiver
@@ -161,7 +161,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Sign
-      - false
+      - 'False'
       required: true
     - id: 19
       name: photo_release

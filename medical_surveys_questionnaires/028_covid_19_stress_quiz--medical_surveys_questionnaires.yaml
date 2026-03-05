@@ -16,175 +16,133 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: question_1
-      label: How are you feeling?
+      name: current_stress_level
+      label: Current Stress Level
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
     - id: 3
-      name: question_2
-      label: How are you feeling?
+      name: feeling_today
+      label: How are you feeling today?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: question_3
-      label: How are you feeling?
+      name: symptoms
+      label: Have you experienced any of the following symptoms?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Headache
+      - Fatigue
+      - Muscle pain
+      - Loss of interest
+      - Irritability
+      - Difficulty sleeping
       required: false
     - id: 5
-      name: question_4
-      label: How are you feeling?
+      name: self_care_activities
+      label: How have you been taking care of yourself?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Exercise
+      - Meditation
+      - Socializing
+      - Reading
+      - Listening to music
+      - Watching movies
+      required: true
     - id: 6
-      name: question_5
-      label: How are you feeling?
+      name: anxiety_level
+      label: Have you experienced any anxiety or fear?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
       required: false
     - id: 7
-      name: question_6
-      label: How are you feeling?
+      name: sleep_quality
+      label: How are you sleeping?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 8
-      name: question_7
-      label: How are you feeling?
+      name: eating_habits
+      label: Have you been eating well?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Balanced diet
+      - Poor diet
+      - Avoiding food
       required: false
     - id: 9
-      name: question_8
-      label: How are you feeling?
+      name: financial_stress
+      label: How are you managing your finances?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Not concerned
+      - Somewhat concerned
+      - Very concerned
       required: false
     - id: 10
-      name: question_9
-      label: How are you feeling?
+      name: future_outlook
+      label: How are you feeling about the future?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Positive
+      - Neutral
+      - Negative
       required: false
     - id: 11
-      name: question_10
-      label: How are you feeling?
+      name: emotional_changes
+      label: Have you experienced any emotional changes?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Increased anxiety
+      - Increased irritability
+      - Loss of interest
+      - Difficulty concentrating
+      - Feelings of worthlessness
+      - Loss of appetite
+      - Sleep disturbances
+      - Hypervigilance
+      - Panic attacks
       required: false
     - id: 12
-      name: question_11
-      label: question-11
+      name: relationships
+      label: How are you taking care of your relationships?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 13
-      name: question_11
-      label: question-11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: question_11
-      label: question-11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: question_11
-      label: question-11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: question_11
-      label: question-11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: question_11
-      label: question-11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: question_11
-      label: question-11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: question_11
-      label: question-11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: question_11
-      label: question-11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: question_11
-      label: question-11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: question_11
-      label: question-11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: question_11
-      label: question-11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: question_11
-      label: question-11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: question_11
-      label: question-11
+      name: additional_comments
+      label: Additional comments
       hint: null
       type: text
       options: []

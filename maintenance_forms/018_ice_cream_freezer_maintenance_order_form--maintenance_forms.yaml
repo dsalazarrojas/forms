@@ -46,9 +46,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Scheduled'', ''label'': ''Scheduled'', ''type'':
-        ''checkbox''}'
-      - '{''id'': 2, ''name'': ''Urgent'', ''label'': ''Urgent'', ''type'': ''checkbox''}'
+      - Scheduled
+      - Urgent
       required: true
     - id: 7
       name: job_type
@@ -56,9 +55,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''repair'', ''label'': ''Repair'', ''type'': ''checkbox''}'
-      - '{''id'': 2, ''name'': ''maintenance'', ''label'': ''Maintenance'', ''type'':
-        ''checkbox''}'
+      - Repair
+      - Maintenance
       required: true
     - id: 8
       name: job_status
@@ -66,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pending'', ''label'': ''Pending'', ''type'': ''checkbox''}'
-      - '{''id'': 2, ''name'': ''active'', ''label'': ''Active'', ''type'': ''checkbox''}'
-      - '{''id'': 3, ''name'': ''closed'', ''label'': ''Closed'', ''type'': ''checkbox''}'
+      - Pending
+      - Active
+      - Closed
       required: true
     - id: 9
       name: notes

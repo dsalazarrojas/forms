@@ -4,220 +4,120 @@ inputSchema:
     title: Custom Make Up Set Order Form
     pages:
     - id: 1
-      name: form_submission
-      label: Custom Make Up Set Order Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: category
       label: Category
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''eye''}'
-      - '{''value'': ''face''}'
-      required: false
-    - id: 3
-      name: color_family
-      label: Color Family
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''neutral''}'
-      - '{''value'': ''warm''}'
-      - '{''value'': ''cool''}'
-      required: false
-    - id: 4
-      name: foundation_choice
-      label: Foundation Choice
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''liquid''}'
-      - '{''value'': ''cream''}'
-      - '{''value'': ''gel''}'
-      required: false
-    - id: 5
-      name: eyeshadow_type
-      label: Eyeshadow Type
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''matte''}'
-      - '{''value'': ''metallic''}'
-      - '{''value'': ''duo''}'
-      required: false
-    - id: 6
-      name: lip_balm_choice
-      label: Lip Balm Choice
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''matte''}'
-      - '{''value'': ''glossy''}'
-      required: false
-    - id: 7
-      name: eyeshadow_color_choice
-      label: Eyeshadow Color Choice
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''brown''}'
-      - '{''value'': ''blue''}'
-      - '{''value'': ''green''}'
-      required: false
-    - id: 8
-      name: foundation_tone
-      label: Foundation Tone
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''fair''}'
-      - '{''value'': ''medium''}'
-      - '{''value'': ''tan''}'
-      required: false
-    - id: 9
-      name: lip_balm_flavor
-      label: Lip Balm Flavor
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''vanilla''}'
-      - '{''value'': ''strawberry''}'
-      - '{''value'': ''blueberry''}'
-      required: false
-    - id: 10
+      - eyeshadow
+      - face
+      required: true
+    - id: 2
       name: foundation_color_family
       label: Foundation Color Family
       hint: null
       type: select_one
       options:
-      - '{''value'': ''neutral''}'
-      - '{''value'': ''warm''}'
-      - '{''value'': ''cool''}'
+      - neutral
+      - warm
+      - cool
       required: false
-    - id: 11
-      name: custom_make_up_product_order
-      label: Custom Make Up Product Order
-      hint: Please select all the products you would like to order.
-      type: select_multiple
+    - id: 3
+      name: eyeshadow_type
+      label: Eyeshadow Type
+      hint: null
+      type: select_one
       options:
-      - '{''value'': ''eyeshadow''}'
-      - '{''value'': ''lip_balm''}'
-      - '{''value'': ''foundation''}'
+      - matte
+      - metallic
+      - duo
       required: false
-    - id: 12
+    - id: 4
+      name: lip_balm_flavor
+      label: Lip Balm Flavor
+      hint: null
+      type: select_one
+      options:
+      - vanilla
+      - strawberry
+      - blueberry
+      required: false
+    - id: 5
       name: special_requests
       label: Special Requests
       hint: null
       type: text
       options: []
+      required: false
+    - id: 6
+      name: form_submission_time
+      label: Submission Time
+      hint: null
+      type: select_one
+      options:
+      - morning
+      - afternoon
       required: true
-    - id: 13
-      name: form_submission
-      label: Submission
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: form_submission
-      label: Submission
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: form_submission
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: form_submission
-      label: Submission
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: form_submission
-      label: Submission
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: form_submission
-      label: Submission
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: form_submission
-      label: Submission
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: form_submission
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: form_submission
-      label: Submission
+    - id: 7
+      name: form_submission_day
+      label: Submission Day
       hint: null
       type: select_one
       options:
-      - '{''value'': ''morning''}'
-      - '{''value'': ''afternoon''}'
+      - monday
+      - saturday
       required: false
-    - id: 22
-      name: form_submission
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''monday''}'
-      - '{''value'': ''saturday''}'
-      required: false
-    - id: 23
-      name: form_submission
-      label: Submission
+    - id: 8
+      name: form_submission_days
+      label: Submission Days
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''monday''}'
-      - '{''value'': ''tuesday''}'
-      - '{''value'': ''wednesday''}'
-      - '{''value'': ''thursday''}'
-      - '{''value'': ''friday''}'
-      - '{''value'': ''saturday''}'
-      - '{''value'': ''sunday''}'
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+      - saturday
+      - sunday
       required: false
-    - id: 24
-      name: form_submission
-      label: Submission
+    - id: 9
+      name: free_samples
+      label: Free Samples
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
-    - id: 25
-      name: form_submission
-      label: Submission
+    - id: 10
+      name: form_submission_date
+      label: Submission Date
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+      - saturday
+      - sunday
+      - next
+      required: true
+    - id: 11
+      name: form_submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_submission_2
+      label: Form Submission 2
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - cancel
       required: false

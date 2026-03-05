@@ -163,8 +163,8 @@ inputSchema:
       hint: Do any require special handling
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not sure
       required: true
     - id: 23
@@ -213,8 +213,8 @@ inputSchema:
       hint: Does this request need safety review
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not sure
       required: true
     - id: 29
@@ -231,5 +231,5 @@ inputSchema:
       type: select_one
       options:
       - Yes, I confirm
-      - false
+      - 'False'
       required: true

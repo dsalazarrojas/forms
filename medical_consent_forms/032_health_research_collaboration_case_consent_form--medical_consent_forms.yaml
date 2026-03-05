@@ -25,8 +25,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 4
       name: medical_conditions
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''diabetes'', ''label'': ''Diabetes''}'
-      - '{''value'': ''hypertension'', ''label'': ''Hypertension''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - Diabetes
+      - Hypertension
+      - Other
       required: false
     - id: 5
       name: medications

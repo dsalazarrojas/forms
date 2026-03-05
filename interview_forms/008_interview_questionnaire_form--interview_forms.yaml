@@ -21,42 +21,20 @@ inputSchema:
       name: availability
       label: Availability
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: job_history
-      label: Job History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: education
-      label: Education
-      hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
+      - 6 months
+      - 12 months
+      - 2 years
+      required: true
+    - id: 4
       name: work_experience
       label: Work Experience
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
-      name: skills_questions
-      label: Skills Questions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 8
+    - id: 5
       name: job_preferences
       label: Job Preferences
       hint: null
@@ -65,11 +43,38 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 9
+    - id: 6
       name: personal_questions
       label: Personal Questions
       hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: education
+      label: Education
+      hint: null
       type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: work_experience_2
+      label: Work Experience 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: skills_questions
+      label: Skills Questions
+      hint: null
+      type: select_multiple
       options:
       - 'Yes'
       - 'No'
@@ -78,8 +83,10 @@ inputSchema:
       name: references
       label: References
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 11
       name: other
@@ -92,123 +99,8 @@ inputSchema:
       name: skills_levels
       label: Skills Levels
       hint: null
-      type: select_one
-      options:
-      - High
-      - Low
-      required: false
-    - id: 13
-      name: availability
-      label: Availability
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 14
-      name: job_history
-      label: Job History
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: education
-      label: Education
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: work_experience
-      label: Work Experience
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: skills_questions
-      label: Skills Questions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: job_preferences
-      label: Job Preferences
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: personal_questions
-      label: Personal Questions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: references
-      label: References
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: other
-      label: Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: skills_levels
-      label: Skills Levels
-      hint: null
       type: select_multiple
       options:
       - High
       - Low
-      required: false
-    - id: 23
-      name: availability_2
-      label: Availability
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: job_history_2
-      label: Job History
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: education_2
-      label: Education
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

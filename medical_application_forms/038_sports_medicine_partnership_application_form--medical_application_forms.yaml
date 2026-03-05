@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''phone'', ''label'': ''Phone''}'
-      - '{''name'': ''email'', ''label'': ''Email''}'
+      - Phone
+      - Email
       required: false
     - id: 3
       name: partner_info
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''sports_medicine'', ''label'': ''Sports Medicine''}'
-      - '{''name'': ''physiotherapy'', ''label'': ''Physiotherapy''}'
-      - '{''name'': ''other'', ''label'': ''Other''}'
+      - Sports Medicine
+      - Physiotherapy
+      - Other
       required: false
     - id: 5
       name: work_location
@@ -140,9 +140,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
-      - '{''name'': ''check'', ''label'': ''Check''}'
-      - '{''name'': ''other'', ''label'': ''Other''}'
+      - Bank Transfer
+      - Check
+      - Other
       required: false
     - id: 20
       name: terms_and_conditions
@@ -166,7 +166,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''pdf'', ''label'': ''PDF''}'
-      - '{''name'': ''docx'', ''label'': ''Docx''}'
-      - '{''name'': ''excel'', ''label'': ''Excel''}'
+      - PDF
+      - Docx
+      - Excel
       required: false

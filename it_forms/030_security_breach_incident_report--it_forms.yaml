@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Physical''}'
-      - '{''id'': 2, ''value'': ''Cyber''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - Physical
+      - Cyber
+      - Other
       required: false
     - id: 3
       name: incident_location
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''None''}'
-      - '{''id'': 2, ''value'': ''Confirmed''}'
-      - '{''id'': 3, ''value'': ''Unconfirmed''}'
+      - None
+      - Confirmed
+      - Unconfirmed
       required: false
     - id: 9
       name: incident_reporting_officer

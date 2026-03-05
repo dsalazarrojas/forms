@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Passed''}'
-      - '{''value'': ''Failed''}'
+      - Passed
+      - Failed
       required: false
     - id: 4
       name: equipment_condition
@@ -32,8 +32,8 @@ inputSchema:
       hint: The overall condition of the equipment (Passed/Failed).
       type: select_multiple
       options:
-      - '{''value'': ''Passed''}'
-      - '{''value'': ''Failed''}'
+      - Passed
+      - Failed
       required: false
     - id: 5
       name: dry_transformer_inspection_items
@@ -41,12 +41,12 @@ inputSchema:
       hint: Check off each inspected item. Check all that apply.
       type: select_multiple
       options:
-      - '{''value'': ''Dry coupling''}'
-      - '{''value'': ''Dry coupling - Ground fault''}'
-      - '{''value'': ''Dry coupling - Ground fault - Insulated''}'
-      - '{''value'': ''Dry coupling - Ground fault - Insulated - 1 kV''}'
-      - '{''value'': ''Dry coupling - Ground fault - Insulated - 1 kV - 2''}'
-      - '{''value'': ''Dry coupling - Ground fault - Insulated - 1 kV - 2 - 2''}'
+      - Dry coupling
+      - Dry coupling - Ground fault
+      - Dry coupling - Ground fault - Insulated
+      - Dry coupling - Ground fault - Insulated - 1 kV
+      - Dry coupling - Ground fault - Insulated - 1 kV - 2
+      - Dry coupling - Ground fault - Insulated - 1 kV - 2 - 2
       required: false
     - id: 6
       name: maintenance_form_comments
@@ -75,12 +75,12 @@ inputSchema:
       hint: How often is this equipment inspected?
       type: select_one
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Quarterly''}'
-      - '{''value'': ''Semi-Annually''}'
-      - '{''value'': ''Annually''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
       required: false
     - id: 10
       name: transformer_model
@@ -151,9 +151,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Not terminated''}'
-      - '{''value'': 2}'
-      - '{''value'': 3}'
+      - Not terminated
+      - '2'
+      - '3'
       required: false
     - id: 20
       name: transformer_age
@@ -168,10 +168,10 @@ inputSchema:
       hint: Check the condition of dry coupling.
       type: select_multiple
       options:
-      - '{''value'': ''Good''}'
-      - '{''value'': ''Fair''}'
-      - '{''value'': ''Bad''}'
-      - '{''value'': ''Failed''}'
+      - Good
+      - Fair
+      - Bad
+      - Failed
       required: false
     - id: 22
       name: transformer_model_number

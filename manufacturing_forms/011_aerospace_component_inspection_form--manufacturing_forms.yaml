@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -111,14 +100,14 @@ inputSchema:
       hint: What type of inspection is being performed?
       type: select_one
       options:
-        - Routine Maintenance
-        - Pre-flight Check
-        - Post-flight Check
-        - Major Overhaul
-        - Damage Assessment
-        - Quality Control
-        - Incoming Inspection
-        - Special Inspection
+      - Routine Maintenance
+      - Pre-flight Check
+      - Post-flight Check
+      - Major Overhaul
+      - Damage Assessment
+      - Quality Control
+      - Incoming Inspection
+      - Special Inspection
       required: true
     - id: 15
       name: inspection_standards
@@ -140,11 +129,11 @@ inputSchema:
       hint: Condition of the component's surface
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Fair
-        - Poor
-        - Defective
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Defective
       required: true
     - id: 18
       name: dimensional_compliance
@@ -152,10 +141,10 @@ inputSchema:
       hint: Does the component meet dimensional specifications?
       type: select_one
       options:
-        - Within Tolerance
-        - Minor Deviation
-        - Major Deviation
-        - Out of Specification
+      - Within Tolerance
+      - Minor Deviation
+      - Major Deviation
+      - Out of Specification
       required: true
     - id: 19
       name: corrosion_assessment
@@ -163,11 +152,11 @@ inputSchema:
       hint: Presence and extent of corrosion
       type: select_one
       options:
-        - None
-        - Light
-        - Moderate
-        - Heavy
-        - Severe
+      - None
+      - Light
+      - Moderate
+      - Heavy
+      - Severe
       required: true
     - id: 20
       name: damage_identification
@@ -189,8 +178,8 @@ inputSchema:
       hint: Was an operational test performed on the component?
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: test_results
@@ -212,10 +201,10 @@ inputSchema:
       hint: Does the component comply with all applicable requirements?
       type: select_one
       options:
-        - Fully Compliant
-        - Conditionally Compliant
-        - Non-compliant
-        - Requires Further Assessment
+      - Fully Compliant
+      - Conditionally Compliant
+      - Non-compliant
+      - Requires Further Assessment
       required: true
     - id: 26
       name: inspection_outcome_section
@@ -230,11 +219,11 @@ inputSchema:
       hint: Overall result of the inspection
       type: select_one
       options:
-        - Pass
-        - Conditional Pass
-        - Fail
-        - Requires Repair
-        - Requires Replacement
+      - Pass
+      - Conditional Pass
+      - Fail
+      - Requires Repair
+      - Requires Replacement
       required: true
     - id: 28
       name: recommended_actions

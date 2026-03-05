@@ -22,218 +22,115 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: decision_participatoin_instructions
-      label: Decision Participatoin Instructions
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 3
       name: medical_condition
-      label: Medical Condition
+      label: What is your medical condition?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Acute Coronary Syndrome''}'
-      - '{''label'': ''Acute Ischemic Stroke''}'
-      - '{''label'': ''Acute Myocardial Infarction''}'
-      - '{''label'': ''Other''}'
-      required: false
-    - id: 4
+      - Acute Coronary Syndrome
+      - Acute Ischemic Stroke
+      - Acute Myocardial Infarction
+      - Other
+      required: true
+    - id: 3
       name: treatment_plan
-      label: Treatment Plan
+      label: What is your treatment plan?
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Cardiac Rehabilitation Program''}'
-      - '{''label'': ''Coronary Angioplasty/Stenting''}'
-      - '{''label'': ''Coronary Artery Bypass Graft''}'
-      - '{''label'': ''Other''}'
-      required: false
-    - id: 5
+      - Cardiac Rehabilitation Program
+      - Coronary Angioplasty/Stenting
+      - Coronary Artery Bypass Graft
+      - Other
+      required: true
+    - id: 4
       name: medication_use
-      label: Medication Use
+      label: What medication are you currently using?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Aspirin''}'
-      - '{''label'': ''Other''}'
-      required: false
-    - id: 6
+      - Aspirin
+      - Other
+      required: true
+    - id: 5
       name: patient_preference
-      label: Patient Preference
+      label: What is your preference regarding medical decisions?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Do Not Want To Know''}'
-      - '{''label'': ''Would Like To Know''}'
-      required: false
-    - id: 7
+      - Do Not Want To Know
+      - Would Like To Know
+      required: true
+    - id: 6
       name: family_support
-      label: Family Support
+      label: How involved is your family in medical decisions?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Family Involved''}'
-      - '{''label'': ''Not Involved''}'
-      required: false
-    - id: 8
+      - Family Involved
+      - Not Involved
+      required: true
+    - id: 7
       name: healthcare_coverage
-      label: Healthcare Coverage
+      label: What type of healthcare coverage do you have?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Private''}'
-      - '{''label'': ''Public''}'
-      required: false
-    - id: 9
+      - Private
+      - Public
+      required: true
+    - id: 8
       name: patient_communication
-      label: Patient Communication
+      label: What is your preferred language of communication?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''Spanish''}'
-      required: false
-    - id: 10
+      - English
+      - Spanish
+      - Other Language
+      required: true
+    - id: 9
       name: patient_communication_2
-      label: Patient Communication 2
+      label: How would you like to receive communication about your medical treatment?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''Other Language''}'
-      required: false
-    - id: 11
-      name: patient_communication_3
-      label: Patient Communication 3
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''Other Language''}'
-      required: false
-    - id: 12
+      - Text Message
+      - Phone Call
+      - Email
+      - Other
+      required: true
+    - id: 10
       name: patient_preference_2
       label: Patient Preference 2
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Would Like To Know''}'
-      - '{''label'': ''Do Not Want To Know''}'
-      required: false
+      - Do Not Want To Know
+      - Would Like To Know
+      required: true
+    - id: 11
+      name: family_support_2
+      label: Family Support 2
+      hint: null
+      type: select_one
+      options:
+      - Family Involved
+      - Not Involved
+      required: true
+    - id: 12
+      name: healthcare_coverage_2
+      label: Healthcare Coverage 2
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Public
+      required: true
     - id: 13
-      name: family_support_2
-      label: Family Support 2
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Family Involved''}'
-      - '{''label'': ''Not Involved''}'
-      required: false
-    - id: 14
-      name: healthcare_coverage_2
-      label: Healthcare Coverage 2
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Private''}'
-      - '{''label'': ''Public''}'
-      required: false
-    - id: 15
-      name: patient_communication_2
-      label: Patient Communication 2
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''Other Language''}'
-      required: false
-    - id: 16
-      name: patient_preference_3
-      label: Patient Preference 3
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Do Not Want To Know''}'
-      - '{''label'': ''Would Like To Know''}'
-      required: false
-    - id: 17
-      name: family_support_2
-      label: Family Support 2
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Family Involved''}'
-      - '{''label'': ''Not Involved''}'
-      required: false
-    - id: 18
-      name: healthcare_coverage_2
-      label: Healthcare Coverage 2
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Private''}'
-      - '{''label'': ''Public''}'
-      required: false
-    - id: 19
-      name: patient_communication_3
-      label: Patient Communication 3
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''Other Language''}'
-      required: false
-    - id: 20
-      name: patient_preference_4
-      label: Patient Preference 4
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Do Not Want To Know''}'
-      - '{''label'': ''Would Like To Know''}'
-      required: false
-    - id: 21
-      name: family_support_3
-      label: Family Support 3
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Family Involved''}'
-      - '{''label'': ''Not Involved''}'
-      required: false
-    - id: 22
-      name: healthcare_coverage_3
-      label: Healthcare Coverage 3
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Private''}'
-      - '{''label'': ''Public''}'
-      required: false
-    - id: 23
-      name: patient_communication_4
-      label: Patient Communication 4
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''Other Language''}'
-      required: false
-    - id: 24
-      name: patient_preference_5
-      label: Patient Preference 5
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Do Not Want To Know''}'
-      - '{''label'': ''Would Like To Know''}'
-      required: false
-    - id: 25
       name: submit_form
       label: Submit Form
       hint: null
       type: text
       options: []
-      required: false
+      required: true

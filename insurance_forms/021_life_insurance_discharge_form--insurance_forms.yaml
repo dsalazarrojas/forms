@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 7, ''label'': True}'
-      - '{''id'': 8, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: policy_holder_signature
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 9, ''label'': ''Beneficiary''}'
-      - '{''id'': 10, ''label'': ''Claimant''}'
-      - '{''id'': 11, ''label'': ''Policy Holder''}'
+      - Beneficiary
+      - Claimant
+      - Policy Holder
       required: true
     - id: 9
       name: policy_holder_title
@@ -142,8 +142,8 @@ inputSchema:
       options: []
       required: false
     - id: 20
-      name: policy_holder_phone
-      label: Policy Holder Phone
+      name: policy_holder_phone_2
+      label: Policy Holder Phone 2
       hint: null
       type: text
       options: []
@@ -156,8 +156,8 @@ inputSchema:
       options: []
       required: false
     - id: 22
-      name: policy_holder_address
-      label: Policy Holder Address
+      name: policy_holder_address_2
+      label: Policy Holder Address 2
       hint: null
       type: text
       options: []
@@ -170,8 +170,8 @@ inputSchema:
       options: []
       required: false
     - id: 24
-      name: policy_holder_title
-      label: Policy Holder Title
+      name: policy_holder_title_2
+      label: Policy Holder Title 2
       hint: null
       type: text
       options: []

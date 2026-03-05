@@ -4,48 +4,15 @@ inputSchema:
     title: it_service_ticket_form
     pages:
     - id: 1
-      name: new_request
-      label: new_request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: requester_info
-      label: requester_info
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: priority
-      label: ticket_priority
-      hint: null
-      type: select_one
-      options:
-      - High
-      - Low
-      - Medium
-      required: true
-    - id: 4
       name: requestor_email
-      label: requestor_email
+      label: Requestor's Email
       hint: null
       type: email
       options: []
       required: true
-    - id: 5
-      name: requestor_phone
-      label: requestor_phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 6
+    - id: 2
       name: ticket_status
-      label: ticket_status
+      label: Ticket Status
       hint: null
       type: select_one
       options:
@@ -54,154 +21,89 @@ inputSchema:
       - Closed
       - Waiting On
       required: true
-    - id: 7
+    - id: 3
+      name: ticket_priority
+      label: Ticket Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 4
       name: due_date
-      label: due_date
+      label: Due Date
       hint: null
       type: date
+      options: []
+      required: true
+    - id: 5
+      name: created_at
+      label: Creation Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: updated_at
+      label: Update Date
+      hint: null
+      type: time
       options: []
       required: true
     - id: 8
-      name: assigned_to
-      label: assigned_to
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: tool_type
+      label: Tool Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 9
-      name: created_at
-      label: created_at
-      hint: null
-      type: time
-      options: []
+      - 'True'
+      - 'False'
       required: true
     - id: 10
-      name: updated_at
-      label: updated_at
+      name: tool
+      label: Tool
       hint: null
-      type: time
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 11
-      name: created_by
-      label: created_by
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 12
-      name: updated_by
-      label: updated_by
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 13
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: category
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 15
-      name: tool
-      label: tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 16
       name: tool_name
-      label: tool_name
+      label: Tool Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 17
+    - id: 12
       name: description
-      label: description
+      label: Description
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
+    - id: 13
       name: due_time
-      label: due_time
+      label: Due Time
       hint: null
       type: time
       options: []
-      required: true
-    - id: 19
-      name: due_date
-      label: due_date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 20
-      name: ticket_id
-      label: ticket_id
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: tool_type
-      label: tool_type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 24
-      name: category
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 25
-      name: tool
-      label: tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: true

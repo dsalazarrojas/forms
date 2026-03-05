@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Me'', ''value'': 1}'
-      - '{''label'': ''Family Member'', ''value'': 2}'
-      - '{''label'': ''Friend'', ''value'': 3}'
-      - '{''label'': ''Family Friend'', ''value'': 4}'
+      - Me
+      - Family Member
+      - Friend
+      - Family Friend
       required: false
     - id: 5
       name: contact_info
@@ -55,8 +55,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': ''true''}'
-      - '{''label'': False, ''value'': ''false''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: date

@@ -1,204 +1,194 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Community Center Safety Inspection Form
     pages:
-      - id: 1
-        name: section_inspection_overview_saf
-        label: -- Inspection Overview --
-        hint: Use this form to conduct regular safety inspections of community center facilities.
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: inspector_full_name_saf
-        label: Name of Inspector
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: inspector_title_saf
-        label: Job Title or Role of Inspector
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: inspection_date_saf
-        label: Date of Inspection
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: inspection_time_saf
-        label: Time of Inspection
-        hint: null
-        type: time
-        options: []
-        required: true
-      - id: 6
-        name: inspection_location_area_saf
-        label: Area or Zone Being Inspected
-        hint: e.g., Gymnasium, Kitchen, Outdoor Area
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: section_fire_safety_saf
-        label: -- Fire Safety and Emergency Preparedness --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: fire_extinguishers_present_saf
-        label: Are fire extinguishers present and up to date
-        hint: Check for proper pressure and last inspection date
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: true
-      - id: 9
-        name: smoke_detectors_tested_saf
-        label: Have smoke detectors been tested recently
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: true
-      - id: 10
-        name: emergency_exits_clear_saf
-        label: Are all emergency exits clear and unobstructed
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: true
-      - id: 11
-        name: emergency_lighting_functional_saf
-        label: Is emergency lighting functional
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: true
-      - id: 12
-        name: section_general_facility_safety_saf
-        label: -- General Facility Safety --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: floors_clear_tripping_hazards_saf
-        label: Are floors clear of tripping hazards
-        hint: Check for rugs, cords, or debris
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: true
-      - id: 14
-        name: adequate_lighting_common_areas_saf
-        label: Is there adequate lighting in all common areas
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: true
-      - id: 15
-        name: walkways_clear_unobstructed_saf
-        label: Are walkways clear and unobstructed
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: true
-      - id: 16
-        name: electrical_cords_safe_condition_saf
-        label: Are electrical cords in good condition
-        hint: No fraying or exposed wires
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: true
-      - id: 17
-        name: section_inspection_findings_saf
-        label: -- Inspection Findings and Recommendations --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 18
-        name: detailed_inspection_findings_saf
-        label: Detailed Findings and Observations
-        hint: List any issues or concerns identified
-        type: text
-        options: []
-        required: true
-      - id: 19
-        name: recommended_corrective_actions_saf
-        label: Recommended Corrective Actions
-        hint: What needs to be done to fix identified issues?
-        type: text
-        options: []
-        required: true
-      - id: 20
-        name: priority_level_corrective_action_saf
-        label: Priority Level for Corrective Action
-        hint: null
-        type: select_one
-        options:
-          - High (Immediate attention)
-          - Medium (Within 48 hours)
-          - Low (Non-urgent)
-        required: true
-      - id: 21
-        name: completion_date_corrective_action_saf
-        label: Target Date for Completion
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 22
-        name: inspector_signature_digital_saf
-        label: Digital Signature of Inspector
-        hint: Type full name
-        type: text
-        options: []
-        required: true
-      - id: 23
-        name: report_submission_date_saf
-        label: Date Report Submitted
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_inspection_overview_saf
+      label: -- Inspection Overview --
+      hint: Use this form to conduct regular safety inspections of community center
+        facilities.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_full_name_saf
+      label: Name of Inspector
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_title_saf
+      label: Job Title or Role of Inspector
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection_date_saf
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: inspection_time_saf
+      label: Time of Inspection
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: inspection_location_area_saf
+      label: Area or Zone Being Inspected
+      hint: e.g., Gymnasium, Kitchen, Outdoor Area
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_fire_safety_saf
+      label: -- Fire Safety and Emergency Preparedness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: fire_extinguishers_present_saf
+      label: Are fire extinguishers present and up to date
+      hint: Check for proper pressure and last inspection date
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 9
+      name: smoke_detectors_tested_saf
+      label: Have smoke detectors been tested recently
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 10
+      name: emergency_exits_clear_saf
+      label: Are all emergency exits clear and unobstructed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 11
+      name: emergency_lighting_functional_saf
+      label: Is emergency lighting functional
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 12
+      name: section_general_facility_safety_saf
+      label: -- General Facility Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: floors_clear_tripping_hazards_saf
+      label: Are floors clear of tripping hazards
+      hint: Check for rugs, cords, or debris
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 14
+      name: adequate_lighting_common_areas_saf
+      label: Is there adequate lighting in all common areas
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 15
+      name: walkways_clear_unobstructed_saf
+      label: Are walkways clear and unobstructed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 16
+      name: electrical_cords_safe_condition_saf
+      label: Are electrical cords in good condition
+      hint: No fraying or exposed wires
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 17
+      name: section_inspection_findings_saf
+      label: -- Inspection Findings and Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: detailed_inspection_findings_saf
+      label: Detailed Findings and Observations
+      hint: List any issues or concerns identified
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: recommended_corrective_actions_saf
+      label: Recommended Corrective Actions
+      hint: What needs to be done to fix identified issues?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: priority_level_corrective_action_saf
+      label: Priority Level for Corrective Action
+      hint: null
+      type: select_one
+      options:
+      - High (Immediate attention)
+      - Medium (Within 48 hours)
+      - Low (Non-urgent)
+      required: true
+    - id: 21
+      name: completion_date_corrective_action_saf
+      label: Target Date for Completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: inspector_signature_digital_saf
+      label: Digital Signature of Inspector
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: report_submission_date_saf
+      label: Date Report Submitted
+      hint: null
+      type: date
+      options: []
+      required: true

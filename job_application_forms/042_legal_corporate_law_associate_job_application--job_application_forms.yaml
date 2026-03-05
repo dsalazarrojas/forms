@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Closed''}'
+      - Active
+      - Pending
+      - Closed
       required: false
     - id: 5
       name: job_type
@@ -42,8 +42,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Full-time''}'
-      - '{''value'': ''Part-time''}'
+      - Full-time
+      - Part-time
       required: false
     - id: 6
       name: location
@@ -143,15 +143,15 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: submission_date
-      label: Submission Date
+      name: submission_date_2
+      label: Submission Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 20
-      name: submission_time
-      label: Submission Time
+      name: submission_time_2
+      label: Submission Time 2
       hint: null
       type: time
       options: []
@@ -175,8 +175,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 23
-      name: submitted_by
-      label: Submitted By
+      name: submitted_by_2
+      label: Submitted By 2
       hint: null
       type: select_multiple
       options:
@@ -184,8 +184,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 24
-      name: submission_notes
-      label: Submission Notes
+      name: submission_notes_2
+      label: Submission Notes 2
       hint: null
       type: text
       options: []

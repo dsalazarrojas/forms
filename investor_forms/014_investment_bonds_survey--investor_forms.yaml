@@ -4,74 +4,122 @@ inputSchema:
     title: investment_bonds_survey
     pages:
     - id: 1
-      name: investment_bonds_survey_page_1
-      label: what_bonds_are_you_interested_in
+      name: investment_goals
+      label: What are your investment goals for the next 6-12 months?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Short-term (less than 1 year)
+      - Medium-term (1-5 years)
+      - Long-term (more than 5 years)
+      required: true
     - id: 2
-      name: what_bonds_are_you_interested_in
-      label: what_bonds_are_you_interested_in
+      name: risk_tolerance
+      label: What is your risk tolerance level?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Low
+      - Medium
+      - High
+      required: true
     - id: 3
-      name: what_bonds_are_you_interested_in
-      label: what_bonds_are_you_interested_in
+      name: investment_amount
+      label: How much money do you plan to invest in bonds?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Less than $1000
+      - $1000-$5000
+      - More than $5000
+      required: true
     - id: 4
-      name: what_bonds_are_you_interested_in
-      label: what_bonds_are_you_interested_in
+      name: investment_experience
+      label: What is your investment experience level?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
     - id: 5
-      name: what_bonds_are_you_interested_in
-      label: what_bonds_are_you_interested_in
+      name: bond_type
+      label: Which type of bond are you most interested in?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Government bonds
+      - Corporate bonds
+      - Municipal bonds
+      required: true
     - id: 6
-      name: what_bonds_are_you_interested_in
-      label: what_bonds_are_you_interested_in
+      name: income_level
+      label: What is your current income level?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Less than $50,000
+      - $50,000-$75,000
+      - More than $75,000
+      required: true
     - id: 7
-      name: what_bonds_are_you_interested_in
-      label: what_bonds_are_you_interested_in
+      name: investment_frequency
+      label: How often do you expect to invest in bonds?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
     - id: 8
-      name: what_bonds_are_you_interested_in
-      label: what_bonds_are_you_interested_in
+      name: time_horizon
+      label: What is your time horizon for investment in bonds?
       hint: null
-      type: select_multiple
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - More than 5 years
+      required: true
+    - id: 9
+      name: bond_size
+      label: How much do you expect to invest in a single bond?
+      hint: null
+      type: select_one
+      options:
+      - Less than $10,000
+      - $10,000-$50,000
+      - More than $50,000
+      required: true
+    - id: 10
+      name: yield_preference
+      label: Are you interested in investing in bonds with a high-yield or low-yield
+        option?
+      hint: null
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
+    - id: 11
+      name: term_preference
+      label: What is your preferred bond term?
+      hint: null
+      type: select_one
+      options:
+      - Short-term (less than 1 year)
+      - Medium-term (1-5 years)
+      - Long-term (more than 5 years)
+      required: true
+    - id: 12
+      name: information_source
+      label: What is your primary source of information for investment decisions?
+      hint: null
+      type: select_one
+      options:
+      - Financial advisor
+      - Online research
+      - Word of mouth
+      required: true

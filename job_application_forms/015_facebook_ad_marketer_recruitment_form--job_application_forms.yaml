@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Part-time''}'
-      - '{''id'': 2, ''label'': ''Full-time''}'
-      - '{''id'': 3, ''label'': ''Freelance''}'
+      - Part-time
+      - Full-time
+      - Freelance
       required: true
     - id: 6
       name: job_location
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Archived''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - Active
+      - Archived
+      - Cancelled
       required: false
     - id: 13
       name: ad_budget
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''One Day''}'
-      - '{''id'': 2, ''label'': ''Two Days''}'
-      - '{''id'': 3, ''label'': ''Multiple Days''}'
+      - One Day
+      - Two Days
+      - Multiple Days
       required: true
     - id: 16
       name: ad_type
@@ -123,9 +123,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Display Ad''}'
-      - '{''id'': 2, ''label'': ''Video Ad''}'
-      - '{''id'': 3, ''label'': ''Carousel Ad''}'
+      - Display Ad
+      - Video Ad
+      - Carousel Ad
       required: true
     - id: 17
       name: ad_target_audience
@@ -133,9 +133,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Men''}'
-      - '{''id'': 2, ''label'': ''Women''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Men
+      - Women
+      - Both
       required: false
     - id: 18
       name: ad_target_location
@@ -143,9 +143,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''United States''}'
-      - '{''id'': 2, ''label'': ''Canada''}'
-      - '{''id'': 3, ''label'': ''Worldwide''}'
+      - United States
+      - Canada
+      - Worldwide
       required: false
     - id: 19
       name: ad_budget_frequency
@@ -167,11 +167,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''18-24''}'
-      - '{''id'': 2, ''label'': ''25-34''}'
-      - '{''id'': 3, ''label'': ''35-44''}'
-      - '{''id'': 4, ''label'': ''45-54''}'
-      - '{''id'': 5, ''label'': ''55+''}'
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
       required: false
     - id: 22
       name: ad_budget_currency
@@ -179,9 +179,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''USD''}'
-      - '{''id'': 2, ''label'': ''EUR''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - USD
+      - EUR
+      - Other
       required: false
     - id: 23
       name: ad_budget_amount

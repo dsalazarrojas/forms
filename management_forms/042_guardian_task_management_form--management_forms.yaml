@@ -27,7 +27,7 @@ inputSchema:
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
       name: task_status
       label: Task Status
@@ -38,7 +38,7 @@ inputSchema:
       - Completed
       - Inactive
       - On Hold
-      required: false
+      required: true
     - id: 4
       name: task_priority
       label: Task Priority
@@ -51,13 +51,6 @@ inputSchema:
       - Urgent
       required: false
     - id: 5
-      name: task_notes
-      label: Task Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
       name: task_assigned_to
       label: Task Assigned To
       hint: null
@@ -66,56 +59,21 @@ inputSchema:
       - John Doe
       - Jane Doe
       required: true
-    - id: 7
-      name: task_due_date
-      label: Task Due Date
+    - id: 6
+      name: task_comments
+      label: Task Comments
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: task_notes
       label: Task Notes
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
-    - id: 9
-      name: task_comments
-      label: Task Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: task_status
-      label: Task Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Completed
-      - Inactive
-      - On Hold
-      required: false
-    - id: 11
-      name: task_comments
-      label: Task Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: guardian_task_status
-      label: Guardian Task Status
-      hint: null
-      type: select_multiple
-      options:
-      - Task Assigned
-      - Task Completed
-      - Task Reassigned
-      required: false
-    - id: 13
+      required: true
+    - id: 8
       name: task_assigned_by
       label: Task Assigned By
       hint: null
@@ -124,30 +82,23 @@ inputSchema:
       - John Doe
       - Jane Doe
       required: false
-    - id: 14
+    - id: 9
       name: task_comments_2
       label: Task Comments 2
       hint: null
-      type: note
+      type: text
       options: []
       required: false
-    - id: 15
-      name: task_due_date_2
-      label: Task Due Date 2
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
+    - id: 10
       name: task_notes_2
       label: Task Notes 2
       hint: null
-      type: note
+      type: text
       options: []
       required: false
-    - id: 17
+    - id: 11
       name: task_priority_2
-      label: Task Priority
+      label: Task Priority 2
       hint: null
       type: select_multiple
       options:
@@ -156,7 +107,7 @@ inputSchema:
       - High
       - Urgent
       required: false
-    - id: 18
+    - id: 12
       name: task_status_2
       label: Task Status 2
       hint: null
@@ -166,61 +117,4 @@ inputSchema:
       - Completed
       - Inactive
       - On Hold
-      required: false
-    - id: 19
-      name: task_comments_3
-      label: Task Comments 3
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: task_notes_3
-      label: Task Notes 3
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: task_priority_3
-      label: Task Priority
-      hint: null
-      type: select_multiple
-      options:
-      - Low
-      - Medium
-      - High
-      - Urgent
-      required: false
-    - id: 22
-      name: task_status_3
-      label: Task Status 3
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Completed
-      - Inactive
-      - On Hold
-      required: false
-    - id: 23
-      name: task_comments_4
-      label: Task Comments 4
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: task_due_date_3
-      label: Task Due Date 3
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: task_notes_4
-      label: Task Notes 4
-      hint: null
-      type: note
-      options: []
       required: false

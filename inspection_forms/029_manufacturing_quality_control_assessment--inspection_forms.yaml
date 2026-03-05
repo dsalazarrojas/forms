@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not Required''}'
+      - 'True'
+      - 'False'
+      - Not Required
       required: false
     - id: 8
       name: issue_severity
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Minor''}'
-      - '{''id'': 2, ''label'': ''Major''}'
-      - '{''id'': 3, ''label'': ''Critical''}'
-      - '{''id'': 4, ''label'': ''None''}'
+      - Minor
+      - Major
+      - Critical
+      - None
       required: false
     - id: 9
       name: quality_control_action
@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''New''}'
-      - '{''id'': 2, ''label'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Closed''}'
+      - New
+      - In Progress
+      - Closed
       required: false
     - id: 11
       name: quality_control_comment

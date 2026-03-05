@@ -5,188 +5,95 @@ inputSchema:
     pages:
     - id: 1
       name: contact_information
-      label: Contact information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: service_product_feature
-      label: Service product feature
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: true
-    - id: 3
+    - id: 2
       name: contact_method
       label: How did you discover our company
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - social media
+      - referral
+      - online search
       required: true
-    - id: 4
+    - id: 3
       name: email
       label: Email
       hint: null
       type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
       options: []
       required: true
     - id: 5
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 6
       name: note
       label: Additional information
       hint: null
       type: note
       options: []
       required: false
-    - id: 7
-      name: email
-      label: Email
+    - id: 6
+      name: purchase_frequency
+      label: How many times have you purchased from us in the past 6 months?
       hint: null
-      type: email
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: recent_contact_time
+      label: When was your most recent contact with us?
+      hint: null
+      type: date
       options: []
       required: true
     - id: 8
-      name: phone
-      label: Phone
+      name: recent_contact_time_2
+      label: What time of day did your most recent contact with us occur?
       hint: null
-      type: text
+      type: time
       options: []
       required: true
     - id: 9
-      name: note
-      label: Additional information
+      name: product_purchase_count
+      label: How many products/services have you purchased from us in the past 2 years?
       hint: null
-      type: note
+      type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: service_product_feature
-      label: Service product feature
+      name: experience_with_product
+      label: Can you tell us about your experience with our service/product?
       hint: null
       type: text
       options: []
       required: true
     - id: 11
-      name: contact_method
-      label: How did you discover our company
+      name: satisfaction_level
+      label: What is your current level of satisfaction with our service/product?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - very satisfied
+      - somewhat satisfied
+      - neutral
+      - somewhat dissatisfied
+      - very dissatisfied
       required: true
     - id: 12
-      name: email
-      label: Email
+      name: follow_up
+      label: Can we follow up with you about your experience?
       hint: null
-      type: email
-      options: []
-      required: true
-    - id: 13
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: note
-      label: Additional information
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: service_product_feature
-      label: Service product feature
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: contact_method
-      label: How did you discover our company
-      hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 17
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 18
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: note
-      label: Additional information
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: service_product_feature
-      label: Service product feature
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: contact_method
-      label: How did you discover our company
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 22
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 23
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: note
-      label: Additional information
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: service_product_feature
-      label: Service product feature
-      hint: null
-      type: text
-      options: []
+      - Option A
+      - Option B
       required: true

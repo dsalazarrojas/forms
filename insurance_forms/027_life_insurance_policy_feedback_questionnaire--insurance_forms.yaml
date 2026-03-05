@@ -43,7 +43,7 @@ inputSchema:
       options: []
       required: true
     - id: 6
-      name: policy_purchase_date
+      name: policy_purchase_date_2
       label: When was the policy purchased?
       hint: null
       type: select_one
@@ -53,7 +53,7 @@ inputSchema:
       required: true
     - id: 7
       name: policy_purchase_date_range
-      label: When was the policy purchased?
+      label: Policy Purchase Date Range
       hint: null
       type: date
       options: []
@@ -66,8 +66,8 @@ inputSchema:
       options: []
       required: false
     - id: 9
-      name: policy_issuer
-      label: Who issued the policy?
+      name: policy_issuer_2
+      label: Policy Issuer 2
       hint: null
       type: select_multiple
       options:
@@ -82,7 +82,7 @@ inputSchema:
       options: []
       required: false
     - id: 11
-      name: policy_benefit
+      name: policy_benefit_2
       label: What are the policy's benefits?
       hint: null
       type: select_multiple
@@ -98,7 +98,7 @@ inputSchema:
       options: []
       required: false
     - id: 13
-      name: policy_deductible
+      name: policy_deductible_2
       label: What is the deductible?
       hint: null
       type: select_one
@@ -116,8 +116,8 @@ inputSchema:
       options: []
       required: true
     - id: 15
-      name: policy_premium
-      label: How much is the policy's premium?
+      name: policy_premium_2
+      label: Policy Premium 2
       hint: null
       type: text
       options: []
@@ -130,16 +130,14 @@ inputSchema:
       options: []
       required: true
     - id: 17
-      name: policy_purchaser_rating
-      label: How would you rate the policy?
+      name: policy_purchaser_rating_2
+      label: Policy Purchaser Rating 2
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 18
       name: policy_purchaser_comment
@@ -149,8 +147,8 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: policy_purchaser_comment
-      label: Why did you choose this policy?
+      name: policy_purchaser_comment_2
+      label: Policy Purchaser Comment 2
       hint: null
       type: text
       options: []
@@ -163,8 +161,8 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: policy_issuer_rating
-      label: How would you rate the issuer?
+      name: policy_issuer_rating_2
+      label: Policy Issuer Rating 2
       hint: null
       type: select_one
       options:
@@ -173,14 +171,14 @@ inputSchema:
       required: false
     - id: 22
       name: policy_issuer_comment
-      label: Why did you choose this policy?
+      label: Policy Issuer Comment
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: policy_issuer_comment
-      label: Why did you choose this policy?
+      name: policy_issuer_comment_2
+      label: Policy Issuer Comment 2
       hint: null
       type: text
       options: []
@@ -193,8 +191,8 @@ inputSchema:
       options: []
       required: false
     - id: 25
-      name: policy_purchaser_satisfaction
-      label: How satisfied are you with the policy?
+      name: policy_purchaser_satisfaction_2
+      label: Policy Purchaser Satisfaction 2
       hint: null
       type: text
       options: []

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Restaurant'', ''label'': ''Restaurant''}'
-      - '{''value'': ''Store'', ''label'': ''Store''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Restaurant
+      - Store
+      - Other
       required: false
     - id: 5
       name: discount_type
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 10, ''label'': ''10%''}'
-      - '{''value'': 20, ''label'': ''20%''}'
-      - '{''value'': 30, ''label'': ''30%''}'
+      - 10%
+      - 20%
+      - 30%
       required: false
     - id: 6
       name: phone

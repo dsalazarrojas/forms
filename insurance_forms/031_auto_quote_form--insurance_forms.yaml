@@ -96,9 +96,9 @@ inputSchema:
       hint: Your out-of-pocket cost per claim
       type: select_one
       options:
-      - 250
-      - 500
-      - 1000
+      - '250'
+      - '500'
+      - '1000'
       required: true
     - id: 14
       name: currently_insured
@@ -106,8 +106,8 @@ inputSchema:
       hint: Select yes if you have an active policy
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: additional_comments

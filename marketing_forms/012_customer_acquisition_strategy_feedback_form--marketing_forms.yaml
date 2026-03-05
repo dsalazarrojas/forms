@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -16,197 +5,151 @@ inputSchema:
     pages:
     - id: 1
       name: customer_acquisition_strategy_feedback_form_1
-      label: What do you think of this form?
+      label: How do you feel about the current customer acquisition strategy?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
     - id: 2
       name: customer_acquisition_strategy_feedback_form_2
-      label: What would you like to improve?
+      label: What changes would you suggest we make to improve the strategy?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: customer_acquisition_strategy_feedback_form_3
-      label: Would you like to be contacted?
+      label: Would you like to be contacted for further feedback or updates?
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': True}'
-      - '{''id'': 20, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 4
       name: customer_acquisition_strategy_feedback_form_4
-      label: What can we improve?
+      label: How can we better support you with your current needs?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: customer_acquisition_strategy_feedback_form_5
-      label: How can we improve?
+      label: What features would you like to see in future updates to the customer
+        acquisition strategy?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: customer_acquisition_strategy_feedback_form_6
-      label: What would you like to change?
+      label: Can we contact you for feedback or updates in the future?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: customer_acquisition_strategy_feedback_form_7
+      label: How likely are you to recommend our company to others based on the customer
+        acquisition strategy?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_acquisition_strategy_feedback_form_8
+      label: Are there any features or services offered by our competitors that you
+        would like to see us offer?
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
-      name: customer_acquisition_strategy_feedback_form_7
-      label: How do you feel?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 30, ''name'': ''Positive''}'
-      - '{''id'': 40, ''name'': ''Negative''}'
-      - '{''id'': 50, ''name'': ''Neutral''}'
-      required: true
-    - id: 8
-      name: customer_acquisition_strategy_feedback_form_8
-      label: Can we contact you?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 60, ''name'': True}'
-      - '{''id'': 70, ''name'': False}'
-      required: true
     - id: 9
       name: customer_acquisition_strategy_feedback_form_9
-      label: How can we help you?
+      label: Can we help you with anything else related to the customer acquisition
+        strategy?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
       name: customer_acquisition_strategy_feedback_form_10
-      label: Do you have any feedback?
+      label: How can we improve the current form design to make it more user-friendly?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: customer_acquisition_strategy_feedback_form_11
-      label: Can we send you updates?
+      label: Would you like to see any additional information or features added to
+        the form in the future?
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 80, ''name'': True}'
-      - '{''id'': 90, ''name'': False}'
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 12
       name: customer_acquisition_strategy_feedback_form_12
-      label: Would you like to be contacted?
+      label: Can we contact you to discuss your feedback or questions about the customer
+        acquisition strategy?
       hint: null
       type: select_one
       options:
-      - '{''id'': 100, ''name'': True}'
-      - '{''id'': 110, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: customer_acquisition_strategy_feedback_form_13
-      label: Is the form helpful?
+      label: Can we contact you for further feedback or updates?
       hint: null
       type: select_one
       options:
-      - '{''id'': 120, ''name'': True}'
-      - '{''id'': 130, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: customer_acquisition_strategy_feedback_form_14
-      label: What is missing?
+      label: How can we help you with anything else related to the customer acquisition
+        strategy?
       hint: null
       type: text
       options: []
       required: false
     - id: 15
       name: customer_acquisition_strategy_feedback_form_15
-      label: Can we help you with anything else?
+      label: What do you like to see in the future related to the customer acquisition
+        strategy?
       hint: null
       type: text
       options: []
       required: false
     - id: 16
       name: customer_acquisition_strategy_feedback_form_16
-      label: Can we send you updates?
+      label: Can we contact you for updates related to the customer acquisition strategy?
       hint: null
       type: select_one
       options:
-      - '{''id'': 140, ''name'': True}'
-      - '{''id'': 150, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: customer_acquisition_strategy_feedback_form_17
-      label: What do you like about the form?
+      label: Is there anything else you would like to mention about the customer acquisition
+        strategy?
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: customer_acquisition_strategy_feedback_form_18
-      label: Can we contact you?
+      label: Can we send you updates related to the customer acquisition strategy?
       hint: null
       type: select_one
       options:
-      - '{''id'': 160, ''name'': True}'
-      - '{''id'': 170, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
-    - id: 19
-      name: customer_acquisition_strategy_feedback_form_19
-      label: What do you dislike about the form?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: customer_acquisition_strategy_feedback_form_20
-      label: Can we send you updates?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 180, ''name'': True}'
-      - '{''id'': 190, ''name'': False}'
-      required: true
-    - id: 21
-      name: customer_acquisition_strategy_feedback_form_21
-      label: How can we help you?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: customer_acquisition_strategy_feedback_form_22
-      label: Can we help you with anything else?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: customer_acquisition_strategy_feedback_form_23
-      label: What do you like to see?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: customer_acquisition_strategy_feedback_form_24
-      label: Can we contact you?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 200, ''name'': True}'
-      - '{''id'': 210, ''name'': False}'
-      required: true
-    - id: 25
-      name: customer_acquisition_strategy_feedback_form_25
-      label: What do you like to see in the future?
-      hint: null
-      type: text
-      options: []
-      required: false

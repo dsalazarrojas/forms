@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''O-1'', ''label'': ''O-1''}'
-      - '{''value'': ''O-2'', ''label'': ''O-2''}'
-      - '{''value'': ''O-3'', ''label'': ''O-3''}'
+      - O-1
+      - O-2
+      - O-3
       required: false
     - id: 5
       name: customer_duty_title
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Officer'', ''label'': ''Officer''}'
-      - '{''value'': ''Warrant Officer'', ''label'': ''Warrant Officer''}'
-      - '{''value'': ''Enlisted'', ''label'': ''Enlisted''}'
+      - Officer
+      - Warrant Officer
+      - Enlisted
       required: false
     - id: 6
       name: customer_unit
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''1st'', ''label'': ''1st''}'
-      - '{''value'': ''2nd'', ''label'': ''2nd''}'
-      - '{''value'': ''3rd'', ''label'': ''3rd''}'
+      - 1st
+      - 2nd
+      - 3rd
       required: false
     - id: 7
       name: customer_date_of_birth
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Cash'', ''label'': ''Cash''}'
-      - '{''value'': ''Credit Card'', ''label'': ''Credit Card''}'
-      - '{''value'': ''Bank Draft'', ''label'': ''Bank Draft''}'
+      - Cash
+      - Credit Card
+      - Bank Draft
       required: false
     - id: 16
       name: total_cost
@@ -133,9 +133,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''PayPal'', ''label'': ''PayPal''}'
-      - '{''value'': ''Check'', ''label'': ''Check''}'
-      - '{''value'': ''Cash'', ''label'': ''Cash''}'
+      - PayPal
+      - Check
+      - Cash
       required: false
     - id: 18
       name: order_items
@@ -178,9 +178,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pending'', ''label'': ''Pending''}'
-      - '{''value'': ''Completed'', ''label'': ''Completed''}'
-      - '{''value'': ''Cancelled'', ''label'': ''Cancelled''}'
+      - Pending
+      - Completed
+      - Cancelled
       required: false
     - id: 24
       name: form_submitter

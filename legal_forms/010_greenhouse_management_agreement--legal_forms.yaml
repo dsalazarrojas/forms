@@ -4,189 +4,140 @@ inputSchema:
     title: Greenhouse Management Agreement
     pages:
     - id: 1
-      name: greenhouse_owner
-      label: Greenhouse Owner
+      name: greenhouse_owner_info
+      label: Greenhouse Owner Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: owner_name
-      label: owner_name
-      hint: null
+      name: greenhouse_location
+      label: Greenhouse Location
+      hint: Please specify the location of the greenhouse.
       type: text
       options: []
       required: false
     - id: 3
-      name: greenhouse_location
-      label: Greenhouse Location
+      name: agreement_dates
+      label: Agreement Dates
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: start_date
-      label: start_date
+      name: payment_info
+      label: Payment Information
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: end_date
-      label: end_date
+      name: notes
+      label: Additional Notes
       hint: null
-      type: date
+      type: note
       options: []
       required: false
     - id: 6
-      name: rent_amount
-      label: rent_amount
+      name: contact_info
+      label: Contact Information
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 7
-      name: payment_method
-      label: payment_method
+      name: agreement_end_date
+      label: Agreement End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment
+      label: Payment Method
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Option 1'', ''value'': 1}'
-      - '{''label'': ''Option 2'', ''value'': 2}'
-      - '{''label'': ''Option 3'', ''value'': 3}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
-    - id: 8
+    - id: 10
       name: payment_frequency
-      label: payment_frequency
+      label: Payment Frequency
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Option 1'', ''value'': 1}'
-      - '{''label'': ''Option 2'', ''value'': 2}'
-      - '{''label'': ''Option 3'', ''value'': 3}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
-    - id: 9
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: contact_email
-      label: contact_email
-      hint: null
-      type: email
-      options: []
-      required: false
     - id: 11
-      name: contact_phone
-      label: contact_phone
+      name: total_rent
+      label: Total Rent
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 12
-      name: contact_phone2
-      label: contact_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: signature
-      label: signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: signature2
-      label: signature2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: agreement_date
-      label: agreement_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: agreement_end_date
-      label: agreement_end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: greenhouse_id
-      label: greenhouse_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: total_rent
-      label: total_rent
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: payment
-      label: payment_method2
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1'', ''value'': 1}'
-      - '{''label'': ''Option 2'', ''value'': 2}'
-      - '{''label'': ''Option 3'', ''value'': 3}'
-      required: true
-    - id: 20
-      name: payment_frequency2
-      label: payment_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Option 1'', ''value'': 1}'
-      - '{''label'': ''Option 2'', ''value'': 2}'
-      - '{''label'': ''Option 3'', ''value'': 3}'
-      required: true
-    - id: 21
       name: notes2
-      label: notes2
+      label: Notes2
       hint: null
       type: note
       options: []
       required: false
-    - id: 22
-      name: contact_email2
-      label: contact_email
+    - id: 13
+      name: agreement_date
+      label: Agreement Date
       hint: null
-      type: email
+      type: date
       options: []
       required: false
-    - id: 23
-      name: contact_phone3
-      label: contact_phone3
+    - id: 14
+      name: agreement_end_date2
+      label: Agreement End Date2
       hint: null
-      type: text
+      type: date
       options: []
       required: false
-    - id: 24
-      name: signature3
-      label: signature3
+    - id: 15
+      name: notes3
+      label: More Additional Notes
       hint: null
-      type: text
+      type: note
       options: []
       required: false
-    - id: 25
-      name: signature4
-      label: signature4
+    - id: 16
+      name: payment2
+      label: Payment2
       hint: null
-      type: text
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 17
+      name: payment_frequency2
+      label: Payment Frequency2
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 18
+      name: total_rent2
+      label: Total Rent2
+      hint: null
+      type: number
       options: []
       required: false

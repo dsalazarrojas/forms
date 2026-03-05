@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''label'': ''Business Trip'', ''value'': ''business_trip''}'
-      - '{''id'': 11, ''label'': ''Business Meeting'', ''value'': ''business_meeting''}'
-      - '{''id'': 12, ''label'': ''Other'', ''value'': ''other''}'
+      - Business Trip
+      - Business Meeting
+      - Other
       required: true
     - id: 5
       name: description
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 15, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
-      - '{''id'': 16, ''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - Jane Doe
+      - John Doe
       required: true
     - id: 8
       name: approved_by
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 17, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
-      - '{''id'': 18, ''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - Jane Doe
+      - John Doe
       required: true
     - id: 9
       name: submitted
@@ -135,8 +135,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 19, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
-      - '{''id'': 20, ''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - Jane Doe
+      - John Doe
       required: true
     - id: 19
       name: date_approved

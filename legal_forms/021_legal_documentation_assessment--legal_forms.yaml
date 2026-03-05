@@ -44,12 +44,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Will''}'
-      - '{''id'': 2, ''label'': ''Living Will''}'
-      - '{''id'': 3, ''label'': ''Other''}'
-      - '{''id'': 4, ''label'': ''Power of Attorney''}'
-      - '{''id'': 5, ''label'': ''Trust''}'
-      - '{''id'': 6, ''label'': ''Other (please specify)''}'
+      - Will
+      - Living Will
+      - Other
+      - Power of Attorney
+      - Trust
+      - Other (please specify)
       required: true
     - id: 7
       name: document_date
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Not Witnessed''}'
-      - '{''id'': 2, ''label'': True}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Not Witnessed
+      - 'True'
+      - Other
       required: true
     - id: 12
       name: signature

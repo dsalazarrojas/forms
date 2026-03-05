@@ -39,10 +39,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''0 - 20,000'', ''label'': ''0 - 20,000''}'
-      - '{''id'': 2, ''name'': ''20,001 - 40,000'', ''label'': ''20,001 - 40,000''}'
-      - '{''id'': 3, ''name'': ''40,001 - 60,000'', ''label'': ''40,001 - 60,000''}'
-      - '{''id'': 4, ''name'': ''60,001 - 80,000'', ''label'': ''60,001 - 80,000''}'
+      - 0 - 20,000
+      - 20,001 - 40,000
+      - 40,001 - 60,000
+      - 60,001 - 80,000
       required: false
     - id: 6
       name: education
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''High School'', ''label'': ''High School''}'
-      - '{''id'': 2, ''name'': "Bachelor''s Degree", ''label'': "Bachelor''s Degree"}'
-      - '{''id'': 3, ''name'': "Master''s Degree", ''label'': "Master''s Degree"}'
+      - High School
+      - Bachelor's Degree
+      - Master's Degree
       required: false
     - id: 7
       name: work_experience

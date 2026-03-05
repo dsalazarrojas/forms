@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -20,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''Student'', ''value'': ''Student''}'
-      - '{''id'': ''2'', ''label'': ''Non-Student'', ''value'': ''Non-Student''}'
+      - Student
+      - Non-Student
       required: false
     - id: 2
       name: reason
@@ -29,9 +18,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''Bullying'', ''value'': ''Bullying''}'
-      - '{''id'': ''2'', ''label'': ''Fighting'', ''value'': ''Fighting''}'
-      - '{''id'': ''3'', ''label'': ''Other'', ''value'': ''Other''}'
+      - Bullying
+      - Fighting
+      - Other
       required: false
     - id: 3
       name: description
@@ -46,12 +35,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''1'', ''label'': ''Verbal Warning'', ''value'': ''Verbal Warning''}'
-      - '{''id'': ''2'', ''label'': ''Written Warning'', ''value'': ''Written Warning''}'
-      - '{''id'': ''3'', ''label'': ''Detention'', ''value'': ''Detention''}'
-      - '{''id'': ''4'', ''label'': ''Parent Contact'', ''value'': ''Parent Contact''}'
-      - '{''id'': ''5'', ''label'': ''Suspended'', ''value'': ''Suspended''}'
-      - '{''id'': ''6'', ''label'': ''Removed'', ''value'': ''Removed''}'
+      - Verbal Warning
+      - Written Warning
+      - Detention
+      - Parent Contact
+      - Suspended
+      - Removed
       required: false
     - id: 5
       name: date
@@ -115,10 +104,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''9'', ''label'': ''9th Grade'', ''value'': ''9th''}'
-      - '{''id'': ''10'', ''label'': ''10th Grade'', ''value'': ''10th''}'
-      - '{''id'': ''11'', ''label'': ''11th Grade'', ''value'': ''11th''}'
-      - '{''id'': ''12'', ''label'': ''12th Grade'', ''value'': ''12th''}'
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
       required: false
     - id: 14
       name: subject

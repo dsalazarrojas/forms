@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Email''}'
-      - '{''id'': 2, ''value'': ''Social Media''}'
-      - '{''id'': 3, ''value'': ''Referral''}'
+      - Email
+      - Social Media
+      - Referral
       required: true
     - id: 3
       name: customer_acquisition_date
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Social Media''}'
-      - '{''id'': 2, ''value'': ''Referral''}'
-      - '{''id'': 3, ''value'': ''Email''}'
+      - Social Media
+      - Referral
+      - Email
       required: true
     - id: 11
       name: customer_acquisition_source_name
@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Button''}'
-      - '{''id'': 2, ''value'': ''Link''}'
+      - Button
+      - Link
       required: false
     - id: 18
       name: customer_acquisition_source_button_text_size
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Large''}'
-      - '{''id'': 2, ''value'': ''Medium''}'
-      - '{''id'': 3, ''value'': ''Small''}'
+      - Large
+      - Medium
+      - Small
       required: false
     - id: 19
       name: customer_acquisition_source_button_color
@@ -146,9 +146,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Red''}'
-      - '{''id'': 2, ''value'': ''Blue''}'
-      - '{''id'': 3, ''value'': ''Green''}'
+      - Red
+      - Blue
+      - Green
       required: false
     - id: 20
       name: customer_acquisition_source_button_icon
@@ -156,9 +156,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''None''}'
-      - '{''id'': 2, ''value'': ''Font Awesome''}'
-      - '{''id'': 3, ''value'': ''Google Material Icons''}'
+      - None
+      - Font Awesome
+      - Google Material Icons
       required: false
     - id: 21
       name: customer_acquisition_source_button_position
@@ -166,9 +166,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Top''}'
-      - '{''id'': 2, ''value'': ''Right''}'
-      - '{''id'': 3, ''value'': ''Left''}'
+      - Top
+      - Right
+      - Left
       required: false
     - id: 22
       name: customer_acquisition_source_button_position_top
@@ -176,9 +176,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Top''}'
-      - '{''id'': 2, ''value'': ''Center''}'
-      - '{''id'': 3, ''value'': ''Bottom''}'
+      - Top
+      - Center
+      - Bottom
       required: false
     - id: 23
       name: customer_acquisition_source_button_position_right
@@ -186,9 +186,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Right''}'
-      - '{''id'': 2, ''value'': ''Center''}'
-      - '{''id'': 3, ''value'': ''Left''}'
+      - Right
+      - Center
+      - Left
       required: false
     - id: 24
       name: customer_acquisition_source_button_position_left
@@ -196,9 +196,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Left''}'
-      - '{''id'': 2, ''value'': ''Center''}'
-      - '{''id'': 3, ''value'': ''Right''}'
+      - Left
+      - Center
+      - Right
       required: false
     - id: 25
       name: customer_acquisition_source_button_position_bottom
@@ -206,7 +206,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Bottom''}'
-      - '{''id'': 2, ''value'': ''Center''}'
-      - '{''id'': 3, ''value'': ''Top''}'
+      - Bottom
+      - Center
+      - Top
       required: false

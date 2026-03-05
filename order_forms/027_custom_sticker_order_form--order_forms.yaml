@@ -4,22 +4,132 @@ inputSchema:
     title: Custom Sticker Order Form
     pages:
     - id: 1
-      name: custom_sticker_order_form
-      label: Sticker Order Form
+      name: order_details
+      label: Order Details
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: note
+      options: []
       required: false
     - id: 2
-      name: quantity
-      label: Quantity
+      name: sticker_quantity
+      label: Sticker Quantity
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: shipping_phone
+      label: Shipping Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_email
+      label: Shipping Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: billing_name
+      label: Billing Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: billing_phone
+      label: Billing Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_email
+      label: Billing Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_zip
+      label: Shipping Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_country
+      label: Shipping Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: billing_city
+      label: Billing City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_state
+      label: Billing State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: billing_zip
+      label: Billing Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_country
+      label: Billing Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
       name: sticker_design
       label: Sticker Design
       hint: null
@@ -27,211 +137,13 @@ inputSchema:
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 4
-      name: quantity_of_stickers
-      label: Quantity of Stickers
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: custom_sticker_order_form
-      label: Custom Sticker Order Form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: sticker_size
-      label: Sticker Size
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: shipping_address
-      label: Shipping Address
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: order_details
-      label: Order Details
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: shipping_phone
-      label: Shipping Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: shipping_email
-      label: Shipping Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: billing_name
-      label: Billing Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: billing_phone
-      label: Billing Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: billing_email
-      label: Billing Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: order_total
-      label: Order Total
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: custom_sticker_order_form
-      label: Custom Sticker Order Form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: custom_sticker_order_form
-      label: Custom Sticker Order Form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: custom_sticker_order_form
-      label: Custom Sticker Order Form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: shipping_city
-      label: Shipping City
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: shipping_state
-      label: Shipping State
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 20
-      name: shipping_zip
-      label: Shipping Zip
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: custom_sticker_order_form
-      label: Custom Sticker Order Form
+      name: payment_method
+      label: Payment Method
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 22
-      name: custom_sticker_order_form
-      label: Custom Sticker Order Form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: custom_sticker_order_form
-      label: Custom Sticker Order Form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: shipping_country
-      label: Shipping Country
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: billing_address
-      label: Billing Address
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 26
-      name: billing_city
-      label: Billing City
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: billing_state
-      label: Billing State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: billing_zip
-      label: Billing Zip
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: billing_country
-      label: Billing Country
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: custom_sticker_order_form
-      label: Custom Sticker Order Form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

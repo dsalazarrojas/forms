@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: emergency_contact_info
@@ -67,10 +67,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Spouse'', ''value'': ''spouse''}'
-      - '{''label'': ''Parent'', ''value'': ''parent''}'
-      - '{''label'': ''Parent and Spouse'', ''value'': ''parent_and_spouse''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Spouse
+      - Parent
+      - Parent and Spouse
+      - Other
       required: false
     - id: 10
       name: emergency_contact_phone

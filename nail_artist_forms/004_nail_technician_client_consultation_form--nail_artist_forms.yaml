@@ -4,23 +4,16 @@ inputSchema:
     title: Nail Technician Client Consultation Form
     pages:
     - id: 1
-      name: nail_technician_client_consultation_form
-      label: nail_client_consultation_form
-      hint: null
+      name: client_name
+      label: Client's Name
+      hint: Enter client's name
       type: text
       options: []
       required: false
     - id: 2
-      name: nail_client_preferences
-      label: nail_client_preferences
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
       name: nail_type
-      label: nail_type
-      hint: null
+      label: Nail Type
+      hint: Select nail type
       type: select_one
       options:
       - Nail
@@ -28,11 +21,11 @@ inputSchema:
       - Gel
       - Dipping
       - Dip powder
-      required: false
-    - id: 4
+      required: true
+    - id: 3
       name: nail_shape
-      label: nail_shape
-      hint: null
+      label: Nail Shape
+      hint: Select nail shape
       type: select_multiple
       options:
       - Oval
@@ -41,10 +34,10 @@ inputSchema:
       - Stiletto
       - Squoval
       required: false
-    - id: 5
+    - id: 4
       name: nail_color
-      label: nail_color
-      hint: null
+      label: Nail Color
+      hint: Select nail color
       type: select_one
       options:
       - Pink
@@ -54,88 +47,67 @@ inputSchema:
       - Silver
       - Clear
       required: false
-    - id: 6
+    - id: 5
       name: nail_length
-      label: nail_length
-      hint: null
+      label: Nail Length
+      hint: Enter nail length
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: nail_width
+      label: Nail Width
+      hint: Enter nail width
       type: number
       options: []
       required: false
     - id: 7
-      name: nail_width
-      label: nail_width
-      hint: null
-      type: number
-      options: []
+      name: nail_thickening
+      label: Nail Thickening
+      hint: Select nail thickening
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: nail_thickening
-      label: nail_thickening
-      hint: null
-      type: number
-      options: []
+      name: nail_strengthening
+      label: Nail Strengthening
+      hint: Select nail strengthening
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: nail_strengthening
-      label: nail_strengthening
-      hint: null
+      name: shape_strengthening
+      label: Shape Strengthening
+      hint: Select nail shape strengthening
       type: select_one
       options:
       - 'True'
       - 'False'
       required: false
     - id: 10
-      name: nail_shape_strengthening
-      label: nail_shape_strengthening
-      hint: null
+      name: color_strengthening
+      label: Color Strengthening
+      hint: Select nail color strengthening
       type: select_one
       options:
       - 'True'
       - 'False'
       required: false
     - id: 11
-      name: nail_color_strengthening
-      label: nail_color_strengthening
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
+      name: client_contact
+      label: Client's Contact Information
+      hint: Enter client's contact information
+      type: text
+      options: []
       required: false
     - id: 12
-      name: nail_shape_length
-      label: nail_shape_length
-      hint: null
-      type: number
+      name: additional_comments
+      label: Additional Comments
+      hint: Enter any additional comments
+      type: text
       options: []
-      required: false
-    - id: 13
-      name: nail_shape_width
-      label: nail_shape_width
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: nail_length
-      label: nail_length
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: nail_width
-      label: nail_width
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: nail_thickening
-      label: nail_thickening
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
       required: false

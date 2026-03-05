@@ -4,211 +4,47 @@ inputSchema:
     title: Murder Case Analysis Survey
     pages:
     - id: 1
-      name: intro_page
-      label: intro_page
-      hint: null
-      type: note
+      name: crime_scene
+      label: Crime Scene
+      hint: This section will help us understand the circumstances surrounding the
+        crime.
+      type: text
       options: []
       required: false
     - id: 2
-      name: section_1
-      label: crime_scene
+      name: victim_info
+      label: Victim Information
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: section_2
-      label: crime_scene
+      name: suspect_info
+      label: Suspect Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: case_status
+      label: Case Status
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: crime_details
+      label: Crime Details
+      hint: null
+      type: text
+      options: []
       required: false
-    - id: 4
-      name: section_3
-      label: victim_information
+    - id: 6
+      name: additional_info
+      label: Additional Notes
       hint: null
       type: note
       options: []
-      required: false
-    - id: 5
-      name: section_4
-      label: suspect_info
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: section_5
-      label: crime_description
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: section_6
-      label: crime_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: section_7
-      label: crime_description
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: section_8
-      label: crime_description
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: section_9
-      label: suspect_info
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: section_10
-      label: suspect_info
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: suspect_info
-      label: Suspect Info
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: suspect_info
-      label: Suspect Info
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: suspect_info
-      label: Suspect Info
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: case_status
-      label: case_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 16
-      name: case_status
-      label: Case Status
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 17
-      name: case_status
-      label: Case Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: case_status
-      label: Case Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 19
-      name: investigator_info
-      label: Investigator Info
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: investigator_info
-      label: Investigator Info
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: investigator_info
-      label: Investigator Info
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: investigator_info
-      label: Investigator Info
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: investigator_info
-      label: Investigator Info
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: investigator_info
-      label: Investigator Info
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: investigator_info
-      label: Investigator Info
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

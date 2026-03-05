@@ -125,8 +125,8 @@ inputSchema:
       hint: Is excavation finished
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: excavation_depth
@@ -148,8 +148,8 @@ inputSchema:
       hint: Was water encountered
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: groundwater_depth
@@ -164,8 +164,8 @@ inputSchema:
       hint: Is water removal needed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not applicable
       required: true
     - id: 21
@@ -188,7 +188,7 @@ inputSchema:
       options:
       - Yes - Passed
       - Yes - Failed
-      - false
+      - 'False'
       required: true
     - id: 23
       name: compaction_percentage
@@ -203,8 +203,8 @@ inputSchema:
       hint: Is barrier in place
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not required
       required: true
     - id: 25
@@ -252,7 +252,7 @@ inputSchema:
       options:
       - Yes - All marked
       - Yes - Partially marked
-      - false
+      - 'False'
       required: true
     - id: 30
       name: utilities_types

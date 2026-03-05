@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3'', ''value'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 2
       name: news_sites
@@ -19,9 +19,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''News Site 1'', ''value'': ''News Site 1''}'
-      - '{''id'': 2, ''label'': ''News Site 2'', ''value'': ''News Site 2''}'
-      - '{''id'': 3, ''label'': ''News Site 3'', ''value'': ''News Site 3''}'
+      - News Site 1
+      - News Site 2
+      - News Site 3
       required: true
     - id: 3
       name: small_business
@@ -29,12 +29,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Small Business 1'', ''value'': ''Small Business
-        1''}'
-      - '{''id'': 2, ''label'': ''Small Business 2'', ''value'': ''Small Business
-        2''}'
-      - '{''id'': 3, ''label'': ''Small Business 3'', ''value'': ''Small Business
-        3''}'
+      - Small Business 1
+      - Small Business 2
+      - Small Business 3
       required: true
     - id: 4
       name: listen_to_feedback
@@ -42,10 +39,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Yes, I listen'', ''value'': ''Yes, I listen''}'
-      - '{''id'': 2, ''label'': "No, I don''t listen", ''value'': "No, I don''t listen"}'
-      - '{''id'': 3, ''label'': ''Occasionally, I listen'', ''value'': ''Occasionally,
-        I listen''}'
+      - Yes, I listen
+      - No, I don't listen
+      - Occasionally, I listen
       required: true
     - id: 5
       name: date

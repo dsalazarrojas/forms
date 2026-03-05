@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1000, ''label'': ''Excellent''}'
-      - '{''id'': 1001, ''label'': ''Good''}'
-      - '{''id'': 1002, ''label'': ''Average''}'
-      - '{''id'': 1003, ''label'': ''Bad''}'
-      - '{''id'': 1004, ''label'': ''Very Bad''}'
+      - Excellent
+      - Good
+      - Average
+      - Bad
+      - Very Bad
       required: true
     - id: 7
       name: mental_health_services
@@ -56,10 +56,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1005, ''label'': ''Therapy''}'
-      - '{''id'': 1006, ''label'': ''Counselling''}'
-      - '{''id'': 1007, ''label'': ''Support Group''}'
-      - '{''id'': 1008, ''label'': ''Other''}'
+      - Therapy
+      - Counselling
+      - Support Group
+      - Other
       required: true
     - id: 8
       name: mental_health_support_system
@@ -67,10 +67,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1009, ''label'': ''Family''}'
-      - '{''id'': 1010, ''label'': ''Friend''}'
-      - '{''id'': 1011, ''label'': ''Mental Health Professional''}'
-      - '{''id'': 1012, ''label'': ''Self''}'
+      - Family
+      - Friend
+      - Mental Health Professional
+      - Self
       required: true
     - id: 9
       name: mental_health_goals
@@ -99,8 +99,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1013, ''label'': ''Anxiety''}'
-      - '{''id'': 1014, ''label'': ''Depression''}'
-      - '{''id'': 1015, ''label'': ''Mood''}'
-      - '{''id'': 1016, ''label'': ''Other''}'
+      - Anxiety
+      - Depression
+      - Mood
+      - Other
       required: true

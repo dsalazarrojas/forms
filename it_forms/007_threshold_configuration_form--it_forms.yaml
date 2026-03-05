@@ -16,10 +16,8 @@ inputSchema:
       hint: Choose a monitoring condition
       type: select_one
       options:
-      - '{''id'': ''condition-01'', ''label'': ''Threshold Breached'', ''value'':
-        ''Threshold Breached''}'
-      - '{''id'': ''condition-02'', ''label'': ''Threshold Achieved'', ''value'':
-        ''Threshold Achieved''}'
+      - Threshold Breached
+      - Threshold Achieved
       required: false
     - id: 3
       name: notification_method
@@ -27,8 +25,8 @@ inputSchema:
       hint: Choose a notification method
       type: select_one
       options:
-      - '{''id'': ''method-01'', ''label'': ''Email'', ''value'': ''email''}'
-      - '{''id'': ''method-02'', ''label'': ''Phone'', ''value'': ''phone''}'
+      - Email
+      - Phone
       required: false
     - id: 4
       name: action
@@ -36,8 +34,8 @@ inputSchema:
       hint: Choose an action for the breached threshold
       type: select_one
       options:
-      - '{''id'': ''action-01'', ''label'': ''Send Alert'', ''value'': ''send_alert''}'
-      - '{''id'': ''action-02'', ''label'': ''Trigger Ticket'', ''value'': ''trigger_ticket''}'
+      - Send Alert
+      - Trigger Ticket
       required: false
     - id: 5
       name: monitoring_frequency

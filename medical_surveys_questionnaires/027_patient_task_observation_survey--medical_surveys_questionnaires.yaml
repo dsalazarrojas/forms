@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 4
       name: task_location
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Clinic''}'
-      - '{''value'': ''Home''}'
-      - '{''value'': ''Other''}'
+      - Clinic
+      - Home
+      - Other
       required: true
     - id: 5
       name: task_duration
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Less than 15 minutes''}'
-      - '{''value'': ''15-30 minutes''}'
-      - '{''value'': ''30-60 minutes''}'
+      - Less than 15 minutes
+      - 15-30 minutes
+      - 30-60 minutes
       required: true
     - id: 6
       name: note

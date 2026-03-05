@@ -51,10 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''for_work'', ''label'': ''for work'', ''value'': ''for_work''}'
-      - '{''id'': 2, ''name'': ''for_fun'', ''label'': ''for fun'', ''value'': ''for_fun''}'
-      - '{''id'': 3, ''name'': ''for_education'', ''label'': ''for education'', ''value'':
-        ''for_education''}'
+      - for work
+      - for fun
+      - for education
       required: true
     - id: 8
       name: how_much
@@ -69,8 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''option_1'', ''value'': ''option_1''}'
-      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''option_2'', ''value'': ''option_2''}'
+      - option 1
+      - option 2
       required: false
     - id: 10
       name: other_field

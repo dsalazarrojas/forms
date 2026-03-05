@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
-      - '{''id'': 2, ''name'': ''satisfied'', ''label'': ''satisfied''}'
-      - '{''id'': 3, ''name'': ''not_satisfied'', ''label'': ''not_satisfied''}'
-      - '{''id'': 4, ''name'': ''very_unsatisfied'', ''label'': ''very_unhappy''}'
+      - very satisfied
+      - satisfied
+      - not satisfied
+      - very unhappy
       required: true
     - id: 3
       name: email
@@ -48,9 +48,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''customer_loyalty_program'', ''label'': ''customer_loyalty_program''}'
-      - '{''id'': 2, ''name'': ''customer_loyalty_program'', ''label'': ''customer_loyalty_program''}'
-      - '{''id'': 3, ''name'': ''customer_loyalty_program'', ''label'': ''customer_loyalty_program''}'
+      - customer loyalty program
+      - Other
       required: false
     - id: 7
       name: date_of_last_purchase

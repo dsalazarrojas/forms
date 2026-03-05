@@ -6,112 +6,56 @@ inputSchema:
     - id: 1
       name: nominator_information
       label: Nominator Information
-      hint: Enter your details
+      hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: nominator_first_name
       label: First Name
-      hint: Your first name
+      hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: nominator_last_name
       label: Last Name
-      hint: Your last name
+      hint: null
       type: text
       options: []
       required: true
     - id: 4
       name: nominator_title
       label: Professional Title
-      hint: Your job title
+      hint: null
       type: text
       options: []
       required: true
     - id: 5
       name: nominator_organization
       label: Organization
-      hint: Your company or institution
+      hint: null
       type: text
       options: []
       required: true
     - id: 6
       name: nominator_email
       label: Email Address
-      hint: Contact email
+      hint: null
       type: email
       options: []
       required: true
     - id: 7
       name: nominator_phone
       label: Phone Number
-      hint: Contact number
+      hint: null
       type: text
       options: []
       required: true
     - id: 8
-      name: nominee_information
-      label: Nominee Information
-      hint: Enter nominee details
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: nominee_first_name
-      label: First Name
-      hint: Nominee's first name
-      type: text
-      options: []
-      required: true
-    - id: 10
-      name: nominee_last_name
-      label: Last Name
-      hint: Nominee's last name
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: nominee_title
-      label: Professional Title
-      hint: Nominee's current position
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: nominee_organization
-      label: Organization
-      hint: Nominee's company or institution
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: nominee_department
-      label: Department
-      hint: Nominee's department or division
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: nominee_email
-      label: Email Address
-      hint: Nominee's contact email
-      type: email
-      options: []
-      required: true
-    - id: 15
-      name: award_information
-      label: Award Information
-      hint: Specify award details
-      type: note
-      options: []
-      required: false
-    - id: 16
       name: award_category
       label: Award Category
-      hint: Which award category
+      hint: null
       type: select_one
       options:
       - Innovation in Drug Discovery
@@ -123,38 +67,31 @@ inputSchema:
       - Team Excellence Award
       - Emerging Technology Award
       required: true
-    - id: 17
+    - id: 9
       name: nomination_year
       label: Nomination Year
-      hint: Year for this nomination
+      hint: null
       type: number
       options: []
       required: true
-    - id: 18
-      name: research_details
-      label: Research Details
-      hint: Describe the nominated work
-      type: note
-      options: []
-      required: false
-    - id: 19
+    - id: 10
       name: research_title
       label: Research Title
-      hint: Title of the research or project
+      hint: null
       type: text
       options: []
       required: true
-    - id: 20
+    - id: 11
       name: research_summary
       label: Research Summary
-      hint: Brief summary of the research
+      hint: null
       type: text
       options: []
       required: true
-    - id: 21
+    - id: 12
       name: research_field
       label: Research Field
-      hint: Primary field of research
+      hint: null
       type: select_one
       options:
       - Gene Therapy
@@ -168,10 +105,10 @@ inputSchema:
       - Biomanufacturing
       - Other
       required: true
-    - id: 22
+    - id: 13
       name: research_duration
       label: Research Duration
-      hint: How long was the research conducted
+      hint: null
       type: select_one
       options:
       - Less than 1 year
@@ -180,141 +117,120 @@ inputSchema:
       - 5-10 years
       - 10+ years
       required: true
-    - id: 23
+    - id: 14
       name: key_achievements
       label: Key Achievements
-      hint: List major accomplishments
+      hint: null
       type: text
       options: []
       required: true
-    - id: 24
+    - id: 15
       name: innovation_description
       label: Description of Innovation
-      hint: What makes this work innovative
+      hint: null
       type: text
       options: []
       required: true
-    - id: 25
+    - id: 16
       name: impact_assessment
       label: Impact Assessment
-      hint: Describe the impact of this work
+      hint: null
       type: text
       options: []
       required: true
-    - id: 26
+    - id: 17
       name: publications
       label: Related Publications
-      hint: List key publications
+      hint: null
       type: text
       options: []
       required: false
-    - id: 27
-      name: patents
-      label: Patents
-      hint: List any related patents
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: supporting_documents
-      label: Supporting Documents
-      hint: Documents to include
-      type: note
-      options: []
-      required: false
-    - id: 29
+    - id: 18
       name: cv_attached
       label: CV or Resume Attached
-      hint: Has nominee CV been included
+      hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Will Submit Separately
       required: true
-    - id: 30
+    - id: 19
       name: letters_of_support
-      label: Letters of Support
-      hint: Number of support letters
+      label: Number of Support Letters
+      hint: null
       type: number
       options: []
       required: true
-    - id: 31
+    - id: 20
       name: additional_materials
-      label: Additional Materials
-      hint: List any other supporting materials
+      label: List any Other Supporting Materials
+      hint: null
       type: text
       options: []
       required: false
-    - id: 32
+    - id: 21
       name: eligibility_confirmation
       label: Eligibility Confirmation
-      hint: Confirm nominee eligibility
+      hint: null
       type: note
       options: []
       required: false
-    - id: 33
+    - id: 22
       name: eligibility_status
       label: Eligibility Status
-      hint: Is nominee eligible for this award
+      hint: null
       type: select_one
       options:
       - Yes - Meets All Requirements
       - Yes - With Exceptions Noted
       - No - Does Not Meet Requirements
       required: true
-    - id: 34
+    - id: 23
       name: eligibility_exceptions
       label: Eligibility Exceptions
-      hint: Describe any exceptions if applicable
+      hint: null
       type: text
       options: []
       required: false
-    - id: 35
+    - id: 24
       name: conflict_of_interest
       label: Conflict of Interest
-      hint: Do you have any conflict of interest
+      hint: null
       type: select_one
       options:
       - No Conflict of Interest
       - Potential Conflict - Disclosed Below
       - Yes - Cannot Nominate
       required: true
-    - id: 36
+    - id: 25
       name: conflict_description
       label: Conflict Description
-      hint: Describe any conflicts
+      hint: null
       type: text
       options: []
       required: false
-    - id: 37
+    - id: 26
       name: previous_nominations
       label: Previous Nominations
-      hint: Has nominee been nominated before
+      hint: null
       type: select_one
       options:
       - No - First Nomination
       - Yes - Previously Nominated
       - Yes - Previous Winner
       required: false
-    - id: 38
+    - id: 27
       name: nomination_statement
       label: Nomination Statement
       hint: Why should this person or team receive this award
       type: text
       options: []
       required: true
-    - id: 39
-      name: reviewer_use_only
-      label: For Review Committee Use Only
-      hint: Scoring section
-      type: note
-      options: []
-      required: false
-    - id: 40
+    - id: 28
       name: submission_status
       label: Submission Status
-      hint: Current status
+      hint: null
       type: select_one
       options:
       - Submitted
@@ -323,19 +239,17 @@ inputSchema:
       - Approved
       - Not Selected
       required: false
-    - id: 41
+    - id: 29
       name: submission_date
       label: Submission Date
-      hint: Date of nomination
+      hint: null
       type: date
       options: []
-      required: true
-    - id: 42
-      name: nominator_signature
-      label: Nominator Signature
-      hint: Confirm nomination accuracy
-      type: select_one
-      options:
-      - I certify this nomination is accurate
-      - I endorse this nomination
-      required: true
+      required: false
+    - id: 30
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false

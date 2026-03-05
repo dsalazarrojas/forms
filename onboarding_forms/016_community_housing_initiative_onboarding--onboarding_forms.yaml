@@ -1,102 +1,91 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Community Housing Initiative Onboarding
     pages:
-      - id: 1
-        name: onboarding_welcome
-        label: -- Onboarding Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: participant_name
-        label: Participant name
-        hint: Full name for onboarding records
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: role
-        label: Role in initiative
-        hint: Tenant, volunteer, staff, or partner
-        type: select_one
-        options:
-          - Tenant
-          - Volunteer
-          - Staff
-          - Partner
-        required: true
-      - id: 4
-        name: start_date
-        label: Start date
-        hint: Date onboarding begins
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: emergency_contact
-        label: Emergency contact name and phone
-        hint: For safety and urgent contact
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: training_needs
-        label: Training needs
-        hint: Select topics you require training on
-        type: select_multiple
-        options:
-          - Tenant rights
-          - Maintenance requests
-          - Community rules
-          - Resource referrals
-        required: false
-      - id: 7
-        name: documentation_provided
-        label: Documentation provided
-        hint: Indicate files submitted during onboarding
-        type: select_multiple
-        options:
-          - ID proof
-          - Income proof
-          - Lease agreement
-          - Other
-        required: false
-      - id: 8
-        name: access_credentials_needed
-        label: Access credentials needed
-        hint: Keys, cards, or digital access
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 9
-        name: special_accommodations
-        label: Special accommodations
-        hint: Any accessibility or support needs
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: acknowledgements
-        label: Acknowledgements and agreements
-        hint: Confirm you have read program guidelines
-        type: select_one
-        options:
-          - I acknowledge
-          - I do not acknowledge
-        required: true
+    - id: 1
+      name: onboarding_welcome
+      label: -- Onboarding Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name for onboarding records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: Role in initiative
+      hint: Tenant, volunteer, staff, or partner
+      type: select_one
+      options:
+      - Tenant
+      - Volunteer
+      - Staff
+      - Partner
+      required: true
+    - id: 4
+      name: start_date
+      label: Start date
+      hint: Date onboarding begins
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: For safety and urgent contact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_needs
+      label: Training needs
+      hint: Select topics you require training on
+      type: select_multiple
+      options:
+      - Tenant rights
+      - Maintenance requests
+      - Community rules
+      - Resource referrals
+      required: false
+    - id: 7
+      name: documentation_provided
+      label: Documentation provided
+      hint: Indicate files submitted during onboarding
+      type: select_multiple
+      options:
+      - ID proof
+      - Income proof
+      - Lease agreement
+      - Other
+      required: false
+    - id: 8
+      name: access_credentials_needed
+      label: Access credentials needed
+      hint: Keys, cards, or digital access
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: special_accommodations
+      label: Special accommodations
+      hint: Any accessibility or support needs
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: acknowledgements
+      label: Acknowledgements and agreements
+      hint: Confirm you have read program guidelines
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true

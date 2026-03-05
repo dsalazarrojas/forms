@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: employee_coaching_form_goal_details
@@ -33,13 +33,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option_4
-      - option_5
-      - option_6
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: employee_coaching_form_notes
-      label: Session Notes
+      label: Employee Coaching Form Notes
       hint: null
       type: text
       options: []
@@ -64,8 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_7
-      - option_8
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: employee_coaching_form_coaching_duration
@@ -80,13 +81,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option_9
-      - option_10
-      - option_11
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
       name: employee_coaching_form_coaching_session_notes
-      label: Session Notes
+      label: Employee Coaching Form Coaching Session Notes
       hint: null
       type: text
       options: []
@@ -106,8 +107,8 @@ inputSchema:
       options: []
       required: false
     - id: 14
-      name: employee_coaching_form_coaching_session_notes
-      label: Session Notes
+      name: employee_coaching_form_coaching_session_notes_2
+      label: Employee Coaching Form Coaching Session Notes 2
       hint: null
       type: text
       options: []
@@ -118,7 +119,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option_12
-      - option_13
-      - option_14
+      - I agree
+      - I do not agree
       required: false

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Diabetes Mellitus''}'
-      - '{''id'': 2, ''label'': ''Chronic Kidney Disease''}'
-      - '{''id'': 3, ''label'': ''Other Medical Condition''}'
+      - Diabetes Mellitus
+      - Chronic Kidney Disease
+      - Other Medical Condition
       required: true
     - id: 3
       name: medication
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Father''}'
-      - '{''id'': 2, ''label'': ''Mother''}'
-      - '{''id'': 3, ''label'': ''Siblings''}'
+      - Father
+      - Mother
+      - Siblings
       required: true
     - id: 5
       name: symptoms
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Hemoglobin''}'
-      - '{''id'': 2, ''label'': ''Creatinine''}'
-      - '{''id'': 3, ''label'': ''Urea''}'
+      - Hemoglobin
+      - Creatinine
+      - Urea
       required: true
     - id: 11
       name: kidney_function
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Stage 1''}'
-      - '{''id'': 2, ''label'': ''Stage 2''}'
-      - '{''id'': 3, ''label'': ''Stage 3''}'
+      - Stage 1
+      - Stage 2
+      - Stage 3
       required: true
     - id: 13
       name: other_conditions
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Never''}'
-      - '{''id'': 2, ''label'': ''Occasional''}'
-      - '{''id'': 3, ''label'': ''Daily''}'
+      - Never
+      - Occasional
+      - Daily
       required: true
     - id: 15
       name: alcohol_status
@@ -122,9 +122,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Never''}'
-      - '{''id'': 2, ''label'': ''Occasional''}'
-      - '{''id'': 3, ''label'': ''Daily''}'
+      - Never
+      - Occasional
+      - Daily
       required: false
     - id: 16
       name: exercise_status
@@ -132,9 +132,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Never''}'
-      - '{''id'': 2, ''label'': ''Occasional''}'
-      - '{''id'': 3, ''label'': ''Daily''}'
+      - Never
+      - Occasional
+      - Daily
       required: false
     - id: 17
       name: diet_status
@@ -142,9 +142,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Balanced''}'
-      - '{''id'': 2, ''label'': ''Unbalanced''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Balanced
+      - Unbalanced
+      - Other
       required: false
     - id: 18
       name: weight_status
@@ -152,9 +152,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Normal''}'
-      - '{''id'': 2, ''label'': ''Overweight''}'
-      - '{''id'': 3, ''label'': ''Obese''}'
+      - Normal
+      - Overweight
+      - Obese
       required: false
     - id: 19
       name: height_status
@@ -162,9 +162,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Normal''}'
-      - '{''id'': 2, ''label'': ''Underweight''}'
-      - '{''id'': 3, ''label'': ''Abnormal''}'
+      - Normal
+      - Underweight
+      - Abnormal
       required: false
     - id: 20
       name: height

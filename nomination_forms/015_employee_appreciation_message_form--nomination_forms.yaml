@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
-      - '{''id'': 2, ''label'': ''John Doe'', ''value'': ''john_doe''}'
-      - '{''id'': 3, ''label'': ''Bob Smith'', ''value'': ''bob_smith''}'
+      - Jane Doe
+      - John Doe
+      - Bob Smith
       required: true
     - id: 3
       name: message
@@ -44,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
-      - '{''id'': 2, ''label'': ''John Doe'', ''value'': ''john_doe''}'
-      - '{''id'': 3, ''label'': ''Bob Smith'', ''value'': ''bob_smith''}'
+      - Jane Doe
+      - John Doe
+      - Bob Smith
       required: true
     - id: 5
       name: routing
@@ -54,11 +43,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Team Lead'', ''value'': ''team_lead''}'
-      - '{''id'': 2, ''label'': ''Manager'', ''value'': ''manager''}'
-      - '{''id'': 3, ''label'': ''Director'', ''value'': ''director''}'
-      - '{''id'': 4, ''label'': ''CEO'', ''value'': ''ceo''}'
-      - '{''id'': 5, ''label'': ''Other'', ''value'': ''other''}'
+      - Team Lead
+      - Manager
+      - Director
+      - CEO
+      - Other
       required: true
     - id: 6
       name: followup
@@ -66,11 +55,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Send a thank you note'', ''value'': ''send_a_thank_you_note''}'
-      - '{''id'': 2, ''label'': ''Meet with the team lead'', ''value'': ''meet_with_team_lead''}'
-      - '{''id'': 3, ''label'': ''Review and follow up in 1 month'', ''value'': ''review_and_follow_up_in_1_month''}'
-      - '{''id'': 4, ''label'': ''Review and follow up in 3 months'', ''value'': ''review_and_follow_up_in_3_months''}'
-      - '{''id'': 5, ''label'': ''Review and follow up in 6 months'', ''value'': ''review_and_follow_up_in_6_months''}'
+      - Send a thank you note
+      - Meet with the team lead
+      - Review and follow up in 1 month
+      - Review and follow up in 3 months
+      - Review and follow up in 6 months
       required: true
     - id: 7
       name: review_date

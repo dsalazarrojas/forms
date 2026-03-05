@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High School Diploma''}'
-      - '{''label'': ''Some College''}'
-      - '{''label'': "Bachelor''s"}'
-      - '{''label'': "Master''s"}'
-      - '{''label'': ''Doctoral''}'
+      - High School Diploma
+      - Some College
+      - Bachelor's
+      - Master's
+      - Doctoral
       required: true
     - id: 7
       name: driver_license
@@ -56,8 +56,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: driver_experience
@@ -93,7 +93,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
-      - '{''label'': ''Retired''}'
+      - Active
+      - Inactive
+      - Retired
       required: false

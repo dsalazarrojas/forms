@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None'', ''value'': ''None''}'
-      - '{''label'': True, ''value'': True}'
+      - None
+      - 'True'
       required: true
     - id: 7
       name: consent
@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None'', ''value'': ''None''}'
-      - '{''label'': ''I consent'', ''value'': ''I consent''}'
+      - None
+      - I consent
       required: true
     - id: 8
       name: phone_number

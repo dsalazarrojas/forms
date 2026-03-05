@@ -24,179 +24,92 @@ inputSchema:
       - Veterinary Association
       required: true
     - id: 3
-      name: general_info
-      label: General Information
+      name: email_frequency
+      label: How often do you check your emails?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: general_info_3
-      label: General Information
+      name: social_media
+      label: Do you use social media for marketing?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 5
-      name: marketing_channels_2
-      label: What are your marketing channels?
+      name: age_range
+      label: What is your age range?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 20-29
+      - 30-39
+      - 40-49
+      - 50-59
+      - 60 or older
       required: true
     - id: 6
-      name: general_info_2
-      label: General Information
+      name: online_advertising
+      label: Do you prefer online advertising?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
-      name: general_info_4
-      label: General Information
+      name: experience
+      label: How many years of experience do you have in the veterinary field?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: true
     - id: 8
-      name: marketing_channels_1
-      label: What are your marketing channels?
+      name: media_preference
+      label: Do you prefer to receive information through email or print media?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Email
+      - Print Media
       required: true
     - id: 9
-      name: general_info_1
-      label: General Information
+      name: trade_shows
+      label: How often do you visit trade shows?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 10
-      name: general_info_3
-      label: General Information
+      name: role
+      label: What is your current role in the veterinary industry?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Veterinarian
+      - Veterinarian Assistant
+      - Pet Owner
+      - Industry Representative
+      - Other
       required: true
     - id: 11
-      name: general_info_2
-      label: General Information
+      name: social_media_ads
+      label: Do you prefer to receive information through social media or online advertising?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Social Media
+      - Online Advertising
       required: true
     - id: 12
-      name: general_info
-      label: General Information
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 13
-      name: general_info_1
-      label: General Information
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 14
-      name: general_info_4
-      label: General Information
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 15
-      name: general_info_3
-      label: General Information
+      name: comments
+      label: Do you have any other comments or suggestions?
       hint: null
       type: note
       options: []
       required: false
-    - id: 16
-      name: general_info
-      label: General Information
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: general_info
-      label: General Information
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 18
-      name: general_info_2
-      label: General Information
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 19
-      name: general_info_4
-      label: General Information
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 20
-      name: general_info
-      label: General Information
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 21
-      name: general_info
-      label: General Information
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: general_info_3
-      label: General Information
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 23
-      name: general_info
-      label: General Information
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: general_info_1
-      label: General Information
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: general_info_4
-      label: General Information
-      hint: null
-      type: date
-      options: []
-      required: true

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''none'', ''name'': ''None''}'
-      - '{''id'': ''some'', ''name'': ''Some''}'
-      - '{''id'': ''lots'', ''name'': ''Lots''}'
+      - None
+      - Some
+      - Lots
       required: true
     - id: 5
       name: contact_person
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''John Doe'', ''name'': ''John Doe''}'
-      - '{''id'': ''Jane Doe'', ''name'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 6
       name: email

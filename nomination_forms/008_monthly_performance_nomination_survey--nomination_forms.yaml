@@ -9,9 +9,9 @@ inputSchema:
       hint: Nominate an employee
       type: select_multiple
       options:
-      - '{''value'': ''Team Member''}'
-      - '{''value'': ''Department''}'
-      - '{''value'': ''Manager''}'
+      - Team Member
+      - Department
+      - Manager
       required: false
     - id: 2
       name: nominator_name
@@ -26,10 +26,10 @@ inputSchema:
       hint: Select a department
       type: select_one
       options:
-      - '{''value'': ''Sales''}'
-      - '{''value'': ''Marketing''}'
-      - '{''value'': ''IT''}'
-      - '{''value'': ''HR''}'
+      - Sales
+      - Marketing
+      - IT
+      - HR
       required: false
     - id: 4
       name: nomination_date
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Form 1''}'
-      - '{''value'': ''Form 2''}'
-      - '{''value'': ''Form 3''}'
+      - Form 1
+      - Form 2
+      - Form 3
       required: false
     - id: 7
       name: nomination_comments

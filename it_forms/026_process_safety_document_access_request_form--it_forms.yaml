@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Procedure'', ''value'': ''Procedure''}'
-      - '{''id'': 2, ''label'': ''Policy'', ''value'': ''Policy''}'
-      - '{''id'': 3, ''label'': ''Standard'', ''value'': ''Standard''}'
+      - Procedure
+      - Policy
+      - Standard
       required: false
     - id: 3
       name: document_id
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Engineering'', ''value'': ''Engineering''}'
-      - '{''id'': 2, ''label'': ''Maintenance'', ''value'': ''Maintenance''}'
-      - '{''id'': 3, ''label'': ''Operations'', ''value'': ''Operations''}'
+      - Engineering
+      - Maintenance
+      - Operations
       required: false
     - id: 5
       name: reason_for_request
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Manager 1'', ''value'': ''Manager 1''}'
-      - '{''id'': 2, ''label'': ''Manager 2'', ''value'': ''Manager 2''}'
-      - '{''id'': 3, ''label'': ''Manager 3'', ''value'': ''Manager 3''}'
+      - Manager 1
+      - Manager 2
+      - Manager 3
       required: false
     - id: 10
       name: manager_name

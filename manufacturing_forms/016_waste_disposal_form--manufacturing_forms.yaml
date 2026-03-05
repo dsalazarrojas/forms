@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Hazardous'', ''value'': True}'
-      - '{''label'': ''Non-Hazardous'', ''value'': False}'
+      - Hazardous
+      - Non-Hazardous
       required: true
     - id: 4
       name: waste_disposal_date
@@ -53,7 +53,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Jimmy'', ''value'': ''chatjimmy''}'
+      - Jimmy
       - Other
       required: false
     - id: 8
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pending'', ''value'': ''pending''}'
-      - '{''label'': ''Completed'', ''value'': ''completed''}'
-      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      - Pending
+      - Completed
+      - Cancelled
       required: false
     - id: 9
       name: comments

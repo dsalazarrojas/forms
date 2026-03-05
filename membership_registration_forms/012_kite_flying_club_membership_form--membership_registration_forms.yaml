@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: member_type
+      name: membership_type
       label: Membership Type
       hint: null
       type: select_one
@@ -50,7 +50,7 @@ inputSchema:
       - Location 1
       - Location 2
       - Location 3
-      required: false
+      required: true
     - id: 7
       name: kite_color
       label: Kite Color
@@ -60,66 +60,22 @@ inputSchema:
       - Red
       - Blue
       - Green
-      required: false
+      required: true
     - id: 8
       name: note
       label: Note
       hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
       type: text
       options: []
       required: false
-    - id: 10
+    - id: 9
       name: submitted_at
       label: Submitted At
       hint: null
       type: date
       options: []
       required: true
-    - id: 11
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: select_one
-      options:
-      - Jimmy
-      - Jane
-      required: false
-    - id: 12
-      name: submitted_from
-      label: Submitted From
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: membership_start_date
-      label: Membership Start Date
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: membership_end_date
-      label: Membership End Date
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: submitted_at
-      label: Submitted At
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
+    - id: 10
       name: submitted_by
       label: Submitted By
       hint: null
@@ -127,69 +83,4 @@ inputSchema:
       options:
       - John
       - Jane
-      required: false
-    - id: 17
-      name: submitted_from
-      label: Submitted From
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: membership_start_date
-      label: Membership Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: membership_end_date
-      label: Membership End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: submitted_at
-      label: Submitted At
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: select_one
-      options:
-      - John
-      - Jane
-      required: false
-    - id: 22
-      name: submitted_from
-      label: Submitted From
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: membership_start_date
-      label: Membership Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: membership_start_date
-      label: Membership Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
       required: false

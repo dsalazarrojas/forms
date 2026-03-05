@@ -5,104 +5,98 @@ inputSchema:
     pages:
     - id: 1
       name: telehealth_services_agreement_form
-      label: Telehealth Services Agreement Form
-      hint: null
+      label: What is your name?
+      hint: Please provide your full name.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: telehealth_services_agreement_1
-      label: Patient Information
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: patient_telehealth_agreement
-      label: Patient Telehealth Agreement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: patient_medical_history
-      label: Patient Medical History
-      hint: null
+      name: patient_date_of_birth
+      label: What is your date of birth?
+      hint: MM/DD/YYYY
       type: date
       options: []
-      required: false
-    - id: 5
-      name: patient_medical_history
-      label: Patient Medical History
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 6
-      name: patient_consent_to_share
-      label: Patient Consent to Share
-      hint: null
+      required: true
+    - id: 3
+      name: telehealth_services_method
+      label: What is your preferred contact method for telehealth services?
+      hint: Select your preferred contact method.
+      type: select_one
+      options:
+      - phone
+      - email
+      - online
+      required: true
+    - id: 4
+      name: patient_age_verification
+      label: Are you 18 years or older?
+      hint: Yes or No.
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 7
-      name: patient_consent_to_share
-      label: Patient Consent to Share
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: patient_contact_info
-      label: Patient Contact Info
-      hint: null
+      required: true
+    - id: 5
+      name: patient_medical_history
+      label: What is your medical history (e.g., allergies, conditions, medications)?
+      hint: Please provide a detailed list.
       type: text
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 6
+      name: patient_consent_to_share
+      label: Do you consent to share your medical history with our team?
+      hint: Yes or No.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
       name: patient_contact_info
-      label: Patient Contact Info
-      hint: null
+      label: Do you have any emergency contact information (e.g., family member or
+        caregiver)?
+      hint: Yes or No.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: patient_contact_info_phone
+      label: Do you have any emergency contact phone numbers?
+      hint: Please provide numbers separated by commas.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_contact_info_address
+      label: Do you have any emergency contact addresses?
+      hint: Please provide addresses separated by commas.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: patient_contact_info_name
+      label: What are your emergency contact names?
+      hint: Please provide names separated by commas.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: patient_medical_conditions
+      label: Do you have any medical conditions that may impact your ability to participate
+        in telehealth services?
+      hint: Yes or No.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: patient_email
+      label: What is your email address?
+      hint: Please provide your email address.
       type: email
       options: []
-      required: false
-    - id: 10
-      name: patient_medical_history
-      label: Patient Medical History
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: patient_medical_history
-      label: Patient Medical History
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: patient_contact_info
-      label: Patient Contact Info
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: telehealth_services_agreement_2
-      label: Telehealth Services Agreement 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

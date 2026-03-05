@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Dental Implant''}'
-      - '{''id'': 2, ''label'': ''Dental Bridge''}'
-      - '{''id'': 3, ''label'': ''Root Canal''}'
-      - '{''id'': 4, ''label'': ''Crown and Bridge''}'
-      - '{''id'': 5, ''label'': ''Extractions''}'
+      - Dental Implant
+      - Dental Bridge
+      - Root Canal
+      - Crown and Bridge
+      - Extractions
       required: true
     - id: 3
       name: procedure_risks
@@ -35,8 +35,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Patient agrees to the procedure''}'
-      - '{''id'': 2, ''label'': ''Patient declines the procedure''}'
+      - Patient agrees to the procedure
+      - Patient declines the procedure
       required: true
     - id: 5
       name: patient_contact_info
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pending''}'
-      - '{''id'': 2, ''label'': ''Complete''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - Pending
+      - Complete
+      - Cancelled
       required: true
     - id: 10
       name: notes
@@ -110,8 +110,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Jimmy''}'
-      - '{''id'': 2, ''label'': ''Jane''}'
+      - Jimmy
+      - Jane
       required: false
     - id: 15
       name: assigned_tool
@@ -119,8 +119,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''chatjane''}'
+      - chatjimmy
+      - chatjane
       required: false
     - id: 16
       name: patient_name
@@ -177,8 +177,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
+      - Male
+      - Female
       required: false
     - id: 24
       name: patient_ethnicity
@@ -186,10 +186,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Asian''}'
-      - '{''id'': 2, ''label'': ''White''}'
-      - '{''id'': 3, ''label'': ''Black''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Asian
+      - White
+      - Black
+      - Other
       required: false
     - id: 25
       name: follow_up_time

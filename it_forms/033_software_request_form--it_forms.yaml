@@ -4,172 +4,111 @@ inputSchema:
     title: Software Request Form
     pages:
     - id: 1
-      name: software_request_form_1
-      label: Software Request Form
+      name: software_request_1
+      label: What is the software you are requesting?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: software_request_form_2
-      label: Software Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: software_category
+      name: software_category_1
       label: Software Category
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: software_sub_category
+      - General
+      - IT
+      - Security
+      - Network
+      - Database
+      - Operating System
+      - Other (please specify)
+      required: true
+    - id: 3
+      name: software_sub_category_1
       label: Software Sub Category
       hint: null
+      type: select_multiple
+      options:
+      - Category A
+      - Category B
+      - Category C
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: software_description_1
+      label: Brief Description
+      hint: Please provide a brief description of the software you are requesting
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: software_description
-      label: Software Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: software_version
+      name: software_version_1
       label: Software Version
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
-      name: contact_information
+      required: true
+    - id: 6
+      name: contact_information_1
       label: Contact Information
-      hint: null
+      hint: Please provide your name and contact phone number and email so we can
+        reach you
       type: text
       options: []
-      required: false
+      required: true
+    - id: 7
+      name: department_1
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Security
+      - Finance
+      - Marketing
+      - Other (please specify)
+      required: true
     - id: 8
-      name: contact_phone
-      label: Contact Phone
+      name: is_urgent_1
+      label: Is this software request an urgent matter?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 9
-      name: contact_email
-      label: Contact Email
-      hint: null
-      type: email
+      name: software_timeline_1
+      label: Expected Timeline
+      hint: Please provide a rough timeline for when you would like the software to
+        be implemented
+      type: date
       options: []
-      required: false
+      required: true
     - id: 10
-      name: department_name
-      label: Department Name
+      name: primary_user_1
+      label: Primary User
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Me
+      - Another User
+      - Team
+      required: true
     - id: 11
-      name: department_name_1
-      label: Department Name
+      name: software_note_1
+      label: Additional Information (if needed)
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 12
-      name: department_name_2
-      label: Department Name
+      name: notification_1
+      label: Would you like to be notified when the software is ready to use?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: software_request_form_14
-      label: Software Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: software_request_form_15
-      label: Software Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: software_request_form_16
-      label: Software Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: software_request_form_17
-      label: Software Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: software_request_form_18
-      label: Software Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: software_request_form_19
-      label: Software Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: software_request_form_20
-      label: Software Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: software_request_form_21
-      label: Software Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: software_request_form_22
-      label: Software Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: software_request_form_23
-      label: Software Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: software_request_form_24
-      label: Software Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: software_request_form_25
-      label: Software Request Form
-      hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
       required: false

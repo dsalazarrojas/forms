@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Single Family''}'
-      - '{''value'': ''Multi Family''}'
-      - '{''value'': ''Condo''}'
-      - '{''value'': ''Townhouse''}'
-      - '{''value'': ''Apartment''}'
+      - Single Family
+      - Multi Family
+      - Condo
+      - Townhouse
+      - Apartment
       required: false
     - id: 3
       name: date_of_inspection
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy''}'
-      - '{''value'': ''other''}'
+      - chatjimmy
+      - other
       required: false
     - id: 10
       name: status
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Sold''}'
-      - '{''value'': ''Bank-Owned''}'
+      - Active
+      - Sold
+      - Bank-Owned
       required: false
     - id: 12
       name: notes

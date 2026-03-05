@@ -57,9 +57,9 @@ inputSchema:
       hint: Select "Completed" if maintenance due date is in past
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Pending''}'
+      - 'True'
+      - 'False'
+      - Pending
       required: false
     - id: 8
       name: comments

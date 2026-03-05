@@ -17,65 +17,65 @@ inputSchema:
     - id: 1
       name: service_options
       label: Service Options
-      hint: null
-      type: note
+      hint: Briefly describe your services and pricing.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: contact_details
+      name: contact_info
       label: Contact Information
-      hint: null
+      hint: Enter your name, phone number, and email.
       type: email
       options: []
-      required: false
+      required: true
     - id: 3
       name: service_times
       label: Service Times
-      hint: null
-      type: time
-      options: []
-      required: false
+      hint: Available service hours.
+      type: select_multiple
+      options:
+      - Monday, 9:00 AM - 5:00 PM
+      - Tuesday, 9:00 AM - 5:00 PM
+      - Wednesday, 9:00 AM - 5:00 PM
+      required: true
     - id: 4
       name: pricing
       label: Pricing
-      hint: null
+      hint: Select your pricing option.
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 5
-      name: service_times_2
-      label: Service Times
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
+      name: service_details
+      label: Service Details
+      hint: Provide more details about your services.
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: pricing_2
-      label: Pricing
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you would like to share.
+      type: text
+      options: []
       required: false
     - id: 7
-      name: service_options_2
-      label: Service Options
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: payment_terms
+      label: Payment Terms
+      hint: Select payment terms.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 8
-      name: contact_info
-      label: Contact Information
-      hint: null
+      name: review
+      label: Review
+      hint: Leave a review about our services.
       type: text
       options: []
-      required: false
+      required: true

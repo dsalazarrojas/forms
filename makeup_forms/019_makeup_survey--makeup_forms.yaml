@@ -4,111 +4,69 @@ inputSchema:
     title: Makeup Survey
     pages:
     - id: 1
-      name: survey_form
-      label: Survey Form
+      name: user_info
+      label: User Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: makeup_frequency
-      label: Makeup Frequency
+      label: How often do you wear makeup?
       hint: null
       type: number
       options: []
       required: false
     - id: 3
-      name: makeup_frequency_0
-      label: How often do you wear make up?
+      name: makeup_usage
+      label: What type of makeup do you usually wear?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 4
-      name: makeup_frequency_1
-      label: How often do you wear make up?
+      name: makeup_routine
+      label: How long do you spend each day on makeup?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 5
-      name: makeup_frequency_2
-      label: How often do you wear make up?
+      name: favorite_product
+      label: Favorite product
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: makeup_frequency_3
-      label: How often do you wear make up?
+      name: usage_reason
+      label: Reason for using makeup
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option 1
+      - Option 2
       required: false
     - id: 7
-      name: makeup_frequency_4
-      label: How often do you wear make up?
+      name: time_using
+      label: How long have you been using makeup?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 8
-      name: makeup_frequency_5
-      label: How often do you wear make up?
+      name: satisfaction
+      label: Satisfied with current routine
       hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - Option 1
+      - Option 2
       required: false
     - id: 9
-      name: makeup_usage
-      label: Makeup Usage
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: makeup_usage_0
-      label: What type of make up do you usually wear?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: makeup_usage_1
-      label: What type of make up do you usually wear?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: makeup_usage_2
-      label: What type of make up do you usually wear?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: makeup_usage_3
-      label: What type of make up do you usually wear?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: makeup_usage_4
-      label: What type of make up do you usually wear?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: makeup_usage_5
-      label: What type of make up do you usually wear?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
       name: makeup_brand
       label: Makeup Brand
       hint: null

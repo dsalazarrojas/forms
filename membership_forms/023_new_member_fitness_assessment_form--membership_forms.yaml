@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: alcohol_user
@@ -88,8 +88,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: medical_conditions
@@ -97,11 +97,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''hypertension'', ''value'': ''hypertension''}'
-      - '{''label'': ''diabetes'', ''value'': ''diabetes''}'
-      - '{''label'': ''heart_disease'', ''value'': ''heart_disease''}'
-      - '{''label'': ''high_cholesterol'', ''value'': ''high_cholesterol''}'
-      - '{''label'': ''stroke'', ''value'': ''stroke''}'
+      - hypertension
+      - diabetes
+      - heart disease
+      - high cholesterol
+      - stroke
       required: false
     - id: 14
       name: medications
@@ -109,14 +109,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''statins'', ''value'': ''statins''}'
-      - '{''label'': ''beta_blockers'', ''value'': ''beta_blockers''}'
-      - '{''label'': ''diuretics'', ''value'': ''diuretics''}'
-      - '{''label'': ''pain_relievers'', ''value'': ''pain_relievers''}'
-      - '{''label'': ''blood_pressure_meds'', ''value'': ''blood_pressure_meds''}'
-      - '{''label'': ''blood_thinners'', ''value'': ''blood_thinners''}'
-      - '{''label'': ''insulin'', ''value'': ''insulin''}'
-      - '{''label'': ''other'', ''value'': ''other''}'
+      - statins
+      - beta blockers
+      - diuretics
+      - pain relievers
+      - blood pressure meds
+      - blood thinners
+      - insulin
+      - other
       required: false
     - id: 15
       name: allergies
@@ -124,13 +124,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''peanuts'', ''value'': ''peanuts''}'
-      - '{''label'': ''shellfish'', ''value'': ''shellfish''}'
-      - '{''label'': ''dairy'', ''value'': ''dairy''}'
-      - '{''label'': ''gluten'', ''value'': ''gluten''}'
-      - '{''label'': ''shellfish'', ''value'': ''shellfish''}'
-      - '{''label'': ''soy'', ''value'': ''soy''}'
-      - '{''label'': ''other'', ''value'': ''other''}'
+      - peanuts
+      - shellfish
+      - dairy
+      - gluten
+      - soy
+      - other
       required: false
     - id: 16
       name: emergency_contact
@@ -138,11 +137,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''mom'', ''value'': ''mom''}'
-      - '{''label'': ''dad'', ''value'': ''dad''}'
-      - '{''label'': ''brother'', ''value'': ''brother''}'
-      - '{''label'': ''sister'', ''value'': ''sister''}'
-      - '{''label'': ''other'', ''value'': ''other''}'
+      - mom
+      - dad
+      - brother
+      - sister
+      - other
       required: false
     - id: 17
       name: medical_notes
@@ -157,10 +156,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''daily'', ''value'': ''daily''}'
-      - '{''label'': ''weekly'', ''value'': ''weekly''}'
-      - '{''label'': ''monthly'', ''value'': ''monthly''}'
-      - '{''label'': ''never'', ''value'': ''never''}'
+      - daily
+      - weekly
+      - monthly
+      - never
       required: false
     - id: 19
       name: exercise_duration
@@ -175,10 +174,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''cardio'', ''value'': ''cardio''}'
-      - '{''label'': ''strength_training'', ''value'': ''strength_training''}'
-      - '{''label'': ''flexibility'', ''value'': ''flexibility''}'
-      - '{''label'': ''other'', ''value'': ''other''}'
+      - cardio
+      - strength training
+      - flexibility
+      - other
       required: false
     - id: 21
       name: blood_glucose

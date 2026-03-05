@@ -23,9 +23,9 @@ inputSchema:
       hint: Select one of the following
       type: select_one
       options:
-      - '{''value'': ''Alignment''}'
-      - '{''value'': ''Gene prediction''}'
-      - '{''value'': ''Gene prediction and annotation''}'
+      - Alignment
+      - Gene prediction
+      - Gene prediction and annotation
       required: false
     - id: 4
       name: input_file
@@ -40,10 +40,10 @@ inputSchema:
       hint: Select one of the following
       type: select_one
       options:
-      - '{''value'': ''Genomic DNA''}'
-      - '{''value'': ''Genomic RNA''}'
-      - '{''value'': ''Metagenomic DNA''}'
-      - '{''value'': ''Metagenomic RNA''}'
+      - Genomic DNA
+      - Genomic RNA
+      - Metagenomic DNA
+      - Metagenomic RNA
       required: false
     - id: 6
       name: select_project
@@ -60,9 +60,9 @@ inputSchema:
       hint: Select one of the following
       type: select_one
       options:
-      - '{''value'': ''Human''}'
-      - '{''value'': ''Mouse''}'
-      - '{''value'': ''Zebrafish''}'
+      - Human
+      - Mouse
+      - Zebrafish
       required: false
     - id: 8
       name: select_organism_type

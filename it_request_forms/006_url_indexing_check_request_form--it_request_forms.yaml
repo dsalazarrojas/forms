@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Home''}'
-      - '{''id'': 2, ''name'': ''Internal''}'
-      - '{''id'': 3, ''name'': ''External''}'
+      - Home
+      - Internal
+      - External
       required: true
     - id: 6
       name: url_priority
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 7
       name: url_status
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Indexed''}'
-      - '{''id'': 2, ''name'': ''Not Indexed''}'
-      - '{''id'': 3, ''name'': ''Unknown''}'
+      - Indexed
+      - Not Indexed
+      - Unknown
       required: true
     - id: 8
       name: url_date

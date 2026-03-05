@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 2
       name: maintenance_type
@@ -18,8 +18,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Inspection''}'
-      - '{''id'': 2, ''name'': ''Maintenance''}'
+      - Inspection
+      - Maintenance
       required: false
     - id: 3
       name: equipment_name
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Working''}'
-      - '{''id'': 2, ''name'': ''Offline''}'
-      - '{''id'': 3, ''name'': ''Broken''}'
+      - Working
+      - Offline
+      - Broken
       required: false
     - id: 5
       name: maintenance_date
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 9
       name: maintenance_by
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Facility Team''}'
-      - '{''id'': 2, ''name'': ''External Contractor''}'
+      - Facility Team
+      - External Contractor
       required: false
     - id: 10
       name: comments
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 15
       name: next_maintenance_by
@@ -122,8 +122,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Facility Team''}'
-      - '{''id'': 2, ''name'': ''External Contractor''}'
+      - Facility Team
+      - External Contractor
       required: false
     - id: 16
       name: maintenance_hours

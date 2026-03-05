@@ -5,202 +5,98 @@ inputSchema:
     pages:
     - id: 1
       name: main_page
-      label: main-page
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 2
-      name: process_ratings
-      label: process-ratings
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 3
-      name: process_comments
-      label: process-comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: supply_chain_issues
-      label: supply-chain-issues
+      label: Main Page
       hint: null
       type: select_multiple
       options:
-      - None
-      - None
-      - None
-      - None
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
-    - id: 5
-      name: comments
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 7
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: rating
-      label: rating
+    - id: 2
+      name: overall
+      label: Overall
       hint: null
       type: number
       options: []
       required: true
-    - id: 9
-      name: departmental_rating
-      label: departmental-rating
+    - id: 3
+      name: quality
+      label: Quality
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team
+      label: Team
       hint: null
       type: select_multiple
       options:
-      - None
-      - None
-      - None
-      - None
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
+    - id: 6
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
     - id: 10
-      name: departmental_comments
-      label: departmental-comments
+      name: overall_comments
+      label: Overall Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: team_rating
-      label: team-rating
+      name: additional_comments
+      label: Additional Comments
       hint: null
-      type: select_multiple
-      options:
-      - None
-      - None
-      - None
-      - None
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 12
-      name: team_comments
-      label: team-comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: overall
-      label: overall
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 14
-      name: overall_comments
-      label: overall-comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: submit
-      label: submit
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: true
-    - id: 16
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 17
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: comments
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: comments
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
       name: submission_status
-      label: submission-status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 21
-      name: submission_status
-      label: submission-status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: true
-    - id: 22
-      name: submission_status
-      label: submission-status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: true
-    - id: 23
-      name: submission_status
-      label: submission-status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: true
-    - id: 24
-      name: submission_status
-      label: submission-status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: true
-    - id: 25
-      name: submission_status
-      label: submission-status
+      label: Submission Status
       hint: null
       type: select_one
       options:

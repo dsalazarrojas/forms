@@ -211,8 +211,8 @@ inputSchema:
       hint: Were there any witnesses?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 29
       name: witness_details
@@ -227,8 +227,8 @@ inputSchema:
       hint: Was a police report filed?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Pending
       required: true
     - id: 31
@@ -278,7 +278,7 @@ inputSchema:
       options:
       - Yes - will submit
       - Yes - submitted separately
-      - false
+      - 'False'
       required: true
     - id: 37
       name: form_date

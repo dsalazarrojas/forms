@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''left''}'
-      - '{''id'': 2, ''label'': ''right''}'
-      - '{''id'': 3, ''label'': ''top''}'
-      - '{''id'': 4, ''label'': ''bottom''}'
+      - left
+      - right
+      - top
+      - bottom
       required: false
     - id: 5
       name: primary_branding_color
@@ -64,10 +64,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Arial''}'
-      - '{''id'': 2, ''label'': ''Times New Roman''}'
-      - '{''id'': 3, ''label'': ''Calibri''}'
-      - '{''id'': 4, ''label'': ''Courier''}'
+      - Arial
+      - Times New Roman
+      - Calibri
+      - Courier
       required: false
     - id: 9
       name: font_color
@@ -82,7 +82,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''font_1'', ''link'': ''https://www.fonts.com/font_1''}'
-      - '{''id'': 2, ''label'': ''font_2'', ''link'': ''https://www.fonts.com/font_2''}'
-      - '{''id'': 3, ''label'': ''font_3'', ''link'': ''https://www.fonts.com/font_3''}'
+      - font 1
+      - font 2
+      - font 3
       required: false

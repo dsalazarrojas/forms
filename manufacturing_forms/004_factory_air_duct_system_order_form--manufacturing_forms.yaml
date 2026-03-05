@@ -4,229 +4,132 @@ inputSchema:
     title: Factory Air Duct System Order Form
     pages:
     - id: 1
-      name: page_1
-      label: Factory Air Duct System Order Form
+      name: customer_info
+      label: Customer Information
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: page_2
-      label: Order Information
+      name: system_type
+      label: Type of Factory Air Duct System
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      - Other
+      required: true
     - id: 3
-      name: page_3
-      label: System Details
+      name: delivery_date
+      label: Expected Delivery Date
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: page_4
-      label: Factory Details
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: page_5
-      label: HVAC Supplier Details
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: page_6
-      label: Order Tracking
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: page_7
-      label: Factory Air Duct System Order Form
-      hint: null
-      type: note
+      type: date
       options: []
-      required: false
-    - id: 8
-      name: page_8
-      label: System Details
+      required: true
+    - id: 4
+      name: quantity
+      label: Estimated Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: price_range
+      label: Price Range
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: supplier_info
+      label: HVAC Supplier Details
       hint: null
       type: select_multiple
       options:
+      - Supplier 1
+      - Supplier 2
+      - Supplier 3
+      required: true
+    - id: 7
+      name: tracking_method
+      label: Order Tracking Method
+      hint: null
+      type: select_one
+      options:
       - 'Yes'
       - 'No'
-      required: false
+      - Other
+      required: true
+    - id: 8
+      name: system_specs
+      label: System Technical Specifications
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 9
-      name: page_9
+      name: factory_info
       label: Factory Details
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      - Other
+      required: true
     - id: 10
-      name: page_10
-      label: HVAC Supplier Details
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: page_11
-      label: Order Tracking
+      name: material_used
+      label: Material Used
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      - Other
+      required: true
+    - id: 11
+      name: installation_date
+      label: Expected Installation Date
+      hint: null
+      type: date
+      options: []
+      required: true
     - id: 12
-      name: page_12
-      label: Factory Air Duct System Order Form
+      name: special_requests
+      label: Special Requests or Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 13
-      name: page_13
-      label: System Specifications
+      name: system_details
+      label: System Details
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 14
-      name: page_14
-      label: System Details
+      name: factory_address
+      label: Factory Address
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 15
-      name: page_15
-      label: Factory Details
+      name: contact_info
+      label: Contact Information
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 16
-      name: page_16
-      label: HVAC Supplier Details
+      name: shipping_info
+      label: Shipping Information
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: page_17
-      label: Order Tracking
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: page_18
-      label: Factory Air Duct System Order Form
-      hint: null
-      type: note
+      type: text
       options: []
-      required: false
-    - id: 19
-      name: page_19
-      label: System Specifications
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: page_20
-      label: System Details
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: page_21
-      label: Factory Details
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: page_22
-      label: HVAC Supplier Details
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: page_23
-      label: Order Tracking
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: page_24
-      label: Factory Air Duct System Order Form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: page_25
-      label: System Specifications
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 26
-      name: page_26
-      label: System Details
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 27
-      name: page_27
-      label: Factory Details
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

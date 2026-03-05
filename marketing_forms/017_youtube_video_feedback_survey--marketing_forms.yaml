@@ -5,56 +5,35 @@ inputSchema:
     pages:
     - id: 1
       name: name
-      label: first_name
+      label: What's your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: last_name
-      label: last_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 4
+      required: true
+    - id: 3
       name: rating
-      label: rating
+      label: How would you rate this video?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 5
-      name: feedback
-      label: feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 4
       name: video_title
-      label: video_title
+      label: What's the video title?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
-      name: video_length
-      label: video_length
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 5
       name: category
-      label: category
+      label: What category does this video belong to?
       hint: null
       type: select_one
       options:
@@ -63,126 +42,77 @@ inputSchema:
       - audio
       - other
       required: true
-    - id: 9
+    - id: 6
+      name: video_length
+      label: How long is the video?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
       name: video_quality
-      label: video_quality
+      label: What's the quality of the video?
       hint: null
       type: select_multiple
       options:
       - Good
       - Poor
-      required: false
-    - id: 10
+      required: true
+    - id: 8
       name: watch_time
-      label: watch_time
+      label: How long did you watch the video for?
       hint: null
       type: time
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 9
       name: date_time
-      label: date_time
+      label: What date and time did you watch the video?
       hint: null
       type: date
       options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 12
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: suggestions
-      label: suggestions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
       name: video_id
-      label: video_id
+      label: Video ID
       hint: null
       type: select_one
       options:
-      - video_123
-      - video_456
-      - video_789
+      - video 123
+      - video 456
+      - video 789
       required: true
-    - id: 15
+    - id: 13
       name: assigned_tool
-      label: assigned_tool
+      label: Which tool was assigned for this video?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: video_id_for_form
+      label: Video ID for this form
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
-      name: form_id
-      label: form_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
+    - id: 15
       name: title
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: category
-      label: category
+      label: Title
       hint: null
       type: text
       options: []

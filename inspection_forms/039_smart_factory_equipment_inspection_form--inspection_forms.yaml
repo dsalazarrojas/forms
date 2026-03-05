@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Fair
+      - Poor
       required: false
     - id: 3
       name: maintenance_needs
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Immediate''}'
-      - '{''label'': ''Scheduled''}'
+      - None
+      - Immediate
+      - Scheduled
       required: false
     - id: 4
       name: maintenance_schedule
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''Cancelled''}'
+      - In Progress
+      - Completed
+      - Cancelled
       required: false
     - id: 6
       name: notes

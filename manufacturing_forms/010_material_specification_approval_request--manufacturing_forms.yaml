@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: date_submitted
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Rejected''}'
-      - '{''value'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: false
     - id: 17
       name: comments
@@ -133,9 +133,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: false
     - id: 19
       name: material_type
@@ -143,9 +143,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Material Type 1''}'
-      - '{''value'': ''Material Type 2''}'
-      - '{''value'': ''Material Type 3''}'
+      - Material Type 1
+      - Material Type 2
+      - Material Type 3
       required: false
     - id: 20
       name: spec_version

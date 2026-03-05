@@ -16,85 +16,87 @@ inputSchema:
     pages:
     - id: 1
       name: travel_insurance_decline_form_page_1
-      label: Decline Reason
+      label: Reason for Declining Travel Insurance?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: decline_details
-      label: Provide More Details
+      label: Can you provide more details?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: travel_insurance_decline_form_page_3
-      label: Reason for Decline
+      name: main_reason_decline
+      label: Main Reason for Decline?
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: travel_insurance_decline_form_page_4
-      label: Reason for Decline
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: travel_insurance_decline_form_page_5
-      label: Additional Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: travel_insurance_decline_form_page_6
-      label: Decline Reason
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
-      name: travel_insurance_decline_form_page_7
-      label: Reason for Decline
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 8
-      name: travel_insurance_decline_form_page_8
+      name: additional_info_decline
       label: Additional Info
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: travel_insurance_decline_form_page_9
-      label: Decline Reason
+    - id: 5
+      name: confirm_decline_reason
+      label: Confirm Decline Reason
       hint: null
       type: text
       options: []
       required: true
+    - id: 6
+      name: other_reason_decline
+      label: Other Reason(s) for Decline?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: more_details_decline
+      label: More Details about Decline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_info_decline
+      label: More Info about Decline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confirm_decline
+      label: Is this correct?
+      hint: null
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 10
-      name: travel_insurance_decline_form_page_10
-      label: Reason for Decline
+      name: final_decline_reason
+      label: Final Reason for Decline
       hint: null
       type: text
       options: []
       required: true
     - id: 11
-      name: travel_insurance_decline_form_page_11
-      label: More Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: travel_insurance_decline_form_page_12
-      label: Decline Reason
+      name: last_reason_decline
+      label: Last Reason for Decline
       hint: null
       type: text
       options: []
       required: true
+    - id: 12
+      name: final_info_decline
+      label: Last Info about Decline
+      hint: null
+      type: text
+      options: []
+      required: false

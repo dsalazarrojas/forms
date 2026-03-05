@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Court Fee''}'
-      - '{''name'': ''Consultation''}'
-      - '{''name'': ''Document Review''}'
-      - '{''name'': ''Document Preparation''}'
-      - '{''name'': ''Document Review Plus''}'
-      - '{''name'': ''Document Preparation Plus''}'
+      - Court Fee
+      - Consultation
+      - Document Review
+      - Document Preparation
+      - Document Review Plus
+      - Document Preparation Plus
       required: false
     - id: 3
       name: payment_method
@@ -29,10 +29,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Check''}'
-      - '{''value'': ''Online Payment''}'
-      - '{''value'': ''Bank Transfer''}'
-      - '{''value'': ''Cash''}'
+      - Check
+      - Online Payment
+      - Bank Transfer
+      - Cash
       required: false
     - id: 4
       name: amount
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Paid''}'
-      - '{''value'': ''Unpaid''}'
-      - '{''value'': ''Pending''}'
+      - Paid
+      - Unpaid
+      - Pending
       required: false
     - id: 8
       name: client_email

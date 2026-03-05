@@ -4,9 +4,10 @@ inputSchema:
     title: Healthcare Climate Impact Awareness Survey
     pages:
     - id: 1
-      name: intro
-      label: Healthcare Climate Impact Awareness Survey
-      hint: null
+      name: introduction
+      label: Survey Background
+      hint: This survey aims to understand the current state of climate change awareness
+        and actions taken by healthcare staff.
       type: note
       options: []
       required: false
@@ -16,26 +17,29 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 3
       name: staff_priorities
       label: Staff Priorities
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Climate Change Mitigation
+      - Climate Change Adaptation
+      - Both
       required: false
     - id: 4
-      name: action_items
+      name: climate_action_items
       label: Climate Action Items
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Carbon Footprint Reduction
+      - Sustainable Practices
+      - Energy Efficiency
+      - Climate Change Research
       required: false
     - id: 5
       name: observed_change
@@ -50,33 +54,70 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Within a year
+      - Within 2 years
+      - Within 5 years
+      required: true
     - id: 7
-      name: climate_action_items
-      label: Climate Action Items
+      name: climate_action_items_essential
+      label: Essential Climate Action Items
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Climate Change Policy Development
+      - Climate Change Training
+      - Climate Change Research
+      required: true
     - id: 8
       name: observed_impacts_2
-      label: Observed Impacts
+      label: Observed Impacts 2
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 9
       name: staff_priorities_2
-      label: Staff Priorities
+      label: Staff Priorities 2
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Climate Change Mitigation
+      - Climate Change Adaptation
+      - Both
       required: false
+    - id: 10
+      name: confidence_in_climate_action
+      label: Confidence in Climate Action
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: progress_measurement
+      label: Progress Measurement
+      hint: null
+      type: select_multiple
+      options:
+      - Regular Reporting
+      - Public Engagement
+      - Internal Review
+      required: true
+    - id: 12
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: confidence_scale
+      label: Confidence Scale
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true

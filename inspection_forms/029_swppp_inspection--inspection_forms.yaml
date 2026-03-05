@@ -4,194 +4,145 @@ inputSchema:
     title: SWPPP Inspection
     pages:
     - id: 1
-      name: swppp_inspection
-      label: swppp_inspection
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: site_location
-      label: site_location
-      hint: null
+      label: Site Location
+      hint: A brief description of the site location.
       type: text
       options: []
-      required: false
-    - id: 3
-      name: stormwater_runoff_source
-      label: stormwater_runoff_source
-      hint: null
+      required: true
+    - id: 2
+      name: swppp_runoff_source
+      label: Stormwater Runoff Source
+      hint: Is stormwater runoff an issue at this site?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
+      - 'True'
+      - 'False'
+      required: true
+    - id: 3
       name: swppp_compliance_frequency
-      label: swppp_compliance_frequency
-      hint: null
+      label: Compliance Frequency
+      hint: How often is the SWPPP inspected?
       type: select_one
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Quarterly''}'
-      - '{''value'': ''Semi-Annual''}'
-      - '{''value'': ''Annually''}'
-      required: false
-    - id: 5
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: true
+    - id: 4
       name: swppp_responsible_party
-      label: swppp_responsible_party
-      hint: null
+      label: Responsible Party
+      hint: Who is responsible for SWPPP at this site?
       type: select_one
       options:
-      - '{''value'': ''Owner''}'
-      - '{''value'': ''Operator''}'
-      - '{''value'': ''Other''}'
+      - Owner
+      - Operator
+      - Other
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: Additional comments or notes.
+      type: text
+      options: []
       required: false
     - id: 6
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: swppp_inspection_date
-      label: swppp_inspection_date
-      hint: null
+      label: Inspection Date
+      hint: Date of last inspection.
       type: date
       options: []
-      required: false
-    - id: 8
-      name: swppp_compliance_certificate
-      label: swppp_compliance_certificate
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: swppp_compliance_certificate_expiration
-      label: swppp_compliance_certificate_expiration
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 7
       name: swppp_inspection_status
-      label: swppp_inspection_status
-      hint: null
+      label: Inspection Status
+      hint: Is the inspection active or inactive?
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Pending''}'
-      required: false
-    - id: 11
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 8
       name: swppp_inspection_last_updated
-      label: swppp_inspection_last_updated
-      hint: null
+      label: Last Updated
+      hint: Date of last update.
       type: date
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 9
       name: swppp_inspection_next_due_date
-      label: swppp_inspection_next_due_date
-      hint: null
+      label: Next Due Date
+      hint: Date of next due inspection.
       type: date
       options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 10
       name: swppp_inspection_last_inspection_date
-      label: swppp_inspection_last_inspection_date
-      hint: null
+      label: Last Inspection Date
+      hint: Date of last inspection.
       type: date
       options: []
-      required: false
-    - id: 14
+      required: true
+    - id: 11
       name: swppp_inspection_last_inspector
-      label: swppp_inspection_last_inspector
-      hint: null
+      label: Last Inspector
+      hint: Name of last inspector.
       type: text
       options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 12
       name: swppp_inspection_last_inspector_signature
-      label: swppp_inspection_last_inspector_signature
-      hint: null
+      label: Last Inspector Signature
+      hint: Last inspector's signature.
       type: text
       options: []
-      required: false
-    - id: 16
+      required: true
+    - id: 13
       name: swppp_inspection_last_inspection_cost
-      label: swppp_inspection_last_inspection_cost
-      hint: null
+      label: Last Inspection Cost
+      hint: Cost of last inspection.
       type: number
       options: []
-      required: false
-    - id: 17
+      required: true
+    - id: 14
       name: swppp_inspection_last_inspection_cost_currency
-      label: swppp_inspection_last_inspection_cost_currency
-      hint: null
+      label: Last Inspection Cost Currency
+      hint: Currency of last inspection cost.
       type: select_one
       options:
-      - '{''value'': ''USD''}'
-      - '{''value'': ''EUR''}'
-      - '{''value'': ''Other''}'
-      required: false
-    - id: 18
-      name: swppp_inspection_last_inspection_cost_other_currency
-      label: swppp_inspection_last_inspection_cost_other_currency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
+      - USD
+      - EUR
+      - Other
+      required: true
+    - id: 15
       name: swppp_inspection_last_inspection_cost_amount
-      label: swppp_inspection_last_inspection_cost_amount
-      hint: null
+      label: Last Inspection Cost Amount
+      hint: Amount of last inspection cost.
       type: number
       options: []
-      required: false
-    - id: 20
+      required: true
+    - id: 16
       name: swppp_inspection_last_inspector_notes
-      label: swppp_inspection_last_inspector_notes
-      hint: null
+      label: Last Inspector Notes
+      hint: Notes from last inspector.
       type: text
       options: []
-      required: false
-    - id: 21
-      name: swppp_inspection_last_inspector_notes
-      label: swppp_inspection_last_inspector_notes
-      hint: null
+      required: true
+    - id: 17
+      name: swppp_inspection_last_inspector_signature_2
+      label: Swppp Inspection Last Inspector Signature 2
+      hint: Last inspector's signature.
       type: text
       options: []
-      required: false
-    - id: 22
-      name: swppp_inspection_last_inspector_notes
-      label: swppp_inspection_last_inspector_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: swppp_inspection_last_inspector_notes
-      label: swppp_inspection_last_inspector_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: swppp_inspection_last_inspector_signature
-      label: swppp_inspection_last_inspector_signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: swppp_inspection_last_inspector_signature
-      label: swppp_inspection_last_inspector_signature
-      hint: null
+      required: true
+    - id: 18
+      name: swppp_inspection_last_inspector_signature_2_2
+      label: Swppp Inspection Last Inspector Signature 2 2
+      hint: Last inspector's signature.
       type: text
       options: []
       required: false

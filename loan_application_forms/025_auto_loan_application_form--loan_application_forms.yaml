@@ -93,11 +93,11 @@ inputSchema:
       hint: Select your preferred payoff period
       type: select_one
       options:
-      - 24
-      - 36
-      - 48
-      - 60
-      - 72
+      - '24'
+      - '36'
+      - '48'
+      - '60'
+      - '72'
       required: true
     - id: 14
       name: down_payment
@@ -136,6 +136,6 @@ inputSchema:
       hint: I authorize the lender to pull my credit report
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true

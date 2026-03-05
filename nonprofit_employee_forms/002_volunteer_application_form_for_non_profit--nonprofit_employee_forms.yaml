@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Volunteer''}'
-      - '{''name'': ''Non-Profit''}'
-      - '{''name'': ''Both''}'
+      - Volunteer
+      - Non-Profit
+      - Both
       required: false
     - id: 6
       name: volunteer_sponsorship
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Sponsor''}'
-      - '{''name'': ''Non-Sponsor''}'
-      - '{''name'': ''Both''}'
+      - Sponsor
+      - Non-Sponsor
+      - Both
       required: false
     - id: 7
       name: volunteer_hours
@@ -85,10 +85,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Full-Time''}'
-      - '{''name'': ''Part-Time''}'
-      - '{''name'': ''Flexible''}'
-      - '{''name'': ''Both''}'
+      - Full-Time
+      - Part-Time
+      - Flexible
+      - Both
       required: false
     - id: 12
       name: preferred_schedule
@@ -96,10 +96,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Day''}'
-      - '{''name'': ''Afternoon''}'
-      - '{''name'': ''Evening''}'
-      - '{''name'': ''Weekend''}'
+      - Day
+      - Afternoon
+      - Evening
+      - Weekend
       required: false
     - id: 13
       name: comments

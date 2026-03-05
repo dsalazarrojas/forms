@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''John Doe''}'
-      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: true
     - id: 2
       name: training_date
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Service Skills''}'
-      - '{''id'': 2, ''name'': ''Product Knowledge''}'
-      - '{''id'': 3, ''name'': ''Food and Beverage''}'
+      - Service Skills
+      - Product Knowledge
+      - Food and Beverage
       required: true
     - id: 4
       name: supervisor_approval
@@ -35,8 +35,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Approve''}'
-      - '{''id'': 2, ''name'': ''Reject''}'
+      - Approve
+      - Reject
       required: true
     - id: 5
       name: start_date
@@ -90,8 +90,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Approve''}'
-      - '{''id'': 2, ''name'': ''Reject''}'
+      - Approve
+      - Reject
       required: true
     - id: 12
       name: submit
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''Approved''}'
-      - '{''id'': 3, ''name'': ''Rejected''}'
+      - Pending
+      - Approved
+      - Rejected
       required: true
     - id: 15
       name: status_date

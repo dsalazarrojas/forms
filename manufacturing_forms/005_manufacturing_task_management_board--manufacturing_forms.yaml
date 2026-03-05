@@ -9,18 +9,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 2
       name: task_priority
       label: Task Priority
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Low
+      - Medium
+      - High
+      required: true
     - id: 3
       name: due_date
       label: Due Date
@@ -38,65 +39,63 @@ inputSchema:
       - Inactive
       required: false
     - id: 5
-      name: assigned_by
-      label: Assigned By
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
       name: task_description
       label: Task Description
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: task_type
       label: Task Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
       name: production_line
       label: Production Line
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
+      - Line 1
+      - Line 2
+      required: true
+    - id: 8
       name: start_date
       label: Start Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 10
+    - id: 9
       name: end_date
       label: End Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 11
+    - id: 10
       name: task_responsibility
       label: Task Responsibility
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - John
+      - Jane
+      required: true
+    - id: 11
+      name: task_notes
+      label: Task Notes
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 12
-      name: task_status
-      label: Task Status
+      name: production_line_status
+      label: Production Line Status
       hint: null
       type: select_one
       options:
@@ -109,104 +108,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
-      name: task_comments
-      label: Task Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: assigned_to
-      label: Assigned To
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: task_notes
-      label: Task Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: production_line_status
-      label: Production Line Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 18
-      name: production_line
-      label: Production Line
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: task_type
-      label: Task Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: start_date
-      label: Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
       name: assigned_by
       label: Assigned By
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: task_category
-      label: Task Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: end_date
-      label: End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: task_responsibility
-      label: Task Responsibility
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: task_status
-      label: Task Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
+      - Option A
+      - Option B
       required: false

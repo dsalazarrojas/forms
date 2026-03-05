@@ -1,102 +1,109 @@
 inputSchema:
   type: object
   properties:
-    title: post-session survey
+    title: Post-session survey
     pages:
     - id: 1
-      name: survey_questions
-      label: What do you like about this seminar?
-      hint: Tell us about it.
+      name: overall_opinion
+      label: What do you think of the seminar?
+      hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: survey_questions
-      label: What do you dislike about this seminar?
+      name: most_interesting
+      label: What was the most interesting part of the seminar?
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: survey_answers
+      name: recommend
       label: How likely are you to recommend this seminar?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 4
-      name: survey_answers
-      label: How likely are you to take another seminar from this speaker?
+      name: dislike
+      label: What did you not like about the seminar?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: next_seminar
+      label: Do you plan on taking another seminar from this speaker?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 5
+    - id: 6
       name: session_length
-      label: Session length
+      label: How long should the seminar be?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 6
-      name: session_prophets
-      label: What were the most memorable moments from this seminar?
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 7
-      name: session_prophets
+      name: memorable_moments
       label: What were the most memorable moments from this seminar?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: session_prophets
-      label: What were the most memorable moments from this seminar?
+      name: comments
+      label: Do you have any comments or feedback about this seminar?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: session_prophets
-      label: What were the most memorable moments from this seminar?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: session_prophets
-      label: Do you have any other comments or feedback about this seminar?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: session_prophets
-      label: How likely are you to recommend this seminar?
+      name: registration_process
+      label: How easy was the registration process?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Very easy
+      - Somewhat easy
+      - Somewhat difficult
+      - Very difficult
+      required: false
+    - id: 10
+      name: communication
+      label: How clear was the communication from the speaker or organizers?
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Not very clear
+      - Not clear at all
+      required: false
+    - id: 11
+      name: speaker_engagement
+      label: How engaging was the speaker?
+      hint: null
+      type: select_one
+      options:
+      - Very engaging
+      - Somewhat engaging
+      - Somewhat not engaging
+      - Not engaging at all
       required: false
     - id: 12
-      name: session_prophets
-      label: Do you have any other comments or feedback about this seminar?
+      name: expectations_met
+      label: How well did the seminar meet your expectations?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: session_prophets
-      label: Do you have any other feedback about this seminar?
-      hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Completely met expectations
+      - Mostly met expectations
+      - Somewhat met expectations
+      - Not met expectations
       required: false

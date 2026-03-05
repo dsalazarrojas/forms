@@ -51,10 +51,10 @@ inputSchema:
       hint: Please list any supporting documents that will be used in the claim
       type: select_multiple
       options:
-      - '{''value'': ''ID card''}'
-      - '{''value'': ''Claimant Statement''}'
-      - '{''value'': ''Police Report''}'
-      - '{''value'': ''Witness Statement''}'
+      - ID card
+      - Claimant Statement
+      - Police Report
+      - Witness Statement
       required: true
     - id: 8
       name: claimant_insurance
@@ -62,8 +62,8 @@ inputSchema:
       hint: Is the claimant insured?
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: claimant
@@ -92,10 +92,10 @@ inputSchema:
       hint: Who is the claimant's insurer_goals?
       type: select_one
       options:
-      - '{''value'': ''Auto''}'
-      - '{''value'': ''Home''}'
-      - '{''value'': ''Business''}'
-      - '{''value'': ''Other''}'
+      - Auto
+      - Home
+      - Business
+      - Other
       required: true
     - id: 13
       name: claimant_policy
@@ -103,9 +103,9 @@ inputSchema:
       hint: What type of policy is the claimant on_goals?
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Canceled''}'
+      - Active
+      - Inactive
+      - Canceled
       required: true
     - id: 14
       name: claimant_deductible
@@ -127,10 +127,10 @@ inputSchema:
       hint: Who is the claimant's provider_goals?
       type: select_one
       options:
-      - '{''value'': ''Dr''}'
-      - '{''value'': ''Hospital''}'
-      - '{''value'': ''Clinic''}'
-      - '{''value'': ''Other''}'
+      - Dr
+      - Hospital
+      - Clinic
+      - Other
       required: false
     - id: 17
       name: claimant_counselor
@@ -138,9 +138,9 @@ inputSchema:
       hint: What gender is the claimant's counselor_goals?
       type: select_one
       options:
-      - '{''value'': ''Male''}'
-      - '{''value'': ''Female''}'
-      - '{''value'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: true
     - id: 18
       name: claimant_counselor_age
@@ -172,7 +172,7 @@ inputSchema:
       required: true
     - id: 22
       name: claimant_counselor_provider_address
-      label: Claimant Counselor Address
+      label: Claimant Counselor Provider Address
       hint: null
       type: text
       options: []
@@ -186,14 +186,14 @@ inputSchema:
       required: true
     - id: 24
       name: claimant_provider_provider_address
-      label: Claimant Provider Address
+      label: Claimant Provider Provider Address
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: claimant_claimant_provider_address
-      label: Claimant Provider Address
+      label: Claimant Claimant Provider Address
       hint: null
       type: text
       options: []
@@ -204,10 +204,10 @@ inputSchema:
       hint: Please list any claimant providers
       type: select_multiple
       options:
-      - '{''value'': ''Dr''}'
-      - '{''value'': ''Hospital''}'
-      - '{''value'': ''Clinic''}'
-      - '{''value'': ''Other''}'
+      - Dr
+      - Hospital
+      - Clinic
+      - Other
       required: false
     - id: 27
       name: claimant_claimant_providers
@@ -215,10 +215,10 @@ inputSchema:
       hint: Please list any claimant providers_goals?
       type: select_multiple
       options:
-      - '{''value'': ''Dr''}'
-      - '{''value'': ''Hospital''}'
-      - '{''value'': ''Clinic''}'
-      - '{''value'': ''Other''}'
+      - Dr
+      - Hospital
+      - Clinic
+      - Other
       required: false
     - id: 28
       name: claimant_providers_providers
@@ -226,10 +226,10 @@ inputSchema:
       hint: Please list any claimant providers_providers
       type: select_multiple
       options:
-      - '{''value'': ''Dr''}'
-      - '{''value'': ''Hospital''}'
-      - '{''value'': ''Clinic''}'
-      - '{''value'': ''Other''}'
+      - Dr
+      - Hospital
+      - Clinic
+      - Other
       required: false
     - id: 29
       name: claimant_providers_address

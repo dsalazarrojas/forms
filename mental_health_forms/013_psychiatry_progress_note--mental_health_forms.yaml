@@ -6,201 +6,108 @@ inputSchema:
     - id: 1
       name: session_details
       label: Session Details
-      hint: null
+      hint: Provide date, time, and location of the session
       type: text
       options: []
       required: false
     - id: 2
       name: chief_complaint
-      label: chief_complaint
-      hint: null
+      label: Chief Complaint
+      hint: List the patient's chief complaint or reason for visit
       type: text
       options: []
       required: false
     - id: 3
       name: diagnosis
-      label: diagnosis
-      hint: null
+      label: Diagnosis
+      hint: Current psychiatric diagnosis
       type: text
       options: []
       required: false
     - id: 4
-      name: treatment_plan
-      label: treatment_plan
-      hint: null
+      name: medications
+      label: Medications
+      hint: List the patient's current medications
+      type: select_multiple
+      options:
+      - Medication 1
+      - Medication 2
+      - Medication 3
+      - Medication 4
+      - Medication 5
+      - Medication 6
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: List the patient's allergies
       type: text
       options: []
       required: false
-    - id: 5
-      name: medications
-      label: medications
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 6
-      name: medications
-      label: medications
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      name: medical_history
+      label: Medical History
+      hint: List the patient's medical history
+      type: text
+      options: []
       required: false
     - id: 7
-      name: medications
-      label: medications
-      hint: null
+      name: vital_signs
+      label: Vital Signs
+      hint: List the patient's vital signs (e.g., blood pressure, pulse)
       type: text
       options: []
       required: false
     - id: 8
-      name: allergies
-      label: allergies
-      hint: null
+      name: mental_status
+      label: Mental Status
+      hint: Describe the patient's mental status (e.g., mood, behavior)
       type: text
       options: []
       required: false
     - id: 9
-      name: medical_history
-      label: medical_history
-      hint: null
-      type: text
+      name: follow_up
+      label: Follow-Up
+      hint: Schedule follow-up appointments
+      type: date
       options: []
       required: false
     - id: 10
-      name: vital_signs
-      label: vital_signs
-      hint: null
+      name: signed_by
+      label: Signed By
+      hint: Provider's signature
       type: text
       options: []
       required: false
     - id: 11
-      name: mental_status
-      label: mental_status
-      hint: null
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: How often do you want to see this patient?
       type: select_one
       options:
-      - Dissatisfied
-      - Happy
-      - Neutral
-      - Sad
-      - Very Dissatisfied
-      - Very Happy
-      - Very Neutral
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
       required: false
     - id: 12
-      name: mental_status
-      label: mental_status
-      hint: null
-      type: text
+      name: signed_by_date
+      label: Signed Date
+      hint: Date of signature
+      type: date
       options: []
       required: false
     - id: 13
-      name: mental_status
-      label: mental_status
-      hint: null
-      type: date
+      name: signed_by_provider
+      label: Signed By Provider
+      hint: Provider's name
+      type: text
       options: []
       required: false
     - id: 14
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: follow_up
-      label: follow_up
-      hint: null
+      name: follow_up_time
+      label: Follow-up Time
+      hint: Follow-up time
       type: time
-      options: []
-      required: false
-    - id: 17
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 26
-      name: signed_by
-      label: signed_by
-      hint: null
-      type: text
       options: []
       required: false

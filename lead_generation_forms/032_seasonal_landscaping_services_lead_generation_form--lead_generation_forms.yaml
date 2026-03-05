@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''First Name'', ''label'': ''First Name''}'
-      - '{''name'': ''Last Name'', ''label'': ''Last Name''}'
-      - '{''name'': ''Email'', ''label'': ''Email''}'
-      - '{''name'': ''Phone'', ''label'': ''Phone''}'
+      - First Name
+      - Last Name
+      - Email
+      - Phone
       required: false
     - id: 3
       name: service_needed
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Lawn Maintenance'', ''label'': ''Lawn Maintenance''}'
-      - '{''name'': ''Yard Work'', ''label'': ''Yard Work''}'
-      - '{''name'': ''Tree Trimming'', ''label'': ''Tree Trimming''}'
-      - '{''name'': ''Garden Design'', ''label'': ''Garden Design''}'
+      - Lawn Maintenance
+      - Yard Work
+      - Tree Trimming
+      - Garden Design
       required: false
     - id: 4
       name: service_dates
@@ -52,9 +52,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Residential'', ''label'': ''Residential''}'
-      - '{''name'': ''Commercial'', ''label'': ''Commercial''}'
-      - '{''name'': ''Other'', ''label'': ''Other''}'
+      - Residential
+      - Commercial
+      - Other
       required: false
     - id: 7
       name: notes
@@ -69,6 +69,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Submit'', ''label'': ''Submit''}'
+      - Submit
       - Other
       required: false

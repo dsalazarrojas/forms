@@ -11,8 +11,8 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: nomination_form
-      label: Nomination Form
+      name: nomination_reason
+      label: Nomination Reason
       hint: null
       type: note
       options: []
@@ -21,71 +21,110 @@ inputSchema:
       name: award_category
       label: Award Category
       hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''Best Fighter''}'
-      - '{''option2'': ''Best Coach''}'
-      - '{''option3'': ''Best Trainer''}'
-      required: false
-    - id: 4
-      name: fighter_name
-      label: Fighter Name
-      hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: award_year
+      label: Award Year
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 5
-      name: fighter_name
-      label: Fighter Name
+      name: phone_number
+      label: Phone Number
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: award_year
-      label: Award Year
+      name: email_address
+      label: Email Address
       hint: null
-      type: number
+      type: email
       options: []
-      required: false
+      required: true
     - id: 7
-      name: award_year
-      label: Award Year
+      name: fighter_name
+      label: Fighter Name
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: email_address
-      label: Email Address
+      name: award_name
+      label: Award Name
       hint: null
-      type: email
+      type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: email_address
-      label: Email Address
+      name: nomination_form_2
+      label: Nomination Form 2
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 10
-      name: phone_number
-      label: Phone Number
+      name: note
+      label: Additional Information
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 11
-      name: phone_number
-      label: Phone Number
+      name: note_2
+      label: Note 2
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 12
-      name: nomination_reason
-      label: Nomination Reason
+      name: note_3
+      label: Note 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: note_4
+      label: Note 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: note_5
+      label: Note 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: note_6
+      label: Note 6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: note_7
+      label: Note 7
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: note_8
+      label: Note 8
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: note_9
+      label: Note 9
       hint: null
       type: note
       options: []

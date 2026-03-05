@@ -4,183 +4,137 @@ inputSchema:
     title: Mobile Loyalty App Testing Registration
     pages:
     - id: 1
-      name: form_title
+      name: form_header
       label: Mobile Loyalty App Testing Registration
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: category
-      label: category
+      name: mobile_phone_type
+      label: What is your mobile phone type?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''IT Forms''}'
-      - '{''id'': 2, ''name'': ''Other Forms''}'
+      - Android
+      - iOS
+      - Windows
       required: false
     - id: 3
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: form_title
-      label: Mobile Loyalty App Testing Registration
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: category
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''IT Forms''}'
-      - '{''id'': 2, ''name'': ''Other Forms''}'
-      required: false
-    - id: 6
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: device_type
-      label: what_is_your_device
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''android''}'
-      - '{''id'': 2, ''name'': ''ios''}'
-      - '{''id'': 3, ''name'': ''windows''}'
-      required: false
-    - id: 8
       name: available_days
-      label: available_days
+      label: How many available days are you willing to commit to testing?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 4
       name: availability
-      label: availability
+      label: Availability
       hint: null
       type: text
       options: []
-      required: false
-    - id: 10
-      name: device_details
-      label: device_details
+      required: true
+    - id: 5
+      name: test_group
+      label: Testing group
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
+      type: select_multiple
+      options:
+      - Testing
+      - Quality Assurance
+      - Other
+      required: true
+    - id: 6
+      name: testing_status
+      label: Testing status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Closed
+      - On Hold
+      required: true
+    - id: 7
       name: participant_details
-      label: participant_details
+      label: Participant details
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 8
       name: participant_sign_ups
-      label: participant_sign_ups
+      label: Participant sign-ups
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 9
       name: test_results
-      label: test_results
+      label: Test results
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 10
+      name: testing_start_date
+      label: Testing start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: testing_end_date
+      label: Testing end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: testing_start_time
+      label: Testing start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: testing_end_time
+      label: Testing end time
+      hint: null
+      type: time
+      options: []
+      required: true
     - id: 14
-      name: additional_comments
-      label: additional_comments
+      name: testing_duration
+      label: Testing duration
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 15
-      name: assigned_to
-      label: assigned_to
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 17
+      required: true
+    - id: 16
       name: phone
-      label: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional comments
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: test_group
-      label: test_group
+      name: assigned_to
+      label: Assigned to
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Testing'', ''label'': ''Testing''}'
-      - '{''id'': 2, ''name'': ''Quality Assurance'', ''label'': ''Quality Assurance''}'
-      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
-      required: false
-    - id: 19
-      name: testing_status
-      label: testing_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Closed''}'
-      - '{''id'': 3, ''name'': ''On Hold''}'
-      required: false
-    - id: 20
-      name: testing_start_date
-      label: testing_start_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: testing_end_date
-      label: testing_end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: testing_start_time
-      label: testing_start_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: testing_end_time
-      label: testing_end_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: testing_duration
-      label: testing_duration
-      hint: null
-      type: number
+      type: text
       options: []
       required: false

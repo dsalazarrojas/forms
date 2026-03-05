@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''New'', ''label'': ''New''}'
-      - '{''value'': ''Current'', ''label'': ''Current''}'
+      - New
+      - Current
       required: false
     - id: 3
       name: medical_condition
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: vaccination_status
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not Vaccinated'', ''label'': ''Not Vaccinated''}'
-      - '{''value'': ''Partially Vaccinated'', ''label'': ''Partially Vaccinated''}'
-      - '{''value'': ''Fully Vaccinated'', ''label'': ''Fully Vaccinated''}'
+      - Not Vaccinated
+      - Partially Vaccinated
+      - Fully Vaccinated
       required: false
     - id: 8
       name: vaccination_received

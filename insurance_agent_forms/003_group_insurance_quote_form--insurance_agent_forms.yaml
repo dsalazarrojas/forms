@@ -12,179 +12,133 @@
 inputSchema:
   type: object
   properties:
-    title: group_insurance_quote_form
+    title: Group Insurance Quote Form
     pages:
     - id: 1
-      name: group_insurance_quote_form_page
-      label: Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: group_application_form_section
+      name: application
       label: Application
       hint: null
       type: text
       options: []
       required: false
-    - id: 3
-      name: contact_details_form_section
+    - id: 2
+      name: contact_details
       label: Contact Details
       hint: null
       type: text
       options: []
       required: false
-    - id: 4
-      name: group_insurance_quote_form_section
+    - id: 3
+      name: insurance_quote
       label: Insurance Quote
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
-      name: group_insurance_quote_form_section_2
+    - id: 4
+      name: group_quote_info
       label: Group Quote Information
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
-      name: group_insurance_quote_form_section_3
+    - id: 5
+      name: quote_summary
       label: Quote Summary
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
-      name: group_insurance_quote_form_section_4
+    - id: 6
+      name: quote_details
       label: Quote Details
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: group_insurance_quote_form_section_5
-      label: Quote Review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: group_insurance_quote_form_section_6
+    - id: 7
+      name: quote_submission
       label: Quote Submission
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: group_insurance_quote_form_section_7
-      label: Quote Summary
+    - id: 8
+      name: review
+      label: Review
       hint: null
       type: text
       options: []
       required: false
+    - id: 9
+      name: group_name
+      label: What is the name of your group?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: group_members
+      label: How many members are in your group?
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 11
-      name: group_insurance_quote_form_section_8
-      label: Review
+      name: group_address
+      label: What is your address?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: group_insurance_quote_form_section_9
-      label: Submission
+      name: group_email
+      label: What is your email address?
       hint: null
-      type: text
+      type: email
       options: []
       required: false
     - id: 13
-      name: group_insurance_quote_form_section_10
-      label: Quote
+      name: group_phone_number
+      label: Phone number?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 14
-      name: group_insurance_quote_form_section_11
-      label: Form
+      name: insurance_type
+      label: What type of insurance are you looking for?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Health Insurance
+      - Life Insurance
+      - Auto Insurance
+      required: true
     - id: 15
-      name: group_insurance_quote_form_section_12
-      label: Form
+      name: coverage_amount
+      label: How much coverage do you require?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 16
-      name: group_insurance_quote_form_section_13
-      label: Group Quote
+      name: group_purpose
+      label: What is your group's purpose or use case?
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: group_insurance_quote_form_section_14
-      label: Quote
+      name: quote_requirement
+      label: What do you want to be quoted for?
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: group_insurance_quote_form_section_15
-      label: Group Quote
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: group_insurance_quote_form_section_16
-      label: Quote
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: group_insurance_quote_form_section_17
-      label: Quote Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: group_insurance_quote_form_section_18
-      label: Quote
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: group_insurance_quote_form_section_19
-      label: Quote Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: group_insurance_quote_form_section_20
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: group_insurance_quote_form_section_21
-      label: Review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: group_insurance_quote_form_section_22
-      label: Group Quote Form
+      name: feedback
+      label: Do you have any questions or feedback?
       hint: null
       type: text
       options: []

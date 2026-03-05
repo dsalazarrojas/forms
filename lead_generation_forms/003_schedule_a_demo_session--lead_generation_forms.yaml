@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Discovery''}'
-      - '{''value'': ''Product Tour''}'
-      - '{''value'': ''Sales Enablement''}'
+      - Discovery
+      - Product Tour
+      - Sales Enablement
       required: false
     - id: 3
       name: lead_name
@@ -51,7 +51,7 @@ inputSchema:
     - id: 7
       name: demo_time
       label: Demo Time
-      hint: "12:00 AM"
+      hint: 12:00 AM
       type: time
       options: []
       required: false
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not Qualified''}'
-      - '{''value'': ''Qualified''}'
-      - '{''value'': ''Lead Added''}'
+      - Not Qualified
+      - Qualified
+      - Lead Added
       required: false
     - id: 13
       name: follow_up_date

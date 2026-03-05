@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''text''}'
-      - '{''id'': 2, ''name'': ''image''}'
-      - '{''id'': 3, ''name'': ''email''}'
-      - '{''id'': 4, ''name'': ''phone''}'
+      - text
+      - image
+      - email
+      - phone
       required: true
     - id: 3
       name: url
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''marketing''}'
-      - '{''id'': 2, ''name'': ''communications''}'
-      - '{''id'': 3, ''name'': ''analytics''}'
-      - '{''id'': 4, ''name'': ''others''}'
+      - marketing
+      - communications
+      - analytics
+      - others
       required: true
     - id: 7
       name: reporting_frequency
@@ -59,10 +59,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''once''}'
-      - '{''id'': 2, ''name'': ''daily''}'
-      - '{''id'': 3, ''name'': ''weekly''}'
-      - '{''id'': 4, ''name'': ''monthly''}'
+      - once
+      - daily
+      - weekly
+      - monthly
       required: true
     - id: 8
       name: stakeholder_access
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''read''}'
-      - '{''id'': 2, ''name'': ''edit''}'
+      - read
+      - edit
       required: false
     - id: 9
       name: jotform
@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': False}'
-      - '{''id'': 2, ''name'': True}'
+      - 'False'
+      - 'True'
       required: true
     - id: 10
       name: notes

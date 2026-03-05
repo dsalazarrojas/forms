@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Producer''}'
-      - '{''label'': ''Coordinator''}'
-      - '{''label'': ''Manager''}'
+      - Producer
+      - Coordinator
+      - Manager
       required: false
     - id: 10
       name: notify_supervisor
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: notes
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: time_off
@@ -121,7 +121,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Approved''}'
-      - '{''label'': ''Rejected''}'
-      - '{''label'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: false

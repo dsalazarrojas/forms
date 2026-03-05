@@ -44,10 +44,10 @@ inputSchema:
       hint: Which year is this for?
       type: select_one
       options:
-      - 2026
-      - 2025
-      - 2024
-      - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       required: true
     - id: 7
       name: hook_id
@@ -211,7 +211,7 @@ inputSchema:
       hint: Any heat damage observed?
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, Minor
       - Yes, Significant
       required: true
@@ -271,8 +271,8 @@ inputSchema:
       hint: Are photos included?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 32
       name: photo_details

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Individual'', ''value'': ''individual''}'
-      - '{''label'': ''Group'', ''value'': ''group''}'
+      - Individual
+      - Group
       required: false
     - id: 3
       name: policy_type
@@ -25,8 +25,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Term'', ''value'': ''term''}'
-      - '{''label'': ''Whole'', ''value'': ''whole''}'
+      - Term
+      - Whole
       required: false
     - id: 4
       name: policy_duration
@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''John'', ''value'': ''john''}'
-      - '{''label'': ''Jane'', ''value'': ''jane''}'
+      - John
+      - Jane
       required: false
     - id: 7
       name: phone

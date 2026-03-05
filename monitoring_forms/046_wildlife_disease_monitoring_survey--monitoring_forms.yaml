@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''researcher'', ''value'': ''researcher''}'
-      - '{''id'': 2, ''label'': ''agency'', ''value'': ''agency''}'
-      - '{''id'': 3, ''label'': ''citizen_scientist'', ''value'': ''citizen_scientist''}'
+      - researcher
+      - agency
+      - citizen scientist
       required: false
     - id: 8
       name: health_observers_additional
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''researcher'', ''value'': ''researcher''}'
-      - '{''id'': 2, ''label'': ''agency'', ''value'': ''agency''}'
-      - '{''id'': 3, ''label'': ''citizen_scientist'', ''value'': ''citizen_scientist''}'
+      - researcher
+      - agency
+      - citizen scientist
       required: false
     - id: 9
       name: photos
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 4, ''label'': ''other'', ''value'': ''other''}'
-      - '{''id'': 5, ''label'': ''none'', ''value'': ''none''}'
+      - other
+      - none
       required: false
     - id: 10
       name: disease_info
@@ -80,10 +80,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''disease'', ''value'': ''disease''}'
-      - '{''id'': 2, ''label'': ''injury'', ''value'': ''injury''}'
-      - '{''id'': 3, ''label'': ''other'', ''value'': ''other''}'
-      - '{''id'': 4, ''label'': ''none'', ''value'': ''none''}'
+      - disease
+      - injury
+      - other
+      - none
       required: false
     - id: 11
       name: case_details

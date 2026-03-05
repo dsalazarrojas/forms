@@ -5,197 +5,59 @@ inputSchema:
     pages:
     - id: 1
       name: customer_info
-      label: customer_info
+      label: Customer Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: issue_description
-      label: issue_description
+      name: issue_details
+      label: Issue Description
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: issue_type
-      label: issue_type
+      name: fix_info
+      label: Fix Information
       hint: null
-      type: select_one
-      options:
-      - Fix Request
-      - Feature Request
-      - Other Request
+      type: text
+      options: []
       required: false
     - id: 4
-      name: issue_priority
-      label: issue_priority
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      required: false
-    - id: 5
-      name: issue_details
-      label: issue_details
+      name: issue_attachment
+      label: Issue Attachment
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
       options: []
       required: false
     - id: 6
-      name: customer_name
-      label: customer_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: customer_email
-      label: customer_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: customer_phone
-      label: customer_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: assigned_to
-      label: assigned_to
+      name: fix_status
+      label: Fix Status
       hint: null
       type: select_one
-      options:
-      - chatjimmy
-      - other
-      required: false
-    - id: 10
-      name: fix_status
-      label: fix_status
-      hint: null
-      type: select_multiple
       options:
       - Pending
       - In Progress
       - Fixed
       required: false
-    - id: 11
-      name: fix_date
-      label: fix_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: fix_time
-      label: fix_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: comments
-      label: comments
+    - id: 7
+      name: comments_2
+      label: Additional Comments
       hint: null
       type: note
       options: []
       required: false
-    - id: 14
+    - id: 8
       name: attachment
-      label: attachment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: issue_id
-      label: issue_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: issue_subject
-      label: issue_subject
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: issue_date
-      label: issue_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: issue_type
-      label: issue_type
-      hint: null
-      type: select_one
-      options:
-      - Bug
-      - Feature Request
-      - Other
-      required: false
-    - id: 19
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: comments
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: status
-      label: status
-      hint: null
-      type: select_one
-      options:
-      - Open
-      - Fixed
-      - Closed
-      required: false
-    - id: 22
-      name: priority
-      label: priority
-      hint: null
-      type: select_one
-      options:
-      - High
-      - Medium
-      - Low
-      required: false
-    - id: 23
-      name: assigned_to
-      label: assigned_to
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - other
-      required: false
-    - id: 24
-      name: due_date
-      label: due_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: attachment
-      label: attachment
+      label: Attachment
       hint: null
       type: text
       options: []

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: hair_services
@@ -36,11 +25,11 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Haircut''}'
-      - '{''id'': 2, ''label'': ''Color''}'
-      - '{''id'': 3, ''label'': ''Style''}'
-      - '{''id'': 4, ''label'': ''Extensions''}'
-      - '{''id'': 5, ''label'': ''Hair Accessories''}'
+      - Haircut
+      - Color
+      - Style
+      - Extensions
+      - Hair Accessories
       required: false
     - id: 4
       name: makeup_services
@@ -48,14 +37,14 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Airbrush''}'
-      - '{''id'': 2, ''label'': ''Airbrush Highlight''}'
-      - '{''id'': 3, ''label'': ''Airbrush Highlight and Contour''}'
-      - '{''id'': 4, ''label'': ''Airbrush Makeup''}'
-      - '{''id'': 5, ''label'': ''Bridal''}'
-      - '{''id'': 6, ''label'': ''Bridal Touch Up''}'
-      - '{''id'': 7, ''label'': ''Bridal and Contour''}'
-      - '{''id'': 8, ''label'': ''Bridal and Highlight''}'
+      - Airbrush
+      - Airbrush Highlight
+      - Airbrush Highlight and Contour
+      - Airbrush Makeup
+      - Bridal
+      - Bridal Touch Up
+      - Bridal and Contour
+      - Bridal and Highlight
       required: false
     - id: 5
       name: bridal_party_details
@@ -77,12 +66,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Curly''}'
-      - '{''id'': 2, ''label'': ''Straight''}'
-      - '{''id'': 3, ''label'': ''Wavy''}'
-      - '{''id'': 4, ''label'': ''Updo''}'
-      - '{''id'': 5, ''label'': ''Half-up''}'
-      - '{''id'': 6, ''label'': ''Half-up with veil''}'
+      - Curly
+      - Straight
+      - Wavy
+      - Updo
+      - Half-up
+      - Half-up with veil
       required: false
     - id: 8
       name: bridal_participants
@@ -90,33 +79,33 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Bride''}'
-      - '{''id'': 2, ''label'': ''Groom''}'
-      - '{''id'': 3, ''label'': ''Bridesmaids''}'
-      - '{''id'': 4, ''label'': ''Flower Girl''}'
-      - '{''id'': 5, ''label'': ''Maid of honor''}'
-      - '{''id'': 6, ''label'': ''Junior Bridesmaid''}'
-      - '{''id'': 7, ''label'': ''Senior Bridesmaids''}'
-      - '{''id'': 8, ''label'': ''Officiant''}'
-      - '{''id'': 9, ''label'': ''Reader''}'
-      - '{''id'': 10, ''label'': ''Best Man''}'
-      - '{''id'': 11, ''label'': ''Groomsmen''}'
-      - '{''id'': 12, ''label'': ''Pageboys''}'
+      - Bride
+      - Groom
+      - Bridesmaids
+      - Flower Girl
+      - Maid of honor
+      - Junior Bridesmaid
+      - Senior Bridesmaids
+      - Officiant
+      - Reader
+      - Best Man
+      - Groomsmen
+      - Pageboys
       required: false
     - id: 9
-      name: makeup_services
-      label: Makeup Services
+      name: makeup_services_2
+      label: Makeup Services 2
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Airbrush''}'
-      - '{''id'': 2, ''label'': ''Airbrush Highlight''}'
-      - '{''id'': 3, ''label'': ''Airbrush Highlight and Contour''}'
-      - '{''id'': 4, ''label'': ''Airbrush Makeup''}'
-      - '{''id'': 5, ''label'': ''Bridal''}'
-      - '{''id'': 6, ''label'': ''Bridal Touch Up''}'
-      - '{''id'': 7, ''label'': ''Bridal and Contour''}'
-      - '{''id'': 8, ''label'': ''Bridal and Highlight''}'
+      - Airbrush
+      - Airbrush Highlight
+      - Airbrush Highlight and Contour
+      - Airbrush Makeup
+      - Bridal
+      - Bridal Touch Up
+      - Bridal and Contour
+      - Bridal and Highlight
       required: false
     - id: 10
       name: notes
@@ -131,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Email
+      - Phone
+      - Both
       required: false
     - id: 12
       name: payment_details
@@ -141,9 +130,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Inquire about payment''}'
-      - '{''id'': 2, ''label'': ''Pay online''}'
-      - '{''id'': 3, ''label'': ''Pay by check''}'
+      - Inquire about payment
+      - Pay online
+      - Pay by check
       required: false
     - id: 13
       name: additional_services
@@ -182,121 +171,121 @@ inputSchema:
       required: false
     - id: 18
       name: make_up_services
-      label: Makeup Services
+      label: Make Up Services
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Airbrush''}'
-      - '{''id'': 2, ''label'': ''Airbrush Highlight''}'
-      - '{''id'': 3, ''label'': ''Airbrush Highlight and Contour''}'
-      - '{''id'': 4, ''label'': ''Airbrush Makeup''}'
-      - '{''id'': 5, ''label'': ''Bridal''}'
-      - '{''id'': 6, ''label'': ''Bridal Touch Up''}'
-      - '{''id'': 7, ''label'': ''Bridal and Contour''}'
-      - '{''id'': 8, ''label'': ''Bridal and Highlight''}'
+      - Airbrush
+      - Airbrush Highlight
+      - Airbrush Highlight and Contour
+      - Airbrush Makeup
+      - Bridal
+      - Bridal Touch Up
+      - Bridal and Contour
+      - Bridal and Highlight
       required: false
     - id: 19
-      name: make_up_services
-      label: Makeup Services
+      name: make_up_services_2
+      label: Make Up Services 2
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Airbrush''}'
-      - '{''id'': 2, ''label'': ''Airbrush Highlight''}'
-      - '{''id'': 3, ''label'': ''Airbrush Highlight and Contour''}'
-      - '{''id'': 4, ''label'': ''Airbrush Makeup''}'
-      - '{''id'': 5, ''label'': ''Bridal''}'
-      - '{''id'': 6, ''label'': ''Bridal Touch Up''}'
-      - '{''id'': 7, ''label'': ''Bridal and Contour''}'
-      - '{''id'': 8, ''label'': ''Bridal and Highlight''}'
+      - Airbrush
+      - Airbrush Highlight
+      - Airbrush Highlight and Contour
+      - Airbrush Makeup
+      - Bridal
+      - Bridal Touch Up
+      - Bridal and Contour
+      - Bridal and Highlight
       required: false
     - id: 20
       name: make_up_services1
-      label: Makeup Services
+      label: Make Up Services1
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Airbrush''}'
-      - '{''id'': 2, ''label'': ''Airbrush Highlight''}'
-      - '{''id'': 3, ''label'': ''Airbrush Highlight and Contour''}'
-      - '{''id'': 4, ''label'': ''Airbrush Makeup''}'
-      - '{''id'': 5, ''label'': ''Bridal''}'
-      - '{''id'': 6, ''label'': ''Bridal Touch Up''}'
-      - '{''id'': 7, ''label'': ''Bridal and Contour''}'
-      - '{''id'': 8, ''label'': ''Bridal and Highlight''}'
+      - Airbrush
+      - Airbrush Highlight
+      - Airbrush Highlight and Contour
+      - Airbrush Makeup
+      - Bridal
+      - Bridal Touch Up
+      - Bridal and Contour
+      - Bridal and Highlight
       required: false
     - id: 21
       name: make_up_services2
-      label: Makeup Services
+      label: Make Up Services2
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Airbrush''}'
-      - '{''id'': 2, ''label'': ''Airbrush Highlight''}'
-      - '{''id'': 3, ''label'': ''Airbrush Highlight and Contour''}'
-      - '{''id'': 4, ''label'': ''Airbrush Makeup''}'
-      - '{''id'': 5, ''label'': ''Bridal''}'
-      - '{''id'': 6, ''label'': ''Bridal Touch Up''}'
-      - '{''id'': 7, ''label'': ''Bridal and Contour''}'
-      - '{''id'': 8, ''label'': ''Bridal and Highlight''}'
+      - Airbrush
+      - Airbrush Highlight
+      - Airbrush Highlight and Contour
+      - Airbrush Makeup
+      - Bridal
+      - Bridal Touch Up
+      - Bridal and Contour
+      - Bridal and Highlight
       required: false
     - id: 22
       name: make_up_services3
-      label: Makeup Services
+      label: Make Up Services3
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Airbrush''}'
-      - '{''id'': 2, ''label'': ''Airbrush Highlight''}'
-      - '{''id'': 3, ''label'': ''Airbrush Highlight and Contour''}'
-      - '{''id'': 4, ''label'': ''Airbrush Makeup''}'
-      - '{''id'': 5, ''label'': ''Bridal''}'
-      - '{''id'': 6, ''label'': ''Bridal Touch Up''}'
-      - '{''id'': 7, ''label'': ''Bridal and Contour''}'
-      - '{''id'': 8, ''label'': ''Bridal and Highlight''}'
+      - Airbrush
+      - Airbrush Highlight
+      - Airbrush Highlight and Contour
+      - Airbrush Makeup
+      - Bridal
+      - Bridal Touch Up
+      - Bridal and Contour
+      - Bridal and Highlight
       required: false
     - id: 23
       name: make_up_services4
-      label: Makeup Services
+      label: Make Up Services4
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Airbrush''}'
-      - '{''id'': 2, ''label'': ''Airbrush Highlight''}'
-      - '{''id'': 3, ''label'': ''Airbrush Highlight and Contour''}'
-      - '{''id'': 4, ''label'': ''Airbrush Makeup''}'
-      - '{''id'': 5, ''label'': ''Bridal''}'
-      - '{''id'': 6, ''label'': ''Bridal Touch Up''}'
-      - '{''id'': 7, ''label'': ''Bridal and Contour''}'
-      - '{''id'': 8, ''label'': ''Bridal and Highlight''}'
+      - Airbrush
+      - Airbrush Highlight
+      - Airbrush Highlight and Contour
+      - Airbrush Makeup
+      - Bridal
+      - Bridal Touch Up
+      - Bridal and Contour
+      - Bridal and Highlight
       required: false
     - id: 24
       name: make_up_services5
-      label: Makeup Services
+      label: Make Up Services5
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Airbrush''}'
-      - '{''id'': 2, ''label'': ''Airbrush Highlight''}'
-      - '{''id'': 3, ''label'': ''Airbrush Highlight and Contour''}'
-      - '{''id'': 4, ''label'': ''Airbrush Makeup''}'
-      - '{''id'': 5, ''label'': ''Bridal''}'
-      - '{''id'': 6, ''label'': ''Bridal Touch Up''}'
-      - '{''id'': 7, ''label'': ''Bridal and Contour''}'
-      - '{''id'': 8, ''label'': ''Bridal and Highlight''}'
+      - Airbrush
+      - Airbrush Highlight
+      - Airbrush Highlight and Contour
+      - Airbrush Makeup
+      - Bridal
+      - Bridal Touch Up
+      - Bridal and Contour
+      - Bridal and Highlight
       required: false
     - id: 25
       name: make_up_services6
-      label: Makeup Services
+      label: Make Up Services6
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Airbrush''}'
-      - '{''id'': 2, ''label'': ''Airbrush Highlight''}'
-      - '{''id'': 3, ''label'': ''Airbrush Highlight and Contour''}'
-      - '{''id'': 4, ''label'': ''Airbrush Makeup''}'
-      - '{''id'': 5, ''label'': ''Bridal''}'
-      - '{''id'': 6, ''label'': ''Bridal Touch Up''}'
-      - '{''id'': 7, ''label'': ''Bridal and Contour''}'
-      - '{''id'': 8, ''label'': ''Bridal and Highlight''}'
+      - Airbrush
+      - Airbrush Highlight
+      - Airbrush Highlight and Contour
+      - Airbrush Makeup
+      - Bridal
+      - Bridal Touch Up
+      - Bridal and Contour
+      - Bridal and Highlight
       required: false

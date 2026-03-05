@@ -79,10 +79,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Full Time'', ''label'': ''Full Time''}'
-      - '{''id'': 2, ''name'': ''Part Time'', ''label'': ''Part Time''}'
-      - '{''id'': 3, ''name'': ''Contract'', ''label'': ''Contract''}'
-      - '{''id'': 4, ''name'': ''Intern'', ''label'': ''Intern''}'
+      - Full Time
+      - Part Time
+      - Contract
+      - Intern
       required: false
     - id: 12
       name: work_location
@@ -90,11 +90,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Remote'', ''label'': ''Remote''}'
-      - '{''id'': 2, ''name'': ''Office'', ''label'': ''Office''}'
-      - '{''id'': 3, ''name'': ''Hybrid'', ''label'': ''Hybrid''}'
-      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
-      - '{''id'': 5, ''name'': ''Anywhere'', ''label'': ''Anywhere''}'
+      - Remote
+      - Office
+      - Hybrid
+      - Other
+      - Anywhere
       required: false
     - id: 13
       name: available_language
@@ -102,14 +102,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''English'', ''label'': ''English''}'
-      - '{''id'': 2, ''name'': ''French'', ''label'': ''French''}'
-      - '{''id'': 3, ''name'': ''Spanish'', ''label'': ''Spanish''}'
-      - '{''id'': 4, ''name'': ''Arabic'', ''label'': ''Arabic''}'
-      - '{''id'': 5, ''name'': ''Chinese'', ''label'': ''Chinese''}'
-      - '{''id'': 6, ''name'': ''Japanese'', ''label'': ''Japanese''}'
-      - '{''id'': 7, ''name'': ''Other'', ''label'': ''Other''}'
-      - '{''id'': 8, ''name'': ''Any'', ''label'': ''Any''}'
+      - English
+      - French
+      - Spanish
+      - Arabic
+      - Chinese
+      - Japanese
+      - Other
+      - Any
       required: false
     - id: 14
       name: available_region
@@ -117,13 +117,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''North America'', ''label'': ''North America''}'
-      - '{''id'': 2, ''name'': ''Europe'', ''label'': ''Europe''}'
-      - '{''id'': 3, ''name'': ''Asia'', ''label'': ''Asia''}'
-      - '{''id'': 4, ''name'': ''Africa'', ''label'': ''Africa''}'
-      - '{''id'': 5, ''name'': ''South America'', ''label'': ''South America''}'
-      - '{''id'': 6, ''name'': ''Other'', ''label'': ''Other''}'
-      - '{''id'': 7, ''name'': ''Any'', ''label'': ''Any''}'
+      - North America
+      - Europe
+      - Asia
+      - Africa
+      - South America
+      - Other
+      - Any
       required: false
     - id: 15
       name: available_country
@@ -131,13 +131,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''United States'', ''label'': ''United States''}'
-      - '{''id'': 2, ''name'': ''Canada'', ''label'': ''Canada''}'
-      - '{''id'': 3, ''name'': ''Mexico'', ''label'': ''Mexico''}'
-      - '{''id'': 4, ''name'': ''France'', ''label'': ''France''}'
-      - '{''id'': 5, ''name'': ''United Kingdom'', ''label'': ''United Kingdom''}'
-      - '{''id'': 6, ''name'': ''Other'', ''label'': ''Other''}'
-      - '{''id'': 7, ''name'': ''Any'', ''label'': ''Any''}'
+      - United States
+      - Canada
+      - Mexico
+      - France
+      - United Kingdom
+      - Other
+      - Any
       required: false
     - id: 16
       name: available_holidays
@@ -145,10 +145,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Holidays'', ''label'': ''Holidays''}'
-      - '{''id'': 2, ''name'': ''Weekends'', ''label'': ''Weekends''}'
-      - '{''id'': 3, ''name'': ''Flexible'', ''label'': ''Flexible''}'
-      - '{''id'': 4, ''name'': ''None'', ''label'': ''None''}'
+      - Holidays
+      - Weekends
+      - Flexible
+      - None
       required: false
     - id: 17
       name: available_travel
@@ -156,10 +156,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
-      - '{''id'': 3, ''name'': ''Flexible'', ''label'': ''Flexible''}'
-      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      - 'True'
+      - 'False'
+      - Flexible
+      - Other
       required: false
     - id: 18
       name: available_workload
@@ -167,11 +167,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''High'', ''label'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low'', ''label'': ''Low''}'
-      - '{''id'': 4, ''name'': ''None'', ''label'': ''None''}'
-      - '{''id'': 5, ''name'': ''Flexible'', ''label'': ''Flexible''}'
+      - High
+      - Medium
+      - Low
+      - None
+      - Flexible
       required: false
     - id: 19
       name: available_workload2
@@ -179,11 +179,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''High'', ''label'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low'', ''label'': ''Low''}'
-      - '{''id'': 4, ''name'': ''None'', ''label'': ''None''}'
-      - '{''id'': 5, ''name'': ''Flexible'', ''label'': ''Flexible''}'
+      - High
+      - Medium
+      - Low
+      - None
+      - Flexible
       required: false
     - id: 20
       name: available_workload3
@@ -191,11 +191,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''High'', ''label'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low'', ''label'': ''Low''}'
-      - '{''id'': 4, ''name'': ''None'', ''label'': ''None''}'
-      - '{''id'': 5, ''name'': ''Flexible'', ''label'': ''Flexible''}'
+      - High
+      - Medium
+      - Low
+      - None
+      - Flexible
       required: false
     - id: 21
       name: available_language2
@@ -203,14 +203,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''English'', ''label'': ''English''}'
-      - '{''id'': 2, ''name'': ''French'', ''label'': ''French''}'
-      - '{''id'': 3, ''name'': ''Spanish'', ''label'': ''Spanish''}'
-      - '{''id'': 4, ''name'': ''Arabic'', ''label'': ''Arabic''}'
-      - '{''id'': 5, ''name'': ''Chinese'', ''label'': ''Chinese''}'
-      - '{''id'': 6, ''name'': ''Japanese'', ''label'': ''Japanese''}'
-      - '{''id'': 7, ''name'': ''Other'', ''label'': ''Other''}'
-      - '{''id'': 8, ''name'': ''Any'', ''label'': ''Any''}'
+      - English
+      - French
+      - Spanish
+      - Arabic
+      - Chinese
+      - Japanese
+      - Other
+      - Any
       required: false
     - id: 22
       name: available_region2
@@ -218,13 +218,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''North America'', ''label'': ''North America''}'
-      - '{''id'': 2, ''name'': ''Europe'', ''label'': ''Europe''}'
-      - '{''id'': 3, ''name'': ''Asia'', ''label'': ''Asia''}'
-      - '{''id'': 4, ''name'': ''Africa'', ''label'': ''Africa''}'
-      - '{''id'': 5, ''name'': ''South America'', ''label'': ''South America''}'
-      - '{''id'': 6, ''name'': ''Other'', ''label'': ''Other''}'
-      - '{''id'': 7, ''name'': ''Any'', ''label'': ''Any''}'
+      - North America
+      - Europe
+      - Asia
+      - Africa
+      - South America
+      - Other
+      - Any
       required: false
     - id: 23
       name: available_country2
@@ -232,13 +232,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''United States'', ''label'': ''United States''}'
-      - '{''id'': 2, ''name'': ''Canada'', ''label'': ''Canada''}'
-      - '{''id'': 3, ''name'': ''Mexico'', ''label'': ''Mexico''}'
-      - '{''id'': 4, ''name'': ''France'', ''label'': ''France''}'
-      - '{''id'': 5, ''name'': ''United Kingdom'', ''label'': ''United Kingdom''}'
-      - '{''id'': 6, ''name'': ''Other'', ''label'': ''Other''}'
-      - '{''id'': 7, ''name'': ''Any'', ''label'': ''Any''}'
+      - United States
+      - Canada
+      - Mexico
+      - France
+      - United Kingdom
+      - Other
+      - Any
       required: false
     - id: 24
       name: available_holidays2
@@ -246,10 +246,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Holidays'', ''label'': ''Holidays''}'
-      - '{''id'': 2, ''name'': ''Weekends'', ''label'': ''Weekends''}'
-      - '{''id'': 3, ''name'': ''Flexible'', ''label'': ''Flexible''}'
-      - '{''id'': 4, ''name'': ''None'', ''label'': ''None''}'
+      - Holidays
+      - Weekends
+      - Flexible
+      - None
       required: false
     - id: 25
       name: available_travel2
@@ -257,8 +257,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
-      - '{''id'': 3, ''name'': ''Flexible'', ''label'': ''Flexible''}'
-      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      - 'True'
+      - 'False'
+      - Flexible
+      - Other
       required: false

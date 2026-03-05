@@ -120,7 +120,7 @@ inputSchema:
       - Yes, Completely
       - Yes, Mostly
       - Partially
-      - false
+      - 'False'
       required: true
     - id: 14
       name: materials_used
@@ -131,7 +131,7 @@ inputSchema:
       - Yes, All Approved
       - Yes, Most Approved
       - Some Unapproved
-      - false
+      - 'False'
       required: true
     - id: 15
       name: testing_performed
@@ -185,8 +185,8 @@ inputSchema:
       hint: Is follow-up needed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: reinspection_date
@@ -213,8 +213,8 @@ inputSchema:
       hint: Were photos documented
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: inspector_comments

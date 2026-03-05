@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 10, ''name'': ''Less than 1 year'', ''label'': ''Less than 1 year''}'
-      - '{''id'': 11, ''name'': ''1-5 years'', ''label'': ''1-5 years''}'
-      - '{''id'': 12, ''name'': ''5+ years'', ''label'': ''5+ years''}'
+      - Less than 1 year
+      - 1-5 years
+      - 5+ years
       required: false
     - id: 7
       name: education
@@ -54,11 +54,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 13, ''name'': ''High School Diploma'', ''label'': ''High School
-        Diploma''}'
-      - '{''id'': 14, ''name'': "Bachelor''s Degree", ''label'': "Bachelor''s Degree"}'
-      - '{''id'': 15, ''name'': "Master''s Degree", ''label'': "Master''s Degree"}'
-      - '{''id'': 16, ''name'': ''Other'', ''label'': ''Other''}'
+      - High School Diploma
+      - Bachelor's Degree
+      - Master's Degree
+      - Other
       required: false
     - id: 8
       name: work_experience
@@ -73,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 17, ''name'': ''Unemployed'', ''label'': ''Unemployed''}'
-      - '{''id'': 18, ''name'': ''Employed'', ''label'': ''Employed''}'
-      - '{''id'': 19, ''name'': ''Retired'', ''label'': ''Retired''}'
-      - '{''id'': 20, ''name'': ''Other'', ''label'': ''Other''}'
+      - Unemployed
+      - Employed
+      - Retired
+      - Other
       required: false

@@ -1,92 +1,98 @@
 inputSchema:
   type: object
   properties:
-    title: marketing_brief_form_template
+    title: Marketing Brief Form Template
     pages:
     - id: 1
       name: marketing_brief
-      label: marketing_brief
+      label: Marketing Brief
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: marketing_goal
-      label: marketing_goal
+      label: Marketing Goal
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: marketing_objectives
-      label: marketing_objectives
-      hint: null
+      label: Marketing Objectives
+      hint: List the specific objectives of the campaign.
       type: text
       options: []
       required: false
     - id: 4
-      name: marketing_strategy
-      label: marketing_strategy
+      name: marketing_channels
+      label: Marketing Channels
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Social Media
+      - Email Marketing
+      - Print Media
+      - Online Advertising
+      - Influencer Marketing
+      - Event Marketing
+      required: true
     - id: 5
       name: target_audience
-      label: target_audience
+      label: Target Audience
       hint: null
       type: text
       options: []
       required: true
     - id: 6
-      name: marketing_channels
-      label: marketing_channels
+      name: marketing_strategy
+      label: Marketing Strategy
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 7
       name: marketing_budget
-      label: marketing_budget
+      label: Marketing Budget
       hint: null
       type: number
       options: []
       required: true
     - id: 8
       name: marketing_duration
-      label: marketing_duration
+      label: Marketing Duration
       hint: null
       type: date
       options: []
       required: true
     - id: 9
       name: marketing_start_date
-      label: marketing_start_date
+      label: Marketing Start Date
       hint: null
       type: date
       options: []
       required: true
     - id: 10
       name: marketing_end_date
-      label: marketing_end_date
+      label: Marketing End Date
       hint: null
       type: date
       options: []
       required: true
     - id: 11
       name: marketing_frequency
-      label: marketing_frequency
+      label: Marketing Frequency
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
       required: true
     - id: 12
       name: marketing_status
-      label: marketing_status
+      label: Marketing Status
       hint: null
       type: select_one
       options:
@@ -95,91 +101,42 @@ inputSchema:
       required: true
     - id: 13
       name: assigned_to
-      label: assigned_to
+      label: Assigned To
       hint: null
       type: text
       options: []
       required: true
     - id: 14
       name: submitted_by
-      label: submitted_by
+      label: Submitted By
       hint: null
       type: text
       options: []
       required: true
     - id: 15
       name: submitted_date
-      label: submitted_date
+      label: Submitted Date
       hint: null
       type: date
       options: []
       required: true
     - id: 16
       name: submitted_time
-      label: submitted_time
+      label: Submitted Time
       hint: null
       type: time
       options: []
       required: true
     - id: 17
       name: comments
-      label: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: assigned_notes
-      label: assigned_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: submitted_notes
-      label: submitted_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: status_comments
-      label: status_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: assigned_by
-      label: assigned_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: submitted_date
-      label: submitted_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: submitted_time
-      label: submitted_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: assigned_by
-      label: assigned_by
+      name: notes
+      label: Notes
       hint: null
       type: text
       options: []

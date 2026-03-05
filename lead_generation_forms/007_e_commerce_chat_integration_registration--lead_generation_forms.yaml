@@ -5,31 +5,32 @@ inputSchema:
     pages:
     - id: 1
       name: online_store_info
-      label: Online Store Info
+      label: 1. What is the name of your online store?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: platform_info
-      label: Platform Info
+      label: 2. Which platform are you using for your e-commerce integration?
+      hint: null
+      type: select_one
+      options:
+      - Shopify
+      - WooCommerce
+      - BigCommerce
+      required: false
+    - id: 3
+      name: payment_info
+      label: 3. What is the payment info for your e-commerce store?
       hint: null
       type: text
       options: []
       required: false
-    - id: 3
-      name: chat_feature_p
-      label: Chat Feature
-      hint: Select a chat feature
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 4
       name: chat_feature_p
-      label: Chat Feature
-      hint: Select one or more chat features
+      label: 4. Which features do you have integrated in your chat?
+      hint: null
       type: select_multiple
       options:
       - 'Yes'
@@ -37,29 +38,64 @@ inputSchema:
       required: false
     - id: 5
       name: integration_preferences
-      label: Integration Preferences
+      label: 5. What are your integration preferences?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: integration_preferences
-      label: Integration Preferences
+      name: other_questions
+      label: 6. Do you have any other questions about our e-commerce chat integration?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: payment_info
-      label: Payment Info
+      name: message
+      label: 7. Would you like to share a message with us about your e-commerce store?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: payment_info
-      label: Payment Info
+      name: feedback
+      label: 8. Do you have any feedback about our e-commerce chat integration?
       hint: null
       type: text
       options: []
+      required: false
+    - id: 9
+      name: schedule_call
+      label: 9. Would you like to schedule a call back with us about your e-commerce
+        chat integration?
+      hint: null
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_info
+      label: 10. Is there anything else we should know about your e-commerce store?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: terms_agreement
+      label: 11. Do you confirm that you have read and agree to our terms and conditions?
+      hint: null
+      type: radio
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: confirm_terms_agreement
+      label: 12. Confirm
+      hint: null
+      type: checkbox
+      options:
+      - I agree
+      - I disagree
       required: false

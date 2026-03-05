@@ -1,135 +1,145 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Clinical Study Volunteer Information Form
     pages:
-      - id: 1
-        name: volunteer_name
-        label: Volunteer Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: contact_method_pref
-        label: Preferred Method of Contact
-        hint: null
-        type: select_one
-        options: [Email, Phone]
-        required: true
-      - id: 3
-        name: mailing_address
-        label: Mailing Address
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: section_demographics
-        label: -- Demographic Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: gender_identity
-        label: Gender Identity
-        hint: null
-        type: select_one
-        options: [Male, Female, Non-binary, Prefer not to say]
-        required: false
-      - id: 6
-        name: ethnicity
-        label: Ethnicity
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: primary_language
-        label: Primary Language Spoken at Home
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: section_medical_profile
-        label: -- Preliminary Medical Profile --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: allergies_list
-        label: Please list any known allergies
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: major_illness_history
-        label: Do you have any history of major chronic illness?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: smoking_status
-        label: Current Smoking Status
-        hint: null
-        type: select_one
-        options: [Never, Former, Current]
-        required: false
-      - id: 12
-        name: alcohol_use
-        label: Average weekly alcohol consumption
-        hint: null
-        type: select_one
-        options: [None, 1-5 drinks, 6-10 drinks, More than 10 drinks]
-        required: false
-      - id: 13
-        name: section_participation
-        label: -- Participation Preferences --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: availability_windows
-        label: What times are you typically available for study visits?
-        hint: null
-        type: select_multiple
-        options: [Morning, Afternoon, Evening, Weekend]
-        required: false
-      - id: 15
-        name: travel_willingness
-        label: Are you willing to travel to our clinical site for visits?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: false
-      - id: 16
-        name: volunteer_motivation
-        label: Primary reason for volunteering for clinical research
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: confidentiality_ack
-        label: I acknowledge that this information will be kept strictly confidential
-        hint: null
-        type: select_one
-        options: [Yes, I acknowledge]
-        required: true
+    - id: 1
+      name: volunteer_name
+      label: Volunteer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_method_pref
+      label: Preferred Method of Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: true
+    - id: 3
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_demographics
+      label: -- Demographic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: gender_identity
+      label: Gender Identity
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 6
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: primary_language
+      label: Primary Language Spoken at Home
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_medical_profile
+      label: -- Preliminary Medical Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: allergies_list
+      label: Please list any known allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: major_illness_history
+      label: Do you have any history of major chronic illness?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: smoking_status
+      label: Current Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Former
+      - Current
+      required: false
+    - id: 12
+      name: alcohol_use
+      label: Average weekly alcohol consumption
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 1-5 drinks
+      - 6-10 drinks
+      - More than 10 drinks
+      required: false
+    - id: 13
+      name: section_participation
+      label: -- Participation Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: availability_windows
+      label: What times are you typically available for study visits?
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      required: false
+    - id: 15
+      name: travel_willingness
+      label: Are you willing to travel to our clinical site for visits?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: volunteer_motivation
+      label: Primary reason for volunteering for clinical research
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: confidentiality_ack
+      label: I acknowledge that this information will be kept strictly confidential
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - I acknowledge
+      required: true

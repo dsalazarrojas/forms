@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''label'': ''Texture''}'
-      - '{''id'': 11, ''label'': ''3D Model''}'
-      - '{''id'': 12, ''label'': ''Audio File''}'
+      - Texture
+      - 3D Model
+      - Audio File
       required: false
     - id: 3
       name: asset_name
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 20, ''label'': ''PC''}'
-      - '{''id'': 21, ''label'': ''Console''}'
-      - '{''id'': 22, ''label'': ''Mobile''}'
-      - '{''id'': 23, ''label'': ''Browser''}'
+      - PC
+      - Console
+      - Mobile
+      - Browser
       required: true
     - id: 9
       name: asset_status
@@ -72,10 +72,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 30, ''label'': ''New''}'
-      - '{''id'': 31, ''label'': ''In Progress''}'
-      - '{''id'': 32, ''label'': ''Complete''}'
-      - '{''id'': 33, ''label'': ''Not Found''}'
+      - New
+      - In Progress
+      - Complete
+      - Not Found
       required: true
     - id: 10
       name: game_dev_email

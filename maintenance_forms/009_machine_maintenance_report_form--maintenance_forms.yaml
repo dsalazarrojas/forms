@@ -16,175 +16,136 @@ inputSchema:
     pages:
     - id: 1
       name: machine_maintenance_report_form_page_1
-      label: Report details
+      label: Introduction Page
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: machine_maintenance_report_form_page_2
-      label: Maintenance schedule
+      label: Machine Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: machine_maintenance_report_form_page_3
-      label: Comments
+      label: Maintenance Schedule
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 4
       name: machine_maintenance_report_form_page_4
-      label: Report
+      label: Report Status
       hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - In Operation
+      - Under Maintenance
       required: false
     - id: 5
       name: machine_maintenance_report_form_page_5
-      label: Report date
+      label: Task List
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Task 1
+      - Task 2
+      - Task 3
       required: false
     - id: 6
       name: machine_maintenance_report_form_page_6
-      label: Scheduled tasks
+      label: Report Date
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 7
       name: machine_maintenance_report_form_page_7
-      label: Maintenance schedule
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 8
       name: machine_maintenance_report_form_page_8
-      label: Report details
+      label: Machine Condition
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 9
       name: machine_maintenance_report_form_page_9
-      label: Report
+      label: Maintenance History
       hint: null
       type: text
       options: []
       required: false
     - id: 10
       name: machine_maintenance_report_form_page_10
-      label: Report date
+      label: Next Scheduled Date
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 11
       name: machine_maintenance_report_form_page_11
-      label: Scheduled tasks
+      label: Task Priorities
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
       required: false
     - id: 12
       name: machine_maintenance_report_form_page_12
-      label: Maintenance schedule
+      label: Additional Information
       hint: null
       type: text
       options: []
       required: false
     - id: 13
       name: machine_maintenance_report_form_page_13
-      label: Report details
+      label: Summary
       hint: null
       type: text
       options: []
       required: false
     - id: 14
       name: machine_maintenance_report_form_page_14
-      label: Report
+      label: Machine Performance Metrics
       hint: null
       type: text
       options: []
       required: false
     - id: 15
       name: machine_maintenance_report_form_page_15
-      label: Report date
+      label: Notes and Concerns
       hint: null
       type: text
       options: []
       required: false
     - id: 16
       name: machine_maintenance_report_form_page_16
-      label: Scheduled tasks
+      label: Task Completion Status
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 17
       name: machine_maintenance_report_form_page_17
-      label: Maintenance schedule
+      label: Reasons for Non-Completion
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: machine_maintenance_report_form_page_18
-      label: Report details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: machine_maintenance_report_form_page_19
-      label: Report
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: machine_maintenance_report_form_page_20
-      label: Report date
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: machine_maintenance_report_form_page_21
-      label: Scheduled tasks
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: machine_maintenance_report_form_page_22
-      label: Maintenance schedule
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: machine_maintenance_report_form_page_23
-      label: Report details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: machine_maintenance_report_form_page_24
-      label: Report
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: machine_maintenance_report_form_page_25
-      label: Report date
+      label: Additional Fields (if needed)
       hint: null
       type: text
       options: []

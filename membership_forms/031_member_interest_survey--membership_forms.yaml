@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Beginner'', ''value'': ''beginner''}'
-      - '{''id'': 2, ''name'': ''Intermediate'', ''value'': ''intermediate''}'
-      - '{''id'': 3, ''name'': ''Advanced'', ''value'': ''advanced''}'
+      - beginner
+      - intermediate
+      - advanced
       required: false
     - id: 5
       name: event_interest
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Event 1'', ''value'': ''event_1''}'
-      - '{''id'': 2, ''name'': ''Event 2'', ''value'': ''event_2''}'
-      - '{''id'': 3, ''name'': ''Event 3'', ''value'': ''event_3''}'
+      - event 1
+      - event 2
+      - event 3
       required: false
     - id: 6
       name: date_of_birth

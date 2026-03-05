@@ -1,228 +1,212 @@
 inputSchema:
   type: object
   properties:
-    title: healthcare_ethics_decision_making_survey
+    title: Healthcare Ethics Decision Making Survey
     pages:
     - id: 1
       name: introduction
-      label: Introduction
+      label: Introduction to Healthcare Ethics
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 2
       name: healthcare_professional
-      label: Healthcare_Professional
+      label: Healthcare Professional's Responsibility
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Always prioritize patient autonomy
+      - Always prioritize clinical guidelines
+      - Balance between patient autonomy and clinical guidelines
       required: false
     - id: 3
       name: patient_career
-      label: Patient_Career
+      label: Patient Career
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Important
+      - Not very important
+      - Neutral
       required: false
     - id: 4
       name: medical_school
-      label: Medical_School
+      label: Medical School Training
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Sufficient
+      - Needs improvement
+      - Very limited
       required: false
     - id: 5
       name: hospital
-      label: Hospital
+      label: Hospital Environment
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Very supportive
+      - Somewhat supportive
+      - Not very supportive
       required: false
     - id: 6
       name: doctor
-      label: Doctor
+      label: Doctor-Patient Relationship
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Trustworthy
+      - Somewhat trustworthy
+      - Not very trustworthy
       required: false
     - id: 7
       name: patient_family
-      label: Patient_Family
+      label: Patient Family Influence
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Very influential
+      - Somewhat influential
+      - Not very influential
       required: false
     - id: 8
       name: patient_status
-      label: Patient_Status
+      label: Patient Status
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
+      - Not applicable
       required: false
     - id: 9
       name: healthcare_institution
-      label: Healthcare_Institution
+      label: Healthcare Institution
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Very important
+      - Somewhat important
+      - Not very important
       required: false
     - id: 10
       name: patient_awareness
-      label: Patient_Awareness
+      label: Patient Awareness
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - High
+      - Moderate
+      - Low
       required: false
     - id: 11
       name: patient_decision
-      label: Patient_Decision
+      label: Patient Decision-Making
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Very effective
+      - Somewhat effective
+      - Not very effective
       required: false
     - id: 12
       name: patient_consent
-      label: Patient_Consent
+      label: Patient Consent
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Very important
+      - Somewhat important
+      - Not very important
       required: false
     - id: 13
       name: patient_informed
-      label: Patient_Informed
+      label: Patient Informed
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Very informed
+      - Somewhat informed
+      - Not very informed
       required: false
     - id: 14
-      name: patient_confidentiality
-      label: Patient_Confidentiality
+      name: patient_autonomy
+      label: Patient Autonomy
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Very high
+      - Moderate
+      - Low
       required: false
     - id: 15
-      name: patient_privacy
-      label: Patient_Privacy
+      name: patient_self_determination
+      label: Patient Self-Determination
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - High
+      - Moderate
+      - Low
       required: false
     - id: 16
-      name: patient_autonomy
-      label: Patient_Autonomy
+      name: patient_participation
+      label: Patient Participation
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Very important
+      - Somewhat important
+      - Not very important
       required: false
     - id: 17
-      name: patient_self_determination
-      label: Patient_Self_Determination
+      name: patient_informed_2
+      label: Patient Informed 2
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Very informed
+      - Somewhat informed
+      - Not very informed
       required: false
     - id: 18
-      name: patient_participation
-      label: Patient_Participation
+      name: patient_privacy
+      label: Patient Privacy
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Very high
+      - Somewhat high
+      - Not very high
       required: false
     - id: 19
-      name: patient_informed
-      label: Patient_Informed
+      name: patient_autonomy_2
+      label: Patient Autonomy 2
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - High
+      - Moderate
+      - Low
       required: false
     - id: 20
-      name: patient_confidentiality
-      label: Patient_Confidentiality
+      name: patient_self_determination_2
+      label: Patient Self Determination 2
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - High
+      - Moderate
+      - Low
       required: false
     - id: 21
-      name: patient_privacy
-      label: Patient_Privacy
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: patient_self_determination
-      label: Patient_Self_Determination
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: patient_participation
-      label: Patient_Participation
+      name: patient_participation_2
+      label: Patient Participation 2
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: patient_informed
-      label: Patient_Informed
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: patient_confidentiality
-      label: Patient_Privacy
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - High
+      - Moderate
+      - Low
       required: false

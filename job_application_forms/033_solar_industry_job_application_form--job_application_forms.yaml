@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Primary''}'
-      - '{''name'': ''Secondary''}'
-      - '{''name'': ''Other''}'
+      - Primary
+      - Secondary
+      - Other
       required: false
     - id: 2
       name: email
@@ -82,10 +82,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''High School Diploma''}'
-      - '{''name'': ''Bachelor''}'
-      - '{''name'': ''Master''}'
-      - '{''name'': ''Doctorate''}'
+      - High School Diploma
+      - Bachelor
+      - Master
+      - Doctorate
       required: false
     - id: 12
       name: name
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''American''}'
-      - '{''name'': ''British''}'
-      - '{''name'': ''Other''}'
+      - American
+      - British
+      - Other
       required: false
     - id: 15
       name: date_of_birth
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Male''}'
-      - '{''name'': ''Female''}'
-      - '{''name'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 17
       name: currently_employed
@@ -134,8 +134,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True}'
-      - '{''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: employment_type
@@ -143,9 +143,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Full Time''}'
-      - '{''name'': ''Part Time''}'
-      - '{''name'': ''Freelance''}'
+      - Full Time
+      - Part Time
+      - Freelance
       required: false
     - id: 19
       name: job_satus
@@ -153,8 +153,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Looking for employment''}'
-      - '{''name'': ''Not looking for employment''}'
+      - Looking for employment
+      - Not looking for employment
       required: false
     - id: 20
       name: job_type
@@ -162,8 +162,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Permanent''}'
-      - '{''name'': ''Temporary''}'
+      - Permanent
+      - Temporary
       required: false
     - id: 21
       name: resume

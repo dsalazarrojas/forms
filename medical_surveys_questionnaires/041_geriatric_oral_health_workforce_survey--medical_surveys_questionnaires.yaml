@@ -40,8 +40,11 @@ inputSchema:
       name: geriatric_oral_health
       label: Geriatric Oral Health
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not important
       required: false
     - id: 6
       name: geriatric_care_organizations
@@ -88,133 +91,8 @@ inputSchema:
       options: []
       required: false
     - id: 11
-      name: geriatric_care_organizations
-      label: Geriatric Care Organizations
-      hint: null
-      type: select_one
-      options:
-      - Home health care
-      - Assisted living
-      - Other
-      required: false
-    - id: 12
-      name: geriatric_care_setting
-      label: Geriatric Care Setting
-      hint: null
-      type: select_one
-      options:
-      - Clinic
-      - Nursing home
-      - Other
-      required: false
-    - id: 13
-      name: geriatric_care_provider
-      label: Geriatric Care Provider
-      hint: null
-      type: select_one
-      options:
-      - Dentist
-      - Hygienist
-      - Other
-      required: false
-    - id: 14
-      name: geriatric_oral_health_issues
-      label: Geriatric Oral Health Issues
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: geriatric_oral_health_barriers
-      label: Geriatric Oral Health Barriers
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
       name: geriatric_oral_health_needs
       label: Geriatric Oral Health Needs
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: geriatric_care_organizations
-      label: Geriatric Care Organizations
-      hint: null
-      type: select_one
-      options:
-      - Home health care
-      - Assisted living
-      - Other
-      required: false
-    - id: 18
-      name: geriatric_care_setting
-      label: Geriatric Care Setting
-      hint: null
-      type: select_one
-      options:
-      - Clinic
-      - Nursing home
-      - Other
-      required: false
-    - id: 19
-      name: geriatric_care_provider
-      label: Geriatric Care Provider
-      hint: null
-      type: select_one
-      options:
-      - Dentist
-      - Hygienist
-      - Other
-      required: false
-    - id: 20
-      name: geriatric_oral_health_issues
-      label: Geriatric Oral Health Issues
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: geriatric_oral_health_needs
-      label: Geriatric Oral Health Needs
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: geriatric_care_organizations
-      label: Geriatric Care Organizations
-      hint: null
-      type: select_one
-      options:
-      - Home health care
-      - Assisted living
-      - Other
-      required: false
-    - id: 23
-      name: geriatric_care_setting
-      label: Geriatric Care Setting
-      hint: null
-      type: select_one
-      options:
-      - Clinic
-      - Nursing home
-      - Other
-      required: false
-    - id: 24
-      name: geriatric_care_provider
-      label: Geriatric Care Provider
-      hint: null
-      type: select_one
-      options:
-      - Dentist
-      - Hygienist
-      - Other
-      required: false
-    - id: 25
-      name: geriatric_oral_health_issues
-      label: Geriatric Oral Health Issues
       hint: null
       type: text
       options: []

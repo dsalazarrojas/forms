@@ -5,199 +5,130 @@ inputSchema:
     pages:
     - id: 1
       name: first_name
-      label: first name
-      hint: 'null'
+      label: First Name
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: last_name
-      label: last_name
-      hint: 'null'
+      label: Last Name
+      hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: email
-      label: email
-      hint: 'null'
+      label: Email
+      hint: null
       type: email
       options: []
       required: true
     - id: 4
       name: phone
-      label: phone
-      hint: 'null'
+      label: Phone
+      hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: date_of_birth
-      label: date_of_birth
-      hint: 'null'
+      label: Date of Birth
+      hint: null
       type: date
       options: []
       required: false
     - id: 6
       name: job_title
-      label: job_title
-      hint: 'null'
+      label: Job Title
+      hint: null
       type: text
       options: []
       required: true
     - id: 7
       name: department
-      label: department
-      hint: 'null'
+      label: Department
+      hint: null
       type: select_one
       options:
       - Marketing
       - Finance
       - HR
-      - Other
       required: true
     - id: 8
       name: experience
-      label: experience
-      hint: 'null'
+      label: Experience (years)
+      hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 9
-      name: work_experience
-      label: work_experience
-      hint: 'null'
-      type: text
-      options: []
-      required: false
-    - id: 10
       name: notice_period
-      label: notice_period
-      hint: 'null'
+      label: Notice Period
+      hint: null
       type: select_multiple
       options:
       - 1 week
       - 2 weeks
       - 3 weeks
-      required: false
-    - id: 11
+      required: true
+    - id: 10
       name: job_status
-      label: job_status
-      hint: 'null'
+      label: Job Status
+      hint: null
       type: select_one
       options:
       - Full-time
       - Part-time
       required: true
-    - id: 12
-      name: salary
-      label: salary
-      hint: 'null'
-      type: number
+    - id: 11
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
       options: []
       required: false
-    - id: 13
+    - id: 12
       name: work_status
-      label: work_status
-      hint: 'null'
+      label: Work Status
+      hint: null
       type: select_multiple
       options:
       - Remote
       - On-site
       required: true
-    - id: 14
+    - id: 13
       name: work_location
-      label: work_location
-      hint: 'null'
+      label: Work Location
+      hint: null
       type: text
       options: []
       required: false
-    - id: 15
-      name: work_experience
-      label: work_experience
-      hint: 'null'
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: work_hours
-      label: work_hours
-      hint: 'null'
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: notice_period
-      label: notice_period
-      hint: 'null'
-      type: select_multiple
-      options:
-      - 1 week
-      - 2 weeks
-      - 3 weeks
-      required: false
-    - id: 18
-      name: work_type
-      label: work_type
-      hint: 'null'
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: job_type
-      label: job_type
-      hint: 'null'
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: job_description
-      label: job_description
-      hint: 'null'
-      type: text
-      options: []
-      required: false
-    - id: 21
+    - id: 14
       name: work_level
-      label: work_level
-      hint: 'null'
+      label: Work Level
+      hint: null
       type: select_multiple
       options:
       - Manager
       - Supervisor
       - Team Member
       required: true
-    - id: 22
+    - id: 15
       name: job_type
-      label: job_type
-      hint: 'null'
+      label: Job Type
+      hint: null
       type: select_multiple
       options:
       - Part-time
       - Full-time
-      required: false
-    - id: 23
-      name: job_type
-      label: job_type
-      hint: 'null'
-      type: select_multiple
-      options:
       - Permanent
       - Contract
-      required: false
-    - id: 24
-      name: job_type
-      label: job_type
-      hint: 'null'
-      type: select_multiple
-      options:
-      - On-site
-      - Remote
-      required: false
-    - id: 25
-      name: job_type
-      label: job_type
-      hint: 'null'
+      required: true
+    - id: 16
+      name: work_type
+      label: Work Type
+      hint: null
       type: text
       options: []
       required: false

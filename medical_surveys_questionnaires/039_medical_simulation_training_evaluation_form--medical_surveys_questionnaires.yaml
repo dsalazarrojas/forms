@@ -5,14 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: training_session
-      label: Training Session
+      label: What was the training session about?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: medical_survey
-      label: Medical Survey
+      name: medical_survey_results
+      label: Did you take the medical survey?
       hint: null
       type: select_multiple
       options:
@@ -21,56 +21,63 @@ inputSchema:
       required: false
     - id: 3
       name: simulation_type
-      label: Simulation Type
+      label: What type of simulation were you trained on?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: training_date
-      label: Training Date
+      label: What was the date of the training session?
       hint: null
       type: date
       options: []
       required: false
     - id: 5
-      name: time
-      label: Time
+      name: training_time
+      label: What time did the training take place?
       hint: null
       type: time
       options: []
       required: false
     - id: 6
-      name: medical_survey
-      label: Medical Survey
+      name: training_location
+      label: Where was the training held?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 7
-      name: evaluation
-      label: Evaluation
+      name: medical_survey_results_2
+      label: What were the results of the medical survey?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 8
-      name: comments
-      label: Comments
+      name: evaluation_outcome
+      label: How would you evaluate the training outcome?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: evaluation_comments
+      label: Were any comments provided for the training session?
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
+    - id: 10
       name: assigned_tool
-      label: Assigned Tool
+      label: What tool was assigned to you for the training?
       hint: null
       type: select_one
       options:
@@ -78,127 +85,109 @@ inputSchema:
       - tool1
       - tool2
       required: false
-    - id: 10
-      name: training_location
-      label: Training Location
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 11
-      name: training_outcome
-      label: Training Outcome
+      name: evaluation_score
+      label: Evaluation score out of 5
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
+      - Other
       required: false
     - id: 12
-      name: evaluation_comments
-      label: Evaluation Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: medical_survey
-      label: Medical Survey
+      name: training_outcome
+      label: How would you evaluate the training outcome of the session?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 14
-      name: evaluation_score
-      label: Evaluation Score
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 15
-      name: evaluation_comments
-      label: Evaluation Comments
+    - id: 13
+      name: evaluation_comments_2
+      label: Were any comments made on the medical survey?
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
-      name: medical_survey
-      label: Medical Survey
+    - id: 14
+      name: medical_survey_results_3
+      label: Did the medical survey indicate a yes or no response?
       hint: null
       type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: evaluation_score_2
+      label: What was the evaluation score for the training session?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 16
+      name: training_outcome_2
+      label: Training Outcome 2
+      hint: null
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 17
-      name: training_location
-      label: Training Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: training_outcome
-      label: Training Outcome
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: evaluation_comments
-      label: Evaluation Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: medical_survey
-      label: Medical Survey
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: evaluation_score
-      label: Evaluation Score
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 22
-      name: training_outcome
-      label: Training Outcome
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
       name: comments
       label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 24
+    - id: 18
+      name: simulation_type_2
+      label: What type of simulation was the training based on?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 19
+      name: training_date_2
+      label: When was the training session held?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: training_time_2
+      label: Training Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: assigned_tool_2
+      label: What tool was assigned to you?
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - tool1
+      - tool2
+      required: false
+    - id: 22
+      name: comments_2
+      label: Were any comments made on the training?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
       name: medical_survey
       label: Medical Survey
       hint: null
@@ -207,37 +196,29 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 25
-      name: simulation_type
-      label: Simulation Type
+    - id: 24
+      name: evaluation_score_3
+      label: Evaluation Score
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 25
+      name: training_outcome_3
+      label: Training Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 26
-      name: training_date
-      label: Training Date
+      name: comments_3
+      label: Comments 3
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
-    - id: 27
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 28
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - tool1
-      - tool2
       required: false

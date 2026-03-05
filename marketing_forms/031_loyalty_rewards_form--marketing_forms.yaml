@@ -4,187 +4,135 @@ inputSchema:
     title: Loyalty Rewards Form
     pages:
     - id: 1
-      name: loyalty_rewards_form
-      label: loyalty_rewards_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: customer_name
-      label: customer_name
+      label: Customer's Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 3
-      name: email
-      label: email
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer's Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 4
+      required: true
+    - id: 3
       name: customer_phone
-      label: customer_phone
+      label: Customer's Phone Number
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: customer_store_visit_count
-      label: customer_store_visit_count
+      label: Number of Customer Store Visits
       hint: null
       type: number
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: reward_type
-      label: reward_type
+      label: Reward Type
       hint: null
       type: select_multiple
       options:
-      - loyalty points
-      - free gift
-      - free product
-      - free gift card
-      required: false
+      - Loyalty points
+      - Free Gift
+      - Free Product
+      - Free Gift Card
+      required: true
+    - id: 6
+      name: store
+      label: Store Location
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 7
-      name: store
-      label: store
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: points_earned
-      label: points_earned
+      label: Points Earned
       hint: null
       type: number
       options: []
-      required: false
+      required: true
+    - id: 8
+      name: customer_address
+      label: Customer's Address
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 9
-      name: customer_address
-      label: customer_address
+      name: reward_status
+      label: Reward Status
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Pending
+      - Awarded
+      - Expired
+      required: true
     - id: 10
-      name: reward_status
-      label: reward_status
-      hint: null
-      type: select_one
-      options:
-      - pending
-      - awarded
-      - expired
-      required: false
-    - id: 11
-      name: customer_email
-      label: customer_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: reward_date
-      label: reward_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: customer_store_last_visit_date
-      label: customer_store_last_visit_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: customer_first_visit_date
-      label: customer_first_visit_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: reward_expiration_date
-      label: reward_expiration_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: customer_reward_balance
-      label: customer_reward_balance
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
       name: customer_last_visit
-      label: customer_last_visit
+      label: Customer's Last Visit Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 18
-      name: customer_total_visits
-      label: customer_total_visits
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
+      required: true
+    - id: 11
       name: customer_first_visit
-      label: customer_first_visit
+      label: Customer's First Visit Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 20
-      name: reward_balance
-      label: reward_balance
+      required: true
+    - id: 12
+      name: reward_expiration
+      label: Reward Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: customer_total_visits
+      label: Customer's Total Visits
       hint: null
       type: number
       options: []
-      required: false
-    - id: 21
-      name: customer_phone
-      label: customer_phone
+      required: true
+    - id: 14
+      name: customer_reward_balance
+      label: Customer's Reward Balance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: customer_total_visits_2
+      label: Customer Total Visits 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: reward_balance
+      label: Reward Balance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: customer_phone_2
+      label: Customer's Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 22
-      name: customer_email
-      label: customer_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: store
-      label: store
+      required: true
+    - id: 18
+      name: store_2
+      label: Store
       hint: null
       type: text
       options: []
-      required: false
-    - id: 24
-      name: customer_address
-      label: customer_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: reward_status
-      label: reward_status
-      hint: null
-      type: select_one
-      options:
-      - pending
-      - awarded
-      - expired
-      required: false
+      required: true

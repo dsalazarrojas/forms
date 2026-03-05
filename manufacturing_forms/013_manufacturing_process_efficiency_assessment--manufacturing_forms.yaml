@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Continuous''}'
-      - '{''id'': 2, ''label'': ''Batch''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Continuous
+      - Batch
+      - Other
       required: true
     - id: 3
       name: production_time
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Quality control''}'
-      - '{''id'': 2, ''label'': ''Production time''}'
-      - '{''id'': 3, ''label'': ''Equipment reliability''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Quality control
+      - Production time
+      - Equipment reliability
+      - Other
       required: true
     - id: 7
       name: process_efficiency
@@ -65,11 +65,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 1}'
-      - '{''id'': 2, ''label'': 2}'
-      - '{''id'': 3, ''label'': 3}'
-      - '{''id'': 4, ''label'': 4}'
-      - '{''id'': 5, ''label'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 9
       name: suggestions

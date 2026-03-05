@@ -22,51 +22,102 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: experience
-      label: Experience
+      name: experience_years
+      label: Years of Experience
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: education
+      name: education_level
       label: Education
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - High School
+      - Bachelor's
+      - Master's
+      - Doctoral
+      required: true
     - id: 4
       name: skills
       label: Skills
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: skills
-      label: Skills
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: education
-      label: Education
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: experience
-      label: Experience
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: nonprofit_fundraising_manager_interview_form
-      label: Nonprofit Fundraising Manager Interview Form
-      hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Grant Writing
+      - Social Media
+      - Event Planning
+      - Volunteer Management
+      - Budgeting
       required: true
+    - id: 5
+      name: communication_method
+      label: Preferred Communication
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person meeting
+      required: true
+    - id: 6
+      name: fundraising_campaigns
+      label: Fundraising Campaigns
+      hint: null
+      type: select_multiple
+      options:
+      - Awareness
+      - Annual
+      - Special Events
+      - Social Media
+      - Grants
+      required: true
+    - id: 7
+      name: contact_person
+      label: Primary Contact
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Board Member
+      - Marketing Manager
+      - Development Director
+      - Volunteer Coordinator
+      required: true
+    - id: 8
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 9
+      name: challenges
+      label: Challenges
+      hint: null
+      type: checkbox
+      options:
+      - Budgeting
+      - Communication
+      - Donor engagement
+      - Time management
+      - Others (please specify)
+      required: false
+    - id: 10
+      name: success_measures
+      label: Success Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: favorite_resources
+      label: Favorite Resource
+      hint: null
+      type: text
+      options: []
+      required: false

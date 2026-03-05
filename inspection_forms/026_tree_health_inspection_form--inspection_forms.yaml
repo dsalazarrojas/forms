@@ -4,185 +4,50 @@ inputSchema:
     title: tree_health_inspection_form
     pages:
     - id: 1
-      name: tree_health_inspection_form_1
-      label: tree_health_inspection
-      hint: null
+      name: tree_health_status
+      label: What is the health status of the tree?
+      hint: Please select the health status of the tree.
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Healthy
+      - Diseased
+      - Dead
+      - Unknown
+      required: true
     - id: 2
-      name: tree_health_inspection_form_2
-      label: tree_health_inspection
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: tree_health_inspection_form_3
-      label: tree_health_inspection
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: tree_health_inspection_form_4
-      label: tree_health_inspection
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: tree_health_inspection_form_5
-      label: tree_health_inspection_date
-      hint: null
+      name: last_inspection_date
+      label: Date of last inspection
+      hint: Please enter the date of the last inspection.
       type: date
       options: []
-      required: false
-    - id: 6
-      name: tree_health_inspection_form_6
-      label: tree_health_inspection_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
-      name: tree_health_inspection_form_7
-      label: tree_health_inspection_form_7_label
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: tree_health_inspection_form_8
-      label: tree_health_inspection_form_8_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: tree_health_inspection_form_9
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: tree_health_inspection_form_10
-      label: tree_health_inspection_form_10_label
-      hint: null
+      required: true
+    - id: 3
+      name: is_tree_healthy
+      label: Was this tree healthy?
+      hint: Please select if this tree is healthy or not.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: tree_health_inspection_form_11
-      label: tree_health_inspection_form_11_label
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: tree_health_inspection_form_12
-      label: tree.reported_problem
-      hint: null
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: inspection_time
+      label: Time of inspection
+      hint: Please enter the time of the inspection.
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: reported_problem
+      label: Reported problem on the tree
+      hint: Please describe any problem found on the tree.
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: problem_description
+      label: Description of the problem
+      hint: Please provide a detailed description of the problem.
       type: text
       options: []
-      required: false
-    - id: 13
-      name: tree_health_inspection_form_13
-      label: tree.reported_problem
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: tree_health_inspection_form_14
-      label: tree_health_inspection_form_14_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: tree_health_inspection_form_15
-      label: tree_health_inspection_form_15_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: tree_health_inspection_form_16
-      label: tree_health_inspection_form_16_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: tree_health_inspection_form_17
-      label: tree_health_inspection_form_17_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: tree_health_inspection_form_18
-      label: tree_health_inspection_form_18_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: tree_health_inspection_form_19
-      label: tree_health_inspection_form_19_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: tree_health_inspection_form_20
-      label: tree_health_inspection_form_20_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: tree_health_inspection_form_21
-      label: tree_health_inspection_form_21_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: tree_health_inspection_form_22
-      label: tree_health_inspection_form_22_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: tree_health_inspection_form_23
-      label: tree_health_inspection_form_23_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: tree_health_inspection_form_24
-      label: tree_health_inspection_form_24_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: tree_health_inspection_form_25
-      label: tree_health_inspection_form_25_label
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

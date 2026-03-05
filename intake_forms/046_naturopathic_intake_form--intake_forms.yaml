@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Migraines and Headaches''}'
-      - '{''id'': 2, ''label'': ''Joint Pain''}'
-      - '{''id'': 3, ''label'': ''Allergies''}'
-      - '{''id'': 4, ''label'': ''Other''}'
-      - '{''id'': 5, ''label'': ''None of the Above''}'
+      - Migraines and Headaches
+      - Joint Pain
+      - Allergies
+      - Other
+      - None of the Above
       required: false
     - id: 4
       name: medication
@@ -119,10 +119,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cash''}'
-      - '{''id'': 2, ''label'': ''Insurance''}'
-      - '{''id'': 3, ''label'': ''Other''}'
-      - '{''id'': 4, ''label'': ''None of the Above''}'
+      - Cash
+      - Insurance
+      - Other
+      - None of the Above
       required: false
     - id: 17
       name: payment_method
@@ -130,10 +130,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Check''}'
-      - '{''id'': 2, ''label'': ''Credit Card''}'
-      - '{''id'': 3, ''label'': ''Other''}'
-      - '{''id'': 4, ''label'': ''EFT (Electronic Funds Transfer)''}'
+      - Check
+      - Credit Card
+      - Other
+      - EFT (Electronic Funds Transfer)
       required: false
     - id: 18
       name: insurance

@@ -4,78 +4,121 @@ inputSchema:
     title: Software Development Assessment
     pages:
     - id: 1
-      name: software_development_assessment_page
-      label: Software Development Assessment
+      name: overview
+      label: Software Development Overview
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: category
-      label: Category
+      name: experience
+      label: Experience
       hint: null
       type: select_one
       options:
-      - IT Forms
-      - Other
-      required: false
+      - Junior
+      - Mid-Level
+      - Senior
+      required: true
     - id: 3
-      name: description
-      label: Description
+      name: languages
+      label: Programming Languages
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Java
+      - Python
+      - C++
+      - C#
+      - JavaScript
+      - SQL
+      required: true
     - id: 4
-      name: software_development_assessment_page_1
-      label: Software Development Assessment
+      name: agile
+      label: Agile Experience
       hint: null
-      type: note
+      type: number
       options: []
       required: false
     - id: 5
-      name: assigned_tool
-      label: Assigned Tool
+      name: tools
+      label: Development Tools
+      hint: null
+      type: select_multiple
+      options:
+      - Eclipse
+      - Visual Studio
+      - IntelliJ
+      - Sublime Text
+      - Atom
+      required: false
+    - id: 6
+      name: frameworks
+      label: Frameworks and Libraries
+      hint: null
+      type: select_multiple
+      options:
+      - Spring
+      - Django
+      - React
+      - Angular
+      - Vue
+      - Express
+      required: false
+    - id: 7
+      name: devops
+      label: DevOps and CI/CD
+      hint: null
+      type: select_multiple
+      options:
+      - Jenkins
+      - Git
+      - Docker
+      - Kubernetes
+      - Nagios
+      - CircleCI
+      required: false
+    - id: 8
+      name: projects
+      label: Project Experience
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
-      name: category_1
-      label: Category
+    - id: 9
+      name: cloud
+      label: Cloud Computing
       hint: null
       type: select_one
       options:
-      - IT Forms
-      - Other
+      - AWS
+      - Azure
+      - Google Cloud
+      - On-premises
       required: false
-    - id: 7
-      name: description_1
-      label: Description
+    - id: 10
+      name: operating_systems
+      label: Operating Systems
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Windows
+      - Linux
+      - macOS
+      - Unix
+      - Solaris
       required: false
-    - id: 8
-      name: software_development_assessment_page_2
-      label: Software Development Assessment
+    - id: 11
+      name: sdlc
+      label: Software Development Life Cycle (SDLC)
       hint: null
       type: note
       options: []
       required: false
-    - id: 9
-      name: category_2
-      label: Category
+    - id: 12
+      name: comments
+      label: Comments
       hint: null
-      type: select_one
-      options:
-      - IT Forms
-      - Other
-      required: false
-    - id: 10
-      name: description_2
-      label: Description
-      hint: null
-      type: text
+      type: note
       options: []
       required: false

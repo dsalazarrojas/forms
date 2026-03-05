@@ -35,14 +35,14 @@ inputSchema:
       required: false
     - id: 5
       name: loan_term_options
-      label: Loan Term
+      label: Loan Term Options
       hint: null
       type: select_one
       options:
-      - '{''label'': ''One Month''}'
-      - '{''label'': ''Three Months''}'
-      - '{''label'': ''Six Months''}'
-      - '{''label'': ''Twelve Months''}'
+      - One Month
+      - Three Months
+      - Six Months
+      - Twelve Months
       required: false
     - id: 6
       name: loan_interest_rate
@@ -50,23 +50,23 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''5.5%''}'
-      - '{''label'': ''6.5%''}'
-      - '{''label'': ''7.5%''}'
-      - '{''label'': ''8.5%''}'
-      - '{''label'': ''9.5%''}'
+      - 5.5%
+      - 6.5%
+      - 7.5%
+      - 8.5%
+      - 9.5%
       required: false
     - id: 7
       name: loan_interest_rate_options
-      label: Loan Interest Rate
+      label: Loan Interest Rate Options
       hint: null
       type: select_one
       options:
-      - '{''label'': ''5.5%''}'
-      - '{''label'': ''6.5%''}'
-      - '{''label'': ''7.5%''}'
-      - '{''label'': ''8.5%''}'
-      - '{''label'': ''9.5%''}'
+      - 5.5%
+      - 6.5%
+      - 7.5%
+      - 8.5%
+      - 9.5%
       required: false
     - id: 8
       name: manager_approval
@@ -79,12 +79,12 @@ inputSchema:
       required: false
     - id: 9
       name: manager_approval_options
-      label: Manager Approval
+      label: Manager Approval Options
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Approve''}'
-      - '{''label'': ''Disapprove''}'
+      - Approve
+      - Disapprove
       required: false
     - id: 10
       name: employee_signature

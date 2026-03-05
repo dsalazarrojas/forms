@@ -1,78 +1,67 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: CRM Setup Guide
     pages:
-      - id: 1
-        name: organization_name
-        label: Organization name
-        hint: Name of company or team
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: it_contact
-        label: IT contact name
-        hint: Responsible technical contact
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: contact_email
-        label: Contact email
-        hint: Email for setup notifications
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: preferred_crm_features
-        label: Preferred CRM features
-        hint: Select features required
-        type: select_multiple
-        options:
-          - Contact management
-          - Workflow automation
-          - Reporting
-          - Integrations
-        required: true
-      - id: 5
-        name: data_migration_needed
-        label: Is data migration required
-        hint: Will historical data be imported
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 6
-        name: integrations_required
-        label: Integrations required
-        hint: List external systems briefly
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: security_requirements
-        label: Security and compliance requirements
-        hint: E g encryption or SSO
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: go_live_date
-        label: Target go live date
-        hint: Desired production date
-        type: date
-        options: []
-        required: false
+    - id: 1
+      name: organization_name
+      label: Organization name
+      hint: Name of company or team
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: it_contact
+      label: IT contact name
+      hint: Responsible technical contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for setup notifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: preferred_crm_features
+      label: Preferred CRM features
+      hint: Select features required
+      type: select_multiple
+      options:
+      - Contact management
+      - Workflow automation
+      - Reporting
+      - Integrations
+      required: true
+    - id: 5
+      name: data_migration_needed
+      label: Is data migration required
+      hint: Will historical data be imported
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: integrations_required
+      label: Integrations required
+      hint: List external systems briefly
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: security_requirements
+      label: Security and compliance requirements
+      hint: E g encryption or SSO
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: go_live_date
+      label: Target go live date
+      hint: Desired production date
+      type: date
+      options: []
+      required: false

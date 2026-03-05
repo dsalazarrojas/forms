@@ -79,14 +79,10 @@ inputSchema:
       hint: Select your preferred car category
       type: select_one
       options:
-      - label: Economy (Small)
-        value: economy
-      - label: Compact (Medium)
-        value: compact
-      - label: SUV (Large)
-        value: suv
-      - label: Luxury
-        value: luxury
+      - Economy (Small)
+      - Compact (Medium)
+      - SUV (Large)
+      - Luxury
       required: true
     - id: 12
       name: insurance_selection
@@ -94,12 +90,9 @@ inputSchema:
       hint: Choose your coverage level
       type: select_one
       options:
-      - label: Full Coverage (Standard)
-        value: full
-      - label: Basic Liability
-        value: basic
-      - label: Decline Insurance (Personal Policy)
-        value: decline
+      - Full Coverage (Standard)
+      - Basic Liability
+      - Decline Insurance (Personal Policy)
       required: true
     - id: 13
       name: additional_equipment
@@ -107,12 +100,9 @@ inputSchema:
       hint: Select any extras you require
       type: select_multiple
       options:
-      - label: GPS Navigation
-        value: gps
-      - label: Child Safety Seat
-        value: car_seat
-      - label: Roadside Assistance Kit
-        value: roadside
+      - GPS Navigation
+      - Child Safety Seat
+      - Roadside Assistance Kit
       required: false
     - id: 14
       name: acknowledgement
@@ -120,7 +110,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Yes, I certify
-        value: true
+      - Yes, I certify
       - Other
       required: true

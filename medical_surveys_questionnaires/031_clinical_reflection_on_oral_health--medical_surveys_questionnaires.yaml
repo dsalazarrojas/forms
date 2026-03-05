@@ -1,121 +1,115 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Clinical Reflection On Oral Health
     pages:
-      - id: 1
-        name: clinician_name
-        label: Student or Clinician Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: encounter_date
-        label: Date of Clinical Encounter
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: section_case_summary
-        label: -- Patient Case Summary --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 4
-        name: case_id
-        label: Case ID or Patient Initials
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: oral_health_condition
-        label: Primary Oral Health Condition
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: treatment_performed
-        label: Clinical Treatment Performed
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: section_reflection
-        label: -- Clinical Reflection --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: success_reflection
-        label: What went well during this encounter?
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: challenge_reflection
-        label: What were the main challenges you faced?
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: technique_rating
-        label: How would you rate your clinical technique today?
-        hint: 1 - Poor to 5 - Excellent
-        type: select_one
-        options: [1, 2, 3, 4, 5]
-        required: true
-      - id: 11
-        name: section_learning
-        label: -- Learning and Development --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: key_learning_point
-        label: Key learning point from this specific case
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: future_improvement
-        label: One thing you will do differently in future similar cases
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: supervisory_feedback
-        label: Summary of supervisory feedback received
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: signature
-        label: Digital Signature - Type Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: clinician_name
+      label: Student or Clinician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: encounter_date
+      label: Date of Clinical Encounter
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: section_case_summary
+      label: -- Patient Case Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: case_id
+      label: Case ID or Patient Initials
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: oral_health_condition
+      label: Primary Oral Health Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: treatment_performed
+      label: Clinical Treatment Performed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_reflection
+      label: -- Clinical Reflection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: success_reflection
+      label: What went well during this encounter?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: challenge_reflection
+      label: What were the main challenges you faced?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: technique_rating
+      label: How would you rate your clinical technique today?
+      hint: 1 - Poor to 5 - Excellent
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 11
+      name: section_learning
+      label: -- Learning and Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: key_learning_point
+      label: Key learning point from this specific case
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: future_improvement
+      label: One thing you will do differently in future similar cases
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: supervisory_feedback
+      label: Summary of supervisory feedback received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: signature
+      label: Digital Signature - Type Full Name
+      hint: null
+      type: text
+      options: []
+      required: true

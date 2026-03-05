@@ -94,7 +94,7 @@ inputSchema:
       - Yes - Active
       - Yes - Expired
       - In Training
-      - false
+      - 'False'
       required: true
     - id: 12
       name: license_number
@@ -154,7 +154,7 @@ inputSchema:
       options:
       - Yes - Will Bring
       - Yes - Online
-      - false
+      - 'False'
       required: true
     - id: 18
       name: portfolio_link
@@ -183,8 +183,8 @@ inputSchema:
       hint: Can you provide references
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: resume_attached
@@ -192,6 +192,6 @@ inputSchema:
       hint: Did you attach resume
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true

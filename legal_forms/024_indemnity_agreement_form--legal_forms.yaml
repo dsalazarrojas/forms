@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Service''}'
-      - '{''id'': 2, ''label'': ''Product''}'
+      - Service
+      - Product
       required: false
     - id: 5
       name: liability_clause
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Unlimited''}'
-      - '{''id'': 2, ''label'': ''Limited''}'
-      - '{''id'': 3, ''label'': ''Specified''}'
+      - Unlimited
+      - Limited
+      - Specified
       required: false
     - id: 6
       name: indemnification_period
@@ -56,8 +56,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''A''}'
-      - '{''id'': 2, ''label'': ''B''}'
+      - A
+      - B
       required: false
     - id: 8
       name: coverage_amount
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Written Notice''}'
-      - '{''id'': 2, ''label'': ''Verbal Notice''}'
+      - Written Notice
+      - Verbal Notice
       required: false
     - id: 12
       name: notice_deadline
@@ -116,8 +116,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Online Payment''}'
-      - '{''id'': 2, ''label'': ''Offline Payment''}'
+      - Online Payment
+      - Offline Payment
       required: false
     - id: 16
       name: payment_deadline
@@ -139,8 +139,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Written Notification''}'
-      - '{''id'': 2, ''label'': ''Verbal Notification''}'
+      - Written Notification
+      - Verbal Notification
       required: false
     - id: 19
       name: termination_clause
@@ -148,8 +148,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Unlimited''}'
-      - '{''id'': 2, ''label'': ''Specified''}'
+      - Unlimited
+      - Specified
       required: false
     - id: 20
       name: termination_type
@@ -157,8 +157,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Upon Written Notice''}'
-      - '{''id'': 2, ''label'': ''Upon Verbal Notice''}'
+      - Upon Written Notice
+      - Upon Verbal Notice
       required: false
     - id: 21
       name: termination_date
@@ -173,8 +173,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Written Agreement''}'
-      - '{''id'': 2, ''label'': ''Verbal Agreement''}'
+      - Written Agreement
+      - Verbal Agreement
       required: false
     - id: 23
       name: termination_period
@@ -189,8 +189,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Exclusive''}'
-      - '{''id'': 2, ''label'': ''Non-Exclusive''}'
+      - Exclusive
+      - Non-Exclusive
       required: false
     - id: 25
       name: contract_period

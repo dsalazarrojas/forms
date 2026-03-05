@@ -4,240 +4,107 @@ inputSchema:
     title: Medical Procedure Knowledge Quiz
     pages:
     - id: 1
-      name: medical_procedure_knowledge_quiz
-      label: Medical Procedures Quiz
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 2
-      name: question_1
+      name: medical_procedure_knowledge_quiz_specialty
       label: What is your specialty?
       hint: null
       type: select_one
       options:
-      - '{''option1'': ''Cardiology''}'
-      - '{''option2'': ''Dermatology''}'
-      - '{''option3'': ''Gastroenterology''}'
-      - '{''option4'': ''Nephrology''}'
-      required: false
+      - Cardiology
+      - Dermatology
+      - Gastroenterology
+      - Nephrology
+      required: true
+    - id: 2
+      name: medical_procedure_knowledge_quiz_procedures
+      label: What medical procedures do you perform most often?
+      hint: null
+      type: select_multiple
+      options:
+      - Blood test
+      - Biopsy
+      - MRI scan
+      - CT scan
+      - X-ray
+      - Endoscopy
+      required: true
     - id: 3
-      name: question_2
+      name: medical_procedure_knowledge_quiz_license_number
       label: What is your medical license number?
       hint: null
-      type: number
+      type: text
       options: []
       required: true
     - id: 4
-      name: question_3
-      label: Select medical procedures
-      hint: Select all that apply
+      name: medical_procedure_knowledge_quiz_hospital_affiliation
+      label: What is your hospital affiliation?
+      hint: null
+      type: select_one
+      options:
+      - Hospital 1
+      - Hospital 2
+      - Hospital 3
+      - Hospital 4
+      required: true
+    - id: 5
+      name: medical_procedure_knowledge_quiz_equipment
+      label: What type of medical equipment do you have access to?
+      hint: null
       type: select_multiple
       options:
-      - '{''option1'': ''Blood test''}'
-      - '{''option2'': ''Biopsy''}'
-      - '{''option3'': ''MRI scan''}'
-      - '{''option4'': ''CT scan''}'
-      - '{''option5'': ''X-ray''}'
-      - '{''option6'': ''Endoscopy''}'
+      - Ultrasound machines
+      - ECG machine
+      - Blood analyzer
       required: false
-    - id: 5
-      name: medical_procedure_knowledge_quiz_note
+    - id: 6
+      name: medical_procedure_knowledge_quiz_experience
+      label: How long have you been working in the medical field?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 7
+      name: medical_procedure_knowledge_quiz_notes
       label: Additional comments or notes
-      hint: Please add any additional comments or notes
+      hint: null
       type: note
       options: []
       required: false
-    - id: 6
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
     - id: 8
-      name: email
-      label: Email
+      name: question_8
+      label: What is your phone number?
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 9
-      name: phone
-      label: Phone
+      name: question_9
+      label: What is your email?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: question_4
-      label: What is your medical school?
-      hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''University of Medicine 1''}'
-      - '{''option2'': ''University of Medicine 2''}'
-      - '{''option3'': ''University of Medicine 3''}'
-      required: false
-    - id: 11
-      name: question_5
-      label: What is your hospital affiliation?
-      hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''Hospital 1''}'
-      - '{''option2'': ''Hospital 2''}'
-      - '{''option3'': ''Hospital 3''}'
-      - '{''option4'': ''Hospital 4''}'
-      required: false
-    - id: 12
-      name: question_6
-      label: What type of medical equipment do you have access to?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Ultrasound machines''}'
-      - '{''option2'': ''ECG machine''}'
-      - '{''option3'': ''Blood analyzer''}'
-      required: false
-    - id: 13
-      name: question_7
-      label: What is your role?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Doctor''}'
-      - '{''option2'': ''Nurse''}'
-      - '{''option3'': ''Technician''}'
-      required: false
-    - id: 14
-      name: question_8
-      label: How long have you been working in the medical field?
-      hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''Less than 1 year''}'
-      - '{''option2'': ''1-5 years''}'
-      - '{''option3'': ''5-10 years''}'
-      - '{''option4'': ''More than 10 years''}'
-      required: false
-    - id: 15
-      name: question_9
-      label: What medical procedures do you perform most often?
-      hint: Select all that apply
-      type: select_multiple
-      options:
-      - '{''option1'': ''Blood test''}'
-      - '{''option2'': ''Biopsy''}'
-      - '{''option3'': ''MRI scan''}'
-      - '{''option4'': ''CT scan''}'
-      - '{''option5'': ''X-ray''}'
-      - '{''option6'': ''Endoscopy''}'
-      required: false
-    - id: 16
       name: question_10
-      label: Additional comments or notes
-      hint: Please add any additional comments or notes
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: question_11
-      label: Date
+      label: What is your date of birth?
       hint: null
       type: date
       options: []
       required: false
-    - id: 18
-      name: question_12
-      label: Time
+    - id: 11
+      name: question_11
+      label: What is your time of birth?
       hint: null
       type: time
       options: []
       required: false
-    - id: 19
-      name: question_13
-      label: Email
+    - id: 12
+      name: question_12
+      label: Question 12
       hint: null
-      type: email
+      type: note
       options: []
-      required: false
-    - id: 20
-      name: question_14
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: question_15
-      label: What is your medical school?
-      hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''University of Medicine 1''}'
-      - '{''option2'': ''University of Medicine 2''}'
-      - '{''option3'': ''University of Medicine 3''}'
-      required: false
-    - id: 22
-      name: question_16
-      label: What is your hospital affiliation?
-      hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''Hospital 1''}'
-      - '{''option2'': ''Hospital 2''}'
-      - '{''option3'': ''Hospital 3''}'
-      - '{''option4'': ''Hospital 4''}'
-      required: false
-    - id: 23
-      name: question_17
-      label: What type of medical equipment do you have access to?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Ultrasound machines''}'
-      - '{''option2'': ''ECG machine''}'
-      - '{''option3'': ''Blood analyzer''}'
-      required: false
-    - id: 24
-      name: question_18
-      label: What is your role?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Doctor''}'
-      - '{''option2'': ''Nurse''}'
-      - '{''option3'': ''Technician''}'
-      required: false
-    - id: 25
-      name: question_19
-      label: How long have you been working in the medical field?
-      hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''Less than 1 year''}'
-      - '{''option2'': ''1-5 years''}'
-      - '{''option3'': ''5-10 years''}'
-      - '{''option4'': ''More than 10 years''}'
-      required: false
-    - id: 26
-      name: question_20
-      label: What medical procedures do you perform most often?
-      hint: Select all that apply
-      type: select_multiple
-      options:
-      - '{''option1'': ''Blood test''}'
-      - '{''option2'': ''Biopsy''}'
-      - '{''option3'': ''MRI scan''}'
-      - '{''option4'': ''CT scan''}'
-      - '{''option5'': ''X-ray''}'
-      - '{''option6'': ''Endoscopy''}'
       required: false

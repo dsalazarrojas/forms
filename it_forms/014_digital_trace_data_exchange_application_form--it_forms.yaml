@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -56,8 +45,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''label'': ''Disagree'', ''value'': ''disagree''}'
+      - Agree
+      - Disagree
       required: false
     - id: 7
       name: contact_info_confirmation
@@ -65,8 +54,8 @@ inputSchema:
       hint: Confirm that the above contact details are correct
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: data_request_confirmation
@@ -74,8 +63,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''label'': ''Disagree'', ''value'': ''disagree''}'
+      - Agree
+      - Disagree
       required: false
     - id: 9
       name: contact_info_verification
@@ -83,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''label'': ''Disagree'', ''value'': ''disagree''}'
+      - Agree
+      - Disagree
       required: false
     - id: 10
       name: terms_of_service
@@ -92,6 +81,6 @@ inputSchema:
       hint: I understand and agree to the terms of service
       type: select_one
       options:
-      - '{''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''label'': ''Disagree'', ''value'': ''disagree''}'
+      - Agree
+      - Disagree
       required: false

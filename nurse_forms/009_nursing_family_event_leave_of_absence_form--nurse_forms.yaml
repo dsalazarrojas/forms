@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Family Event'', ''value'': ''family_event''}'
-      - '{''id'': 2, ''label'': ''Other Event'', ''value'': ''other_event''}'
+      - Family Event
+      - Other Event
       required: false
     - id: 3
       name: event_details
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Approved'', ''value'': ''approved''}'
-      - '{''id'': 2, ''label'': ''Denied'', ''value'': ''denied''}'
-      - '{''id'': 3, ''label'': ''Pending'', ''value'': ''pending''}'
+      - Approved
+      - Denied
+      - Pending
       required: true
     - id: 12
       name: approver_signature
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Supervisor'', ''value'': ''supervisor''}'
-      - '{''id'': 2, ''label'': ''Manager'', ''value'': ''manager''}'
-      - '{''id'': 3, ''label'': ''Director'', ''value'': ''director''}'
+      - Supervisor
+      - Manager
+      - Director
       required: true
     - id: 15
       name: approver_email
@@ -171,10 +171,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Manager'', ''value'': ''manager''}'
-      - '{''id'': 2, ''label'': ''Team Lead'', ''value'': ''team_lead''}'
-      - '{''id'': 3, ''label'': ''Director'', ''value'': ''director''}'
-      - '{''id'': 4, ''label'': ''Administrator'', ''value'': ''administrator''}'
+      - Manager
+      - Team Lead
+      - Director
+      - Administrator
       required: false
     - id: 24
       name: approver_designation_other
@@ -189,8 +189,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pending'', ''value'': ''pending''}'
-      - '{''id'': 2, ''label'': ''Approved'', ''value'': ''approved''}'
-      - '{''id'': 3, ''label'': ''Rejected'', ''value'': ''rejected''}'
-      - '{''id'': 4, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - Pending
+      - Approved
+      - Rejected
+      - In Progress
       required: true

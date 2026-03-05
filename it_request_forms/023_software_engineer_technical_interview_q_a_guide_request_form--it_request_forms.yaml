@@ -6,64 +6,39 @@ inputSchema:
     - id: 1
       name: form_title
       label: Form Title
-      hint: null
+      hint: A concise title for the guide.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
       name: description
       label: Description
-      hint: Provide a brief description of your request.
+      hint: Brief description of the request.
       type: text
       options: []
-      required: false
-    - id: 4
-      name: form_category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - IT Request Forms
-      - Other
-      required: false
-    - id: 5
-      name: form_description
-      label: Description
-      hint: Provide a brief description of your request.
-      type: text
-      options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 3
       name: email
       label: Email
       hint: Please enter a valid email address.
       type: email
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 4
       name: phone
       label: Phone
-      hint: null
+      hint: A phone number for the submitter (optional).
       type: text
       options: []
       required: false
-    - id: 8
+    - id: 5
       name: submitted_by
       label: Submitted By
-      hint: null
+      hint: Name of the submitter.
       type: text
       options: []
       required: true
-    - id: 9
+    - id: 6
       name: assigned_tool
       label: Assigned Tool
       hint: null
@@ -72,65 +47,28 @@ inputSchema:
       - chatjimmy
       - chatjimmy (test)
       required: true
-    - id: 10
+    - id: 7
       name: form_id
       label: Form ID
-      hint: null
+      hint: A unique identifier for the form.
       type: number
       options: []
       required: true
-    - id: 11
-      name: output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: output_name
-      label: Output Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: output_path
-      label: Output Path
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
+    - id: 8
       name: submitted_at
       label: Submitted At
-      hint: null
+      hint: Date and time of submission (will be auto-filled).
       type: date
       options: []
       required: false
-    - id: 16
+    - id: 9
       name: submitted_to
       label: Submitted To
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: submitted_by
-      label: Submitted By
-      hint: null
+      hint: Name of the person submitted to.
       type: text
       options: []
       required: false
-    - id: 18
+    - id: 10
       name: form_category
       label: Category
       hint: null
@@ -139,52 +77,24 @@ inputSchema:
       - IT Request Forms
       - Other
       required: true
-    - id: 19
-      name: description
-      label: Description
-      hint: null
+    - id: 11
+      name: output_file
+      label: Output File
+      hint: A file generated for the submission.
       type: text
       options: []
       required: true
-    - id: 20
-      name: form_title
-      label: Form Title
-      hint: null
+    - id: 12
+      name: output_name
+      label: Output Name
+      hint: Name of the output file.
       type: text
       options: []
-      required: false
-    - id: 21
-      name: form_title
-      label: Form Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: submitted_to
-      label: Submitted To
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: category
-      label: Category
-      hint: null
+      required: true
+    - id: 13
+      name: output_path
+      label: Output Path
+      hint: Path where the output file is located.
       type: text
       options: []
       required: false

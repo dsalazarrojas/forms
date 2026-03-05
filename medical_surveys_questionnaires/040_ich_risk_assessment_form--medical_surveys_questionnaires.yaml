@@ -79,10 +79,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Low''}'
-      - '{''id'': 2, ''label'': ''Moderate''}'
-      - '{''id'': 3, ''label'': ''High''}'
-      - '{''id'': 4, ''label'': ''Critical''}'
+      - Low
+      - Moderate
+      - High
+      - Critical
       required: true
     - id: 12
       name: submit_button
@@ -90,7 +90,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Save and submit''}'
-      - '{''id'': 2, ''label'': ''Save''}'
-      - '{''id'': 3, ''label'': ''Reset''}'
+      - Save and submit
+      - Save
+      - Reset
       required: true

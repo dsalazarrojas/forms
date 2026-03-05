@@ -1,86 +1,75 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Business Insurance Renewal Form
     pages:
-      - id: 1
-        name: header
-        label: -- Renewal Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: policy_holder
-        label: Policy holder
-        hint: Business name on the policy
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: policy_number
-        label: Policy number
-        hint: Existing policy identifier
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: renewal_date
-        label: Renewal date
-        hint: Date when policy renews
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: changes_required
-        label: Changes required
-        hint: Select if coverage changes are needed
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 6
-        name: requested_changes
-        label: Requested changes
-        hint: Describe any requested modifications
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: updated_contact_details
-        label: Updated contact details
-        hint: Provide any changes to contact info
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: billing_preference
-        label: Billing preference
-        hint: How you prefer to be billed for renewal
-        type: select_one
-        options:
-          - Annual
-          - Monthly
-          - Quarterly
-        required: false
-      - id: 9
-        name: agree_to_renewal
-        label: Agree to renewal terms
-        hint: Confirm acceptance of renewal terms
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
+    - id: 1
+      name: header
+      label: -- Renewal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_holder
+      label: Policy holder
+      hint: Business name on the policy
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_number
+      label: Policy number
+      hint: Existing policy identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: renewal_date
+      label: Renewal date
+      hint: Date when policy renews
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: changes_required
+      label: Changes required
+      hint: Select if coverage changes are needed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: requested_changes
+      label: Requested changes
+      hint: Describe any requested modifications
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: updated_contact_details
+      label: Updated contact details
+      hint: Provide any changes to contact info
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: billing_preference
+      label: Billing preference
+      hint: How you prefer to be billed for renewal
+      type: select_one
+      options:
+      - Annual
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 9
+      name: agree_to_renewal
+      label: Agree to renewal terms
+      hint: Confirm acceptance of renewal terms
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

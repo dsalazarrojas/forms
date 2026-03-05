@@ -1,182 +1,171 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Antitrust Policy Acknowledgment
     pages:
-      - id: 1
-        name: acknowledgment_date
-        label: Date of acknowledgment
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 2
-        name: employee_name
-        label: Employee or stakeholder full name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: employee_id
-        label: Employee ID number
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: department
-        label: Department or division
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: position_title
-        label: Position or job title
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: manager_name
-        label: Direct manager or supervisor
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: policy_version
-        label: Antitrust policy version reviewed
-        hint: Version number or date
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: policy_receipt_date
-        label: Date policy was provided
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 9
-        name: policy_read_confirmation
-        label: I have read and understood the antitrust policy
-        hint: null
-        type: select_one
-        options:
-          - Yes, fully read and understood
-          - Yes, read most of it
-          - I have reviewed it
-          - No
-        required: true
-      - id: 10
-        name: training_completed
-        label: Have you completed antitrust compliance training?
-        hint: null
-        type: select_one
-        options:
-          - Yes, completed recently
-          - Yes, completed previously
-          - No, but scheduled
-          - No
-        required: true
-      - id: 11
-        name: training_date
-        label: Date of most recent training
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 12
-        name: key_principles_understanding
-        label: I understand the key antitrust principles
-        hint: Including prohibited conduct
-        type: select_one
-        options:
-          - Yes, completely understand
-          - Yes, mostly understand
-          - Somewhat understand
-          - Do not understand
-        required: true
-      - id: 13
-        name: policy_agreement
-        label: I agree to comply with the antitrust policy
-        hint: null
-        type: select_one
-        options:
-          - Yes, I agree
-          - No, I do not agree
-        required: true
-      - id: 14
-        name: violation_reporting
-        label: I understand how to report potential violations
-        hint: null
-        type: select_one
-        options:
-          - Yes, clear on reporting procedures
-          - Yes, somewhat clear
-          - No, unclear
-        required: true
-      - id: 15
-        name: acknowledgment_understanding
-        label: I understand this acknowledgment is required for compliance
-        hint: null
-        type: select_one
-        options:
-          - Yes, understood
-          - Yes, but have questions
-          - No
-        required: true
-      - id: 16
-        name: questions_about_policy
-        label: Do you have any questions about the policy?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 17
-        name: questions_details
-        label: If yes, please describe your questions
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 18
-        name: document_retention
-        label: I understand this acknowledgment will be retained in my file
-        hint: null
-        type: select_one
-        options:
-          - Yes, understood
-          - No
-        required: true
-      - id: 19
-        name: legal_acknowledgment
-        label: This acknowledgment serves as my signature confirming receipt and understanding
-        hint: null
-        type: select_one
-        options:
-          - Yes, I acknowledge
-          - No
-        required: true
-      - id: 20
-        name: supervisor_signature_date
-        label: Supervisor has reviewed and documented
-        hint: Supervisor acknowledgment date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: acknowledgment_date
+      label: Date of acknowledgment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee or stakeholder full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department or division
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_title
+      label: Position or job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Direct manager or supervisor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: policy_version
+      label: Antitrust policy version reviewed
+      hint: Version number or date
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: policy_receipt_date
+      label: Date policy was provided
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: policy_read_confirmation
+      label: I have read and understood the antitrust policy
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully read and understood
+      - Yes, read most of it
+      - I have reviewed it
+      - 'False'
+      required: true
+    - id: 10
+      name: training_completed
+      label: Have you completed antitrust compliance training?
+      hint: null
+      type: select_one
+      options:
+      - Yes, completed recently
+      - Yes, completed previously
+      - No, but scheduled
+      - 'False'
+      required: true
+    - id: 11
+      name: training_date
+      label: Date of most recent training
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: key_principles_understanding
+      label: I understand the key antitrust principles
+      hint: Including prohibited conduct
+      type: select_one
+      options:
+      - Yes, completely understand
+      - Yes, mostly understand
+      - Somewhat understand
+      - Do not understand
+      required: true
+    - id: 13
+      name: policy_agreement
+      label: I agree to comply with the antitrust policy
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 14
+      name: violation_reporting
+      label: I understand how to report potential violations
+      hint: null
+      type: select_one
+      options:
+      - Yes, clear on reporting procedures
+      - Yes, somewhat clear
+      - No, unclear
+      required: true
+    - id: 15
+      name: acknowledgment_understanding
+      label: I understand this acknowledgment is required for compliance
+      hint: null
+      type: select_one
+      options:
+      - Yes, understood
+      - Yes, but have questions
+      - 'False'
+      required: true
+    - id: 16
+      name: questions_about_policy
+      label: Do you have any questions about the policy?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: questions_details
+      label: If yes, please describe your questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: document_retention
+      label: I understand this acknowledgment will be retained in my file
+      hint: null
+      type: select_one
+      options:
+      - Yes, understood
+      - 'False'
+      required: true
+    - id: 19
+      name: legal_acknowledgment
+      label: This acknowledgment serves as my signature confirming receipt and understanding
+      hint: null
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - 'False'
+      required: true
+    - id: 20
+      name: supervisor_signature_date
+      label: Supervisor has reviewed and documented
+      hint: Supervisor acknowledgment date
+      type: date
+      options: []
+      required: true

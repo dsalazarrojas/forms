@@ -30,10 +30,10 @@ inputSchema:
       hint: What is your company's primary goal?
       type: select_one
       options:
-      - '{''id'': 11, ''label'': ''Increase revenue''}'
-      - '{''id'': 12, ''label'': ''Acquire new customers''}'
-      - '{''id'': 13, ''label'': ''Improve customer experience''}'
-      - '{''id'': 14, ''label'': ''Other''}'
+      - Increase revenue
+      - Acquire new customers
+      - Improve customer experience
+      - Other
       required: false
     - id: 5
       name: ai_interest
@@ -69,10 +69,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 15, ''label'': ''AI-powered loyalty programs''}'
-      - '{''id'': 16, ''label'': ''AI-driven customer experience''}'
-      - '{''id'': 17, ''label'': ''AI-based loyalty programs''}'
-      - '{''id'': 18, ''label'': ''Other (please specify)''}'
+      - AI-powered loyalty programs
+      - AI-driven customer experience
+      - AI-based loyalty programs
+      - Other (please specify)
       required: false
     - id: 10
       name: additional_info
@@ -94,9 +94,9 @@ inputSchema:
       hint: Which SaaS provider are you using?
       type: select_one
       options:
-      - '{''id'': 21, ''label'': ''Adobe''}'
-      - '{''id'': 22, ''label'': ''HubSpot''}'
-      - '{''id'': 23, ''label'': ''Other (please specify)''}'
+      - Adobe
+      - HubSpot
+      - Other (please specify)
       required: false
     - id: 13
       name: company_size
@@ -104,8 +104,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 25, ''label'': ''1-10 employees''}'
-      - '{''id'': 26, ''label'': ''11-50 employees''}'
-      - '{''id'': 27, ''label'': ''51-100 employees''}'
-      - '{''id'': 28, ''label'': ''101+ employees''}'
+      - 1-10 employees
+      - 11-50 employees
+      - 51-100 employees
+      - 101+ employees
       required: false

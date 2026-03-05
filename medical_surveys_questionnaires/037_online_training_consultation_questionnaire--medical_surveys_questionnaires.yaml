@@ -15,207 +15,59 @@ inputSchema:
     title: Online Training Consultation Questionnaire
     pages:
     - id: 1
-      name: online_training_consultation_questionnaire
-      label: Online Training Consultation Questionnaire
+      name: primary_reason_for_training
+      label: What is the primary reason for the online training consultation?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Improve my skills
+      - Meet a certification requirement
+      - Advance my career
+      - Other (please specify)
+      - Personal development
+      required: true
     - id: 2
-      name: progress_report
-      label: Progress Report
+      name: short_term_goals
+      label: What are your short-term goals for the training?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: goals
-      label: Goals
+      name: long_term_goals
+      label: What are your long-term goals for the training?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: training_plan
-      label: Training Plan
+      name: achieve_goals
+      label: How will you achieve your short-term and long-term goals?
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 5
-      name: progress_notes
-      label: Progress Notes
+      name: medical_clearance
+      label: Have you received any medical clearance for the training?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 6
-      name: goals
-      label: Goals
+      name: health_details
+      label: What are your health details (e.g., medications, allergies, injuries,
+        etc.)?
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 7
-      name: medical_clearing
-      label: Medical Clearance
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 8
-      name: health_details
-      label: Health Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: health_details
-      label: Health Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: goals
-      label: Goals
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: training_plan
-      label: Training Plan
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 12
       name: progress_report
-      label: Progress Report
+      label: What is your current progress report?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: training_plan
-      label: Training Plan
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 14
-      name: training_plan
-      label: Training Plan
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 15
-      name: progress_report
-      label: Progress Report
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: progress_report
-      label: Progress Report
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: health_details
-      label: Health Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: medical_clearing
-      label: Medical Clearance
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 19
-      name: goals
-      label: Goals
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: training_plan
-      label: Training Plan
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: progress_report
-      label: Progress Report
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: progress_notes
-      label: Progress Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: medical_clearing
-      label: Medical Clearance
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 24
-      name: progress_report
-      label: Progress Report
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: training_plan
-      label: Training Plan
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
+      required: true

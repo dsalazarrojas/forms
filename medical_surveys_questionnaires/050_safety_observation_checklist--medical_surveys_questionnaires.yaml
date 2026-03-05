@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Direct Observation''}'
-      - '{''label'': ''Review of Record''}'
-      - '{''label'': ''Both''}'
+      - Direct Observation
+      - Review of Record
+      - Both
       required: false
     - id: 3
       name: patient_information
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Conducted''}'
-      - '{''label'': ''Not Conducted''}'
-      - '{''label'': ''Not Applicable''}'
+      - Conducted
+      - Not Conducted
+      - Not Applicable
       required: false
     - id: 5
       name: vital_signs
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not Applicable''}'
+      - 'True'
+      - 'False'
+      - Not Applicable
       required: false
     - id: 7
       name: vital_signs_trend
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not Applicable''}'
+      - 'True'
+      - 'False'
+      - Not Applicable
       required: false
     - id: 9
       name: medication_status
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Administered''}'
-      - '{''label'': ''Not Administered''}'
-      - '{''label'': ''Not Applicable''}'
+      - Administered
+      - Not Administered
+      - Not Applicable
       required: false
     - id: 10
       name: patient_condition
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Stable''}'
-      - '{''label'': ''Unstable''}'
-      - '{''label'': ''Not Applicable''}'
+      - Stable
+      - Unstable
+      - Not Applicable
       required: false
     - id: 11
       name: patient_risks
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Stable''}'
-      - '{''label'': ''Unstable''}'
-      - '{''label'': ''Not Applicable''}'
+      - Stable
+      - Unstable
+      - Not Applicable
       required: false
     - id: 12
       name: patient_care
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Complete''}'
-      - '{''label'': ''Not Started''}'
+      - In Progress
+      - Complete
+      - Not Started
       required: false
     - id: 13
       name: patient_status
@@ -117,10 +117,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Stable''}'
-      - '{''label'': ''Stable''}'
-      - '{''label'': ''Unstable''}'
-      - '{''label'': ''Not Applicable''}'
+      - Stable
+      - Unstable
+      - Not Applicable
       required: false
     - id: 14
       name: patient_condition_trend

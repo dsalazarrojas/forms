@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Yes''}'
-      - '{''id'': 2, ''label'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 3
       name: lawyer_fee
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Online''}'
-      - '{''id'': 2, ''label'': ''In-person''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Online
+      - In-person
+      - Other
       required: false
     - id: 5
       name: client_signature

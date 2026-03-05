@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -76,11 +65,11 @@ inputSchema:
       hint: What type of ID you have
       type: select_one
       options:
-        - Driver License
-        - Passport
-        - State ID
-        - Military ID
-        - Other Government ID
+      - Driver License
+      - Passport
+      - State ID
+      - Military ID
+      - Other Government ID
       required: true
     - id: 10
       name: cert_id_number
@@ -109,9 +98,9 @@ inputSchema:
       hint: You meet the eligibility requirements
       type: select_one
       options:
-        - Yes, I meet all criteria
-        - I partially meet criteria
-        - I do not meet criteria
+      - Yes, I meet all criteria
+      - I partially meet criteria
+      - I do not meet criteria
       required: true
     - id: 14
       name: cert_eligibility_reason
@@ -119,12 +108,12 @@ inputSchema:
       hint: Why you are eligible
       type: select_one
       options:
-        - Age 65 years or older
-        - Healthcare worker
-        - Essential worker
-        - Underlying medical condition
-        - Phase eligibility based on state guidelines
-        - Other reason
+      - Age 65 years or older
+      - Healthcare worker
+      - Essential worker
+      - Underlying medical condition
+      - Phase eligibility based on state guidelines
+      - Other reason
       required: true
     - id: 15
       name: cert_medical_header
@@ -139,9 +128,9 @@ inputSchema:
       hint: You have no medical reasons not to be vaccinated
       type: select_one
       options:
-        - I certify no contraindications
-        - I have contraindications
-        - I am unsure
+      - I certify no contraindications
+      - I have contraindications
+      - I am unsure
       required: true
     - id: 17
       name: cert_no_allergies
@@ -149,9 +138,9 @@ inputSchema:
       hint: You have no vaccine component allergies
       type: select_one
       options:
-        - I certify no known allergies
-        - I have allergies
-        - I am unsure
+      - I certify no known allergies
+      - I have allergies
+      - I am unsure
       required: true
     - id: 18
       name: cert_allergy_details
@@ -166,9 +155,9 @@ inputSchema:
       hint: You do not have acute illness or fever
       type: select_one
       options:
-        - I am not currently ill
-        - I am currently ill
-        - I have mild symptoms
+      - I am not currently ill
+      - I am currently ill
+      - I have mild symptoms
       required: true
     - id: 20
       name: cert_understanding_header
@@ -183,9 +172,9 @@ inputSchema:
       hint: You understand vaccination benefits
       type: select_one
       options:
-        - Yes, I understand
-        - I have questions
-        - No
+      - Yes, I understand
+      - I have questions
+      - 'False'
       required: true
     - id: 22
       name: cert_understand_risks
@@ -193,9 +182,9 @@ inputSchema:
       hint: You understand risks and side effects
       type: select_one
       options:
-        - Yes, I understand
-        - I have questions
-        - No
+      - Yes, I understand
+      - I have questions
+      - 'False'
       required: true
     - id: 23
       name: cert_voluntary_consent
@@ -203,8 +192,8 @@ inputSchema:
       hint: I am freely choosing vaccination
       type: select_one
       options:
-        - Yes, voluntary decision
-        - Under pressure or coerced
+      - Yes, voluntary decision
+      - Under pressure or coerced
       required: true
     - id: 24
       name: cert_authorization
@@ -212,8 +201,8 @@ inputSchema:
       hint: I authorize administration of the vaccine
       type: select_one
       options:
-        - I authorize
-        - I do not authorize
+      - I authorize
+      - I do not authorize
       required: true
     - id: 25
       name: cert_signature_date

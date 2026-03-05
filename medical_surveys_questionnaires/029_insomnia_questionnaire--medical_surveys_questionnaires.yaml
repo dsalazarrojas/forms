@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Never''}'
-      - '{''id'': 2, ''label'': ''Almost every night''}'
-      - '{''id'': 3, ''label'': ''1-2 nights a week''}'
-      - '{''id'': 4, ''label'': ''3-5 nights a week''}'
-      - '{''id'': 5, ''label'': ''Every night''}'
+      - Never
+      - Almost every night
+      - 1-2 nights a week
+      - 3-5 nights a week
+      - Every night
       required: true
     - id: 4
       name: wake_up_time
@@ -42,11 +42,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Insomnia''}'
-      - '{''id'': 3, ''label'': ''Sleep Apnea''}'
-      - '{''id'': 4, ''label'': ''Sleep Movement Disorder''}'
-      - '{''id'': 5, ''label'': ''Restless Legs Syndrome''}'
+      - None
+      - Insomnia
+      - Sleep Apnea
+      - Sleep Movement Disorder
+      - Restless Legs Syndrome
       required: true
     - id: 6
       name: anxiety_fear
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Never''}'
-      - '{''id'': 2, ''label'': ''Almost always''}'
-      - '{''id'': 3, ''label'': ''Some days''}'
-      - '{''id'': 4, ''label'': ''Most days''}'
+      - Never
+      - Almost always
+      - Some days
+      - Most days
       required: true
     - id: 8
       name: physical_discomfort
@@ -72,11 +72,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Back pain''}'
-      - '{''id'': 2, ''label'': ''Headache''}'
-      - '{''id'': 3, ''label'': ''Cough''}'
-      - '{''id'': 4, ''label'': ''Muscle fatigue''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Back pain
+      - Headache
+      - Cough
+      - Muscle fatigue
+      - Other
       required: true
     - id: 9
       name: medication
@@ -84,10 +84,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Melatonin''}'
-      - '{''id'': 3, ''label'': ''Sleeping pill''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - None
+      - Melatonin
+      - Sleeping pill
+      - Other
       required: true
     - id: 10
       name: medical_condition
@@ -95,11 +95,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''High Blood Pressure''}'
-      - '{''id'': 3, ''label'': ''Heart disease''}'
-      - '{''id'': 4, ''label'': ''Diabetes''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - None
+      - High Blood Pressure
+      - Heart disease
+      - Diabetes
+      - Other
       required: true
     - id: 11
       name: smoking_status
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Never smoked''}'
-      - '{''id'': 2, ''label'': ''Currently a smoker''}'
-      - '{''id'': 3, ''label'': ''Former smoker''}'
+      - Never smoked
+      - Currently a smoker
+      - Former smoker
       required: true
     - id: 12
       name: doctor_visit

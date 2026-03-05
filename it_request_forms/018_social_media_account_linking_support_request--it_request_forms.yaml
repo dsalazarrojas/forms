@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Twitter''}'
-      - '{''id'': 2, ''label'': ''Facebook''}'
-      - '{''id'': 3, ''label'': ''Instagram''}'
-      - '{''id'': 4, ''label'': ''Snapchat''}'
-      - '{''id'': 5, ''label'': ''TikTok''}'
+      - Twitter
+      - Facebook
+      - Instagram
+      - Snapchat
+      - TikTok
       required: false
     - id: 3
       name: account_status
@@ -28,10 +28,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Deleted''}'
-      - '{''id'': 4, ''label'': ''Suspended''}'
+      - Active
+      - Inactive
+      - Deleted
+      - Suspended
       required: false
     - id: 4
       name: issue_description
@@ -109,8 +109,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Human Agent''}'
-      - '{''id'': 2, ''label'': ''Automated Bot''}'
+      - Human Agent
+      - Automated Bot
       required: false
     - id: 15
       name: issue_screenshare

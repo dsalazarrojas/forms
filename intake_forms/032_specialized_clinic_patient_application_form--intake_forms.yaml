@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 5
       name: reported_symptoms
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: medical_history
@@ -73,8 +73,8 @@ inputSchema:
       options: []
       required: true
     - id: 10
-      name: medical_history
-      label: Medical History
+      name: medical_history_2
+      label: Medical History 2
       hint: null
       type: note
       options: []
@@ -87,8 +87,8 @@ inputSchema:
       options: []
       required: true
     - id: 12
-      name: reported_symptoms
-      label: Reported Symptoms
+      name: reported_symptoms_2
+      label: Reported Symptoms 2
       hint: null
       type: text
       options: []
@@ -122,8 +122,8 @@ inputSchema:
       options: []
       required: true
     - id: 17
-      name: email
-      label: Email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
@@ -157,8 +157,8 @@ inputSchema:
       options: []
       required: true
     - id: 22
-      name: appointment_time
-      label: Appointment Time
+      name: appointment_time_2
+      label: Appointment Time 2
       hint: null
       type: time
       options: []
@@ -171,19 +171,19 @@ inputSchema:
       options: []
       required: true
     - id: 24
-      name: medical_record_id
-      label: Medical Record ID
+      name: medical_record_id_2
+      label: Medical Record Id 2
       hint: null
       type: number
       options: []
       required: true
     - id: 25
-      name: reported_symptoms
-      label: Reported Symptoms
+      name: reported_symptoms_3
+      label: Reported Symptoms 3
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true

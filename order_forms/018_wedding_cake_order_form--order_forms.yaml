@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''round'', ''value'': ''Round''}'
-      - '{''id'': 2, ''name'': ''heart'', ''value'': ''Heart''}'
-      - '{''id'': 3, ''name'': ''square'', ''value'': ''Square''}'
+      - Round
+      - Heart
+      - Square
       required: false
     - id: 5
       name: wedding_cake_size
@@ -40,11 +40,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''small'', ''value'': ''Small''}'
-      - '{''id'': 2, ''name'': ''medium'', ''value'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''large'', ''value'': ''Large''}'
-      - '{''id'': 4, ''name'': ''extra_large'', ''value'': ''Extra Large''}'
-      - '{''id'': 5, ''name'': ''extra_extra_large'', ''value'': ''Extra Extra Large''}'
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - Extra Extra Large
       required: false
     - id: 6
       name: wedding_cake_filling
@@ -52,8 +52,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 6, ''name'': ''strawberry'', ''value'': ''Strawberry''}'
-      - '{''id'': 7, ''name'': ''chocolate'', ''value'': ''Chocolate''}'
+      - Strawberry
+      - Chocolate
       required: false
     - id: 7
       name: delivery_date
@@ -103,8 +103,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''jimmy'', ''value'': ''Jimmy''}'
-      - '{''id'': 2, ''name'': ''tom'', ''value'': ''Tom''}'
+      - Jimmy
+      - Tom
       required: false
     - id: 14
       name: cake_price

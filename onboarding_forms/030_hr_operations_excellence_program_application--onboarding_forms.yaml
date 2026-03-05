@@ -43,11 +43,13 @@ inputSchema:
       options: []
       required: true
     - id: 5
-      name: experience
-      label: Experience
+      name: onboarding_programs
+      label: Onboarding Programs
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - HR Development
+      - HR Training
       required: true
     - id: 6
       name: motivation_statement
@@ -57,15 +59,6 @@ inputSchema:
       options: []
       required: true
     - id: 7
-      name: onboarding_programs
-      label: Onboarding Programs
-      hint: null
-      type: select_multiple
-      options:
-      - HR Development
-      - HR Training
-      required: true
-    - id: 8
       name: assigned_tool
       label: Assigned Tool
       hint: null
@@ -75,121 +68,58 @@ inputSchema:
       - chatbot
       - other
       required: true
-    - id: 9
+    - id: 8
       name: description
       label: Description
       hint: null
       type: text
       options: []
       required: true
-    - id: 10
+    - id: 9
       name: category
       label: Category
       hint: null
       type: text
       options: []
       required: false
+    - id: 10
+      name: assigned_tool_2
+      label: Other Description
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 11
-      name: category
-      label: Category
+      name: category_2
+      label: Category 2
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: category
-      label: Category
+      name: category_3
+      label: Category 3
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: category
-      label: Category
+      name: experience
+      label: Experience
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: category
-      label: Category
+      name: category_4
+      label: Category 4
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: category
-      label: Category
+      name: category_5
+      label: Category 5
       hint: null
       type: text
       options: []

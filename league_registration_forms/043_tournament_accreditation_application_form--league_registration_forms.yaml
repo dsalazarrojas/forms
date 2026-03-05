@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''A'', ''label'': ''A''}'
-      - '{''id'': 2, ''value'': ''B'', ''label'': ''B''}'
-      - '{''id'': 3, ''value'': ''C'', ''label'': ''C''}'
-      - '{''id'': 4, ''value'': ''D'', ''label'': ''D''}'
+      - A
+      - B
+      - C
+      - D
       required: false
     - id: 5
       name: tournament_dates
@@ -104,9 +104,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''pending'', ''label'': ''Pending''}'
-      - '{''id'': 2, ''value'': ''approved'', ''label'': ''Approved''}'
-      - '{''id'': 3, ''value'': ''denied'', ''label'': ''Denied''}'
+      - Pending
+      - Approved
+      - Denied
       required: false
     - id: 15
       name: notes
@@ -135,9 +135,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''admin'', ''label'': ''Admin''}'
-      - '{''id'': 2, ''value'': ''staff'', ''label'': ''Staff''}'
-      - '{''id'': 3, ''value'': ''user'', ''label'': ''User''}'
+      - Admin
+      - Staff
+      - User
       required: false
     - id: 19
       name: created_at

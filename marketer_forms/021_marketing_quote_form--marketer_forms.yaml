@@ -12,13 +12,14 @@ inputSchema:
       required: false
     - id: 2
       name: marketing_quote_form_service_type
-      label: service_type
+      label: Service Type
       hint: null
       type: select_one
       options:
-      - Marketing Agency
-      - Freelancer
-      - Consultant
+      - Digital Marketing
+      - Social Media
+      - Content Creation
+      - Branding
       required: false
     - id: 3
       name: marketing_quote_form_client_info
@@ -29,21 +30,21 @@ inputSchema:
       required: false
     - id: 4
       name: marketing_quote_form_client_name
-      label: client_name
-      hint: Client Name
+      label: Client Name
+      hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: marketing_quote_form_client_email
-      label: client_email
+      label: Client Email
       hint: null
       type: email
       options: []
       required: false
     - id: 6
       name: marketing_quote_form_client_phone
-      label: client_phone
+      label: Client Phone
       hint: null
       type: text
       options: []
@@ -56,38 +57,20 @@ inputSchema:
       options: []
       required: false
     - id: 8
-      name: marketing_quote_form_service_type
-      label: service_type
-      hint: Select a service type
-      type: select_one
-      options:
-      - Digital Marketing
-      - Social Media
-      - Content Creation
-      - Branding
+      name: marketing_quote_form_quote
+      label: Quote
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 9
-      name: marketing_quote_form_service_details
-      label: service_details
-      hint: Service details
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: marketing_quote_form_quote
-      label: quote
-      hint: Enter a quote
-      type: text
-      options: []
-      required: false
-    - id: 11
       name: marketing_quote_form_terms_and_conditions
-      label: terms_and_conditions
-      hint: Accept terms and conditions to proceed
+      label: Terms and Conditions
+      hint: null
       type: note
       options: []
       required: false
-    - id: 12
+    - id: 10
       name: marketing_quote_form_submit
       label: Submit
       hint: null
@@ -96,93 +79,37 @@ inputSchema:
       - Submit Form
       - Cancel Form
       required: false
-    - id: 13
-      name: marketing_quote_form_additional_info
-      label: additional_info
+    - id: 11
+      name: marketing_quote_form_agreed_by
+      label: Agreed by
       hint: null
-      type: note
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: marketing_quote_form_agreed_on
+      label: Agreed on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: marketing_quote_form_service_price
+      label: Service Price
+      hint: null
+      type: number
       options: []
       required: false
     - id: 14
-      name: marketing_quote_form_service_agreed
-      label: service_agreed
+      name: marketing_quote_form_agreed_price
+      label: Agreed Price
       hint: null
-      type: note
+      type: number
       options: []
       required: false
     - id: 15
-      name: marketing_quote_form_quote_agreed
-      label: quote_agreed
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: marketing_quote_form_agreed_by
-      label: agreed_by
-      hint: Agreed by
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: marketing_quote_form_agreed_on
-      label: agreed_on
-      hint: Date of agreement
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: marketing_quote_form_service_price
-      label: price
-      hint: Enter service price
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: marketing_quote_form_agreed_price
-      label: agreed_price
-      hint: Agreed price
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: marketing_quote_form_agreed_price_valid_until
-      label: agreed_price_valid_until
-      hint: Price valid until
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: marketing_quote_form_service_agreed
-      label: service_agreed
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: marketing_quote_form_quote_agreed
-      label: quote_agreed
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: marketing_quote_form_agreed_by
-      label: agreed_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: marketing_quote_form_agreed_on
-      label: agreed_on
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: marketing_quote_form_agreed_price_valid
-      label: agreed_price_valid
+      name: marketing_quote_form_price_valid_until
+      label: Price Valid until
       hint: null
       type: date
       options: []

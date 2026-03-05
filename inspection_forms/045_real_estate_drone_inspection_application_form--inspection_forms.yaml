@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Client 1''}'
-      - '{''id'': 2, ''label'': ''Client 2''}'
-      - '{''id'': 3, ''label'': ''Client 3''}'
+      - Client 1
+      - Client 2
+      - Client 3
       required: true
     - id: 4
       name: inspector_name
@@ -89,10 +89,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Front''}'
-      - '{''id'': 2, ''label'': ''Back''}'
-      - '{''id'': 3, ''label'': ''Side''}'
-      - '{''id'': 4, ''label'': ''Top''}'
+      - Front
+      - Back
+      - Side
+      - Top
       required: true
     - id: 13
       name: drone_equipment_status
@@ -128,9 +128,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Canceled''}'
+      - Completed
+      - In Progress
+      - Canceled
       required: true
     - id: 18
       name: comments

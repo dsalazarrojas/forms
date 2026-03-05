@@ -189,8 +189,8 @@ inputSchema:
       type: select_one
       options:
       - None
-      - 1
-      - 2
+      - '1'
+      - '2'
       - 3 or more
       required: true
     - id: 24
@@ -200,8 +200,8 @@ inputSchema:
       type: select_one
       options:
       - None
-      - 1
-      - 2
+      - '1'
+      - '2'
       - 3 or more
       required: true
     - id: 25
@@ -210,8 +210,8 @@ inputSchema:
       hint: Any DUI in past 5 years
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 26
       name: coverage_preferences
@@ -251,7 +251,7 @@ inputSchema:
       hint: Will others drive this vehicle
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes spouse
       - Yes children
       - Yes other
@@ -262,9 +262,9 @@ inputSchema:
       hint: How many vehicles to insure
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
+      - '1'
+      - '2'
+      - '3'
       - 4 or more
       required: true
     - id: 31

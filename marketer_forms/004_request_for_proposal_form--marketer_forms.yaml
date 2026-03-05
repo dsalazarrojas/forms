@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''PDF''}'
-      - '{''value'': ''DOCX''}'
-      - '{''value'': ''ODT''}'
+      - PDF
+      - DOCX
+      - ODT
       required: false
     - id: 10
       name: project_type
@@ -75,10 +75,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Website''}'
-      - '{''value'': ''Mobile App''}'
-      - '{''value'': ''E-commerce''}'
-      - '{''value'': ''Digital Marketing''}'
+      - Website
+      - Mobile App
+      - E-commerce
+      - Digital Marketing
       required: false
     - id: 11
       name: project_status
@@ -86,11 +86,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''On Hold''}'
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Reopened''}'
+      - Active
+      - Inactive
+      - On Hold
+      - Pending
+      - Reopened
       required: false
     - id: 12
       name: project_manager
@@ -126,10 +126,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Rejected''}'
-      - '{''value'': ''Reopened''}'
+      - Approved
+      - In Progress
+      - Rejected
+      - Reopened
       required: false
     - id: 17
       name: comments
@@ -144,9 +144,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Initial''}'
-      - '{''value'': ''Revised''}'
-      - '{''value'': ''Final''}'
+      - Initial
+      - Revised
+      - Final
       required: false
     - id: 19
       name: proposal_date
@@ -168,9 +168,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Completed''}'
-      - '{''value'': ''On Hold''}'
+      - In Progress
+      - Completed
+      - On Hold
       required: false
     - id: 22
       name: review_comments
@@ -185,9 +185,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Rejected''}'
-      - '{''value'': ''Reopened''}'
+      - Approved
+      - Rejected
+      - Reopened
       required: false
     - id: 24
       name: user_id

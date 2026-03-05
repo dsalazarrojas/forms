@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Metal'', ''label'': ''Metal''}'
-      - '{''id'': 2, ''value'': ''Plastic'', ''label'': ''Plastic''}'
-      - '{''id'': 3, ''value'': ''Glass'', ''label'': ''Glass''}'
+      - Metal
+      - Plastic
+      - Glass
       required: true
     - id: 3
       name: transfer_reason
@@ -33,8 +33,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': 123, ''label'': 123}'
-      - '{''id'': 2, ''value'': 456, ''label'': 456}'
+      - '123'
+      - '456'
       required: true
     - id: 5
       name: factory_id
@@ -42,8 +42,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': 111, ''label'': 111}'
-      - '{''id'': 2, ''value'': 222, ''label'': 222}'
+      - '111'
+      - '222'
       required: true
     - id: 6
       name: notes
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''value'': ''john'', ''label'': ''john''}'
+      - chatjimmy
+      - john
       required: true
     - id: 10
       name: transfer_id
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': 999, ''label'': 999}'
-      - '{''id'': 2, ''value'': 9999, ''label'': 9999}'
+      - '999'
+      - '9999'
       required: true
     - id: 11
       name: factory_location

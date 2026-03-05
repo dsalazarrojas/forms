@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Open'', ''value'': ''Open''}'
-      - '{''id'': 2, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Closed'', ''value'': ''Closed''}'
+      - Open
+      - In Progress
+      - Closed
       required: false
     - id: 10
       name: request_type
@@ -75,8 +75,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Server Request'', ''value'': ''Server Request''}'
-      - '{''id'': 2, ''label'': ''User Request'', ''value'': ''User Request''}'
-      - '{''id'': 3, ''label'': ''Server and User Request'', ''value'': ''Server and
-        User Request''}'
+      - Server Request
+      - User Request
+      - Server and User Request
       required: false

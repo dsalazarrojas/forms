@@ -58,12 +58,9 @@ inputSchema:
       hint: Select the specific CardioMessenger model
       type: select_one
       options:
-      - label: CardioMessenger Smart (Mobile)
-        value: smart
-      - label: CardioMessenger II (Bedside)
-        value: bedside
-      - label: CardioMessenger Pro (Advanced)
-        value: pro
+      - CardioMessenger Smart (Mobile)
+      - CardioMessenger II (Bedside)
+      - CardioMessenger Pro (Advanced)
       required: true
     - id: 9
       name: quantity_ordered
@@ -78,12 +75,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Standard Ground (5-7 days)
-        value: ground
-      - label: Expedited (2-3 days)
-        value: expedited
-      - label: Overnight Priority
-        value: overnight
+      - Standard Ground (5-7 days)
+      - Expedited (2-3 days)
+      - Overnight Priority
       required: true
     - id: 11
       name: billing_information_header
@@ -119,8 +113,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Authorized and Confirmed
-        value: authorized
-      - label: Not Authorized
-        value: not_authorized
+      - Authorized and Confirmed
+      - Not Authorized
       required: true

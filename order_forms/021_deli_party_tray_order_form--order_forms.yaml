@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Hot''}'
-      - '{''value'': ''Cold''}'
-      - '{''value'': ''Other''}'
+      - Hot
+      - Cold
+      - Other
       required: false
     - id: 4
       name: party_tray_size
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Small''}'
-      - '{''value'': ''Large''}'
-      - '{''value'': ''Extra Large''}'
+      - Small
+      - Large
+      - Extra Large
       required: false
     - id: 5
       name: delivery_details
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Delivery''}'
-      - '{''value'': ''Pickup''}'
+      - Delivery
+      - Pickup
       required: false
     - id: 9
       name: party_tray_note

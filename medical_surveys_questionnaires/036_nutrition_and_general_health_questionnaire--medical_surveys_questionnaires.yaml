@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Diabetes''}'
-      - '{''id'': 3, ''label'': ''High Blood Pressure''}'
-      - '{''id'': 4, ''label'': ''High Cholesterol''}'
-      - '{''id'': 5, ''label'': ''Obesity''}'
+      - None
+      - Diabetes
+      - High Blood Pressure
+      - High Cholesterol
+      - Obesity
       required: false
     - id: 5
       name: health_history_2
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Blood Tests''}'
-      - '{''id'': 2, ''label'': ''Urine Tests''}'
-      - '{''id'': 3, ''label'': ''Imaging Studies''}'
+      - Blood Tests
+      - Urine Tests
+      - Imaging Studies
       required: false
     - id: 8
       name: medications

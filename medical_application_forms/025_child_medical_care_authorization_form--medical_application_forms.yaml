@@ -1,138 +1,122 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Medical Care Authorization Form
     pages:
-      - id: 1
-        name: section_patient_details
-        label: -- Patient Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: minor_name
-        label: Minor Full Name
-        hint: Full legal name of the child
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: minor_dob
-        label: Date of Birth
-        hint: Required for medical records
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: section_guardian_auth
-        label: -- Parent or Guardian Authorization --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: guardian_name
-        label: Authorizing Guardian Name
-        hint: Person granting permission
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: guardian_relationship
-        label: Relationship to Minor
-        hint: e.g., Mother, Father, Legal Guardian
-        type: select_one
-        options:
-          - label: Parent
-            value: parent
-          - label: Legal Guardian
-            value: guardian
-          - label: Court Appointed Custodian
-            value: custodian
-        required: true
-      - id: 7
-        name: section_medical_info
-        label: -- Medical Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: current_medications
-        label: Current Medications
-        hint: List all prescriptions and dosages
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: drug_allergies
-        label: Known Drug Allergies
-        hint: e.g., Penicillin, Sulfa
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: health_conditions
-        label: Chronic Conditions or Recent Procedures
-        hint: Important medical history
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: section_insurance
-        label: -- Insurance Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: insurance_provider
-        label: Insurance Provider Name
-        hint: Name of carrier
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: policy_number
-        label: Policy and Group Number
-        hint: For billing purposes
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: section_auth_statement
-        label: -- Authorization Statement --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: emergency_auth
-        label: I authorize emergency medical treatment for this minor
-        hint: Consent for hospital or clinic care
-        type: select_one
-        options:
-          - label: I Grant Authorization
-            value: yes
-          - label: I Decline Authorization
-            value: no
-        required: true
-      - id: 16
-        name: auth_date
-        label: Date of Authorization
-        hint: Effective date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_patient_details
+      label: -- Patient Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: minor_name
+      label: Minor Full Name
+      hint: Full legal name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: minor_dob
+      label: Date of Birth
+      hint: Required for medical records
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_guardian_auth
+      label: -- Parent or Guardian Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: guardian_name
+      label: Authorizing Guardian Name
+      hint: Person granting permission
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: guardian_relationship
+      label: Relationship to Minor
+      hint: e.g., Mother, Father, Legal Guardian
+      type: select_one
+      options:
+      - Parent
+      - Legal Guardian
+      - Court Appointed Custodian
+      required: true
+    - id: 7
+      name: section_medical_info
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_medications
+      label: Current Medications
+      hint: List all prescriptions and dosages
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: drug_allergies
+      label: Known Drug Allergies
+      hint: e.g., Penicillin, Sulfa
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: health_conditions
+      label: Chronic Conditions or Recent Procedures
+      hint: Important medical history
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_insurance
+      label: -- Insurance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: insurance_provider
+      label: Insurance Provider Name
+      hint: Name of carrier
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: policy_number
+      label: Policy and Group Number
+      hint: For billing purposes
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_auth_statement
+      label: -- Authorization Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: emergency_auth
+      label: I authorize emergency medical treatment for this minor
+      hint: Consent for hospital or clinic care
+      type: select_one
+      options:
+      - I Grant Authorization
+      - I Decline Authorization
+      required: true
+    - id: 16
+      name: auth_date
+      label: Date of Authorization
+      hint: Effective date
+      type: date
+      options: []
+      required: true

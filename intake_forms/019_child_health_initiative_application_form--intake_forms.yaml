@@ -44,14 +44,10 @@ inputSchema:
       hint: Select the primary service needed
       type: select_one
       options:
-      - label: Nutrition and Meal Support
-        value: nutrition
-      - label: Dental Health Access
-        value: dental
-      - label: Mental Wellness Services
-        value: mental
-      - label: Physical Fitness Grants
-        value: fitness
+      - Nutrition and Meal Support
+      - Dental Health Access
+      - Mental Wellness Services
+      - Physical Fitness Grants
       required: true
     - id: 7
       name: section_child_eligibility
@@ -87,12 +83,9 @@ inputSchema:
       hint: Annual gross income
       type: select_one
       options:
-      - label: Under $30,000
-        value: low
-      - label: $30,000 to $60,000
-        value: medium
-      - label: Above $60,000
-        value: high
+      - Under $30,000
+      - $30,000 to $60,000
+      - Above $60,000
       required: true
     - id: 12
       name: dependent_count
@@ -100,12 +93,9 @@ inputSchema:
       hint: Children under age 18
       type: select_one
       options:
-      - label: 1 to 2
-        value: small
-      - label: 3 to 4
-        value: medium
-      - label: 5 or more
-        value: large
+      - 1 to 2
+      - 3 to 4
+      - 5 or more
       required: true
     - id: 13
       name: section_justification
@@ -127,8 +117,6 @@ inputSchema:
       hint: Required for processing
       type: select_one
       options:
-      - label: I Agree
-        value: true
-      - label: I Disagree
-        value: false
+      - I Agree
+      - I Disagree
       required: true

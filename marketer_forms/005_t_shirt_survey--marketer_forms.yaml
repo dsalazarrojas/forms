@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 2
       name: age_group
@@ -19,12 +19,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''13-16''}'
-      - '{''id'': 2, ''label'': ''17-24''}'
-      - '{''id'': 3, ''label'': ''25-34''}'
-      - '{''id'': 4, ''label'': ''35-44''}'
-      - '{''id'': 5, ''label'': ''45-54''}'
-      - '{''id'': 6, ''label'': ''55 or older''}'
+      - 13-16
+      - 17-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55 or older
       required: false
     - id: 3
       name: shirt_sizes
@@ -32,10 +32,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Small''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Large''}'
-      - '{''id'': 4, ''label'': ''XL''}'
+      - Small
+      - Medium
+      - Large
+      - XL
       required: false
     - id: 4
       name: preferred_color
@@ -43,10 +43,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Blue''}'
-      - '{''id'': 2, ''label'': ''Red''}'
-      - '{''id'': 3, ''label'': ''Green''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Blue
+      - Red
+      - Green
+      - Other
       required: false
     - id: 5
       name: preferred_design
@@ -54,10 +54,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Graphic''}'
-      - '{''id'': 2, ''label'': ''Text''}'
-      - '{''id'': 3, ''label'': ''Logo''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Graphic
+      - Text
+      - Logo
+      - Other
       required: false
     - id: 6
       name: shirt_pocket_size
@@ -72,10 +72,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Small''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Large''}'
-      - '{''id'': 4, ''label'': ''XL''}'
+      - Small
+      - Medium
+      - Large
+      - XL
       required: false
     - id: 8
       name: shirt_neck_size
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Short''}'
-      - '{''id'': 2, ''label'': ''Long''}'
-      - '{''id'': 3, ''label'': ''Extra Long''}'
+      - Short
+      - Long
+      - Extra Long
       required: false
     - id: 11
       name: preferred_shirt_style
@@ -107,8 +107,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Casual''}'
-      - '{''id'': 2, ''label'': ''Formal''}'
+      - Casual
+      - Formal
       required: false
     - id: 12
       name: preferred_shoe_size
@@ -123,8 +123,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Short''}'
-      - '{''id'': 2, ''label'': ''Long''}'
+      - Short
+      - Long
       required: false
     - id: 14
       name: sleeve_style
@@ -132,7 +132,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Short''}'
-      - '{''id'': 2, ''label'': ''Long''}'
-      - '{''id'': 3, ''label'': ''Extra Long''}'
+      - Short
+      - Long
+      - Extra Long
       required: false

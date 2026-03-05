@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''hoodie''}'
-      - '{''id'': 2, ''name'': ''t-shirt''}'
-      - '{''id'': 3, ''name'': ''hat''}'
+      - hoodie
+      - t-shirt
+      - hat
       required: true
     - id: 3
       name: color
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''blue''}'
-      - '{''id'': 2, ''name'': ''red''}'
-      - '{''id'': 3, ''name'': ''green''}'
+      - blue
+      - red
+      - green
       required: false
     - id: 4
       name: size
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''02/15/2024''}'
-      - '{''id'': 2, ''name'': ''02/16/2024''}'
-      - '{''id'': 3, ''name'': ''02/17/2024''}'
+      - 02/15/2024
+      - 02/16/2024
+      - 02/17/2024
       required: true
     - id: 14
       name: time_zone
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''pacific''}'
-      - '{''id'': 2, ''name'': ''mountain''}'
-      - '{''id'': 3, ''name'': ''central''}'
+      - pacific
+      - mountain
+      - central
       required: false
     - id: 15
       name: submit
@@ -119,8 +119,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''submit''}'
-      - '{''id'': 2, ''name'': ''save_for_later''}'
+      - submit
+      - save for later
       required: true
     - id: 16
       name: notes

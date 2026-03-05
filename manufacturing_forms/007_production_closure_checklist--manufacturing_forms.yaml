@@ -4,185 +4,94 @@ inputSchema:
     title: Production Closure Checklist
     pages:
     - id: 1
-      name: production_closure_checklist_1
-      label: Production Closure Checklist
-      hint: null
+      name: production_line
+      label: Production Line
+      hint: Enter the current production line
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: production_closure_checklist_2
-      label: Production Line
-      hint: null
-      type: select_multiple
+      name: is_production_line_closed
+      label: Is the production line closed?
+      hint: Enter yes or no
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 3
-      name: production_closure_checklist_3
+      name: production_date
       label: Production Date
-      hint: null
+      hint: Enter the production date
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
-      name: production_closure_checklist_4
+      name: production_time
       label: Production Time
-      hint: null
+      hint: Enter the production time
       type: time
       options: []
-      required: false
+      required: true
     - id: 5
-      name: production_closure_checklist_5
+      name: shift_length
       label: Shift Length
-      hint: null
+      hint: Enter the length of the shift
       type: number
       options: []
-      required: false
+      required: true
     - id: 6
-      name: production_closure_checklist_6
-      label: Shift Length Unit
-      hint: null
+      name: is_shift_length_hours
+      label: Is the shift length in hours?
+      hint: Enter yes or no
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 7
-      name: production_closure_checklist_7
+      name: production_manager_name
       label: Production Manager
-      hint: null
+      hint: Enter the production manager's name
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: production_closure_checklist_8
+      name: production_manager_email
       label: Production Manager Email
-      hint: null
+      hint: Enter the production manager's email
       type: email
       options: []
-      required: false
+      required: true
     - id: 9
-      name: production_closure_checklist_9
+      name: production_manager_phone
       label: Production Manager Phone
-      hint: null
+      hint: Enter the production manager's phone number
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: production_closure_checklist_10
-      label: Production Manager
-      hint: null
+      name: location
+      label: Location
+      hint: Enter the production location
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: production_closure_checklist_11
-      label: Production Line
-      hint: null
+      name: is_production_resources_available_next_shift
+      label: Are any production resources available for next shift?
+      hint: Enter yes or no
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 12
-      name: production_closure_checklist_12
-      label: Location
-      hint: null
-      type: select_multiple
+      name: is_production_resources_unavailable_next_shift
+      label: Are any production resources unavailable for next shift?
+      hint: Enter yes or no
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 13
-      name: production_closure_checklist_13
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: production_closure_checklist_14
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: production_closure_checklist_15
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: production_closure_checklist_16
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: production_closure_checklist_17
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: production_closure_checklist_18
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: production_closure_checklist_19
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: production_closure_checklist_20
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: production_closure_checklist_21
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: production_closure_checklist_22
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: production_closure_checklist_23
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: production_closure_checklist_24
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: production_closure_checklist_25
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Tissue''}'
-      - '{''value'': 2, ''label'': ''Cell Block''}'
-      - '{''value'': 3, ''label'': ''Fluid''}'
+      - Tissue
+      - Cell Block
+      - Fluid
       required: false
     - id: 3
       name: specimen_received
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Tumor''}'
-      - '{''value'': 2, ''label'': ''Normal''}'
-      - '{''value'': 3, ''label'': ''Other''}'
+      - Tumor
+      - Normal
+      - Other
       required: false
     - id: 8
       name: specimen_description
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Received''}'
-      - '{''value'': 2, ''label'': ''In Transit''}'
-      - '{''value'': 3, ''label'': ''Not Received''}'
+      - Received
+      - In Transit
+      - Not Received
       required: false
     - id: 12
       name: documentation
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Dr. Smith''}'
-      - '{''value'': 2, ''label'': ''Dr. Johnson''}'
-      - '{''value'': 3, ''label'': ''Dr. Other''}'
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Other
       required: false
     - id: 14
       name: clinical_team_2
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Dr. Smith''}'
-      - '{''value'': 2, ''label'': ''Dr. Johnson''}'
-      - '{''value'': 3, ''label'': ''Dr. Other''}'
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Other
       required: false
     - id: 15
       name: clinical_notes
@@ -164,9 +164,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Dr. Smith''}'
-      - '{''value'': 2, ''label'': ''Dr. Johnson''}'
-      - '{''value'': 3, ''label'': ''Dr. Other''}'
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Other
       required: false
     - id: 22
       name: notes

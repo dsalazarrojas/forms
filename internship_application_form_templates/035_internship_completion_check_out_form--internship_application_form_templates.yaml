@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: submission_status
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''In Review''}'
-      - '{''id'': 2, ''name'': ''Approved''}'
-      - '{''id'': 3, ''name'': ''Denied''}'
+      - In Review
+      - Approved
+      - Denied
       required: false
     - id: 7
       name: submitted_by

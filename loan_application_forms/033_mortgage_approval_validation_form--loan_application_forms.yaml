@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Employed''}'
-      - '{''label'': ''Self Employed''}'
-      - '{''label'': ''Unemployed''}'
-      - '{''label'': ''Student''}'
-      - '{''label'': ''Disabled''}'
+      - Employed
+      - Self Employed
+      - Unemployed
+      - Student
+      - Disabled
       required: false
     - id: 5
       name: income_range
@@ -56,11 +56,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1-5 years''}'
-      - '{''label'': ''5-10 years''}'
-      - '{''label'': ''10-15 years''}'
-      - '{''label'': ''15-20 years''}'
-      - '{''label'': ''20-25 years''}'
+      - 1-5 years
+      - 5-10 years
+      - 10-15 years
+      - 15-20 years
+      - 20-25 years
       required: false
     - id: 8
       name: loan_interest_rate
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Fixed''}'
-      - '{''label'': ''Floating''}'
-      - '{''label'': ''Adjustable''}'
+      - Fixed
+      - Floating
+      - Adjustable
       required: false
     - id: 10
       name: loan_type
@@ -85,10 +85,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Primary Residence''}'
-      - '{''label'': ''Investment''}'
-      - '{''label'': ''Vacation''}'
-      - '{''label'': ''Refinance''}'
+      - Primary Residence
+      - Investment
+      - Vacation
+      - Refinance
       required: false
     - id: 11
       name: applicant_income
@@ -103,11 +103,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pre-Approved''}'
-      - '{''label'': ''Approved''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Denied''}'
-      - '{''label'': ''Pending''}'
+      - Pre-Approved
+      - Approved
+      - In Progress
+      - Denied
+      - Pending
       required: false
     - id: 13
       name: property_type
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Primary Residence''}'
-      - '{''label'': ''Investment''}'
-      - '{''label'': ''Vacation''}'
+      - Primary Residence
+      - Investment
+      - Vacation
       required: false
     - id: 14
       name: loan_security

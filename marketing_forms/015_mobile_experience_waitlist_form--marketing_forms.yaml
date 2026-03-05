@@ -4,209 +4,102 @@ inputSchema:
     title: Mobile Experience Waitlist Form
     pages:
     - id: 1
-      name: form_1
-      label: Mobile Waitlist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: form_2
-      label: Waitlist
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 3
-      name: form_3
-      label: Mobile Device
+      name: device_type
+      label: Select the type of mobile device you are interested in
       hint: null
       type: select_one
       options:
       - apple
       - google
       required: true
-    - id: 4
-      name: form_4
-      label: Operating System
+    - id: 2
+      name: operating_system
+      label: Which operating system do you currently use on your mobile device?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - iOS
       - android
       - windows
       required: true
-    - id: 5
-      name: form_5
-      label: Mobile Experience
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: form_6
-      label: Interested Date
+    - id: 3
+      name: interested_date
+      label: When are you interested in experiencing mobile on your device?
       hint: null
       type: date
       options: []
       required: true
-    - id: 7
-      name: form_7
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: form_8
-      label: Email
+    - id: 4
+      name: email
+      label: Provide your email address for updates and further information
       hint: null
       type: email
       options: []
       required: true
-    - id: 9
-      name: form_9
-      label: Mobile Number
+    - id: 5
+      name: mobile_number
+      label: Provide your mobile number for further contact
       hint: null
       type: text
       options: []
       required: true
-    - id: 10
-      name: form_10
-      label: Referral
+    - id: 6
+      name: referral
+      label: Who referred you to this form?
       hint: null
       type: select_one
       options:
       - referral1
       - referral2
       - referral3
-      required: false
-    - id: 11
-      name: form_11
-      label: Additional Information
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional comments about your mobile experience interest
       hint: null
       type: note
       options: []
       required: false
-    - id: 12
-      name: form_12
-      label: Waitlist
+    - id: 8
+      name: operating_system_version
+      label: Which version of your operating system are you currently using?
       hint: null
       type: select_one
       options:
-      - option4
-      - option5
-      - option6
+      - iOS 14
+      - iOS 15
+      - Android 10
+      - Android 11
+      - Windows 10
+      - Windows 11
       required: true
-    - id: 13
-      name: form_13
-      label: Interested In
-      hint: null
-      type: select_multiple
-      options:
-      - option7
-      - option8
-      - option9
-      required: true
-    - id: 14
-      name: form_14
-      label: Mobile Number 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: form_15
-      label: Referral 2
+    - id: 9
+      name: device_brand
+      label: What brand of mobile device do you have?
       hint: null
       type: select_one
       options:
-      - referral4
-      - referral5
-      - referral6
-      required: false
-    - id: 16
-      name: form_16
-      label: Interested In 2
-      hint: null
-      type: select_multiple
-      options:
-      - option10
-      - option11
-      - option12
-      required: false
-    - id: 17
-      name: form_17
-      label: Mobile Experience 2
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: form_18
-      label: Interested Date 2
+      - Apple
+      - Google
+      required: true
+    - id: 10
+      name: wait_time
+      label: When would you like to receive your mobile experience?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 19
-      name: form_19
-      label: Time 2
+      required: true
+    - id: 11
+      name: interest_level
+      label: On a scale of 0-10, how much are you interested in getting a mobile experience?
       hint: null
-      type: time
+      type: number
       options: []
-      required: false
-    - id: 20
-      name: form_20
-      label: Email 2
+      required: true
+    - id: 12
+      name: follow_up_info
+      label: Any other information you'd like to share with us?
       hint: null
-      type: email
+      type: note
       options: []
-      required: false
-    - id: 21
-      name: form_21
-      label: Mobile Number 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_22
-      label: Waitlist 2
-      hint: null
-      type: select_one
-      options:
-      - option13
-      - option14
-      required: false
-    - id: 23
-      name: form_23
-      label: Referral 2
-      hint: null
-      type: select_one
-      options:
-      - referral7
-      - referral8
-      required: false
-    - id: 24
-      name: form_24
-      label: Interested In 2
-      hint: null
-      type: select_multiple
-      options:
-      - option15
-      - option16
-      - option17
-      required: false
-    - id: 25
-      name: form_24
-      label: Mobile Device 2
-      hint: null
-      type: select_one
-      options:
-      - option18
-      - option19
       required: false

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 1, ''value'': ''3 Axis''}'
-      - '{''label'': 2, ''value'': ''5 Axis''}'
-      - '{''label'': 3, ''value'': ''8 Axis''}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 7
       name: quantity
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Chat'', ''value'': ''chatjimmy''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Chat
+      - Other
       required: false
     - id: 10
       name: category
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Order Forms'', ''value'': ''Order Forms''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Order Forms
+      - Other
       required: false
     - id: 11
       name: assigned_date_time

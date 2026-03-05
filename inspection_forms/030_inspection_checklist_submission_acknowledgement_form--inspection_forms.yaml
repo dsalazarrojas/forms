@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -44,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 5
       name: submitter_job_title_other
@@ -84,7 +73,7 @@ inputSchema:
       required: false
     - id: 9
       name: submitter_comments_other
-      label: Other (specify)
+      label: Submitter Comments Other
       hint: null
       type: text
       options: []
@@ -104,7 +93,7 @@ inputSchema:
       options: []
       required: false
     - id: 12
-      name: inspector_info
+      name: inspector_info_2
       label: inspector_info
       hint: null
       type: time
@@ -116,9 +105,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - inspector_info_organisation A
-      - inspector_info_organisation B
-      - inspector_info_organisation C
+      - inspector info organisation A
+      - inspector info organisation B
+      - inspector info organisation C
       required: true
     - id: 14
       name: inspector_info_function
@@ -126,9 +115,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - inspector_info_function A
-      - inspector_info_function B
-      - inspector_info_function C
+      - inspector info function A
+      - inspector info function B
+      - inspector info function C
       required: true
     - id: 15
       name: inspector_info_comments
@@ -139,14 +128,14 @@ inputSchema:
       required: false
     - id: 16
       name: inspector_info_comments_other
-      label: Other (specify)
+      label: Inspector Info Comments Other
       hint: null
       type: text
       options: []
       required: false
     - id: 17
       name: inspector_info_comments_other_description
-      label: Other (description)
+      label: Inspector Info Comments Other Description
       hint: null
       type: text
       options: []
@@ -177,14 +166,14 @@ inputSchema:
       required: true
     - id: 21
       name: inspection_type_other
-      label: Other (specify)
+      label: Inspection Type Other
       hint: null
       type: text
       options: []
       required: false
     - id: 22
       name: inspection_type_other_description
-      label: Other (description)
+      label: Inspection Type Other Description
       hint: null
       type: text
       options: []
@@ -198,14 +187,14 @@ inputSchema:
       required: false
     - id: 24
       name: inspection_notes_other
-      label: Other (specify)
+      label: Inspection Notes Other
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: inspection_notes_other_description
-      label: Other (description)
+      label: Inspection Notes Other Description
       hint: null
       type: text
       options: []

@@ -4,184 +4,124 @@ inputSchema:
     title: W9 form
     pages:
     - id: 1
-      name: w9_form_1
-      label: form_title
-      hint: null
+      name: payer_name
+      label: Payer Name
+      hint: Please enter the name of the payer.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: w9_form_1_1
-      label: form_name
-      hint: null
+      name: payer_address
+      label: Payer Address
+      hint: Please enter the address of the payer.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: w9_form_1_1_1
-      label: form_name_1
-      hint: null
+      name: payer_city
+      label: Payer City
+      hint: Please enter the city of the payer.
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: w9_form_1_2
-      label: form_type
-      hint: null
+      name: payer_state
+      label: Payer State
+      hint: Please enter the state of the payer.
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: w9_form_1_2_1
-      label: form_type_1
-      hint: null
+      name: payer_zip
+      label: Payer ZIP
+      hint: Please enter the ZIP of the payer.
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: w9_form_1_2_2
-      label: form_type_2
-      hint: null
+      name: payer_account_number
+      label: Payer Account Number
+      hint: Please enter the account number of the payer.
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: w9_form_1_3
-      label: date
-      hint: null
-      type: date
+      name: payer_routing
+      label: Payer Routing Number
+      hint: Please enter the routing number of the payer.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: w9_form_1_3
-      label: date
-      hint: null
+      name: payee_name
+      label: Payee Name
+      hint: Please enter the name of the payee.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payee_address
+      label: Payee Address
+      hint: Please enter the address of the payee.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: payee_city
+      label: Payee City
+      hint: Please enter the city of the payee.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payee_state
+      label: Payee State
+      hint: Please enter the state of the payee.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: payee_zip
+      label: Payee ZIP
+      hint: Please enter the ZIP of the payee.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: payment_amount
+      label: Payment Amount
+      hint: Please enter the payment amount.
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_frequency
+      label: Payment Frequency
+      hint: Please select the payment frequency.
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 15
+      name: payment_start_date
+      label: Payment Start Date
+      hint: Please enter the start date of the payments.
       type: date
       options: []
-      required: false
-    - id: 9
-      name: w9_form_1_4
-      label: payee_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: w9_form_1_4
-      label: payee_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: w9_form_1_5
-      label: payee_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: w9_form_1_5
-      label: payee_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: w9_form_1_6
-      label: payee_city
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: w9_form_1_6
-      label: payee_city
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: w9_form_1_7
-      label: payee_state
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 16
-      name: w9_form_1_7
-      label: payee_state
-      hint: null
-      type: text
+      name: payment_end_date
+      label: Payment End Date
+      hint: Please enter the end date of the payments.
+      type: date
       options: []
-      required: false
+      required: true
     - id: 17
-      name: w9_form_1_8
-      label: payee_zip
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: w9_form_1_8
-      label: payee_zip
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: w9_form_1_9
-      label: payee_account_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: w9_form_1_9
-      label: payee_account_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: w9_form_1_10
-      label: payee_routing
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: w9_form_1_10
-      label: payee_routing
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: w9_form_1_11
-      label: payee_account_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: w9_form_1_11
-      label: payee_account_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: w9_form_1_12
-      label: form_total
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 26
-      name: w9_form_1_12
-      label: form_total
-      hint: null
-      type: number
+      name: notes
+      label: Notes
+      hint: Please enter any additional notes.
+      type: note
       options: []
       required: false

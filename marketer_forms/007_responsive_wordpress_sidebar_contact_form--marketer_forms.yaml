@@ -4,97 +4,113 @@ inputSchema:
     title: Responsive Wordpress Sidebar Contact Form
     pages:
     - id: 1
-      name: form_data
-      label: prophets
+      name: field_1
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: form_data
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: form_data
-      label: email
+      name: field_2
+      label: What is your email?
       hint: null
       type: email
       options: []
       required: false
-    - id: 4
-      name: form_data
-      label: message
+    - id: 3
+      name: field_3
+      label: What is your phone number?
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 4
+      name: field_4
+      label: What date were you born?
+      hint: null
+      type: date
       options: []
       required: false
     - id: 5
-      name: form_data
-      label: phone
+      name: field_5
+      label: What time do you wake up?
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 6
-      name: form_data
-      label: date
+      name: field_6
+      label: What is your favorite color?
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Purple
       required: false
     - id: 7
-      name: form_data
-      label: time
+      name: field_7
+      label: Are you available for an appointment?
       hint: null
-      type: time
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 8
-      name: form_data
-      label: submit
+      name: field_8
+      label: What is your preferred contact method?
       hint: null
       type: select_one
       options:
-      - Submit
-      - Other
+      - Email
+      - Phone
+      - Text
+      - Mail
       required: false
     - id: 9
-      name: form_data
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: form_data
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: form_data
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: form_data
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: form_data
-      label: submit
+      name: field_9
+      label: What is the best time for you to meet?
       hint: null
       type: select_one
       options:
-      - Submit
-      - Other
+      - 8-12am
+      - 1-2pm
+      - 3-4pm
+      - 5-6pm
+      - 7-8pm
+      - 9-10pm
+      - 11pm-12am
+      - 6-7am
+      - 7-8am
+      - 9-10am
+      - 11am-12pm
+      required: false
+    - id: 10
+      name: field_10
+      label: What is your preferred time zone?
+      hint: null
+      type: select_multiple
+      options:
+      - UTC
+      - EST
+      - CST
+      - PST
+      - MST
+      required: false
+    - id: 11
+      name: field_11
+      label: What is the best day for you to meet?
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false

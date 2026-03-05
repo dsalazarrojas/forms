@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: preferred_travel_frequency
@@ -46,11 +46,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''daily'', ''label'': ''daily''}'
-      - '{''value'': ''weekly'', ''label'': ''weekly''}'
-      - '{''value'': ''monthly'', ''label'': ''monthly''}'
-      - '{''value'': ''quarterly'', ''label'': ''quarterly''}'
-      - '{''value'': ''yearly'', ''label'': ''yearly''}'
+      - daily
+      - weekly
+      - monthly
+      - quarterly
+      - yearly
       required: true
     - id: 7
       name: program_segment
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''loyalty'', ''label'': ''loyalty''}'
-      - '{''value'': ''referral'', ''label'': ''referral''}'
-      - '{''value'': ''partner'', ''label'': ''partner''}'
+      - loyalty
+      - referral
+      - partner
       required: true
     - id: 8
       name: date_of_birth
@@ -96,12 +96,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''beach'', ''label'': ''beach''}'
-      - '{''value'': ''city'', ''label'': ''city''}'
-      - '{''value'': ''cultural'', ''label'': ''cultural''}'
-      - '{''value'': ''nature'', ''label'': ''nature''}'
-      - '{''value'': ''adventure'', ''label'': ''adventure''}'
-      - '{''value'': ''history'', ''label'': ''history''}'
+      - beach
+      - city
+      - cultural
+      - nature
+      - adventure
+      - history
       required: false
     - id: 13
       name: other_travel_preferences
@@ -109,11 +109,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''foodie'', ''label'': ''foodie''}'
-      - '{''value'': ''shopping'', ''label'': ''shopping''}'
-      - '{''value'': ''sports'', ''label'': ''sports''}'
-      - '{''value'': ''outdoor'', ''label'': ''outdoor''}'
-      - '{''value'': ''other'', ''label'': ''other''}'
+      - foodie
+      - shopping
+      - sports
+      - outdoor
+      - other
       required: false
     - id: 14
       name: travel_style
@@ -121,10 +121,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''luxury'', ''label'': ''luxury''}'
-      - '{''value'': ''budget'', ''label'': ''budget''}'
-      - '{''value'': ''adventure'', ''label'': ''adventure''}'
-      - '{''value'': ''relaxation'', ''label'': ''relaxation''}'
-      - '{''value'': ''cultural'', ''label'': ''cultural''}'
-      - '{''value'': ''nature'', ''label'': ''nature''}'
+      - luxury
+      - budget
+      - adventure
+      - relaxation
+      - cultural
+      - nature
       required: true

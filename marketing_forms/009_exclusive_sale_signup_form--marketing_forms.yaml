@@ -21,9 +21,9 @@ inputSchema:
       name: email_confirmation
       label: Email Confirmation
       hint: null
-      type: email
+      type: text
       options: []
-      required: true
+      required: false
     - id: 4
       name: phone
       label: Phone
@@ -53,142 +53,104 @@ inputSchema:
       options: []
       required: false
     - id: 8
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 9
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 10
       name: first_name_alias
       label: First Name (Alias)
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
+    - id: 11
       name: email_alias
       label: Email (Alias)
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 11
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: true
     - id: 12
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: date
-      label: Date
+      name: date_alias
+      label: Date (Alias)
       hint: null
       type: date
       options: []
       required: false
-    - id: 14
-      name: time
-      label: Time
+    - id: 13
+      name: time_alias
+      label: Time (Alias)
       hint: null
       type: time
       options: []
       required: false
-    - id: 15
-      name: phone
-      label: Phone
+    - id: 14
+      name: phone_2
+      label: Phone (Alias)
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 15
+      name: email_2
+      label: Email 2
+      hint: null
+      type: email
       options: []
       required: false
     - id: 16
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: note
-      label: Note
+      name: note_2
+      label: Note (Alias)
       hint: null
       type: note
       options: []
       required: false
+    - id: 17
+      name: select_multiple_2
+      label: Select Multiple (Alias)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
     - id: 18
-      name: first_name
-      label: First Name
+      name: select_one_2
+      label: Select One (Alias)
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 19
+      name: phone_3
+      label: Phone 3
       hint: null
       type: text
       options: []
       required: true
-    - id: 19
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
     - id: 20
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: true
-    - id: 23
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: true
-    - id: 24
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: date
-      label: Date
+      name: date_2
+      label: Date 2
       hint: null
       type: date
       options: []

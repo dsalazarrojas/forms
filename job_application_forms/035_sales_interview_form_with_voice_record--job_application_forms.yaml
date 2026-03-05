@@ -39,7 +39,7 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: job_title
+      name: job_title_2
       label: job description
       hint: null
       type: text
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Sales''}'
-      - '{''label'': ''Technical''}'
-      - '{''label'': ''Product''}'
+      - Sales
+      - Technical
+      - Product
       required: true
     - id: 9
       name: recording_audio
@@ -68,12 +68,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
-      name: recording_audio
-      label: recording audio
+      name: recording_audio_2
+      label: Recording Audio 2
       hint: null
       type: time
       options: []
@@ -100,24 +100,24 @@ inputSchema:
       options: []
       required: false
     - id: 14
-      name: job_location
-      label: job location
+      name: job_location_2
+      label: Job Location 2
       hint: null
       type: date
       options: []
       required: false
     - id: 15
-      name: recording_audio
-      label: recording audio
+      name: recording_audio_3
+      label: Recording Audio 3
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 16
-      name: recording_audio
-      label: recording audio
+      name: recording_audio_4
+      label: Recording Audio 4
       hint: null
       type: date
       options: []

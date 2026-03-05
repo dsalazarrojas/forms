@@ -109,8 +109,8 @@ inputSchema:
       hint: To any persons
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: injury_details
@@ -139,8 +139,8 @@ inputSchema:
       hint: For theft, accidents, etc.
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not applicable
       required: true
     - id: 18
@@ -156,8 +156,8 @@ inputSchema:
       hint: To the incident
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: witness_information
@@ -174,7 +174,7 @@ inputSchema:
       options:
       - Yes, will submit separately
       - Yes, attaching now
-      - false
+      - 'False'
       required: true
     - id: 22
       name: previous_claims
@@ -182,8 +182,8 @@ inputSchema:
       hint: With this insurance company
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: additional_coverage
@@ -191,8 +191,8 @@ inputSchema:
       hint: About your policy
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: preferred_contact_method

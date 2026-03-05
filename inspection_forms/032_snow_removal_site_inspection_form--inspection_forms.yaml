@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Light'', ''value'': ''Light''}'
-      - '{''id'': 2, ''name'': ''Medium'', ''value'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Heavy'', ''value'': ''Heavy''}'
+      - Light
+      - Medium
+      - Heavy
       required: false
     - id: 11
       name: snow_type
@@ -82,10 +82,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Plowing'', ''value'': ''Plowing''}'
-      - '{''id'': 2, ''name'': ''Salting'', ''value'': ''Salting''}'
-      - '{''id'': 3, ''name'': ''Both'', ''value'': ''Both''}'
-      - '{''id'': 4, ''name'': ''Neither'', ''value'': ''Neither''}'
+      - Plowing
+      - Salting
+      - Both
+      - Neither
       required: false
     - id: 12
       name: snow_location
@@ -93,11 +93,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Driveway'', ''value'': ''Driveway''}'
-      - '{''id'': 2, ''name'': ''Sidewalk'', ''value'': ''Sidewalk''}'
-      - '{''id'': 3, ''name'': ''Parking lot'', ''value'': ''Parking lot''}'
-      - '{''id'': 4, ''name'': ''Sidewalk and Driveway'', ''value'': ''Sidewalk and
-        Driveway''}'
+      - Driveway
+      - Sidewalk
+      - Parking lot
+      - Sidewalk and Driveway
       required: false
     - id: 13
       name: snow_clearing_required
@@ -105,6 +104,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

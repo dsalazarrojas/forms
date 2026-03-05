@@ -98,7 +98,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 14
       name: understand_benefits
@@ -107,7 +107,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 15
       name: understand_risks
@@ -116,7 +116,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 16
       name: common_side_effects
@@ -125,7 +125,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 17
       name: rare_side_effects
@@ -134,7 +134,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 18
       name: medical_history
@@ -172,7 +172,7 @@ inputSchema:
       options:
       - Yes - Completed series
       - Yes - Partially vaccinated
-      - false
+      - 'False'
       required: true
     - id: 22
       name: previous_vaccine_reaction
@@ -180,7 +180,7 @@ inputSchema:
       hint: Any adverse reactions
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes - Mild
       - Yes - Severe
       required: true
@@ -216,8 +216,8 @@ inputSchema:
       hint: Weakened immune system
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       - Unsure
       required: true
     - id: 27
@@ -226,8 +226,8 @@ inputSchema:
       hint: Or blood thinner use
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 28
       name: current_illness
@@ -246,7 +246,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Consent
-      - false
+      - 'False'
       required: true
     - id: 30
       name: opportunity_for_questions
@@ -265,7 +265,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Consent
-      - false
+      - 'False'
       required: true
     - id: 32
       name: vaxtrack_registration
@@ -273,8 +273,8 @@ inputSchema:
       hint: Add to state registry
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 33
       name: patient_signature

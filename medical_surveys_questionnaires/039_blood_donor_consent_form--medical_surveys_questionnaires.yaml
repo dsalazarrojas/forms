@@ -95,7 +95,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 13
       name: health_screening_consent
@@ -104,7 +104,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Consent
-      - false
+      - 'False'
       required: true
     - id: 14
       name: testing_consent
@@ -113,7 +113,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Consent
-      - false
+      - 'False'
       required: true
     - id: 15
       name: test_types
@@ -140,7 +140,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Consent
-      - false
+      - 'False'
       required: true
     - id: 18
       name: future_contact_consent
@@ -148,8 +148,8 @@ inputSchema:
       hint: May we contact you for future donations
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: research_consent
@@ -158,7 +158,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Consent
-      - false
+      - 'False'
       required: true
     - id: 20
       name: voluntary_statement
@@ -167,7 +167,7 @@ inputSchema:
       type: select_one
       options:
       - Yes Voluntary
-      - false
+      - 'False'
       required: true
     - id: 21
       name: questions_answered

@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Less than 1 year'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''1 year or more'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Not Applicable'', ''value'': 3}'
+      - Less than 1 year
+      - 1 year or more
+      - Not Applicable
       required: false
     - id: 7
       name: education
@@ -56,13 +56,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High School Diploma or Equivalent'', ''value'':
-        1}'
-      - '{''id'': 2, ''label'': "Associate''s Degree or Equivalent", ''value'': 2}'
-      - '{''id'': 3, ''label'': "Bachelor''s Degree or Equivalent", ''value'': 3}'
-      - '{''id'': 4, ''label'': "Master''s Degree or Equivalent", ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Doctoral Degree or Equivalent'', ''value'': 5}'
-      - '{''id'': 6, ''label'': ''Other'', ''value'': 6}'
+      - High School Diploma or Equivalent
+      - Associate's Degree or Equivalent
+      - Bachelor's Degree or Equivalent
+      - Master's Degree or Equivalent
+      - Doctoral Degree or Equivalent
+      - Other
       required: false
     - id: 8
       name: job_status
@@ -70,11 +69,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active'', ''value'': ''active''}'
-      - '{''id'': 2, ''label'': ''Not Active'', ''value'': ''not_active''}'
-      - '{''id'': 3, ''label'': ''On Leave'', ''value'': ''on_leave''}'
-      - '{''id'': 4, ''label'': ''Retired'', ''value'': ''retired''}'
-      - '{''id'': 5, ''label'': ''Resigned'', ''value'': ''resigned''}'
+      - Active
+      - Not Active
+      - On Leave
+      - Retired
+      - Resigned
       required: false
     - id: 9
       name: job_type
@@ -82,10 +81,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Manufacturing'', ''value'': ''manufacturing''}'
-      - '{''id'': 2, ''label'': ''Production'', ''value'': ''production''}'
-      - '{''id'': 3, ''label'': ''Warehouse'', ''value'': ''warehouse''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''other''}'
+      - Manufacturing
+      - Production
+      - Warehouse
+      - Other
       required: false
     - id: 10
       name: job_title
@@ -100,12 +99,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Day Shift'', ''value'': ''day''}'
-      - '{''id'': 2, ''label'': ''Evening Shift'', ''value'': ''evening''}'
-      - '{''id'': 3, ''label'': ''Night Shift'', ''value'': ''night''}'
-      - '{''id'': 4, ''label'': ''Rotating Shifts'', ''value'': ''rotating''}'
-      - '{''id'': 5, ''label'': ''On Call'', ''value'': ''on_call''}'
-      - '{''id'': 6, ''label'': ''Other'', ''value'': ''other''}'
+      - Day Shift
+      - Evening Shift
+      - Night Shift
+      - Rotating Shifts
+      - On Call
+      - Other
       required: false
     - id: 12
       name: job_hours

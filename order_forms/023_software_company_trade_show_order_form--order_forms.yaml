@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Product A''}'
-      - '{''id'': 2, ''name'': ''Product B''}'
-      - '{''id'': 3, ''name'': ''Product C''}'
+      - Product A
+      - Product B
+      - Product C
       required: true
     - id: 10
       name: quantity
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Net 30''}'
-      - '{''id'': 2, ''name'': ''2% 30''}'
-      - '{''id'': 3, ''name'': ''10% 30''}'
+      - Net 30
+      - 2% 30
+      - 10% 30
       required: true
     - id: 15
       name: notes
@@ -155,9 +155,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Open''}'
-      - '{''id'': 2, ''name'': ''In Progress''}'
-      - '{''id'': 3, ''name'': ''Done''}'
+      - Open
+      - In Progress
+      - Done
       required: true
     - id: 22
       name: follow_up_date

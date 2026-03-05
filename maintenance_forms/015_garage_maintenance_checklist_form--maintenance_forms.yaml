@@ -9,12 +9,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Semi-Annually''}'
-      - '{''label'': ''Yearly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Yearly
       required: false
     - id: 2
       name: vehicle_maintenance_type
@@ -22,12 +22,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Oil Change''}'
-      - '{''label'': ''Tire Rotation''}'
-      - '{''label'': ''Brake Pad Replacement''}'
-      - '{''label'': ''Battery Check''}'
-      - '{''label'': ''Fluid Check''}'
-      - '{''label'': ''Air Filter Replacement''}'
+      - Oil Change
+      - Tire Rotation
+      - Brake Pad Replacement
+      - Battery Check
+      - Fluid Check
+      - Air Filter Replacement
       required: false
     - id: 3
       name: vehicle_maintenance_location
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''Incomplete''}'
-      - '{''label'': ''Not Started''}'
+      - Completed
+      - Incomplete
+      - Not Started
       required: false
     - id: 5
       name: vehicle_maintenance_notes

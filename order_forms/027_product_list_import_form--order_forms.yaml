@@ -4,58 +4,57 @@ inputSchema:
     title: Product List Import Form
     pages:
     - id: 1
-      name: order_form_fields
-      label: Order Form Fields
+      name: product_name
+      label: Product Name
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 2
-      name: product_sku
-      label: product_sku
+      name: product_description
+      label: Product Description
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: product_weight
-      label: product_weight
+      label: Product Weight
       hint: null
       type: number
       options: []
       required: false
     - id: 4
-      name: product_description
-      label: product_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: product_price
-      label: product_price
+      label: Product Price
       hint: null
       type: number
       options: []
       required: false
-    - id: 6
-      name: product_weight_uom
-      label: product_weight_uom
+    - id: 5
+      name: product_status
+      label: Product Status
       hint: null
       type: select_multiple
       options:
-      - kg
-      - lb
-      - oz
-      - g
-      - ml
-      - l
+      - new
+      - old
+      - obsolete
+      - discontinued
+      - backorder
+      - on order
+      - on stock
+      required: false
+    - id: 6
+      name: product_tags
+      label: Product Tags
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 7
       name: import_method
-      label: import_method
+      label: Import Method
       hint: null
       type: select_one
       options:
@@ -64,114 +63,65 @@ inputSchema:
       required: false
     - id: 8
       name: product_image
-      label: product_image
+      label: Product Image
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: product_status
-      label: product_status
+      name: product_email
+      label: Product Email
       hint: null
-      type: select_multiple
-      options:
-      - new
-      - old
-      - obsolete
-      - discontinued
-      - backorder
-      - on_order
-      - on_stock
+      type: email
+      options: []
       required: false
     - id: 10
-      name: product_tags
-      label: product_tags
+      name: product_phone
+      label: Product Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: import_date
-      label: import_date
+      name: import_file
+      label: Import File
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 12
-      name: import_time
-      label: import_time
+      name: import_file_url
+      label: Import File URL
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 13
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: product_email
-      label: product_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: product_phone
-      label: product_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: import_file
-      label: import_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: import_file_url
-      label: import_file_url
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
       name: import_status
-      label: import_status
+      label: Import Status
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
       required: false
-    - id: 19
+    - id: 14
       name: import_date_time
-      label: import_date_time
+      label: Import Date Time
       hint: null
       type: date
       options: []
       required: false
-    - id: 20
+    - id: 15
       name: import_date_time_utc
-      label: import_date_time_utc
+      label: Import Date Time (UTC)
       hint: null
       type: date
       options: []
       required: false
-    - id: 21
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
+    - id: 16
       name: product_weight_uom
-      label: product_weight_uom
+      label: Product Weight UOM
       hint: null
       type: select_multiple
       options:
@@ -182,31 +132,23 @@ inputSchema:
       - ml
       - l
       required: false
-    - id: 23
-      name: product_status
-      label: product_status
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: product_weight_uom_2
+      label: Product Weight Uom 2
       hint: null
       type: select_multiple
       options:
-      - new
-      - old
-      - obsolete
-      - discontinued
-      - backorder
-      - on_order
-      - on_stock
-      required: false
-    - id: 24
-      name: import_date_time
-      label: import_date_time
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: import_date_time_utc
-      label: import_date_time_utc
-      hint: null
-      type: date
-      options: []
+      - kg
+      - lb
+      - oz
+      - g
+      - ml
+      - l
       required: false

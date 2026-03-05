@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''asset1''}'
-      - '{''id'': 2, ''label'': ''asset2''}'
-      - '{''id'': 3, ''label'': ''asset3''}'
+      - asset1
+      - asset2
+      - asset3
       required: true
     - id: 3
       name: temperature_readings
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''problem1''}'
-      - '{''id'': 2, ''label'': ''problem2''}'
-      - '{''id'': 3, ''label'': ''problem3''}'
+      - problem1
+      - problem2
+      - problem3
       required: true
     - id: 5
       name: issue_evidence

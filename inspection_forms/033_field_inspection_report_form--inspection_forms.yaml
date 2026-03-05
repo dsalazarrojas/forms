@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Complete'', ''value'': ''complete''}'
-      - '{''id'': 2, ''name'': ''Incomplete'', ''value'': ''incomplete''}'
-      - '{''id'': 3, ''name'': ''Not Started'', ''value'': ''not_started''}'
+      - complete
+      - incomplete
+      - not started
       required: false
     - id: 7
       name: comments
@@ -131,7 +131,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Site Visit'', ''value'': ''site_visit''}'
-      - '{''id'': 2, ''name'': ''Field Visit'', ''value'': ''field_visit''}'
-      - '{''id'': 3, ''name'': ''Other'', ''value'': ''other''}'
+      - site visit
+      - field visit
+      - other
       required: false

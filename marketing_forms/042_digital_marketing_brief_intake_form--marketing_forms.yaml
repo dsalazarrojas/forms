@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''consumers''}'
-      - '{''id'': 2, ''name'': ''business users''}'
-      - '{''id'': 3, ''name'': ''both''}'
+      - consumers
+      - business users
+      - both
       required: true
     - id: 5
       name: marketing_channel
@@ -40,11 +40,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''social media''}'
-      - '{''id'': 2, ''name'': ''email marketing''}'
-      - '{''id'': 3, ''name'': ''content marketing''}'
-      - '{''id'': 4, ''name'': ''paid advertising''}'
-      - '{''id'': 5, ''name'': ''other''}'
+      - social media
+      - email marketing
+      - content marketing
+      - paid advertising
+      - other
       required: false
     - id: 6
       name: target_location
@@ -52,9 +52,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''local''}'
-      - '{''id'': 2, ''name'': ''national''}'
-      - '{''id'': 3, ''name'': ''global''}'
+      - local
+      - national
+      - global
       required: false
     - id: 7
       name: marketing_goals
@@ -62,10 +62,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''brand awareness''}'
-      - '{''id'': 2, ''name'': ''generate leads''}'
-      - '{''id'': 3, ''name'': ''increase sales''}'
-      - '{''id'': 4, ''name'': ''other''}'
+      - brand awareness
+      - generate leads
+      - increase sales
+      - other
       required: false
     - id: 8
       name: marketing_preferences
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''marketing manager''}'
-      - '{''id'': 2, ''name'': ''creative team''}'
-      - '{''id'': 3, ''name'': ''content creator''}'
+      - marketing manager
+      - creative team
+      - content creator
       required: false
     - id: 12
       name: target_frequency
@@ -104,11 +104,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily''}'
-      - '{''id'': 2, ''name'': ''weekly''}'
-      - '{''id'': 3, ''name'': ''monthly''}'
-      - '{''id'': 4, ''name'': ''quarterly''}'
-      - '{''id'': 5, ''name'': ''yearly''}'
+      - daily
+      - weekly
+      - monthly
+      - quarterly
+      - yearly
       required: false
     - id: 13
       name: marketing_frequency_details
@@ -130,13 +130,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''blog posts''}'
-      - '{''id'': 2, ''name'': ''social media posts''}'
-      - '{''id'': 3, ''name'': ''email newsletter''}'
-      - '{''id'': 4, ''name'': ''video content''}'
-      - '{''id'': 5, ''name'': ''infographics''}'
-      - '{''id'': 6, ''name'': ''images''}'
-      - '{''id'': 7, ''name'': ''other''}'
+      - blog posts
+      - social media posts
+      - email newsletter
+      - video content
+      - infographics
+      - images
+      - other
       required: false
     - id: 16
       name: content_preferences
@@ -158,11 +158,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily''}'
-      - '{''id'': 2, ''name'': ''weekly''}'
-      - '{''id'': 3, ''name'': ''monthly''}'
-      - '{''id'': 4, ''name'': ''quarterly''}'
-      - '{''id'': 5, ''name'': ''yearly''}'
+      - daily
+      - weekly
+      - monthly
+      - quarterly
+      - yearly
       required: false
     - id: 19
       name: content_frequency_details
@@ -191,10 +191,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''text ads''}'
-      - '{''id'': 2, ''name'': ''image ads''}'
-      - '{''id'': 3, ''name'': ''video ads''}'
-      - '{''id'': 4, ''name'': ''other''}'
+      - text ads
+      - image ads
+      - video ads
+      - other
       required: false
     - id: 23
       name: ad_preferences

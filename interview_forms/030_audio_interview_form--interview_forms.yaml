@@ -1,141 +1,130 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Audio Interview Form
     pages:
-      - id: 1
-        name: section_header
-        label: -- Interview Logistics --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: interviewee_name
-        label: Interviewee Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: interviewer_name
-        label: Interviewer Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: interview_date
-        label: Date of Interview
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: interview_topic
-        label: Interview Subject or Topic
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: section_consent
-        label: -- Recording Consent --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: recording_consent
-        label: Do you consent to this interview being recorded?
-        hint: null
-        type: select_one
-        options:
-          - Yes, Audio Only
-          - Yes, Audio and Video
-          - No
-        required: true
-      - id: 8
-        name: publishing_permission
-        label: Permission to Publish/Broadcast
-        hint: null
-        type: select_one
-        options:
-          - Full permission granted
-          - Permission with review required
-          - Private use only
-        required: true
-      - id: 9
-        name: section_questions
-        label: -- Interview Content --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: primary_questions_list
-        label: Primary Questions Asked
-        hint: For indexing purposes
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: key_takeaways_summary
-        label: Key Takeaways or Summary
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 12
-        name: section_technical
-        label: -- Technical Notes --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: recording_filename
-        label: Recording Filename Reference
-        hint: e.g., 2026-02-17-John-Doe-Interview.wav
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: transcript_required
-        label: Is a full transcript needed?
-        hint: null
-        type: select_one
-        options:
-          - Yes - AI Generated
-          - Yes - Human Verified
-          - No
-        required: true
-      - id: 15
-        name: audio_quality_check
-        label: Audio Quality Check
-        hint: How was the recording quality?
-        type: select_one
-        options:
-          - Clear - Broadcast Ready
-          - Good - Minor Noise
-          - Poor - Heavy Background Noise
-          - Unusable
-        required: true
-      - id: 16
-        name: interviewer_signature
-        label: Interviewer Signature (Type Name)
-        hint: null
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: section_header
+      label: -- Interview Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: interviewee_name
+      label: Interviewee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: interviewer_name
+      label: Interviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: interview_date
+      label: Date of Interview
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: interview_topic
+      label: Interview Subject or Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_consent
+      label: -- Recording Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: recording_consent
+      label: Do you consent to this interview being recorded?
+      hint: null
+      type: select_one
+      options:
+      - Yes, Audio Only
+      - Yes, Audio and Video
+      - 'False'
+      required: true
+    - id: 8
+      name: publishing_permission
+      label: Permission to Publish/Broadcast
+      hint: null
+      type: select_one
+      options:
+      - Full permission granted
+      - Permission with review required
+      - Private use only
+      required: true
+    - id: 9
+      name: section_questions
+      label: -- Interview Content --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_questions_list
+      label: Primary Questions Asked
+      hint: For indexing purposes
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: key_takeaways_summary
+      label: Key Takeaways or Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_technical
+      label: -- Technical Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: recording_filename
+      label: Recording Filename Reference
+      hint: e.g., 2026-02-17-John-Doe-Interview.wav
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: transcript_required
+      label: Is a full transcript needed?
+      hint: null
+      type: select_one
+      options:
+      - Yes - AI Generated
+      - Yes - Human Verified
+      - 'False'
+      required: true
+    - id: 15
+      name: audio_quality_check
+      label: Audio Quality Check
+      hint: How was the recording quality?
+      type: select_one
+      options:
+      - Clear - Broadcast Ready
+      - Good - Minor Noise
+      - Poor - Heavy Background Noise
+      - Unusable
+      required: true
+    - id: 16
+      name: interviewer_signature
+      label: Interviewer Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true

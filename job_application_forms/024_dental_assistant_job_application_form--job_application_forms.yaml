@@ -9,190 +9,80 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: last_name
       label: Last Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: address
-      label: Address
+      label: Street Address
       hint: null
       type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: job_title
       label: Job Title
-      hint: null
+      hint: Current or previous job title
       type: text
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: resume
       label: Resume
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: job_application
       label: Job Application
-      hint: null
-      type: select_multiple
+      hint: Are you interested in this job?
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 9
+      required: true
+    - id: 8
       name: experience
-      label: Experience
-      hint: null
+      label: Job Experience
+      hint: How many years do you have?
       type: select_one
       options:
-      - '{''label'': ''Less than 1 year''}'
-      - '{''label'': ''1-2 years''}'
-      - '{''label'': ''2-5 years''}'
-      - '{''label'': ''More than 5 years''}'
-      required: false
-    - id: 10
-      name: available
-      label: Available
-      hint: null
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 9
+      name: available_start
+      label: Available Start
+      hint: Start date
       type: date
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 10
       name: available_end
       label: Available End
-      hint: null
+      hint: End time
       type: time
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 11
       name: message
       label: Message
       hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: agree
-      label: Agree
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: false
-    - id: 14
-      name: agree_message
-      label: Agree Message
-      hint: null
       type: text
-      options: []
-      required: false
-    - id: 15
-      name: first_name_2
-      label: First Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: last_name_2
-      label: Last Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: email_2
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: phone_2
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: experience_2
-      label: Experience
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Less than 1 year''}'
-      - '{''label'': ''1-2 years''}'
-      - '{''label'': ''2-5 years''}'
-      - '{''label'': ''More than 5 years''}'
-      required: false
-    - id: 20
-      name: experience_3
-      label: Experience
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Less than 1 year''}'
-      - '{''label'': ''1-2 years''}'
-      - '{''label'': ''2-5 years''}'
-      - '{''label'': ''More than 5 years''}'
-      required: false
-    - id: 21
-      name: available_2
-      label: Available
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: available_end_2
-      label: Available End
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: message_2
-      label: Message
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: agree_2
-      label: Agree
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: false
-    - id: 25
-      name: message_3
-      label: Message
-      hint: null
-      type: note
       options: []
       required: false

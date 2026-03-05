@@ -218,7 +218,7 @@ inputSchema:
       hint: Can the vehicle be driven safely?
       type: select_one
       options:
-      - true
+      - 'True'
       - No - needs towing
       - Unsure
       required: true
@@ -235,8 +235,8 @@ inputSchema:
       hint: Yes or no
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 31
       name: other_party_name
@@ -272,8 +272,8 @@ inputSchema:
       hint: Yes or no
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 36
       name: witness_information
@@ -290,7 +290,7 @@ inputSchema:
       options:
       - Yes - report filed
       - Yes - no report
-      - false
+      - 'False'
       required: true
     - id: 38
       name: police_report_number

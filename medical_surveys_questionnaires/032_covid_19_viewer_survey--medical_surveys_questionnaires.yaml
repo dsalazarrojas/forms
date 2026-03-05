@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,12 +16,12 @@ inputSchema:
       hint: Your age category
       type: select_one
       options:
-        - Under 18
-        - 18-25
-        - 26-35
-        - 36-50
-        - 51-65
-        - 65+
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-50
+      - 51-65
+      - 65+
       required: true
     - id: 3
       name: viewer_gender
@@ -40,10 +29,10 @@ inputSchema:
       hint: Your gender
       type: select_one
       options:
-        - Male
-        - Female
-        - Other
-        - Prefer Not to Say
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
       required: false
     - id: 4
       name: viewer_state
@@ -58,11 +47,11 @@ inputSchema:
       hint: Your highest education completed
       type: select_one
       options:
-        - High school or less
-        - Some college
-        - College degree
-        - Graduate degree
-        - Other
+      - High school or less
+      - Some college
+      - College degree
+      - Graduate degree
+      - Other
       required: false
     - id: 6
       name: pandemic_perception_header
@@ -77,12 +66,12 @@ inputSchema:
       hint: Your perception of severity
       type: select_one
       options:
-        - Extremely serious threat
-        - Very serious threat
-        - Moderately serious
-        - Somewhat serious
-        - Not serious
-        - Overblown threat
+      - Extremely serious threat
+      - Very serious threat
+      - Moderately serious
+      - Somewhat serious
+      - Not serious
+      - Overblown threat
       required: true
     - id: 8
       name: pandemic_personal_impact
@@ -90,11 +79,11 @@ inputSchema:
       hint: Personal impact level
       type: select_one
       options:
-        - Extremely affected
-        - Very affected
-        - Moderately affected
-        - Slightly affected
-        - Not affected at all
+      - Extremely affected
+      - Very affected
+      - Moderately affected
+      - Slightly affected
+      - Not affected at all
       required: true
     - id: 9
       name: pandemic_deaths_perception
@@ -102,11 +91,11 @@ inputSchema:
       hint: Your view on mortality risk
       type: select_one
       options:
-        - Very serious concern
-        - Somewhat serious concern
-        - Minor concern
-        - No concern
-        - Overblown concern
+      - Very serious concern
+      - Somewhat serious concern
+      - Minor concern
+      - No concern
+      - Overblown concern
       required: true
     - id: 10
       name: pandemic_media_coverage
@@ -114,11 +103,11 @@ inputSchema:
       hint: Your view on media reporting
       type: select_one
       options:
-        - Under-reported
-        - Fairly reported
-        - Over-reported
-        - Sensationalized
-        - Cannot judge
+      - Under-reported
+      - Fairly reported
+      - Over-reported
+      - Sensationalized
+      - Cannot judge
       required: false
     - id: 11
       name: government_response_header
@@ -133,11 +122,11 @@ inputSchema:
       hint: Rating of government actions
       type: select_one
       options:
-        - Very effective
-        - Somewhat effective
-        - Neutral
-        - Somewhat ineffective
-        - Very ineffective
+      - Very effective
+      - Somewhat effective
+      - Neutral
+      - Somewhat ineffective
+      - Very ineffective
       required: true
     - id: 13
       name: lockdown_measures_opinion
@@ -145,11 +134,11 @@ inputSchema:
       hint: Your view on lockdowns
       type: select_one
       options:
-        - Strongly support
-        - Support
-        - Neutral
-        - Oppose
-        - Strongly oppose
+      - Strongly support
+      - Support
+      - Neutral
+      - Oppose
+      - Strongly oppose
       required: true
     - id: 14
       name: mask_mandate_opinion
@@ -157,11 +146,11 @@ inputSchema:
       hint: Your view on mask requirements
       type: select_one
       options:
-        - Strongly support
-        - Support
-        - Neutral
-        - Oppose
-        - Strongly oppose
+      - Strongly support
+      - Support
+      - Neutral
+      - Oppose
+      - Strongly oppose
       required: true
     - id: 15
       name: school_closures_opinion
@@ -169,11 +158,11 @@ inputSchema:
       hint: Your view on school closures
       type: select_one
       options:
-        - Strongly support
-        - Support
-        - Neutral
-        - Oppose
-        - Strongly oppose
+      - Strongly support
+      - Support
+      - Neutral
+      - Oppose
+      - Strongly oppose
       required: false
     - id: 16
       name: personal_behavior_header
@@ -188,11 +177,11 @@ inputSchema:
       hint: Your mask wearing frequency
       type: select_one
       options:
-        - Always
-        - Usually
-        - Sometimes
-        - Rarely
-        - Never
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
       required: true
     - id: 18
       name: social_distancing_practice
@@ -200,11 +189,11 @@ inputSchema:
       hint: Your distancing practices
       type: select_one
       options:
-        - Yes, always
-        - Yes, usually
-        - Sometimes
-        - Rarely
-        - No
+      - Yes, always
+      - Yes, usually
+      - Sometimes
+      - Rarely
+      - 'False'
       required: true
     - id: 19
       name: activities_modification
@@ -212,11 +201,11 @@ inputSchema:
       hint: Your activity changes
       type: select_one
       options:
-        - Completely stopped
-        - Mostly stopped
-        - Somewhat modified
-        - Minimal changes
-        - No changes
+      - Completely stopped
+      - Mostly stopped
+      - Somewhat modified
+      - Minimal changes
+      - No changes
       required: true
     - id: 20
       name: information_sources_header
@@ -231,14 +220,14 @@ inputSchema:
       hint: Select sources you trust
       type: select_multiple
       options:
-        - Government health agencies
-        - Healthcare providers
-        - Medical research
-        - News media
-        - Social media
-        - Friends and family
-        - Online forums
-        - Alternative sources
+      - Government health agencies
+      - Healthcare providers
+      - Medical research
+      - News media
+      - Social media
+      - Friends and family
+      - Online forums
+      - Alternative sources
       required: false
     - id: 22
       name: concern_about_misinformation
@@ -246,10 +235,10 @@ inputSchema:
       hint: Your concern level
       type: select_one
       options:
-        - Very concerned
-        - Somewhat concerned
-        - Not very concerned
-        - Not at all concerned
+      - Very concerned
+      - Somewhat concerned
+      - Not very concerned
+      - Not at all concerned
       required: false
     - id: 23
       name: personal_impact_header
@@ -264,16 +253,16 @@ inputSchema:
       hint: Select all applicable areas
       type: select_multiple
       options:
-        - Work or employment
-        - Education
-        - Mental health
-        - Physical health
-        - Finances
-        - Relationships
-        - Travel
-        - Social activities
-        - Healthcare access
-        - None
+      - Work or employment
+      - Education
+      - Mental health
+      - Physical health
+      - Finances
+      - Relationships
+      - Travel
+      - Social activities
+      - Healthcare access
+      - None
       required: false
     - id: 25
       name: viewer_additional_comments

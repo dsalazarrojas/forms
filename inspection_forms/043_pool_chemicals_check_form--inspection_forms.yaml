@@ -4,36 +4,39 @@ inputSchema:
     title: Pool Chemicals Check Form
     pages:
     - id: 1
-      name: chemicals_check_form
-      label: Chemicals Check Form
+      name: chemical_check_form
+      label: Chemical Check Form
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: pool_water_level
-      label: Pool Water Level
+      label: What is the pool water level?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      required: true
     - id: 3
       name: chemical_feed_type
       label: Chemical Feed Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: chemicals_check_results
-      label: Chemicals Check Results
+      label: Chemical Check Results
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: check_date
@@ -41,158 +44,58 @@ inputSchema:
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 6
       name: check_time
       label: Check Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 7
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
       name: email
       label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
       required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
     - id: 10
-      name: chemical_feed_type
-      label: Chemical Feed Type
+      name: chemical_check_frequency
+      label: What is the chemical check frequency?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Weekly
+      - Bi-weekly
+      - Daily
       required: false
     - id: 11
-      name: chemicals_check_results
-      label: Chemicals Check Results
+      name: pool_size
+      label: What is the pool size?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 12
-      name: chemical_feed_type
-      label: Chemical Feed Type
+      name: pool_type
+      label: What is the pool type?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: chemical_feed_type
-      label: Chemical Feed Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: pool_water_level
-      label: Pool Water Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: pool_water_level
-      label: Pool Water Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: pool_water_level
-      label: Pool Water Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: chemicals_check_results
-      label: Chemicals Check Results
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: chemicals_check_results
-      label: Chemicals Check Results
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: chemicals_check_results
-      label: Chemicals Check Results
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: pool_water_level
-      label: Pool Water Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: pool_water_level
-      label: Pool Water Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: pool_water_level
-      label: Pool Water Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: pool_water_level
-      label: Pool Water Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: pool_water_level
-      label: Pool Water Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: pool_water_level
-      label: Pool Water Level
-      hint: null
-      type: number
-      options: []
+      - Saltwater
+      - Freshwater
       required: false

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''Car''}'
-      - '{''id'': ''2'', ''label'': ''Truck''}'
-      - '{''id'': ''3'', ''label'': ''Motorcycle''}'
+      - Car
+      - Truck
+      - Motorcycle
       required: true
     - id: 3
       name: description
@@ -47,8 +47,8 @@ inputSchema:
       hint: Select type of maintenance
       type: select_multiple
       options:
-      - '{''id'': ''1'', ''label'': ''Preventative''}'
-      - '{''id'': ''2'', ''label'': ''Corrective''}'
+      - Preventative
+      - Corrective
       required: true
     - id: 7
       name: cost
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''Jimmy''}'
-      - '{''id'': ''2'', ''label'': ''Jill''}'
-      - '{''id'': ''3'', ''label'': ''Bob''}'
+      - Jimmy
+      - Jill
+      - Bob
       required: true
     - id: 11
       name: status
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''Complete''}'
-      - '{''id'': ''2'', ''label'': ''In Progress''}'
-      - '{''id'': ''3'', ''label'': ''Cancelled''}'
+      - Complete
+      - In Progress
+      - Cancelled
       required: true
     - id: 12
       name: next_service_date

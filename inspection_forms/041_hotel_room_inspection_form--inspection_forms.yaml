@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Poor'', ''value'': ''Poor''}'
-      - '{''label'': ''N/A'', ''value'': ''N/A''}'
+      - Good
+      - Poor
+      - N/A
       required: false
     - id: 3
       name: maintenance_request
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Clean'', ''value'': ''Clean''}'
-      - '{''label'': ''Dirty'', ''value'': ''Dirty''}'
-      - '{''label'': ''N/A'', ''value'': ''N/A''}'
+      - Clean
+      - Dirty
+      - N/A
       required: false
     - id: 5
       name: maintenance_priority
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Electrical'', ''value'': ''Electrical''}'
-      - '{''label'': ''Plumbing'', ''value'': ''Plumbing''}'
-      - '{''label'': ''N/A'', ''value'': ''N/A''}'
+      - Electrical
+      - Plumbing
+      - N/A
       required: false
     - id: 7
       name: maintenance_description

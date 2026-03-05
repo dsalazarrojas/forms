@@ -114,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Charges dismissed
       - Plea deal
       required: true
@@ -148,7 +148,7 @@ inputSchema:
       options:
       - Yes, sealed
       - Yes, expunged
-      - false
+      - 'False'
       - Pending
       required: true
     - id: 21
@@ -164,8 +164,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       - Unknown
       required: true
     - id: 23
@@ -182,7 +182,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I certify
-      - false
+      - 'False'
       required: true
     - id: 25
       name: signature_date

@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''18-24''}'
-      - '{''id'': 2, ''label'': ''25-34''}'
-      - '{''id'': 3, ''label'': ''35-44''}'
-      - '{''id'': 4, ''label'': ''45-54''}'
-      - '{''id'': 5, ''label'': ''55 or above''}'
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55 or above
       required: false
     - id: 3
       name: health_literacy_level
@@ -28,12 +28,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''very_low''}'
-      - '{''id'': 2, ''label'': ''low''}'
-      - '{''id'': 3, ''label'': ''fair''}'
-      - '{''id'': 4, ''label'': ''good''}'
-      - '{''id'': 5, ''label'': ''very_good''}'
-      - '{''id'': 6, ''label'': ''extremely_good''}'
+      - very low
+      - low
+      - fair
+      - good
+      - very good
+      - extremely good
       required: false
     - id: 4
       name: health_conceptual_understanding
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I have a good understanding''}'
-      - '{''id'': 2, ''label'': ''I have some understanding''}'
-      - '{''id'': 3, ''label'': ''I have very little understanding''}'
-      - '{''id'': 4, ''label'': ''I do not understand''}'
+      - I have a good understanding
+      - I have some understanding
+      - I have very little understanding
+      - I do not understand
       required: false
     - id: 5
       name: risk_benefit_assessment
@@ -52,12 +52,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''very_high_risk''}'
-      - '{''id'': 2, ''label'': ''high''}'
-      - '{''id'': 3, ''label'': ''moderate''}'
-      - '{''id'': 4, ''label'': ''low''}'
-      - '{''id'': 5, ''label'': ''very_low''}'
-      - '{''id'': 6, ''label'': ''not_applicable''}'
+      - very high risk
+      - high
+      - moderate
+      - low
+      - very low
+      - not applicable
       required: false
     - id: 6
       name: health_conceptual_understanding_scale
@@ -66,10 +66,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''0-25''}'
-      - '{''id'': 2, ''label'': ''26-50''}'
-      - '{''id'': 3, ''label'': ''51-75''}'
-      - '{''id'': 4, ''label'': ''76-100''}'
+      - 0-25
+      - 26-50
+      - 51-75
+      - 76-100
       required: false
     - id: 7
       name: health_systems_navigating
@@ -78,11 +78,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''very_easy''}'
-      - '{''id'': 2, ''label'': ''easy''}'
-      - '{''id'': 3, ''label'': ''moderate''}'
-      - '{''id'': 4, ''label'': ''difficult''}'
-      - '{''id'': 5, ''label'': ''very_difficult''}'
+      - very easy
+      - easy
+      - moderate
+      - difficult
+      - very difficult
       required: false
     - id: 8
       name: health_literacy_score

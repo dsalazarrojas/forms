@@ -1,443 +1,432 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Company Meeting Review Form
     pages:
-      - id: 1
-        name: employee_name
-        label: Your Name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: employee_email
-        label: Email Address
-        hint: Optional
-        type: email
-        options: []
-        required: false
-      - id: 3
-        name: department
-        label: Department
-        hint: Your department
-        type: select_one
-        options:
-          - Executive
-          - Management
-          - Sales
-          - Marketing
-          - Engineering
-          - Product
-          - Operations
-          - Finance
-          - Human Resources
-          - Customer Support
-          - Other
-        required: true
-      - id: 4
-        name: meeting_name
-        label: Meeting Name/Type
-        hint: What meeting was this?
-        type: select_one
-        options:
-          - Team Standup
-          - Department Meeting
-          - Project Meeting
-          - All-Hands Meeting
-          - Leadership Meeting
-          - Client Meeting
-          - Training Session
-          - Brainstorming Session
-          - Review Meeting
-          - Other
-        required: true
-      - id: 5
-        name: meeting_date
-        label: Meeting Date
-        hint: When was the meeting?
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: meeting_duration
-        label: Meeting Duration
-        hint: How long was it?
-        type: select_one
-        options:
-          - 15 minutes or less
-          - 16-30 minutes
-          - 31-45 minutes
-          - 46-60 minutes
-          - 1-2 hours
-          - Over 2 hours
-        required: true
-      - id: 7
-        name: meeting_organizer
-        label: Meeting Organizer
-        hint: Who organized it?
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: section_effectiveness
-        label: -- Meeting Effectiveness --
-        hint: Rate the effectiveness
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: clear_objective
-        label: The meeting had a clear purpose and objective
-        hint: Clarity rating
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 10
-        name: objective_achieved
-        label: The meeting objective was achieved
-        hint: Success rating
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 11
-        name: agenda_provided
-        label: An agenda was provided in advance
-        hint: Agenda availability
-        type: select_one
-        options:
-          - Yes, well in advance
-          - Yes, shortly before
-          - No agenda provided
-          - Not applicable
-        required: true
-      - id: 12
-        name: agenda_followed
-        label: The agenda was followed during the meeting
-        hint: Agenda adherence
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: false
-      - id: 13
-        name: section_time
-        label: -- Time Management --
-        hint: Rate time management
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: started_on_time
-        label: The meeting started on time
-        hint: Punctuality
-        type: select_one
-        options:
-          - Yes
-          - No, started late
-          - No, started early
-        required: true
-      - id: 15
-        name: ended_on_time
-        label: The meeting ended on time
-        hint: Duration adherence
-        type: select_one
-        options:
-          - Yes
-          - No, ended late
-          - No, ended early
-        required: true
-      - id: 16
-        name: time_well_spent
-        label: The time spent was worthwhile
-        hint: Time value
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 17
-        name: meeting_length_appropriate
-        label: The meeting length was appropriate for the content
-        hint: Length assessment
-        type: select_one
-        options:
-          - Yes, just right
-          - No, too long
-          - No, too short
-        required: true
-      - id: 18
-        name: section_participation
-        label: -- Participation --
-        hint: Rate participation
-        type: note
-        options: []
-        required: false
-      - id: 19
-        name: encouraged_participation
-        label: Participants were encouraged to contribute
-        hint: Inclusion rating
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 20
-        name: comfortable_speaking
-        label: I felt comfortable sharing my thoughts
-        hint: Comfort level
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 21
-        name: all_voices_heard
-        label: All participants had opportunity to speak
-        hint: Equal participation
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 22
-        name: discussion_productive
-        label: Discussions were productive and on-topic
-        hint: Discussion quality
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 23
-        name: section_leadership
-        label: -- Facilitation --
-        hint: Rate facilitation
-        type: note
-        options: []
-        required: false
-      - id: 24
-        name: well_facilitated
-        label: The meeting was well-facilitated
-        hint: Facilitation quality
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 25
-        name: ground_rules_followed
-        label: Meeting ground rules were established and followed
-        hint: Rules adherence
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-          - Not applicable
-        required: false
-      - id: 26
-        name: conflicts_managed
-        label: Any conflicts were managed constructively
-        hint: Conflict management
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-          - Not applicable
-        required: false
-      - id: 27
-        name: section_outcomes
-        label: -- Outcomes --
-        hint: Rate outcomes
-        type: note
-        options: []
-        required: false
-      - id: 28
-        name: clear_action_items
-        label: Action items were clearly defined
-        hint: Action item clarity
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-          - No action items
-        required: true
-      - id: 29
-        name: owners_assigned
-        label: Owners were assigned to action items
-        hint: Accountability
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-          - Not applicable
-        required: false
-      - id: 30
-        name: deadlines_set
-        label: Deadlines were set for action items
-        hint: Timeline clarity
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-          - Not applicable
-        required: false
-      - id: 31
-        name: follow_up_planned
-        label: Follow-up was planned if needed
-        hint: Continuity
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not sure
-        required: false
-      - id: 32
-        name: section_materials
-        label: -- Materials and Resources --
-        hint: Rate materials
-        type: note
-        options: []
-        required: false
-      - id: 33
-        name: materials_prepared
-        label: Necessary materials were prepared
-        hint: Preparation
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-          - Not applicable
-        required: false
-      - id: 34
-        name: technology_worked
-        label: Technology (if used) worked properly
-        hint: Tech functionality
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-          - Not applicable
-        required: false
-      - id: 35
-        name: section_overall
-        label: -- Overall Assessment --
-        hint: Overall rating
-        type: note
-        options: []
-        required: false
-      - id: 36
-        name: meeting_effectiveness_rating
-        label: Overall, how effective was this meeting?
-        hint: Overall effectiveness
-        type: select_one
-        options:
-          - Very Effective
-          - Effective
-          - Neutral
-          - Ineffective
-          - Very Ineffective
-        required: true
-      - id: 37
-        name: would_attend_again
-        label: Would you attend a similar meeting again?
-        hint: Future attendance
-        type: select_one
-        options:
-          - Yes, definitely
-          - Probably
-          - Neutral
-          - Probably not
-          - No
-        required: true
-      - id: 38
-        name: best_aspect
-        label: What was the best aspect of this meeting?
-        hint: Positive feedback
-        type: text
-        options: []
-        required: false
-      - id: 39
-        name: areas_for_improvement
-        label: What could be improved?
-        hint: Improvement suggestions
-        type: text
-        options: []
-        required: false
-      - id: 40
-        name: additional_comments
-        label: Any additional comments?
-        hint: Your thoughts
-        type: text
-        options: []
-        required: false
-      - id: 41
-        name: review_date
-        label: Review Date
-        hint: Today's date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: employee_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_email
+      label: Email Address
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Executive
+      - Management
+      - Sales
+      - Marketing
+      - Engineering
+      - Product
+      - Operations
+      - Finance
+      - Human Resources
+      - Customer Support
+      - Other
+      required: true
+    - id: 4
+      name: meeting_name
+      label: Meeting Name/Type
+      hint: What meeting was this?
+      type: select_one
+      options:
+      - Team Standup
+      - Department Meeting
+      - Project Meeting
+      - All-Hands Meeting
+      - Leadership Meeting
+      - Client Meeting
+      - Training Session
+      - Brainstorming Session
+      - Review Meeting
+      - Other
+      required: true
+    - id: 5
+      name: meeting_date
+      label: Meeting Date
+      hint: When was the meeting?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: meeting_duration
+      label: Meeting Duration
+      hint: How long was it?
+      type: select_one
+      options:
+      - 15 minutes or less
+      - 16-30 minutes
+      - 31-45 minutes
+      - 46-60 minutes
+      - 1-2 hours
+      - Over 2 hours
+      required: true
+    - id: 7
+      name: meeting_organizer
+      label: Meeting Organizer
+      hint: Who organized it?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_effectiveness
+      label: -- Meeting Effectiveness --
+      hint: Rate the effectiveness
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: clear_objective
+      label: The meeting had a clear purpose and objective
+      hint: Clarity rating
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 10
+      name: objective_achieved
+      label: The meeting objective was achieved
+      hint: Success rating
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 11
+      name: agenda_provided
+      label: An agenda was provided in advance
+      hint: Agenda availability
+      type: select_one
+      options:
+      - Yes, well in advance
+      - Yes, shortly before
+      - No agenda provided
+      - Not applicable
+      required: true
+    - id: 12
+      name: agenda_followed
+      label: The agenda was followed during the meeting
+      hint: Agenda adherence
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: false
+    - id: 13
+      name: section_time
+      label: -- Time Management --
+      hint: Rate time management
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: started_on_time
+      label: The meeting started on time
+      hint: Punctuality
+      type: select_one
+      options:
+      - 'True'
+      - No, started late
+      - No, started early
+      required: true
+    - id: 15
+      name: ended_on_time
+      label: The meeting ended on time
+      hint: Duration adherence
+      type: select_one
+      options:
+      - 'True'
+      - No, ended late
+      - No, ended early
+      required: true
+    - id: 16
+      name: time_well_spent
+      label: The time spent was worthwhile
+      hint: Time value
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 17
+      name: meeting_length_appropriate
+      label: The meeting length was appropriate for the content
+      hint: Length assessment
+      type: select_one
+      options:
+      - Yes, just right
+      - No, too long
+      - No, too short
+      required: true
+    - id: 18
+      name: section_participation
+      label: -- Participation --
+      hint: Rate participation
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: encouraged_participation
+      label: Participants were encouraged to contribute
+      hint: Inclusion rating
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 20
+      name: comfortable_speaking
+      label: I felt comfortable sharing my thoughts
+      hint: Comfort level
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 21
+      name: all_voices_heard
+      label: All participants had opportunity to speak
+      hint: Equal participation
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 22
+      name: discussion_productive
+      label: Discussions were productive and on-topic
+      hint: Discussion quality
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 23
+      name: section_leadership
+      label: -- Facilitation --
+      hint: Rate facilitation
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: well_facilitated
+      label: The meeting was well-facilitated
+      hint: Facilitation quality
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 25
+      name: ground_rules_followed
+      label: Meeting ground rules were established and followed
+      hint: Rules adherence
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      - Not applicable
+      required: false
+    - id: 26
+      name: conflicts_managed
+      label: Any conflicts were managed constructively
+      hint: Conflict management
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      - Not applicable
+      required: false
+    - id: 27
+      name: section_outcomes
+      label: -- Outcomes --
+      hint: Rate outcomes
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: clear_action_items
+      label: Action items were clearly defined
+      hint: Action item clarity
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      - No action items
+      required: true
+    - id: 29
+      name: owners_assigned
+      label: Owners were assigned to action items
+      hint: Accountability
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      - Not applicable
+      required: false
+    - id: 30
+      name: deadlines_set
+      label: Deadlines were set for action items
+      hint: Timeline clarity
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      - Not applicable
+      required: false
+    - id: 31
+      name: follow_up_planned
+      label: Follow-up was planned if needed
+      hint: Continuity
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not sure
+      required: false
+    - id: 32
+      name: section_materials
+      label: -- Materials and Resources --
+      hint: Rate materials
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: materials_prepared
+      label: Necessary materials were prepared
+      hint: Preparation
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      - Not applicable
+      required: false
+    - id: 34
+      name: technology_worked
+      label: Technology (if used) worked properly
+      hint: Tech functionality
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      - Not applicable
+      required: false
+    - id: 35
+      name: section_overall
+      label: -- Overall Assessment --
+      hint: Overall rating
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: meeting_effectiveness_rating
+      label: Overall, how effective was this meeting?
+      hint: Overall effectiveness
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Neutral
+      - Ineffective
+      - Very Ineffective
+      required: true
+    - id: 37
+      name: would_attend_again
+      label: Would you attend a similar meeting again?
+      hint: Future attendance
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably
+      - Neutral
+      - Probably not
+      - 'False'
+      required: true
+    - id: 38
+      name: best_aspect
+      label: What was the best aspect of this meeting?
+      hint: Positive feedback
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: areas_for_improvement
+      label: What could be improved?
+      hint: Improvement suggestions
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: additional_comments
+      label: Any additional comments?
+      hint: Your thoughts
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: review_date
+      label: Review Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

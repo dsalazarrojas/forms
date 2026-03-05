@@ -72,12 +72,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''once''}'
-      - '{''value'': ''multiple''}'
-      - '{''value'': ''weekly''}'
-      - '{''value'': ''biweekly''}'
-      - '{''value'': ''triweekly''}'
-      - '{''value'': ''other''}'
+      - once
+      - multiple
+      - weekly
+      - biweekly
+      - triweekly
+      - other
       required: true
     - id: 11
       name: access_type
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''internship''}'
-      - '{''value'': ''research''}'
-      - '{''value'': ''project''}'
+      - internship
+      - research
+      - project
       required: true
     - id: 12
       name: other_requests

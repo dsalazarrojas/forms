@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Basic'', ''value'': ''Basic''}'
-      - '{''id'': 2, ''label'': ''Premium'', ''value'': ''Premium''}'
-      - '{''id'': 3, ''label'': ''VIP'', ''value'': ''VIP''}'
+      - Basic
+      - Premium
+      - VIP
       required: true
     - id: 3
       name: e_signature
@@ -180,7 +180,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I have read and agreed to the terms and conditions'',
-        ''value'': ''I have read and agreed to the terms and conditions''}'
+      - I have read and agreed to the terms and conditions
       - Other
       required: true

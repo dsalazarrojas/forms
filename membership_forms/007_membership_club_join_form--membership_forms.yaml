@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''card''}'
-      - '{''name'': ''bank_transfer''}'
+      - card
+      - bank transfer
       required: false
     - id: 6
       name: membership_plan
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''monthly''}'
-      - '{''name'': ''annual''}'
-      - '{''name'': ''one_time_fee''}'
+      - monthly
+      - annual
+      - one time fee
       required: false
     - id: 7
       name: payment_amount

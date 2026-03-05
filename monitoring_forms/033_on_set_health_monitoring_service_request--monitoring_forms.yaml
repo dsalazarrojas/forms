@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''Monitoring Forms'', ''name'': ''Monitoring Forms''}'
-      - '{''id'': ''production_request'', ''name'': ''Production Request''}'
-      - '{''id'': ''equipment_request'', ''name'': ''Equipment Request''}'
+      - Monitoring Forms
+      - Production Request
+      - Equipment Request
       required: false
     - id: 3
       name: description
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''Los Angeles'', ''name'': ''Los Angeles''}'
-      - '{''id'': ''New York'', ''name'': ''New York''}'
-      - '{''id'': ''Chicago'', ''name'': ''Chicago''}'
+      - Los Angeles
+      - New York
+      - Chicago
       required: false
     - id: 5
       name: start_time
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''health'', ''name'': ''Health''}'
-      - '{''id'': ''equipment'', ''name'': ''Equipment''}'
+      - Health
+      - Equipment
       required: false
     - id: 10
       name: equipment_count
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''dolly'', ''name'': ''Dolly''}'
-      - '{''id'': ''grip'', ''name'': ''Grip''}'
-      - '{''id'': ''lighting'', ''name'': ''Lighting''}'
+      - Dolly
+      - Grip
+      - Lighting
       required: false
     - id: 12
       name: crew_size
@@ -97,7 +97,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''less_than_10'', ''name'': ''Less than 10''}'
-      - '{''id'': ''10_to_20'', ''name'': ''10 to 20''}'
-      - '{''id'': ''more_than_20'', ''name'': ''More than 20''}'
+      - Less than 10
+      - 10 to 20
+      - More than 20
       required: false

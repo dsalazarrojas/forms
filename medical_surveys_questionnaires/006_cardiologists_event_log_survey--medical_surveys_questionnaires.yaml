@@ -44,14 +44,10 @@ inputSchema:
       hint: Select the one that best applies
       type: select_one
       options:
-      - label: Highly Relevant
-        value: highly_relevant
-      - label: Somewhat Relevant
-        value: somewhat_relevant
-      - label: Not Very Relevant
-        value: not_relevant
-      - label: Not Relevant At All
-        value: none
+      - Highly Relevant
+      - Somewhat Relevant
+      - Not Very Relevant
+      - Not Relevant At All
       required: true
     - id: 7
       name: key_takeaways
@@ -80,14 +76,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Very Satisfied
-        value: very_satisfied
-      - label: Satisfied
-        value: satisfied
-      - label: Neutral
-        value: neutral
-      - label: Dissatisfied
-        value: dissatisfied
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
       required: true
     - id: 11
       name: organization_rating
@@ -102,8 +94,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Yes, I am open to it
-        value: true
-      - label: No, please do not contact me
-        value: false
+      - Yes, I am open to it
+      - No, please do not contact me
       required: true

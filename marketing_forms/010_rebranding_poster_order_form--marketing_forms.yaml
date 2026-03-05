@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''credit_card''}'
-      - '{''name'': ''bank_transfer''}'
+      - credit card
+      - bank transfer
       required: false
     - id: 6
       name: billing_address
@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''payment_terms_1''}'
-      - '{''name'': ''payment_terms_2''}'
+      - payment terms 1
+      - payment terms 2
       required: false
     - id: 8
       name: notes
@@ -160,6 +160,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''payment_terms_3_1''}'
-      - '{''name'': ''payment_terms_3_2''}'
+      - payment terms 3 1
+      - payment terms 3 2
       required: false

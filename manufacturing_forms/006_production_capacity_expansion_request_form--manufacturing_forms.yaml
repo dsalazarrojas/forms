@@ -29,71 +29,77 @@ inputSchema:
       options: []
       required: false
     - id: 3
-      name: production_capacity_expansion_request_form
-      label: Production Capacity Expansion Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: timeline
       label: Timeline
       hint: null
       type: date
       options: []
       required: false
-    - id: 5
+    - id: 4
       name: review_approvals
       label: Review and Approvals
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
       required: false
-    - id: 6
-      name: production_capacity_expansion_request_form
-      label: Production Capacity Expansion Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
+    - id: 5
       name: approval
       label: Approval
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
+      - Approve
+      - Deny
       required: false
-    - id: 8
+    - id: 6
       name: review
       label: Review
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
+      - Internal Review
+      - External Review
+      required: false
+    - id: 7
+      name: equipment
+      label: Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resources
+      label: Resources
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 9
-      name: production_capacity_expansion_request_form
-      label: Production Capacity Expansion Request Form
+      name: production_plan
+      label: Production Plan
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: production_capacity_expansion_request_form
-      label: Production Capacity Expansion Request Form
+      name: expected_completion_date
+      label: Expected Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: review_comments
+      label: Review Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: production_capacity_expansion_request_form
-      label: Production Capacity Expansion Request Form
+    - id: 12
+      name: final_notes
+      label: Final Notes
       hint: null
       type: text
       options: []

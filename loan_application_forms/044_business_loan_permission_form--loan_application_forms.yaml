@@ -1,67 +1,56 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Business Loan Permission Form
     pages:
-      - id: 1
-        name: header
-        label: -- Permission for Loan Processing --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: applicant_name
-        label: Applicant name
-        hint: Name of the person granting permission
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: loan_purpose
-        label: Loan purpose
-        hint: Brief purpose description
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: consent_to_share_information
-        label: Consent to share information
-        hint: Allow sharing of personal and financial information
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 5
-        name: third_party_recipients
-        label: Third party recipients
-        hint: List organizations that may receive information
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: contact_email
-        label: Contact email
-        hint: For loan coordinator communications
-        type: email
-        options: []
-        required: true
-      - id: 7
-        name: signature_instructions
-        label: Signature instructions
-        hint: Provide guidance for signing the permission form
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: header
+      label: -- Permission for Loan Processing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Name of the person granting permission
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: loan_purpose
+      label: Loan purpose
+      hint: Brief purpose description
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consent_to_share_information
+      label: Consent to share information
+      hint: Allow sharing of personal and financial information
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: third_party_recipients
+      label: Third party recipients
+      hint: List organizations that may receive information
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact email
+      hint: For loan coordinator communications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: signature_instructions
+      label: Signature instructions
+      hint: Provide guidance for signing the permission form
+      type: text
+      options: []
+      required: false

@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Phone'', ''value'': ''phone''}'
-      - '{''name'': ''Email'', ''value'': ''email''}'
+      - phone
+      - email
       required: false
     - id: 5
       name: medical_licensure
@@ -41,6 +41,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

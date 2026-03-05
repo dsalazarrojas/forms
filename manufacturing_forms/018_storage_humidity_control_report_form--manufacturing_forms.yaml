@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 2.1, ''name'': 6872}'
-      - '{''id'': 2.2, ''name'': 7276}'
-      - '{''id'': 2.3, ''name'': 7680}'
+      - '6872'
+      - '7276'
+      - '7680'
       required: true
     - id: 3
       name: humidity_check
@@ -37,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 3.1, ''name'': 60}'
-      - '{''id'': 3.2, ''name'': 70}'
-      - '{''id'': 3.3, ''name'': 80}'
-      - '{''id'': 3.4, ''name'': 90}'
+      - '60'
+      - '70'
+      - '80'
+      - '90'
       required: true
     - id: 4
       name: corrective_action
@@ -76,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 8.1, ''name'': ''John Doe''}'
-      - '{''id'': 8.2, ''name'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: true
     - id: 9
       name: status
@@ -85,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 9.1, ''name'': ''Open''}'
-      - '{''id'': 9.2, ''name'': ''In Progress''}'
-      - '{''id'': 9.3, ''name'': ''Completed''}'
+      - Open
+      - In Progress
+      - Completed
       required: true
     - id: 10
       name: comments
@@ -123,8 +112,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 14.1, ''name'': ''Good''}'
-      - '{''id'': 14.2, ''name'': ''Bad''}'
+      - Good
+      - Bad
       required: true
     - id: 15
       name: temperature_sensor_calibration_frequency
@@ -132,7 +121,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 15.1, ''name'': ''Daily''}'
-      - '{''id'': 15.2, ''name'': ''Weekly''}'
-      - '{''id'': 15.3, ''name'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false

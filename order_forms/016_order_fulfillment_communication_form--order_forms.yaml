@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pending''}'
-      - '{''id'': 2, ''name'': ''fulfilled''}'
-      - '{''id'': 3, ''name'': ''cancelled''}'
+      - pending
+      - fulfilled
+      - cancelled
       required: false
     - id: 5
       name: fulfillment_date
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''email''}'
-      - '{''id'': 2, ''name'': ''phone''}'
-      - '{''id'': 3, ''name'': ''in-app''}'
+      - email
+      - phone
+      - in-app
       required: false
     - id: 13
       name: attachment
@@ -127,9 +127,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pending''}'
-      - '{''id'': 2, ''name'': ''fulfilled''}'
-      - '{''id'': 3, ''name'': ''cancelled''}'
+      - pending
+      - fulfilled
+      - cancelled
       required: false
     - id: 18
       name: employee_message_type
@@ -137,10 +137,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''text''}'
-      - '{''id'': 2, ''name'': ''call''}'
-      - '{''id'': 3, ''name'': ''email''}'
-      - '{''id'': 4, ''name'': ''in-app''}'
+      - text
+      - call
+      - email
+      - in-app
       required: false
     - id: 19
       name: customer_phone_type
@@ -148,9 +148,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''voice''}'
-      - '{''id'': 2, ''name'': ''video''}'
-      - '{''id'': 3, ''name'': ''voice_and_video''}'
+      - voice
+      - video
+      - voice and video
       required: false
     - id: 20
       name: customer_phone_number
@@ -165,10 +165,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''text''}'
-      - '{''id'': 2, ''name'': ''email''}'
-      - '{''id'': 3, ''name'': ''in-app''}'
-      - '{''id'': 4, ''name'': ''file''}'
+      - text
+      - email
+      - in-app
+      - file
       required: false
     - id: 22
       name: employee_phone_number
@@ -183,10 +183,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''text''}'
-      - '{''id'': 2, ''name'': ''call''}'
-      - '{''id'': 3, ''name'': ''email''}'
-      - '{''id'': 4, ''name'': ''in-app''}'
+      - text
+      - call
+      - email
+      - in-app
       required: false
     - id: 24
       name: order_fulfillment_date

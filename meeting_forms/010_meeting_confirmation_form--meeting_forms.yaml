@@ -4,38 +4,17 @@ inputSchema:
     title: Meeting Confirmation Form
     pages:
     - id: 1
-      name: meeting_confirmation_form
-      label: meeting_confirmation_form
+      name: participant_information
+      label: Participant Information
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''first_name'', ''label'': ''First Name'', ''type'':
-        ''text'', ''required'': True}'
-      - '{''id'': 2, ''name'': ''email'', ''label'': ''Email'', ''type'': ''email'',
-        ''required'': True}'
-      - '{''id'': 3, ''name'': ''attendee_type'', ''label'': ''Attendee Type'', ''type'':
-        ''select_one'', ''options'': [{''id'': 1, ''name'': ''participant'', ''label'':
-        ''Participant''}, {''id'': 2, ''name'': ''presenter'', ''label'': ''Presenter''},
-        {''id'': 3, ''name'': ''host'', ''label'': ''Host''}, {''id'': 4, ''name'':
-        ''no_answer'', ''label'': ''No Answer''}]}'
-      - '{''id'': 4, ''name'': ''meeting_details'', ''label'': ''Meeting Details'',
-        ''hint'': None, ''type'': ''object'', ''options'': [{''id'': 1, ''name'':
-        ''meeting_start_time'', ''label'': ''Meeting Start Time'', ''type'': ''time''},
-        {''id'': 2, ''name'': ''meeting_end_time'', ''label'': ''Meeting End Time'',
-        ''type'': ''time''}, {''id'': 3, ''name'': ''location'', ''label'': ''Location'',
-        ''type'': ''text''}, {''id'': 4, ''name'': ''duration'', ''label'': ''Duration'',
-        ''type'': ''text''}, {''id'': 5, ''name'': ''notes'', ''label'': ''Notes'',
-        ''type'': ''text''}, {''id'': 6, ''name'': ''meeting_date'', ''label'': ''Meeting
-        Date'', ''type'': ''date''}, {''id'': 7, ''name'': ''status'', ''label'':
-        ''Status'', ''type'': ''select_one'', ''options'': [{''id'': 1, ''name'':
-        ''confirmed'', ''label'': ''Confirmed''}, {''id'': 2, ''name'': ''pending'',
-        ''label'': ''Pending''}, {''id'': 3, ''name'': ''canceled'', ''label'': ''Canceled''}]}]}'
+      type: text
+      options: []
       required: false
     - id: 2
-      name: notes
-      label: notes
+      name: meeting_details
+      label: Meeting Details
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 3
@@ -44,234 +23,77 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
-      name: meeting_details
-      label: Meeting Details
+      name: participant_status
+      label: Participant Status
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''meeting_start_time'', ''label'': ''Meeting Start
-        Time'', ''type'': ''time''}'
-      - '{''id'': 2, ''name'': ''meeting_end_time'', ''label'': ''Meeting End Time'',
-        ''type'': ''time''}'
-      - '{''id'': 3, ''name'': ''location'', ''label'': ''Location'', ''type'': ''text''}'
-      - '{''id'': 4, ''name'': ''duration'', ''label'': ''Duration'', ''type'': ''text''}'
-      - '{''id'': 5, ''name'': ''notes'', ''label'': ''Notes'', ''type'': ''text''}'
-      - '{''id'': 6, ''name'': ''meeting_date'', ''label'': ''Meeting Date'', ''type'':
-        ''date''}'
-      - '{''id'': 7, ''name'': ''status'', ''label'': ''Status'', ''type'': ''select_one'',
-        ''options'': [{''id'': 1, ''name'': ''confirmed'', ''label'': ''Confirmed''},
-        {''id'': 2, ''name'': ''pending'', ''label'': ''Pending''}, {''id'': 3, ''name'':
-        ''canceled'', ''label'': ''Canceled''}]}'
+      - Active
+      - Inactive
       required: false
     - id: 5
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 6
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
-      name: first_name
-      label: First Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 8
-      name: last_name
-      label: Last Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 9
-      name: participant_type
-      label: Attendee Type
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''participant'', ''label'': ''Participant'', ''required'':
-        True}'
-      - '{''id'': 2, ''name'': ''presenter'', ''label'': ''Presenter'', ''required'':
-        True}'
-      - '{''id'': 3, ''name'': ''host'', ''label'': ''Host'', ''required'': True}'
-      - '{''id'': 4, ''name'': ''no_answer'', ''label'': ''No Answer'', ''required'':
-        True}'
-      required: false
-    - id: 10
-      name: meeting_details
-      label: Meeting Details
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''meeting_start_time'', ''label'': ''Meeting Start
-        Time'', ''type'': ''time''}'
-      - '{''id'': 2, ''name'': ''meeting_end_time'', ''label'': ''Meeting End Time'',
-        ''type'': ''time''}'
-      - '{''id'': 3, ''name'': ''location'', ''label'': ''Location'', ''type'': ''text''}'
-      - '{''id'': 4, ''name'': ''duration'', ''label'': ''Duration'', ''type'': ''text''}'
-      - '{''id'': 5, ''name'': ''notes'', ''label'': ''Notes'', ''type'': ''text''}'
-      - '{''id'': 6, ''name'': ''meeting_date'', ''label'': ''Meeting Date'', ''type'':
-        ''date''}'
-      - '{''id'': 7, ''name'': ''status'', ''label'': ''Status'', ''type'': ''select_one'',
-        ''options'': [{''id'': 1, ''name'': ''confirmed'', ''label'': ''Confirmed''},
-        {''id'': 2, ''name'': ''pending'', ''label'': ''Pending''}, {''id'': 3, ''name'':
-        ''canceled'', ''label'': ''Canceled''}]}'
-      required: false
-    - id: 11
       name: participant
       label: Participant
       hint: null
       type: text
       options: []
       required: true
-    - id: 12
+    - id: 6
       name: participant_email
       label: Participant Email
       hint: null
       type: email
       options: []
       required: true
-    - id: 13
-      name: participant_status
-      label: Participant Status
+    - id: 7
+      name: participant_status_2
+      label: Participant Status 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''confirmed'', ''label'': ''Confirmed''}'
-      - '{''id'': 2, ''name'': ''pending'', ''label'': ''Pending''}'
-      - '{''id'': 3, ''name'': ''canceled'', ''label'': ''Canceled''}'
+      - Active
+      - Inactive
       required: false
-    - id: 14
+    - id: 8
       name: notes
       label: Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 15
-      name: participant_list
-      label: Participants List
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: meeting_details
-      label: Meeting Details
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''meeting_start_time'', ''label'': ''Meeting Start
-        Time'', ''type'': ''time''}'
-      - '{''id'': 2, ''name'': ''meeting_end_time'', ''label'': ''Meeting End Time'',
-        ''type'': ''time''}'
-      - '{''id'': 3, ''name'': ''location'', ''label'': ''Location'', ''type'': ''text''}'
-      - '{''id'': 4, ''name'': ''duration'', ''label'': ''Duration'', ''type'': ''text''}'
-      - '{''id'': 5, ''name'': ''notes'', ''label'': ''Notes'', ''type'': ''text''}'
-      - '{''id'': 6, ''name'': ''meeting_date'', ''label'': ''Meeting Date'', ''type'':
-        ''date''}'
-      - '{''id'': 7, ''name'': ''status'', ''label'': ''Status'', ''type'': ''select_one'',
-        ''options'': [{''id'': 1, ''name'': ''confirmed'', ''label'': ''Confirmed''},
-        {''id'': 2, ''name'': ''pending'', ''label'': ''Pending''}, {''id'': 3, ''name'':
-        ''canceled'', ''label'': ''Canceled''}]}'
-      required: false
-    - id: 17
-      name: participant
-      label: Participant
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: participant_status
-      label: Participant Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 19
+    - id: 9
       name: first_name
       label: First Name
       hint: null
       type: text
       options: []
       required: true
-    - id: 20
+    - id: 10
       name: last_name
       label: Last Name
       hint: null
       type: text
       options: []
       required: true
-    - id: 21
-      name: participant_list
-      label: Participant List
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: participant_details
-      label: Participant Details
+    - id: 11
+      name: participant_type
+      label: Participant Type
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''first_name'', ''label'': ''First Name'', ''type'':
-        ''text''}'
-      - '{''id'': 2, ''name'': ''last_name'', ''label'': ''Last Name'', ''type'':
-        ''text''}'
-      - '{''id'': 3, ''name'': ''email'', ''label'': ''Email'', ''type'': ''email''}'
-      - '{''id'': 4, ''name'': ''phone'', ''label'': ''Phone'', ''type'': ''phone''}'
-      - '{''id'': 5, ''name'': ''status'', ''label'': ''Status'', ''type'': ''select_one'',
-        ''options'': [{''id'': 1, ''name'': ''confirmed'', ''label'': ''Confirmed''},
-        {''id'': 2, ''name'': ''pending'', ''label'': ''Pending''}, {''id'': 3, ''name'':
-        ''canceled'', ''label'': ''Canceled''}]}'
-      required: false
-    - id: 23
-      name: participant
-      label: Participant
+      - Participant
+      - Host
+      - Presenter
+      - No Answer
+      required: true
+    - id: 12
+      name: meeting_details_2
+      label: Meeting Details 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 24
-      name: participant_status
-      label: Participant Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 25
-      name: participant_email
-      label: Participant Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 26
-      name: participant_phone
-      label: Participant Phone
-      hint: null
-      type: text
-      options: []
-      required: true

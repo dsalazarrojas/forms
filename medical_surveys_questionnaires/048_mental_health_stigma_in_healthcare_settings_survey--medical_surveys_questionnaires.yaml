@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 3
       name: attitudes_towards_stigma
@@ -25,11 +25,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''strongly_agree'', ''value'': ''strongly_agree''}'
-      - '{''label'': ''somewhat_agree'', ''value'': ''somewhat_agree''}'
-      - '{''label'': ''neutral'', ''value'': ''neutral''}'
-      - '{''label'': ''somewhat_disagree'', ''value'': ''somewhat_disagree''}'
-      - '{''label'': ''strongly_disagree'', ''value'': ''strongly_disagree''}'
+      - strongly agree
+      - somewhat agree
+      - neutral
+      - somewhat disagree
+      - strongly disagree
       required: true
     - id: 4
       name: comfort_level
@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_high''}'
-      - '{''value'': ''high''}'
-      - '{''value'': ''medium''}'
-      - '{''value'': ''low''}'
-      - '{''value'': ''very_low''}'
+      - very high
+      - high
+      - medium
+      - low
+      - very low
       required: true
     - id: 5
       name: suggestions_for_improvement
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Hospital'', ''value'': ''Hospital''}'
-      - '{''label'': ''Clinic'', ''value'': ''Clinic''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - Hospital
+      - Clinic
+      - Other
       required: true
     - id: 12
       name: department
@@ -122,12 +122,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High School Diploma or Equivalent'', ''value'': ''High School
-        Diploma or Equivalent''}'
-      - '{''label'': ''Bachelors'', ''value'': ''Bachelors''}'
-      - '{''label'': ''Master'', ''value'': ''Master''}'
-      - '{''label'': ''Doctoral'', ''value'': ''Doctoral''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - High School Diploma or Equivalent
+      - Bachelors
+      - Master
+      - Doctoral
+      - Other
       required: true
     - id: 16
       name: shift_worked
@@ -135,10 +134,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Morning'', ''value'': ''Morning''}'
-      - '{''label'': ''Afternoon'', ''value'': ''Afternoon''}'
-      - '{''label'': ''Evening'', ''value'': ''Evening''}'
-      - '{''label'': ''Night'', ''value'': ''Night''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
       required: true
     - id: 17
       name: days_per_week
@@ -174,8 +173,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Clinical'', ''value'': ''Clinical''}'
-      - '{''label'': ''Non-Clinical'', ''value'': ''Non-Clinical''}'
+      - Clinical
+      - Non-Clinical
       required: true
     - id: 22
       name: work_status
@@ -183,10 +182,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Full-time'', ''value'': ''Full-time''}'
-      - '{''label'': ''Part-time'', ''value'': ''Part-time''}'
-      - '{''label'': ''Contract'', ''value'': ''Contract''}'
-      - '{''label'': ''Temporary'', ''value'': ''Temporary''}'
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
       required: true
     - id: 23
       name: job_title_change
@@ -194,8 +193,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: reason_for_job_title_change

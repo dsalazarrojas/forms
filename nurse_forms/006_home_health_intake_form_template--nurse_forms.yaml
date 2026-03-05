@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Penicillin''}'
-      - '{''id'': 3, ''label'': ''Morphine''}'
+      - None
+      - Penicillin
+      - Morphine
       required: true
     - id: 6
       name: medical_conditions
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Asthma''}'
-      - '{''id'': 2, ''label'': ''Diabetes''}'
-      - '{''id'': 3, ''label'': ''Hypertension''}'
-      - '{''id'': 4, ''label'': ''None''}'
+      - Asthma
+      - Diabetes
+      - Hypertension
+      - None
       required: false
     - id: 7
       name: primary_responsible_party
@@ -58,10 +58,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Clinician''}'
-      - '{''id'': 2, ''label'': ''Caregiver''}'
-      - '{''id'': 3, ''label'': ''Family Member''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Clinician
+      - Caregiver
+      - Family Member
+      - Other
       required: false
     - id: 8
       name: home_health_aide_license
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Expired''}'
-      - '{''id'': 3, ''label'': ''None''}'
+      - Active
+      - Expired
+      - None
       required: false
     - id: 9
       name: patient_intake_form

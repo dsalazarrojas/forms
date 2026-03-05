@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Supplement 1'', ''value'': ''supplement_1''}'
-      - '{''label'': ''Supplement 2'', ''value'': ''supplement_2''}'
-      - '{''label'': ''Supplement 3'', ''value'': ''supplement_3''}'
+      - Supplement 1
+      - Supplement 2
+      - Supplement 3
       required: false
     - id: 5
       name: order_date
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
-      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
-      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 10
       name: customer_message
@@ -106,7 +106,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Paid'', ''value'': ''paid''}'
-      - '{''label'': ''Pending'', ''value'': ''pending''}'
-      - '{''label'': ''Refunded'', ''value'': ''refunded''}'
+      - Paid
+      - Pending
+      - Refunded
       required: false

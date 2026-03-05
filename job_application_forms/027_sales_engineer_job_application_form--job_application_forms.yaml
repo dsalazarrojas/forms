@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''John Doe''}'
-      - '{''id'': 2, ''name'': ''Jane Doe''}'
-      - '{''id'': 3, ''name'': ''Jim Doe''}'
+      - John Doe
+      - Jane Doe
+      - Jim Doe
       required: false
     - id: 3
       name: work_history
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''1-5 years''}'
-      - '{''id'': 2, ''name'': ''5-10 years''}'
-      - '{''id'': 3, ''name'': ''10+ years''}'
+      - 1-5 years
+      - 5-10 years
+      - 10+ years
       required: true
     - id: 4
       name: education
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': "Bachelor''s"}'
-      - '{''id'': 2, ''name'': "Master''s"}'
-      - '{''id'': 3, ''name'': ''PhD''}'
+      - Bachelor's
+      - Master's
+      - PhD
       required: true
     - id: 5
       name: skills
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Sales''}'
-      - '{''id'': 2, ''name'': ''Technical''}'
-      - '{''id'': 3, ''name'': ''Communication''}'
+      - Sales
+      - Technical
+      - Communication
       required: true
     - id: 6
       name: resume
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Sales Engineer''}'
-      - '{''id'': 2, ''name'': ''Software Engineer''}'
-      - '{''id'': 3, ''name'': ''Mechanical Engineer''}'
+      - Sales Engineer
+      - Software Engineer
+      - Mechanical Engineer
       required: true
     - id: 9
       name: job_description
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''USA''}'
-      - '{''id'': 2, ''name'': ''Canada''}'
-      - '{''id'': 3, ''name'': ''Mexico''}'
+      - USA
+      - Canada
+      - Mexico
       required: true
     - id: 11
       name: job_type
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Full-time''}'
-      - '{''id'': 2, ''name'': ''Part-time''}'
-      - '{''id'': 3, ''name'': ''Remote''}'
+      - Full-time
+      - Part-time
+      - Remote
       required: false
     - id: 12
       name: job_status
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
-      - '{''id'': 3, ''name'': ''Onboarding''}'
+      - Active
+      - Inactive
+      - Onboarding
       required: true
     - id: 13
       name: job_start_date
@@ -166,9 +166,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Not Specified''}'
+      - 'True'
+      - 'False'
+      - Not Specified
       required: true
     - id: 21
       name: job_status_update
@@ -204,6 +204,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true

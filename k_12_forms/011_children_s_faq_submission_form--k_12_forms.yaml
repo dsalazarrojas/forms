@@ -1,78 +1,67 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Children FAQ Submission Form
     pages:
-      - id: 1
-        name: submitter_name
-        label: Submitter Name
-        hint: Name of student or parent submitting question
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: submitter_role
-        label: Submitter Role
-        hint: Select the role of the person submitting
-        type: select_one
-        options:
-          - Student
-          - Parent
-          - Teacher
-          - Staff
-        required: true
-      - id: 3
-        name: school_name
-        label: School Name
-        hint: Name of school or program
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: question_topic
-        label: Question Topic
-        hint: Topic or category for the FAQ submission
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: question_text
-        label: Question
-        hint: Clear description of the question being asked
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: suggested_answer
-        label: Suggested Answer
-        hint: Optional proposed answer or resources
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: consent_publish
-        label: Consent to Publish Question
-        hint: Allow question to be published in FAQ
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 8
-        name: contact_email
-        label: Contact Email
-        hint: For follow up if needed
-        type: email
-        options: []
-        required: false
+    - id: 1
+      name: submitter_name
+      label: Submitter Name
+      hint: Name of student or parent submitting question
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submitter_role
+      label: Submitter Role
+      hint: Select the role of the person submitting
+      type: select_one
+      options:
+      - Student
+      - Parent
+      - Teacher
+      - Staff
+      required: true
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: Name of school or program
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_topic
+      label: Question Topic
+      hint: Topic or category for the FAQ submission
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: question_text
+      label: Question
+      hint: Clear description of the question being asked
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: suggested_answer
+      label: Suggested Answer
+      hint: Optional proposed answer or resources
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_publish
+      label: Consent to Publish Question
+      hint: Allow question to be published in FAQ
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: For follow up if needed
+      type: email
+      options: []
+      required: false

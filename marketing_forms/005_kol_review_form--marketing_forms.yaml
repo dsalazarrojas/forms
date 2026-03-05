@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 5
       name: overall_rating
@@ -62,11 +62,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
-      - '{''id'': 5, ''label'': ''Very Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
       required: false
     - id: 9
       name: review

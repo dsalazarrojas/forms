@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''manicure''}'
-      - '{''value'': ''pedicure''}'
-      - '{''value'': ''waxing''}'
-      - '{''value'': ''other''}'
+      - manicure
+      - pedicure
+      - waxing
+      - other
       required: false
     - id: 5
       name: loyalty
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''loyalty_program''}'
-      - '{''value'': ''referral_program''}'
-      - '{''value'': ''neither''}'
+      - loyalty program
+      - referral program
+      - neither
       required: false
     - id: 6
       name: email
@@ -79,10 +79,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''services_improve''}'
-      - '{''value'': ''staff_improve''}'
-      - '{''value'': ''environment_improve''}'
-      - '{''value'': ''product_improve''}'
+      - services improve
+      - staff improve
+      - environment improve
+      - product improve
       required: false
     - id: 11
       name: staff_improve
@@ -90,8 +90,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''staff_improve''}'
-      - '{''value'': ''staff_friendliness''}'
+      - staff improve
+      - staff friendliness
       required: false
     - id: 12
       name: client_satisfaction

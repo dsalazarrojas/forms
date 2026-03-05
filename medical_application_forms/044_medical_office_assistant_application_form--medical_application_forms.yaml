@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -76,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''bachelors'', ''label'': ''Bachelors''}'
-      - '{''id'': 11, ''name'': ''masters'', ''label'': ''Masters''}'
-      - '{''id'': 12, ''name'': ''doctoral'', ''label'': ''Doctoral''}'
+      - Bachelors
+      - Masters
+      - Doctoral
       required: false
     - id: 10
       name: language
@@ -107,9 +96,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 17, ''name'': ''active'', ''label'': ''Active''}'
-      - '{''id'': 18, ''name'': ''not_active'', ''label'': ''Not Active''}'
-      - '{''id'': 19, ''name'': ''inactive'', ''label'': ''Inactive''}'
+      - Active
+      - Not Active
+      - Inactive
       required: false
     - id: 14
       name: job_title

@@ -17,11 +17,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Very Positive'', ''label'': ''Very Positive''}'
-      - '{''value'': ''Positive'', ''label'': ''Positive''}'
-      - '{''value'': ''Neutral'', ''label'': ''Neutral''}'
-      - '{''value'': ''Negative'', ''label'': ''Negative''}'
-      - '{''value'': ''Very Negative'', ''label'': ''Very Negative''}'
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
       required: true
     - id: 3
       name: page_3
@@ -29,11 +29,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Very Low'', ''label'': ''Very Low''}'
-      - '{''value'': ''Low'', ''label'': ''Low''}'
-      - '{''value'': ''Medium'', ''label'': ''Medium''}'
-      - '{''value'': ''High'', ''label'': ''High''}'
-      - '{''value'': ''Very High'', ''label'': ''Very High''}'
+      - Very Low
+      - Low
+      - Medium
+      - High
+      - Very High
       required: true
     - id: 4
       name: page_4
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not Important'', ''label'': ''Not Important''}'
-      - '{''value'': ''Somewhat Important'', ''label'': ''Somewhat Important''}'
-      - '{''value'': ''Important'', ''label'': ''Important''}'
-      - '{''value'': ''Very Important'', ''label'': ''Very Important''}'
+      - Not Important
+      - Somewhat Important
+      - Important
+      - Very Important
       required: true
     - id: 5
       name: page_5
@@ -52,11 +52,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Never'', ''label'': ''Never''}'
-      - '{''value'': ''Rarely'', ''label'': ''Rarely''}'
-      - '{''value'': ''Occasionally'', ''label'': ''Occasionally''}'
-      - '{''value'': ''Frequently'', ''label'': ''Frequently''}'
-      - '{''value'': ''Always'', ''label'': ''Always''}'
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
       required: true
     - id: 6
       name: page_6
@@ -65,11 +65,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Never'', ''label'': ''Never''}'
-      - '{''value'': ''Rarely'', ''label'': ''Rarely''}'
-      - '{''value'': ''Occasionally'', ''label'': ''Occasionally''}'
-      - '{''value'': ''Frequently'', ''label'': ''Frequently''}'
-      - '{''value'': ''Always'', ''label'': ''Always''}'
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
       required: false
     - id: 7
       name: page_7
@@ -109,11 +109,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Effectiveness'', ''label'': ''Effectiveness''}'
-      - '{''value'': ''Safety'', ''label'': ''Safety''}'
-      - '{''value'': ''Efficiency'', ''label'': ''Efficiency''}'
-      - '{''value'': ''Cost'', ''label'': ''Cost''}'
-      - '{''value'': ''Others'', ''label'': ''Others''}'
+      - Effectiveness
+      - Safety
+      - Efficiency
+      - Cost
+      - Others
       required: true
     - id: 12
       name: page_12
@@ -122,9 +122,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
-      - '{''value'': ''Not Sure'', ''label'': ''Not Sure''}'
+      - 'True'
+      - 'False'
+      - Not Sure
       required: true
     - id: 13
       name: page_13
@@ -133,9 +133,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
-      - '{''value'': ''Not Sure'', ''label'': ''Not Sure''}'
+      - 'True'
+      - 'False'
+      - Not Sure
       required: true
     - id: 14
       name: page_14
@@ -143,10 +143,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Explain in detail'', ''label'': ''Explain in detail''}'
-      - '{''value'': ''Briefly explain'', ''label'': ''Briefly explain''}'
-      - '{''value'': ''No explanation needed'', ''label'': ''No explanation needed''}'
-      - '{''value'': "Don''t need explanation", ''label'': "Don''t need explanation"}'
+      - Explain in detail
+      - Briefly explain
+      - No explanation needed
+      - Don't need explanation
       required: false
     - id: 15
       name: page_15
@@ -155,10 +155,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Text'', ''label'': ''Text''}'
-      - '{''value'': ''Images'', ''label'': ''Images''}'
-      - '{''value'': ''Videos'', ''label'': ''Videos''}'
-      - '{''value'': ''None'', ''label'': ''None''}'
+      - Text
+      - Images
+      - Videos
+      - None
       required: true
     - id: 16
       name: page_16
@@ -175,11 +175,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Effective in treating condition'', ''label'': ''Effective in
-        treating condition''}'
-      - '{''value'': ''Easy to understand'', ''label'': ''Easy to understand''}'
-      - '{''value'': ''Cost-effective'', ''label'': ''Cost-effective''}'
-      - '{''value'': ''Others'', ''label'': ''Others''}'
+      - Effective in treating condition
+      - Easy to understand
+      - Cost-effective
+      - Others
       required: true
     - id: 18
       name: page_18
@@ -188,12 +187,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Effectiveness'', ''label'': ''Effectiveness''}'
-      - '{''value'': ''Safety'', ''label'': ''Safety''}'
-      - '{''value'': ''Efficiency'', ''label'': ''Efficiency''}'
-      - '{''value'': ''Cost'', ''label'': ''Cost''}'
-      - '{''value'': ''Others'', ''label'': ''Others''}'
-      - '{''value'': ''Not recommended'', ''label'': ''Not recommended''}'
+      - Effectiveness
+      - Safety
+      - Efficiency
+      - Cost
+      - Others
+      - Not recommended
       required: true
     - id: 19
       name: page_19
@@ -202,7 +201,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
-      - '{''value'': ''Not Sure'', ''label'': ''Not Sure''}'
+      - 'True'
+      - 'False'
+      - Not Sure
       required: false

@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Medication''}'
-      - '{''label'': ''Palliative''}'
-      - '{''label'': ''Other''}'
+      - None
+      - Medication
+      - Palliative
+      - Other
       required: false
     - id: 10
       name: emotional_support
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Unknown''}'
+      - 'True'
+      - 'False'
+      - Unknown
       required: false
     - id: 11
       name: spiritual_support
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Unknown''}'
+      - 'True'
+      - 'False'
+      - Unknown
       required: false
     - id: 12
       name: medical_conditions
@@ -96,10 +96,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Cancer''}'
-      - '{''label'': ''Heart Failure''}'
-      - '{''label'': "Alzheimer''s"}'
-      - '{''label'': ''Other''}'
+      - Cancer
+      - Heart Failure
+      - Alzheimer's
+      - Other
       required: false
     - id: 13
       name: caregiver_name
@@ -114,10 +114,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Spouse''}'
-      - '{''label'': ''Child''}'
-      - '{''label'': ''Other Family Member''}'
-      - '{''label'': ''Other''}'
+      - Spouse
+      - Child
+      - Other Family Member
+      - Other
       required: false
     - id: 15
       name: care_plan
@@ -139,10 +139,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''General Inpatient''}'
-      - '{''label'': ''Palliative Care''}'
-      - '{''label'': ''Respite Care''}'
-      - '{''label'': ''Other''}'
+      - General Inpatient
+      - Palliative Care
+      - Respite Care
+      - Other
       required: false
     - id: 18
       name: hospice_location
@@ -164,9 +164,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Unknown''}'
+      - 'True'
+      - 'False'
+      - Unknown
       required: false
     - id: 21
       name: hospice_service_start
@@ -195,9 +195,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Discharged''}'
-      - '{''label'': ''Other''}'
+      - Active
+      - Discharged
+      - Other
       required: false
     - id: 25
       name: hospice_service_notes

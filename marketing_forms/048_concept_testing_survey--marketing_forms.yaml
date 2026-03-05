@@ -1,65 +1,61 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Concept Testing Survey
     pages:
-      - id: 1
-        name: section_testing_intro
-        label: -- Concept Testing --
-        hint: Collect data from potential users to validate the concept
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_segment
-        label: Respondent segment
-        hint: Demographic or user segment
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: appeal_rating
-        label: Appeal rating
-        hint: How appealing is the concept to you
-        type: select_one
-        options: [Very appealing, Somewhat appealing, Neutral, Not appealing]
-        required: true
-      - id: 4
-        name: willingness_to_pay
-        label: Willingness to pay
-        hint: Would you pay for this product or service
-        type: select_one
-        options: [Yes, Maybe, No]
-        required: true
-      - id: 5
-        name: main_use_case
-        label: Main use case
-        hint: How would you use this concept
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: barriers_to_adoption
-        label: Barriers to adoption
-        hint: Reasons you would not adopt this solution
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: feature_priorities
-        label: Feature priorities
-        hint: Which features matter most to you
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: section_testing_intro
+      label: -- Concept Testing --
+      hint: Collect data from potential users to validate the concept
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_segment
+      label: Respondent segment
+      hint: Demographic or user segment
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appeal_rating
+      label: Appeal rating
+      hint: How appealing is the concept to you
+      type: select_one
+      options:
+      - Very appealing
+      - Somewhat appealing
+      - Neutral
+      - Not appealing
+      required: true
+    - id: 4
+      name: willingness_to_pay
+      label: Willingness to pay
+      hint: Would you pay for this product or service
+      type: select_one
+      options:
+      - 'True'
+      - Maybe
+      - 'False'
+      required: true
+    - id: 5
+      name: main_use_case
+      label: Main use case
+      hint: How would you use this concept
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: barriers_to_adoption
+      label: Barriers to adoption
+      hint: Reasons you would not adopt this solution
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feature_priorities
+      label: Feature priorities
+      hint: Which features matter most to you
+      type: text
+      options: []
+      required: false

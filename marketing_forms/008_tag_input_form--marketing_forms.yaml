@@ -11,7 +11,7 @@ inputSchema:
       options: []
       required: true
     - id: 2
-      name: tag_input_2
+      name: another_tag_input
       label: Another Tag Input
       hint: null
       type: text
@@ -30,18 +30,18 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''option1'', ''label'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''option2'', ''label'': ''Option 2''}'
-      required: true
+      - Option 1
+      - Option 2
+      required: false
     - id: 5
       name: select_multiple
       label: Select Multiple
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''option3'', ''label'': ''Option 3''}'
-      - '{''id'': 2, ''name'': ''option4'', ''label'': ''Option 4''}'
-      required: true
+      - Option 3
+      - Option 4
+      required: false
     - id: 6
       name: date_input
       label: Date Input
@@ -78,115 +78,16 @@ inputSchema:
       options: []
       required: true
     - id: 11
-      name: tag_input_3
+      name: yet_another_tag_input
       label: Yet Another Tag Input
       hint: null
       type: text
       options: []
       required: true
     - id: 12
-      name: tag_input_4
-      label: Tag Input
+      name: tag_input_2
+      label: Tag Input 2
       hint: null
       type: text
-      options: []
-      required: true
-    - id: 13
-      name: select_one_2
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''option5'', ''label'': ''Option 5''}'
-      - '{''id'': 2, ''name'': ''option6'', ''label'': ''Option 6''}'
-      required: true
-    - id: 14
-      name: select_multiple_2
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''option7'', ''label'': ''Option 7''}'
-      - '{''id'': 2, ''name'': ''option8'', ''label'': ''Option 8''}'
-      required: true
-    - id: 15
-      name: date_input_2
-      label: Another Date Input
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 16
-      name: time_input_2
-      label: Another Time Input
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 17
-      name: note_input_2
-      label: Another Note Input
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 18
-      name: email_input_2
-      label: Another Email Input
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 19
-      name: phone_input_2
-      label: Another Phone Input
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: select_one_3
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''option9'', ''label'': ''Option 9''}'
-      - '{''id'': 2, ''name'': ''option10'', ''label'': ''Option 10''}'
-      required: true
-    - id: 21
-      name: select_multiple_3
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''option11'', ''label'': ''Option 11''}'
-      - '{''id'': 2, ''name'': ''option12'', ''label'': ''Option 12''}'
-      required: true
-    - id: 22
-      name: date_input_3
-      label: Another Date Input
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 23
-      name: time_input_3
-      label: Another Time Input
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 24
-      name: note_input_3
-      label: Another Note Input
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 25
-      name: email_input_3
-      label: Another Email Input
-      hint: null
-      type: email
       options: []
       required: true

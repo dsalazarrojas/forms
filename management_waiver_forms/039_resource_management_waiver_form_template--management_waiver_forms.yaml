@@ -4,191 +4,149 @@ inputSchema:
     title: Resource Management Waiver Form Template
     pages:
     - id: 1
-      name: resource_management_waiver_form_template
-      label: resource_management_waiver_form_template
+      name: acknowledge_risks_resource_usage
+      label: Acknowledge Risks for Resource Usage
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 2
-      name: acknowledge_risks
-      label: acknowledge_risks
-      hint: Please acknowledge the risks associated with using the resource.
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
       name: usage_rules
-      label: usage_rules
+      label: Usage Rules
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
+      - 'True'
+      - 'False'
+      required: true
+    - id: 3
       name: resource_access
-      label: resource_access
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
-      name: waiver_form_completion_date
-      label: waiver_form_completion_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: waiver_form_expiration_date
-      label: waiver_form_expiration_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: resource_usage_terms
-      label: resource_usage_terms
+      label: Resource Access Information
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 4
+      name: resource_usage_terms
+      label: Resource Usage Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
       name: resource_return
-      label: resource_return
+      label: Resource Return Information
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
       name: user_acknowledgement
-      label: user_acknowledgement
+      label: User Acknowledgement
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
       name: resource_owner
-      label: resource_owner
+      label: Resource Owner Status
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
       name: resource_name
-      label: resource_name
+      label: Resource Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 9
       name: resource_description
-      label: resource_description
+      label: Resource Description
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 10
       name: resource_identifier
-      label: resource_identifier
+      label: Resource Identifier
       hint: null
       type: text
       options: []
-      required: false
-    - id: 14
+      required: true
+    - id: 11
       name: resource_version
-      label: resource_version
+      label: Resource Version
       hint: null
       type: number
       options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 12
       name: resource_status
-      label: resource_status
+      label: Resource Status
       hint: null
       type: select_multiple
       options:
       - Active
       - Inactive
-      required: false
-    - id: 16
+      required: true
+    - id: 13
       name: resource_location
-      label: resource_location
+      label: Resource Location
       hint: null
       type: text
       options: []
-      required: false
-    - id: 17
+      required: true
+    - id: 14
       name: resource_location_type
-      label: resource_location_type
+      label: Resource Location Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
       name: resource_location_details
-      label: resource_location_details
+      label: Resource Location Details
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
+      required: true
+    - id: 16
       name: resource_owner_email
-      label: resource_owner_email
+      label: Resource Owner Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 20
+      required: true
+    - id: 17
       name: resource_phone
-      label: resource_phone
+      label: Resource Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 21
+      required: true
+    - id: 18
       name: resource_additional_comments
-      label: resource_additional_comments
+      label: Resource Additional Comments
       hint: null
       type: text
       options: []
-      required: false
-    - id: 22
-      name: resource_additional_comments
-      label: resource_additional_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: resource_additional_comments
-      label: resource_additional_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
+      required: true
+    - id: 19
       name: waiver_expiration_date
-      label: waiver_expiration_date
+      label: Waiver Expiration Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 25
-      name: waiver_form_completion_date
-      label: waiver_form_completion_date
-      hint: null
-      type: date
-      options: []
-      required: false
+      required: true

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''fiction''}'
-      - '{''value'': ''nonfiction''}'
-      - '{''value'': ''children_books''}'
+      - fiction
+      - nonfiction
+      - children books
       required: false
     - id: 3
       name: book_condition
@@ -26,12 +26,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''new''}'
-      - '{''value'': ''used''}'
-      - '{''value'': ''good''}'
-      - '{''value'': ''fair''}'
-      - '{''value'': ''poor''}'
-      - '{''value'': ''very poor''}'
+      - new
+      - used
+      - good
+      - fair
+      - poor
+      - very poor
       required: false
     - id: 4
       name: book_quantity
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''individual''}'
-      - '{''value'': ''organization''}'
+      - individual
+      - organization
       required: false
     - id: 10
       name: output_file
@@ -127,8 +127,8 @@ inputSchema:
       options: []
       required: false
     - id: 17
-      name: output_file
-      label: Output File
+      name: output_file_2
+      label: Output File 2
       hint: null
       type: text
       options: []
@@ -155,29 +155,29 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: category
-      label: Category
+      name: category_2
+      label: Category 2
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: assigned_tool
-      label: Assigned Tool
+      name: assigned_tool_2
+      label: Assigned Tool 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: description
-      label: Description
+      name: description_2
+      label: Description 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: form_ids
-      label: Form IDs
+      name: form_ids_2
+      label: Form Ids 2
       hint: null
       type: text
       options: []

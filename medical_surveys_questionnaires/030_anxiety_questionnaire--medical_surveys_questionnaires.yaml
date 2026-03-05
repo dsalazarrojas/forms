@@ -261,8 +261,8 @@ inputSchema:
       hint: Current medication
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Previously, not currently
       required: true
     - id: 22
@@ -271,8 +271,8 @@ inputSchema:
       hint: Current therapy
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Previously, not currently
       required: true
     - id: 23
@@ -306,7 +306,7 @@ inputSchema:
       options:
       - Yes, immediate family
       - Yes, extended family
-      - false
+      - 'False'
       - Not sure
       required: true
     - id: 26
@@ -320,7 +320,7 @@ inputSchema:
       - Yes, panic disorder
       - Yes, specific phobia
       - Yes, other anxiety disorder
-      - false
+      - 'False'
       - Not sure
       required: true
     - id: 27

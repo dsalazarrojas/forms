@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Company''}'
-      - '{''id'': 2, ''label'': ''Individual''}'
-      - '{''id'': 3, ''label'': ''Partnership''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Company
+      - Individual
+      - Partnership
+      - Other
       required: true
     - id: 8
       name: email
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Landline''}'
-      - '{''id'': 2, ''label'': ''Mobile''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Landline
+      - Mobile
+      - Other
       required: true
     - id: 10
       name: address

@@ -4,45 +4,45 @@ inputSchema:
     title: End Of Life Care Plan
     pages:
     - id: 1
-      name: first_page
-      label: first_page_label
+      name: page_1
+      label: Patient's Name
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: personal_information
-      label: personal_information
+      name: page_2
+      label: Personal Information
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: medical_history
-      label: medical_history
+      name: page_3
+      label: Medical History
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: social_support
-      label: social_support
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: medical_caregivers
-      label: medical_caregivers
+      name: page_4
+      label: Medical Caregivers
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
+    - id: 5
+      name: page_5
+      label: Medical Caregivers List
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 6
-      name: medical_caregivers_list
-      label: medical_caregivers_list
+      name: page_6
+      label: Medical Conditions
       hint: null
       type: select_multiple
       options:
@@ -50,17 +50,15 @@ inputSchema:
       - 'No'
       required: false
     - id: 7
-      name: medical_conditions
-      label: medical_conditions
+      name: page_7
+      label: Medical Conditions List
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 8
-      name: medications
-      label: medications
+      name: page_8
+      label: Medications
       hint: null
       type: select_multiple
       options:
@@ -68,17 +66,15 @@ inputSchema:
       - 'No'
       required: false
     - id: 9
-      name: medications_list
-      label: medications_list
+      name: page_9
+      label: Medications List
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 10
-      name: allergies
-      label: allergies
+      name: page_10
+      label: Allergies
       hint: null
       type: select_multiple
       options:
@@ -86,17 +82,15 @@ inputSchema:
       - 'No'
       required: false
     - id: 11
-      name: advance_directives
-      label: advance_directives
+      name: page_11
+      label: Allergies List
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 12
-      name: advance_directives_list
-      label: advance_directives_list
+      name: page_12
+      label: Advance Directives
       hint: null
       type: select_multiple
       options:
@@ -104,35 +98,29 @@ inputSchema:
       - 'No'
       required: false
     - id: 13
-      name: medical_caregivers_other
-      label: other_caregivers
+      name: page_13
+      label: Advance Directives List
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 14
-      name: medical_caregivers_other_list
-      label: other_caregivers_list
+      name: page_14
+      label: Other Caregivers
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 15
-      name: medical_conditions_other
-      label: other_conditions
+      name: page_15
+      label: Other Caregivers List
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 16
-      name: medical_conditions_other_list
-      label: other_conditions_list
+      name: page_16
+      label: Other Medical Conditions
       hint: null
       type: select_multiple
       options:
@@ -140,17 +128,15 @@ inputSchema:
       - 'No'
       required: false
     - id: 17
-      name: medications_other
-      label: other_medications
+      name: page_17
+      label: Other Medical Conditions List
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 18
-      name: medications_other_list
-      label: other_medications_list
+      name: page_18
+      label: Other Medications
       hint: null
       type: select_multiple
       options:
@@ -158,54 +144,52 @@ inputSchema:
       - 'No'
       required: false
     - id: 19
-      name: advance_directives_other
-      label: other_advanceประกirectives
+      name: page_19
+      label: Other Medications List
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 20
-      name: advance_directives_other_list
-      label: other_advance_directives_list
+      name: page_20
+      label: Review and Acknowledgement
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 21
-      name: other_caregivers
-      label: other_caregivers
+      name: page_21
+      label: Review and Acknowledgement List
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: other_caregivers_list
-      label: other_caregivers_list
+      name: page_22
+      label: Other Information
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: other_conditions
-      label: other_conditions
+      name: page_23
+      label: Other Information List
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: other_conditions_list
-      label: other_conditions_list
+      name: page_24
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 25
-      name: other_medications
-      label: other_medications
+      name: page_25
+      label: Additional Comments List
       hint: null
       type: text
       options: []

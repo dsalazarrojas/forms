@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 7
       name: communication
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': False}'
-      - '{''id'': 2, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 9
       name: email_type
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Newsletter''}'
-      - '{''id'': 2, ''label'': ''Promotional''}'
+      - Newsletter
+      - Promotional
       required: false
     - id: 10
       name: promotion_type
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''New Products''}'
-      - '{''id'': 2, ''label'': ''Limited Time''}'
-      - '{''id'': 3, ''label'': ''Exclusive''}'
+      - New Products
+      - Limited Time
+      - Exclusive
       required: false
     - id: 11
       name: timezone

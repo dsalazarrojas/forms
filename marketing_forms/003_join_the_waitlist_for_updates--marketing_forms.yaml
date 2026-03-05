@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: contact
@@ -46,9 +46,9 @@ inputSchema:
       hint: Choose one or more of the following methods of contact
       type: select_multiple
       options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Mail''}'
+      - Email
+      - Phone
+      - Mail
       required: false
     - id: 7
       name: updates
@@ -56,10 +56,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''_goals Weekly''}'
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Quarterly''}'
+      - Weekly
+      - goals Weekly
+      - Monthly
+      - Quarterly
       required: false
     - id: 8
       name: preferences

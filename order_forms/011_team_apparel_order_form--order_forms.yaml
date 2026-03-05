@@ -11,7 +11,7 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: team_apparel_order_form_2
+      name: select_team
       label: Select Team
       hint: null
       type: select_multiple
@@ -21,7 +21,7 @@ inputSchema:
       - Team C
       required: false
     - id: 3
-      name: team_apparel_order_form_3
+      name: select_size
       label: Select Size
       hint: null
       type: select_one
@@ -32,7 +32,7 @@ inputSchema:
       - Extra Large
       required: false
     - id: 4
-      name: team_apparel_order_form_4
+      name: select_type
       label: Select Type
       hint: null
       type: select_one
@@ -44,14 +44,14 @@ inputSchema:
       - Sweatshirt
       required: false
     - id: 5
-      name: team_apparel_order_form_5
+      name: select_quantity
       label: Select Quantity
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: team_apparel_order_form_6
+      name: payment_method
       label: Payment Method
       hint: null
       type: select_multiple
@@ -60,28 +60,28 @@ inputSchema:
       - Check
       required: false
     - id: 7
-      name: team_apparel_order_form_7
+      name: team_size
       label: Team Size
       hint: null
       type: number
       options: []
       required: false
     - id: 8
-      name: team_apparel_order_form_8
+      name: team_name
       label: Team Name
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: team_apparel_order_form_9
+      name: comments
       label: Comments
       hint: null
       type: note
       options: []
       required: false
     - id: 10
-      name: team_apparel_order_form_10
+      name: team
       label: Team
       hint: null
       type: select_one
@@ -91,7 +91,7 @@ inputSchema:
       - Team C
       required: false
     - id: 11
-      name: team_apparel_order_form_11
+      name: size
       label: Size
       hint: null
       type: select_one
@@ -102,7 +102,7 @@ inputSchema:
       - Extra Large
       required: false
     - id: 12
-      name: team_apparel_order_form_12
+      name: type
       label: Type
       hint: null
       type: select_one
@@ -121,8 +121,8 @@ inputSchema:
       options: []
       required: false
     - id: 14
-      name: payment_method
-      label: Payment Method
+      name: payment_method_2
+      label: Payment Method (2)
       hint: null
       type: select_multiple
       options:
@@ -130,29 +130,29 @@ inputSchema:
       - Check
       required: false
     - id: 15
-      name: team_size
-      label: Team Size
+      name: team_size_2
+      label: Team Size (2)
       hint: null
       type: number
       options: []
       required: false
     - id: 16
-      name: team_name
-      label: Team Name
+      name: team_name_2
+      label: Team Name (2)
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: comments
-      label: Comments
+      name: comments_2
+      label: Comments (2)
       hint: null
       type: note
       options: []
       required: false
     - id: 18
-      name: team
-      label: Team
+      name: team_2
+      label: Team (2)
       hint: null
       type: select_one
       options:
@@ -161,8 +161,8 @@ inputSchema:
       - Team C
       required: false
     - id: 19
-      name: size
-      label: Size
+      name: size_2
+      label: Size (2)
       hint: null
       type: select_one
       options:
@@ -172,218 +172,8 @@ inputSchema:
       - Extra Large
       required: false
     - id: 20
-      name: type
-      label: Type
-      hint: null
-      type: select_one
-      options:
-      - Short Sleeve
-      - Long Sleeve
-      - Hoodie
-      - Jersey
-      - Sweatshirt
-      required: false
-    - id: 21
-      name: quantity_2
-      label: Quantity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: payment_method_2
-      label: Payment Method
-      hint: null
-      type: select_multiple
-      options:
-      - Cash
-      - Check
-      required: false
-    - id: 23
-      name: team_size_2
-      label: Team Size
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: team_name_2
-      label: Team Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: comments_2
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 26
-      name: team_2
-      label: Team
-      hint: null
-      type: select_one
-      options:
-      - Team A
-      - Team B
-      - Team C
-      required: false
-    - id: 27
-      name: size_2
-      label: Size
-      hint: null
-      type: select_one
-      options:
-      - Small
-      - Medium
-      - Large
-      - Extra Large
-      required: false
-    - id: 28
       name: type_2
-      label: Type
-      hint: null
-      type: select_one
-      options:
-      - Short Sleeve
-      - Long Sleeve
-      - Hoodie
-      - Jersey
-      - Sweatshirt
-      required: false
-    - id: 29
-      name: quantity_3
-      label: Quantity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: payment_method_3
-      label: Payment Method
-      hint: null
-      type: select_multiple
-      options:
-      - Cash
-      - Check
-      required: false
-    - id: 31
-      name: team_size_3
-      label: Team Size
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 32
-      name: team_name_3
-      label: Team Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: comments_3
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 34
-      name: team_3
-      label: Team
-      hint: null
-      type: select_one
-      options:
-      - Team A
-      - Team B
-      - Team C
-      required: false
-    - id: 35
-      name: size_3
-      label: Size
-      hint: null
-      type: select_one
-      options:
-      - Small
-      - Medium
-      - Large
-      - Extra Large
-      required: false
-    - id: 36
-      name: type_3
-      label: Type
-      hint: null
-      type: select_one
-      options:
-      - Short Sleeve
-      - Long Sleeve
-      - Hoodie
-      - Jersey
-      - Sweatshirt
-      required: false
-    - id: 37
-      name: quantity_4
-      label: Quantity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: payment_method_4
-      label: Payment Method
-      hint: null
-      type: select_multiple
-      options:
-      - Cash
-      - Check
-      required: false
-    - id: 39
-      name: team_size_4
-      label: Team Size
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 40
-      name: team_name_4
-      label: Team Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: comments_4
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 42
-      name: team_4
-      label: Team
-      hint: null
-      type: select_one
-      options:
-      - Team A
-      - Team B
-      - Team C
-      required: false
-    - id: 43
-      name: size_4
-      label: Size
-      hint: null
-      type: select_one
-      options:
-      - Small
-      - Medium
-      - Large
-      - Extra Large
-      required: false
-    - id: 44
-      name: type_4
-      label: Type
+      label: Type (2)
       hint: null
       type: select_one
       options:

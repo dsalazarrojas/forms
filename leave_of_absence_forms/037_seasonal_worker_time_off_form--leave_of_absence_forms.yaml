@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -20,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Request a vacation'', ''value'': ''request_a_vacation''}'
-      - '{''id'': 2, ''label'': ''Request a leave'', ''value'': ''request_a_leave''}'
-      - '{''id'': 3, ''label'': ''Request a time-off'', ''value'': ''request_a_time-off''}'
-      - '{''id'': 4, ''label'': ''Request a medical leave'', ''value'': ''request_a_medical_leave''}'
+      - Request a vacation
+      - Request a leave
+      - Request a time-off
+      - Request a medical leave
       required: false
     - id: 2
       name: employee_name
@@ -66,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Vacation'', ''value'': ''vacation''}'
-      - '{''id'': 2, ''label'': ''Medical'', ''value'': ''medical''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Vacation
+      - Medical
+      - Other
       required: false
     - id: 8
       name: manager_approval
@@ -76,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approve'', ''value'': ''approve''}'
-      - '{''id'': 2, ''label'': ''Decline'', ''value'': ''decline''}'
-      - '{''id'': 3, ''label'': ''Request more information'', ''value'': ''request_more_information''}'
+      - Approve
+      - Decline
+      - Request more information
       required: false
     - id: 9
       name: business_impact

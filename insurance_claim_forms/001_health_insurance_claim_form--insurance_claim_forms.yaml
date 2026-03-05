@@ -30,9 +30,9 @@ inputSchema:
       hint: Please select the type of claim
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Inpatient''}'
-      - '{''id'': 2, ''label'': ''Outpatient''}'
-      - '{''id'': 3, ''label'': ''Urgent Care''}'
+      - Inpatient
+      - Outpatient
+      - Urgent Care
       required: false
     - id: 5
       name: date_of_service
@@ -54,10 +54,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''New''}'
-      - '{''id'': 2, ''label'': ''Pending''}'
-      - '{''id'': 3, ''label'': ''Closed''}'
-      - '{''id'': 4, ''label'': ''Reopened''}'
+      - New
+      - Pending
+      - Closed
+      - Reopened
       required: false
     - id: 8
       name: reason_for_denial
@@ -142,9 +142,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Gold''}'
-      - '{''id'': 2, ''label'': ''Silver''}'
-      - '{''id'': 3, ''label'': ''Bronze''}'
+      - Gold
+      - Silver
+      - Bronze
       required: false
     - id: 20
       name: claim_notes

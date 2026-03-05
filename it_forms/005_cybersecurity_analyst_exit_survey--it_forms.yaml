@@ -5,127 +5,139 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: form_title
+      label: Title
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: name
-      label: email
+      name: contact_email
+      label: Contact Email
       hint: null
       type: email
       options: []
+      required: true
+    - id: 3
+      name: work_environment
+      label: Work Environment
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 4
-      name: name
-      label: phone
+      name: tools_used
+      label: Tools Used
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      - Tool 4
       required: false
     - id: 5
-      name: work_environment
-      label: work_environment
+      name: processes_used
+      label: Processes Used
+      hint: null
+      type: select_multiple
+      options:
+      - Process 1
+      - Process 2
+      - Process 3
+      - Process 4
+      required: false
+    - id: 6
+      name: job_retention
+      label: Job Retention
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: process_satisfaction
+      label: Process Satisfaction
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
-      name: tools
-      label: tools
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: tools
-      label: tool_one
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 8
-      name: tool_three
-      label: tool_three
+      name: suggestions
+      label: Suggestions
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 9
-      name: processes
-      label: processes
+      name: tool_frequency
+      label: Tool Frequency
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: processes
-      label: process_one
+      name: new_tools
+      label: New Tools
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: processes
-      label: process_two
+      name: new_processes
+      label: New Processes
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: processes
-      label: processes
+      name: comments
+      label: Comments
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 13
-      name: processes
-      label: process_three
+      name: surprise
+      label: Surprises or Concerns
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 14
-      name: retention
-      label: retention
+      name: work_environment_changes
+      label: Changes in Work Environment
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: retention
-      label: retention
+      name: team_communication
+      label: Team Communication
       hint: null
-      type: select_multiple
+      type: radio
       options:
-      - 'Yes'
-      - 'No'
+      - Effective
+      - Ineffective
       required: false
     - id: 16
-      name: retention
-      label: retention
+      name: favorite_tool
+      label: Favorite Tool
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: least_favorite_tool
+      label: Least Favorite Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
       required: false

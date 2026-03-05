@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: date
@@ -67,8 +67,8 @@ inputSchema:
       hint: Select your Spin Win
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: spin_win_reason
@@ -83,8 +83,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Online'', ''value'': ''online''}'
-      - '{''id'': 2, ''label'': ''Offline'', ''value'': ''offline''}'
+      - Online
+      - Offline
       required: false
     - id: 12
       name: event_date
@@ -127,9 +127,9 @@ inputSchema:
       hint: Please select the correct status
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''In Progress'', ''value'': ''in_progress''}'
-      - '{''id'': 2, ''label'': ''Finished'', ''value'': ''finished''}'
-      - '{''id'': 3, ''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      - In Progress
+      - Finished
+      - Cancelled
       required: false
     - id: 18
       name: spin_status_note
@@ -144,8 +144,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: spin_eligible_reason
@@ -167,8 +167,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: spin_winner_note
@@ -183,8 +183,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: spin_winners_note

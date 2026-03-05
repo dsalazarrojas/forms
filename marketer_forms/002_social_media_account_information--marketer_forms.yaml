@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Facebook'', ''value'': ''Facebook''}'
-      - '{''id'': 2, ''name'': ''Instagram'', ''value'': ''Instagram''}'
-      - '{''id'': 3, ''name'': ''Twitter'', ''value'': ''Twitter''}'
+      - Facebook
+      - Instagram
+      - Twitter
       required: false
     - id: 3
       name: account_name
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Public'', ''value'': ''Public''}'
-      - '{''id'': 2, ''name'': ''Private'', ''value'': ''Private''}'
+      - Public
+      - Private
       required: false
     - id: 10
       name: account_status
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Active'', ''value'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive'', ''value'': ''Inactive''}'
-      - '{''id'': 3, ''name'': ''Suspended'', ''value'': ''Suspended''}'
+      - Active
+      - Inactive
+      - Suspended
       required: false
     - id: 11
       name: created_date

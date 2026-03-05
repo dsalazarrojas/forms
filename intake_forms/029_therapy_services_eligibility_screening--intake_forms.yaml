@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,10 +23,10 @@ inputSchema:
       hint: Which of the following services would you like to be screened for?
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Cognitive Therapy''}'
-      - '{''value'': 2, ''label'': ''Family Therapy''}'
-      - '{''value'': 3, ''label'': ''Individual Therapy''}'
-      - '{''value'': 4, ''label'': ''Support Groups''}'
+      - Cognitive Therapy
+      - Family Therapy
+      - Individual Therapy
+      - Support Groups
       required: false
     - id: 4
       name: dates_and_times
@@ -66,8 +55,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: medications
@@ -82,9 +71,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Surgery''}'
-      - '{''value'': 2, ''label'': ''Chemotherapy''}'
-      - '{''value'': 3, ''label'': ''Radiotherapy''}'
+      - Surgery
+      - Chemotherapy
+      - Radiotherapy
       required: false
     - id: 10
       name: emergency_contact

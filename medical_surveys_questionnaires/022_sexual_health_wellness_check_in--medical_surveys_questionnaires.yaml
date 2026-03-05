@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Female''}'
-      - '{''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 3
       name: age
@@ -33,16 +33,16 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Gay''}'
-      - '{''label'': ''Lesbian''}'
-      - '{''label'': ''Bisexual''}'
-      - '{''label'': ''Heterosexual''}'
-      - '{''label'': ''Asexual''}'
-      - '{''label'': ''Aromantic''}'
-      - '{''label'': ''Pansexual''}'
-      - '{''label'': ''Polysex''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''Prefer Not to Say''}'
+      - Gay
+      - Lesbian
+      - Bisexual
+      - Heterosexual
+      - Asexual
+      - Aromantic
+      - Pansexual
+      - Polysex
+      - Other
+      - Prefer Not to Say
       required: false
     - id: 5
       name: sexual_activity
@@ -50,10 +50,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Occasionally''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
       required: false
     - id: 6
       name: pain
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: mental_health
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: alcohol_use
@@ -79,10 +79,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Occasionally''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
       required: false
     - id: 9
       name: drug_use
@@ -90,10 +90,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Occasionally''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
       required: false
     - id: 10
       name: relationship_status
@@ -101,11 +101,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Single''}'
-      - '{''label'': ''In a Relationship''}'
-      - '{''label'': ''Married''}'
-      - '{''label'': ''In a Partnership''}'
-      - '{''label'': ''Prefer Not to Say''}'
+      - Single
+      - In a Relationship
+      - Married
+      - In a Partnership
+      - Prefer Not to Say
       required: false
     - id: 11
       name: follow_up

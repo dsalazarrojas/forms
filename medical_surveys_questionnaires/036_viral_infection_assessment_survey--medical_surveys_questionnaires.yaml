@@ -23,11 +23,11 @@ inputSchema:
       hint: Please select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Family Member''}'
-      - '{''id'': 3, ''label'': ''Healthcare Worker''}'
-      - '{''id'': 4, ''label'': ''Public Place''}'
-      - '{''id'': 5, ''label'': ''School/Work''}'
+      - None
+      - Family Member
+      - Healthcare Worker
+      - Public Place
+      - School/Work
       required: true
     - id: 4
       name: symptoms_3
@@ -42,9 +42,9 @@ inputSchema:
       hint: Please select all that apply
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Vaccinated''}'
-      - '{''id'': 3, ''label'': ''Previously Infected''}'
+      - None
+      - Vaccinated
+      - Previously Infected
       required: true
     - id: 6
       name: screening_5
@@ -59,8 +59,8 @@ inputSchema:
       hint: Please select all that apply
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Negative''}'
-      - '{''id'': 2, ''label'': ''Positive''}'
+      - Negative
+      - Positive
       required: true
     - id: 8
       name: treatment_7
@@ -68,11 +68,11 @@ inputSchema:
       hint: Please select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Antibiotics''}'
-      - '{''id'': 3, ''label'': ''Antiviral''}'
-      - '{''id'': 4, ''label'': ''Antimalarial''}'
-      - '{''id'': 5, ''label'': ''Antifungal''}'
+      - None
+      - Antibiotics
+      - Antiviral
+      - Antimalarial
+      - Antifungal
       required: false
     - id: 9
       name: follow_up_8
@@ -87,9 +87,9 @@ inputSchema:
       hint: Please select all that apply
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Allergies''}'
-      - '{''id'': 3, ''label'': ''Chronic Conditions''}'
+      - None
+      - Allergies
+      - Chronic Conditions
       required: true
     - id: 11
       name: next_steps_10
@@ -126,11 +126,11 @@ inputSchema:
       hint: Please select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Hospital''}'
-      - '{''id'': 3, ''label'': ''Clinic''}'
-      - '{''id'': 4, ''label'': ''Doctor''}'
-      - '{''id'': 5, ''label'': ''Urgent Care''}'
+      - None
+      - Hospital
+      - Clinic
+      - Doctor
+      - Urgent Care
       required: true
     - id: 16
       name: medical_provider_15
@@ -138,9 +138,9 @@ inputSchema:
       hint: Please select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Doctor''}'
-      - '{''id'': 3, ''label'': ''NP''}'
-      - '{''id'': 4, ''label'': ''PA''}'
-      - '{''id'': 5, ''label'': ''RN''}'
+      - None
+      - Doctor
+      - NP
+      - PA
+      - RN
       required: false

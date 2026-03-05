@@ -4,187 +4,155 @@ inputSchema:
     title: String Format Submission Form
     pages:
     - id: 1
-      name: page_1
-      label: string_format_submission_form
-      hint: null
+      name: submission_specification
+      label: Submission Specification
+      hint: Please provide a detailed description of the submission specification.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: page_2
-      label: specifications
-      hint: null
+      name: example
+      label: Example
+      hint: Please provide an example of the submission.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: page_3
-      label: example
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 4
-      name: page_4
-      label: documentation
-      hint: null
+      name: documentation
+      label: Documentation
+      hint: Please provide a detailed description of the submission documentation.
       type: text
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: technical_requirements
+      label: Technical Requirements
+      hint: Please provide any technical requirements for the submission.
+      type: text
+      options: []
+      required: true
     - id: 5
-      name: page_5
-      label: developer
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      name: format_details
+      label: Format Details
+      hint: Please provide detailed information about the submission format.
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: page_6
-      label: qa
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      name: submitted_by
+      label: Submitted By
+      hint: Please specify who submitted this form.
+      type: text
+      options: []
+      required: true
     - id: 7
-      name: page_7
-      label: data_team
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      name: submitted_at
+      label: Submission Date
+      hint: Please specify the date of submission.
+      type: date
+      options: []
+      required: true
     - id: 8
-      name: page_8
-      label: organizer
-      hint: null
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: Please provide a phone number to contact for further questions.
       type: text
       options: []
       required: true
     - id: 9
-      name: page_9
-      label: technical_requirements
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: Please provide an email to contact for further questions.
+      type: email
+      options: []
+      required: true
     - id: 10
-      name: page_10
-      label: examples
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: page_11
-      label: examples_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: page_12
-      label: documentation_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: page_13
-      label: examples_format
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: page_14
-      label: format_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: page_15
-      label: submit
-      hint: null
+      name: submit_label
+      label: Submit Label
+      hint: Please specify a label for this submission.
       type: text
       options: []
       required: true
-    - id: 16
-      name: page_16
-      label: submit_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: page_17
-      label: submitted_at
-      hint: null
+    - id: 11
+      name: submitted_at_2
+      label: Submitted At 2
+      hint: Please specify the date of submission.
       type: date
       options: []
-      required: false
+      required: true
+    - id: 12
+      name: submission_confirmation
+      label: Submission Confirmation
+      hint: Please confirm that this submission has been reviewed.
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: submission_confirmation_label
+      label: Submission Confirmation Label
+      hint: Please confirm that this submission has been reviewed.
+      type: radio
+      options:
+      - Confirmed
+      - Not Confirmed
+      required: true
+    - id: 14
+      name: submission_confirmation_note
+      label: Submission Confirmation Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: submission_note
+      label: Submission Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: submission_email
+      label: Submission Email
+      hint: Please provide an email to contact for further questions.
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: submitted_by_phone_2
+      label: Submitted By Phone 2
+      hint: Please provide a phone number to contact for further questions.
+      type: text
+      options: []
+      required: true
     - id: 18
-      name: page_18
-      label: submitted_by
+      name: submitted_by_2
+      label: Submitter
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 19
-      name: page_19
-      label: submitted_by_label
+      name: submitted_by_label
+      label: Label
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 20
-      name: page_20
-      label: submitted_by_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: page_21
-      label: submitted_at
+      name: submitted_at_3
+      label: Submitted At 3
       hint: null
       type: date
       options: []
-      required: false
-    - id: 22
-      name: page_22
-      label: submitted_by_email
+      required: true
+    - id: 21
+      name: submitted_at_4
+      label: Submitted At 4
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
-    - id: 23
-      name: page_23
-      label: submit_email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: page_24
-      label: submitted_by_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: page_25
-      label: submitted_by_phone
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

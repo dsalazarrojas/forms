@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Passive''}'
-      - '{''label'': ''Unknown''}'
+      - Active
+      - Passive
+      - Unknown
       required: false
     - id: 4
       name: assets
@@ -40,16 +40,16 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''0-10k''}'
-      - '{''label'': ''10-20k''}'
-      - '{''label'': ''20-30k''}'
-      - '{''label'': ''30-40k''}'
-      - '{''label'': ''40-50k''}'
-      - '{''label'': ''50-60k''}'
-      - '{''label'': ''60-70k''}'
-      - '{''label'': ''70-80k''}'
-      - '{''label'': ''80-90k''}'
-      - '{''label'': ''90-100k''}'
+      - 0-10k
+      - 10-20k
+      - 20-30k
+      - 30-40k
+      - 40-50k
+      - 50-60k
+      - 60-70k
+      - 70-80k
+      - 80-90k
+      - 90-100k
       required: false
     - id: 6
       name: expenses
@@ -64,11 +64,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Employed''}'
-      - '{''label'': ''Unemployed''}'
-      - '{''label'': ''Self-Employed''}'
-      - '{''label'': ''Retired''}'
-      - '{''label'': ''Disabled''}'
+      - Employed
+      - Unemployed
+      - Self-Employed
+      - Retired
+      - Disabled
       required: false
     - id: 8
       name: income_source
@@ -76,10 +76,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Salary''}'
-      - '{''label'': ''Investments''}'
-      - '{''label'': ''Rental Income''}'
-      - '{''label'': ''Other''}'
+      - Salary
+      - Investments
+      - Rental Income
+      - Other
       required: false
     - id: 9
       name: financial_institutions
@@ -87,11 +87,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Bank of America''}'
-      - '{''label'': ''Wells Fargo''}'
-      - '{''label'': ''Chase''}'
-      - '{''label'': ''Credit Union''}'
-      - '{''label'': ''Other''}'
+      - Bank of America
+      - Wells Fargo
+      - Chase
+      - Credit Union
+      - Other
       required: false
     - id: 10
       name: assets_type
@@ -99,10 +99,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Cash''}'
-      - '{''label'': ''Stocks''}'
-      - '{''label'': ''Real Estate''}'
-      - '{''label'': ''Other''}'
+      - Cash
+      - Stocks
+      - Real Estate
+      - Other
       required: false
     - id: 11
       name: financial_institutions_2
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Primary''}'
-      - '{''label'': ''Secondary''}'
-      - '{''label'': ''Other''}'
+      - Primary
+      - Secondary
+      - Other
       required: false
     - id: 13
       name: investment_incomes
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Investments''}'
-      - '{''label'': ''Real Estate''}'
-      - '{''label'': ''Other''}'
+      - Investments
+      - Real Estate
+      - Other
       required: false
     - id: 14
       name: income_from_other

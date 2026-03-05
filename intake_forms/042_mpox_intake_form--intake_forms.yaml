@@ -96,13 +96,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''None'', ''name'': ''None''}'
-      - '{''value'': ''Local Emergency Room'', ''name'': ''Local Emergency Room'',
-        ''hint'': None}'
-      - '{''value'': ''Primary Care Center'', ''name'': ''Primary Care Center'', ''hint'':
-        None}'
-      - '{''value'': ''Urgent Care'', ''name'': ''Urgent Care'', ''hint'': None}'
-      - '{''value'': ''Other'', ''name'': ''Other'', ''hint'': ''Specify''}'
+      - None
+      - Local Emergency Room
+      - Primary Care Center
+      - Urgent Care
+      - Other
       required: false
     - id: 11
       name: submitted_by
@@ -110,9 +108,9 @@ inputSchema:
       hint: Name of patient submitted form by
       type: select_one
       options:
-      - '{''value'': ''Patient'', ''name'': ''Patient'', ''hint'': None}'
-      - '{''value'': ''Physician'', ''name'': ''Physician'', ''hint'': None}'
-      - '{''value'': ''Other'', ''name'': ''Other'', ''hint'': ''Specify''}'
+      - Patient
+      - Physician
+      - Other
       required: false
     - id: 12
       name: submitted_time

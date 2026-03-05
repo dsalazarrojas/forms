@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Vacation''}'
-      - '{''id'': 2, ''label'': ''sickleave''}'
-      - '{''id'': 3, ''label'': ''bereavement''}'
-      - '{''id'': 4, ''label'': ''juryduty''}'
-      - '{''id'': 5, ''label'': ''other''}'
+      - Vacation
+      - sickleave
+      - bereavement
+      - juryduty
+      - other
       required: false
     - id: 3
       name: start_date
@@ -70,11 +70,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''pending''}'
-      - '{''id'': 2, ''label'': ''approved''}'
-      - '{''id'': 3, ''label'': ''rejected''}'
-      - '{''id'': 4, ''label'': ''cancelled''}'
-      - '{''id'': 5, ''label'': ''declined''}'
+      - pending
+      - approved
+      - rejected
+      - cancelled
+      - declined
       required: false
     - id: 10
       name: approver
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''manager''}'
-      - '{''id'': 2, ''label'': ''director''}'
+      - manager
+      - director
       required: false
     - id: 11
       name: approver_name
@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''manager''}'
-      - '{''id'': 2, ''label'': ''director''}'
+      - manager
+      - director
       required: false
     - id: 23
       name: approval_time

@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''None''}'
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: health_insurance
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Private''}'
-      - '{''value'': ''Public''}'
-      - '{''value'': ''Both''}'
+      - Private
+      - Public
+      - Both
       required: false
     - id: 9
       name: contact_info
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Online''}'
-      - '{''value'': ''Offline''}'
-      - '{''value'': ''Both''}'
+      - Online
+      - Offline
+      - Both
       required: false
     - id: 11
       name: patient_lifestyle
@@ -141,9 +141,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Doctor''}'
-      - '{''value'': ''Nurse''}'
-      - '{''value'': ''Lab''}'
+      - Doctor
+      - Nurse
+      - Lab
       required: false
     - id: 19
       name: medical_service_location
@@ -151,9 +151,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Online''}'
-      - '{''value'': ''Offline''}'
-      - '{''value'': ''Both''}'
+      - Online
+      - Offline
+      - Both
       required: false
     - id: 20
       name: patient_health

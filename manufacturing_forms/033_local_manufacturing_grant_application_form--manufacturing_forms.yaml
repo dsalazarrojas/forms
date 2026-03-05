@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''John Doe'', ''label'': ''John Doe''}'
-      - '{''value'': ''Jane Doe'', ''label'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 6
       name: project_contacts
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Jane Doe'', ''label'': ''Jane Doe''}'
-      - '{''value'': ''John Doe'', ''label'': ''John Doe''}'
+      - Jane Doe
+      - John Doe
       required: false
     - id: 7
       name: applicant_phone
@@ -104,8 +104,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''manufacturing'', ''label'': ''manufacturing''}'
-      - '{''value'': ''non-manufacturing'', ''label'': ''non-manufacturing''}'
+      - manufacturing
+      - non-manufacturing
       required: false
     - id: 15
       name: manufacturing_type
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''local'', ''label'': ''local''}'
-      - '{''value'': ''regional'', ''label'': ''regional''}'
+      - local
+      - regional
       required: false
     - id: 16
       name: manufacturing_location
@@ -122,9 +122,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''USA'', ''label'': ''USA''}'
-      - '{''value'': ''Canada'', ''label'': ''Canada''}'
-      - '{''value'': ''Mexico'', ''label'': ''Mexico''}'
+      - USA
+      - Canada
+      - Mexico
       required: false
     - id: 17
       name: manufacturing_sector
@@ -132,7 +132,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''aerospace'', ''label'': ''aerospace''}'
-      - '{''value'': ''automotive'', ''label'': ''automotive''}'
-      - '{''value'': ''consumer electronics'', ''label'': ''consumer electronics''}'
+      - aerospace
+      - automotive
+      - consumer electronics
       required: false

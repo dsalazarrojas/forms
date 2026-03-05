@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 5
       name: medical_insurance_provider
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Medicaid''}'
-      - '{''label'': ''Medicare''}'
-      - '{''label'': ''Other''}'
+      - Medicaid
+      - Medicare
+      - Other
       required: false
     - id: 6
       name: preferred_vaccination_day
@@ -49,13 +49,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Monday''}'
-      - '{''label'': ''Tuesday''}'
-      - '{''label'': ''Wednesday''}'
-      - '{''label'': ''Thursday''}'
-      - '{''label'': ''Friday''}'
-      - '{''label'': ''Saturday''}'
-      - '{''label'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 7
       name: voucher_type
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Single Voucher''}'
-      - '{''label'': ''Couple Voucher''}'
-      - '{''label'': ''Family Voucher''}'
+      - Single Voucher
+      - Couple Voucher
+      - Family Voucher
       required: false
     - id: 8
       name: additional_notes

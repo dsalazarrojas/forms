@@ -1,86 +1,84 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Art Gallery Membership Tier Application
     pages:
-      - id: 1
-        name: applicant_name
-        label: Applicant name
-        hint: Full name for membership
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: email
-        label: Email address
-        hint: For membership communication
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: membership_tier
-        label: Membership tier
-        hint: Select desired tier
-        type: select_one
-        options: [Basic, Supporting, Patron, Student]
-        required: true
-      - id: 4
-        name: payment_method
-        label: Payment method
-        hint: Choose payment option
-        type: select_one
-        options: [Credit card, Bank transfer, Invoice]
-        required: true
-      - id: 5
-        name: billing_address
-        label: Billing address
-        hint: Address for membership billing
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: organization_affiliation
-        label: Organization affiliation
-        hint: Company or institution if any
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: receive_newsletter
-        label: Receive newsletter
-        hint: Consent to receive gallery communications
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 8
-        name: emergency_contact
-        label: Emergency contact
-        hint: Optional emergency contact
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: member_notes
-        label: Member notes
-        hint: Any special membership requests
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: signature
-        label: Signature
-        hint: Type full name as electronic signature
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full name for membership
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For membership communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: membership_tier
+      label: Membership tier
+      hint: Select desired tier
+      type: select_one
+      options:
+      - Basic
+      - Supporting
+      - Patron
+      - Student
+      required: true
+    - id: 4
+      name: payment_method
+      label: Payment method
+      hint: Choose payment option
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Invoice
+      required: true
+    - id: 5
+      name: billing_address
+      label: Billing address
+      hint: Address for membership billing
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization_affiliation
+      label: Organization affiliation
+      hint: Company or institution if any
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: receive_newsletter
+      label: Receive newsletter
+      hint: Consent to receive gallery communications
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact
+      hint: Optional emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: member_notes
+      label: Member notes
+      hint: Any special membership requests
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: Type full name as electronic signature
+      type: text
+      options: []
+      required: true

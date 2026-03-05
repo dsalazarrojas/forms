@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''In Person'', ''value'': ''in_person''}'
+      - Phone
+      - Email
+      - In Person
       required: false
     - id: 5
       name: readiness_info
@@ -42,8 +42,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Ready'', ''value'': True}'
-      - '{''label'': ''Not Ready'', ''value'': False}'
+      - Ready
+      - Not Ready
       required: false
     - id: 6
       name: priorities
@@ -83,8 +83,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Continue with Session'', ''value'': ''continue_session''}'
-      - '{''label'': ''End Session'', ''value'': ''end_session''}'
+      - Continue with Session
+      - End Session
       required: false
     - id: 11
       name: session_comments
@@ -138,8 +138,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: mediator_signed
@@ -147,8 +147,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: session_status

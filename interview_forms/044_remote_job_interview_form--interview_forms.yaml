@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
-      - '{''value'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 4
       name: preferred_language
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''English''}'
-      - '{''value'': ''French''}'
-      - '{''value'': ''Spanish''}'
-      - '{''value'': ''Other''}'
+      - English
+      - French
+      - Spanish
+      - Other
       required: true
     - id: 5
       name: time_zone
@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''EST''}'
-      - '{''value'': ''PST''}'
-      - '{''value'': ''CST''}'
-      - '{''value'': ''GMT''}'
-      - '{''value'': ''Other''}'
+      - EST
+      - PST
+      - CST
+      - GMT
+      - Other
       required: true
     - id: 6
       name: work_location
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Office''}'
-      - '{''value'': ''Home''}'
-      - '{''value'': ''Other''}'
+      - Office
+      - Home
+      - Other
       required: false
     - id: 7
       name: job_title
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Remote''}'
-      - '{''value'': ''On-site''}'
+      - Remote
+      - On-site
       required: true
     - id: 13
       name: job_status
@@ -114,9 +114,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Open''}'
-      - '{''value'': ''Closed''}'
-      - '{''value'': ''Archived''}'
+      - Open
+      - Closed
+      - Archived
       required: true
     - id: 14
       name: created_by
@@ -173,8 +173,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Remote''}'
-      - '{''value'': ''Other''}'
+      - Remote
+      - Other
       required: false
     - id: 22
       name: job_location_address

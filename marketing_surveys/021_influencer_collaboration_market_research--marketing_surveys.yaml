@@ -9,14 +9,14 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: audience
       label: Audience
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
       name: platforms
       label: Platforms
@@ -26,7 +26,7 @@ inputSchema:
       - Instagram
       - TikTok
       - YouTube
-      required: false
+      required: true
     - id: 4
       name: collaboration_preferences
       label: Collaboration Preferences
@@ -36,162 +36,69 @@ inputSchema:
       - Facebook
       - Email
       - Phone
-      required: false
+      required: true
     - id: 5
       name: email
       label: E-mail
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 6
-      name: time_spent
-      label: Time Spent
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: time_spent
       label: Time Spent
       hint: null
       type: number
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 8
       name: notes
       label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: additional_info
+      label: Additional Information
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: brand_info
-      label: Brand Information
+      name: follow_up
+      label: Follow-up
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: audience
-      label: Audience
+      name: contact_method
+      label: Contact Method
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
       required: false
     - id: 12
-      name: platforms
-      label: Platforms
+      name: additional_time_spent
+      label: Additional Time Spent
       hint: null
-      type: select_multiple
-      options:
-      - Instagram
-      - TikTok
-      - YouTube
+      type: number
+      options: []
       required: false
     - id: 13
-      name: collaboration_preferences
-      label: Collaboration Preferences
-      hint: null
-      type: select_one
-      options:
-      - Facebook
-      - Email
-      - Phone
-      required: false
-    - id: 14
-      name: email
-      label: E-mail
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: time_spent
-      label: Time Spent
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: notes
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: brand_info
-      label: Brand Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: audience
-      label: Audience
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: platforms
-      label: Platforms
-      hint: null
-      type: select_multiple
-      options:
-      - Instagram
-      - TikTok
-      - YouTube
-      required: false
-    - id: 21
-      name: collaboration_preferences
-      label: Collaboration Preferences
-      hint: null
-      type: select_one
-      options:
-      - Facebook
-      - Email
-      - Phone
-      required: false
-    - id: 22
-      name: email
-      label: E-mail
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: time_spent
-      label: Time Spent
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: brand_info
-      label: Brand Information
+      name: additional_notes
+      label: Additional Notes
       hint: null
       type: text
       options: []

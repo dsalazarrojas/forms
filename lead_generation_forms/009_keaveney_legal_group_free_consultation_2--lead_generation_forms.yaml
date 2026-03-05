@@ -5,184 +5,75 @@ inputSchema:
     pages:
     - id: 1
       name: first_name
-      label: first name
-      hint: null
+      label: First name
+      hint: Your first name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: last_name
-      label: last name
-      hint: null
+      label: Last name
+      hint: Your last name
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: phone
-      label: phone number
-      hint: null
+      label: Phone number
+      hint: Your phone number
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: email
-      label: email
-      hint: null
+      label: Email
+      hint: Your email
       type: email
       options: []
-      required: false
+      required: true
     - id: 5
       name: description
-      label: description
-      hint: null
+      label: Description of the legal issue
+      hint: Please describe your legal issue
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: legal_issue
-      label: legal issue
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: lawyer_bureau
-      label: lawyer bureau
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: date
-      label: date
-      hint: null
+      label: Date of the consultation
+      hint: The date of the consultation
       type: date
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 7
       name: time
-      label: time
-      hint: null
+      label: Time of the consultation
+      hint: The time of the consultation
       type: time
+      options: []
+      required: true
+    - id: 8
+      name: consult_method
+      label: Preferred consultation method
+      hint: Choose how you would like to be consulted with
+      type: select_one
+      options:
+      - Lawyer Bureau
+      - Legal office
+      - Lawyer
+      - Legal Firm
+      required: true
+    - id: 9
+      name: comments
+      label: Additional comments
+      hint: Any additional comments you would like to include
+      type: text
       options: []
       required: false
     - id: 10
       name: submit
-      label: submit
-      hint: null
-      type: select_one
-      options:
-      - lawyer bureau
-      - legal office
-      - lawyer
-      - legal firm
-      required: false
-    - id: 11
-      name: first_name
-      label: first name
+      label: Submit
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
-      name: last_name
-      label: last name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: phone
-      label: phone number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: legal_issue
-      label: legal issue
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: lawyer_bureau
-      label: lawyer bureau
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: submit
-      label: submit
-      hint: null
-      type: select_multiple
-      options:
-      - lawyer bureau
-      - legal office
-      - lawyer
-      - legal firm
-      required: false
-    - id: 21
-      name: first_name
-      label: first name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: last_name
-      label: last name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: phone
-      label: phone number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

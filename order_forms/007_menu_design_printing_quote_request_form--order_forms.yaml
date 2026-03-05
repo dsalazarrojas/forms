@@ -16,9 +16,9 @@ inputSchema:
       hint: Restaurant, food truck, or catering service
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Restaurant''}'
-      - '{''id'': 2, ''name'': ''Food Truck''}'
-      - '{''id'': 3, ''name'': ''Catering Service''}'
+      - Restaurant
+      - Food Truck
+      - Catering Service
       required: false
     - id: 3
       name: menu_design_requirements
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Jimmy''}'
-      - '{''id'': 2, ''name'': ''Jane''}'
+      - Jimmy
+      - Jane
       required: false
     - id: 12
       name: quote_status
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''Approved''}'
-      - '{''id'': 3, ''name'': ''Rejected''}'
+      - Pending
+      - Approved
+      - Rejected
       required: false
     - id: 13
       name: quote_notes

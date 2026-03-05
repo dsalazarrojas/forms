@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Product''}'
-      - '{''id'': 2, ''label'': ''Service''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Product
+      - Service
+      - Other
       required: true
     - id: 3
       name: item_description
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In Development''}'
-      - '{''id'': 2, ''label'': ''In Production''}'
-      - '{''id'': 3, ''label'': ''Retired''}'
+      - In Development
+      - In Production
+      - Retired
       required: true
     - id: 5
       name: competitor

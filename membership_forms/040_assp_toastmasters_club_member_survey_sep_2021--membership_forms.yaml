@@ -129,11 +129,10 @@ inputSchema:
       hint: Select your interest level
       type: select_one
       options:
-      - true
+      - 'True'
       - definitely
-      - true
       - possibly
-      - false
+      - 'False'
       - not interested
       required: true
     - id: 13
@@ -170,8 +169,8 @@ inputSchema:
       hint: Select if you have an assigned mentor
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not interested
       required: false
     - id: 16
@@ -180,13 +179,11 @@ inputSchema:
       hint: Select if you'd like to participate in mentoring
       type: select_one
       options:
-      - true
+      - 'True'
       - as a mentee
-      - true
       - as a mentor
-      - true
       - as both
-      - false
+      - 'False'
       required: false
     - id: 17
       name: special_interest_groups

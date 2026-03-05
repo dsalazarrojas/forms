@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Passed''}'
-      - '{''label'': ''Failed''}'
+      - Passed
+      - Failed
       required: false
     - id: 4
       name: evidence_attached
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Passed''}'
-      - '{''label'': ''Failed''}'
+      - Passed
+      - Failed
       required: false
     - id: 11
       name: batch_status
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
-      - '{''label'': ''Archived''}'
+      - Active
+      - Inactive
+      - Archived
       required: false
     - id: 12
       name: notes
@@ -100,9 +100,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Complete''}'
-      - '{''label'': ''Pending''}'
+      - In Progress
+      - Complete
+      - Pending
       required: false
     - id: 14
       name: batch_id_number

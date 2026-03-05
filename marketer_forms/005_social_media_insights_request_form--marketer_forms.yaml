@@ -30,12 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 5, ''name'': ''account_level_insights'', ''label'': ''Account Level
-        Insights''}'
-      - '{''id'': 6, ''name'': ''campaign_level_insights'', ''label'': ''Campaign
-        Level Insights''}'
-      - '{''id'': 7, ''name'': ''post_level_insights'', ''label'': ''Post Level Insights''}'
-      - '{''id'': 8, ''name'': ''user_level_insights'', ''label'': ''User Level Insights''}'
+      - Account Level Insights
+      - Campaign Level Insights
+      - Post Level Insights
+      - User Level Insights
       required: false
     - id: 5
       name: company_name
@@ -71,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 14, ''name'': ''daily'', ''label'': ''Daily''}'
-      - '{''id'': 15, ''name'': ''weekly'', ''label'': ''Weekly''}'
-      - '{''id'': 16, ''name'': ''monthly'', ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 10
       name: send_frequency
@@ -81,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 18, ''name'': ''daily'', ''label'': ''Daily''}'
-      - '{''id'': 19, ''name'': ''weekly'', ''label'': ''Weekly''}'
-      - '{''id'': 20, ''name'': ''monthly'', ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 11
       name: send_notification
@@ -91,8 +89,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 22, ''name'': True, ''label'': True}'
-      - '{''id'': 23, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: date

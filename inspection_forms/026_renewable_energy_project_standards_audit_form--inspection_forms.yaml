@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In Progress''}'
-      - '{''id'': 2, ''label'': ''Completed''}'
-      - '{''id'': 3, ''label'': ''On Hold''}'
+      - In Progress
+      - Completed
+      - On Hold
       required: true
     - id: 3
       name: project_location
@@ -103,8 +103,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: location_address
@@ -182,8 +182,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not Completed''}'
+      - Completed
+      - Not Completed
       required: true
     - id: 26
       name: site_inspection_reviewer

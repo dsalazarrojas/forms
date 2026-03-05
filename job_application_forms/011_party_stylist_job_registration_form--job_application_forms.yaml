@@ -1,10 +1,10 @@
 inputSchema:
   type: object
   properties:
-    title: party_stylist_job_registration_form_title
+    title: Party Stylist Job Registration Form
     pages:
     - id: 1
-      name: party_stylist_job_registration_form_party_stylist_name
+      name: party_stylist_job_registration_form_name
       label: Party Stylist Name
       hint: null
       type: text
@@ -39,107 +39,37 @@ inputSchema:
       options: []
       required: true
     - id: 6
-      name: party_stylist_job_registration_form_education_1
-      label: Party Stylist School/College
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: party_stylist_job_registration_form_specialization
       label: Specialization
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 8
+    - id: 7
       name: party_stylist_job_registration_form_phone
-      label: Party Stylist Phone
+      label: Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 8
       name: party_stylist_job_registration_form_email
-      label: Party Stylist Email
+      label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 9
       name: party_stylist_job_registration_form_aptitude_test_date
       label: Aptitude Test Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 10
       name: party_stylist_job_registration_form_aptitude_test_prophets
-      label: Aptitude Test Prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: party_stylist_job_registration_form_aptitude_test_prophets_1
-      label: Aptitude Test Prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: party_stylist_job_registration_form_aptitude_test_prophets_2
-      label: Aptitude Test Prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: party_stylist_job_registration_form_aptitude_test_prophets_3
-      label: Aptitude Test Prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: party_stylist_job_registration_form_aptitude_test_prophets_4
-      label: Aptitude Test Prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: party_stylist_job_registration_form_aptitude_test_prophets_5
-      label: Aptitude Test Prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: party_stylist_job_registration_form_aptitude_test_prophets_6
-      label: Aptitude Test Prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: party_stylist_job_registration_form_aptitude_test_prophets_7
-      label: Aptitude Test Prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: party_stylist_job_registration_form_aptitude_test_prophets_8
-      label: Aptitude Test Prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: party_stylist_job_registration_form_aptitude_test_prophets_9
       label: Aptitude Test Prophets
       hint: null
       type: text

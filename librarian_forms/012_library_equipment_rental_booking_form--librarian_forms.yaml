@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Bookshelf''}'
-      - '{''value'': 2, ''label'': ''Desk''}'
+      - Bookshelf
+      - Desk
       required: false
     - id: 5
       name: status
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''pending'', ''label'': ''Pending''}'
-      - '{''value'': ''approved'', ''label'': ''Approved''}'
-      - '{''value'': ''denied'', ''label'': ''Denied''}'
+      - Pending
+      - Approved
+      - Denied
       required: false
     - id: 6
       name: department
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Arts & Sciences''}'
-      - '{''value'': 2, ''label'': ''Engineering''}'
-      - '{''value'': 3, ''label'': ''Humanities''}'
+      - Arts & Sciences
+      - Engineering
+      - Humanities
       required: false
     - id: 7
       name: student_id

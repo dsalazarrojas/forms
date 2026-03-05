@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''labor''}'
-      - '{''id'': 2, ''name'': ''material''}'
-      - '{''id'': 3, ''name'': ''other''}'
+      - labor
+      - material
+      - other
       required: false
     - id: 4
       name: cost_amount
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''weekly''}'
-      - '{''id'': 2, ''name'': ''biweekly''}'
-      - '{''id'': 3, ''name'': ''monthly''}'
+      - weekly
+      - biweekly
+      - monthly
       required: false
     - id: 6
       name: notes

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Employed''}'
-      - '{''id'': 2, ''label'': ''Self-Employed''}'
-      - '{''id'': 3, ''label'': ''Retired''}'
+      - Employed
+      - Self-Employed
+      - Retired
       required: true
     - id: 7
       name: employer_name
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Personal Loan''}'
-      - '{''id'': 2, ''label'': ''Mortgage Loan''}'
-      - '{''id'': 3, ''label'': ''Auto Loan''}'
+      - Personal Loan
+      - Mortgage Loan
+      - Auto Loan
       required: true
     - id: 14
       name: loan_amount
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Vehicle''}'
-      - '{''id'': 2, ''label'': ''Real Estate''}'
-      - '{''id'': 3, ''label'': ''Equipment''}'
+      - Vehicle
+      - Real Estate
+      - Equipment
       required: true
     - id: 17
       name: collateral_value

@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Online''}'
-      - '{''value'': ''Offline''}'
-      - '{''value'': ''In Maintenance''}'
-      - '{''value'': ''In Repair''}'
+      - Online
+      - Offline
+      - In Maintenance
+      - In Repair
       required: true
     - id: 2
       name: comments
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not Resolved''}'
-      - '{''value'': ''Resolved''}'
-      - '{''value'': ''In Progress''}'
+      - Not Resolved
+      - Resolved
+      - In Progress
       required: true
     - id: 7
       name: resolved_by
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''None''}'
-      - '{''value'': ''John Doe''}'
-      - '{''value'': ''Jane Doe''}'
+      - None
+      - John Doe
+      - Jane Doe
       required: true
     - id: 8
       name: issue_priority
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Low''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 9
       name: maintenance_status
@@ -80,10 +80,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not Scheduled''}'
-      - '{''value'': ''Scheduled''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Done''}'
+      - Not Scheduled
+      - Scheduled
+      - In Progress
+      - Done
       required: true
     - id: 10
       name: maintenance_date
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''None''}'
-      - '{''value'': ''John Smith''}'
-      - '{''value'': ''Jane Smith''}'
+      - None
+      - John Smith
+      - Jane Smith
       required: true
     - id: 14
       name: inspection_notes

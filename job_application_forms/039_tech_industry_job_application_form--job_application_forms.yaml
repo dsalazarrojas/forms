@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''JavaScript''}'
-      - '{''id'': 2, ''name'': ''HTML/CSS''}'
-      - '{''id'': 3, ''name'': ''Python''}'
-      - '{''id'': 4, ''name'': ''C++''}'
+      - JavaScript
+      - HTML/CSS
+      - Python
+      - C++
       required: false
     - id: 6
       name: experience
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Less than 1 year''}'
-      - '{''id'': 2, ''name'': ''More than 1 year''}'
-      - '{''id'': 3, ''name'': ''Not sure''}'
+      - Less than 1 year
+      - More than 1 year
+      - Not sure
       required: false
     - id: 7
       name: resume
@@ -114,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Available''}'
-      - '{''id'': 2, ''name'': ''Not Available''}'
+      - Available
+      - Not Available
       required: false
     - id: 16
       name: comments

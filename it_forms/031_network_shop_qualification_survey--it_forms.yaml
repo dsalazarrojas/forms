@@ -5,199 +5,110 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: vendor_services
-      label: vendor_services
+      name: services_offered
+      label: Services Offered
       hint: null
       type: select_multiple
       options:
-      - Value 1
-      - Value 2
-      - Value 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
-      name: vendor_experience
-      label: vendor_experience
+      name: business_experience
+      label: Business Experience
       hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: true
-    - id: 4
-      name: certification_status
-      label: certification_status
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
+      type: number
+      options: []
       required: false
-    - id: 5
-      name: services_offered
-      label: services_offered
+    - id: 4
+      name: vendor_certification
+      label: Vendor Certification
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Value 1
-      - Value 2
-      - Value 3
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 6
-      name: contact_person
-      label: contact_person
+      name: vendor_address
+      label: Vendor Address
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: vendor_certification
-      label: vendor_certification
+      name: vendor_email
+      label: Vendor Email
       hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
+      type: email
+      options: []
       required: false
     - id: 8
-      name: certification
-      label: certification
+      name: vendor_phone
+      label: Vendor Phone
       hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
+      type: text
+      options: []
       required: false
     - id: 9
-      name: contract_status
-      label: contract_status
+      name: contract_start_price
+      label: Contract Start Price
       hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
+      type: number
+      options: []
       required: false
     - id: 10
-      name: vendor_rating
-      label: vendor_rating
+      name: contract_end_price
+      label: Contract End Price
       hint: null
       type: number
       options: []
       required: false
     - id: 11
-      name: vendor_comment
-      label: vendor_comment
+      name: contract_duration
+      label: Contract Duration
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 12
-      name: contract_value
-      label: contract_value
+      name: services_used
+      label: Services Used
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
-      name: contract_start_date
-      label: contract_start_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: contract_end_date
-      label: contract_end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: vendor_address
-      label: vendor_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: vendor_email
-      label: vendor_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: vendor_phone
-      label: vendor_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: contract_start_price
-      label: contract_start_price
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: contract_end_price
-      label: contract_end_price
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
       name: contract_status
-      label: contract_status
+      label: Contract Status
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 21
-      name: contract_notes
-      label: contract_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: contract_notes
-      label: contract_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: vendor_service
-      label: vendor_service
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: vendor_note
-      label: vendor_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: vendor_note
-      label: vendor_note
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
       hint: null
       type: text
       options: []

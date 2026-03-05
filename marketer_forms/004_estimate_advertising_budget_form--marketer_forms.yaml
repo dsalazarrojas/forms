@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Video Ad''}'
-      - '{''id'': 2, ''label'': ''Image Ad''}'
-      - '{''id'': 3, ''label'': ''Social Media Ad''}'
+      - Video Ad
+      - Image Ad
+      - Social Media Ad
       required: false
     - id: 3
       name: ad_budget
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 10
       name: estimated_cost
@@ -92,7 +92,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Digital''}'
-      - '{''id'': 2, ''label'': ''Print''}'
-      - '{''id'': 3, ''label'': ''Social Media''}'
+      - Digital
+      - Print
+      - Social Media
       required: true

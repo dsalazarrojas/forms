@@ -37,16 +37,11 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - label: Palpitations
-        value: palpitations
-      - label: Syncope
-        value: syncope
-      - label: Orthopnea
-        value: orthopnea
-      - label: Paroxysmal Nocturnal Dyspnea
-        value: pnd
-      - label: Fatigue
-        value: fatigue
+      - Palpitations
+      - Syncope
+      - Orthopnea
+      - Paroxysmal Nocturnal Dyspnea
+      - Fatigue
       required: true
     - id: 6
       name: symptom_duration_timeline
@@ -68,14 +63,10 @@ inputSchema:
       hint: S1, S2, murmurs, clicks, or rubs
       type: select_one
       options:
-      - label: Normal S1/S2
-        value: normal
-      - label: Abnormal Heart Sounds
-        value: abnormal
-      - label: Murmur Detected
-        value: murmur
-      - label: Distant Heart Sounds
-        value: distant
+      - Normal S1/S2
+      - Abnormal Heart Sounds
+      - Murmur Detected
+      - Distant Heart Sounds
       required: true
     - id: 9
       name: peripheral_pulses_palpation
@@ -83,14 +74,10 @@ inputSchema:
       hint: Rate/Rhythm/Equality
       type: select_one
       options:
-      - label: Normal/Equal (+2)
-        value: normal
-      - label: Diminished/Weak (+1)
-        value: weak
-      - label: Absent (0)
-        value: absent
-      - label: Bounding (+3)
-        value: bounding
+      - Normal/Equal (+2)
+      - Diminished/Weak (+1)
+      - Absent (0)
+      - Bounding (+3)
       required: true
     - id: 10
       name: peripheral_edema_presence
@@ -98,14 +85,10 @@ inputSchema:
       hint: Pitting or non-pitting
       type: select_one
       options:
-      - label: Absent (No Swelling)
-        value: none
-      - label: Pitting Edema (Mild)
-        value: pitting_mild
-      - label: Pitting Edema (Severe)
-        value: pitting_severe
-      - label: Non-Pitting Edema
-        value: non_pitting
+      - Absent (No Swelling)
+      - Pitting Edema (Mild)
+      - Pitting Edema (Severe)
+      - Non-Pitting Edema
       required: true
     - id: 11
       name: jugular_venous_distension_jvd
@@ -113,10 +96,8 @@ inputSchema:
       hint: Measured at 45 degrees
       type: select_one
       options:
-      - label: Absent
-        value: absent
-      - label: Present
-        value: present
+      - Absent
+      - Present
       required: true
     - id: 12
       name: capillary_refill_time_seconds

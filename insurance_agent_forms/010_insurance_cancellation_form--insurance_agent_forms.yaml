@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''nonpayment''}'
-      - '{''id'': 2, ''name'': ''non-renewal''}'
-      - '{''id'': 3, ''name'': ''other''}'
+      - nonpayment
+      - non-renewal
+      - other
       required: false
     - id: 4
       name: policy_date
@@ -180,6 +180,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false

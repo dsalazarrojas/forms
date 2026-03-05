@@ -1,7 +1,7 @@
 inputSchema:
   type: object
   properties:
-    title: in_person_therapy_safety_guidelines
+    title: In Person Therapy Safety Guidelines
     pages:
     - id: 1
       name: screen_symptoms
@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 2
       name: confirm_safety_protocol
       label: Confirm Safety Protocol
@@ -20,189 +20,57 @@ inputSchema:
       options:
       - Safety Agreement Form
       - Safety Plan
-      required: false
+      required: true
     - id: 3
       name: organize_data_collection
       label: Organize Data Collection
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: recent_symptoms
       label: Recent Symptoms
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: recent_exposure
       label: Recent Exposure
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: safety_plan
       label: Safety Plan
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
       name: pre_visit_data
       label: Pre-Visit Data
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
       name: screen_exposure
       label: Screen Exposure
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 9
-      name: screen_symptoms
-      label: Screen Symptoms
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: safety_agreement
-      label: Safety Agreement
-      hint: null
-      type: select_one
-      options:
-      - Safety Agreement Form
-      - No Safety Agreement
-      required: false
-    - id: 11
-      name: organize_data_collection_2
-      label: Organize Data Collection
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: organize_data_collection_3
-      label: Organize Data Collection
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: organize_data_collection_4
-      label: Organize Data Collection
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: organize_data_collection_5
-      label: Organize Data Collection
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
       name: screen_symptoms_2
-      label: Screen Symptoms
+      label: Screen Symptoms 2
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: screen_symptoms_3
-      label: Screen Symptoms
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: screen_symptoms_4
-      label: Screen Symptoms
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: screen_exposure_2
-      label: Screen Exposure
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: screen_exposure_3
-      label: Screen Exposure
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: screen_exposure_4
-      label: Screen Exposure
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: safety_agreement_2
-      label: Safety Agreement
-      hint: null
-      type: select_one
-      options:
-      - Safety Agreement Form
-      - No Safety Agreement
-      required: false
-    - id: 22
-      name: organize_data_collection_2_2
-      label: Organize Data Collection
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: organize_data_collection_5_2
-      label: Organize Data Collection
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: screen_symptoms_2_2
-      label: Screen Symptoms
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: screen_symptoms_3_2
-      label: Screen Symptoms
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true

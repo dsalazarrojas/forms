@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''Fever'': True}'
-      - '{''Fever'': False}'
+      - Option 1
+      - Option 2
       required: true
     - id: 4
       name: have_cough
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''Cough'': True}'
-      - '{''Cough'': False}'
+      - Option 1
+      - Option 2
       required: true
     - id: 5
       name: travel_history
@@ -62,10 +62,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''Medical Condition'': ''Heart disease''}'
-      - '{''Medical Condition'': ''Diabetes''}'
-      - '{''Medical Condition'': ''Lung disease''}'
-      - '{''Medical Condition'': ''Other''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 9
       name: medication
@@ -73,8 +73,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''Taking Medication'': True}'
-      - '{''Taking Medication'': False}'
+      - Option 1
+      - Option 2
       required: false
     - id: 10
       name: previous_tests
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''Previous Tests'': True}'
-      - '{''Previous Tests'': False}'
+      - Option 1
+      - Option 2
       required: false
     - id: 11
       name: symptoms
@@ -109,8 +109,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''Hospitalization'': True}'
-      - '{''Hospitalization'': False}'
+      - Option 1
+      - Option 2
       required: false
     - id: 14
       name: emergency_contact
@@ -132,9 +132,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''Exposure Risk Level'': ''Low''}'
-      - '{''Exposure Risk Level'': ''Moderate''}'
-      - '{''Exposure Risk Level'': ''High''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 17
       name: travel_destination
@@ -177,10 +177,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''Travel Mode'': ''Air''}'
-      - '{''Travel Mode'': ''Bus''}'
-      - '{''Travel Mode'': ''Train''}'
-      - '{''Travel Mode'': ''Other''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: true
     - id: 23
       name: contact_number

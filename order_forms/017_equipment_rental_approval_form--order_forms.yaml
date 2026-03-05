@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''name'', ''label'': ''name''}'
-      - '{''name'': ''email'', ''label'': ''email''}'
-      - '{''name'': ''phone'', ''label'': ''phone''}'
+      - name
+      - email
+      - phone
       required: false
     - id: 9
       name: employee
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''name'', ''label'': ''name''}'
-      - '{''name'': ''role'', ''label'': ''role''}'
-      - '{''name'': ''phone'', ''label'': ''phone''}'
+      - name
+      - role
+      - phone
       required: false
     - id: 10
       name: comments

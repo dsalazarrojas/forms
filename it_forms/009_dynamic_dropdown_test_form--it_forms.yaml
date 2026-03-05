@@ -5,92 +5,118 @@ inputSchema:
     pages:
     - id: 1
       name: select_first
-      label: Select First
+      label: What is your favorite color?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Red
+      - Blue
+      - Green
+      - Yellow
       required: false
     - id: 2
       name: select_second
-      label: Select Second
+      label: What is your favorite food?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Pizza
+      - Burger
+      - Sushi
+      - Salad
       required: false
     - id: 3
       name: select_third
-      label: Select Third
+      label: How many siblings do you have?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
+      - Other
       required: false
     - id: 4
-      name: select_first
-      label: Select First
+      name: select_fourth
+      label: What is your favorite season?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Spring
+      - Summer
+      - Autumn
+      - Winter
       required: false
     - id: 5
-      name: select_second
-      label: Select Second
+      name: select_fifth
+      label: What is your favorite month?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
       required: false
     - id: 6
-      name: select_third
-      label: Select Third
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: select_third
-      label: Select Third
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
       name: text
       label: Text
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
+    - id: 7
       name: integer
       label: Integer
       hint: null
       type: number
       options: []
       required: false
-    - id: 10
+    - id: 8
       name: decimal
       label: Decimal
       hint: null
       type: number
       options: []
       required: false
-    - id: 11
-      name: note
-      label: Note
+    - id: 9
+      name: date
+      label: Date
       hint: null
-      type: note
+      type: date
       options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 12
+      name: select_two
+      label: Select Two
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

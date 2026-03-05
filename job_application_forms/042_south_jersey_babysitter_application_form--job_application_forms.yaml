@@ -4,16 +4,16 @@ inputSchema:
     title: South Jersey Babysitter Application Form
     pages:
     - id: 1
-      name: application_form
-      label: Application Form
-      hint: null
+      name: applicant_name
+      label: Name
+      hint: Please enter your full name.
       type: text
       options: []
       required: true
     - id: 2
       name: availability
-      label: availability
-      hint: null
+      label: Availability
+      hint: Please indicate your days available to work.
       type: select_multiple
       options:
       - Monday
@@ -23,166 +23,99 @@ inputSchema:
       - Friday
       - Saturday
       - Sunday
-      - Other (Please specify)
       required: true
     - id: 3
       name: experience
-      label: experience
-      hint: null
+      label: Experience
+      hint: Describe your previous work experience.
       type: text
       options: []
       required: true
     - id: 4
       name: education
-      label: education
-      hint: null
+      label: Education
+      hint: List your degrees earned.
       type: text
       options: []
       required: false
     - id: 5
-      name: references
-      label: references
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: special_skills
-      label: special_skills
-      hint: null
+      label: Special Skills
+      hint: Check all that apply.
+      type: select_multiple
+      options:
+      - CPR Certification
+      - First Aid Certification
+      - Swimming Lessons
+      - Other (Please specify)
+      required: true
+    - id: 6
+      name: certifications
+      label: Certifications
+      hint: List your certifications.
       type: text
       options: []
       required: false
     - id: 7
-      name: availability_details
-      label: availability_details
-      hint: null
-      type: text
+      name: earliest_start_date
+      label: Earliest Start Date
+      hint: Please enter the earliest date you are available to start.
+      type: date
       options: []
       required: true
     - id: 8
-      name: availability
-      label: availability
-      hint: null
-      type: time
+      name: latest_end_date
+      label: Latest End Date
+      hint: Please enter the latest date you are available to work.
+      type: date
       options: []
       required: true
     - id: 9
-      name: earliest_start_date
-      label: earliest_start_date
-      hint: null
-      type: date
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Please enter emergency contact information.
+      type: text
       options: []
       required: true
     - id: 10
-      name: latest_end_date
-      label: latest_end_date
-      hint: null
-      type: date
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Describe your relationship to emergency contact.
+      type: text
       options: []
       required: true
     - id: 11
-      name: earliest_start_time
-      label: earliest_start_time
-      hint: null
-      type: time
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Please enter emergency contact phone number.
+      type: text
       options: []
       required: false
     - id: 12
-      name: latest_end_time
-      label: latest_end_time
-      hint: null
-      type: time
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: Please enter emergency contact email.
+      type: email
       options: []
       required: false
     - id: 13
-      name: emergency_contact
-      label: emergency_contact
-      hint: null
+      name: emergency_contact_relationship_other
+      label: Emergency Contact Relationship Other
+      hint: Describe your relationship to emergency contact.
       type: text
       options: []
-      required: true
+      required: false
     - id: 14
-      name: emergency_contact_relationship
-      label: emergency_contact_relationship
-      hint: null
+      name: emergency_contact_relationship_other_phone
+      label: Emergency Contact Relationship Other Phone
+      hint: Please enter emergency contact phone number.
       type: text
       options: []
-      required: true
+      required: false
     - id: 15
-      name: emergency_contact_phone
-      label: emergency_contact_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: emergency_contact_relationship_other
-      label: emergency_contact_relationship_other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: emergency_contact_relationship_job
-      label: emergency_contact_relationship_job
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: emergency_contact_relationship_other_phone
-      label: emergency_contact_relationship_other_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
       name: emergency_contact_relationship_other_email
-      label: emergency_contact_relationship_other_email
-      hint: null
+      label: Emergency Contact Relationship Other Email
+      hint: Please enter emergency contact email.
       type: email
-      options: []
-      required: false
-    - id: 20
-      name: emergency_contact_relationship_other_phone
-      label: emergency_contact_relationship_other_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: emergency_contact_relationship_other_email
-      label: emergency_contact_relationship_other_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: emergency_contact_relationship_other_phone
-      label: emergency_contact_relationship_other_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: emergency_contact_relationship_other_email
-      label: emergency_contact_relationship_other_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: emergency_contact_relationship_other_phone
-      label: emergency_contact_relationship_other_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: emergency_contact_relationship_other
-      label: emergency_contact_relationship_other
-      hint: null
-      type: text
       options: []
       required: false

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Chat''}'
+      - Phone
+      - Email
+      - Chat
       required: false
     - id: 7
       name: phone
@@ -75,13 +75,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Monday''}'
-      - '{''value'': ''Tuesday''}'
-      - '{''value'': ''Wednesday''}'
-      - '{''value'': ''Thursday''}'
-      - '{''value'': ''Friday''}'
-      - '{''value'': ''Saturday''}'
-      - '{''value'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 11
       name: assigned_tool
@@ -89,8 +89,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy''}'
-      - '{''value'': ''Other''}'
+      - chatjimmy
+      - Other
       required: false
     - id: 12
       name: notes

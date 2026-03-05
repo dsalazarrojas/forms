@@ -44,10 +44,10 @@ inputSchema:
       hint: Please select your department
       type: select_one
       options:
-      - '{''name'': ''Sales''}'
-      - '{''name'': ''Engineering''}'
-      - '{''name'': ''Operations''}'
-      - '{''name'': ''HR''}'
+      - Sales
+      - Engineering
+      - Operations
+      - HR
       required: false
     - id: 7
       name: approver_name
@@ -55,8 +55,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Plant Manager''}'
-      - '{''name'': ''HR Manager''}'
+      - Plant Manager
+      - HR Manager
       required: false
     - id: 8
       name: submitter_name
@@ -141,10 +141,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Pending''}'
-      - '{''name'': ''Approved''}'
-      - '{''name'': ''Declined''}'
-      - '{''name'': ''Reopened''}'
+      - Pending
+      - Approved
+      - Declined
+      - Reopened
       required: false
     - id: 20
       name: submitted_by

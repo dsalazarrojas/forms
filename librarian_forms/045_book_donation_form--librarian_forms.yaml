@@ -1,85 +1,74 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Book Donation Form
     pages:
-      - id: 1
-        name: donor_header
-        label: -- Donor Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: donor_name
-        label: Donor name
-        hint: Full name for receipt
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: email
-        label: Email address
-        hint: For acknowledgement
-        type: email
-        options: []
-        required: false
-      - id: 4
-        name: book_title
-        label: Book title
-        hint: Title of donated book
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: author
-        label: Author
-        hint: Book author
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: isbn
-        label: ISBN
-        hint: If available
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: condition
-        label: Condition
-        hint: Describe book condition
-        type: select_one
-        options:
-          - New
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 8
-        name: pickup_required
-        label: Pickup required
-        hint: Do you need collection arranged
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 9
-        name: pickup_address
-        label: Pickup address
-        hint: If pickup required provide address
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: donor_header
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor name
+      hint: Full name for receipt
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For acknowledgement
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: book_title
+      label: Book title
+      hint: Title of donated book
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: author
+      label: Author
+      hint: Book author
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: isbn
+      label: ISBN
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: condition
+      label: Condition
+      hint: Describe book condition
+      type: select_one
+      options:
+      - New
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: pickup_required
+      label: Pickup required
+      hint: Do you need collection arranged
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: pickup_address
+      label: Pickup address
+      hint: If pickup required provide address
+      type: text
+      options: []
+      required: false

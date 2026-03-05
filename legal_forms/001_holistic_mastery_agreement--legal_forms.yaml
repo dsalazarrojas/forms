@@ -5,284 +5,134 @@ inputSchema:
     pages:
     - id: 1
       name: first_page
-      label: First page
+      label: Contact Information
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Name
+      - Email
+      - Contact Number
+      - Address
+      required: true
     - id: 2
       name: first_page_item
-      label: name
+      label: Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: first_page_item_2
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
       name: first_page_item_3
-      label: contact_number
+      label: Contact Number
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: first_page_item_4
-      label: contact_number_2
+      label: Address
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: first_page_item_5
-      label: address
+      label: Date of Birth
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 7
       name: first_page_item_6
-      label: address_2
+      label: Time of Birth
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 8
       name: first_page_item_7
-      label: date_of_birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: first_page_item_8
-      label: time_of_birth
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: first_page_item_9
-      label: email_field
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: first_page_item_10
-      label: contact_number_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: first_page_item_11
-      label: address_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: first_page_item_12
-      label: date_of_termination
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: first_page_item_13
-      label: time_of_termination
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: first_page_item_14
-      label: terms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: first_page_item_15
-      label: date_of_terms
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: first_page_item_16
-      label: time_of_terms
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: first_page_item_17
-      label: termination_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: first_page_item_18
-      label: termination_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: second_page
-      label: Second page
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: second_page_item
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: second_page_item_2
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: second_page_item_3
-      label: contact_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: second_page_item_4
-      label: contact_number_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: second_page_item_5
-      label: address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: second_page_item_6
-      label: address_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: second_page_item_7
-      label: date_of_birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 28
-      name: second_page_item_8
-      label: time_of_birth
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 29
-      name: date_of_termination
       label: Date of Termination
       hint: null
       type: date
       options: []
-      required: false
-    - id: 30
-      name: time_of_termination
+      required: true
+    - id: 9
+      name: first_page_item_8
       label: Time of Termination
       hint: null
       type: time
       options: []
-      required: false
-    - id: 31
-      name: termination_date
-      label: Termination Date
+      required: true
+    - id: 10
+      name: first_page_item_9
+      label: Date of Signature
       hint: null
       type: date
       options: []
-      required: false
-    - id: 32
-      name: termination_time
-      label: Termination Time
+      required: true
+    - id: 11
+      name: first_page_item_10
+      label: Time of Signature
       hint: null
       type: time
       options: []
-      required: false
-    - id: 33
-      name: second_page_item_9
-      label: signature
+      required: true
+    - id: 12
+      name: first_page_item_11
+      label: Signature
       hint: null
       type: select_one
       options:
       - Signature 1
       - Signature 2
       - Signature 3
-      required: false
-    - id: 34
-      name: second_page_item_10
-      label: date_of_signature
+      required: true
+    - id: 13
+      name: first_page_item_12
+      label: First Page Item 12
       hint: null
-      type: date
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: first_page_item_13
+      label: Second Page
+      hint: null
+      type: note
       options: []
       required: false
-    - id: 35
-      name: time_of_signature
-      label: Time Of Signature
+    - id: 15
+      name: second_page
+      label: Second Page (2)
       hint: null
-      type: time
+      type: note
       options: []
       required: false
-    - id: 36
-      name: date_of_signature_2
-      label: Date Of Signature 2
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 37
-      name: time_of_signature_2
-      label: Time Of Signature 2
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 38
-      name: second_page_item_11
-      label: terms
+    - id: 16
+      name: second_page_item
+      label: Second Page Item
       hint: null
       type: text
       options: []
       required: false
-    - id: 39
-      name: date_of_terms
-      label: Date of Terms
+    - id: 17
+      name: second_page_item_2
+      label: Second Page Item 2
       hint: null
-      type: date
+      type: email
       options: []
       required: false
-    - id: 40
-      name: time_of_terms
-      label: Time of Terms
+    - id: 18
+      name: second_page_item_3
+      label: Second Page Item 3
       hint: null
-      type: time
+      type: text
       options: []
       required: false

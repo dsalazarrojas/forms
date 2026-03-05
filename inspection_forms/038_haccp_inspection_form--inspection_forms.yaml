@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Production Line''}'
-      - '{''id'': 2, ''label'': ''Warehouse''}'
+      - Production Line
+      - Warehouse
       required: false
     - id: 4
       name: inspection_date
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Complete''}'
-      - '{''id'': 2, ''label'': ''Incomplete''}'
-      - '{''id'': 3, ''label'': ''Re-Inspection Required''}'
+      - Complete
+      - Incomplete
+      - Re-Inspection Required
       required: false
     - id: 7
       name: critical_control_points

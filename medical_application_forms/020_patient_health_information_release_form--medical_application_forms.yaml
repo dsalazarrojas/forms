@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''healthcare-provider-providers''}'
-      - '{''value'': ''healthcare-provider-specialists''}'
-      - '{''value'': ''healthcare-provider-other''}'
+      - healthcare-provider-providers
+      - healthcare-provider-specialists
+      - healthcare-provider-other
       required: true
     - id: 2
       name: form_2
@@ -26,8 +26,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''full-release''}'
-      - '{''value'': ''partial-release''}'
+      - full-release
+      - partial-release
       required: true
     - id: 4
       name: form_4
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''healthcare-provider-providers''}'
-      - '{''value'': ''healthcare-provider-specialists''}'
-      - '{''value'': ''healthcare-provider-other''}'
+      - healthcare-provider-providers
+      - healthcare-provider-specialists
+      - healthcare-provider-other
       required: true
     - id: 5
       name: form_5
@@ -52,9 +52,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''healthcare-provider-providers''}'
-      - '{''value'': ''healthcare-provider-specialists''}'
-      - '{''value'': ''healthcare-provider-other''}'
+      - healthcare-provider-providers
+      - healthcare-provider-specialists
+      - healthcare-provider-other
       required: true
     - id: 7
       name: form_7
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''1-year''}'
-      - '{''value'': ''5-years''}'
-      - '{''value'': ''10-years''}'
+      - 1-year
+      - 5-years
+      - 10-years
       required: true
     - id: 9
       name: form_9
@@ -93,9 +93,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''immediate''}'
-      - '{''value'': ''upon-release''}'
-      - '{''value'': ''pending''}'
+      - immediate
+      - upon-release
+      - pending
       required: true
     - id: 12
       name: form_12
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''mail''}'
-      - '{''value'': ''fax''}'
+      - email
+      - mail
+      - fax
       required: true
     - id: 13
       name: form_13
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''healthcare-provider-providers''}'
-      - '{''value'': ''healthcare-provider-specialists''}'
-      - '{''value'': ''healthcare-provider-other''}'
+      - healthcare-provider-providers
+      - healthcare-provider-specialists
+      - healthcare-provider-other
       required: true
     - id: 15
       name: form_15
@@ -130,8 +130,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: form_16
@@ -139,9 +139,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''local-storage''}'
-      - '{''value'': ''remote-storage''}'
-      - '{''value'': ''other''}'
+      - local-storage
+      - remote-storage
+      - other
       required: true
     - id: 17
       name: form_17
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''patient''}'
-      - '{''value'': ''healthcare-provider''}'
-      - '{''value'': ''other''}'
+      - patient
+      - healthcare-provider
+      - other
       required: true
     - id: 18
       name: form_18
@@ -159,8 +159,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: form_19
@@ -171,7 +171,7 @@ inputSchema:
       required: true
     - id: 20
       name: form_20
-      label: signature
+      label: Form 20
       hint: null
       type: text
       options: []
@@ -192,30 +192,30 @@ inputSchema:
       required: true
     - id: 23
       name: form_23
-      label: authorized-parties
+      label: Form 23
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''healthcare-provider-providers''}'
-      - '{''value'': ''healthcare-provider-specialists''}'
-      - '{''value'': ''healthcare-provider-other''}'
+      - healthcare-provider-providers
+      - healthcare-provider-specialists
+      - healthcare-provider-other
       required: true
     - id: 24
       name: form_24
-      label: record-archival
+      label: Form 24
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: form_25
-      label: record-storage
+      label: Form 25
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''local-storage''}'
-      - '{''value'': ''remote-storage''}'
-      - '{''value'': ''other''}'
+      - local-storage
+      - remote-storage
+      - other
       required: false

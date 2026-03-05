@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''short-videos'', ''value'': ''short-videos''}'
-      - '{''label'': ''long-videos'', ''value'': ''long-videos''}'
+      - short-videos
+      - long-videos
       required: true
     - id: 3
       name: page_3
@@ -25,10 +25,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''youtube'', ''value'': ''youtube''}'
-      - '{''label'': ''tik-tok'', ''value'': ''tik-tok''}'
-      - '{''label'': ''instagram'', ''value'': ''instagram''}'
-      - '{''label'': ''facebook'', ''value'': ''facebook''}'
+      - youtube
+      - tik-tok
+      - instagram
+      - facebook
       required: false
     - id: 4
       name: page_4
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''creators'', ''value'': ''creators''}'
-      - '{''label'': ''marketers'', ''value'': ''marketers''}'
-      - '{''label'': ''both'', ''value'': ''both''}'
+      - creators
+      - marketers
+      - both
       required: true
     - id: 5
       name: page_5

@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Applicable''}'
-      - '{''label'': ''Not Required''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Fixed''}'
-      - '{''label'': ''Replaced''}'
+      - Not Applicable
+      - Not Required
+      - In Progress
+      - Fixed
+      - Replaced
       required: true
     - id: 5
       name: repair_notes
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''User''}'
-      - '{''label'': ''Admin''}'
-      - '{''label'': ''Manager''}'
+      - User
+      - Admin
+      - Manager
       required: true
     - id: 10
       name: assigned_to

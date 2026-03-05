@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''work''}'
-      - '{''id'': 2, ''name'': ''personal''}'
-      - '{''id'': 3, ''name'': ''school''}'
-      - '{''id'': 4, ''name'': ''other''}'
-      - '{''id'': 5, ''name'': ''dont know''}'
+      - work
+      - personal
+      - school
+      - other
+      - dont know
       required: true
     - id: 3
       name: laptop_preference
@@ -28,11 +28,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''11-12 inches''}'
-      - '{''id'': 2, ''name'': ''13-14 inches''}'
-      - '{''id'': 3, ''name'': ''15-16 inches''}'
-      - '{''id'': 4, ''name'': ''17-18 inches''}'
-      - '{''id'': 5, ''name'': ''dont know''}'
+      - 11-12 inches
+      - 13-14 inches
+      - 15-16 inches
+      - 17-18 inches
+      - dont know
       required: true
     - id: 4
       name: laptop_purchase_frequency
@@ -40,11 +40,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''rarely''}'
-      - '{''id'': 2, ''name'': ''occasionally''}'
-      - '{''id'': 3, ''name'': ''frequently''}'
-      - '{''id'': 4, ''name'': ''all the time''}'
-      - '{''id'': 5, ''name'': ''never''}'
+      - rarely
+      - occasionally
+      - frequently
+      - all the time
+      - never
       required: true
     - id: 5
       name: laptop_purchase_reason
@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''dont know''}'
+      - 'True'
+      - 'False'
+      - dont know
       required: true
     - id: 8
       name: laptop_usage_duration
@@ -83,12 +83,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''apple''}'
-      - '{''id'': 2, ''name'': ''dell''}'
-      - '{''id'': 3, ''name'': ''hp''}'
-      - '{''id'': 4, ''name'': ''lenovo''}'
-      - '{''id'': 5, ''name'': ''other''}'
-      - '{''id'': 6, ''name'': ''not recommended''}'
+      - apple
+      - dell
+      - hp
+      - lenovo
+      - other
+      - not recommended
       required: false
     - id: 10
       name: laptop_satisfaction
@@ -110,10 +110,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''friend''}'
-      - '{''id'': 2, ''name'': ''family member''}'
-      - '{''id'': 3, ''name'': ''colleague''}'
-      - '{''id'': 4, ''name'': ''not applicable''}'
+      - friend
+      - family member
+      - colleague
+      - not applicable
       required: false
     - id: 13
       name: laptop_recommender_relation
@@ -135,10 +135,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''self''}'
-      - '{''id'': 2, ''name'': ''family member''}'
-      - '{''id'': 3, ''name'': ''colleague''}'
-      - '{''id'': 4, ''name'': ''friend''}'
+      - self
+      - family member
+      - colleague
+      - friend
       required: true
     - id: 16
       name: laptop_purchaser_relation
@@ -153,9 +153,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''dont know''}'
+      - 'True'
+      - 'False'
+      - dont know
       required: true
     - id: 18
       name: laptop_satisfaction_purchaser
@@ -205,9 +205,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''maybe''}'
+      - 'True'
+      - 'False'
+      - maybe
       required: true
     - id: 25
       name: laptop_recommendation_reason

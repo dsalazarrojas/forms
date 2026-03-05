@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
-      - '{''label'': ''Pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: false
     - id: 7
       name: membership_type
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Individual''}'
-      - '{''label'': ''Couple''}'
-      - '{''label'': ''Family''}'
+      - Individual
+      - Couple
+      - Family
       required: false
     - id: 8
       name: payment_method
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Credit Card''}'
-      - '{''label'': ''Debit Card''}'
-      - '{''label'': ''Cash''}'
+      - Credit Card
+      - Debit Card
+      - Cash
       required: false
     - id: 9
       name: payment_status
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Paid''}'
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Cancelled''}'
+      - Paid
+      - Pending
+      - Cancelled
       required: false
     - id: 10
       name: note

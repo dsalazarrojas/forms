@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''CEO''}'
-      - '{''value'': ''Manager''}'
-      - '{''value'': ''Other''}'
+      - CEO
+      - Manager
+      - Other
       required: false
     - id: 4
       name: company_name
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: confidentiality_terms

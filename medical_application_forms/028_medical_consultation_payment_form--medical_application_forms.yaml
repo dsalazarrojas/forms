@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''cash'', ''value'': ''cash''}'
-      - '{''id'': 2, ''name'': ''card'', ''value'': ''card''}'
-      - '{''id'': 3, ''name'': ''bank_transfer'', ''value'': ''bank_transfer''}'
+      - cash
+      - card
+      - bank transfer
       required: true
     - id: 4
       name: payment_amount
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''paid'', ''value'': ''paid''}'
-      - '{''id'': 2, ''name'': ''unpaid'', ''value'': ''unpaid''}'
-      - '{''id'': 3, ''name'': ''partial'', ''value'': ''partial''}'
+      - paid
+      - unpaid
+      - partial
       required: true
     - id: 12
       name: notes

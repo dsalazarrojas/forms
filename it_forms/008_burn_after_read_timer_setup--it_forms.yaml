@@ -1,215 +1,204 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Burn After Read Timer Setup
     pages:
-      - id: 1
-        name: sender_info
-        label: Sender Information
-        hint: Your details
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: sender_name
-        label: Sender Name
-        hint: Your name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: sender_email
-        label: Sender Email
-        hint: Your email address
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: department
-        label: Department
-        hint: Your department
-        type: select_one
-        options:
-        - IT
-        - Security
-        - Administration
-        - Management
-        - Legal
-        - HR
-        - Other
-        required: true
-      - id: 5
-        name: message_config
-        label: Message Configuration
-        hint: Configure your secure message
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: message_subject
-        label: Message Subject
-        hint: Subject line for the message
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: message_content
-        label: Message Content
-        hint: The secure message content
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: sensitivity_level
-        label: Sensitivity Level
-        hint: How sensitive is this information
-        type: select_one
-        options:
-        - Confidential
-        - Internal Use Only
-        - Restricted
-        - Top Secret
-        required: true
-      - id: 9
-        name: timer_settings
-        label: Timer Settings
-        hint: When should the message self-destruct
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: destruction_timer
-        label: Destruction Timer
-        hint: Time until message is destroyed
-        type: select_one
-        options:
-        - 1 Hour
-        - 6 Hours
-        - 12 Hours
-        - 24 Hours
-        - 3 Days
-        - 7 Days
-        - 14 Days
-        required: true
-      - id: 11
-        name: read_receipt
-        label: Read Receipt Required
-        hint: Should sender be notified when message is read
-        type: select_one
-        options:
-        - Yes
-        - No
-        required: true
-      - id: 12
-        name: access_control
-        label: Access Control
-        hint: Who can access this message
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: recipient_email
-        label: Recipient Email
-        hint: Email of the intended recipient
-        type: email
-        options: []
-        required: true
-      - id: 14
-        name: recipient_verification
-        label: Recipient Verification
-        hint: How should recipient be verified
-        type: select_one
-        options:
-        - Email Verification Only
-        - Email Plus Password
-        - Two-Factor Authentication
-        - Security Questions
-        required: true
-      - id: 15
-        name: access_attempts
-        label: Maximum Access Attempts
-        hint: How many failed attempts before lockout
-        type: select_one
-        options:
-        - 1 Attempt
-        - 3 Attempts
-        - 5 Attempts
-        - 10 Attempts
-        - Unlimited
-        required: true
-      - id: 16
-        name: forwarding_allowed
-        label: Forwarding Allowed
-        hint: Can recipient forward this message
-        type: select_one
-        options:
-        - Yes
-        - No
-        - With Permission
-        required: true
-      - id: 17
-        name: printing_allowed
-        label: Printing Allowed
-        hint: Can recipient print this message
-        type: select_one
-        options:
-        - Yes
-        - No
-        required: true
-      - id: 18
-        name: security_options
-        label: Security Options
-        hint: Additional security measures
-        type: note
-        options: []
-        required: false
-      - id: 19
-        name: encryption_level
-        label: Encryption Level
-        hint: Select encryption strength
-        type: select_one
-        options:
-        - Standard Encryption
-        - Enhanced Encryption
-        - Military Grade
-        required: true
-      - id: 20
-        name: audit_trail
-        label: Audit Trail
-        hint: Should access be logged
-        type: select_one
-        options:
-        - Yes - Full Logging
-        - Yes - Basic Logging
-        - No Logging
-        required: true
-      - id: 21
-        name: additional_password
-        label: Additional Password
-        hint: Optional extra password protection
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: notification_preferences
-        label: Notification Preferences
-        hint: When should you be notified
-        type: select_multiple
-        options:
-        - When Message Is Delivered
-        - When Message Is Read
-        - When Message Is Destroyed
-        - On Failed Access Attempt
-        - No Notifications
-        required: true
+    - id: 1
+      name: sender_info
+      label: Sender Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sender_name
+      label: Sender Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sender_email
+      label: Sender Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - IT
+      - Security
+      - Administration
+      - Management
+      - Legal
+      - HR
+      - Other
+      required: true
+    - id: 5
+      name: message_config
+      label: Message Configuration
+      hint: Configure your secure message
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: message_subject
+      label: Message Subject
+      hint: Subject line for the message
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: message_content
+      label: Message Content
+      hint: The secure message content
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sensitivity_level
+      label: Sensitivity Level
+      hint: How sensitive is this information
+      type: select_one
+      options:
+      - Confidential
+      - Internal Use Only
+      - Restricted
+      - Top Secret
+      required: true
+    - id: 9
+      name: timer_settings
+      label: Timer Settings
+      hint: When should the message self-destruct
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: destruction_timer
+      label: Destruction Timer
+      hint: Time until message is destroyed
+      type: select_one
+      options:
+      - 1 Hour
+      - 6 Hours
+      - 12 Hours
+      - 24 Hours
+      - 3 Days
+      - 7 Days
+      - 14 Days
+      required: true
+    - id: 11
+      name: read_receipt
+      label: Read Receipt Required
+      hint: Should sender be notified when message is read
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: access_control
+      label: Access Control
+      hint: Who can access this message
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: recipient_email
+      label: Recipient Email
+      hint: Email of the intended recipient
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: recipient_verification
+      label: Recipient Verification
+      hint: How should recipient be verified
+      type: select_one
+      options:
+      - Email Verification Only
+      - Email Plus Password
+      - Two-Factor Authentication
+      - Security Questions
+      required: true
+    - id: 15
+      name: access_attempts
+      label: Maximum Access Attempts
+      hint: How many failed attempts before lockout
+      type: select_one
+      options:
+      - 1 Attempt
+      - 3 Attempts
+      - 5 Attempts
+      - 10 Attempts
+      - Unlimited
+      required: true
+    - id: 16
+      name: forwarding_allowed
+      label: Forwarding Allowed
+      hint: Can recipient forward this message
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - With Permission
+      required: true
+    - id: 17
+      name: printing_allowed
+      label: Printing Allowed
+      hint: Can recipient print this message
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: security_options
+      label: Security Options
+      hint: Additional security measures
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: encryption_level
+      label: Encryption Level
+      hint: Select encryption strength
+      type: select_one
+      options:
+      - Standard Encryption
+      - Enhanced Encryption
+      - Military Grade
+      required: true
+    - id: 20
+      name: audit_trail
+      label: Audit Trail
+      hint: Should access be logged
+      type: select_one
+      options:
+      - Yes - Full Logging
+      - Yes - Basic Logging
+      - No Logging
+      required: true
+    - id: 21
+      name: additional_password
+      label: Additional Password
+      hint: Optional extra password protection
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notification_preferences
+      label: Notification Preferences
+      hint: When should you be notified
+      type: select_multiple
+      options:
+      - When Message Is Delivered
+      - When Message Is Read
+      - When Message Is Destroyed
+      - On Failed Access Attempt
+      - No Notifications
+      required: true

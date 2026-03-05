@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Select''}'
-      - '{''label'': ''Clear''}'
-      - '{''label'': ''Check''}'
+      - Select
+      - Clear
+      - Check
       required: true
     - id: 4
       name: results
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Car''}'
-      - '{''label'': ''Truck''}'
-      - '{''label'': ''Motorcycle''}'
+      - Car
+      - Truck
+      - Motorcycle
       required: true
     - id: 7
       name: vin_type
@@ -57,12 +57,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''17-digit VIN''}'
-      - '{''label'': ''17-digit VIN with Check''}'
-      - '{''label'': ''17-digit VIN without Check''}'
-      - '{''label'': ''12-digit VIN''}'
-      - '{''label'': ''12-digit VIN with Check''}'
-      - '{''label'': ''12-digit VIN without Check''}'
+      - 17-digit VIN
+      - 17-digit VIN with Check
+      - 17-digit VIN without Check
+      - 12-digit VIN
+      - 12-digit VIN with Check
+      - 12-digit VIN without Check
       required: true
     - id: 8
       name: vin_length
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 17}'
-      - '{''label'': 12}'
+      - '17'
+      - '12'
       required: true
     - id: 9
       name: vehicle_year
@@ -93,8 +93,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Valid''}'
-      - '{''label'': ''Invalid''}'
+      - Valid
+      - Invalid
       required: true
     - id: 12
       name: notes

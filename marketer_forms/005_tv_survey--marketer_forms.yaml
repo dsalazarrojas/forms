@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 3
       name: tv_producer
@@ -39,10 +39,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 6
       name: ratings_3
@@ -50,11 +50,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': 1}'
-      - '{''id'': 2, ''label'': 2}'
-      - '{''id'': 3, ''label'': 3}'
-      - '{''id'': 4, ''label'': 4}'
-      - '{''id'': 5, ''label'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 7
       name: ratings_4
@@ -62,11 +62,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''1st''}'
-      - '{''id'': 2, ''label'': ''2nd''}'
-      - '{''id'': 3, ''label'': ''3rd''}'
-      - '{''id'': 4, ''label'': ''4th''}'
-      - '{''id'': 5, ''label'': ''5th''}'
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
       required: true
     - id: 8
       name: ratings_5
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Top''}'
-      - '{''id'': 2, ''label'': ''Middle''}'
-      - '{''id'': 3, ''label'': ''Bottom''}'
+      - Top
+      - Middle
+      - Bottom
       required: false
     - id: 9
       name: store_and_manage_data_online

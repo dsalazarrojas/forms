@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Age Group 18-24''}'
-      - '{''value'': ''Age Group 25-34''}'
-      - '{''value'': ''Age Group 35-44''}'
-      - '{''value'': ''Age Group 45-54''}'
-      - '{''value'': ''Age Group 55-64''}'
-      - '{''value'': ''Age Group 65 or above''}'
+      - Age Group 18-24
+      - Age Group 25-34
+      - Age Group 35-44
+      - Age Group 45-54
+      - Age Group 55-64
+      - Age Group 65 or above
       required: false
     - id: 3
       name: income_range
@@ -29,11 +29,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Less than $25,000''}'
-      - '{''value'': ''$25,000-$49,999''}'
-      - '{''value'': ''$50,000-$74,999''}'
-      - '{''value'': ''$75,000-$99,999''}'
-      - '{''value'': ''$100,000 or more''}'
+      - Less than $25,000
+      - $25,000-$49,999
+      - $50,000-$74,999
+      - $75,000-$99,999
+      - $100,000 or more
       required: false
     - id: 4
       name: occupation
@@ -48,11 +48,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Less than High School''}'
-      - '{''value'': ''High School''}'
-      - '{''value'': ''Some college''}'
-      - '{''value'': ''College''}'
-      - '{''value'': ''Postgraduate''}'
+      - Less than High School
+      - High School
+      - Some college
+      - College
+      - Postgraduate
       required: false
     - id: 6
       name: gender
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Female''}'
-      - '{''value'': ''Male''}'
-      - '{''value'': ''Other''}'
+      - Female
+      - Male
+      - Other
       required: false
     - id: 7
       name: marital_status
@@ -70,11 +70,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Single''}'
-      - '{''value'': ''Married''}'
-      - '{''value'': ''Divorced''}'
-      - '{''value'': ''Widowed''}'
-      - '{''value'': ''In a domestic partnership''}'
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - In a domestic partnership
       required: false
     - id: 8
       name: family_size
@@ -82,11 +82,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1}'
-      - '{''value'': 2}'
-      - '{''value'': 3}'
-      - '{''value'': 4}'
-      - '{''value'': ''5 or more''}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - 5 or more
       required: false
     - id: 9
       name: children
@@ -94,12 +94,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 0}'
-      - '{''value'': 1}'
-      - '{''value'': 2}'
-      - '{''value'': 3}'
-      - '{''value'': 4}'
-      - '{''value'': ''5 or more''}'
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - 5 or more
       required: false
     - id: 10
       name: country
@@ -114,13 +114,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''English''}'
-      - '{''value'': ''Spanish''}'
-      - '{''value'': ''French''}'
-      - '{''value'': ''Chinese''}'
-      - '{''value'': ''Japanese''}'
-      - '{''value'': ''Arabic''}'
-      - '{''value'': ''Hindi''}'
+      - English
+      - Spanish
+      - French
+      - Chinese
+      - Japanese
+      - Arabic
+      - Hindi
       required: false
     - id: 12
       name: city

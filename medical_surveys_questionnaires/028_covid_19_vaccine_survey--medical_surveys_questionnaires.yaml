@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -41,12 +30,12 @@ inputSchema:
       hint: Your age category
       type: select_one
       options:
-        - Under 18
-        - 18-25
-        - 26-35
-        - 36-50
-        - 51-65
-        - 65+
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-50
+      - 51-65
+      - 65+
       required: false
     - id: 5
       name: survey_gender
@@ -54,10 +43,10 @@ inputSchema:
       hint: Your gender
       type: select_one
       options:
-        - Male
-        - Female
-        - Other
-        - Prefer Not to Say
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
       required: false
     - id: 6
       name: survey_email
@@ -79,10 +68,10 @@ inputSchema:
       hint: Your level of awareness
       type: select_one
       options:
-        - Very well informed
-        - Somewhat informed
-        - Minimal knowledge
-        - No knowledge
+      - Very well informed
+      - Somewhat informed
+      - Minimal knowledge
+      - No knowledge
       required: true
     - id: 9
       name: vaccine_sources
@@ -90,14 +79,14 @@ inputSchema:
       hint: Select all sources you use
       type: select_multiple
       options:
-        - Healthcare provider
-        - Media sources
-        - Social media
-        - Government websites
-        - Friends and family
-        - Online research
-        - Medical journals
-        - No specific sources
+      - Healthcare provider
+      - Media sources
+      - Social media
+      - Government websites
+      - Friends and family
+      - Online research
+      - Medical journals
+      - No specific sources
       required: false
     - id: 10
       name: vaccine_trust_header
@@ -112,11 +101,11 @@ inputSchema:
       hint: Your confidence level in vaccines
       type: select_one
       options:
-        - Strongly trust
-        - Somewhat trust
-        - Somewhat distrust
-        - Strongly distrust
-        - Unsure
+      - Strongly trust
+      - Somewhat trust
+      - Somewhat distrust
+      - Strongly distrust
+      - Unsure
       required: true
     - id: 12
       name: vaccine_efficacy_belief
@@ -124,11 +113,11 @@ inputSchema:
       hint: Your belief in vaccine effectiveness
       type: select_one
       options:
-        - Strongly agree
-        - Agree
-        - Neutral
-        - Disagree
-        - Strongly disagree
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
       required: true
     - id: 13
       name: vaccine_safety_belief
@@ -136,11 +125,11 @@ inputSchema:
       hint: Your belief in vaccine safety
       type: select_one
       options:
-        - Strongly agree
-        - Agree
-        - Neutral
-        - Disagree
-        - Strongly disagree
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
       required: true
     - id: 14
       name: vaccine_intent_header
@@ -155,11 +144,11 @@ inputSchema:
       hint: Your vaccination intention
       type: select_one
       options:
-        - Yes, definitely
-        - Probably yes
-        - Unsure
-        - Probably not
-        - Definitely not
+      - Yes, definitely
+      - Probably yes
+      - Unsure
+      - Probably not
+      - Definitely not
       required: true
     - id: 16
       name: vaccine_hesitation_reasons
@@ -167,16 +156,16 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-        - Safety concerns
-        - Efficacy concerns
-        - Side effect worries
-        - Political reasons
-        - Religious reasons
-        - Allergic reaction concerns
-        - Pregnancy concerns
-        - Lack of long-term data
-        - Distrust of government
-        - Prefer natural immunity
+      - Safety concerns
+      - Efficacy concerns
+      - Side effect worries
+      - Political reasons
+      - Religious reasons
+      - Allergic reaction concerns
+      - Pregnancy concerns
+      - Lack of long-term data
+      - Distrust of government
+      - Prefer natural immunity
       required: false
     - id: 17
       name: vaccine_persuasion_header
@@ -191,15 +180,15 @@ inputSchema:
       hint: Select all that would help
       type: select_multiple
       options:
-        - More scientific data
-        - Healthcare provider recommendation
-        - Testimonial from trusted person
-        - Employer requirement
-        - Travel requirement
-        - Risk of COVID-19
-        - Protection for vulnerable people
-        - Wide acceptance
-        - Nothing would convince me
+      - More scientific data
+      - Healthcare provider recommendation
+      - Testimonial from trusted person
+      - Employer requirement
+      - Travel requirement
+      - Risk of COVID-19
+      - Protection for vulnerable people
+      - Wide acceptance
+      - Nothing would convince me
       required: false
     - id: 19
       name: vaccine_risk_perception
@@ -207,11 +196,11 @@ inputSchema:
       hint: Your risk perception
       type: select_one
       options:
-        - Very serious threat
-        - Somewhat serious
-        - Neutral
-        - Not very serious
-        - Not a threat at all
+      - Very serious threat
+      - Somewhat serious
+      - Neutral
+      - Not very serious
+      - Not a threat at all
       required: true
     - id: 20
       name: vaccine_personal_impact
@@ -219,11 +208,11 @@ inputSchema:
       hint: Expected personal impact
       type: select_one
       options:
-        - Significant positive impact
-        - Some positive impact
-        - No impact
-        - Some negative impact
-        - Significant negative impact
+      - Significant positive impact
+      - Some positive impact
+      - No impact
+      - Some negative impact
+      - Significant negative impact
       required: true
     - id: 21
       name: vaccine_health_beliefs
@@ -231,9 +220,9 @@ inputSchema:
       hint: Relevant health conditions
       type: select_one
       options:
-        - Yes
-        - No
-        - Prefer Not to Say
+      - 'True'
+      - 'False'
+      - Prefer Not to Say
       required: false
     - id: 22
       name: vaccine_exposure_risk
@@ -241,10 +230,10 @@ inputSchema:
       hint: Your exposure risk
       type: select_one
       options:
-        - High risk
-        - Moderate risk
-        - Low risk
-        - No risk exposure
+      - High risk
+      - Moderate risk
+      - Low risk
+      - No risk exposure
       required: true
     - id: 23
       name: vaccine_additional_comments
@@ -259,8 +248,8 @@ inputSchema:
       hint: Permission for follow-up
       type: select_one
       options:
-        - Yes, contact me
-        - No, do not contact
+      - Yes, contact me
+      - No, do not contact
       required: false
     - id: 25
       name: survey_thank_you

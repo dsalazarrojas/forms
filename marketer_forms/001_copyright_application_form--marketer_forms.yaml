@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Registered''}'
-      - '{''id'': 2, ''label'': ''Unregistered''}'
-      - '{''id'': 3, ''label'': ''Renewal''}'
-      - '{''id'': 4, ''label'': ''Transfer''}'
+      - Registered
+      - Unregistered
+      - Renewal
+      - Transfer
       required: false
     - id: 4
       name: name_of_applicant
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''California''}'
-      - '{''id'': 2, ''label'': ''New York''}'
-      - '{''id'': 3, ''label'': ''Texas''}'
+      - California
+      - New York
+      - Texas
       required: false
     - id: 8
       name: applicant_country
@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''USA''}'
-      - '{''id'': 2, ''label'': ''Canada''}'
+      - USA
+      - Canada
       required: false
     - id: 9
       name: applicant_email
@@ -137,9 +137,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pending''}'
-      - '{''id'': 2, ''label'': ''Published''}'
-      - '{''id'': 3, ''label'': ''Rejected''}'
+      - Pending
+      - Published
+      - Rejected
       required: false
     - id: 19
       name: comments

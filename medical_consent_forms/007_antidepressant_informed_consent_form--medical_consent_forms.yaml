@@ -1,213 +1,202 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Antidepressant Informed Consent Form
     pages:
-      - id: 1
-        name: patient_name
-        label: Patient full name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: patient_dob
-        label: Date of birth
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: medical_record_number
-        label: Medical record number
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: provider_name
-        label: Healthcare provider name
-        hint: Physician or psychiatrist
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: medication_name
-        label: Antidepressant medication recommended
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: medication_class
-        label: Medication class
-        hint: Select the drug class
-        type: select_one
-        options:
-          - SSRI
-          - SNRI
-          - Tricyclic
-          - MAOI
-          - Atypical
-          - Other
-        required: true
-      - id: 7
-        name: prescribed_dosage
-        label: Prescribed dosage
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: indication_explained
-        label: Has the indication for this medication been explained?
-        hint: Why you are taking this medication
-        type: select_one
-        options:
-          - Yes, thoroughly
-          - Yes, adequately
-          - Partially explained
-          - No
-        required: true
-      - id: 9
-        name: benefits_explained
-        label: Have the potential benefits been discussed?
-        hint: null
-        type: select_one
-        options:
-          - Yes, thoroughly discussed
-          - Yes, discussed
-          - Partially discussed
-          - No
-        required: true
-      - id: 10
-        name: side_effects_reviewed
-        label: Have you reviewed common side effects?
-        hint: null
-        type: select_one
-        options:
-          - Yes, extensively
-          - Yes, adequately
-          - Yes, briefly
-          - No
-        required: true
-      - id: 11
-        name: serious_risks_discussed
-        label: Have serious risks and warnings been discussed?
-        hint: Including black box warnings
-        type: select_one
-        options:
-          - Yes, thoroughly
-          - Yes, briefly mentioned
-          - Partially discussed
-          - No
-        required: true
-      - id: 12
-        name: withdrawal_effects
-        label: Have withdrawal effects been explained?
-        hint: What happens if you stop suddenly
-        type: select_one
-        options:
-          - Yes, thoroughly
-          - Yes, adequately
-          - Briefly mentioned
-          - No
-        required: true
-      - id: 13
-        name: interaction_risks
-        label: Have drug interactions been discussed?
-        hint: null
-        type: select_one
-        options:
-          - Yes, completely
-          - Yes, adequately
-          - Partially discussed
-          - No
-        required: true
-      - id: 14
-        name: monitoring_plan
-        label: Monitoring plan explained
-        hint: How progress will be tracked
-        type: select_one
-        options:
-          - Yes, detailed plan provided
-          - Yes, general plan provided
-          - Partially explained
-          - No
-        required: true
-      - id: 15
-        name: alternative_treatments
-        label: Have alternative treatments been discussed?
-        hint: Other therapy options
-        type: select_one
-        options:
-          - Yes, thoroughly
-          - Yes, mentioned
-          - Briefly mentioned
-          - No
-        required: true
-      - id: 16
-        name: right_to_refuse
-        label: Patient understands right to refuse treatment
-        hint: null
-        type: select_one
-        options:
-          - Yes, understood
-          - Yes, but may have questions
-          - Unsure
-        required: true
-      - id: 17
-        name: questions_answered
-        label: Have all your questions been answered?
-        hint: null
-        type: select_one
-        options:
-          - Yes, completely
-          - Mostly answered
-          - Some answered
-          - No
-        required: true
-      - id: 18
-        name: unanswered_concerns
-        label: Remaining concerns or questions
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: agrees_to_treatment
-        label: I agree to take this antidepressant medication as prescribed
-        hint: null
-        type: select_one
-        options:
-          - Yes, I agree
-          - No, I do not agree
-          - Need more time to decide
-        required: true
-      - id: 20
-        name: consent_signature_date
-        label: Today is date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 21
-        name: provider_confirms
-        label: I confirm discussed above with patient
-        hint: Provider acknowledgment
-        type: select_one
-        options:
-          - Yes, confirmed
-          - No
-        required: true
+    - id: 1
+      name: patient_name
+      label: Patient full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: medical_record_number
+      label: Medical record number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: provider_name
+      label: Healthcare provider name
+      hint: Physician or psychiatrist
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medication_name
+      label: Antidepressant medication recommended
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medication_class
+      label: Medication class
+      hint: Select the drug class
+      type: select_one
+      options:
+      - SSRI
+      - SNRI
+      - Tricyclic
+      - MAOI
+      - Atypical
+      - Other
+      required: true
+    - id: 7
+      name: prescribed_dosage
+      label: Prescribed dosage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: indication_explained
+      label: Has the indication for this medication been explained?
+      hint: Why you are taking this medication
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, adequately
+      - Partially explained
+      - 'False'
+      required: true
+    - id: 9
+      name: benefits_explained
+      label: Have the potential benefits been discussed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, thoroughly discussed
+      - Yes, discussed
+      - Partially discussed
+      - 'False'
+      required: true
+    - id: 10
+      name: side_effects_reviewed
+      label: Have you reviewed common side effects?
+      hint: null
+      type: select_one
+      options:
+      - Yes, extensively
+      - Yes, adequately
+      - Yes, briefly
+      - 'False'
+      required: true
+    - id: 11
+      name: serious_risks_discussed
+      label: Have serious risks and warnings been discussed?
+      hint: Including black box warnings
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, briefly mentioned
+      - Partially discussed
+      - 'False'
+      required: true
+    - id: 12
+      name: withdrawal_effects
+      label: Have withdrawal effects been explained?
+      hint: What happens if you stop suddenly
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, adequately
+      - Briefly mentioned
+      - 'False'
+      required: true
+    - id: 13
+      name: interaction_risks
+      label: Have drug interactions been discussed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely
+      - Yes, adequately
+      - Partially discussed
+      - 'False'
+      required: true
+    - id: 14
+      name: monitoring_plan
+      label: Monitoring plan explained
+      hint: How progress will be tracked
+      type: select_one
+      options:
+      - Yes, detailed plan provided
+      - Yes, general plan provided
+      - Partially explained
+      - 'False'
+      required: true
+    - id: 15
+      name: alternative_treatments
+      label: Have alternative treatments been discussed?
+      hint: Other therapy options
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, mentioned
+      - Briefly mentioned
+      - 'False'
+      required: true
+    - id: 16
+      name: right_to_refuse
+      label: Patient understands right to refuse treatment
+      hint: null
+      type: select_one
+      options:
+      - Yes, understood
+      - Yes, but may have questions
+      - Unsure
+      required: true
+    - id: 17
+      name: questions_answered
+      label: Have all your questions been answered?
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly answered
+      - Some answered
+      - 'False'
+      required: true
+    - id: 18
+      name: unanswered_concerns
+      label: Remaining concerns or questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: agrees_to_treatment
+      label: I agree to take this antidepressant medication as prescribed
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      - Need more time to decide
+      required: true
+    - id: 20
+      name: consent_signature_date
+      label: Today is date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: provider_confirms
+      label: I confirm discussed above with patient
+      hint: Provider acknowledgment
+      type: select_one
+      options:
+      - Yes, confirmed
+      - 'False'
+      required: true

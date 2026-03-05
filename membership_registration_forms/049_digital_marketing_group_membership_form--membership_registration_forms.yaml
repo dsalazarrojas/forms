@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Member''}'
-      - '{''id'': 2, ''text'': ''Non Member''}'
+      - Member
+      - Non Member
       required: true
     - id: 5
       name: phone
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Monthly''}'
-      - '{''id'': 2, ''text'': ''Quarterly''}'
-      - '{''id'': 3, ''text'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: true
     - id: 10
       name: confirm_membership
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Confirm''}'
-      - '{''id'': 2, ''text'': ''Do not confirm''}'
+      - Confirm
+      - Do not confirm
       required: true
     - id: 11
       name: confirm_membership_type
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Confirm''}'
-      - '{''id'': 2, ''text'': ''Do not confirm''}'
+      - Confirm
+      - Do not confirm
       required: true
     - id: 12
       name: confirm_membership_status
@@ -95,8 +95,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Active''}'
-      - '{''id'': 2, ''text'': ''Inactive''}'
+      - Active
+      - Inactive
       required: true
     - id: 13
       name: confirm_membership_date
@@ -111,8 +111,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Basic''}'
-      - '{''id'': 2, ''text'': ''Pro''}'
+      - Basic
+      - Pro
       required: false
     - id: 15
       name: membership_status
@@ -120,8 +120,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Active''}'
-      - '{''id'': 2, ''text'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 16
       name: membership_date

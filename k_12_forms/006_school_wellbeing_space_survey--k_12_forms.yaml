@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Outdoor spaces'', ''value'': ''outdoor''}'
-      - '{''label'': ''Classrooms'', ''value'': ''classroom''}'
-      - '{''label'': ''Hallways'', ''value'': ''hallway''}'
+      - Outdoor spaces
+      - Classrooms
+      - Hallways
       required: true
     - id: 3
       name: space_usage
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very frequently'', ''value'': ''very_frequently''}'
-      - '{''label'': ''Somewhat frequently'', ''value'': ''somewhat_frequently''}'
-      - '{''label'': ''Rarely'', ''value'': ''rarely''}'
+      - Very frequently
+      - Somewhat frequently
+      - Rarely
       required: false
     - id: 4
       name: feedback
@@ -43,8 +43,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: comments

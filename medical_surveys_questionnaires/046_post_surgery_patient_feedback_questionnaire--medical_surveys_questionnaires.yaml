@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''not_sure''}'
+      - 'True'
+      - 'False'
+      - not sure
       required: false
     - id: 4
       name: followup_instructions_received
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''not_sure''}'
-      - '{''id'': 4, ''name'': ''not_applicable''}'
+      - 'True'
+      - 'False'
+      - not sure
+      - not applicable
       required: false
     - id: 5
       name: post_op_care_instructions
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_good''}'
-      - '{''id'': 2, ''name'': ''somewhat_good''}'
-      - '{''id'': 3, ''name'': ''not_good''}'
+      - very good
+      - somewhat good
+      - not good
       required: false
     - id: 10
       name: follow_up_phone_number

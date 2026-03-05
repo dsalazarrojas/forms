@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''medical''}'
-      - '{''value'': ''other''}'
-      - '{''value'': ''emergency''}'
-      - '{''value'': ''personal''}'
+      - medical
+      - other
+      - emergency
+      - personal
       required: true
     - id: 6
       name: reason_for_leave
@@ -83,8 +83,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''student''}'
-      - '{''value'': ''program_staff''}'
+      - student
+      - program staff
       required: true
     - id: 12
       name: course_name
@@ -106,10 +106,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''completed''}'
-      - '{''value'': ''inactive''}'
-      - '{''value'': ''pending''}'
+      - active
+      - completed
+      - inactive
+      - pending
       required: true
     - id: 15
       name: leave_start_date
@@ -152,8 +152,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''A''}'
-      - '{''value'': ''B''}'
+      - A
+      - B
       required: true
     - id: 21
       name: student_program

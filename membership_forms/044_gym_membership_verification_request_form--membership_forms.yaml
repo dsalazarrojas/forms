@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Member ID Card''}'
-      - '{''label'': ''Proof of Residence''}'
-      - '{''label'': ''Proof of Income''}'
-      - '{''label'': ''Other''}'
+      - Member ID Card
+      - Proof of Residence
+      - Proof of Income
+      - Other
       required: true
     - id: 5
       name: document_upload
@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: consent_to_use
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: signature

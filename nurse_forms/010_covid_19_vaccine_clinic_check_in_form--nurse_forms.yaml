@@ -163,7 +163,7 @@ inputSchema:
       hint: Any current fever or acute illness
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, I Feel Ill
       - Mild Symptoms
       required: true
@@ -173,8 +173,8 @@ inputSchema:
       hint: Any severe allergies
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       - Unsure
       required: true
     - id: 22

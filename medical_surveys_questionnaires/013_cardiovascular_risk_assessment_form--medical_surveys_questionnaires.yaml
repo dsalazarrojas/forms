@@ -65,10 +65,8 @@ inputSchema:
       hint: Male relatives <55 or female relatives <65
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: diabetes_diagnosis_history
@@ -76,12 +74,9 @@ inputSchema:
       hint: Select one
       type: select_one
       options:
-      - label: Type 1
-        value: type_1
-      - label: Type 2
-        value: type_2
-      - label: None
-        value: none
+      - Type 1
+      - Type 2
+      - None
       required: true
     - id: 11
       name: cholesterol_levels_header
@@ -124,12 +119,8 @@ inputSchema:
       hint: Based on clinical assessment and risk score
       type: select_one
       options:
-      - label: Low (<5%)
-        value: low
-      - label: Borderline (5-7.5%)
-        value: borderline
-      - label: Intermediate (7.5-20%)
-        value: intermediate
-      - label: High (>20%)
-        value: high
+      - Low (<5%)
+      - Borderline (5-7.5%)
+      - Intermediate (7.5-20%)
+      - High (>20%)
       required: true

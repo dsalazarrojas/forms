@@ -1,135 +1,139 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Clinical Trial Early Termination Report Form
     pages:
-      - id: 1
-        name: participant_id
-        label: Participant ID Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: protocol_number
-        label: Clinical Protocol Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: termination_date
-        label: Date of Early Termination
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: section_reason
-        label: -- Primary Reason for Termination --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: reason_category
-        label: Termination Reason Category
-        hint: null
-        type: select_one
-        options: [Adverse Event, Protocol Violation, Lack of Efficacy, Lost to Follow-up, Participant Withdrawal, Sponsor Decision]
-        required: true
-      - id: 6
-        name: termination_explanation
-        label: Detailed Explanation for Early Termination
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: section_safety
-        label: -- Safety Assessment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: sae_related
-        label: Was the termination related to a Serious Adverse Event (SAE)?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 9
-        name: sae_reference
-        label: SAE Reference Number if applicable
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: current_clinical_status
-        label: Current clinical status of the participant
-        hint: null
-        type: select_one
-        options: [Stable, Recovering, Deteriorating, Unknown]
-        required: true
-      - id: 11
-        name: section_procedures
-        label: -- Final Procedures --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: procedures_completed
-        label: Have all final study procedures been successfully completed?
-        hint: null
-        type: select_one
-        options: [Yes, Partially, No]
-        required: true
-      - id: 13
-        name: outstanding_materials
-        label: Outstanding study materials to be returned
-        hint: e.g. drug kits, electronic diaries
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: section_signoff
-        label: -- Investigator Sign-off --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: investigator_name
-        label: Reporting Investigator Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: investigator_signature
-        label: Investigator Digital Signature
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 17
-        name: report_date
-        label: Date of Report Submission
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: participant_id
+      label: Participant ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: protocol_number
+      label: Clinical Protocol Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: termination_date
+      label: Date of Early Termination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_reason
+      label: -- Primary Reason for Termination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: reason_category
+      label: Termination Reason Category
+      hint: null
+      type: select_one
+      options:
+      - Adverse Event
+      - Protocol Violation
+      - Lack of Efficacy
+      - Lost to Follow-up
+      - Participant Withdrawal
+      - Sponsor Decision
+      required: true
+    - id: 6
+      name: termination_explanation
+      label: Detailed Explanation for Early Termination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_safety
+      label: -- Safety Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: sae_related
+      label: Was the termination related to a Serious Adverse Event (SAE)?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: sae_reference
+      label: SAE Reference Number if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_clinical_status
+      label: Current clinical status of the participant
+      hint: null
+      type: select_one
+      options:
+      - Stable
+      - Recovering
+      - Deteriorating
+      - Unknown
+      required: true
+    - id: 11
+      name: section_procedures
+      label: -- Final Procedures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: procedures_completed
+      label: Have all final study procedures been successfully completed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - Partially
+      - 'False'
+      required: true
+    - id: 13
+      name: outstanding_materials
+      label: Outstanding study materials to be returned
+      hint: e.g. drug kits, electronic diaries
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_signoff
+      label: -- Investigator Sign-off --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: investigator_name
+      label: Reporting Investigator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: investigator_signature
+      label: Investigator Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: report_date
+      label: Date of Report Submission
+      hint: null
+      type: date
+      options: []
+      required: true

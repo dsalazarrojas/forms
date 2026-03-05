@@ -1,231 +1,142 @@
 inputSchema:
   type: object
   properties:
-    title: software_satisfaction_survey
+    title: Software Satisfaction Survey
     pages:
     - id: 1
       name: introduction
-      label: introduction
-      hint: null
+      label: Introduction
+      hint: Please take a few minutes to complete this survey to help us understand
+        your experience with our software.
       type: note
       options: []
       required: false
     - id: 2
-      name: rating_1
-      label: overall_satisfaction
+      name: overall_satisfaction
+      label: Overall Satisfaction
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - very satisfied
+      - somewhat satisfied
+      - not at all satisfied
+      - extremely unhappy
+      - very unhappy
+      required: true
     - id: 3
-      name: satisfaction_with_1
-      label: satisfaction_with
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
-      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
-      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
-      required: false
-    - id: 4
-      name: rating_2
-      label: ease_of_use
+      name: ease_of_use
+      label: Ease of Use
       hint: null
       type: number
       options: []
-      required: false
-    - id: 5
-      name: satisfaction_with_2
-      label: satisfaction_with
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
-      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
-      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
-      required: false
-    - id: 6
-      name: frequency
-      label: howOftenYouUse
+      required: true
+    - id: 4
+      name: how_often_you_use
+      label: How Often Do You Use
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''daily'', ''label'': ''daily''}'
-      - '{''id'': 2, ''name'': ''weekly'', ''label'': ''weekly''}'
-      - '{''id'': 3, ''name'': ''monthly'', ''label'': ''monthly''}'
-      - '{''id'': 4, ''name'': ''yearly'', ''label'': ''yearly''}'
-      - '{''id'': 5, ''name'': ''never'', ''label'': ''never''}'
-      - '{''id'': 6, ''name'': ''dontKnow'', ''label'': ''dontKnow''}'
-      required: false
-    - id: 7
-      name: comments
-      label: comments
+      - daily
+      - weekly
+      - monthly
+      - yearly
+      - never
+      - dont know
+      required: true
+    - id: 5
+      name: quality_of_support
+      label: Quality of Support
       hint: null
-      type: note
+      type: select_one
+      options:
+      - very satisfied
+      - somewhat satisfied
+      - not at all satisfied
+      - extremely unhappy
+      - very unhappy
+      required: true
+    - id: 6
+      name: ease_of_resolution
+      label: Ease of Resolution
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: overall_satisfaction_2
+      label: Overall Satisfaction 2
+      hint: null
+      type: number
       options: []
       required: false
     - id: 8
-      name: rating_3
-      label: ease_of_contact
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: satisfaction_with_3
-      label: satisfaction_with
+      name: quality_of_communication
+      label: Quality of Communication
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
-      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
-      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
-      required: false
-    - id: 10
-      name: rating_4
-      label: quality_of_support
+      - very satisfied
+      - somewhat satisfied
+      - not at all satisfied
+      - extremely unhappy
+      - very unhappy
+      required: true
+    - id: 9
+      name: overall_experience
+      label: Overall Experience
       hint: null
       type: number
+      options: []
+      required: true
+    - id: 10
+      name: support
+      label: Support
+      hint: null
+      type: note
       options: []
       required: false
     - id: 11
-      name: satisfaction_with_4
-      label: satisfaction_with
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
-      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
-      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
-      required: false
-    - id: 12
-      name: rating_5
-      label: ease_of_resolution
+      name: time_to_response
+      label: Time to Response
       hint: null
       type: number
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: Please provide any additional comments or feedback about your experience.
+      type: note
       options: []
       required: false
     - id: 13
-      name: satisfaction_with_5
-      label: satisfaction_with
+      name: satisfaction_with_support
+      label: Satisfaction with Support
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
-      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
-      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
-      required: false
+      - very satisfied
+      - somewhat satisfied
+      - not at all satisfied
+      - extremely unhappy
+      - very unhappy
+      required: true
     - id: 14
-      name: support
-      label: support
+      name: quality_of_design
+      label: Quality of Design
       hint: null
-      type: note
+      type: number
       options: []
       required: false
     - id: 15
-      name: rating_6
-      label: quality_of_design
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: satisfaction_with_6
-      label: satisfaction_with
+      name: satisfaction_with_design
+      label: Satisfaction with Design
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
-      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
-      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
-      required: false
-    - id: 17
-      name: overall_satisfaction
-      label: overall_satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: rating_7
-      label: support_team
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: satisfaction_with_7
-      label: satisfaction_with
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
-      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
-      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
-      required: false
-    - id: 20
-      name: rating_8
-      label: time_to_response
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: satisfaction_with_8
-      label: satisfaction_with
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
-      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
-      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
-      required: false
-    - id: 22
-      name: comments_again
-      label: comments_again
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: rating_9
-      label: quality_of_communication
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: satisfaction_with_9
-      label: satisfaction_with
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
-      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
-      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
-      required: false
-    - id: 25
-      name: rating_10
-      label: overall_experience
-      hint: null
-      type: number
-      options: []
+      - very satisfied
+      - somewhat satisfied
+      - not at all satisfied
+      - extremely unhappy
+      - very unhappy
       required: false

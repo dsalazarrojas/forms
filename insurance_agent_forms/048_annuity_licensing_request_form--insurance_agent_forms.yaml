@@ -149,8 +149,8 @@ inputSchema:
       hint: Is exam needed?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not Sure
       required: true
     - id: 19
@@ -194,8 +194,8 @@ inputSchema:
       hint: Have you submitted?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not Required
       required: false
     - id: 24
@@ -204,8 +204,8 @@ inputSchema:
       hint: Any convictions?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: criminal_details
@@ -220,8 +220,8 @@ inputSchema:
       hint: Any against you?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 27
       name: regulatory_details

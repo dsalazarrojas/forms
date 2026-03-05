@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Basic''}'
-      - '{''value'': ''Premium''}'
+      - Basic
+      - Premium
       required: false
     - id: 3
       name: start_date
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Quarterly''}'
-      - '{''value'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 5
       name: end_date
@@ -49,8 +49,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 7
       name: subscription_changes

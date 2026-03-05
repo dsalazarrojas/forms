@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''bulimia''}'
-      - '{''id'': 2, ''label'': ''anorexia''}'
-      - '{''id'': 3, ''label'': ''binge eating''}'
-      - '{''id'': 4, ''label'': ''other''}'
+      - bulimia
+      - anorexia
+      - binge eating
+      - other
       required: true
     - id: 7
       name: coaching_approach
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''individual coaching''}'
-      - '{''id'': 2, ''label'': ''group coaching''}'
-      - '{''id'': 3, ''label'': ''other''}'
+      - individual coaching
+      - group coaching
+      - other
       required: true
     - id: 8
       name: frequency_of_session

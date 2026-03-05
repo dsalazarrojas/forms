@@ -207,8 +207,8 @@ inputSchema:
       type: select_one
       options:
       - None
-      - 1
-      - 2
+      - '1'
+      - '2'
       - 3 or more
       required: true
     - id: 25
@@ -218,8 +218,8 @@ inputSchema:
       type: select_one
       options:
       - None
-      - 1
-      - 2
+      - '1'
+      - '2'
       - 3 or more
       required: true
     - id: 26
@@ -228,7 +228,7 @@ inputSchema:
       hint: Any DUI convictions
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes within 3 years
       - Yes over 3 years ago
       required: true
@@ -260,7 +260,7 @@ inputSchema:
       hint: Will others drive this vehicle
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes spouse
       - Yes children
       - Yes other

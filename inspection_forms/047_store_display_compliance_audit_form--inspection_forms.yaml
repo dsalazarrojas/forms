@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 2
       name: non_compliant_items
@@ -18,12 +18,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Overstocking''}'
-      - '{''label'': ''Underselling''}'
-      - '{''label'': ''Shelf placement incorrect''}'
-      - '{''label'': ''Merchandising not meeting standards''}'
-      - '{''label'': ''Product not displayed correctly''}'
-      - '{''label'': ''Shelf not meeting safety and security standards''}'
+      - Overstocking
+      - Underselling
+      - Shelf placement incorrect
+      - Merchandising not meeting standards
+      - Product not displayed correctly
+      - Shelf not meeting safety and security standards
       required: false
     - id: 3
       name: merchandising_standards
@@ -31,11 +31,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Product placement correct''}'
-      - '{''label'': ''Product pricing correct''}'
-      - '{''label'': ''Shelf facing correct''}'
-      - '{''label'': ''Category correct''}'
-      - '{''label'': ''Shelf facing correct''}'
+      - Product placement correct
+      - Product pricing correct
+      - Shelf facing correct
+      - Category correct
       required: false
     - id: 4
       name: merchandising_standards_1
@@ -50,9 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''In Stock''}'
-      - '{''label'': ''Low Stock''}'
-      - '{''label'': ''Out of Stock''}'
+      - In Stock
+      - Low Stock
+      - Out of Stock
       required: false
     - id: 6
       name: store_name
