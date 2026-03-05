@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Passed''}'
-      - '{''label'': ''Failed''}'
-      - '{''label'': ''Pending''}'
+      - Passed
+      - Failed
+      - Pending
       required: false
     - id: 8
       name: drone_type
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Fixed Wing''}'
-      - '{''label'': ''Rotorcraft''}'
-      - '{''label'': ''Hybrid''}'
+      - Fixed Wing
+      - Rotorcraft
+      - Hybrid
       required: false
     - id: 9
       name: condition
@@ -127,10 +127,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
-      - '{''label'': ''Not Applicable''}'
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
       required: false
     - id: 18
       name: remarks_equipment_condition
@@ -145,8 +145,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Scheduled''}'
-      - '{''label'': ''Unscheduled''}'
+      - Scheduled
+      - Unscheduled
       required: false
     - id: 20
       name: remarks_inspection_type
@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Valid''}'
-      - '{''label'': ''Invalid''}'
+      - Valid
+      - Invalid
       required: false
     - id: 23
       name: remarks_certification_status

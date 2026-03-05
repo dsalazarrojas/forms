@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''other''}'
+      - email
+      - phone
+      - other
       required: false
     - id: 5
       name: delivery_instructions
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''a''}'
-      - '{''value'': ''b''}'
-      - '{''value'': ''c''}'
+      - a
+      - b
+      - c
       required: false
     - id: 9
       name: loan_terms
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''curator''}'
-      - '{''value'': ''manager''}'
-      - '{''value'': ''other''}'
+      - curator
+      - manager
+      - other
       required: false
     - id: 16
       name: status
@@ -123,9 +123,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''pending''}'
-      - '{''value'': ''approved''}'
-      - '{''value'': ''rejected''}'
+      - pending
+      - approved
+      - rejected
       required: false
     - id: 17
       name: comments_by_approver
@@ -140,9 +140,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''curator''}'
-      - '{''value'': ''manager''}'
-      - '{''value'': ''other''}'
+      - curator
+      - manager
+      - other
       required: false
     - id: 19
       name: approved_date
@@ -157,9 +157,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''curator''}'
-      - '{''value'': ''manager''}'
-      - '{''value'': ''other''}'
+      - curator
+      - manager
+      - other
       required: false
     - id: 21
       name: rejected_reason

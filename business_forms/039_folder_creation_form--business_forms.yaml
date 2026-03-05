@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''category-a''}'
-      - '{''id'': 2, ''name'': ''category-b''}'
+      - category-a
+      - category-b
       required: false
     - id: 3
       name: folder_description
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''status-a''}'
-      - '{''id'': 2, ''name'': ''status-b''}'
+      - status-a
+      - status-b
       required: false
     - id: 9
       name: folder_created_at
@@ -76,6 +76,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''created-by-a''}'
-      - '{''id'': 2, ''name'': ''created-by-b''}'
+      - created-by-a
+      - created-by-b
       required: false

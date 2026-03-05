@@ -173,8 +173,8 @@ inputSchema:
       hint: Do you need accessibility accommodations
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: accessibility_details
@@ -189,8 +189,8 @@ inputSchema:
       hint: Will you need parking
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: session_cost
@@ -226,8 +226,8 @@ inputSchema:
       hint: Have you paid the deposit
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 26
       name: payment_method
@@ -257,7 +257,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Agree
-      - false
+      - 'False'
       required: true
     - id: 29
       name: additional_comments

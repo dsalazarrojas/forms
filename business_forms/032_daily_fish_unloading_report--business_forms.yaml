@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''cod''}'
-      - '{''value'': ''halibut''}'
-      - '{''value'': ''salmon''}'
-      - '{''value'': ''other''}'
+      - cod
+      - halibut
+      - salmon
+      - other
       required: false
     - id: 5
       name: fish_quantity
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''good''}'
-      - '{''value'': ''damaged''}'
-      - '{''value'': ''rotten''}'
+      - good
+      - damaged
+      - rotten
       required: false
     - id: 7
       name: comments

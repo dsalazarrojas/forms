@@ -185,7 +185,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I authorize this request
-      - false
+      - 'False'
       required: true
     - id: 20
       name: terms_acknowledgment
@@ -193,8 +193,8 @@ inputSchema:
       hint: Have you read the terms
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 21
       name: signature_date

@@ -86,14 +86,10 @@ inputSchema:
       hint: Choose the testing method
       type: select_one
       options:
-      - label: Treadmill (Standard)
-        value: treadmill
-      - label: Cycle Ergometer
-        value: cycle
-      - label: Step Test
-        value: step_test
-      - label: 1.5 Mile Run
-        value: run
+      - Treadmill (Standard)
+      - Cycle Ergometer
+      - Step Test
+      - 1.5 Mile Run
       required: true
     - id: 13
       name: rate_of_perceived_exertion_rpe
@@ -108,16 +104,11 @@ inputSchema:
       hint: Based on VO2 Max results
       type: select_one
       options:
-      - label: Elite
-        value: elite
-      - label: Good
-        value: good
-      - label: Average
-        value: average
-      - label: Fair
-        value: fair
-      - label: Poor
-        value: poor
+      - Elite
+      - Good
+      - Average
+      - Fair
+      - Poor
       required: true
     - id: 15
       name: next_assessment_retest_date

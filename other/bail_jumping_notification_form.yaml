@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''court''}'
-      - '{''value'': ''law_office''}'
-      - '{''value'': ''bail_agency''}'
+      - court
+      - law office
+      - bail agency
       required: false
     - id: 10
       name: supporting_documents
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''bail_warrant''}'
-      - '{''value'': ''court_document''}'
-      - '{''value'': ''incident_report''}'
+      - bail warrant
+      - court document
+      - incident report
       required: false
     - id: 11
       name: reporting_reason

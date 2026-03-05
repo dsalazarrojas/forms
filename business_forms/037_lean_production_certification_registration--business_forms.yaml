@@ -5,181 +5,46 @@ inputSchema:
     pages:
     - id: 1
       name: participant_details
-      label: participant_details
+      label: Participant Details
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 2
       name: training_provider
-      label: training_provider
-      hint: null
+      label: Training Provider
+      hint: Training provider name
       type: text
       options: []
       required: false
     - id: 3
       name: experience
-      label: experience
-      hint: null
+      label: Experience
+      hint: Experience description
       type: text
       options: []
       required: false
     - id: 4
       name: preferred_sessions
-      label: preferred_sessions
-      hint: null
+      label: Preferred Sessions
+      hint: Select sessions
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 5
-      name: lean_production_certification_programs
-      label: lean_production_certification_programs
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 6
       name: certification_status
-      label: certification_status
-      hint: null
+      label: Certification Status
+      hint: Select certification status
       type: select_one
       options:
       - Active
       - Inactive
       required: true
-    - id: 7
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 9
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: submission_date
-      label: submission_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: submission_time
-      label: submission_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: participant_agreement
-      label: participant_agreement
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 13
-      name: submission_date
-      label: submission_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: certification_date
-      label: certification_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: certification_time
-      label: certification_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: submission_date
-      label: submission_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: participant_details
-      label: participant_details
+    - id: 6
+      name: submission_details
+      label: Submission Details
       hint: null
       type: text
       options: []

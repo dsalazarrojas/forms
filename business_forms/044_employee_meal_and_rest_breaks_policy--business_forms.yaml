@@ -5,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: employee_meal_and_rest_breaks_policy_description
-      label: Description
+      label: Employee Meal and Rest Breaks Policy Description
       hint: null
       type: text
       options: []
@@ -17,7 +17,7 @@ inputSchema:
       type: select_one
       options:
       - Business Forms
-      - Other
+      - HR Forms
       required: false
     - id: 3
       name: assigned_tool
@@ -32,7 +32,7 @@ inputSchema:
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 5
       name: output_file
       label: Output File
@@ -49,101 +49,107 @@ inputSchema:
       required: false
     - id: 7
       name: form_description
-      label: Description
+      label: Form Description
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: form_id
-      label: Form ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: category
-      label: Category
+      name: assigned_tool_confirmation
+      label: Confirm Assigned Tool
       hint: null
       type: select_one
       options:
-      - Business Forms
-      - HR Forms
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: output_file_confirmation
+      label: Confirm Output File
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: description_confirmation
+      label: Confirm Description
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: description
-      label: Description
+      name: category_confirmation
+      label: Confirm Category
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: description
-      label: Description
+      name: form_id_confirmation
+      label: Confirm Form ID
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 13
-      name: assigned_tool
-      label: Assigned Tool
+      name: assigned_tool_confirmation_2
+      label: Assigned Tool Confirmation 2
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 14
-      name: output_file
-      label: Output File
+      name: output_file_confirmation_2
+      label: Output File Confirmation 2
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 15
-      name: form_id
-      label: Form ID
+      name: description_confirmation_2
+      label: Description Confirmation 2
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 16
-      name: description
-      label: Description
+      name: confirm_form_description
+      label: Confirm Form Description
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 17
-      name: description
-      label: Description
+      name: confirm_category
+      label: Confirm Category (2)
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 18
-      name: description
-      label: Description
+      name: confirm_form_id
+      label: Confirm Form ID (2)
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false

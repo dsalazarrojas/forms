@@ -4,15 +4,8 @@ inputSchema:
     title: Wildlife Rehabilitation Intake Form
     pages:
     - id: 1
-      name: animal_rescue_application
-      label: Animal Rescue Application
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: species
-      label: species
+      label: Animal Species
       hint: null
       type: select_multiple
       options:
@@ -21,175 +14,143 @@ inputSchema:
       - Bird
       - Amphibian
       - Fish
-      required: false
-    - id: 3
-      name: rescue_location
-      label: rescue_location
-      hint: Enter the location of the rescue event
-      type: text
-      options: []
-      required: false
-    - id: 4
+      required: true
+    - id: 2
       name: animal_status
-      label: animal_status
+      label: Animal Status
       hint: null
       type: select_one
       options:
       - Injured
       - Orphaned
       - Dead on arrival
-      - Other (please describe)
-      required: false
-    - id: 5
-      name: species_status
-      label: species
-      hint: null
-      type: select_one
-      options:
-      - Wild
-      - Domestic
-      required: false
-    - id: 6
+      - Other
+      required: true
+    - id: 3
       name: rescue_date
-      label: date
-      hint: Enter the date of the rescue event
+      label: Date of the Rescue Event
+      hint: null
       type: date
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 4
       name: species_count
-      label: species
-      hint: Enter the number of species involved in the rescue event
+      label: Number of Species
+      hint: null
       type: number
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 5
       name: description
-      label: description
-      hint: Please provide a detailed description of the event
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: medical_conditions
-      label: medical_conditions
-      hint: Describe any medical conditions affecting the animals
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: treatment_plans
-      label: treatment_plans
+      label: Description of the Event
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: treatment_plans
+      label: Treatment Plans
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
       name: rehabilitation_facility
-      label: rehabilitation_facility
+      label: Rehabilitation Facility
       hint: null
       type: select_one
       options:
       - Wildlife Rescue and Rehabilitation Center
-      - Another center
-      required: false
-    - id: 12
+      - Another facility
+      required: true
+    - id: 9
       name: notes
-      label: notes
+      label: Notes
       hint: null
-      type: note
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
       options: []
       required: false
     - id: 13
-      name: submitted_by
-      label: submitted_by
+      name: contact_name
+      label: Contact Name
       hint: null
-      type: select_one
-      options:
-      - Self-submitted
-      - Submitted by another
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 14
-      name: submitter
-      label: submitter
+      name: organization
+      label: Organization
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: submitted_date
-      label: date
-      hint: Date the form was submitted
-      type: date
+      name: address
+      label: Address
+      hint: null
+      type: text
       options: []
       required: false
     - id: 16
-      name: contact_email
-      label: contact_email
-      hint: Enter your contact email
-      type: email
+      name: city
+      label: City
+      hint: null
+      type: text
       options: []
       required: false
     - id: 17
-      name: contact_phone
-      label: contact_phone
-      hint: Enter your contact phone number
+      name: state
+      label: State
+      hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: contact_name
-      label: contact_name
-      hint: Enter your name
+      name: zip
+      label: Zip
+      hint: null
       type: text
       options: []
       required: false
     - id: 19
-      name: organization
-      label: organization
-      hint: Enter your organization or agency
+      name: fax_number
+      label: Fax Number
+      hint: null
       type: text
       options: []
       required: false
     - id: 20
-      name: address
-      label: address
-      hint: Enter your address
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: city
-      label: city
-      hint: Enter your city
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: state
-      label: state
-      hint: Enter your state
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: zip
-      label: zip
-      hint: Enter your zip code
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: fax_number
-      label: fax_number
-      hint: Enter your fax number
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: website
-      label: website
-      hint: Enter your website url
+      label: Website
+      hint: null
       type: text
       options: []
       required: false

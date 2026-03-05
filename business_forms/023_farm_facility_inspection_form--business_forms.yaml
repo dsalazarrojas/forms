@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Large Farm'', ''value'': ''large_farm''}'
-      - '{''id'': 2, ''label'': ''Small Farm'', ''value'': ''small_farm''}'
-      - '{''id'': 3, ''label'': ''Livestock Farm'', ''value'': ''livestock_farm''}'
-      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': ''other''}'
+      - Large Farm
+      - Small Farm
+      - Livestock Farm
+      - Other (please specify)
       required: false
     - id: 6
       name: facility_status
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Active'', ''value'': ''active''}'
-      - '{''id'': 2, ''label'': ''Inactive'', ''value'': ''inactive''}'
-      - '{''id'': 3, ''label'': ''Under Renovation'', ''value'': ''under_renovation''}'
-      - '{''id'': 4, ''label'': ''Closed'', ''value'': ''closed''}'
+      - Active
+      - Inactive
+      - Under Renovation
+      - Closed
       required: false
     - id: 7
       name: inspection_result
@@ -73,8 +73,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
-      - '{''id'': 2, ''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - Jane Doe
+      - John Doe
       required: false
     - id: 10
       name: farm_name

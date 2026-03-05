@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -41,11 +30,11 @@ inputSchema:
       hint: Morning, afternoon, night
       type: select_one
       options:
-        - Morning
-        - Afternoon
-        - Evening
-        - Night
-        - Other
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      - Other
       required: false
     - id: 5
       name: security_cameras
@@ -53,10 +42,10 @@ inputSchema:
       hint: Are all cameras working
       type: select_one
       options:
-        - Operational
-        - Not Working
-        - Partially Working
-        - Not Applicable
+      - Operational
+      - Not Working
+      - Partially Working
+      - Not Applicable
       required: true
     - id: 6
       name: cameras_notes
@@ -71,10 +60,10 @@ inputSchema:
       hint: All fire extinguishers in place
       type: select_one
       options:
-        - Present and Accessible
-        - Present but Blocked
-        - Missing
-        - Not Applicable
+      - Present and Accessible
+      - Present but Blocked
+      - Missing
+      - Not Applicable
       required: true
     - id: 8
       name: extinguisher_inspection_date
@@ -82,9 +71,9 @@ inputSchema:
       hint: Passed annual inspection
       type: select_one
       options:
-        - Current
-        - Expired
-        - Unknown
+      - Current
+      - Expired
+      - Unknown
       required: false
     - id: 9
       name: doors_locks
@@ -92,10 +81,10 @@ inputSchema:
       hint: Entry and exit doors
       type: select_one
       options:
-        - Fully Functional
-        - Some Issues
-        - Major Issues
-        - Not Applicable
+      - Fully Functional
+      - Some Issues
+      - Major Issues
+      - Not Applicable
       required: true
     - id: 10
       name: door_contacts
@@ -103,10 +92,10 @@ inputSchema:
       hint: Alarms and sensors
       type: select_one
       options:
-        - Working
-        - Not Working
-        - Partially Working
-        - Not Applicable
+      - Working
+      - Not Working
+      - Partially Working
+      - Not Applicable
       required: true
     - id: 11
       name: entry_gates
@@ -114,10 +103,10 @@ inputSchema:
       hint: Gate systems
       type: select_one
       options:
-        - Operational
-        - Not Working
-        - Partially Working
-        - Not Applicable
+      - Operational
+      - Not Working
+      - Partially Working
+      - Not Applicable
       required: true
     - id: 12
       name: gate_notes
@@ -132,10 +121,10 @@ inputSchema:
       hint: Outdoor signage lights
       type: select_one
       options:
-        - All Working
-        - Some Not Working
-        - All Out
-        - Not Applicable
+      - All Working
+      - Some Not Working
+      - All Out
+      - Not Applicable
       required: true
     - id: 14
       name: lighting_details
@@ -150,11 +139,11 @@ inputSchema:
       hint: Is alarm armed and functional
       type: select_one
       options:
-        - Operational
-        - Not Working
-        - Partially Working
-        - Disarmed
-        - Not Applicable
+      - Operational
+      - Not Working
+      - Partially Working
+      - Disarmed
+      - Not Applicable
       required: true
     - id: 16
       name: emergency_lighting
@@ -162,10 +151,10 @@ inputSchema:
       hint: Exit signs and backup lights
       type: select_one
       options:
-        - All Working
-        - Some Not Working
-        - All Out
-        - Not Applicable
+      - All Working
+      - Some Not Working
+      - All Out
+      - Not Applicable
       required: true
     - id: 17
       name: sprinkler_system
@@ -173,10 +162,10 @@ inputSchema:
       hint: Fire suppression system
       type: select_one
       options:
-        - Operational
-        - Not Tested
-        - Issues Found
-        - Not Applicable
+      - Operational
+      - Not Tested
+      - Issues Found
+      - Not Applicable
       required: true
     - id: 18
       name: hvac_operation
@@ -184,10 +173,10 @@ inputSchema:
       hint: Heating and cooling
       type: select_one
       options:
-        - Operating Normally
-        - Not Operating
-        - Operating Poorly
-        - Not Applicable
+      - Operating Normally
+      - Not Operating
+      - Operating Poorly
+      - Not Applicable
       required: true
     - id: 19
       name: climate_control
@@ -195,10 +184,10 @@ inputSchema:
       hint: Building climate
       type: select_one
       options:
-        - Comfortable
-        - Acceptable
-        - Below Standard
-        - Concerning
+      - Comfortable
+      - Acceptable
+      - Below Standard
+      - Concerning
       required: false
     - id: 20
       name: plumbing_check
@@ -206,10 +195,10 @@ inputSchema:
       hint: Water and drainage
       type: select_one
       options:
-        - Working Properly
-        - Minor Issues
-        - Major Issues
-        - Not Tested
+      - Working Properly
+      - Minor Issues
+      - Major Issues
+      - Not Tested
       required: true
     - id: 21
       name: electrical_check
@@ -217,10 +206,10 @@ inputSchema:
       hint: Power distribution
       type: select_one
       options:
-        - Functional
-        - Minor Issues
-        - Major Issues
-        - Not Tested
+      - Functional
+      - Minor Issues
+      - Major Issues
+      - Not Tested
       required: true
     - id: 22
       name: backup_power
@@ -228,10 +217,10 @@ inputSchema:
       hint: Generator or UPS systems
       type: select_one
       options:
-        - Operational
-        - Not Tested
-        - Issues Found
-        - Not Available
+      - Operational
+      - Not Tested
+      - Issues Found
+      - Not Available
       required: false
     - id: 23
       name: issues_found
@@ -253,6 +242,6 @@ inputSchema:
       hint: Immediate attention required
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: true

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''A''}'
-      - '{''value'': ''B''}'
-      - '{''value'': ''C''}'
+      - A
+      - B
+      - C
       required: true
     - id: 3
       name: jewelry_knowledge
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''diamond''}'
-      - '{''value'': ''gold''}'
-      - '{''value'': ''silver''}'
+      - diamond
+      - gold
+      - silver
       required: true
     - id: 4
       name: skills_required
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''GIA''}'
-      - '{''value'': ''WJA''}'
-      - '{''value'': ''NAMP''}'
+      - GIA
+      - WJA
+      - NAMP
       required: false
     - id: 7
       name: other
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''JOTFORM''}'
-      - '{''value'': ''OTHER''}'
+      - JOTFORM
+      - OTHER
       required: true
     - id: 9
       name: contact_email

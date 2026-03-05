@@ -5,217 +5,86 @@ inputSchema:
     pages:
     - id: 1
       name: risk_assessment_survey_page_1
-      label: Risk Assessment Survey
+      label: 1. What is your name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: risk_assessment_survey_page_2
+      label: 2. What is your email address?
+      hint: Please enter a valid email address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: risk_assessment_survey_page_3
+      label: 3. What are your concerns about the risk assessment?
       hint: null
       type: text
       options: []
       required: false
-    - id: 2
-      name: risk_assessment_survey_page_2
-      label: Risk Factors
+    - id: 4
+      name: risk_assessment_survey_page_4
+      label: 4. Which of the following risk factors are you concerned about?
+      hint: null
+      type: select_one
+      options:
+      - Safety
+      - Equipment malfunction
+      - Human error
+      required: true
+    - id: 5
+      name: risk_assessment_survey_page_5
+      label: 5. Do you have any medical conditions that may impact your ability to
+        perform the task?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 3
-      name: risk_assessment_survey_page_3
-      label: Risk Factors
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: risk_assessment_survey_page_4
-      label: Risk Factors
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: risk_assessment_survey_page_5
-      label: Hazard Identification
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 6
       name: risk_assessment_survey_page_6
-      label: Hazard Identification
+      label: 6. How often do you perform this task?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
     - id: 7
       name: risk_assessment_survey_page_7
-      label: Accident Prevention
+      label: 7. What is the expected duration of the task?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 8
       name: risk_assessment_survey_page_8
-      label: Accident Prevention
+      label: 8. What is your expected time of completion?
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 9
       name: risk_assessment_survey_page_9
-      label: Accident Prevention
+      label: 9. Do you have any allergies or sensitivities that may impact your ability
+        to perform the task?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 10
       name: risk_assessment_survey_page_10
-      label: accident
+      label: 10. Have you had any previous injuries or accidents while performing
+        this task?
       hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: risk_assessment_survey_page_11
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: risk_assessment_survey_page_12
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: risk_assessment_survey_page_13
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: risk_assessment_survey_page_14
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: risk_assessment_survey_page_15
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: risk_assessment_survey_page_16
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: risk_assessment_survey_page_17
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: risk_assessment_survey_page_18
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: risk_assessment_survey_page_19
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: risk_assessment_survey_page_20
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: risk_assessment_survey_page_21
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: risk_assessment_survey_page_22
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: risk_assessment_survey_page_23
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: risk_assessment_survey_page_24
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: risk_assessment_survey_page_25
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 26
-      name: risk_assessment_survey_page_26
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 27
-      name: risk_assessment_survey_page_27
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 28
-      name: risk_assessment_survey_page_28
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 29
-      name: risk_assessment_survey_page_29
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 30
-      name: risk_assessment_survey_page_30
-      label: accident
-      hint: null
-      type: time
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

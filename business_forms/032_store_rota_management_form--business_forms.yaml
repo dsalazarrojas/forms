@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''value'': ''In Progress''}'
-      - '{''id'': 11, ''value'': ''Completed''}'
-      - '{''id'': 12, ''value'': ''Cancelled''}'
+      - In Progress
+      - Completed
+      - Cancelled
       required: false
     - id: 10
       name: store_rota_manager_note
@@ -124,10 +124,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 21, ''value'': ''Manager''}'
-      - '{''id'': 22, ''value'': ''Assistant Manager''}'
-      - '{''id'': 23, ''value'': ''Supervisor''}'
-      - '{''id'': 24, ''value'': ''Team Member''}'
+      - Manager
+      - Assistant Manager
+      - Supervisor
+      - Team Member
       required: true
     - id: 18
       name: store_rota_form_submitted
@@ -135,6 +135,6 @@ inputSchema:
       hint: Was the form submitted?
       type: select_one
       options:
-      - '{''id'': 26, ''value'': True}'
-      - '{''id'': 27, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

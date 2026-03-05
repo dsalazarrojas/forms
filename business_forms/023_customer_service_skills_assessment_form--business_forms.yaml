@@ -1,133 +1,100 @@
 inputSchema:
   type: object
   properties:
-    title: customer_service_skills_assessment_form
+    title: Customer Service Skills Assessment Form
     pages:
     - id: 1
-      name: customer_service_representative_skills
-      label: Customer Service Representative Skills
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 2
-      name: customer_service_skills_assessment
-      label: Customer Service Skills Assessment
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: performance_evaluation
-      label: Performance Evaluation
-      hint: null
-      type: date
+      name: customer_service_skills_definition
+      label: What is the definition of customer service skills?
+      hint: Please specify the definition of customer service skills.
+      type: text
       options: []
       required: false
-    - id: 4
-      name: customer_service_skills
-      label: customer service skills
-      hint: null
+    - id: 2
+      name: key_customer_service_skills
+      label: Which of the following is a key skill for customer service representatives?
+      hint: Choose one or more of the following options.
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Communication skills
+      - Problem-solving skills
+      - Adaptability
+      - Customer service skills
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: self_assessment
+      label: How would you rate your customer service skills?
+      hint: Rate your customer service skills on a scale of 1-5.
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: essential_skills
+      label: What skills do you think are essential for a customer service representative
+        to have?
+      hint: List the essential skills for a customer service representative.
+      type: text
+      options: []
       required: false
     - id: 5
-      name: customer_service_skills
-      label: customer service skills
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: problem_solving_experience
+      label: Can you describe your experience with problem-solving in a customer service
+        role?
+      hint: Please describe a situation where you had to solve a difficult customer
+        problem.
+      type: text
+      options: []
       required: false
     - id: 6
-      name: communication_skills
-      label: Communication Skills
-      hint: null
-      type: text
+      name: adaptability_rating
+      label: How would you rate your ability to adapt to changing situations?
+      hint: Rate your ability to adapt on a scale of 1-5.
+      type: number
       options: []
       required: false
     - id: 7
-      name: problem_solving
-      label: Problem Solving
-      hint: null
-      type: time
+      name: availability
+      label: What is your availability for customer service skills assessment?
+      hint: Specify your availability.
+      type: date
       options: []
-      required: false
+      required: true
     - id: 8
-      name: adaptability
-      label: adaptability
-      hint: null
+      name: years_in_customer_service
+      label: How many years have you been working in customer service?
+      hint: Specify the number of years you have been working in customer service.
       type: number
       options: []
-      required: false
+      required: true
     - id: 9
-      name: customer_service_skills
-      label: customer service skills
-      hint: null
+      name: customer_service_certification
+      label: Do you have any certifications or training related to customer service?
+      hint: Specify the certifications or training you have received.
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
-      name: customer_service_skills
-      label: customer service skills
-      hint: null
-      type: text
+      name: communication_skills
+      label: How would you rate your communication skills?
+      hint: Rate your communication skills on a scale of 1-5.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 11
-      name: customer_service_skills_assessment
-      label: customer service skills assessment
-      hint: null
-      type: time
+      name: problem_solving_example
+      label: Can you give an example of a time when you had to solve a difficult customer
+        problem?
+      hint: Describe the situation and how you handled it.
+      type: text
       options: []
       required: false
     - id: 12
-      name: communication_skills
-      label: communication skills
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: adaptability
-      label: adaptability
-      hint: null
+      name: pressure_rating
+      label: How would you rate your ability to work under pressure?
+      hint: Rate your ability to work under pressure on a scale of 1-5.
       type: number
       options: []
-      required: false
-    - id: 14
-      name: customer_service
-      label: customer service
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: customer_service
-      label: customer service
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: communication
-      label: communication
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

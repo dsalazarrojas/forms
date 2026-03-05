@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': ''yes''}'
-      - '{''label'': False, ''value'': ''no''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: follow_up
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''via phone'', ''value'': ''phone''}'
-      - '{''label'': ''via email'', ''value'': ''email''}'
-      - '{''label'': ''via mail'', ''value'': ''mail''}'
+      - via phone
+      - via email
+      - via mail
       required: false
     - id: 10
       name: date

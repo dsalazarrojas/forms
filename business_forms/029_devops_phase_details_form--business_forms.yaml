@@ -4,20 +4,27 @@ inputSchema:
     title: DevOps Phase Details Form
     pages:
     - id: 1
-      name: devops_phase_details_form
-      label: DevOps Phase Details
+      name: phase_name
+      label: Phase Name
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: resources
-      label: Resources
+      name: phase_start_date
+      label: Start Date
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 3
+      name: phase_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
       name: team_rituals
       label: Team Rituals
       hint: null
@@ -26,191 +33,40 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 4
-      name: tools
-      label: Tools
+    - id: 5
+      name: resources
+      label: Resources
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
-      name: tools_rituals
-      label: Tools and Rituals
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 6
-      name: tools_rituals_1
-      label: Tools 1
-      hint: List all tools 1 you are using
+      name: key_tools
+      label: Key Tools
+      hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: tools_rital
-      label: Tools and Rituals 1
+      name: resource_management
+      label: Resource Management
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 8
-      name: tools_rituals_2
-      label: Tools and Rituals 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: tools_rital_1
-      label: Tools and Rituals 1
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: tools_rituals_3
-      label: Tools and Rituals 3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: tools_rital_2
-      label: Tools and Rituals 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: phase_start_date
-      label: Phase Start Date
-      hint: YYYY-MM-DD
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: phase_end_date
-      label: Phase End Date
-      hint: YYYY-MM-DD
-      type: date
-      options: []
-      required: false
-    - id: 14
       name: phase_notes
       label: Phase Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 15
-      name: tools_rituals_4
-      label: Tools and Rituals 4
+    - id: 9
+      name: resource_notes
+      label: Resource Notes
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: tools_rituals_5
-      label: Tools and Rituals 5
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: tools_rital_4
-      label: Tools and Rituals 4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: tools_rital_5
-      label: Tools and Rituals 5
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: resources_rituals
-      label: Resources and Rituals
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: resources_rituals_1
-      label: Resources and Rituals 1
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: resources_rital_1
-      label: Resources and Rituals 1
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: resources_rital_2
-      label: Resources and Rituals 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: resources_rital_3
-      label: Resources and Rituals 3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: tools_rituals_6
-      label: Tools and Rituals 6
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: tools_rital_6
-      label: Tools and Rituals 6
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: note
+      options: []
       required: false

@@ -9,7 +9,7 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: contact_person
       label: Contact Person
@@ -27,7 +27,7 @@ inputSchema:
     - id: 4
       name: email
       label: Email
-      hint: example@example.com
+      hint: null
       type: email
       options: []
       required: true
@@ -53,128 +53,9 @@ inputSchema:
       options: []
       required: false
     - id: 8
-      name: company_name_2
-      label: Company Name
+      name: additional_comments
+      label: Additional Comments
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: job_title_2
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: job_title_3
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: email_2
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 12
-      name: email_3
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 13
-      name: time_2
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: time_3
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: email_4
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 16
-      name: job_title_4
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: job_title_5
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: time_4
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: phone_2
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: date_2
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: phone_3
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: job_title_6
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: date_3
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: email_5
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 25
-      name: email_6
-      label: Email
-      hint: null
-      type: email
+      type: note
       options: []
       required: false

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -83,8 +72,8 @@ inputSchema:
       hint: You received vaccine information materials
       type: select_one
       options:
-        - Yes, I received information
-        - No information provided
+      - Yes, I received information
+      - No information provided
       required: true
     - id: 11
       name: consent_understand_benefits
@@ -92,8 +81,8 @@ inputSchema:
       hint: Acknowledged understanding of benefits
       type: select_one
       options:
-        - Yes, I understand
-        - I have questions
+      - Yes, I understand
+      - I have questions
       required: true
     - id: 12
       name: consent_understand_risks
@@ -101,8 +90,8 @@ inputSchema:
       hint: Acknowledged understanding of risks
       type: select_one
       options:
-        - Yes, I understand
-        - I have questions
+      - Yes, I understand
+      - I have questions
       required: true
     - id: 13
       name: consent_authorize
@@ -110,8 +99,8 @@ inputSchema:
       hint: You authorize the vaccination to proceed
       type: select_one
       options:
-        - I authorize vaccination
-        - I do not authorize vaccination
+      - I authorize vaccination
+      - I do not authorize vaccination
       required: true
     - id: 14
       name: consent_voluntary
@@ -119,8 +108,8 @@ inputSchema:
       hint: You are freely choosing to be vaccinated
       type: select_one
       options:
-        - Voluntary and not coerced
-        - Under pressure
+      - Voluntary and not coerced
+      - Under pressure
       required: true
     - id: 15
       name: medical_history_combined_header
@@ -156,9 +145,9 @@ inputSchema:
       hint: Do you have a weakened immune system
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 20
       name: appointment_scheduling_header
@@ -180,11 +169,11 @@ inputSchema:
       hint: What time do you prefer
       type: select_one
       options:
-        - Early Morning - 8 AM to 10 AM
-        - Morning - 10 AM to 12 PM
-        - Afternoon - 12 PM to 2 PM
-        - Late Afternoon - 2 PM to 4 PM
-        - Evening - 4 PM to 6 PM
+      - Early Morning - 8 AM to 10 AM
+      - Morning - 10 AM to 12 PM
+      - Afternoon - 12 PM to 2 PM
+      - Late Afternoon - 2 PM to 4 PM
+      - Evening - 4 PM to 6 PM
       required: true
     - id: 23
       name: combined_vaccine_location
@@ -192,11 +181,11 @@ inputSchema:
       hint: Where would you prefer to get vaccinated
       type: select_one
       options:
-        - Main Clinic
-        - Downtown Location
-        - Pharmacy
-        - Community Center
-        - Mobile Clinic
+      - Main Clinic
+      - Downtown Location
+      - Pharmacy
+      - Community Center
+      - Mobile Clinic
       required: true
     - id: 24
       name: combined_vaccine_preference
@@ -204,10 +193,10 @@ inputSchema:
       hint: Your preferred vaccine
       type: select_one
       options:
-        - Pfizer-BioNTech
-        - Moderna
-        - Johnson & Johnson
-        - No Preference
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - No Preference
       required: false
     - id: 25
       name: combined_confirmation
@@ -215,6 +204,6 @@ inputSchema:
       hint: All provided information is correct
       type: select_one
       options:
-        - I confirm
-        - Needs correction
+      - I confirm
+      - Needs correction
       required: true

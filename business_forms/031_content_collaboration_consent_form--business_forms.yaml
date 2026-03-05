@@ -1,107 +1,104 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Content Collaboration Consent Form
     pages:
-      - id: 1
-        name: section_collaborator_info
-        label: -- Collaborator Details --
-        hint: Please provide your information below.
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: collaborator_name
-        label: Collaborator Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: collaborator_id
-        label: Collaborator Identification Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: section_collaboration_details
-        label: -- Collaboration and Content Details --
-        hint: Please share details for the content collaboration.
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: content_description
-        label: Description of the Content to be Shared
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: collaboration_start_date
-        label: Collaboration Start Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 7
-        name: collaboration_end_date
-        label: Collaboration End Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 8
-        name: rights_responsibilities_agreement
-        label: Agreement to defined rights and responsibilities
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 9
-        name: section_confirmation
-        label: -- Confirmation and Consent --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: collaboration_consent_granted
-        label: Collaboration Consent Granted?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 11
-        name: signature_confirmation
-        label: I confirm that the information provided is accurate
-        hint: null
-        type: select_one
-        options: [I Agree, I Disagree]
-        required: true
-      - id: 12
-        name: privacy_agreement
-        label: I have read and agree to the privacy policy regarding my data
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 13
-        name: date_of_consent
-        label: Date of Consent
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_collaborator_info
+      label: -- Collaborator Details --
+      hint: Please provide your information below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: collaborator_name
+      label: Collaborator Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: collaborator_id
+      label: Collaborator Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_collaboration_details
+      label: -- Collaboration and Content Details --
+      hint: Please share details for the content collaboration.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: content_description
+      label: Description of the Content to be Shared
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: collaboration_start_date
+      label: Collaboration Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: collaboration_end_date
+      label: Collaboration End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: rights_responsibilities_agreement
+      label: Agreement to defined rights and responsibilities
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: section_confirmation
+      label: -- Confirmation and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: collaboration_consent_granted
+      label: Collaboration Consent Granted?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: signature_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 12
+      name: privacy_agreement
+      label: I have read and agree to the privacy policy regarding my data
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: date_of_consent
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

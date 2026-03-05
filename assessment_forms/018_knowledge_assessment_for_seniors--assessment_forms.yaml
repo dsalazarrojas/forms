@@ -4,92 +4,100 @@ inputSchema:
     title: Knowledge Assessment For Seniors
     pages:
     - id: 1
-      name: first_question
-      label: first_question
-      hint: null
+      name: physical_health
+      label: How would you rate your overall health?
+      hint: Please select one of the options below.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 2
-      name: first_question
-      label: first_question
-      hint: null
+      name: mental_health
+      label: How would you rate your mental health?
+      hint: Please select one of the options below.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 3
-      name: first_question
-      label: first_question
-      hint: null
-      type: select_one
+      name: medication
+      label: Do you take any prescription medication?
+      hint: Please answer "Yes" or "No".
+      type: checkbox
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 4
-      name: second_question
-      label: second_question
-      hint: null
+      name: daily_activity
+      label: Are you able to perform daily activities like bathing, dressing, and
+        cooking?
+      hint: Please answer "Yes" or "No".
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 5
-      name: second_question
-      label: second_question
-      hint: null
-      type: select_one
+      name: social_support
+      label: How much support do you have from family and friends?
+      hint: Please select one of the options below.
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Family members often visit me
+      - I visit family members often
+      - Friends often visit me
+      - I visit friends often
+      - None
+      required: true
     - id: 6
-      name: third_question
-      label: third_question
-      hint: null
+      name: memory_function
+      label: How would you rate your memory function?
+      hint: Please select one of the options below.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 7
-      name: third_question
-      label: third_question
-      hint: null
+      name: cognitive_status
+      label: Are you experiencing any cognitive decline?
+      hint: Please answer "Yes" or "No".
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 8
-      name: fourth_question
-      label: fourth_question
-      hint: null
+      name: hearing
+      label: Do you have difficulty hearing?
+      hint: Please answer "Yes" or "No".
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: fourth_question
-      label: fourth_question
-      hint: null
+      name: vision
+      label: Do you have difficulty seeing?
+      hint: Please answer "Yes" or "No".
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
-      name: fifth_question
-      label: fifth_question
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      name: note
+      label: Additional notes
+      hint: Please provide any additional comments or concerns.
+      type: note
+      options: []
       required: false

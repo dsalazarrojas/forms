@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''EST''}'
-      - '{''value'': ''EDT''}'
-      - '{''value'': ''CDT''}'
-      - '{''value'': ''PDT''}'
+      - EST
+      - EDT
+      - CDT
+      - PDT
       required: false
     - id: 5
       name: travel_agent
@@ -69,10 +69,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''passport''}'
-      - '{''value'': ''id''}'
-      - '{''value'': ''driver_license''}'
-      - '{''value'': ''health_insurance''}'
+      - passport
+      - id
+      - driver license
+      - health insurance
       required: false
     - id: 10
       name: payment_method
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''credit_card''}'
-      - '{''value'': ''bank_transfer''}'
-      - '{''value'': ''wire_transfer''}'
+      - credit card
+      - bank transfer
+      - wire transfer
       required: false
     - id: 11
       name: payment_amount
@@ -104,8 +104,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: confirm_email
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: confirm_phone
@@ -122,6 +122,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false

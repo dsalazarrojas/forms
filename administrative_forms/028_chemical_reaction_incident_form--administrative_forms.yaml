@@ -1,269 +1,258 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Chemical Reaction Incident Form
     pages:
-      - id: 1
-        name: reporter_name
-        label: Reporter Name
-        hint: Name of person reporting the incident
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: reporter_role
-        label: Reporter Role
-        hint: Your role in the organization
-        type: select_one
-        options:
-          - Laboratory technician
-          - Researcher
-          - Student
-          - Supervisor
-          - Safety officer
-          - Other
-        required: true
-      - id: 3
-        name: incident_date
-        label: Incident Date
-        hint: Date when the incident occurred
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: incident_time
-        label: Incident Time
-        hint: Time when the incident occurred
-        type: time
-        options: []
-        required: true
-      - id: 5
-        name: laboratory_location
-        label: Laboratory Location
-        hint: Where did the incident occur
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: incident_type
-        label: Incident Type
-        hint: Type of chemical reaction incident
-        type: select_one
-        options:
-          - Uncontrolled reaction
-          - Chemical spill
-          - Chemical release
-          - Fire or explosion
-          - Equipment failure
-          - Exposure incident
-          - Near miss
-          - Other
-        required: true
-      - id: 7
-        name: chemicals_involved
-        label: Chemicals Involved
-        hint: List all chemicals involved in the incident
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: quantities_involved
-        label: Quantities Involved
-        hint: Approximate amounts of chemicals
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: reaction_type
-        label: Type of Reaction
-        hint: What type of reaction was being performed
-        type: select_one
-        options:
-          - Synthesis
-          - Decomposition
-          - Oxidation-reduction
-          - Acid-base
-          - Precipitation
-          - Combustion
-          - Other
-        required: true
-      - id: 10
-        name: expected_outcome
-        label: Expected Outcome
-        hint: What was the expected result
-        type: text
-        options: []
-        required: true
-      - id: 11
-        name: actual_outcome
-        label: Actual Outcome
-        hint: What actually happened
-        type: text
-        options: []
-        required: true
-      - id: 12
-        name: deviation_cause
-        label: Cause of Deviation
-        hint: Why did the reaction deviate from expected
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: injuries_sustained
-        label: Were There Any Injuries
-        hint: Did anyone get hurt
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 14
-        name: injury_details
-        label: Injury Details
-        hint: Describe any injuries sustained
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: medical_treatment
-        label: Medical Treatment Required
-        hint: Was medical treatment needed
-        type: select_one
-        options:
-          - Yes, first aid only
-          - Yes, medical attention
-          - Yes, hospitalization
-          - No treatment needed
-          - Not applicable
-        required: true
-      - id: 16
-        name: property_damage
-        label: Property Damage
-        hint: Was there any property damage
-        type: select_one
-        options:
-          - None
-          - Minor
-          - Moderate
-          - Severe
-          - Total loss
-        required: true
-      - id: 17
-        name: damage_details
-        label: Damage Details
-        hint: Describe any damage
-        type: text
-        options: []
-        required: false
-      - id: 18
-        name: evacuation_required
-        label: Was Evacuation Required
-        hint: Did anyone need to evacuate
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 19
-        name: emergency_response
-        label: Emergency Response
-        hint: What emergency actions were taken
-        type: select_multiple
-        options:
-          - Fire extinguisher used
-          - Emergency shower
-          - Eyewash station
-          - Spill kit deployed
-          - Emergency services called
-          - Area evacuated
-          - Ventilation increased
-          - Other
-        required: true
-      - id: 20
-        name: witnesses
-        label: Witnesses
-        hint: Names of any witnesses
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: contributing_factors
-        label: Contributing Factors
-        hint: What factors contributed to the incident
-        type: text
-        options: []
-        required: true
-      - id: 22
-        name: preventive_measures
-        label: Preventive Measures
-        hint: What could have prevented this incident
-        type: text
-        options: []
-        required: true
-      - id: 23
-        name: corrective_actions
-        label: Corrective Actions Taken
-        hint: What actions were taken after the incident
-        type: text
-        options: []
-        required: true
-      - id: 24
-        name: supervisor_notified
-        label: Was Supervisor Notified
-        hint: Was your supervisor informed
-        type: select_one
-        options:
-          - Yes, immediately
-          - Yes, within 1 hour
-          - Yes, delayed
-          - No
-        required: true
-      - id: 25
-        name: safety_officer_notified
-        label: Was Safety Officer Notified
-        hint: Was the safety officer informed
-        type: select_one
-        options:
-          - Yes, immediately
-          - Yes, within 1 hour
-          - Yes, delayed
-          - No
-        required: true
-      - id: 26
-        name: incident_severity
-        label: Incident Severity
-        hint: Overall severity of the incident
-        type: select_one
-        options:
-          - Minor - No injuries, minimal impact
-          - Moderate - Minor injuries, some damage
-          - Serious - Significant injuries or damage
-          - Critical - Major injuries or extensive damage
-        required: true
-      - id: 27
-        name: reporter_signature
-        label: Reporter Signature
-        hint: I confirm this report is accurate
-        type: select_one
-        options:
-          - Yes, I confirm
-          - No
-        required: true
-      - id: 28
-        name: report_date
-        label: Report Date
-        hint: Date of this report
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: reporter_name
+      label: Reporter Name
+      hint: Name of person reporting the incident
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporter_role
+      label: Reporter Role
+      hint: Your role in the organization
+      type: select_one
+      options:
+      - Laboratory technician
+      - Researcher
+      - Student
+      - Supervisor
+      - Safety officer
+      - Other
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: Date when the incident occurred
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: Time when the incident occurred
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: laboratory_location
+      label: Laboratory Location
+      hint: Where did the incident occur
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_type
+      label: Incident Type
+      hint: Type of chemical reaction incident
+      type: select_one
+      options:
+      - Uncontrolled reaction
+      - Chemical spill
+      - Chemical release
+      - Fire or explosion
+      - Equipment failure
+      - Exposure incident
+      - Near miss
+      - Other
+      required: true
+    - id: 7
+      name: chemicals_involved
+      label: Chemicals Involved
+      hint: List all chemicals involved in the incident
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quantities_involved
+      label: Quantities Involved
+      hint: Approximate amounts of chemicals
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reaction_type
+      label: Type of Reaction
+      hint: What type of reaction was being performed
+      type: select_one
+      options:
+      - Synthesis
+      - Decomposition
+      - Oxidation-reduction
+      - Acid-base
+      - Precipitation
+      - Combustion
+      - Other
+      required: true
+    - id: 10
+      name: expected_outcome
+      label: Expected Outcome
+      hint: What was the expected result
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: actual_outcome
+      label: Actual Outcome
+      hint: What actually happened
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: deviation_cause
+      label: Cause of Deviation
+      hint: Why did the reaction deviate from expected
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: injuries_sustained
+      label: Were There Any Injuries
+      hint: Did anyone get hurt
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: injury_details
+      label: Injury Details
+      hint: Describe any injuries sustained
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_treatment
+      label: Medical Treatment Required
+      hint: Was medical treatment needed
+      type: select_one
+      options:
+      - Yes, first aid only
+      - Yes, medical attention
+      - Yes, hospitalization
+      - No treatment needed
+      - Not applicable
+      required: true
+    - id: 16
+      name: property_damage
+      label: Property Damage
+      hint: Was there any property damage
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Severe
+      - Total loss
+      required: true
+    - id: 17
+      name: damage_details
+      label: Damage Details
+      hint: Describe any damage
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: evacuation_required
+      label: Was Evacuation Required
+      hint: Did anyone need to evacuate
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: emergency_response
+      label: Emergency Response
+      hint: What emergency actions were taken
+      type: select_multiple
+      options:
+      - Fire extinguisher used
+      - Emergency shower
+      - Eyewash station
+      - Spill kit deployed
+      - Emergency services called
+      - Area evacuated
+      - Ventilation increased
+      - Other
+      required: true
+    - id: 20
+      name: witnesses
+      label: Witnesses
+      hint: Names of any witnesses
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contributing_factors
+      label: Contributing Factors
+      hint: What factors contributed to the incident
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: preventive_measures
+      label: Preventive Measures
+      hint: What could have prevented this incident
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: corrective_actions
+      label: Corrective Actions Taken
+      hint: What actions were taken after the incident
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: supervisor_notified
+      label: Was Supervisor Notified
+      hint: Was your supervisor informed
+      type: select_one
+      options:
+      - Yes, immediately
+      - Yes, within 1 hour
+      - Yes, delayed
+      - 'False'
+      required: true
+    - id: 25
+      name: safety_officer_notified
+      label: Was Safety Officer Notified
+      hint: Was the safety officer informed
+      type: select_one
+      options:
+      - Yes, immediately
+      - Yes, within 1 hour
+      - Yes, delayed
+      - 'False'
+      required: true
+    - id: 26
+      name: incident_severity
+      label: Incident Severity
+      hint: Overall severity of the incident
+      type: select_one
+      options:
+      - Minor - No injuries, minimal impact
+      - Moderate - Minor injuries, some damage
+      - Serious - Significant injuries or damage
+      - Critical - Major injuries or extensive damage
+      required: true
+    - id: 27
+      name: reporter_signature
+      label: Reporter Signature
+      hint: I confirm this report is accurate
+      type: select_one
+      options:
+      - Yes, I confirm
+      - 'False'
+      required: true
+    - id: 28
+      name: report_date
+      label: Report Date
+      hint: Date of this report
+      type: date
+      options: []
+      required: true

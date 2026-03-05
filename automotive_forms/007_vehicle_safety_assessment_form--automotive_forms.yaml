@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Fair
+      - Poor
       required: false
     - id: 3
       name: safety_standards_compliance
@@ -26,8 +26,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: vehicle_registration_details
@@ -42,10 +42,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Airbag''}'
-      - '{''label'': ''Anti-lock Braking System''}'
-      - '{''label'': ''Electronic Stability Control''}'
-      - '{''label'': ''Other''}'
+      - Airbag
+      - Anti-lock Braking System
+      - Electronic Stability Control
+      - Other
       required: false
     - id: 6
       name: safety_standards_adhered
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Certified''}'
-      - '{''label'': ''Not Certified''}'
+      - Certified
+      - Not Certified
       required: false
     - id: 8
       name: vehicle_insurance_coverage
@@ -69,8 +69,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: safety_equipment
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Fire Suppression System''}'
-      - '{''label'': ''Emergency Exit Signs''}'
-      - '{''label'': ''Other''}'
+      - Fire Suppression System
+      - Emergency Exit Signs
+      - Other
       required: false
     - id: 10
       name: vehicle_safety_rating
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 11
       name: vehicle_safety_comments
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Required''}'
-      - '{''label'': ''Recommended''}'
-      - '{''label'': ''Not Required''}'
+      - Required
+      - Recommended
+      - Not Required
       required: false
     - id: 13
       name: vehicle_safety_recommendations
@@ -115,7 +115,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Replace''}'
-      - '{''label'': ''Repair''}'
-      - '{''label'': ''Inspect''}'
+      - Replace
+      - Repair
+      - Inspect
       required: false

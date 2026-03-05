@@ -16,9 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Fire Extinguisher'', ''description'': ''Fire
-        Extinguisher''}'
-      - '{''value'': 2, ''label'': ''Fire Alarm'', ''description'': ''Fire Alarm''}'
+      - Fire Extinguisher
+      - Fire Alarm
       required: false
     - id: 3
       name: damages_description
@@ -40,9 +39,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Pending'', ''description'': ''Pending''}'
-      - '{''value'': 2, ''label'': ''Closed'', ''description'': ''Closed''}'
-      - '{''value'': 3, ''label'': ''Reopened'', ''description'': ''Reopened''}'
+      - Pending
+      - Closed
+      - Reopened
       required: false
     - id: 6
       name: claim_date
@@ -106,7 +105,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Fire Extinguisher'', ''description'': ''Fire
-        Extinguisher''}'
-      - '{''value'': 2, ''label'': ''Fire Alarm'', ''description'': ''Fire Alarm''}'
+      - Fire Extinguisher
+      - Fire Alarm
       required: false

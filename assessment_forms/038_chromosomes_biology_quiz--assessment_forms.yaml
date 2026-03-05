@@ -1,294 +1,284 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Chromosomes Biology Quiz
     pages:
-      - id: 1
-        name: student_name
-        label: Full Name
-        hint: Enter your first and last name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: email_address
-        label: Email Address
-        hint: For quiz results
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: student_id
-        label: Student ID
-        hint: Your student identification number
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: course_name
-        label: Course Name
-        hint: Which course is this for
-        type: select_one
-        options:
-          - Biology 101
-          - Genetics
-          - Cell Biology
-          - Molecular Biology
-          - Advanced Biology
-          - Other
-        required: true
-      - id: 5
-        name: section_student_info
-        label: -- Student Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: question_1
-        label: Question 1 - What is the basic unit of heredity
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - Cell
-          - Gene
-          - Chromosome
-          - Nucleus
-        required: true
-      - id: 7
-        name: question_2
-        label: Question 2 - How many chromosomes do humans typically have
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - 23
-          - 46
-          - 48
-          - 92
-        required: true
-      - id: 8
-        name: question_3
-        label: Question 3 - What is the name of the process that divides cells
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - Photosynthesis
-          - Mitosis
-          - Respiration
-          - Fermentation
-        required: true
-      - id: 9
-        name: question_4
-        label: Question 4 - Which chromosome determines biological sex in humans
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - Chromosome 1
-          - Chromosome 21
-          - Y chromosome
-          - Chromosome 10
-        required: true
-      - id: 10
-        name: question_5
-        label: Question 5 - What is DNA short for
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - Deoxyribonucleic Acid
-          - Dinucleic Acid
-          - Deoxyribose Nucleic Atom
-          - Dioxide Nuclear Acid
-        required: true
-      - id: 11
-        name: section_quiz_part_1
-        label: -- Quiz Part 1 --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: question_6
-        label: Question 6 - What structure holds DNA in the cell
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - Mitochondria
-          - Nucleus
-          - Ribosome
-          - Golgi Apparatus
-        required: true
-      - id: 13
-        name: question_7
-        label: Question 7 - What is a mutation
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - Normal cell division
-          - Change in DNA sequence
-          - Protein synthesis
-          - Cell death
-        required: true
-      - id: 14
-        name: question_8
-        label: Question 8 - Which base pairs with Adenine in DNA
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - Guanine
-          - Cytosine
-          - Thymine
-          - Uracil
-        required: true
-      - id: 15
-        name: question_9
-        label: Question 9 - What is the shape of DNA called
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - Single helix
-          - Double helix
-          - Triple helix
-          - Circular
-        required: true
-      - id: 16
-        name: question_10
-        label: Question 10 - What are the four DNA bases
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - A, B, C, D
-          - Adenine, Thymine, Guanine, Cytosine
-          - Alanine, Tryptophan, Glycine, Cysteine
-          - Argon, Titanium, Gold, Calcium
-        required: true
-      - id: 17
-        name: section_quiz_part_2
-        label: -- Quiz Part 2 --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 18
-        name: question_11
-        label: Question 11 - What is the centromere
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - End of chromosome
-          - Middle region of chromosome
-          - Type of gene
-          - Cell membrane part
-        required: true
-      - id: 19
-        name: question_12
-        label: Question 12 - What does homologous mean
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - Different size
-          - Same size and shape
-          - Round shaped
-          - Spiral shaped
-        required: true
-      - id: 20
-        name: question_13
-        label: Question 13 - What is a karyotype
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - Type of cell
-          - Picture of chromosomes
-          - Type of gene
-          - DNA sequence
-        required: true
-      - id: 21
-        name: question_14
-        label: Question 14 - Which genetic disorder is caused by an extra chromosome 21
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - Cystic Fibrosis
-          - Down Syndrome
-          - Sickle Cell Anemia
-          - Hemophilia
-        required: true
-      - id: 22
-        name: question_15
-        label: Question 15 - What is the telomere function
-        hint: Select the correct answer
-        type: select_one
-        options:
-          - Energy production
-          - Protect chromosome ends
-          - Protein synthesis
-          - Cell division
-        required: true
-      - id: 23
-        name: section_quiz_part_3
-        label: -- Quiz Part 3 --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 24
-        name: bonus_question
-        label: Bonus - Explain the difference between genotype and phenotype
-        hint: Type your answer
-        type: text
-        options: []
-        required: false
-      - id: 25
-        name: confidence_level
-        label: Confidence Level
-        hint: How confident are you in your answers
-        type: select_one
-        options:
-          - Very confident
-          - Somewhat confident
-          - Not very confident
-          - Guessed on most
-        required: true
-      - id: 26
-        name: study_time
-        label: Study Time
-        hint: How long did you study
-        type: select_one
-        options:
-          - Did not study
-          - Less than 1 hour
-          - 1-3 hours
-          - 3-5 hours
-          - Over 5 hours
-        required: true
-      - id: 27
-        name: section_reflection
-        label: -- Reflection --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 28
-        name: difficult_topics
-        label: Most Difficult Topics
-        hint: What was most challenging
-        type: text
-        options: []
-        required: false
-      - id: 29
-        name: request_review
-        label: Request Topic Review
-        hint: What should be reviewed in class
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: student_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For quiz results
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: Your student identification number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_name
+      label: Course Name
+      hint: Which course is this for
+      type: select_one
+      options:
+      - Biology 101
+      - Genetics
+      - Cell Biology
+      - Molecular Biology
+      - Advanced Biology
+      - Other
+      required: true
+    - id: 5
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: question_1
+      label: Question 1 - What is the basic unit of heredity
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Cell
+      - Gene
+      - Chromosome
+      - Nucleus
+      required: true
+    - id: 7
+      name: question_2
+      label: Question 2 - How many chromosomes do humans typically have
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - '23'
+      - '46'
+      - '48'
+      - '92'
+      required: true
+    - id: 8
+      name: question_3
+      label: Question 3 - What is the name of the process that divides cells
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Photosynthesis
+      - Mitosis
+      - Respiration
+      - Fermentation
+      required: true
+    - id: 9
+      name: question_4
+      label: Question 4 - Which chromosome determines biological sex in humans
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Chromosome 1
+      - Chromosome 21
+      - Y chromosome
+      - Chromosome 10
+      required: true
+    - id: 10
+      name: question_5
+      label: Question 5 - What is DNA short for
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Deoxyribonucleic Acid
+      - Dinucleic Acid
+      - Deoxyribose Nucleic Atom
+      - Dioxide Nuclear Acid
+      required: true
+    - id: 11
+      name: section_quiz_part_1
+      label: -- Quiz Part 1 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: question_6
+      label: Question 6 - What structure holds DNA in the cell
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Mitochondria
+      - Nucleus
+      - Ribosome
+      - Golgi Apparatus
+      required: true
+    - id: 13
+      name: question_7
+      label: Question 7 - What is a mutation
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Normal cell division
+      - Change in DNA sequence
+      - Protein synthesis
+      - Cell death
+      required: true
+    - id: 14
+      name: question_8
+      label: Question 8 - Which base pairs with Adenine in DNA
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Guanine
+      - Cytosine
+      - Thymine
+      - Uracil
+      required: true
+    - id: 15
+      name: question_9
+      label: Question 9 - What is the shape of DNA called
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Single helix
+      - Double helix
+      - Triple helix
+      - Circular
+      required: true
+    - id: 16
+      name: question_10
+      label: Question 10 - What are the four DNA bases
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - A, B, C, D
+      - Adenine, Thymine, Guanine, Cytosine
+      - Alanine, Tryptophan, Glycine, Cysteine
+      - Argon, Titanium, Gold, Calcium
+      required: true
+    - id: 17
+      name: section_quiz_part_2
+      label: -- Quiz Part 2 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: question_11
+      label: Question 11 - What is the centromere
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - End of chromosome
+      - Middle region of chromosome
+      - Type of gene
+      - Cell membrane part
+      required: true
+    - id: 19
+      name: question_12
+      label: Question 12 - What does homologous mean
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Different size
+      - Same size and shape
+      - Round shaped
+      - Spiral shaped
+      required: true
+    - id: 20
+      name: question_13
+      label: Question 13 - What is a karyotype
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Type of cell
+      - Picture of chromosomes
+      - Type of gene
+      - DNA sequence
+      required: true
+    - id: 21
+      name: question_14
+      label: Question 14 - Which genetic disorder is caused by an extra chromosome
+        21
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Cystic Fibrosis
+      - Down Syndrome
+      - Sickle Cell Anemia
+      - Hemophilia
+      required: true
+    - id: 22
+      name: question_15
+      label: Question 15 - What is the telomere function
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Energy production
+      - Protect chromosome ends
+      - Protein synthesis
+      - Cell division
+      required: true
+    - id: 23
+      name: section_quiz_part_3
+      label: -- Quiz Part 3 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: bonus_question
+      label: Bonus - Explain the difference between genotype and phenotype
+      hint: Type your answer
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confidence_level
+      label: Confidence Level
+      hint: How confident are you in your answers
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Not very confident
+      - Guessed on most
+      required: true
+    - id: 26
+      name: study_time
+      label: Study Time
+      hint: How long did you study
+      type: select_one
+      options:
+      - Did not study
+      - Less than 1 hour
+      - 1-3 hours
+      - 3-5 hours
+      - Over 5 hours
+      required: true
+    - id: 27
+      name: section_reflection
+      label: -- Reflection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: difficult_topics
+      label: Most Difficult Topics
+      hint: What was most challenging
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: request_review
+      label: Request Topic Review
+      hint: What should be reviewed in class
+      type: text
+      options: []
+      required: false

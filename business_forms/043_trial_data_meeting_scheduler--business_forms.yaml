@@ -4,198 +4,101 @@ inputSchema:
     title: Trial Data Meeting Scheduler
     pages:
     - id: 1
-      name: trial_data_meeting_scheduler_form
-      label: form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: meeting_preferences
-      label: meeting preferences
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 3
-      name: trial_duration
-      label: trial duration
-      hint: null
+      name: meeting_duration
+      label: Preferred Trial/Data Review Meeting Duration
+      hint: Select a suitable duration for the meeting
       type: number
       options: []
-      required: false
-    - id: 4
+      required: true
+    - id: 2
       name: trial_data_locations
-      label: trial data locations
-      hint: null
+      label: Trial/Data Review Meeting Locations
+      hint: Please list the locations you are available for the meeting
       type: text
       options: []
-      required: false
-    - id: 5
-      name: discussion_topics
-      label: discussion topics
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 3
       name: available_dates
-      label: available dates
-      hint: null
+      label: Available Dates
+      hint: Select the dates when you are available for the meeting
       type: date
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 4
       name: available_times
-      label: available times
-      hint: null
+      label: Available Times
+      hint: Select the times when you are available for the meeting
       type: time
       options: []
-      required: false
-    - id: 8
-      name: trial_data_review_meeting_preferences
-      label: trial data review meeting preferences
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 9
+      required: true
+    - id: 5
       name: meeting_schedule
-      label: meeting schedule
-      hint: null
+      label: Meeting Schedule
+      hint: Select your preferred meeting schedule options
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 10
-      name: trial_duration
-      label: trial duration
-      hint: null
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 6
+      name: trial_data_review_meeting_preferences
+      label: Trial Data Review Meeting Preferences
+      hint: Select your preferences for the meeting
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 7
+      name: discussion_topics
+      label: Discussion Topics
+      hint: Select the topics you would like to discuss during the meeting
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: preferred_meeting_schedule
+      label: Preferred Meeting Schedule
+      hint: Select the preferred schedule for the meeting
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 9
+      name: availability_rating
+      label: Availability Rating
+      hint: Rate your availability for the meeting
       type: number
+      options: []
+      required: true
+    - id: 10
+      name: additional_info
+      label: Additional Information
+      hint: Provide any additional information about the meeting
+      type: text
       options: []
       required: false
     - id: 11
-      name: trial_data_locations
-      label: trial data locations
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: trial_data_review_meeting_preferences_2
+      label: Trial Data Review Meeting Preferences 2
+      hint: Select your preferences for the trial/data review meeting
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 12
-      name: discussion_topics
-      label: discussion topics
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: available_dates
-      label: available dates
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: available_times
-      label: available times
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: trial_data_review_meeting_preferences
-      label: trial data review meeting preferences
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 16
-      name: meeting_schedule
-      label: meeting schedule
-      hint: null
+      name: discussion_topic_preferences
+      label: Discussion Topic Preferences
+      hint: Select your preferred discussion topics
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 17
-      name: trial_duration
-      label: trial duration
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: trial_data_locations
-      label: trial data locations
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: discussion_topics
-      label: discussion topics
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: available_dates
-      label: available dates
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: available_times
-      label: available times
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: trial_data_review_meeting_preferences
-      label: trial data review meeting preferences
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 23
-      name: meeting_schedule
-      label: meeting schedule
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 24
-      name: trial_duration
-      label: trial duration
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: trial_data_locations
-      label: trial data locations
-      hint: null
-      type: text
-      options: []
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true

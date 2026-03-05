@@ -30,12 +30,9 @@ inputSchema:
       hint: Optional field
       type: select_one
       options:
-      - label: Male
-        value: male
-      - label: Female
-        value: female
-      - label: Other
-        value: other
+      - Male
+      - Female
+      - Other
       required: false
     - id: 5
       name: section_medical_history
@@ -50,14 +47,10 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - label: Asthma or Respiratory
-        value: asthma
-      - label: Diabetes or Endocrine
-        value: diabetes
-      - label: Seizures or Neurological
-        value: seizures
-      - label: Frequent Ear Infections
-        value: ear
+      - Asthma or Respiratory
+      - Diabetes or Endocrine
+      - Seizures or Neurological
+      - Frequent Ear Infections
       required: false
     - id: 7
       name: recent_surgeries
@@ -65,10 +58,8 @@ inputSchema:
       hint: Include minor procedures
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: immunizations_current
@@ -76,10 +67,8 @@ inputSchema:
       hint: According to CDC schedule
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: section_current_concerns
@@ -101,12 +90,9 @@ inputSchema:
       hint: Scale of 1 to 10
       type: select_one
       options:
-      - label: 1 - Minimal to No Pain
-        value: '1'
-      - label: 5 - Moderate Pain
-        value: '5'
-      - label: 10 - Severe Pain
-        value: '10'
+      - 1 - Minimal to No Pain
+      - 5 - Moderate Pain
+      - 10 - Severe Pain
       required: true
     - id: 12
       name: section_lifestyle
@@ -128,12 +114,9 @@ inputSchema:
       hint: Compared to normal
       type: select_one
       options:
-      - label: High Appetite
-        value: high
-      - label: Normal Appetite
-        value: normal
-      - label: Low Appetite
-        value: low
+      - High Appetite
+      - Normal Appetite
+      - Low Appetite
       required: true
     - id: 15
       name: section_physician_details

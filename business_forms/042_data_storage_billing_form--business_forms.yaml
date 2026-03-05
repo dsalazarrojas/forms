@@ -5,22 +5,22 @@ inputSchema:
     pages:
     - id: 1
       name: billing_details
-      label: billing_details
-      hint: null
+      label: Billing Details
+      hint: Enter your billing information
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: client_details
-      label: client_details
+      label: Client Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: payment_method
-      label: payment_method
-      hint: null
+      label: Payment Method
+      hint: Select a payment method
       type: select_multiple
       options:
       - Visa
@@ -28,190 +28,129 @@ inputSchema:
       - Amex
       - Diners
       - JCB
-      required: false
+      required: true
     - id: 4
       name: amount
-      label: amount
+      label: Amount
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 5
       name: date_of_service
-      label: date_of_service
-      hint: null
+      label: Date of Service
+      hint: Enter the date of service
       type: date
       options: []
-      required: false
+      required: true
     - id: 6
       name: time_of_service
-      label: time_of_service
-      hint: null
+      label: Time of Service
+      hint: Enter the time of service
       type: time
       options: []
-      required: false
+      required: true
     - id: 7
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
       name: email
-      label: email
-      hint: null
+      label: Email
+      hint: Enter your email
       type: email
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 8
       name: phone
-      label: phone
-      hint: null
+      label: Phone Number
+      hint: Enter your phone number
       type: text
       options: []
-      required: false
+      required: true
+    - id: 9
+      name: confirm_payment_status
+      label: Confirm Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
     - id: 10
-      name: confirm
-      label: confirm
+      name: subscription_status
+      label: Subscription Status
       hint: null
       type: select_one
       options:
-      - 'True'
-      - 'False'
-      required: false
+      - Active
+      - Inactive
+      required: true
     - id: 11
-      name: confirm_note
-      label: confirm_note
+      name: confirm_phone
+      label: Confirm Phone Number
       hint: null
       type: select_one
       options:
-      - 'True'
-      - 'False'
-      required: false
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 12
       name: confirm_email
-      label: confirm_email
+      label: Confirm Email
       hint: null
       type: select_one
       options:
-      - 'True'
-      - 'False'
-      required: false
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 13
-      name: confirm_phone
-      label: confirm_phone
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 14
       name: confirm_date
-      label: confirm_date
+      label: Confirm Date of Service
       hint: null
       type: select_one
       options:
-      - 'True'
-      - 'False'
-      required: false
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: confirm_time
+      label: Confirm Time of Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 15
-      name: payment_status
-      label: payment_status
+      name: confirm_payment_method
+      label: Confirm Payment Method
       hint: null
       type: select_one
       options:
-      - Active
-      - Inactive
-      required: false
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 16
-      name: subscription_status
-      label: subscription_status
+      name: confirm_subscription_status
+      label: Confirm Subscription Status
       hint: null
       type: select_one
       options:
-      - Active
-      - Inactive
-      required: false
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 17
-      name: payment_method
-      label: payment_method
+      name: confirm_amount
+      label: Confirm Amount
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 18
-      name: payment_status
-      label: payment_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 19
-      name: subscription_status
-      label: subscription_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 20
-      name: payment_method
-      label: payment_method
+      name: confirm_note
+      label: Confirm Note
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 21
-      name: subscription_status
-      label: subscription_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 22
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: subscription_status
-      label: subscription_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 24
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: subscription_status
-      label: subscription_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
+      required: true

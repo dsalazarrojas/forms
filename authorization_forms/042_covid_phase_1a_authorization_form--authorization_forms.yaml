@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -83,11 +72,11 @@ inputSchema:
       hint: Which group are you in
       type: select_one
       options:
-        - Healthcare worker
-        - Long-term care facility resident
-        - Long-term care facility staff
-        - Emergency responder
-        - Other Phase 1A category
+      - Healthcare worker
+      - Long-term care facility resident
+      - Long-term care facility staff
+      - Emergency responder
+      - Other Phase 1A category
       required: true
     - id: 11
       name: phase1a_employment_verification
@@ -137,9 +126,9 @@ inputSchema:
       hint: Do you have a weakened immune system
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 18
       name: phase1a_pregnancy_nursing
@@ -147,10 +136,10 @@ inputSchema:
       hint: Current pregnancy or nursing status
       type: select_one
       options:
-        - Pregnant
-        - Nursing
-        - Neither
-        - Prefer Not to Say
+      - Pregnant
+      - Nursing
+      - Neither
+      - Prefer Not to Say
       required: false
     - id: 19
       name: phase1a_authorization_header
@@ -165,9 +154,9 @@ inputSchema:
       hint: You are requesting Phase 1A authorization
       type: select_one
       options:
-        - I seek authorization
-        - I am unsure
-        - I decline authorization
+      - I seek authorization
+      - I am unsure
+      - I decline authorization
       required: true
     - id: 21
       name: phase1a_understand_vaccine
@@ -175,9 +164,9 @@ inputSchema:
       hint: You understand vaccine benefits and risks
       type: select_one
       options:
-        - Yes, I understand
-        - I have questions
-        - No
+      - Yes, I understand
+      - I have questions
+      - 'False'
       required: true
     - id: 22
       name: phase1a_accept_risks
@@ -185,9 +174,9 @@ inputSchema:
       hint: You accept possible side effects
       type: select_one
       options:
-        - I accept the risks
-        - I have concerns
-        - I do not accept
+      - I accept the risks
+      - I have concerns
+      - I do not accept
       required: true
     - id: 23
       name: phase1a_certification_header
@@ -202,9 +191,9 @@ inputSchema:
       hint: All provided information is accurate
       type: select_one
       options:
-        - All information is truthful
-        - Some information needs revision
-        - I am uncertain
+      - All information is truthful
+      - Some information needs revision
+      - I am uncertain
       required: true
     - id: 25
       name: phase1a_authorization_date

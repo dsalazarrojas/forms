@@ -173,7 +173,7 @@ inputSchema:
       - Yes, always
       - Mostly
       - Sometimes
-      - false
+      - 'False'
       required: true
     - id: 19
       name: special_requests
@@ -199,8 +199,8 @@ inputSchema:
       hint: Has your insurance been verified
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not applicable
       required: true
     - id: 22
@@ -219,8 +219,8 @@ inputSchema:
       hint: Do you need transportation assistance
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: false
     - id: 24
       name: office_use_only

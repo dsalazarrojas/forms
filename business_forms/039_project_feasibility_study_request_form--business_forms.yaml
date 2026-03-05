@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''pending''}'
-      - '{''value'': ''canceled''}'
+      - active
+      - pending
+      - canceled
       required: false
     - id: 5
       name: project_priority
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''high''}'
-      - '{''value'': ''low''}'
+      - high
+      - low
       required: false
     - id: 6
       name: start_date

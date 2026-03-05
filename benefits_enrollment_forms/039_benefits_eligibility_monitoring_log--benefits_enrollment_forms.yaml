@@ -1,204 +1,193 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Benefits Eligibility Monitoring Log
     pages:
-      - id: 1
-        name: section_employee
-        label: -- Employee Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: employee_name
-        label: Employee Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: employee_id
-        label: Employee ID
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: date_of_birth
-        label: Date of Birth
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: employment_date
-        label: Employment Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: department
-        label: Department
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: section_review
-        label: -- Eligibility Review Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: review_date
-        label: Date of Eligibility Review
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 9
-        name: reviewer_name
-        label: Reviewer Name
-        hint: Person conducting review
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: review_reason
-        label: Reason for Review
-        hint: null
-        type: select_one
-        options:
-          - Scheduled Review
-          - Employment Change
-          - Life Event
-          - Status Change
-          - Annual Verification
-          - Other
-        required: true
-      - id: 11
-        name: section_eligibility
-        label: -- Current Eligibility Status --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: employment_status
-        label: Current Employment Status
-        hint: null
-        type: select_one
-        options:
-          - Full-Time
-          - Part-Time
-          - Temporary
-          - Contract
-          - On Leave
-          - Terminated
-        required: true
-      - id: 13
-        name: benefit_eligibility
-        label: Benefits Eligibility Status
-        hint: null
-        type: select_one
-        options:
-          - Eligible
-          - Not Yet Eligible
-          - Ineligible
-          - Suspended
-          - Under Review
-        required: true
-      - id: 14
-        name: waiting_period
-        label: In Waiting Period
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 15
-        name: waiting_period_end
-        label: Waiting Period End Date
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 16
-        name: section_findings
-        label: -- Review Findings --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: status_change
-        label: Any Status Changes Identified
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 18
-        name: status_change_description
-        label: Description of Change
-        hint: What changed during this review
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: action_required
-        label: Action Required
-        hint: null
-        type: select_one
-        options:
-          - None
-          - Update Records
-          - Send Notification
-          - Adjust Coverage
-          - Initiate Termination
-          - Other
-        required: true
-      - id: 20
-        name: action_description
-        label: Description of Required Action
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: section_followup
-        label: -- Follow-up --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 22
-        name: next_review_date
-        label: Scheduled Next Review Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 23
-        name: notes
-        label: Additional Notes
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: section_employee
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: employment_date
+      label: Employment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_review
+      label: -- Eligibility Review Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: review_date
+      label: Date of Eligibility Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Person conducting review
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: review_reason
+      label: Reason for Review
+      hint: null
+      type: select_one
+      options:
+      - Scheduled Review
+      - Employment Change
+      - Life Event
+      - Status Change
+      - Annual Verification
+      - Other
+      required: true
+    - id: 11
+      name: section_eligibility
+      label: -- Current Eligibility Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Temporary
+      - Contract
+      - On Leave
+      - Terminated
+      required: true
+    - id: 13
+      name: benefit_eligibility
+      label: Benefits Eligibility Status
+      hint: null
+      type: select_one
+      options:
+      - Eligible
+      - Not Yet Eligible
+      - Ineligible
+      - Suspended
+      - Under Review
+      required: true
+    - id: 14
+      name: waiting_period
+      label: In Waiting Period
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: waiting_period_end
+      label: Waiting Period End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: section_findings
+      label: -- Review Findings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: status_change
+      label: Any Status Changes Identified
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: status_change_description
+      label: Description of Change
+      hint: What changed during this review
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: action_required
+      label: Action Required
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Update Records
+      - Send Notification
+      - Adjust Coverage
+      - Initiate Termination
+      - Other
+      required: true
+    - id: 20
+      name: action_description
+      label: Description of Required Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_followup
+      label: -- Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: next_review_date
+      label: Scheduled Next Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

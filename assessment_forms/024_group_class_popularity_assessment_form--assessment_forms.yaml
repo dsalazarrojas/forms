@@ -40,10 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: preferred_time_of_day
@@ -119,11 +118,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 14
       name: staff_satisfaction
@@ -131,11 +128,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 15
       name: class_time_of_day
@@ -167,61 +162,53 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '30'
-      - '45'
-      - '60'
-      - '90'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 18
       name: class_frequency
-      label: Class Frequency
+      label: Class Frequency (2)
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      - '6'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 19
-      name: class_revenue
-      label: Class Revenue
+      name: class_revenue_2
+      label: Class Revenue 2
       hint: null
       type: number
       options: []
       required: false
     - id: 20
-      name: class_capacity
-      label: Class Capacity
+      name: class_capacity_2
+      label: Class Capacity 2
       hint: null
       type: number
       options: []
       required: false
     - id: 21
-      name: member_satisfaction
-      label: Member Satisfaction
+      name: member_satisfaction_2
+      label: Member Satisfaction 2
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 22
-      name: staff_satisfaction
-      label: Staff Satisfaction
+      name: staff_satisfaction_2
+      label: Staff Satisfaction 2
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 23
       name: member_preferences

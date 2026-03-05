@@ -44,10 +44,10 @@ inputSchema:
       hint: Which year?
       type: select_one
       options:
-      - 2026
-      - 2025
-      - 2024
-      - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       required: true
     - id: 7
       name: vehicle_owner
@@ -348,8 +348,8 @@ inputSchema:
       hint: Is follow-up needed?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 37
       name: reinspection_date

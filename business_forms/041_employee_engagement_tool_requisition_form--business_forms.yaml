@@ -6,110 +6,28 @@ inputSchema:
     - id: 1
       name: company_name
       label: Company Name
-      hint: null
+      hint: Please enter the name of the company making the request.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: employee_name
-      label: employee name
-      hint: null
+      label: Employee Name
+      hint: Please enter the name of the employee making the request.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: tool_request
       label: Tool Request
-      hint: null
+      hint: Please describe the tool or resource being requested.
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: category
       label: Category
-      hint: null
-      type: select_one
-      options:
-      - Business Forms
-      - Other
-      - IT
-      - Marketing
-      - Operations
-      - Finance
-      required: true
-    - id: 7
-      name: output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: output_date
-      label: Output Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: assigned_by
-      label: Assigned By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: status
-      label: Status
-      hint: null
-      type: select_one
-      options:
-      - Open
-      - In Progress
-      - Done
-      - Rejected
-      required: true
-    - id: 12
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: category
-      label: Category
-      hint: null
+      hint: Please select the category for this tool request.
       type: select_multiple
       options:
       - Business Forms
@@ -119,84 +37,30 @@ inputSchema:
       - Operations
       - Finance
       required: true
-    - id: 15
-      name: assigned_by
-      label: Assigned By
-      hint: null
+    - id: 5
+      name: status
+      label: Status
+      hint: Please select the status of the tool request.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
+      - Open
+      - In Progress
+      - Done
+      - Rejected
+      required: true
+    - id: 6
       name: submitted_date
       label: Submitted Date
-      hint: null
+      hint: When was the tool request submitted?
       type: date
       options: []
-      required: false
-    - id: 18
-      name: submitted_by
-      label: submitted_by
-      hint: null
+      required: true
+    - id: 7
+      name: assigned_by
+      label: Assigned By
+      hint: Is someone assigned to handle the tool request?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: assigned_by
-      label: assigned_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: false
+      - 'True'
+      - 'False'
+      required: true

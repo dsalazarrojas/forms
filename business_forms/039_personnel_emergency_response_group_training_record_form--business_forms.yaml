@@ -4,123 +4,100 @@ inputSchema:
     title: Personnel Emergency Response Group Training Record Form
     pages:
     - id: 1
-      name: personnel_emergency_response_group_training_record_form_1
-      label: ประก 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: personnel_emergency_response_group_training_record_form_2
-      label: Training Date
-      hint: null
+      name: training_date
+      label: What is the training date?
+      hint: Date of the training
       type: date
       options: []
-      required: false
-    - id: 3
-      name: personnel_emergency_response_group_training_record_form_3
-      label: Training Time
-      hint: null
+      required: true
+    - id: 2
+      name: training_time
+      label: What is the training time?
+      hint: Time of the training
       type: time
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: training_instructor
+      label: Who is the training instructor?
+      hint: Name of the training instructor
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: personnel_emergency_response_group_training_record_form_4
-      label: Training Instructor
-      hint: null
+      name: training_location
+      label: Where is the training location?
+      hint: Location of the training
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: personnel_emergency_response_group_training_record_form_5
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: training_type_single
+      label: What is the training type (single selection)?
+      hint: Select one option
+      type: select_one
+      options:
+      - Confine to Building/Room
+      - Emergency Response Training
+      - General Safety
+      - Hazardous Materials
+      - Rescue
+      required: true
     - id: 6
-      name: personnel_emergency_response_group_training_record_form_6
-      label: Training Location
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: training_type_yes_no
+      label: Is the training type 'Yes' or 'No'?
+      hint: Select one option
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 7
-      name: personnel_emergency_response_group_training_record_form_7
-      label: Training Location
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: training_type_multiple
+      label: What are the training types?
+      hint: Select multiple options
+      type: select_multiple
+      options:
+      - Confine to Building/Room
+      - Emergency Response Training
+      - General Safety
+      - Hazardous Materials
+      - Rescue
+      required: true
     - id: 8
-      name: personnel_emergency_response_group_training_record_form_8
-      label: Training Location
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: training_type_yes_no_multiple
+      label: Is the training 'Yes' or 'No'?
+      hint: Select multiple options
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 9
-      name: personnel_emergency_response_group_training_record_form_9
-      label: Training Location
-      hint: null
+      name: duplicate_location_1
+      label: Duplicate Location 1
+      hint: Location of the training
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: personnel_emergency_response_group_training_record_form_10
-      label: Training Location
-      hint: null
+      name: duplicate_location_2
+      label: What is the training location?
+      hint: Location of the training
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: personnel_emergency_response_group_training_record_form_11
-      label: Training Type
-      hint: null
-      type: select_one
-      options:
-      - Confine to Building/Room
-      - Emergency Response Training
-      - General Safety
-      - Hazardous Materials
-      - Rescue
-      required: false
+      name: duplicate_location_3
+      label: Training Location
+      hint: Location of the training
+      type: text
+      options: []
+      required: true
     - id: 12
-      name: personnel_emergency_response_group_training_record_form_12
-      label: Training Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: personnel_emergency_response_group_training_record_form_13
-      label: Training Type
-      hint: null
-      type: select_multiple
-      options:
-      - Confine to Building/Room
-      - Emergency Response Training
-      - General Safety
-      - Hazardous Materials
-      - Rescue
-      required: false
-    - id: 14
-      name: personnel_emergency_response_group_training_record_form_14
-      label: Training Type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: personnel_emergency_response_group_training_record_form_15
-      label: Training Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      name: duplicate_location_4
+      label: Duplicate Location 4
+      hint: Location of the training
+      type: text
+      options: []
+      required: true

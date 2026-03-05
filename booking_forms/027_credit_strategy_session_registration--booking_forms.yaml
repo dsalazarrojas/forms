@@ -11,182 +11,85 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: session_schedule
-      label: Schedule a Session
+      name: participant_count
+      label: Session Participants
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Fewer than 5
+      - 5 or more
       required: false
     - id: 3
-      name: session_participants
-      label: Session Participants
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
       name: participant_names
       label: Participant Names
-      hint: Enter participant names separated by commas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_roles
+      label: Participant Roles
+      hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: participant_roles
-      label: Participant Roles
-      hint: Enter participant roles separated by commas
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: schedule_date
+      name: session_date
       label: Schedule Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 7
-      name: schedule_time
+    - id: 6
+      name: session_time
       label: Session Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: session_notes
       label: Session Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 9
-      name: credit_strategies
-      label: Credit Strategies
+    - id: 8
+      name: credit_strategy
+      label: Credit Strategy
       hint: null
       type: select_multiple
       options:
       - Good
       - Fair
       required: false
-    - id: 10
-      name: credit_strategy_1
-      label: Credit Strategy 1
-      hint: Briefly describe the credit strategy
+    - id: 9
+      name: credit_strategy_description
+      label: Credit Strategy Description
+      hint: null
       type: text
       options: []
+      required: false
+    - id: 10
+      name: contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
       required: false
     - id: 11
-      name: credit_strategy_2
-      label: Credit Strategy 2
-      hint: Briefly describe the credit strategy
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: credit_strategy_3
-      label: Credit Strategy 3
-      hint: Briefly describe the credit strategy
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: submit
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: note
+      name: additional_notes
       label: Additional Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 17
-      name: no_field_1
-      label: None
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: no_field_2
-      label: None
+    - id: 12
+      name: submit
+      label: Submit
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
-      name: no_field_3
-      label: None
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: no_field_4
-      label: None
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: no_field_5
-      label: None
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: no_field_6
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: no_field_7
-      label: None
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: no_field_8
-      label: None
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: no_field_9
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

@@ -4,142 +4,97 @@ inputSchema:
     title: Tattoo Inquiry Form DTP
     pages:
     - id: 1
-      name: tattoo_inquiry_form_dtp
-      label: tattoo_inquiry_form_dtp
+      name: inquiry_purpose
+      label: What is the purpose of your inquiry?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Consultation
+      - Tattoo Design
+      - General Inquiry
       required: false
     - id: 2
       name: name
-      label: name
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: email
-      label: email
+      label: Please provide your email for contact
       hint: null
       type: email
       options: []
       required: true
     - id: 4
       name: phone
-      label: phone
+      label: What is your phone number?
       hint: null
       type: text
       options: []
       required: true
     - id: 5
       name: description
-      label: description
+      label: Describe your desired tattoo design or theme
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: tattoo_inquiry_form_dtp_description
-      label: tattoo_inquiry_form_dtp_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: date_of_birth
-      label: date_of_birth
+      label: What is your date of birth?
       hint: null
       type: date
       options: []
       required: true
+    - id: 7
+      name: consultation_or_appointment
+      label: Would you like to schedule a consultation or an appointment?
+      hint: null
+      type: select_one
+      options:
+      - Consultation
+      - Appointment
+      required: false
     - id: 8
-      name: date_of_birth_date
-      label: date_of_birth_date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 9
-      name: date_of_birth_time
-      label: date_of_birth_time
+      name: appointment_time
+      label: What time would you like to schedule the consultation or appointment?
       hint: null
       type: time
+      options: []
+      required: false
+    - id: 9
+      name: appointment_date
+      label: What date would you like to schedule the consultation or appointment?
+      hint: null
+      type: date
       options: []
       required: true
     - id: 10
-      name: date_of_death
-      label: date_of_death
+      name: appointment_availability
+      label: Please confirm if you are available at the scheduled time
       hint: null
-      type: date
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 11
-      name: date_of_death_date
-      label: date_of_death_date
+      name: date_of_death_information
+      label: Are there any specific dates of death or death-related information that
+        you would like to share?
       hint: null
-      type: date
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Other - please specify
       required: false
     - id: 12
-      name: date_of_death_time
-      label: date_of_death_time
+      name: comments
+      label: Do you have any further comments or questions?
       hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: date_of_death_date_of_death
-      label: date_of_death_date_of_death
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: date_of_death_date_of_death_date
-      label: date_of_death_date_of_death_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: date_of_death_date_of_death_time
-      label: date_of_death_date_of_death_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: date_of_death_date_of_death_date
-      label: date_of_death_date_of_death_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: date_of_death_date_of_death_time
-      label: date_of_death_date_of_death_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: date_of_death_date_of_death_date
-      label: date_of_death_date_of_death_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: date_of_death_date_of_death_date
-      label: date_of_death_date_of_death_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: date_of_death_date_of_death_date
-      label: date_of_death_date_of_death_date
-      hint: null
-      type: date
+      type: note
       options: []
       required: false

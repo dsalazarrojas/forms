@@ -23,11 +23,11 @@ inputSchema:
       hint: From 0 to 500,000
       type: select_one
       options:
-      - '{''label'': ''Under 50K''}'
-      - '{''label'': ''50K to 100K''}'
-      - '{''label'': ''100K to 150K''}'
-      - '{''label'': ''150K to 200K''}'
-      - '{''label'': ''200K+''}'
+      - Under 50K
+      - 50K to 100K
+      - 100K to 150K
+      - 150K to 200K
+      - 200K+
       required: false
     - id: 4
       name: savings_1
@@ -49,10 +49,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Checking''}'
-      - '{''label'': ''Savings''}'
-      - '{''label'': ''Investment''}'
-      - '{''label'': ''Retirement''}'
+      - Checking
+      - Savings
+      - Investment
+      - Retirement
       required: false
     - id: 7
       name: assets_2
@@ -60,9 +60,9 @@ inputSchema:
       hint: From 0 to 100
       type: select_multiple
       options:
-      - '{''label'': ''Less than 10K''}'
-      - '{''label'': ''10K to 20K''}'
-      - '{''label'': ''20K+''}'
+      - Less than 10K
+      - 10K to 20K
+      - 20K+
       required: false
     - id: 8
       name: financial_stress
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 10
       name: debt_2
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 11
       name: debt_3
@@ -95,8 +95,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 12
       name: debt_4
@@ -104,8 +104,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 13
       name: other_debt
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 14
       name: financial_independence
@@ -122,10 +122,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''20% or more''}'
-      - '{''label'': ''40-60%''}'
-      - '{''label'': ''70-80%''}'
-      - '{''label'': ''90%+''}'
+      - 20% or more
+      - 40-60%
+      - 70-80%
+      - 90%+
       required: false
     - id: 15
       name: risk_tolerance
@@ -154,8 +154,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''20% or more''}'
-      - '{''label'': ''40-60%''}'
-      - '{''label'': ''70-80%''}'
-      - '{''label'': ''90%+''}'
+      - 20% or more
+      - 40-60%
+      - 70-80%
+      - 90%+
       required: false

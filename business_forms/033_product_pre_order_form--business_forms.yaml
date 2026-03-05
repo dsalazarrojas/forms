@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''shipping_method_1'', ''value'': ''Ground''}'
-      - '{''name'': ''shipping_method_2'', ''value'': ''Two-Day''}'
-      - '{''name'': ''shipping_method_3'', ''value'': ''One-Day''}'
+      - Ground
+      - Two-Day
+      - One-Day
       required: false
     - id: 3
       name: payment_option
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''payment_option_1'', ''value'': ''Bank''}'
-      - '{''name'': ''payment_option_2'', ''value'': ''PayPal''}'
-      - '{''name'': ''payment_option_3'', ''value'': ''Cash''}'
+      - Bank
+      - PayPal
+      - Cash
       required: false
     - id: 4
       name: quantity

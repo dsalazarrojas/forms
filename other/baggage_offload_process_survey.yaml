@@ -1,186 +1,103 @@
 inputSchema:
   type: object
   properties:
-    title: Untitled Form
+    title: Baggage Offload Process Survey
     pages:
     - id: 1
-      name: baggage_offload_process_survey
-      label: Untitled Form
-      hint: null
-      type: integer
+      name: baggage_offload_process_description
+      label: Baggage Offload Process Description
+      hint: Brief description of the offload process.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: category
-      label: General
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: category_select_single
+      label: Category Selection (Single Option)
+      hint: Select one option for categorizing the offload process.
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
     - id: 3
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: category_select_multiple
+      label: Category Selection (Multiple Options)
+      hint: Select multiple options for categorizing the offload process.
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
     - id: 4
-      name: email
-      label: Email
-      hint: null
+      name: contact_email
+      label: Contact Information (Email)
+      hint: Please provide your email address.
       type: email
       options: []
-      required: false
+      required: true
     - id: 5
-      name: phone
-      label: Phone
-      hint: null
-      type: phone
+      name: contact_phone
+      label: Contact Information (Phone)
+      hint: Please provide your phone number.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: category
-      label: Category
-      hint: null
+      name: offload_process_type
+      label: Baggage Offload Process Type
+      hint: Please select the type of offload process.
       type: select_one
       options:
-      - A
-      - B
-      - C
+      - Option A
+      - Option B
+      - Option C
       required: true
     - id: 7
-      name: description
-      label: Description
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
+      name: frequency_offload
+      label: Frequency of Offload
+      hint: How frequently is the offload process performed?
+      type: select_one
       options:
-      - A
-      - B
-      - C
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 8
+      name: description_frequency
+      label: Description of Frequency
+      hint: Describe the frequency of the offload process in detail.
+      type: text
+      options: []
       required: true
     - id: 9
-      name: baggage_offload_process_survey
-      label: Baggage Offload Process Survey
-      hint: null
-      type: select_multiple
+      name: description_process
+      label: Description of Process Steps
+      hint: Describe the steps involved in the offload process in detail.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: baggage_offload_process_survey
-      label: Baggage Offload Process Survey
-      hint: null
-      type: select_one
+      name: location_offload
+      label: Location of Offload
+      hint: Please describe the location of the offload process.
+      type: text
       options: []
       required: true
     - id: 11
-      name: category
-      label: General
-      hint: null
+      name: responsible_offload
+      label: Responsible Individual or Team
+      hint: Please name the person or team responsible for the offload process.
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options: []
-      required: false
-    - id: 13
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
-      options: []
-      required: false
-    - id: 14
-      name: baggage_offload_process_survey
-      label: Baggage Offload Process Survey
-      hint: null
-      type: select_one
-      options: []
-      required: false
-    - id: 15
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options: []
-      required: false
-    - id: 18
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
-      options: []
-      required: false
-    - id: 19
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
-      options: []
-      required: false
-    - id: 21
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options: []
-      required: false
-    - id: 22
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
-      options: []
-      required: false
-    - id: 24
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options: []
-      required: false
-    - id: 25
-      name: category
-      label: Category
-      hint: null
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments or details about the offload process.
       type: text
       options: []
       required: false

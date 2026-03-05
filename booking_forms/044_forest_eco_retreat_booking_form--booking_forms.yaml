@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cottage''}'
-      - '{''id'': 2, ''label'': ''Hut''}'
-      - '{''id'': 3, ''label'': ''Cabin''}'
+      - Cottage
+      - Hut
+      - Cabin
       required: true
     - id: 7
       name: booking_date
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Adult''}'
-      - '{''id'': 2, ''label'': ''Child''}'
-      - '{''id'': 3, ''label'': ''Infant''}'
+      - Adult
+      - Child
+      - Infant
       required: true
     - id: 9
       name: room_number
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Credit Card''}'
-      - '{''id'': 2, ''label'': ''Cash''}'
-      - '{''id'': 3, ''label'': ''PayPal''}'
+      - Credit Card
+      - Cash
+      - PayPal
       required: true
     - id: 12
       name: payment_status
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Paid''}'
-      - '{''id'': 2, ''label'': ''Pending''}'
-      - '{''id'': 3, ''label'': ''Unpaid''}'
+      - Paid
+      - Pending
+      - Unpaid
       required: true
     - id: 13
       name: special_requests
@@ -119,8 +119,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: confirm_date

@@ -44,11 +44,11 @@ inputSchema:
       hint: Select from 1 to 5
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 7
       name: demographics
@@ -63,6 +63,6 @@ inputSchema:
       hint: Select yes to consent
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true

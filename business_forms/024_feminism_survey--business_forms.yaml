@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Female''}'
-      - '{''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: true
     - id: 3
       name: definition
@@ -33,11 +33,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Strongly Agree''}'
-      - '{''label'': ''Somewhat Agree''}'
-      - '{''label'': ''Neither Agree Nor Disagree''}'
-      - '{''label'': ''Somewhat Disagree''}'
-      - '{''label'': ''Strongly Disagree''}'
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree Nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
       required: true
     - id: 5
       name: personal_beliefs
@@ -52,11 +52,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Family''}'
-      - '{''label'': ''Friend''}'
-      - '{''label'': ''Media''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''None''}'
+      - Family
+      - Friend
+      - Media
+      - Other
+      - None
       required: false
     - id: 7
       name: action_plan
@@ -64,10 +64,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Tell Others''}'
-      - '{''label'': ''Educate Others''}'
-      - '{''label'': ''Support Other Women''}'
-      - '{''label'': ''None''}'
+      - Tell Others
+      - Educate Others
+      - Support Other Women
+      - None
       required: false
     - id: 8
       name: next_steps

@@ -5,49 +5,49 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: policy_amendment_compliance_verification_form
+      label: Form Title
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: organization
-      label: organization
+      label: Organization
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: policy_version
-      label: policy_version
+      label: Policy Version
       hint: null
       type: number
       options: []
       required: false
     - id: 4
       name: effective_date
-      label: effective_date
+      label: Effective Date
       hint: null
       type: date
       options: []
       required: false
     - id: 5
       name: review_date
-      label: review_date
+      label: Review Date
       hint: null
       type: date
       options: []
       required: false
     - id: 6
       name: comments
-      label: comments
+      label: Comments
       hint: null
       type: note
       options: []
       required: false
     - id: 7
-      name: approver
-      label: approver
+      name: approver_1
+      label: Approver 1
       hint: null
       type: select_one
       options:
@@ -56,8 +56,8 @@ inputSchema:
       - Approver3
       required: false
     - id: 8
-      name: approver
-      label: approver
+      name: approver_2
+      label: Approver 2
       hint: null
       type: select_one
       options:
@@ -66,8 +66,8 @@ inputSchema:
       - Approver3
       required: false
     - id: 9
-      name: approver
-      label: approver
+      name: approver_3
+      label: Approver 3
       hint: null
       type: select_one
       options:
@@ -76,38 +76,85 @@ inputSchema:
       - Approver3
       required: false
     - id: 10
-      name: approver_2
-      label: approver
+      name: approver_5
+      label: Approver 5 - Yes/No
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: approver_3
-      label: approver
+      name: approver_4
+      label: Approver 4 - Approver1, Approver2, or Approver3
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Approver1
+      - Approver2
+      - Approver3
       required: false
     - id: 12
-      name: approver_4
-      label: approver
+      name: approver_6
+      label: Approver 6 - Yes/No
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
-      name: approver_5
-      label: approver
+      name: approver_7
+      label: Approver 7 - Approver1 or Approver2
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Approver1
+      - Approver2
+      required: false
+    - id: 14
+      name: approver_8
+      label: Approver 8 - Approver1, Approver2, or Approver3
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 15
+      name: approver_9
+      label: Approver 9 - Approver1 or Approver3
+      hint: null
+      type: select_multiple
+      options:
+      - Approver1
+      - Approver3
+      required: false
+    - id: 16
+      name: approver_10
+      label: Approver 10 - Approver1 or Approver2
+      hint: null
+      type: select_multiple
+      options:
+      - Approver1
+      - Approver2
+      required: false
+    - id: 17
+      name: approver_11
+      label: Approver 11 - Approver1 or Approver2 or Approver3
+      hint: null
+      type: select_multiple
+      options:
+      - Approver1
+      - Approver2
+      - Approver3
+      required: false
+    - id: 18
+      name: approver_12
+      label: Approver 12 - Approver1 or Approver3
+      hint: null
+      type: select_multiple
+      options:
+      - Approver1
+      - Approver3
       required: false

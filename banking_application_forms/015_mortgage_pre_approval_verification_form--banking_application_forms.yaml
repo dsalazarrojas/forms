@@ -58,12 +58,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''700-799''}'
-      - '{''id'': 2, ''label'': ''800-849''}'
-      - '{''id'': 3, ''label'': ''850-899''}'
-      - '{''id'': 4, ''label'': ''900-949''}'
-      - '{''id'': 5, ''label'': ''950-999''}'
-      - '{''id'': 6, ''label'': ''1000 or higher''}'
+      - 700-799
+      - 800-849
+      - 850-899
+      - 900-949
+      - 950-999
+      - 1000 or higher
       required: false
     - id: 9
       name: credit_history
@@ -71,11 +71,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Less than 5 years''}'
-      - '{''id'': 2, ''label'': ''5-10 years''}'
-      - '{''id'': 3, ''label'': ''10-15 years''}'
-      - '{''id'': 4, ''label'': ''15-20 years''}'
-      - '{''id'': 5, ''label'': ''20 or more years''}'
+      - Less than 5 years
+      - 5-10 years
+      - 10-15 years
+      - 15-20 years
+      - 20 or more years
       required: true
     - id: 10
       name: employment_length
@@ -97,7 +97,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Co Applicant 1''}'
-      - '{''id'': 2, ''label'': ''Co Applicant 2''}'
-      - '{''id'': 3, ''label'': ''No Co Applicant''}'
+      - Co Applicant 1
+      - Co Applicant 2
+      - No Co Applicant
       required: false

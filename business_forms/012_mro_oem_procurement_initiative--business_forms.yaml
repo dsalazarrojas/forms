@@ -12,180 +12,97 @@
 inputSchema:
   type: object
   properties:
-    title: mro & oem procurement initiative
+    title: MRO & OEM Procurement Initiative
     pages:
     - id: 1
-      name: mro_and_oem_procurement_initiative_page_1
-      label: mro_and_oem_procurement_initiative
+      name: mro_oem_procurement_initiative_page_1
+      label: Overview of MRO and OEM Procurement Processes
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: mro_and_oem_procurement_initiative_page_2
-      label: mro_and_oem_procurement
+      name: mro_oem_procurement_initiative_page_2
+      label: Procurement Objectives and Goals
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: mro_and_oem_procurement_initiative_page_3
-      label: oem_procurement_initiative
+      name: mro_oem_procurement_initiative_page_3
+      label: Budget Allocation for MRO and OEM Procurement
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: mro_and_oem_procurement_initiative_page_4
-      label: mro_procurement_initiative
+      name: mro_oem_procurement_initiative_page_4
+      label: Supplier Selection Criteria
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Price
+      - Quality
+      - Delivery Time
+      required: true
     - id: 5
-      name: mro_and_oem_procurement_initiative_page_5
-      label: oem_procurement
+      name: mro_oem_procurement_initiative_page_5
+      label: Procurement Timelines and Deadlines
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 6
-      name: mro_and_oem_procurement_initiative_page_6
-      label: procurement_initiative
+      name: mro_oem_procurement_initiative_page_6
+      label: Procurement Budget Tracking
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: mro_and_oem_procurement_initiative_page_7
-      label: mro_oem
+      name: mro_oem_procurement_initiative_page_7
+      label: Additional Information
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 8
-      name: mro_and_oem_procurement_initiative_page_8
-      label: mro
+      name: mro_oem_procurement_initiative_page_8
+      label: Supplier Details
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Supplier 1
+      - Supplier 2
+      - Supplier 3
       required: false
     - id: 9
-      name: mro_and_oem_procurement_initiative_page_9
-      label: and
+      name: mro_oem_procurement_initiative_page_9
+      label: Contact Information
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 10
-      name: mro_and_oem_procurement_initiative_page_10
-      label: oem
+      name: mro_oem_procurement_initiative_page_10
+      label: Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: mro_and_oem_procurement_initiative_page_11
-      label: procurement
+      name: mro_oem_procurement_initiative_page_11
+      label: Attachments
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: mro_and_oem_procurement_initiative_page_12
-      label: init
+      name: mro_oem_procurement_initiative_page_12
+      label: Review and Approval
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: mro_and_oem_procurement_initiative_page_13
-      label: i
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: mro_and_oem_procurement_initiative_page_14
-      label: n
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: mro_and_oem_procurement_initiative_page_15
-      label: t
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: mro_and_oem_procurement_initiative_page_16
-      label: t
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: mro_and_oem_procurement_initiative_page_17
-      label: i
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: mro_and_oem_procurement_initiative_page_18
-      label: v
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: mro_and_oem_procurement_initiative_page_19
-      label: e
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: mro_and_oem_procurement_initiative_page_20
-      label: t
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: mro_and_oem_procurement_initiative_page_21
-      label: i
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: mro_and_oem_procurement_initiative_page_22
-      label: v
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: mro_and_oem_procurement_initiative_page_23
-      label: e
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: mro_and_oem_procurement_initiative_page_24
-      label: n
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: mro_and_oem_procurement_initiative_page_25
-      label: i
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true

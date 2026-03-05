@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Adult''}'
-      - '{''id'': 2, ''label'': ''Senior''}'
-      - '{''id'': 3, ''label'': ''Pediatric''}'
+      - Adult
+      - Senior
+      - Pediatric
       required: true
     - id: 4
       name: gender
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 5
       name: question_1
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''The primary care refers to'', ''hint'': None}'
-      - '{''id'': 2, ''label'': ''The primary care includes'', ''hint'': None}'
-      - '{''id'': 3, ''label'': ''The primary care is the'', ''hint'': None}'
+      - The primary care refers to
+      - The primary care includes
+      - The primary care is the
       required: false
     - id: 6
       name: question_2
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''The primary care goal is'', ''hint'': None}'
-      - '{''id'': 2, ''label'': ''The primary care goal includes'', ''hint'': None}'
-      - '{''id'': 3, ''label'': ''The primary care goal is to'', ''hint'': None}'
+      - The primary care goal is
+      - The primary care goal includes
+      - The primary care goal is to
       required: false
     - id: 7
       name: question_3
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 2}'
-      - '{''id'': 2, ''label'': 4}'
-      - '{''id'': 3, ''label'': 8}'
+      - '2'
+      - '4'
+      - '8'
       required: false
     - id: 15
       name: question_7

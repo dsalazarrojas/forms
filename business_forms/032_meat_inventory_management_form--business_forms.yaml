@@ -4,14 +4,14 @@ inputSchema:
     title: Meat Inventory Management Form
     pages:
     - id: 1
-      name: meat_stock
+      name: current_stock
       label: Current Stock
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: meat_suppliers
+      name: suppliers
       label: Suppliers
       hint: null
       type: select_multiple
@@ -38,17 +38,17 @@ inputSchema:
       - Jane Smith
       required: false
     - id: 5
-      name: product_name
-      label: Product Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: purchase_price
       label: Purchase Price
       hint: null
       type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
       options: []
       required: false
     - id: 7
@@ -66,147 +66,18 @@ inputSchema:
       options: []
       required: true
     - id: 9
-      name: stock_levels
-      label: Stock Levels
-      hint: null
-      type: select_multiple
-      options:
-      - High prophets
-      - Low prophets
-      required: false
-    - id: 10
-      name: stock_levels
-      label: Stock Levels
-      hint: null
-      type: select_multiple
-      options:
-      - High prophets
-      - Low prophets
-      required: false
-    - id: 11
-      name: stock_levels
-      label: Stock Levels
-      hint: null
-      type: select_multiple
-      options:
-      - High prophets
-      - Low prophets
-      required: false
-    - id: 12
-      name: stock_levels
-      label: Stock Levels
-      hint: null
-      type: select_multiple
-      options:
-      - High prophets
-      - Low prophets
-      required: false
-    - id: 13
-      name: meat_stock
-      label: Current Stock
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: stock_levels
-      label: Stock Levels
-      hint: null
-      type: select_multiple
-      options:
-      - High prophets
-      - Low prophets
-      required: false
-    - id: 15
-      name: stock_levels
-      label: Stock Levels
-      hint: null
-      type: select_multiple
-      options:
-      - High prophets
-      - Low prophets
-      required: false
-    - id: 16
-      name: stock_levels
-      label: Stock Levels
-      hint: null
-      type: select_multiple
-      options:
-      - High prophets
-      - Low prophets
-      required: false
-    - id: 17
-      name: stock_levels
-      label: Stock Levels
-      hint: null
-      type: select_multiple
-      options:
-      - High prophets
-      - Low prophets
-      required: false
-    - id: 18
-      name: stock_levels
-      label: Stock Levels
-      hint: null
-      type: select_multiple
-      options:
-      - High prophets
-      - Low prophets
-      required: false
-    - id: 19
-      name: stock_levels
-      label: Stock Levels
-      hint: null
-      type: select_multiple
-      options:
-      - High prophets
-      - Low prophets
-      required: false
-    - id: 20
-      name: stock_levels
-      label: Stock Levels
-      hint: null
-      type: select_multiple
-      options:
-      - High prophets
-      - Low prophets
-      required: false
-    - id: 21
-      name: stock_levels
-      label: Stock Levels
-      hint: null
-      type: select_multiple
-      options:
-      - High prophets
-      - Low prophets
-      required: false
-    - id: 22
       name: stock_prophet
       label: Stock Prophet
       hint: null
       type: number
       options: []
       required: true
-    - id: 23
-      name: stock_prophet
-      label: Stock Prophet
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
+    - id: 10
       name: stock_levels
       label: Stock Levels
       hint: null
       type: select_multiple
       options:
-      - High prophets
-      - Low prophets
-      required: false
-    - id: 25
-      name: stock_prophet
-      label: Stock Prophet
-      hint: null
-      type: number
-      options: []
+      - High
+      - Low
       required: false

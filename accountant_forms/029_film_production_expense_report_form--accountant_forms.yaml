@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Movie''}'
-      - '{''id'': 2, ''label'': ''Commercial''}'
-      - '{''id'': 3, ''label'': ''TV Show''}'
+      - Movie
+      - Commercial
+      - TV Show
       required: false
     - id: 2
       name: project_start_date
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Equipment Hire''}'
-      - '{''id'': 2, ''label'': ''Location''}'
-      - '{''id'': 3, ''label'': ''Talent''}'
-      - '{''id'': 4, ''label'': ''Catering''}'
+      - Equipment Hire
+      - Location
+      - Talent
+      - Catering
       required: false
     - id: 6
       name: total_expense
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Pre-Production''}'
-      - '{''id'': 2, ''label'': ''Production''}'
-      - '{''id'': 3, ''label'': ''Post-Production''}'
+      - Pre-Production
+      - Production
+      - Post-Production
       required: false
     - id: 10
       name: description
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In Progress''}'
-      - '{''id'': 2, ''label'': ''Completed''}'
-      - '{''id'': 3, ''label'': ''Canceled''}'
+      - In Progress
+      - Completed
+      - Canceled
       required: false
     - id: 19
       name: assigned_to
@@ -148,9 +148,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Accountant''}'
-      - '{''id'': 2, ''label'': ''Producer''}'
-      - '{''id'': 3, ''label'': ''Project Manager''}'
+      - Accountant
+      - Producer
+      - Project Manager
       required: false
     - id: 20
       name: submitted
@@ -165,9 +165,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not Approved''}'
-      - '{''id'': 2, ''label'': ''Approved''}'
-      - '{''id'': 3, ''label'': ''Rejected''}'
+      - Not Approved
+      - Approved
+      - Rejected
       required: false
     - id: 22
       name: reviewer
@@ -175,9 +175,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Accountant''}'
-      - '{''id'': 2, ''label'': ''Producer''}'
-      - '{''id'': 3, ''label'': ''Project Manager''}'
+      - Accountant
+      - Producer
+      - Project Manager
       required: false
     - id: 23
       name: review_status
@@ -185,9 +185,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not Reviewed''}'
-      - '{''id'': 2, ''label'': ''Reviewed''}'
-      - '{''id'': 3, ''label'': ''In Progress''}'
+      - Not Reviewed
+      - Reviewed
+      - In Progress
       required: false
     - id: 24
       name: review_date
@@ -202,7 +202,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Accountant''}'
-      - '{''id'': 2, ''label'': ''Producer''}'
-      - '{''id'': 3, ''label'': ''Project Manager''}'
+      - Accountant
+      - Producer
+      - Project Manager
       required: false

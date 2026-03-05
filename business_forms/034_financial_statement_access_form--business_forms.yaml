@@ -4,14 +4,14 @@ inputSchema:
     title: Financial Statement Access Form
     pages:
     - id: 1
-      name: financial_statement_access_form_1
+      name: request_access
       label: Request Access
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: financial_statement_access_form_2
+      name: financial_documents
       label: Financial Documents
       hint: null
       type: select_multiple
@@ -21,7 +21,7 @@ inputSchema:
       - Financial Documents 3
       required: true
     - id: 3
-      name: financial_statement_access_form_3
+      name: access_level
       label: Access Level
       hint: null
       type: select_one
@@ -31,35 +31,35 @@ inputSchema:
       - Medium
       required: false
     - id: 4
-      name: financial_statement_access_form_4
+      name: request_reason
       label: Request Reason
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: financial_statement_access_form_5
+      name: contact_info
       label: Contact Information
       hint: null
       type: email
       options: []
       required: true
     - id: 6
-      name: financial_statement_access_form_6
+      name: phone_number
       label: Phone Number
       hint: null
       type: text
       options: []
       required: true
     - id: 7
-      name: financial_statement_access_form_7
+      name: additional_info
       label: Additional Information
       hint: null
       type: note
       options: []
       required: false
     - id: 8
-      name: financial_statement_access_form_8
+      name: acceptance
       label: Acceptance
       hint: null
       type: select_one
@@ -69,120 +69,71 @@ inputSchema:
       - Pending
       required: false
     - id: 9
-      name: financial_statement_access_form_9
+      name: request_date
       label: Request Date
       hint: null
       type: date
       options: []
       required: true
     - id: 10
-      name: financial_statement_access_form_10
+      name: access_granted_date
       label: Access Granted Date
       hint: null
       type: date
       options: []
       required: false
     - id: 11
-      name: financial_statement_access_form_11
+      name: access_level_hint
       label: Access Level Hint
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: financial_statement_access_form_12
+      name: request_reason_hint
       label: Request Reason Hint
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: financial_statement_access_form_13
+      name: contact_info_hint
       label: Contact Information Hint
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: financial_statement_access_form_14
+      name: phone_number_hint
       label: Phone Number Hint
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: financial_statement_access_form_15
+      name: additional_info_hint
       label: Additional Information Hint
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: financial_statement_access_form_16
+      name: acceptance_hint
       label: Acceptance Hint
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: financial_statement_access_form_17
+      name: request_date_hint
       label: Request Date Hint
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: financial_statement_access_form_18
+      name: access_granted_date_hint
       label: Access Granted Date Hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: financial_statement_access_form_19
-      label: Access Level Hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: financial_statement_access_form_20
-      label: Financial Documents Hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: financial_statement_access_form_21
-      label: Acceptance Hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: financial_statement_access_form_22
-      label: Access Level
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: financial_statement_access_form_23
-      label: Request Reason Hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: financial_statement_access_form_24
-      label: Contact Information Hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: financial_statement_access_form_25
-      label: Phone Number Hint
       hint: null
       type: text
       options: []

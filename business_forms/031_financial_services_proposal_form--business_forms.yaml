@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: submission_date
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: financial_institutions
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
       name: financial_services_proposal
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: notes
@@ -93,26 +93,26 @@ inputSchema:
       options: []
       required: false
     - id: 12
-      name: submission_date
-      label: Submission Date
+      name: submission_date_2
+      label: Submission Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 13
-      name: submission_time
-      label: Submission Time
+      name: submission_time_2
+      label: Submission Time 2
       hint: null
       type: time
       options: []
       required: false
     - id: 14
-      name: financial_advisors
-      label: Financial Advisors
+      name: financial_advisors_2
+      label: Financial Advisors 2
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Rollup''}'
-      - '{''id'': 2, ''name'': ''Banner''}'
-      - '{''id'': 3, ''name'': ''Poster''}'
+      - Rollup
+      - Banner
+      - Poster
       required: false
     - id: 3
       name: print_area
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Paper A''}'
-      - '{''id'': 2, ''name'': ''Paper B''}'
-      - '{''id'': 3, ''name'': ''Paper C''}'
+      - Paper A
+      - Paper B
+      - Paper C
       required: false
     - id: 5
       name: quantity
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Gloss''}'
-      - '{''id'': 2, ''name'': ''Matte''}'
-      - '{''id'': 3, ''name'': ''Semi-gloss''}'
+      - Gloss
+      - Matte
+      - Semi-gloss
       required: false
     - id: 7
       name: material
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Paper''}'
-      - '{''id'': 2, ''name'': ''Vinyl''}'
-      - '{''id'': 3, ''name'': ''Banner''}'
+      - Paper
+      - Vinyl
+      - Banner
       required: false
     - id: 8
       name: color
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Red''}'
-      - '{''id'': 2, ''name'': ''Blue''}'
-      - '{''id'': 3, ''name'': ''Yellow''}'
+      - Red
+      - Blue
+      - Yellow
       required: false
     - id: 9
       name: quantity_per_unit
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''inches''}'
-      - '{''id'': 2, ''name'': ''feet''}'
-      - '{''id'': 3, ''name'': ''yards''}'
+      - inches
+      - feet
+      - yards
       required: false
     - id: 11
       name: special_instructions
@@ -104,9 +104,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: false
     - id: 13
       name: date_needed
@@ -170,9 +170,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''PDF''}'
-      - '{''id'': 2, ''name'': ''DOCX''}'
-      - '{''id'': 3, ''name'': ''TXT''}'
+      - PDF
+      - DOCX
+      - TXT
       required: false
     - id: 22
       name: file_size
@@ -187,9 +187,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''GB''}'
-      - '{''id'': 2, ''name'': ''MB''}'
-      - '{''id'': 3, ''name'': ''KB''}'
+      - GB
+      - MB
+      - KB
       required: false
     - id: 24
       name: comments

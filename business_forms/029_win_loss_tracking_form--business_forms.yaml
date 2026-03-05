@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Won''}'
-      - '{''id'': 2, ''label'': ''Lost''}'
-      - '{''id'': 3, ''label'': ''No Decision''}'
+      - Won
+      - Lost
+      - No Decision
       required: true
     - id: 3
       name: sales_outcome_details
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Lead''}'
-      - '{''id'': 2, ''label'': ''Demo''}'
-      - '{''id'': 3, ''label'': ''Closed''}'
+      - Lead
+      - Demo
+      - Closed
       required: true
     - id: 5
       name: sales_person
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Lead''}'
-      - '{''id'': 2, ''label'': ''Demo''}'
-      - '{''id'': 3, ''label'': ''Closed''}'
+      - Lead
+      - Demo
+      - Closed
       required: false
     - id: 10
       name: outcome_date
@@ -130,11 +130,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''New Lead''}'
-      - '{''id'': 2, ''label'': ''Qualified''}'
-      - '{''id'': 3, ''label'': ''Disqualified''}'
-      - '{''id'': 4, ''label'': ''Qualified for Demo''}'
-      - '{''id'': 5, ''label'': ''Closed''}'
+      - New Lead
+      - Qualified
+      - Disqualified
+      - Qualified for Demo
+      - Closed
       required: true
     - id: 18
       name: win_loss_account_manager
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      - Active
+      - Inactive
+      - Not Applicable
       required: false
     - id: 20
       name: win_loss_owner
@@ -166,9 +166,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      - Active
+      - Inactive
+      - Not Applicable
       required: true
     - id: 22
       name: win_loss_last_updated
@@ -190,9 +190,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      - Active
+      - Inactive
+      - Not Applicable
       required: false
     - id: 25
       name: win_loss_next_action

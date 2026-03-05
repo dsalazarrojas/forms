@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''morning'', ''label'': ''Morning''}'
-      - '{''id'': 2, ''name'': ''afternoon'', ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''name'': ''evening'', ''label'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 6
       name: session_duration
@@ -103,8 +103,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''morning'', ''label'': ''Morning''}'
-      - '{''id'': 2, ''name'': ''afternoon'', ''label'': ''Afternoon''}'
+      - Morning
+      - Afternoon
       required: false
     - id: 15
       name: admin_details
@@ -168,9 +168,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pending'', ''label'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''approved'', ''label'': ''Approved''}'
-      - '{''id'': 3, ''name'': ''cancelled'', ''label'': ''Cancelled''}'
+      - Pending
+      - Approved
+      - Cancelled
       required: false
     - id: 24
       name: session_start_time

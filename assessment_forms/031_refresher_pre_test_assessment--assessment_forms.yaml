@@ -5,205 +5,145 @@ inputSchema:
     pages:
     - id: 1
       name: pre_test_question_1
-      label: What is your current level of confidence with this topic?
-      hint: null
+      label: Current Confidence Level
+      hint: Please describe your level of confidence (e.g., high, medium, low)
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: pre_test_question_2
-      label: How many years of experience do you have with this topic?
-      hint: null
+      label: Years of Experience
+      hint: Please enter the number of years
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
       name: pre_test_question_3
-      label: What is your primary source of information for this topic?
-      hint: null
+      label: Primary Source of Information
+      hint: Please select your primary source
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
     - id: 4
       name: pre_test_question_4
-      label: How often do you use this topic in your work?
-      hint: null
+      label: Frequency of Use
+      hint: Please select how often you use this topic
       type: select_multiple
       options:
-      - option1
-      - option2
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
     - id: 5
-      name: expected_outcome_1
-      label: What do you expect this workshop to cover?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: expected_outcome_2
-      label: What skills or knowledge do you think you will gain from the workshop?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: pre_test_question_5
-      label: How many hours of instruction will you need to reach your goal?
-      hint: null
+      label: Expected Outcomes
+      hint: Please describe your expectations
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pre_test_question_6
+      label: Expected Skills or Knowledge
+      hint: Please list your expected skills or knowledge
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pre_test_question_7
+      label: Hours of Instruction Needed
+      hint: Please enter the number of hours
       type: number
       options: []
-      required: false
+      required: true
     - id: 8
-      name: pre_test_question_6
-      label: What is your expected date of completion for this goal?
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: pre_test_question_7
-      label: What is your expected completion status of this goal?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 10
       name: pre_test_question_8
-      label: What is your expected completion status of this goal?
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 11
+      label: Expected Date of Completion
+      hint: Please enter the date in YYYY-MM-DD format
+      type: date
+      options: []
+      required: true
+    - id: 9
       name: pre_test_question_9
-      label: What is the date of your expected completion status of this goal?
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
+      label: Expected Completion Status
+      hint: Please select your expected completion status
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 10
       name: pre_test_question_10
-      label: What is your expected completion status of this goal?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 13
+      label: Expected Date of Completion Status
+      hint: Please enter the date in YYYY-MM-DD format
+      type: date
+      options: []
+      required: true
+    - id: 11
       name: pre_test_question_11
-      label: What is your expected completion status of this goal?
-      hint: null
+      label: Pre Test Question 11
+      hint: Please select your expected skills or knowledge
       type: select_multiple
       options:
-      - option1
-      - option2
-      required: false
-    - id: 14
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
       name: pre_test_question_12
-      label: What is the date of your expected completion status of this goal?
-      hint: null
-      type: time
+      label: Expected Duration
+      hint: Please enter the number of weeks or months
+      type: number
       options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 13
       name: pre_test_question_13
-      label: What is your expected completion status of this goal?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 16
+      label: Expected Budget
+      hint: Please enter the budget in dollars
+      type: number
+      options: []
+      required: true
+    - id: 14
       name: pre_test_question_14
-      label: What is your expected completion status of this goal?
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 17
+      label: Expected Location
+      hint: Please describe your expected location
+      type: text
+      options: []
+      required: true
+    - id: 15
       name: pre_test_question_15
-      label: What is the date of your expected completion status of this goal?
-      hint: null
+      label: Expected Start Date
+      hint: Please enter the date in YYYY-MM-DD format
       type: date
       options: []
-      required: false
-    - id: 18
+      required: true
+    - id: 16
       name: pre_test_question_16
-      label: What is your expected completion status of this goal?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 19
-      name: pre_test_question_17
-      label: What is your expected completion status of this goal?
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 20
-      name: pre_test_question_18
-      label: What is the date of your expected completion status of this goal?
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: pre_test_question_19
-      label: What is your expected completion status of this goal?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 22
-      name: pre_test_question_20
-      label: What is your expected completion status of this goal?
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 23
-      name: pre_test_question_21
-      label: What is the date of your expected completion status of this goal?
-      hint: null
+      label: Expected Completion Date
+      hint: Please enter the date in YYYY-MM-DD format
       type: date
       options: []
-      required: false
-    - id: 24
-      name: pre_test_question_22
-      label: What is your expected completion status of this goal?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 25
-      name: pre_test_question_23
-      label: What is your expected completion status of this goal?
-      hint: null
+      required: true
+    - id: 17
+      name: pre_test_question_17
+      label: Expected Method of Completion
+      hint: Please select your expected method of completion
       type: select_multiple
       options:
-      - option1
-      - option2
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 18
+      name: pre_test_question_18
+      label: Expected Outcome
+      hint: Please select your expected outcome
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true

@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''User 1''}'
-      - '{''value'': ''User 2''}'
+      - User 1
+      - User 2
       required: false
     - id: 6
       name: comments
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Rejected''}'
+      - Pending
+      - Approved
+      - Rejected
       required: false
     - id: 8
       name: retention_status
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Completed''}'
+      - Active
+      - Pending
+      - Completed
       required: false
     - id: 9
       name: approval_status
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Rejected''}'
+      - Pending
+      - Approved
+      - Rejected
       required: false
     - id: 10
       name: record_retention_policy

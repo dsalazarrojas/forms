@@ -5,116 +5,96 @@ inputSchema:
     pages:
     - id: 1
       name: project_plan_upload_form_page_1
-      label: Project Plan Upload
+      label: What is the project name?
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 2
       name: project_plan_upload_form_page_2
-      label: Project Plan Details
+      label: Project description
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 3
       name: project_plan_upload_form_page_3
-      label: project_plan_upload_date
+      label: Project start date
       hint: null
       type: date
       options: []
-      required: true
+      required: false
     - id: 4
       name: project_plan_upload_form_page_4
-      label: Project Plan Upload
+      label: Project end date
       hint: null
-      type: number
+      type: date
       options: []
-      required: true
+      required: false
     - id: 5
       name: project_plan_upload_form_page_5
-      label: Project Plan Upload
+      label: Select project status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On-hold
+      - Canceled
+      required: false
+    - id: 6
+      name: project_plan_upload_form_page_6
+      label: Choose relevant teams
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      - Team D
+      required: false
+    - id: 7
+      name: project_plan_upload_form_page_7
+      label: Upload project plan document
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
-      name: project_plan_upload_form_page_6
-      label: Project Plan Upload
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 7
-      name: project_plan_upload_form_page_7
-      label: Project Plan Upload
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      required: true
     - id: 8
       name: project_plan_upload_form_page_8
-      label: Project Plan Upload
+      label: Project manager email
       hint: null
-      type: text
+      type: email
       options: []
       required: false
     - id: 9
       name: project_plan_upload_form_page_9
-      label: Project Plan Upload
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 10
-      name: project_plan_upload_form_page_10
-      label: Project Plan Upload
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: project_plan_upload_form_page_11
-      label: Project Plan Upload
+      label: Project budget
       hint: null
       type: number
       options: []
-      required: true
-    - id: 12
-      name: project_plan_upload_form_page_12
-      label: Project Plan Upload
+      required: false
+    - id: 10
+      name: project_plan_upload_form_page_10
+      label: Additional notes
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: project_plan_upload_form_page_13
-      label: Project Plan Upload
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: project_plan_upload_form_page_14
-      label: Project Plan Upload
+    - id: 11
+      name: project_plan_upload_form_page_11
+      label: Expected completion date
       hint: null
       type: date
       options: []
       required: false
-    - id: 15
-      name: project_plan_upload_form_page_15
-      label: Project Plan Upload
+    - id: 12
+      name: project_plan_upload_form_page_12
+      label: Select project type
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
+      - Type A
+      - Type B
+      - Type C
+      required: false

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 0.25}'
-      - '{''label'': 0.5}'
-      - '{''label'': 0.75}'
+      - '0.25'
+      - '0.5'
+      - '0.75'
       required: false
     - id: 5
       name: mileage_start_location
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Car''}'
-      - '{''label'': ''Gas''}'
-      - '{''label'': ''Meals''}'
+      - Car
+      - Gas
+      - Meals
       required: false
     - id: 11
       name: expense_subcategory
@@ -85,19 +85,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Other''}'
-      - '{''label'': ''Food''}'
-      - '{''label'': ''Transportation''}'
+      - Other
+      - Food
+      - Transportation
       required: false
     - id: 12
       name: expense_rate
-      label: Rate
+      label: Expense Rate
       hint: null
       type: select_one
       options:
-      - '{''label'': 0.25}'
-      - '{''label'': 0.5}'
-      - '{''label'': 0.75}'
+      - '0.25'
+      - '0.5'
+      - '0.75'
       required: false
     - id: 13
       name: expense_amount_total
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Approved''}'
-      - '{''label'': ''Reimbursed''}'
-      - '{''label'': ''Rejected''}'
+      - Approved
+      - Reimbursed
+      - Rejected
       required: false
     - id: 15
       name: user_signature
@@ -174,14 +174,14 @@ inputSchema:
       required: false
     - id: 23
       name: date
-      label: Date
+      label: Date (2)
       hint: null
       type: date
       options: []
       required: false
     - id: 24
       name: rate
-      label: Rate
+      label: Rate (3)
       hint: null
       type: number
       options: []

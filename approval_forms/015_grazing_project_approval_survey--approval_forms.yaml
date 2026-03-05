@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''cattle''}'
-      - '{''value'': ''sheep''}'
-      - '{''value'': ''goats''}'
-      - '{''value'': ''horses''}'
-      - '{''value'': ''other''}'
+      - cattle
+      - sheep
+      - goats
+      - horses
+      - other
       required: false
     - id: 6
       name: project_location_details
@@ -63,10 +63,10 @@ inputSchema:
       hint: Enter the names of the reviewers.
       type: select_multiple
       options:
-      - '{''value'': ''land_manager''}'
-      - '{''value'': ''agency''}'
-      - '{''value'': ''ag_organization''}'
-      - '{''value'': ''other''}'
+      - land manager
+      - agency
+      - ag organization
+      - other
       required: false
     - id: 9
       name: project_notes

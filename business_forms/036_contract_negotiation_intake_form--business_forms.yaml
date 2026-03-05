@@ -156,8 +156,8 @@ inputSchema:
       hint: Is budget allocated?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Pending
       required: true
     - id: 18
@@ -204,7 +204,7 @@ inputSchema:
       options:
       - Yes, full review
       - Yes, limited review
-      - false
+      - 'False'
       required: true
     - id: 23
       name: urgency_level

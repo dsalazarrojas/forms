@@ -5,35 +5,63 @@ inputSchema:
     pages:
     - id: 1
       name: driver_details
-      label: driver_details
+      label: Full Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: vehicle_experience
-      label: vehicle_experience
+      name: vehicle_info
+      label: Vehicle Information
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: accident_history
-      label: accident_history
+      name: vehicle_maintenance
+      label: Vehicle Maintenance
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: vehicle_use
-      label: vehicle_use
+      name: previous_employers
+      label: Previous Employers
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 5
-      name: driving_license_status
-      label: driving_license_status
+      name: risk_evaluation
+      label: Risk Evaluation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_use
+      label: Vehicle Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_insurance
+      label: Vehicle Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: driver_license_status
+      label: Driver's License Status
       hint: null
       type: select_one
       options:
@@ -42,158 +70,23 @@ inputSchema:
       - Suspended
       - Revoked
       required: true
-    - id: 6
-      name: previous_employers
-      label: previous_employers
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 7
-      name: incident_details
-      label: incident_details
+    - id: 10
+      name: additional_info_1
+      label: Additional Information 1
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: vehicle_maintenance
-      label: vehicle_maintenance
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: vehicle_maintenance_frequency
-      label: vehicle_maintenance_frequency
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: vehicle_insurance
-      label: vehicle_insurance
-      hint: null
-      type: select_multiple
-      options:
-      - option4
-      - option5
-      - option6
-      required: false
     - id: 11
-      name: vehicle_insurance_provider
-      label: vehicle_insurance_provider
+      name: additional_info_2
+      label: Additional Information 2
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: vehicle_insurance_provider_address
-      label: vehicle_insurance_provider
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: vehicle_insurance_provider_address_2
-      label: vehicle_insurance_provider_address_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: risk_evaluation
-      label: risk_evaluation
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: risk_evaluation_frequency
-      label: risk_evaluation_frequency
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: vehicle_use_2
-      label: vehicle_use_2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: driving_license_status_2
-      label: driving_license_status_2
-      hint: null
-      type: select_one
-      options:
-      - Full
-      - Probation
-      - Suspended
-      - Revoked
-      required: false
-    - id: 18
-      name: previous_employers_2
-      label: previous_employers_2
-      hint: null
-      type: select_multiple
-      options:
-      - option7
-      - option8
-      - option9
-      required: false
-    - id: 19
-      name: incident_details_2
-      label: incident_details_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: vehicle_maintenance_2
-      label: vehicle_maintenance_2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: vehicle_maintenance_frequency_2
-      label: vehicle_maintenance_frequency_2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: vehicle_insurance_2
-      label: vehicle_insurance_2
-      hint: null
-      type: select_multiple
-      options:
-      - option10
-      - option11
-      - option12
-      required: false
-    - id: 23
-      name: vehicle_insurance_provider_2
-      label: vehicle_insurance_provider_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: vehicle_insurance_provider_address_2
-      label: vehicle_insurance_provider_address_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: vehicle_insurance_provider_address_2
-      label: vehicle_insurance_provider_address_2
+      name: additional_info_3
+      label: Additional Information 3
       hint: null
       type: text
       options: []

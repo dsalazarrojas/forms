@@ -4,80 +4,83 @@ inputSchema:
     title: Lease Renewal Checklist Form
     pages:
     - id: 1
-      name: lease_renewal_checklist_form_fields
-      label: form_fields
+      name: lease_term_start_date
+      label: Lease Term Start Date
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 2
-      name: lease_term_start_date
-      label: lease_term_start_date
+      name: lease_term_end_date
+      label: Lease Term End Date
       hint: null
       type: date
       options: []
       required: false
     - id: 3
-      name: lease_term_end_date
-      label: lease_term_end_date
+      name: rent_amount
+      label: Rent Amount
       hint: null
-      type: date
+      type: number
       options: []
       required: false
     - id: 4
-      name: rent_amount
-      label: rent_amount
+      name: lease_term_length
+      label: Lease Term Length
       hint: null
       type: number
       options: []
       required: false
     - id: 5
-      name: lease_term_length
-      label: lease_term_length
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
       name: tenant_name
-      label: tenant_name
+      label: Tenant Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
+    - id: 6
       name: move_in_date
-      label: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: move_out_date
+      label: Move Out Date
       hint: null
       type: date
       options: []
       required: false
     - id: 8
-      name: move_out_date
-      label: move_out_date
+      name: lease_renewal_date
+      label: Lease Renewal Date
       hint: null
       type: date
       options: []
       required: false
     - id: 9
-      name: lease_renewal_date
-      label: lease_renewal_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
       name: lease_renewal_status
-      label: lease_renewal_status
+      label: Lease Renewal Status
       hint: null
       type: select_one
       options:
       - Renewing
       - Not Renewing
       required: false
-    - id: 11
+    - id: 10
       name: lease_status
-      label: lease_status
+      label: Lease Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: false
+    - id: 11
+      name: tenant_status
+      label: Tenant Status
       hint: null
       type: select_multiple
       options:
@@ -86,28 +89,18 @@ inputSchema:
       - Expired
       required: false
     - id: 12
-      name: tenant_status
-      label: tenant_status
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      - Expired
-      required: false
-    - id: 13
       name: notice_period
-      label: notice_period
+      label: Notice Period
       hint: null
       type: select_one
       options:
-      - '30'
-      - '60'
-      - '90'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 14
+    - id: 13
       name: rent_increase
-      label: rent_increase
+      label: Rent Increase
       hint: null
       type: select_multiple
       options:
@@ -115,48 +108,57 @@ inputSchema:
       - 'False'
       - Unknown
       required: false
-    - id: 15
+    - id: 14
       name: rent_type
-      label: rent_type
+      label: Rent Type
       hint: null
       type: select_one
       options:
       - Rent
       - Lease
       required: false
-    - id: 16
+    - id: 15
       name: lease_document
-      label: lease_document
+      label: Lease Document
       hint: null
       type: select_multiple
       options:
       - Signed
       - Unsigned
       required: false
-    - id: 17
+    - id: 16
       name: rent_increase_percentage
-      label: rent_increase_percentage
+      label: Rent Increase Percentage
       hint: null
       type: number
       options: []
       required: false
-    - id: 18
+    - id: 17
       name: tenant_occupation
-      label: tenant_occupation
+      label: Tenant Occupation
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
+    - id: 18
       name: tenant_income
-      label: tenant_income
+      label: Tenant Income
       hint: null
       type: number
       options: []
       required: false
-    - id: 20
+    - id: 19
       name: lease_document_status
-      label: lease_document_status
+      label: Lease Document Status
+      hint: null
+      type: select_one
+      options:
+      - Signed
+      - Unsigned
+      required: false
+    - id: 20
+      name: tenant_document_status
+      label: Tenant Document Status
       hint: null
       type: select_one
       options:
@@ -164,51 +166,35 @@ inputSchema:
       - Unsigned
       required: false
     - id: 21
-      name: tenant_document_status
-      label: tenant_document_status
+      name: notice_to_move_out_date
+      label: Notice to Move Out Date
       hint: null
-      type: select_one
-      options:
-      - Signed
-      - Unsigned
+      type: date
+      options: []
       required: false
     - id: 22
-      name: notice_to_move_out_date
-      label: notice_to_move_out_date
+      name: lease_renewal_date_2
+      label: Lease Renewal Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 23
-      name: lease_renewal_date
-      label: lease_renewal_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: lease_renewal_date
-      label: lease_renewal_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
       name: tenant_document
-      label: tenant_document
+      label: Tenant Document
       hint: null
       type: select_multiple
       options:
       - Signed
       - Unsigned
       required: false
-    - id: 26
-      name: notice_period
-      label: notice_period
+    - id: 24
+      name: notice_period_2
+      label: Notice Period 2
       hint: null
       type: select_one
       options:
-      - '30'
-      - '60'
-      - '90'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

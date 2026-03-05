@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''LTL'', ''value'': ''1''}'
-      - '{''label'': ''TL'', ''value'': ''2''}'
+      - LTL
+      - TL
       required: false
     - id: 7
       name: shipment_details
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1'', ''value'': ''1''}'
-      - '{''label'': ''2'', ''value'': ''2''}'
+      - '1'
+      - '2'
       required: false
     - id: 11
       name: shipment_weight
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Ground'', ''value'': ''1''}'
-      - '{''label'': ''Air'', ''value'': ''2''}'
-      - '{''label'': ''Express'', ''value'': ''3''}'
+      - Ground
+      - Air
+      - Express
       required: false
     - id: 19
       name: ship_to_address

@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Dr Smith''}'
-      - '{''id'': 2, ''name'': ''Dr Johnson''}'
+      - Dr Smith
+      - Dr Johnson
       required: true
     - id: 5
       name: reason
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone''}'
-      - '{''id'': 3, ''name'': ''In Person''}'
+      - Email
+      - Phone
+      - In Person
       required: true
     - id: 8
       name: message
@@ -140,8 +140,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Credit Card''}'
-      - '{''id'': 2, ''name'': ''Cash''}'
+      - Credit Card
+      - Cash
       required: true
     - id: 20
       name: payment_amount
@@ -177,8 +177,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
+      - Active
+      - Inactive
       required: true
     - id: 25
       name: follow_up_reminders
@@ -186,6 +186,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true

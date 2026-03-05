@@ -136,8 +136,8 @@ inputSchema:
       hint: People who saw the incident
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: witness_names
@@ -161,7 +161,7 @@ inputSchema:
       options:
       - Yes - attached
       - Yes - will provide later
-      - false
+      - 'False'
       required: true
     - id: 21
       name: police_report

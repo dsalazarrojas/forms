@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Phone'', ''label'': ''Phone''}'
-      - '{''value'': ''Email'', ''label'': ''Email''}'
-      - '{''value'': ''Message'', ''label'': ''Message''}'
+      - Phone
+      - Email
+      - Message
       required: false
     - id: 5
       name: service_type
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Manicure'', ''label'': ''Manicure''}'
-      - '{''value'': ''Pedicure'', ''label'': ''Pedicure''}'
-      - '{''value'': ''Polish Change'', ''label'': ''Polish Change''}'
+      - Manicure
+      - Pedicure
+      - Polish Change
       required: false
     - id: 6
       name: appointment_date
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: additional_notes

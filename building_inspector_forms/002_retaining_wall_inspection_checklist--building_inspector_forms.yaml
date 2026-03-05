@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Earthwork''}'
-      - '{''label'': ''Concrete''}'
-      - '{''label'': ''Other''}'
+      - Earthwork
+      - Concrete
+      - Other
       required: false
     - id: 3
       name: wall_height
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Dry''}'
-      - '{''label'': ''Slope Drain''}'
-      - '{''label'': ''No Drain''}'
+      - Dry
+      - Slope Drain
+      - No Drain
       required: false
     - id: 8
       name: footings
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Concrete''}'
-      - '{''label'': ''Poured Concrete''}'
-      - '{''label'': ''No Footing''}'
+      - Concrete
+      - Poured Concrete
+      - No Footing
       required: false
     - id: 9
       name: wall_condition
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Satisfactory''}'
-      - '{''label'': ''Needs Maintenance''}'
-      - '{''label'': ''Hazardous''}'
+      - Satisfactory
+      - Needs Maintenance
+      - Hazardous
       required: false
     - id: 10
       name: structural_soundness
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Satisfactory''}'
-      - '{''label'': ''Unsatisfactory''}'
-      - '{''label'': ''N/A''}'
+      - Satisfactory
+      - Unsatisfactory
+      - N/A
       required: false
     - id: 11
       name: wall_structure
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Rigid''}'
-      - '{''label'': ''Flexible''}'
-      - '{''label'': ''Other''}'
+      - Rigid
+      - Flexible
+      - Other
       required: false
     - id: 12
       name: foundation_type
@@ -104,9 +104,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Concrete''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''N/A''}'
+      - Concrete
+      - Other
+      - N/A
       required: false
     - id: 13
       name: footing_type
@@ -114,9 +114,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Concrete''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''N/A''}'
+      - Concrete
+      - Other
+      - N/A
       required: false
     - id: 14
       name: wall_cover
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Concrete''}'
-      - '{''label'': ''Rock''}'
-      - '{''label'': ''Other''}'
+      - Concrete
+      - Rock
+      - Other
       required: false
     - id: 15
       name: notes

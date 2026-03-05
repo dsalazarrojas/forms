@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''once'', ''label'': ''once''}'
-      - '{''name'': ''multiple'', ''label'': ''multiple''}'
+      - once
+      - multiple
       required: true
     - id: 6
       name: visited_with
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''family'', ''label'': ''Family''}'
-      - '{''name'': ''staff'', ''label'': ''Staff''}'
-      - '{''name'': ''other'', ''label'': ''Other''}'
+      - Family
+      - Staff
+      - Other
       required: true
     - id: 7
       name: visited_persons
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''label'': True}'
-      - '{''name'': False, ''label'': False}'
-      - '{''name'': ''other'', ''label'': ''Other''}'
+      - 'True'
+      - 'False'
+      - Other
       required: true
     - id: 11
       name: staff_name
@@ -164,9 +164,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''assessment'', ''label'': ''assessment''}'
-      - '{''name'': ''education'', ''label'': ''education''}'
-      - '{''name'': ''support'', ''label'': ''support''}'
+      - assessment
+      - education
+      - support
       required: true
     - id: 23
       name: visited_children
@@ -174,8 +174,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': True, ''label'': True}'
-      - '{''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: visit_notes
@@ -190,7 +190,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''completed'', ''label'': ''Completed''}'
-      - '{''name'': ''pending'', ''label'': ''Pending''}'
-      - '{''name'': ''cancelled'', ''label'': ''Cancelled''}'
+      - Completed
+      - Pending
+      - Cancelled
       required: false

@@ -4,205 +4,44 @@ inputSchema:
     title: Job Application 2020 AICSDS
     pages:
     - id: 1
-      name: first_name
-      label: First Name
+      name: applicant_info
+      label: Applicant Info
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: last_name
-      label: Last Name
+      name: job_details
+      label: Job Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: email
-      label: Email
+      name: department
+      label: Department
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: job_title
-      label: Job Title
+      name: job_status
+      label: Job Status
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: department
-      label: Department
+      name: date_of_birth
+      label: Date Of Birth
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Human Resources''}'
-      - '{''id'': 2, ''name'': ''Marketing''}'
-      - '{''id'': 3, ''name'': ''Sales''}'
+      type: text
+      options: []
       required: false
     - id: 6
-      name: date_of_birth
-      label: Date Of Birth
-      hint: mm/dd/yyyy
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: date_of_birth
-      label: Date Of Birth
-      hint: mm/dd/yyyy
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: job_status
-      label: Job Status
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
-      required: false
-    - id: 9
-      name: job_title
-      label: Job Title
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Manager''}'
-      - '{''id'': 2, ''name'': ''Director''}'
-      - '{''id'': 3, ''name'': ''CEO''}'
-      required: false
-    - id: 10
-      name: job_status
-      label: Job Status
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
-      required: false
-    - id: 11
-      name: job_title
-      label: Job Title
+      name: application_status
+      label: Application Status
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
-      name: department
-      label: Department
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Human Resources''}'
-      - '{''id'': 2, ''name'': ''Marketing''}'
-      - '{''id'': 3, ''name'': ''Sales''}'
-      required: false
-    - id: 13
-      name: job_status
-      label: Job Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: first_name
-      label: First Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: last_name
-      label: Last Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: job_title
-      label: Job Title
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Manager''}'
-      - '{''id'': 2, ''name'': ''Director''}'
-      - '{''id'': 3, ''name'': ''CEO''}'
-      required: false
-    - id: 17
-      name: date_of_birth
-      label: Date Of Birth
-      hint: mm/dd/yyyy
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: date_of_birth
-      label: Date Of Birth
-      hint: mm/dd/yyyy
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: job_status
-      label: Job Status
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
-      required: false
-    - id: 20
-      name: job_title
-      label: Job Title
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Manager''}'
-      - '{''id'': 2, ''name'': ''Director''}'
-      - '{''id'': 3, ''name'': ''CEO''}'
-      required: false
-    - id: 21
-      name: date_of_birth
-      label: Date Of Birth
-      hint: mm/dd/yyyy
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: department
-      label: Department
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Human Resources''}'
-      - '{''id'': 2, ''name'': ''Marketing''}'
-      - '{''id'': 3, ''name'': ''Sales''}'
-      required: false
-    - id: 23
-      name: job_status
-      label: Job Status
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
-      required: false
-    - id: 24
-      name: job_title
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: department
-      label: Department
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

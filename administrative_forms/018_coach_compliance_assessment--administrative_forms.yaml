@@ -78,7 +78,7 @@ inputSchema:
       options:
       - Yes Current
       - Yes Expiring Soon
-      - false
+      - 'False'
       required: true
     - id: 11
       name: insurance_provider
@@ -125,7 +125,7 @@ inputSchema:
       options:
       - Yes Within 1 Year
       - Yes Over 1 Year Ago
-      - false
+      - 'False'
       required: true
     - id: 16
       name: confidentiality_agreement
@@ -135,7 +135,7 @@ inputSchema:
       options:
       - Yes Current
       - Needs Renewal
-      - false
+      - 'False'
       required: true
     - id: 17
       name: safety_protocols_training
@@ -153,7 +153,7 @@ inputSchema:
       hint: Do you know emergency protocols
       type: select_one
       options:
-      - true
+      - 'True'
       - No Need Review
       required: true
     - id: 19
@@ -174,7 +174,7 @@ inputSchema:
       type: select_one
       options:
       - Yes Completed
-      - false
+      - 'False'
       required: true
     - id: 21
       name: scope_of_practice_understanding
@@ -193,7 +193,7 @@ inputSchema:
       type: select_one
       options:
       - Yes Completed
-      - false
+      - 'False'
       required: false
     - id: 23
       name: conflicts_of_interest
@@ -250,7 +250,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Attest
-      - false
+      - 'False'
       required: true
     - id: 30
       name: signature_date

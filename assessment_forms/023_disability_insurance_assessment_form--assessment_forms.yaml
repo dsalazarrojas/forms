@@ -4,7 +4,7 @@ inputSchema:
     title: Disability Insurance Assessment Form
     pages:
     - id: 1
-      name: disability_insurance_assessment
+      name: assessment
       label: Assessment
       hint: null
       type: text
@@ -46,8 +46,8 @@ inputSchema:
       options: []
       required: true
     - id: 7
-      name: disability_insurance_provider
-      label: Disability Insurance Provider
+      name: insurance_provider
+      label: Insurance Provider
       hint: null
       type: select_multiple
       options:
@@ -56,8 +56,8 @@ inputSchema:
       - Pacific Life
       required: true
     - id: 8
-      name: other_insurance_providers
-      label: Other Insurance Providers
+      name: other_providers
+      label: Other Providers
       hint: null
       type: text
       options: []
@@ -94,15 +94,15 @@ inputSchema:
       - Unemployed
       required: true
     - id: 13
-      name: disability_insurance_investment
-      label: Disability Insurance Investment
+      name: investment
+      label: Investment
       hint: How much do you want to invest per month in disability insurance?
       type: number
       options: []
       required: true
     - id: 14
-      name: disability_insurance_investment_frequency
-      label: Disability Insurance Investment Frequency
+      name: investment_frequency
+      label: Frequency
       hint: null
       type: select_one
       options:
@@ -111,420 +111,27 @@ inputSchema:
       - Monthly
       required: true
     - id: 15
-      name: disability_insurance_investment_option
-      label: Disability Insurance Investment Option
+      name: investment_option
+      label: Option
       hint: null
       type: select_multiple
       options:
       - Option A
       - Option B
-      required: false
+      required: true
     - id: 16
-      name: disability_insurance_investment_option_other
-      label: Disability Insurance Investment Option Other
+      name: consent
+      label: I do not agree
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 17
-      name: disability_insurance_investment_option_frequency
-      label: Disability Insurance Investment Option Frequency
-      hint: null
-      type: select_one
-      options:
-      - Weekly
-      - Bi-Weekly
-      - Monthly
-      required: true
-    - id: 18
-      name: disability_insurance_investment_option_other_frequency
-      label: Disability Insurance Investment Option Other Frequency
+      name: consent_other
+      label: Other
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
-      name: disability_insurance_investment_option_option_frequency
-      label: Disability Insurance Investment Option Option Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: disability_insurance_investment_option_other_option
-      label: Disability Insurance Investment Option Other Option
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: disability_insurance_investment_option_option
-      label: Disability Insurance Investment Option
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: disability_insurance_investment_option
-      label: Disability Insurance Investment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: disability_insurance_investment
-      label: Disability Insurance Investment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: disability_insurance_investment_frequency
-      label: Disability Insurance Investment Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 25
-      name: disability_insurance_investment_other
-      label: Disability Insurance Investment Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: disability_insurance_investment_option_other
-      label: Disability Insurance Investment Option Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: disability_insurance_investment_option
-      label: Disability Insurance Option
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: disability_insurance_investment_other_frequency
-      label: Disability Insurance Investment Other Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: disability_insurance_provider
-      label: Disability Insurance Provider
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 30
-      name: disability_insurance_investment_option_other_frequency
-      label: Disability Insurance Investment Option Other Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: disability_insurance_investment_option_frequency_other
-      label: Disability Insurance Investment Option Frequency Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: disability_insurance_investment_option_other_frequency
-      label: Disability Insurance Investment Option Other Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: disability_insurance_provider_other
-      label: Disability Insurance Provider Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: disability_insurance_provider_other
-      label: Disability Insurance Provider Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: disability_insurance_provider
-      label: Disability Insurance Provider
-      hint: null
-      type: select_multiple
-      options:
-      - State Farm
-      - New York Life
-      - Pacific Life
-      required: true
-    - id: 36
-      name: disability_insurance_provider_other
-      label: Disability Insurance Provider Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: disability_insurance_provider_frequency
-      label: Disability Insurance Provider Frequency
-      hint: null
-      type: select_one
-      options:
-      - Weekly
-      - Bi-Weekly
-      - Monthly
-      required: true
-    - id: 38
-      name: disability_insurance_provider_frequency_other
-      label: Disability Insurance Provider Frequency Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: disability_insurance_provider_option_frequency
-      label: Disability Insurance Provider Option Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: disability_insurance_provider_option
-      label: Disability Insurance Provider Option
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: disability_insurance_provider_option_other
-      label: Disability Insurance Provider Option Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: disability_insurance_provider_option
-      label: Disability Insurance Provider Option
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 43
-      name: disability_insurance_provider_option_other
-      label: Disability Insurance Provider Option Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 44
-      name: disability_insurance_provider_other_option
-      label: Disability Insurance Provider Other Option
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: disability_insurance_provider_frequency_other
-      label: Disability Insurance Provider Frequency Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: disability_insurance_provider_investment
-      label: Disability Insurance Provider Investment
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 47
-      name: disability_insurance_provider_investment_frequency
-      label: Disability Insurance Provider Investment Frequency
-      hint: null
-      type: select_one
-      options:
-      - Weekly
-      - Bi-Weekly
-      - Monthly
-      required: true
-    - id: 48
-      name: disability_insurance_provider_investment_option
-      label: Disability Insurance Provider Investment Option
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 49
-      name: disability_insurance_provider_investment
-      label: Disability Insurance Provider Investment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 50
-      name: disability_insurance_provider_investment_option_other
-      label: Disability Insurance Provider Investment Option Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 51
-      name: disability_insurance_provider_investment_other
-      label: Disability Insurance Provider Investment Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 52
-      name: disability_insurance_provider_investment_frequency
-      label: Disability Insurance Provider Investment Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 53
-      name: disability_insurance_provider_option_option
-      label: Disability Insurance Provider Option Option
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 54
-      name: disability_insurance_provider_option
-      label: Disability Insurance Provider Option
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 55
-      name: disability_insurance_provider_option_option
-      label: Disability Insurance Provider Option
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 56
-      name: disability_insurance_provider_investment_other
-      label: Disability Insurance Provider Investment Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 57
-      name: disability_insurance_provider_investment_frequency
-      label: Disability Insurance Provider Investment Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 58
-      name: disability_insurance_provider_investment_option_other
-      label: Disability Insurance Provider Investment Option Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 59
-      name: disability_insurance_provider_investment_option
-      label: Disability Insurance Provider Investment Option
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 60
-      name: disability_insurance_provider_investment
-      label: Disability Insurance Provider Investment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 61
-      name: disability_insurance_provider_frequency_other
-      label: Disability Insurance Provider Frequency Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 62
-      name: disability_insurance_provider_provider
-      label: Disability Insurance Provider
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 63
-      name: disability_insurance_provider_investment
-      label: Disability Insurance Provider Investment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 64
-      name: disability_insurance_provider_option
-      label: Disability Insurance Provider Option
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 65
-      name: disability_insurance_provider_investment_option_other
-      label: Disability Insurance Provider Investment Option Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 66
-      name: disability_insurance_provider_investment_frequency
-      label: Disability Insurance Provider Investment Frequency
-      hint: null
-      type: select_one
-      options:
-      - Weekly
-      - Bi-Weekly
-      - Monthly
-      required: true
-    - id: 67
-      name: disability_insurance_provider_frequency
-      label: Disability Insurance Provider Frequency
-      hint: null
-      type: select_one
-      options:
-      - Weekly
-      - Bi-Weekly
-      - Monthly
-      required: true
-    - id: 68
-      name: disability_insurance_provider_investment_option
-      label: Disability Insurance Provider Investment Option
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 69
-      name: disability_insurance_provider_provider
-      label: Disability Insurance Provider
-      hint: null
-      type: select_multiple
-      options:
-      - State Farm
-      - New York Life
-      - Pacific Life
-      required: true

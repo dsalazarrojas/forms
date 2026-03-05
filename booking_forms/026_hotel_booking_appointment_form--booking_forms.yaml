@@ -30,9 +30,9 @@ inputSchema:
       hint: Select the type of room you prefer
       type: select_one
       options:
-      - '{''value'': ''single'', ''label'': ''Single''}'
-      - '{''value'': ''double'', ''label'': ''Double''}'
-      - '{''value'': ''suite'', ''label'': ''Suite''}'
+      - Single
+      - Double
+      - Suite
       required: false
     - id: 5
       name: arrival_date
@@ -61,9 +61,9 @@ inputSchema:
       hint: Select any additional room services
       type: select_multiple
       options:
-      - '{''value'': ''Wi-Fi'', ''label'': ''Wi-Fi''}'
-      - '{''value'': ''Mini-Bar'', ''label'': ''Mini-Bar''}'
-      - '{''value'': ''Gym'', ''label'': ''Gym''}'
+      - Wi-Fi
+      - Mini-Bar
+      - Gym
       required: false
     - id: 9
       name: special_requests
@@ -78,8 +78,8 @@ inputSchema:
       hint: Confirm your appointment details
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: comments

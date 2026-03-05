@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''John Doe''}'
-      - '{''name'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: true
     - id: 2
       name: grievance_type
@@ -18,9 +18,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Issue with manager''}'
-      - '{''name'': ''Issue with team''}'
-      - '{''name'': ''Issue with work environment''}'
+      - Issue with manager
+      - Issue with team
+      - Issue with work environment
       required: true
     - id: 3
       name: description
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''email''}'
-      - '{''name'': ''phone''}'
-      - '{''name'': ''address''}'
+      - email
+      - phone
+      - address
       required: true
     - id: 7
       name: attachments
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''manager''}'
-      - '{''name'': ''team_leader''}'
-      - '{''name'': ''support_staff''}'
+      - manager
+      - team leader
+      - support staff
       required: false
     - id: 10
       name: email

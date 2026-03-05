@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Employed'', ''value'': ''employed''}'
-      - '{''id'': 2, ''label'': ''Unemployed'', ''value'': ''unemployed''}'
-      - '{''id'': 3, ''label'': ''Retired'', ''value'': ''retired''}'
+      - Employed
+      - Unemployed
+      - Retired
       required: false
     - id: 9
       name: employment_type
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Full time'', ''value'': ''full_time''}'
-      - '{''id'': 2, ''label'': ''Part time'', ''value'': ''part_time''}'
-      - '{''id'': 3, ''label'': ''Self employed'', ''value'': ''self_employed''}'
+      - Full time
+      - Part time
+      - Self employed
       required: false
     - id: 10
       name: employment_years
@@ -92,10 +92,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''excellent''}'
-      - '{''id'': 2, ''label'': ''Good'', ''value'': ''good''}'
-      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''fair''}'
-      - '{''id'': 4, ''label'': ''Bad'', ''value'': ''bad''}'
+      - Excellent
+      - Good
+      - Fair
+      - Bad
       required: false
     - id: 13
       name: credit_card_provider
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Master Card'', ''value'': ''master_card''}'
-      - '{''id'': 2, ''label'': ''Visa'', ''value'': ''visa''}'
-      - '{''id'': 3, ''label'': ''American Express'', ''value'': ''american_express''}'
+      - Master Card
+      - Visa
+      - American Express
       required: false
     - id: 14
       name: account_type
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Gold'', ''value'': ''gold''}'
-      - '{''id'': 2, ''label'': ''Silver'', ''value'': ''silver''}'
-      - '{''id'': 3, ''label'': ''Platinum'', ''value'': ''platinum''}'
+      - Gold
+      - Silver
+      - Platinum
       required: false
     - id: 15
       name: account_provider

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 3
       name: client_name
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Jim''}'
-      - '{''id'': 2, ''label'': ''Sue''}'
-      - '{''id'': 3, ''label'': ''Bob''}'
+      - Jim
+      - Sue
+      - Bob
       required: false
     - id: 10
       name: message
@@ -85,6 +85,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Scheduled''}'
-      - '{''id'': 2, ''label'': ''Not Scheduled''}'
+      - Scheduled
+      - Not Scheduled
       required: false

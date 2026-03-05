@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Online''}'
-      - '{''id'': 2, ''label'': ''Offline''}'
-      - '{''id'': 3, ''label'': ''Maintenance''}'
+      - Online
+      - Offline
+      - Maintenance
       required: false
     - id: 8
       name: maintenance_schedule
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 9
       name: corrective_actions
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In Progress''}'
-      - '{''id'': 2, ''label'': ''Completed''}'
-      - '{''id'': 3, ''label'': ''Not Required''}'
+      - In Progress
+      - Completed
+      - Not Required
       required: false
     - id: 15
       name: preventive_action_status
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In Progress''}'
-      - '{''id'': 2, ''label'': ''Completed''}'
-      - '{''id'': 3, ''label'': ''Not Required''}'
+      - In Progress
+      - Completed
+      - Not Required
       required: false
     - id: 16
       name: next_inspection_date

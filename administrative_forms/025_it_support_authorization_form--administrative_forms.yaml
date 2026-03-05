@@ -15,51 +15,53 @@ inputSchema:
     title: IT Support Authorization Form
     pages:
     - id: 1
-      name: it_support_authorization_form_page_1
-      label: it_support_authorization_form_page_1
+      name: employee_info
+      label: Employee Information
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 2
-      name: it_support_authorization_form_page_1
-      label: it_support_authorization_form_page_1
+      name: availability
+      label: Availability and Priorities
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 3
-      name: it_support_authorization_form_page_1
-      label: it_support_authorization_form_page_1
+      name: additional_issues
+      label: Additional Issues
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: it_support_authorization_form_page_1
-      label: it_support_authorization_form_page_1
+      name: deadline
+      label: Deadline
       hint: null
-      type: text
+      type: date
       options: []
-      required: true
+      required: false
     - id: 5
-      name: it_support_authorization_form_page_1
-      label: it_support_authorization_form_page_1
+      name: expected_outcome
+      label: Expected Outcome
       hint: null
       type: text
       options: []
       required: true
     - id: 6
-      name: it_support_authorization_form_page_2
-      label: it_support_authorization_form_page_2
+      name: authorization
+      label: Authorization
       hint: null
-      type: text
-      options: []
-      required: true
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
     - id: 7
-      name: it_support_authorization_form_page_3
-      label: it_support_authorization_form_page_3
+      name: additional_info
+      label: Additional Information or Attachments
       hint: null
-      type: text
+      type: note
       options: []
-      required: true
+      required: false

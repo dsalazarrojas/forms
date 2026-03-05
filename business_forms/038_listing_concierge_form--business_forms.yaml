@@ -1,212 +1,148 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Listing Concierge Form
     pages:
     - id: 1
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
+      name: property_address
+      label: What is the property address?
+      hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: contact_info
-      label: contact_info
+      label: What is the contact info?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: property_details
-      label: property_details
+      name: is_property
+      label: Is the property Yes/No?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: property_details_type
+      label: What type of property details is this?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 4
-      name: contact_info_2_property_details
-      label: contact_info_2_property_details
+    - id: 5
+      name: property_details_type_2
+      label: Property Details Type 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: property_status
+      label: What is the property status?
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: property_status_list
+      label: What is the status list of this property?
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: property_subtype_list
+      label: What is the subtype list?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: property_date
+      label: What is the status date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: status_date
+      label: What status date is this property?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: property_time
+      label: What is the status time for this property?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: status_time
+      label: What status time is this property?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: property_price
+      label: What is the property price range?
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
-      name: contact_info_2_property_type
-      label: contact_info_2_property_type
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: contact_info_2_property_subtype
-      label: contact_info_2_property_subtype
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: contact_info_2_property_subtype_list
-      label: contact_info_2_property_subtype_list
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: contact_info_2_property_status
-      label: contact_info_2_property_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 9
-      name: contact_info_2_property_status_list
-      label: contact_info_2_property_status_list
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 10
-      name: contact_info_2_property_type_list
-      label: contact_info_2_property_type_list
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: contact_info_2_property_subtype_list
-      label: contact_info_2_property_subtype_list
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: contact_info_2_property_status_list
-      label: contact_info_2_property_status_list
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 13
-      name: contact_info_2_property_address
-      label: contact_info_2_property_address
-      hint: null
-      type: note
-      options: []
-      required: false
     - id: 14
-      name: contact_info_2_property_price_range
-      label: contact_info_2_property_price_range
+      name: property_price_from
+      label: From what price range is the property priced?
       hint: null
       type: number
       options: []
       required: false
     - id: 15
-      name: contact_info_2_property_price_range_from
-      label: contact_info_2_property_price_range_from
+      name: property_price_to
+      label: What price range is the property priced?
       hint: null
       type: number
       options: []
       required: false
     - id: 16
-      name: contact_info_2_property_price_range_to
-      label: contact_info_2_property_price_range_to
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: contact_info_2_property_status_date
-      label: contact_info_2_property_status_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: contact_info_2_property_status_time
-      label: contact_info_2_property_status_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: contact_info_2_property_status_date
-      label: contact_info_2_property_status_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: contact_info_2_property_status_time
-      label: contact_info_2_property_status_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: contact_info_2_property_status_time
-      label: contact_info_2_property_status_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
       name: minimalist_form_fields_0
-      label: minimalist_form_fields_0
+      label: Is this property yes or no?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 23
+    - id: 17
       name: minimalist_form_fields_1
-      label: minimalist_form_fields_1
+      label: Minimalist Form Fields 1
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 24
+    - id: 18
       name: minimalist_form_fields_2
-      label: minimalist_form_fields_2
+      label: Minimalist Form Fields 2
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: minimalist_form_fields_3
-      label: minimalist_form_fields_3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 26
-      name: minimalist_form_fields_4
-      label: minimalist_form_fields_4
-      hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'

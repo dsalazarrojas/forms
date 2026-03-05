@@ -30,10 +30,10 @@ inputSchema:
       hint: Please select all applicable issues.
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Critical''}'
-      - '{''id'': 4, ''label'': ''Needs Repair''}'
+      - Good
+      - Fair
+      - Critical
+      - Needs Repair
       required: true
     - id: 5
       name: software_condition
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Critical''}'
-      - '{''id'': 4, ''label'': ''Needs Update''}'
+      - Good
+      - Fair
+      - Critical
+      - Needs Update
       required: false
     - id: 6
       name: issue_description
@@ -59,9 +59,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Decommissioned''}'
+      - Active
+      - Inactive
+      - Decommissioned
       required: true
     - id: 8
       name: maintenance_frequency

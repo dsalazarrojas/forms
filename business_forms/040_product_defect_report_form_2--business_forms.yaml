@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Product'', ''value'': ''Product''}'
-      - '{''id'': 2, ''label'': ''Service'', ''value'': ''Service''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      - Product
+      - Service
+      - Other
       required: false
     - id: 5
       name: product_defect_report_form_2_product_condition
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''New'', ''value'': ''New''}'
-      - '{''id'': 2, ''label'': ''Used'', ''value'': ''Used''}'
-      - '{''id'': 3, ''label'': ''Refurbished'', ''value'': ''Refurbished''}'
+      - New
+      - Used
+      - Refurbished
       required: false
     - id: 6
       name: product_defect_report_form_2_report_type
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Defect'', ''value'': ''Defect''}'
-      - '{''id'': 2, ''label'': ''Damage'', ''value'': ''Damage''}'
-      - '{''id'': 3, ''label'': ''Loss'', ''value'': ''Loss''}'
+      - Defect
+      - Damage
+      - Loss
       required: false
     - id: 7
       name: product_defect_report_form_2_buyer_name
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: product_defect_report_form_2_comments

@@ -16,9 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''file_type'', ''label'': ''Document'', ''value'':
-        ''Document''}'
-      - '{''id'': 2, ''name'': ''file_type'', ''label'': ''Image'', ''value'': ''Image''}'
+      - Document
+      - Image
       required: false
     - id: 3
       name: file_size
@@ -33,10 +32,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''backup_location'', ''label'': ''Server'', ''value'':
-        ''Server''}'
-      - '{''id'': 2, ''name'': ''backup_location'', ''label'': ''Cloud'', ''value'':
-        ''Cloud''}'
+      - Server
+      - Cloud
       required: false
     - id: 5
       name: file_name
@@ -86,12 +83,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''file_status'', ''label'': ''Pending'', ''value'':
-        ''Pending''}'
-      - '{''id'': 2, ''name'': ''file_status'', ''label'': ''Completed'', ''value'':
-        ''Completed''}'
-      - '{''id'': 3, ''name'': ''file_status'', ''label'': ''In Progress'', ''value'':
-        ''In Progress''}'
+      - Pending
+      - Completed
+      - In Progress
       required: false
     - id: 12
       name: backup_status
@@ -99,12 +93,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''backup_status'', ''label'': ''In Progress'', ''value'':
-        ''In Progress''}'
-      - '{''id'': 2, ''name'': ''backup_status'', ''label'': ''Completed'', ''value'':
-        ''Completed''}'
-      - '{''id'': 3, ''name'': ''Not Started'', ''label'': ''Not Started'', ''value'':
-        ''Not Started''}'
+      - In Progress
+      - Completed
+      - Not Started
       required: false
     - id: 13
       name: request_type
@@ -112,9 +103,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''request_type'', ''label'': ''Backup'', ''value'':
-        ''Backup''}'
-      - '{''id'': 2, ''name'': ''Restore'', ''label'': ''Restore'', ''value'': ''Restore''}'
+      - Backup
+      - Restore
       required: false
     - id: 14
       name: reason_for_backup

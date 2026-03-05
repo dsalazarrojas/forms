@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''beginner''}'
-      - '{''id'': 2, ''name'': ''intermediate''}'
-      - '{''id'': 3, ''name'': ''advanced''}'
+      - beginner
+      - intermediate
+      - advanced
       required: false
     - id: 3
       name: question_2
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''seldom''}'
-      - '{''id'': 2, ''name'': ''occasionally''}'
-      - '{''id'': 3, ''name'': ''often''}'
-      - '{''id'': 4, ''name'': ''always''}'
+      - seldom
+      - occasionally
+      - often
+      - always
       required: false
     - id: 4
       name: question_3
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''none''}'
-      - '{''id'': 2, ''name'': ''some''}'
-      - '{''id'': 3, ''name'': ''extensive''}'
+      - none
+      - some
+      - extensive
       required: false
     - id: 7
       name: question_6
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: question_7
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''basic''}'
-      - '{''id'': 2, ''name'': ''intermediate''}'
-      - '{''id'': 3, ''name'': ''advanced''}'
+      - basic
+      - intermediate
+      - advanced
       required: false
     - id: 9
       name: question_8
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': False}'
-      - '{''id'': 2, ''name'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 10
       name: question_9
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''omit missing values''}'
-      - '{''id'': 2, ''name'': ''replace with mean''}'
-      - '{''id'': 3, ''name'': ''ignore''}'
+      - omit missing values
+      - replace with mean
+      - ignore
       required: false
     - id: 11
       name: question_10
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''none''}'
-      - '{''id'': 2, ''name'': ''some''}'
-      - '{''id'': 3, ''name'': ''extensive''}'
+      - none
+      - some
+      - extensive
       required: false
     - id: 12
       name: question_11
@@ -117,8 +117,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: question_13
@@ -126,8 +126,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: question_14
@@ -135,9 +135,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''basic''}'
-      - '{''id'': 2, ''name'': ''intermediate''}'
-      - '{''id'': 3, ''name'': ''advanced''}'
+      - basic
+      - intermediate
+      - advanced
       required: false
     - id: 16
       name: question_15
@@ -152,8 +152,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''structured''}'
-      - '{''id'': 2, ''name'': ''unstructured''}'
+      - structured
+      - unstructured
       required: false
     - id: 18
       name: question_17
@@ -162,8 +162,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': False}'
-      - '{''id'': 2, ''name'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 19
       name: question_18
@@ -171,8 +171,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': False}'
-      - '{''id'': 2, ''name'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 20
       name: question_19
@@ -180,9 +180,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''none''}'
-      - '{''id'': 2, ''name'': ''some''}'
-      - '{''id'': 3, ''name'': ''extensive''}'
+      - none
+      - some
+      - extensive
       required: false
     - id: 21
       name: question_20
@@ -190,8 +190,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': False}'
-      - '{''id'': 2, ''name'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 22
       name: question_21
@@ -199,9 +199,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''basic''}'
-      - '{''id'': 2, ''name'': ''intermediate''}'
-      - '{''id'': 3, ''name'': ''advanced''}'
+      - basic
+      - intermediate
+      - advanced
       required: false
     - id: 23
       name: question_22
@@ -209,8 +209,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': False}'
-      - '{''id'': 2, ''name'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 24
       name: question_23
@@ -218,9 +218,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''none''}'
-      - '{''id'': 2, ''name'': ''some''}'
-      - '{''id'': 3, ''name'': ''extensive''}'
+      - none
+      - some
+      - extensive
       required: false
     - id: 25
       name: question_24
@@ -228,6 +228,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': False}'
-      - '{''id'': 2, ''name'': True}'
+      - 'False'
+      - 'True'
       required: false

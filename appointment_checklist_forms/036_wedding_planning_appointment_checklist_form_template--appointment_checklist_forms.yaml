@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Engagement Meeting'', ''value'': ''Engagement Meeting''}'
-      - '{''id'': 2, ''label'': ''Venue Visit'', ''value'': ''Venue Visit''}'
-      - '{''id'': 3, ''label'': ''Cake Tasting'', ''value'': ''Cake Tasting''}'
+      - Engagement Meeting
+      - Venue Visit
+      - Cake Tasting
       required: true
     - id: 3
       name: main_tasks
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''RSVPs'', ''value'': ''RSVPs''}'
-      - '{''id'': 2, ''label'': ''Invitations'', ''value'': ''Invitations''}'
-      - '{''id'': 3, ''label'': ''Seating'', ''value'': ''Seating''}'
+      - RSVPs
+      - Invitations
+      - Seating
       required: false
     - id: 4
       name: main_checklist
@@ -120,8 +120,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Rehearsal Dinner'', ''value'': ''Rehearsal Dinner''}'
-      - '{''id'': 2, ''label'': ''Rehearsal Lunch'', ''value'': ''Rehearsal Lunch''}'
+      - Rehearsal Dinner
+      - Rehearsal Lunch
       required: false
     - id: 17
       name: main_rehearsal_date
@@ -143,9 +143,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Full'', ''value'': ''Full''}'
-      - '{''id'': 2, ''label'': ''Partial'', ''value'': ''Partial''}'
-      - '{''id'': 3, ''label'': False, ''value'': False}'
+      - Full
+      - Partial
+      - 'False'
       required: false
     - id: 20
       name: main_catering_services

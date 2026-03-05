@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Meeting Room''}'
-      - '{''value'': ''Study Room''}'
-      - '{''value'': ''Other''}'
+      - Meeting Room
+      - Study Room
+      - Other
       required: false
     - id: 6
       name: room_number
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''1st Floor''}'
-      - '{''value'': ''2nd Floor''}'
-      - '{''value'': ''3rd Floor''}'
+      - 1st Floor
+      - 2nd Floor
+      - 3rd Floor
       required: false
     - id: 8
       name: reservation_duration
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Half-day''}'
-      - '{''value'': ''Full-day''}'
-      - '{''value'': ''Multiple days''}'
+      - Half-day
+      - Full-day
+      - Multiple days
       required: false
     - id: 9
       name: reservation_notes

@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Stroke'', ''value'': ''stroke''}'
-      - '{''label'': ''Hemorrhagic Stroke'', ''value'': ''hemorrhagic_stroke''}'
-      - '{''label'': ''Ischemic Stroke'', ''value'': ''ischemic_stroke''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Stroke
+      - Hemorrhagic Stroke
+      - Ischemic Stroke
+      - Other
       required: false
     - id: 8
       name: risk_factors
@@ -62,10 +62,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Age'', ''value'': ''age''}'
-      - '{''label'': ''History of Stroke'', ''value'': ''history_of_stroke''}'
-      - '{''label'': ''Family History'', ''value'': ''family_history''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Age
+      - History of Stroke
+      - Family History
+      - Other
       required: false
     - id: 9
       name: icv5_score

@@ -56,17 +56,12 @@ inputSchema:
       type: select_one
       options:
       - Under $100
-      - 0
+      - '0'
       - $100
       - 000 - $500
-      - 0
       - $500
       - 000 - $1
-      - 0
-      - 0
       - Over $1
-      - 0
-      - 0
       required: false
     - id: 8
       name: employee_count
@@ -106,8 +101,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: section_verification
@@ -136,6 +131,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
+      - 'True'
       - I certify
       required: true

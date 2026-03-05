@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 100, ''name'': ''type_1'', ''label'': ''Type 1''}'
-      - '{''id'': 101, ''name'': ''type_2'', ''label'': ''Type 2''}'
+      - Type 1
+      - Type 2
       required: false
     - id: 7
       name: incident_category
@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 200, ''name'': ''category_1'', ''label'': ''Category 1''}'
-      - '{''id'': 201, ''name'': ''category_2'', ''label'': ''Category 2''}'
+      - Category 1
+      - Category 2
       required: false
     - id: 8
       name: incident_subcategory
@@ -62,7 +62,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 300, ''name'': ''subcategory_1'', ''label'': ''Subcategory 1''}'
+      - Subcategory 1
       - Other
       required: false
     - id: 9
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 400, ''name'': ''status_1'', ''label'': ''Status 1''}'
-      - '{''id'': 401, ''name'': ''status_2'', ''label'': ''Status 2''}'
+      - Status 1
+      - Status 2
       required: false
     - id: 11
       name: incident_priority

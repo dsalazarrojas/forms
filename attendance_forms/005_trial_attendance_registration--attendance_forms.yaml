@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Today''}'
-      - '{''id'': 2, ''label'': ''Tomorrow''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Today
+      - Tomorrow
+      - Other
       required: false
     - id: 3
       name: preferred_times
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''10:00 AM''}'
-      - '{''id'': 2, ''label'': ''11:00 AM''}'
-      - '{''id'': 3, ''label'': ''12:00 PM''}'
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
       required: false
     - id: 4
       name: attendee_details

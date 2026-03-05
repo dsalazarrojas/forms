@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''single_room'', ''label'': ''Single Room''}'
-      - '{''id'': 2, ''name'': ''suite'', ''label'': ''Suite''}'
-      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      - Single Room
+      - Suite
+      - Other
       required: false
     - id: 5
       name: checkin_date
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''king'', ''label'': ''King''}'
-      - '{''id'': 2, ''name'': ''queen'', ''label'': ''Queen''}'
-      - '{''id'': 3, ''name'': ''sofa_bed'', ''label'': ''Sofa Bed''}'
+      - King
+      - Queen
+      - Sofa Bed
       required: false
     - id: 13
       name: reservation_date
@@ -134,10 +134,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
-      - '{''id'': 2, ''name'': ''cash'', ''label'': ''Cash''}'
-      - '{''id'': 3, ''name'': ''credit_card'', ''label'': ''Credit Card''}'
-      - '{''id'': 4, ''name'': ''other'', ''label'': ''Other''}'
+      - Bank Transfer
+      - Cash
+      - Credit Card
+      - Other
       required: false
     - id: 19
       name: payment_terms

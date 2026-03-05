@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''attending''}'
-      - '{''id'': 2, ''name'': ''not_attending''}'
-      - '{''id'': 3, ''name'': ''declined''}'
+      - attending
+      - not attending
+      - declined
       required: false
     - id: 3
       name: participant_name
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''not_specified''}'
+      - 'True'
+      - 'False'
+      - not specified
       required: false
     - id: 14
       name: participant_notes

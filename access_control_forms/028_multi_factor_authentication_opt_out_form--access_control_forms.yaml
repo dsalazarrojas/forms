@@ -5,192 +5,99 @@ inputSchema:
     pages:
     - id: 1
       name: form_1
-      label: What's your name?
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: form_2
-      label: Reason for opting out
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: form_3
-      label: What's your risk level?
+      label: What is your risk level?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''High''}'
-      required: false
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 3
+      name: form_3
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
     - id: 4
       name: form_4
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: form_5
       label: Do you have any security questions for our team?
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: true
-    - id: 5
-      name: form_5
-      label: Have you reviewed the terms and conditions?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: form_6
-      label: Date
+      label: Do you have any additional comments or questions about MFA?
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 7
       name: form_7
-      label: Time
+      label: How would you like us to follow up with you?
       hint: null
-      type: time
-      options: []
+      type: select_multiple
+      options:
+      - Text
+      - Call
+      - Email
+      - None
       required: false
     - id: 8
       name: form_8
-      label: Risk Acknowledgment
+      label: Do you acknowledge our security policies?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 9
       name: form_9
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 10
-      name: form_10
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: form_11
-      label: What else do we need to know?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: form_12
       label: How may we contact you?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: form_13
-      label: Your message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: form_14
-      label: Additional comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: form_15
-      label: Do you have any questions or concerns?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: form_16
-      label: How may we follow up with you?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: form_17
-      label: How would you like to be contacted?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: form_18
-      label: Do you have any other comments?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: form_19
-      label: None
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
       required: true
-    - id: 20
-      name: form_20
-      label: None
+    - id: 10
+      name: form_10
+      label: Do you have any other comments or questions?
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
-    - id: 21
-      name: form_21
-      label: None
+    - id: 11
+      name: form_11
+      label: Have you reviewed the terms and conditions of this form?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: false
-    - id: 22
-      name: form_22
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: false
-    - id: 23
-      name: form_23
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: false
-    - id: 24
-      name: form_24
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_25
-      label: None
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: form_12
+      label: Form 12
       hint: null
       type: text
       options: []

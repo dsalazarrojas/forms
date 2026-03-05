@@ -54,14 +54,14 @@ inputSchema:
       required: false
     - id: 8
       name: nominator_email
-      label: Email
+      label: Nominator Email
       hint: null
       type: email
       options: []
       required: false
     - id: 9
       name: nominator_phone
-      label: Phone
+      label: Nominator Phone
       hint: null
       type: text
       options: []
@@ -100,9 +100,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''award_recipients_option_1'', ''value'': ''First Name''}'
-      - '{''name'': ''award_recipients_option_2'', ''value'': ''Last Name''}'
-      - '{''name'': ''award_recipients_option_3'', ''value'': ''Both''}'
+      - First Name
+      - Last Name
+      - Both
       required: false
     - id: 15
       name: reviewer_name
@@ -113,7 +113,7 @@ inputSchema:
       required: false
     - id: 16
       name: reviewer_comments
-      label: Comments
+      label: Reviewer Comments
       hint: null
       type: text
       options: []

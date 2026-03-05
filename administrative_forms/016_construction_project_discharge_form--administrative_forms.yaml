@@ -1,69 +1,58 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Construction Project Discharge Form
     pages:
-      - id: 1
-        name: section_project_closure
-        label: -- Project Closure --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: project_name
-        label: Project name
-        hint: Full project title
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: completion_date
-        label: Completion date
-        hint: Date of practical completion
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: final_inspection_passed
-        label: Final inspection passed
-        hint: Has final inspection been completed and passed
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 5
-        name: outstanding_items
-        label: Outstanding items
-        hint: List any defects or punch list items remaining
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: client_sign_off
-        label: Client sign off name
-        hint: Name of client representative approving discharge
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: final_documents_submitted
-        label: Final documents submitted
-        hint: Confirm that handover documents were provided
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
+    - id: 1
+      name: section_project_closure
+      label: -- Project Closure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project name
+      hint: Full project title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: completion_date
+      label: Completion date
+      hint: Date of practical completion
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: final_inspection_passed
+      label: Final inspection passed
+      hint: Has final inspection been completed and passed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: outstanding_items
+      label: Outstanding items
+      hint: List any defects or punch list items remaining
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_sign_off
+      label: Client sign off name
+      hint: Name of client representative approving discharge
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: final_documents_submitted
+      label: Final documents submitted
+      hint: Confirm that handover documents were provided
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

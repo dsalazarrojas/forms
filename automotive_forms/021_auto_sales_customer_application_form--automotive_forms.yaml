@@ -316,8 +316,8 @@ inputSchema:
       hint: Trading in a vehicle
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Maybe
       required: true
     - id: 37
@@ -353,8 +353,8 @@ inputSchema:
       hint: In past 7 years
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 41
       name: repossessions
@@ -362,8 +362,8 @@ inputSchema:
       hint: In past 5 years
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 42
       name: references

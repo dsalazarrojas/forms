@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Open'', ''label'': ''Open''}'
-      - '{''value'': ''In Progress'', ''label'': ''In Progress''}'
-      - '{''value'': ''Closed'', ''label'': ''Closed''}'
+      - Open
+      - In Progress
+      - Closed
       required: false
     - id: 4
       name: incident_date_start
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Team'', ''label'': ''Team''}'
-      - '{''value'': ''Individual'', ''label'': ''Individual''}'
-      - '{''value'': ''Both'', ''label'': ''Both''}'
+      - Team
+      - Individual
+      - Both
       required: false
     - id: 8
       name: session_start_time
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Natural Disaster'', ''label'': ''Natural Disaster''}'
-      - '{''value'': ''Man-made'', ''label'': ''Man-made''}'
-      - '{''value'': ''Both'', ''label'': ''Both''}'
+      - Natural Disaster
+      - Man-made
+      - Both
       required: false
     - id: 11
       name: session_notes
@@ -95,6 +95,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Virtual'', ''label'': ''Virtual''}'
-      - '{''value'': ''In Person'', ''label'': ''In Person''}'
+      - Virtual
+      - In Person
       required: false

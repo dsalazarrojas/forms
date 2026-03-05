@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - John Doe
+      - Jane Doe
+      - Other
       required: false
     - id: 3
       name: objectives
@@ -26,9 +26,9 @@ inputSchema:
       hint: What are the key objectives of this account?
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Revenue Growth''}'
-      - '{''id'': 2, ''label'': ''Customer Acquisition''}'
-      - '{''id'': 3, ''label'': ''Retention''}'
+      - Revenue Growth
+      - Customer Acquisition
+      - Retention
       required: false
     - id: 4
       name: stakeholders
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''CEO''}'
-      - '{''id'': 2, ''label'': ''Sales Team''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - CEO
+      - Sales Team
+      - Other
       required: false
     - id: 5
       name: challenges
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Increase Revenue''}'
-      - '{''id'': 2, ''label'': ''Enhance Customer Experience''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Increase Revenue
+      - Enhance Customer Experience
+      - Other
       required: false
     - id: 7
       name: customer_profile
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 10
       name: sales_outcomes
@@ -87,9 +87,9 @@ inputSchema:
       hint: How would you like to see this account?
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Won''}'
-      - '{''id'': 2, ''label'': ''Lost''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Won
+      - Lost
+      - Other
       required: false
     - id: 11
       name: next_steps

@@ -4,43 +4,45 @@ inputSchema:
     title: language_proficiency_confidence_survey
     pages:
     - id: 1
-      name: intro_1
-      label: introduction
+      name: intro
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: lang_abilities
-      label: what_are_your_language_abilities
+      label: What are your language abilities?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: lang_skills_report
-      label: how_well_do_you_feel_about_your_language_skills
+      label: How well do you feel about your language skills?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: lang_skills_report
-      label: how_well_do_you_feel_about_your_language_skills
+      name: confidence_levels
+      label: What do you feel confident about your language level?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: confidence_levels
-      label: what_do_you_feel_confident_about_your_language_level
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: lang_skills_assessment
-      label: which_skills_do_you_feel_confident_in
+      label: Which skills do you feel confident in?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: lang_skills_improvement
+      label: Which skills do you feel need improvement?
       hint: null
       type: select_multiple
       options:
@@ -48,179 +50,17 @@ inputSchema:
       - 'No'
       required: true
     - id: 7
-      name: lang_skills_assessment
-      label: which_skills_do_you_feel_confident_in
+      name: lang_skills_difficult
+      label: What skills do you feel are difficult for you?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: true
+      required: false
     - id: 8
-      name: lang_skills_need_improve
-      label: which_skills_do_you_feel_need_improve
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 9
-      name: lang_skills_difficulties
-      label: what_skills_do_you_feel_difficult
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: lang_skills_abilities
-      label: what_skills_do_you_feel_easy
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: lang_skills_improve
-      label: what_skills_do_you_feel_would_improve
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: lang_skills_assessed
-      label: how_do_you_feel_your_language_level_assessed
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Low
-      required: false
-    - id: 13
-      name: lang_skills_difficulties
-      label: what_skills_do_you_feel_difficult
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: lang_skills_abilities
-      label: what_skills_do_you_feel_easy
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: lang_skills_improve
-      label: what_skills_do_you_feel_would_improve
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
       name: lang_skills_improvement_areas
-      label: what_areas_do_you_feel_need_improvement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: lang_skills_improvement_areas_held
-      label: what_areas_do_you_feel_need_improvement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: lang_skills_improvement_areas_held
-      label: what_areas_do_you_feel_need_improvement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: lang_skills_improvement_areas_held
-      label: what_areas_do_you_feel_need_improvement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: lang_skills_improvement_areas
-      label: what_areas_do_you_feel_need_improvement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: lang_skills_improvement_areas_held
-      label: what_areas_do_you_feel_need_improvement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: lang_skills_improvement_areas
-      label: what_areas_do_you_feel_need_improvement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: lang_skills_improvement_areas
-      label: what_areas_do_you_feel_need_improvement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: lang_skills_improvement_areas
-      label: what_areas_do_you_feel_need_improvement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: lang_skills_improvement_areas
-      label: what_areas_do_you_feel_need_improvement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 26
-      name: lang_skills_improvement_areas
-      label: what_areas_do_you_feel_need_improvement
+      label: What areas do you feel need improvement?
       hint: null
       type: select_multiple
       options:

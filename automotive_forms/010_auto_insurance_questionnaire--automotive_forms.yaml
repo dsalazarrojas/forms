@@ -206,8 +206,8 @@ inputSchema:
       type: select_one
       options:
       - None
-      - 1
-      - 2
+      - '1'
+      - '2'
       - 3 or more
       required: true
     - id: 24
@@ -217,8 +217,8 @@ inputSchema:
       type: select_one
       options:
       - None
-      - 1
-      - 2
+      - '1'
+      - '2'
       - 3 or more
       required: true
     - id: 25
@@ -227,8 +227,8 @@ inputSchema:
       hint: Has your license ever been suspended
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 26
       name: insurance_questions
@@ -266,7 +266,7 @@ inputSchema:
       hint: Will others drive this vehicle
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes 1 additional
       - Yes 2 additional
       - Yes 3 or more
@@ -277,9 +277,9 @@ inputSchema:
       hint: How many vehicles need coverage
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
+      - '1'
+      - '2'
+      - '3'
       - 4 or more
       required: true
     - id: 31

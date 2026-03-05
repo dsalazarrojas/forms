@@ -5,196 +5,97 @@ inputSchema:
     pages:
     - id: 1
       name: department
-      label: business_contribution_department
+      label: Department
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: true
+      - Marketing
+      - Sales
+      - Support
+      - Development
+      required: false
     - id: 2
       name: month
-      label: contribution_month
+      label: Contribution Month
       hint: null
       type: date
       options: []
       required: false
     - id: 3
       name: total_contributions
-      label: total_contributions
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: total_contributions
-      label: total_contributions
+      label: Total Contributions
       hint: null
       type: number
       options: []
       required: true
-    - id: 5
-      name: department
-      label: department
+    - id: 4
+      name: contribution_status
+      label: Contribution Status
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: true
-    - id: 6
-      name: department_2
-      label: department
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 7
-      name: department_1
-      label: department_1
+      required: false
+    - id: 5
+      name: contribution_descriptions
+      label: Contribution Descriptions
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: department_1
-      label: department_1
+    - id: 6
+      name: contribution_goals
+      label: Contribution Goals
       hint: null
-      type: number
+      type: text
       options: []
       required: true
-    - id: 9
-      name: contribution
-      label: contribution
+    - id: 7
+      name: contribution_description
+      label: Contribution Description
       hint: null
-      type: number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contribution_success
+      label: Contribution Success
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contribution_details
+      label: Contribution Details
+      hint: null
+      type: text
       options: []
       required: true
     - id: 10
-      name: contribution
-      label: contribution
+      name: contribution_goal
+      label: Contribution Goal
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
+      type: date
+      options: []
+      required: false
     - id: 11
-      name: contribution_1
-      label: contribution_1
+      name: contribution_type
+      label: Contribution Type
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: true
+      - Marketing
+      - Sales
+      - Support
+      - Development
+      required: false
     - id: 12
-      name: contribution_2
-      label: contribution_2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 13
-      name: contribution_3
-      label: contribution_3
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: contribution_4
-      label: contribution_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: contribution_4
-      label: contribution_4
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: contribution_5
-      label: contribution_5
+      name: contribution_date
+      label: Contribution Date
       hint: null
       type: date
       options: []
-      required: true
-    - id: 17
-      name: contribution_6
-      label: contribution_6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: contribution_7_goals
-      label: contribution_7_goals
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: contribution_7_goals_1
-      label: contribution_7_goals_1
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 20
-      name: contribution_8
-      label: contribution_8
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 21
-      name: contribution_9
-      label: contribution_9
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 22
-      name: contribution_10
-      label: contribution_10
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: contribution_11
-      label: contribution_11
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: contribution_12
-      label: contribution_12
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: contribution_13
-      label: contribution_13
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: true

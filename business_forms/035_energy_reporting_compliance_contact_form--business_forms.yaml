@@ -51,11 +51,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''natural_gas'', ''label'': ''Natural Gas''}'
-      - '{''id'': 2, ''name'': ''electricity'', ''label'': ''Electricity''}'
-      - '{''id'': 3, ''name'': ''solar'', ''label'': ''Solar''}'
-      - '{''id'': 4, ''name'': ''wind'', ''label'': ''Wind''}'
-      - '{''id'': 5, ''name'': ''other'', ''label'': ''Other''}'
+      - Natural Gas
+      - Electricity
+      - Solar
+      - Wind
+      - Other
       required: false
     - id: 8
       name: company_type
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''small_business'', ''label'': ''Small Business''}'
-      - '{''id'': 2, ''name'': ''large_business'', ''label'': ''Large Business''}'
-      - '{''id'': 3, ''name'': ''government_agency'', ''label'': ''Government Agency''}'
+      - Small Business
+      - Large Business
+      - Government Agency
       required: false
     - id: 9
       name: company_industry
@@ -73,14 +73,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''finance'', ''label'': ''Finance''}'
-      - '{''id'': 2, ''name'': ''retail'', ''label'': ''Retail''}'
-      - '{''id'': 3, ''name'': ''energy_and_water'', ''label'': ''Energy and Water''}'
-      - '{''id'': 4, ''name'': ''agriculture'', ''label'': ''Agriculture''}'
-      - '{''id'': 5, ''name'': ''construction'', ''label'': ''Construction''}'
-      - '{''id'': 6, ''name'': ''healthcare'', ''label'': ''Healthcare''}'
-      - '{''id'': 7, ''name'': ''manufacturing'', ''label'': ''Manufacturing''}'
-      - '{''id'': 8, ''name'': ''transportation'', ''label'': ''Transportation''}'
+      - Finance
+      - Retail
+      - Energy and Water
+      - Agriculture
+      - Construction
+      - Healthcare
+      - Manufacturing
+      - Transportation
       required: false
     - id: 10
       name: contact_method
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''call'', ''label'': ''Call''}'
-      - '{''id'': 2, ''name'': ''email'', ''label'': ''Email''}'
-      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      - Call
+      - Email
+      - Other
       required: false
     - id: 11
       name: other_info
@@ -112,8 +112,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''national'', ''label'': ''National''}'
-      - '{''id'': 2, ''name'': ''international'', ''label'': ''International''}'
+      - National
+      - International
       required: false
     - id: 14
       name: zip
@@ -128,57 +128,57 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''al'', ''label'': ''Alabama''}'
-      - '{''id'': 2, ''name'': ''ak'', ''label'': ''Alaska''}'
-      - '{''id'': 3, ''name'': ''az'', ''label'': ''Arizona''}'
-      - '{''id'': 4, ''name'': ''ar'', ''label'': ''Arkansas''}'
-      - '{''id'': 5, ''name'': ''ca'', ''label'': ''California''}'
-      - '{''id'': 6, ''name'': ''co'', ''label'': ''Colorado''}'
-      - '{''id'': 7, ''name'': ''ct'', ''label'': ''Connecticut''}'
-      - '{''id'': 8, ''name'': ''de'', ''label'': ''Delaware''}'
-      - '{''id'': 2, ''name'': ''dc'', ''label'': ''Washington D.C.''}'
-      - '{''id'': 9, ''name'': ''fl'', ''label'': ''Florida''}'
-      - '{''id'': 10, ''name'': ''ga'', ''label'': ''Georgia''}'
-      - '{''id'': 11, ''name'': ''hi'', ''label'': ''Hawaii''}'
-      - '{''id'': 12, ''name'': ''id'', ''label'': ''Idaho''}'
-      - '{''id'': 13, ''name'': ''il'', ''label'': ''Illinois''}'
-      - '{''id'': 14, ''name'': ''in'', ''label'': ''Indiana''}'
-      - '{''id'': 15, ''name'': ''ia'', ''label'': ''Iowa''}'
-      - '{''id'': 16, ''name'': ''ks'', ''label'': ''Kansas''}'
-      - '{''id'': 17, ''name'': ''ky'', ''label'': ''Kentucky''}'
-      - '{''id'': 18, ''name'': ''la'', ''label'': ''Louisiana''}'
-      - '{''id'': 19, ''name'': ''me'', ''label'': ''Maine''}'
-      - '{''id'': 20, ''name'': ''ma'', ''label'': ''Massachusetts''}'
-      - '{''id'': 21, ''name'': ''md'', ''label'': ''Maryland''}'
-      - '{''id'': 22, ''name'': ''mich'', ''label'': ''Michigan''}'
-      - '{''id'': 23, ''name'': ''mn'', ''label'': ''Minnesota''}'
-      - '{''id'': 24, ''name'': ''mo'', ''label'': ''Missouri''}'
-      - '{''id'': 25, ''name'': ''ms'', ''label'': ''Mississippi''}'
-      - '{''id'': 26, ''name'': ''mt'', ''label'': ''Montana''}'
-      - '{''id'': 27, ''name'': ''ne'', ''label'': ''Nebraska''}'
-      - '{''id'': 28, ''name'': ''nv'', ''label'': ''Nevada''}'
-      - '{''id'': 29, ''name'': ''nh'', ''label'': ''New Hampshire''}'
-      - '{''id'': 30, ''name'': ''nj'', ''label'': ''New Jersey''}'
-      - '{''id'': 31, ''name'': ''nm'', ''label'': ''New Mexico''}'
-      - '{''id'': 32, ''name'': ''ny'', ''label'': ''New York''}'
-      - '{''id'': 33, ''name'': ''nc'', ''label'': ''North Carolina''}'
-      - '{''id'': 34, ''name'': ''nd'', ''label'': ''North Dakota''}'
-      - '{''id'': 35, ''name'': ''oh'', ''label'': ''Ohio''}'
-      - '{''id'': 36, ''name'': ''ok'', ''label'': ''Oklahoma''}'
-      - '{''id'': 37, ''name'': ''or'', ''label'': ''Oregon''}'
-      - '{''id'': 38, ''name'': ''pa'', ''label'': ''Pennsylvania''}'
-      - '{''id'': 39, ''name'': ''ri'', ''label'': ''Rhode Island''}'
-      - '{''id'': 40, ''name'': ''sc'', ''label'': ''South Carolina''}'
-      - '{''id'': 41, ''name'': ''sd'', ''label'': ''South Dakota''}'
-      - '{''id'': 42, ''name'': ''tn'', ''label'': ''Tennessee''}'
-      - '{''id'': 43, ''name'': ''tx'', ''label'': ''Texas''}'
-      - '{''id'': 44, ''name'': ''ut'', ''label'': ''Utah''}'
-      - '{''id'': 45, ''name'': ''va'', ''label'': ''Virginia''}'
-      - '{''id'': 46, ''name'': ''vt'', ''label'': ''Vermont''}'
-      - '{''id'': 47, ''name'': ''wa'', ''label'': ''Washington''}'
-      - '{''id'': 48, ''name'': ''wi'', ''label'': ''Wisconsin''}'
-      - '{''id'': 49, ''name'': ''wv'', ''label'': ''West Virginia''}'
-      - '{''id'': 50, ''name'': ''wv1'', ''label'': ''Wyoming''}'
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Washington D.C.
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Massachusetts
+      - Maryland
+      - Michigan
+      - Minnesota
+      - Missouri
+      - Mississippi
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Virginia
+      - Vermont
+      - Washington
+      - Wisconsin
+      - West Virginia
+      - Wyoming
       required: false
     - id: 16
       name: city
@@ -186,8 +186,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''national'', ''label'': ''National''}'
-      - '{''id'': 2, ''name'': ''international'', ''label'': ''International''}'
+      - National
+      - International
       required: false
     - id: 17
       name: zip_1
@@ -202,56 +202,56 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''al'', ''label'': ''Alabama''}'
-      - '{''id'': 2, ''name'': ''ak'', ''label'': ''Alaska''}'
-      - '{''id'': 3, ''name'': ''az'', ''label'': ''Arizona''}'
-      - '{''id'': 4, ''name'': ''ar'', ''label'': ''Arkansas''}'
-      - '{''id'': 5, ''name'': ''ca'', ''label'': ''California''}'
-      - '{''id'': 6, ''name'': ''co'', ''label'': ''Colorado''}'
-      - '{''id'': 7, ''name'': ''ct'', ''label'': ''Connecticut''}'
-      - '{''id'': 8, ''name'': ''de'', ''label'': ''Delaware''}'
-      - '{''id'': 9, ''name'': ''fl'', ''label'': ''Florida''}'
-      - '{''id'': 10, ''name'': ''ga'', ''label'': ''Georgia''}'
-      - '{''id'': 11, ''name'': ''hi'', ''label'': ''Hawaii''}'
-      - '{''id'': 12, ''name'': ''id'', ''label'': ''Idaho''}'
-      - '{''id'': 13, ''name'': ''il'', ''label'': ''Illinois''}'
-      - '{''id'': 14, ''name'': ''in'', ''label'': ''Indiana''}'
-      - '{''id'': 15, ''name'': ''ia'', ''label'': ''Iowa''}'
-      - '{''id'': 16, ''name'': ''ks'', ''label'': ''Kansas''}'
-      - '{''id'': 17, ''name'': ''ky'', ''label'': ''Kentucky''}'
-      - '{''id'': 18, ''name'': ''la'', ''label'': ''Louisiana''}'
-      - '{''id'': 19, ''name'': ''me'', ''label'': ''Maine''}'
-      - '{''id'': 20, ''name'': ''ma'', ''label'': ''Massachusetts''}'
-      - '{''id'': 21, ''name'': ''md'', ''label'': ''Maryland''}'
-      - '{''id'': 22, ''name'': ''mich'', ''label'': ''Michigan''}'
-      - '{''id'': 23, ''name'': ''mn'', ''label'': ''Minnesota''}'
-      - '{''id'': 24, ''name'': ''mo'', ''label'': ''Missouri''}'
-      - '{''id'': 25, ''name'': ''ms'', ''label'': ''Mississippi''}'
-      - '{''id'': 26, ''name'': ''mt'', ''label'': ''Montana''}'
-      - '{''id'': 27, ''name'': ''ne'', ''label'': ''Nebraska''}'
-      - '{''id'': 28, ''name'': ''nv'', ''label'': ''Nevada''}'
-      - '{''id'': 29, ''name'': ''nh'', ''label'': ''New Hampshire''}'
-      - '{''id'': 30, ''name'': ''nj'', ''label'': ''New Jersey''}'
-      - '{''id'': 31, ''name'': ''nm'', ''label'': ''New Mexico''}'
-      - '{''id'': 32, ''name'': ''ny'', ''label'': ''New York''}'
-      - '{''id'': 33, ''name'': ''nc'', ''label'': ''North Carolina''}'
-      - '{''id'': 34, ''name'': ''nd'', ''label'': ''North Dakota''}'
-      - '{''id'': 35, ''name'': ''oh'', ''label'': ''Ohio''}'
-      - '{''id'': 36, ''name'': ''ok'', ''label'': ''Oklahoma''}'
-      - '{''id'': 37, ''name'': ''or'', ''label'': ''Oregon''}'
-      - '{''id'': 38, ''name'': ''pa'', ''label'': ''Pennsylvania''}'
-      - '{''id'': 39, ''name'': ''ri'', ''label'': ''Rhode Island''}'
-      - '{''id'': 40, ''name'': ''sc'', ''label'': ''South Carolina''}'
-      - '{''id'': 41, ''name'': ''sd'', ''label'': ''South Dakota''}'
-      - '{''id'': 42, ''name'': ''tn'', ''label'': ''Tennessee''}'
-      - '{''id'': 43, ''name'': ''tx'', ''label'': ''Texas''}'
-      - '{''id'': 44, ''name'': ''ut'', ''label'': ''Utah''}'
-      - '{''id'': 45, ''name'': ''va'', ''label'': ''Virginia''}'
-      - '{''id'': 46, ''name'': ''vt'', ''label'': ''Vermont''}'
-      - '{''id'': 47, ''name'': ''wa'', ''label'': ''Washington''}'
-      - '{''id'': 48, ''name'': ''wi'', ''label'': ''Wisconsin''}'
-      - '{''id'': 49, ''name'': ''wv'', ''label'': ''West Virginia''}'
-      - '{''id'': 50, ''name'': ''wv1'', ''label'': ''Wyoming''}'
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Massachusetts
+      - Maryland
+      - Michigan
+      - Minnesota
+      - Missouri
+      - Mississippi
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Virginia
+      - Vermont
+      - Washington
+      - Wisconsin
+      - West Virginia
+      - Wyoming
       required: false
     - id: 19
       name: country
@@ -259,9 +259,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''usa'', ''label'': ''USA''}'
-      - '{''id'': 2, ''name'': ''canada'', ''label'': ''Canada''}'
-      - '{''id'': 3, ''name'': ''mexico'', ''label'': ''Mexico''}'
+      - USA
+      - Canada
+      - Mexico
       required: false
     - id: 20
       name: other_info_1
@@ -283,10 +283,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''natural_gas'', ''label'': ''Natural Gas''}'
-      - '{''id'': 2, ''name'': ''electricity'', ''label'': ''Electricity''}'
-      - '{''id'': 3, ''name'': ''solar'', ''label'': ''Solar''}'
-      - '{''id'': 4, ''name'': ''wind'', ''label'': ''Wind''}'
+      - Natural Gas
+      - Electricity
+      - Solar
+      - Wind
       required: false
     - id: 23
       name: company_type_1
@@ -294,9 +294,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''small_business'', ''label'': ''Small Business''}'
-      - '{''id'': 2, ''name'': ''large_business'', ''label'': ''Large Business''}'
-      - '{''id'': 3, ''name'': ''government_agency'', ''label'': ''Government Agency''}'
+      - Small Business
+      - Large Business
+      - Government Agency
       required: false
     - id: 24
       name: company_industry_1
@@ -304,18 +304,18 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''finance'', ''label'': ''Finance''}'
-      - '{''id'': 2, ''name'': ''retail'', ''label'': ''Retail''}'
-      - '{''id'': 3, ''name'': ''energy_and_water'', ''label'': ''Energy and Water''}'
-      - '{''id'': 4, ''name'': ''agriculture'', ''label'': ''Agriculture''}'
-      - '{''id'': 5, ''name'': ''construction'', ''label'': ''Construction''}'
-      - '{''id'': 6, ''name'': ''healthcare'', ''label'': ''Healthcare''}'
-      - '{''id'': 7, ''name'': ''manufacturing'', ''label'': ''Manufacturing''}'
-      - '{''id'': 8, ''name'': ''transportation'', ''label'': ''Transportation''}'
-      - '{''id'': 9, ''name'': ''education'', ''label'': ''Education''}'
-      - '{''id'': 10, ''name'': ''hospitality'', ''label'': ''Hospitality''}'
-      - '{''id'': 11, ''name'': ''services'', ''label'': ''Services''}'
-      - '{''id'': 12, ''name'': ''other'', ''label'': ''Other''}'
+      - Finance
+      - Retail
+      - Energy and Water
+      - Agriculture
+      - Construction
+      - Healthcare
+      - Manufacturing
+      - Transportation
+      - Education
+      - Hospitality
+      - Services
+      - Other
       required: false
     - id: 25
       name: contact_method_1
@@ -323,9 +323,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''call'', ''label'': ''Call''}'
-      - '{''id'': 2, ''name'': ''email'', ''label'': ''Email''}'
-      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      - Call
+      - Email
+      - Other
       required: false
     - id: 26
       name: question_description_2
@@ -347,8 +347,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''national'', ''label'': ''National''}'
-      - '{''id'': 2, ''name'': ''international'', ''label'': ''International''}'
+      - National
+      - International
       required: false
     - id: 29
       name: other_info_3
@@ -370,10 +370,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''natural_gas'', ''label'': ''Natural Gas''}'
-      - '{''id'': 2, ''name'': ''electricity'', ''label'': ''Electricity''}'
-      - '{''id'': 3, ''name'': ''solar'', ''label'': ''Solar''}'
-      - '{''id'': 4, ''name'': ''wind'', ''label'': ''Wind''}'
+      - Natural Gas
+      - Electricity
+      - Solar
+      - Wind
       required: false
     - id: 32
       name: other_info_4
@@ -388,9 +388,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''call'', ''label'': ''Call''}'
-      - '{''id'': 2, ''name'': ''email'', ''label'': ''Email''}'
-      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      - Call
+      - Email
+      - Other
       required: false
     - id: 34
       name: state_2
@@ -398,56 +398,56 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''al'', ''label'': ''Alabama''}'
-      - '{''id'': 2, ''name'': ''ak'', ''label'': ''Alaska''}'
-      - '{''id'': 3, ''name'': ''az'', ''label'': ''Arizona''}'
-      - '{''id'': 4, ''name'': ''ar'', ''label'': ''Arkansas''}'
-      - '{''id'': 5, ''name'': ''ca'', ''label'': ''California''}'
-      - '{''id'': 6, ''name'': ''co'', ''label'': ''Colorado''}'
-      - '{''id'': 7, ''name'': ''ct'', ''label'': ''Connecticut''}'
-      - '{''id'': 8, ''name'': ''de'', ''label'': ''Delaware''}'
-      - '{''id'': 9, ''name'': ''fl'', ''label'': ''Florida''}'
-      - '{''id'': 10, ''name'': ''ga'', ''label'': ''Georgia''}'
-      - '{''id'': 11, ''name'': ''hi'', ''label'': ''Hawaii''}'
-      - '{''id'': 12, ''name'': ''id'', ''label'': ''Idaho''}'
-      - '{''id'': 13, ''name'': ''il'', ''label'': ''Illinois''}'
-      - '{''id'': 14, ''name'': ''in'', ''label'': ''Indiana''}'
-      - '{''id'': 15, ''name'': ''ia'', ''label'': ''Iowa''}'
-      - '{''id'': 16, ''name'': ''ks'', ''label'': ''Kansas''}'
-      - '{''id'': 17, ''name'': ''ky'', ''label'': ''Kentucky''}'
-      - '{''id'': 18, ''name'': ''la'', ''label'': ''Louisiana''}'
-      - '{''id'': 19, ''name'': ''me'', ''label'': ''Maine''}'
-      - '{''id'': 20, ''name'': ''ma'', ''label'': ''Massachusetts''}'
-      - '{''id'': 21, ''name'': ''md'', ''label'': ''Maryland''}'
-      - '{''id'': 22, ''name'': ''mich'', ''label'': ''Michigan''}'
-      - '{''id'': 23, ''name'': ''mn'', ''label'': ''Minnesota''}'
-      - '{''id'': 24, ''name'': ''mo'', ''label'': ''Missouri''}'
-      - '{''id'': 25, ''name'': ''ms'', ''label'': ''Mississippi''}'
-      - '{''id'': 26, ''name'': ''mt'', ''label'': ''Montana''}'
-      - '{''id'': 27, ''name'': ''ne'', ''label'': ''Nebraska''}'
-      - '{''id'': 28, ''name'': ''nv'', ''label'': ''Nevada''}'
-      - '{''id'': 29, ''name'': ''nh'', ''label'': ''New Hampshire''}'
-      - '{''id'': 30, ''name'': ''nj'', ''label'': ''New Jersey''}'
-      - '{''id'': 31, ''name'': ''nm'', ''label'': ''New Mexico''}'
-      - '{''id'': 32, ''name'': ''ny'', ''label'': ''New York''}'
-      - '{''id'': 33, ''name'': ''nc'', ''label'': ''North Carolina''}'
-      - '{''id'': 34, ''name'': ''nd'', ''label'': ''North Dakota''}'
-      - '{''id'': 35, ''name'': ''oh'', ''label'': ''Ohio''}'
-      - '{''id'': 36, ''name'': ''ok'', ''label'': ''Oklahoma''}'
-      - '{''id'': 37, ''name'': ''or'', ''label'': ''Oregon''}'
-      - '{''id'': 38, ''name'': ''pa'', ''label'': ''Pennsylvania''}'
-      - '{''id'': 39, ''name'': ''ri'', ''label'': ''Rhode Island''}'
-      - '{''id'': 40, ''name'': ''sc'', ''label'': ''South Carolina''}'
-      - '{''id'': 41, ''name'': ''sd'', ''label'': ''South Dakota''}'
-      - '{''id'': 42, ''name'': ''tn'', ''label'': ''Tennessee''}'
-      - '{''id'': 43, ''name'': ''tx'', ''label'': ''Texas''}'
-      - '{''id'': 44, ''name'': ''ut'', ''label'': ''Utah''}'
-      - '{''id'': 45, ''name'': ''va'', ''label'': ''Virginia''}'
-      - '{''id'': 46, ''name'': ''vt'', ''label'': ''Vermont''}'
-      - '{''id'': 47, ''name'': ''wa'', ''label'': ''Washington''}'
-      - '{''id'': 48, ''name'': ''wi'', ''label'': ''Wisconsin''}'
-      - '{''id'': 49, ''name'': ''wv'', ''label'': ''West Virginia''}'
-      - '{''id'': 50, ''name'': ''wv1'', ''label'': ''Wyoming''}'
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Massachusetts
+      - Maryland
+      - Michigan
+      - Minnesota
+      - Missouri
+      - Mississippi
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Virginia
+      - Vermont
+      - Washington
+      - Wisconsin
+      - West Virginia
+      - Wyoming
       required: false
     - id: 35
       name: location_2
@@ -455,8 +455,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''national'', ''label'': ''National''}'
-      - '{''id'': 2, ''name'': ''international'', ''label'': ''International''}'
+      - National
+      - International
       required: false
     - id: 36
       name: other_info_5
@@ -478,10 +478,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''natural_gas'', ''label'': ''Natural Gas''}'
-      - '{''id'': 2, ''name'': ''electricity'', ''label'': ''Electricity''}'
-      - '{''id'': 3, ''name'': ''solar'', ''label'': ''Solar''}'
-      - '{''id'': 4, ''name'': ''wind'', ''label'': ''Wind''}'
+      - Natural Gas
+      - Electricity
+      - Solar
+      - Wind
       required: false
     - id: 39
       name: other_info_6
@@ -496,9 +496,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''call'', ''label'': ''Call''}'
-      - '{''id'': 2, ''name'': ''email'', ''label'': ''Email''}'
-      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      - Call
+      - Email
+      - Other
       required: false
     - id: 41
       name: company_industry_2
@@ -506,18 +506,18 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''finance'', ''label'': ''Finance''}'
-      - '{''id'': 2, ''name'': ''retail'', ''label'': ''Retail''}'
-      - '{''id'': 3, ''name'': ''energy_and_water'', ''label'': ''Energy and Water''}'
-      - '{''id'': 4, ''name'': ''agriculture'', ''label'': ''Agriculture''}'
-      - '{''id'': 5, ''name'': ''construction'', ''label'': ''Construction''}'
-      - '{''id'': 6, ''name'': ''healthcare'', ''label'': ''Healthcare''}'
-      - '{''id'': 7, ''name'': ''manufacturing'', ''label'': ''Manufacturing''}'
-      - '{''id'': 8, ''name'': ''transportation'', ''label'': ''Transportation''}'
-      - '{''id'': 9, ''name'': ''education'', ''label'': ''Education''}'
-      - '{''id'': 10, ''name'': ''hospitality'', ''label'': ''Hospitality''}'
-      - '{''id'': 11, ''name'': ''services'', ''label'': ''Services''}'
-      - '{''id'': 12, ''name'': ''other'', ''label'': ''Other''}'
+      - Finance
+      - Retail
+      - Energy and Water
+      - Agriculture
+      - Construction
+      - Healthcare
+      - Manufacturing
+      - Transportation
+      - Education
+      - Hospitality
+      - Services
+      - Other
       required: false
     - id: 42
       name: location_3
@@ -525,6 +525,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''national'', ''label'': ''National''}'
-      - '{''id'': 2, ''name'': ''international'', ''label'': ''International''}'
+      - National
+      - International
       required: false

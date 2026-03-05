@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Water Quality''}'
-      - '{''text'': ''Equipment Function''}'
-      - '{''text'': ''Pool Chemistry''}'
-      - '{''text'': ''Pool Circulation''}'
+      - Water Quality
+      - Equipment Function
+      - Pool Chemistry
+      - Pool Circulation
       required: false
     - id: 3
       name: pool_cleaning
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Clean the pool floor''}'
-      - '{''text'': ''Clean the pool walls''}'
-      - '{''text'': ''Clean the pool steps''}'
+      - Clean the pool floor
+      - Clean the pool walls
+      - Clean the pool steps
       required: false
     - id: 4
       name: water_testing
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''PH Level''}'
-      - '{''text'': ''Alkalinity''}'
-      - '{''text'': ''Stabilizer''}'
+      - PH Level
+      - Alkalinity
+      - Stabilizer
       required: false
     - id: 5
       name: water_balance
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Adjust Chemical Levels''}'
-      - '{''text'': ''Check for Imbalances''}'
+      - Adjust Chemical Levels
+      - Check for Imbalances
       required: false
     - id: 6
       name: equipment_check
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Test Pumps''}'
-      - '{''text'': ''Test Filters''}'
-      - '{''text'': ''Test Valves''}'
+      - Test Pumps
+      - Test Filters
+      - Test Valves
       required: false
     - id: 7
       name: maintenance_schedule
@@ -94,6 +94,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Complete''}'
-      - '{''text'': ''Partial''}'
+      - Complete
+      - Partial
       required: false

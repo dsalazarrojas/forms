@@ -1,17 +1,17 @@
 inputSchema:
   type: object
   properties:
-    title: project-management-tracker
+    title: Project Management Tracker
     pages:
     - id: 1
-      name: project_management_tracker_page_1
-      label: Project Management Tracker Page 1
+      name: project_title_page
+      label: Project Title
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: project_management_tracker_page_2
+      name: task_list_page
       label: Task List
       hint: null
       type: select_multiple
@@ -21,44 +21,24 @@ inputSchema:
       - Task C
       required: false
     - id: 3
-      name: project_management_tracker_page_3
+      name: deadline_page
       label: Deadline
       hint: null
       type: date
       options: []
       required: false
     - id: 4
-      name: project_management_tracker_page_4
-      label: Resource Management
+      name: resources_page
+      label: Resources
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - Resource A
+      - Resource B
+      - Resource C
       required: false
     - id: 5
-      name: project_management_tracker_page_5
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - other option
-      required: false
-    - id: 6
-      name: project_management_tracker_page_6
-      label: Task Deadline
-      hint: Deadline is a date in the format YYYY-MM-DD
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: project_management_tracker_page_7
-      label: Task Time
-      hint: "Time in the format HH:MM"
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: project_management_tracker_page_8
+      name: task_status_page
       label: Task Status
       hint: null
       type: select_one
@@ -67,46 +47,36 @@ inputSchema:
       - Pending
       - Completed
       required: false
-    - id: 9
-      name: project_management_tracker_page_9
-      label: Task Description
-      hint: Description of the task
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: project_management_tracker_page_10
+    - id: 6
+      name: project_description_page
       label: Project Description
-      hint: Description of the project
+      hint: null
       type: note
       options: []
       required: false
-    - id: 11
-      name: project_management_tracker_page_11
+    - id: 7
+      name: task_description_page
+      label: Task Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_deadline_page
       label: Project Deadline
-      hint: Project deadline is a date in the format YYYY-MM-DD
+      hint: null
       type: date
       options: []
       required: false
-    - id: 12
-      name: project_management_tracker_page_12
-      label: Project Resources
-      hint: null
-      type: select_multiple
-      options:
-      - Resource A
-      - Resource B
-      - Resource C
-      required: false
-    - id: 13
-      name: project_management_tracker_page_13
+    - id: 9
+      name: project_time_page
       label: Project Time
-      hint: "Project time in the format HH:MM"
+      hint: null
       type: time
       options: []
       required: false
-    - id: 14
-      name: project_management_tracker_page_14
+    - id: 10
+      name: project_status_page
       label: Project Status
       hint: null
       type: select_one
@@ -115,22 +85,22 @@ inputSchema:
       - Pending
       - Completed
       required: false
-    - id: 15
-      name: project_management_tracker_page_15
-      label: Project Priority
+    - id: 11
+      name: task_time_page
+      label: Task Time
       hint: null
-      type: number
+      type: time
       options: []
       required: false
-    - id: 16
-      name: project_management_tracker_page_16
+    - id: 12
+      name: task_priority_page
       label: Task Priority
       hint: null
       type: number
       options: []
       required: false
-    - id: 17
-      name: project_management_tracker_page_17
+    - id: 13
+      name: task_resources_page
       label: Task Resources
       hint: null
       type: select_multiple
@@ -139,8 +109,8 @@ inputSchema:
       - Resource B
       - Resource C
       required: false
-    - id: 18
-      name: project_management_tracker_page_18
+    - id: 14
+      name: project_resources_page
       label: Project Resources
       hint: null
       type: select_multiple
@@ -149,57 +119,30 @@ inputSchema:
       - Resource B
       - Resource C
       required: false
-    - id: 19
-      name: project_management_tracker_page_19
+    - id: 15
+      name: project_priority_page
       label: Project Priority
       hint: null
       type: number
       options: []
       required: false
-    - id: 20
-      name: project_management_tracker_page_20
-      label: Task Priority
+    - id: 16
+      name: task_priority_page_2
+      label: Task Priority Page 2
       hint: null
       type: number
       options: []
       required: false
-    - id: 21
-      name: project_management_tracker_page_21
-      label: Project Time
-      hint: "Project time in the format HH:MM"
+    - id: 17
+      name: project_time_page_2
+      label: Project Time Page 2
+      hint: null
       type: time
       options: []
       required: false
-    - id: 22
-      name: project_management_tracker_page_22
-      label: Project Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Pending
-      - Completed
-      required: false
-    - id: 23
-      name: project_management_tracker_page_23
-      label: Task Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Pending
-      - Completed
-      required: false
-    - id: 24
-      name: project_management_tracker_page_24
-      label: Project Description
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: project_management_tracker_page_25
-      label: Task Description
+    - id: 18
+      name: project_description_page_2
+      label: Project Description Page 2
       hint: null
       type: note
       options: []

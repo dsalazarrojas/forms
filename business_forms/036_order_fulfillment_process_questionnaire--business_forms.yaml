@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Existing Customer''}'
-      - '{''id'': 2, ''label'': ''New Customer''}'
+      - Existing Customer
+      - New Customer
       required: false
     - id: 3
       name: order_details
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Online Order''}'
-      - '{''id'': 2, ''label'': ''In-Person Order''}'
-      - '{''id'': 3, ''label'': ''Phone Order''}'
+      - Online Order
+      - In-Person Order
+      - Phone Order
       required: false
     - id: 4
       name: fulfillment_method
@@ -56,8 +56,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Phone''}'
-      - '{''id'': 2, ''label'': ''Email''}'
+      - Phone
+      - Email
       required: true
     - id: 8
       name: customer_signature

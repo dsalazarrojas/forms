@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Low'', ''value'': ''Low''}'
-      - '{''label'': ''Medium'', ''value'': ''Medium''}'
-      - '{''label'': ''High'', ''value'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 5
       name: safety_measures
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Lockout/Tagout'', ''value'': ''Lockout/Tagout''}'
-      - '{''label'': ''Safety Sign'', ''value'': ''Safety Sign''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - Lockout/Tagout
+      - Safety Sign
+      - Other
       required: false
     - id: 6
       name: notes
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Functional'', ''value'': ''Functional''}'
-      - '{''label'': ''Non-Functional'', ''value'': ''Non-Functional''}'
-      - '{''label'': ''Under Maintenance'', ''value'': ''Under Maintenance''}'
+      - Functional
+      - Non-Functional
+      - Under Maintenance
       required: false
     - id: 14
       name: comments

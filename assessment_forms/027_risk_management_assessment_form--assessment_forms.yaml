@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''risk_factors_1'', ''description'': ''Physical Hazards''}'
-      - '{''id'': 2, ''name'': ''risk_factors_2'', ''description'': ''Human Error''}'
-      - '{''id'': 3, ''name'': ''risk_factors_3'', ''description'': ''External''}'
-      - '{''id'': 4, ''name'': ''risk_factors_4'', ''description'': ''Technical''}'
-      - '{''id'': 5, ''name'': ''risk_factors_5'', ''description'': ''Cyber''}'
+      - risk factors 1
+      - risk factors 2
+      - risk factors 3
+      - risk factors 4
+      - risk factors 5
       required: false
     - id: 4
       name: risk_management_actions
@@ -56,10 +56,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Monthly''}'
-      - '{''id'': 2, ''name'': ''Quarterly''}'
-      - '{''id'': 3, ''name'': ''Semi-Annually''}'
-      - '{''id'': 4, ''name'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
       required: true
     - id: 8
       name: risk_management_assessment_form_submit
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Submit''}'
-      - '{''id'': 2, ''name'': ''Do Not Submit''}'
+      - Submit
+      - Do Not Submit
       required: true
     - id: 9
       name: risk_management_review_comment
@@ -153,9 +153,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 21
       name: risk_management_risk_rating_scale
@@ -163,9 +163,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''1-2''}'
-      - '{''id'': 2, ''name'': ''3-5''}'
-      - '{''id'': 3, ''name'': ''6-10''}'
+      - 1-2
+      - 3-5
+      - 6-10
       required: true
     - id: 22
       name: risk_management_review_comment
@@ -187,10 +187,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
-      - '{''id'': 4, ''name'': ''Critical''}'
+      - Low
+      - Medium
+      - High
+      - Critical
       required: true
     - id: 25
       name: risk_management_risk_probability_scale
@@ -198,8 +198,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
-      - '{''id'': 4, ''name'': ''Critical''}'
+      - Low
+      - Medium
+      - High
+      - Critical
       required: true

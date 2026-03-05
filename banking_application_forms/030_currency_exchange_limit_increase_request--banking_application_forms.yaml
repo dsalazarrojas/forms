@@ -16,11 +16,11 @@ inputSchema:
       hint: Select the currencies you wish to increase limit for.
       type: select_multiple
       options:
-      - '{''value'': ''AUD''}'
-      - '{''value'': ''CAD''}'
-      - '{''value'': ''EUR''}'
-      - '{''value'': ''USD''}'
-      - '{''value'': ''GBP''}'
+      - AUD
+      - CAD
+      - EUR
+      - USD
+      - GBP
       required: false
     - id: 3
       name: amount
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Rejected''}'
+      - Pending
+      - Approved
+      - Rejected
       required: false
     - id: 8
       name: notes

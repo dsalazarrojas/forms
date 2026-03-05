@@ -23,21 +23,21 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Fever''}'
-      - '{''value'': ''Chills''}'
-      - '{''value'': ''Headache''}'
-      - '{''value'': ''Cough''}'
-      - '{''value'': ''Congestion''}'
-      - '{''value'': ''Shortness of breath''}'
-      - '{''value'': ''Muscle pain''}'
-      - '{''value'': ''Sore throat''}'
-      - '{''value'': ''Runny nose''}'
-      - '{''value'': ''Nausea''}'
-      - '{''value'': ''Vomiting''}'
-      - '{''value'': ''Dizziness''}'
-      - '{''value'': ''Numbness/tingling sensation''}'
-      - '{''value'': ''Loss of appetite''}'
-      - '{''value'': ''Loss of taste''}'
+      - Fever
+      - Chills
+      - Headache
+      - Cough
+      - Congestion
+      - Shortness of breath
+      - Muscle pain
+      - Sore throat
+      - Runny nose
+      - Nausea
+      - Vomiting
+      - Dizziness
+      - Numbness/tingling sensation
+      - Loss of appetite
+      - Loss of taste
       required: false
     - id: 4
       name: vaccination_status
@@ -45,8 +45,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Yes''}'
-      - '{''value'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 5
       name: contact_tracing

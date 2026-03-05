@@ -4,104 +4,105 @@ inputSchema:
     title: Open Day Appointment Scheduling
     pages:
     - id: 1
-      name: form_page_1
+      name: campus_visit_time_slots
       label: Campus Visit Time Slots
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
     - id: 2
-      name: form_page_2
+      name: visitor_information
       label: Visitor Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: form_page_3
+      name: booking_information
       label: Booking Information
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 4
-      name: form_page_4
+      name: campus_visit_booking_information
       label: Campus Visit Booking Information
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 5
-      name: form_page_5
+      name: booking_status
       label: Booking Status
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 6
-      name: form_page_6
-      label: Booking Status
+      name: booking_status_2
+      label: Is the booking active?
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
-      required: false
+      required: true
     - id: 7
-      name: form_page_7
-      label: Booking Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 8
-      name: form_page_8
-      label: Booking Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 9
-      name: form_page_9
-      label: Visitor Information
+      name: visitor_information_2
+      label: Visitor Contact Information
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
+    - id: 8
+      name: booking_status_3
+      label: Booking Status 3
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 9
+      name: booking_confirmation
+      label: Is the booking confirmed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 10
-      name: form_page_10
-      label: Booking Status
+      name: booking_status_4
+      label: Booking Status 4
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
-      required: false
+      required: true
     - id: 11
-      name: form_page_11
-      label: Booking Status
+      name: booking_status_5
+      label: Booking Status 5
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
-      required: false
+      required: true
     - id: 12
-      name: form_page_12
-      label: Booking Status
+      name: booking_status_6
+      label: Booking Status 6
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
-      required: false
+      required: true

@@ -206,8 +206,8 @@ inputSchema:
       hint: Any family allergies?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unknown
       required: false
     - id: 23
@@ -260,7 +260,7 @@ inputSchema:
       hint: Language assistance?
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, Spanish
       - Yes, other (specify)
       required: false
@@ -298,7 +298,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I consent to treatment
-      - false
+      - 'False'
       required: true
     - id: 33
       name: hipaa_acknowledgment

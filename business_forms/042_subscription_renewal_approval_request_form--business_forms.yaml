@@ -51,10 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 8, ''label'': ''Approve'', ''value'': ''Approve''}'
-      - '{''id'': 9, ''label'': ''Deny'', ''value'': ''Deny''}'
-      - '{''id'': 10, ''label'': ''Request for Review'', ''value'': ''Request for
-        Review''}'
+      - Approve
+      - Deny
+      - Request for Review
       required: false
     - id: 8
       name: comments
@@ -69,13 +68,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 11, ''label'': ''Renewal Request'', ''value'': ''Renewal Request''}'
-      - '{''id'': 12, ''label'': ''Subscription Renewal Approval Request'', ''value'':
-        ''Subscription Renewal Approval Request''}'
-      - '{''id'': 13, ''label'': ''Approved'', ''value'': ''Approved''}'
-      - '{''id'': 14, ''label'': ''Not Approved'', ''value'': ''Not Approved''}'
-      - '{''id'': 15, ''label'': ''Approved with Comments'', ''value'': ''Approved
-        with Comments''}'
+      - Renewal Request
+      - Subscription Renewal Approval Request
+      - Approved
+      - Not Approved
+      - Approved with Comments
       required: false
     - id: 10
       name: manager_name

@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''None''}'
-      - '{''id'': 2, ''value'': ''Basic''}'
-      - '{''id'': 3, ''value'': ''Intermediate''}'
-      - '{''id'': 4, ''value'': ''Advanced''}'
-      - '{''id'': 5, ''value'': ''Master''}'
+      - None
+      - Basic
+      - Intermediate
+      - Advanced
+      - Master
       required: false
     - id: 3
       name: learning_needs
@@ -28,9 +28,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Cooking Techniques''}'
-      - '{''id'': 2, ''value'': ''Knife Skills''}'
-      - '{''id'': 3, ''value'': ''Food Safety''}'
+      - Cooking Techniques
+      - Knife Skills
+      - Food Safety
       required: false
     - id: 4
       name: availability

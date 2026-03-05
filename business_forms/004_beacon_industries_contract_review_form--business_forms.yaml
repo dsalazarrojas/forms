@@ -1,162 +1,151 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Beacon Industries Contract Review Form
     pages:
-      - id: 1
-        name: section_contract_overview
-        label: -- Contract Overview --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: contract_id
-        label: Contract Reference ID
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: customer_name
-        label: Customer/Vendor Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: project_name
-        label: Project or Part Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: part_number
-        label: Part Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: section_technical_review
-        label: -- Technical and Quality Review --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: specifications_met
-        label: Do we meet all technical specifications?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Requires Further Investigation
-        required: true
-      - id: 8
-        name: quality_requirements
-        label: Quality Standards Required
-        hint: e.g. ISO 9001, AS9100
-        type: select_multiple
-        options:
-          - ISO 9001
-          - AS9100
-          - TS 16949
-          - Customer Specific
-          - Standard Commercial
-        required: true
-      - id: 9
-        name: special_processing
-        label: Special Processing Required
-        hint: Heat treat, plating, etc.
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: section_commercial_review
-        label: -- Commercial Review --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: delivery_schedule_feasible
-        label: Is the delivery schedule feasible?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 12
-        name: pricing_agreed
-        label: Is pricing within approved margins?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 13
-        name: payment_terms
-        label: Payment Terms
-        hint: null
-        type: select_one
-        options:
-          - Net 30
-          - Net 60
-          - COD
-          - Advance Payment
-        required: true
-      - id: 14
-        name: section_approvals
-        label: -- Review Approvals --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: reviewer_name
-        label: Reviewer Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: review_date
-        label: Review Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 17
-        name: final_recommendation
-        label: Final Recommendation
-        hint: null
-        type: select_one
-        options:
-          - Approve
-          - Approve with Conditions
-          - Reject
-          - Return for Modification
-        required: true
-      - id: 18
-        name: review_notes
-        label: Reviewer Notes and Comments
-        hint: Provide details for any concerns or conditions
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: section_contract_overview
+      label: -- Contract Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contract_id
+      label: Contract Reference ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer/Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_name
+      label: Project or Part Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: part_number
+      label: Part Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_technical_review
+      label: -- Technical and Quality Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: specifications_met
+      label: Do we meet all technical specifications?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Requires Further Investigation
+      required: true
+    - id: 8
+      name: quality_requirements
+      label: Quality Standards Required
+      hint: e.g. ISO 9001, AS9100
+      type: select_multiple
+      options:
+      - ISO 9001
+      - AS9100
+      - TS 16949
+      - Customer Specific
+      - Standard Commercial
+      required: true
+    - id: 9
+      name: special_processing
+      label: Special Processing Required
+      hint: Heat treat, plating, etc.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_commercial_review
+      label: -- Commercial Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: delivery_schedule_feasible
+      label: Is the delivery schedule feasible?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: pricing_agreed
+      label: Is pricing within approved margins?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Net 30
+      - Net 60
+      - COD
+      - Advance Payment
+      required: true
+    - id: 14
+      name: section_approvals
+      label: -- Review Approvals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: final_recommendation
+      label: Final Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Approve with Conditions
+      - Reject
+      - Return for Modification
+      required: true
+    - id: 18
+      name: review_notes
+      label: Reviewer Notes and Comments
+      hint: Provide details for any concerns or conditions
+      type: text
+      options: []
+      required: false

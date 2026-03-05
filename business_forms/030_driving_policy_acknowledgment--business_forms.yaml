@@ -30,9 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I have read the driving policy and I understand its requirements.''}'
-      - '{''label'': ''I have not read the driving policy and I do not understand
-        its requirements.''}'
+      - I have read the driving policy and I understand its requirements.
+      - I have not read the driving policy and I do not understand its requirements.
       required: true
     - id: 5
       name: consent
@@ -40,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''I am the owner or operator of the vehicle.''}'
-      - '{''label'': ''I am the passenger of the vehicle.''}'
-      - '{''label'': ''I am a passenger of the vehicle.''}'
+      - I am the owner or operator of the vehicle.
+      - I am the passenger of the vehicle.
+      - I am a passenger of the vehicle.
       required: true
     - id: 6
       name: signature
@@ -57,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Primary contact method''}'
-      - '{''label'': ''Secondary contact method''}'
-      - '{''label'': ''Emergency contact method''}'
+      - Primary contact method
+      - Secondary contact method
+      - Emergency contact method
       required: true
     - id: 8
       name: vehicle_make
@@ -67,9 +66,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Toyota''}'
-      - '{''label'': ''Honda''}'
-      - '{''label'': ''Ford''}'
+      - Toyota
+      - Honda
+      - Ford
       required: true
     - id: 9
       name: vehicle_model
@@ -77,9 +76,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Corolla''}'
-      - '{''label'': ''Civic''}'
-      - '{''label'': ''F150''}'
+      - Corolla
+      - Civic
+      - F150
       required: true
     - id: 10
       name: driver_license_state
@@ -87,9 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''CA''}'
-      - '{''label'': ''WA''}'
-      - '{''label'': ''FL''}'
+      - CA
+      - WA
+      - FL
       required: true
     - id: 11
       name: driver_license_expiration
@@ -104,9 +103,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Specified''}'
-      - '{''label'': ''Specified''}'
-      - '{''label'': ''Specified''}'
+      - Not Specified
+      - Specified
       required: true
     - id: 13
       name: vehicle_year
@@ -128,9 +126,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Red''}'
-      - '{''label'': ''Blue''}'
-      - '{''label'': ''Green''}'
+      - Red
+      - Blue
+      - Green
       required: true
     - id: 16
       name: emergency_contact_method
@@ -138,9 +136,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Email''}'
-      - '{''label'': ''SMS''}'
+      - Phone
+      - Email
+      - SMS
       required: true
     - id: 17
       name: emergency_contact_person
@@ -148,9 +146,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Primary contact person''}'
-      - '{''label'': ''Secondary contact person''}'
-      - '{''label'': ''Tertiary contact person''}'
+      - Primary contact person
+      - Secondary contact person
+      - Tertiary contact person
       required: true
     - id: 18
       name: contact_method
@@ -158,9 +156,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Email''}'
-      - '{''label'': ''SMS''}'
+      - Phone
+      - Email
+      - SMS
       required: true
     - id: 19
       name: vehicle_status
@@ -168,9 +166,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
-      - '{''label'': ''Pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: true
     - id: 20
       name: vehicle_make_year
@@ -206,9 +204,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Car''}'
-      - '{''label'': ''Truck''}'
-      - '{''label'': ''Van''}'
+      - Car
+      - Truck
+      - Van
       required: true
     - id: 25
       name: signature2

@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''employed''}'
-      - '{''value'': ''self_employed''}'
-      - '{''value'': ''unemployed''}'
-      - '{''value'': ''retired''}'
+      - employed
+      - self employed
+      - unemployed
+      - retired
       required: false
     - id: 6
       name: income_source
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''business''}'
-      - '{''value'': ''investments''}'
-      - '{''value'': ''other''}'
+      - business
+      - investments
+      - other
       required: false
     - id: 7
       name: risk_tolerance
@@ -72,10 +72,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''medium''}'
-      - '{''value'': ''high''}'
-      - '{''value'': ''medium_high''}'
-      - '{''value'': ''high_high''}'
+      - medium
+      - high
+      - medium high
+      - high high
       required: true
     - id: 10
       name: financial_goals
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''short_term''}'
-      - '{''value'': ''long_term''}'
-      - '{''value'': ''medium_term''}'
+      - short term
+      - long term
+      - medium term
       required: true
     - id: 11
       name: investment_expertise
@@ -93,9 +93,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''beginner''}'
-      - '{''value'': ''intermediate''}'
-      - '{''value'': ''advanced''}'
+      - beginner
+      - intermediate
+      - advanced
       required: true
     - id: 12
       name: investment_frequency
@@ -103,10 +103,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''infrequent''}'
-      - '{''value'': ''occasional''}'
-      - '{''value'': ''frequent''}'
-      - '{''value'': ''very_frequent''}'
+      - infrequent
+      - occasional
+      - frequent
+      - very frequent
       required: false
     - id: 13
       name: financial_planner
@@ -114,9 +114,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''financial_advisor''}'
-      - '{''value'': ''financial_planner''}'
-      - '{''value'': ''planner_advisor''}'
+      - financial advisor
+      - financial planner
+      - planner advisor
       required: false
     - id: 14
       name: contact_method
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''phone''}'
-      - '{''value'': ''email''}'
-      - '{''value'': ''mail''}'
+      - phone
+      - email
+      - mail
       required: false
     - id: 15
       name: contact_preferences
@@ -134,9 +134,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''morning''}'
-      - '{''value'': ''afternoon''}'
-      - '{''value'': ''evening''}'
+      - morning
+      - afternoon
+      - evening
       required: false
     - id: 16
       name: email
@@ -165,9 +165,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''fidelity''}'
-      - '{''value'': ''charles_schwab''}'
-      - '{''value'': ''t_d_apex''}'
+      - fidelity
+      - charles schwab
+      - t d apex
       required: false
     - id: 20
       name: investment_investor_type
@@ -175,9 +175,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''individual''}'
-      - '{''value'': ''joint''}'
-      - '{''value'': ''trust''}'
+      - individual
+      - joint
+      - trust
       required: false
     - id: 21
       name: investment_investor_status
@@ -185,9 +185,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''inactive''}'
-      - '{''value'': ''inactive''}'
+      - active
+      - inactive
       required: false
     - id: 22
       name: account_type
@@ -195,9 +194,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''individual''}'
-      - '{''value'': ''joint''}'
-      - '{''value'': ''trust''}'
+      - individual
+      - joint
+      - trust
       required: true
     - id: 23
       name: account_status
@@ -205,9 +204,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''inactive''}'
-      - '{''value'': ''inactive''}'
+      - active
+      - inactive
       required: false
     - id: 24
       name: account_investor
@@ -215,9 +213,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''individual''}'
-      - '{''value'': ''joint''}'
-      - '{''value'': ''trust''}'
+      - individual
+      - joint
+      - trust
       required: false
     - id: 25
       name: account_investor_type
@@ -225,7 +223,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''inactive''}'
-      - '{''value'': ''inactive''}'
+      - active
+      - inactive
       required: false

@@ -5,95 +5,84 @@ inputSchema:
     pages:
     - id: 1
       name: form_id
-      label: Form ID
+      label: What is the category of the innovation?
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Other Forms
+      required: true
+    - id: 2
+      name: description
+      label: Please provide a brief description of the innovation.
       hint: null
       type: text
       options: []
-      required: false
-    - id: 2
+      required: true
+    - id: 3
+      name: assigned_tool
+      label: What is the assigned tool for the innovation?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_id_2
+      label: Is this innovation a form?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: form_id_3
+      label: What is the Form ID?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
       name: category
-      label: Category
+      label: Is this innovation a Business Forms type?
       hint: null
       type: select_one
       options:
       - Business Forms
       - Other Forms
       required: false
-    - id: 3
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: form_id
-      label: form_id
-      hint: null
-      type: select_one
-      options:
-      - '7932'
-      - Other
-      required: false
-    - id: 6
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 7
-      name: form_id
-      label: Form ID
+      name: description_2
+      label: What is a description of the innovation?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: category
-      label: Category
+      name: assigned_tool_2
+      label: What tool would be used to implement this innovation?
       hint: null
       type: select_multiple
       options:
-      - Business Forms
-      - Other Forms
-      required: false
-    - id: 10
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 11
-      name: form_id
-      label: Form ID
+      - Other
+      required: true
+    - id: 9
+      name: form_id_4
+      label: Is this innovation approved?
+      hint: null
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: category_2
+      label: What type of form is this innovation?
       hint: null
       type: select_one
       options:
-      - '7932'
-      - Other
-      required: false
-    - id: 12
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
+      - Form 1
+      - Form 2
+      required: true

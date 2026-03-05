@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''single_family''}'
-      - '{''value'': ''multi_family''}'
-      - '{''value'': ''commercial''}'
+      - single family
+      - multi family
+      - commercial
       required: false
     - id: 5
       name: property_status
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''pending''}'
-      - '{''value'': ''sold''}'
+      - active
+      - pending
+      - sold
       required: false
     - id: 6
       name: contact_name
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''new_york''}'
-      - '{''value'': ''san_francisco''}'
-      - '{''value'': ''los_angeles''}'
+      - new york
+      - san francisco
+      - los angeles
       required: false
     - id: 12
       name: property_state
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''ca''}'
-      - '{''value'': ''ny''}'
-      - '{''value'': ''tx''}'
+      - ca
+      - ny
+      - tx
       required: false
     - id: 13
       name: property_zip

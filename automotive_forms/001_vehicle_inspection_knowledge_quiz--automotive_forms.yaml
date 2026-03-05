@@ -4,180 +4,75 @@ inputSchema:
     title: vehicle_inspection_knowledge_quiz
     pages:
     - id: 1
-      name: vehicle_inspection_knowledge_quiz_2
-      label: engine
-      hint: null
-      type: text
-      options: []
+      name: engine_type
+      label: Engine Type
+      hint: What is the engine type of a typical vehicle?
+      type: select_one
+      options:
+      - V8
+      - V6
+      - V4
+      - Inline 4
       required: true
     - id: 2
-      name: vehicle_inspection_knowledge_quiz_3
-      label: brake_system
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: vehicle_inspection_knowledge_quiz_4
-      label: vehicle_system
-      hint: null
+      name: brake_fluid_level_check
+      label: Brake Fluid Level Check
+      hint: How often should you check the brake fluid level?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Daily
+      - Weekly
+      - Monthly
+      - Every 6 months
+      required: true
+    - id: 3
+      name: suspension_function
+      label: Suspension System Function
+      hint: What is the primary function of the suspension system?
+      type: select_one
+      options:
+      - Supports vehicle stability
+      - Improves steering response
+      - Reduces vibration
+      - Increases vehicle height
       required: true
     - id: 4
-      name: vehicle_inspection_knowledge_quiz_5
-      label: transmission
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: vehicle_inspection_knowledge_quiz_6
-      label: exhaust_system
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: vehicle_inspection_knowledge_quiz_7
-      label: suspension
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 7
-      name: vehicle_inspection_knowledge_quiz_8
-      label: steering_system
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 8
-      name: vehicle_inspection_knowledge_quiz_9
-      label: brakes
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 9
-      name: vehicle_inspection_knowledge_quiz_10
-      label: steering
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: vehicle_inspection_knowledge_quiz_11
-      label: suspension
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 11
-      name: vehicle_inspection_knowledge_quiz_12
-      label: engine
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: vehicle_inspection_knowledge_quiz_13
-      label: transmission
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: vehicle_inspection_knowledge_quiz_14
-      label: brakes
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: vehicle_inspection_knowledge_quiz_15
-      label: steering
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: vehicle_inspection_knowledge_quiz_16
-      label: suspension
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 16
-      name: vehicle_inspection_knowledge_quiz_17
-      label: vehicle_system
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: vehicle_inspection_knowledge_quiz_18
-      label: engine
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: vehicle_inspection_knowledge_quiz_19
-      label: steering_system
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: vehicle_inspection_knowledge_quiz_20
-      label: transmission
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: vehicle_inspection_knowledge_quiz_21
-      label: vehicle_system
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: vehicle_inspection_knowledge_quiz_22
-      label: engine
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: vehicle_inspection_knowledge_quiz_23
-      label: steering_system
-      hint: null
+      name: coolant_temp
+      label: Coolant Temperature Check
+      hint: At what temperature should you check the coolant level?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Hot
+      - Cold
+      - Room Temperature
+      - Not Applicable
       required: true
-    - id: 23
-      name: vehicle_inspection_knowledge_quiz_24
-      label: transmission
-      hint: null
-      type: text
-      options: []
+    - id: 5
+      name: steering_purpose
+      label: Steering System Purpose
+      hint: What is the purpose of the steering system?
+      type: select_one
+      options:
+      - To turn the vehicle
+      - To steer the vehicle
+      - To improve vehicle stability
+      - To reduce fuel consumption
       required: true
-    - id: 24
-      name: vehicle_inspection_knowledge_quiz_25
-      label: final_submission
-      hint: null
+    - id: 6
+      name: tire_inspection_frequency
+      label: Tire Inspection Frequency
+      hint: How often should you inspect the tires?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Every 6 months
+      required: true
+    - id: 7
+      name: final_submission
+      label: Final Submission
+      hint: Record your final results.
       type: date
       options: []
       required: true

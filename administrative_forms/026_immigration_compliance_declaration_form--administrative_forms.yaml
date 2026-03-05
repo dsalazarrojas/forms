@@ -15,180 +15,123 @@ inputSchema:
     title: immigration_compliance_declaration_form
     pages:
     - id: 1
-      name: form_header
-      label: Form Header
-      hint: null
+      name: employee_id
+      label: What is your current employee ID?
+      hint: Enter your employee ID as it appears on your passport or national ID
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: form_section_1_title
-      label: Form Section 1
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: department
+      label: What is your department?
+      hint: Select your department
+      type: select_one
+      options:
+      - HR
+      - Finance
+      - Marketing
+      - Sales
+      - IT
+      - Operations
+      required: true
     - id: 3
-      name: form_section_1_employee_name
-      label: Employee Name
-      hint: Enter your name as it appears on your passport or national ID
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: form_section_1_employee_id
-      label: Employee ID
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: form_section_1_department
-      label: Department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: form_section_2
-      label: Form Section 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: form_section_2_section
-      label: Section
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: form_section_2_subsection
-      label: Subsection
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: form_section_3
-      label: Form Section 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: form_section_3_employee_status
-      label: Employee Status
-      hint: null
+      name: employee_status
+      label: What is your employment status?
+      hint: Select your status
       type: select_one
       options:
       - Active
       - Inactive
       - Retired
-      required: false
-    - id: 11
-      name: form_section_3_employment_start_date
-      label: Employment Start Date
+      required: true
+    - id: 4
+      name: employment_start_date
+      label: What is your start date of employment?
       hint: MM/DD/YYYY
       type: date
       options: []
+      required: true
+    - id: 5
+      name: section_and_subsection
+      label: What is your section and subsection in the company's organizational structure?
+      hint: Enter your section and subsection
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_name
+      label: What is your name as it appears on your passport or national ID?
+      hint: Enter your name as it appears on your passport or national ID
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_and_subsection_6
+      label: What is your section and subsection for form section 6?
+      hint: Enter your section and subsection
+      type: text
+      options: []
       required: false
+    - id: 8
+      name: role
+      label: What is your role in the company?
+      hint: Enter your role
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: subsection_7
+      label: What is your subsection for form section 7?
+      hint: Enter your subsection
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title
+      label: What is your job title?
+      hint: Enter your job title
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_of_birth
+      label: What is your date of birth?
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
     - id: 12
-      name: form_section_4
-      label: Form Section 4
-      hint: null
+      name: nationality
+      label: What is your nationality?
+      hint: Enter your nationality
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: form_section_4_section
-      label: Section
-      hint: null
+      name: passport_number
+      label: What is your passport number?
+      hint: Enter your passport number
       type: text
       options: []
-      required: false
+      required: true
     - id: 14
-      name: form_section_4_subsection
-      label: Subsection
-      hint: null
+      name: address
+      label: What is your address?
+      hint: Enter your address
       type: text
       options: []
-      required: false
+      required: true
     - id: 15
-      name: form_section_5
-      label: Form Section 5
-      hint: null
-      type: text
+      name: email
+      label: What is your contact email?
+      hint: Enter your contact email
+      type: email
       options: []
-      required: false
+      required: true
     - id: 16
-      name: form_section_5_section
-      label: Section
-      hint: null
-      type: text
+      name: phone
+      label: What is your contact phone number?
+      hint: Enter your contact phone number
+      type: number
       options: []
-      required: false
-    - id: 17
-      name: form_section_5_subsection
-      label: Subsection
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: form_section_6
-      label: Form Section 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: form_section_6_section
-      label: Section
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: form_section_6_subsection
-      label: Subsection
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: form_section_7
-      label: Form Section 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_section_7_section
-      label: Section
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_section_7_subsection
-      label: Subsection
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_section_8
-      label: Form Section 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_section_8_section
-      label: Section
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

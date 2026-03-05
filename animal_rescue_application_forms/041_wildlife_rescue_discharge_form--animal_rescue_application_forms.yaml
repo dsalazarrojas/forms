@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Mammal''}'
-      - '{''id'': 2, ''label'': ''Bird''}'
-      - '{''id'': 3, ''label'': ''Reptile''}'
+      - Mammal
+      - Bird
+      - Reptile
       required: true
     - id: 4
       name: species_name
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Healthy''}'
-      - '{''id'': 2, ''label'': ''Injured''}'
-      - '{''id'': 3, ''label'': ''Sick''}'
+      - Healthy
+      - Injured
+      - Sick
       required: true
     - id: 6
       name: discharge_reason

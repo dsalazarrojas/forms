@@ -4,188 +4,136 @@ inputSchema:
     title: property_assessment_form
     pages:
     - id: 1
-      name: property_assessment_form_page_1
-      label: property_assessment_form_page_1_label
+      name: property_location
+      label: Property Location
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: property_location
-      label: property_location
+      name: property_type
+      label: Property Type
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
       required: false
     - id: 3
-      name: property_type
-      label: property_type
+      name: property_age
+      label: Property Age
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
+      type: number
+      options: []
       required: false
     - id: 4
-      name: property_age
-      label: property_age
+      name: property_assessment_value
+      label: Property Assessment Value
       hint: null
       type: number
       options: []
       required: false
     - id: 5
-      name: property_assessment_date
-      label: property_assessment_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: property_assessment_value
-      label: property_assessment_value
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
       name: property_condition
-      label: property_condition
+      label: Property Condition
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: property_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_email
+      label: Email
+      hint: null
+      type: email
+      options: []
       required: false
     - id: 8
-      name: property_features
-      label: property_features
+      name: property_phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: property_comments
-      label: property_comments
+      name: property_assessment_date
+      label: Assessment Date Range
       hint: null
-      type: note
+      type: date
       options: []
       required: false
     - id: 10
-      name: property_email
-      label: property_email
+      name: property_assessment_price
+      label: Assessment Price Range
       hint: null
-      type: email
+      type: number
       options: []
       required: false
     - id: 11
-      name: property_phone
-      label: property_phone
+      name: property_assessment_value_2
+      label: Assessment Value Range
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 12
-      name: property_address
-      label: property_address
+      name: property_assessment_notes
+      label: Assessment Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 13
       name: property_assessment_status
-      label: property_assessment_status
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 14
-      name: property_assessment_notes
-      label: property_assessment_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: property_assessment_recommendations
-      label: property_assessment_recommendations
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: property_assessment_comments
-      label: property_assessment_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: property_assessment_date_range
-      label: property_assessment_date_range
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: property_assessment_time_range
-      label: property_assessment_time_range
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: property_assessment_price
-      label: property_assessment_price
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: property_assessment_value_range
-      label: property_assessment_value_range
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: property_assessment_status
-      label: property_assessment_status
+      label: Assessment Status
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Pending
+      - Approved
+      - Rejected
       required: false
-    - id: 22
-      name: property_assessment_date
-      label: property_assessment_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
+    - id: 14
       name: property_assessment_time
-      label: property_assessment_time
+      label: Assessment Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 24
+    - id: 15
+      name: property_assessment_date_range
+      label: Property Assessment Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: property_assessment_time_range
+      label: Assessment Time Range
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
       name: property_assessment_price_range
-      label: property_assessment_price_range
+      label: Property Assessment Price Range
       hint: null
       type: number
       options: []
       required: false
-    - id: 25
-      name: property_assessment_value
-      label: property_assessment_value
+    - id: 18
+      name: property_assessment_value_range
+      label: Property Assessment Value Range
       hint: null
       type: number
       options: []

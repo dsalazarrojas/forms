@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Single-Family'', ''value'': ''single-family''}'
-      - '{''label'': ''Multi-Family'', ''value'': ''multi-family''}'
-      - '{''label'': ''Commercial'', ''value'': ''commercial''}'
+      - Single-Family
+      - Multi-Family
+      - Commercial
       required: false
     - id: 4
       name: building_status
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''New Construction'', ''value'': ''new-construction''}'
-      - '{''label'': ''Existing'', ''value'': ''existing''}'
-      - '{''label'': ''In Progress'', ''value'': ''in-progress''}'
+      - New Construction
+      - Existing
+      - In Progress
       required: false
     - id: 5
       name: building_characteristics
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Insulation'', ''value'': ''insulation''}'
-      - '{''label'': ''Solar Panels'', ''value'': ''solar-panels''}'
-      - '{''label'': ''Rainwater Harvesting System'', ''value'': ''rainwater-harvesting-system''}'
+      - Insulation
+      - Solar Panels
+      - Rainwater Harvesting System
       required: false
     - id: 7
       name: sustainability_features
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Green Roof'', ''value'': ''green-roof''}'
-      - '{''label'': ''Green Wall'', ''value'': ''green-wall''}'
-      - '{''label'': ''Greenhouse'', ''value'': ''greenhouse''}'
+      - Green Roof
+      - Green Wall
+      - Greenhouse
       required: false
     - id: 8
       name: certification_status
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Certified'', ''value'': ''certified''}'
-      - '{''label'': ''Provisional'', ''value'': ''provisional''}'
-      - '{''label'': ''Denied'', ''value'': ''denied''}'
+      - Certified
+      - Provisional
+      - Denied
       required: false
     - id: 9
       name: comments

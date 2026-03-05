@@ -155,7 +155,7 @@ inputSchema:
       - Yes - Both times
       - Yes - Before only
       - Yes - After only
-      - false
+      - 'False'
       required: true
     - id: 19
       name: equipment_used
@@ -177,8 +177,8 @@ inputSchema:
       hint: Before and after use
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not applicable
       required: true
     - id: 21
@@ -243,5 +243,5 @@ inputSchema:
       - Yes - Email
       - Yes - Text
       - Yes - Both
-      - false
+      - 'False'
       required: false

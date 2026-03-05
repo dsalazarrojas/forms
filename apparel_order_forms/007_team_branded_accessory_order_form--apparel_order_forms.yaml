@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Water Bottle''}'
-      - '{''id'': 2, ''label'': ''T-Shirt''}'
-      - '{''id'': 3, ''label'': ''Hat''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Water Bottle
+      - T-Shirt
+      - Hat
+      - Other
       required: true
     - id: 4
       name: quantity
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''USA''}'
-      - '{''id'': 2, ''label'': ''Canada''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - USA
+      - Canada
+      - Other
       required: true
     - id: 8
       name: total_amount
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Bank Transfer''}'
-      - '{''id'': 2, ''label'': ''Online Payment''}'
-      - '{''id'': 3, ''label'': ''In-Store Pickup''}'
+      - Bank Transfer
+      - Online Payment
+      - In-Store Pickup
       required: true
     - id: 10
       name: payment_details
@@ -173,9 +173,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Pending''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - Active
+      - Pending
+      - Cancelled
       required: true
     - id: 24
       name: order_comments

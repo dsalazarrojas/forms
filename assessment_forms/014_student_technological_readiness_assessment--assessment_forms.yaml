@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 2
       name: internet_reliability
@@ -18,9 +18,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Always''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Never''}'
+      - Always
+      - Sometimes
+      - Never
       required: false
     - id: 3
       name: digital_confidence
@@ -28,9 +28,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Highly Confident''}'
-      - '{''label'': ''Somewhat Confident''}'
-      - '{''label'': ''Not Very Confident''}'
+      - Highly Confident
+      - Somewhat Confident
+      - Not Very Confident
       required: false
     - id: 4
       name: device_type
@@ -38,10 +38,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Desktop or Laptop''}'
-      - '{''label'': ''Tablet''}'
-      - '{''label'': ''Smartphone''}'
-      - '{''label'': ''None''}'
+      - Desktop or Laptop
+      - Tablet
+      - Smartphone
+      - None
       required: false
     - id: 5
       name: internet_access
@@ -49,11 +49,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Home''}'
-      - '{''label'': ''School''}'
-      - '{''label'': ''Public Wi-Fi''}'
-      - '{''label'': ''Mobile Network (cellphone data)''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Home
+      - School
+      - Public Wi-Fi
+      - Mobile Network (cellphone data)
+      - Other (please specify)
       required: false
     - id: 6
       name: internet_speed
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''25mb or faster''}'
-      - '{''label'': ''10-24mb''}'
-      - '{''label'': ''1-9mb''}'
-      - '{''label'': ''None''}'
+      - 25mb or faster
+      - 10-24mb
+      - 1-9mb
+      - None
       required: false
     - id: 7
       name: device_age
@@ -72,10 +72,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Less than 2 years old''}'
-      - '{''label'': ''2-5 years old''}'
-      - '{''label'': ''5-10 years old''}'
-      - '{''label'': ''More than 10 years old''}'
+      - Less than 2 years old
+      - 2-5 years old
+      - 5-10 years old
+      - More than 10 years old
       required: false
     - id: 8
       name: support
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Parent or guardian''}'
-      - '{''label'': ''School staff''}'
-      - '{''label'': ''Self''}'
+      - Parent or guardian
+      - School staff
+      - Self
       required: false
     - id: 9
       name: note
@@ -114,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: teacher_device_access
@@ -123,8 +123,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: teacher_device_access
@@ -132,8 +132,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: teacher_device_type
@@ -141,10 +141,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Desktop or Laptop''}'
-      - '{''label'': ''Tablet''}'
-      - '{''label'': ''Smartphone''}'
-      - '{''label'': ''None''}'
+      - Desktop or Laptop
+      - Tablet
+      - Smartphone
+      - None
       required: false
     - id: 16
       name: teacher_device_age
@@ -152,10 +152,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Less than 2 years old''}'
-      - '{''label'': ''2-5 years old''}'
-      - '{''label'': ''5-10 years old''}'
-      - '{''label'': ''More than 10 years old''}'
+      - Less than 2 years old
+      - 2-5 years old
+      - 5-10 years old
+      - More than 10 years old
       required: false
     - id: 17
       name: teacher_device_access
@@ -163,8 +163,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: teacher_device_support
@@ -172,9 +172,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Parent or guardian''}'
-      - '{''label'': ''School staff''}'
-      - '{''label'': ''Self''}'
+      - Parent or guardian
+      - School staff
+      - Self
       required: false
     - id: 19
       name: student_device_type
@@ -182,10 +182,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Desktop or Laptop''}'
-      - '{''label'': ''Tablet''}'
-      - '{''label'': ''Smartphone''}'
-      - '{''label'': ''None''}'
+      - Desktop or Laptop
+      - Tablet
+      - Smartphone
+      - None
       required: false
     - id: 20
       name: student_device_age
@@ -193,10 +193,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Less than 2 years old''}'
-      - '{''label'': ''2-5 years old''}'
-      - '{''label'': ''5-10 years old''}'
-      - '{''label'': ''More than 10 years old''}'
+      - Less than 2 years old
+      - 2-5 years old
+      - 5-10 years old
+      - More than 10 years old
       required: false
     - id: 21
       name: student_device_access
@@ -204,8 +204,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: student_support
@@ -213,9 +213,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Parent or guardian''}'
-      - '{''label'': ''School staff''}'
-      - '{''label'': ''Self''}'
+      - Parent or guardian
+      - School staff
+      - Self
       required: false
     - id: 23
       name: school_device_age
@@ -223,10 +223,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Less than 2 years old''}'
-      - '{''label'': ''2-5 years old''}'
-      - '{''label'': ''5-10 years old''}'
-      - '{''label'': ''More than 10 years old''}'
+      - Less than 2 years old
+      - 2-5 years old
+      - 5-10 years old
+      - More than 10 years old
       required: false
     - id: 24
       name: school_device_access
@@ -234,8 +234,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: school_support
@@ -243,7 +243,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Parent or guardian''}'
-      - '{''label'': ''School staff''}'
-      - '{''label'': ''Self''}'
+      - Parent or guardian
+      - School staff
+      - Self
       required: false

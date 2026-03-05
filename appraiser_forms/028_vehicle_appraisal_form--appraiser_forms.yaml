@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 7
       name: vehicle_interior_condition
@@ -54,10 +54,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''Poor''}'
-      - '{''id'': 4, ''name'': ''Bad''}'
+      - Good
+      - Fair
+      - Poor
+      - Bad
       required: false
     - id: 8
       name: vehicle_exterior_condition
@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''Poor''}'
-      - '{''id'': 4, ''name'': ''Bad''}'
+      - Good
+      - Fair
+      - Poor
+      - Bad
       required: false
     - id: 9
       name: vehicle_engine_condition
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 10
       name: vehicle_body_type
@@ -86,12 +86,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Sedan''}'
-      - '{''id'': 2, ''name'': ''Hatchback''}'
-      - '{''id'': 3, ''name'': ''Wagon''}'
-      - '{''id'': 4, ''name'': ''Coupe''}'
-      - '{''id'': 5, ''name'': ''SUV''}'
-      - '{''id'': 6, ''name'': ''Minivan''}'
+      - Sedan
+      - Hatchback
+      - Wagon
+      - Coupe
+      - SUV
+      - Minivan
       required: false
     - id: 11
       name: vehicle_transmission
@@ -99,8 +99,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Automatic''}'
-      - '{''id'': 2, ''name'': ''Manual''}'
+      - Automatic
+      - Manual
       required: false
     - id: 12
       name: vehicle_drive_type
@@ -108,9 +108,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Rear-wheel drive''}'
-      - '{''id'': 2, ''name'': ''All-wheel drive''}'
-      - '{''id'': 3, ''name'': ''Four-wheel drive''}'
+      - Rear-wheel drive
+      - All-wheel drive
+      - Four-wheel drive
       required: false
     - id: 13
       name: vehicle_year

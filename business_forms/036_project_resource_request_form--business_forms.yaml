@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''resource-type-1''}'
-      - '{''id'': 2, ''name'': ''resource-type-2''}'
-      - '{''id'': 3, ''name'': ''resource-type-3''}'
+      - resource-type-1
+      - resource-type-2
+      - resource-type-3
       required: false
     - id: 7
       name: resource_quantity
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active''}'
-      - '{''id'': 2, ''name'': ''pending''}'
-      - '{''id'': 3, ''name'': ''completed''}'
+      - active
+      - pending
+      - completed
       required: false
     - id: 11
       name: project_manager
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''high''}'
-      - '{''id'': 2, ''name'': ''medium''}'
-      - '{''id'': 3, ''name'': ''low''}'
+      - high
+      - medium
+      - low
       required: false
     - id: 17
       name: assigned_to
@@ -130,8 +130,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''chatjimmy''}'
+      - chatjimmy
+      - Other
       required: false
     - id: 18
       name: project_team
@@ -139,8 +139,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''team-member-1''}'
-      - '{''id'': 2, ''name'': ''team-member-2''}'
+      - team-member-1
+      - team-member-2
       required: false
     - id: 19
       name: resource_team
@@ -148,8 +148,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''team-member-1''}'
-      - '{''id'': 2, ''name'': ''team-member-2''}'
+      - team-member-1
+      - team-member-2
       required: false
     - id: 20
       name: project_budget
@@ -178,9 +178,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''high''}'
-      - '{''id'': 2, ''name'': ''medium''}'
-      - '{''id'': 3, ''name'': ''low''}'
+      - high
+      - medium
+      - low
       required: false
     - id: 24
       name: project_notes

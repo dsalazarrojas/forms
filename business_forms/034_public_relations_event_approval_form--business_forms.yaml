@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''In-Person''}'
-      - '{''label'': ''Online''}'
-      - '{''label'': ''Hybrid''}'
+      - In-Person
+      - Online
+      - Hybrid
       required: true
     - id: 6
       name: event_guests
@@ -117,9 +117,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Approved''}'
-      - '{''label'': ''Approved with Conditions''}'
-      - '{''label'': ''Rejected''}'
+      - Approved
+      - Approved with Conditions
+      - Rejected
       required: true
     - id: 17
       name: approver_name

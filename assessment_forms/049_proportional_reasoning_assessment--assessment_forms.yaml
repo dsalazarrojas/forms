@@ -15,124 +15,139 @@ inputSchema:
     title: Proportional Reasoning Assessment
     pages:
     - id: 1
-      name: intro
-      label: Proportional Reasoning Assessment
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: intro_question1
-      label: What is a ratio
-      hint: null
+      name: introduction
+      label: What is a ratio?
+      hint: A ratio is a way to compare two or more numbers
       type: text
       options: []
-      required: false
-    - id: 3
-      name: select_proportional_relationship
+      required: true
+    - id: 2
+      name: proportional_relationships
       label: Types of Proportional Relationships
-      hint: e.g. equivalent, greater than, less than, etc.
+      hint: e.g. equivalent, greater than, less than
       type: select_multiple
       options:
       - equivalent
       - greater than
       - less than
-      - etc.
-      required: false
-    - id: 4
+      required: true
+    - id: 3
       name: example_proportion_1
       label: Example of Proportion
-      hint: "e.g. 1:2"
+      hint: e.g. 1 -2
       type: select_one
       options:
       - none
-      - 'true'
-      - 'false'
-      required: false
-    - id: 5
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
       name: example_proportion_2
-      label: Example of Proportion
-      hint: "e.g. 2:4"
+      label: Another Example of Proportion
+      hint: e.g. 2 -4
       type: select_one
       options:
       - none
-      - 'true'
-      - 'false'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: ratio_interpretation
+      label: Ratio Interpretation
+      hint: e.g. 3 -2
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: ratio_interpretation_question1
-      label: Ratio Interpretation
-      hint: "e.g. 3:2"
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: ratio_interpretation_question2
-      label: Ratio Interpretation
-      hint: "e.g. 5:1"
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: answer1
       label: Answer 1
-      hint: null
+      hint: Please provide a short answer
       type: text
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 7
       name: answer2
       label: Answer 2
-      hint: null
+      hint: Please provide a short answer
       type: text
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 8
       name: answer3
       label: Answer 3
-      hint: null
+      hint: Please provide a short answer
       type: text
       options: []
-      required: false
-    - id: 11
-      name: ratio_proportion_explanation_1
-      label: Proportion Explanation
-      hint: null
+      required: true
+    - id: 9
+      name: conclusion
+      label: Conclusion
+      hint: Please provide a short conclusion
       type: text
       options: []
-      required: false
-    - id: 12
-      name: ratio_proportion_explanation_2
-      label: Proportion Explanation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: ratio_proportion_explanation_3
-      label: Proportion Explanation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: ratio_proportion_explanation_4
-      label: Proportion Explanation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 10
       name: submit
       label: Submit
       hint: null
       type: text
       options: []
-      required: false
-    - id: 16
+      required: true
+    - id: 11
       name: note
       label: Note
       hint: null
       type: note
       options: []
       required: false
+    - id: 12
+      name: ratio_interpretation_1
+      label: Ratio Interpretation 1
+      hint: e.g. 3 -2
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: ratio_interpretation_2
+      label: Another Ratio Interpretation
+      hint: e.g. 5 -1
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: is_ratio_equivalent
+      label: Is the Ratio Equivalent?
+      hint: Is the ratio equivalent or not?
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 15
+      name: is_proportion_explanations
+      label: Proportion Explanation
+      hint: Please explain the proportion
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: is_proportion_explanations_2
+      label: Another Proportion Explanation
+      hint: Please explain another proportion
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: final_conclusion
+      label: Final Conclusion
+      hint: Please provide a short final conclusion
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submit_button
+      label: Submit Button
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,190 +1,156 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Deck Construction Measurement Form
     pages:
     - id: 1
-      name: deck_construction_measurement_form_page_1
+      name: site_details
       label: Site Details
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: deck_construction_measurement_form_page_2
+      name: dimensions
       label: Dimensions
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Length (in feet)
+      - Width (in feet)
+      - Height (in feet)
       required: true
     - id: 3
-      name: deck_construction_measurement_form_page_3
+      name: material_preferences
       label: Material Preferences
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Wooden Deck
+      - Composite Deck
+      - Composite with Wood Accents
       required: true
     - id: 4
-      name: deck_construction_measurement_form_page_4
+      name: site_photos
       label: Site Photos
       hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: deck_construction_measurement_form_page_5
-      label: Additional Information
-      hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Site Photo 1
+      - Site Photo 2
+      - Site Photo 3
       required: false
-    - id: 6
-      name: deck_construction_measurement_form_page_6
+    - id: 5
+      name: deck_location
       label: Deck Location
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: deck_construction_measurement_form_page_7
+      type: radio
+      options:
+      - North
+      - South
+      - East
+      - West
+      required: true
+    - id: 6
+      name: deck_type
       label: Deck Type
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: deck_construction_measurement_form_page_8
+      type: select_one
+      options:
+      - Wooden Deck
+      - Composite Deck
+      - Deck with Roof
+      required: true
+    - id: 7
+      name: deck_orientation
       label: Deck Orientation
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: deck_construction_measurement_form_page_9
+      type: select_one
+      options:
+      - North-South
+      - South-North
+      - East-West
+      - West-East
+      required: true
+    - id: 8
+      name: site_address
       label: Site Address
       hint: null
       type: text
       options: []
       required: true
-    - id: 10
-      name: deck_construction_measurement_form_page_10
-      label: None
+    - id: 9
+      name: additional_info
+      label: Additional Information
       hint: null
       type: text
       options: []
+      required: false
+    - id: 10
+      name: site_layout
+      label: Site Layout
+      hint: null
+      type: checkbox
+      options:
+      - Sketch
+      - Description
       required: false
     - id: 11
-      name: deck_construction_measurement_form_page_11
-      label: None
+      name: deck_features
+      label: Deck Features
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Built-in Bench
+      - Built-in Planter
       required: false
     - id: 12
-      name: deck_construction_measurement_form_page_12
-      label: None
+      name: deck_size
+      label: Deck Size
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Length (in feet)
+      - Width (in feet)
+      required: true
     - id: 13
-      name: deck_construction_measurement_form_page_13
-      label: None
+      name: additional_info_2
+      label: Additional Info 2
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: deck_construction_measurement_form_page_14
+      name: none
       label: None
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: deck_construction_measurement_form_page_15
-      label: None
+      name: none_2
+      label: None 2
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: deck_construction_measurement_form_page_16
-      label: None
+      name: none_3
+      label: None 3
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: deck_construction_measurement_form_page_17
-      label: None
+      name: none_4
+      label: None 4
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: deck_construction_measurement_form_page_18
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: deck_construction_measurement_form_page_19
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: deck_construction_measurement_form_page_20
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: deck_construction_measurement_form_page_21
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: deck_construction_measurement_form_page_22
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: deck_construction_measurement_form_page_23
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: deck_construction_measurement_form_page_24
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: deck_construction_measurement_form_page_25
-      label: None
+      name: none_5
+      label: None 5
       hint: null
       type: text
       options: []

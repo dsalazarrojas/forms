@@ -7,8 +7,10 @@ inputSchema:
       name: media_interview_room_request_form_1
       label: Select Date
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - '{''value'': datetime.date(2024, 1, 1)}'
+      - '{''value'': datetime.date(2024, 1, 2)}'
       required: false
     - id: 2
       name: select_time
@@ -16,252 +18,47 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''9:00 AM''}'
-      - '{''value'': ''10:00 AM''}'
-      - '{''value'': ''11:00 AM''}'
-      - '{''value'': ''12:00 PM''}'
-      - '{''value'': ''1:00 PM''}'
+      - 09:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 13:00 PM
       required: false
     - id: 3
       name: select_time_2
-      label: Select Time
+      label: Select Time 2
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''2:00 PM''}'
-      - '{''value'': ''3:00 PM''}'
-      - '{''value'': ''4:00 PM''}'
-      - '{''value'': ''5:00 PM''}'
+      - 14:00 PM
+      - 15:00 PM
+      - 16:00 PM
       required: false
     - id: 4
-      name: select_date_2
-      label: Select Date
+      name: media_interview_room_request_form_4
+      label: Your Name
       hint: null
-      type: select_one
-      options:
-      - '{''value'': datetime.date(2024, 1, 1)}'
-      - '{''value'': datetime.date(2024, 1, 2)}'
-      - '{''value'': datetime.date(2024, 1, 3)}'
+      type: text
+      options: []
       required: false
     - id: 5
       name: media_interview_room_request_form_5
-      label: Select Time
+      label: Your Email
       hint: null
-      type: time
+      type: email
       options: []
       required: false
     - id: 6
       name: media_interview_room_request_form_6
-      label: Your Name
+      label: Your Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: media_interview_room_request_form_7
-      label: Your Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: media_interview_room_request_form_8
-      label: Your Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: media_interview_room_request_form_9
       label: Your Note
       hint: null
       type: note
       options: []
-      required: false
-    - id: 10
-      name: select_date_2
-      label: Select Date
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': datetime.date(2024, 1, 1)}'
-      - '{''value'': datetime.date(2024, 1, 2)}'
-      required: false
-    - id: 11
-      name: media_interview_room_request_form_11
-      label: Select Date
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': datetime.date(2024, 1, 1)}'
-      - '{''value'': datetime.date(2024, 1, 2)}'
-      - '{''value'': datetime.date(2024, 1, 3)}'
-      required: false
-    - id: 12
-      name: media_interview_room_request_form_12
-      label: Select Time
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''9:00 AM''}'
-      - '{''value'': ''10:00 AM''}'
-      - '{''value'': ''11:00 AM''}'
-      required: false
-    - id: 13
-      name: media_interview_room_request_form_13
-      label: Select Time
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''2:00 PM''}'
-      - '{''value'': ''3:00 PM''}'
-      - '{''value'': ''4:00 PM''}'
-      required: false
-    - id: 14
-      name: media_interview_room_request_form_14
-      label: Select Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: media_interview_room_request_form_15
-      label: Select Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: media_interview_room_request_form_16
-      label: Your Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: media_interview_room_request_form_17
-      label: Your Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: media_interview_room_request_form_18
-      label: Your Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: media_interview_room_request_form_19
-      label: Your Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: select_date
-      label: Select Date
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': datetime.date(2024, 1, 1)}'
-      - '{''value'': datetime.date(2024, 1, 2)}'
-      required: false
-    - id: 21
-      name: media_interview_room_request_form_21
-      label: Select Time
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''9:00 AM''}'
-      - '{''value'': ''10:00 AM''}'
-      required: false
-    - id: 22
-      name: media_interview_room_request_form_22
-      label: Select Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: media_interview_room_request_form_23
-      label: Select Date
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''2:00 PM''}'
-      - '{''value'': ''3:00 PM''}'
-      - '{''value'': ''4:00 PM''}'
-      required: false
-    - id: 24
-      name: media_interview_room_request_form_24
-      label: Select Date
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': datetime.date(2024, 1, 1)}'
-      - '{''value'': datetime.date(2024, 1, 2)}'
-      required: false
-    - id: 25
-      name: media_interview_room_request_form_25
-      label: Your Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: media_interview_room_request_form_26
-      label: Your Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 27
-      name: media_interview_room_request_form_27
-      label: Your Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: media_interview_room_request_form_28
-      label: Your Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 29
-      name: media_interview_room_request_form_29
-      label: Select Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 30
-      name: media_interview_room_request_form_30
-      label: Select Time
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''9:00 AM''}'
-      - '{''value'': ''10:00 AM''}'
-      required: false
-    - id: 31
-      name: media_interview_room_request_form_31
-      label: Select Time
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''2:00 PM''}'
-      - '{''value'': ''3:00 PM''}'
-      required: false
-    - id: 32
-      name: media_interview_room_request_form_32
-      label: Select Date
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': datetime.date(2024, 1, 1)}'
-      - '{''value'': datetime.date(2024, 1, 2)}'
       required: false

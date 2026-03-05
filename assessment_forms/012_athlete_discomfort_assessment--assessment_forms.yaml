@@ -1,202 +1,191 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Athlete Discomfort Assessment
     pages:
-      - id: 1
-        name: patient_info_header
-        label: -- Athlete Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: athlete_name
-        label: Athlete Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: assessment_date
-        label: Date of Assessment
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: primary_sport
-        label: Primary Sport
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: discomfort_details_header
-        label: -- Discomfort Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: discomfort_area
-        label: Primary Area of Discomfort
-        hint: Select the most affected area
-        type: select_one
-        options:
-          - Head or Neck
-          - Shoulder or Arm
-          - Upper or Middle Back
-          - Lower Back
-          - Hip or Groin
-          - Thigh or Knee
-          - Lower Leg or Ankle
-          - Foot or Toes
-        required: true
-      - id: 7
-        name: specific_location
-        label: Specific Location Description
-        hint: Describe exactly where the discomfort is felt
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: body_side
-        label: Side of Body
-        hint: null
-        type: select_one
-        options:
-          - Left
-          - Right
-          - Both Sides
-          - Not Applicable
-        required: true
-      - id: 9
-        name: pain_intensity
-        label: Pain Intensity Score
-        hint: 0 is No Pain, 10 is Worst Possible Pain
-        type: select_one
-        options:
-          - 0 - No Pain
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5 - Moderate
-          - 6
-          - 7
-          - 8
-          - 9
-          - 10 - Severe
-        required: true
-      - id: 10
-        name: pain_type
-        label: Type of Pain Sensation
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Sharp or Stabbing
-          - Dull or Aching
-          - Burning
-          - Tingling or Numbness
-          - Throbbing
-          - Stiffness or Tightness
-        required: true
-      - id: 11
-        name: pain_timing
-        label: When is the discomfort most noticeable?
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - During physical activity
-          - Immediately after activity
-          - While at rest
-          - During sleep or waking at night
-          - First thing in the morning
-        required: true
-      - id: 12
-        name: history_header
-        label: -- History and Context --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: onset_type
-        label: Onset of Discomfort
-        hint: null
-        type: select_one
-        options:
-          - Sudden or Acute Injury
-          - Gradual or Overuse
-          - Unknown Onset
-        required: true
-      - id: 14
-        name: duration_present
-        label: How long has this discomfort been present?
-        hint: e.g. 2 days, 3 weeks
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: previous_history
-        label: Have you had a previous injury to this area?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 16
-        name: impact_header
-        label: -- Functional Impact --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: training_impact
-        label: How does this affect your training?
-        hint: Select the most accurate description
-        type: select_one
-        options:
-          - No impact on performance
-          - Minor reduction in volume or intensity
-          - Significant reduction - modified training
-          - Cannot participate in training
-        required: true
-      - id: 18
-        name: treatments_tried
-        label: Any treatments already attempted?
-        hint: e.g. Ice, rest, anti-inflammatories, massage
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: followup_needed
-        label: Do you feel you need a follow-up with medical staff?
-        hint: null
-        type: select_one
-        options:
-          - Yes - Urgently
-          - Yes - Routine assessment
-          - No - Just monitoring
-        required: true
-      - id: 20
-        name: additional_comments
-        label: Additional Comments or Information
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: patient_info_header
+      label: -- Athlete Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: primary_sport
+      label: Primary Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: discomfort_details_header
+      label: -- Discomfort Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: discomfort_area
+      label: Primary Area of Discomfort
+      hint: Select the most affected area
+      type: select_one
+      options:
+      - Head or Neck
+      - Shoulder or Arm
+      - Upper or Middle Back
+      - Lower Back
+      - Hip or Groin
+      - Thigh or Knee
+      - Lower Leg or Ankle
+      - Foot or Toes
+      required: true
+    - id: 7
+      name: specific_location
+      label: Specific Location Description
+      hint: Describe exactly where the discomfort is felt
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: body_side
+      label: Side of Body
+      hint: null
+      type: select_one
+      options:
+      - Left
+      - Right
+      - Both Sides
+      - Not Applicable
+      required: true
+    - id: 9
+      name: pain_intensity
+      label: Pain Intensity Score
+      hint: 0 is No Pain, 10 is Worst Possible Pain
+      type: select_one
+      options:
+      - 0 - No Pain
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - 5 - Moderate
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - 10 - Severe
+      required: true
+    - id: 10
+      name: pain_type
+      label: Type of Pain Sensation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sharp or Stabbing
+      - Dull or Aching
+      - Burning
+      - Tingling or Numbness
+      - Throbbing
+      - Stiffness or Tightness
+      required: true
+    - id: 11
+      name: pain_timing
+      label: When is the discomfort most noticeable?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - During physical activity
+      - Immediately after activity
+      - While at rest
+      - During sleep or waking at night
+      - First thing in the morning
+      required: true
+    - id: 12
+      name: history_header
+      label: -- History and Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: onset_type
+      label: Onset of Discomfort
+      hint: null
+      type: select_one
+      options:
+      - Sudden or Acute Injury
+      - Gradual or Overuse
+      - Unknown Onset
+      required: true
+    - id: 14
+      name: duration_present
+      label: How long has this discomfort been present?
+      hint: e.g. 2 days, 3 weeks
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: previous_history
+      label: Have you had a previous injury to this area?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: impact_header
+      label: -- Functional Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: training_impact
+      label: How does this affect your training?
+      hint: Select the most accurate description
+      type: select_one
+      options:
+      - No impact on performance
+      - Minor reduction in volume or intensity
+      - Significant reduction - modified training
+      - Cannot participate in training
+      required: true
+    - id: 18
+      name: treatments_tried
+      label: Any treatments already attempted?
+      hint: e.g. Ice, rest, anti-inflammatories, massage
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: followup_needed
+      label: Do you feel you need a follow-up with medical staff?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Urgently
+      - Yes - Routine assessment
+      - No - Just monitoring
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Information
+      hint: null
+      type: text
+      options: []
+      required: false

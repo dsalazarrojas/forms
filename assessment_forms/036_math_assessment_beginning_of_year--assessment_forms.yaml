@@ -4,22 +4,22 @@ inputSchema:
     title: Math Assessment Beginning Of Year
     pages:
     - id: 1
-      name: kindergarten_math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
+      name: student_name
+      label: Student's Name
+      hint: Enter student's name
       type: text
       options: []
       required: true
     - id: 2
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
+      name: correct_answers
+      label: Number of Correct Answers
+      hint: Enter number of correct answers
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
+      name: addition_facts
+      label: Does student understand addition facts?
       hint: null
       type: select_one
       options:
@@ -27,166 +27,80 @@ inputSchema:
       - 'No'
       required: true
     - id: 4
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
+      name: subtraction_facts
+      label: Does student understand subtraction facts?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: true
     - id: 5
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
       hint: null
       type: date
       options: []
-      required: false
-    - id: 6
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
-      type: time
-      options: []
-      required: false
+      required: true
     - id: 7
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
+      name: current_grade
+      label: Current Grade Level
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
+      name: contact_info
+      label: Contact Information
       hint: null
       type: email
       options: []
       required: true
     - id: 9
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
+      name: problems_answered_correct
+      label: Number of problems answered correctly
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 11
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
+      name: test_completion_time
+      label: Time of Test Completion
       hint: null
       type: time
       options: []
       required: false
-    - id: 19
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
+    - id: 11
+      name: multiplication_facts
+      label: Does student understand multiplication facts?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 25
-      name: math_assessment_beginning_of_year
-      label: math_assessment_beginning_of_year
+      required: true
+    - id: 12
+      name: division_facts
+      label: Does student understand division facts?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
+    - id: 13
+      name: new_student
+      label: Is new student?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cash''}'
-      - '{''id'': 2, ''label'': ''Credit Card''}'
-      - '{''id'': 3, ''label'': ''PayPal''}'
+      - Cash
+      - Credit Card
+      - PayPal
       required: false
     - id: 10
       name: notes
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: tour_type
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Guided''}'
-      - '{''id'': 2, ''label'': ''Self Guided''}'
-      - '{''id'': 3, ''label'': ''Combination''}'
+      - Guided
+      - Self Guided
+      - Combination
       required: false
     - id: 13
       name: special_request

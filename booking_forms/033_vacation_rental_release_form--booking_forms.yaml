@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': 1}'
-      - '{''label'': False, ''value'': 2}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: rental_terms
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Cash'', ''value'': 1}'
-      - '{''label'': ''Credit Card'', ''value'': 2}'
-      - '{''label'': ''PayPal'', ''value'': 3}'
+      - Cash
+      - Credit Card
+      - PayPal
       required: false
     - id: 6
       name: special_requests

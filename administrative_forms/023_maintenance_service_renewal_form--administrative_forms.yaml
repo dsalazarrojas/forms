@@ -5,186 +5,107 @@ inputSchema:
     pages:
     - id: 1
       name: service_provider
-      label: service_provider
+      label: Service Provider
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: maintenance_service_renewal_date
-      label: maintenance_service_renewal_date
+      label: Maintenance Service Renewal Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
       name: client_first_name
-      label: client_first_name
+      label: Client First Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: client_last_name
-      label: client_last_name
+      label: Client Last Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: client_phone
-      label: client_phone
+      label: Client Phone
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: payment_method
-      label: payment_method
+      label: Payment Method
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Active
+      - Inactive
+      required: true
     - id: 7
-      name: payment_method_options
-      label: payment_method
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: payment_method_description
-      label: payment_method_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
       name: service_contract_start_date
-      label: service_contract_start_date
+      label: Service Contract Start Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 8
       name: service_contract_end_date
-      label: service_contract_end_date
+      label: Service Contract End Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 9
       name: client_note
-      label: client_note
+      label: Client Notes
       hint: null
       type: note
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 10
       name: assigned_tool
-      label: assigned_tool
+      label: Assigned Tool
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: assigned_tool_user
-      label: assigned_tool_user
+      required: true
+    - id: 11
+      name: assigned_user
+      label: Assigned User
       hint: null
       type: text
       options: []
-      required: false
-    - id: 14
+      required: true
+    - id: 12
       name: service_renewal_status
-      label: service_renewal_status
+      label: Service Renewal Status
       hint: null
       type: select_multiple
       options:
       - Active
       - Inactive
-      required: false
-    - id: 15
-      name: service_renewal_status_options
-      label: service_renewal_status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: client_service_renewal_status_notes
-      label: client_service_renewal_status_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: maintenance_service_renewal_form_submit
-      label: maintenance_service_renewal_form_submit
+      required: true
+    - id: 13
+      name: form_submission
+      label: Form Submission
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 18
-      name: maintenance_service_renewal_form_submit_options
-      label: maintenance_service_renewal_form_submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: form_submit
-      label: form_submit
+      required: true
+    - id: 14
+      name: form_submission_confirmation
+      label: Form Submission Confirmation
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 20
-      name: form_submit_options
-      label: form_submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: service_renewal_form_submit_comments
-      label: service_renewal_form_submit_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: service_renewal_form_submit_confirmation
-      label: service_renewal_form_submit_confirmation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: service_renewal_form_submit_confirmation_options
-      label: service_renewal_form_submit_confirmation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: service_renewal_form_submit_confirmation_notes
-      label: service_renewal_form_submit_confirmation_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: assigned_user
-      label: assigned_user
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

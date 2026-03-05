@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''A'', ''value'': ''A''}'
-      - '{''id'': 2, ''label'': ''B'', ''value'': ''B''}'
-      - '{''id'': 3, ''label'': ''C'', ''value'': ''C''}'
+      - A
+      - B
+      - C
       required: false
     - id: 3
       name: position
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Forward'', ''value'': ''Forward''}'
-      - '{''id'': 2, ''label'': ''Backward'', ''value'': ''Backward''}'
-      - '{''id'': 3, ''label'': ''Pivot'', ''value'': ''Pivot''}'
-      - '{''id'': 4, ''label'': ''Wing'', ''value'': ''Wing''}'
+      - Forward
+      - Backward
+      - Pivot
+      - Wing
       required: false
     - id: 4
       name: score_card
@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Forehand'', ''value'': ''Forehand''}'
-      - '{''id'': 2, ''label'': ''Backhand'', ''value'': ''Backhand''}'
-      - '{''id'': 3, ''label'': ''Overhand'', ''value'': ''Overhand''}'
+      - Forehand
+      - Backhand
+      - Overhand
       required: false
     - id: 6
       name: catch
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Low'', ''value'': ''Low''}'
-      - '{''id'': 2, ''label'': ''High'', ''value'': ''High''}'
-      - '{''id'': 3, ''label'': ''Block'', ''value'': ''Block''}'
+      - Low
+      - High
+      - Block
       required: false
     - id: 7
       name: score_dodge

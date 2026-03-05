@@ -1,89 +1,78 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Board Meeting Preparation Checklist
     pages:
-      - id: 1
-        name: prep_header
-        label: -- Preparation Checklist --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: coordinator_name
-        label: Coordinator name
-        hint: Person completing checklist
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: meeting_date
-        label: Meeting date
-        hint: Date of the meeting
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: agenda_distributed
-        label: Agenda distributed
-        hint: Has agenda been sent to members
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 5
-        name: materials_prepared
-        label: Materials prepared
-        hint: All supporting materials ready
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 6
-        name: room_booked
-        label: Room booked
-        hint: Confirm venue booking
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 7
-        name: av_checked
-        label: AV equipment checked
-        hint: Audio visual readiness
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 8
-        name: refreshments_arranged
-        label: Refreshments arranged
-        hint: Catering or refreshments arranged
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 9
-        name: additional_notes
-        label: Additional notes
-        hint: Any outstanding tasks
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: prep_header
+      label: -- Preparation Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: coordinator_name
+      label: Coordinator name
+      hint: Person completing checklist
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: meeting_date
+      label: Meeting date
+      hint: Date of the meeting
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: agenda_distributed
+      label: Agenda distributed
+      hint: Has agenda been sent to members
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: materials_prepared
+      label: Materials prepared
+      hint: All supporting materials ready
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: room_booked
+      label: Room booked
+      hint: Confirm venue booking
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: av_checked
+      label: AV equipment checked
+      hint: Audio visual readiness
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: refreshments_arranged
+      label: Refreshments arranged
+      hint: Catering or refreshments arranged
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Any outstanding tasks
+      type: text
+      options: []
+      required: false

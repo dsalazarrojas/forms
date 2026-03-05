@@ -1,226 +1,215 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Best Use of AI in Business Nomination Form
     pages:
-      - id: 1
-        name: nominator_info_header
-        label: -- Nominator Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: nominator_full_name
-        label: Your Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: nominator_professional_role
-        label: Your Role
-        hint: Your job title or function
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: nominator_company_org
-        label: Your Company
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: nominator_email_addr
-        label: Your Contact Email
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 6
-        name: business_nominee_details_header
-        label: -- Business Nominee Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: nominated_business_name
-        label: Nominated Business Name
-        hint: The company you are nominating for their use of AI
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: nominated_business_website
-        label: Nominated Business Website
-        hint: URL for the business being nominated
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: nominee_industry_select
-        label: Industry Sector
-        hint: Select the primary industry of the business
-        type: select_one
-        options:
-          - Technology and Software
-          - Healthcare and Pharmaceuticals
-          - Finance and Banking
-          - Retail and E-commerce
-          - Manufacturing and Logistics
-          - Marketing and Advertising
-          - Education and E-learning
-          - Other
-        required: true
-      - id: 10
-        name: ai_implementation_header
-        label: -- AI Implementation Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: ai_solution_description
-        label: Description of AI Solution or Project
-        hint: Briefly explain the AI use case and how it works
-        type: text
-        options: []
-        required: true
-      - id: 12
-        name: ai_technologies_used
-        label: AI Technologies Implemented
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Machine Learning (ML)
-          - Natural Language Processing (NLP)
-          - Computer Vision
-          - Generative AI (LLMs/etc.)
-          - Robotics and Automation
-          - Predictive Analytics
-          - Recommendation Engines
-          - Other
-        required: true
-      - id: 13
-        name: ai_operational_duration
-        label: How long has this AI solution been operational
-        hint: Duration of the project in production
-        type: select_one
-        options:
-          - Less than 6 months
-          - 6 to 12 months
-          - 1 to 2 years
-          - Over 2 years
-        required: true
-      - id: 14
-        name: impact_innovation_header
-        label: -- Impact and Innovation --
-        hint: Rate from 1 (Low) to 5 (High)
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: ai_roi_outcome_desc
-        label: Measurable ROI or Business Outcome
-        hint: Describe specific gains in efficiency, revenue, or results
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: innovation_rating_score
-        label: Innovation Level of the Solution
-        hint: How unique and forward-thinking is the project
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 17
-        name: ai_ethics_safety_desc
-        label: Ethical Considerations and AI Safety
-        hint: How does the business address bias and transparency
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: customer_experience_impact_rating
-        label: Customer Experience Impact
-        hint: How has AI improved the lives of the end-users
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 19
-        name: ai_scalability_rating
-        label: Scalability of the AI Solution
-        hint: Potential for growth and wider application
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 20
-        name: nomination_support_header
-        label: -- Nomination Support --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 21
-        name: best_use_ai_justification
-        label: What makes this the Best Use of AI in business
-        hint: Summarize your argument for the award
-        type: text
-        options: []
-        required: true
-      - id: 22
-        name: future_ai_vision_desc
-        label: Future Vision for AI in this Business
-        hint: Where is this project going next
-        type: text
-        options: []
-        required: false
-      - id: 23
-        name: final_details_header
-        label: -- Final Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 24
-        name: professional_verification_contact
-        label: Professional Reference for Verification
-        hint: Name and email of someone familiar with the project
-        type: text
-        options: []
-        required: true
-      - id: 25
-        name: nomination_final_date_input
-        label: Date of Nomination
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: nominator_info_header
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_professional_role
+      label: Your Role
+      hint: Your job title or function
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nominator_company_org
+      label: Your Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominator_email_addr
+      label: Your Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: business_nominee_details_header
+      label: -- Business Nominee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: nominated_business_name
+      label: Nominated Business Name
+      hint: The company you are nominating for their use of AI
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominated_business_website
+      label: Nominated Business Website
+      hint: URL for the business being nominated
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: nominee_industry_select
+      label: Industry Sector
+      hint: Select the primary industry of the business
+      type: select_one
+      options:
+      - Technology and Software
+      - Healthcare and Pharmaceuticals
+      - Finance and Banking
+      - Retail and E-commerce
+      - Manufacturing and Logistics
+      - Marketing and Advertising
+      - Education and E-learning
+      - Other
+      required: true
+    - id: 10
+      name: ai_implementation_header
+      label: -- AI Implementation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ai_solution_description
+      label: Description of AI Solution or Project
+      hint: Briefly explain the AI use case and how it works
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: ai_technologies_used
+      label: AI Technologies Implemented
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Machine Learning (ML)
+      - Natural Language Processing (NLP)
+      - Computer Vision
+      - Generative AI (LLMs/etc.)
+      - Robotics and Automation
+      - Predictive Analytics
+      - Recommendation Engines
+      - Other
+      required: true
+    - id: 13
+      name: ai_operational_duration
+      label: How long has this AI solution been operational
+      hint: Duration of the project in production
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 to 12 months
+      - 1 to 2 years
+      - Over 2 years
+      required: true
+    - id: 14
+      name: impact_innovation_header
+      label: -- Impact and Innovation --
+      hint: Rate from 1 (Low) to 5 (High)
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: ai_roi_outcome_desc
+      label: Measurable ROI or Business Outcome
+      hint: Describe specific gains in efficiency, revenue, or results
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: innovation_rating_score
+      label: Innovation Level of the Solution
+      hint: How unique and forward-thinking is the project
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 17
+      name: ai_ethics_safety_desc
+      label: Ethical Considerations and AI Safety
+      hint: How does the business address bias and transparency
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: customer_experience_impact_rating
+      label: Customer Experience Impact
+      hint: How has AI improved the lives of the end-users
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 19
+      name: ai_scalability_rating
+      label: Scalability of the AI Solution
+      hint: Potential for growth and wider application
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 20
+      name: nomination_support_header
+      label: -- Nomination Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: best_use_ai_justification
+      label: What makes this the Best Use of AI in business
+      hint: Summarize your argument for the award
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: future_ai_vision_desc
+      label: Future Vision for AI in this Business
+      hint: Where is this project going next
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: final_details_header
+      label: -- Final Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: professional_verification_contact
+      label: Professional Reference for Verification
+      hint: Name and email of someone familiar with the project
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: nomination_final_date_input
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true

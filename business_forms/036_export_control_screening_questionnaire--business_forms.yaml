@@ -5,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: general_info
-      label: General info
+      label: General Information
       hint: null
       type: text
       options: []
@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - us
+      - uk
       required: false
     - id: 3
       name: export_control_list_2
@@ -25,167 +25,42 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''usa''}'
-      - '{''value'': ''canada''}'
+      - us
+      - uk
+      - au
+      - ca
       required: false
     - id: 4
-      name: general_info_2
-      label: General info 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: date
       label: Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 6
+    - id: 5
       name: time
       label: Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 7
+    - id: 6
       name: note
-      label: Note
+      label: Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: email
       label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: phone
       label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: export_control_list_3
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      required: false
-    - id: 11
-      name: export_control_list_4
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''us''}'
-      - '{''value'': ''uk''}'
-      required: false
-    - id: 12
-      name: general_info_3
-      label: General info 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: date_2
-      label: Date 2
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: time_2
-      label: Time 2
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: note_2
-      label: Note 2
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: email_2
-      label: Email 2
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: phone_2
-      label: Phone 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: export_control_list_5
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      required: false
-    - id: 19
-      name: export_control_list_6
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''us''}'
-      - '{''value'': ''uk''}'
-      required: false
-    - id: 20
-      name: general_info_4
-      label: General info 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: date_3
-      label: Date 3
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: time_3
-      label: Time 3
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: note_3
-      label: Note 3
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: email_3
-      label: Email 3
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: phone_3
-      label: Phone 3
       hint: null
       type: text
       options: []

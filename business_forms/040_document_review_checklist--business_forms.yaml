@@ -4,188 +4,97 @@ inputSchema:
     title: Document Review Checklist
     pages:
     - id: 1
-      name: document_review_checklist_page_1
-      label: Review Checklist
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: document_review_checklist_page_2
-      label: Review Checklist
-      hint: null
+      name: document_overview
+      label: Document Overview
+      hint: A short description of the document
       type: text
       options: []
       required: true
-    - id: 3
-      name: document_review_checklist_page_3
-      label: Review Checklist
+    - id: 2
+      name: document_type
+      label: Document Type
       hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: document_review_checklist_page_4
-      label: Review Checklist
-      hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Manual
+      - Report
+      - Contract
+      required: true
+    - id: 3
+      name: review_date
+      label: Review Date
+      hint: Date of review
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reviewer_name
+      label: Reviewer's Name
+      hint: null
+      type: email
+      options: []
       required: true
     - id: 5
-      name: document_review_checklist_page_5
-      label: Review Checklist
-      hint: null
+      name: review_period
+      label: Review Period
+      hint: Period of the review
       type: number
       options: []
       required: false
     - id: 6
-      name: document_review_checklist_page_6
-      label: Review Checklist
+      name: document_status
+      label: Document Status
       hint: null
-      type: date
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 7
-      name: document_review_checklist_page_7
-      label: Review Checklist
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: true
-    - id: 8
-      name: document_review_checklist_page_8
-      label: Review Checklist
-      hint: null
+      name: review_duration
+      label: Review Duration
+      hint: Duration of the review
       type: time
       options: []
-      required: false
+      required: true
+    - id: 8
+      name: reviewer_notes
+      label: Reviewer's Notes
+      hint: Any additional notes for the reviewer
+      type: text
+      options: []
+      required: true
     - id: 9
-      name: document_review_checklist_page_9
-      label: Review Checklist
-      hint: null
-      type: email
+      name: document_version
+      label: Document Version
+      hint: Document version number
+      type: number
       options: []
       required: true
     - id: 10
-      name: document_review_checklist_page_10
-      label: Review Checklist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: document_review_checklist_page_11
-      label: Review Checklist
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: document_review_checklist_page_12
-      label: Review Checklist
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 13
-      name: document_review_checklist_page_13
-      label: Review Checklist
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: document_review_checklist_page_14
-      label: Review Checklist
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: document_review_checklist_page_15
-      label: Review Checklist
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: document_review_checklist_page_16
-      label: Review Checklist
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: document_review_checklist_page_17
-      label: Review Checklist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: document_review_checklist_page_18
-      label: Review Checklist
-      hint: null
+      name: review_location
+      label: Review Location
+      hint: Where was the review performed?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Office
+      - Home
+      - Remote
       required: true
-    - id: 19
-      name: document_review_checklist_page_19
-      label: Review Checklist
-      hint: null
-      type: select_multiple
+    - id: 11
+      name: review_frequency
+      label: Review Frequency
+      hint: How often is the document reviewed?
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: document_review_checklist_page_20
-      label: Review Checklist
-      hint: null
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 12
+      name: review_comments
+      label: Review Comments
+      hint: Any review comments?
       type: text
       options: []
       required: false
-    - id: 21
-      name: document_review_checklist_page_21
-      label: Review Checklist
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 22
-      name: document_review_checklist_page_22
-      label: Review Checklist
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 23
-      name: document_review_checklist_page_23
-      label: Review Checklist
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: document_review_checklist_page_24
-      label: Review Checklist
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 25
-      name: document_review_checklist_page_25
-      label: Review Checklist
-      hint: null
-      type: text
-      options: []
-      required: true

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Employee 1'', ''value'': ''employee_1''}'
-      - '{''label'': ''Employee 2'', ''value'': ''employee_2''}'
+      - Employee 1
+      - Employee 2
       required: false
     - id: 3
       name: pay_date
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Tax Rate 1'', ''value'': ''tax_rate_1''}'
-      - '{''label'': ''Tax Rate 2'', ''value'': ''tax_rate_2''}'
+      - Tax Rate 1
+      - Tax Rate 2
       required: false
     - id: 5
       name: tax_rate_value
@@ -48,26 +48,26 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily'', ''value'': ''daily''}'
-      - '{''label'': ''Weekly'', ''value'': ''weekly''}'
-      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 7
-      name: pay_date
-      label: Pay Date
+      name: pay_date_2
+      label: Pay Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 8
-      name: pay_frequency
-      label: Pay Frequency
+      name: pay_frequency_2
+      label: Pay Frequency 2
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily'', ''value'': ''daily''}'
-      - '{''label'': ''Weekly'', ''value'': ''weekly''}'
-      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 9
       name: pay_method
@@ -75,12 +75,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Direct Deposit'', ''value'': ''direct_deposit''}'
-      - '{''label'': ''Check'', ''value'': ''check''}'
+      - Direct Deposit
+      - Check
       required: false
     - id: 10
-      name: tax_rate_value
-      label: Tax Rate
+      name: tax_rate_value_2
+      label: Tax Rate Value 2
       hint: null
       type: number
       options: []

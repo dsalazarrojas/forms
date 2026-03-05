@@ -16,204 +16,85 @@ inputSchema:
     pages:
     - id: 1
       name: familiarity
-      label: familiarity
-      hint: null
+      label: How familiar are you with filter theory?
+      hint: Please describe your experience with filter theory.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: understanding
-      label: understanding
-      hint: null
+      label: Can you briefly describe filter theory in your own words?
+      hint: Please keep it concise.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: application
-      label: application
-      hint: null
+      label: How do you apply filter theory in your work or studies?
+      hint: Please provide a specific example.
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: submission_results
-      label: submission_results
-      hint: null
-      type: text
-      options: []
-      required: false
+      label: What do you believe are the most important results of applying filter
+        theory?
+      hint: Think about your work or studies.
+      type: select_one
+      options:
+      - Consistent Results
+      - Inconsistent Results
+      - None
+      required: true
     - id: 5
       name: educators
-      label: educators
-      hint: null
+      label: Which group do you think is most interested in filter theory?
+      hint: Please choose one.
       type: select_one
       options:
       - Educators
       - Trainers
       - Researchers
-      required: false
+      required: true
     - id: 6
-      name: consistent_results
-      label: consistent_results
-      hint: null
-      type: select_multiple
-      options:
-      - Consistent Results
-      - None
-      - Others
-      required: false
-    - id: 7
-      name: real_world
-      label: real_world
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: ideal_users
-      label: ideal_users
-      hint: null
-      type: select_one
-      options:
-      - For Educators
-      - For Trainers
-      - For Researchers
-      required: false
-    - id: 9
-      name: filter_theory
-      label: filter_theory
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: consistent
-      label: consistent
-      hint: null
-      type: select_one
-      options:
-      - Consistent Results
-      - None
-      - Others
-      required: false
-    - id: 11
       name: trainers
-      label: trainers
-      hint: null
+      label: Which group is most likely to use filter theory in their work?
+      hint: Please choose one.
       type: select_one
       options:
-      - For Trainers
-      - For Educators
-      - For Researchers
-      required: false
-    - id: 12
-      name: researchers
-      label: researchers
-      hint: null
-      type: select_one
-      options:
-      - For Researchers
-      - For Trainers
-      - For Educators
-      required: false
-    - id: 13
-      name: educators
-      label: educators
-      hint: null
+      - Trainers
+      - Educators
+      - Researchers
+      required: true
+    - id: 7
+      name: ideal_users
+      label: Which group do you think would benefit most from filter theory?
+      hint: Please choose one.
       type: select_one
       options:
       - For Educators
       - For Trainers
       - For Researchers
-      required: false
-    - id: 14
-      name: others
-      label: others
-      hint: null
-      type: select_one
-      options:
-      - For Others
-      - For Trainers
-      - For Educators
-      required: false
-    - id: 15
-      name: none
-      label: none
-      hint: null
-      type: select_one
-      options:
-      - None
-      - For Trainers
-      - For Educators
-      - For Researchers
-      required: false
-    - id: 16
+      required: true
+    - id: 8
       name: submission_results_ideal
-      label: submission_results_ideal
-      hint: null
+      label: What ideal results would you expect from applying filter theory?
+      hint: Think about your ideal outcomes.
       type: text
       options: []
-      required: false
-    - id: 17
+      required: true
+    - id: 9
       name: consistent_results_ideal
-      label: consistent_results_ideal
-      hint: null
+      label: What ideal results would you expect to be consistent from applying filter
+        theory?
+      hint: Think about your ideal outcomes.
       type: text
       options: []
-      required: false
-    - id: 18
+      required: true
+    - id: 10
       name: real_world_ideal
-      label: real_world_ideal
-      hint: null
+      label: How would you apply filter theory in real-world scenarios?
+      hint: Please describe a real-world example.
       type: text
       options: []
-      required: false
-    - id: 19
-      name: filter_theory_questionnaire_ideal
-      label: filter_theory_questionnaire_ideal
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: data_insight
-      label: data_insight
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: consistent_data_insight
-      label: consistent_data_insight
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: ideal_users_ideal
-      label: ideal_users_ideal
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: filter_theory
-      label: filter_theory
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: submission_results_ideal
-      label: submission_results_ideal
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submission_results
-      label: submission_results
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''One day''}'
-      - '{''value'': ''Two days''}'
-      - '{''value'': ''Three days''}'
+      - One day
+      - Two days
+      - Three days
       required: true
     - id: 4
       name: arrival_time
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Private room''}'
-      - '{''value'': ''Shared room''}'
-      - '{''value'': ''Other''}'
+      - Private room
+      - Shared room
+      - Other
       required: true
     - id: 6
       name: accommodation_details
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''None''}'
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - None
+      - 'False'
+      - 'True'
       required: false
     - id: 8
       name: contact_details
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Bank Transfer''}'
-      - '{''value'': ''Credit Card''}'
-      - '{''value'': ''PayPal''}'
+      - Bank Transfer
+      - Credit Card
+      - PayPal
       required: true
     - id: 14
       name: payment_terms

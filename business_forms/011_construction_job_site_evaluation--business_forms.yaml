@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: fire_extinguisher_check
@@ -81,8 +81,8 @@ inputSchema:
       hint: Checked within the last month
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - N/A for this site
       required: true
     - id: 11
@@ -98,8 +98,8 @@ inputSchema:
       hint: Fall hazards, high voltage, etc.
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: tool_equipment_condition
@@ -149,7 +149,7 @@ inputSchema:
       hint: If yes, describe the action taken below
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes - Already Performed
       - Yes - Scheduled Immediately
       required: true

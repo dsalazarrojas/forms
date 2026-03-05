@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sales Report'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''Inventory Report'', ''value'': ''2''}'
-      - '{''id'': 3, ''label'': ''Product Report'', ''value'': ''3''}'
+      - Sales Report
+      - Inventory Report
+      - Product Report
       required: false
     - id: 2
       name: start_date
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': 1}'
-      - '{''id'': 2, ''label'': 2}'
-      - '{''id'': 3, ''label'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 8
       name: stock_status
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''Inactive'', ''value'': ''2''}'
+      - Active
+      - Inactive
       required: false
     - id: 9
       name: assigned_user
@@ -73,7 +73,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy'', ''value'': ''1''}'
+      - chatjimmy
       - Other
       required: false
     - id: 10
@@ -82,7 +82,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monthly'', ''value'': ''1''}'
-      - '{''id'': 2, ''label'': ''Quarterly'', ''value'': ''2''}'
-      - '{''id'': 3, ''label'': ''Yearly'', ''value'': ''3''}'
+      - Monthly
+      - Quarterly
+      - Yearly
       required: false

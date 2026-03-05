@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Renewal''}'
-      - '{''id'': 2, ''label'': ''Non-Renewal''}'
+      - Renewal
+      - Non-Renewal
       required: true
     - id: 4
       name: contract_duration
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - Active
+      - Inactive
+      - Cancelled
       required: true
     - id: 6
       name: renewal_date
@@ -114,62 +114,62 @@ inputSchema:
       options: []
       required: false
     - id: 16
-      name: extension_type
-      label: Extension Type
+      name: extension_type_2
+      label: Extension Type 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Renewal''}'
-      - '{''id'': 2, ''label'': ''Non-Renewal''}'
+      - Renewal
+      - Non-Renewal
       required: true
     - id: 17
-      name: contract_extension_date
-      label: Contract Extension Date
+      name: contract_extension_date_2
+      label: Contract Extension Date 2
       hint: null
       type: date
       options: []
       required: true
     - id: 18
-      name: contract_id
-      label: Contract ID
+      name: contract_id_2
+      label: Contract Id 2
       hint: null
       type: text
       options: []
       required: false
     - id: 19
       name: extension_terms
-      label: Contract Extension Terms
+      label: Extension Terms
       hint: null
       type: text
       options: []
       required: false
     - id: 20
-      name: contract_duration
-      label: Contract Duration
+      name: contract_duration_2
+      label: Contract Duration 2
       hint: null
       type: text
       options: []
       required: false
     - id: 21
-      name: contract_status
-      label: Contract Status
+      name: contract_status_2
+      label: Contract Status 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - Active
+      - Inactive
+      - Cancelled
       required: true
     - id: 22
-      name: extension_reason
-      label: Extension Reason
+      name: extension_reason_2
+      label: Extension Reason 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: contract_extension_terms
-      label: Contract Extension Terms
+      name: contract_extension_terms_2
+      label: Contract Extension Terms 2
       hint: null
       type: text
       options: []
@@ -182,8 +182,8 @@ inputSchema:
       options: []
       required: false
     - id: 25
-      name: contract_number
-      label: Contract Number
+      name: contract_number_2
+      label: Contract Number 2
       hint: null
       type: text
       options: []

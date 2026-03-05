@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''IT Department'', ''value'': 1}'
-      - '{''label'': ''HR'', ''value'': 2}'
-      - '{''label'': ''Admin'', ''value'': 3}'
+      - IT Department
+      - HR
+      - Admin
       required: true
     - id: 4
       name: update_type
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Software'', ''value'': 1}'
-      - '{''label'': ''Hardware'', ''value'': 2}'
-      - '{''label'': ''Network'', ''value'': 3}'
+      - Software
+      - Hardware
+      - Network
       required: true
     - id: 5
       name: description
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pending Review'', ''value'': 1}'
-      - '{''label'': ''Approved'', ''value'': 2}'
-      - '{''label'': ''Denied'', ''value'': 3}'
+      - Pending Review
+      - Approved
+      - Denied
       required: true
     - id: 10
       name: priority
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Low'', ''value'': 1}'
-      - '{''label'': ''Medium'', ''value'': 2}'
-      - '{''label'': ''High'', ''value'': 3}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 11
       name: notes

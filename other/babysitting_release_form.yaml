@@ -78,7 +78,9 @@ inputSchema:
       label: medical_conditions
       hint: null
       type: select_one
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 12
       name: allergies
@@ -120,7 +122,9 @@ inputSchema:
       label: contact_preference
       hint: null
       type: select_one
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 18
       name: contact_number

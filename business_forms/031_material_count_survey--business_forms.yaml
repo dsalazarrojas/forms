@@ -5,15 +5,15 @@ inputSchema:
     pages:
     - id: 1
       name: material_count_survey_1
-      label: material_count
-      hint: null
+      label: What is the total count of materials?
+      hint: Please provide the total count of materials.
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
       name: material_count_survey_2
-      label: material_type
-      hint: null
+      label: What type of material are we counting?
+      hint: Select all that apply.
       type: select_multiple
       options:
       - Acrylic
@@ -23,71 +23,59 @@ inputSchema:
       - Glass
       - Copper
       - Brass
-      required: false
+      required: true
     - id: 3
       name: material_count_survey_3
-      label: count_of_materials
-      hint: null
+      label: What is the count of materials of this type?
+      hint: Please provide the count of materials.
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
       name: material_count_survey_4
-      label: material_count_survey_5
-      hint: null
+      label: Is this material count correct?
+      hint: Yes or No.
       type: select_one
       options:
-      - One
-      - Two
-      - Three
-      - Four
-      - Five
-      required: false
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 5
       name: material_count_survey_5
-      label: material_count_survey_6
+      label: Is this material type correct?
+      hint: Yes or No.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: material_count_survey_6
+      label: What is the quantity of materials?
+      hint: Please provide the quantity of materials.
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: material_count_survey_7
+      label: What is the count of materials?
+      hint: Please provide the count of materials.
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: material_count_survey_8
+      label: Do we have this material type?
+      hint: Yes or No.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: material_count_survey_9
+      label: material_count_survey_10
       hint: null
       type: text
       options: []
-      required: false
-    - id: 6
-      name: material_count_survey_7
-      label: material_count
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: material_count_survey_8
-      label: material_type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: material_count_survey_9
-      label: quantity_of_materials
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: material_count_survey_10
-      label: count_of_materials
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: material_count_survey_11
-      label: material_type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

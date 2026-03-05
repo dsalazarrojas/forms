@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''receive_automated_emails''}'
-      - '{''value'': ''receive_newsletter''}'
-      - '{''value'': ''receive_both''}'
-      - '{''value'': ''no_emails''}'
-      - '{''value'': ''do_not_share''}'
+      - receive automated emails
+      - receive newsletter
+      - receive both
+      - no emails
+      - do not share
       required: true
     - id: 3
       name: confirm_email
@@ -56,13 +56,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''est''}'
-      - '{''value'': ''pst''}'
-      - '{''value'': ''cdt''}'
-      - '{''value'': ''edt''}'
-      - '{''value'': ''cdt''}'
-      - '{''value'': ''cet''}'
-      - '{''value'': ''gmt''}'
+      - est
+      - pst
+      - cdt
+      - edt
+      - cet
+      - gmt
       required: false
     - id: 8
       name: marketing_outreach
@@ -70,9 +69,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''receive_newsletter''}'
-      - '{''value'': ''receive_automated_emails''}'
-      - '{''value'': ''do_not_share''}'
+      - receive newsletter
+      - receive automated emails
+      - do not share
       required: false
     - id: 9
       name: do_not_share
@@ -80,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: marketing_preferences
@@ -89,8 +88,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''receive_newsletter''}'
-      - '{''value'': ''receive_automated_emails''}'
+      - receive newsletter
+      - receive automated emails
       required: false
     - id: 11
       name: do_not_contact
@@ -98,8 +97,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: do_not_share_outside
@@ -107,8 +106,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: do_share_outside
@@ -116,27 +115,27 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
-      name: marketing_outreach
-      label: Marketing Outreach
+      name: marketing_outreach_2
+      label: Marketing Outreach 2
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''receive_newsletter''}'
-      - '{''value'': ''receive_automated_emails''}'
-      - '{''value'': ''do_not_share''}'
+      - receive newsletter
+      - receive automated emails
+      - do not share
       required: false
     - id: 15
-      name: do_not_share_outside
-      label: Do Not Share Outside
+      name: do_not_share_outside_2
+      label: Do Not Share Outside 2
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: marketing_outreach_repeat
@@ -144,9 +143,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''receive_newsletter''}'
-      - '{''value'': ''receive_automated_emails''}'
-      - '{''value'': ''do_not_share''}'
+      - receive newsletter
+      - receive automated emails
+      - do not share
       required: false
     - id: 17
       name: do_not_share_outside_repeat
@@ -154,8 +153,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: time_of_year
@@ -166,17 +165,16 @@ inputSchema:
       required: false
     - id: 19
       name: timezone
-      label: Time Zone
+      label: Timezone
       hint: null
       type: select_one
       options:
-      - '{''value'': ''est''}'
-      - '{''value'': ''pst''}'
-      - '{''value'': ''cdt''}'
-      - '{''value'': ''edt''}'
-      - '{''value'': ''cdt''}'
-      - '{''value'': ''cet''}'
-      - '{''value'': ''gmt''}'
+      - est
+      - pst
+      - cdt
+      - edt
+      - cet
+      - gmt
       required: false
     - id: 20
       name: marketing_preferences_repeat
@@ -184,17 +182,17 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''receive_newsletter''}'
-      - '{''value'': ''receive_automated_emails''}'
+      - receive newsletter
+      - receive automated emails
       required: false
     - id: 21
       name: do_not_share_outside_repeat_repeat
-      label: Do Not Share Outside (Repeat)
+      label: Do Not Share Outside Repeat Repeat
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: time_of_year_repeat
@@ -209,23 +207,22 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''est''}'
-      - '{''value'': ''pst''}'
-      - '{''value'': ''cdt''}'
-      - '{''value'': ''edt''}'
-      - '{''value'': ''cdt''}'
-      - '{''value'': ''cet''}'
-      - '{''value'': ''gmt''}'
+      - est
+      - pst
+      - cdt
+      - edt
+      - cet
+      - gmt
       required: false
     - id: 24
       name: marketing_outreach_repeat_repeat
-      label: Marketing Outreach (Repeat)
+      label: Marketing Outreach Repeat Repeat
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''receive_newsletter''}'
-      - '{''value'': ''receive_automated_emails''}'
-      - '{''value'': ''do_not_share''}'
+      - receive newsletter
+      - receive automated emails
+      - do not share
       required: false
     - id: 25
       name: do_share_outside_repeat_repeat
@@ -233,6 +230,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false

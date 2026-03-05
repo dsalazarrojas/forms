@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''User'', ''value'': ''user''}'
-      - '{''label'': ''Manager'', ''value'': ''manager''}'
+      - User
+      - Manager
       required: true
     - id: 2
       name: role
@@ -18,9 +18,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Analyst'', ''value'': ''analyst''}'
-      - '{''label'': ''Manager'', ''value'': ''manager''}'
-      - '{''label'': ''Developer'', ''value'': ''developer''}'
+      - Analyst
+      - Manager
+      - Developer
       required: false
     - id: 3
       name: date_range
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pending'', ''value'': ''pending''}'
-      - '{''label'': ''Approved'', ''value'': ''approved''}'
-      - '{''label'': ''Rejected'', ''value'': ''rejected''}'
+      - Pending
+      - Approved
+      - Rejected
       required: true
     - id: 10
       name: approval_level
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''HR'', ''value'': ''hr''}'
-      - '{''label'': ''IT'', ''value'': ''it''}'
+      - HR
+      - IT
       required: false
     - id: 11
       name: reporting_date
@@ -124,8 +124,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Approve'', ''value'': ''approve''}'
-      - '{''label'': ''Reject'', ''value'': ''reject''}'
+      - Approve
+      - Reject
       required: false
     - id: 17
       name: it_approvals
@@ -133,8 +133,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Approve'', ''value'': ''approve''}'
-      - '{''label'': ''Reject'', ''value'': ''reject''}'
+      - Approve
+      - Reject
       required: false
     - id: 18
       name: user_approvals
@@ -142,8 +142,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Approve'', ''value'': ''approve''}'
-      - '{''label'': ''Reject'', ''value'': ''reject''}'
+      - Approve
+      - Reject
       required: false
     - id: 19
       name: approval_date
@@ -165,8 +165,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''User'', ''value'': ''user''}'
-      - '{''label'': ''Manager'', ''value'': ''manager''}'
+      - User
+      - Manager
       required: true
     - id: 22
       name: review_by
@@ -174,8 +174,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''User'', ''value'': ''user''}'
-      - '{''label'': ''Manager'', ''value'': ''manager''}'
+      - User
+      - Manager
       required: true
     - id: 23
       name: submitted_date
@@ -197,6 +197,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''User'', ''value'': ''user''}'
-      - '{''label'': ''Manager'', ''value'': ''manager''}'
+      - User
+      - Manager
       required: true

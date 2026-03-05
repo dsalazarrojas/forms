@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''party_a''}'
-      - '{''value'': ''party_b''}'
+      - party a
+      - party b
       required: false
     - id: 3
       name: shipping_party_other
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''pending''}'
-      - '{''value'': ''confirmed''}'
-      - '{''value'': ''delivered''}'
+      - pending
+      - confirmed
+      - delivered
       required: false
     - id: 11
       name: shipment_location
@@ -84,8 +84,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''location_a''}'
-      - '{''value'': ''location_b''}'
+      - location a
+      - location b
       required: false
     - id: 12
       name: ship_from
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''method_a''}'
-      - '{''value'': ''method_b''}'
-      - '{''value'': ''method_c''}'
+      - method a
+      - method b
+      - method c
       required: false
     - id: 15
       name: ship_via_other

@@ -27,48 +27,80 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: supplier_credit_assessment_request_form_business_forms_2
       label: Category
       hint: null
       type: select_multiple
       options:
-      - Business Forms
-      - Credit Application Forms
-      required: false
+      - Local
+      - International
+      - Both
+      required: true
     - id: 4
       name: supplier_credit_assessment_request_form_business_forms_3
-      label: Description
+      label: Address
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: supplier_credit_assessment_request_form_business_forms_4
-      label: Description
+      label: Contact Person
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: supplier_credit_assessment_request_form_business_forms_5
-      label: Description
+      label: Contact Number
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 7
       name: supplier_credit_assessment_request_form_business_forms_6
-      label: Description
+      label: Contact Email
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 8
       name: supplier_credit_assessment_request_form_business_forms_7
-      label: Description
+      label: Supplier Type
+      hint: null
+      type: select_one
+      options:
+      - Local
+      - International
+      - Both
+      required: true
+    - id: 9
+      name: supplier_credit_assessment_request_form_business_forms_8
+      label: Credit Limit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: supplier_credit_assessment_request_form_business_forms_9
+      label: Payment Terms
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 11
+      name: supplier_credit_assessment_request_form_business_forms_10
+      label: Bank Account
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: supplier_credit_assessment_request_form_business_forms_11
+      label: Bank Routing Number
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Ground''}'
-      - '{''id'': 2, ''name'': ''Express''}'
-      - '{''id'': 3, ''name'': ''Air''}'
+      - Ground
+      - Express
+      - Air
       required: false
     - id: 4
       name: payment_method
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''credit_card''}'
-      - '{''id'': 2, ''name'': ''bank_transfer''}'
-      - '{''id'': 3, ''name'': ''cash''}'
+      - credit card
+      - bank transfer
+      - cash
       required: false
     - id: 5
       name: delivery_address

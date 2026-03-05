@@ -16,105 +16,101 @@ inputSchema:
     pages:
     - id: 1
       name: intro
-      label: What is your name
+      label: Welcome to the Syntactic Knowledge Assessment!
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: question_1
-      label: Which of the following sentences is grammatically correct
+      label: Select the grammatically correct sentence
       hint: null
       type: select_one
       options:
-      - This is the correct sentence.
-      - This is a sentence that is grammatically incorrect.
-      - This is not a grammatically correct sentence.
-      - Other (please specify).
-      required: false
+      - This is a correct sentence.
+      - This sentence is incorrect.
+      required: true
     - id: 3
-      name: answer_1
-      label: sentence_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: question_2
-      label: Which of the following sentences is grammatically correct
+      label: Select the correct verb tense
       hint: null
       type: select_one
       options:
-      - This is the correct sentence.
-      - This is a sentence that is grammatically incorrect.
-      - This is not a grammatically correct sentence.
-      - Other (please specify).
-      required: false
-    - id: 5
-      name: answer_2
-      label: sentence_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
+      - This is a correct sentence with correct verb tense.
+      - This sentence has incorrect verb tense.
+      required: true
+    - id: 4
       name: question_3
-      label: Which of the following sentences is grammatically correct
+      label: Select the correct sentence structure
       hint: null
       type: select_one
       options:
-      - This is the correct sentence.
-      - This is a sentence that is grammatically incorrect.
-      - This is not a grammatically correct sentence.
-      - Other (please specify).
-      required: false
-    - id: 7
-      name: answer_3
-      label: sentence_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
+      - This is a correct sentence structure.
+      - This sentence has incorrect structure.
+      required: true
+    - id: 5
       name: question_4
-      label: Which of the following sentences is grammatically correct
+      label: Select the correct agreement
       hint: null
       type: select_one
       options:
-      - This is the correct sentence.
-      - This is a sentence that is grammatically incorrect.
-      - This is not a grammatically correct sentence.
-      - Other (please specify).
-      required: false
-    - id: 9
-      name: answer_4
-      label: sentence_4
+      - This is a sentence with correct agreement.
+      - This sentence has incorrect agreement.
+      required: true
+    - id: 6
+      name: question_5
+      label: Select the correct form
+      hint: null
+      type: select_one
+      options:
+      - This is a correct sentence form.
+      - This sentence has incorrect form.
+      required: true
+    - id: 7
+      name: question_5_2
+      label: Write a short paragraph about syntax
       hint: null
       type: text
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 8
       name: submission
       label: Submission
       hint: null
       type: time
       options: []
-      required: false
-    - id: 11
-      name: question_5
-      label: Which of the following sentences is correct in terms of punctuation
+      required: true
+    - id: 9
+      name: question_6
+      label: Select the correct punctuation
       hint: null
       type: select_one
       options:
-      - This is the correct sentence.
-      - This is a sentence that is grammatically incorrect.
-      - This is not a grammatically correct sentence.
-      - Other (please specify).
-      required: false
-    - id: 12
-      name: answer_5
-      label: sentence_5
+      - This is a correct sentence.
+      - This sentence is incorrect.
+      required: true
+    - id: 10
+      name: question_7
+      label: Select the correct clause and phrase structure
       hint: null
-      type: text
+      type: select_one
+      options:
+      - This is a correct sentence structure.
+      - This sentence has incorrect structure.
+      required: true
+    - id: 11
+      name: question_8
+      label: Select the correct modal and auxiliary verb form
+      hint: null
+      type: select_one
+      options:
+      - This is a correct sentence form.
+      - This sentence has incorrect form.
+      required: true
+    - id: 12
+      name: submission_2
+      label: Submission 2
+      hint: null
+      type: time
       options: []
-      required: false
+      required: true

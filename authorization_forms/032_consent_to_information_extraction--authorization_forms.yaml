@@ -193,7 +193,7 @@ inputSchema:
       options:
       - Yes - Fully Understood
       - Yes - Partially Understood
-      - false
+      - 'False'
       required: true
     - id: 23
       name: right_to_withdraw
@@ -201,8 +201,8 @@ inputSchema:
       hint: Do you know you can withdraw consent
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: withdrawal_process
@@ -210,8 +210,8 @@ inputSchema:
       hint: Do you know how to withdraw
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: questions_answered
@@ -219,8 +219,8 @@ inputSchema:
       hint: Did you have opportunity to ask questions
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 26
       name: consent_decision

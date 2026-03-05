@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Customer 1''}'
-      - '{''label'': ''Customer 2''}'
+      - Customer 1
+      - Customer 2
       required: false
     - id: 3
       name: email
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Ground''}'
-      - '{''label'': ''Express''}'
-      - '{''label'': ''Standard''}'
+      - Ground
+      - Express
+      - Standard
       required: false
     - id: 6
       name: payment_method
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Credit Card''}'
-      - '{''label'': ''Bank Transfer''}'
-      - '{''label'': ''PayPal''}'
+      - Credit Card
+      - Bank Transfer
+      - PayPal
       required: false
     - id: 7
       name: delivery_address

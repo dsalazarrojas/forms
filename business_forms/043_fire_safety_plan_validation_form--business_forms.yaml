@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 5.1, ''name'': ''approved'', ''label'': ''Approved''}'
-      - '{''id'': 5.2, ''name'': ''not_approved'', ''label'': ''Not Approved''}'
-      - '{''id'': 5.3, ''name'': ''pending'', ''label'': ''Pending''}'
+      - Approved
+      - Not Approved
+      - Pending
       required: false
     - id: 6
       name: fire_safety_plan_version
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 7.1, ''name'': ''active'', ''label'': ''Active''}'
-      - '{''id'': 7.2, ''name'': ''inactive'', ''label'': ''Inactive''}'
-      - '{''id'': 7.3, ''name'': ''not_applicable'', ''label'': ''Not Applicable''}'
+      - Active
+      - Inactive
+      - Not Applicable
       required: false
     - id: 8
       name: fire_safety_plan_effectiveness
@@ -64,7 +64,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 8.1, ''name'': ''effective'', ''label'': ''Effective''}'
-      - '{''id'': 8.2, ''name'': ''not_effective'', ''label'': ''Not Effective''}'
-      - '{''id'': 8.3, ''name'': ''pending'', ''label'': ''Pending''}'
+      - Effective
+      - Not Effective
+      - Pending
       required: false

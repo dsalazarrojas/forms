@@ -16,184 +16,139 @@ inputSchema:
     pages:
     - id: 1
       name: intro
-      label: phone_vocabulary_assessment_helps_educators_and_trainers_evaluate_telecom_terminology_knowledge_online_with_jotform_supporting_fast_data_collection_and_easy_review_of_each_form_submission
-      hint: null
+      label: Understanding of PBX
+      hint: Assess the participant's understanding of PBX and its role in telecom
+        networks
       type: note
       options: []
       required: false
     - id: 2
-      name: question1
-      label: what_is_a_pbx
+      name: pbx_question1
+      label: What is PBX
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Private Branch Exchange (PBX)
+      - Public Branch eXchange (PBX)
+      - Phone Branch System (PBX)
       required: false
     - id: 3
-      name: question2
-      label: what_is_a_bts
+      name: cell_network_question1
+      label: What is a cellular network?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - A network of cell phones
+      - A network of cell towers
+      - A network of cellular communication systems
       required: false
     - id: 4
-      name: question3
-      label: what_is_a_cellular_network
+      name: telecom_exchange_question1
+      label: What is telecom exchange?
+      hint: null
+      type: select_one
+      options:
+      - A place where multiple networks meet
+      - A platform for inter-network communication
+      - A device for switching between networks
+      required: false
+    - id: 5
+      name: switching_systems_question1
+      label: What are switching systems?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 5
-      name: question4
-      label: what_is_a_telecom_switch
-      hint: null
-      type: text
-      options: []
+      - PBX systems
+      - BTS systems
+      - Cellular switching systems
       required: false
     - id: 6
-      name: question5
-      label: what_is_a_telecom_exchange
+      name: site_management_question1
+      label: How is a cell site managed?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: question6
-      label: what_is_a_telecom_switching_system
+      name: troubleshooting_question1
+      label: Describe a method for troubleshooting a telecom issue
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: question7
-      label: what_is_a_bts_switch
+      name: additional_info
+      label: Additional information
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: question8
-      label: what_is_a_cell_site
+      name: site_optimization_question1
+      label: How do you optimize a cell site?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: question9
-      label: what_is_a_bts_site
+      name: network_optimization_question1
+      label: How do you optimize a telecom network?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: question10
-      label: what_is_a_bts_switch
+      name: network_management_question1
+      label: How is a telecom network managed?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: question11
-      label: what_is_a_cell_site
+      name: exchange_management_question1
+      label: How is a telecom exchange managed?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: question12
-      label: what_is_a_pbx_switch
+      name: exchange_optimization_question1
+      label: How do you optimize a telecom exchange?
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: question13
-      label: what_is_a_telecom_exchange
+      name: pbx_management_question1
+      label: How is PBX managed?
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: question15
-      label: what_is_a_bts
+      name: network_security_question1
+      label: What measures are taken to secure a telecom network?
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: question16
-      label: what_is_a_cell_site
+      name: site_security_question1
+      label: What measures are taken to secure a cell site?
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: question17
-      label: what_is_a_bts_switch
+      name: network_analysis_question1
+      label: How is a telecom network analyzed?
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: question18
-      label: what_is_a_cell_network
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: question19
-      label: what_is_a_pbx
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: question20
-      label: what_is_a_telecom_network
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: question21
-      label: what_is_a_telecom_switch
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: question22
-      label: what_is_a_telecom_exchange
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: question23
-      label: what_is_a_bts_site
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: question24
-      label: what_is_a_cell_site
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: question25
-      label: what_is_a_bts
+      name: final_question
+      label: Final question
       hint: null
       type: text
       options: []

@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: date_of_signing
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
       name: customer
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: date
@@ -122,8 +122,8 @@ inputSchema:
       options: []
       required: false
     - id: 15
-      name: customer
-      label: Customer
+      name: customer_2
+      label: Customer 2
       hint: null
       type: text
       options: []
@@ -136,8 +136,8 @@ inputSchema:
       options: []
       required: false
     - id: 17
-      name: department
-      label: Department
+      name: department_2
+      label: Department 2
       hint: null
       type: text
       options: []
@@ -192,8 +192,8 @@ inputSchema:
       options: []
       required: false
     - id: 25
-      name: time
-      label: Time
+      name: time_2
+      label: Time 2
       hint: null
       type: text
       options: []

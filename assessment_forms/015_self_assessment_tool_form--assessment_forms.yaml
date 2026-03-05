@@ -5,224 +5,175 @@ inputSchema:
     pages:
     - id: 1
       name: self_assessment_tool_form_1
-      label: How do you rate your self-awareness
+      label: What are your top 3 core values that guide your decision-making?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Strong''}'
-      - '{''value'': 2, ''label'': ''Average''}'
-      - '{''value'': 3, ''label'': ''Weak''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 2
       name: self_assessment_tool_form_2
-      label: What are your strengths
+      label: How would you rate your ability to set and achieve goals?
       hint: null
-      type: select_multiple
-      options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
+      type: number
+      options: []
       required: false
     - id: 3
       name: self_assessment_tool_form_3
-      label: What are your weaknesses
+      label: What are your top 3 priorities for the next 6 months?
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 4
       name: self_assessment_tool_form_4
-      label: What are your values
+      label: How do you rate your level of self-awareness regarding your strengths
+        and weaknesses?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
+      - Strong
+      - Average
+      - Weak
       required: false
     - id: 5
       name: self_assessment_tool_form_5
-      label: What are your skills
+      label: What are your top 3 skills that you are confident in?
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 6
       name: self_assessment_tool_form_6
-      label: What are your abilities
+      label: How do you rate your motivation to pursue personal and professional development?
       hint: null
-      type: select_multiple
-      options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
+      type: number
+      options: []
       required: false
     - id: 7
       name: self_assessment_tool_form_7
-      label: How do you rate your self-esteem
+      label: What are your top 3 areas of interest?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
       required: false
     - id: 8
       name: self_assessment_tool_form_8
-      label: What are your skills
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
-      required: false
-    - id: 9
-      name: self_assessment_tool_form_9
-      label: How do you rate your self-awareness
+      label: How do you rate your confidence in your skills and abilities?
       hint: null
       type: number
       options: []
       required: false
-    - id: 10
-      name: self_assessment_tool_form_10
-      label: What are your values
+    - id: 9
+      name: self_assessment_tool_form_9
+      label: What are your top 3 values that drive your decisions?
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: self_assessment_tool_form_10
+      label: How do you rate your ability to set and achieve long-term goals?
+      hint: null
+      type: number
+      options: []
       required: false
     - id: 11
       name: self_assessment_tool_form_11
-      label: What are your abilities
+      label: What are your top 3 skills that you want to develop further?
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 12
       name: self_assessment_tool_form_12
-      label: How do you rate your skills
+      label: How do you rate your level of self-acceptance and self-compassion?
       hint: null
       type: number
       options: []
       required: false
     - id: 13
       name: self_assessment_tool_form_13
-      label: What are your goals
+      label: What are your top 3 goals for career development and advancement?
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 14
       name: self_assessment_tool_form_14
-      label: How do you rate your goals
+      label: How do you rate your ability to overcome obstacles and challenges?
       hint: null
       type: number
       options: []
       required: false
     - id: 15
       name: self_assessment_tool_form_15
-      label: What are your motivations
+      label: What are your top 3 priorities for your personal and professional life?
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 16
       name: self_assessment_tool_form_16
-      label: How do you rate your motivations
+      label: How do you rate your level of self-motivation and drive?
       hint: null
       type: number
       options: []
       required: false
     - id: 17
       name: self_assessment_tool_form_17
-      label: What are your priorities
+      label: What are your top 3 goals for personal growth and development?
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 18
       name: self_assessment_tool_form_18
-      label: How do you rate your priorities
+      label: How do you rate your ability to stay motivated and focused?
       hint: null
       type: number
       options: []
       required: false
     - id: 19
       name: self_assessment_tool_form_19
-      label: What are your interests
+      label: What are your top 3 values that you live by?
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 20
       name: self_assessment_tool_form_20
-      label: How do you rate your interests
+      label: How do you rate your ability to adapt to change?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 21
-      name: self_assessment_tool_form_21
-      label: What are your values
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
-      required: false
-    - id: 22
-      name: self_assessment_tool_form_22
-      label: How do you rate your values
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: self_assessment_tool_form_23
-      label: What are your skills
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
-      required: false
-    - id: 24
-      name: self_assessment_tool_form_24
-      label: How do you rate your skills
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: self_assessment_tool_form_25
-      label: What are your goals
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': 1, ''label'': ''High''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Low''}'
       required: false

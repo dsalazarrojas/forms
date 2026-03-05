@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Website''}'
-      - '{''id'': 2, ''value'': ''Social Media''}'
-      - '{''id'': 3, ''value'': ''Referral''}'
-      - '{''id'': 4, ''value'': ''Other''}'
+      - Website
+      - Social Media
+      - Referral
+      - Other
       required: false
     - id: 3
       name: lead_status
@@ -38,9 +27,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Qualified''}'
-      - '{''id'': 2, ''value'': ''Disqualified''}'
-      - '{''id'': 3, ''value'': ''Pending''}'
+      - Qualified
+      - Disqualified
+      - Pending
       required: false
     - id: 4
       name: lead_stage
@@ -48,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Lead''}'
-      - '{''id'': 2, ''value'': ''Opportunity''}'
-      - '{''id'': 3, ''value'': ''Customer''}'
+      - Lead
+      - Opportunity
+      - Customer
       required: false
     - id: 5
       name: contact_date
@@ -79,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''John Doe''}'
-      - '{''id'': 2, ''value'': ''Jane Doe''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - John Doe
+      - Jane Doe
+      - Other
       required: false
     - id: 9
       name: sales_person
@@ -89,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''John''}'
-      - '{''id'': 2, ''value'': ''Jane''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - John
+      - Jane
+      - Other
       required: false
     - id: 10
       name: lead_source_type
@@ -99,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''New''}'
-      - '{''id'': 2, ''value'': ''Referral''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - New
+      - Referral
+      - Other
       required: false
     - id: 11
       name: lead_type
@@ -109,9 +98,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Lead''}'
-      - '{''id'': 2, ''value'': ''Opp''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - Lead
+      - Opp
+      - Other
       required: false
     - id: 12
       name: lead_category
@@ -119,9 +108,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''A''}'
-      - '{''id'': 2, ''value'': ''B''}'
-      - '{''id'': 3, ''value'': ''C''}'
+      - A
+      - B
+      - C
       required: false
     - id: 13
       name: lead_subcategory
@@ -129,9 +118,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''X''}'
-      - '{''id'': 2, ''value'': ''Y''}'
-      - '{''id'': 3, ''value'': ''Z''}'
+      - X
+      - Y
+      - Z
       required: false
     - id: 14
       name: lead_priority
@@ -139,9 +128,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''High''}'
-      - '{''id'': 2, ''value'': ''Medium''}'
-      - '{''id'': 3, ''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 15
       name: notes
@@ -156,9 +145,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Jim''}'
-      - '{''id'': 2, ''value'': ''Jane''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - Jim
+      - Jane
+      - Other
       required: false
     - id: 17
       name: updated_by
@@ -166,9 +155,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Jim''}'
-      - '{''id'': 2, ''value'': ''Jane''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - Jim
+      - Jane
+      - Other
       required: false
     - id: 18
       name: created_date

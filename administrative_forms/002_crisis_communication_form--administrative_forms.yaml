@@ -5,84 +5,141 @@ inputSchema:
     pages:
     - id: 1
       name: emergency_type
-      label: Emergency Type
-      hint: null
+      label: What kind of crisis are we facing?
+      hint: Please choose emergency type.
       type: text
       options: []
       required: false
     - id: 2
       name: incident_location
-      label: incident_location
-      hint: null
+      label: What location is the incident at?
+      hint: Provide exact location details.
       type: text
       options: []
       required: false
     - id: 3
-      name: contact_person
-      label: contact_person
+      name: contact_person_name
+      label: Who do we need to contact?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 4
-      name: contact_email
-      label: contact_email
+      name: contact_person_email
+      label: Contact person's email
       hint: null
       type: email
       options: []
       required: false
     - id: 5
-      name: contact_phone
-      label: contact_phone
+      name: contact_person_phone
+      label: Contact person's phone
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: emergency_details
-      label: emergency_details
+      label: Emergency Details
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: contact_person
-      label: contact_person
+      name: contact_method
+      label: How would you like to be contacted?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Phone
+      - Email
       required: false
     - id: 8
-      name: contact_email
-      label: contact_email
+      name: category
+      label: Category of emergency
       hint: null
-      type: email
-      options: []
+      type: select_one
+      options:
+      - Fire
+      - Police
       required: false
     - id: 9
-      name: contact_phone
-      label: contact_phone
+      name: emergency_description
+      label: Emergency Description
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: emergency_details
-      label: emergency_details
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 11
+      name: contact_method_2
+      label: Contact method
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 12
+      name: response_time
+      label: Response time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: response_date
+      label: Response date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: contact_status
+      label: Contact status
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 15
+      name: contact_status_label
+      label: Contact status label
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: category
-      label: category
+    - id: 16
+      name: contact_person_2
+      label: Contact Person 2
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Option A
+      - Option B
+      required: false
+    - id: 17
+      name: contact_status_2
+      label: Contact Status 2
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 18
+      name: response_date_2
+      label: Response Date 2
+      hint: null
+      type: date
+      options: []
       required: false

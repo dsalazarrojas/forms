@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Morning''}'
-      - '{''label'': ''Afternoon''}'
-      - '{''label'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 6
       name: session_date
@@ -51,7 +51,7 @@ inputSchema:
     - id: 7
       name: session_time
       label: Session Time
-      hint: "12:00 AM"
+      hint: 12:00 AM
       type: time
       options: []
       required: false

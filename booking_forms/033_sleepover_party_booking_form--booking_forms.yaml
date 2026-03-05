@@ -4,195 +4,128 @@ inputSchema:
     title: sleepover_party_booking_form
     pages:
     - id: 1
-      name: sleepover_party_booking_form_1
-      label: event_details
+      name: event_details
+      label: Event Details
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: sleepover_party_booking_form_2
-      label: party_details
+      name: guest_details
+      label: Guest Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: sleepover_party_booking_form_3
-      label: guest_details
+      name: party_details
+      label: Party Details
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: sleepover_party_booking_form_4
-      label: event_start.report
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: event_finish_report
-      label: Event Finish.Report
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: sleepover_party_booking_form_6
-      label: event_start_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: sleepover_party_booking_form_7
-      label: sleepover_start_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: sleepover_party_booking_form_8
-      label: sleepover_finnish_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 9
-      name: sleepover_party_booking_form_9
-      label: party_name
+      name: payment_details
+      label: Payment Details
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: sleepover_party_booking_form_10
-      label: number_of_guests
+    - id: 5
+      name: payment_method
+      label: Payment Method
       hint: null
-      type: number
+      type: text
       options: []
       required: false
-    - id: 11
-      name: sleepover_party_booking_form_11
-      label: number_of_guests
+    - id: 6
+      name: party_details_2
+      label: Party Details 2
       hint: null
-      type: number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sleepover_details
+      label: Sleepover Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sleepover_details_2
+      label: Sleepover Details 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sleepover_finnish_time
+      label: Event Finish Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: sleepover_finnish_report
+      label: Event Finish Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sleepover_details_3
+      label: Sleepover Details 3
+      hint: null
+      type: text
       options: []
       required: false
     - id: 12
       name: sleepover_party_booking_form_12
-      label: event_startประก
+      label: Sleepover Party Booking Form 12
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: sleepover_party_booking_form_13
-      label: event_finish.report
+      name: sleepover_details_4
+      label: Sleepover Details 4
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: sleepover_party_booking_form_14
-      label: sleepover_finnish.report
+      name: sleepover_finish_report
+      label: Sleepover Finish Report
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 15
-      name: sleepover_party_booking_form_15
-      label: sleepover_start.report
+      name: sleepover_start_report
+      label: Event Start Report
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 16
-      name: sleepover_party_booking_form_16
-      label: sleepover_finish.report
+      name: sleepover_details_5
+      label: Sleepover Details 5
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: sleepover_party_booking_form_17
-      label: sleepover_details
+      name: sleepover_finnish
+      label: Event Finish
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: time
+      options: []
+      required: true
     - id: 18
-      name: sleepover_party_booking_form_18
-      label: sleepover_details
+      name: sleepover_start
+      label: Event Start
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: sleepover_party_booking_form_19
-      label: sleepover_details
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: sleepover_party_booking_form_20
-      label: sleepover_details
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: sleepover_party_booking_form_21
-      label: sleepover_details
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: sleepover_party_booking_form_22
-      label: sleepover_details
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: sleepover_party_booking_form_23
-      label: sleepover_details
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: sleepover_party_booking_form_24
-      label: sleepover_details
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: sleepover_party_booking_form_25
-      label: sleepover_details
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: time
+      options: []
+      required: true

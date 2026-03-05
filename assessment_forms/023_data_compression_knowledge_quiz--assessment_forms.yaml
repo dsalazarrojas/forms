@@ -4,213 +4,158 @@ inputSchema:
     title: Data Compression Knowledge Quiz
     pages:
     - id: 1
-      name: lossless_field
-      label: Lossless Field
+      name: question_1
+      label: What is the primary goal of lossless data compression?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Lossless
-      - Lossy
+      - Lossless Compression
+      - Lossy Compression
       required: true
     - id: 2
-      name: lossy_field
-      label: Lossy Field
+      name: question_2
+      label: What is the difference between lossless and lossy compression?
       hint: null
-      type: select_multiple
-      options:
-      - Lossy
-      - Lossless
+      type: text
+      options: []
       required: true
     - id: 3
       name: question_3
-      label: Lossy
+      label: How does lossless compression impact data integrity?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 4
       name: question_4
-      label: Lossy
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: question_5
-      label: Lossy
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 6
-      name: question_6
-      label: Lossy
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
-      name: question_7
-      label: Lossy
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: question_8
-      label: Lossy
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 9
-      name: question_9
-      label: Lossy
+      label: What are the benefits of lossless data compression?
       hint: null
       type: text
       options: []
       required: true
-    - id: 10
-      name: question_10
-      label: Lossy
+    - id: 5
+      name: question_5
+      label: How does lossy compression impact data quality?
       hint: null
       type: select_one
       options:
-      - Lossy
-      - Lossless
-      required: false
-    - id: 11
-      name: goals
-      label: Goals
+      - Loss in Quality
+      - No Loss in Quality
+      required: true
+    - id: 6
+      name: question_6
+      label: What are the applications of lossless data compression?
       hint: null
       type: select_multiple
       options:
-      - Lossless
-      - Lossy
+      - Lossless Data Compression
+      - Lossy Data Compression
+      required: true
+    - id: 7
+      name: question_7
+      label: What are the trade-offs between lossless and lossy compression?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: question_8
+      label: How does lossless compression handle errors?
+      hint: null
+      type: select_one
+      options:
+      - Error-Free
+      - Error-Prone
+      required: true
+    - id: 9
+      name: question_9
+      label: What are the types of data that can be compressed using lossless methods?
+      hint: null
+      type: select_multiple
+      options:
+      - Image Data
+      - Video Data
+      - Audio Data
+      - Text Data
+      required: true
+    - id: 10
+      name: question_10
+      label: Can lossless compression be used for real-time data transmission?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: question_11
+      label: How does lossy compression impact data compression ratio?
+      hint: null
+      type: select_multiple
+      options:
+      - Better Ratio
+      - Worse Ratio
       required: true
     - id: 12
       name: question_12
-      label: Lossy
+      label: What are the limitations of lossless data compression?
       hint: null
-      type: select_one
-      options:
-      - Lossy
-      - Lossless
+      type: text
+      options: []
       required: true
     - id: 13
       name: question_13
-      label: Lossy
+      label: What are the differences between various lossless compression algorithms?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Lossy
-      - Lossless
-      required: false
+      - Algorithm 1
+      - Algorithm 2
+      - Algorithm 3
+      required: true
     - id: 14
       name: question_14
-      label: Lossy
+      label: Can lossy compression be used for image and video compression?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Lossy
-      - Lossless
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 15
       name: question_15
-      label: Lossy
+      label: How does lossless compression handle compression artifacts?
       hint: null
       type: select_multiple
       options:
-      - Lossy
-      - Lossless
-      required: false
+      - No Artifacts
+      - Some Artifacts
+      required: true
     - id: 16
       name: question_16
-      label: Lossy
+      label: What are the benefits of lossy compression?
       hint: null
-      type: select_multiple
-      options:
-      - Lossy
-      - Lossless
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 17
       name: question_17
-      label: Lossy
+      label: Can lossless compression be used for audio compression?
       hint: null
       type: select_one
       options:
-      - Lossy
-      - Lossless
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 18
       name: question_18
-      label: Lossy
-      hint: null
-      type: select_one
-      options:
-      - Lossy
-      - Lossless
-      required: false
-    - id: 19
-      name: question_19
-      label: Lossy
-      hint: null
-      type: select_one
-      options:
-      - Lossy
-      - Lossless
-      required: false
-    - id: 20
-      name: question_20
-      label: Lossy
-      hint: null
-      type: select_one
-      options:
-      - Lossy
-      - Lossless
-      required: false
-    - id: 21
-      name: question_21
-      label: Lossy
-      hint: null
-      type: select_one
-      options:
-      - Lossy
-      - Lossless
-      required: false
-    - id: 22
-      name: question_22
-      label: Lossy
-      hint: null
-      type: select_one
-      options:
-      - Lossy
-      - Lossless
-      required: false
-    - id: 23
-      name: question_23
-      label: Lossy
+      label: What are the types of data that can be compressed using lossy methods?
       hint: null
       type: select_multiple
       options:
-      - Lossy
-      - Lossless
-      required: false
-    - id: 24
-      name: question_24
-      label: Lossy
-      hint: null
-      type: select_multiple
-      options:
-      - Lossy
-      - Lossless
-      required: false
-    - id: 25
-      name: question_25
-      label: Lossy
-      hint: null
-      type: select_multiple
-      options:
-      - Lossy
-      - Lossless
-      required: false
+      - Image Data
+      - Audio Data
+      - Video Data
+      required: true

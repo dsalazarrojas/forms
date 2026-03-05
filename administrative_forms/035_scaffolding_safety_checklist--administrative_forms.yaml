@@ -5,196 +5,103 @@ inputSchema:
     pages:
     - id: 1
       name: scaffolding_safety_checklist_page_1
-      label: scaffolding_safety_checklist
+      label: Safety Concerns
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: scaffolding_safety_checklist_page_2
-      label: scaffolding_safety_checklist
-      hint: null
-      type: note
+      label: Hours Worked This Week
+      hint: Hours (e.g., 5.0)
+      type: number
       options: []
       required: false
     - id: 3
       name: scaffolding_safety_checklist_page_3
-      label: scaffolding_safety_checklist
+      label: Safety Training
       hint: null
       type: select_one
       options:
-      - Satisfactory
-      - Unsatisfactory
+      - 'True'
+      - 'False'
+      - Other
       required: false
     - id: 4
       name: scaffolding_safety_checklist_page_4
-      label: scaffolding_safety_checklist
+      label: Safety Concerns Description
       hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
+      type: text
+      options: []
       required: false
     - id: 5
       name: scaffolding_safety_checklist_page_5
-      label: scaffolding_safety_checklist
+      label: Is Scaffold Inspected?
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 6
-      name: scaffolding_safety_checklist_page_6
-      label: scaffolding_safety_checklist
-      hint: null
-      type: time
+      name: scaffold_people_present
+      label: Number of People Present
+      hint: Number of individuals
+      type: number
       options: []
       required: false
     - id: 7
-      name: scaffolding_safety_checklist_page_7
-      label: scaffolding_safety_checklist
+      name: scaffolding_weather_checked
+      label: Weather Checked
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
       required: false
     - id: 8
-      name: scaffolding_safety_checklist_page_8
-      label: scaffolding_safety_checklist
+      name: scaffolding_heightsafety
+      label: Safety at Heights
       hint: null
-      type: email
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
       required: false
     - id: 9
-      name: scaffolding_safety_checklist_page_9
-      label: scaffolding_safety_checklist
-      hint: null
-      type: text
+      name: scaffold_hours_worked_month
+      label: Hours Worked This Month
+      hint: Hours (e.g., 40.0)
+      type: number
       options: []
       required: false
     - id: 10
-      name: scaffolding_safety_checklist_page_10
-      label: scaffolding_safety_checklist
+      name: report_safety_concerns
+      label: Report Safety Concerns to Supervisor
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: scaffolding_safety_checklist_page_11
-      label: scaffolding_safety_checklist
+      name: scaffolding_orientation
+      label: Safety Orientation
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
       required: false
     - id: 12
-      name: scaffolding_safety_checklist_page_12
-      label: scaffolding_safety_checklist
+      name: scaffold_equipment_maintenance
+      label: Equipment Maintenance Needed
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 13
-      name: scaffolding_safety_checklist_page_13
-      label: scaffolding_safety_checklist
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 14
-      name: scaffolding_safety_checklist_page_14
-      label: scaffolding_safety_checklist
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 15
-      name: scaffolding_safety_checklist_page_15
-      label: scaffolding_safety_checklist
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 16
-      name: scaffolding_safety_checklist_page_16
-      label: scaffolding_safety_checklist
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: scaffolding_safety_checklist_page_17
-      label: scaffolding_safety_checklist
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: scaffolding_safety_checklist_page_18
-      label: scaffolding_safety_checklist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: scaffolding_safety_checklist_page_19
-      label: scaffolding_safety_checklist
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: scaffolding_safety_checklist_page_20
-      label: scaffolding_safety_checklist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: scaffolding_safety_checklist_page_21
-      label: scaffolding_safety_checklist
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: scaffolding_safety_checklist_page_22
-      label: scaffolding_safety_checklist
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: scaffolding_safety_checklist_page_23
-      label: scaffolding_safety_checklist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: scaffolding_safety_checklist_page_24
-      label: scaffolding_safety_checklist
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 25
-      name: scaffolding_safety_checklist_page_25
-      label: scaffolding_safety_checklist
-      hint: null
-      type: text
-      options: []
+      - 'True'
+      - 'False'
       required: false

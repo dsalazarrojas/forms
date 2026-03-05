@@ -1,107 +1,121 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: COVID 19 Risk Assessment
     pages:
-      - id: 1
-        name: assessor_name_full
-        label: Assessor Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: site_location_text
-        label: Site or Location Inspected
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: assessment_date_val
-        label: Date of Assessment
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: social_dist_yn
-        label: Social Distancing Measures in Place
-        hint: e.g. 6ft markers, plexiglass shields
-        type: select_one
-        options: [Yes, No, Partially, N/A]
-        required: true
-      - id: 5
-        name: hygiene_fac_yn
-        label: Hygiene Facilities Available
-        hint: e.g. Handwash stations, sanitizer dispensers
-        type: select_one
-        options: [Yes, No, Inadequate]
-        required: true
-      - id: 6
-        name: ppe_avail_yn
-        label: PPE Available for Staff
-        hint: e.g. Masks, gloves, face shields
-        type: select_one
-        options: [Yes, No, Low Stock]
-        required: true
-      - id: 7
-        name: ventilation_check_yn
-        label: Ventilation System Checked
-        hint: e.g. MERV-13 filters, windows open
-        type: select_one
-        options: [Yes, No, Ongoing]
-        required: true
-      - id: 8
-        name: signage_posted_yn
-        label: Signage for Public Posted
-        hint: e.g. Entry requirements, capacity limits
-        type: select_one
-        options: [Yes, No, Needs improvement]
-        required: true
-      - id: 9
-        name: cleaning_sched_yn
-        label: Cleaning Schedule Maintained
-        hint: e.g. High-touch surfaces sanitized hourly
-        type: select_one
-        options: [Yes, No, Irregular]
-        required: true
-      - id: 10
-        name: overall_risk_cat
-        label: Overall Risk Level
-        hint: null
-        type: select_one
-        options: [Low Risk, Moderate Risk, High Risk, Critical Need]
-        required: true
-      - id: 11
-        name: recommended_actions_text
-        label: Recommended Actions
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: follow_up_date_val
-        label: Follow-up Inspection Date
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 13
-        name: assessment_cert_yn
-        label: I certify this assessment was conducted according to CDC and local guidelines
-        hint: null
-        type: select_one
-        options: [Yes, I certify]
-        required: true
+    - id: 1
+      name: assessor_name_full
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: site_location_text
+      label: Site or Location Inspected
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date_val
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: social_dist_yn
+      label: Social Distancing Measures in Place
+      hint: e.g. 6ft markers, plexiglass shields
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partially
+      - N/A
+      required: true
+    - id: 5
+      name: hygiene_fac_yn
+      label: Hygiene Facilities Available
+      hint: e.g. Handwash stations, sanitizer dispensers
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Inadequate
+      required: true
+    - id: 6
+      name: ppe_avail_yn
+      label: PPE Available for Staff
+      hint: e.g. Masks, gloves, face shields
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Low Stock
+      required: true
+    - id: 7
+      name: ventilation_check_yn
+      label: Ventilation System Checked
+      hint: e.g. MERV-13 filters, windows open
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Ongoing
+      required: true
+    - id: 8
+      name: signage_posted_yn
+      label: Signage for Public Posted
+      hint: e.g. Entry requirements, capacity limits
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Needs improvement
+      required: true
+    - id: 9
+      name: cleaning_sched_yn
+      label: Cleaning Schedule Maintained
+      hint: e.g. High-touch surfaces sanitized hourly
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Irregular
+      required: true
+    - id: 10
+      name: overall_risk_cat
+      label: Overall Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low Risk
+      - Moderate Risk
+      - High Risk
+      - Critical Need
+      required: true
+    - id: 11
+      name: recommended_actions_text
+      label: Recommended Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_date_val
+      label: Follow-up Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: assessment_cert_yn
+      label: I certify this assessment was conducted according to CDC and local guidelines
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - I certify
+      required: true

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -16,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: audit_details_header
-      label: --- Audit and Initiative Details ---
+      label: '--- Audit and Initiative Details ---'
       hint: Standard identifiers for the AI project management audit.
       type: note
       options: []
@@ -44,7 +33,7 @@ inputSchema:
       required: true
     - id: 5
       name: strategy_checklist_header
-      label: --- 1. Strategic Alignment & Planning ---
+      label: '--- 1. Strategic Alignment & Planning ---'
       hint: null
       type: note
       options: []
@@ -55,18 +44,14 @@ inputSchema:
       hint: Check all that have been completed.
       type: select_multiple
       options:
-      - label: Business objectives are clearly defined and measurable.
-        value: objectives
-      - label: All key stakeholders have been identified and aligned.
-        value: stakeholders
-      - label: Resource requirements (budget, staff, infra) are secured.
-        value: resources
-      - label: Buy-vs-Build analysis has been completed.
-        value: buy_vs_build
+      - Business objectives are clearly defined and measurable.
+      - All key stakeholders have been identified and aligned.
+      - Resource requirements (budget, staff, infra) are secured.
+      - Buy-vs-Build analysis has been completed.
       required: true
     - id: 7
       name: technical_readiness_header
-      label: --- 2. Technical & Data Readiness ---
+      label: '--- 2. Technical & Data Readiness ---'
       hint: null
       type: note
       options: []
@@ -77,18 +62,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: Training data quality and volume have been verified.
-        value: data_quality
-      - label: Model scalability and performance requirements defined.
-        value: scalability
-      - label: Integration with existing tech stack is planned.
-        value: integration
-      - label: Technical debt and maintenance costs estimated.
-        value: tech_debt
+      - Training data quality and volume have been verified.
+      - Model scalability and performance requirements defined.
+      - Integration with existing tech stack is planned.
+      - Technical debt and maintenance costs estimated.
       required: true
     - id: 9
       name: governance_ethics_header
-      label: --- 3. Governance, Ethics & Compliance ---
+      label: '--- 3. Governance, Ethics & Compliance ---'
       hint: null
       type: note
       options: []
@@ -99,18 +80,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: GDPR / PII / Data Privacy review is complete.
-        value: privacy
-      - label: Initial algorithmic bias assessment conducted.
-        value: bias_audit
-      - label: Model explainability and transparency documented.
-        value: explainability
-      - label: Ethical impact on end-users has been assessed.
-        value: ethics
+      - GDPR / PII / Data Privacy review is complete.
+      - Initial algorithmic bias assessment conducted.
+      - Model explainability and transparency documented.
+      - Ethical impact on end-users has been assessed.
       required: true
     - id: 11
       name: risk_security_header
-      label: --- 4. Risk & Security ---
+      label: '--- 4. Risk & Security ---'
       hint: null
       type: note
       options: []
@@ -121,18 +98,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: Adversarial attack vulnerability scan conducted.
-        value: security_scan
-      - label: "'Human-in-the-loop' intervention points defined."
-        value: hitl
-      - label: Fallback / Disaster recovery plan established.
-        value: disaster_recovery
-      - label: Insurance / Liability coverage reviewed.
-        value: liability
+      - Adversarial attack vulnerability scan conducted.
+      - '''Human-in-the-loop'' intervention points defined.'
+      - Fallback / Disaster recovery plan established.
+      - Insurance / Liability coverage reviewed.
       required: true
     - id: 13
       name: performance_monitoring_header
-      label: --- 5. Monitoring & Performance ---
+      label: '--- 5. Monitoring & Performance ---'
       hint: null
       type: note
       options: []
@@ -143,16 +116,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: Real-time drift detection tools implemented.
-        value: drift_detection
-      - label: KPI dashboards for business impact ready.
-        value: kpi_dashboards
-      - label: Periodic retraining schedule established.
-        value: retraining
+      - Real-time drift detection tools implemented.
+      - KPI dashboards for business impact ready.
+      - Periodic retraining schedule established.
       required: true
     - id: 15
       name: final_assessment_note
-      label: --- Final Assessment ---
+      label: '--- Final Assessment ---'
       hint: null
       type: note
       options: []
@@ -163,12 +133,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Ready for Deployment (All checks green)
-        value: ready
-      - label: Conditional Approval (Minor items pending)
-        value: conditional
-      - label: Hold / Needs Revision (Critical gaps)
-        value: hold
+      - Ready for Deployment (All checks green)
+      - Conditional Approval (Minor items pending)
+      - Hold / Needs Revision (Critical gaps)
       required: true
     - id: 17
       name: critical_gaps_description

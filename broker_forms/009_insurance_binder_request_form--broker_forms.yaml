@@ -4,179 +4,144 @@ inputSchema:
     title: Insurance Binder Request Form
     pages:
     - id: 1
-      name: insurance_binder_request_form
-      label: insurance_binder_request_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: policy_type
-      label: policy_type
+      label: Policy Type
       hint: null
       type: select_one
       options:
-      - Policy Type
+      - Policy Type 1
       - Policy Type 2
       - Policy Type 3
       required: false
-    - id: 3
-      name: policy_number
-      label: policy_number
+    - id: 2
+      name: contract_start_date
+      label: Contract Start Date
       hint: null
-      type: number
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
       options: []
       required: false
     - id: 4
-      name: contract_start_date
-      label: contract_start_date
+      name: policy_start_date
+      label: Policy Start Date
       hint: null
       type: date
       options: []
       required: false
     - id: 5
-      name: contract_end_date
-      label: contract_end_date
+      name: policy_end_date
+      label: Policy End Date
       hint: null
       type: date
       options: []
       required: false
     - id: 6
-      name: policy_start_date
-      label: policy_start_date
+      name: policy_period
+      label: Policy Period
       hint: null
-      type: date
+      type: number
       options: []
       required: false
     - id: 7
-      name: policy_end_date
-      label: policy_end_date
+      name: contract_number
+      label: Contract Number
       hint: null
-      type: date
+      type: number
       options: []
       required: false
     - id: 8
-      name: contract_date
-      label: contract_date
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: Start Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 9
-      name: policy_period
-      label: policy_period
-      hint: null
-      type: number
-      options: []
-      required: false
     - id: 10
-      name: contract_period
-      label: contract_period
+      name: end_date
+      label: End Date
       hint: null
-      type: number
+      type: date
       options: []
       required: false
     - id: 11
-      name: effective_date
-      label: effective_date
+      name: contract_date
+      label: Contract Date
       hint: null
       type: date
       options: []
       required: false
     - id: 12
-      name: contract_effective_date
-      label: contract_effective_date
+      name: policy_date
+      label: Policy Date
       hint: null
       type: date
       options: []
       required: false
     - id: 13
-      name: coverage_start_date
-      label: coverage_start_date
+      name: effective_date
+      label: Effective Date
       hint: null
       type: date
       options: []
       required: false
     - id: 14
-      name: coverage_end_date
-      label: coverage_end_date
+      name: coverage_date
+      label: Coverage Date
       hint: null
       type: date
       options: []
       required: false
     - id: 15
-      name: policy_start_date
-      label: policy_start_date
+      name: policy_period_2
+      label: Policy Period 2
       hint: null
-      type: date
+      type: number
       options: []
       required: false
     - id: 16
-      name: policy_end_date
-      label: policy_end_date
+      name: contract_period
+      label: Contract Period
       hint: null
-      type: date
+      type: number
       options: []
       required: false
     - id: 17
-      name: contract_start_date
-      label: contract_start_date
+      name: policy_contract_date
+      label: Policy Contract Date
       hint: null
       type: date
       options: []
       required: false
     - id: 18
-      name: contract_end_date
-      label: contract_end_date
+      name: coverage_policy_date
+      label: Coverage Policy Date
       hint: null
       type: date
       options: []
       required: false
     - id: 19
-      name: policy_date
-      label: policy_date
+      name: contract_coverage_date
+      label: Contract Coverage Date
       hint: null
       type: date
       options: []
       required: false
     - id: 20
-      name: coverage_date
-      label: coverage_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: contract_coverage_date
-      label: contract_coverage_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: contract_date
-      label: contract_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: policy_contract_date
-      label: policy_contract_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: coverage_policy_date
-      label: coverage_policy_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
       name: policy_effective_date
-      label: policy_effective_date
+      label: Policy Effective Date
       hint: null
       type: date
       options: []

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': 1}'
-      - '{''id'': 2, ''label'': False, ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Unsure'', ''value'': 3}'
+      - 'True'
+      - 'False'
+      - Unsure
       required: false
     - id: 3
       name: incident_report
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Phone'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Email'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Chat'', ''value'': 3}'
+      - Phone
+      - Email
+      - Chat
       required: false
     - id: 6
       name: follow_up
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Engineering'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Operations'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Management'', ''value'': 3}'
+      - Engineering
+      - Operations
+      - Management
       required: false
     - id: 12
       name: reporting_officer_job_title
@@ -102,7 +102,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Phone'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Email'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''In Person'', ''value'': 3}'
+      - Phone
+      - Email
+      - In Person
       required: false

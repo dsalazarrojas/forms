@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 11, ''name'': ''meeting_type'', ''label'': ''Meeting''}'
-      - '{''id'': 12, ''name'': ''meeting_type'', ''label'': ''No Meeting''}'
-      - '{''id'': 13, ''name'': ''meeting_type'', ''label'': ''Office Hours''}'
+      - Meeting
+      - No Meeting
+      - Office Hours
       required: false
     - id: 10
       name: available
@@ -77,10 +77,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 15, ''name'': ''morning'', ''label'': ''Morning''}'
-      - '{''id'': 16, ''name'': ''afternoon'', ''label'': ''Afternoon''}'
-      - '{''id'': 17, ''name'': ''evening'', ''label'': ''Evening''}'
-      - '{''id'': 18, ''name'': ''weekend'', ''label'': ''Weekend''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
       required: false
     - id: 11
       name: available_time
@@ -139,7 +139,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 27, ''name'': ''meeting_request'', ''label'': True}'
-      - '{''id'': 28, ''name'': ''meeting_request'', ''label'': False}'
-      - '{''id'': 29, ''name'': ''meeting_request'', ''label'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: false

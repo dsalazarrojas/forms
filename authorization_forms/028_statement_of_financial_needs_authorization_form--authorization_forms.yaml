@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Financial Needs'', ''text'': ''Financial Needs''}'
-      - '{''value'': ''Resources and Authorization'', ''text'': ''Resources and Authorization''}'
-      - '{''value'': ''Other'', ''text'': ''Other''}'
+      - Financial Needs
+      - Resources and Authorization
+      - Other
       required: false
     - id: 3
       name: resources_aid
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Financial Aid'', ''text'': ''Financial Aid''}'
-      - '{''value'': ''Resources'', ''text'': ''Resources''}'
-      - '{''value'': ''Other'', ''text'': ''Other''}'
+      - Financial Aid
+      - Resources
+      - Other
       required: false
     - id: 4
       name: user_contact
@@ -71,10 +71,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Employed'', ''text'': ''Employed''}'
-      - '{''value'': ''Unemployed'', ''text'': ''Unemployed''}'
-      - '{''value'': ''Student'', ''text'': ''Student''}'
-      - '{''value'': ''Disabled'', ''text'': ''Disabled''}'
+      - Employed
+      - Unemployed
+      - Student
+      - Disabled
       required: false
     - id: 10
       name: statement_date
@@ -96,8 +96,8 @@ inputSchema:
       hint: Authorization
       type: select_one
       options:
-      - '{''value'': ''Authorized'', ''text'': ''Authorized''}'
-      - '{''value'': ''Not Authorized'', ''text'': ''Not Authorized''}'
+      - Authorized
+      - Not Authorized
       required: false
     - id: 13
       name: authorization_details
@@ -161,9 +161,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Approved'', ''text'': ''Approved''}'
-      - '{''value'': ''Not Approved'', ''text'': ''Not Approved''}'
-      - '{''value'': ''Pending'', ''text'': ''Pending''}'
+      - Approved
+      - Not Approved
+      - Pending
       required: false
     - id: 22
       name: user_name

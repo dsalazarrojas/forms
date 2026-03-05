@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None'', ''value'': ''None''}'
-      - '{''id'': 2, ''label'': ''Equipment'', ''value'': ''Equipment''}'
-      - '{''id'': 3, ''label'': ''Machinery'', ''value'': ''Machinery''}'
-      - '{''id'': 4, ''label'': ''Tools'', ''value'': ''Tools''}'
+      - None
+      - Equipment
+      - Machinery
+      - Tools
       required: true
     - id: 3
       name: location
@@ -38,10 +27,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Office'', ''value'': ''Office''}'
-      - '{''id'': 2, ''label'': ''Warehouse'', ''value'': ''Warehouse''}'
-      - '{''id'': 3, ''label'': ''Factory'', ''value'': ''Factory''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      - Office
+      - Warehouse
+      - Factory
+      - Other
       required: true
     - id: 4
       name: description
@@ -56,10 +45,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good'', ''value'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor'', ''value'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 6
       name: safety_risks
@@ -81,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
-      - '{''id'': 3, ''label'': ''Not Required'', ''value'': ''Not Required''}'
+      - 'True'
+      - 'False'
+      - Not Required
       required: false
     - id: 9
       name: comments
@@ -126,10 +115,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''In Use'', ''value'': ''In Use''}'
-      - '{''id'': 2, ''label'': ''Not In Use'', ''value'': ''Not In Use''}'
-      - '{''id'': 3, ''label'': ''Decommissioned'', ''value'': ''Decommissioned''}'
-      - '{''id'': 4, ''label'': ''Removed'', ''value'': ''Removed''}'
+      - In Use
+      - Not In Use
+      - Decommissioned
+      - Removed
       required: true
     - id: 15
       name: review_date
@@ -207,8 +196,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good'', ''value'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor'', ''value'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true

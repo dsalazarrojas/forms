@@ -20,9 +20,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 2
       name: delivery_date
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: delivery_method
@@ -84,8 +84,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: delivery_status
@@ -109,9 +110,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
       name: assigned_date
@@ -128,30 +129,31 @@ inputSchema:
       options: []
       required: false
     - id: 15
-      name: delivery_date
-      label: Delivery Date
+      name: delivery_date_2
+      label: Delivery Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 16
-      name: delivery_method
-      label: Delivery Method
+      name: delivery_method_2
+      label: Delivery Method 2
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 17
-      name: assigned_user
-      label: Assigned User
+      name: assigned_user_2
+      label: Assigned User 2
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 18
       name: contract_number
@@ -159,8 +161,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 19
       name: contract_date
@@ -170,8 +173,8 @@ inputSchema:
       options: []
       required: false
     - id: 20
-      name: delivery_status
-      label: Delivery Status
+      name: delivery_status_2
+      label: Delivery Status 2
       hint: null
       type: select_one
       options:
@@ -179,8 +182,8 @@ inputSchema:
       - Not Delivered
       required: false
     - id: 21
-      name: delivery_date
-      label: Delivery Date
+      name: delivery_date_3
+      label: Delivery Date 3
       hint: null
       type: date
       options: []
@@ -191,30 +194,33 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 23
-      name: assigned_user
-      label: Assigned User
+      name: assigned_user_3
+      label: Assigned User 3
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 24
-      name: contract_number
-      label: Contract Number
+      name: contract_number_2
+      label: Contract Number 2
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 25
-      name: contract_date
-      label: Contract Date
+      name: contract_date_2
+      label: Contract Date 2
       hint: null
       type: date
       options: []

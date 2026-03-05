@@ -15,45 +15,25 @@ inputSchema:
     title: Shift Handover Protocol Acknowledgement Form
     pages:
     - id: 1
-      name: shift_handover_protocol_acknowledgement_form_1
-      label: acknowledgement
+      name: acknowledgement_1
+      label: Acknowledgement of Previous Shift
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - None
-      - None
-      required: false
+      - I acknowledge that I finished my shift on time
+      - I was running late for my shift
+      - I did not finish my shift
+      required: true
     - id: 2
-      name: shift_handover_protocol_acknowledgement_form_2
-      label: shift_handover_protocol
+      name: notes_1
+      label: Notes from Previous Shift
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 3
-      name: shift_handover_protocol_acknowledgement_form_3
-      label: acknowledgement
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 4
-      name: shift_handover_protocol_acknowledgement_form_4
-      label: notes
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
-      name: shift_handover_protocol_acknowledgement_form_5
-      label: next_shift
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 6
-      name: shift_handover_protocol_acknowledgement_form_6
-      label: next_shift
+      name: next_shift_details
+      label: Next Shift Details
       hint: null
       type: select_one
       options:
@@ -61,175 +41,87 @@ inputSchema:
       - 08:30
       - 09:00
       required: true
-    - id: 7
-      name: shift_handover_protocol_acknowledgement_form_7
-      label: notes
+    - id: 4
+      name: next_shift_start_time
+      label: Next Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: next_shift_start_date
+      label: Next Shift Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: notes_for_next_shift
+      label: Notes for Next Shift
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: shift_handover_protocol_acknowledgement_form_8
-      label: next_shift_start
+    - id: 7
+      name: next_shift_acknowledgement_1
+      label: Acknowledgement of Next Shift
       hint: null
-      type: date
+      type: select_one
+      options:
+      - I will be on time for next shift
+      - I will be late for next shift
+      - I will not be available for next shift
+      required: true
+    - id: 8
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
       options: []
       required: false
     - id: 9
-      name: shift_handover_protocol_acknowledgement_form_9
-      label: shift_handover_protocol_acknowledgement_form
+      name: confirmation_of_handover_1
+      label: Confirmation of Handover
+      hint: null
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: review_and_sign_1
+      label: Review and Sign
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 11
+      name: signature
+      label: Signature
       hint: null
       type: text
       options: []
       required: true
-    - id: 10
-      name: shift_handover_protocol_acknowledgement_form_10
-      label: next_shift
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 11
-      name: shift_handover_protocol_acknowledgement_form_11
-      label: next_shift
-      hint: null
-      type: date
-      options: []
-      required: false
     - id: 12
-      name: next_shift
-      label: next_shift
+      name: name
+      label: Name
       hint: null
-      type: select_one
-      options:
-      - 07:30
-      - 08:30
-      - 09:30
+      type: text
+      options: []
       required: true
     - id: 13
-      name: next_shift
-      label: next_shift
+      name: employee_id
+      label: Employee ID
       hint: null
-      type: time
+      type: text
       options: []
       required: true
     - id: 14
-      name: next_shift
-      label: next_shift
+      name: date
+      label: Date
       hint: null
-      type: select_one
-      options:
-      - 07:30
-      - 08:00
-      - 08:30
-      required: true
-    - id: 15
-      name: next_shift
-      label: next_shift
-      hint: null
-      type: select_one
-      options:
-      - 08:00
-      - 08:30
-      - 09:30
-      required: true
-    - id: 16
-      name: next_shift
-      label: next_shift
-      hint: null
-      type: select_one
-      options:
-      - 08:30
-      - 09:00
-      - 09:30
-      required: true
-    - id: 17
-      name: next_shift
-      label: next_shift
-      hint: null
-      type: select_one
-      options:
-      - 07:30
-      - 08:00
-      - 08:30
-      required: true
-    - id: 18
-      name: next_shift
-      label: next_shift
-      hint: null
-      type: select_one
-      options:
-      - 08:30
-      - 09:30
-      - '600'
-      required: true
-    - id: 19
-      name: next_shift
-      label: next_shift
-      hint: null
-      type: select_one
-      options:
-      - 08:30
-      - 09:30
-      - '630'
-      required: true
-    - id: 20
-      name: next_shift
-      label: next_shift
-      hint: null
-      type: select_one
-      options:
-      - 09:30
-      - '600'
-      - '630'
-      required: true
-    - id: 21
-      name: next_shift
-      label: next_shift
-      hint: null
-      type: select_one
-      options:
-      - 08:30
-      - 09:30
-      - '630'
-      required: true
-    - id: 22
-      name: next_shift
-      label: next_shift
-      hint: null
-      type: select_one
-      options:
-      - 09:30
-      - '630'
-      - '660'
-      required: true
-    - id: 23
-      name: next_shift
-      label: next_shift
-      hint: null
-      type: select_one
-      options:
-      - '630'
-      - '660'
-      - '690'
-      required: true
-    - id: 24
-      name: next_shift
-      label: next_shift
-      hint: null
-      type: select_one
-      options:
-      - '660'
-      - '690'
-      - '720'
-      required: true
-    - id: 25
-      name: next_shift
-      label: next_shift
-      hint: null
-      type: select_one
-      options:
-      - '690'
-      - '720'
-      - '750'
+      type: date
+      options: []
       required: true

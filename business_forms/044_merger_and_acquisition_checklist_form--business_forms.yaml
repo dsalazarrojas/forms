@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''public'', ''label'': ''Public''}'
-      - '{''value'': ''private'', ''label'': ''Private''}'
+      - Public
+      - Private
       required: true
     - id: 3
       name: merger_and_acquisition_checklist_form_target_business_location
@@ -25,7 +25,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Bangkok'', ''label'': ''Bangkok''}'
+      - Bangkok
       - Other
       required: true
     - id: 4
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''asset'', ''label'': ''Asset''}'
-      - '{''value'': ''stock'', ''label'': ''Stock''}'
-      - '{''value'': ''hybrid'', ''label'': ''Hybrid''}'
+      - Asset
+      - Stock
+      - Hybrid
       required: true
     - id: 6
       name: merger_and_acquisition_checklist_form_valuation_method
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''discounted_cash_flow'', ''label'': ''Discounted Cash Flow''}'
-      - '{''value'': ''relative'', ''label'': ''Relative''}'
-      - '{''value'': ''market'', ''label'': ''Market''}'
+      - Discounted Cash Flow
+      - Relative
+      - Market
       required: true
     - id: 7
       name: merger_and_acquisition_checklist_form_deal_structure
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''asset'', ''label'': ''Asset''}'
-      - '{''value'': ''stock'', ''label'': ''Stock''}'
-      - '{''value'': ''hybrid'', ''label'': ''Hybrid''}'
+      - Asset
+      - Stock
+      - Hybrid
       required: true
     - id: 8
       name: merger_and_acquisition_checklist_form_valuation
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''low'', ''label'': ''Low''}'
-      - '{''value'': ''medium'', ''label'': ''Medium''}'
-      - '{''value'': ''high'', ''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 14
       name: merger_and_acquisition_checklist_form_risk_factors
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''financial'', ''label'': ''Financial''}'
-      - '{''value'': ''regulatory'', ''label'': ''Regulatory''}'
-      - '{''value'': ''strategic'', ''label'': ''Strategic''}'
+      - Financial
+      - Regulatory
+      - Strategic
       required: true
     - id: 15
       name: merger_and_acquisition_checklist_form_risk_factor_details
@@ -133,9 +133,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''financial'', ''label'': ''Financial''}'
-      - '{''value'': ''market'', ''label'': ''Market''}'
-      - '{''value'': ''asset'', ''label'': ''Asset''}'
+      - Financial
+      - Market
+      - Asset
       required: true
     - id: 17
       name: merger_and_acquisition_checklist_form_financial_model

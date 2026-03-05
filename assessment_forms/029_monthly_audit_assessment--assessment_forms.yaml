@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Area 1''}'
-      - '{''label'': ''Area 2''}'
-      - '{''label'': ''Area 3''}'
+      - Area 1
+      - Area 2
+      - Area 3
       required: true
     - id: 3
       name: risk_identification
@@ -33,8 +33,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
+      - Option 1
+      - Option 2
       required: true
     - id: 5
       name: audit_frequency
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: true
     - id: 6
       name: audit_date
@@ -56,14 +56,14 @@ inputSchema:
     - id: 7
       name: start_time
       label: Start Time
-      hint: "12:00am-11:59pm"
+      hint: 12:00am-11:59pm
       type: time
       options: []
       required: false
     - id: 8
       name: end_time
       label: End Time
-      hint: "12:00am-11:59pm"
+      hint: 12:00am-11:59pm
       type: time
       options: []
       required: false
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Submit and Save''}'
-      - '{''label'': ''Save and Continue''}'
+      - Submit and Save
+      - Save and Continue
       required: false
     - id: 11
       name: email_notification
@@ -121,7 +121,7 @@ inputSchema:
     - id: 16
       name: assigned_time
       label: Assigned Time
-      hint: "12:00am-11:59pm"
+      hint: 12:00am-11:59pm
       type: time
       options: []
       required: false
@@ -131,9 +131,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''New''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Completed''}'
+      - New
+      - In Progress
+      - Completed
       required: true
     - id: 18
       name: completed_by
@@ -141,10 +141,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''User 1''}'
-      - '{''label'': ''User 2''}'
-      - '{''label'': ''User 3''}'
-      - '{''label'': ''User 4''}'
+      - User 1
+      - User 2
+      - User 3
+      - User 4
       required: true
     - id: 19
       name: completed_date
@@ -156,7 +156,7 @@ inputSchema:
     - id: 20
       name: completed_time
       label: Completed Time
-      hint: "12:00am-11:59pm"
+      hint: 12:00am-11:59pm
       type: time
       options: []
       required: false
@@ -173,8 +173,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: review_comments
@@ -189,10 +189,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''User 1''}'
-      - '{''label'': ''User 2''}'
-      - '{''label'': ''User 3''}'
-      - '{''label'': ''User 4''}'
+      - User 1
+      - User 2
+      - User 3
+      - User 4
       required: true
     - id: 25
       name: review_date

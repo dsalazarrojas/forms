@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John''}'
-      - '{''id'': 2, ''label'': ''Jane''}'
-      - '{''id'': 3, ''label'': ''Joe''}'
-      - '{''id'': 4, ''label'': ''Jill''}'
-      - '{''id'': 5, ''label'': ''Bob''}'
+      - John
+      - Jane
+      - Joe
+      - Jill
+      - Bob
       required: false
     - id: 4
       name: date
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Successful''}'
-      - '{''id'': 2, ''label'': ''Unsuccessful''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Successful
+      - Unsuccessful
+      - Pending
       required: true
     - id: 7
       name: assigned_user
@@ -59,7 +59,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: true
     - id: 8

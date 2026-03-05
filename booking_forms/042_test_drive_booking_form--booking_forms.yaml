@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Toyota''}'
-      - '{''value'': 2, ''label'': ''Honda''}'
-      - '{''value'': 3, ''label'': ''Tesla''}'
+      - Toyota
+      - Honda
+      - Tesla
       required: false
     - id: 6
       name: test_drive_time
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''John Doe''}'
-      - '{''value'': 2, ''label'': ''Jane Doe''}'
-      - '{''value'': 3, ''label'': ''Bob Smith''}'
+      - John Doe
+      - Jane Doe
+      - Bob Smith
       required: false
     - id: 11
       name: test_drive_status
@@ -85,7 +85,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''pending'', ''label'': ''pending''}'
-      - '{''value'': ''completed'', ''label'': ''completed''}'
-      - '{''value'': ''cancelled'', ''label'': ''cancelled''}'
+      - pending
+      - completed
+      - cancelled
       required: false

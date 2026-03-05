@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Plan''}'
-      - '{''id'': 2, ''label'': ''Usage''}'
-      - '{''id'': 3, ''label'': ''Metered''}'
+      - Plan
+      - Usage
+      - Metered
       required: true
     - id: 3
       name: plan_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''One-Off''}'
-      - '{''id'': 2, ''label'': ''Subscription''}'
-      - '{''id'': 3, ''label'': ''Recurring''}'
+      - One-Off
+      - Subscription
+      - Recurring
       required: true
     - id: 4
       name: usage_plan_price
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monthly''}'
-      - '{''id'': 2, ''label'': ''Annually''}'
-      - '{''id'': 3, ''label'': ''Quarterly''}'
+      - Monthly
+      - Annually
+      - Quarterly
       required: true
     - id: 8
       name: payment_term
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monthly''}'
-      - '{''id'': 2, ''label'': ''Annually''}'
-      - '{''id'': 3, ''label'': ''Quarterly''}'
+      - Monthly
+      - Annually
+      - Quarterly
       required: true
     - id: 9
       name: payment_due_date
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Stripe''}'
-      - '{''id'': 2, ''label'': ''PayPal''}'
-      - '{''id'': 3, ''label'': ''Authorize''}'
+      - Stripe
+      - PayPal
+      - Authorize
       required: true
     - id: 11
       name: internal_reference
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - Active
+      - Inactive
+      - Cancelled
       required: true
     - id: 13
       name: account_id
@@ -111,9 +111,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Primary''}'
-      - '{''id'': 2, ''label'': ''Secondary''}'
-      - '{''id'': 3, ''label'': ''Tertiary''}'
+      - Primary
+      - Secondary
+      - Tertiary
       required: true
     - id: 14
       name: account_number
@@ -128,8 +128,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Total''}'
-      - '{''id'': 2, ''label'': ''Per-Unit''}'
+      - Total
+      - Per-Unit
       required: true
     - id: 16
       name: usage_based_calculation_1
@@ -137,8 +137,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Total''}'
-      - '{''id'': 2, ''label'': ''Per-Unit''}'
+      - Total
+      - Per-Unit
       required: true
     - id: 17
       name: usage_based_calculation_2
@@ -146,8 +146,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Total''}'
-      - '{''id'': 2, ''label'': ''Per-Unit''}'
+      - Total
+      - Per-Unit
       required: true
     - id: 18
       name: billing_currency
@@ -155,9 +155,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''USD''}'
-      - '{''id'': 2, ''label'': ''EUR''}'
-      - '{''id'': 3, ''label'': ''JPY''}'
+      - USD
+      - EUR
+      - JPY
       required: true
     - id: 19
       name: billing_frequency
@@ -172,9 +172,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monthly''}'
-      - '{''id'': 2, ''label'': ''Annually''}'
-      - '{''id'': 3, ''label'': ''Quarterly''}'
+      - Monthly
+      - Annually
+      - Quarterly
       required: true
     - id: 21
       name: billing_status
@@ -182,9 +182,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - Active
+      - Inactive
+      - Cancelled
       required: true
     - id: 22
       name: billing_type
@@ -192,9 +192,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Plan''}'
-      - '{''id'': 2, ''label'': ''Usage''}'
-      - '{''id'': 3, ''label'': ''Metered''}'
+      - Plan
+      - Usage
+      - Metered
       required: true
     - id: 23
       name: payment_terms
@@ -216,9 +216,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - Active
+      - Inactive
+      - Cancelled
       required: true
     - id: 26
       name: internal_reference_2

@@ -5,179 +5,239 @@ inputSchema:
     pages:
     - id: 1
       name: nominator_name
-      label: nominator_name
+      label: Nominator Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: nominator_email
-      label: nominator_email
+      label: Nominator Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 3
       name: nominator_phone
-      label: nominator_phone
+      label: Nominator Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: nominee_name
-      label: nominee_name
+      label: Nominee Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: nominee_title
-      label: nominee_title
+      label: Nominee Title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: nominee_department
-      label: nominee_department
+      label: Nominee Department
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: nominator_name
-      label: nominator_name
+      name: nominator_supervisor_name
+      label: Nominator Supervisor Name
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: nominator_title
-      label: nominator_title
+      name: nominator_supervisor_title
+      label: Nominator Supervisor Title
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: nominator_email
-      label: nominator_email
+      name: nominator_supervisor_email
+      label: Nominator Supervisor Email
       hint: null
       type: email
       options: []
       required: false
     - id: 10
-      name: nominator_phone
-      label: nominator_phone
+      name: nominator_supervisor_phone
+      label: Nominator Supervisor Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: nominator_supervisor_name
-      label: nominator_supervisor_name
+      name: nominator_supervisor_organizational_impact
+      label: Nominee's Supervisor's Organizational Impact
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: nominator_supervisor_title
-      label: nominator_supervisor_title
+      name: nominator_supervisor_direct_manager
+      label: Nominee's Supervisor's Direct Manager
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: nominator_supervisor_email
-      label: nominator_supervisor_email
+      name: nominator_supervisor_indirect_manager
+      label: Nominee's Supervisor's Indirect Manager
       hint: null
-      type: email
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 14
-      name: nominator_supervisor_phone
-      label: nominator_supervisor_phone
+      name: nominator_supervisor_employees
+      label: Nominee's Supervisor's Number of Employees
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 15
-      name: nominator_supervisor_department
-      label: nominator_supervisor_department
+      name: nominator_supervisor_employees_count
+      label: Nominator Supervisor Employees Count
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 16
-      name: nominator_supervisor_job_title
-      label: nominator_supervisor_job_title
+      name: nominator_organizational_impact
+      label: Nominee's Organizational Impact
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: nominator_supervisor_direct_manager
-      label: nominator_supervisor_direct_manager
+      name: nominator_collaboration
+      label: Nominee's Collaboration
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: nominator_supervisor_indirect_manager
-      label: nominator_supervisor_indirect_manager
+      name: nominator_leadership_skills
+      label: Nominee's Leadership Skills
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 19
-      name: nominator_supervisor_employees
-      label: nominator_supervisor_employees
+      name: nominator_achievement
+      label: Nominee's Achievement
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 20
-      name: nominator_supervisor_employees_count
-      label: nominator_supervisor_employees_count
+      name: nominator_additional_comments
+      label: Additional Comments
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 21
-      name: nominator_organizational_impact
-      label: nominator_organizational_impact
+      name: nominator_departmental_contribution
+      label: Nominee's Departmental Contribution
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: nominator_collaboration
-      label: nominator_collaboration
+      name: nominator_supervisor_departmental_contribution
+      label: Nominee's Supervisor's Departmental Contribution
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: nominator_leadership_skills
-      label: nominator_leadership_skills
+      name: nominator_supervisor_departmental_contribution_2
+      label: Nominator Supervisor Departmental Contribution 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: nominator_achievement
-      label: nominator_achievement
+      name: nominator_supervisor_supervisor_departmental_contribution
+      label: Nominator Supervisor Supervisor Departmental Contribution
       hint: null
       type: text
       options: []
       required: false
     - id: 25
-      name: nominator_additional_comments
-      label: nominator_additional_comments
+      name: nominator_supervisor_organizational_impact_2
+      label: Nominator Supervisor Organizational Impact 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: nominator_supervisor_job_title
+      label: Nominee's Supervisor's Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: nominator_supervisor_direct_manager_2
+      label: Nominator Supervisor Direct Manager 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: nominator_supervisor_indirect_manager_2
+      label: Nominator Supervisor Indirect Manager 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 29
+      name: nominator_supervisor_employees_2
+      label: Nominator Supervisor Employees 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 30
+      name: nominator_supervisor_employees_count_2
+      label: Nominator Supervisor Employees Count 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: nominator_supervisor_leadership_skills
+      label: Nominee's Supervisor's Leadership Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: nominator_supervisor_achievement
+      label: Nominee's Supervisor's Achievement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: nominator_supervisor_additional_comments
+      label: Nominee's Supervisor's Additional Comments
       hint: null
       type: text
       options: []

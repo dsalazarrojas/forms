@@ -4,207 +4,202 @@ inputSchema:
     title: Medical Knowledge Assessment
     pages:
     - id: 1
-      name: medical_knowledge_assessment
-      label: Medical Knowledge Assessment
-      hint: null
+      name: medical_knowledge
+      label: What is your current level of medical knowledge?
+      hint: This question is to assess your current level of medical knowledge.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
+      name: medical_degree
+      label: Medical Degree Earned
+      hint: This question is to assess your highest level of medical degree earned.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: year_of_birth
+      label: Year of Birth
+      hint: This question is to determine your birth year.
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_license_expiration
+      label: Medical License Expiration Date
+      hint: This question is to determine your medical license expiration date.
+      type: date
+      options: []
+      required: true
+    - id: 5
       name: section_a
       label: Section A
-      hint: null
+      hint: Anatomy and Physiology
       type: note
       options: []
-      required: false
-    - id: 3
-      name: a_question_1
-      label: What is a question 1
-      hint: null
-      type: select_multiple
-      options:
-      - A
-      - B
-      - C
-      required: false
-    - id: 4
-      name: a_question_2
-      label: What is a question 2
-      hint: null
-      type: select_one
-      options:
-      - A
-      - B
-      - C
-      required: false
-    - id: 5
-      name: a_question_3
-      label: What is a question 3
-      hint: null
-      type: select_multiple
-      options:
-      - A
-      - B
-      - C
-      required: false
+      required: true
     - id: 6
-      name: a_question_4
-      label: What is a question 4
-      hint: null
-      type: select_one
-      options:
-      - A
-      - B
-      - C
-      required: false
-    - id: 7
-      name: b_question_1
-      label: What is b question 1
-      hint: null
+      name: a_question_1
+      label: Circulatory System Function
+      hint: What is the function of the circulatory system?
       type: select_multiple
       options:
-      - A
-      - B
-      - C
-      required: false
-    - id: 8
-      name: b_question_2
-      label: What is b question 2
-      hint: null
+      - Heart
+      - Lungs
+      - Blood Vessels
+      required: true
+    - id: 7
+      name: a_question_2
+      label: Cellular Respiration Process
+      hint: What is the process of cellular respiration?
       type: select_one
       options:
-      - A
-      - B
-      - C
-      required: false
+      - Aerobic
+      - Anaerobic
+      - Fermentation
+      required: true
+    - id: 8
+      name: a_question_3
+      label: Respiratory System Organs
+      hint: What are the main organs in the respiratory system?
+      type: select_multiple
+      options:
+      - Lungs
+      - Trachea
+      - Esophagus
+      required: true
     - id: 9
-      name: date_of_birth
-      label: Date of Birth
-      hint: null
-      type: date
-      options: []
-      required: false
+      name: a_question_4
+      label: Photosynthesis Process
+      hint: What is the process of photosynthesis?
+      type: select_multiple
+      options:
+      - Light dependent
+      - Light independent
+      - Both
+      required: true
     - id: 10
-      name: time_of_birth
-      label: Time of Birth
-      hint: null
-      type: time
-      options: []
-      required: false
+      name: b_question_1
+      label: Hypoglycemia Definition
+      hint: What is the definition of hypoglycemia?
+      type: select_one
+      options:
+      - Low blood sugar
+      - High blood sugar
+      - Both
+      required: true
     - id: 11
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
+      name: b_question_2
+      label: Type 2 Diabetes Treatment
+      hint: What is the treatment for type 2 diabetes?
+      type: select_multiple
+      options:
+      - Insulin
+      - Exercise
+      - Diet
+      required: true
     - id: 12
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: b_question_3
+      label: Hypertension Definition
+      hint: What is the definition of hypertension?
+      type: select_one
+      options:
+      - High blood pressure
+      - Low blood pressure
+      - Normal blood pressure
+      required: true
     - id: 13
-      name: medical_school
-      label: Medical School
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: b_question_4
+      label: Pneumonia Treatment
+      hint: What is the treatment for pneumonia?
+      type: select_multiple
+      options:
+      - Antibiotics
+      - Rest
+      - Fluids
+      required: true
     - id: 14
+      name: c_question_1
+      label: Informed Consent Definition
+      hint: What is the definition of informed consent?
+      type: select_one
+      options:
+      - Permission given
+      - Permission not given
+      - Both
+      required: true
+    - id: 15
+      name: c_question_2
+      label: Confidentiality Definition
+      hint: What is the definition of confidentiality?
+      type: select_one
+      options:
+      - Patient information kept secret
+      - Patient information shared
+      - Both
+      required: true
+    - id: 16
+      name: c_question_3
+      label: Medical Malpractice Definition
+      hint: What is the definition of medical malpractice?
+      type: select_one
+      options:
+      - Unprofessional behavior
+      - Professional behavior
+      - Both
+      required: true
+    - id: 17
+      name: c_question_4
+      label: Patient Autonomy Definition
+      hint: What is the definition of patient autonomy?
+      type: select_one
+      options:
+      - Patient decision making power
+      - Doctor decision making power
+      - Both
+      required: true
+    - id: 18
       name: medical_license
       label: Medical License
-      hint: null
+      hint: This question is to determine your medical license type.
       type: text
       options: []
-      required: false
-    - id: 15
-      name: medical_license_issue_date
-      label: Medical License Issue Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: medical_license_expiration_date
-      label: Medical License Expiration Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: section_b
-      label: Section B
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: c_question_1
-      label: What is a question 1
-      hint: null
-      type: select_multiple
-      options:
-      - A
-      - B
-      - C
-      required: false
+      required: true
     - id: 19
-      name: c_question_2
-      label: What is a question 2
-      hint: null
-      type: select_one
-      options:
-      - A
-      - B
-      - C
-      required: false
-    - id: 20
-      name: c_question_3
-      label: What is a question 3
-      hint: null
-      type: select_multiple
-      options:
-      - A
-      - B
-      - C
-      required: false
-    - id: 21
-      name: medical_license_type
-      label: Medical License Type
-      hint: null
+      name: medical_residency
+      label: Medical Residency
+      hint: This question is to determine your medical residency type.
       type: text
       options: []
-      required: false
-    - id: 22
+      required: true
+    - id: 20
       name: medical_license_number
       label: Medical License Number
-      hint: null
+      hint: This question is to determine your medical license number.
       type: text
       options: []
-      required: false
-    - id: 23
+      required: true
+    - id: 21
       name: medical_license_status
       label: Medical License Status
-      hint: null
+      hint: This question is to determine your medical license status.
       type: select_one
       options:
       - Active
       - Expired
       - Suspended
-      required: false
-    - id: 24
-      name: medical_degree
+      required: true
+    - id: 22
+      name: medical_degree_2
       label: Medical Degree
-      hint: null
+      hint: This question is to determine your medical degree.
       type: text
       options: []
-      required: false
-    - id: 25
-      name: medical_residency
-      label: Medical Residency
-      hint: null
-      type: text
+      required: true
+    - id: 23
+      name: section_c
+      label: Section C
+      hint: Medical Ethics
+      type: note
       options: []
-      required: false
+      required: true

@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''positive'', ''label'': ''Positive''}'
-      - '{''id'': 2, ''name'': ''negative'', ''label'': ''Negative''}'
+      - Positive
+      - Negative
       required: false
     - id: 5
       name: check_out_details
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: comments

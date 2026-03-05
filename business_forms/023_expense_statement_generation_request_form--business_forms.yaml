@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Company expense''}'
-      - '{''id'': 2, ''label'': ''Personal expense''}'
+      - Company expense
+      - Personal expense
       required: false
     - id: 7
       name: category
@@ -53,11 +53,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Travel''}'
-      - '{''id'': 2, ''label'': ''Food''}'
-      - '{''id'': 3, ''label'': ''Accommodation''}'
-      - '{''id'': 4, ''label'': ''Entertainment''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Travel
+      - Food
+      - Accommodation
+      - Entertainment
+      - Other
       required: false
     - id: 8
       name: expense_amount

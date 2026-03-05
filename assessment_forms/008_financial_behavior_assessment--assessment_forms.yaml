@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Annual''}'
+      - None
+      - Monthly
+      - Quarterly
+      - Annual
       required: true
     - id: 6
       name: financial_obligations
@@ -48,12 +48,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Housing''}'
-      - '{''label'': ''Transportation''}'
-      - '{''label'': ''Food''}'
-      - '{''label'': ''Clothing''}'
-      - '{''label'': ''Medical''}'
-      - '{''label'': ''Other''}'
+      - Housing
+      - Transportation
+      - Food
+      - Clothing
+      - Medical
+      - Other
       required: true
     - id: 7
       name: financial_savings
@@ -82,10 +82,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Bank''}'
-      - '{''label'': ''Credit Union''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''Mobile App''}'
+      - Bank
+      - Credit Union
+      - Other
+      - Mobile App
       required: false
     - id: 11
       name: budgeting_frequency
@@ -93,11 +93,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Annually''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 12
       name: financial_support_people
@@ -105,10 +105,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Family''}'
-      - '{''label'': ''Friends''}'
-      - '{''label'': ''Financial Advisor''}'
-      - '{''label'': ''None''}'
+      - Family
+      - Friends
+      - Financial Advisor
+      - None
       required: true
     - id: 13
       name: financial_education
@@ -123,10 +123,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Books''}'
-      - '{''label'': ''Online Courses''}'
-      - '{''label'': ''Workshops''}'
-      - '{''label'': ''None''}'
+      - Books
+      - Online Courses
+      - Workshops
+      - None
       required: true
     - id: 15
       name: financial_progress_tracking
@@ -141,9 +141,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Moderate''}'
+      - High
+      - Low
+      - Moderate
       required: true
     - id: 17
       name: financial_support_channels
@@ -151,10 +151,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Bank''}'
-      - '{''label'': ''Credit Union''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''Mobile App''}'
+      - Bank
+      - Credit Union
+      - Other
+      - Mobile App
       required: false
     - id: 18
       name: financial_support_frequency
@@ -162,11 +162,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Annually''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 19
       name: financial_support_people_frequency
@@ -174,11 +174,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Annually''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 20
       name: financial_roadmap_to_success
@@ -186,10 +186,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Short Term''}'
-      - '{''label'': ''Medium Term''}'
-      - '{''label'': ''Long Term''}'
+      - None
+      - Short Term
+      - Medium Term
+      - Long Term
       required: true
     - id: 21
       name: financial_progress_milestones
@@ -197,12 +197,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Annually''}'
+      - None
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
       required: true
     - id: 22
       name: financial_confidence_barometer
@@ -210,9 +210,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Moderate''}'
-      - '{''label'': ''High''}'
+      - Low
+      - Moderate
+      - High
       required: false
     - id: 23
       name: financial_support_systems_frequency
@@ -220,11 +220,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Annually''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 24
       name: financial_confidence_barometer_level

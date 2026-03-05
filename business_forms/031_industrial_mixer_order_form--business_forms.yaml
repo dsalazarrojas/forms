@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''A''}'
-      - '{''value'': 2, ''label'': ''B''}'
-      - '{''value'': 3, ''label'': ''C''}'
+      - A
+      - B
+      - C
       required: false
     - id: 3
       name: mixer_size
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Small''}'
-      - '{''value'': 2, ''label'': ''Medium''}'
-      - '{''value'': 3, ''label'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 4
       name: order_quantity
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''30 days''}'
-      - '{''value'': 2, ''label'': ''60 days''}'
-      - '{''value'': 3, ''label'': ''Net 30''}'
+      - 30 days
+      - 60 days
+      - Net 30
       required: false
     - id: 9
       name: billing_details

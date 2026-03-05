@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Handouts'', ''value'': ''handouts''}'
-      - '{''label'': ''Videos'', ''value'': ''videos''}'
-      - '{''label'': ''Presentations'', ''value'': ''presentations''}'
+      - Handouts
+      - Videos
+      - Presentations
       required: false
     - id: 5
       name: material_url
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''PDF'', ''value'': ''pdf''}'
-      - '{''label'': ''DOC'', ''value'': ''doc''}'
-      - '{''label'': ''TXT'', ''value'': ''txt''}'
+      - PDF
+      - DOC
+      - TXT
       required: false
     - id: 10
       name: upload_file
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Free'', ''value'': ''free''}'
-      - '{''label'': ''Paid'', ''value'': ''paid''}'
+      - Free
+      - Paid
       required: false
     - id: 13
       name: participant_organization

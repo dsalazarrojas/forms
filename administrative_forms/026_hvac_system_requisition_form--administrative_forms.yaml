@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''text'': ''Gas''}'
-      - '{''value'': 2, ''text'': ''Electric''}'
-      - '{''value'': 3, ''text'': ''Solar''}'
-      - '{''value'': 4, ''text'': ''Other''}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 4
       name: required_air_conditioning
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''text'': ''Central Air''}'
-      - '{''value'': 2, ''text'': ''Window Unit''}'
-      - '{''value'': 3, ''text'': ''No AC''}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 5
       name: total_rooms

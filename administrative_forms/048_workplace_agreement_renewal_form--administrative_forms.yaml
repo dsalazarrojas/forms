@@ -9,176 +9,104 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: employment_status
       label: Employment Status
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
-      required: false
+      - Active
+      - Inactive
+      required: true
     - id: 3
       name: agreement_start_date
       label: Agreement Start Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
       name: agreement_end_date
       label: Agreement End Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 5
       name: renewal_reason
       label: Renewal Reason
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: employee_id
       label: Employee ID
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: manager_name
-      label: Manager Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: employee_name
       label: Employee Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 9
       name: department
       label: Department
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: job_title
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
       name: reporting_manager
       label: Reporting Manager
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 11
       name: team
       label: Team
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 12
       name: job_function
       label: Job Function
       hint: null
       type: text
       options: []
-      required: false
-    - id: 14
-      name: job_title_2
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: team_2
-      label: Team
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: department_2
-      label: Department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: reporting_manager_2
-      label: Reporting Manager
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: employment_status_2
-      label: Employment Status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
-      required: false
-    - id: 19
-      name: agreement_start_date_2
-      label: Agreement Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: agreement_end_date_2
-      label: Agreement End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: manager_name_2
+      required: true
+    - id: 13
+      name: manager_name
       label: Manager Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 22
-      name: employee_name_2
-      label: Employee Name
+      required: true
+    - id: 14
+      name: agreement_details
+      label: Agreement Details
       hint: null
       type: text
       options: []
-      required: false
-    - id: 23
-      name: department_3
-      label: Department
+      required: true
+    - id: 15
+      name: review_and_signatures
+      label: Review and Signatures
       hint: null
       type: text
       options: []
-      required: false
-    - id: 24
-      name: job_title_3
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: team_3
-      label: Team
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

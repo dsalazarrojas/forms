@@ -37,10 +37,10 @@ inputSchema:
       hint: attach an optional file to your email
       type: select_one
       options:
-      - '{''label'': ''file''}'
-      - '{''label'': ''video''}'
-      - '{''label'': ''audio''}'
-      - '{''label'': ''image''}'
+      - file
+      - video
+      - audio
+      - image
       required: false
     - id: 6
       name: priority
@@ -48,9 +48,9 @@ inputSchema:
       hint: select multiple priority levels
       type: select_multiple
       options:
-      - '{''label'': ''low''}'
-      - '{''label'': ''medium''}'
-      - '{''label'': ''high''}'
+      - low
+      - medium
+      - high
       required: false
     - id: 7
       name: due_date

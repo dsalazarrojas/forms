@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''Mail'', ''value'': ''mail''}'
+      - Phone
+      - Email
+      - Mail
       required: false
     - id: 3
       name: contact_number
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Authorization'', ''value'': ''authorization''}'
-      - '{''label'': ''Non-Authorization'', ''value'': ''non-authorization''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Authorization
+      - Non-Authorization
+      - Other
       required: false
     - id: 9
       name: authorization_notes
@@ -148,9 +148,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - 'True'
+      - 'False'
+      - Other
       required: false
     - id: 21
       name: authorized_by_name
@@ -172,9 +172,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Repair'', ''value'': ''repair''}'
-      - '{''label'': ''Return'', ''value'': ''return''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Repair
+      - Return
+      - Other
       required: false
     - id: 24
       name: repair_type_other

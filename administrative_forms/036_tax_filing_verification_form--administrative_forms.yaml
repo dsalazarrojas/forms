@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''pending''}'
-      - '{''value'': ''submitted''}'
-      - '{''value'': ''received''}'
-      - '{''value'': ''rejected''}'
+      - pending
+      - submitted
+      - received
+      - rejected
       required: false
     - id: 5
       name: client_address
@@ -99,10 +99,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''pending''}'
-      - '{''value'': ''submitted''}'
-      - '{''value'': ''received''}'
-      - '{''value'': ''rejected''}'
+      - pending
+      - submitted
+      - received
+      - rejected
       required: false
     - id: 14
       name: note

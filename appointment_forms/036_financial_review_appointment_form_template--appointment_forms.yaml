@@ -15,66 +15,66 @@ inputSchema:
     title: financial_review_appointment_form_template
     pages:
     - id: 1
-      name: contact_details
-      label: contact_details
+      name: contact_information
+      label: Contact Information
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 2
       name: appointment_details
-      label: appointment_details
+      label: Appointment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: purpose
+      label: Purpose
       hint: null
       type: text
       options: []
       required: true
-    - id: 3
-      name: services
-      label: services
-      hint: null
-      type: select_multiple
-      options:
-      - Investment Advice
-      - Insurance Planning
-      - Retirement Planning
-      required: false
-    - id: 4
-      name: comments
-      label: comments
+    - id: 5
+      name: purpose_of_appointment
+      label: Purpose of Appointment
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
-      name: services
-      label: services
-      hint: null
-      type: select_multiple
-      options:
-      - Investment Advice
-      - Insurance Planning
-      - Retirement Planning
-      required: false
+      required: true
     - id: 6
-      name: comments
-      label: comments
+      name: contact_person
+      label: Contact Person
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: services
-      label: services
+      name: appointment_type
+      label: Appointment Type
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Investment Advice
-      - Insurance Planning
-      - Retirement Planning
-      required: false
+      - Self
+      - Someone Else
+      required: true
     - id: 8
-      name: comments
-      label: comments
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: text
       options: []

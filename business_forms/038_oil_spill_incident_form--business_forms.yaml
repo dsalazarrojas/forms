@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 101, ''name'': ''oil spill'', ''text'': ''oil spill''}'
-      - '{''id'': 102, ''name'': ''chemical spill'', ''text'': ''chemical spill''}'
-      - '{''id'': 103, ''name'': ''other'', ''text'': ''other''}'
+      - oil spill
+      - chemical spill
+      - other
       required: false
     - id: 9
       name: spill_location
@@ -124,10 +124,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 201, ''name'': ''environmental agency'', ''text'': ''environmental
-        agency''}'
-      - '{''id'': 202, ''name'': ''oil company'', ''text'': ''oil company''}'
-      - '{''id'': 203, ''name'': ''other'', ''text'': ''other''}'
+      - environmental agency
+      - oil company
+      - other
       required: false
     - id: 18
       name: report_date_note

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''shipping_1'', ''value'': ''shipping_1''}'
-      - '{''id'': 2, ''name'': ''shipping_2'', ''value'': ''shipping_2''}'
-      - '{''id'': 3, ''name'': ''shipping_3'', ''value'': ''shipping_3''}'
+      - shipping 1
+      - shipping 2
+      - shipping 3
       required: false
     - id: 4
       name: reason_for_return
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''shipped'', ''value'': ''shipped''}'
-      - '{''id'': 2, ''name'': ''received'', ''value'': ''received''}'
-      - '{''id'': 3, ''name'': ''pending'', ''value'': ''pending''}'
+      - shipped
+      - received
+      - pending
       required: false
     - id: 8
       name: shipment_notes

@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''1 room'', ''label'': ''1 room''}'
-      - '{''value'': ''2 rooms'', ''label'': ''2 rooms''}'
+      - 1 room
+      - 2 rooms
       required: false
     - id: 11
       name: meal
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Vegetarian'', ''label'': ''Vegetarian''}'
-      - '{''value'': ''Non-vegetarian'', ''label'': ''Non-vegetarian''}'
+      - Vegetarian
+      - Non-vegetarian
       required: false
     - id: 12
       name: transportation
@@ -90,6 +90,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Private car'', ''label'': ''Private car''}'
-      - '{''value'': ''Public transport'', ''label'': ''Public transport''}'
+      - Private car
+      - Public transport
       required: false

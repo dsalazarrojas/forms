@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Manager 1''}'
-      - '{''id'': 2, ''label'': ''Manager 2''}'
-      - '{''id'': 3, ''label'': ''Manager 3''}'
+      - Manager 1
+      - Manager 2
+      - Manager 3
       required: false
     - id: 6
       name: reviewee
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Reviewee 1''}'
-      - '{''id'': 2, ''label'': ''Reviewee 2''}'
+      - Reviewee 1
+      - Reviewee 2
       required: false
     - id: 7
       name: notes
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''15 minutes''}'
-      - '{''id'': 2, ''label'': ''30 minutes''}'
-      - '{''id'': 3, ''label'': ''60 minutes''}'
+      - 15 minutes
+      - 30 minutes
+      - 60 minutes
       required: false
     - id: 11
       name: slot_frequency
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Once''}'
-      - '{''id'': 2, ''label'': ''Daily''}'
-      - '{''id'': 3, ''label'': ''Weekly''}'
+      - Once
+      - Daily
+      - Weekly
       required: false
     - id: 12
       name: slot_time_of_day
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 13
       name: slot_date
@@ -117,95 +117,95 @@ inputSchema:
       required: false
     - id: 15
       name: reviewee_phone
-      label: Reviewee
+      label: Reviewee Phone
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': 1234567890}'
-      - '{''id'': 2, ''label'': 9876543210}'
+      - '1234567890'
+      - '9876543210'
       required: false
     - id: 16
       name: manager_phone
-      label: Manager
+      label: Manager Phone
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': 1234567890}'
-      - '{''id'': 2, ''label'': 9876543210}'
+      - '1234567890'
+      - '9876543210'
       required: false
     - id: 17
       name: reviewee_email
-      label: Reviewee
+      label: Reviewee Email
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''email1@example.com''}'
-      - '{''id'': 2, ''label'': ''email2@example.com''}'
+      - email1@example.com
+      - email2@example.com
       required: false
     - id: 18
       name: manager_email
-      label: Manager
+      label: Manager Email
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''email1@example.com''}'
-      - '{''id'': 2, ''label'': ''email2@example.com''}'
+      - email1@example.com
+      - email2@example.com
       required: false
     - id: 19
-      name: notes
-      label: Notes
+      name: notes_2
+      label: Notes 2
       hint: null
       type: note
       options: []
       required: false
     - id: 20
-      name: manager
-      label: Manager
+      name: manager_2
+      label: Manager 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Manager 1''}'
-      - '{''id'': 2, ''label'': ''Manager 2''}'
+      - Manager 1
+      - Manager 2
       required: false
     - id: 21
-      name: reviewee
-      label: Reviewee
+      name: reviewee_2
+      label: Reviewee 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Reviewee 1''}'
-      - '{''id'': 2, ''label'': ''Reviewee 2''}'
+      - Reviewee 1
+      - Reviewee 2
       required: false
     - id: 22
-      name: email
-      label: Email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 23
-      name: phone
-      label: Phone
+      name: phone_2
+      label: Phone 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: slot_duration
-      label: Slot Duration
+      name: slot_duration_2
+      label: Slot Duration 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''15 minutes''}'
-      - '{''id'': 2, ''label'': ''30 minutes''}'
+      - 15 minutes
+      - 30 minutes
       required: false
     - id: 25
-      name: slot_frequency
-      label: Slot Frequency
+      name: slot_frequency_2
+      label: Slot Frequency 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Once''}'
-      - '{''id'': 2, ''label'': ''Daily''}'
-      - '{''id'': 3, ''label'': ''Weekly''}'
+      - Once
+      - Daily
+      - Weekly
       required: false

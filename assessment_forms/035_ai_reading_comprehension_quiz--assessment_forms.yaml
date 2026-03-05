@@ -53,14 +53,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: The biological functioning of the human brain.
-        value: brain_bio
-      - label: The historical development and nature of artificial neural networks.
-        value: correct_main
-      - label: The risks of using AI in the 1950s.
-        value: history_risk
-      - label: How to program a Transformer model.
-        value: programming
+      - The biological functioning of the human brain.
+      - The historical development and nature of artificial neural networks.
+      - The risks of using AI in the 1950s.
+      - How to program a Transformer model.
       required: true
     - id: 7
       name: q2_backpropagation_role
@@ -68,14 +64,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: It allowed for the first linear classifications.
-        value: linear
-      - label: It made multi-layer networks computationally viable.
-        value: correct_backprop
-      - label: It eliminated all AI hallucinations.
-        value: no_hallucinate
-      - label: It was the biological inspiration for the Perceptron.
-        value: bio_inspire
+      - It allowed for the first linear classifications.
+      - It made multi-layer networks computationally viable.
+      - It eliminated all AI hallucinations.
+      - It was the biological inspiration for the Perceptron.
       required: true
     - id: 8
       name: q3_vocabulary
@@ -84,14 +76,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: A biological malfunction in the human brain.
-        value: bio_malfunction
-      - label: An AI generating plausible-sounding but incorrect information.
-        value: correct_hallucinate
-      - label: The speed at which a Transformer predicts tokens.
-        value: speed
-      - label: A limitation of the 1950s Perceptron model.
-        value: perceptron_limit
+      - A biological malfunction in the human brain.
+      - An AI generating plausible-sounding but incorrect information.
+      - The speed at which a Transformer predicts tokens.
+      - A limitation of the 1950s Perceptron model.
       required: true
     - id: 9
       name: q4_inference
@@ -100,12 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: They possess a human-like understanding of language.
-        value: human_understand
-      - label: They rely on statistical probability rather than true comprehension.
-        value: correct_inference
-      - label: They are simpler than the models of the 1980s.
-        value: simple
+      - They possess a human-like understanding of language.
+      - They rely on statistical probability rather than true comprehension.
+      - They are simpler than the models of the 1980s.
       required: true
     - id: 10
       name: q5_summary

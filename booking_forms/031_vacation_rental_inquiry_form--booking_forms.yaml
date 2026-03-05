@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''short''}'
-      - '{''value'': ''long''}'
-      - '{''value'': ''flexible''}'
+      - short
+      - long
+      - flexible
       required: false
     - id: 5
       name: accommodation_type
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''house''}'
-      - '{''value'': ''apartment''}'
-      - '{''value'': ''other''}'
+      - house
+      - apartment
+      - other
       required: false
     - id: 6
       name: arrival_time

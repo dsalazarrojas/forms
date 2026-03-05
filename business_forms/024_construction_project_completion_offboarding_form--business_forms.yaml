@@ -1,202 +1,191 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Construction Project Completion Offboarding Form
     pages:
-      - id: 1
-        name: section_project_offboarding_ident
-        label: -- Project Offboarding Identification --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: project_name
-        label: Full Project Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: project_id
-        label: Project ID or Contract Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: contract_end_date
-        label: Official Project/Contract End Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: lead_offboarding_manager
-        label: Lead Offboarding Manager (Name and Title)
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: section_documentation_offboarding
-        label: -- Documentation and Close-out Checklist --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: as_built_drawings_submitted
-        label: Final As-built Drawings Submitted
-        hint: null
-        type: select_one
-        options:
-          - Yes - Verified
-          - No - In Progress
-          - N/A for this project
-        required: true
-      - id: 8
-        name: warranty_manuals_handover
-        label: Operations and Maintenance (O&M) Manuals Handover
-        hint: null
-        type: select_one
-        options:
-          - Yes - Complete
-          - Partially Complete
-          - No
-        required: true
-      - id: 9
-        name: lien_waivers_collected
-        label: Final Lien Waivers Collected from All Subcontractors
-        hint: null
-        type: select_one
-        options:
-          - Yes - All collected
-          - Most collected - Remainder tracked
-          - No
-        required: true
-      - id: 10
-        name: certificate_of_occupancy_obtained
-        label: Final Certificate of Occupancy (C of O) Obtained
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No - Pending final inspection
-          - N/A
-        required: true
-      - id: 11
-        name: section_site_offboarding
-        label: -- Site Offboarding and Logistics --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: site_waste_removed
-        label: All Site Waste and Debris Removed
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No - Final cleaning scheduled
-        required: true
-      - id: 13
-        name: rentals_returned_checklist
-        label: All Rental Equipment Returned/Off-rented
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No - Equipment still on site
-        required: true
-      - id: 14
-        name: site_keys_handover
-        label: All Site Keys and Access Cards Returned
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: true
-      - id: 15
-        name: section_financial_offboarding
-        label: -- Financial and Billing Offboarding --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: final_billing_submitted
-        label: Final Progress Billing/Invoice Submitted
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No - Final calculations pending
-        required: true
-      - id: 17
-        name: retainage_release_requested
-        label: Retainage Release Request Submitted
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 18
-        name: section_project_feedback
-        label: -- Initial Project Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 19
-        name: primary_success_factor
-        label: What was the primary success factor for this project?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: biggest_lesson_learned
-        label: What was the biggest lesson learned for future projects?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: next_project_interest
-        label: Interested in the next phase or similar future projects?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 22
-        name: submission_date
-        label: Date of Offboarding Completion
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 23
-        name: offboarding_officer_signature_label
-        label: Authorized By (Name)
-        hint: null
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: section_project_offboarding_ident
+      label: -- Project Offboarding Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Full Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_id
+      label: Project ID or Contract Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contract_end_date
+      label: Official Project/Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: lead_offboarding_manager
+      label: Lead Offboarding Manager (Name and Title)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_documentation_offboarding
+      label: -- Documentation and Close-out Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: as_built_drawings_submitted
+      label: Final As-built Drawings Submitted
+      hint: null
+      type: select_one
+      options:
+      - Yes - Verified
+      - No - In Progress
+      - N/A for this project
+      required: true
+    - id: 8
+      name: warranty_manuals_handover
+      label: Operations and Maintenance (O&M) Manuals Handover
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete
+      - Partially Complete
+      - 'False'
+      required: true
+    - id: 9
+      name: lien_waivers_collected
+      label: Final Lien Waivers Collected from All Subcontractors
+      hint: null
+      type: select_one
+      options:
+      - Yes - All collected
+      - Most collected - Remainder tracked
+      - 'False'
+      required: true
+    - id: 10
+      name: certificate_of_occupancy_obtained
+      label: Final Certificate of Occupancy (C of O) Obtained
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - No - Pending final inspection
+      - N/A
+      required: true
+    - id: 11
+      name: section_site_offboarding
+      label: -- Site Offboarding and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: site_waste_removed
+      label: All Site Waste and Debris Removed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - No - Final cleaning scheduled
+      required: true
+    - id: 13
+      name: rentals_returned_checklist
+      label: All Rental Equipment Returned/Off-rented
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - No - Equipment still on site
+      required: true
+    - id: 14
+      name: site_keys_handover
+      label: All Site Keys and Access Cards Returned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 15
+      name: section_financial_offboarding
+      label: -- Financial and Billing Offboarding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: final_billing_submitted
+      label: Final Progress Billing/Invoice Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - No - Final calculations pending
+      required: true
+    - id: 17
+      name: retainage_release_requested
+      label: Retainage Release Request Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: section_project_feedback
+      label: -- Initial Project Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: primary_success_factor
+      label: What was the primary success factor for this project?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: biggest_lesson_learned
+      label: What was the biggest lesson learned for future projects?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: next_project_interest
+      label: Interested in the next phase or similar future projects?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: submission_date
+      label: Date of Offboarding Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: offboarding_officer_signature_label
+      label: Authorized By (Name)
+      hint: null
+      type: text
+      options: []
+      required: true

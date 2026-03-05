@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Cotton''}'
-      - '{''id'': 2, ''name'': ''Polyester''}'
-      - '{''id'': 3, ''name'': ''Wool''}'
+      - Cotton
+      - Polyester
+      - Wool
       required: false
     - id: 4
       name: quantity_ordered
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''In Progress''}'
-      - '{''id'': 2, ''name'': ''Completed''}'
-      - '{''id'': 3, ''name'': ''Cancelled''}'
+      - In Progress
+      - Completed
+      - Cancelled
       required: false
     - id: 10
       name: customer_email
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Net 30''}'
-      - '{''id'': 2, ''name'': ''Net 60''}'
-      - '{''id'': 3, ''name'': ''Prepay''}'
+      - Net 30
+      - Net 60
+      - Prepay
       required: false
     - id: 13
       name: payment_amount
@@ -123,8 +123,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Customer''}'
-      - '{''id'': 2, ''name'': ''Supplier''}'
+      - Customer
+      - Supplier
       required: false
     - id: 17
       name: ship_address

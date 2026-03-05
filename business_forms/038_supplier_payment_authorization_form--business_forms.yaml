@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''ACH''}'
-      - '{''id'': 2, ''label'': ''Wire Transfer''}'
-      - '{''id'': 3, ''label'': ''Check''}'
+      - ACH
+      - Wire Transfer
+      - Check
       required: true
     - id: 5
       name: payment_terms
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''net_30''}'
-      - '{''id'': 2, ''label'': ''net_45''}'
-      - '{''id'': 3, ''label'': ''net_60''}'
+      - net 30
+      - net 45
+      - net 60
       required: true
     - id: 6
       name: bank_name
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''pending''}'
-      - '{''id'': 2, ''label'': ''authorized''}'
-      - '{''id'': 3, ''label'': ''denied''}'
+      - pending
+      - authorized
+      - denied
       required: true
     - id: 9
       name: notes

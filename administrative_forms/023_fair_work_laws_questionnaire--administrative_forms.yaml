@@ -4,233 +4,164 @@ inputSchema:
     title: Fair Work Laws Questionnaire
     pages:
     - id: 1
-      name: fair_work_laws_questionnaire
-      label: fair_work_laws_questionnaire
+      name: awareness
+      label: Are you aware of the Fair Work Laws and Regulations in your country?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 2
-      name: fair_work_laws_questionnaire
-      label: fair_work_laws_questionnaire
+      name: fair_treatment
+      label: Have you received fair work treatment from your employer?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 3
+      name: fair_treatment_frequency
+      label: How often do you think your employer provides fair work treatment to
+        employees?
       hint: null
       type: number
       options: []
       required: false
-    - id: 3
-      name: fair_work_laws_compliance
-      label: fair_work_laws_compliance
+    - id: 4
+      name: understanding
+      label: What is your level of understanding of Fair Work Laws and Regulations?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: fair_law_changes
+      label: Have you been aware of any changes to Fair Work Laws and Regulations
+        in the past year?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: hours_worked
+      label: How many hours do you typically work per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: compliance_concerns
+      label: Do you have any concerns about your workplace being in compliance with
+        Fair Work Laws and Regulations?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: employer_awareness
+      label: Do you have any concerns about your employer's awareness of Fair Work
+        Laws and Regulations?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: employees_aware
+      label: How many employees in your workplace are aware of Fair Work Laws and
+        Regulations?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: employee_rights
+      label: What is your understanding of your rights under Fair Work Laws and Regulations?
       hint: null
       type: text
       options: []
       required: false
-    - id: 4
-      name: fair_work_laws_awareness
-      label: fair_work_laws_awareness
-      hint: null
-      type: select_one
-      options:
-      - Label 1
-      - Label 2
-      - Label 3
-      - Label 4
-      required: false
-    - id: 5
-      name: fair_work_laws_awareness
-      label: fair_work_laws_awareness
-      hint: null
-      type: select_one
-      options:
-      - Label 1
-      - Label 2
-      - Label 3
-      - Label 4
-      required: false
-    - id: 6
-      name: fair_work_laws_compliance_awareness
-      label: fair_work_laws_compliance_awareness
-      hint: null
-      type: select_multiple
-      options:
-      - Label 1
-      - Label 2
-      - Label 3
-      - Label 4
-      required: false
-    - id: 7
-      name: fair_work_laws_employees
-      label: fair_work_laws_employees
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: fair_work_laws_employees
-      label: fair_work_laws_employees
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: fair_work_laws_employees
-      label: fair_work_laws_employees
-      hint: null
-      type: select_multiple
-      options:
-      - Label 1
-      - Label 2
-      - Label 3
-      - Label 4
-      required: false
-    - id: 10
-      name: fair_work_laws_compliance_awareness
-      label: fair_work_laws_compliance_awareness
-      hint: null
-      type: select_multiple
-      options:
-      - Label 1
-      - Label 2
-      - Label 3
-      - Label 4
-      required: false
     - id: 11
-      name: fair_work_laws_compliance_awareness
-      label: fair_work_laws_compliance_awareness
+      name: fair_law_issues
+      label: Have you experienced any issues related to Fair Work Laws and Regulations
+        in your workplace?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: fair_work_laws_questionnaire_awareness
-      label: fair_work_laws_questionnaire_awareness
+      name: employees_affected
+      label: How many employees in your workplace have experienced issues related
+        to Fair Work Laws and Regulations?
       hint: null
-      type: select_multiple
-      options:
-      - Label 1
-      - Label 2
-      - Label 3
-      - Label 4
+      type: number
+      options: []
       required: false
     - id: 13
-      name: fair_work_laws_questionnaire_awareness
-      label: fair_work_laws_questionnaire_awareness
+      name: fair_enforcement
+      label: Do you believe that Fair Work Laws and Regulations are being enforced
+        fairly in your workplace?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
-      name: fair_work_laws_questionnaire_awareness
-      label: fair_work_laws_questionnaire_awareness
+      name: communication
+      label: Do you think that Fair Work Laws and Regulations are being communicated
+        effectively to employees?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
-      name: fair_work_laws_questionnaire_awareness
-      label: fair_work_laws_questionnaire_awareness
+      name: workplace_compliance
+      label: Do you believe that your workplace is in compliance with Fair Work Laws
+        and Regulations?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
-      name: fair_work_laws_questionnaire_awareness
-      label: fair_work_laws_questionnaire_awareness
+      name: employer_awareness_2
+      label: Do you think that your employer is aware of Fair Work Laws and Regulations?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
-      name: fair_work_laws_questionnaire_awareness
-      label: fair_work_laws_questionnaire_awareness
+      name: training
+      label: Have you received training on Fair Work Laws and Regulations?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
-      name: fair_work_laws_questionnaire_awareness
-      label: fair_work_laws_questionnaire_awareness
+      name: employees_training
+      label: How many employees in your workplace have received training on Fair Work
+        Laws and Regulations?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: fair_work_laws_questionnaire_awareness
-      label: fair_work_laws_questionnaire_awareness
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: fair_work_laws_questionnaire_awareness
-      label: fair_work_laws_questionnaire_awareness
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: fair_work_laws_questionnaire_awareness
-      label: fair_work_laws_questionnaire_awareness
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: fair_work_laws_questionnaire_awareness
-      label: fair_work_laws_questionnaire_awareness
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: fair_work_laws_questionnaire_awareness
-      label: fair_work_laws_questionnaire_awareness
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: fair_work_laws_questionnaire_awareness
-      label: fair_work_laws_questionnaire_awareness
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: fair_work_laws_questionnaire_awareness
-      label: fair_work_laws_questionnaire_awareness
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false

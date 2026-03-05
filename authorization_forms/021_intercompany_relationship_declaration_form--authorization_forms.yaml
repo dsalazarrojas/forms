@@ -18,9 +18,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Company''}'
-      - '{''id'': 2, ''label'': ''Business''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Company
+      - Business
+      - Other
       required: false
     - id: 3
       name: relationship_status
@@ -28,9 +28,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Other (please specify)''}'
+      - 'True'
+      - 'False'
+      - Other (please specify)
       required: false
     - id: 4
       name: related_company_description

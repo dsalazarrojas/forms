@@ -106,11 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 14
       name: followup_date
@@ -127,15 +125,15 @@ inputSchema:
       options: []
       required: false
     - id: 16
-      name: email
-      label: Email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 17
-      name: home_type
-      label: Home Type
+      name: home_type_2
+      label: Home Type 2
       hint: null
       type: select_one
       options:
@@ -144,8 +142,8 @@ inputSchema:
       - Triplex
       required: false
     - id: 18
-      name: service_type
-      label: Service Type
+      name: service_type_2
+      label: Service Type 2
       hint: null
       type: select_one
       options:
@@ -154,21 +152,19 @@ inputSchema:
       - Packing
       required: false
     - id: 19
-      name: service_request
-      label: Service Request
+      name: service_request_3
+      label: Service Request 3
       hint: Briefly describe the home organization service needed
       type: text
       options: []
       required: false
     - id: 20
-      name: followup
-      label: Followup
+      name: followup_2
+      label: Followup 2
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

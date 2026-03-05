@@ -1,278 +1,267 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Car Dealership Sales Process Assessment
     pages:
-      - id: 1
-        name: dealership_information
-        label: Dealership Information
-        hint: Please provide dealership details
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: dealership_name
-        label: Dealership Name
-        hint: Name of your dealership
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: dealership_location
-        label: Dealership Location
-        hint: City and state
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: dealership_size
-        label: Dealership Size
-        hint: Number of vehicles in inventory
-        type: select_one
-        options:
-          - Small (under 50)
-          - Medium (50-200)
-          - Large (200-500)
-          - Very Large (over 500)
-        required: true
-      - id: 5
-        name: respondent_role
-        label: Your Role
-        hint: Your position at the dealership
-        type: select_one
-        options:
-          - Owner/General Manager
-          - Sales Manager
-          - Finance Manager
-          - Salesperson
-          - BDC Manager
-          - Other
-        required: true
-      - id: 6
-        name: assessment_period
-        label: Assessment Period
-        hint: What period is this assessment for?
-        type: select_one
-        options:
-          - Weekly
-          - Monthly
-          - Quarterly
-          - Annual
-        required: true
-      - id: 7
-        name: lead_generation
-        label: Lead Generation
-        hint: How do you generate leads?
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: lead_sources
-        label: Primary Lead Sources
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Website Inquiries
-          - Phone Calls
-          - Walk-ins
-          - Social Media
-          - Third-party Sites (AutoTrader, etc.)
-          - Referrals
-          - Advertising
-          - Service Department
-        required: true
-      - id: 9
-        name: monthly_lead_volume
-        label: Monthly Lead Volume
-        hint: Average number of leads per month
-        type: select_one
-        options:
-          - Under 100
-          - 100-250
-          - 251-500
-          - 501-1000
-          - Over 1000
-        required: true
-      - id: 10
-        name: lead_response_time
-        label: Average Lead Response Time
-        hint: How quickly do you respond to leads?
-        type: select_one
-        options:
-          - Under 5 minutes
-          - 5-15 minutes
-          - 15-30 minutes
-          - 30 minutes to 1 hour
-          - Over 1 hour
-        required: true
-      - id: 11
-        name: sales_process
-        label: Sales Process
-        hint: Your sales workflow
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: crm_system
-        label: CRM System Used
-        hint: What CRM do you use?
-        type: select_one
-        options:
-          - DealerSocket
-          - VinSolutions
-          - eLead
-          - HubSpot
-          - Salesforce
-          - Proprietary System
-          - None
-        required: true
-      - id: 13
-        name: sales_steps_documented
-        label: Sales Steps Documented
-        hint: Do you have a documented sales process?
-        type: select_one
-        options:
-          - Yes - fully documented and followed
-          - Yes - but not always followed
-          - Partially documented
-          - No formal process
-        required: true
-      - id: 14
-        name: average_sales_cycle
-        label: Average Sales Cycle
-        hint: Time from first contact to sale
-        type: select_one
-        options:
-          - Same day
-          - 1-3 days
-          - 4-7 days
-          - 1-2 weeks
-          - Over 2 weeks
-        required: true
-      - id: 15
-        name: conversion_metrics
-        label: Conversion Metrics
-        hint: Your conversion rates
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: lead_to_appointment_rate
-        label: Lead to Appointment Rate
-        hint: Percentage of leads that become appointments
-        type: select_one
-        options:
-          - Under 10%
-          - 10-20%
-          - 21-30%
-          - 31-40%
-          - Over 40%
-        required: true
-      - id: 17
-        name: appointment_to_sale_rate
-        label: Appointment to Sale Rate
-        hint: Percentage of appointments that become sales
-        type: select_one
-        options:
-          - Under 20%
-          - 20-30%
-          - 31-40%
-          - 41-50%
-          - Over 50%
-        required: true
-      - id: 18
-        name: follow_up_process
-        label: Follow-Up Process
-        hint: How do you follow up with prospects?
-        type: select_one
-        options:
-          - Automated system
-          - Manual follow-up
-          - Combination of both
-          - Inconsistent
-        required: true
-      - id: 19
-        name: customer_satisfaction
-        label: Customer Satisfaction
-        hint: How do you measure satisfaction?
-        type: note
-        options: []
-        required: false
-      - id: 20
-        name: csi_score
-        label: Current CSI Score
-        hint: Customer Satisfaction Index
-        type: select_one
-        options:
-          - 90-100%
-          - 80-89%
-          - 70-79%
-          - 60-69%
-          - Under 60%
-          - Not tracked
-        required: true
-      - id: 21
-        name: review_collection
-        label: Online Review Collection
-        hint: Do you collect online reviews?
-        type: select_one
-        options:
-          - Yes - automated system
-          - Yes - manual requests
-          - Occasionally
-          - No
-        required: true
-      - id: 22
-        name: challenges
-        label: Current Challenges
-        hint: What are your biggest challenges?
-        type: select_multiple
-        options:
-          - Lead Quality
-          - Lead Response Time
-          - Closing Rate
-          - Follow-Up Consistency
-          - Staff Training
-          - Technology/CRM
-          - Inventory Management
-          - Customer Retention
-        required: true
-      - id: 23
-        name: improvement_priorities
-        label: Improvement Priorities
-        hint: What do you want to improve?
-        type: select_multiple
-        options:
-          - Response Time
-          - Conversion Rates
-          - Customer Experience
-          - Staff Training
-          - Technology Integration
-          - Follow-Up Process
-          - Lead Generation
-        required: true
-      - id: 24
-        name: additional_feedback
-        label: Additional Feedback
-        hint: Any other comments or observations
-        type: text
-        options: []
-        required: false
-      - id: 25
-        name: assessment_date
-        label: Assessment Date
-        hint: Date of this assessment
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: dealership_information
+      label: Dealership Information
+      hint: Please provide dealership details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: dealership_name
+      label: Dealership Name
+      hint: Name of your dealership
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dealership_location
+      label: Dealership Location
+      hint: City and state
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dealership_size
+      label: Dealership Size
+      hint: Number of vehicles in inventory
+      type: select_one
+      options:
+      - Small (under 50)
+      - Medium (50-200)
+      - Large (200-500)
+      - Very Large (over 500)
+      required: true
+    - id: 5
+      name: respondent_role
+      label: Your Role
+      hint: Your position at the dealership
+      type: select_one
+      options:
+      - Owner/General Manager
+      - Sales Manager
+      - Finance Manager
+      - Salesperson
+      - BDC Manager
+      - Other
+      required: true
+    - id: 6
+      name: assessment_period
+      label: Assessment Period
+      hint: What period is this assessment for?
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annual
+      required: true
+    - id: 7
+      name: lead_generation
+      label: Lead Generation
+      hint: How do you generate leads?
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: lead_sources
+      label: Primary Lead Sources
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Website Inquiries
+      - Phone Calls
+      - Walk-ins
+      - Social Media
+      - Third-party Sites (AutoTrader, etc.)
+      - Referrals
+      - Advertising
+      - Service Department
+      required: true
+    - id: 9
+      name: monthly_lead_volume
+      label: Monthly Lead Volume
+      hint: Average number of leads per month
+      type: select_one
+      options:
+      - Under 100
+      - 100-250
+      - 251-500
+      - 501-1000
+      - Over 1000
+      required: true
+    - id: 10
+      name: lead_response_time
+      label: Average Lead Response Time
+      hint: How quickly do you respond to leads?
+      type: select_one
+      options:
+      - Under 5 minutes
+      - 5-15 minutes
+      - 15-30 minutes
+      - 30 minutes to 1 hour
+      - Over 1 hour
+      required: true
+    - id: 11
+      name: sales_process
+      label: Sales Process
+      hint: Your sales workflow
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: crm_system
+      label: CRM System Used
+      hint: What CRM do you use?
+      type: select_one
+      options:
+      - DealerSocket
+      - VinSolutions
+      - eLead
+      - HubSpot
+      - Salesforce
+      - Proprietary System
+      - None
+      required: true
+    - id: 13
+      name: sales_steps_documented
+      label: Sales Steps Documented
+      hint: Do you have a documented sales process?
+      type: select_one
+      options:
+      - Yes - fully documented and followed
+      - Yes - but not always followed
+      - Partially documented
+      - No formal process
+      required: true
+    - id: 14
+      name: average_sales_cycle
+      label: Average Sales Cycle
+      hint: Time from first contact to sale
+      type: select_one
+      options:
+      - Same day
+      - 1-3 days
+      - 4-7 days
+      - 1-2 weeks
+      - Over 2 weeks
+      required: true
+    - id: 15
+      name: conversion_metrics
+      label: Conversion Metrics
+      hint: Your conversion rates
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: lead_to_appointment_rate
+      label: Lead to Appointment Rate
+      hint: Percentage of leads that become appointments
+      type: select_one
+      options:
+      - Under 10%
+      - 10-20%
+      - 21-30%
+      - 31-40%
+      - Over 40%
+      required: true
+    - id: 17
+      name: appointment_to_sale_rate
+      label: Appointment to Sale Rate
+      hint: Percentage of appointments that become sales
+      type: select_one
+      options:
+      - Under 20%
+      - 20-30%
+      - 31-40%
+      - 41-50%
+      - Over 50%
+      required: true
+    - id: 18
+      name: follow_up_process
+      label: Follow-Up Process
+      hint: How do you follow up with prospects?
+      type: select_one
+      options:
+      - Automated system
+      - Manual follow-up
+      - Combination of both
+      - Inconsistent
+      required: true
+    - id: 19
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: How do you measure satisfaction?
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: csi_score
+      label: Current CSI Score
+      hint: Customer Satisfaction Index
+      type: select_one
+      options:
+      - 90-100%
+      - 80-89%
+      - 70-79%
+      - 60-69%
+      - Under 60%
+      - Not tracked
+      required: true
+    - id: 21
+      name: review_collection
+      label: Online Review Collection
+      hint: Do you collect online reviews?
+      type: select_one
+      options:
+      - Yes - automated system
+      - Yes - manual requests
+      - Occasionally
+      - 'False'
+      required: true
+    - id: 22
+      name: challenges
+      label: Current Challenges
+      hint: What are your biggest challenges?
+      type: select_multiple
+      options:
+      - Lead Quality
+      - Lead Response Time
+      - Closing Rate
+      - Follow-Up Consistency
+      - Staff Training
+      - Technology/CRM
+      - Inventory Management
+      - Customer Retention
+      required: true
+    - id: 23
+      name: improvement_priorities
+      label: Improvement Priorities
+      hint: What do you want to improve?
+      type: select_multiple
+      options:
+      - Response Time
+      - Conversion Rates
+      - Customer Experience
+      - Staff Training
+      - Technology Integration
+      - Follow-Up Process
+      - Lead Generation
+      required: true
+    - id: 24
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments or observations
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true

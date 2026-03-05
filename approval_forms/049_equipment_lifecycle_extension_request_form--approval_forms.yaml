@@ -5,24 +5,25 @@ inputSchema:
     pages:
     - id: 1
       name: asset_details
-      label: Asset Details
+      label: 1. Asset Details
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: asset_type
-      label: Asset Type
+      label: 2. Asset Type
       hint: null
       type: select_one
       options:
-      - Equipment
-      - Vehicle
-      - Machinery
+      - Construction
+      - Maintenance
+      - Operational
+      - Other
       required: false
     - id: 3
       name: category
-      label: Category
+      label: 3. Category
       hint: null
       type: select_one
       options:
@@ -33,51 +34,52 @@ inputSchema:
       required: false
     - id: 4
       name: request_date
-      label: Request Date
+      label: 4. Request Date
       hint: null
       type: date
       options: []
       required: false
     - id: 5
       name: supervisor_approval
-      label: Supervisor Approval
+      label: 5. Supervisor Approval
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: supervisor_name
-      label: Supervisor Name
+      label: 6. Supervisor Name
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: reason
-      label: Reason
+      label: 7. Reason
       hint: null
       type: text
       options: []
       required: false
     - id: 8
       name: comments
-      label: Comments
+      label: 8. Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 9
       name: extension_request
-      label: Extension Request
+      label: 9. Extension Request
       hint: null
       type: select_multiple
       options:
-      - '0'
-      - '1'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: asset_condition
-      label: Asset Condition
+      label: 10. Asset Condition
       hint: null
       type: select_one
       options:
@@ -88,7 +90,7 @@ inputSchema:
       required: false
     - id: 11
       name: asset_location
-      label: Location
+      label: 11. Location
       hint: null
       type: select_one
       options:
@@ -99,7 +101,7 @@ inputSchema:
       required: false
     - id: 12
       name: asset_status
-      label: Status
+      label: 12. Status
       hint: null
       type: select_one
       options:
@@ -110,21 +112,21 @@ inputSchema:
       required: false
     - id: 13
       name: asset_serial_no
-      label: Asset Serial No
+      label: 13. Asset Serial No
       hint: null
       type: text
       options: []
       required: false
     - id: 14
       name: request_date_2
-      label: Request Date 2
+      label: 14. Request Date 2
       hint: null
-      type: time
+      type: date
       options: []
       required: false
     - id: 15
       name: approval_status
-      label: Approval Status
+      label: 15. Approval Status
       hint: null
       type: select_one
       options:
@@ -135,108 +137,22 @@ inputSchema:
       required: false
     - id: 16
       name: supervisor_email
-      label: Supervisor E-Mail
+      label: 16. Supervisor E-Mail
       hint: null
       type: email
       options: []
       required: false
     - id: 17
       name: supervisor_phone
-      label: Supervisor Phone
+      label: 17. Supervisor Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: supervisor_name_2
-      label: Supervisor Name
+      label: 18. Supervisor Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
-      name: asset_status_2
-      label: Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Retired
-      - Removed
-      - Pending
-      required: false
-    - id: 20
-      name: asset_serial_no_2
-      label: Serial No
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: request_date_3
-      label: Request Date 3
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: comments_2
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: approval_status_2
-      label: Approval Status
-      hint: null
-      type: select_one
-      options:
-      - Pending
-      - Approved
-      - Denied
-      - Withdrawn
-      required: false
-    - id: 24
-      name: supervisor_email_2
-      label: Supervisor E-Mail
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: supervisor_phone_2
-      label: Supervisor Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: supervisor_name_3
-      label: Supervisor Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: asset_type_2
-      label: Type
-      hint: null
-      type: select_one
-      options:
-      - Construction
-      - Maintenance
-      - Operational
-      - Other
-      required: false
-    - id: 28
-      name: category_2
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Construction
-      - Maintenance
-      - Operational
-      - Other
       required: false

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''3 years''}'
-      - '{''label'': ''5 years''}'
-      - '{''label'': ''10 years''}'
+      - 3 years
+      - 5 years
+      - 10 years
       required: false
     - id: 7
       name: loan_type
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Primary Residence''}'
-      - '{''label'': ''Investment''}'
-      - '{''label'': ''Other''}'
+      - Primary Residence
+      - Investment
+      - Other
       required: false
     - id: 8
       name: applicant_employment_status
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Full-time''}'
-      - '{''label'': ''Part-time''}'
-      - '{''label'': ''Self-Employed''}'
+      - Full-time
+      - Part-time
+      - Self-Employed
       required: false
     - id: 9
       name: property_type
@@ -74,10 +74,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Single Family''}'
-      - '{''label'': ''Duplex''}'
-      - '{''label'': ''Townhouse''}'
-      - '{''label'': ''Condo''}'
+      - Single Family
+      - Duplex
+      - Townhouse
+      - Condo
       required: false
     - id: 10
       name: loan_purpose
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Home Improvement''}'
-      - '{''label'': ''Debt Consolidation''}'
-      - '{''label'': ''Other''}'
+      - Home Improvement
+      - Debt Consolidation
+      - Other
       required: false
     - id: 11
       name: applicant_income
@@ -186,11 +186,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''6.5%''}'
-      - '{''label'': ''7.5%''}'
-      - '{''label'': ''8.5%''}'
-      - '{''label'': ''9.5%''}'
-      - '{''label'': ''10.5%''}'
+      - 6.5%
+      - 7.5%
+      - 8.5%
+      - 9.5%
+      - 10.5%
       required: false
     - id: 25
       name: loan_term_years
@@ -198,9 +198,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': 3}'
-      - '{''label'': 5}'
-      - '{''label'': 10}'
-      - '{''label'': 15}'
-      - '{''label'': 20}'
+      - '3'
+      - '5'
+      - '10'
+      - '15'
+      - '20'
       required: false

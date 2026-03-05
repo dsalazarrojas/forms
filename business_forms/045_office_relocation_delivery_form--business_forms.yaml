@@ -5,197 +5,191 @@ inputSchema:
     pages:
     - id: 1
       name: delivery_information
-      label: delivery_information
+      label: Delivery Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: delivery_method
-      label: delivery_method
+      label: Delivery Method
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''delivery_method'', ''label'': ''delivery_method'',
-        ''value'': ''delivery_method''}'
-      - '{''id'': 2, ''name'': ''pick_up'', ''label'': ''pick_up'', ''value'': ''pick_up''}'
-      - '{''id'': 3, ''name'': ''courier'', ''label'': ''courier'', ''value'': ''courier''}'
-      - '{''id'': 4, ''name'': ''drop_off'', ''label'': ''drop_off'', ''value'': ''drop_off''}'
-      - '{''id'': 5, ''name'': ''delivery_personnel'', ''label'': ''delivery_personnel'',
-        ''value'': ''delivery_personnel''}'
+      - Delivery Method
+      - Pick up
+      - Courier
+      - Drop off
+      - Delivery Personnel
       required: false
     - id: 3
-      name: delivery_instructions
-      label: delivery_instructions
+      name: delivery_status
+      label: Delivery Status
       hint: null
-      type: text
-      options: []
-      required: true
+      type: select_one
+      options:
+      - Delivered
+      - Pending
+      - Completed
+      - Cancelled
+      required: false
     - id: 4
-      name: contact_details
-      label: contact_details
+      name: office_id
+      label: Office ID
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 5
-      name: item_details
-      label: item_details
+      name: item_id
+      label: Item ID
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 6
       name: delivery_schedule
-      label: delivery_schedule
+      label: Delivery Schedule
       hint: null
       type: date
       options: []
       required: true
     - id: 7
       name: delivery_time
-      label: delivery_time
+      label: Delivery Time
       hint: null
       type: time
       options: []
       required: true
     - id: 8
       name: delivery_date
-      label: delivery_date
+      label: Delivery Date
       hint: null
       type: date
       options: []
       required: true
     - id: 9
       name: remarks
-      label: remarks
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: signature
-      label: signature
+      label: Remarks
       hint: null
       type: text
       options: []
       required: true
-    - id: 11
+    - id: 10
       name: comments
-      label: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_details
+      label: Contact Details
       hint: null
       type: text
       options: []
       required: false
     - id: 12
       name: delivery_personnel_details
-      label: delivery_personnel_details
+      label: Delivery Personnel Details
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: delivery_status
-      label: delivery_status
+      name: delivery_personnel
+      label: Delivery Personnels
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''delivered'', ''label'': ''delivered'', ''value'':
-        ''delivered''}'
-      - '{''id'': 2, ''name'': ''pending'', ''label'': ''pending'', ''value'': ''pending''}'
-      - '{''id'': 3, ''name'': ''completed'', ''label'': ''completed'', ''value'':
-        ''completed''}'
-      - '{''id'': 4, ''name'': ''cancelled'', ''label'': ''cancelled'', ''value'':
-        ''cancelled''}'
+      type: text
+      options: []
       required: false
     - id: 14
-      name: office_id
-      label: office_id
+      name: delivery_notes
+      label: Delivery Notes
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 15
-      name: item_id
-      label: item_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: quantity
-      label: quantity
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: delivery_method
-      label: delivery_method
+      name: delivery_status_2
+      label: Delivery Status 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''delivery_method'', ''label'': ''delivery_method'',
-        ''value'': ''delivery_method''}'
-      - '{''id'': 2, ''name'': ''pick_up'', ''label'': ''pick_up'', ''value'': ''pick_up''}'
-      - '{''id'': 3, ''name'': ''courier'', ''label'': ''courier'', ''value'': ''courier''}'
-      - '{''id'': 4, ''name'': ''drop_off'', ''label'': ''drop_off'', ''value'': ''drop_off''}'
-      - '{''id'': 5, ''name'': ''delivery_personnel'', ''label'': ''delivery_personnel'',
-        ''value'': ''delivery_personnel''}'
+      - Delivered
+      - Pending
+      - Completed
+      - Cancelled
+      required: false
+    - id: 16
+      name: remarks_2
+      label: Remarks 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_method_2
+      label: Delivery Method 2
+      hint: null
+      type: select_one
+      options:
+      - Delivery Method
+      - Pick up
+      - Courier
+      - Drop off
+      - Delivery Personnel
       required: false
     - id: 18
-      name: delivery_instructions
-      label: delivery_instructions
+      name: delivery_notes_2
+      label: Delivery Notes 2
       hint: null
       type: text
       options: []
       required: false
     - id: 19
       name: item_details
-      label: item_details
+      label: Item Details
       hint: null
       type: text
       options: []
       required: false
     - id: 20
-      name: contact_details
-      label: contact_details
+      name: contact_details_2
+      label: Contact Details 2
       hint: null
       type: text
       options: []
       required: false
     - id: 21
-      name: delivery_status
-      label: delivery_status
+      name: delivery_status_3
+      label: Delivery Status 3
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''delivered'', ''label'': ''delivered'', ''value'':
-        ''delivered''}'
-      - '{''id'': 2, ''name'': ''pending'', ''label'': ''pending'', ''value'': ''pending''}'
-      - '{''id'': 3, ''name'': ''completed'', ''label'': ''completed'', ''value'':
-        ''completed''}'
-      - '{''id'': 4, ''name'': ''cancelled'', ''label'': ''cancelled'', ''value'':
-        ''cancelled''}'
+      - Delivered
+      - Pending
+      - Completed
+      - Cancelled
       required: false
     - id: 22
-      name: delivery_notes
-      label: delivery_notes
+      name: delivery_personnel_details_2
+      label: Delivery Personnels Details
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: delivery_personnel_details
-      label: delivery_personnel_details
+      name: remarks_3
+      label: Remarks 3
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: remarks
-      label: remarks
+      name: office_id_2
+      label: Office Id 2
       hint: null
-      type: text
+      type: number
       options: []
       required: false

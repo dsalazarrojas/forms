@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Good'', ''label'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Fair'', ''label'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''Poor'', ''label'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 6
       name: damage_description
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Inspector'', ''label'': ''Inspector''}'
-      - '{''id'': 2, ''name'': ''Manager'', ''label'': ''Manager''}'
-      - '{''id'': 3, ''name'': ''Supervisor'', ''label'': ''Supervisor''}'
+      - Inspector
+      - Manager
+      - Supervisor
       required: false
     - id: 12
       name: signature
@@ -101,7 +101,7 @@ inputSchema:
       required: false
     - id: 13
       name: inspection_date_2
-      label: Inspection Date
+      label: Inspection Date 2
       hint: null
       type: date
       options: []
@@ -115,7 +115,7 @@ inputSchema:
       required: false
     - id: 15
       name: inspector_details_2
-      label: Inspector details
+      label: Inspector Details 2
       hint: null
       type: select_one
       options:
@@ -124,7 +124,7 @@ inputSchema:
       required: false
     - id: 16
       name: client_details_2
-      label: Client details
+      label: Client Details 2
       hint: null
       type: select_multiple
       options:

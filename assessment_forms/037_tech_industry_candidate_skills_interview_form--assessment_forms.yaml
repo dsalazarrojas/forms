@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''python'', ''label'': ''Python''}'
-      - '{''id'': 20, ''name'': ''java'', ''label'': ''Java''}'
-      - '{''id'': 30, ''name'': ''csharp'', ''label'': ''C#''}'
+      - Python
+      - Java
+      - C#
       required: false
     - id: 3
       name: soft_skills
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 11, ''name'': ''problem_solving'', ''label'': ''Problem Solving''}'
-      - '{''id'': 21, ''name'': ''communication'', ''label'': ''Communication''}'
-      - '{''id'': 31, ''name'': ''leadership'', ''label'': ''Leadership''}'
+      - Problem Solving
+      - Communication
+      - Leadership
       required: false
     - id: 4
       name: technical_experience
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 12, ''name'': ''high_school'', ''label'': ''High School''}'
-      - '{''id'': 22, ''name'': ''bachelor'', ''label'': ''Bachelor''}'
-      - '{''id'': 32, ''name'': ''master'', ''label'': ''Master''}'
+      - High School
+      - Bachelor
+      - Master
       required: false
     - id: 6
       name: work_experience
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 13, ''name'': ''english'', ''label'': ''English''}'
-      - '{''id'': 23, ''name'': ''french'', ''label'': ''French''}'
-      - '{''id'': 33, ''name'': ''spanish'', ''label'': ''Spanish''}'
+      - English
+      - French
+      - Spanish
       required: false
     - id: 8
       name: certification
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 14, ''name'': ''aws'', ''label'': ''AWS''}'
-      - '{''id'': 24, ''name'': ''azure'', ''label'': ''Azure''}'
-      - '{''id'': 34, ''name'': ''oracle'', ''label'': ''Oracle''}'
+      - AWS
+      - Azure
+      - Oracle
       required: false
     - id: 9
       name: work_authorization
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 15, ''name'': ''usa'', ''label'': ''USA''}'
-      - '{''id'': 25, ''name'': ''canada'', ''label'': ''Canada''}'
-      - '{''id'': 35, ''name'': ''australia'', ''label'': ''Australia''}'
+      - USA
+      - Canada
+      - Australia
       required: false
     - id: 10
       name: work_address
@@ -118,9 +118,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 26, ''name'': ''linkedin'', ''label'': ''LinkedIn''}'
-      - '{''id'': 27, ''name'': ''instagram'', ''label'': ''Instagram''}'
-      - '{''id'': 28, ''name'': ''github'', ''label'': ''GitHub''}'
+      - LinkedIn
+      - Instagram
+      - GitHub
       required: false
     - id: 15
       name: work_notes
@@ -184,11 +184,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 36, ''name'': ''schedule_next_interview'', ''label'': ''Schedule
-        next interview''}'
-      - '{''id'': 37, ''name'': ''move_to_next_round'', ''label'': ''Move to next
-        round''}'
-      - '{''id'': 38, ''name'': ''decline_candidate'', ''label'': ''Decline candidate''}'
+      - Schedule next interview
+      - Move to next round
+      - Decline candidate
       required: false
     - id: 24
       name: follow_up
@@ -196,8 +194,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 29, ''name'': ''send_email'', ''label'': ''Send email''}'
-      - '{''id'': 40, ''name'': ''call'', ''label'': ''Call''}'
+      - Send email
+      - Call
       required: false
     - id: 25
       name: feedback

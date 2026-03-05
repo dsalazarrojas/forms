@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Accountant 1'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Accountant 2'', ''value'': 2}'
+      - Accountant 1
+      - Accountant 2
       required: false
     - id: 8
       name: status
@@ -62,8 +62,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Inactive'', ''value'': 2}'
+      - Active
+      - Inactive
       required: false
     - id: 9
       name: reason_for_inactivity
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Open'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Closed'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Frozen'', ''value'': 3}'
+      - Open
+      - Closed
+      - Frozen
       required: false
     - id: 11
       name: account_type
@@ -88,8 +88,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Current'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Savings'', ''value'': 2}'
+      - Current
+      - Savings
       required: false
     - id: 12
       name: account_balance

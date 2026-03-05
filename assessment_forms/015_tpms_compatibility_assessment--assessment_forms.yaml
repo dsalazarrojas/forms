@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Toyota''}'
-      - '{''value'': ''Honda''}'
-      - '{''value'': ''Ford''}'
-      - '{''value'': ''Other''}'
+      - Toyota
+      - Honda
+      - Ford
+      - Other
       required: false
     - id: 3
       name: vehicle_model
@@ -48,11 +48,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 18}'
-      - '{''value'': 20}'
-      - '{''value'': 22}'
-      - '{''value'': 24}'
-      - '{''value'': ''Other''}'
+      - '18'
+      - '20'
+      - '22'
+      - '24'
+      - Other
       required: true
     - id: 7
       name: vehicle_tire_size
@@ -74,10 +74,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Manual''}'
-      - '{''value'': ''Automatic''}'
-      - '{''value'': ''Semi-Automatic''}'
-      - '{''value'': ''Continuous''}'
+      - Manual
+      - Automatic
+      - Semi-Automatic
+      - Continuous
       required: false
     - id: 10
       name: vehicle_drive_type
@@ -85,10 +85,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Rear Wheel Drive''}'
-      - '{''value'': ''Front Wheel Drive''}'
-      - '{''value'': ''All Wheel Drive''}'
-      - '{''value'': ''None''}'
+      - Rear Wheel Drive
+      - Front Wheel Drive
+      - All Wheel Drive
+      - None
       required: false
     - id: 11
       name: tpms_product
@@ -96,10 +96,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Product A''}'
-      - '{''value'': ''Product B''}'
-      - '{''value'': ''Product C''}'
-      - '{''value'': ''Product D''}'
+      - Product A
+      - Product B
+      - Product C
+      - Product D
       required: false
     - id: 12
       name: tpms_fit
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Good''}'
-      - '{''value'': ''Fair''}'
-      - '{''value'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 13
       name: vehicle_year_installed

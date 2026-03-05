@@ -170,8 +170,8 @@ inputSchema:
       hint: Customer has read and understood cancellation terms
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: terms_accepted
@@ -180,7 +180,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Accept
-      - false
+      - 'False'
       required: true
     - id: 21
       name: confirmation_method

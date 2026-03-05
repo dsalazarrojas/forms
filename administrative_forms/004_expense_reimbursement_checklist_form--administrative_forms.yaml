@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Business''}'
-      - '{''id'': 2, ''label'': ''Personal''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Business
+      - Personal
+      - Both
       required: false
     - id: 4
       name: description
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Travel''}'
-      - '{''id'': 2, ''label'': ''Entertainment''}'
-      - '{''id'': 3, ''label'': ''Food''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Travel
+      - Entertainment
+      - Food
+      - Other
       required: false
     - id: 6
       name: cost_center
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Headquarters''}'
-      - '{''id'': 2, ''label'': ''Branch''}'
-      - '{''id'': 3, ''label'': ''Home_office''}'
+      - Headquarters
+      - Branch
+      - Home office
       required: false
     - id: 7
       name: date_expensed

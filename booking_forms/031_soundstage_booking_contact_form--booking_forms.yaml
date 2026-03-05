@@ -4,188 +4,91 @@ inputSchema:
     title: soundstage_booking_contact_form
     pages:
     - id: 1
-      name: main
-      label: First
+      name: contact_info
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: main
-      label: Second
-      hint: Some hint text
-      type: number
-      options: []
-      required: false
-    - id: 3
-      name: main
-      label: Email
+      name: email
+      label: What is your email address?
       hint: null
       type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
       options: []
       required: false
     - id: 4
-      name: main
-      label: Select one
+      name: date_select
+      label: Select a date for the booking
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      required: false
+      - Option 1
+      - Option 2
+      required: true
     - id: 5
-      name: main
-      label: Phone
+      name: time_select
+      label: Select a time for the booking
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
     - id: 6
-      name: main
-      label: Date
+      name: note
+      label: Do you have any additional notes or comments?
       hint: null
-      type: date
+      type: note
       options: []
       required: false
     - id: 7
-      name: main
-      label: Time
+      name: contact_method
+      label: What is your preferred contact method (phone/email)?
       hint: null
-      type: time
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Phone
+      - Email
+      required: true
     - id: 8
-      name: main
-      label: Note
+      name: special_requests
+      label: Do you have any special requests for the booking?
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 9
-      name: main
-      label: Select multiple
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      required: false
-    - id: 10
-      name: main
-      label: Date
+      name: preferred_date
+      label: What is your preferred date for the booking?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 11
-      name: main
-      label: Email
+      required: true
+    - id: 10
+      name: preferred_time
+      label: What is your preferred time for the booking?
       hint: null
-      type: email
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: other_info
+      label: Do you have any other contact information we should know?
+      hint: null
+      type: text
       options: []
       required: false
     - id: 12
-      name: main
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: main
-      label: Select one
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      required: false
-    - id: 14
-      name: main
-      label: Select multiple
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      required: false
-    - id: 15
-      name: main
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: main
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: main
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: main
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: main
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: main
-      label: Select one
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      required: false
-    - id: 21
-      name: main
-      label: Select multiple
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      required: false
-    - id: 22
-      name: main
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: main
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: main
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: main
-      label: Phone
+      name: special_requests2
+      label: Special Requests2
       hint: null
       type: text
       options: []

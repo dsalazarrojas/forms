@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Safety''}'
-      - '{''value'': ''Other''}'
+      - Safety
+      - Other
       required: false
     - id: 3
       name: training_program_other
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''In-person''}'
-      - '{''value'': ''Online''}'
+      - In-person
+      - Online
       required: false
     - id: 5
       name: date
@@ -62,8 +62,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Jim''}'
-      - '{''value'': ''Other''}'
+      - Jim
+      - Other
       required: false
     - id: 9
       name: trainer_other
@@ -78,10 +78,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1}'
-      - '{''value'': ''2-5''}'
-      - '{''value'': ''5+''}'
-      - '{''value'': ''Unknown''}'
+      - '1'
+      - 2-5
+      - 5+
+      - Unknown
       required: false
     - id: 11
       name: training_date
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Satisfied''}'
-      - '{''value'': ''Not Satisfied''}'
-      - '{''value'': ''No Opinion''}'
+      - Satisfied
+      - Not Satisfied
+      - No Opinion
       required: false
     - id: 14
       name: evaluation
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Satisfied''}'
-      - '{''value'': ''Not Satisfied''}'
-      - '{''value'': ''No Opinion''}'
+      - Satisfied
+      - Not Satisfied
+      - No Opinion
       required: false
     - id: 15
       name: evaluation_date

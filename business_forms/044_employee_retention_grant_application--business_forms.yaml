@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': None, ''label'': ''3 months''}'
-      - '{''value'': ''6 months''}'
-      - '{''value'': ''12 months''}'
+      - 3 months
+      - 6 months
+      - 12 months
       required: true
     - id: 8
       name: program_impact
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': None, ''label'': ''chatjimmy''}'
-      - '{''value'': None}'
-      - '{''value'': None}'
+      - chatjimmy
+      - Option 2
+      - Option 3
       required: true
     - id: 12
       name: created_at
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': None, ''label'': ''John Doe''}'
-      - '{''value'': None}'
-      - '{''value'': None}'
+      - John Doe
+      - Option 2
+      - Option 3
       required: true
     - id: 15
       name: comments

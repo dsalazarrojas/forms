@@ -37,9 +37,9 @@ inputSchema:
       hint: Is employee education verified?
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - 'True'
+      - 'False'
+      - Pending
       required: false
     - id: 6
       name: employer_education
@@ -47,9 +47,9 @@ inputSchema:
       hint: Select type of education
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High School''}'
-      - '{''id'': 2, ''label'': ''College''}'
-      - '{''id'': 3, ''label'': ''University''}'
+      - High School
+      - College
+      - University
       required: false
     - id: 7
       name: date_of_birth

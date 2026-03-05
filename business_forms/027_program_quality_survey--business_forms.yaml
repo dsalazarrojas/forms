@@ -4,16 +4,20 @@ inputSchema:
     title: Program Quality Survey
     pages:
     - id: 1
-      name: survey_title
-      label: Survey Title
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: overall_quality
+      label: Overall Quality
+      hint: This question is to gauge your overall perception of the program.
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 2
-      name: question_1
-      label: How would you rate the quality of service offered by this program?
-      hint: null
+      name: service_quality
+      label: Service Quality
+      hint: How would you rate the quality of service offered by this program?
       type: select_one
       options:
       - Excellent
@@ -22,9 +26,9 @@ inputSchema:
       - Poor
       required: true
     - id: 3
-      name: question_2
-      label: How would you rate the responsiveness of staff?
-      hint: null
+      name: staff_responsiveness
+      label: Staff Responsiveness
+      hint: How responsive are the staff of the program?
       type: select_one
       options:
       - Excellent
@@ -33,9 +37,9 @@ inputSchema:
       - Poor
       required: true
     - id: 4
-      name: question_3
-      label: How would you rate the communication from the staff?
-      hint: null
+      name: communication_quality
+      label: Communication Quality
+      hint: How would you rate the communication from the program's staff?
       type: select_one
       options:
       - Excellent
@@ -44,50 +48,46 @@ inputSchema:
       - Poor
       required: true
     - id: 5
-      name: question_4
-      label: How would you rate the overall quality of the program?
-      hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
+      name: program_improvement
+      label: Improvement Suggestions
+      hint: What could the program do to improve?
+      type: text
+      options: []
       required: true
     - id: 6
-      name: question_5
-      label: What could the program do to improve?
-      hint: null
+      name: likes_dislikes
+      label: Likes/Dislikes
+      hint: What did you like or dislike about the program?
       type: text
       options: []
       required: true
     - id: 7
-      name: question_6
-      label: Is this program meeting your expectations?
-      hint: null
+      name: expectations_met
+      label: Expectations Met
+      hint: Is this program meeting your expectations?
       type: select_one
       options:
       - 'True'
       - 'False'
       required: true
     - id: 8
-      name: question_7
-      label: How many times have you visited this program?
-      hint: null
+      name: visits_count
+      label: Visits Count
+      hint: How many times have you visited this program?
       type: number
       options: []
       required: false
     - id: 9
-      name: question_8
-      label: How many times would you recommend this program to others?
-      hint: null
+      name: recommendations
+      label: Recommendations
+      hint: How many times would you recommend this program to others?
       type: number
       options: []
       required: false
     - id: 10
-      name: question_9
-      label: How would you rate the program staff's knowledge of the subject matter?
-      hint: null
+      name: staff_knowledge
+      label: Staff Knowledge
+      hint: How would you rate the program's staff knowledge of the subject matter?
       type: select_one
       options:
       - Excellent
@@ -96,9 +96,9 @@ inputSchema:
       - Poor
       required: true
     - id: 11
-      name: question_10
-      label: How would you rate the program's responsiveness to suggestions?
-      hint: null
+      name: responsiveness
+      label: Responsiveness
+      hint: How would you rate the program's responsiveness to suggestions?
       type: select_one
       options:
       - Excellent
@@ -107,9 +107,9 @@ inputSchema:
       - Poor
       required: true
     - id: 12
-      name: question_11
-      label: How would you rate the program's communication with you?
-      hint: null
+      name: program_quality
+      label: Overall Quality Again
+      hint: How would you rate the program's overall quality?
       type: select_one
       options:
       - Excellent
@@ -118,114 +118,39 @@ inputSchema:
       - Poor
       required: true
     - id: 13
-      name: question_12
-      label: How would you rate the program's overall quality?
-      hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
-      required: true
-    - id: 14
-      name: question_13
-      label: What could the program do to improve?
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: question_14
-      label: Is this program meeting your expectations?
-      hint: null
+      name: staff_friendly
+      label: Staff Friendliness
+      hint: Is the program staff friendly?
       type: select_one
       options:
       - 'True'
       - 'False'
-      required: true
+      required: false
+    - id: 14
+      name: open_ended_1
+      label: Open-Ended 1
+      hint: What could the program do to improve?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: open_ended_2
+      label: Open-Ended 2
+      hint: Is there anything else you would like to add about this program?
+      type: text
+      options: []
+      required: false
     - id: 16
-      name: question_15
-      label: How many times have you visited this program?
-      hint: null
-      type: number
+      name: overall_opinion
+      label: Overall Opinion
+      hint: What is your overall opinion of this program?
+      type: text
       options: []
       required: false
     - id: 17
-      name: question_16
-      label: How many times would you recommend this program to others?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: question_17
-      label: What did you like about this program?
-      hint: null
+      name: last_question
+      label: Last Question
+      hint: Any other comments or suggestions?
       type: text
       options: []
-      required: false
-    - id: 19
-      name: question_18
-      label: What did you dislike about this program?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: question_19
-      label: Is there anything else you would like to add about this program?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: question_20
-      label: Do you have any suggestions for improvement?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: question_21
-      label: What is your overall opinion of this program?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: question_22
-      label: Is the program staff friendly?
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 24
-      name: question_23
-      label: How would you rate the program's overall quality?
-      hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
-      required: false
-    - id: 25
-      name: question_24
-      label: What could the program do to improve?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: question_25
-      label: Is this program meeting your expectations?
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
       required: false

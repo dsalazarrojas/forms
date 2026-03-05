@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Repair''}'
-      - '{''value'': ''Maintenance''}'
-      - '{''value'': ''Inspection''}'
+      - Repair
+      - Maintenance
+      - Inspection
       required: false
     - id: 5
       name: cost
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Complete''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Pending''}'
+      - Complete
+      - In Progress
+      - Pending
       required: false
     - id: 7
       name: asset_type
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Vehicle''}'
-      - '{''value'': ''Equipment''}'
-      - '{''value'': ''Property''}'
+      - Vehicle
+      - Equipment
+      - Property
       required: false
     - id: 8
       name: notes

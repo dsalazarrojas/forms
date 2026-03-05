@@ -1,431 +1,420 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Building Modification Checklist
     pages:
-      - id: 1
-        name: modification_header
-        label: -- Building Modification Checklist --
-        hint: Verify all modifications are properly documented and approved
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: project_name
-        label: Project name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: modification_date
-        label: Modification date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: inspector_name
-        label: Inspector or project manager name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: building_address
-        label: Building address
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: approval_section
-        label: -- Approval and Permits --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: building_permit
-        label: Building permit obtained
-        hint: null
-        type: select_one
-        options:
-          - Yes, approved
-          - Yes, pending approval
-          - No, not required
-          - No, needed
-        required: true
-      - id: 8
-        name: permit_number
-        label: Permit number
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: design_approval
-        label: Design plans approved by owner
-        hint: null
-        type: select_one
-        options:
-          - Yes, approved
-          - No, pending approval
-          - Not required
-        required: true
-      - id: 10
-        name: contractor_licensed
-        label: Contractor is properly licensed
-        hint: null
-        type: select_one
-        options:
-          - Yes, verified
-          - Yes, unverified
-          - No
-          - Not applicable
-        required: true
-      - id: 11
-        name: insurance_current
-        label: Contractor insurance current and adequate
-        hint: null
-        type: select_one
-        options:
-          - Yes, verified
-          - Yes, submitted
-          - No
-          - Not applicable
-        required: true
-      - id: 12
-        name: safety_plan
-        label: Safety plan approved
-        hint: null
-        type: select_one
-        options:
-          - Yes, approved
-          - Yes, submitted
-          - No, needed
-          - Not applicable
-        required: true
-      - id: 13
-        name: structural_section
-        label: -- Structural Modifications --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: wall_removal
-        label: Walls removed or modified
-        hint: null
-        type: select_one
-        options:
-          - Not applicable
-          - No walls modified
-          - Minor non-load bearing
-          - Load bearing wall
-          - Completed as planned
-        required: true
-      - id: 15
-        name: structural_support
-        label: Structural support modifications
-        hint: null
-        type: select_one
-        options:
-          - Not applicable
-          - No modifications
-          - Temporary support
-          - Permanent support installed
-          - Completed and verified
-        required: true
-      - id: 16
-        name: foundation_work
-        label: Foundation or basement work
-        hint: null
-        type: select_one
-        options:
-          - Not applicable
-          - No work
-          - Inspection completed
-          - Work in progress
-          - Completed and approved
-        required: true
-      - id: 17
-        name: electrical_section
-        label: -- Electrical Modifications --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 18
-        name: electrical_work
-        label: Electrical modifications made
-        hint: null
-        type: select_one
-        options:
-          - Not applicable
-          - No electrical work
-          - Inspection scheduled
-          - Inspection completed
-          - Approved
-        required: true
-      - id: 19
-        name: panel_upgrade
-        label: Electrical panel upgrades
-        hint: null
-        type: select_one
-        options:
-          - Not needed
-          - Needed but not done
-          - In progress
-          - Completed
-          - Inspected and approved
-        required: false
-      - id: 20
-        name: new_circuits
-        label: New circuits or outlets installed
-        hint: null
-        type: select_one
-        options:
-          - Not applicable
-          - None needed
-          - Installed
-          - Installed and tested
-          - Inspected
-        required: false
-      - id: 21
-        name: plumbing_section
-        label: -- Plumbing Modifications --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 22
-        name: plumbing_work
-        label: Plumbing modifications made
-        hint: null
-        type: select_one
-        options:
-          - Not applicable
-          - No plumbing work
-          - Work in progress
-          - Inspection scheduled
-          - Inspected and approved
-        required: true
-      - id: 23
-        name: water_lines
-        label: Water line modifications
-        hint: null
-        type: select_one
-        options:
-          - Not applicable
-          - No modifications
-          - New lines installed
-          - Completed and tested
-          - Inspected
-        required: false
-      - id: 24
-        name: drainage
-        label: Drainage modifications
-        hint: null
-        type: select_one
-        options:
-          - Not applicable
-          - No modifications
-          - New drains installed
-          - Completed and tested
-          - Inspected
-        required: false
-      - id: 25
-        name: hvac_section
-        label: -- HVAC Modifications --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 26
-        name: hvac_work
-        label: HVAC system modifications
-        hint: null
-        type: select_one
-        options:
-          - Not applicable
-          - No modifications
-          - Installation in progress
-          - Installation completed
-          - Commissioned and operational
-        required: true
-      - id: 27
-        name: ductwork
-        label: Ductwork modifications
-        hint: null
-        type: select_one
-        options:
-          - Not applicable
-          - No changes
-          - New ductwork installed
-          - Sealed and tested
-          - Inspected
-        required: false
-      - id: 28
-        name: structural_integrity
-        label: -- Structural Integrity Verification --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 29
-        name: structural_inspection
-        label: Structural engineer inspection
-        hint: null
-        type: select_one
-        options:
-          - Not required
-          - Completed - approved
-          - Completed - issues noted
-          - Pending
-          - Not completed
-        required: true
-      - id: 30
-        name: concrete_integrity
-        label: Concrete or foundation integrity
-        hint: null
-        type: select_one
-        options:
-          - Not applicable
-          - Verified - good
-          - Verified - repairs needed
-          - Under inspection
-          - Not inspected
-        required: false
-      - id: 31
-        name: safety_compliance
-        label: -- Safety and Code Compliance --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 32
-        name: fire_safety
-        label: Fire safety compliance
-        hint: null
-        type: select_one
-        options:
-          - Compliant
-          - Mostly compliant - minor issues
-          - Non-compliant - repairs needed
-          - Not assessed
-        required: true
-      - id: 33
-        name: emergency_exits
-        label: Emergency exits remain accessible
-        hint: null
-        type: select_one
-        options:
-          - Yes, fully accessible
-          - Yes, adequate
-          - No, blocked or impaired
-          - Not applicable
-        required: true
-      - id: 34
-        name: accessibility_compliance
-        label: ADA accessibility compliance
-        hint: null
-        type: select_one
-        options:
-          - Compliant
-          - Mostly compliant
-          - Non-compliant - improvements needed
-          - Not applicable
-        required: true
-      - id: 35
-        name: code_violations
-        label: Code violations identified
-        hint: null
-        type: select_one
-        options:
-          - None identified
-          - Minor violations noted
-          - Major violations found
-          - Requires assessment
-        required: true
-      - id: 36
-        name: final_inspection
-        label: -- Final Inspection and Closeout --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 37
-        name: final_walkthrough
-        label: Final walkthrough completed
-        hint: null
-        type: select_one
-        options:
-          - Yes, approved
-          - Yes, issues noted
-          - No, not yet scheduled
-          - In progress
-        required: true
-      - id: 38
-        name: punch_list
-        label: Punch list items completed
-        hint: null
-        type: select_one
-        options:
-          - All complete
-          - Mostly complete
-          - Some incomplete
-          - Not started
-          - Not applicable
-        required: true
-      - id: 39
-        name: certificates_received
-        label: Certificates of completion received
-        hint: null
-        type: select_one
-        options:
-          - All received
-          - Most received
-          - Some received
-          - None received
-        required: true
-      - id: 40
-        name: documentation
-        label: All documentation properly filed
-        hint: null
-        type: select_one
-        options:
-          - Yes, complete
-          - Yes, mostly complete
-          - Incomplete
-          - Not organized
-        required: true
-      - id: 41
-        name: modification_notes
-        label: Inspector notes and comments
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 42
-        name: follow_up_needed
-        label: Follow-up inspections needed
-        hint: null
-        type: select_one
-        options:
-          - No - project complete
-          - Yes - minor issues
-          - Yes - major issues
-          - Yes - timeline specified
-        required: true
+    - id: 1
+      name: modification_header
+      label: -- Building Modification Checklist --
+      hint: Verify all modifications are properly documented and approved
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: modification_date
+      label: Modification date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspector_name
+      label: Inspector or project manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: building_address
+      label: Building address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: approval_section
+      label: -- Approval and Permits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: building_permit
+      label: Building permit obtained
+      hint: null
+      type: select_one
+      options:
+      - Yes, approved
+      - Yes, pending approval
+      - No, not required
+      - No, needed
+      required: true
+    - id: 8
+      name: permit_number
+      label: Permit number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: design_approval
+      label: Design plans approved by owner
+      hint: null
+      type: select_one
+      options:
+      - Yes, approved
+      - No, pending approval
+      - Not required
+      required: true
+    - id: 10
+      name: contractor_licensed
+      label: Contractor is properly licensed
+      hint: null
+      type: select_one
+      options:
+      - Yes, verified
+      - Yes, unverified
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 11
+      name: insurance_current
+      label: Contractor insurance current and adequate
+      hint: null
+      type: select_one
+      options:
+      - Yes, verified
+      - Yes, submitted
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 12
+      name: safety_plan
+      label: Safety plan approved
+      hint: null
+      type: select_one
+      options:
+      - Yes, approved
+      - Yes, submitted
+      - No, needed
+      - Not applicable
+      required: true
+    - id: 13
+      name: structural_section
+      label: -- Structural Modifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: wall_removal
+      label: Walls removed or modified
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - No walls modified
+      - Minor non-load bearing
+      - Load bearing wall
+      - Completed as planned
+      required: true
+    - id: 15
+      name: structural_support
+      label: Structural support modifications
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - No modifications
+      - Temporary support
+      - Permanent support installed
+      - Completed and verified
+      required: true
+    - id: 16
+      name: foundation_work
+      label: Foundation or basement work
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - No work
+      - Inspection completed
+      - Work in progress
+      - Completed and approved
+      required: true
+    - id: 17
+      name: electrical_section
+      label: -- Electrical Modifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: electrical_work
+      label: Electrical modifications made
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - No electrical work
+      - Inspection scheduled
+      - Inspection completed
+      - Approved
+      required: true
+    - id: 19
+      name: panel_upgrade
+      label: Electrical panel upgrades
+      hint: null
+      type: select_one
+      options:
+      - Not needed
+      - Needed but not done
+      - In progress
+      - Completed
+      - Inspected and approved
+      required: false
+    - id: 20
+      name: new_circuits
+      label: New circuits or outlets installed
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - None needed
+      - Installed
+      - Installed and tested
+      - Inspected
+      required: false
+    - id: 21
+      name: plumbing_section
+      label: -- Plumbing Modifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: plumbing_work
+      label: Plumbing modifications made
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - No plumbing work
+      - Work in progress
+      - Inspection scheduled
+      - Inspected and approved
+      required: true
+    - id: 23
+      name: water_lines
+      label: Water line modifications
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - No modifications
+      - New lines installed
+      - Completed and tested
+      - Inspected
+      required: false
+    - id: 24
+      name: drainage
+      label: Drainage modifications
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - No modifications
+      - New drains installed
+      - Completed and tested
+      - Inspected
+      required: false
+    - id: 25
+      name: hvac_section
+      label: -- HVAC Modifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: hvac_work
+      label: HVAC system modifications
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - No modifications
+      - Installation in progress
+      - Installation completed
+      - Commissioned and operational
+      required: true
+    - id: 27
+      name: ductwork
+      label: Ductwork modifications
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - No changes
+      - New ductwork installed
+      - Sealed and tested
+      - Inspected
+      required: false
+    - id: 28
+      name: structural_integrity
+      label: -- Structural Integrity Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: structural_inspection
+      label: Structural engineer inspection
+      hint: null
+      type: select_one
+      options:
+      - Not required
+      - Completed - approved
+      - Completed - issues noted
+      - Pending
+      - Not completed
+      required: true
+    - id: 30
+      name: concrete_integrity
+      label: Concrete or foundation integrity
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - Verified - good
+      - Verified - repairs needed
+      - Under inspection
+      - Not inspected
+      required: false
+    - id: 31
+      name: safety_compliance
+      label: -- Safety and Code Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: fire_safety
+      label: Fire safety compliance
+      hint: null
+      type: select_one
+      options:
+      - Compliant
+      - Mostly compliant - minor issues
+      - Non-compliant - repairs needed
+      - Not assessed
+      required: true
+    - id: 33
+      name: emergency_exits
+      label: Emergency exits remain accessible
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully accessible
+      - Yes, adequate
+      - No, blocked or impaired
+      - Not applicable
+      required: true
+    - id: 34
+      name: accessibility_compliance
+      label: ADA accessibility compliance
+      hint: null
+      type: select_one
+      options:
+      - Compliant
+      - Mostly compliant
+      - Non-compliant - improvements needed
+      - Not applicable
+      required: true
+    - id: 35
+      name: code_violations
+      label: Code violations identified
+      hint: null
+      type: select_one
+      options:
+      - None identified
+      - Minor violations noted
+      - Major violations found
+      - Requires assessment
+      required: true
+    - id: 36
+      name: final_inspection
+      label: -- Final Inspection and Closeout --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: final_walkthrough
+      label: Final walkthrough completed
+      hint: null
+      type: select_one
+      options:
+      - Yes, approved
+      - Yes, issues noted
+      - No, not yet scheduled
+      - In progress
+      required: true
+    - id: 38
+      name: punch_list
+      label: Punch list items completed
+      hint: null
+      type: select_one
+      options:
+      - All complete
+      - Mostly complete
+      - Some incomplete
+      - Not started
+      - Not applicable
+      required: true
+    - id: 39
+      name: certificates_received
+      label: Certificates of completion received
+      hint: null
+      type: select_one
+      options:
+      - All received
+      - Most received
+      - Some received
+      - None received
+      required: true
+    - id: 40
+      name: documentation
+      label: All documentation properly filed
+      hint: null
+      type: select_one
+      options:
+      - Yes, complete
+      - Yes, mostly complete
+      - Incomplete
+      - Not organized
+      required: true
+    - id: 41
+      name: modification_notes
+      label: Inspector notes and comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: follow_up_needed
+      label: Follow-up inspections needed
+      hint: null
+      type: select_one
+      options:
+      - No - project complete
+      - Yes - minor issues
+      - Yes - major issues
+      - Yes - timeline specified
+      required: true

@@ -16,126 +16,94 @@ inputSchema:
     pages:
     - id: 1
       name: general_info
-      label: General Info
+      label: General Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: vehicle_registration
       label: Vehicle Registration
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: maintenance_details
-      label: Maintenance Details
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      - Motorcycle
+      required: true
+    - id: 4
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_multiple
+      options:
+      - Downtown
+      - Uptown
+      required: true
+    - id: 5
+      name: maintenance_notes
+      label: Maintenance Notes
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 4
-      name: maintenance_details_date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
-      name: maintenance_details_time
-      label: Time
-      hint: null
-      type: time
       options: []
       required: false
     - id: 6
-      name: maintenance_details_location
-      label: Location
+      name: last_maintenance_date
+      label: Last Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: last_maintenance_time
+      label: Last Maintenance Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: last_maintenance_location
+      label: Last Maintenance Location
       hint: null
       type: select_multiple
       options:
       - Downtown
       - Uptown
-      required: false
-    - id: 7
+      required: true
+    - id: 9
       name: additional_notes
       label: Additional Notes
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 8
-      name: maintenance_details
-      label: Maintenance Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: maintenance_details_date
-      label: Date
-      hint: null
-      type: date
       options: []
       required: false
     - id: 10
-      name: maintenance_details_time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: maintenance_details_location
-      label: Location
-      hint: null
-      type: select_multiple
-      options:
-      - Downtown
-      - Uptown
-      required: false
-    - id: 12
-      name: maintenance_details_additional_notes
-      label: Additional Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: additional_notes
-      label: Additional Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: maintenance_details
-      label: Maintenance Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: maintenance_details_date
-      label: Date
+      name: next_maintenance_date
+      label: Next Maintenance Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 16
-      name: maintenance_details_time
-      label: Time
+      required: true
+    - id: 11
+      name: next_maintenance_time
+      label: Next Maintenance Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 17
-      name: maintenance_details_location
-      label: Location
+      required: true
+    - id: 12
+      name: next_maintenance_location
+      label: Next Maintenance Location
       hint: null
       type: select_multiple
       options:
       - Downtown
       - Uptown
-      required: false
+      required: true

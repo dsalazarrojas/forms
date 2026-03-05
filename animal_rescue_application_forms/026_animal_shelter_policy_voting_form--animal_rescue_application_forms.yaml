@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: concerns_details
@@ -184,8 +184,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: suggestions_details
@@ -203,7 +203,7 @@ inputSchema:
       - Yes - Actively Participate
       - Yes - Provide Support
       - Maybe - Depends on Policy
-      - false
+      - 'False'
       required: false
     - id: 24
       name: voter_signature
@@ -226,5 +226,5 @@ inputSchema:
       type: select_one
       options:
       - Yes I Certify
-      - false
+      - 'False'
       required: true

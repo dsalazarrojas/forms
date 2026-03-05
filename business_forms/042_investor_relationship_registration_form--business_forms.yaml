@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Private''}'
-      - '{''value'': ''Public''}'
-      - '{''value'': ''Limited''}'
+      - Private
+      - Public
+      - Limited
       required: false
     - id: 9
       name: relationship_type
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Partner''}'
-      - '{''value'': ''Customer''}'
-      - '{''value'': ''Supplier''}'
+      - Partner
+      - Customer
+      - Supplier
       required: false
     - id: 10
       name: investment_type
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Equity''}'
-      - '{''value'': ''Debt''}'
-      - '{''value'': ''Hybrid''}'
+      - Equity
+      - Debt
+      - Hybrid
       required: false
     - id: 11
       name: investment_amount

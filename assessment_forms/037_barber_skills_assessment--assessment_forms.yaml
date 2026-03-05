@@ -1,207 +1,196 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Barber Skills Assessment
     pages:
-      - id: 1
-        name: assessment_meta_header
-        label: -- Assessment Administration --
-        hint: To be completed by the assessor/manager
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: barber_name
-        label: Barber Being Assessed
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: assessor_name
-        label: Assessor Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: assessment_date
-        label: Date of Assessment
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: assessment_type
-        label: Type of Assessment
-        hint: null
-        type: select_one
-        options:
-          - New Hire (Initial)
-          - Annual Performance Review
-          - Skills Progression Check
-          - Corrective Training Follow-up
-        required: true
-      - id: 6
-        name: technical_skills_header
-        label: -- Technical Proficiency --
-        hint: Rate from 1 (Needs Improvement) to 5 (Mastery)
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: fade_technique
-        label: Fading and Tapering Technique
-        hint: Precision, blending, and transition quality
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 8
-        name: scissor_work
-        label: Scissor Work / Shear Technique
-        hint: Control, sectioning, and length management
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 9
-        name: straight_razor_skill
-        label: Straight Razor / Shaving Technique
-        hint: Safety, closeness, and client comfort
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 10
-        name: beard_grooming_skill
-        label: Beard Shaping and Grooming
-        hint: Symmetry and line precision
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 11
-        name: soft_skills_header
-        label: -- Client Experience and Soft Skills --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: consultation_quality
-        label: Consultation and Communication
-        hint: Ability to understand and set client expectations
-        type: select_one
-        options:
-          - Poor
-          - Fair
-          - Good
-          - Excellent
-        required: true
-      - id: 13
-        name: workstation_hygiene
-        label: Workstation Maintenance and Hygiene
-        hint: Tool sanitation and station cleanliness
-        type: select_one
-        options:
-          - Poor
-          - Fair
-          - Good
-          - Excellent
-        required: true
-      - id: 14
-        name: retail_upselling
-        label: Product Knowledge and Retail Upselling
-        hint: Recommending relevant products to clients
-        type: select_one
-        options:
-          - Poor
-          - Fair
-          - Good
-          - Excellent
-        required: true
-      - id: 15
-        name: punctuality_reliability
-        label: Punctuality and Time Management
-        hint: Finishing cuts on schedule
-        type: select_one
-        options:
-          - Poor
-          - Fair
-          - Good
-          - Excellent
-        required: true
-      - id: 16
-        name: strengths_notes
-        label: Key Strengths
-        hint: Highlight areas where the barber excels
-        type: text
-        options: []
-        required: true
-      - id: 17
-        name: improvement_plan
-        label: Areas for Development / Training Plan
-        hint: List specific skills or behaviors to improve
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: overall_rating
-        label: Overall Performance Rating
-        hint: null
-        type: select_one
-        options:
-          - Below Expectations
-          - Meets Expectations
-          - Exceeds Expectations
-          - Exceptional / Master Level
-        required: true
-      - id: 19
-        name: assessor_signature_name
-        label: Assessor Name (Electronic Signature)
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 20
-        name: completion_timestamp
-        label: Timestamp
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 21
-        name: completion_time
-        label: Time
-        hint: null
-        type: time
-        options: []
-        required: true
+    - id: 1
+      name: assessment_meta_header
+      label: -- Assessment Administration --
+      hint: To be completed by the assessor/manager
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: barber_name
+      label: Barber Being Assessed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessor_name
+      label: Assessor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: assessment_type
+      label: Type of Assessment
+      hint: null
+      type: select_one
+      options:
+      - New Hire (Initial)
+      - Annual Performance Review
+      - Skills Progression Check
+      - Corrective Training Follow-up
+      required: true
+    - id: 6
+      name: technical_skills_header
+      label: -- Technical Proficiency --
+      hint: Rate from 1 (Needs Improvement) to 5 (Mastery)
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: fade_technique
+      label: Fading and Tapering Technique
+      hint: Precision, blending, and transition quality
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 8
+      name: scissor_work
+      label: Scissor Work / Shear Technique
+      hint: Control, sectioning, and length management
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 9
+      name: straight_razor_skill
+      label: Straight Razor / Shaving Technique
+      hint: Safety, closeness, and client comfort
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 10
+      name: beard_grooming_skill
+      label: Beard Shaping and Grooming
+      hint: Symmetry and line precision
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 11
+      name: soft_skills_header
+      label: -- Client Experience and Soft Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: consultation_quality
+      label: Consultation and Communication
+      hint: Ability to understand and set client expectations
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 13
+      name: workstation_hygiene
+      label: Workstation Maintenance and Hygiene
+      hint: Tool sanitation and station cleanliness
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 14
+      name: retail_upselling
+      label: Product Knowledge and Retail Upselling
+      hint: Recommending relevant products to clients
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 15
+      name: punctuality_reliability
+      label: Punctuality and Time Management
+      hint: Finishing cuts on schedule
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 16
+      name: strengths_notes
+      label: Key Strengths
+      hint: Highlight areas where the barber excels
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: improvement_plan
+      label: Areas for Development / Training Plan
+      hint: List specific skills or behaviors to improve
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: overall_rating
+      label: Overall Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - Below Expectations
+      - Meets Expectations
+      - Exceeds Expectations
+      - Exceptional / Master Level
+      required: true
+    - id: 19
+      name: assessor_signature_name
+      label: Assessor Name (Electronic Signature)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: completion_timestamp
+      label: Timestamp
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: completion_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true

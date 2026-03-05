@@ -1,123 +1,112 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Auto Insurance Claim Records Release Form
     pages:
-      - id: 1
-        name: personal_auth_header
-        label: -- Personal Authorization --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: full_legal_name
-        label: Full Legal Name
-        hint: Name of the person authorizing the release
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: date_of_birth
-        label: Date of Birth
-        hint: Used for identification
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: insurance_company_name
-        label: Insurance Company Name
-        hint: Company holding the records
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: claim_number
-        label: Claim Number
-        hint: Reference number for the specific claim
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: date_of_accident
-        label: Date of Accident
-        hint: When the incident occurred
-        type: date
-        options: []
-        required: true
-      - id: 7
-        name: release_info_header
-        label: -- Release Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: release_records_to_name
-        label: Release Records To (Name)
-        hint: Recipient entity or individual
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: recipient_email
-        label: Recipient Email
-        hint: Where to send the digital records
-        type: email
-        options: []
-        required: true
-      - id: 10
-        name: types_of_records_to_release
-        label: Types of Records to Release
-        hint: Select all categories that apply
-        type: select_multiple
-        options:
-          - Complete Claim File
-          - Medical Records
-          - Estimate of Damage
-          - Police Report
-          - Settlement Details
-        required: true
-      - id: 11
-        name: terms_of_release_header
-        label: -- Terms of Release --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: authorization_expiration_date
-        label: Authorization Expiration Date
-        hint: When does this consent expire?
-        type: date
-        options: []
-        required: true
-      - id: 13
-        name: understand_revocation_rights
-        label: I understand my revocation rights
-        hint: You may revoke this at any time in writing
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 14
-        name: agree_to_electronic_release
-        label: I agree to electronic release
-        hint: Authorization for digital transmission
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
+    - id: 1
+      name: personal_auth_header
+      label: -- Personal Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_legal_name
+      label: Full Legal Name
+      hint: Name of the person authorizing the release
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Used for identification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: insurance_company_name
+      label: Insurance Company Name
+      hint: Company holding the records
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: claim_number
+      label: Claim Number
+      hint: Reference number for the specific claim
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_accident
+      label: Date of Accident
+      hint: When the incident occurred
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: release_info_header
+      label: -- Release Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: release_records_to_name
+      label: Release Records To (Name)
+      hint: Recipient entity or individual
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: recipient_email
+      label: Recipient Email
+      hint: Where to send the digital records
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: types_of_records_to_release
+      label: Types of Records to Release
+      hint: Select all categories that apply
+      type: select_multiple
+      options:
+      - Complete Claim File
+      - Medical Records
+      - Estimate of Damage
+      - Police Report
+      - Settlement Details
+      required: true
+    - id: 11
+      name: terms_of_release_header
+      label: -- Terms of Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: authorization_expiration_date
+      label: Authorization Expiration Date
+      hint: When does this consent expire?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: understand_revocation_rights
+      label: I understand my revocation rights
+      hint: You may revoke this at any time in writing
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: agree_to_electronic_release
+      label: I agree to electronic release
+      hint: Authorization for digital transmission
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

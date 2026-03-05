@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Strongly Agree''}'
-      - '{''label'': ''Somewhat Agree''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat Disagree''}'
-      - '{''label'': ''Strongly Disagree''}'
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
       required: false
     - id: 7
       name: communication_channels
@@ -56,10 +56,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Chat''}'
-      - '{''label'': ''In-person''}'
+      - Phone
+      - Email
+      - Chat
+      - In-person
       required: false
     - id: 8
       name: frequency_of_follow_up
@@ -67,11 +67,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
       required: false
     - id: 9
       name: follow_up_reminders
@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: data_quality
@@ -130,8 +130,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: follow_up_reminders_other
@@ -146,8 +146,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: internal_follow_up_reminders
@@ -155,8 +155,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: external_follow_up_reminders
@@ -164,8 +164,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: follow_up_frequency_other

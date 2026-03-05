@@ -138,7 +138,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I understand
-      - false
+      - 'False'
       required: true
     - id: 17
       name: data_deletion
@@ -147,7 +147,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I understand
-      - false
+      - 'False'
       required: true
     - id: 18
       name: authorization_section
@@ -162,8 +162,8 @@ inputSchema:
       hint: Do you have authority to provide this consent
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - On behalf of organization
       required: true
     - id: 20

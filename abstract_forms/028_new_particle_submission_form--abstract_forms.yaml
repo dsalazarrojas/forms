@@ -23,8 +23,8 @@ inputSchema:
       hint: Select a type
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Aerodynamic'', ''text'': ''Aerodynamic''}'
-      - '{''id'': 2, ''name'': ''Gravitational'', ''text'': ''Gravitational''}'
+      - Aerodynamic
+      - Gravitational
       required: true
     - id: 4
       name: researcher_name
@@ -81,7 +81,7 @@ inputSchema:
       hint: Select coordinates
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': 1, ''value'': ''1''}'
-      - '{''id'': 2, ''name'': 2, ''value'': ''2''}'
-      - '{''id'': 3, ''name'': 3, ''value'': ''3''}'
+      - '1'
+      - '2'
+      - '3'
       required: false

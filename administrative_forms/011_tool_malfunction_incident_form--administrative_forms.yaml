@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Tool 1''}'
-      - '{''id'': 2, ''label'': ''Tool 2''}'
-      - '{''id'': 3, ''label'': ''Tool 3''}'
+      - Tool 1
+      - Tool 2
+      - Tool 3
       required: false
     - id: 6
       name: tool_condition
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 7
       name: severity
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Low''}'
-      - '{''id'': 2, ''label'': ''Moderate''}'
-      - '{''id'': 3, ''label'': ''High''}'
+      - Low
+      - Moderate
+      - High
       required: false
     - id: 8
       name: cause
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Complete''}'
-      - '{''id'': 2, ''label'': ''Incomplete''}'
-      - '{''id'': 3, ''label'': ''No Action Taken''}'
+      - Complete
+      - Incomplete
+      - No Action Taken
       required: false
     - id: 13
       name: outcome_notes

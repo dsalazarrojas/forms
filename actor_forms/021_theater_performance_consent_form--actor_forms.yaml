@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Parent'', ''label'': ''Parent''}'
-      - '{''value'': ''Guardian'', ''label'': ''Guardian''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Parent
+      - Guardian
+      - Other
       required: true
     - id: 4
       name: participant_age
@@ -40,8 +40,8 @@ inputSchema:
       hint: Guardian Consent
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: participant_consent
@@ -49,8 +49,8 @@ inputSchema:
       hint: Participant Consent
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: performance_details

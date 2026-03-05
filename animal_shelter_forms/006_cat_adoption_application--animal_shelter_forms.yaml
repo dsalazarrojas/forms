@@ -71,8 +71,8 @@ inputSchema:
       hint: If renting - do you have landlord approval
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not Applicable
       required: true
     - id: 10
@@ -81,8 +81,8 @@ inputSchema:
       hint: Current pets in your household
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: pet_details
@@ -97,8 +97,8 @@ inputSchema:
       hint: Are there children under 12 in the home
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: children_ages
@@ -176,7 +176,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Agree
-      - false
+      - 'False'
       required: true
     - id: 23
       name: application_date

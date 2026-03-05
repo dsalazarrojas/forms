@@ -4,189 +4,85 @@ inputSchema:
     title: Molecular Polarity Assessment
     pages:
     - id: 1
-      name: question1
-      label: Molecular polarity is
-      hint: null
+      name: question8
+      label: Contact information
+      hint: Please provide your contact information.
       type: text
       options: []
       required: false
     - id: 2
-      name: question2
-      label: Which of the following is polar
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 3
-      name: question3
-      label: Nonpolar molecule
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 4
-      name: question4
-      label: Nonpolar molecule
-      hint: null
+      name: question9
+      label: Note field
+      hint: Please enter any additional notes.
       type: text
       options: []
       required: false
-    - id: 5
-      name: question5
-      label: Polar vs nonpolar
-      hint: null
-      type: date
+    - id: 3
+      name: question10
+      label: Molecular weight
+      hint: Please enter the molecular weight of the molecule.
+      type: number
       options: []
-      required: false
-    - id: 6
-      name: question6
+      required: true
+    - id: 4
+      name: question11
       label: Time
-      hint: null
+      hint: When did you first discover this molecule?
       type: time
       options: []
-      required: false
+      required: true
+    - id: 5
+      name: question12
+      label: Nonpolar
+      hint: Please choose the type of nonpolar molecule.
+      type: select_multiple
+      options:
+      - Hydrocarbon (C-C)
+      - Halogen
+      - Sulfuric
+      required: true
+    - id: 6
+      name: question13
+      label: Polar
+      hint: Please choose the type of polar molecule.
+      type: select_multiple
+      options:
+      - Hydroxyl (OH)
+      - Alkyl (R-group)
+      - Amino (-NH2)
+      required: true
     - id: 7
-      name: question7
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: question8
-      label: Contact information
-      hint: Provide email or phone number
+      name: question14
+      label: Email
+      hint: Please enter your email address.
       type: email
+      options: []
+      required: true
+    - id: 8
+      name: question15
+      label: Question15
+      hint: Please enter any additional notes.
+      type: text
       options: []
       required: false
     - id: 9
-      name: question9
-      label: Contact information
-      hint: null
-      type: text
+      name: question16
+      label: Question16
+      hint: Please enter the molecular weight of the molecule.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: question10
-      label: Molecular Polarity Assessment
-      hint: null
-      type: select_one
-      options:
-      - 1 - Polar
-      - 2 - Nonpolar
-      - 3 - Nonpolar
-      required: false
-    - id: 11
-      name: question11
-      label: Nonpolar
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Nonpolar
-      - 2 - Nonpolar
-      - 3 - Nonpolar
-      required: false
-    - id: 12
-      name: question12
-      label: Time
-      hint: null
+      name: question17
+      label: Question17
+      hint: When did you first discover this molecule?
       type: time
       options: []
-      required: false
-    - id: 13
-      name: question13
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: question14
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: question15
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: question16
-      label: Question 16
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: question17
-      label: Question 17
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
+      required: true
+    - id: 11
       name: question18
-      label: Question 18
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: question19
-      label: Question 19
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: question20
-      label: Question 20
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: question21
-      label: Question 21
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: question22
-      label: Question 22
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: question23
-      label: Question 23
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: question24
-      label: Question 24
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: question25
-      label: Question 25
-      hint: null
+      label: Question18
+      hint: Please enter any additional notes.
       type: text
       options: []
       required: false

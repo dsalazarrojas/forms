@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: company_size
-      label: company_size
+      name: is_large_organization
+      label: Is your company large?
       hint: null
       type: select_one
       options:
@@ -21,30 +21,32 @@ inputSchema:
       required: true
     - id: 3
       name: number_of_employees
-      label: number_of_employees
+      label: Number of Employees
       hint: null
       type: number
       options: []
       required: true
     - id: 4
       name: company_industry
-      label: company_industry
+      label: Company Industry
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Option A
+      - Option B
       required: true
     - id: 5
       name: company_location
-      label: company_location
+      label: Company Location
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 6
-      name: company_type
-      label: company_type
+      name: company_founder
+      label: Company Founder
       hint: null
       type: select_one
       options:
@@ -52,137 +54,100 @@ inputSchema:
       - 'No'
       required: true
     - id: 7
-      name: company_founder
-      label: company_founder
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 8
       name: number_of_offices
-      label: number_of_offices
+      label: Number of Offices
       hint: null
       type: number
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: established_date
-      label: established_date
+      label: Established Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 10
+    - id: 9
       name: website
-      label: website
+      label: Website
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
+    - id: 10
       name: contact_person
-      label: contact_person
+      label: Contact Person
       hint: null
       type: text
       options: []
       required: true
-    - id: 12
+    - id: 11
       name: contact_email
-      label: contact_email
+      label: Contact Email
       hint: null
       type: email
       options: []
       required: true
-    - id: 13
+    - id: 12
       name: contact_phone
-      label: contact_phone
+      label: Contact Phone
       hint: null
       type: text
       options: []
       required: true
-    - id: 14
+    - id: 13
       name: company_industry_other
       label: Other
       hint: null
       type: text
       options: []
       required: false
+    - id: 14
+      name: company_location_other
+      label: Company Location Other
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 15
-      name: company_industry_other_other
-      label: Other (other)
+      name: number_of_offices_other
+      label: Number Of Offices Other
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: company_location_other
-      label: Other
+      name: established_date_other
+      label: Established Date Other
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: number_of_offices_other
-      label: Other
+      name: contact_phone_other
+      label: Contact Phone Other
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: established_date_other
-      label: Other
+      name: company_founder_other
+      label: Company Founder Other
       hint: null
       type: text
       options: []
       required: false
     - id: 19
-      name: contact_phone_other
-      label: Other
+      name: website_other
+      label: Website Other
       hint: null
       type: text
       options: []
       required: false
     - id: 20
-      name: contact_email_other
-      label: Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: company_founder_other
-      label: Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: contact_person_other
-      label: Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
       name: established_year
-      label: established_year
+      label: Established Year
       hint: null
       type: number
-      options: []
-      required: false
-    - id: 24
-      name: company_size_other
-      label: Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: website_other
-      label: Other
-      hint: null
-      type: text
       options: []
       required: false

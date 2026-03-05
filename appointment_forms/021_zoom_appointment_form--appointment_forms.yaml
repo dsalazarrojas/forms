@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Card''}'
-      - '{''label'': ''Bank Transfer''}'
+      - Card
+      - Bank Transfer
       required: false
     - id: 4
       name: payment_details
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Paid''}'
-      - '{''label'': ''Cancelled''}'
+      - Pending
+      - Paid
+      - Cancelled
       required: false
     - id: 7
       name: payment_method
@@ -56,8 +56,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Card''}'
-      - '{''label'': ''Bank Transfer''}'
+      - Card
+      - Bank Transfer
       required: false
     - id: 8
       name: payment_type
@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''One-Time Payment''}'
-      - '{''label'': ''Subscription''}'
+      - One-Time Payment
+      - Subscription
       required: false
     - id: 9
       name: payment_frequency
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''One-Time Payment''}'
-      - '{''label'': ''Ongoing Payment''}'
+      - One-Time Payment
+      - Ongoing Payment
       required: false
     - id: 10
       name: payment_amount
@@ -181,6 +181,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Paid at Time of Service''}'
-      - '{''label'': ''Invoiced and Paid Later''}'
+      - Paid at Time of Service
+      - Invoiced and Paid Later
       required: false

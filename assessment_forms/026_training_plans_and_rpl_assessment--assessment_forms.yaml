@@ -4,14 +4,14 @@ inputSchema:
     title: Training Plans And RPL Assessment
     pages:
     - id: 1
-      name: page_1
-      label: Training Plans And RPL Assessment
+      name: training_plans
+      label: Training plans
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: page_2
+      name: rpl_evidence
       label: RPL Evidence
       hint: null
       type: select_one
@@ -20,42 +20,35 @@ inputSchema:
       - 'No'
       required: true
     - id: 3
-      name: page_3
-      label: RPL Date
+      name: date_of_training
+      label: Date of Training
       hint: null
       type: date
       options: []
       required: true
     - id: 4
-      name: page_4
-      label: Date of Training
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
-      name: page_5
+      name: training_location
       label: Training Location
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 5
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: page_6
+      name: training_hours_completed
       label: Training Hours Completed
       hint: null
       type: number
       options: []
       required: true
     - id: 7
-      name: page_7
-      label: Trainer Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: page_8
+      name: training_type
       label: Training Type
       hint: null
       type: select_multiple
@@ -63,43 +56,22 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: true
-    - id: 9
-      name: page_9
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: page_10
+    - id: 8
+      name: contact_information
       label: Contact Information
       hint: null
       type: text
       options: []
       required: true
-    - id: 11
-      name: page_11
+    - id: 9
+      name: email
       label: Email
       hint: null
       type: email
       options: []
       required: true
-    - id: 12
-      name: page_12
-      label: Training Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: page_13
-      label: Training Duration
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: page_14
+    - id: 10
+      name: training_status
       label: Training Status
       hint: null
       type: select_one
@@ -107,82 +79,17 @@ inputSchema:
       - Active
       - Inactive
       required: true
-    - id: 15
-      name: page_15
+    - id: 11
+      name: rpl_evidence_link
       label: RPL Evidence Link
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
-      name: page_16
-      label: RPL Evidence File
+    - id: 12
+      name: training_location_2
+      label: Additional Training Location
       hint: null
       type: text
       options: []
-      required: false
-    - id: 17
-      name: page_17
-      label: Training Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: page_18
-      label: Date of Training
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: page_19
-      label: Training Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: page_20
-      label: Training Hours Completed
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: page_21
-      label: Trainer Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: page_22
-      label: Training Type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: page_23
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: page_24
-      label: Contact Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: page_25
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
+      required: true

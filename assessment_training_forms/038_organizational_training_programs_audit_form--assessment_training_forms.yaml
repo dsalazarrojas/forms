@@ -18,9 +18,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Department A''}'
-      - '{''value'': ''Department B''}'
-      - '{''value'': ''Department C''}'
+      - Department A
+      - Department B
+      - Department C
       required: false
     - id: 3
       name: training_quality_form
@@ -28,9 +28,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Excellent''}'
-      - '{''value'': ''Satisfactory''}'
-      - '{''value'': ''Needs Improvement''}'
+      - Excellent
+      - Satisfactory
+      - Needs Improvement
       required: false
     - id: 4
       name: training_completions_form
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Annually''}'
-      - '{''value'': ''Semi-Annually''}'
-      - '{''value'': ''Quarterly''}'
-      - '{''value'': ''Monthly''}'
+      - Annually
+      - Semi-Annually
+      - Quarterly
+      - Monthly
       required: false
     - id: 8
       name: auditor_id
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''John Doe''}'
-      - '{''value'': ''Jane Doe''}'
-      - '{''value'': ''Jim Doe''}'
+      - John Doe
+      - Jane Doe
+      - Jim Doe
       required: false
     - id: 9
       name: completion_certification_form
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: certification_date_form

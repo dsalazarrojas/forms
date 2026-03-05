@@ -1,226 +1,215 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Ceremony Accident Incident Form
     pages:
-      - id: 1
-        name: incident_date
-        label: Incident Date
-        hint: Date when the incident occurred
-        type: date
-        options: []
-        required: true
-      - id: 2
-        name: incident_time
-        label: Incident Time
-        hint: Time when the incident occurred
-        type: time
-        options: []
-        required: true
-      - id: 3
-        name: reporter_name
-        label: Reporter Name
-        hint: Full name of person reporting the incident
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: reporter_role
-        label: Reporter Role
-        hint: Your role at the ceremony
-        type: select_one
-        options:
-          - Event coordinator
-          - Venue staff
-          - Vendor
-          - Guest
-          - Family member
-          - Security personnel
-          - Other
-        required: true
-      - id: 5
-        name: reporter_contact
-        label: Reporter Contact Information
-        hint: Phone number and email
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: ceremony_type
-        label: Ceremony Type
-        hint: Type of ceremony where incident occurred
-        type: select_one
-        options:
-          - Wedding ceremony
-          - Funeral service
-          - Memorial service
-          - Graduation ceremony
-          - Religious ceremony
-          - Corporate event
-          - Other
-        required: true
-      - id: 7
-        name: venue_location
-        label: Venue Location
-        hint: Specific location within the venue
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: incident_type
-        label: Incident Type
-        hint: Category of incident
-        type: select_one
-        options:
-          - Slip and fall
-          - Property damage
-          - Medical emergency
-          - Altercation
-          - Equipment malfunction
-          - Weather-related
-          - Other accident
-          - Other
-        required: true
-      - id: 9
-        name: persons_involved
-        label: Persons Involved
-        hint: Names of all individuals involved in the incident
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: injuries_sustained
-        label: Injuries Sustained
-        hint: Describe any injuries
-        type: text
-        options: []
-        required: true
-      - id: 11
-        name: medical_attention
-        label: Medical Attention Required
-        hint: Was medical attention provided
-        type: select_one
-        options:
-          - No injuries
-          - First aid on site
-          - EMS called
-          - Transported to hospital
-          - Declined medical attention
-        required: true
-      - id: 12
-        name: witnesses_present
-        label: Were There Witnesses
-        hint: Were there witnesses to the incident
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 13
-        name: witness_names
-        label: Witness Names and Contact Information
-        hint: List names and contact details of witnesses
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: incident_description
-        label: Detailed Incident Description
-        hint: Provide a detailed account of what happened
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: contributing_factors
-        label: Contributing Factors
-        hint: Select all that may have contributed
-        type: select_multiple
-        options:
-          - Wet or slippery surface
-          - Poor lighting
-          - Obstructed walkway
-          - Equipment failure
-          - Weather conditions
-          - Crowded conditions
-          - Alcohol consumption
-          - None identified
-        required: false
-      - id: 16
-        name: property_damage
-        label: Property Damage
-        hint: Was there any property damage
-        type: select_one
-        options:
-          - No damage
-          - Minor damage
-          - Moderate damage
-          - Severe damage
-        required: true
-      - id: 17
-        name: damage_description
-        label: Damage Description
-        hint: Describe the property damage
-        type: text
-        options: []
-        required: false
-      - id: 18
-        name: immediate_actions
-        label: Immediate Actions Taken
-        hint: What actions were taken immediately after the incident
-        type: text
-        options: []
-        required: true
-      - id: 19
-        name: photos_available
-        label: Photos Available
-        hint: Do you have photos of the incident
-        type: select_one
-        options:
-          - Yes - Will attach
-          - No photos available
-        required: false
-      - id: 20
-        name: police_report_filed
-        label: Police Report Filed
-        hint: Was a police report filed
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not applicable
-        required: true
-      - id: 21
-        name: follow_up_required
-        label: Follow-up Required
-        hint: Does this incident require follow-up action
-        type: select_one
-        options:
-          - Yes - Immediate action needed
-          - Yes - Review recommended
-          - No further action needed
-        required: true
-      - id: 22
-        name: signature
-        label: Reporter Signature
-        hint: Type your full name as signature
-        type: text
-        options: []
-        required: true
-      - id: 23
-        name: signature_date
-        label: Signature Date
-        hint: Date of report submission
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: Date when the incident occurred
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: Time when the incident occurred
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: reporter_name
+      label: Reporter Name
+      hint: Full name of person reporting the incident
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporter_role
+      label: Reporter Role
+      hint: Your role at the ceremony
+      type: select_one
+      options:
+      - Event coordinator
+      - Venue staff
+      - Vendor
+      - Guest
+      - Family member
+      - Security personnel
+      - Other
+      required: true
+    - id: 5
+      name: reporter_contact
+      label: Reporter Contact Information
+      hint: Phone number and email
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ceremony_type
+      label: Ceremony Type
+      hint: Type of ceremony where incident occurred
+      type: select_one
+      options:
+      - Wedding ceremony
+      - Funeral service
+      - Memorial service
+      - Graduation ceremony
+      - Religious ceremony
+      - Corporate event
+      - Other
+      required: true
+    - id: 7
+      name: venue_location
+      label: Venue Location
+      hint: Specific location within the venue
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: incident_type
+      label: Incident Type
+      hint: Category of incident
+      type: select_one
+      options:
+      - Slip and fall
+      - Property damage
+      - Medical emergency
+      - Altercation
+      - Equipment malfunction
+      - Weather-related
+      - Other accident
+      - Other
+      required: true
+    - id: 9
+      name: persons_involved
+      label: Persons Involved
+      hint: Names of all individuals involved in the incident
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: injuries_sustained
+      label: Injuries Sustained
+      hint: Describe any injuries
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_attention
+      label: Medical Attention Required
+      hint: Was medical attention provided
+      type: select_one
+      options:
+      - No injuries
+      - First aid on site
+      - EMS called
+      - Transported to hospital
+      - Declined medical attention
+      required: true
+    - id: 12
+      name: witnesses_present
+      label: Were There Witnesses
+      hint: Were there witnesses to the incident
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: witness_names
+      label: Witness Names and Contact Information
+      hint: List names and contact details of witnesses
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_description
+      label: Detailed Incident Description
+      hint: Provide a detailed account of what happened
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contributing_factors
+      label: Contributing Factors
+      hint: Select all that may have contributed
+      type: select_multiple
+      options:
+      - Wet or slippery surface
+      - Poor lighting
+      - Obstructed walkway
+      - Equipment failure
+      - Weather conditions
+      - Crowded conditions
+      - Alcohol consumption
+      - None identified
+      required: false
+    - id: 16
+      name: property_damage
+      label: Property Damage
+      hint: Was there any property damage
+      type: select_one
+      options:
+      - No damage
+      - Minor damage
+      - Moderate damage
+      - Severe damage
+      required: true
+    - id: 17
+      name: damage_description
+      label: Damage Description
+      hint: Describe the property damage
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: immediate_actions
+      label: Immediate Actions Taken
+      hint: What actions were taken immediately after the incident
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: photos_available
+      label: Photos Available
+      hint: Do you have photos of the incident
+      type: select_one
+      options:
+      - Yes - Will attach
+      - No photos available
+      required: false
+    - id: 20
+      name: police_report_filed
+      label: Police Report Filed
+      hint: Was a police report filed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 21
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Does this incident require follow-up action
+      type: select_one
+      options:
+      - Yes - Immediate action needed
+      - Yes - Review recommended
+      - No further action needed
+      required: true
+    - id: 22
+      name: signature
+      label: Reporter Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_date
+      label: Signature Date
+      hint: Date of report submission
+      type: date
+      options: []
+      required: true

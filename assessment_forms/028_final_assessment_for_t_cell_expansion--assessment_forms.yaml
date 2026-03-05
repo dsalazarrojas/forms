@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{1: ''Cell Sort''}'
-      - '{2: ''Magnetic Bead Assays''}'
-      - '{3: ''Other (please specify)''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 4
       name: observations
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Flow Cytometry''}'
-      - '{2: ''Magnetic Bead Assays''}'
-      - '{3: ''Other (please specify)''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 6
       name: cell_expansion_notes
@@ -67,7 +67,7 @@ inputSchema:
       required: false
     - id: 9
       name: cell_expansion_method_other
-      label: Other Cell Expansion Method
+      label: Cell Expansion Method Other
       hint: null
       type: text
       options: []
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''High''}'
-      - '{2: ''Low''}'
-      - '{3: ''Normal''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 17
       name: output_other_method
@@ -140,14 +140,14 @@ inputSchema:
       required: false
     - id: 19
       name: output_other_method_other
-      label: Output Other Method
+      label: Output Other Method Other
       hint: null
       type: text
       options: []
       required: false
     - id: 20
-      name: output_notes
-      label: Output Notes
+      name: output_notes_2
+      label: Output Notes 2
       hint: null
       type: note
       options: []
@@ -172,13 +172,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''High''}'
-      - '{2: ''Low''}'
-      - '{3: ''Normal''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 24
       name: output_viability_range_other
-      label: Output Viability Range
+      label: Output Viability Range Other
       hint: null
       type: text
       options: []
@@ -189,7 +189,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{1: ''Pass''}'
-      - '{2: ''Fail''}'
-      - '{3: ''Deferred''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false

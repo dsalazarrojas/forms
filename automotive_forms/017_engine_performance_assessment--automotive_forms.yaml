@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Bad'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Fair'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Good'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Excellent'', ''value'': 4}'
+      - Bad
+      - Fair
+      - Good
+      - Excellent
       required: false
     - id: 3
       name: performance_rating
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Low'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Medium'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''High'', ''value'': 3}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 5
       name: fuel_level
@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Empty'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Less than 1/4'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''1/4 to 1/2'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''1/2 to 3/4'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''More than 3/4'', ''value'': 5}'
+      - Empty
+      - Less than 1/4
+      - 1/4 to 1/2
+      - 1/2 to 3/4
+      - More than 3/4
       required: false
     - id: 6
       name: engine_problem
@@ -56,12 +56,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Low Oil Level'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''High Water Temperature'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Leaking Oil'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Overheating'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Other (please specify)'', ''value'': 5}'
-      - '{''id'': 6, ''label'': ''No Problem'', ''value'': 6}'
+      - Low Oil Level
+      - High Water Temperature
+      - Leaking Oil
+      - Overheating
+      - Other (please specify)
+      - No Problem
       required: false
     - id: 7
       name: fuel_type
@@ -69,11 +69,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Regular'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Mid-Grade'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Premium'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Diesel'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Other (please specify)'', ''value'': 5}'
+      - Regular
+      - Mid-Grade
+      - Premium
+      - Diesel
+      - Other (please specify)
       required: false
     - id: 8
       name: engine_size
@@ -88,10 +88,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Gas'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Diesel'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Hybrid'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': 4}'
+      - Gas
+      - Diesel
+      - Hybrid
+      - Other (please specify)
       required: false
     - id: 10
       name: fuel_efficiency
@@ -113,10 +113,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Clean'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Dirty'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Not Installed'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': 4}'
+      - Clean
+      - Dirty
+      - Not Installed
+      - Other (please specify)
       required: false
     - id: 13
       name: engine_air_filter
@@ -124,10 +124,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Clean'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Dirty'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Not Installed'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': 4}'
+      - Clean
+      - Dirty
+      - Not Installed
+      - Other (please specify)
       required: false
     - id: 14
       name: transmission_type
@@ -135,11 +135,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Automatic'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Manual'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Semi-Automatic'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''CVT'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Other (please specify)'', ''value'': 5}'
+      - Automatic
+      - Manual
+      - Semi-Automatic
+      - CVT
+      - Other (please specify)
       required: false
     - id: 15
       name: vehicle_weight
@@ -154,10 +154,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Low'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Medium'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''High'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Excellent'', ''value'': 4}'
+      - Low
+      - Medium
+      - High
+      - Excellent
       required: false
     - id: 17
       name: transmission_oil_filter
@@ -165,10 +165,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Clean'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Dirty'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Not Installed'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': 4}'
+      - Clean
+      - Dirty
+      - Not Installed
+      - Other (please specify)
       required: false
     - id: 18
       name: drive_position
@@ -176,11 +176,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Front-Wheel Drive'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Rear-Wheel Drive'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''All-Wheel Drive'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Four-Wheel Drive'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Other (please specify)'', ''value'': 5}'
+      - Front-Wheel Drive
+      - Rear-Wheel Drive
+      - All-Wheel Drive
+      - Four-Wheel Drive
+      - Other (please specify)
       required: false
     - id: 19
       name: fuel_mileage
@@ -202,9 +202,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': False, ''value'': 1}'
-      - '{''id'': 2, ''label'': True, ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Other (please specify)'', ''value'': 3}'
+      - 'False'
+      - 'True'
+      - Other (please specify)
       required: false
     - id: 22
       name: vehicle_condition
@@ -212,10 +212,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''New'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Average'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Used'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': 4}'
+      - New
+      - Average
+      - Used
+      - Other (please specify)
       required: false
     - id: 23
       name: vehicle_age

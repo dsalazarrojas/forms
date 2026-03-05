@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Highly Satisfied''}'
-      - '{''id'': 2, ''name'': ''Somewhat Satisfied''}'
-      - '{''id'': 3, ''name'': ''Not Satisfied''}'
+      - Highly Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
       required: false
     - id: 4
       name: work_life_balance
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Highly Balanced''}'
-      - '{''id'': 2, ''name'': ''Somewhat Balanced''}'
-      - '{''id'': 3, ''name'': ''Not Balanced''}'
-      - '{''id'': 4, ''name'': ''Not At All Balanced''}'
+      - Highly Balanced
+      - Somewhat Balanced
+      - Not Balanced
+      - Not At All Balanced
       required: true
     - id: 5
       name: time_management_skills
@@ -135,9 +135,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''In Progress''}'
-      - '{''id'': 2, ''name'': ''Complete''}'
-      - '{''id'': 3, ''name'': ''Not Started''}'
+      - In Progress
+      - Complete
+      - Not Started
       required: false
     - id: 19
       name: completed_at
@@ -173,10 +173,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Monthly''}'
-      - '{''id'': 4, ''name'': ''Quarterly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
       required: false
     - id: 24
       name: last_reviewed_by

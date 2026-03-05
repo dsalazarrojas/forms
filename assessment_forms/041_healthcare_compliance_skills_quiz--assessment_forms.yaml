@@ -4,138 +4,148 @@ inputSchema:
     title: Healthcare Compliance Skills Quiz
     pages:
     - id: 1
-      name: training_checkin_1
-      label: Staff Training Check-in
+      name: training_frequency
+      label: How often do you receive regular training on healthcare compliance?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
       required: false
     - id: 2
-      name: training_checkin_2
-      label: Training Frequency
+      name: policy_understanding
+      label: What is your level of understanding of healthcare policies?
       hint: null
       type: number
       options: []
       required: false
     - id: 3
-      name: training_checkin_3
-      label: Policy Understanding
+      name: training_checkin
+      label: Do you regularly check in with training providers?
       hint: null
-      type: number
-      options: []
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 4
-      name: compliance_quiz_1
-      label: Compliance Quiz
+      name: compliance_status
+      label: What is your compliance status?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Active
+      - Inactive
       required: false
     - id: 5
-      name: compliance_quiz_2
-      label: Compliance Score
+      name: training_sessions
+      label: How many training sessions do you have within the past 6 months?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 6
-      name: training_checkin_4
-      label: Training Check-in
+      name: training_date
+      label: What is the date of your most recent training session?
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 7
-      name: training_checkin_5
-      label: Training Status
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 8
-      name: training_checkin_6
-      label: Training Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: training_checkin_7
-      label: Training Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: training_checkin_8
-      label: Training Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: training_checkin_9
-      label: Training Topic
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: training_checkin_10
-      label: Training Provider
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: training_checkin_11
-      label: Compliance Score
+      name: training_time
+      label: How many hours do you typically spend on training per week?
       hint: null
       type: number
       options: []
       required: false
-    - id: 14
-      name: training_checkin_12
-      label: Training Status
+    - id: 8
+      name: training_topics
+      label: Which training topics do you have received recently?
       hint: null
       type: select_multiple
       options:
-      - Active
-      - Inactive
+      - Compliance
+      - Clinical
+      - Administrative
+      - Other
       required: false
-    - id: 15
-      name: training_checkin_13
-      label: Training Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: training_checkin_14
-      label: Training Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: training_checkin_15
-      label: Training Location
+    - id: 9
+      name: training_provider
+      label: What is the name of your most recent training provider?
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
-      name: training_checkin_16
-      label: Training Topic
+    - id: 10
+      name: compliance_score
+      label: What is your current compliance score?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: training_status
+      label: Do you have active or inactive training status?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: next_session_date
+      label: What is the date of your next training session?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: next_session_time
+      label: What time is your next training session?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: next_session_location
+      label: Where is the location of your next training session?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: next_session_topic
+      label: What is the topic of your next training session?
+      hint: null
+      type: select_one
+      options:
+      - Compliance
+      - Clinical
+      - Administrative
+      - Other
+      required: false
+    - id: 16
+      name: next_session_provider
+      label: Who is your next training provider?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: next_session_hours
+      label: How many hours will you spend on the next training session?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: next_session_status
+      label: What is the status of your next training session?
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
       required: false

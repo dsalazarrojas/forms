@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''T-Shirt''}'
-      - '{''value'': ''Hoodie''}'
-      - '{''value'': ''Socks''}'
+      - T-Shirt
+      - Hoodie
+      - Socks
       required: true
     - id: 7
       name: reorder_quantity
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Apparel''}'
-      - '{''value'': ''Accessories''}'
+      - Apparel
+      - Accessories
       required: false
     - id: 9
       name: reorder_date
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Online Payment''}'
-      - '{''value'': ''Cash''}'
-      - '{''value'': ''Other''}'
+      - Online Payment
+      - Cash
+      - Other
       required: true
     - id: 15
       name: payment_date
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Complete''}'
+      - Pending
+      - In Progress
+      - Complete
       required: false
     - id: 19
       name: customer_name
@@ -167,9 +167,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Rejected''}'
-      - '{''value'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: true
     - id: 23
       name: customer_approval
@@ -177,9 +177,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Rejected''}'
-      - '{''value'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: true
     - id: 24
       name: store_notes

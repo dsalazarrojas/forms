@@ -4,182 +4,147 @@ inputSchema:
     title: Supply Chain Operations Assessment
     pages:
     - id: 1
-      name: supply_chain_operations
-      label: supply_chain_operations
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: overall_risk
-      label: overall_risk
-      hint: null
+      label: What is the overall risk of your supply chain operations?
+      hint: Please describe the overall risk of your supply chain operations.
       type: number
       options: []
-      required: false
-    - id: 3
-      name: supply_chain_operations
-      label: supply_chain_operations
-      hint: null
+      required: true
+    - id: 2
+      name: reporting_team
+      label: What is the name of your reporting team?
+      hint: Please enter the name of your reporting team.
       type: text
       options: []
-      required: false
-    - id: 4
-      name: supply_chain_operations_1
-      label: risk
-      hint: null
+      required: true
+    - id: 3
+      name: forecasting_team
+      label: What are the names of the members of your forecasting team?
+      hint: Please list the names of the members of your forecasting team.
       type: select_multiple
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
-      required: false
+      - John
+      - Doe
+      - Jane
+      - Smith
+      required: true
+    - id: 4
+      name: execution_team
+      label: What is the name of your execution team?
+      hint: Please enter the name of your execution team.
+      type: text
+      options: []
+      required: true
     - id: 5
-      name: supply_chain_operations_2
-      label: operations_team
-      hint: null
+      name: communication_frequency
+      label: What is the frequency of your communication with your suppliers?
+      hint: Please describe the frequency of your communication with your suppliers.
       type: select_one
       options:
-      - -.reporting - planning - forecasting - execution - monitoring
-      - Other
-      required: false
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
     - id: 6
-      name: supply_chain_operations_3
-      label: risk_assess
-      hint: null
-      type: note
-      options: []
-      required: false
+      name: review_frequency
+      label: How often do you review your supply chain operations plan?
+      hint: Please describe the frequency of your review of your supply chain operations
+        plan.
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
     - id: 7
-      name: supply_chain_operations_4
-      label: communication
-      hint: null
-      type: email
+      name: risk_score
+      label: What is the overall risk score of your supply chain operations?
+      hint: Please enter the overall risk score of your supply chain operations.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 8
-      name: supply_chain_operations_5
-      label: communication
-      hint: null
-      type: email
+      name: current_status
+      label: What is the current status of your supply chain operations?
+      hint: Please describe the current status of your supply chain operations.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: supply_chain_operations_6
-      label: communication
-      hint: null
-      type: email
+      name: primary_contact
+      label: Who is the primary contact person for your supply chain operations?
+      hint: Please enter the name and title of the primary contact person for your
+        supply chain operations.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: overall_report_score
-      label: overall_score
-      hint: null
-      type: number
-      options: []
-      required: false
+      name: meeting_frequency
+      label: What is the frequency of your meetings with your supply chain team?
+      hint: Please describe the frequency of your meetings with your supply chain
+        team.
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
     - id: 11
-      name: overall_risk_score
-      label: overall_risk_score
-      hint: null
-      type: text
+      name: overall_score
+      label: What is the overall score of your supply chain operations?
+      hint: Please enter the overall score of your supply chain operations.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 12
-      name: supply_chain_operations_7
-      label: overall_risk
-      hint: null
+      name: inventory_management
+      label: What is the name of your inventory management team?
+      hint: Please enter the name of your inventory management team.
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: supply_chain_operations_8
-      label: overall_risk_score
-      hint: null
-      type: number
+      name: planning_team
+      label: What is the name of your planning team?
+      hint: Please enter the name of your planning team.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 14
-      name: overall_report_score_1
-      label: overall_score
-      hint: null
-      type: number
+      name: monitoring_team
+      label: What is the name of your monitoring team?
+      hint: Please enter the name of your monitoring team.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 15
-      name: supply_chain_operations_9
-      label: overall_risk_score
-      hint: null
+      name: execution_team_2
+      label: Execution Team 2
+      hint: Please enter the name of your execution team.
       type: text
       options: []
-      required: false
+      required: true
     - id: 16
-      name: supply_chain_report_score_2
-      label: overall_score
-      hint: null
-      type: number
+      name: inventory_management_team
+      label: Inventory Management Team
+      hint: Please enter the name of your inventory management team.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 17
-      name: overall_risk_2
-      label: overall_risk
-      hint: null
+      name: current_status_2
+      label: What is the current status of your supply chain operations score?
+      hint: Please describe the current status of your supply chain operations score.
       type: text
       options: []
-      required: false
+      required: true
     - id: 18
-      name: supply_chain_operations_10
-      label: overall_risk_score
-      hint: null
+      name: overall_score_2
+      label: What is the overall score of your inventory management?
+      hint: Please enter the overall score of your inventory management.
       type: number
       options: []
-      required: false
-    - id: 19
-      name: overall_risk_score
-      label: overall_risk_score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: supply_chain_operations_11
-      label: overall.score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: overall_score_1
-      label: overall_score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: overall_risk_score
-      label: overall_risk_score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: overall_report_score
-      label: overall_score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: supply_chain_report_score
-      label: overall_score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: overall_risk
-      label: overall_risk
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

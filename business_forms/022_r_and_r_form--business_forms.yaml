@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Team Lead Award'', ''value'': ''team_lead''}'
-      - '{''id'': 2, ''label'': ''Manager Award'', ''value'': ''manager''}'
-      - '{''id'': 3, ''label'': "President''s Award", ''value'': ''president''}'
+      - Team Lead Award
+      - Manager Award
+      - President's Award
       required: true
     - id: 4
       name: award_justification
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pending'', ''value'': ''pending''}'
-      - '{''id'': 2, ''label'': ''Approved'', ''value'': ''approved''}'
-      - '{''id'': 3, ''label'': ''Denied'', ''value'': ''denied''}'
+      - Pending
+      - Approved
+      - Denied
       required: true
     - id: 13
       name: manager_comments
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Employee'', ''value'': ''employee''}'
-      - '{''id'': 2, ''label'': ''Team'', ''value'': ''team''}'
-      - '{''id'': 3, ''label'': ''Department'', ''value'': ''department''}'
+      - Employee
+      - Team
+      - Department
       required: true
     - id: 16
       name: recognition_date
@@ -130,8 +130,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monetary'', ''value'': ''monetary''}'
-      - '{''id'': 2, ''label'': ''Non-Monetary'', ''value'': ''non_monetary''}'
+      - Monetary
+      - Non-Monetary
       required: true
     - id: 18
       name: recognition_value
@@ -146,8 +146,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not Yet Recognized'', ''value'': ''not_yet_recognized''}'
-      - '{''id'': 2, ''label'': ''Already Recognized'', ''value'': ''already_recognized''}'
+      - Not Yet Recognized
+      - Already Recognized
       required: false
     - id: 20
       name: form_submitted_by

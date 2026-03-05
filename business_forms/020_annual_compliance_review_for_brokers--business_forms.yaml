@@ -51,10 +51,10 @@ inputSchema:
       hint: Which year is this review for?
       type: select_one
       options:
-      - 2026
-      - 2025
-      - 2024
-      - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       required: true
     - id: 8
       name: registration_status
@@ -100,8 +100,8 @@ inputSchema:
       hint: Any regulatory actions or disclosures?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: disclosure_details
@@ -116,8 +116,8 @@ inputSchema:
       hint: Any customer complaints this year?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: complaint_details
@@ -134,7 +134,7 @@ inputSchema:
       options:
       - Yes, Disclosed
       - Yes, Not Disclosed
-      - false
+      - 'False'
       required: true
     - id: 16
       name: outside_activity_details
@@ -149,8 +149,8 @@ inputSchema:
       hint: Any bankruptcies or liens?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: financial_details
@@ -165,8 +165,8 @@ inputSchema:
       hint: Any criminal charges or convictions?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: criminal_details
@@ -183,7 +183,7 @@ inputSchema:
       options:
       - Yes, All Training
       - Partially
-      - false
+      - 'False'
       required: true
     - id: 22
       name: training_topics
@@ -208,7 +208,7 @@ inputSchema:
       options:
       - Yes, All Policies
       - Partially
-      - false
+      - 'False'
       required: true
     - id: 24
       name: attestation
@@ -217,7 +217,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Attest
-      - false
+      - 'False'
       required: true
     - id: 25
       name: signature_date

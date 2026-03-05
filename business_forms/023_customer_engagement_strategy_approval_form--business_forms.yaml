@@ -4,176 +4,115 @@ inputSchema:
     title: customer-engagement-strategy-approval-form
     pages:
     - id: 1
-      name: customer_engagement_strategy_approval_form
-      label: customer_engagement_strategy_approval_form
+      name: customer_engagement_strategy
+      label: What is the customer's engagement strategy?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: customer_engagement_strategy
-      label: customer_engagement_strategy
+      name: customer
+      label: Who is the customer?
       hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Fair
+      type: text
+      options: []
       required: false
     - id: 3
-      name: customer
-      label: customer
+      name: customer_name
+      label: Do you have a customer name associated with this engagement strategy?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 4
-      name: customer_name
-      label: customer_name
+      name: customer_email
+      label: Do you have a customer email associated with this engagement strategy?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
-      name: customer_name
-      label: customer_name
+      name: customer_phone
+      label: What is the customer's phone number?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 6
-      name: customer_name
-      label: customer_name
+      name: customer_address
+      label: Do you have a customer address associated with this engagement strategy?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 7
-      name: customer_email
-      label: customer_email
+      name: edit_customer_address
+      label: Do you want to allow the customer to edit their address associated with
+        this engagement strategy?
       hint: null
-      type: email
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: customer_email
-      label: customer_email
+      name: customer_note
+      label: What is the customer's note about this engagement strategy?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 9
-      name: customer_phone
-      label: customer_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: customer_phone
-      label: customer_phone
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: customer_address
-      label: customer_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: customer_address
-      label: customer_address
+      name: edit_customer_note
+      label: Do you want to allow the customer to edit their note associated with
+        this engagement strategy?
       hint: null
       type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: customer_date
+      label: Do you have a customer note associated with this engagement strategy?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: customer_time
+      label: Do you have a customer time associated with this engagement strategy?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: customer_checkbox
+      label: Do you want to allow the customer to edit their engagement strategy and
+        address and note?
+      hint: null
+      type: checkbox
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 13
-      name: customer_address
-      label: customer_address
+      name: customer_radio
+      label: Do you want to allow the customer to select one of the engagement strategies
+        above?
       hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: customer_address
-      label: customer_address
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: customer_address
-      label: customer_address
-      hint: null
-      type: select_multiple
+      type: radio
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: customer_note
-      label: customer_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: customer_note
-      label: customer_note
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: customer_note
-      label: customer_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: customer_note
-      label: customer_note
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: customer_note
-      label: customer_note
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: customer_note
-      label: customer_note
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: customer_note
-      label: customer_note
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      - Option A
+      - Option B
       required: false

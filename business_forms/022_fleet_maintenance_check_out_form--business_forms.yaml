@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''oil_change'', ''label'': ''Oil Change''}'
-      - '{''name'': ''tire_rotation'', ''label'': ''Tire Rotation''}'
-      - '{''name'': ''tire_inspection'', ''label'': ''Tire Inspection''}'
+      - Oil Change
+      - Tire Rotation
+      - Tire Inspection
       required: false
     - id: 4
       name: vehicle_condition
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''good'', ''label'': ''Good''}'
-      - '{''name'': ''bad'', ''label'': ''Bad''}'
-      - '{''name'': ''fair'', ''label'': ''Fair''}'
+      - Good
+      - Bad
+      - Fair
       required: true
     - id: 5
       name: vehicle_condition_note
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''completed'', ''label'': ''Completed''}'
-      - '{''name'': ''pending'', ''label'': ''Pending''}'
-      - '{''name'': ''cancelled'', ''label'': ''Cancelled''}'
+      - Completed
+      - Pending
+      - Cancelled
       required: false
     - id: 7
       name: technician_name
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''label'': True}'
-      - '{''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: comments
@@ -90,8 +90,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''user1'', ''label'': ''User 1''}'
-      - '{''name'': ''user2'', ''label'': ''User 2''}'
+      - User 1
+      - User 2
       required: false
     - id: 12
       name: due_date

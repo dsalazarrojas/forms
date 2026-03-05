@@ -12,31 +12,24 @@ inputSchema:
       required: true
     - id: 2
       name: risk_level
-      label: risk_level
+      label: What is your risk level?
       hint: null
       type: select_one
       options:
       - low
       - medium
       - high
-      required: false
+      required: true
     - id: 3
-      name: risk_manager
-      label: Risk Manager
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: description
-      label: Description
+      label: Describe the risk
       hint: null
       type: note
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: risk_type
-      label: Risk Type
+      label: What is the risk type?
       hint: null
       type: select_multiple
       options:
@@ -48,10 +41,10 @@ inputSchema:
       - legal
       - regulatory
       - technological
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: frequency
-      label: Frequency
+      label: How often does this risk occur?
       hint: null
       type: select_one
       options:
@@ -60,10 +53,10 @@ inputSchema:
       - monthly
       - quarterly
       - annually
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: severity
-      label: Severity
+      label: How severe is this risk?
       hint: null
       type: select_one
       options:
@@ -71,169 +64,35 @@ inputSchema:
       - medium
       - high
       - critical
-      required: false
-    - id: 8
-      name: mitigation
-      label: Mitigation
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 7
       name: risk_manager_email
-      label: Risk Manager's Email
+      label: What is your email address?
       hint: null
       type: email
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 8
       name: risk_manager_phone
-      label: Risk Manager's Phone
+      label: What is your phone number?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: risk_level_2
-      label: risk_level
-      hint: null
-      type: select_one
-      options:
-      - low
-      - medium
-      - high
-      required: false
-    - id: 12
-      name: risk_status
-      label: Status
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: risk_status_2
-      label: Risk Status
+      required: true
+    - id: 9
+      name: status
+      label: What is your status for this risk?
       hint: null
       type: select_one
       options:
       - open
-      - in_progress
+      - in progress
       - closed
-      required: false
-    - id: 14
+      required: true
+    - id: 10
       name: comments
       label: Comments
       hint: null
       type: note
       options: []
-      required: false
-    - id: 15
-      name: risk_status_2
-      label: Status
-      hint: null
-      type: select_one
-      options:
-      - open
-      - in_progress
-      - closed
-      required: false
-    - id: 16
-      name: risk_status_3
-      label: Risk Status
-      hint: null
-      type: select_one
-      options:
-      - open
-      - in_progress
-      - closed
-      required: false
-    - id: 17
-      name: risk_status_4
-      label: Status
-      hint: null
-      type: select_one
-      options:
-      - open
-      - in_progress
-      - closed
-      required: false
-    - id: 18
-      name: risk_status_5
-      label: Risk Status
-      hint: null
-      type: select_one
-      options:
-      - open
-      - in_progress
-      - closed
-      required: false
-    - id: 19
-      name: risk_status_6
-      label: Status
-      hint: null
-      type: select_one
-      options:
-      - open
-      - in_progress
-      - closed
-      required: false
-    - id: 20
-      name: risk_status_7
-      label: Risk Status
-      hint: null
-      type: select_one
-      options:
-      - open
-      - in_progress
-      - closed
-      required: false
-    - id: 21
-      name: risk_status_8
-      label: Status
-      hint: null
-      type: select_one
-      options:
-      - open
-      - in_progress
-      - closed
-      required: false
-    - id: 22
-      name: risk_status_9
-      label: Status
-      hint: null
-      type: select_one
-      options:
-      - open
-      - in_progress
-      - closed
-      required: false
-    - id: 23
-      name: risk_status_10
-      label: Status
-      hint: null
-      type: select_one
-      options:
-      - open
-      - in_progress
-      - closed
-      required: false
-    - id: 24
-      name: risk_status_11
-      label: Risk Status
-      hint: null
-      type: select_one
-      options:
-      - open
-      - in_progress
-      - closed
-      required: false
-    - id: 25
-      name: risk_status_12
-      label: Status
-      hint: null
-      type: select_one
-      options:
-      - open
-      - in_progress
-      - closed
       required: false

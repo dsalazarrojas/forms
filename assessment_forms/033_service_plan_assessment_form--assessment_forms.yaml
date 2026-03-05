@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In-person''}'
-      - '{''id'': 2, ''label'': ''Online''}'
-      - '{''id'': 3, ''label'': ''Phone''}'
+      - In-person
+      - Online
+      - Phone
       required: false
     - id: 6
       name: service_plan_type
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Standard''}'
-      - '{''id'': 2, ''label'': ''Custom''}'
-      - '{''id'': 3, ''label'': ''Premium''}'
+      - Standard
+      - Custom
+      - Premium
       required: true
     - id: 7
       name: date
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: true
     - id: 17
       name: submitter_name

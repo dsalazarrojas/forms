@@ -4,135 +4,161 @@ inputSchema:
     title: icu_skills_assessment
     pages:
     - id: 1
-      name: introduction
-      label: introduction
+      name: icu_skills_assessment_1
+      label: Basic Life Support
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - CPR
+      - Intubation
+      - Ventilation
+      - Others
       required: false
     - id: 2
-      name: basic_life_support
-      label: basic life support
+      name: icu_skills_assessment_2
+      label: Airway Management
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Intubation
+      - Ventilation
+      - Oxygenation
       required: false
     - id: 3
-      name: basic_life_support_1
-      label: airway
+      name: icu_skills_assessment_3
+      label: Medical Complications Identification
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Hypertension
+      - Hypoglycemia
+      - Hypoxemia
+      - others
       required: false
     - id: 4
-      name: airway_2
-      label: airway
+      name: icu_skills_assessment_4
+      label: Cardiac Care
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Monitoring
+      - Interventions
+      - Medecine
       required: false
     - id: 5
-      name: airway_3
-      label: airway
+      name: icu_skills_assessment_5
+      label: Respiratory Care
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Ventilation
+      - Oxygenation
+      - Pneumonia
       required: false
     - id: 6
-      name: airway_4
-      label: airway
+      name: icu_skills_assessment_6
+      label: Neurological Care
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 7
-      name: medical_complications
-      label: medical complications
+      name: icu_skills_assessment_7
+      label: Cardiovascular Care
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Monitoring
+      - Interventions
+      - Medecine
       required: false
     - id: 8
-      name: cardiac
-      label: cardiac
+      name: icu_skills_assessment_8
+      label: Trauma Care
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Triage
+      - Resuscitation
+      - Surgery
       required: false
     - id: 9
-      name: respiratory
-      label: respiratory
+      name: icu_skills_assessment_9
+      label: General Principles of Care
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Communication
+      - Teamwork
+      - Decision Making
       required: false
     - id: 10
-      name: neurological
-      label: neurological
+      name: icu_skills_assessment_10
+      label: Prioritization and Management of Care
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Assess
+      - Plan
+      - Intervention
       required: false
     - id: 11
-      name: cardiovascular
-      label: cardiovascular
+      name: icu_skills_assessment_11
+      label: Airway Care
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Intubation
+      - Ventilation
+      - Oxygenation
       required: false
     - id: 12
-      name: medical_complications_2
-      label: medical complications 2
+      name: icu_skills_assessment_12
+      label: Medication Management
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Administer
+      - Monitor
+      - Titrate
       required: false
     - id: 13
-      name: trauma
-      label: trauma
+      name: icu_skills_assessment_13
+      label: Patient Safety
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Fall Prevention
+      - Ventilation
+      - Oxygenation
       required: false
     - id: 14
-      name: general_principles
-      label: general principles
+      name: icu_skills_assessment_14
+      label: Pain Management
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Administer
+      - Titrate
+      - Monitor
       required: false
     - id: 15
-      name: trauma_2
-      label: trauma
+      name: icu_skills_assessment_15
+      label: Sedation
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Administer
+      - Monitor
+      - Titrate
+      required: false
+    - id: 16
+      name: icu_skills_assessment_16
+      label: Error Identification and Management
+      hint: null
+      type: select_multiple
+      options:
+      - Recognize
+      - Report
+      - Correct
       required: false

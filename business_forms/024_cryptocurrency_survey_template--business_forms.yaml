@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''CEO''}'
-      - '{''value'': ''Developer''}'
-      - '{''value'': ''Researcher''}'
-      - '{''value'': ''Other''}'
+      - CEO
+      - Developer
+      - Researcher
+      - Other
       required: false
     - id: 3
       name: question_2
@@ -27,8 +27,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: question_3
@@ -36,10 +36,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_likely''}'
-      - '{''value'': ''somewhat_likely''}'
-      - '{''value'': ''not_likely''}'
-      - '{''value'': ''not_at_all''}'
+      - very likely
+      - somewhat likely
+      - not likely
+      - not at all
       required: false
     - id: 5
       name: question_4
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_likely''}'
-      - '{''value'': ''somewhat_likely''}'
-      - '{''value'': ''not_likely''}'
-      - '{''value'': ''not_at_all''}'
+      - very likely
+      - somewhat likely
+      - not likely
+      - not at all
       required: false
     - id: 6
       name: question_5
@@ -58,10 +58,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''beginner''}'
-      - '{''value'': ''intermediate''}'
-      - '{''value'': ''advanced''}'
-      - '{''value'': ''expert''}'
+      - beginner
+      - intermediate
+      - advanced
+      - expert
       required: false
     - id: 7
       name: question_6
@@ -69,10 +69,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_concerned''}'
-      - '{''value'': ''somewhat_concerned''}'
-      - '{''value'': ''not_concerned''}'
-      - '{''value'': ''not_at_all_concerned''}'
+      - very concerned
+      - somewhat concerned
+      - not concerned
+      - not at all concerned
       required: false
     - id: 8
       name: question_7
@@ -80,10 +80,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Binance''}'
-      - '{''value'': ''Coinbase''}'
-      - '{''value'': ''Kraken''}'
-      - '{''value'': ''Other''}'
+      - Binance
+      - Coinbase
+      - Kraken
+      - Other
       required: false
     - id: 9
       name: question_8
@@ -91,10 +91,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''buy_and_hold''}'
-      - '{''value'': ''trade''}'
-      - '{''value'': ''hold_back''}'
-      - '{''value'': ''not_invested''}'
+      - buy and hold
+      - trade
+      - hold back
+      - not invested
       required: false
     - id: 10
       name: question_9
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''frequently''}'
-      - '{''value'': ''rarely''}'
-      - '{''value'': ''never''}'
+      - frequently
+      - rarely
+      - never
       required: false
     - id: 11
       name: question_10
@@ -140,9 +140,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''frequently''}'
-      - '{''value'': ''rarely''}'
-      - '{''value'': ''never''}'
+      - frequently
+      - rarely
+      - never
       required: false
     - id: 16
       name: question_15
@@ -150,8 +150,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: question_16
@@ -166,9 +166,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''hardware''}'
-      - '{''value'': ''software''}'
-      - '{''value'': ''paper''}'
+      - hardware
+      - software
+      - paper
       required: false
     - id: 19
       name: question_18
@@ -176,8 +176,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: question_20
@@ -185,8 +185,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: question_21
@@ -194,8 +194,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: question_22
@@ -203,8 +203,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: question_23
@@ -212,8 +212,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: question_24
@@ -221,8 +221,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: question_25
@@ -230,6 +230,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false

@@ -108,8 +108,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Both pediatric and adult
       required: true
     - id: 13
@@ -170,7 +170,7 @@ inputSchema:
       - Yes, completed
       - In progress
       - Will complete before start date
-      - false
+      - 'False'
       required: true
     - id: 21
       name: start_date
@@ -193,7 +193,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I agree
-      - false
+      - 'False'
       required: true
     - id: 24
       name: security_policy
@@ -202,7 +202,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, reviewed
-      - false
+      - 'False'
       required: true
     - id: 25
       name: additional_notes

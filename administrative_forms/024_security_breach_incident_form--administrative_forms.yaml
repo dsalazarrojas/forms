@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Unauthorized Access''}'
-      - '{''id'': 2, ''label'': ''Data Breach''}'
-      - '{''id'': 3, ''label'': ''Phishing''}'
-      - '{''id'': 4, ''label'': ''Malware''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Unauthorized Access
+      - Data Breach
+      - Phishing
+      - Malware
+      - Other
       required: false
     - id: 6
       name: severity_of_incident
@@ -49,10 +49,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Low''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''High''}'
-      - '{''id'': 4, ''label'': ''Critical''}'
+      - Low
+      - Medium
+      - High
+      - Critical
       required: false
     - id: 7
       name: incident_reporter

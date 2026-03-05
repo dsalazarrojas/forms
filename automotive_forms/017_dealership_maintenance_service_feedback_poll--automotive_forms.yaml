@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Service Visit'', ''value'': ''Service Visit''}'
-      - '{''id'': 2, ''label'': ''Oil Change'', ''value'': ''Oil Change''}'
-      - '{''id'': 3, ''label'': ''Tire Change'', ''value'': ''Tire Change''}'
+      - Service Visit
+      - Oil Change
+      - Tire Change
       required: false
     - id: 4
       name: rating_service
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John'', ''value'': ''John''}'
-      - '{''id'': 2, ''label'': ''Jane'', ''value'': ''Jane''}'
+      - John
+      - Jane
       required: false
     - id: 9
       name: date_of_visit
@@ -147,9 +147,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Call'', ''value'': ''Call''}'
-      - '{''id'': 2, ''label'': ''Email'', ''value'': ''Email''}'
-      - '{''id'': 3, ''label'': ''Message'', ''value'': ''Message''}'
+      - Call
+      - Email
+      - Message
       required: false
     - id: 21
       name: follow_up_message

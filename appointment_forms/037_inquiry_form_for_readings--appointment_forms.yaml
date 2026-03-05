@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: schedule_call_back_other
@@ -116,13 +116,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      - '{''id'': 4, ''label'': ''Thursday''}'
-      - '{''id'': 5, ''label'': ''Friday''}'
-      - '{''id'': 6, ''label'': ''Saturday''}'
-      - '{''id'': 7, ''label'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 17
       name: available_time
@@ -130,22 +130,22 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''8:00 AM''}'
-      - '{''id'': 2, ''label'': ''9:00 AM''}'
-      - '{''id'': 3, ''label'': ''10:00 AM''}'
-      - '{''id'': 4, ''label'': ''11:00 AM''}'
-      - '{''id'': 5, ''label'': ''12:00 PM''}'
-      - '{''id'': 6, ''label'': ''1:00 PM''}'
-      - '{''id'': 7, ''label'': ''2:00 PM''}'
-      - '{''id'': 8, ''label'': ''3:00 PM''}'
-      - '{''id'': 9, ''label'': ''4:00 PM''}'
-      - '{''id'': 10, ''label'': ''5:00 PM''}'
-      - '{''id'': 11, ''label'': ''6:00 PM''}'
-      - '{''id'': 12, ''label'': ''7:00 PM''}'
-      - '{''id'': 13, ''label'': ''8:00 PM''}'
-      - '{''id'': 14, ''label'': ''9:00 PM''}'
-      - '{''id'': 15, ''label'': ''10:00 PM''}'
-      - '{''id'': 16, ''label'': ''11:00 PM''}'
+      - 8:00 AM
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      - 5:00 PM
+      - 6:00 PM
+      - 7:00 PM
+      - 8:00 PM
+      - 9:00 PM
+      - 10:00 PM
+      - 11:00 PM
       required: false
     - id: 18
       name: available_time_range
@@ -153,41 +153,41 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''8:00 AM - 10:00 AM''}'
-      - '{''id'': 2, ''label'': ''10:00 AM - 12:00 PM''}'
-      - '{''id'': 3, ''label'': ''12:00 PM - 2:00 PM''}'
-      - '{''id'': 4, ''label'': ''2:00 PM - 4:00 PM''}'
-      - '{''id'': 5, ''label'': ''4:00 PM - 6:00 PM''}'
-      - '{''id'': 6, ''label'': ''6:00 PM - 8:00 PM''}'
-      - '{''id'': 7, ''label'': ''8:00 PM - 10:00 PM''}'
-      - '{''id'': 8, ''label'': ''10:00 PM - 12:00 AM''}'
+      - 8:00 AM - 10:00 AM
+      - 10:00 AM - 12:00 PM
+      - 12:00 PM - 2:00 PM
+      - 2:00 PM - 4:00 PM
+      - 4:00 PM - 6:00 PM
+      - 6:00 PM - 8:00 PM
+      - 8:00 PM - 10:00 PM
+      - 10:00 PM - 12:00 AM
       required: false
     - id: 19
-      name: schedule_call_back
-      label: Schedule Call Back
+      name: schedule_call_back_2
+      label: Schedule Call Back 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
-      name: schedule_call_back_other
-      label: Schedule Call Back Other
+      name: schedule_call_back_other_2
+      label: Schedule Call Back Other 2
       hint: null
       type: text
       options: []
       required: false
     - id: 21
-      name: schedule_call_back_date
-      label: Schedule Call Back Date
+      name: schedule_call_back_date_2
+      label: Schedule Call Back Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 22
-      name: schedule_call_back_time
-      label: Schedule Call Back Time
+      name: schedule_call_back_time_2
+      label: Schedule Call Back Time 2
       hint: null
       type: time
       options: []

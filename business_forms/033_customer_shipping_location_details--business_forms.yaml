@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy'', ''value'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''other'', ''value'': ''other''}'
+      - chatjimmy
+      - other
       required: false
     - id: 11
       name: created_by
@@ -81,7 +81,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''user1'', ''value'': ''user1''}'
-      - '{''id'': 2, ''label'': ''user2'', ''value'': ''user2''}'
-      - '{''id'': 3, ''label'': ''user3'', ''value'': ''user3''}'
+      - user1
+      - user2
+      - user3
       required: false

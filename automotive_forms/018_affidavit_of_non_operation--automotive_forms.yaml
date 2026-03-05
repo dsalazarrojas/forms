@@ -187,8 +187,8 @@ inputSchema:
       hint: Is the vehicle currently insured?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Cancelled
       - Suspended
       required: true
@@ -217,8 +217,8 @@ inputSchema:
         on public roads during the specified period
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: statement_no_claims
@@ -227,8 +227,8 @@ inputSchema:
         the non-operation period
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: statement_intent_to_resume
@@ -237,8 +237,8 @@ inputSchema:
         period ends
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Uncertain
       required: false
     - id: 24
@@ -248,8 +248,8 @@ inputSchema:
         accurate to the best of my knowledge
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: notarization_section
@@ -264,8 +264,8 @@ inputSchema:
       hint: Does this affidavit require notarization in your jurisdiction?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 27

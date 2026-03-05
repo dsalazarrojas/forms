@@ -205,8 +205,8 @@ inputSchema:
       hint: Off-campus use
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: off_campus_approval
@@ -234,8 +234,8 @@ inputSchema:
       hint: If applicable
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not Required
       required: false
     - id: 27
@@ -268,7 +268,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Agree
-      - false
+      - 'False'
       required: true
     - id: 31
       name: care_agreement
@@ -277,7 +277,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Agree
-      - false
+      - 'False'
       required: true
     - id: 32
       name: late_fee_acknowledgment
@@ -286,7 +286,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 33
       name: replacement_cost
@@ -295,7 +295,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 34
       name: booking_status

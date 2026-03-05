@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Project Manager''}'
-      - '{''value'': ''Project Manager and team members''}'
-      - '{''value'': ''Project Manager and all team members''}'
+      - Project Manager
+      - Project Manager and team members
+      - Project Manager and all team members
       required: true
     - id: 4
       name: project_management_maturity_level
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Beginner''}'
-      - '{''value'': ''Intermediate''}'
-      - '{''value'': ''Advanced''}'
-      - '{''value'': ''Expert''}'
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
       required: true
     - id: 5
       name: project_scope_and_purpose
@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Project with well-defined scope and purpose''}'
-      - '{''value'': ''Project with partially defined scope and purpose''}'
-      - '{''value'': ''Project with undefined scope and purpose''}'
+      - Project with well-defined scope and purpose
+      - Project with partially defined scope and purpose
+      - Project with undefined scope and purpose
       required: true
     - id: 6
       name: project_phases_and_activities
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Multiple phases with well-defined activities''}'
-      - '{''value'': ''Multiple phases with partially defined activities''}'
-      - '{''value'': ''Single phase with well-defined activities''}'
+      - Multiple phases with well-defined activities
+      - Multiple phases with partially defined activities
+      - Single phase with well-defined activities
       required: true
     - id: 7
       name: project_management_process_improvement
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Strongly agree''}'
-      - '{''value'': ''Neutral''}'
-      - '{''value'': ''Strongly disagree''}'
+      - Strongly agree
+      - Neutral
+      - Strongly disagree
       required: true
     - id: 8
       name: project_management_process_innovation
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Strongly agree''}'
-      - '{''value'': ''Neutral''}'
-      - '{''value'': ''Strongly disagree''}'
+      - Strongly agree
+      - Neutral
+      - Strongly disagree
       required: true
     - id: 9
       name: project_management_process_innovation_plan
@@ -84,8 +84,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: project_management_process_innovation_implemented
@@ -93,8 +93,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: project_management_process_innovation_success
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Strongly agree''}'
-      - '{''value'': ''Neutral''}'
-      - '{''value'': ''Strongly disagree''}'
+      - Strongly agree
+      - Neutral
+      - Strongly disagree
       required: true
     - id: 12
       name: project_management_process_innovation_sustainability
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Strongly agree''}'
-      - '{''value'': ''Neutral''}'
-      - '{''value'': ''Strongly disagree''}'
+      - Strongly agree
+      - Neutral
+      - Strongly disagree
       required: true
     - id: 13
       name: project_management_process_innovation_adoption
@@ -122,9 +122,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Strongly agree''}'
-      - '{''value'': ''Neutral''}'
-      - '{''value'': ''Strongly disagree''}'
+      - Strongly agree
+      - Neutral
+      - Strongly disagree
       required: true
     - id: 14
       name: project_management_process_innovation_sustainability_roadmap
@@ -132,8 +132,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: project_management_process_innovation_sustainability_plan
@@ -141,8 +141,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: project_management_process_innovation_sustainability_roadmap_implemented
@@ -150,8 +150,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: project_management_process_innovation_sustainability_success
@@ -159,9 +159,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Strongly agree''}'
-      - '{''value'': ''Neutral''}'
-      - '{''value'': ''Strongly disagree''}'
+      - Strongly agree
+      - Neutral
+      - Strongly disagree
       required: true
     - id: 18
       name: organizational_change_adoption
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Strongly agree''}'
-      - '{''value'': ''Neutral''}'
-      - '{''value'': ''Strongly disagree''}'
+      - Strongly agree
+      - Neutral
+      - Strongly disagree
       required: true
     - id: 19
       name: project_management_process_innovation_roadmap
@@ -179,36 +179,37 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 20
-      name: project_management_process_innovation_sustainability_roadmap
-      label: Project Management Process Innovation Sustainability Roadmap
+      name: project_management_process_innovation_sustainability_roadmap_2
+      label: Project Management Process Innovation Sustainability Roadmap 2
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 21
-      name: project_management_process_innovation_sustainability_roadmap_implemented
+      name: project_management_process_innovation_sustainability_roadmap_implemented_2
       label: Project Management Process Innovation Sustainability Roadmap Implemented
+        2
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 22
-      name: project_management_process_innovation_sustainability_success
-      label: Project Management Process Innovation Sustainability Success
+      name: project_management_process_innovation_sustainability_success_2
+      label: Project Management Process Innovation Sustainability Success 2
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Strongly agree''}'
-      - '{''value'': ''Neutral''}'
-      - '{''value'': ''Strongly disagree''}'
+      - Strongly agree
+      - Neutral
+      - Strongly disagree
       required: true
     - id: 23
       name: project_management_process_innovation_sustainability_roadmap_sustainability
@@ -216,9 +217,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Strongly agree''}'
-      - '{''value'': ''Neutral''}'
-      - '{''value'': ''Strongly disagree''}'
+      - Strongly agree
+      - Neutral
+      - Strongly disagree
       required: true
     - id: 24
       name: project_management_process_innovation_sustainability_success_implemented
@@ -226,17 +227,17 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 25
-      name: project_management_process_innovation_sustainability_success_implemented
+      name: project_management_process_innovation_sustainability_success_implemented_2
       label: Project Management Process Innovation Success Implemented
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 26
       name: organizational_change_adoption_implemented
@@ -244,8 +245,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 27
       name: organizational_change_adoption_success
@@ -253,7 +254,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Strongly agree''}'
-      - '{''value'': ''Neutral''}'
-      - '{''value'': ''Strongly disagree''}'
+      - Strongly agree
+      - Neutral
+      - Strongly disagree
       required: false

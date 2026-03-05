@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      - '{''id'': 4, ''label'': ''Thursday''}'
-      - '{''id'': 5, ''label'': ''Friday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
       required: true
     - id: 4
       name: start_date
@@ -70,10 +70,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Walking''}'
-      - '{''id'': 2, ''label'': ''Feeding''}'
-      - '{''id'': 3, ''label'': ''Bathing''}'
-      - '{''id'': 4, ''label'': ''Training''}'
+      - Walking
+      - Feeding
+      - Bathing
+      - Training
       required: false
     - id: 10
       name: notes
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cash''}'
-      - '{''id'': 2, ''label'': ''Card''}'
-      - '{''id'': 3, ''label'': ''PayPal''}'
+      - Cash
+      - Card
+      - PayPal
       required: true
     - id: 14
       name: payment_details

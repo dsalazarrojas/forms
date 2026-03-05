@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 100, ''name'': ''hotel'', ''value'': ''hotel''}'
-      - '{''id'': 101, ''name'': ''event-space'', ''value'': ''event-space''}'
-      - '{''id'': 102, ''name'': ''other'', ''value'': ''other''}'
+      - hotel
+      - event-space
+      - other
       required: false
     - id: 9
       name: event_description
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 200, ''name'': ''catering'', ''value'': ''catering''}'
-      - '{''id'': 201, ''name'': ''accommodations'', ''value'': ''accommodations''}'
-      - '{''id'': 202, ''name'': ''other'', ''value'': ''other''}'
+      - catering
+      - accommodations
+      - other
       required: false
     - id: 12
       name: event_status
@@ -92,7 +92,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 300, ''name'': ''booked'', ''value'': ''booked''}'
-      - '{''id'': 301, ''name'': ''pending'', ''value'': ''pending''}'
-      - '{''id'': 302, ''name'': ''cancelled'', ''value'': ''cancelled''}'
+      - booked
+      - pending
+      - cancelled
       required: false

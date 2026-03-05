@@ -14,7 +14,7 @@ inputSchema:
       name: form_id
       label: Form Id
       hint: null
-      type: integer
+      type: number
       options: []
       required: true
     - id: 3
@@ -25,7 +25,7 @@ inputSchema:
       options: []
       required: false
     - id: 4
-      name: form_name
+      name: form_name_2
       label: Form Name
       hint: null
       type: text
@@ -37,36 +37,38 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - general
+      - Option A
+      - Option B
       required: true
     - id: 6
       name: form_description
-      label: Description
+      label: Form Description
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: form_id
-      label: Form Id
+      name: form_id_2
+      label: Form Id 2
       hint: null
-      type: integer
+      type: number
       options: []
       required: false
     - id: 8
-      name: description
-      label: Description
+      name: description_2
+      label: Description 2
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: category
-      label: Category
+      name: category_2
+      label: Category 2
       hint: null
       type: select_one
       options:
-      - general
+      - Option A
+      - Option B
       required: false
     - id: 10
       name: contact_email
@@ -79,7 +81,7 @@ inputSchema:
       name: contact_number
       label: Contact Number
       hint: null
-      type: phone
+      type: text
       options: []
       required: true
     - id: 12

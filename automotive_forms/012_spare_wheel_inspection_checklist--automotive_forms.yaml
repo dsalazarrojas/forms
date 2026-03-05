@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''label'': ''None'', ''value'': ''''}'
-      - '{''id'': 1, ''label'': ''Spare Wheel'', ''value'': ''spare_wheel''}'
-      - '{''id'': 2, ''label'': ''Temporary Spare Wheel'', ''value'': ''temporary_spare_wheel''}'
-      - '{''id'': 3, ''label'': ''Full Wheel'', ''value'': ''full_wheel''}'
+      - None
+      - Spare Wheel
+      - Temporary Spare Wheel
+      - Full Wheel
       required: false
     - id: 3
       name: condition
@@ -27,11 +27,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''label'': ''None'', ''value'': ''''}'
-      - '{''id'': 1, ''label'': ''Clean'', ''value'': ''clean''}'
-      - '{''id'': 2, ''label'': ''Dirty'', ''value'': ''dirty''}'
-      - '{''id'': 3, ''label'': ''Damaged'', ''value'': ''damaged''}'
-      - '{''id'': 4, ''label'': ''Missing'', ''value'': ''missing''}'
+      - None
+      - Clean
+      - Dirty
+      - Damaged
+      - Missing
       required: false
     - id: 4
       name: mileage
@@ -67,6 +67,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''label'': ''None'', ''value'': ''''}'
-      - '{''id'': 1, ''label'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - None
+      - chatjimmy
       required: false

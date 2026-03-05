@@ -4,15 +4,15 @@ inputSchema:
     title: Gym Cross Training Tournament Entry Form
     pages:
     - id: 1
-      name: athlete_info
-      label: athlete_info
+      name: athlete_info_form
+      label: Athlete Information
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: division
-      label: division
+      name: division_form
+      label: Division
       hint: null
       type: select_one
       options:
@@ -21,10 +21,10 @@ inputSchema:
       - Advanced
       required: true
     - id: 3
-      name: weight_class
-      label: weight_class
+      name: weight_class_form
+      label: Weight Class
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - Lightweight
       - Middleweight
@@ -32,15 +32,15 @@ inputSchema:
       - All-Weight
       required: true
     - id: 4
-      name: tournament_date
-      label: tournament_date
+      name: tournament_date_form
+      label: Tournament Date
       hint: null
       type: date
       options: []
       required: true
     - id: 5
-      name: event_checkin
-      label: event_checkin
+      name: event_checkin_form
+      label: Event Check-in
       hint: null
       type: select_one
       options:
@@ -48,155 +48,62 @@ inputSchema:
       - 'False'
       required: true
     - id: 6
-      name: registration_date
-      label: registration_date
+      name: event_name_form
+      label: Event Name
       hint: null
-      type: date
+      type: text
       options: []
       required: true
     - id: 7
-      name: event_name
-      label: event_name
+      name: gym_id_form
+      label: Gym ID
       hint: null
       type: text
       options: []
       required: true
     - id: 8
-      name: gym_id
-      label: gym_id
+      name: tournament_id_form
+      label: Tournament ID
       hint: null
       type: text
       options: []
       required: true
     - id: 9
-      name: division_id
-      label: division_id
+      name: event_checkin_time_form
+      label: Event Check-in Time
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: time
+      options: []
+      required: true
     - id: 10
-      name: tournament_id
-      label: tournament_id
+      name: event_checkin_date_form
+      label: Event Check-in Date
       hint: null
-      type: text
+      type: date
       options: []
       required: true
     - id: 11
-      name: event_checkin_time
-      label: event_checkin_time
+      name: registration_form
+      label: Registration Date
       hint: null
-      type: time
+      type: date
       options: []
-      required: false
+      required: true
     - id: 12
-      name: event_checkin_date
-      label: event_checkin_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: event_checkin_time
-      label: event_checkin_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: tournament_date
-      label: tournament_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: event_id
-      label: event_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: division
-      label: division
-      hint: null
-      type: select_multiple
-      options:
-      - Beginner
-      - Intermediate
-      - Advanced
-      required: false
-    - id: 17
-      name: weight_class
-      label: weight_class
-      hint: null
-      type: select_multiple
-      options:
-      - Lightweight
-      - Middleweight
-      - Heavyweight
-      - All-Weight
-      required: false
-    - id: 18
-      name: athlete_info
-      label: athlete_info
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: event_name
-      label: event_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: gym_name
-      label: gym_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: event_checkin
-      label: event_checkin
+      name: event_checkin_form_2
+      label: Event Checkin Form 2
       hint: null
       type: select_multiple
       options:
       - 'True'
       - 'False'
-      required: false
-    - id: 22
-      name: tournament_id
-      label: tournament_id
+      required: true
+    - id: 13
+      name: athlete_info_form_2
+      label: Athlete Info Form 2
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: weight_class
-      label: weight_class
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: division_id
-      label: division_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: gym_id
-      label: gym_id
-      hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false

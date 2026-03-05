@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: Select all skills that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''skill_1''}'
-      - '{''id'': 2, ''label'': ''skill_2''}'
-      - '{''id'': 3, ''label'': ''skill_3''}'
+      - skill 1
+      - skill 2
+      - skill 3
       required: false
     - id: 3
       name: match_roles
@@ -37,9 +26,9 @@ inputSchema:
       hint: Select roles you are matched with
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''role_1''}'
-      - '{''id'': 2, ''label'': ''role_2''}'
-      - '{''id'': 3, ''label'': ''role_3''}'
+      - role 1
+      - role 2
+      - role 3
       required: false
     - id: 4
       name: additional_information

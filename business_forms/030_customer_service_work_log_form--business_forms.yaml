@@ -93,9 +93,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John''}'
-      - '{''id'': 2, ''label'': ''Jane''}'
-      - '{''id'': 3, ''label'': ''Joe''}'
+      - John
+      - Jane
+      - Joe
       required: true
     - id: 14
       name: customer_type
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Customer''}'
-      - '{''id'': 2, ''label'': ''Internal''}'
-      - '{''id'': 3, ''label'': ''External''}'
+      - Customer
+      - Internal
+      - External
       required: true
     - id: 15
       name: customer_category
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Customer''}'
-      - '{''id'': 2, ''label'': ''Non-Contactable''}'
+      - Customer
+      - Non-Contactable
       required: false
     - id: 16
       name: customer_status
@@ -122,9 +122,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''New''}'
-      - '{''id'': 2, ''label'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Resolved''}'
+      - New
+      - In Progress
+      - Resolved
       required: true
     - id: 17
       name: customer_priority
@@ -132,9 +132,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Normal''}'
-      - '{''id'': 2, ''label'': ''High''}'
-      - '{''id'': 3, ''label'': ''Urgent''}'
+      - Normal
+      - High
+      - Urgent
       required: true
     - id: 18
       name: customer_notes
@@ -156,9 +156,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Scheduled''}'
-      - '{''id'': 2, ''label'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Resolved''}'
+      - Scheduled
+      - In Progress
+      - Resolved
       required: false
     - id: 21
       name: customer_followup_notes
@@ -180,9 +180,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John''}'
-      - '{''id'': 2, ''label'': ''Jane''}'
-      - '{''id'': 3, ''label'': ''Joe''}'
+      - John
+      - Jane
+      - Joe
       required: false
     - id: 24
       name: customer_service_team

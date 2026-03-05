@@ -66,7 +66,7 @@ inputSchema:
       options:
       - Yes, on every level
       - Yes, but not on every level
-      - false
+      - 'False'
       - Not applicable
       required: true
     - id: 9
@@ -75,8 +75,8 @@ inputSchema:
       hint: Have smoke detectors been tested in the last month?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 10
@@ -85,8 +85,8 @@ inputSchema:
       hint: Is a carbon monoxide detector installed and functioning?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not applicable
       required: true
     - id: 11
@@ -97,7 +97,7 @@ inputSchema:
       options:
       - Yes, multiple locations
       - Yes, one location
-      - false
+      - 'False'
       required: true
     - id: 12
       name: electrical_outlets_covered
@@ -108,7 +108,7 @@ inputSchema:
       - Yes, all outlets
       - Some outlets
       - No outlets need covering
-      - false
+      - 'False'
       required: true
     - id: 13
       name: cords_secured
@@ -119,7 +119,7 @@ inputSchema:
       - Yes, all cords
       - Most cords
       - Some cords
-      - false
+      - 'False'
       required: true
     - id: 14
       name: chemicals_secured
@@ -130,7 +130,7 @@ inputSchema:
       - Yes, in locked cabinets
       - Yes, in high cabinets
       - Partially secured
-      - false
+      - 'False'
       required: true
     - id: 15
       name: medications_secured
@@ -141,7 +141,7 @@ inputSchema:
       - Yes, in locked container
       - Yes, in high cabinet
       - Partially secured
-      - false
+      - 'False'
       required: true
     - id: 16
       name: sharp_objects_secured
@@ -152,7 +152,7 @@ inputSchema:
       - Yes, all secured
       - Most secured
       - Some secured
-      - false
+      - 'False'
       required: true
     - id: 17
       name: furniture_anchored
@@ -163,7 +163,7 @@ inputSchema:
       - Yes, all heavy furniture
       - Some furniture
       - No furniture needs anchoring
-      - false
+      - 'False'
       required: true
     - id: 18
       name: window_guards_installed
@@ -174,7 +174,7 @@ inputSchema:
       - Yes, all windows
       - Some windows
       - No windows above ground level
-      - false
+      - 'False'
       required: true
     - id: 19
       name: stair_gates_installed
@@ -186,7 +186,7 @@ inputSchema:
       - Yes, top only
       - Yes, bottom only
       - No stairs in home
-      - false
+      - 'False'
       required: true
     - id: 20
       name: water_temperature_safe
@@ -194,8 +194,8 @@ inputSchema:
       hint: Is water heater set to 120 degrees Fahrenheit or below?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 21
@@ -220,7 +220,7 @@ inputSchema:
       - Yes, all areas checked
       - Yes, main areas checked
       - Partially
-      - false
+      - 'False'
       required: true
     - id: 23
       name: emergency_numbers_posted
@@ -231,7 +231,7 @@ inputSchema:
       - Yes, posted and saved in phone
       - Yes, posted only
       - Yes, saved in phone only
-      - false
+      - 'False'
       required: true
     - id: 24
       name: first_aid_kit_available
@@ -241,7 +241,7 @@ inputSchema:
       options:
       - Yes, multiple locations
       - Yes, one location
-      - false
+      - 'False'
       required: true
     - id: 25
       name: safety_concerns_identified

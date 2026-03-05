@@ -1,208 +1,153 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: e_commerce_audit_form
     pages:
     - id: 1
-      name: e_commerce_audit_form
-      label: e_commerce_audit_form
-      hint: null
+      name: business_name
+      label: What is the name of your business?
+      hint: Please enter your business name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: category
-      label: category
-      hint: null
+      name: business_category
+      label: What category does your business fall under?
+      hint: Choose one of the following options
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      - option_4
-      - option_5
-      required: false
+      - retail
+      - online store
+      - e-commerce
+      - wholesale
+      - other
+      required: true
     - id: 3
-      name: form_ids
-      label: form_ids
-      hint: null
+      name: website
+      label: What is your current website address?
+      hint: Enter your website URL
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: category_2
-      label: categories
-      hint: null
+      name: social_media
+      label: What is your current social media presence?
+      hint: Choose all that apply
       type: select_multiple
       options:
-      - option_1
-      - option_2
-      - option_3
-      - option_4
-      required: false
+      - Facebook
+      - Twitter
+      - Instagram
+      - LinkedIn
+      - YouTube
+      - TikTok
+      - Pinterest
+      - Other (please specify)
+      required: true
     - id: 5
-      name: description
-      label: description
-      hint: null
-      type: text
+      name: customer_satisfaction
+      label: What is your current customer satisfaction rating?
+      hint: On a scale of 1-10
+      type: number
       options: []
-      required: false
+      required: true
     - id: 6
-      name: category_3
-      label: categories
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      - option_4
-      required: false
+      name: sales_volume
+      label: What is your current sales volume?
+      hint: Please enter a numerical value
+      type: number
+      options: []
+      required: true
     - id: 7
-      name: form_ids_2
-      label: form_ids_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: output_file
-      label: output_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: description_2
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: categories
-      label: categories
-      hint: null
-      type: select_multiple
+      name: inventory_management
+      label: What is your current inventory management system?
+      hint: Choose one of the following options
+      type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      - option_4
-      required: false
+      - manual
+      - automated
+      - hybrid
+      - other
+      required: true
+    - id: 8
+      name: shipping_policy
+      label: What is your current shipping policy?
+      hint: Please enter a brief description
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payment_processing
+      label: What is your current payment processing system?
+      hint: Choose one of the following options
+      type: select_one
+      options:
+      - manual
+      - automated
+      - hybrid
+      - other
+      required: true
+    - id: 10
+      name: customer_service
+      label: What is your current customer service process?
+      hint: Please enter a brief description
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: marketing_strategy
+      label: What is your current marketing strategy?
+      hint: Choose one of the following options
+      type: select_one
+      options:
+      - social media
+      - email marketing
+      - content marketing
+      - influencer marketing
+      - other
+      required: true
     - id: 12
-      name: form_ids_3
-      label: form_ids_3
-      hint: null
+      name: goals_objectives
+      label: What are your current goals and objectives?
+      hint: Please enter a brief description
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: assigned_tool_2
-      label: assigned_tool_2
-      hint: null
+      name: target_audience
+      label: What is your target audience?
+      hint: Please enter a brief description
       type: text
       options: []
-      required: false
+      required: true
     - id: 14
-      name: description_3
-      label: description
-      hint: null
+      name: product_line
+      label: What is your current product line?
+      hint: Please enter a brief description
       type: text
       options: []
-      required: false
+      required: true
     - id: 15
-      name: output_file_2
-      label: output_file_2
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: pricing_strategy
+      label: What is your current pricing strategy?
+      hint: Choose one of the following options
+      type: select_one
+      options:
+      - dynamic
+      - fixed
+      - volume-based
+      - tiered
+      - other
+      required: true
     - id: 16
-      name: description_4
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: assigned_tool_3
-      label: assigned_tool_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: description_5
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: form_ids_4
-      label: form_ids
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: description_6
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: assigned_tool_4
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: description_7
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: description_8
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_ids_5
-      label: form_ids
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: description_9
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: shipping_frequency
+      label: What is your current shipping frequency?
+      hint: Choose one of the following options
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      - quarterly
+      - other
+      required: true

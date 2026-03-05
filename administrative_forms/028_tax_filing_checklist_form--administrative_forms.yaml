@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Employed''}'
-      - '{''label'': ''Self-Employed''}'
-      - '{''label'': ''Retired''}'
+      - Employed
+      - Self-Employed
+      - Retired
       required: true
     - id: 5
       name: tax_filing_status
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Single''}'
-      - '{''label'': ''Married''}'
-      - '{''label'': ''Head of Household''}'
+      - Single
+      - Married
+      - Head of Household
       required: true
     - id: 6
       name: income_verification
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''W-2''}'
-      - '{''label'': 1099}'
-      - '{''label'': ''Other''}'
+      - W-2
+      - '1099'
+      - Other
       required: true
     - id: 7
       name: tax_deduction

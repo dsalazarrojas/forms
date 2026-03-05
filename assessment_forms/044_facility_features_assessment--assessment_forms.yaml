@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Residential'', ''value'': ''Residential''}'
-      - '{''id'': 2, ''name'': ''Commercial'', ''value'': ''Commercial''}'
-      - '{''id'': 3, ''name'': ''Industrial'', ''value'': ''Industrial''}'
+      - Residential
+      - Commercial
+      - Industrial
       required: false
     - id: 5
       name: facility_features
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Parking Lot'', ''value'': ''Parking Lot''}'
-      - '{''id'': 2, ''name'': ''Restroom'', ''value'': ''Restroom''}'
-      - '{''id'': 3, ''name'': ''Elevator'', ''value'': ''Elevator''}'
-      - '{''id'': 4, ''name'': ''Security System'', ''value'': ''Security System''}'
+      - Parking Lot
+      - Restroom
+      - Elevator
+      - Security System
       required: false
     - id: 6
       name: total_floors
@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Brick'', ''value'': ''Brick''}'
-      - '{''id'': 2, ''name'': ''Concrete'', ''value'': ''Concrete''}'
-      - '{''id'': 3, ''name'': ''Steel'', ''value'': ''Steel''}'
-      - '{''id'': 4, ''name'': ''Glass'', ''value'': ''Glass''}'
+      - Brick
+      - Concrete
+      - Steel
+      - Glass
       required: false
     - id: 9
       name: electrical_systems
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Circuit Breaker'', ''value'': ''Circuit Breaker''}'
-      - '{''id'': 2, ''name'': ''Generator'', ''value'': ''Generator''}'
-      - '{''id'': 3, ''name'': ''Solar Panel'', ''value'': ''Solar Panel''}'
+      - Circuit Breaker
+      - Generator
+      - Solar Panel
       required: false
     - id: 10
       name: plumbing_systems
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Water Heater'', ''value'': ''Water Heater''}'
-      - '{''id'': 2, ''name'': ''Fire Hydrant'', ''value'': ''Fire Hydrant''}'
-      - '{''id'': 3, ''name'': ''Sump Pump'', ''value'': ''Sump Pump''}'
+      - Water Heater
+      - Fire Hydrant
+      - Sump Pump
       required: false
     - id: 11
       name: heating_and_cooling
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Central A/C'', ''value'': ''Central A/C''}'
-      - '{''id'': 2, ''name'': ''Radiant Heat'', ''value'': ''Radiant Heat''}'
-      - '{''id'': 3, ''name'': ''Heat Pump'', ''value'': ''Heat Pump''}'
+      - Central A/C
+      - Radiant Heat
+      - Heat Pump
       required: false
     - id: 12
       name: safety_systems
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Fire Alarm'', ''value'': ''Fire Alarm''}'
-      - '{''id'': 2, ''name'': ''Fire Suppression'', ''value'': ''Fire Suppression''}'
-      - '{''id'': 3, ''name'': ''Security Camera'', ''value'': ''Security Camera''}'
+      - Fire Alarm
+      - Fire Suppression
+      - Security Camera
       required: false
     - id: 13
       name: fire_safety_procedures
@@ -123,9 +123,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Fire Drill'', ''value'': ''Fire Drill''}'
-      - '{''id'': 2, ''name'': ''Emergency Exit'', ''value'': ''Emergency Exit''}'
-      - '{''id'': 3, ''name'': ''Evacuation Route'', ''value'': ''Evacuation Route''}'
+      - Fire Drill
+      - Emergency Exit
+      - Evacuation Route
       required: false
     - id: 15
       name: emergency_contact

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''phone''}'
-      - '{''value'': ''email''}'
-      - '{''value'': ''chat''}'
+      - phone
+      - email
+      - chat
       required: false
     - id: 5
       name: appointment_date
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1}'
-      - '{''value'': 2}'
-      - '{''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 9
       name: therapy_session_type
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''individual''}'
-      - '{''value'': ''couples''}'
-      - '{''value'': ''group''}'
+      - individual
+      - couples
+      - group
       required: false
     - id: 10
       name: therapy_session_frequency
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''regular''}'
-      - '{''value'': ''sporadic''}'
-      - '{''value'': ''as_needed''}'
+      - regular
+      - sporadic
+      - as needed
       required: false
     - id: 11
       name: therapy_session_status
@@ -91,7 +91,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''completed''}'
-      - '{''value'': ''cancelled''}'
+      - active
+      - completed
+      - cancelled
       required: false

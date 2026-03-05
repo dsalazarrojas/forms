@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Manager''}'
-      - '{''label'': ''Non-Manager''}'
+      - Manager
+      - Non-Manager
       required: false
     - id: 3
       name: job_category
@@ -36,9 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Sales''}'
-      - '{''label'': ''Marketing''}'
-      - '{''label'': ''Engineering''}'
+      - Sales
+      - Marketing
+      - Engineering
       required: false
     - id: 4
       name: job_position
@@ -88,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Programming''}'
-      - '{''label'': ''Marketing''}'
-      - '{''label'': ''Engineering''}'
+      - Programming
+      - Marketing
+      - Engineering
       required: true
     - id: 11
       name: job_status
@@ -98,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Open''}'
-      - '{''label'': ''Closed''}'
-      - '{''label'': ''Inactive''}'
+      - Open
+      - Closed
+      - Inactive
       required: true
     - id: 12
       name: assigned_to

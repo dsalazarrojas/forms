@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 4
       name: threat_type
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Cyber''}'
-      - '{''label'': ''Physical''}'
-      - '{''label'': ''Environmental''}'
+      - Cyber
+      - Physical
+      - Environmental
       required: false
     - id: 5
       name: threat_frequency
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Rare''}'
-      - '{''label'': ''Occasional''}'
-      - '{''label'': ''Frequent''}'
+      - Rare
+      - Occasional
+      - Frequent
       required: false
     - id: 6
       name: threat_probability
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Accept''}'
-      - '{''label'': ''Mitigate''}'
-      - '{''label'': ''Refuse''}'
+      - Accept
+      - Mitigate
+      - Refuse
       required: false
     - id: 8
       name: additional_comments

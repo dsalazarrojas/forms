@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''phone''}'
-      - '{''value'': ''email''}'
-      - '{''value'': ''other''}'
+      - phone
+      - email
+      - other
       required: false
     - id: 5
       name: contact_method_other
@@ -152,9 +152,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''completed''}'
-      - '{''value'': ''pending''}'
-      - '{''value'': ''not_visited''}'
+      - completed
+      - pending
+      - not visited
       required: false
     - id: 22
       name: home_visit_status_other
@@ -176,9 +176,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''completed''}'
-      - '{''value'': ''pending''}'
-      - '{''value'': ''not_completed''}'
+      - completed
+      - pending
+      - not completed
       required: false
     - id: 25
       name: follow_up_status_other

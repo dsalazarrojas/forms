@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''employed'', ''label'': ''employed''}'
-      - '{''value'': ''self_employed'', ''label'': ''self_employed''}'
-      - '{''value'': ''not_employed'', ''label'': ''not_employed''}'
+      - employed
+      - self employed
+      - not employed
       required: false
     - id: 6
       name: income_source
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''salary'', ''label'': ''salary''}'
-      - '{''value'': ''self_employed'', ''label'': ''self_employed''}'
-      - '{''value'': ''other'', ''label'': ''other''}'
+      - salary
+      - self employed
+      - other
       required: false
     - id: 7
       name: credit_score
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''own_home'', ''label'': ''own_home''}'
-      - '{''value'': ''rent'', ''label'': ''rent''}'
-      - '{''value'': ''invest'', ''label'': ''invest''}'
+      - own home
+      - rent
+      - invest
       required: false
     - id: 12
       name: home_ownership_goals
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''own_home'', ''label'': ''own_home''}'
-      - '{''value'': ''rent'', ''label'': ''rent''}'
-      - '{''value'': ''invest'', ''label'': ''invest''}'
+      - own home
+      - rent
+      - invest
       required: false
     - id: 13
       name: mortgage_funding
@@ -105,10 +105,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''conventional'', ''label'': ''conventional''}'
-      - '{''value'': ''fha'', ''label'': ''fha''}'
-      - '{''value'': ''va'', ''label'': ''va''}'
-      - '{''value'': ''other'', ''label'': ''other''}'
+      - conventional
+      - fha
+      - va
+      - other
       required: false
     - id: 14
       name: home_price
@@ -123,9 +123,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''no_banks'', ''label'': ''no_banks''}'
-      - '{''value'': ''3_banks'', ''label'': ''3_banks''}'
-      - '{''value'': ''5_banks'', ''label'': ''5_banks''}'
+      - no banks
+      - 3 banks
+      - 5 banks
       required: false
     - id: 16
       name: loan_amount
@@ -147,9 +147,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''none''}'
-      - '{''value'': 1, ''label'': 1}'
-      - '{''value'': 2, ''label'': 2}'
+      - none
+      - '1'
+      - '2'
       required: false
     - id: 19
       name: employment_history
@@ -157,9 +157,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': 0}'
-      - '{''value'': 1, ''label'': 1}'
-      - '{''value'': 2, ''label'': 2}'
+      - '0'
+      - '1'
+      - '2'
       required: false
     - id: 20
       name: employment_verification
@@ -167,8 +167,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''verified'', ''label'': ''verified''}'
-      - '{''value'': ''not_verified'', ''label'': ''not_verified''}'
+      - verified
+      - not verified
       required: false
     - id: 21
       name: income_verification
@@ -176,8 +176,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''verified'', ''label'': ''verified''}'
-      - '{''value'': ''not_verified'', ''label'': ''not_verified''}'
+      - verified
+      - not verified
       required: false
     - id: 22
       name: property_type
@@ -185,11 +185,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''single_family_home'', ''label'': ''single_family_home''}'
-      - '{''value'': ''single_family_home_with_mortgage'', ''label'': ''single_family_home_with_mortgage''}'
-      - '{''value'': ''townhome'', ''label'': ''townhome''}'
-      - '{''value'': ''condominium'', ''label'': ''condominium''}'
-      - '{''value'': ''other'', ''label'': ''other''}'
+      - single family home
+      - single family home with mortgage
+      - townhome
+      - condominium
+      - other
       required: false
     - id: 23
       name: property_location
@@ -197,9 +197,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''single_family_neighborhood'', ''label'': ''single_family_neighborhood''}'
-      - '{''value'': ''single_family_community'', ''label'': ''single_family_community''}'
-      - '{''value'': ''other'', ''label'': ''other''}'
+      - single family neighborhood
+      - single family community
+      - other
       required: false
     - id: 24
       name: property_size
@@ -207,10 +207,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''1-100'', ''label'': ''1-100''}'
-      - '{''value'': ''101-200'', ''label'': ''101-200''}'
-      - '{''value'': ''201-300'', ''label'': ''201-300''}'
-      - '{''value'': ''301-400'', ''label'': ''301-400''}'
+      - 1-100
+      - 101-200
+      - 201-300
+      - 301-400
       required: false
     - id: 25
       name: closing_process
@@ -218,6 +218,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''preapproval'', ''label'': ''preapproval''}'
-      - '{''value'': ''preapproval_with_credit_report'', ''label'': ''preapproval_with_credit_report''}'
+      - preapproval
+      - preapproval with credit report
       required: false

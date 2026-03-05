@@ -1,260 +1,251 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Botulinum Toxin Treatment Consent Form
     pages:
-      - id: 1
-        name: patient_name
-        label: Patient Name
-        hint: Full legal name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: date_of_birth
-        label: Date of Birth
-        hint: MM/DD/YYYY
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: treatment_date
-        label: Treatment Date
-        hint: Scheduled date of treatment
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: procedure_description
-        label: Procedure Description
-        hint: I understand this procedure involves injection of botulinum toxin
-        type: select_one
-        options:
-          - Yes, I understand
-          - No, I need more information
-        required: true
-      - id: 5
-        name: treatment_areas
-        label: Treatment Areas
-        hint: Select areas to be treated
-        type: select_multiple
-        options:
-          - Forehead lines
-          - Glabellar lines (frown lines)
-          - Crow's feet
-          - Bunny lines
-          - Lip lines
-          - Chin
-          - Jawline
-          - Neck bands
-          - Masseter muscles
-          - Underarms (hyperhidrosis)
-          - Other
-        required: true
-      - id: 6
-        name: risks_understood
-        label: Risks Understood
-        hint: I understand potential risks and side effects
-        type: select_one
-        options:
-          - Yes, I understand
-          - No, I need clarification
-        required: true
-      - id: 7
-        name: common_side_effects
-        label: Common Side Effects Acknowledged
-        hint: I understand common side effects include bruising, swelling, redness, and headache
-        type: select_one
-        options:
-          - Yes, I understand
-          - No
-        required: true
-      - id: 8
-        name: rare_side_effects
-        label: Rare Side Effects Acknowledged
-        hint: I understand rare side effects may include drooping eyelids, asymmetry, or difficulty swallowing
-        type: select_one
-        options:
-          - Yes, I understand
-          - No
-        required: true
-      - id: 9
-        name: results_not_guaranteed
-        label: Results Not Guaranteed
-        hint: I understand that results vary and cannot be guaranteed
-        type: select_one
-        options:
-          - Yes, I understand
-          - No
-        required: true
-      - id: 10
-        name: multiple_sessions
-        label: Multiple Sessions May Be Needed
-        hint: I understand I may need multiple treatments for optimal results
-        type: select_one
-        options:
-          - Yes, I understand
-          - No
-        required: true
-      - id: 11
-        name: temporary_results
-        label: Temporary Results
-        hint: I understand results are temporary and will wear off in 3-6 months
-        type: select_one
-        options:
-          - Yes, I understand
-          - No
-        required: true
-      - id: 12
-        name: alternatives_discussed
-        label: Alternatives Discussed
-        hint: Alternative treatments have been discussed with me
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 13
-        name: questions_answered
-        label: Questions Answered
-        hint: All my questions have been answered to my satisfaction
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 14
-        name: voluntary_consent
-        label: Voluntary Consent
-        hint: I am giving consent voluntarily without pressure or coercion
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 15
-        name: photo_consent
-        label: Photography Consent
-        hint: I consent to clinical photographs for medical records
-        type: select_one
-        options:
-          - Yes, for medical records only
-          - Yes, for medical records and education
-          - No, I do not consent
-        required: true
-      - id: 16
-        name: marketing_photo_consent
-        label: Marketing Photography Consent
-        hint: I consent to photos being used for marketing purposes
-        type: select_one
-        options:
-          - Yes, I consent
-          - No, I do not consent
-        required: true
-      - id: 17
-        name: follow_up_compliance
-        label: Follow-up Compliance
-        hint: I agree to attend follow-up appointments as recommended
-        type: select_one
-        options:
-          - Yes, I agree
-          - No
-        required: true
-      - id: 18
-        name: aftercare_compliance
-        label: Aftercare Compliance
-        hint: I agree to follow all aftercare instructions
-        type: select_one
-        options:
-          - Yes, I agree
-          - No
-        required: true
-      - id: 19
-        name: medical_emergency
-        label: Medical Emergency Authorization
-        hint: In case of emergency, I authorize necessary medical treatment
-        type: select_one
-        options:
-          - Yes, I authorize
-          - No
-        required: true
-      - id: 20
-        name: information_accuracy
-        label: Information Accuracy
-        hint: I certify that all medical information I provided is accurate
-        type: select_one
-        options:
-          - Yes, it is accurate
-          - No
-        required: true
-      - id: 21
-        name: opportunity_to_ask_questions
-        label: Opportunity to Ask Questions
-        hint: I have had the opportunity to ask questions
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 22
-        name: copy_of_consent
-        label: Copy of Consent Form
-        hint: I have received or will receive a copy of this consent form
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 23
-        name: patient_signature
-        label: Patient Signature
-        hint: Type your full legal name as electronic signature
-        type: text
-        options: []
-        required: true
-      - id: 24
-        name: signature_date
-        label: Signature Date
-        hint: Date signed
-        type: date
-        options: []
-        required: true
-      - id: 25
-        name: witness_name
-        label: Witness Name
-        hint: Name of witness to consent
-        type: text
-        options: []
-        required: false
-      - id: 26
-        name: witness_signature
-        label: Witness Signature
-        hint: Witness electronic signature
-        type: text
-        options: []
-        required: false
-      - id: 27
-        name: provider_name
-        label: Provider Name
-        hint: Name of treating provider
-        type: text
-        options: []
-        required: true
-      - id: 28
-        name: provider_signature
-        label: Provider Signature
-        hint: Provider electronic signature
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: treatment_date
+      label: Treatment Date
+      hint: Scheduled date of treatment
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: procedure_description
+      label: Procedure Description
+      hint: I understand this procedure involves injection of botulinum toxin
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need more information
+      required: true
+    - id: 5
+      name: treatment_areas
+      label: Treatment Areas
+      hint: Select areas to be treated
+      type: select_multiple
+      options:
+      - Forehead lines
+      - Glabellar lines (frown lines)
+      - Crow's feet
+      - Bunny lines
+      - Lip lines
+      - Chin
+      - Jawline
+      - Neck bands
+      - Masseter muscles
+      - Underarms (hyperhidrosis)
+      - Other
+      required: true
+    - id: 6
+      name: risks_understood
+      label: Risks Understood
+      hint: I understand potential risks and side effects
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 7
+      name: common_side_effects
+      label: Common Side Effects Acknowledged
+      hint: I understand common side effects include bruising, swelling, redness,
+        and headache
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'False'
+      required: true
+    - id: 8
+      name: rare_side_effects
+      label: Rare Side Effects Acknowledged
+      hint: I understand rare side effects may include drooping eyelids, asymmetry,
+        or difficulty swallowing
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'False'
+      required: true
+    - id: 9
+      name: results_not_guaranteed
+      label: Results Not Guaranteed
+      hint: I understand that results vary and cannot be guaranteed
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'False'
+      required: true
+    - id: 10
+      name: multiple_sessions
+      label: Multiple Sessions May Be Needed
+      hint: I understand I may need multiple treatments for optimal results
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'False'
+      required: true
+    - id: 11
+      name: temporary_results
+      label: Temporary Results
+      hint: I understand results are temporary and will wear off in 3-6 months
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'False'
+      required: true
+    - id: 12
+      name: alternatives_discussed
+      label: Alternatives Discussed
+      hint: Alternative treatments have been discussed with me
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: questions_answered
+      label: Questions Answered
+      hint: All my questions have been answered to my satisfaction
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: voluntary_consent
+      label: Voluntary Consent
+      hint: I am giving consent voluntarily without pressure or coercion
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: photo_consent
+      label: Photography Consent
+      hint: I consent to clinical photographs for medical records
+      type: select_one
+      options:
+      - Yes, for medical records only
+      - Yes, for medical records and education
+      - No, I do not consent
+      required: true
+    - id: 16
+      name: marketing_photo_consent
+      label: Marketing Photography Consent
+      hint: I consent to photos being used for marketing purposes
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 17
+      name: follow_up_compliance
+      label: Follow-up Compliance
+      hint: I agree to attend follow-up appointments as recommended
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'False'
+      required: true
+    - id: 18
+      name: aftercare_compliance
+      label: Aftercare Compliance
+      hint: I agree to follow all aftercare instructions
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'False'
+      required: true
+    - id: 19
+      name: medical_emergency
+      label: Medical Emergency Authorization
+      hint: In case of emergency, I authorize necessary medical treatment
+      type: select_one
+      options:
+      - Yes, I authorize
+      - 'False'
+      required: true
+    - id: 20
+      name: information_accuracy
+      label: Information Accuracy
+      hint: I certify that all medical information I provided is accurate
+      type: select_one
+      options:
+      - Yes, it is accurate
+      - 'False'
+      required: true
+    - id: 21
+      name: opportunity_to_ask_questions
+      label: Opportunity to Ask Questions
+      hint: I have had the opportunity to ask questions
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: copy_of_consent
+      label: Copy of Consent Form
+      hint: I have received or will receive a copy of this consent form
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: patient_signature
+      label: Patient Signature
+      hint: Type your full legal name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness to consent
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness electronic signature
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: provider_name
+      label: Provider Name
+      hint: Name of treating provider
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: provider_signature
+      label: Provider Signature
+      hint: Provider electronic signature
+      type: text
+      options: []
+      required: true

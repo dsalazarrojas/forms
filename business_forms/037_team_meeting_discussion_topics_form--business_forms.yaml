@@ -4,181 +4,134 @@ inputSchema:
     title: Team Meeting Discussion Topics Form
     pages:
     - id: 1
-      name: topic_1
-      label: Meeting Topic 1
-      hint: null
+      name: main_topic
+      label: Meeting Topic
+      hint: Please describe the main topic of the meeting.
       type: text
       options: []
       required: true
     - id: 2
-      name: topic_2
-      label: Meeting Topic 2
-      hint: null
+      name: discussion_questions
+      label: Meeting Questions
+      hint: What are the key questions to be discussed?
       type: text
       options: []
       required: true
     - id: 3
-      name: meeting_question_1
-      label: Meeting Question 1
-      hint: What would you like to ask?
+      name: meeting_agenda
+      label: Meeting Agenda
+      hint: What is the meeting agenda?
       type: text
       options: []
       required: true
     - id: 4
-      name: meeting_question_2
-      label: Meeting Question 2
-      hint: null
-      type: text
+      name: meeting_date
+      label: Meeting Date
+      hint: What is the meeting date?
+      type: date
       options: []
       required: true
     - id: 5
-      name: question_5
-      label: Question 1
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: meeting_time
+      label: Meeting Time
+      hint: What is the meeting time?
+      type: time
+      options: []
       required: true
     - id: 6
-      name: meeting_agenda_1
-      label: Meeting Agenda 1
-      hint: null
+      name: meeting_location
+      label: Meeting Location
+      hint: Where will the meeting take place?
       type: text
       options: []
       required: true
     - id: 7
-      name: meeting_agenda_2
-      label: Meeting Agenda 2
-      hint: null
+      name: attendees
+      label: Attendees
+      hint: Who will attend the meeting?
       type: text
       options: []
       required: true
     - id: 8
-      name: meeting_note_1
+      name: meeting_note
       label: Meeting Notes
-      hint: null
+      hint: Are there any meeting notes or minutes?
       type: note
       options: []
       required: true
     - id: 9
-      name: meeting_date_1
-      label: Meeting Date
-      hint: null
-      type: date
-      options: []
+      name: follow_up_action_item
+      label: Follow-up Action Item
+      hint: Is there a follow-up action item?
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 10
-      name: meeting_time_1
-      label: Meeting Time
-      hint: null
+      name: next_meeting_date
+      label: Next Meeting Date
+      hint: What is the next meeting date?
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: next_meeting_time
+      label: Next Meeting Time
+      hint: What is the next meeting time?
       type: time
       options: []
-      required: true
-    - id: 11
-      name: meeting_location_1
-      label: Meeting Location
-      hint: null
-      type: text
-      options: []
-      required: true
+      required: false
     - id: 12
-      name: question_12
-      label: Meeting Location
-      hint: null
-      type: text
-      options: []
-      required: true
+      name: meeting_location_change
+      label: Meeting Location Change
+      hint: Is there a meeting location change?
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
+      required: false
     - id: 13
-      name: question_13
-      label: Meeting Location
-      hint: null
+      name: meeting_topic
+      label: Meeting Topic (2)
+      hint: What is the meeting topic?
       type: text
       options: []
       required: true
     - id: 14
-      name: attendees_1
-      label: Attendees
-      hint: null
-      type: text
-      options: []
+      name: meeting_question
+      label: Meeting Question
+      hint: What is the meeting question?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: question_15
-      label: Question 15
-      hint: null
+      label: Meeting Question 1
+      hint: This is the first question
       type: text
       options: []
-      required: true
+      required: false
     - id: 16
-      name: attendees_2
-      label: Attendees
-      hint: null
+      name: question_16
+      label: Meeting Question 2
+      hint: This is the second question
       type: text
       options: []
-      required: true
+      required: false
     - id: 17
-      name: attendees_3
-      label: Attendees
-      hint: null
+      name: meeting_agenda_2
+      label: Meeting Agenda 2
+      hint: What is the meeting agenda?
       type: text
       options: []
       required: true
     - id: 18
-      name: meeting_location_2
-      label: Meeting Location
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: meeting_topic_1
-      label: Meeting Topic
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: question_20
-      label: Meeting Topic
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: meeting_question_2
-      label: Meeting Question
-      hint: What is the question?
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: meeting_note_2
-      label: Meeting Note
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: meeting_agenda_3
-      label: Meeting Agenda
-      hint: null
+      name: meeting_topic_2
+      label: Meeting Topic 2 (1)
+      hint: What is the meeting topic?
       type: text
       options: []
       required: false
-    - id: 24
-      name: question_24
-      label: Meeting Agenda
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: question_25
-      label: Meeting Agenda
-      hint: null
-      type: text
-      options: []
-      required: true

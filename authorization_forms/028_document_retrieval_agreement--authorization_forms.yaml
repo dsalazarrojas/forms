@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Type A''}'
-      - '{''id'': 2, ''label'': ''Type B''}'
-      - '{''id'': 3, ''label'': ''Type C''}'
+      - Type A
+      - Type B
+      - Type C
       required: true
     - id: 3
       name: document_id
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Return to Sender''}'
-      - '{''id'': 2, ''label'': ''Return to Sender''}'
+      - Return to Sender
+      - Other
       required: true
     - id: 12
       name: notes
@@ -105,6 +105,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true

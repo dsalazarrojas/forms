@@ -1,101 +1,90 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Complaint Resolution Acknowledgment Form
     pages:
-      - id: 1
-        name: acknowledgment_intro_header
-        label: -- Resolution Acknowledgment and Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: original_complaint_ref
-        label: Original Complaint ID / Reference Number
-        hint: Unique ID of the initial complaint
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: customer_employee_name_ack
-        label: Name of Complainant
-        hint: Person who filed the initial complaint
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: resolution_date_ack
-        label: Date of Resolution
-        hint: When the final resolution was communicated
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: resolution_summary_ack
-        label: Summary of Resolution Provided
-        hint: Briefly describe what was done to resolve the issue
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: resolution_acceptance_selection
-        label: Do you accept this resolution as a final settlement?
-        hint: Acknowledging that the issue is now resolved
-        type: select_one
-        options:
-          - Yes, I accept the resolution
-          - Yes, but with reservations
-          - No, I require further action
-        required: true
-      - id: 7
-        name: process_satisfaction_rating_ack
-        label: How satisfied were you with the resolution process?
-        hint: Rating our speed and communication
-        type: select_one
-        options:
-          - 1 - Not Satisfied
-          - 2
-          - 3
-          - 4
-          - 5 - Highly Satisfied
-        required: true
-      - id: 8
-        name: case_handler_name_ack
-        label: Name of Representative who handled your case
-        hint: Staff member who helped you
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: remaining_concerns_feedback
-        label: Any remaining concerns or additional feedback?
-        hint: Open comments
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: acknowledgment_date_final
-        label: Date Signed
-        hint: Select today's date
-        type: date
-        options: []
-        required: true
-      - id: 11
-        name: digital_sign_ack_resolution
-        label: Digital Signature
-        hint: By submitting, you acknowledge the above terms.
-        type: note
-        options: []
-        required: false
+    - id: 1
+      name: acknowledgment_intro_header
+      label: -- Resolution Acknowledgment and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: original_complaint_ref
+      label: Original Complaint ID / Reference Number
+      hint: Unique ID of the initial complaint
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_employee_name_ack
+      label: Name of Complainant
+      hint: Person who filed the initial complaint
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: resolution_date_ack
+      label: Date of Resolution
+      hint: When the final resolution was communicated
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: resolution_summary_ack
+      label: Summary of Resolution Provided
+      hint: Briefly describe what was done to resolve the issue
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resolution_acceptance_selection
+      label: Do you accept this resolution as a final settlement?
+      hint: Acknowledging that the issue is now resolved
+      type: select_one
+      options:
+      - Yes, I accept the resolution
+      - Yes, but with reservations
+      - No, I require further action
+      required: true
+    - id: 7
+      name: process_satisfaction_rating_ack
+      label: How satisfied were you with the resolution process?
+      hint: Rating our speed and communication
+      type: select_one
+      options:
+      - 1 - Not Satisfied
+      - '2'
+      - '3'
+      - '4'
+      - 5 - Highly Satisfied
+      required: true
+    - id: 8
+      name: case_handler_name_ack
+      label: Name of Representative who handled your case
+      hint: Staff member who helped you
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: remaining_concerns_feedback
+      label: Any remaining concerns or additional feedback?
+      hint: Open comments
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: acknowledgment_date_final
+      label: Date Signed
+      hint: Select today's date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: digital_sign_ack_resolution
+      label: Digital Signature
+      hint: By submitting, you acknowledge the above terms.
+      type: note
+      options: []
+      required: false

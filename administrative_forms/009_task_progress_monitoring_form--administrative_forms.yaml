@@ -4,160 +4,146 @@ inputSchema:
     title: Task Progress Monitoring Form
     pages:
     - id: 1
-      name: task_progress_form_1
-      label: Task
+      name: task_id
+      label: Task ID
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: task_progress_form_2
-      label: Task
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 3
-      name: task_progress_form_3
-      label: Task
+      name: task_description
+      label: Task Description
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: task_is_completed
+      label: Is the task completed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 4
-      name: task_progress_form_4
-      label: Task
+      name: task_completion_date
+      label: Date of completion
       hint: null
       type: date
       options: []
       required: false
     - id: 5
-      name: task_progress_form_5
-      label: Task
+      name: task_completion_time
+      label: Time of completion
       hint: null
       type: time
       options: []
       required: false
     - id: 6
-      name: task_progress_form_6
-      label: Task
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: true
-    - id: 7
-      name: task_progress_form_7
-      label: Task
+      name: task_completion_status
+      label: Task completion status
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
+      - Other
+      required: true
+    - id: 7
+      name: task_is_urgent
+      label: Is the task urgent?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 8
-      name: task_progress_form_8
-      label: Task
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: task_progress_form_9
-      label: Task
+      name: task_status_progress
+      label: Task status progress
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
+      - Other
       required: false
-    - id: 10
-      name: task_progress_form_10
-      label: Task
+    - id: 9
+      name: task_is_completed_successfully
+      label: Is the task completed successfully?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
+      - 'True'
+      - 'False'
       required: true
+    - id: 10
+      name: task_priority
+      label: Task priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
     - id: 11
-      name: task_progress_form_11
-      label: Task
+      name: task_completion_date_milestone
+      label: Completion date for milestone 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: task_completion_date_milestone_2
+      label: Completion date for milestone 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: task_progress_percentage
+      label: Task progress in percentage
       hint: null
       type: number
       options: []
       required: false
-    - id: 12
-      name: task_progress_form_12
-      label: Task
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 13
-      name: task_progress_form_13
-      label: Task
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 14
-      name: task_progress_form_14
-      label: Task
+      name: task_progress_reason_delayed
+      label: Reason for delay
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: task_progress_form_15
-      label: Task
+      name: task_progress_status
+      label: Task progress status
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 16
-      name: task_progress_form_16
-      label: Task
+      name: task_progress_date
+      label: Estimated completion date
       hint: null
-      type: note
+      type: date
       options: []
       required: false
     - id: 17
-      name: task_progress_form_17
-      label: Task
+      name: task_actual_completion_date
+      label: Actual completion date
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 18
-      name: task_progress_form_18
-      label: Task
+      name: task_progress_percentage_2
+      label: Task progress percentage
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: task_progress_form_19
-      label: Task
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: task_progress_form_20
-      label: Task
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: task_progress_form_21
-      label: Task
-      hint: null
-      type: text
+      type: number
       options: []
       required: false

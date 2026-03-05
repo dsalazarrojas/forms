@@ -4,205 +4,128 @@ inputSchema:
     title: Cupping Knowledge Quiz
     pages:
     - id: 1
-      name: first_name
-      label: first_name
+      name: cupping_therapy_understanding
+      label: What is cupping therapy and what does it entail?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: last_name
-      label: last_name
+      name: cupping_therapy_risks
+      label: Are you aware of the risks associated with cupping therapy?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - I am aware of the risks of cupping therapy
+      - I am not aware of the risks of cupping therapy
       required: false
     - id: 3
-      name: email
-      label: email
+      name: cupping_therapy_practice
+      label: How long have you practiced cupping therapy?
       hint: null
-      type: email
-      options: []
+      type: select_multiple
+      options:
+      - Never
+      - Less than 1 year
+      - 1-5 years
+      - More than 5 years
       required: false
     - id: 4
-      name: phone
-      label: phone
+      name: cupping_therapy_certification
+      label: Have you received any training or certification in cupping therapy?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 5
-      name: address
-      label: address
+      name: cupping_therapy_practice_patients
+      label: Have you ever practiced cupping therapy on patients?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 6
-      name: cupping_therapy_understanding
-      label: cupping_therapy_understanding
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''I understand what cupping therapy is and what it entails''}'
-      - '{''label'': ''I partially understand what cupping therapy is''}'
-      - '{''label'': "I don''t understand what cupping therapy is at all"}'
-      required: false
-    - id: 7
-      name: cupping_therapy_risks
-      label: cupping_therapy_risks
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': "I''m aware of the risks of cupping therapy"}'
-      - '{''label'': "I''m not aware of the risks of cupping therapy"}'
-      required: false
-    - id: 8
-      name: cupping_treatment_procedures
-      label: cupping_treatment_procedures
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': "I''ve received training on cupping therapy procedures"}'
-      - '{''label'': "I haven''t received training on cupping therapy procedures"}'
-      - '{''label'': "I''m not sure if I''ve received training on cupping therapy
-        procedures"}'
-      required: false
-    - id: 9
-      name: cupping_therapy_certification
-      label: cupping_therapy_certification
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''I have cupping therapy certification''}'
-      - '{''label'': "I don''t have cupping therapy certification"}'
-      required: false
-    - id: 10
-      name: cupping_therapy_practice
-      label: cupping_therapy_practice
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''I practice cupping therapy with patients''}'
-      - '{''label'': ''I practice cupping therapy with non-patients''}'
-      - '{''label'': "I don''t practice cupping therapy"}'
-      required: false
-    - id: 11
-      name: date_certification
-      label: date_certification
+      name: cupping_therapy_certification_date
+      label: What is your certification date for cupping therapy?
       hint: null
       type: date
       options: []
       required: false
-    - id: 12
-      name: time_certification
-      label: time_certification
+    - id: 7
+      name: cupping_therapy_certification_time
+      label: What is your certification time for cupping therapy?
       hint: null
       type: time
       options: []
       required: false
-    - id: 13
+    - id: 8
       name: note
-      label: note
+      label: Do you have any notes about cupping therapy?
       hint: null
       type: note
       options: []
       required: false
-    - id: 14
-      name: first_name
-      label: first_name
+    - id: 9
+      name: other_comments
+      label: Do you have any other comments about cupping therapy?
       hint: null
       type: text
       options: []
+      required: false
+    - id: 10
+      name: other_questions
+      label: Do you have any other questions about cupping therapy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: other_notes
+      label: Do you have any other notes about cupping therapy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cupping_therapy_frequency
+      label: How often do you practice cupping therapy?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 13
+      name: cupping_therapy_experience
+      label: How much experience do you have with cupping therapy?
+      hint: null
+      type: select_one
+      options:
+      - No experience
+      - Some experience
+      - Significant experience
+      required: false
+    - id: 14
+      name: cupping_therapy_certification_level
+      label: What level of certification do you have in cupping therapy?
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Advanced
       required: false
     - id: 15
-      name: last_name
-      label: last_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: address
-      label: address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: cupping_therapy_understanding
-      label: cupping_therapy_understanding
+      name: cupping_therapy_certification_status
+      label: Are you certified in cupping therapy?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I understand what cupping therapy is and what it entails''}'
-      - '{''label'': ''I partially understand what cupping therapy is''}'
-      - '{''label'': "I don''t understand what cupping therapy is at all"}'
-      required: false
-    - id: 20
-      name: cupping_therapy_risks
-      label: cupping_therapy_risks
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': "I''m aware of the risks of cupping therapy"}'
-      - '{''label'': "I''m not aware of the risks of cupping therapy"}'
-      required: false
-    - id: 21
-      name: cupping_treatment_procedures
-      label: cupping_treatment_procedures
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': "I''ve received training on cupping therapy procedures"}'
-      - '{''label'': "I haven''t received training on cupping therapy procedures"}'
-      - '{''label'': "I''m not sure if I''ve received training on cupping therapy
-        procedures"}'
-      required: false
-    - id: 22
-      name: cupping_therapy_certification
-      label: cupping_therapy_certification
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''I have cupping therapy certification''}'
-      - '{''label'': "I don''t have cupping therapy certification"}'
-      required: false
-    - id: 23
-      name: cupping_therapy_practice
-      label: cupping_therapy_practice
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''I practice cupping therapy with patients''}'
-      - '{''label'': ''I practice cupping therapy with non-patients''}'
-      - '{''label'': "I don''t practice cupping therapy"}'
-      required: false
-    - id: 24
-      name: date_certification
-      label: date_certification
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: time_certification
-      label: time_certification
-      hint: null
-      type: time
-      options: []
+      - 'True'
+      - 'False'
       required: false

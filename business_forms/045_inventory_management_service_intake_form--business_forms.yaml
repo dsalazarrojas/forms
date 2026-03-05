@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1000, ''value'': ''Retail''}'
-      - '{''id'': 1001, ''value'': ''Manufacturing''}'
+      - Retail
+      - Manufacturing
       required: true
     - id: 3
       name: location
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 2000, ''value'': ''Low''}'
-      - '{''id'': 2001, ''value'': ''Medium''}'
-      - '{''id'': 2002, ''value'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 8
       name: delivery_window
@@ -91,7 +91,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 3000, ''value'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: true
     - id: 13

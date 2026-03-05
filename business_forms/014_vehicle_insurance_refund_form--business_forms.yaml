@@ -16,50 +16,88 @@ inputSchema:
     pages:
     - id: 1
       name: vehicle_insurance_refund_form_first_page
-      label: vehicle_insurance_refund_form_first_page_label
+      label: Vehicle Insurance Refund Form
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: vehicle_insurance_refund_form_second_page
-      label: vehicle_insurance_refund_form_second_page_label
+      label: Vehicle Details
       hint: null
-      type: text
-      options: []
-      required: true
+      type: select_one
+      options:
+      - Car
+      - Motorcycle
+      - Van
+      - Truck
+      - Other (please specify)
+      required: false
     - id: 3
       name: vehicle_insurance_refund_form_third_page
-      label: vehicle_insurance_refund_form_third_page_label
+      label: Claimant Information
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Vehicle registration number
+      - Insurance policy number
+      - Date of purchase
       required: false
     - id: 4
-      name: vehicle_insurance_refund_form_third_page
-      label: vehicle_insurance_refund_form_third_page_label
+      name: vehicle_insurance_refund_form_fourth_page
+      label: Refund Information
       hint: null
-      type: text
+      type: number
       options: []
       required: true
     - id: 5
-      name: vehicle_insurance_refund_form_third_page
-      label: vehicle_insurance_refund_form_third_page_label
+      name: vehicle_insurance_refund_form_fifth_page
+      label: Additional Information
       hint: null
-      type: text
-      options: []
-      required: true
-    - id: 6
-      name: vehicle_insurance_refund_form_third_page
-      label: vehicle_insurance_refund_form_third_page_label
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
-      name: vehicle_insurance_refund_form_third_page
-      label: vehicle_insurance_refund_form_third_page_label
-      hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
+    - id: 6
+      name: vehicle_insurance_refund_form_sixth_page
+      label: Supporting Document
+      hint: null
+      type: select_multiple
+      options:
+      - Proof of purchase
+      - Proof of identity
+      - Proof of address
+      required: false
+    - id: 7
+      name: vehicle_insurance_refund_form_seventh_page
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_insurance_refund_form_eighth_page
+      label: Availability for Call
+      hint: null
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: vehicle_insurance_refund_form_ninth_page
+      label: Claim History
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: vehicle_insurance_refund_form_tenth_page
+      label: Vehicle Insurance Refund Form Tenth Page
+      hint: null
+      type: text
+      options: []
+      required: true

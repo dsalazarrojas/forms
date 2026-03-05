@@ -4,129 +4,72 @@ inputSchema:
     title: Leadership Event Attendance Survey
     pages:
     - id: 1
-      name: event_attendance_survey_title
-      label: Event Attendance Survey
+      name: overall_event_rating
+      label: Overall Event Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 2
+      name: session_1_title
+      label: Session 1 Title
       hint: null
       type: text
       options: []
       required: false
-    - id: 2
-      name: session_rating_1
-      label: Rating of Sessions
-      hint: null
-      type: select_one
-      options:
-      - Label 1
-      - Label 2
-      - Label 3
-      required: false
     - id: 3
-      name: session_participation_1
-      label: Session Attendance
+      name: session_1_rating
+      label: Session 1 Rating
       hint: null
       type: select_one
       options:
-      - Label 1
-      - Label 2
-      - Label 3
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 4
-      name: session_participation_2
+      name: total_sessions_attended
       label: Total Sessions Attended
       hint: null
       type: number
       options: []
       required: false
     - id: 5
-      name: session_rating_2
-      label: Rating of Sessions 2
-      hint: null
-      type: select_one
-      options:
-      - Label 4
-      - Label 5
-      required: false
-    - id: 6
-      name: session_title
-      label: Session Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: session_rating_3
-      label: Overall Event Rating
-      hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
-      required: false
-    - id: 8
-      name: overall_rating
-      label: Overall Event Rating
-      hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
-      required: false
-    - id: 9
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 10
       name: name
       label: Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
       name: feedback
       label: Feedback
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
-      name: session_participation_3
-      label: Total Sessions Attended
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
+    - id: 8
       name: comments
       label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
-      name: email_2
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: name_2
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: event_rating
-      label: Event Rating
+    - id: 9
+      name: overall_event_rating_2
+      label: Overall Event Rating 2
       hint: null
       type: select_one
       options:
@@ -135,66 +78,28 @@ inputSchema:
       - Fair
       - Poor
       required: false
-    - id: 17
-      name: session_participation_4
-      label: Total Sessions Attended
+    - id: 10
+      name: total_sessions_attended_2
+      label: Total Sessions Attended 2
       hint: null
       type: number
       options: []
       required: false
-    - id: 18
-      name: email_3
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: name_3
-      label: Name
+    - id: 11
+      name: session_2_title
+      label: Session 2 Title
       hint: null
       type: text
       options: []
       required: false
-    - id: 20
-      name: email_4
-      label: Email
+    - id: 12
+      name: session_2_rating
+      label: Session 2 Rating
       hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: name_4
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: session_participation_5
-      label: Total Sessions Attended
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: name_5
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: email_5
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: session_participation_6
-      label: Total Sessions Attended
-      hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false

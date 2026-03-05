@@ -16,14 +16,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''painting''}'
-      - '{''id'': 2, ''label'': ''drawing''}'
-      - '{''id'': 3, ''label'': ''sculpture''}'
-      - '{''id'': 4, ''label'': ''printmaking''}'
-      - '{''id'': 5, ''label'': ''mixed-media''}'
-      - '{''id'': 6, ''label'': ''photography''}'
-      - '{''id'': 7, ''label'': ''other''}'
-      - '{''id'': 8, ''label'': ''digital''}'
+      - painting
+      - drawing
+      - sculpture
+      - printmaking
+      - mixed-media
+      - photography
+      - other
+      - digital
       required: false
     - id: 3
       name: start_date
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''pending''}'
-      - '{''id'': 2, ''label'': ''booked''}'
-      - '{''id'': 3, ''label'': ''cancelled''}'
+      - pending
+      - booked
+      - cancelled
       required: false
     - id: 13
       name: booking_form_owner
@@ -104,9 +104,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''admin''}'
-      - '{''id'': 2, ''label'': ''artist''}'
-      - '{''id'': 3, ''label'': ''both''}'
+      - admin
+      - artist
+      - both
       required: false
     - id: 14
       name: additional_artist_info

@@ -1,205 +1,194 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Client Case Progress Tracking Form
     pages:
-      - id: 1
-        name: client_first_name
-        label: First Name
-        hint: Client legal first name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: client_last_name
-        label: Last Name
-        hint: Client legal last name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: client_id_number
-        label: Client ID Number
-        hint: Internal client identifier
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: case_manager_name
-        label: Case Manager Name
-        hint: Assigned case manager
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: case_open_date
-        label: Case Open Date
-        hint: When was this case opened?
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: case_type
-        label: Case Type
-        hint: Category of case
-        type: select_one
-        options:
-          - Legal Services
-          - Social Services
-          - Healthcare
-          - Counseling
-          - Financial Assistance
-          - Housing
-          - Employment
-          - Other
-        required: true
-      - id: 7
-        name: case_status
-        label: Current Case Status
-        hint: Active status of case
-        type: select_one
-        options:
-          - Open
-          - In Progress
-          - Pending Review
-          - On Hold
-          - Closed
-          - Referred
-        required: true
-      - id: 8
-        name: last_contact_date
-        label: Last Contact Date
-        hint: Most recent client contact
-        type: date
-        options: []
-        required: true
-      - id: 9
-        name: contact_method
-        label: Contact Method
-        hint: How was contact made?
-        type: select_one
-        options:
-          - In Person
-          - Phone Call
-          - Video Call
-          - Email
-          - Text Message
-          - Home Visit
-          - Other
-        required: true
-      - id: 10
-        name: progress_notes
-        label: Progress Notes
-        hint: Summary of progress since last review
-        type: text
-        options: []
-        required: true
-      - id: 11
-        name: goals_achieved
-        label: Goals Achieved This Period
-        hint: What has been accomplished?
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: ongoing_goals
-        label: Ongoing Goals
-        hint: Goals still being worked on
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: barriers_challenges
-        label: Barriers or Challenges
-        hint: Obstacles affecting progress
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: services_provided
-        label: Services Provided
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Case Management
-          - Counseling
-          - Referrals
-          - Advocacy
-          - Resource Connection
-          - Crisis Intervention
-          - Follow-Up Support
-          - Documentation
-          - Other
-        required: true
-      - id: 15
-        name: referrals_made
-        label: Referrals Made
-        hint: Any external referrals
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: next_appointment_date
-        label: Next Appointment Date
-        hint: Scheduled follow-up
-        type: date
-        options: []
-        required: false
-      - id: 17
-        name: next_steps
-        label: Next Steps
-        hint: Action items for next period
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: client_engagement_level
-        label: Client Engagement Level
-        hint: How engaged is the client?
-        type: select_one
-        options:
-          - Very Engaged
-          - Engaged
-          - Somewhat Engaged
-          - Minimally Engaged
-          - Not Engaged
-        required: true
-      - id: 19
-        name: risk_level
-        label: Risk Level
-        hint: Current risk assessment
-        type: select_one
-        options:
-          - Low Risk
-          - Moderate Risk
-          - High Risk
-          - Critical Risk
-          - Not Applicable
-        required: true
-      - id: 20
-        name: supervisor_review_needed
-        label: Is Supervisor Review Needed?
-        hint: Escalation required?
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 21
-        name: tracking_date
-        label: Tracking Entry Date
-        hint: Date of this entry
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Client legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Client legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_id_number
+      label: Client ID Number
+      hint: Internal client identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: case_manager_name
+      label: Case Manager Name
+      hint: Assigned case manager
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: case_open_date
+      label: Case Open Date
+      hint: When was this case opened?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: case_type
+      label: Case Type
+      hint: Category of case
+      type: select_one
+      options:
+      - Legal Services
+      - Social Services
+      - Healthcare
+      - Counseling
+      - Financial Assistance
+      - Housing
+      - Employment
+      - Other
+      required: true
+    - id: 7
+      name: case_status
+      label: Current Case Status
+      hint: Active status of case
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Pending Review
+      - On Hold
+      - Closed
+      - Referred
+      required: true
+    - id: 8
+      name: last_contact_date
+      label: Last Contact Date
+      hint: Most recent client contact
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: contact_method
+      label: Contact Method
+      hint: How was contact made?
+      type: select_one
+      options:
+      - In Person
+      - Phone Call
+      - Video Call
+      - Email
+      - Text Message
+      - Home Visit
+      - Other
+      required: true
+    - id: 10
+      name: progress_notes
+      label: Progress Notes
+      hint: Summary of progress since last review
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: goals_achieved
+      label: Goals Achieved This Period
+      hint: What has been accomplished?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: ongoing_goals
+      label: Ongoing Goals
+      hint: Goals still being worked on
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: barriers_challenges
+      label: Barriers or Challenges
+      hint: Obstacles affecting progress
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: services_provided
+      label: Services Provided
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Case Management
+      - Counseling
+      - Referrals
+      - Advocacy
+      - Resource Connection
+      - Crisis Intervention
+      - Follow-Up Support
+      - Documentation
+      - Other
+      required: true
+    - id: 15
+      name: referrals_made
+      label: Referrals Made
+      hint: Any external referrals
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: next_appointment_date
+      label: Next Appointment Date
+      hint: Scheduled follow-up
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: next_steps
+      label: Next Steps
+      hint: Action items for next period
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: client_engagement_level
+      label: Client Engagement Level
+      hint: How engaged is the client?
+      type: select_one
+      options:
+      - Very Engaged
+      - Engaged
+      - Somewhat Engaged
+      - Minimally Engaged
+      - Not Engaged
+      required: true
+    - id: 19
+      name: risk_level
+      label: Risk Level
+      hint: Current risk assessment
+      type: select_one
+      options:
+      - Low Risk
+      - Moderate Risk
+      - High Risk
+      - Critical Risk
+      - Not Applicable
+      required: true
+    - id: 20
+      name: supervisor_review_needed
+      label: Is Supervisor Review Needed?
+      hint: Escalation required?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: tracking_date
+      label: Tracking Entry Date
+      hint: Date of this entry
+      type: date
+      options: []
+      required: true

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''automation''}'
-      - '{''value'': ''integration''}'
-      - '{''value'': ''other''}'
+      - automation
+      - integration
+      - other
       required: false
     - id: 4
       name: order_date
@@ -117,9 +117,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''credit''}'
-      - '{''value'': ''cash''}'
-      - '{''value'': ''other''}'
+      - credit
+      - cash
+      - other
       required: false
     - id: 17
       name: payment_terms
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''pending''}'
-      - '{''value'': ''in_progress''}'
-      - '{''value'': ''completed''}'
+      - pending
+      - in progress
+      - completed
       required: false
     - id: 24
       name: customer_status
@@ -179,9 +179,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''inactive''}'
-      - '{''value'': ''pending''}'
+      - active
+      - inactive
+      - pending
       required: false
     - id: 25
       name: customer_comments

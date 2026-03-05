@@ -9,212 +9,158 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: submitter_department
-      label: submitter_department
+      label: Submitter Department
       hint: null
       type: select_one
       options:
-      - '{''value'': ''IT''}'
-      - '{''value'': ''Engineering''}'
-      - '{''value'': ''Finance''}'
-      - '{''value'': ''Sales''}'
-      - '{''value'': ''Marketing''}'
-      - '{''value'': ''Other''}'
+      - IT
+      - Engineering
+      - Finance
+      - Sales
+      - Marketing
+      - Other
       required: false
     - id: 3
       name: submitter_job_title
-      label: submitter_job_title
+      label: Submitter Job Title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: submitter_location
-      label: submitter_location
+      label: Submitter Location
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Remote''}'
-      - '{''value'': ''On-site''}'
-      - '{''value'': ''Other''}'
-      - '{''value'': ''Hybrid''}'
+      - Remote
+      - On-site
+      - Hybrid
       required: false
     - id: 5
-      name: submitter_date
-      label: submitter_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
       name: approver
       label: Approver
       hint: null
       type: select_one
       options:
-      - '{''value'': ''IT''}'
-      - '{''value'': ''Manager''}'
-      - '{''value'': ''Director''}'
-      - '{''value'': ''CTO''}'
+      - IT
+      - Manager
+      - Director
+      - CTO
+      required: true
+    - id: 6
+      name: approver_department
+      label: Approver Department
+      hint: null
+      type: select_multiple
+      options:
+      - IT
+      - Engineering
+      - Finance
+      - Sales
+      - Marketing
+      - Other
       required: false
     - id: 7
-      name: approver_department
-      label: approver_department
+      name: approver_location
+      label: Approver Location
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''IT''}'
-      - '{''value'': ''Engineering''}'
-      - '{''value'': ''Finance''}'
-      - '{''value'': ''Sales''}'
-      - '{''value'': ''Marketing''}'
-      - '{''value'': ''Other''}'
+      - Remote
+      - On-site
+      - Hybrid
       required: false
     - id: 8
-      name: approver_location
-      label: approver_location
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Remote''}'
-      - '{''value'': ''On-site''}'
-      - '{''value'': ''Other''}'
-      required: false
-    - id: 9
       name: submitter_note
       label: Submitter Note
       hint: null
       type: note
       options: []
       required: false
-    - id: 10
+    - id: 9
       name: approver_note
       label: Approver Note
       hint: null
       type: note
       options: []
       required: false
-    - id: 11
+    - id: 10
       name: approval_date
-      label: approval_date
+      label: Approval Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 12
-      name: submitter_phone
-      label: submitter_phone
+      required: true
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
       hint: null
-      type: text
+      type: email
       options: []
       required: false
-    - id: 13
+    - id: 12
       name: approver_email
       label: Approver Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 14
-      name: submitter_email
-      label: submitter_email
+    - id: 13
+      name: supporting_document1
+      label: Supporting Document 1
       hint: null
-      type: email
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supporting_document2
+      label: Supporting Document 2
+      hint: null
+      type: text
       options: []
       required: false
     - id: 15
-      name: supporting_document
-      label: supporting_document
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: supporting_document2
-      label: supporting_document2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
       name: approver_phone
       label: Approver Phone
       hint: null
       type: text
       options: []
       required: false
+    - id: 16
+      name: submitter_job_title_2
+      label: Submitter Job Title 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approver_job_title
+      label: Approver Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 18
-      name: submitter_job_title
-      label: submitter_job_title
+      name: approver_comment
+      label: Approver Comment
       hint: null
       type: text
       options: []
       required: false
     - id: 19
-      name: submitter_department
-      label: submitter_department
+      name: submitter_phone
+      label: Submitter Phone
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''IT''}'
-      - '{''value'': ''Engineering''}'
-      - '{''value'': ''Finance''}'
-      - '{''value'': ''Sales''}'
-      - '{''value'': ''Marketing''}'
-      - '{''value'': ''Other''}'
+      type: text
+      options: []
       required: false
     - id: 20
-      name: submitter_location
-      label: submitter_location
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Remote''}'
-      - '{''value'': ''On-site''}'
-      - '{''value'': ''Hybrid''}'
-      required: false
-    - id: 21
-      name: approver_job_title
-      label: approver_job_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: approver_department
-      label: approver_department
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''IT''}'
-      - '{''value'': ''Engineering''}'
-      - '{''value'': ''Finance''}'
-      - '{''value'': ''Sales''}'
-      - '{''value'': ''Marketing''}'
-      - '{''value'': ''Other''}'
-      required: false
-    - id: 23
-      name: approver_location
-      label: approver_location
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Remote''}'
-      - '{''value'': ''On-site''}'
-      - '{''value'': ''Hybrid''}'
-      required: false
-    - id: 24
       name: supporting_document3
-      label: supporting_document3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: approver_comment
-      label: Approver Comment
+      label: Supporting Document 3
       hint: null
       type: text
       options: []

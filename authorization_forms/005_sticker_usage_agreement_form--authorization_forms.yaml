@@ -4,22 +4,22 @@ inputSchema:
     title: sticker_usage_agreement_form
     pages:
     - id: 1
-      name: sticker_usage_agreement_form_first_page
-      label: sticker_usage_agreement_form_first_page
+      name: user_info
+      label: User Information
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 2
-      name: sticker_usage_agreement_form_second_page
-      label: sticker_usage_agreement_form_second_page
+      name: usage_details
+      label: Usage Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: sticker_placement_request_details
-      label: sticker_placement_request_details
+      name: sticker_placement_request
+      label: Sticker Placement Request
       hint: null
       type: select_multiple
       options:
@@ -27,68 +27,70 @@ inputSchema:
       - 'No'
       required: false
     - id: 4
-      name: sticker_placement_request_location
-      label: sticker_placement_request_location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: sticker_placement_request_approval
-      label: sticker_placement_request_approval
+      name: approval_request
+      label: Approval Request
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 6
-      name: sticker_placement_request_approval_status
-      label: sticker_placement_request_approval_status
+    - id: 5
+      name: approval_status
+      label: Approval Status
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
       required: false
+    - id: 6
+      name: renewal_request
+      label: Renewal Request
+      hint: When is the sticker expected to be renewed?
+      type: date
+      options: []
+      required: false
     - id: 7
-      name: sticker_placement_request_rejected_reason
-      label: sticker_placement_request_rejected_reason
+      name: renewal_status
+      label: Renewal Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: renewal_notes
+      label: Renewal Notes
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: sticker_placement_request_rejected_date
-      label: sticker_placement_request_rejected_date
+    - id: 9
+      name: renewal_date
+      label: Renewal Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 9
-      name: sticker_placement_request_rejected_by
-      label: sticker_placement_request_rejected_by
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 10
-      name: sticker_placement_request_rejected_reason
-      label: sticker_placement_request_rejected_reason
+      name: reason_for_renewal
+      label: Reason for Renewal
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: sticker_placement_request_renewal_date
-      label: sticker_placement_request_renewal_date
-      hint: null
-      type: date
+      name: renewal_condition
+      label: Renewal Condition
+      hint: What are the conditions for sticker renewal?
+      type: text
       options: []
       required: false
     - id: 12
-      name: sticker_placement_request_renewal_status
-      label: sticker_placement_request_renewal_status
+      name: sticker_status
+      label: Sticker Status
       hint: null
       type: select_one
       options:
@@ -96,101 +98,44 @@ inputSchema:
       - Inactive
       required: false
     - id: 13
-      name: sticker_placement_request_renewal_date
-      label: sticker_placement_request_renewal_date
+      name: expiration_date
+      label: Expiration Date
       hint: null
       type: date
       options: []
       required: false
     - id: 14
-      name: sticker_placement_request_renewal_status
-      label: sticker_placement_request_renewal_status
+      name: approval_date
+      label: Approval Date
       hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
+      type: date
+      options: []
       required: false
     - id: 15
-      name: sticker_placement_request_renewal_notes
-      label: sticker_placement_request_renewal_notes
+      name: approval_by
+      label: Approval By
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: sticker_placement_request_renewal_date
-      label: sticker_placement_request_renewal_date
-      hint: null
-      type: date
+      name: approval_condition
+      label: Approval Condition
+      hint: What are the conditions for sticker approval?
+      type: text
       options: []
       required: false
     - id: 17
-      name: sticker_placement_request_renewal_status
-      label: sticker_placement_request_renewal_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
+      name: usage_condition
+      label: Usage Condition
+      hint: What are the conditions for sticker usage?
+      type: text
+      options: []
       required: false
     - id: 18
-      name: sticker_placement_request_renewal_notes
-      label: sticker_placement_request_renewal_notes
-      hint: null
+      name: notes
+      label: Notes
+      hint: Any additional notes?
       type: text
-      options: []
-      required: false
-    - id: 19
-      name: sticker_placement_request_renewal_date
-      label: sticker_placement_request_renewal_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: sticker_placement_request_renewal_status
-      label: sticker_placement_request_renewal_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 21
-      name: sticker_placement_request_renewal_notes
-      label: sticker_placement_request_renewal_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: sticker_placement_request_renewal_date
-      label: sticker_placement_request_renewal_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: sticker_placement_request_renewal_status
-      label: sticker_placement_request_renewal_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 24
-      name: sticker_placement_request_renewal_notes
-      label: sticker_placement_request_renewal_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: sticker_placement_request_renewal_date
-      label: sticker_placement_request_renewal_date
-      hint: null
-      type: date
       options: []
       required: false

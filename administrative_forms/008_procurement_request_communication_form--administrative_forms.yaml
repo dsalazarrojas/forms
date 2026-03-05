@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Goods''}'
-      - '{''label'': ''Service''}'
+      - Goods
+      - Service
       required: false
     - id: 3
       name: procurement_value
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Draft''}'
-      - '{''label'': ''Approved''}'
+      - Draft
+      - Approved
       required: false
     - id: 5
       name: procurement_category
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''IT''}'
-      - '{''label'': ''Office Supplies''}'
-      - '{''label'': ''Furniture''}'
+      - IT
+      - Office Supplies
+      - Furniture
       required: false
     - id: 6
       name: procurement_requester

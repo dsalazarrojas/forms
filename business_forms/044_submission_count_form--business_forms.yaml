@@ -15,107 +15,61 @@ inputSchema:
     title: Submission Count Form
     pages:
     - id: 1
-      name: name_input
-      label: name
+      name: submission_date
+      label: Submission Date
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 2
-      name: email_input
-      label: email
+      name: submission_time
+      label: Submission Time
       hint: null
-      type: email
+      type: time
       options: []
-      required: false
+      required: true
     - id: 3
-      name: timestamp_input
-      label: Timestamp
+      name: submission_type
+      label: Submission Type
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Submission
+      - Inquiry
+      - Feedback
+      required: true
     - id: 4
-      name: department_input
-      label: department
+      name: name
+      label: Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: purpose_input
-      label: purpose
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: name_input
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: name_input
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: email_input
-      label: email
+      name: email
+      label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 9
-      name: timestamp_input
-      label: Timestamp
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: department_input
-      label: department
+      required: true
+    - id: 6
+      name: department
+      label: Department
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: purpose_input
-      label: purpose
+      required: true
+    - id: 7
+      name: purpose_of_submission
+      label: Purpose of Submission
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
-      name: name_input
-      label: name
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: timestamp_input
-      label: Timestamp
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: department_input
-      label: department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: purpose_input
-      label: purpose
-      hint: null
-      type: text
+      type: note
       options: []
       required: false

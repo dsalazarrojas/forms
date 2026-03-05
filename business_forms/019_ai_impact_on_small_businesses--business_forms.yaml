@@ -23,20 +23,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Retail / E-commerce
-        value: retail
-      - label: Professional Services (Legal, Accounting, etc.)
-        value: professional_services
-      - label: Healthcare & Wellness
-        value: healthcare
-      - label: Hospitality & Food Service
-        value: hospitality
-      - label: Manufacturing & Construction
-        value: manufacturing
-      - label: Technology & Software
-        value: technology
-      - label: Other
-        value: other
+      - Retail / E-commerce
+      - Professional Services (Legal, Accounting, etc.)
+      - Healthcare & Wellness
+      - Hospitality & Food Service
+      - Manufacturing & Construction
+      - Technology & Software
+      - Other
       required: true
     - id: 4
       name: employee_count
@@ -44,16 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Solopreneur (1)
-        value: 1
-      - label: Micro (2-5)
-        value: 2-5
-      - label: Small (6-20)
-        value: 6-20
-      - label: Medium-Small (21-50)
-        value: 21-50
-      - label: Medium (51-100)
-        value: 51-100
+      - Solopreneur (1)
+      - Micro (2-5)
+      - Small (6-20)
+      - Medium-Small (21-50)
+      - Medium (51-100)
       required: true
     - id: 5
       name: years_in_operation
@@ -75,16 +63,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Not currently using or considering
-        value: none
-      - label: Actively researching / Planning
-        value: planning
-      - label: Testing / Pilot programs in place
-        value: pilot
-      - label: Fully integrated into some workflows
-        value: integrated
-      - label: AI-first business model
-        value: ai_first
+      - Not currently using or considering
+      - Actively researching / Planning
+      - Testing / Pilot programs in place
+      - Fully integrated into some workflows
+      - AI-first business model
       required: true
     - id: 8
       name: ai_tools_implemented
@@ -92,18 +75,12 @@ inputSchema:
       hint: Select all that apply.
       type: select_multiple
       options:
-      - label: Generative AI (ChatGPT, Claude, Jasper)
-        value: gen_ai
-      - label: AI Chatbots for Customer Service
-        value: chatbots
-      - label: Marketing Automation with AI
-        value: marketing_ai
-      - label: AI-powered Analytics / Forecasting
-        value: analytics
-      - label: Image / Video Generation
-        value: creative_ai
-      - label: None
-        value: none
+      - Generative AI (ChatGPT, Claude, Jasper)
+      - AI Chatbots for Customer Service
+      - Marketing Automation with AI
+      - AI-powered Analytics / Forecasting
+      - Image / Video Generation
+      - None
       required: true
     - id: 9
       name: primary_benefits_realized
@@ -111,16 +88,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: Increased Efficiency / Productivity
-        value: efficiency
-      - label: Cost Savings / Reduced Overheads
-        value: cost_savings
-      - label: Improved Customer Experience
-        value: customer_exp
-      - label: Better Decision Making / Insights
-        value: insights
-      - label: Creative Content Generation
-        value: content
+      - Increased Efficiency / Productivity
+      - Cost Savings / Reduced Overheads
+      - Improved Customer Experience
+      - Better Decision Making / Insights
+      - Creative Content Generation
       required: true
     - id: 10
       name: adoption_barriers_header
@@ -135,18 +107,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: High Implementation Costs
-        value: cost
-      - label: Lack of In-house Technical Expertise
-        value: lack_expertise
-      - label: Concerns about Data Privacy & Security
-        value: privacy
-      - label: Ethical Concerns / Potential Bias
-        value: ethics
-      - label: Difficulty Integrating with Legacy Systems
-        value: integration
-      - label: Uncertainty about ROI
-        value: roi_uncertainty
+      - High Implementation Costs
+      - Lack of In-house Technical Expertise
+      - Concerns about Data Privacy & Security
+      - Ethical Concerns / Potential Bias
+      - Difficulty Integrating with Legacy Systems
+      - Uncertainty about ROI
       required: true
     - id: 12
       name: impact_on_staffing
@@ -154,14 +120,10 @@ inputSchema:
       hint: How has AI affected your workforce?
       type: select_one
       options:
-      - label: Reduced need for staff (Replaced by AI)
-        value: reduced
-      - label: Increased need for staff (New AI-related roles)
-        value: increased
-      - label: No change in staffing levels
-        value: no_change
-      - label: Shifted existing staff to higher-value tasks
-        value: shifted
+      - Reduced need for staff (Replaced by AI)
+      - Increased need for staff (New AI-related roles)
+      - No change in staffing levels
+      - Shifted existing staff to higher-value tasks
       required: true
     - id: 13
       name: future_ai_investment
@@ -169,14 +131,10 @@ inputSchema:
       hint: How do you plan to change your AI spending?
       type: select_one
       options:
-      - label: Significantly Increase
-        value: increase_high
-      - label: Slightly Increase
-        value: increase_low
-      - label: Maintain Current Levels
-        value: maintain
-      - label: Decrease Investment
-        value: decrease
+      - Significantly Increase
+      - Slightly Increase
+      - Maintain Current Levels
+      - Decrease Investment
       required: true
     - id: 14
       name: concern_level_competition

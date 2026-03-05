@@ -58,26 +58,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      - '6'
-      - '7'
-      - '8'
-      - '9'
-      - '10'
-      - '11'
-      - '12'
-      - '13'
-      - '14'
-      - '15'
-      - '16'
-      - '17'
-      - '18'
-      - '19'
-      - '20'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: generate_tickets
@@ -85,29 +68,27 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '20'
-      - '40'
-      - '60'
-      - '80'
-      - '100'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
-      name: raffle_id
-      label: Raffle ID
+      name: raffle_id_2
+      label: Raffle Id 2
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: draw_time
-      label: Draw Time
+      name: draw_time_2
+      label: Draw Time 2
       hint: null
       type: time
       options: []
       required: false
     - id: 12
-      name: draw_date
-      label: Draw Date
+      name: draw_date_2
+      label: Draw Date 2
       hint: null
       type: date
       options: []

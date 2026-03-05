@@ -327,7 +327,7 @@ inputSchema:
       options:
       - Yes Full-Time
       - Yes Part-Time
-      - false
+      - 'False'
       - Self-Employed
       required: true
     - id: 42
@@ -336,8 +336,8 @@ inputSchema:
       hint: Any current medical conditions
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 43
       name: conditions_description
@@ -359,8 +359,8 @@ inputSchema:
       hint: Did you receive the disclosure document
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 46
       name: understand_terms
@@ -368,8 +368,8 @@ inputSchema:
       hint: Do you understand the terms
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 47
       name: voluntary_purchase
@@ -378,7 +378,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 48
       name: cancellation_policy
@@ -387,7 +387,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 49
       name: borrower_signature

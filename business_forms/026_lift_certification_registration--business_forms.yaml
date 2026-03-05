@@ -22,66 +22,72 @@ inputSchema:
       options: []
       required: true
     - id: 2
-      name: preferred_certification_date
-      label: Preferred Certification Date
+      name: contact_information
+      label: Contact Information
       hint: null
-      type: date
+      type: text
       options: []
       required: true
     - id: 3
-      name: certification_requests
-      label: Certification Requests
+      name: lift_type
+      label: Lift Type
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 4
-      name: schedule_preferred_date
-      label: Schedule Preferred Date
+      name: certification_date
+      label: Certification Date
       hint: null
       type: date
       options: []
       required: true
     - id: 5
-      name: contact_details
-      label: Contact Details
+      name: schedule
+      label: Schedule
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
+      name: certification_requests
+      label: Certification Requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 7
       name: upload_files
       label: Upload Files
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
-      name: review_and_approval
-      label: Review and Approval
-      hint: null
-      type: note
-      options: []
-      required: false
+      required: true
     - id: 8
-      name: lift_inspection_requests
-      label: Lift Inspection Requests
+      name: inspection_status
+      label: Inspection Status
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 9
-      name: review
-      label: Review
+      name: review_status
+      label: Review Status
       hint: null
-      type: time
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 10
       name: submit
@@ -89,125 +95,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
-    - id: 11
-      name: review_request
-      label: Review Request
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 12
-      name: upload_files_2
-      label: Upload Files 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: review_and_approve_2
-      label: Review and Approve
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: contact_details_2
-      label: Contact Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: lift_inspection_requests_2
-      label: Lift Inspection Requests
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 16
-      name: review_2
-      label: Review
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: submit_2
-      label: Submit
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 18
-      name: review_request_2
-      label: Review Request
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 19
-      name: upload_files_3
-      label: Upload Files 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: review_and_approve_3
-      label: Review and Approve
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: contact_details_3
-      label: Contact Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: lift_inspection_requests_3
-      label: Lift Inspection Requests
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 23
-      name: review_3
-      label: Review
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: submit_3
-      label: Submit
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 25
-      name: review_request_3
-      label: Review Request
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: false

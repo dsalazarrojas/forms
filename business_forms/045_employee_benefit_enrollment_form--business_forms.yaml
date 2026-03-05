@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Medical'', ''value'': ''medical''}'
-      - '{''label'': ''Dental'', ''value'': ''dental''}'
-      - '{''label'': ''Vision'', ''value'': ''vision''}'
+      - Medical
+      - Dental
+      - Vision
       required: false
     - id: 4
       name: insurance_provider
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Aetna'', ''value'': ''Aetna''}'
-      - '{''label'': ''Blue Cross'', ''value'': ''Blue Cross''}'
-      - '{''label'': ''Cigna'', ''value'': ''Cigna''}'
+      - Aetna
+      - Blue Cross
+      - Cigna
       required: false
     - id: 5
       name: enrollment_date
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Active'', ''value'': ''active''}'
-      - '{''label'': ''Inactive'', ''value'': ''inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 9
       name: reason_for_termination
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Sales'', ''value'': ''sales''}'
-      - '{''label'': ''Marketing'', ''value'': ''marketing''}'
-      - '{''label'': ''Customer Support'', ''value'': ''customer_support''}'
+      - Sales
+      - Marketing
+      - Customer Support
       required: false
     - id: 16
       name: manager_name

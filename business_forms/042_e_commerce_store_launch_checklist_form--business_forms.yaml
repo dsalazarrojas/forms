@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''PayPal''}'
-      - '{''label'': ''Stripe''}'
-      - '{''label'': ''Authorize.net''}'
+      - PayPal
+      - Stripe
+      - Authorize.net
       required: false
     - id: 5
       name: shipping_info
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Shipping Option A''}'
-      - '{''label'': ''Shipping Option B''}'
-      - '{''label'': ''Shipping Option C''}'
+      - Shipping Option A
+      - Shipping Option B
+      - Shipping Option C
       required: false
     - id: 6
       name: return_policy

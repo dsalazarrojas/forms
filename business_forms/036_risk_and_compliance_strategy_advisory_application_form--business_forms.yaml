@@ -4,22 +4,83 @@ inputSchema:
     title: Risk And Compliance Strategy Advisory Application Form
     pages:
     - id: 1
-      name: risk_and_compliance_strategy_advisory_application_form_page_1
-      label: Risk And Compliance Strategy Advisory Application Form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: risk_and_compliance_strategy_advisory_application_form_page_2
-      label: Additional Information
+      name: introduction
+      label: What is your role in the organization?
       hint: null
       type: text
       options: []
       required: false
+    - id: 2
+      name: background_info
+      label: Please provide a brief description of the organization's risk and compliance
+        background.
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 3
-      name: risk_and_compliance_strategy_advisory_application_form_page_3
-      label: Risk And Compliance Strategy Advisory Application Form
+      name: compliance_strategy
+      label: Please describe the organization's current compliance strategy.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: risk_level
+      label: What is the level of risk associated with this compliance issue?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 5
+      name: last_review_date
+      label: Date of last review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: last_review_time
+      label: Time of last review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Please enter your contact information (email, phone number, etc.)
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: review_frequency
+      label: How often do you review the risk and compliance issues in the organization?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 9
+      name: frequency_of_risk
+      label: How often do the risks associated with this issue occur?
+      hint: null
+      type: select_multiple
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 10
+      name: severity_of_risk
+      label: How severe is the risk associated with this issue?
       hint: null
       type: select_multiple
       options:
@@ -27,48 +88,17 @@ inputSchema:
       - Medium
       - Low
       required: false
-    - id: 4
-      name: risk_and_compliance_strategy_advisory_application_form_page_4
-      label: Risk And Compliance Strategy Advisory Application Form
+    - id: 11
+      name: mitigation_plan
+      label: Please describe your plan to mitigate the risk associated with this issue.
       hint: null
-      type: select_one
-      options:
-      - High
-      - Medium
-      - Low
-      required: false
-    - id: 5
-      name: risk_and_compliance_strategy_advisory_application_form_page_5
-      label: Risk And Compliance Strategy Advisory Application Form
-      hint: null
-      type: date
+      type: text
       options: []
-      required: false
-    - id: 6
-      name: risk_and_compliance_strategy_advisory_application_form_page_6
-      label: Risk And Compliance Strategy Advisory Application Form
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
       hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
-      name: risk_and_compliance_strategy_advisory_application_form_page_7
-      label: Risk And Compliance Strategy Advisory Application Form
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: risk_and_compliance_strategy_advisory_application_form_page_8
-      label: risk_and_compliance_strategy_advisory_application_form_page_8_label
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: risk_and_compliance_strategy_advisory_application_form_page_9
-      label: risk_and_compliance_strategy_advisory_application_form_page_9_label
-      hint: null
-      type: number
+      type: note
       options: []
       required: false

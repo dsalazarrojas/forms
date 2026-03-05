@@ -4,68 +4,46 @@ inputSchema:
     title: Long Term Stay Admission Form
     pages:
     - id: 1
-      name: long_term_stay_applications
-      label: Long Term Stay Applications
+      name: applicant_info
+      label: Applicant Information
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 2
-      name: applicant_info
-      label: Applicant Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: medical_clearance
-      label: Medical Clearance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: emergency_contact
       label: Emergency Contact
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
-      name: medical_history
-      label: Medical History
+      required: true
+    - id: 3
+      name: medical_clearance
+      label: Medical Clearance
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 6
+    - id: 4
       name: medical_conditions
       label: Medical Conditions
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Diabetes
+      - Hypertension
+      - Asthma
       required: false
-    - id: 7
-      name: medical_allergies
-      label: Medical Allergies
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
+    - id: 5
       name: medication_list
       label: Medication List
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
+    - id: 6
       name: medication_dosage
       label: Medication Dosage
       hint: null
@@ -74,117 +52,90 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 10
+    - id: 7
       name: social_security
       label: Social Security Number
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 8
       name: emergency_contact_relationship
       label: Emergency Contact Relationship
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
+    - id: 9
       name: medical_provider
       label: Medical Provider
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
+    - id: 10
       name: medical_provider_address
       label: Medical Provider Address
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
+    - id: 11
       name: medical_record_number
       label: Medical Record Number
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
+    - id: 12
       name: medical_record_provider
       label: Medical Record Provider
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
+    - id: 13
       name: medical_record_date
       label: Medical Record Date
       hint: null
       type: date
       options: []
       required: false
+    - id: 14
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_allergies
+      label: Medical Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_conditions_2
+      label: Medical Conditions 2
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Asthma
+      required: false
     - id: 17
-      name: medical_record_number
-      label: Medical Record Number
+      name: emergency_contact_info
+      label: Emergency Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: medication_list
-      label: Medication List
+      name: additional_notes
+      label: Additional Notes
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: medication_dosage
-      label: Medication Dosage
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: social_security
-      label: Social Security Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: emergency_contact_relationship
-      label: Emergency Contact Relationship
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: medical_provider
-      label: Medical Provider
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: medical_provider_address
-      label: Medical Provider Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: medical_record_number
-      label: Medical Record Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: medical_record_provider
-      label: Medical Record Provider
-      hint: null
-      type: text
+      type: note
       options: []
       required: false

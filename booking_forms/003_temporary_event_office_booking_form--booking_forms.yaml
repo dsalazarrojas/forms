@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Meeting''}'
-      - '{''id'': 2, ''label'': ''Conference''}'
-      - '{''id'': 3, ''label'': ''Seminar''}'
-      - '{''id'': 4, ''label'': ''Training''}'
-      - '{''id'': 5, ''label'': ''Workshop''}'
+      - Meeting
+      - Conference
+      - Seminar
+      - Training
+      - Workshop
       required: true
     - id: 5
       name: office_booking
@@ -42,10 +42,10 @@ inputSchema:
       hint: Please select all that apply, separated by commas.
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''8:00 AM - 9:00 AM''}'
-      - '{''id'': 2, ''label'': ''9:00 AM - 12:00 PM''}'
-      - '{''id'': 3, ''label'': ''12:00 PM - 3:00 PM''}'
-      - '{''id'': 4, ''label'': ''3:00 PM - 6:00 PM''}'
+      - 8:00 AM - 9:00 AM
+      - 9:00 AM - 12:00 PM
+      - 12:00 PM - 3:00 PM
+      - 3:00 PM - 6:00 PM
       required: false
     - id: 6
       name: attendee_count

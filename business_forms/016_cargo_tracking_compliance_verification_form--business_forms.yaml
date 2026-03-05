@@ -84,8 +84,8 @@ inputSchema:
       hint: BOL, Invoice, Certificates
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - In Progress
       required: true
     - id: 12
@@ -94,8 +94,8 @@ inputSchema:
       hint: Check for proper marking and symbols
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - N/A
       required: true
     - id: 13
@@ -104,8 +104,8 @@ inputSchema:
       hint: ensure proper classification
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - N/A
       required: true
     - id: 14
@@ -114,8 +114,8 @@ inputSchema:
       hint: within acceptable tolerance
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: routing_compliance
@@ -123,8 +123,8 @@ inputSchema:
       hint: Check for geopolitical or safety restrictions
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - N/A
       required: true
     - id: 16
@@ -158,8 +158,8 @@ inputSchema:
       hint: check the monitoring dashboard
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: section_findings

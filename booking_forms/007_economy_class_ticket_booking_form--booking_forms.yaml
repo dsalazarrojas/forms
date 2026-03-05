@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Adult''}'
-      - '{''text'': ''Child''}'
-      - '{''text'': ''Infant''}'
+      - Adult
+      - Child
+      - Infant
       required: false
     - id: 3
       name: travel_date
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Pay via Card''}'
-      - '{''text'': ''Pay via Bank''}'
+      - Pay via Card
+      - Pay via Bank
       required: false
     - id: 9
       name: confirm_booking
@@ -70,6 +70,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': True}'
-      - '{''text'': False}'
+      - 'True'
+      - 'False'
       required: false

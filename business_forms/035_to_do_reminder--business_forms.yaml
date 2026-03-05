@@ -1,7 +1,7 @@
 inputSchema:
   type: object
   properties:
-    title: to_do_reminder
+    title: To Do Reminder
     pages:
     - id: 1
       name: main
@@ -12,170 +12,121 @@ inputSchema:
       required: false
     - id: 2
       name: deadline
-      label: deadline
+      label: Deadline
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
       name: to_do_list
-      label: to_do_list
+      label: To Do List
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: personal_notes
-      label: personal_notes
+      label: Personal Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: assigned_tool
-      label: assigned_tool
+      label: Assigned Tool
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: created_by
-      label: created_by
+      label: Created By
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: created_at
-      label: created_at
+      label: Created At
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 8
       name: updated_by
-      label: updated_by
+      label: Updated By
       hint: null
       type: text
       options: []
       required: false
     - id: 9
       name: updated_at
-      label: updated_at
+      label: Updated At
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 10
       name: deleted_by
-      label: deleted_by
+      label: Deleted By
       hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: deleted_at
-      label: deleted_at
+      label: Deleted At
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 12
       name: description
-      label: description
+      label: Description
       hint: null
       type: text
       options: []
       required: false
     - id: 13
       name: category
-      label: category
+      label: Category
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: form_id
-      label: form_id
+      name: tool_id
+      label: Tool ID
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: tool_id
-      label: tool_id
+      name: form_id
+      label: Form ID
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: form_title
-      label: form_title
+      name: tool_title
+      label: Tool Title
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: form_category
-      label: form_category
+      name: tool_category
+      label: Tool Category
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: form_description
-      label: form_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: tool_title
-      label: tool_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: tool_id
-      label: tool_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: tool_category
-      label: tool_category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: tool_description
-      label: tool_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: created_at
-      label: created_at
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: updated_at
-      label: updated_at
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_ids
-      label: form_ids
+      name: form_title
+      label: Form Title
       hint: null
       type: text
       options: []

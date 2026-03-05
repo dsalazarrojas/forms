@@ -4,22 +4,22 @@ inputSchema:
     title: Digital Shelf Integration Request Form
     pages:
     - id: 1
-      name: ecommerce_team
-      label: Ecommerce Team
+      name: ecommerce_team_status
+      label: Ecommerce Team Status
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 2
-      name: it_team
-      label: IT Team
+      name: it_team_status
+      label: IT Team Status
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: integration_platform
@@ -27,8 +27,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Shopify
+      - Magento
+      - WooCommerce
+      - Other
       required: false
     - id: 4
       name: integration_type
@@ -36,8 +38,10 @@ inputSchema:
       hint: Select the type of integration you're requesting
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - API
+      - FTP
+      - SFTP
+      - Other
       required: false
     - id: 5
       name: product_type
@@ -45,163 +49,58 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Digital Product
+      - Physical Product
+      - Service
+      - Other
       required: false
     - id: 6
-      name: product_id
-      label: Product ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
       name: integration_date
       label: Integration Date
       hint: Select the date for integration
       type: date
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: integration_time
       label: Integration Time
       hint: Select the time for integration
       type: time
       options: []
       required: false
-    - id: 9
-      name: notes
+    - id: 8
+      name: additional_notes
       label: Additional Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 10
+    - id: 9
       name: email
       label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 11
+    - id: 10
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
       required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
     - id: 12
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - chatjimmy
-      - chatjimmy
-      required: false
-    - id: 13
-      name: form_id
-      label: Form ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
       name: output_file
       label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - chatjimmy
-      - chatjimmy
-      required: false
-    - id: 16
-      name: form_id
-      label: Form ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: assigned_tool_3
-      label: Assigned Tool 3
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - chatjimmy
-      - chatjimmy
-      required: false
-    - id: 19
-      name: form_id_2
-      label: Form ID 2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: assigned_tool_4
-      label: Assigned Tool 4
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - chatjimmy
-      - chatjimmy
-      required: false
-    - id: 21
-      name: assigned_tool_5
-      label: Assigned Tool 5
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - chatjimmy
-      - chatjimmy
-      required: false
-    - id: 22
-      name: assigned_tool_6
-      label: Assigned Tool 6
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - chatjimmy
-      - chatjimmy
-      required: false
-    - id: 23
-      name: form_id_3
-      label: Form ID 3
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: form_id_4
-      label: Form ID 4
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: output_file_2
-      label: Output File 2
       hint: null
       type: text
       options: []

@@ -20,14 +20,14 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: inspector_name
       label: Inspector Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: inspector_signature
       label: Inspector Signature
@@ -35,116 +35,68 @@ inputSchema:
       type: select_one
       options:
       - John
-      - Doe
       - Jane
-      - Doe
-      required: false
+      - Bob
+      - Alice
+      required: true
     - id: 4
       name: date_completed
       label: Date Completed
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 5
       name: time_completed
       label: Time Completed
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 6
       name: safety_standards_complied
       label: Safety Standards Complied
       hint: null
       type: select_multiple
       options:
-      - 1 - All safety standards were met
-      - 2 - All safety standards were met with some deficiencies noted
-      - 3 - None of the safety standards were met
-      required: false
+      - All
+      - Most
+      - Some
+      - None
+      required: true
     - id: 7
-      name: safety_standards_defic
-      label: Safety Standards Defic
+      name: safety_standards_deficiencies
+      label: Safety Standards Deficiencies
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: safety_standards_defic_notes
-      label: Safety Standards Defic Notes
+      name: safety_standards_deficiency_signature
+      label: Safety Standards Defic Signature
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Bob
+      - Alice
+      required: true
     - id: 9
-      name: safety_standards_defic_signature
-      label: Safety Standards Defic Signature
+      name: date_safety_standards_defic
+      label: Date of Safety Standards Defic
       hint: null
-      type: select_one
-      options:
-      - John
-      - Doe
-      - Jane
-      - Doe
-      required: false
+      type: date
+      options: []
+      required: true
     - id: 10
-      name: safety_standards_defic_date
-      label: Safety Standards Defic Date
+      name: time_safety_standards_defic
+      label: Time of Safety Standards Defic
       hint: null
-      type: date
+      type: time
       options: []
-      required: false
+      required: true
     - id: 11
-      name: safety_standards_defic_time
-      label: Safety Standards Defic Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: safety_standards_defic
-      label: Safety Standards Defic
-      hint: null
-      type: select_one
-      options:
-      - No Deficiencies
-      - Some Deficiencies
-      - Major Deficiencies
-      required: false
-    - id: 13
-      name: safety_standards_defic_notes
-      label: Safety Standards Defic Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: safety_standards_defic_signature
-      label: Safety Standards Defic Signature
-      hint: null
-      type: select_one
-      options:
-      - John
-      - Doe
-      - Jane
-      - Doe
-      required: false
-    - id: 15
-      name: safety_standards_defic_date
-      label: Safety Standards Defic Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: safety_standards_defic_time
-      label: Safety Standards Defic Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
       name: safety_standards_defic
       label: Safety Standards Defic
       hint: null
@@ -153,71 +105,11 @@ inputSchema:
       - None
       - Some
       - Many
-      required: false
-    - id: 18
+      required: true
+    - id: 12
       name: safety_standards_defic_notes
       label: Safety Standards Defic Notes
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
-      name: safety_standards_defic_signature
-      label: Safety Standards Defic Signature
-      hint: null
-      type: select_one
-      options:
-      - John
-      - Doe
-      - Jane
-      - Doe
-      required: false
-    - id: 20
-      name: safety_standards_defic_date
-      label: Safety Standards Defic Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: safety_standards_defic_time
-      label: Safety Standards Defic Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: safety_standards_defic
-      label: Safety Standards Defic
-      hint: null
-      type: select_one
-      options:
-      - No Deficiencies
-      - Some Deficiencies
-      - Major Deficiencies
-      required: false
-    - id: 23
-      name: safety_standards_defic_notes
-      label: Safety Standards Defic Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: safety_standards_defic_signature
-      label: Safety Standards Defic Signature
-      hint: null
-      type: select_one
-      options:
-      - John
-      - Doe
-      - Jane
-      - Doe
-      required: false
-    - id: 25
-      name: safety_standards_defic_date
-      label: Safety Standards Defic Date
-      hint: null
-      type: date
-      options: []
-      required: false
+      required: true

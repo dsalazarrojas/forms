@@ -62,8 +62,8 @@ inputSchema:
       hint: Temperature over 100.4 F
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 9
@@ -112,7 +112,7 @@ inputSchema:
       options:
       - Yes - Confirmed case
       - Yes - Suspected case
-      - false
+      - 'False'
       - Unsure
       required: true
     - id: 13
@@ -167,7 +167,7 @@ inputSchema:
       options:
       - Yes - Confirmed by test
       - Yes - Suspected but not tested
-      - false
+      - 'False'
       - Unsure
       required: true
     - id: 18

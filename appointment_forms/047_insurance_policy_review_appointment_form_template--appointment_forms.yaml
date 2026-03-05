@@ -5,71 +5,85 @@ inputSchema:
     pages:
     - id: 1
       name: policy_number
-      label: policy_number
-      hint: null
+      label: Policy Number
+      hint: Enter the policy number
       type: text
       options: []
       required: true
     - id: 2
-      name: policy_date
-      label: start_date
-      hint: null
+      name: policy_start_date
+      label: Policy Start Date
+      hint: Enter start date
       type: date
       options: []
       required: true
     - id: 3
-      name: policy_time
-      label: end_date
-      hint: null
-      type: time
+      name: policy_end_date
+      label: Policy End Date
+      hint: Enter end date
+      type: date
       options: []
       required: true
     - id: 4
-      name: policy_agent
-      label: agent
-      hint: null
+      name: agent_name
+      label: Agent
+      hint: Enter agent's name
       type: text
       options: []
       required: false
     - id: 5
       name: client_name
-      label: client_name
-      hint: null
+      label: Client Name
+      hint: Enter client's name
       type: text
       options: []
       required: true
     - id: 6
       name: client_email
-      label: email
-      hint: null
+      label: Client Email
+      hint: Enter client's email
       type: email
       options: []
       required: true
     - id: 7
       name: client_phone
-      label: phone
-      hint: null
+      label: Client Phone
+      hint: Enter client's phone number
       type: text
       options: []
       required: false
     - id: 8
-      name: start_date
-      label: start_date
-      hint: null
+      name: appointment_start_date
+      label: Start Date
+      hint: Enter start date of the appointment
       type: date
       options: []
-      required: false
+      required: true
     - id: 9
-      name: end_date
-      label: end_date
-      hint: null
+      name: appointment_end_date
+      label: End Date
+      hint: Enter end date of the appointment
       type: date
       options: []
-      required: false
+      required: true
     - id: 10
-      name: agent
-      label: agent
-      hint: null
-      type: text
+      name: appointment_time
+      label: Start Time
+      hint: Enter start time
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: appointment_duration
+      label: Duration
+      hint: Enter appointment duration
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: appointment_note
+      label: Note
+      hint: Enter any additional notes
+      type: note
       options: []
       required: false

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Maintenance Worker''}'
-      - '{''value'': ''Maintenance Manager''}'
-      - '{''value'': ''Maintenance Supervisor''}'
+      - Maintenance Worker
+      - Maintenance Manager
+      - Maintenance Supervisor
       required: false
     - id: 3
       name: maintenance_area
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Completed''}'
+      - Pending
+      - In Progress
+      - Completed
       required: false
     - id: 8
       name: maintenance_type
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Scheduled''}'
-      - '{''value'': ''Unscheduled''}'
-      - '{''value'': ''Emergency''}'
+      - Scheduled
+      - Unscheduled
+      - Emergency
       required: false
     - id: 9
       name: access_level
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Supervisor''}'
-      - '{''value'': ''Manager''}'
-      - '{''value'': ''Employee''}'
+      - Supervisor
+      - Manager
+      - Employee
       required: false
     - id: 10
       name: assigned_tool

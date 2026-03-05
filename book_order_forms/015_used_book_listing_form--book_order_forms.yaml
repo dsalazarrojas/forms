@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
+      - Excellent
+      - Good
+      - Fair
       required: false
     - id: 7
       name: condition_notes
@@ -117,8 +117,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: book_is_audiobook
@@ -144,9 +144,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''USD''}'
-      - '{''label'': ''EUR''}'
-      - '{''label'': ''JPY''}'
+      - USD
+      - EUR
+      - JPY
       required: false
     - id: 20
       name: book_price_currency_other

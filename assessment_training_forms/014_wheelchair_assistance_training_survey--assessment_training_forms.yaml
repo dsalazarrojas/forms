@@ -16,10 +16,10 @@ inputSchema:
       hint: How confident do you feel about using the wheelchair assistance tools?
       type: select_one
       options:
-      - '{''label'': ''Very High''}'
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - Very High
+      - High
+      - Medium
+      - Low
       required: false
     - id: 3
       name: training_quality
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 4
       name: satisfaction_level
@@ -38,11 +38,11 @@ inputSchema:
       hint: How satisfied are you with the training session?
       type: select_one
       options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Satisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Dissatisfied''}'
-      - '{''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 5
       name: future_sessions
@@ -50,11 +50,11 @@ inputSchema:
       hint: How many more sessions would you like to attend in the next six months?
       type: select_multiple
       options:
-      - '{''label'': 1}'
-      - '{''label'': 2}'
-      - '{''label'': 3}'
-      - '{''label'': 4}'
-      - '{''label'': ''5 or more''}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - 5 or more
       required: false
     - id: 6
       name: additional_comments

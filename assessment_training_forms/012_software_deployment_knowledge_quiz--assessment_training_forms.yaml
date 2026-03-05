@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: deployment_process_awareness
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Agile''}'
-      - '{''id'': 2, ''label'': ''VCS''}'
-      - '{''id'': 3, ''label'': ''CI/CD''}'
+      - Agile
+      - VCS
+      - CI/CD
       required: false
     - id: 4
       name: continuous_integration_awareness
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 11
       name: knowledge_base
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Documentation''}'
-      - '{''id'': 2, ''label'': ''Training''}'
-      - '{''id'': 3, ''label'': ''Mentorship''}'
+      - Documentation
+      - Training
+      - Mentorship
       required: false
     - id: 13
       name: workshops
@@ -104,9 +104,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Online''}'
-      - '{''id'': 2, ''label'': ''Offline''}'
-      - '{''id'': 3, ''label'': ''Hybrid''}'
+      - Online
+      - Offline
+      - Hybrid
       required: false
     - id: 14
       name: onboarding_process

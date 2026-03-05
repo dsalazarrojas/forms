@@ -1,142 +1,124 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Tax Credit Application
     pages:
-      - id: 1
-        name: section_applicant_details
-        label: -- Applicant Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: primary_taxpayer_name
-        label: Primary Taxpayer Name
-        hint: Full legal name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: ssn_last4
-        label: Social Security Number - Last 4 Digits
-        hint: For verification purposes
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: contact_email
-        label: Contact Email Address
-        hint: For application status updates
-        type: email
-        options: []
-        required: true
-      - id: 5
-        name: section_qualifying_child_1
-        label: -- Qualifying Child 1 --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: child_1_name
-        label: Child 1 Name
-        hint: First dependent child
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: child_1_dob
-        label: Child 1 Date of Birth
-        hint: To confirm age eligibility
-        type: date
-        options: []
-        required: true
-      - id: 8
-        name: child_1_residency_status
-        label: Did child 1 live with you for more than half the year?
-        hint: Residency requirement for credit
-        type: select_one
-        options:
-          - label: Yes
-            value: yes
-          - label: No
-            value: no
-        required: true
-      - id: 9
-        name: section_qualifying_child_2
-        label: -- Qualifying Child 2 --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: child_2_name
-        label: Child 2 Name
-        hint: Second dependent child
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: child_2_dob
-        label: Child 2 Date of Birth
-        hint: Select birthday
-        type: date
-        options: []
-        required: false
-      - id: 12
-        name: child_2_residency_status
-        label: Did child 2 live with you for more than half the year?
-        hint: Residency requirement for credit
-        type: select_one
-        options:
-          - label: Yes
-            value: yes
-          - label: No
-            value: no
-        required: false
-      - id: 13
-        name: section_financial_eligibility
-        label: -- Financial Eligibility --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: agi_range
-        label: Total Household Adjusted Gross Income Range
-        hint: Annual income for the tax year
-        type: select_one
-        options:
-          - label: Under $75,000
-            value: low
-          - label: $75,000 to $150,000
-            value: medium
-          - label: Over $150,000
-            value: high
-        required: true
-      - id: 15
-        name: additional_dependents_text
-        label: Any other dependents to list?
-        hint: Name and ages of other children
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: application_date
-        label: Today Date
-        hint: Submission date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_applicant_details
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_taxpayer_name
+      label: Primary Taxpayer Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ssn_last4
+      label: Social Security Number - Last 4 Digits
+      hint: For verification purposes
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email Address
+      hint: For application status updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_qualifying_child_1
+      label: -- Qualifying Child 1 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: child_1_name
+      label: Child 1 Name
+      hint: First dependent child
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_1_dob
+      label: Child 1 Date of Birth
+      hint: To confirm age eligibility
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: child_1_residency_status
+      label: Did child 1 live with you for more than half the year?
+      hint: Residency requirement for credit
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: section_qualifying_child_2
+      label: -- Qualifying Child 2 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: child_2_name
+      label: Child 2 Name
+      hint: Second dependent child
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: child_2_dob
+      label: Child 2 Date of Birth
+      hint: Select birthday
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: child_2_residency_status
+      label: Did child 2 live with you for more than half the year?
+      hint: Residency requirement for credit
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: section_financial_eligibility
+      label: -- Financial Eligibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: agi_range
+      label: Total Household Adjusted Gross Income Range
+      hint: Annual income for the tax year
+      type: select_one
+      options:
+      - Under $75,000
+      - $75,000 to $150,000
+      - Over $150,000
+      required: true
+    - id: 15
+      name: additional_dependents_text
+      label: Any other dependents to list?
+      hint: Name and ages of other children
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: application_date
+      label: Today Date
+      hint: Submission date
+      type: date
+      options: []
+      required: true

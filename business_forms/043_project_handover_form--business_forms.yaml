@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Team 1''}'
-      - '{''value'': 2, ''label'': ''Team 2''}'
+      - Team 1
+      - Team 2
       required: false
     - id: 3
       name: project_start_date
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Active''}'
-      - '{''value'': 2, ''label'': ''Completed''}'
-      - '{''value'': 3, ''label'': ''Closed''}'
+      - Active
+      - Completed
+      - Closed
       required: false
     - id: 7
       name: project_notes
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Team 1''}'
-      - '{''value'': 2, ''label'': ''Team 2''}'
+      - Team 1
+      - Team 2
       required: false
     - id: 9
       name: team_lead
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Lead 1''}'
-      - '{''value'': 2, ''label'': ''Lead 2''}'
+      - Lead 1
+      - Lead 2
       required: false
     - id: 10
       name: team_members
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Member 1''}'
-      - '{''value'': 2, ''label'': ''Member 2''}'
+      - Member 1
+      - Member 2
       required: false
     - id: 11
       name: resource_list
@@ -97,8 +97,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Type 1''}'
-      - '{''value'': 2, ''label'': ''Type 2''}'
+      - Type 1
+      - Type 2
       required: false
     - id: 13
       name: resource_quantity
@@ -113,6 +113,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Active''}'
-      - '{''value'': 2, ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''manager1''}'
-      - '{''id'': 2, ''name'': ''manager2''}'
+      - manager1
+      - manager2
       required: false
     - id: 3
       name: store_characteristics
@@ -25,8 +25,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''store_width''}'
-      - '{''id'': 2, ''name'': ''store_height''}'
+      - store width
+      - store height
       required: false
     - id: 4
       name: layout_preferences
@@ -34,7 +34,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''preferred_layout''}'
+      - preferred layout
       - Other
       required: false
     - id: 5
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''preferred_direction''}'
-      - '{''id'': 2, ''name'': ''preferred_direction_2''}'
+      - preferred direction
+      - preferred direction 2
       required: false
     - id: 8
       name: store_characteristics
@@ -66,8 +66,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''store_width''}'
-      - '{''id'': 2, ''name'': ''store_height''}'
+      - store width
+      - store height
       required: false
     - id: 9
       name: floor_plan_options
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''floor_plan_1''}'
-      - '{''id'': 2, ''name'': ''floor_plan_2''}'
+      - floor plan 1
+      - floor plan 2
       required: false
     - id: 10
       name: manager_layout
@@ -91,8 +91,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''monday''}'
-      - '{''id'': 2, ''name'': ''saturday''}'
+      - monday
+      - saturday
       required: false
     - id: 12
       name: customer_experience

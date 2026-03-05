@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Session 1'', ''value'': 1}'
-      - '{''label'': ''Session 2'', ''value'': 2}'
+      - Session 1
+      - Session 2
       required: false
     - id: 8
       name: training_duration
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''30 minutes'', ''value'': 30}'
-      - '{''label'': ''1 hour'', ''value'': 60}'
-      - '{''label'': ''2 hours'', ''value'': 120}'
+      - 30 minutes
+      - 1 hour
+      - 2 hours
       required: false
     - id: 9
       name: training_topic
@@ -77,6 +77,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Booked'', ''value'': ''Booked''}'
-      - '{''label'': ''Not Booked'', ''value'': ''Not Booked''}'
+      - Booked
+      - Not Booked
       required: false

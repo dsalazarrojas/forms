@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent'', ''value'': 1}'
-      - '{''label'': ''Average'', ''value'': 2}'
-      - '{''label'': ''Poor'', ''value'': 3}'
+      - Excellent
+      - Average
+      - Poor
       required: true
     - id: 3
       name: marketing_teams
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Marketing'', ''value'': ''Marketing''}'
-      - '{''label'': ''Communications'', ''value'': ''Communications''}'
-      - '{''label'': ''Publishing'', ''value'': ''Publishing''}'
+      - Marketing
+      - Communications
+      - Publishing
       required: false
     - id: 4
       name: publishing_teams
@@ -36,8 +36,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Publishing'', ''value'': ''Publishing''}'
-      - '{''label'': ''Marketing'', ''value'': ''Marketing''}'
+      - Publishing
+      - Marketing
       required: false
     - id: 5
       name: communication_performance
@@ -52,9 +52,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High'', ''value'': 1}'
-      - '{''label'': ''Average'', ''value'': 2}'
-      - '{''label'': ''Low'', ''value'': 3}'
+      - High
+      - Average
+      - Low
       required: true
     - id: 7
       name: customer_satisfaction_level
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High'', ''value'': 1}'
-      - '{''label'': ''Average'', ''value'': 2}'
-      - '{''label'': ''Low'', ''value'': 3}'
+      - High
+      - Average
+      - Low
       required: true
     - id: 8
       name: target_audience
@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent'', ''value'': 1}'
-      - '{''label'': ''Average'', ''value'': 2}'
-      - '{''label'': ''Poor'', ''value'': 3}'
+      - Excellent
+      - Average
+      - Poor
       required: true
     - id: 10
       name: publishing_performance
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent'', ''value'': 1}'
-      - '{''label'': ''Average'', ''value'': 2}'
-      - '{''label'': ''Poor'', ''value'': 3}'
+      - Excellent
+      - Average
+      - Poor
       required: false
     - id: 11
       name: target_audience_age
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Male'', ''value'': ''Male''}'
-      - '{''label'': ''Female'', ''value'': ''Female''}'
-      - '{''label'': ''Both'', ''value'': ''Both''}'
+      - Male
+      - Female
+      - Both
       required: true
     - id: 13
       name: target_audience_geographic
@@ -137,9 +137,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High'', ''value'': ''High''}'
-      - '{''label'': ''Average'', ''value'': ''Average''}'
-      - '{''label'': ''Low'', ''value'': ''Low''}'
+      - High
+      - Average
+      - Low
       required: true
     - id: 17
       name: communication_approach
@@ -147,12 +147,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Direct Mail'', ''value'': ''Direct Mail''}'
-      - '{''label'': ''Email'', ''value'': ''Email''}'
-      - '{''label'': ''Social Media'', ''value'': ''Social Media''}'
-      - '{''label'': ''Phone'', ''value'': ''Phone''}'
-      - '{''label'': ''In-person'', ''value'': ''In-person''}'
-      - '{''label'': ''Online'', ''value'': ''Online''}'
+      - Direct Mail
+      - Email
+      - Social Media
+      - Phone
+      - In-person
+      - Online
       required: true
     - id: 18
       name: customer_satisfaction_sources
@@ -181,9 +181,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily'', ''value'': 1}'
-      - '{''label'': ''Weekly'', ''value'': 2}'
-      - '{''label'': ''Monthly'', ''value'': 3}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 22
       name: customer_satisfaction_criteria

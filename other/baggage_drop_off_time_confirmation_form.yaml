@@ -43,7 +43,9 @@ inputSchema:
       label: airport
       hint: null
       type: select_one
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 7
       name: scheduled_dropoff_time
@@ -72,7 +74,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''On Time''}'
-      - '{''id'': 2, ''label'': ''Late''}'
-      - '{''id'': 3, ''label'': ''Early''}'
+      - On Time
+      - Late
+      - Early
       required: true

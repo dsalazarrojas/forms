@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Yes''}'
-      - '{''value'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 3
       name: medical_team
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Doctor''}'
-      - '{''value'': ''Nurse''}'
-      - '{''value'': ''Other''}'
+      - Doctor
+      - Nurse
+      - Other
       required: false
     - id: 4
       name: assessment_type
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Verbal''}'
-      - '{''value'': ''Written''}'
-      - '{''value'': ''Practical''}'
+      - Verbal
+      - Written
+      - Practical
       required: false
     - id: 5
       name: evaluation_scale
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pass''}'
-      - '{''value'': ''Fail''}'
-      - '{''value'': ''Needs Improvement''}'
+      - Pass
+      - Fail
+      - Needs Improvement
       required: false
     - id: 6
       name: date

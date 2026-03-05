@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Event'', ''value'': ''Event''}'
-      - '{''id'': 2, ''label'': ''Team'', ''value'': ''Team''}'
+      - Event
+      - Team
       required: true
     - id: 3
       name: event_name
@@ -123,8 +123,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Hand Signed'', ''value'': ''Hand Signed''}'
-      - '{''id'': 2, ''label'': ''E-Signed'', ''value'': ''E-Signed''}'
+      - Hand Signed
+      - E-Signed
       required: true
     - id: 18
       name: race_kit_note
@@ -167,8 +167,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''California'', ''value'': ''California''}'
-      - '{''id'': 2, ''label'': ''Other'', ''value'': ''Other''}'
+      - California
+      - Other
       required: true
     - id: 24
       name: zip_code

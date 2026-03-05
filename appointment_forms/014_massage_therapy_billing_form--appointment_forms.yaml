@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Massage''}'
-      - '{''label'': ''Physical Therapy''}'
-      - '{''label'': ''Other''}'
+      - Massage
+      - Physical Therapy
+      - Other
       required: false
     - id: 7
       name: num_sessions
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Cash''}'
-      - '{''label'': ''Credit Card''}'
-      - '{''label'': ''Insurance''}'
+      - Cash
+      - Credit Card
+      - Insurance
       required: true
     - id: 13
       name: payment_amount
@@ -106,8 +106,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Online''}'
-      - '{''label'': ''In-Office''}'
+      - Online
+      - In-Office
       required: true
     - id: 15
       name: payment_notes

@@ -16,176 +16,144 @@ inputSchema:
     pages:
     - id: 1
       name: resource_allocation
-      label: Resource allocation
+      label: What time do you usually arrive at work?
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 2
       name: time_management
-      label: Time management
+      label: How many hours do you work each day?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 3
       name: team_productivity
-      label: Team productivity
+      label: How would you rate your team's productivity?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 4
+      name: project_status
+      label: What is the current project status?
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - On Hold
+      - Completed
+      required: true
+    - id: 5
+      name: resource_availability
+      label: What resources are available to you on Monday?
       hint: null
       type: text
       options: []
       required: true
-    - id: 4
-      name: resource_availability
-      label: Resource availability
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 5
-      name: resource_availability_2
-      label: Resource availability
-      hint: null
-      type: time
-      options: []
-      required: false
     - id: 6
-      name: resource_availability_3
-      label: Resource availability
+      name: task_completion
+      label: How do you prioritize tasks?
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: time_management_2
-      label: Time management
+      name: meeting_frequency
+      label: How often do you have meetings?
       hint: null
-      type: time
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
     - id: 8
-      name: team_productivity_2
-      label: Team productivity
+      name: team_collaboration
+      label: Do you collaborate with other teams?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 9
-      name: resource_allocation_2
-      label: Resource allocation
+      name: task_management
+      label: How do you manage tasks?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - To-Do List
+      - Task Manager
+      - Project Management
+      required: true
     - id: 10
-      name: resource_availability_4
-      label: Resource availability
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: resource_availability_5
-      label: Resource availability
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: resource_availability_6
-      label: Resource availability
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: resource_availability_7
-      label: Resource availability
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: resource_availability_8
-      label: Resource availability
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: time_management_3
-      label: Time management
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: team_productivity_3
-      label: Team productivity
+      name: work_location
+      label: Where do you work?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 11
+      name: time_management_2
+      label: How do you plan your schedule for the day?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_status_update
+      label: How do you update project status?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 13
+      name: resource_allocation_2
+      label: How many resources do you have at your disposal?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: resource_allocation_3
+      label: How many resources do you have at your disposal for this project?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: resource_availability_2
+      label: What resources do you have available to you during work hours?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: time_management_2_2
+      label: What is your work hours?
+      hint: null
+      type: time
+      options: []
+      required: true
     - id: 17
-      name: time_management
-      label: Time management
+      name: team_productivity_2
+      label: What factors affect team productivity?
       hint: null
       type: text
       options: []
       required: true
     - id: 18
-      name: resource_allocation_3
-      label: Resource allocation
+      name: project_completion_rate
+      label: What is your project completion rate?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 19
-      name: team_productivity_4
-      label: Team productivity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: time_management_4
-      label: Time management
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: time_management_5
-      label: Time management
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: time_management_6
-      label: Time management
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: team_productivity_5
-      label: Team productivity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: team_productivity_6
-      label: Team productivity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: resource_allocation_4
-      label: Resource allocation
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

@@ -94,12 +94,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''weekly'': True}'
-      - '{''biweekly'': True}'
-      - '{''monthly'': True}'
-      - '{''biannually'': True}'
-      - '{''annually'': True}'
-      - '{''quarterly'': True}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
       required: false
     - id: 13
       name: email
@@ -156,7 +156,7 @@ inputSchema:
       - personal
       - commercial
       - construction
-      - home_equity
+      - home equity
       required: false
     - id: 20
       name: loan_amount_frequency
@@ -166,7 +166,7 @@ inputSchema:
       options:
       - fixed
       - variable
-      - variable_plus_fees
+      - variable plus fees
       required: false
     - id: 21
       name: loan_amount_frequency_type
@@ -188,10 +188,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - date_of_birth
-      - date_of_death
-      - date_of_mortgage
-      - date_of_sale
+      - date of birth
+      - date of death
+      - date of mortgage
+      - date of sale
       required: false
     - id: 23
       name: payment_schedule_type
@@ -200,7 +200,7 @@ inputSchema:
       type: select_multiple
       options:
       - linear
-      - non_linear
+      - non linear
       - balloon
       - deferred
       required: false
@@ -210,7 +210,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - lump_sum
+      - lump sum
       - level
       - variable
       - fixed

@@ -9,10 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Electronic Destruction'', ''value'': ''Electronic
-        Destruction''}'
-      - '{''id'': 2, ''name'': ''Physical Destruction'', ''value'': ''Physical Destruction''}'
-      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      - Electronic Destruction
+      - Physical Destruction
+      - Other
       required: false
     - id: 2
       name: destroyed_by
@@ -20,10 +19,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Electronic Destruction'', ''value'': ''Electronic
-        Destruction''}'
-      - '{''id'': 2, ''name'': ''Physical Destruction'', ''value'': ''Physical Destruction''}'
-      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      - Electronic Destruction
+      - Physical Destruction
+      - Other
       required: false
     - id: 3
       name: who_destroyed_records
@@ -45,11 +43,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Pulped (pulled apart)'', ''value'': ''Pulped (pulled
-        apart)''}'
-      - '{''id'': 2, ''name'': ''Shredded'', ''value'': ''Shredded''}'
-      - '{''id'': 3, ''name'': ''Burned'', ''value'': ''Burned''}'
-      - '{''id'': 4, ''name'': ''Other'', ''value'': ''Other''}'
+      - Pulped (pulled apart)
+      - Shredded
+      - Burned
+      - Other
       required: false
     - id: 6
       name: records_type
@@ -57,10 +54,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Paper documents'', ''value'': ''Paper documents''}'
-      - '{''id'': 2, ''name'': ''Electronic documents'', ''value'': ''Electronic documents''}'
-      - '{''id'': 3, ''name'': ''Audio/video files'', ''value'': ''Audio/video files''}'
-      - '{''id'': 4, ''name'': ''Other documents'', ''value'': ''Other documents''}'
+      - Paper documents
+      - Electronic documents
+      - Audio/video files
+      - Other documents
       required: false
     - id: 7
       name: reason_for_destruction

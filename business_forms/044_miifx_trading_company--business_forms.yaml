@@ -4,34 +4,129 @@ inputSchema:
     title: Miifx Trading Company
     pages:
     - id: 1
-      name: join_form
-      label: Join over one million investors and traders in the world in a simple
-        and transparent way of investing
+      name: welcome_message
+      label: Welcome to Miifx Trading Company
       hint: null
       type: text
       options: []
       required: false
     - id: 2
+      name: name_form
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
       name: email_form
-      label: Join over one million investors and traders in the world in a simple
-        and transparent way of investing
+      label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 3
-      name: phone_form
-      label: Join over one million investors and traders in the world in a simple
-        and transparent way of investing
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 4
-      name: form_description
-      label: Join over one million investors and traders in the world in a simple
-        and transparent way of investing
+      name: phone_form
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: investment_interest_form
+      label: Investment Interest
+      hint: null
+      type: select_one
+      options:
+      - Stocks
+      - Bonds
+      - ETFs
+      - Mutual Funds
+      - Other
+      required: true
+    - id: 6
+      name: investment_goal_form
+      label: Investment Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Conservative
+      - Aggressive
+      - Growth
+      - Income
+      - Long-term Growth
+      - Short-term Growth
+      required: true
+    - id: 7
+      name: risk_tolerance_form
+      label: Risk Tolerance
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 8
+      name: age_form
+      label: Age
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: location_form
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: occupation_form
+      label: Occupation
       hint: null
       type: text
       options: []
       required: false
+    - id: 11
+      name: linkedin_form
+      label: Have a LinkedIn Profile?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: twitter_form
+      label: Have a Twitter Profile?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: additional_comments_form
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 15
+      name: consent_form
+      label: Consent to Receive Marketing Materials
+      hint: null
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true

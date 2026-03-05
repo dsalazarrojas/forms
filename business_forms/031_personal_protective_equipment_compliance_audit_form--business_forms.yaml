@@ -5,207 +5,127 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: ppe_equipment_type
-      label: ppe_equipment_type
+      label: Type of PPE
       hint: null
       type: select_one
       options:
-      - Hard hat, Safety glasses, Earplugs
+      - Hard hat
+      - Safety glasses
+      - Earplugs
       - Other
       required: true
     - id: 3
       name: safety_helmet
-      label: safety_helmet
+      label: Safety Helmet
       hint: null
       type: select_multiple
       options:
-      - Yes, No
+      - 'True'
+      - 'False'
       - Other
       required: true
     - id: 4
       name: safety_shoes
-      label: safety_shoes
+      label: Safety Shoes
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: safety_gloves
-      label: safety_gloves
+      label: Safety Gloves
       hint: null
       type: number
       options: []
       required: false
     - id: 6
-      name: safety_glasses
-      label: safety_glasses
+      name: safety_goggles
+      label: Safety Goggles
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Yes, No
+      - 'True'
+      - 'False'
       - Other
       required: true
     - id: 7
-      name: safety_goggles
-      label: safety_goggles
+      name: safety_monitor
+      label: Safety Monitor
       hint: null
       type: select_multiple
       options:
-      - Yes, No
+      - 'True'
+      - 'False'
       - Other
       required: true
     - id: 8
-      name: safety_monitor
-      label: safety_monitor
-      hint: null
-      type: select_multiple
-      options:
-      - Yes, No
-      - Other
-      required: false
-    - id: 9
       name: safety_lemon
-      label: safety_lemon
+      label: Safety Lemon
       hint: null
       type: time
       options: []
       required: false
-    - id: 10
+    - id: 9
       name: safety_lemon_2
-      label: safety_lemon_2
+      label: Safety Lemon 2
       hint: null
       type: date
       options: []
       required: false
-    - id: 11
+    - id: 10
       name: comments
-      label: comments
+      label: Comments
       hint: null
       type: note
       options: []
       required: false
-    - id: 12
+    - id: 11
       name: safety_equipment_inspection_frequency
-      label: safety_equipment_inspection_frequency
+      label: Safety Equipment Inspection Frequency
       hint: null
       type: select_multiple
       options:
-      - Daily, Weekly, Monthly
+      - Daily
+      - Weekly
+      - Monthly
       - Other
       required: true
-    - id: 13
+    - id: 12
       name: safety_equipment_inspection_last_date
-      label: safety_equipment_inspection_last_date
+      label: Safety Equipment Inspection Last Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: safety_equipment_inspection_next_date
+      label: Safety Equipment Inspection Next Date
       hint: null
       type: date
       options: []
       required: true
     - id: 14
-      name: safety_equipment_inspection_next_date
-      label: safety_equipment_inspection_next_date
+      name: safety_equipment_inspection_completed_by
+      label: Safety Equipment Inspection Completed By
       hint: null
-      type: date
-      options: []
+      type: select_multiple
+      options:
+      - Manager
+      - Supervisor
+      - Safety Officer
+      - Employee
+      - Other
       required: true
     - id: 15
-      name: safety_equipment_inspection_last_completed_by
-      label: safety_equipment_inspection_last_completed_by
-      hint: null
-      type: select_multiple
-      options:
-      - Manager, Supervisor, Safety Officer, Employee
-      - Other
-      required: true
-    - id: 16
-      name: safety_equipment_inspection_last_completd_by
-      label: safety_equipment_inspection_last_completd_by
-      hint: null
-      type: select_multiple
-      options:
-      - Manager, Supervisor, Safety Officer, Employee
-      - Other
-      required: true
-    - id: 17
-      name: safety_equipment_inspection_last_completed_by
-      label: safety_equipment_inspection_last_completed_by
-      hint: null
-      type: select_multiple
-      options:
-      - Manager, Supervisor, Safety Officer, Employee
-      - Other
-      required: true
-    - id: 18
-      name: safety_equipment_inspection_last_completed_by
-      label: safety_equipment_inspection_last_completed_by
-      hint: null
-      type: select_multiple
-      options:
-      - Manager, Supervisor, Safety Officer, Employee
-      - Other
-      required: true
-    - id: 19
-      name: safety_equipment_inspection_last_completed_by
-      label: safety_equipment_inspection_last_completed_by
-      hint: null
-      type: select_multiple
-      options:
-      - Manager, Supervisor, Safety Officer, Employee
-      - Other
-      required: true
-    - id: 20
-      name: safety_equipment_inspection_last_completed_by
-      label: safety_equipment_inspection_last_completed_by
-      hint: null
-      type: select_multiple
-      options:
-      - Manager, Supervisor, Safety Officer, Employee
-      - Other
-      required: true
-    - id: 21
-      name: safety_equipment_inspection_last_completed_by
-      label: safety_equipment_inspection_last_completed_by
-      hint: null
-      type: select_multiple
-      options:
-      - Manager, Supervisor, Safety Officer, Employee
-      - Other
-      required: true
-    - id: 22
-      name: safety_equipment_inspection_last_completed_by
-      label: safety_equipment_inspection_last_completed_by
-      hint: null
-      type: select_multiple
-      options:
-      - Manager, Supervisor, Safety Officer, Employee
-      - Other
-      required: true
-    - id: 23
-      name: safety_equipment_inspection_last_completed_by
-      label: safety_equipment_inspection_last_completed_by
-      hint: null
-      type: select_multiple
-      options:
-      - Manager, Supervisor, Safety Officer, Employee
-      - Other
-      required: true
-    - id: 24
-      name: safety_equipment_inspection_last_completed_by
-      label: safety_equipment_inspection_last_completed_by
-      hint: null
-      type: select_multiple
-      options:
-      - Manager, Supervisor, Safety Officer, Employee
-      - Other
-      required: true
-    - id: 25
       name: review
-      label: review
+      label: Review
       hint: null
       type: note
       options: []

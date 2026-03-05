@@ -6,181 +6,73 @@ inputSchema:
     - id: 1
       name: team_details
       label: Team Details
-      hint: null
+      hint: Enter team details
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: team_name
-      label: team_name
-      hint: null
+      label: Team Name
+      hint: Enter team name
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: division
-      label: division
-      hint: null
-      type: select_one
-      options:
-      - Division 1
-      - Division 2
-      - Division 3
-      required: false
-    - id: 4
       name: team_manager_name
-      label: team_manager_name
-      hint: null
+      label: Team Manager Name
+      hint: Enter team manager name
       type: text
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: team_manager_phone
-      label: team_manager_phone
-      hint: null
+      label: Team Manager Phone
+      hint: Enter team manager phone number
       type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: team_manager_email
-      label: team_manager_email
-      hint: null
+      label: Team Manager Email
+      hint: Enter team manager email
       type: email
       options: []
-      required: false
-    - id: 7
-      name: team_manager_notes
-      label: team_manager_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 6
       name: player_names
       label: Player Names
-      hint: null
+      hint: List player names
       type: note
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 7
       name: player_count
       label: Player Count
-      hint: null
+      hint: Enter player count
       type: number
+      options: []
+      required: true
+    - id: 8
+      name: player_details
+      label: Player Details
+      hint: Enter player details
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: player_name
+      label: Player Name 1
+      hint: Enter player name
+      type: text
       options: []
       required: false
     - id: 10
-      name: player_details
-      label: Player Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: player_name
-      label: player_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: player_name
-      label: player_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: player_name
-      label: player_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: player_name
-      label: player_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: player_name
-      label: player_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: player_name
-      label: player_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: player_name
-      label: player_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: player_name
-      label: player_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: player_name
-      label: player_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: player_name
-      label: player_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: player_name
-      label: player_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
       name: team_manager_division
-      label: team_manager_division
-      hint: null
+      label: Team Manager Division
+      hint: Select division
       type: select_one
       options:
       - Division 1
       - Division 2
       - Division 3
-      required: false
-    - id: 23
-      name: division
-      label: division
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: manager_name
-      label: manager_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: tournament_details
-      label: tournament_details
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

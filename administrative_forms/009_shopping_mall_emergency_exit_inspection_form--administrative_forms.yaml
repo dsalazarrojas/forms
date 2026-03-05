@@ -30,8 +30,8 @@ inputSchema:
       hint: Ensure all exit signs are clear.
       type: select_one
       options:
-      - '{''value'': 1, ''text'': True}'
-      - '{''value'': 0, ''text'': False}'
+      - '1'
+      - '0'
       required: false
     - id: 5
       name: fire_exits
@@ -39,9 +39,9 @@ inputSchema:
       hint: List fire exits.
       type: select_multiple
       options:
-      - '{''value'': 1, ''text'': ''Main''}'
-      - '{''value'': 2, ''text'': ''Emergency''}'
-      - '{''value'': 3, ''text'': ''Side''}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 6
       name: emergency_exit_emergency_exits
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''text'': ''Main''}'
-      - '{''value'': 2, ''text'': ''Emergency''}'
-      - '{''value'': 3, ''text'': ''Side''}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 7
       name: emergency_exit_emergency_exit_signs
@@ -59,8 +59,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''text'': True}'
-      - '{''value'': 0, ''text'': False}'
+      - '1'
+      - '0'
       required: false
     - id: 8
       name: emergency_exit_fire_exits
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''text'': ''Main''}'
-      - '{''value'': 2, ''text'': ''Emergency''}'
-      - '{''value'': 3, ''text'': ''Side''}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 9
       name: emergency_exit_exit_doors
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''text'': ''Main''}'
-      - '{''value'': 2, ''text'': ''Emergency''}'
-      - '{''value'': 3, ''text'': ''Side''}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 10
       name: emergency_exit_exit_signs
@@ -88,8 +88,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''text'': True}'
-      - '{''value'': 0, ''text'': False}'
+      - '1'
+      - '0'
       required: false
     - id: 11
       name: emergency_exit_fire_exit_signs
@@ -97,8 +97,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''text'': True}'
-      - '{''value'': 0, ''text'': False}'
+      - '1'
+      - '0'
       required: false
     - id: 12
       name: emergency_exit_alarms
@@ -106,8 +106,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''text'': True}'
-      - '{''value'': 0, ''text'': False}'
+      - '1'
+      - '0'
       required: false
     - id: 13
       name: emergency_exit_emergency_exit_doors
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''text'': ''Main''}'
-      - '{''value'': 2, ''text'': ''Emergency''}'
-      - '{''value'': 3, ''text'': ''Side''}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 14
       name: emergency_exit_exit_doors_condition
@@ -125,8 +125,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''text'': ''Good''}'
-      - '{''value'': 0, ''text'': ''Poor''}'
+      - '1'
+      - '0'
       required: false
     - id: 15
       name: emergency_exit_inspection_date
@@ -176,8 +176,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''text'': ''Pass''}'
-      - '{''value'': 0, ''text'': ''Fail''}'
+      - '1'
+      - '0'
       required: false
     - id: 22
       name: emergency_exit_remarks
@@ -213,9 +213,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''text'': ''In Progress''}'
-      - '{''value'': 2, ''text'': ''Complete''}'
-      - '{''value'': 3, ''text'': ''Canceled''}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 27
       name: emergency_exit_completed
@@ -223,8 +223,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''text'': True}'
-      - '{''value'': 0, ''text'': False}'
+      - '1'
+      - '0'
       required: false
     - id: 28
       name: emergency_exit_status

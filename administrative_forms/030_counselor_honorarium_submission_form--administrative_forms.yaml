@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Counselor''}'
-      - '{''id'': 2, ''name'': ''Administrator''}'
+      - Counselor
+      - Administrator
       required: false
     - id: 3
       name: honorarium_amount
@@ -39,9 +39,9 @@ inputSchema:
       hint: Select payment method
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Check''}'
-      - '{''id'': 2, ''name'': ''Online Payment''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Check
+      - Online Payment
+      - Other
       required: false
     - id: 6
       name: payment_date
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Counselor''}'
-      - '{''id'': 2, ''name'': ''Administrator''}'
+      - Counselor
+      - Administrator
       required: false
     - id: 9
       name: submitted_on
@@ -86,9 +86,9 @@ inputSchema:
       hint: Select approval status
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''Approved''}'
-      - '{''id'': 3, ''name'': ''Denied''}'
+      - Pending
+      - Approved
+      - Denied
       required: false
     - id: 12
       name: payment_status
@@ -96,9 +96,9 @@ inputSchema:
       hint: Select payment status
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''Paid''}'
-      - '{''id'': 3, ''name'': ''Unpaid''}'
+      - Pending
+      - Paid
+      - Unpaid
       required: false
     - id: 13
       name: notes
@@ -148,8 +148,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Other''}'
-      - '{''id'': 2, ''name'': ''Pending''}'
+      - Other
+      - Pending
       required: false
     - id: 20
       name: payment_status_other
@@ -157,9 +157,9 @@ inputSchema:
       hint: Select other payment status
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Other''}'
-      - '{''id'': 2, ''name'': ''Paid''}'
-      - '{''id'': 3, ''name'': ''Unpaid''}'
+      - Other
+      - Paid
+      - Unpaid
       required: false
     - id: 21
       name: notes_other

@@ -5,188 +5,95 @@ inputSchema:
     pages:
     - id: 1
       name: project_info
-      label: project_info
+      label: Project Title
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: project_info
-      label: project_info
+      name: project_info_2
+      label: Project Description
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: design_requirements
-      label: design_requirements
+      label: Design Requirements
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 4
       name: color_scheme
-      label: color_scheme
+      label: Color Scheme
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Monochromatic
+      - Complementary
+      - Analogous
+      required: true
     - id: 5
-      name: color_scheme
-      label: color_scheme
+      name: images
+      label: Images
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: typography
-      label: typography
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: color_scheme
-      label: color_scheme
+      name: images_2
+      label: Images 2
       hint: null
       type: text
       options: []
       required: false
+    - id: 7
+      name: fonts
+      label: Fonts and Typography
+      hint: null
+      type: select_multiple
+      options:
+      - Arial
+      - Times New Roman
+      - Calibri
+      required: false
     - id: 8
-      name: images
-      label: images
+      name: project_info_3
+      label: Project Information
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: images
-      label: images
+      name: color_type
+      label: Color Type
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - RGB
+      - CMYK
       required: false
     - id: 10
-      name: colors
-      label: colors
+      name: design_file
+      label: Design File
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: note
+      options: []
       required: false
     - id: 11
-      name: color_type
-      label: color_type
+      name: design_file_2
+      label: Design File 2
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: note
+      options: []
       required: false
     - id: 12
-      name: colors
-      label: colors
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: color_type
-      label: color_type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: project_info
-      label: project_info
-      hint: null
-      type: text
+      name: deadline
+      label: Project Deadline
+      hint: Format - YYYY-MM-DD
+      type: date
       options: []
-      required: false
-    - id: 15
-      name: project_info
-      label: project_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: design_file
-      label: design_file
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: design_file
-      label: design_file
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: design_file
-      label: design_file
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: design_file
-      label: design_file
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: project_info
-      label: project_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: project_info
-      label: project_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: design_file
-      label: design_file
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: project_info
-      label: project_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: design_file
-      label: design_file
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: project_info
-      label: project_info
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

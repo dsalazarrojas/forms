@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''credit_card'', ''value'': ''Credit Card''}'
-      - '{''name'': ''bank_transfer'', ''value'': ''Bank Transfer''}'
-      - '{''name'': ''cash'', ''value'': ''Cash''}'
+      - Credit Card
+      - Bank Transfer
+      - Cash
       required: false
     - id: 5
       name: client_name
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''paid'', ''value'': ''Paid''}'
-      - '{''name'': ''pending'', ''value'': ''Pending''}'
-      - '{''name'': ''cancelled'', ''value'': ''Cancelled''}'
+      - Paid
+      - Pending
+      - Cancelled
       required: false
     - id: 9
       name: notes

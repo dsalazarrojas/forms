@@ -11,7 +11,7 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: question_1
+      name: information_systems_concept
       label: What is information systems?
       hint: null
       type: select_one
@@ -20,7 +20,7 @@ inputSchema:
       - 'No'
       required: true
     - id: 3
-      name: question_2
+      name: systems_analysis_and_design
       label: What is systems analysis and design?
       hint: null
       type: select_one
@@ -29,7 +29,7 @@ inputSchema:
       - 'No'
       required: true
     - id: 4
-      name: question_3
+      name: systems_development
       label: What is systems development?
       hint: null
       type: select_one
@@ -38,38 +38,40 @@ inputSchema:
       - 'No'
       required: true
     - id: 5
-      name: question_4
-      label: What is information systems?
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: question_5
-      label: What is information systems?
+      name: systems_thinking
+      label: What is systems thinking?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: true
+    - id: 6
+      name: systems_concepts
+      label: What are some key information systems concepts?
+      hint: null
+      type: note
+      options: []
+      required: false
     - id: 7
-      name: question_6
-      label: What is information systems concepts?
+      name: key_characteristics
+      label: What are some key characteristics of information systems?
       hint: null
       type: note
       options: []
       required: false
     - id: 8
-      name: question_7
-      label: What is systems thinking?
+      name: systems_lifecycle
+      label: What is the systems lifecycle?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 9
-      name: question_8
-      label: What is systems analysis?
+      name: systems_architecture
+      label: What is the systems architecture?
       hint: null
       type: select_one
       options:
@@ -77,8 +79,8 @@ inputSchema:
       - 'No'
       required: true
     - id: 10
-      name: question_9
-      label: What is information systems?
+      name: systems_deployment
+      label: What is systems deployment?
       hint: null
       type: select_one
       options:
@@ -86,8 +88,8 @@ inputSchema:
       - 'No'
       required: true
     - id: 11
-      name: question_10
-      label: What is systems development?
+      name: systems_maintenance
+      label: What is systems maintenance?
       hint: null
       type: select_one
       options:
@@ -95,17 +97,8 @@ inputSchema:
       - 'No'
       required: true
     - id: 12
-      name: question_11
-      label: What is information systems?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 13
-      name: question_12
-      label: What is systems analysis and design?
+      name: systems_evaluation
+      label: What is systems evaluation?
       hint: null
       type: select_one
       options:

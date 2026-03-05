@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe'', ''selected'': False}'
-      - '{''id'': 2, ''label'': ''Jane Doe'', ''selected'': False}'
-      - '{''id'': 3, ''label'': ''Bob Smith'', ''selected'': False}'
+      - John Doe
+      - Jane Doe
+      - Bob Smith
       required: false
     - id: 3
       name: report_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Credit Dispute''}'
-      - '{''id'': 2, ''label'': ''Account Inaccuracy''}'
-      - '{''id'': 3, ''label'': ''Identity Theft''}'
+      - Credit Dispute
+      - Account Inaccuracy
+      - Identity Theft
       required: false
     - id: 4
       name: date_of_dispute
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Disputed''}'
-      - '{''id'': 2, ''label'': ''Resolved''}'
-      - '{''id'': 3, ''label'': ''In Progress''}'
+      - Disputed
+      - Resolved
+      - In Progress
       required: false
     - id: 7
       name: contact_lender
@@ -67,8 +67,8 @@ inputSchema:
       hint: Please review your report for accuracy before submitting.
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Submit Now''}'
-      - '{''id'': 2, ''label'': ''Save for Later''}'
+      - Submit Now
+      - Save for Later
       required: false
     - id: 9
       name: additional_comments
@@ -83,6 +83,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Submit Now''}'
+      - Submit Now
       - Other
       required: false

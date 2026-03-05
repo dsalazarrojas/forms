@@ -107,9 +107,9 @@ inputSchema:
       hint: How many seats?
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
+      - '1'
+      - '2'
+      - '3'
       - 4 or more
       required: true
     - id: 16
@@ -317,8 +317,8 @@ inputSchema:
       hint: Have you had an inspection before?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 38
       name: how_heard_about_us

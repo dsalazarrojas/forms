@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: pattern_recognition_skills
+      name: data_analysis_skills
       label: What skills do you think are most essential for recognizing patterns
         in data?
-      hint: Please specify the skills you think are essential for recognizing patterns.
+      hint: null
       type: select_multiple
       options:
       - Data analysis
@@ -30,211 +30,90 @@ inputSchema:
       - Data interpretation
       required: false
     - id: 4
-      name: pattern_recognition_skills_3
-      label: What skills do you think are most essential for recognizing patterns
-        in data?
-      hint: Please specify the skills you think are essential for recognizing patterns.
-      type: select_multiple
-      options:
-      - Data analysis
-      - Pattern recognition
-      - Data mining
-      - Data interpretation
-      required: false
-    - id: 5
-      name: pattern_recognition_skills_2
-      label: What skills do you think are most essential for recognizing patterns
-        in data?
-      hint: Please specify the skills you think are essential for recognizing patterns.
-      type: select_multiple
-      options:
-      - Data analysis
-      - Pattern recognition
-      - '[''Data mining'']'
-      - '[''Data interpretation'']'
-      required: false
-    - id: 6
-      name: pattern_recognition_skills_4
-      label: What skills do you think are most essential for recognizing patterns
-        in data?
-      hint: Please specify the skills you think are essential for recognizing patterns.
-      type: select_multiple
-      options:
-      - Data analysis
-      - Pattern recognition
-      - Data mining
-      - Data interpretation
-      required: false
-    - id: 7
-      name: pattern_recognition_skills_5
-      label: What skills do you think are most essential for recognizing patterns
-        in data?
-      hint: Please specify the skills you think are essential for recognizing patterns.
-      type: select_multiple
-      options:
-      - Data analysis
-      - Pattern recognition
-      - Data mining
-      - Data interpretation
-      required: false
-    - id: 8
-      name: pattern_recognition_skills_6
-      label: What skills do you think are most essential for recognizing patterns
-        in data?
-      hint: Please specify the skills you think are essential for recognizing patterns.
-      type: select_multiple
-      options:
-      - Data analysis
-      - Pattern recognition
-      - Data mining
-      - Data interpretation
-      required: false
-    - id: 9
-      name: pattern_recognition_skills_7
-      label: What skills do you think are most essential for recognizing patterns
-        in data?
-      hint: Please specify the skills you think are essential for recognizing patterns.
-      type: select_multiple
-      options:
-      - Data analysis
-      - Pattern recognition
-      - Data mining
-      - Data interpretation
-      required: false
-    - id: 10
-      name: pattern_recognition_skills_8
-      label: What skills do you think are most essential for recognizing patterns
-        in data?
-      hint: Please specify the skills you think are essential for recognizing patterns.
-      type: select_multiple
-      options:
-      - Data analysis
-      - Pattern recognition
-      - Data mining
-      - Data interpretation
-      required: false
-    - id: 11
-      name: pattern_recognition_skills_9
-      label: What skills do you think are most essential for recognizing patterns
-        in data?
-      hint: Please specify the skills you think are essential for recognizing patterns.
-      type: select_multiple
-      options:
-      - Data analysis
-      - Pattern recognition
-      - Data mining
-      - Data interpretation
-      required: false
-    - id: 12
-      name: pattern_recognition_skills_10
-      label: What skills do you think are most essential for recognizing patterns
-        in data?
-      hint: Please specify the skills you think are essential for recognizing patterns.
-      type: select_multiple
-      options:
-      - Data analysis
-      - Pattern recognition
-      - Data mining
-      - Data interpretation
-      required: false
-    - id: 13
-      name: pattern_recognition_skills_11
-      label: What skills do you think are most essential for recognizing patterns
-        in data?
-      hint: Please specify the skills you think are essential for recognizing patterns.
-      type: select_multiple
-      options:
-      - Data analysis
-      - Pattern recognition
-      - Data mining
-      - Data interpretation
-      required: false
-    - id: 14
-      name: pattern_recognition_skills_12
-      label: What skills do you think are most essential for recognizing patterns
-        in data?
-      hint: Please specify the skills you think are essential for recognizing patterns.
-      type: select_multiple
-      options:
-      - Data analysis
-      - Pattern recognition
-      - Data mining
-      - Data interpretation
-      required: false
-    - id: 15
-      name: form_footer
-      label: Pattern Recognition Skills Assessment Form
+      name: pattern_recognition_method
+      label: How do you approach recognizing patterns in data?
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
-    - id: 16
+      required: true
+    - id: 5
+      name: pattern_recognition_tools
+      label: What tools do you use to analyze patterns in data?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pattern_example
+      label: Can you provide an example of a pattern you have recognized in data?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pattern_accuracy
+      label: How do you evaluate the accuracy of your pattern recognition in data?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: pattern_validation
+      label: What steps do you take to validate your pattern recognition in data?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pattern_pitfalls
+      label: What common pitfalls to avoid when recognizing patterns in data?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 10
+      name: pattern_example_situations
+      label: Can you describe a situation where pattern recognition was crucial in
+        your work or personal life?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: pattern_skills_update
+      label: How do you stay up-to-date with new methods and techniques for pattern
+        recognition in data?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
       name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 17
+      required: true
+    - id: 13
       name: name
       label: Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 18
+      required: true
+    - id: 14
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
+      required: true
+    - id: 15
       name: submit
       label: Submit
       hint: null
       type: text
       options: []
-      required: false
-    - id: 20
-      name: submit_button
-      label: Submit Button
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: submit_button_2
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: submit_button_3
-      label: Submit Button 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: submit_button_4
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: submit_button_5
-      label: Submit Button 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submit_button_6
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

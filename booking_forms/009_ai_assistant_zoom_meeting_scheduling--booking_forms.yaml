@@ -45,16 +45,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Initial Consultation
-        value: consultation
-      - label: Technical Support / Troubleshooting
-        value: tech_support
-      - label: Product Demo
-        value: demo
-      - label: Partnership Inquiry
-        value: partnership
-      - label: Follow-up Session
-        value: follow_up
+      - Initial Consultation
+      - Technical Support / Troubleshooting
+      - Product Demo
+      - Partnership Inquiry
+      - Follow-up Session
       required: true
     - id: 7
       name: ai_platform_focus
@@ -62,18 +57,12 @@ inputSchema:
       hint: Which platform/service are you using or interested in?
       type: select_multiple
       options:
-      - label: Custom LLM Integration
-        value: custom_llm
-      - label: OpenAI / ChatGPT Solutions
-        value: openai
-      - label: Anthropic / Claude Integration
-        value: anthropic
-      - label: Open-Source Models (Llama, etc.)
-        value: open_source
-      - label: Customer Service Chatbots
-        value: customer_service
-      - label: Data Extraction / Analysis
-        value: data_analysis
+      - Custom LLM Integration
+      - OpenAI / ChatGPT Solutions
+      - Anthropic / Claude Integration
+      - Open-Source Models (Llama, etc.)
+      - Customer Service Chatbots
+      - Data Extraction / Analysis
       required: true
     - id: 8
       name: preferred_date
@@ -88,12 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Morning (9:00 AM - 12:00 PM)
-        value: morning
-      - label: Afternoon (12:00 PM - 4:00 PM)
-        value: afternoon
-      - label: Evening (4:00 PM - 6:00 PM)
-        value: evening
+      - Morning (9:00 AM - 12:00 PM)
+      - Afternoon (12:00 PM - 4:00 PM)
+      - Evening (4:00 PM - 6:00 PM)
       required: true
     - id: 10
       name: time_zone
@@ -101,16 +87,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: UTC-8 (PST)
-        value: pst
-      - label: UTC-5 (EST)
-        value: est
-      - label: UTC+0 (GMT)
-        value: gmt
-      - label: UTC+1 (CET)
-        value: cet
-      - label: UTC+8 (SGT/HKT)
-        value: hkt
+      - UTC-8 (PST)
+      - UTC-5 (EST)
+      - UTC+0 (GMT)
+      - UTC+1 (CET)
+      - UTC+8 (SGT/HKT)
       required: true
     - id: 11
       name: meeting_duration
@@ -118,12 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: 15 Minutes (Quick Sync)
-        value: 15_min
-      - label: 30 Minutes (Standard)
-        value: 30_min
-      - label: 60 Minutes (Deep Dive)
-        value: 60_min
+      - 15 Minutes (Quick Sync)
+      - 30 Minutes (Standard)
+      - 60 Minutes (Deep Dive)
       required: true
     - id: 12
       name: number_of_attendees
@@ -145,12 +123,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Yes, currently in production
-        value: production
-      - label: Yes, in development/pilot
-        value: pilot
-      - label: No, just starting out
-        value: none
+      - Yes, currently in production
+      - Yes, in development/pilot
+      - No, just starting out
       required: true
     - id: 15
       name: phone_number

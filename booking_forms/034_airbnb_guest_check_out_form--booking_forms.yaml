@@ -77,7 +77,7 @@ inputSchema:
       options:
       - Yes, all off
       - Yes, except refrigerator
-      - false
+      - 'False'
       required: true
     - id: 11
       name: windows_closed
@@ -86,7 +86,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, all closed and locked
-      - false
+      - 'False'
       required: true
     - id: 12
       name: lights_turned_off
@@ -94,8 +94,8 @@ inputSchema:
       hint: Are all lights off
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: ac_heating_adjusted
@@ -105,7 +105,7 @@ inputSchema:
       options:
       - Yes, set to energy saving
       - Yes, turned off
-      - false
+      - 'False'
       required: true
     - id: 14
       name: trash_disposed
@@ -115,7 +115,7 @@ inputSchema:
       options:
       - Yes, all trash removed
       - Yes, placed in bins
-      - false
+      - 'False'
       required: true
     - id: 15
       name: dishes_cleaned
@@ -125,7 +125,7 @@ inputSchema:
       options:
       - Yes, washed and put away
       - Yes, in dishwasher
-      - false
+      - 'False'
       required: true
     - id: 16
       name: towels_used
@@ -146,7 +146,7 @@ inputSchema:
       options:
       - Yes, stripped and placed in basket
       - Yes, left on beds
-      - false
+      - 'False'
       required: false
     - id: 18
       name: food_removed
@@ -156,7 +156,7 @@ inputSchema:
       options:
       - Yes, all food removed
       - Yes, non-perishables left
-      - false
+      - 'False'
       required: true
     - id: 19
       name: damages_reported

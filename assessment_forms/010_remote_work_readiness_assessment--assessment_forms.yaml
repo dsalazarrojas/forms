@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 4, ''name'': ''remote_work_ready'', ''value'': 1}'
-      - '{''id'': 5, ''name'': ''remote_work_in_progress'', ''value'': 2}'
-      - '{''id'': 6, ''name'': ''not_applicable'', ''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 4
       name: remote_work_status
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 8, ''name'': ''remote_work_status_1'', ''value'': 1}'
-      - '{''id'': 9, ''name'': ''remote_work_status_2'', ''value'': 2}'
-      - '{''id'': 10, ''name'': ''remote_work_status_3'', ''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 5
       name: comments
@@ -106,10 +106,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 21, ''name'': ''full-time'', ''value'': 1}'
-      - '{''id'': 22, ''name'': ''part-time'', ''value'': 2}'
-      - '{''id'': 23, ''name'': ''flexible'', ''value'': 3}'
-      - '{''id'': 24, ''name'': ''variable'', ''value'': 4}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 15
       name: remote_work_readiness_assessment_status
@@ -117,8 +117,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 26, ''name'': ''completed'', ''value'': 1}'
-      - '{''id'': 27, ''name'': ''in_progress'', ''value'': 2}'
-      - '{''id'': 28, ''name'': ''not_started'', ''value'': 3}'
-      - '{''id'': 29, ''name'': ''completed_with_issues'', ''value'': 4}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false

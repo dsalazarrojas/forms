@@ -4,187 +4,88 @@ inputSchema:
     title: NEW Client App
     pages:
     - id: 1
-      name: new_client_app_form
-      label: new_client_app
-      hint: null
+      name: application_title
+      label: Application Title
+      hint: Please enter the title of the new client application.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: category
+      name: application_category
       label: Category
-      hint: null
+      hint: Select the category of the application.
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Business Forms''}'
-      - '{''id'': 2, ''name'': ''Personal Forms''}'
+      - Business Forms
+      - Personal Forms
       required: true
     - id: 3
       name: description
-      label: description
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      label: Description
+      hint: Please provide a brief description of the application.
+      type: text
+      options: []
       required: true
     - id: 4
       name: output_file
-      label: output_file
-      hint: null
+      label: Output File
+      hint: Please enter any relevant output file information.
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: assigned_tool
-      label: assigned_tool
-      hint: null
+      label: Assigned Tool
+      hint: Please enter the tool assigned to the application.
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: form_ids
-      label: form_ids
-      hint: null
+      label: Form IDs
+      hint: Please enter any relevant form IDs.
       type: number
       options: []
-      required: false
-    - id: 7
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: true
-    - id: 8
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: date
-      label: date
-      hint: null
+    - id: 7
+      name: application_date
+      label: Date
+      hint: Please enter the application date.
       type: date
       options: []
-      required: false
-    - id: 10
-      name: time
-      label: time
-      hint: null
+      required: true
+    - id: 8
+      name: application_time
+      label: Time
+      hint: Please enter the application time.
       type: time
       options: []
-      required: false
-    - id: 11
-      name: email
-      label: email
-      hint: null
+      required: true
+    - id: 9
+      name: application_email
+      label: Email
+      hint: Please enter the email associated with the application.
       type: email
       options: []
-      required: false
+      required: true
+    - id: 10
+      name: application_phone
+      label: Phone Number
+      hint: Please enter the phone number associated with the application.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: Please provide any additional notes about the application.
+      type: note
+      options: []
+      required: true
     - id: 12
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: form_ids
-      label: form_ids
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Business Forms''}'
-      - '{''id'': 2, ''name'': ''Personal Forms''}'
-      required: true
-    - id: 17
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: form_ids
-      label: form_ids
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Business Forms''}'
-      - '{''id'': 2, ''name'': ''Personal Forms''}'
-      required: true
-    - id: 22
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 23
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: form_ids
-      label: form_ids
-      hint: null
+      name: form_ids_2
+      label: Form IDs 2
+      hint: Please enter any additional form IDs.
       type: number
       options: []
       required: true

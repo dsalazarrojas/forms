@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''employed'', ''label'': ''Employed''}'
-      - '{''id'': 2, ''name'': ''unemployed'', ''label'': ''Unemployed''}'
+      - Employed
+      - Unemployed
       required: false
     - id: 9
       name: employment_length
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''salaried'', ''label'': ''Salaried''}'
-      - '{''id'': 2, ''name'': ''self_employed'', ''label'': ''Self-Employed''}'
+      - Salaried
+      - Self-Employed
       required: false
     - id: 12
       name: employment_date
@@ -111,13 +111,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''single_family'', ''label'': ''Single Family''}'
-      - '{''id'': 2, ''name'': ''multi_family'', ''label'': ''Multi-Family''}'
-      - '{''id'': 3, ''name'': ''condo'', ''label'': ''Condo''}'
+      - Single Family
+      - Multi-Family
+      - Condo
       required: false
     - id: 16
-      name: credit_score
-      label: Credit Score
+      name: credit_score_2
+      label: Credit Score 2
       hint: null
       type: number
       options: []
@@ -128,10 +128,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': 12, ''label'': 12}'
-      - '{''id'': 2, ''name'': 24, ''label'': 24}'
-      - '{''id'': 3, ''name'': 36, ''label'': 36}'
-      - '{''id'': 4, ''name'': 48, ''label'': 48}'
+      - '12'
+      - '24'
+      - '36'
+      - '48'
       required: false
     - id: 18
       name: interest_rate
@@ -146,57 +146,57 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pending'', ''label'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''approved'', ''label'': ''Approved''}'
-      - '{''id'': 3, ''name'': ''denied'', ''label'': ''Denied''}'
-      - '{''id'': 4, ''name'': ''paid_off'', ''label'': ''Paid Off''}'
+      - Pending
+      - Approved
+      - Denied
+      - Paid Off
       required: false
     - id: 20
-      name: property_type
-      label: Property Type
+      name: property_type_2
+      label: Property Type 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''single_family'', ''label'': ''Single Family''}'
-      - '{''id'': 2, ''name'': ''multi_family'', ''label'': ''Multi-Family''}'
-      - '{''id'': 3, ''name'': ''condo'', ''label'': ''Condo''}'
+      - Single Family
+      - Multi-Family
+      - Condo
       required: false
     - id: 21
-      name: loan_amount
-      label: Loan Amount
+      name: loan_amount_2
+      label: Loan Amount 2
       hint: null
       type: number
       options: []
       required: false
     - id: 22
-      name: employment_length
-      label: Employment Length
+      name: employment_length_2
+      label: Employment Length 2
       hint: null
       type: number
       options: []
       required: false
     - id: 23
-      name: interest_rate
-      label: Interest Rate
+      name: interest_rate_2
+      label: Interest Rate 2
       hint: null
       type: number
       options: []
       required: false
     - id: 24
-      name: property_value
-      label: Property Value
+      name: property_value_2
+      label: Property Value 2
       hint: null
       type: number
       options: []
       required: false
     - id: 25
-      name: loan_term
-      label: Loan Term
+      name: loan_term_2
+      label: Loan Term 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': 12, ''label'': 12}'
-      - '{''id'': 2, ''name'': 24, ''label'': 24}'
-      - '{''id'': 3, ''name'': 36, ''label'': 36}'
-      - '{''id'': 4, ''name'': 48, ''label'': 48}'
+      - '12'
+      - '24'
+      - '36'
+      - '48'
       required: false

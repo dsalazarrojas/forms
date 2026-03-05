@@ -1,180 +1,169 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Certificate Inventory Management
     pages:
-      - id: 1
-        name: section_certificate_details
-        label: -- Certificate Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: certificate_title
-        label: Certificate Title
-        hint: Enter the full name of the certificate
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: certificate_serial_number
-        label: Certificate Serial Number
-        hint: Unique identifier for the certificate
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: certificate_category
-        label: Certificate Category
-        hint: Select the type of certificate being managed
-        type: select_one
-        options:
-          - Compliance
-          - Safety
-          - Professional Development
-          - Academic
-          - Health and Medical
-          - Operational
-        required: true
-      - id: 5
-        name: issuance_date
-        label: Issuance Date
-        hint: Date when the certificate was originally issued
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: expiration_date
-        label: Expiration Date
-        hint: Date when the certificate will no longer be valid
-        type: date
-        options: []
-        required: true
-      - id: 7
-        name: issuance_authority
-        label: Issuance Authority
-        hint: The organization or body that issued the certificate
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: section_holder_information
-        label: -- Certificate Holder Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: certificate_holder_name
-        label: Certificate Holder Name
-        hint: Name of the person or entity to whom the certificate was issued
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: employee_id_number
-        label: Employee ID Number
-        hint: Optional - if applicable to internal staff
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: department_assigned
-        label: Department Assigned
-        hint: Which department does this certificate holder belong to?
-        type: select_one
-        options:
-          - Human Resources
-          - Operations
-          - Sales and Marketing
-          - Finance
-          - Research and Development
-          - Information Technology
-          - Legal and Compliance
-        required: true
-      - id: 12
-        name: section_inventory_status
-        label: -- Inventory and Status --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: certificate_status
-        label: Certificate Status
-        hint: Current status of the certificate in inventory
-        type: select_one
-        options:
-          - Active
-          - Expired
-          - Revoked
-          - Pending Renewal
-          - Suspended
-        required: true
-      - id: 14
-        name: physical_copy_location
-        label: Physical Copy Location
-        hint: Where is the hard copy of this certificate stored?
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: digital_copy_available
-        label: Digital Copy Available
-        hint: Has a digital version been scanned and uploaded?
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 16
-        name: next_renewal_reminder_date
-        label: Next Renewal Reminder Date
-        hint: Set a date to trigger a renewal alert
-        type: date
-        options: []
-        required: false
-      - id: 17
-        name: verification_method
-        label: Verification Method
-        hint: How was this certificate verified for authenticity?
-        type: select_one
-        options:
-          - Online Database Search
-          - Direct Contact with Authority
-          - Visual Inspection of Original
-          - Third-Party Verification Service
-        required: true
-      - id: 18
-        name: audit_notes
-        label: Audit and Inventory Notes
-        hint: Any additional information or issues found during inventory check
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: last_inventory_check_date
-        label: Last Inventory Check Date
-        hint: When was this certificate last verified in our system?
-        type: date
-        options: []
-        required: true
-      - id: 20
-        name: administrator_comments
-        label: Administrator Comments
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: section_certificate_details
+      label: -- Certificate Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: certificate_title
+      label: Certificate Title
+      hint: Enter the full name of the certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: certificate_serial_number
+      label: Certificate Serial Number
+      hint: Unique identifier for the certificate
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: certificate_category
+      label: Certificate Category
+      hint: Select the type of certificate being managed
+      type: select_one
+      options:
+      - Compliance
+      - Safety
+      - Professional Development
+      - Academic
+      - Health and Medical
+      - Operational
+      required: true
+    - id: 5
+      name: issuance_date
+      label: Issuance Date
+      hint: Date when the certificate was originally issued
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: expiration_date
+      label: Expiration Date
+      hint: Date when the certificate will no longer be valid
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: issuance_authority
+      label: Issuance Authority
+      hint: The organization or body that issued the certificate
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_holder_information
+      label: -- Certificate Holder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: certificate_holder_name
+      label: Certificate Holder Name
+      hint: Name of the person or entity to whom the certificate was issued
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employee_id_number
+      label: Employee ID Number
+      hint: Optional - if applicable to internal staff
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department_assigned
+      label: Department Assigned
+      hint: Which department does this certificate holder belong to?
+      type: select_one
+      options:
+      - Human Resources
+      - Operations
+      - Sales and Marketing
+      - Finance
+      - Research and Development
+      - Information Technology
+      - Legal and Compliance
+      required: true
+    - id: 12
+      name: section_inventory_status
+      label: -- Inventory and Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: certificate_status
+      label: Certificate Status
+      hint: Current status of the certificate in inventory
+      type: select_one
+      options:
+      - Active
+      - Expired
+      - Revoked
+      - Pending Renewal
+      - Suspended
+      required: true
+    - id: 14
+      name: physical_copy_location
+      label: Physical Copy Location
+      hint: Where is the hard copy of this certificate stored?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: digital_copy_available
+      label: Digital Copy Available
+      hint: Has a digital version been scanned and uploaded?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: next_renewal_reminder_date
+      label: Next Renewal Reminder Date
+      hint: Set a date to trigger a renewal alert
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: verification_method
+      label: Verification Method
+      hint: How was this certificate verified for authenticity?
+      type: select_one
+      options:
+      - Online Database Search
+      - Direct Contact with Authority
+      - Visual Inspection of Original
+      - Third-Party Verification Service
+      required: true
+    - id: 18
+      name: audit_notes
+      label: Audit and Inventory Notes
+      hint: Any additional information or issues found during inventory check
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: last_inventory_check_date
+      label: Last Inventory Check Date
+      hint: When was this certificate last verified in our system?
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: administrator_comments
+      label: Administrator Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -139,8 +139,8 @@ inputSchema:
       hint: Will this impact your work responsibilities
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 18
@@ -156,8 +156,8 @@ inputSchema:
       hint: Has this been disclosed before
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: prior_disclosure_details
@@ -173,7 +173,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - Will Attach
-      - false
+      - 'False'
       required: true
     - id: 22
       name: document_list

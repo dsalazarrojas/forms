@@ -119,8 +119,8 @@ inputSchema:
       hint: Has the child had a fever in the last 24 hours?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 15
@@ -191,7 +191,7 @@ inputSchema:
       options:
       - Yes, same as usual
       - Yes, different contact today
-      - false
+      - 'False'
       required: true
     - id: 24
       name: additional_notes

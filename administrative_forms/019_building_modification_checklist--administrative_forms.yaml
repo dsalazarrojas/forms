@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -48,9 +37,9 @@ inputSchema:
       hint: Has permit been issued
       type: select_one
       options:
-        - Yes
-        - No
-        - In Progress
+      - 'True'
+      - 'False'
+      - In Progress
       required: true
     - id: 6
       name: contractor_name
@@ -79,8 +68,8 @@ inputSchema:
       hint: Is structural work being done
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: electrical_work
@@ -88,8 +77,8 @@ inputSchema:
       hint: Any electrical modifications
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: plumbing_work
@@ -97,8 +86,8 @@ inputSchema:
       hint: Any plumbing modifications
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: hvac_work
@@ -106,8 +95,8 @@ inputSchema:
       hint: Any heating or cooling work
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: code_compliance
@@ -115,9 +104,9 @@ inputSchema:
       hint: Building code review done
       type: select_one
       options:
-        - Yes
-        - No
-        - In Progress
+      - 'True'
+      - 'False'
+      - In Progress
       required: true
     - id: 14
       name: inspector_approval
@@ -125,10 +114,10 @@ inputSchema:
       hint: Official inspection approval
       type: select_one
       options:
-        - Approved
-        - Pending
-        - Denied
-        - Not Required
+      - Approved
+      - Pending
+      - Denied
+      - Not Required
       required: true
     - id: 15
       name: safety_certifications
@@ -136,12 +125,12 @@ inputSchema:
       hint: Special certifications needed
       type: select_multiple
       options:
-        - Fire Safety
-        - Electrical Safety
-        - Structural Integrity
-        - Accessibility Compliance
-        - Environmental
-        - None
+      - Fire Safety
+      - Electrical Safety
+      - Structural Integrity
+      - Accessibility Compliance
+      - Environmental
+      - None
       required: false
     - id: 16
       name: insurance_verification
@@ -149,9 +138,9 @@ inputSchema:
       hint: Liability insurance confirmed
       type: select_one
       options:
-        - Yes
-        - No
-        - In Progress
+      - 'True'
+      - 'False'
+      - In Progress
       required: true
     - id: 17
       name: asbestos_survey
@@ -159,10 +148,10 @@ inputSchema:
       hint: Environmental survey done
       type: select_one
       options:
-        - Yes
-        - No
-        - Not Applicable
-        - In Progress
+      - 'True'
+      - 'False'
+      - Not Applicable
+      - In Progress
       required: true
     - id: 18
       name: site_safety_plan
@@ -170,9 +159,9 @@ inputSchema:
       hint: Worker safety documented
       type: select_one
       options:
-        - Yes
-        - No
-        - In Progress
+      - 'True'
+      - 'False'
+      - In Progress
       required: true
     - id: 19
       name: document_list
@@ -180,13 +169,13 @@ inputSchema:
       hint: Plans, specs, certifications
       type: select_multiple
       options:
-        - Blueprints
-        - Specifications
-        - Engineer Calculations
-        - Schedule
-        - Budget
-        - Insurance Certificate
-        - Other
+      - Blueprints
+      - Specifications
+      - Engineer Calculations
+      - Schedule
+      - Budget
+      - Insurance Certificate
+      - Other
       required: true
     - id: 20
       name: project_timeline

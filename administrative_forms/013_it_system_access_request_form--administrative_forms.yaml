@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''System A''}'
-      - '{''id'': 2, ''label'': ''System B''}'
-      - '{''id'': 3, ''label'': ''System C''}'
-      - '{''id'': 4, ''label'': ''System D''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - System A
+      - System B
+      - System C
+      - System D
+      - Other
       required: false
     - id: 7
       name: reason_for_request
@@ -56,10 +56,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''New System Access''}'
-      - '{''id'': 2, ''label'': ''Access Level Update''}'
-      - '{''id'': 3, ''label'': ''Access Type Update''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - New System Access
+      - Access Level Update
+      - Access Type Update
+      - Other
       required: false
     - id: 8
       name: date_of_birth
@@ -132,8 +132,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Pending''}'
+      - Active
+      - Pending
       required: false
     - id: 18
       name: priority
@@ -141,9 +141,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Low''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 19
       name: due_date

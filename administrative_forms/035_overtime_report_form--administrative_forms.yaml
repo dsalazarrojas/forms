@@ -30,9 +30,9 @@ inputSchema:
       hint: Select Department
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Accounting''}'
-      - '{''id'': 2, ''label'': ''Engineering''}'
-      - '{''id'': 3, ''label'': ''Human Resources''}'
+      - Accounting
+      - Engineering
+      - Human Resources
       required: false
     - id: 5
       name: manager_approval
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Approve''}'
-      - '{''id'': 2, ''label'': ''Deny''}'
-      - '{''id'': 3, ''label'': ''Delegate''}'
+      - Approve
+      - Deny
+      - Delegate
       required: false
     - id: 6
       name: employee_signature

@@ -4,54 +4,58 @@ inputSchema:
     title: Covid 19 Hazard Assessment Checklist
     pages:
     - id: 1
-      name: page_1
-      label: workplace_risks
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 2
-      name: page_2
-      label: prevention_measures
+      name: workplace_risks
+      label: Workplace Risks
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: true
-    - id: 3
-      name: page_3
-      label: risk_control_measures
+    - id: 2
+      name: prevention_measures
+      label: Prevention Measures
       hint: null
       type: text
       options: []
       required: true
-    - id: 4
-      name: page_4
-      label: emergency_response
+    - id: 3
+      name: emergency_response
+      label: Emergency Response
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: true
-    - id: 5
-      name: page_5
-      label: personal_risks
+    - id: 4
+      name: personal_risks
+      label: Personal Risks
       hint: null
       type: text
       options: []
       required: true
-    - id: 6
-      name: page_6
-      label: health_status
+    - id: 5
+      name: health_status
+      label: Health Status
       hint: null
-      type: date
-      options: []
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: employee_ppe
+      label: Employee PPE
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: true
     - id: 7
-      name: page_7
-      label: employee_ppe
+      name: workplace_ppe
+      label: Workplace PPE
       hint: null
       type: select_multiple
       options:
@@ -59,17 +63,17 @@ inputSchema:
       - 'No'
       required: true
     - id: 8
-      name: page_8
-      label: workplace_ppe
+      name: emergency_contact
+      label: Emergency Contact
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: true
     - id: 9
-      name: page_9
-      label: employee_status
+      name: employee_status
+      label: Employee Status
       hint: null
       type: select_one
       options:
@@ -77,8 +81,8 @@ inputSchema:
       - Inactive
       required: true
     - id: 10
-      name: page_10
-      label: employee_ppe
+      name: emergency_status
+      label: Emergency Status
       hint: null
       type: select_multiple
       options:
@@ -86,131 +90,9 @@ inputSchema:
       - 'No'
       required: true
     - id: 11
-      name: page_11
-      label: workplace_ppe
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 12
-      name: page_12
-      label: emergency_contact
+      name: location
+      label: Location
       hint: null
       type: text
       options: []
-      required: true
-    - id: 13
-      name: page_13
-      label: emergency_contact
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 14
-      name: page_14
-      label: employee_location
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 15
-      name: page_15
-      label: employee_location
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 16
-      name: page_16
-      label: emergency_contact
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 17
-      name: page_17
-      label: workplace_location
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 18
-      name: page_18
-      label: employee_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: true
-    - id: 19
-      name: page_19
-      label: emergency_status
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      required: true
-    - id: 20
-      name: page_20
-      label: health_status
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: page_21
-      label: employee_ppe
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: page_22
-      label: workplace_ppe
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 23
-      name: page_23
-      label: employee_ppe
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 24
-      name: page_24
-      label: workplace_ppe
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 25
-      name: page_25
-      label: emergency_status
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
       required: true

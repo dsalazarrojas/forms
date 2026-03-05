@@ -72,12 +72,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''White'', ''value'': ''white''}'
-      - '{''label'': ''Black or African American'', ''value'': ''black_or_african_american''}'
-      - '{''label'': ''Asian'', ''value'': ''asian''}'
-      - '{''label'': ''Native American or Alaskan Natives'', ''value'': ''native_american_or_alaskan_native''}'
-      - '{''label'': ''Hispanic or Latino'', ''value'': ''hispanic_or_latino''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - White
+      - Black or African American
+      - Asian
+      - Native American or Alaskan Natives
+      - Hispanic or Latino
+      - Other
       required: false
     - id: 11
       name: employee_gender
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Male'', ''value'': ''male''}'
-      - '{''label'': ''Female'', ''value'': ''female''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 12
       name: job_category
@@ -95,11 +95,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Full-Time'', ''value'': ''full-time''}'
-      - '{''label'': ''Part-Time'', ''value'': ''part-time''}'
-      - '{''label'': ''Contract'', ''value'': ''contract''}'
-      - '{''label'': ''Intern'', ''value'': ''intern''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Full-Time
+      - Part-Time
+      - Contract
+      - Intern
+      - Other
       required: false
     - id: 13
       name: job_level
@@ -107,10 +107,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Entry Level'', ''value'': ''entry_level''}'
-      - '{''label'': ''Mid-Level'', ''value'': ''mid-level''}'
-      - '{''label'': ''Senior'', ''value'': ''senior''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Entry Level
+      - Mid-Level
+      - Senior
+      - Other
       required: false
     - id: 14
       name: job_function
@@ -118,11 +118,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Software Engineer'', ''value'': ''software_engineer''}'
-      - '{''label'': ''Sales'', ''value'': ''sales''}'
-      - '{''label'': ''Finance'', ''value'': ''finance''}'
-      - '{''label'': ''Marketing'', ''value'': ''marketing''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Software Engineer
+      - Sales
+      - Finance
+      - Marketing
+      - Other
       required: false
     - id: 15
       name: employee_employment_status
@@ -130,10 +130,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Full-time'', ''value'': ''full-time''}'
-      - '{''label'': ''Part-time'', ''value'': ''part-time''}'
-      - '{''label'': ''Retired'', ''value'': ''retired''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Full-time
+      - Part-time
+      - Retired
+      - Other
       required: false
     - id: 16
       name: job_location
@@ -141,9 +141,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''On-Site'', ''value'': ''on-site''}'
-      - '{''label'': ''Remote'', ''value'': ''remote''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - On-Site
+      - Remote
+      - Other
       required: false
     - id: 17
       name: diversity_monitoring_question_1
@@ -151,8 +151,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: diversity_monitoring_question_2
@@ -160,8 +160,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: diversity_monitoring_question_3
@@ -169,8 +169,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: diversity_monitoring_question_4
@@ -178,8 +178,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: diversity_monitoring_question_5
@@ -187,8 +187,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: diversity_monitoring_question_6
@@ -196,8 +196,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: diversity_monitoring_question_7
@@ -205,8 +205,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: diversity_monitoring_question_8
@@ -214,8 +214,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: diversity_monitoring_question_9
@@ -223,6 +223,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

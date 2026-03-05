@@ -1,142 +1,142 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: CSR Community Impact Award Nomination Form
     pages:
-      - id: 1
-        name: nominator_info_header
-        label: -- Nominator Information --
-        hint: Person submitting the nomination
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: nominator_name
-        label: Your Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: nominator_email
-        label: Your Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: relationship_to_nominee
-        label: Relationship to Nominee
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: nominee_info_header
-        label: -- Nominee Information --
-        hint: Person or Organization being nominated
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: nominee_name
-        label: Nominee Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: nominee_type
-        label: Nominee Category
-        hint: null
-        type: select_one
-        options: [Individual Employee, Department/Team, Community Partner, Non-profit Organization]
-        required: true
-      - id: 8
-        name: nominee_contact_email
-        label: Nominee Contact Email
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 9
-        name: impact_details_header
-        label: -- Impact and Accomplishments --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: award_category
-        label: Award Category
-        hint: null
-        type: select_one
-        options: [Sustainability Champion, Volunteer of the Year, Excellence in Partnership, Innovation in Impact, Youth Mentorship]
-        required: true
-      - id: 11
-        name: executive_summary
-        label: Executive Summary of Impact
-        hint: 2-3 sentences summarizing why this nominee deserves the award
-        type: text
-        options: []
-        required: true
-      - id: 12
-        name: detailed_narrative
-        label: Detailed Nomination Narrative
-        hint: Describe specific projects, results, and community feedback
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: quantitative_results
-        label: Quantitative Results
-        hint: e.g. number of people served, hours volunteered, funds raised
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: community_alignment
-        label: Alignment with Corporate Values
-        hint: How does this impact align with our CSR mission
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: supporting_docs_header
-        label: -- Supporting Evidence --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: testimonial_links
-        label: Links to Testimonials or Media Coverage
-        hint: if available
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: confirmation_statement
-        label: I confirm the information provided is accurate to the best of my knowledge
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 18
-        name: date_submitted
-        label: Date Submitted
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: nominator_info_header
+      label: -- Nominator Information --
+      hint: Person submitting the nomination
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: relationship_to_nominee
+      label: Relationship to Nominee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominee_info_header
+      label: -- Nominee Information --
+      hint: Person or Organization being nominated
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nominee_type
+      label: Nominee Category
+      hint: null
+      type: select_one
+      options:
+      - Individual Employee
+      - Department/Team
+      - Community Partner
+      - Non-profit Organization
+      required: true
+    - id: 8
+      name: nominee_contact_email
+      label: Nominee Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: impact_details_header
+      label: -- Impact and Accomplishments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: award_category
+      label: Award Category
+      hint: null
+      type: select_one
+      options:
+      - Sustainability Champion
+      - Volunteer of the Year
+      - Excellence in Partnership
+      - Innovation in Impact
+      - Youth Mentorship
+      required: true
+    - id: 11
+      name: executive_summary
+      label: Executive Summary of Impact
+      hint: 2-3 sentences summarizing why this nominee deserves the award
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: detailed_narrative
+      label: Detailed Nomination Narrative
+      hint: Describe specific projects, results, and community feedback
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: quantitative_results
+      label: Quantitative Results
+      hint: e.g. number of people served, hours volunteered, funds raised
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: community_alignment
+      label: Alignment with Corporate Values
+      hint: How does this impact align with our CSR mission
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: supporting_docs_header
+      label: -- Supporting Evidence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: testimonial_links
+      label: Links to Testimonials or Media Coverage
+      hint: if available
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: confirmation_statement
+      label: I confirm the information provided is accurate to the best of my knowledge
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''12345''}'
-      - '{''id'': 2, ''name'': ''67890''}'
+      - '12345'
+      - '67890'
       required: false
     - id: 4
       name: reason
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''Approved''}'
-      - '{''id'': 3, ''name'': ''Denied''}'
+      - Pending
+      - Approved
+      - Denied
       required: false
     - id: 9
       name: notes
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''John Doe''}'
-      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 11
       name: manager_reviewed
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''John Smith''}'
-      - '{''id'': 2, ''name'': ''Jane Smith''}'
+      - John Smith
+      - Jane Smith
       required: false
     - id: 12
       name: submitted_to
@@ -95,8 +95,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Manager''}'
-      - '{''id'': 2, ''name'': ''HR''}'
+      - Manager
+      - HR
       required: false
     - id: 13
       name: submitted_date
@@ -111,8 +111,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''John Doe''}'
-      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 15
       name: updated_date
@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''John Smith''}'
-      - '{''id'': 2, ''name'': ''Jane Smith''}'
+      - John Smith
+      - Jane Smith
       required: false
     - id: 17
       name: approved_date
@@ -143,8 +143,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''John Smith''}'
-      - '{''id'': 2, ''name'': ''Jane Smith''}'
+      - John Smith
+      - Jane Smith
       required: false
     - id: 19
       name: denied_date

@@ -4,191 +4,96 @@ inputSchema:
     title: Waxing Consent & Appointment Form
     pages:
     - id: 1
-      name: page_1
+      name: consent
       label: Consent
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 2
-      name: page_2
+      name: appointment_details
       label: Appointment Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: page_3
-      label: Appointment
+      name: appointment_date
+      label: Appointment Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
-      name: page_4
-      label: Time
+      name: appointment_time
+      label: Appointment Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 5
-      name: page_5
-      label: Contact
+      name: contact
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: page_6
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 7
-      name: page_8
+      name: services
       label: Services
-      hint: null
+      hint: Select services from the list
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Waxing
+      - Haircut
+      - Shaving
+      required: true
+    - id: 7
+      name: additional_services
+      label: Additional Services
+      hint: Select any additional services
+      type: select_multiple
+      options:
+      - Waxing
+      - Haircut
+      - Shaving
       required: false
     - id: 8
-      name: page_9
-      label: Services Options
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: page_10
-      label: Additional Information
-      hint: Provide any additional information about your visit.
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: page_11
-      label: Signature
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: page_12
-      label: Signature Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: page_13
-      label: Signature Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: page_14
-      label: Services
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: page_15
-      label: Additional Services
-      hint: Select any additional services from the list below.
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: page_16
-      label: Total Services
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: page_17
+      name: services_price
       label: Services Price
       hint: null
       type: number
       options: []
-      required: false
-    - id: 17
-      name: page_18
-      label: Total Price
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: page_19
+      required: true
+    - id: 9
+      name: payment_method
       label: Payment Method
-      hint: null
+      hint: Select payment method
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: page_20
-      label: Payment Method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: page_21
-      label: Services Price Total
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: page_22
-      label: Services Price Total
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: page_23
-      label: Services Price Total
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: page_24
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: signature
       label: Signature
-      hint: null
+      hint: Provide your signature for the services provided
       type: text
       options: []
-      required: false
-    - id: 24
-      name: page_25
+      required: true
+    - id: 11
+      name: signature_date
       label: Signature Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 25
-      name: page_26
+      required: true
+    - id: 12
+      name: signature_time
       label: Signature Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true

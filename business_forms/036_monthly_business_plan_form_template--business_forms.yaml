@@ -16,18 +16,18 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''January''}'
-      - '{''id'': 2, ''label'': ''February''}'
-      - '{''id'': 3, ''label'': ''March''}'
-      - '{''id'': 4, ''label'': ''April''}'
-      - '{''id'': 5, ''label'': ''May''}'
-      - '{''id'': 6, ''label'': ''June''}'
-      - '{''id'': 7, ''label'': ''July''}'
-      - '{''id'': 8, ''label'': ''August''}'
-      - '{''id'': 9, ''label'': ''September''}'
-      - '{''id'': 10, ''label'': ''October''}'
-      - '{''id'': 11, ''label'': ''November''}'
-      - '{''id'': 12, ''label'': ''December''}'
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
       required: false
     - id: 3
       name: goals
@@ -35,11 +35,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Goal 1''}'
-      - '{''id'': 2, ''label'': ''Goal 2''}'
-      - '{''id'': 3, ''label'': ''Goal 3''}'
-      - '{''id'': 4, ''label'': ''Goal 4''}'
-      - '{''id'': 5, ''label'': ''Goal 5''}'
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      - Goal 4
+      - Goal 5
       required: false
     - id: 4
       name: progress
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Business Forms''}'
-      - '{''id'': 2, ''label'': ''Tracking Forms''}'
+      - Business Forms
+      - Tracking Forms
       required: false
     - id: 10
       name: assigned_tool

@@ -6,49 +6,49 @@ inputSchema:
     - id: 1
       name: production_closure_checklist_1
       label: Production Site
-      hint: 'null'
-      type: select_multiple
+      hint: null
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 2
       name: production_closure_checklist_2
       label: Production Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
       name: production_closure_checklist_3
       label: Production Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 4
       name: production_closure_checklist_4
       label: Production Location
-      hint: 'null'
+      hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Indoor
+      - Outdoor
+      required: true
     - id: 5
       name: production_closure_checklist_5
       label: Production Supervisor
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: production_closure_checklist_6
       label: Production Manager
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
       name: production_closure_checklist_7
       label: Production Team
@@ -57,21 +57,21 @@ inputSchema:
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 8
       name: production_closure_checklist_8
       label: Production Comments
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
       name: production_closure_checklist_9
       label: Production Photos
       hint: null
       type: note
       options: []
-      required: false
+      required: true
     - id: 10
       name: production_closure_checklist_10
       label: Production Videos
@@ -80,7 +80,7 @@ inputSchema:
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 11
       name: production_closure_checklist_11
       label: Production Files
@@ -89,7 +89,7 @@ inputSchema:
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 12
       name: production_closure_checklist_12
       label: Production Notes
@@ -98,99 +98,13 @@ inputSchema:
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 13
       name: production_closure_checklist_13
-      label: Production Review
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: production_closure_checklist_14
       label: Production Status
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
-      required: false
-    - id: 15
-      name: production_closure_checklist_15
-      label: Production Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: production_closure_checklist_16
-      label: Production Photos
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: production_closure_checklist_17
-      label: Production Videos
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: production_closure_checklist_18
-      label: Production Files
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: production_closure_checklist_19
-      label: Production Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: production_closure_checklist_20
-      label: Production Review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: production_closure_checklist_21
-      label: Production Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: production_closure_checklist_22
-      label: Production Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: production_closure_checklist_23
-      label: Production Photos
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: production_closure_checklist_24
-      label: Production Videos
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: production_closure_checklist_25
-      label: Production Files
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

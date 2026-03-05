@@ -4,71 +4,71 @@ inputSchema:
     title: Roadside Assistance Check In Form
     pages:
     - id: 1
-      name: name
-      label: first name
+      name: first_name
+      label: First name
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: last_name
-      label: last_name
+      label: Last name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: email
-      label: email
+      label: Email address
       hint: null
       type: email
       options: []
       required: false
     - id: 4
       name: phone
-      label: phone_number
+      label: Phone number
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: location
-      label: location
+      label: Location
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: vehicle_year
-      label: vehicle_year
+      label: Vehicle year
       hint: null
       type: number
       options: []
       required: false
     - id: 7
       name: vehicle_make
-      label: vehicle_make
+      label: Vehicle make
       hint: null
       type: text
       options: []
       required: false
     - id: 8
       name: vehicle_model
-      label: vehicle_model
+      label: Vehicle model
       hint: null
       type: text
       options: []
       required: false
     - id: 9
       name: vehicle_color
-      label: vehicle_color
+      label: Vehicle color
       hint: null
       type: text
       options: []
       required: false
     - id: 10
       name: assistance_type
-      label: assistance_type
+      label: Assistance type
       hint: null
       type: select_one
       options:
@@ -78,73 +78,45 @@ inputSchema:
       required: false
     - id: 11
       name: assistance_location
-      label: assistance_location
+      label: Assistance location
       hint: null
       type: select_multiple
       options:
-      - location1
-      - location2
-      - location3
+      - Location 1
+      - Location 2
+      - Location 3
       required: false
     - id: 12
       name: note
-      label: note
+      label: Additional comments
       hint: null
       type: note
       options: []
       required: false
     - id: 13
-      name: date
-      label: date
+      name: assistance_date
+      label: Date of assistance
       hint: null
       type: date
       options: []
       required: false
     - id: 14
-      name: time
-      label: time
+      name: assistance_time
+      label: Time of assistance
       hint: null
       type: time
       options: []
       required: false
     - id: 15
-      name: date_time
-      label: date_and_time
+      name: assistance_datetime
+      label: Date and time of assistance
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: vehicle_year
-      label: vehicle_year
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: vehicle_make
-      label: vehicle_make
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: vehicle_model
-      label: vehicle_model
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: vehicle_color
-      label: vehicle_color
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: assistance_type
-      label: assistance_type
+      name: assistance_type_2
+      label: Type of assistance
       hint: null
       type: select_one
       options:
@@ -152,40 +124,16 @@ inputSchema:
       - Assistance with a tire change
       - Assistance with fuel delivery
       required: false
-    - id: 21
-      name: assistance_location
-      label: assistance_location
+    - id: 17
+      name: location_2
+      label: Location 2
       hint: null
-      type: select_multiple
-      options:
-      - location1
-      - location2
-      - location3
-      required: false
-    - id: 22
-      name: note
-      label: note
-      hint: null
-      type: note
+      type: text
       options: []
       required: false
-    - id: 23
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: date_time
-      label: date_time
+    - id: 18
+      name: phone_2
+      label: Phone 2
       hint: null
       type: text
       options: []

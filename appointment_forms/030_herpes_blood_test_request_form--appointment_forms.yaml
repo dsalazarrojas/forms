@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''HSV-1''}'
-      - '{''value'': 2, ''label'': 2}'
-      - '{''value'': 3, ''label'': 3}'
+      - HSV-1
+      - '2'
+      - '3'
       required: false
     - id: 8
       name: blood_collection_method_1
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Blood''}'
-      - '{''value'': 2, ''label'': ''Urine''}'
-      - '{''value'': 3, ''label'': ''Saliva''}'
+      - Blood
+      - Urine
+      - Saliva
       required: false
     - id: 9
       name: consent_1
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': False}'
-      - '{''value'': 3, ''label'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 10
       name: contact_number_1
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Clinics''}'
-      - '{''value'': 2, ''label'': ''Labs''}'
-      - '{''value'': 3, ''label'': 3}'
+      - Clinics
+      - Labs
+      - '3'
       required: false
     - id: 13
       name: medical_department_1
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Dermatology''}'
-      - '{''value'': 2, ''label'': 2}'
-      - '{''value'': 3, ''label'': 3}'
+      - Dermatology
+      - '2'
+      - '3'
       required: false
     - id: 14
       name: blood_type_1
@@ -115,8 +115,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Blood''}'
-      - '{''value'': 2, ''label'': ''Plasma''}'
+      - Blood
+      - Plasma
       required: false
     - id: 15
       name: blood_volume_1
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': 1}'
-      - '{''value'': 2, ''label'': 2}'
-      - '{''value'': 3, ''label'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 16
       name: test_request_reason_1

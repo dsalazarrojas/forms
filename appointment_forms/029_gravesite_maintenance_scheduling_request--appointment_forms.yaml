@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Maintenance'', ''value'': ''maintenance''}'
-      - '{''label'': ''Decoration'', ''value'': ''decoration''}'
-      - '{''label'': ''Data Collection'', ''value'': ''data_collection''}'
+      - Maintenance
+      - Decoration
+      - Data Collection
       required: false
     - id: 5
       name: gravesite_id
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Grave Maintenance'', ''value'': ''grave_maintenance''}'
-      - '{''label'': ''Headstone Repair'', ''value'': ''headstone_repair''}'
-      - '{''label'': ''Memorial Stone Replacement'', ''value'': ''memorial_stone_replacement''}'
+      - Grave Maintenance
+      - Headstone Repair
+      - Memorial Stone Replacement
       required: false
     - id: 7
       name: grave_status
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Open'', ''value'': ''open''}'
-      - '{''label'': ''Closed'', ''value'': ''closed''}'
-      - '{''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - Open
+      - Closed
+      - In Progress
       required: false
     - id: 8
       name: grave_type
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Adult'', ''value'': ''adult''}'
-      - '{''label'': ''Child'', ''value'': ''child''}'
-      - '{''label'': ''Infant'', ''value'': ''infant''}'
+      - Adult
+      - Child
+      - Infant
       required: false
     - id: 9
       name: notes

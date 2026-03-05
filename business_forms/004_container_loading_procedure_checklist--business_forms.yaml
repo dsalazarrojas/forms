@@ -60,8 +60,8 @@ inputSchema:
       hint: Container inspected for damage and cleanliness
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not Applicable
       required: true
     - id: 8
@@ -82,8 +82,8 @@ inputSchema:
       hint: All loading equipment inspected and functional
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: cargo_secured_properly
@@ -91,8 +91,8 @@ inputSchema:
       hint: All items properly braced and secured
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: weight_distribution
@@ -118,8 +118,8 @@ inputSchema:
       hint: Are there any hazardous materials in this shipment?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: hazmat_documentation
@@ -127,8 +127,8 @@ inputSchema:
       hint: All required hazardous material paperwork completed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not Applicable
       required: false
     - id: 15
@@ -158,8 +158,8 @@ inputSchema:
       hint: Photographs of loaded container for documentation
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: damage_noted

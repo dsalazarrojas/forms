@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Student'', ''label'': ''Student''}'
-      - '{''id'': 2, ''name'': ''Parent'', ''label'': ''Parent''}'
-      - '{''id'': 3, ''name'': ''Guardian'', ''label'': ''Guardian''}'
+      - Student
+      - Parent
+      - Guardian
       required: false
     - id: 3
       name: academic_history
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Elementary'', ''label'': ''Elementary''}'
-      - '{''id'': 2, ''name'': ''Middle School'', ''label'': ''Middle School''}'
-      - '{''id'': 3, ''name'': ''High School'', ''label'': ''High School''}'
+      - Elementary
+      - Middle School
+      - High School
       required: false
     - id: 7
       name: student_id

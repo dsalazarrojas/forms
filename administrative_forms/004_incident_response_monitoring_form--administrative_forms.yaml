@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Category 1''}'
-      - '{''id'': 2, ''name'': ''Category 2''}'
+      - Category 1
+      - Category 2
       required: true
     - id: 8
       name: incident_status
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Status 1''}'
-      - '{''id'': 2, ''name'': ''Status 2''}'
-      - '{''id'': 3, ''name'': ''Status 3''}'
+      - Status 1
+      - Status 2
+      - Status 3
       required: true
     - id: 9
       name: incident_priority
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Priority 1''}'
-      - '{''id'': 2, ''name'': ''Priority 2''}'
-      - '{''id'': 3, ''name'': ''Priority 3''}'
+      - Priority 1
+      - Priority 2
+      - Priority 3
       required: false
     - id: 10
       name: response_team

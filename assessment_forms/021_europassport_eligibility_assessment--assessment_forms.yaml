@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,26 +16,26 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Irish''}'
-      - '{''id'': 2, ''value'': ''British''}'
-      - '{''id'': 3, ''value'': ''French''}'
-      - '{''id'': 4, ''value'': ''German''}'
-      - '{''id'': 5, ''value'': ''Spanish''}'
-      - '{''id'': 6, ''value'': ''Italian''}'
-      - '{''id'': 7, ''value'': ''Portuguese''}'
-      - '{''id'': 8, ''value'': ''Dutch''}'
-      - '{''id'': 9, ''value'': ''Belgian''}'
-      - '{''id'': 10, ''value'': ''Swedish''}'
-      - '{''id'': 11, ''value'': ''Danish''}'
-      - '{''id'': 12, ''value'': ''Norwegian''}'
-      - '{''id'': 13, ''value'': ''Finnish''}'
-      - '{''id'': 14, ''value'': ''Greek''}'
-      - '{''id'': 15, ''value'': ''Cypriot''}'
-      - '{''id'': 16, ''value'': ''Maltese''}'
-      - '{''id'': 17, ''value'': ''Cypriot (Dual)''}'
-      - '{''id'': 18, ''value'': ''British Overseas''}'
-      - '{''id'': 19, ''value'': ''Other''}'
-      - '{''id'': 20, ''value'': ''Other (please specify)''}'
+      - Irish
+      - British
+      - French
+      - German
+      - Spanish
+      - Italian
+      - Portuguese
+      - Dutch
+      - Belgian
+      - Swedish
+      - Danish
+      - Norwegian
+      - Finnish
+      - Greek
+      - Cypriot
+      - Maltese
+      - Cypriot (Dual)
+      - British Overseas
+      - Other
+      - Other (please specify)
       required: true
     - id: 3
       name: passport_type
@@ -54,11 +43,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Full''}'
-      - '{''id'': 2, ''value'': ''Biometric''}'
-      - '{''id'': 3, ''value'': ''Biometric (with residence permit)''}'
-      - '{''id'': 4, ''value'': ''Other''}'
-      - '{''id'': 5, ''value'': ''Other (please specify)''}'
+      - Full
+      - Biometric
+      - Biometric (with residence permit)
+      - Other
+      - Other (please specify)
       required: true
     - id: 4
       name: eu_country
@@ -66,24 +55,23 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Ireland''}'
-      - '{''id'': 2, ''value'': ''United Kingdom''}'
-      - '{''id'': 3, ''value'': ''France''}'
-      - '{''id'': 4, ''value'': ''Germany''}'
-      - '{''id'': 5, ''value'': ''Spain''}'
-      - '{''id'': 6, ''value'': ''Italy''}'
-      - '{''id'': 7, ''value'': ''Portugal''}'
-      - '{''id'': 8, ''value'': ''Netherlands''}'
-      - '{''id'': 9, ''value'': ''Belgium''}'
-      - '{''id'': 10, ''value'': ''Sweden''}'
-      - '{''id'': 11, ''value'': ''Denmark''}'
-      - '{''id'': 12, ''value'': ''Norway''}'
-      - '{''id'': 13, ''value'': ''Finland''}'
-      - '{''id'': 14, ''value'': ''Greece''}'
-      - '{''id'': 15, ''value'': ''Cyprus''}'
-      - '{''id'': 16, ''value'': ''Malta''}'
-      - '{''id'': 17, ''value'': ''United Kingdom''}'
-      - '{''id'': 18, ''value'': ''Other''}'
+      - Ireland
+      - United Kingdom
+      - France
+      - Germany
+      - Spain
+      - Italy
+      - Portugal
+      - Netherlands
+      - Belgium
+      - Sweden
+      - Denmark
+      - Norway
+      - Finland
+      - Greece
+      - Cyprus
+      - Malta
+      - Other
       required: true
     - id: 5
       name: date_of_birth
@@ -133,9 +121,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
-      - '{''id'': 3, ''value'': ''Not applicable''}'
+      - 'True'
+      - 'False'
+      - Not applicable
       required: true
     - id: 12
       name: follow_up_date
@@ -157,10 +145,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Phone Call''}'
-      - '{''id'': 2, ''value'': ''Email''}'
-      - '{''id'': 3, ''value'': ''Other''}'
-      - '{''id'': 4, ''value'': ''Other (please specify)''}'
+      - Phone Call
+      - Email
+      - Other
+      - Other (please specify)
       required: true
     - id: 15
       name: follow_up_notes

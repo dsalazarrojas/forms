@@ -5,16 +5,16 @@ inputSchema:
     pages:
     - id: 1
       name: form_page_1
-      label: Performance Evaluation
+      label: Performance Status
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 2
-      name: form_page_2
-      label: Slot Booking
+      name: slot_booking_details
+      label: Slot Booking Details
       hint: null
       type: text
       options: []
@@ -32,36 +32,64 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 5
       name: form_page_5
-      label: Reviewers
+      label: Form Page 5
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
-      name: form_page_6
-      label: Reviewers
+      name: reviewer_info
+      label: Reviewer Information
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: form_page_7
-      label: Reviewers
+      label: Reviewer Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 8
       name: form_page_8
-      label: Reviewers
+      label: Reviewer Contact Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: form_page_9
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
+    - id: 10
+      name: form_page_10
+      label: Slot Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: form_page_11
+      label: Start Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: form_page_12
+      label: End Time
+      hint: null
+      type: date
+      options: []
+      required: true

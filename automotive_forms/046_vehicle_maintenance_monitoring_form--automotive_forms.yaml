@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Daily'', ''value'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly'', ''value'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Monthly'', ''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 11
       name: maintenance_type
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Oil Change'', ''value'': ''oil_change''}'
-      - '{''id'': 2, ''name'': ''Tire Rotation'', ''value'': ''tire_rotation''}'
-      - '{''id'': 3, ''name'': ''Brake Check'', ''value'': ''brake_check''}'
+      - oil change
+      - tire rotation
+      - brake check
       required: true
     - id: 12
       name: notes

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: confirm_scheduling
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Phone
+      - Email
+      - Other
       required: false
     - id: 6
       name: wave_vehicle_details
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Jeep'', ''value'': ''jeep''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Jeep
+      - Other
       required: false
     - id: 9
       name: wave_vehicle_model
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Grand Cherokee'', ''value'': ''grand-cherokee''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Grand Cherokee
+      - Other
       required: false
     - id: 10
       name: wave_vehicle_color
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Black'', ''value'': ''black''}'
-      - '{''label'': ''White'', ''value'': ''white''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Black
+      - White
+      - Other
       required: false
     - id: 11
       name: wave_vehicle_mileage
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Service Appointment'', ''value'': ''service-appointment''}'
-      - '{''label'': ''Maintenance Appointment'', ''value'': ''maintenance-appointment''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Service Appointment
+      - Maintenance Appointment
+      - Other
       required: false
     - id: 14
       name: wave_service_type
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Oil Change'', ''value'': ''oil-change''}'
-      - '{''label'': ''Tire Rotation'', ''value'': ''tire-rotation''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Oil Change
+      - Tire Rotation
+      - Other
       required: false
     - id: 15
       name: wave_scheduling

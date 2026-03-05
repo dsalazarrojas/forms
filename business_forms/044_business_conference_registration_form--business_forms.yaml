@@ -163,7 +163,7 @@ inputSchema:
       hint: Do you need hotel booking
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes - Need Booking
       - Yes - Have Own Booking
       required: true
@@ -185,7 +185,7 @@ inputSchema:
       hint: Do you need airport transfers
       type: select_one
       options:
-      - false
+      - 'False'
       - Airport Pickup
       - Airport Drop-off
       - Both
@@ -198,7 +198,7 @@ inputSchema:
       options:
       - Yes - Very Interested
       - Yes - Somewhat Interested
-      - false
+      - 'False'
       required: true
     - id: 22
       name: exhibitor_interest
@@ -206,8 +206,8 @@ inputSchema:
       hint: Do you want to visit exhibitors
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Maybe
       required: true
     - id: 23

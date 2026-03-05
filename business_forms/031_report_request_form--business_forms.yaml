@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Progress Report''}'
-      - '{''id'': 2, ''name'': ''Status Report''}'
-      - '{''id'': 3, ''name'': ''Detail Report''}'
+      - Progress Report
+      - Status Report
+      - Detail Report
       required: false
     - id: 3
       name: project_number
@@ -33,11 +33,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Monthly''}'
-      - '{''id'': 4, ''name'': ''Quarterly''}'
-      - '{''id'': 5, ''name'': ''Annual''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annual
       required: false
     - id: 5
       name: report_start_date
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Project Manager''}'
-      - '{''id'': 2, ''name'': ''Project Team''}'
-      - '{''id'': 3, ''name'': ''Data Manager''}'
+      - Project Manager
+      - Project Team
+      - Data Manager
       required: false
     - id: 11
       name: report_comment
@@ -118,9 +118,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Project Manager''}'
-      - '{''id'': 2, ''name'': ''Project Team''}'
-      - '{''id'': 3, ''name'': ''Data Manager''}'
+      - Project Manager
+      - Project Team
+      - Data Manager
       required: false
     - id: 16
       name: submitter
@@ -128,9 +128,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Project Manager''}'
-      - '{''id'': 2, ''name'': ''Project Team''}'
-      - '{''id'': 3, ''name'': ''Data Manager''}'
+      - Project Manager
+      - Project Team
+      - Data Manager
       required: false
     - id: 17
       name: submitter_email

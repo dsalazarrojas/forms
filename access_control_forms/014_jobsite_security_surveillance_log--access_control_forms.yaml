@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''No Incident''}'
-      - '{''value'': ''Incident Reported''}'
-      - '{''value'': ''Incident Under Investigation''}'
-      - '{''value'': ''Incident Closed''}'
+      - No Incident
+      - Incident Reported
+      - Incident Under Investigation
+      - Incident Closed
       required: true
     - id: 8
       name: incident_incident_date
@@ -83,10 +83,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Police Vehicle''}'
-      - '{''value'': ''Fire Truck''}'
-      - '{''value'': ''Ambulance''}'
-      - '{''value'': ''Other''}'
+      - Police Vehicle
+      - Fire Truck
+      - Ambulance
+      - Other
       required: false
     - id: 12
       name: security_personnel_present
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Officer A''}'
-      - '{''value'': ''Officer B''}'
-      - '{''value'': ''Other''}'
+      - Officer A
+      - Officer B
+      - Other
       required: true
     - id: 13
       name: incident_investigation_status
@@ -104,9 +104,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not Started''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Closed''}'
+      - Not Started
+      - In Progress
+      - Closed
       required: true
     - id: 14
       name: notes_on_investigation
@@ -128,8 +128,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not Resolved''}'
-      - '{''value'': ''Resolved''}'
+      - Not Resolved
+      - Resolved
       required: true
     - id: 17
       name: notes_on_resolution

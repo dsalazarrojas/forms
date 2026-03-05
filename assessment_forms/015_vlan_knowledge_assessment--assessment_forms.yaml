@@ -18,8 +18,11 @@ inputSchema:
       name: configuration_questions
       label: Configuration questions
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - What is the main purpose of VLAN configuration?
+      - What is the difference between a VLAN and a LAN?
+      - What are the benefits of using VLANs?
       required: true
     - id: 2
       name: network_topology
@@ -34,27 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      - '6'
+      - How do you set up a new VLAN in your network?
+      - What are the common VLAN setup mistakes to avoid?
+      - How do you configure VLAN trunking?
       required: true
     - id: 4
-      name: vlan_configuration
-      label: VLAN configuration
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: feedback
-      label: Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: assessment_results
       label: Assessment results
       hint: null
@@ -63,6 +50,20 @@ inputSchema:
       - Pass
       - Fail
       required: true
+    - id: 5
+      name: network_issues
+      label: Network issues
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 7
       name: readiness
       label: Readiness
@@ -74,137 +75,55 @@ inputSchema:
       - Not ready
       required: true
     - id: 8
-      name: additional_comments
-      label: Additional comments
+      name: network_comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: comments
-      label: Comments
+      name: vlan_knowledge_comments
+      label: VLAN comments
       hint: null
-      type: select_multiple
-      options:
-      - Pass
-      - Fail
+      type: text
+      options: []
       required: false
     - id: 10
-      name: additional_comments_2
-      label: Comments
+      name: config_comments
+      label: Config Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: readiness_2
-      label: Readiness
+      name: vlan_setup_comments
+      label: VLAN setup comments
       hint: null
-      type: select_one
-      options:
-      - Very ready
-      - Somewhat ready
-      - Not ready
+      type: text
+      options: []
       required: false
     - id: 12
-      name: assessment_results_2
-      label: Assessment results
+      name: network_topo_comments
+      label: Network topology comments
       hint: null
-      type: select_multiple
-      options:
-      - Pass
-      - Fail
+      type: text
+      options: []
       required: false
     - id: 13
-      name: network_topology_2
-      label: Network topology
+      name: additional_comments_2
+      label: Additional comments 2
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: vlan_config_comments
-      label: Comments
+      name: readiness_comments
+      label: Readiness comments
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: vlan_setup_2
-      label: VLAN setup
-      hint: null
-      type: select_one
-      options:
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      - '6'
-      required: false
-    - id: 16
-      name: network_topo_comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: vlan_config_comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: vlan_config_comments_2
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: vlan_config_questions
-      label: VLAN questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: vlan_questions
-      label: VLAN questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: vlan_comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: vlan_questions_2
-      label: VLAN questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: config_comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: vlan_knowledge_comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: knowledge_questions
       label: Knowledge questions
       hint: null

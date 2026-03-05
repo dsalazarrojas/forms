@@ -4,203 +4,87 @@ inputSchema:
     title: Online Activity Status Disable Request Form
     pages:
     - id: 1
-      name: user_preferences
-      label: User Preferences
-      hint: null
+      name: online_activities
+      label: Online Activities
+      hint: List the activities you would like to disable
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: impact
+      label: Impact on Experience
+      hint: Explain how disabling these activities will affect you
       type: note
       options: []
       required: false
-    - id: 2
+    - id: 3
+      name: reason
+      label: Reason
+      hint: Briefly explain why you want to disable these activities
+      type: note
+      options: []
+      required: true
+    - id: 4
       name: online_status
-      label: Online Status
-      hint: null
+      label: Online Status Preference
+      hint: Choose your current online status
       type: select_one
       options:
       - Active
       - Inactive
-      required: false
-    - id: 3
-      name: submit_request
-      label: Submit Request
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: notes
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 5
-      name: user_preferences_2
-      label: User Preferences
-      hint: null
-      type: note
+      name: more_activities
+      label: More Activities
+      hint: List any other activities you would like to disable
+      type: text
       options: []
       required: false
     - id: 6
-      name: online_status_2
-      label: Online Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
+      name: detailed_request
+      label: Detailed Request Note
+      hint: Provide a detailed note about your request
+      type: text
+      options: []
       required: false
     - id: 7
-      name: submit_request_2
-      label: Submit Request
-      hint: null
+      name: specific_times
+      label: Specific Times
+      hint: Are there specific times you'd like to disable your activities?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 8
-      name: notes_2
-      label: Notes
-      hint: null
-      type: text
-      options: []
+      name: other_requests
+      label: Other Requests
+      hint: Are there any other requests like this?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 9
-      name: user_preferences_3
-      label: User Preferences
-      hint: null
-      type: note
-      options: []
-      required: false
+      name: current_status
+      label: Current Status
+      hint: Are you currently active or inactive online?
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
     - id: 10
-      name: online_status_3
-      label: Online Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 11
-      name: submit_request_3
+      name: submit_request
       label: Submit Request
-      hint: null
+      hint: Click submit to send your request
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 12
-      name: notes_3
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: user_preferences_4
-      label: User Preferences
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: online_status_4
-      label: Online Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 15
-      name: submit_request_4
-      label: Submit Request
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: notes_4
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: user_preferences_5
-      label: User Preferences
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: online_status_5
-      label: Online Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 19
-      name: submit_request_5
-      label: Submit Request
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: notes_5
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: user_preferences_6
-      label: User Preferences
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: online_status_6
-      label: Online Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 23
-      name: submit_request_6
-      label: Submit Request
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: notes_6
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submit_request_6
-      label: Submit Request
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

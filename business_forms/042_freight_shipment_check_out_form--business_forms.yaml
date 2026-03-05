@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Stripe''}'
-      - '{''value'': ''Authorize''}'
+      - Stripe
+      - Authorize
       required: true
     - id: 4
       name: freight_weight
@@ -39,8 +39,8 @@ inputSchema:
       hint: Select your payment method
       type: select_one
       options:
-      - '{''value'': ''Visa''}'
-      - '{''value'': ''Mastercard''}'
+      - Visa
+      - Mastercard
       required: false
     - id: 6
       name: notes

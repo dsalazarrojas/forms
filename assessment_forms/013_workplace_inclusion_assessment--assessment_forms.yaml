@@ -5,166 +5,68 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: Assessment Purpose
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: feeling_at_work
-      label: feeling_at_work
+      label: How do you feel about your workplace environment?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: feeling_at_work_scale
-      label: feeling_at_work_scale
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 4
-      name: feeling_at_work_scale_answer
-      label: feeling_at_work_scale_answer
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 5
       name: physical_cues_body_language
-      label: physical_cues_body_language
+      label: Describe any physical cues you observe in the workplace related to body
+        language
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
-    - id: 6
-      name: physical_cues_verbal_communications
-      label: physical_cues_verbal_communications
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 4
       name: physical_cues_nonverbal_communications
-      label: physical_cues_nonverbal_communications
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: physical_cues_other
-      label: physical_cues_other
+      label: Describe any physical cues you observe in the workplace related to nonverbal
+        communications
       hint: null
       type: text
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 5
       name: psychological_cues_body_language
-      label: psychological_cues_body_language
+      label: Describe any psychological cues you observe in the workplace related
+        to body language
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
-    - id: 10
-      name: psychological_cues_verbal_communications
-      label: psychological_cues_verbal_communications
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 6
       name: psychological_cues_nonverbal_communications
-      label: psychological_cues_nonverbal_communications
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: psychological_cues_other
-      label: psychological_cues_other
+      label: Describe any psychological cues you observe in the workplace related
+        to nonverbal communications
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: feeling_at_work
-      label: feeling_at_work
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: feeling_at_work_scale
-      label: feeling_at_work_scale
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 15
-      name: feeling_at_work_scale_answer
-      label: feeling_at_work_scale_answer
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 16
-      name: barriers
-      label: barriers
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: solutions
-      label: solutions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: action_plan
-      label: action_plan
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
+      required: true
+    - id: 7
       name: feedback
-      label: feedback
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 20
-      name: next_steps
-      label: next_steps
+      label: Please provide feedback on this assessment?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 8
+      name: next_steps
+      label: What are your next steps after completing this assessment?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: action_plan
+      label: Create an action plan to address any issues you've identified
+      hint: null
+      type: text
+      options: []
+      required: true

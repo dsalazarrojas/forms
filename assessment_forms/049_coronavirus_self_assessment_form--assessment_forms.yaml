@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''fever''}'
-      - '{''value'': ''cough''}'
-      - '{''value'': ''shortness''}'
-      - '{''value'': ''loss_of_taste''}'
+      - fever
+      - cough
+      - shortness
+      - loss of taste
       required: false
     - id: 5
       name: travel_history
@@ -62,8 +62,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: travel_history_last_14_days
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: travel_history_last_7_days
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: medical_condition

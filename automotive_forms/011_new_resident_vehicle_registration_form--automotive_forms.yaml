@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Car''}'
-      - '{''id'': 2, ''label'': ''Motorcycle''}'
-      - '{''id'': 3, ''label'': ''Boat''}'
+      - Car
+      - Motorcycle
+      - Boat
       required: false
     - id: 2
       name: vehicle_make
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''On-site parking available''}'
-      - '{''id'': 2, ''label'': ''Off-site parking available''}'
-      - '{''id'': 3, ''label'': ''No parking available''}'
+      - On-site parking available
+      - Off-site parking available
+      - No parking available
       required: false
     - id: 8
       name: documentation_upload1

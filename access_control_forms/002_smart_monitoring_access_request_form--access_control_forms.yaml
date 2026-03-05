@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Monitoring System'', ''label'': ''Monitoring System''}'
-      - '{''value'': ''Smart Monitoring System'', ''label'': ''Smart Monitoring System''}'
+      - Monitoring System
+      - Smart Monitoring System
       required: false
     - id: 3
       name: system_info
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Read-Only'', ''label'': ''Read-Only''}'
-      - '{''value'': ''Read/Write'', ''label'': ''Read/Write''}'
+      - Read-Only
+      - Read/Write
       required: false
     - id: 5
       name: access_reason
@@ -55,8 +55,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''One-off'', ''label'': ''One-off''}'
-      - '{''value'': ''Recurring'', ''label'': ''Recurring''}'
+      - One-off
+      - Recurring
       required: false
     - id: 8
       name: frequency_unit
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Days'', ''label'': ''Days''}'
-      - '{''value'': ''Weeks'', ''label'': ''Weeks''}'
+      - Days
+      - Weeks
       required: false
     - id: 9
       name: frequency_date

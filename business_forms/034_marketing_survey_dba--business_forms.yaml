@@ -4,203 +4,48 @@ inputSchema:
     title: marketing_survey_dba
     pages:
     - id: 1
-      name: marketing_survey_dba_page_1
-      label: marketing_survey_dba_page_1_label
-      hint: null
-      type: note
+      name: work_hours
+      label: What is your average work hours per week?
+      hint: Please enter a number
+      type: number
       options: []
-      required: false
+      required: true
     - id: 2
-      name: marketing_survey_dba_page_1
-      label: marketing_survey_dba_page_1_label
-      hint: null
-      type: text
-      options: []
+      name: favorite_dbms
+      label: What is your favorite database management system?
+      hint: Choose from the list
+      type: select_multiple
+      options:
+      - MySQL
+      - PostgreSQL
+      - Microsoft SQL Server
+      - Oracle
+      - Other
       required: false
     - id: 3
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
+      name: training_frequency
+      label: How often do you attend training sessions or workshops?
+      hint: Daily, Weekly, Monthly, Rarely
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
       required: false
     - id: 4
-      name: marketing_survey_dba_page_2
-      label: marketing_survey_dba_page_2_label
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: preferred_work_time
+      label: What is your preferred time to start work?
+      hint: HH -MM format
+      type: time
+      options: []
       required: false
     - id: 5
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
+      name: cloud_experience
+      label: Have you ever used cloud-based services for database management?
+      hint: Yes, No
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 6
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: marketing_survey_dba
-      label: marketing_survey_dba_label
-      hint: null
-      type: email
-      options: []
       required: false

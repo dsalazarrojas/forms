@@ -5,63 +5,34 @@ inputSchema:
     pages:
     - id: 1
       name: intro_page
-      label: What is this survey used for
+      label: What is the primary purpose of this survey?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: goals_page
-      label: What are the goals of the business
+      label: What are the goals of the business?
       hint: null
       type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 3
-      name: goals_page
-      label: what_are_the_goals
-      hint: null
-      type: select_multiple
       options:
       - goal1
       - goal2
       - goal3
       required: false
-    - id: 4
+    - id: 3
       name: metrics_page
-      label: What metrics are being tracked
+      label: What metrics are being tracked?
       hint: null
       type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 5
-      name: metrics_page
-      label: what_metrics_are_being_tracked
-      hint: null
-      type: select_multiple
       options:
       - metric1
       - metric2
       - metric3
       required: false
-    - id: 6
+    - id: 4
       name: target_page
-      label: What are the targets
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 7
-      name: target_page
-      label: what_are_the_targets
+      label: What are the targets?
       hint: null
       type: select_multiple
       options:
@@ -69,144 +40,124 @@ inputSchema:
       - target2
       - target3
       required: false
-    - id: 8
+    - id: 5
       name: score_page
-      label: What is the score
+      label: What is the score?
       hint: null
       type: number
       options: []
       required: false
-    - id: 9
-      name: score_page
-      label: what_is_the_score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: score_page
-      label: what_is_the_score_2
+    - id: 6
+      name: time_page
+      label: When is this score valid?
       hint: null
       type: date
       options: []
       required: false
-    - id: 11
-      name: time_page
-      label: When is this score valid
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: time_page
-      label: when_is_this_score_valid
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: note_page
-      label: Additional Notes
+    - id: 7
+      name: comments_page
+      label: Additional Comments
       hint: null
       type: note
       options: []
       required: false
-    - id: 14
-      name: note_page
-      label: additional_notes
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 15
+    - id: 8
       name: email_page
       label: E-Mail Address
       hint: null
       type: email
       options: []
       required: false
-    - id: 16
-      name: email_page
-      label: e_mail_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: email_page
-      label: email
+    - id: 9
+      name: challenges_page
+      label: What are the key challenges the business is facing?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - challenge1
+      - challenge2
+      - challenge3
       required: false
-    - id: 18
-      name: email_page
-      label: e_mail
+    - id: 10
+      name: opportunities_page
+      label: What are the key opportunities the business is facing?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - opportunity1
+      - opportunity2
+      - opportunity3
       required: false
-    - id: 19
-      name: note_page
-      label: Comments
+    - id: 11
+      name: strengths_page
+      label: What are the key strengths the business is facing?
+      hint: null
+      type: select_multiple
+      options:
+      - strength1
+      - strength2
+      - strength3
+      required: false
+    - id: 12
+      name: weaknesses_page
+      label: What are the key weaknesses the business is facing?
+      hint: null
+      type: select_multiple
+      options:
+      - weakness1
+      - weakness2
+      - weakness3
+      required: false
+    - id: 13
+      name: comments_page_2
+      label: Additional Comments (2)
       hint: null
       type: note
       options: []
       required: false
-    - id: 20
-      name: comments
-      label: comments
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: comments
-      label: comments
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 22
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: email_page
-      label: Comments (2)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: email_page
-      label: comments_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
+    - id: 14
       name: submit_page
       label: Submit
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 15
+      name: submit_page_2
+      label: Submit (2)
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 16
+      name: submit_page_3
+      label: Submit (3)
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 17
+      name: submit_page_4
+      label: Submit (4)
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 18
+      name: submit_page_5
+      label: Submit (5)
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
       required: false

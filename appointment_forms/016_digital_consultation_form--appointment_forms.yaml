@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Haircut''}'
-      - '{''value'': ''Color correction''}'
-      - '{''value'': ''Chemical treatment''}'
-      - '{''value'': ''Other''}'
+      - Haircut
+      - Color correction
+      - Chemical treatment
+      - Other
       required: false
     - id: 3
       name: appointment_date
@@ -41,11 +41,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Haircut''}'
-      - '{''value'': ''Styling''}'
-      - '{''value'': ''Trimming''}'
-      - '{''value'': ''Chemical treatment''}'
-      - '{''value'': ''Other''}'
+      - Haircut
+      - Styling
+      - Trimming
+      - Chemical treatment
+      - Other
       required: false
     - id: 6
       name: client_phone

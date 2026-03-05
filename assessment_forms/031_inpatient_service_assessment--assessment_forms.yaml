@@ -5,72 +5,87 @@ inputSchema:
     pages:
     - id: 1
       name: inpatient_service_assessment_1
-      label: Physician Performance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: inpatient_service_assessment_2
-      label: Service Excellence
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: inpatient_service_assessment_3
-      label: Physician Communication
+      label: Overall Experience
       hint: null
       type: select_one
       options:
       - Very Good
       - Fair
       - Poor
-      required: false
-    - id: 4
-      name: inpatient_service_assessment_4
+      required: true
+    - id: 2
+      name: inpatient_service_assessment_2
+      label: Physician Performance
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Fair
+      - Poor
+      required: true
+    - id: 3
+      name: inpatient_service_assessment_3
       label: Team Performance
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: inpatient_service_assessment_5
+      type: select_one
+      options:
+      - Very Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: inpatient_service_assessment_4
       label: Nurse Performance
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Very Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: inpatient_service_assessment_5
+      label: Communication with Physician
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Fair
+      - Poor
+      required: true
     - id: 6
       name: inpatient_service_assessment_6
-      label: Nurse Communication
+      label: Communication with Team
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Very Good
+      - Fair
+      - Poor
+      required: true
     - id: 7
       name: inpatient_service_assessment_7
-      label: Communication with Family
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: inpatient_service_assessment_8
       label: Teamwork
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: inpatient_service_assessment_8
+      label: Patient Safety
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Fair
+      - Poor
+      required: true
     - id: 9
       name: inpatient_service_assessment_9
-      label: Patient Safety
+      label: Additional Comments
       hint: null
       type: text
       options: []
@@ -78,111 +93,6 @@ inputSchema:
     - id: 10
       name: inpatient_service_assessment_10
       label: Overall Assessment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: inpatient_service_assessment_11
-      label: Physician Performance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: inpatient_service_assessment_12
-      label: Service Excellence
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: inpatient_service_assessment_13
-      label: Nurse Performance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: inpatient_service_assessment_14
-      label: Nurse Communication
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: inpatient_service_assessment_15
-      label: Communication with Family
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: inpatient_service_assessment_16
-      label: Teamwork
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: inpatient_service_assessment_17
-      label: Patient Safety
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: inpatient_service_assessment_18
-      label: Overall Assessment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: inpatient_service_assessment_19
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: inpatient_service_assessment_20
-      label: Recommendations
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: inpatient_service_assessment_21
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: inpatient_service_assessment_22
-      label: Recommendations
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: inpatient_service_assessment_23
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: inpatient_service_assessment_24
-      label: Recommendations
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: inpatient_service_assessment_25
-      label: Additional Comments
       hint: null
       type: text
       options: []

@@ -1,165 +1,141 @@
 inputSchema:
   type: object
   properties:
-    title: performance-metrics-audit-form
+    title: Performance Metrics Audit Form
     pages:
     - id: 1
       name: company_performance_metrics
-      label: company_performance_metrics
+      label: Company Performance Metrics
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 2
-      name: team_performance_metrics
-      label: team_performance_metrics
+      name: team_performance
+      label: Team Performance
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 3
-      name: employee_performance_metrics
-      label: employee_performance_metrics
+      name: employee_performance
+      label: Employee Performance
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 4
-      name: customer_performance_metrics
-      label: customer_performance_metrics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: customer_satisfaction_metrics
-      label: customer_satisfaction_metrics
+      name: customer_satisfaction
+      label: Customer Satisfaction
       hint: null
       type: select_one
       options:
       - Satisfied
       - Dissatisfied
+      required: true
+    - id: 5
+      name: process_performance
+      label: Process Performance
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 6
-      name: customer_satisfaction_metrics
-      label: customer_satisfaction_metrics
+      name: business_process
+      label: Business Process
       hint: null
       type: select_multiple
       options:
-      - Satisfied
-      - Dissatisfied
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 7
-      name: customer_satisfaction_metrics
-      label: customer_satisfaction_metrics
+      name: product_quality
+      label: Product Quality
       hint: null
       type: select_multiple
       options:
-      - Satisfied
-      - Dissatisfied
-      required: false
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 8
-      name: product_performance_metrics
-      label: product_performance_metrics
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: product_performance_metrics
-      label: product_performance_metrics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: process_performance_metrics
-      label: process_performance_metrics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: process_performance_metrics
-      label: process_performance_metrics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: business_performance_metrics
-      label: business_performance_metrics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: business_performance_metrics
-      label: business_performance_metrics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: business_performance_metrics
-      label: business_performance_metrics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: company_performance_metrics
-      label: company_performance_metrics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: company_performance_metrics
-      label: company_performance_metrics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: business_process_metrics
-      label: business_process_metrics
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: customer_satisfaction
-      label: customer_satisfaction
+      name: customer_satisfaction_comments
+      label: Customer Satisfaction Comments
       hint: null
       type: note
       options: []
+      required: true
+    - id: 9
+      name: company_performance
+      label: Company Performance
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: business_process_metrics
+      label: Business Process Metrics
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: product_quality_metrics
+      label: Product Quality Metrics
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: process_metrics
+      label: Process Metrics
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: company_satisfaction
+      label: Company Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: business_process_satisfaction
+      label: Business Process Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
       required: false

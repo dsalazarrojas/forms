@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''phone''}'
-      - '{''value'': ''email''}'
-      - '{''value'': ''other''}'
+      - phone
+      - email
+      - other
       required: false
     - id: 5
       name: reporting_channel_email
@@ -54,13 +54,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''bug''}'
-      - '{''value'': ''feature''}'
-      - '{''value'': ''other''}'
+      - bug
+      - feature
+      - other
       required: false
     - id: 8
-      name: issue_description
-      label: Issue Description
+      name: issue_description_2
+      label: Issue Description 2
       hint: null
       type: text
       options: []
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''new''}'
-      - '{''value'': ''in_progress''}'
-      - '{''value'': ''done''}'
+      - new
+      - in progress
+      - done
       required: false
     - id: 12
       name: issue_priority
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''low''}'
-      - '{''value'': ''medium''}'
-      - '{''value'': ''high''}'
+      - low
+      - medium
+      - high
       required: false
     - id: 13
       name: issue_resolution
@@ -147,9 +147,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''image''}'
-      - '{''value'': ''document''}'
-      - '{''value'': ''audio''}'
+      - image
+      - document
+      - audio
       required: false
     - id: 20
       name: issue_attachment_data
@@ -160,35 +160,35 @@ inputSchema:
       required: false
     - id: 21
       name: reporting_channel_other_other
-      label: Reporting Channel Other
+      label: Reporting Channel Other Other
       hint: null
       type: text
       options: []
       required: false
     - id: 22
       name: reporting_channel_other_other_other
-      label: Reporting Channel Other Other
+      label: Reporting Channel Other Other Other
       hint: null
       type: text
       options: []
       required: false
     - id: 23
       name: issue_comments_other
-      label: Issue Comments
+      label: Issue Comments Other
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: issue_comments_other_other
-      label: Issue Comments Other
+      label: Issue Comments Other Other
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: issue_comments_other_other_other
-      label: Issue Comments Other Other
+      label: Issue Comments Other Other Other
       hint: null
       type: text
       options: []

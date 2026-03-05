@@ -4,153 +4,135 @@ inputSchema:
     title: IT Service Ticket Form
     pages:
     - id: 1
-      name: submit_ticket
-      label: submit_ticket
-      hint: null
+      name: issue_description
+      label: What is the issue?
+      hint: Briefly describe the issue
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: description
-      label: description
-      hint: null
+      name: issue_description_2
+      label: Description of the issue
+      hint: Provide more details about the issue
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: priority
-      label: priority
-      hint: null
+      name: is_priority
+      label: Is this a priority issue?
+      hint: Check if this issue requires immediate attention
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
-      name: priority_type
-      label: priority_type
-      hint: null
+      name: category_select
+      label: Select all relevant categories for the issue
+      hint: Choose all categories that apply
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Category 1
+      - Category 2
+      - Category 3
+      required: true
     - id: 5
-      name: category
-      label: category
-      hint: null
+      name: assignee
+      label: Who reported the issue?
+      hint: Enter the name of the person who reported the issue
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - John
+      - Jane
+      - Bob
       required: false
     - id: 6
-      name: category_type
-      label: category_type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: assignee
-      label: assignee
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
       name: due_date
-      label: due_date
-      hint: null
+      label: What is the due date for the issue?
+      hint: Enter the due date for the issue
       type: date
+      options: []
+      required: true
+    - id: 7
+      name: reporter_email
+      label: What is the email address of the reporter?
+      hint: Enter the email address of the reporter
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: reporter_phone
+      label: What is the phone number of the reporter?
+      hint: Enter the phone number of the reporter
+      type: text
       options: []
       required: false
     - id: 9
-      name: submitter
-      label: submitter
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      name: comments
+      label: Comments for the reporter
+      hint: Any comments from the reporter
+      type: note
+      options: []
       required: false
     - id: 10
-      name: submitter_type
-      label: submitter_type
-      hint: null
+      name: follow_up
+      label: Is the reporter available for follow-up?
+      hint: Check if the reporter is available for follow-up
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: submitter_email
-      label: submitter_email
-      hint: null
-      type: email
-      options: []
+      name: submitter_type
+      label: How will the issue be submitted?
+      hint: Choose the method of submission
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
       required: false
     - id: 12
-      name: submitter_phone
-      label: submitter_phone
-      hint: null
-      type: text
-      options: []
+      name: submitter_method
+      label: What is the type of the submitter?
+      hint: Check if the submitter is individual or department
+      type: select_one
+      options:
+      - Individual
+      - Department
       required: false
     - id: 13
-      name: description_text
-      label: description
-      hint: null
+      name: contact_method
+      label: How would you like to be contacted?
+      hint: Choose a contact method
       type: text
       options: []
       required: false
     - id: 14
-      name: comments
-      label: comments
-      hint: null
-      type: note
-      options: []
+      name: is_urgent
+      label: Is this an urgent issue?
+      hint: Check if this issue is urgent
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 15
-      name: submitter
-      label: submitter
-      hint: null
+      name: is_escalate
+      label: Is this issue that requires escalation?
+      hint: Check if this issue requires escalation
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
-      name: submitter_type
-      label: submitter_type
-      hint: null
+      name: follow_up_from_submitter
+      label: Is this issue that requires follow-up from the submitter?
+      hint: Check if this issue requires follow-up from the submitter
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: submitter_email
-      label: submitter_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: submitter_phone
-      label: submitter_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: comments
-      label: comments
-      hint: null
-      type: note
-      options: []
+      - 'True'
+      - 'False'
       required: false

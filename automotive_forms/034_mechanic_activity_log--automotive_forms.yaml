@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Toyota''}'
-      - '{''value'': ''Ford''}'
-      - '{''value'': ''Honda''}'
-      - '{''value'': ''Chevrolet''}'
-      - '{''value'': ''Other''}'
+      - Toyota
+      - Ford
+      - Honda
+      - Chevrolet
+      - Other
       required: false
     - id: 3
       name: vehicle_year
@@ -35,10 +35,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Service''}'
-      - '{''value'': ''Repair''}'
-      - '{''value'': ''Inspection''}'
-      - '{''value'': ''Other''}'
+      - Service
+      - Repair
+      - Inspection
+      - Other
       required: false
     - id: 5
       name: service_description
@@ -88,7 +88,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Chatjimmy''}'
+      - Chatjimmy
       - Other
       required: false
     - id: 12
@@ -97,7 +97,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Automotive Forms''}'
+      - Automotive Forms
       - Other
       required: false
     - id: 13
@@ -143,10 +143,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Completed''}'
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Cancelled''}'
+      - Completed
+      - Pending
+      - In Progress
+      - Cancelled
       required: false
     - id: 19
       name: job_status_description
@@ -178,21 +178,21 @@ inputSchema:
       required: false
     - id: 23
       name: start_time_h
-      label: start time
+      label: Start Time H
       hint: null
       type: time
       options: []
       required: false
     - id: 24
       name: end_time_h
-      label: end time
+      label: End Time H
       hint: null
       type: time
       options: []
       required: false
     - id: 25
-      name: comments
-      label: comments
+      name: comments_2
+      label: Comments 2
       hint: null
       type: text
       options: []

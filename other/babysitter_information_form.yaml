@@ -22,7 +22,9 @@ inputSchema:
       label: References
       hint: null
       type: select_multiple
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 4
       name: emergency_contact
@@ -57,7 +59,9 @@ inputSchema:
       label: Availability
       hint: null
       type: select_one
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 9
       name: rate
@@ -71,5 +75,7 @@ inputSchema:
       label: Payment
       hint: null
       type: select_one
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false

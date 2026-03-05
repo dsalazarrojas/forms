@@ -16,63 +16,100 @@ inputSchema:
     pages:
     - id: 1
       name: free_brand_audit_request_form
-      label: Free Brand Audit Request Form
+      label: 1. What type of business do you have?
+      hint: e.g., Marketing, Consulting, E-commerce
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: main_purpose
+      label: 2. What is the main purpose of your free brand audit request?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 2
-      name: category
-      label: Category
+      required: true
+    - id: 3
+      name: business_description
+      label: 3. Can you describe your business in a few sentences?
       hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: communication_method
+      label: 4. What is your preferred method of communication?
+      hint: e.g., email, phone, chat
       type: select_one
       options:
-      - Business Forms
-      - Business Surveys
-      - Marketing Forms
-      required: false
-    - id: 3
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: category
-      label: Category
-      hint: null
+      - Email
+      - Phone
+      - Chat
+      required: true
+    - id: 5
+      name: update_frequency
+      label: 5. Are you interested in a one-time free brand audit or would you like
+        to receive regular updates?
+      hint: e.g., weekly, bi-weekly
       type: select_multiple
       options:
-      - Business Forms
-      - Business Surveys
-      - Marketing Forms
-      required: false
-    - id: 5
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
+      - One-time free brand audit
+      - Weekly updates
+      - Bi-weekly updates
+      required: true
     - id: 6
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
+      name: free_resources
+      label: 6. Would you like to receive any free resources in addition to the audit
+        report?
+      hint: e.g., e-book, webinar, checklist
+      type: select_multiple
+      options:
+      - E-book
+      - Webinar
+      - Checklist
       required: false
     - id: 7
-      name: form_ids
-      label: form_ids
+      name: questions
+      label: 7. Do you have any specific questions or concerns about the free brand
+        audit process?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: category
-      label: Category
-      hint: null
+      name: experience_level
+      label: 8. How would you rate your level of experience with branding and marketing?
+      hint: e.g., 1-5, 1-10
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: expected_outcome
+      label: 9. What is your expected outcome from the free brand audit?
+      hint: e.g., improved brand reputation, increased sales
       type: text
+      options: []
+      required: true
+    - id: 10
+      name: time_required
+      label: 10. How long do you expect the free brand audit process to take?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: paid_services
+      label: 11. Are you interested in paid services after the free brand audit?
+      hint: e.g., consulting, strategy sessions
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 12
+      name: additional_info
+      label: 12. Would you like to provide any additional information about yourself
+        or your business?
+      hint: null
+      type: note
       options: []
       required: false

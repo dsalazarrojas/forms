@@ -15,177 +15,122 @@ inputSchema:
     title: Marriage Readiness Assessment Form
     pages:
     - id: 1
-      name: user_info_form
-      label: User Information
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: relationship_status
+      label: Relationship Status
+      hint: Select your current relationship status
+      type: select_one
+      options:
+      - Single
+      - In a relationship
+      - Married
+      required: true
     - id: 2
-      name: relationship_info_form
-      label: Relationship Information
-      hint: null
-      type: text
+      name: relationship_duration
+      label: How long have you been with your current partner?
+      hint: Provide a number of months or years
+      type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: conflict_resolution_form
-      label: Conflict Resolution
-      hint: null
+      name: expectations_marriage
+      label: What are your expectations for marriage?
+      hint: Describe your hopes and dreams
       type: text
       options: []
       required: false
     - id: 4
-      name: communication_styles_form
-      label: Communication Styles
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: conflict_resolution
+      label: How do you handle conflicts in your current relationship?
+      hint: Choose one or more of the following
+      type: select_multiple
+      options:
+      - Avoiding
+      - Discussing
+      - Listening
+      - Compromising
+      required: true
     - id: 5
-      name: conflict_resolution_form
-      label: Conflicts Resolved
-      hint: null
+      name: communication_styles
+      label: What are your communication styles in your current relationship?
+      hint: Describe your communication style
       type: text
       options: []
       required: false
     - id: 6
-      name: intimacy_form
-      label: Intimacy
-      hint: null
-      type: text
+      name: intimacy
+      label: How do you feel about intimacy in your current relationship?
+      hint: Rate from 1 to 10
+      type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: conflict_resolution_form
-      label: Conflicts Resolved
-      hint: null
+      name: marriage_concept
+      label: What are your thoughts on marriage as a concept?
+      hint: Describe your thoughts
       type: text
       options: []
       required: false
     - id: 8
-      name: communication_styles_form
-      label: Communication Styles
-      hint: null
+      name: future_plans
+      label: How do you see your future with your partner?
+      hint: Describe your plans
       type: text
       options: []
       required: false
     - id: 9
-      name: conflict_resolution_form
-      label: Conflicts Resolved
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: conflict_resolution_future
+      label: What are your expectations for resolving conflicts in your future marriage?
+      hint: Choose one or more of the following
+      type: select_multiple
+      options:
+      - Avoiding
+      - Discussing
+      - Listening
+      - Compromising
+      required: true
     - id: 10
-      name: conflict_resolution_form
-      label: Conflicts Resolved
-      hint: null
+      name: communication_styles_future
+      label: What are your communication styles in your future marriage?
+      hint: Describe your communication style
       type: text
       options: []
       required: false
     - id: 11
-      name: relationship_reflections_form
-      label: Relationship Reflections
-      hint: null
+      name: partner_role
+      label: How do you envision your partner's role in your life?
+      hint: Describe your expectations
       type: text
       options: []
       required: false
     - id: 12
-      name: final_questions
-      label: Final Questions
-      hint: null
-      type: text
+      name: intimacy_plans
+      label: How do you plan to maintain intimacy in your future relationship?
+      hint: Rate from 1 to 10
+      type: number
       options: []
       required: false
     - id: 13
-      name: user_info_form
-      label: User Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: relationship_info_form
-      label: Relationship Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: conflict_resolution_form
-      label: Conflict Resolution
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: communication_styles_form
-      label: Communication Styles
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: intimacy_form
-      label: Intimacy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: conflict_resolution_form
-      label: Conflicts Resolved
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
       name: final_questions
       label: Final Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: communication_styles_form
-      label: Communication Styles
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: intimacy_form
-      label: Intimacy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: conflict_resolution_form
-      label: Conflict Resolution
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: relationship_reflections_form
+      hint: These questions are meant to help us better understand you and your partner
+      type: checkbox
+      options:
+      - I am ready to have children in the next 5 years
+      - I am willing to relocate for my partner
+      - I am prepared for financial stability
+      - I am committed to long-term commitment
+      required: true
+    - id: 14
+      name: relationship_reflections
       label: Relationship Reflections
-      hint: null
-      type: text
+      hint: Rate from 1 to 10
+      type: number
       options: []
-      required: false
-    - id: 24
-      name: conflict_resolution_form
-      label: Conflicts Resolved
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: communication_styles_form
-      label: Communication Styles
-      hint: null
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional comments
+      hint: Is there anything else you'd like to share about your relationship?
       type: text
       options: []
       required: false

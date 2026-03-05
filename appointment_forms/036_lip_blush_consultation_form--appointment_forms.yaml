@@ -5,187 +5,111 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
-      hint: null
+      label: What is a lip blush?
+      hint: A brief introduction to the lip blush procedure.
       type: note
       options: []
       required: false
     - id: 2
       name: medical_history
-      label: medical_history
-      hint: null
+      label: Medical History
+      hint: A detailed medical history for the patient.
       type: text
       options: []
       required: false
     - id: 3
-      name: consent
-      label: patient_consent
+      name: patient_consent
+      label: Patient Consent
       hint: A thorough review and discussion with your client about the lip blush
         procedure.
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - I have read and understand the procedure.
+      - I have not read and understand the procedure.
+      - I do not understand the procedure.
+      required: true
     - id: 4
-      name: contact
-      label: contact_details
-      hint: null
+      name: contact_details
+      label: Contact Details
+      hint: Patient contact information
       type: text
       options: []
       required: false
     - id: 5
-      name: medical_condition
-      label: medical_conditions
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 6
-      name: medical_condition_description
-      label: conditions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: medications
-      label: medications
+      label: Medications
       hint: List of medications
       type: text
       options: []
       required: false
-    - id: 8
+    - id: 6
       name: allergies
-      label: allergies
+      label: Allergies
       hint: List of allergies
       type: text
       options: []
       required: false
-    - id: 9
-      name: medical_condition_note
-      label: medical_condition_note
-      hint: null
+    - id: 7
+      name: medical_condition_notes
+      label: Medical Condition Notes
+      hint: Detailed notes about the patient's medical condition
       type: note
       options: []
       required: false
-    - id: 10
+    - id: 8
       name: contact_number
-      label: contact_number
-      hint: null
+      label: Contact Number
+      hint: Patient contact number
       type: text
       options: []
       required: false
-    - id: 11
+    - id: 9
       name: email
-      label: email
-      hint: null
+      label: Email
+      hint: Patient email
       type: email
       options: []
       required: false
-    - id: 12
-      name: medical_condition_other
-      label: medical_condition_other
-      hint: null
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Select all applicable medical conditions
+      type: select_multiple
+      options:
+      - Hypersensitivity to certain medications
+      - Allergies to certain substances
+      - Previous surgeries
+      - Other (please specify)
+      required: true
+    - id: 11
+      name: other_medical_conditions
+      label: Other Medical Conditions
+      hint: List of other medical conditions
       type: text
       options: []
       required: false
-    - id: 13
-      name: medical_condition_other_notes
-      label: other_medical_conditions
-      hint: null
+    - id: 12
+      name: other_medical_conditions_notes
+      label: Other Conditions Notes
+      hint: Detailed notes about other medical conditions
       type: note
       options: []
       required: false
-    - id: 14
-      name: medical_condition_other_description
-      label: other_conditions
-      hint: null
+    - id: 13
+      name: other_medical_conditions_description
+      label: Other Conditions Description
+      hint: Detailed description of other medical conditions
       type: text
       options: []
       required: false
-    - id: 15
+    - id: 14
       name: consent_2
-      label: patient_consent_2
+      label: Patient Consent 2
       hint: A thorough review and discussion with your client about the lip blush
         procedure.
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 16
-      name: medical_condition_2
-      label: medical_condition_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: medical_condition_2_description
-      label: medical_condition_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: medical_condition_3
-      label: medical_condition_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: medical_condition_3_description
-      label: medical_condition_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: medical_condition_4
-      label: medical_condition_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: medical_condition_4_description
-      label: medical_condition_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: medical_condition_5
-      label: medical_condition_5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: medical_condition_5_description
-      label: medical_condition_5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: medical_condition_6
-      label: medical_condition_6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: medical_condition_6_description
-      label: medical_condition_6
-      hint: null
-      type: text
-      options: []
+      - I have read and understand the procedure.
+      - I have not read and understand the procedure.
+      - I do not understand the procedure.
       required: false

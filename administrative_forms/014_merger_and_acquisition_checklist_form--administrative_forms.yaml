@@ -9,200 +9,93 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: acquisition_date
-      label: acquisition_date
+      label: Acquisition Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
       name: acquisition_price
-      label: acquisition_price
+      label: Acquisition Price
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
       name: acquisition_type
-      label: acquisition_type
+      label: Acquisition Type
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 5
-      name: acquisition_type_options
-      label: Acquisition type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: acquisition_type_options_list
-      label: Acquisition type options
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
       name: merger_date
-      label: merger_date
+      label: Merger Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 6
       name: merger_price
-      label: merger_price
+      label: Merger Price
       hint: null
       type: number
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 7
       name: merger_type
-      label: merger_type
+      label: Merger Type
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 10
-      name: merger_type_options
-      label: Merger type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: merger_type_options_list
-      label: Merger type options
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: acquisition_approvals
-      label: acquisition_approvals
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: merger_approvals
-      label: merger_approvals
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
+      required: true
+    - id: 8
       name: regulatory_approval
-      label: regulatory_approval
+      label: Regulatory Approval
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 15
-      name: regulatory_approval_options
-      label: Regulatory approval
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: regulatory_approval_options
-      label: Regulatory approval options
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
+      required: true
+    - id: 9
       name: financial_approval
-      label: financial_approval
+      label: Financial Approval
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 18
-      name: financial_approval_options
-      label: Financial approval
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: financial_approval_options
-      label: Financial approval options
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
+      required: true
+    - id: 10
       name: employee_approvals
-      label: employee_approvals
+      label: Employee Approval
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 21
-      name: employee_approvals_options
-      label: Employee approvals
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: employee_approvals_options_list
-      label: Employee approvals options
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
+      required: true
+    - id: 11
       name: customer_approvals
-      label: customer_approvals
+      label: Customer Approval
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 24
-      name: customer_approvals_options
-      label: Customer approvals
+      required: true
+    - id: 12
+      name: approvals_process
+      label: Approvals Process
       hint: null
       type: text
       options: []
-      required: false
-    - id: 25
-      name: customer_approvals_options
-      label: Customer approvals options
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I consent''}'
-      - '{''label'': ''I do not consent''}'
+      - I consent
+      - I do not consent
       required: true
     - id: 3
       name: data_type
@@ -25,11 +25,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Contact''}'
-      - '{''label'': ''Location''}'
-      - '{''label'': ''Marketing''}'
-      - '{''label'': ''Order history''}'
-      - '{''label'': ''Payment information''}'
+      - Contact
+      - Location
+      - Marketing
+      - Order history
+      - Payment information
       required: false
     - id: 4
       name: contact
@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Yes''}'
-      - '{''label'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 5
       name: contact_address
@@ -46,11 +46,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Street 1''}'
-      - '{''label'': ''Street 2''}'
-      - '{''label'': ''Country''}'
-      - '{''label'': ''City''}'
-      - '{''label'': ''Zip code''}'
+      - Street 1
+      - Street 2
+      - Country
+      - City
+      - Zip code
       required: false
     - id: 6
       name: contact_email
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Online''}'
-      - '{''label'': ''Offline''}'
-      - '{''label'': ''Third Party''}'
+      - Online
+      - Offline
+      - Third Party
       required: false
     - id: 9
       name: data_storage
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''EU''}'
-      - '{''label'': ''Non EU''}'
+      - EU
+      - Non EU
       required: false
     - id: 10
       name: data_sharing
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Internal''}'
-      - '{''label'': ''External''}'
-      - '{''label'': ''Both''}'
+      - Internal
+      - External
+      - Both
       required: false
     - id: 11
       name: data_removal
@@ -101,8 +101,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Anytime''}'
-      - '{''label'': ''Never''}'
+      - Anytime
+      - Never
       required: false
     - id: 12
       name: data_access
@@ -110,8 +110,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Yes''}'
-      - '{''label'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 13
       name: contact_consent
@@ -119,8 +119,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Yes''}'
-      - '{''label'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 14
       name: form_footer
@@ -163,18 +163,18 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''January''}'
-      - '{''label'': ''February''}'
-      - '{''label'': ''March''}'
-      - '{''label'': ''April''}'
-      - '{''label'': ''May''}'
-      - '{''label'': ''June''}'
-      - '{''label'': ''July''}'
-      - '{''label'': ''August''}'
-      - '{''label'': ''September''}'
-      - '{''label'': ''October''}'
-      - '{''label'': ''November''}'
-      - '{''label'': ''December''}'
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
       required: false
     - id: 20
       name: contact_birth_day
@@ -182,18 +182,18 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''First''}'
-      - '{''label'': ''Second''}'
-      - '{''label'': ''Third''}'
-      - '{''label'': ''Fourth''}'
-      - '{''label'': ''Fifth''}'
-      - '{''label'': ''Sixth''}'
-      - '{''label'': ''Seventh''}'
-      - '{''label'': ''Eighth''}'
-      - '{''label'': ''Ninth''}'
-      - '{''label'': ''Tenth''}'
-      - '{''label'': ''Eleventh''}'
-      - '{''label'': ''Twelfth''}'
+      - First
+      - Second
+      - Third
+      - Fourth
+      - Fifth
+      - Sixth
+      - Seventh
+      - Eighth
+      - Ninth
+      - Tenth
+      - Eleventh
+      - Twelfth
       required: false
     - id: 21
       name: contact_birth_year

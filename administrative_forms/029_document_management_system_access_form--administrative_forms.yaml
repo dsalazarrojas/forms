@@ -44,13 +44,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Manager
+      - Admin
+      - User
+      - Moderator
+      required: true
     - id: 7
       name: user_department
-      label: User department
+      label: Department
       hint: null
       type: text
       options: []
@@ -64,7 +65,7 @@ inputSchema:
       required: false
     - id: 9
       name: user_job_position
-      label: User job position
+      label: Job position
       hint: null
       type: text
       options: []
@@ -75,27 +76,27 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - High
+      - Medium
+      - Low
+      required: true
     - id: 11
       name: access_start_date
-      label: Access start date
+      label: Start date
       hint: null
       type: date
       options: []
       required: false
     - id: 12
       name: access_end_date
-      label: Access end date
+      label: End date
       hint: null
       type: date
       options: []
       required: false
     - id: 13
       name: assigned_tool
-      label: Assigned tool
+      label: Tool
       hint: null
       type: text
       options: []
@@ -116,70 +117,21 @@ inputSchema:
       required: false
     - id: 16
       name: form_id
-      label: Form ID
+      label: ID
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 17
-      name: category
-      label: Category
+      name: assigned_tool_2
+      label: Assigned Tool 2
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: form_id
-      label: Form ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: assigned_tool
-      label: Assigned tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: category
-      label: Category
+      name: description_2
+      label: Description 2
       hint: null
       type: text
       options: []

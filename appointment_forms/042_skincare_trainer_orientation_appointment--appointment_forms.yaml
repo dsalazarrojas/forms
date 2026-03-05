@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Morning'', ''value'': ''morning''}'
-      - '{''label'': ''Afternoon'', ''value'': ''afternoon''}'
-      - '{''label'': ''Evening'', ''value'': ''evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: true
     - id: 2
       name: trainer_background
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Skincare'', ''value'': ''skincare''}'
-      - '{''label'': ''Haircare'', ''value'': ''haircare''}'
-      - '{''label'': ''Nailcare'', ''value'': ''nailcare''}'
+      - Skincare
+      - Haircare
+      - Nailcare
       required: true
     - id: 4
       name: trainer_name
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Spa'', ''value'': ''spa''}'
-      - '{''label'': ''Salon'', ''value'': ''salon''}'
-      - '{''label'': ''Academy'', ''value'': ''academy''}'
+      - Spa
+      - Salon
+      - Academy
       required: true
     - id: 7
       name: salon_or_academy_address
@@ -109,6 +109,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': ''yes''}'
-      - '{''label'': False, ''value'': ''no''}'
+      - 'True'
+      - 'False'
       required: false

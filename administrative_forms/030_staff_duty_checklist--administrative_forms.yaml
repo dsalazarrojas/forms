@@ -4,199 +4,108 @@ inputSchema:
     title: Staff Duty Checklist
     pages:
     - id: 1
-      name: staff_duty_checklist_form_1
-      label: staff_duty
+      name: staff_duty_form_1
+      label: Email Address
       hint: null
-      type: number
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: staff_phone_form_2
+      label: Phone Number
+      hint: null
+      type: text
       options: []
       required: false
-    - id: 2
-      name: staff_duty_checklist_form_2
-      label: select_multiple
+    - id: 3
+      name: staff_available_form_3
+      label: Select Available Tasks
       hint: null
       type: select_multiple
       options:
-      - Staff
-      - Manager
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 4
+      name: staff_availability_date_form_4
+      label: Availability Date
+      hint: null
+      type: date
+      options: []
       required: true
-    - id: 3
-      name: staff_duty_checklist_form_3
-      label: date
+    - id: 5
+      name: staff_availability_time_form_5
+      label: Availability Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: staff_note_form_6
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: staff_status_form_7
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 8
+      name: staff_completed_tasks_form_8
+      label: Completed Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 9
+      name: staff_deadline_form_9
+      label: Deadline
       hint: null
       type: date
       options: []
       required: false
-    - id: 4
-      name: staff_duty_checklist_form_4
-      label: time
+    - id: 10
+      name: staff_start_time_form_10
+      label: Start Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 5
-      name: staff_duty_checklist_form_5
-      label: note
+    - id: 11
+      name: staff_notes_form_11
+      label: Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 6
-      name: staff_duty_checklist_form_6
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 7
-      name: staff_duty_checklist_form_7
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: staff_duty_checklist_form_8
-      label: select_one
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 9
-      name: staff_duty_checklist_form_9
-      label: text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: staff_duty_checklist_form_10
-      label: decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: staff_duty_checklist_form_11
-      label: select_multiple
+    - id: 12
+      name: staff_availability_form_12
+      label: Select Multiple Options
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      required: true
-    - id: 12
-      name: staff_duty_checklist_form_12
-      label: select_one
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
-      name: staff_duty_checklist_form_13
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: true
-    - id: 14
-      name: staff_duty_checklist_form_14
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: staff_duty_checklist_form_15
-      label: select_one
+      name: staff_availability_form_13
+      label: Select One Option
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      required: true
-    - id: 16
-      name: staff_duty_checklist_form_16
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: staff_duty_checklist_form_17
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: staff_duty_checklist_form_18
-      label: text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: staff_duty_checklist_form_19
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 20
-      name: staff_duty_checklist_form_20
-      label: select_one
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 21
-      name: staff_duty_checklist_form_21
-      label: decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: staff_duty_checklist_form_22
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 23
-      name: staff_duty_checklist_form_23
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: true
-    - id: 24
-      name: staff_duty_checklist_form_24
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: staff_duty_checklist_form_25
-      label: select_one
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true

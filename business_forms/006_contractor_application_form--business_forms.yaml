@@ -137,7 +137,7 @@ inputSchema:
       options:
       - Yes - Fully Insured
       - Yes - Partially Insured
-      - false
+      - 'False'
       required: true
     - id: 17
       name: insurance_amount
@@ -152,8 +152,8 @@ inputSchema:
       hint: Are you bonded
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: section_references
@@ -196,8 +196,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: additional_comments

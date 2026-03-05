@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''UTC''}'
-      - '{''value'': ''EST''}'
-      - '{''value'': ''CST''}'
-      - '{''value'': ''MST''}'
-      - '{''value'': ''PST''}'
+      - UTC
+      - EST
+      - CST
+      - MST
+      - PST
       required: false
     - id: 3
       name: exploratory_call_schedule_time
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''User 1''}'
-      - '{''value'': ''User 2''}'
-      - '{''value'': ''User 3''}'
+      - User 1
+      - User 2
+      - User 3
       required: false
     - id: 14
       name: exploratory_call_scheduling_status
@@ -108,9 +108,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''New''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Done''}'
+      - New
+      - In Progress
+      - Done
       required: false
     - id: 15
       name: exploratory_call_scheduling_notes

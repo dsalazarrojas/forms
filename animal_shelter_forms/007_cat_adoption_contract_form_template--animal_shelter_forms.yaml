@@ -124,8 +124,8 @@ inputSchema:
       hint: Has the cat been altered
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Scheduled
       required: true
     - id: 17
@@ -142,7 +142,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Agree
-      - false
+      - 'False'
       required: true
     - id: 19
       name: adopter_agreement_vet
@@ -151,7 +151,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Agree
-      - false
+      - 'False'
       required: true
     - id: 20
       name: adopter_agreement_return
@@ -160,7 +160,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Agree
-      - false
+      - 'False'
       required: true
     - id: 21
       name: shelter_representative

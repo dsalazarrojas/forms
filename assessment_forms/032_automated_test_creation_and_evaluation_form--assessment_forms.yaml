@@ -122,8 +122,8 @@ inputSchema:
       hint: Shuffle order
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: show_correct_answers
@@ -133,7 +133,7 @@ inputSchema:
       options:
       - Yes Immediately
       - Yes After Test Closes
-      - false
+      - 'False'
       required: true
     - id: 18
       name: question_types
@@ -267,8 +267,8 @@ inputSchema:
       hint: Allow partial credit
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 35
       name: feedback_type

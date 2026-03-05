@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Administrative Forms''}'
-      - '{''value'': ''Technical Forms''}'
+      - Administrative Forms
+      - Technical Forms
       required: true
     - id: 3
       name: description
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy''}'
-      - '{''value'': ''other''}'
+      - chatjimmy
+      - other
       required: true
     - id: 5
       name: form_id
@@ -69,12 +69,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''UTC''}'
-      - '{''value'': ''EST''}'
-      - '{''value'': ''GMT''}'
-      - '{''value'': ''CDT''}'
-      - '{''value'': ''MST''}'
-      - '{''value'': ''PST''}'
+      - UTC
+      - EST
+      - GMT
+      - CDT
+      - MST
+      - PST
       required: true
     - id: 10
       name: user_role
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Manager''}'
-      - '{''value'': ''Admin''}'
-      - '{''value'': ''Other''}'
+      - Manager
+      - Admin
+      - Other
       required: true
     - id: 11
       name: incident_type
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''IT''}'
-      - '{''value'': ''HR''}'
-      - '{''value'': ''Facilities''}'
+      - IT
+      - HR
+      - Facilities
       required: true
     - id: 12
       name: incident_status
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Closed''}'
+      - Active
+      - Inactive
+      - Closed
       required: true
     - id: 13
       name: incident_priority
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Low''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 14
       name: incident_description
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Low''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 17
       name: escalation_reason
@@ -167,9 +167,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Closed''}'
+      - Active
+      - Inactive
+      - Closed
       required: true
     - id: 21
       name: notes

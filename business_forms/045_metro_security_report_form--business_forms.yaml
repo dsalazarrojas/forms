@@ -6,56 +6,62 @@ inputSchema:
     - id: 1
       name: threat_description
       label: Threat Description
-      hint: null
+      hint: Please provide a detailed description of the threat.
       type: text
       options: []
       required: true
     - id: 2
       name: threat_location
       label: Location
-      hint: null
+      hint: Please provide the location where the threat occurred.
       type: number
       options: []
       required: true
     - id: 3
       name: threat_date
       label: Date
-      hint: null
+      hint: Please provide the date the threat occurred.
       type: date
       options: []
       required: true
     - id: 4
       name: reported_by
       label: Reported By
-      hint: null
+      hint: Please provide the name of the person who reported the threat.
       type: text
       options: []
       required: true
     - id: 5
-      name: threat_description
-      label: Threat Description
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: threat_severity
+      label: Threat Severity
+      hint: Please select the severity level of the threat.
+      type: select_multiple
+      options:
+      - low
+      - medium
+      - high
+      required: true
     - id: 6
-      name: threat_location
-      label: Location
-      hint: null
+      name: incident_type
+      label: Incident Type
+      hint: Please select the type of incident (e.g. physical, cyber, etc.).
+      type: select_one
+      options:
+      - physical
+      - cyber
+      - other
+      required: true
+    - id: 7
+      name: threat_level
+      label: Threat Level
+      hint: Please provide a numerical value to represent the threat level.
       type: number
       options: []
-      required: false
-    - id: 7
-      name: threat_date
-      label: Date
-      hint: null
+      required: true
+    - id: 8
+      name: reporting_date
+      label: Reporting Date
+      hint: Please provide the date the threat was reported.
       type: date
       options: []
-      required: false
-    - id: 8
-      name: reported_by
-      label: Reported By
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

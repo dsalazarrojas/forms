@@ -58,18 +58,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: select_2
-      label: Select
+      label: Select 2
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: note
@@ -80,14 +81,14 @@ inputSchema:
       required: false
     - id: 11
       name: email_2
-      label: Email
+      label: Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 12
       name: phone_2
-      label: Phone
+      label: Phone 2
       hint: null
       type: text
       options: []

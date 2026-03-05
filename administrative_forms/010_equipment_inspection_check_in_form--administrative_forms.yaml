@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''type1''}'
-      - '{''id'': 2, ''name'': ''type2''}'
-      - '{''id'': 3, ''name'': ''type3''}'
+      - type1
+      - type2
+      - type3
       required: false
     - id: 3
       name: equipment_status
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''status1''}'
-      - '{''id'': 2, ''name'': ''status2''}'
-      - '{''id'': 3, ''name'': ''status3''}'
+      - Status 1
+      - Status 2
+      - Status 3
       required: false
     - id: 4
       name: condition
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''person1''}'
-      - '{''id'': 2, ''name'': ''person2''}'
-      - '{''id'': 3, ''name'': ''person3''}'
+      - person1
+      - person2
+      - person3
       required: false
     - id: 11
       name: checked_by
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''person1''}'
-      - '{''id'': 2, ''name'': ''person2''}'
-      - '{''id'': 3, ''name'': ''person3''}'
+      - person1
+      - person2
+      - person3
       required: false
     - id: 12
       name: checked_date

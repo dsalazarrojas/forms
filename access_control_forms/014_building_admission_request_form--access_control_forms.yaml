@@ -169,7 +169,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, number - enter below
-      - false
+      - 'False'
       required: false
     - id: 22
       name: additional_count
@@ -198,8 +198,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not required
       required: false
     - id: 26
@@ -218,7 +218,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
+      - 'True'
       - No, will complete on-site
       - Not required
       required: false
@@ -244,7 +244,7 @@ inputSchema:
       options:
       - Yes, pre-approved
       - Yes, will confirm
-      - false
+      - 'False'
       - Pending confirmation
       required: false
     - id: 31
@@ -254,5 +254,5 @@ inputSchema:
       type: select_one
       options:
       - Yes, I agree
-      - false
+      - 'False'
       required: true

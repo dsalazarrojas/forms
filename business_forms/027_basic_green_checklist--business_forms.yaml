@@ -1,205 +1,238 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Basic Green Checklist
     pages:
-      - id: 1
-        name: section_header_1
-        label: -- Property Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: property_name
-        label: Property or business name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: property_address
-        label: Property address
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: inspection_date
-        label: Inspection date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: inspector_name
-        label: Inspector name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: section_header_2
-        label: -- Energy Efficiency --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: hvac_efficient
-        label: HVAC system is energy efficient
-        hint: null
-        type: select_one
-        options: [Yes, No, Needs Upgrade]
-        required: true
-      - id: 8
-        name: insulation_adequate
-        label: Insulation is adequate
-        hint: null
-        type: select_one
-        options: [Yes, No, Partial]
-        required: true
-      - id: 9
-        name: windows_efficient
-        label: Windows and doors are energy efficient
-        hint: null
-        type: select_one
-        options: [Yes, No, Some Need Upgrade]
-        required: true
-      - id: 10
-        name: lighting_efficient
-        label: Lighting uses LED or CFL bulbs
-        hint: null
-        type: select_one
-        options: [Yes, No, Partial]
-        required: true
-      - id: 11
-        name: section_header_3
-        label: -- Water Conservation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: low_flow_fixtures
-        label: Low-flow water fixtures installed
-        hint: null
-        type: select_one
-        options: [Yes, No, Some]
-        required: true
-      - id: 13
-        name: water_monitoring
-        label: Water usage monitoring system present
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 14
-        name: section_header_4
-        label: -- Waste Reduction --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: recycling_program
-        label: Recycling program implemented
-        hint: null
-        type: select_one
-        options: [Yes, No, Planned]
-        required: true
-      - id: 16
-        name: waste_reduction
-        label: Waste reduction measures in place
-        hint: null
-        type: select_one
-        options: [Yes, No, Minimal]
-        required: true
-      - id: 17
-        name: composting
-        label: Composting or organic waste management
-        hint: null
-        type: select_one
-        options: [Yes, No, Planned]
-        required: false
-      - id: 18
-        name: section_header_5
-        label: -- Indoor Environmental Quality --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 19
-        name: air_quality
-        label: Indoor air quality systems present
-        hint: null
-        type: select_one
-        options: [Yes, No, Needs Improvement]
-        required: true
-      - id: 20
-        name: non_toxic_materials
-        label: Non-toxic materials used
-        hint: null
-        type: select_one
-        options: [Yes, No, Some]
-        required: true
-      - id: 21
-        name: natural_light
-        label: Adequate natural lighting available
-        hint: null
-        type: select_one
-        options: [Yes, No, Limited]
-        required: true
-      - id: 22
-        name: section_header_6
-        label: -- Sustainable Transportation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 23
-        name: transit_access
-        label: Public transit access available
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: false
-      - id: 24
-        name: bike_facilities
-        label: Bike storage or facilities provided
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: false
-      - id: 25
-        name: section_header_7
-        label: -- Summary --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 26
-        name: overall_rating
-        label: Overall green standards compliance
-        hint: null
-        type: select_one
-        options: [Excellent, Good, Fair, Poor, Needs Major Improvement]
-        required: true
-      - id: 27
-        name: recommendations
-        label: Recommendations for improvement
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: section_header_1
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_name
+      label: Property or business name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection_date
+      label: Inspection date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: inspector_name
+      label: Inspector name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Energy Efficiency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: hvac_efficient
+      label: HVAC system is energy efficient
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Needs Upgrade
+      required: true
+    - id: 8
+      name: insulation_adequate
+      label: Insulation is adequate
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 9
+      name: windows_efficient
+      label: Windows and doors are energy efficient
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Some Need Upgrade
+      required: true
+    - id: 10
+      name: lighting_efficient
+      label: Lighting uses LED or CFL bulbs
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 11
+      name: section_header_3
+      label: -- Water Conservation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: low_flow_fixtures
+      label: Low-flow water fixtures installed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Some
+      required: true
+    - id: 13
+      name: water_monitoring
+      label: Water usage monitoring system present
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: section_header_4
+      label: -- Waste Reduction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: recycling_program
+      label: Recycling program implemented
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Planned
+      required: true
+    - id: 16
+      name: waste_reduction
+      label: Waste reduction measures in place
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Minimal
+      required: true
+    - id: 17
+      name: composting
+      label: Composting or organic waste management
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Planned
+      required: false
+    - id: 18
+      name: section_header_5
+      label: -- Indoor Environmental Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: air_quality
+      label: Indoor air quality systems present
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Needs Improvement
+      required: true
+    - id: 20
+      name: non_toxic_materials
+      label: Non-toxic materials used
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Some
+      required: true
+    - id: 21
+      name: natural_light
+      label: Adequate natural lighting available
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Limited
+      required: true
+    - id: 22
+      name: section_header_6
+      label: -- Sustainable Transportation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: transit_access
+      label: Public transit access available
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: bike_facilities
+      label: Bike storage or facilities provided
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: section_header_7
+      label: -- Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: overall_rating
+      label: Overall green standards compliance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Major Improvement
+      required: true
+    - id: 27
+      name: recommendations
+      label: Recommendations for improvement
+      hint: null
+      type: text
+      options: []
+      required: false

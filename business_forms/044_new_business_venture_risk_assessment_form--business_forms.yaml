@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''go''}'
-      - '{''value'': False}'
+      - go
+      - 'False'
       required: false
     - id: 6
       name: supporting_docs
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''qualitative''}'
-      - '{''value'': ''quantitative''}'
-      - '{''value'': ''both''}'
+      - qualitative
+      - quantitative
+      - both
       required: false
     - id: 9
       name: evaluation_scale
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''pending''}'
-      - '{''value'': ''completed''}'
-      - '{''value'': ''reviewed''}'
+      - pending
+      - completed
+      - reviewed
       required: false
     - id: 13
       name: review_date
@@ -108,9 +108,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''low''}'
-      - '{''value'': ''moderate''}'
-      - '{''value'': ''high''}'
+      - low
+      - moderate
+      - high
       required: false
     - id: 15
       name: risk_score

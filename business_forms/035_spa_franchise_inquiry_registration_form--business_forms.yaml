@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''Address'', ''value'': ''address''}'
+      - Phone
+      - Email
+      - Address
       required: false
     - id: 2
       name: spa_details
@@ -19,9 +19,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Location'', ''value'': ''location''}'
-      - '{''label'': ''Business Name'', ''value'': ''business_name''}'
-      - '{''label'': ''Business Type'', ''value'': ''business_type''}'
+      - Location
+      - Business Name
+      - Business Type
       required: false
     - id: 3
       name: contact_person
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Spa'', ''value'': ''spa''}'
-      - '{''label'': ''Massage'', ''value'': ''massage''}'
-      - '{''label'': ''Beauty'', ''value'': ''beauty''}'
+      - Spa
+      - Massage
+      - Beauty
       required: false
     - id: 11
       name: business_license
@@ -88,8 +88,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: franchise_fee
@@ -104,9 +104,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''USD'', ''value'': ''usd''}'
-      - '{''label'': ''EUR'', ''value'': ''eur''}'
-      - '{''label'': ''GBP'', ''value'': ''gbp''}'
+      - USD
+      - EUR
+      - GBP
       required: false
     - id: 14
       name: franchise_fee_amount
@@ -121,9 +121,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Brand A'', ''value'': ''brand_a''}'
-      - '{''label'': ''Brand B'', ''value'': ''brand_b''}'
-      - '{''label'': ''Brand C'', ''value'': ''brand_c''}'
+      - Brand A
+      - Brand B
+      - Brand C
       required: false
     - id: 16
       name: franchise_lead_status
@@ -131,9 +131,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''New Lead'', ''value'': ''new_lead''}'
-      - '{''label'': ''Qualified Lead'', ''value'': ''qualified_lead''}'
-      - '{''label'': ''Disqualified Lead'', ''value'': ''disqualified_lead''}'
+      - New Lead
+      - Qualified Lead
+      - Disqualified Lead
       required: false
     - id: 17
       name: follow_up_method
@@ -141,9 +141,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''Mail'', ''value'': ''mail''}'
+      - Phone
+      - Email
+      - Mail
       required: false
     - id: 18
       name: follow_up_schedule
@@ -151,9 +151,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily'', ''value'': ''daily''}'
-      - '{''label'': ''Weekly'', ''value'': ''weekly''}'
-      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 19
       name: follow_up_time

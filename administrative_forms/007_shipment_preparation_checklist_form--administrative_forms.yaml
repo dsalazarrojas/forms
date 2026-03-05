@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Shipment Preparer 1''}'
-      - '{''label'': ''Shipment Preparer 2''}'
-      - '{''label'': ''Shipment Preparer 3''}'
+      - Shipment Preparer 1
+      - Shipment Preparer 2
+      - Shipment Preparer 3
       required: false
     - id: 2
       name: shipment_details
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Ground''}'
-      - '{''label'': ''Express''}'
-      - '{''label'': ''Air''}'
+      - Ground
+      - Express
+      - Air
       required: false
     - id: 5
       name: warehouse_info

@@ -16,176 +16,83 @@ inputSchema:
     pages:
     - id: 1
       name: participant_details
-      label: Participant Details
-      hint: null
+      label: Participant Information
+      hint: Please provide your details as a participant.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: participant_details
-      label: Participant Details
-      hint: null
-      type: text
+      name: firearm_id_number
+      label: Firearm ID Number
+      hint: Provide the ID number of the firearm being exchanged.
+      type: number
       options: []
       required: true
     - id: 3
-      name: firearm_details
-      label: firearm_details
-      hint: null
+      name: firearm_make
+      label: Firearm Make
+      hint: Select the make of the firearm.
+      type: select_one
+      options:
+      - Smith & Wesson
+      - Glock
+      - Ruger
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: firearm_model
+      label: Firearm Model
+      hint: Please provide the model of the firearm.
       type: text
       options: []
       required: true
-    - id: 4
-      name: participant_details
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 5
-      name: firearm_details
-      label: firearm_details
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: firearm_caliber
+      label: Firearm Caliber
+      hint: Select the caliber of the firearm.
+      type: select_multiple
+      options:
+      - 9mm
+      - 40mm
+      - 45mm
+      - Other (please specify)
+      required: true
     - id: 6
-      name: participant_details
-      label: Participant Details
-      hint: null
+      name: firearm_serial_number
+      label: Firearm Serial Number
+      hint: Please provide the serial number of the firearm.
       type: text
       options: []
       required: true
     - id: 7
-      name: firearm_details
-      label: firearm_details
-      hint: null
+      name: reason_for_exchange
+      label: Reason for Exchange
+      hint: Please explain why you are exchanging the firearm.
       type: text
       options: []
       required: true
     - id: 8
-      name: firearm_details
-      label: firearm_details
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: firearm_condition
+      label: Firearm Condition
+      hint: Select the condition of the firearm.
+      type: select_one
+      options:
+      - New
+      - Used
+      - Refurbished
+      - Other (please specify)
+      required: true
     - id: 9
-      name: participant_details
-      label: Participant Details
-      hint: null
+      name: participant_signing
+      label: Participant Signature
+      hint: Please sign this form as a participant.
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: firearm_details
-      label: firearm_details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: participant_details
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: firearm_details
-      label: firearm_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: participant_details
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: participant_details
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: participant_details
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: participant_details
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: firearm_details
-      label: firearm_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: participant_details
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: firearm_details
-      label: firearm_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: firearm_details
-      label: firearm_details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: participant_details
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: participant_details
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: firearm_details
-      label: firearm_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: participant_details
-      label: Participant Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: firearm_details
-      label: firearm_details
-      hint: null
-      type: text
+      name: participant_date
+      label: Participant Date
+      hint: Date of participant's signature.
+      type: date
       options: []
       required: true

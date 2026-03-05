@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: client_consent
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: client_reported_tax_reported_year
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Jan 01/2023 to Dec 31/2023''}'
-      - '{''value'': ''Feb 01/2024 to Mar 31/2024''}'
-      - '{''value'': ''Apr 01/2023 to Jun 30/2023''}'
+      - Jan 01/2023 to Dec 31/2023
+      - Feb 01/2024 to Mar 31/2024
+      - Apr 01/2023 to Jun 30/2023
       required: true
     - id: 9
       name: client_reported_tax_tax_amount
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: true
     - id: 12
       name: client_reported_tax_revised_deductions
@@ -158,8 +158,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: true
     - id: 22
       name: client_reported_tax_reported_tax_refund
@@ -188,6 +188,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: true

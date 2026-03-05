@@ -30,10 +30,10 @@ inputSchema:
       hint: Select one option
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''One way'', ''label'': ''One way''}'
-      - '{''id'': 2, ''name'': ''Return'', ''label'': ''Return''}'
-      - '{''id'': 3, ''name'': ''One day'', ''label'': ''One day''}'
-      - '{''id'': 4, ''name'': ''Multiple'', ''label'': ''Multiple''}'
+      - One way
+      - Return
+      - One day
+      - Multiple
       required: false
     - id: 5
       name: select_taxi_type
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Sedan'', ''label'': ''Sedan''}'
-      - '{''id'': 2, ''name'': ''Minivan'', ''label'': ''Minivan''}'
-      - '{''id'': 3, ''name'': ''Luxury'', ''label'': ''Luxury''}'
+      - Sedan
+      - Minivan
+      - Luxury
       required: false
     - id: 6
       name: insert_route

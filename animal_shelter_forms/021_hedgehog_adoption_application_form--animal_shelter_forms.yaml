@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''123-456-7890''}'
-      - '{''value'': ''555-555-5555''}'
-      - '{''value'': ''1234567890''}'
+      - 123-456-7890
+      - 555-555-5555
+      - '1234567890'
       required: false
     - id: 3
       name: contact_preference
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Both''}'
-      - '{''value'': ''None''}'
+      - Email
+      - Phone
+      - Both
+      - None
       required: false
     - id: 4
       name: pet_type
@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Hedgehog''}'
-      - '{''value'': ''Cat''}'
-      - '{''value'': ''Dog''}'
-      - '{''value'': ''None''}'
+      - Hedgehog
+      - Cat
+      - Dog
+      - None
       required: false
     - id: 5
       name: pet_name

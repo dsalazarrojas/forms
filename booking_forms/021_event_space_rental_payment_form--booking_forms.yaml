@@ -37,9 +37,9 @@ inputSchema:
       hint: Select your event space name
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Space 1''}'
-      - '{''id'': 2, ''name'': ''Space 2''}'
-      - '{''id'': 3, ''name'': ''Space 3''}'
+      - Space 1
+      - Space 2
+      - Space 3
       required: false
     - id: 6
       name: event_host_name
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''CA''}'
-      - '{''id'': 2, ''name'': ''NY''}'
-      - '{''id'': 3, ''name'': ''FL''}'
+      - CA
+      - NY
+      - FL
       required: false
     - id: 12
       name: event_space_postal_code
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Terms 1''}'
-      - '{''id'': 2, ''name'': ''Terms 2''}'
-      - '{''id'': 3, ''name'': ''Terms 3''}'
+      - Terms 1
+      - Terms 2
+      - Terms 3
       required: false
     - id: 17
       name: event_space_discount
@@ -137,9 +137,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Type 1''}'
-      - '{''id'': 2, ''name'': ''Type 2''}'
-      - '{''id'': 3, ''name'': ''Type 3''}'
+      - Type 1
+      - Type 2
+      - Type 3
       required: false
     - id: 19
       name: event_space_discount_value
@@ -154,9 +154,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Card 1''}'
-      - '{''id'': 2, ''name'': ''Cash''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Card 1
+      - Cash
+      - Other
       required: false
     - id: 21
       name: event_space_payment_status
@@ -164,9 +164,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Paid''}'
-      - '{''id'': 2, ''name'': ''Pending''}'
-      - '{''id'': 3, ''name'': ''Not Paid''}'
+      - Paid
+      - Pending
+      - Not Paid
       required: false
     - id: 22
       name: event_space_payment_date

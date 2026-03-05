@@ -15,71 +15,88 @@ inputSchema:
     title: Ingredient Declaration Update Request Form
     pages:
     - id: 1
-      name: ingredient_declaration
-      label: Ingredient Declaration
+      name: updated_ingredient
+      label: What is the updated ingredient declaration?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: documentation
-      label: Documentation
+      name: reason_for_rejection
+      label: Why was the previous declaration rejected?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: reason
-      label: reason
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: updated_details
-      label: Updated Details
+      label: What are the updated details?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: submitter_details
+      label: Contact details of the submitter
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 5
-      name: contact_details
-      label: Contact Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: submitter
-      label: Submitter
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: submitter_email
-      label: Email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: submitter_phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
       name: review_status
-      label: Review Status
+      label: Review status?
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 6
+      name: review_comments
+      label: Review comments?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: submitter_notes
+      label: Submitter's notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: review_date
+      label: Review date?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: submitter_email
+      label: Submitter's email?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitter_phone
+      label: Submitter's phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitter_comments
+      label: Comments from the submitter?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: review_status_repeated
+      label: Repeat review status?
       hint: null
       type: select_one
       options:
@@ -87,110 +104,16 @@ inputSchema:
       - Rejected
       - Pending
       required: false
-    - id: 11
-      name: review_comments
-      label: Review Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: submitter_notes
-      label: Submitter Notes
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 13
-      name: review_date
-      label: Review Date
+      name: review_date_repeated
+      label: Review Date Repeated
       hint: null
       type: date
       options: []
       required: false
     - id: 14
-      name: submitter
-      label: Submitter
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: submitter_phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: submitter_email
-      label: Email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: review_comments
-      label: Review Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: review_status
-      label: Review Status
-      hint: null
-      type: select_one
-      options:
-      - Approved
-      - Rejected
-      - Pending
-      required: false
-    - id: 20
-      name: review_date
-      label: Review Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: submitter_notes
-      label: Submitter Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: submitter
-      label: Submitter
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: submitter_phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: submitter_email
-      label: Email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: comments
-      label: Comments
+      name: submitter_notes_repeated
+      label: Submitter's notes repeated?
       hint: null
       type: text
       options: []

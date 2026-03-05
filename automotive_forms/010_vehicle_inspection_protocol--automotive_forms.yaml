@@ -5,203 +5,69 @@ inputSchema:
     pages:
     - id: 1
       name: vehicle_inspection_protocol_page_1
-      label: Vehicle Inspection Protocol Page 1
+      label: Vehicle Make
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Make 1
+      - Make 2
+      - Make 3
+      required: true
     - id: 2
       name: vehicle_inspection_protocol_page_2
-      label: Vehicle Identification
+      label: Vehicle Model
+      hint: null
+      type: select_one
+      options:
+      - Model 1
+      - Model 2
+      - Model 3
+      required: true
+    - id: 3
+      name: vehicle_inspection_protocol_page_3
+      label: Vehicle Year
       hint: null
       type: number
       options: []
       required: true
-    - id: 3
-      name: vehicle_inspection_protocol_page_3
-      label: Vehicle Inspection Details
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
     - id: 4
       name: vehicle_inspection_protocol_page_4
-      label: Vehicle Inspection Notes
+      label: Vehicle Registration Number
       hint: null
-      type: note
+      type: text
       options: []
       required: true
     - id: 5
       name: vehicle_inspection_protocol_page_5
-      label: Vehicle Inspection Date
+      label: Vehicle Inspection Status
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
       required: true
     - id: 6
       name: vehicle_inspection_protocol_page_6
-      label: Vehicle Inspection Time
+      label: Vehicle Inspection Result
       hint: null
-      type: time
-      options: []
+      type: select_one
+      options:
+      - Result 1
+      - Result 2
+      - Result 3
       required: true
     - id: 7
       name: vehicle_inspection_protocol_page_7
-      label: Vehicle Registration Date
+      label: Vehicle Inspection Comments
       hint: null
-      type: date
+      type: text
       options: []
       required: true
     - id: 8
       name: vehicle_inspection_protocol_page_8
-      label: Vehicle Make
-      hint: null
-      type: select_one
-      options:
-      - Make 1
-      - Make 2
-      - Make 3
-      required: true
-    - id: 9
-      name: vehicle_inspection_protocol_page_9
-      label: Vehicle Model
-      hint: null
-      type: select_one
-      options:
-      - Model 1
-      - Model 2
-      - Model 3
-      required: true
-    - id: 10
-      name: vehicle_inspection_protocol_page_10
-      label: Vehicle Year
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 11
-      name: vehicle_inspection_protocol_page_11
-      label: Vehicle Identification Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: vehicle_inspection_protocol_page_12
-      label: Vehicle Inspection Status
-      hint: null
-      type: select_one
-      options:
-      - Status 1
-      - Status 2
-      - Status 3
-      required: true
-    - id: 13
-      name: vehicle_inspection_protocol_page_13
-      label: Vehicle Inspection Result
-      hint: null
-      type: select_one
-      options:
-      - Result 1
-      - Result 2
-      - Result 3
-      required: true
-    - id: 14
-      name: vehicle_inspection_protocol_page_14
-      label: Vehicle Inspection Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: vehicle_inspection_protocol_page_15
       label: Vehicle Inspection Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 16
-      name: vehicle_inspection_protocol_page_16
-      label: Vehicle Registration Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: vehicle_inspection_protocol_page_17
-      label: Vehicle Registration Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: vehicle_inspection_protocol_page_18
-      label: Vehicle Make
-      hint: null
-      type: select_one
-      options:
-      - Make 1
-      - Make 2
-      - Make 3
       required: true
-    - id: 19
-      name: vehicle_inspection_protocol_page_19
-      label: Vehicle Model
-      hint: null
-      type: select_one
-      options:
-      - Model 1
-      - Model 2
-      - Model 3
-      required: true
-    - id: 20
-      name: vehicle_inspection_protocol_page_20
-      label: Vehicle Year
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 21
-      name: vehicle_inspection_protocol_page_21
-      label: Vehicle Inspection Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: vehicle_inspection_protocol_page_22
-      label: Vehicle Identification
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: vehicle_inspection_protocol_page_23
-      label: Vehicle Inspection Status
-      hint: null
-      type: select_one
-      options:
-      - Status 1
-      - Status 2
-      - Status 3
-      required: true
-    - id: 24
-      name: vehicle_inspection_protocol_page_24
-      label: Vehicle Inspection Result
-      hint: null
-      type: select_one
-      options:
-      - Result 1
-      - Result 2
-      - Result 3
-      required: true
-    - id: 25
-      name: vehicle_inspection_protocol_page_25
-      label: Vehicle Registration
-      hint: null
-      type: text
-      options: []
-      required: false

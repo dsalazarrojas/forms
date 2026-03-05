@@ -4,181 +4,75 @@ inputSchema:
     title: Wind Turbine Inspection Check In Form
     pages:
     - id: 1
-      name: wind_turbine_inspection_check_in_form_page_1
-      label: wind_turbine_inspection_check_in_form
-      hint: null
+      name: turbine_location
+      label: Turbine Location
+      hint: Please provide the location of the wind turbine
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: wind_turbine_inspection_check_in_form_page_2
-      label: wind turbine inspection page 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: wind_turbine_inspection_check_in_form_page_3
-      label: wind turbine inspection page 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: wind_turbine_inspection_check_in_form_page_4
-      label: wind turbine inspection page 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: wind_turbine_inspection_check_in_form_page_5
-      label: wind turbine inspection page 5
-      hint: null
+      name: current_condition
+      label: Current Condition
+      hint: Select the current status of the turbine
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Operational
+      - Maintenance
+      - Out of commission
+      required: true
+    - id: 3
+      name: last_maintenance_date
+      label: Last Maintenance Date
+      hint: Enter the date of the last maintenance
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: next_scheduled_maintenance
+      label: Next Scheduled Maintenance
+      hint: Enter the date of the next scheduled maintenance
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: turbine_performance
+      label: Turbine Performance
+      hint: Describe the turbine's performance
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: wind_turbine_inspection_check_in_form_page_6
-      label: wind turbine inspection page 6
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: wind_turbine_inspection_check_in_form_page_7
-      label: wind turbine inspection page 7
-      hint: null
-      type: number
+      name: inspection_comments
+      label: Inspection Comments
+      hint: Enter any comments or observations about the turbine
+      type: text
       options: []
       required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter your email address for contact purposes
+      type: email
+      options: []
+      required: true
     - id: 8
-      name: wind_turbine_inspection_check_in_form_page_8
-      label: wind_turbine_inspection_date
-      hint: null
-      type: date
+      name: phone
+      label: Phone Number
+      hint: Enter your phone number for emergency contact
+      type: text
       options: []
       required: false
     - id: 9
-      name: wind_turbine_inspection_check_in_form_page_9
-      label: wind turbine inspection time
-      hint: null
-      type: time
+      name: location
+      label: Location
+      hint: Provide the coordinates or address of the turbine
+      type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: wind_turbine_inspection_check_in_form_page_10
-      label: wind turbine inspection note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: wind_turbine_inspection_check_in_form_page_11
-      label: wind turbine email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: wind_turbine_inspection_check_in_form_page_12
-      label: wind turbine phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: wind_turbine_inspection_check_in_form_page_13
-      label: wind turbine location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: wind_turbine_inspection_check_in_form_page_14
-      label: wind turbine inspection comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: wind_turbine_inspection_check_in_form_page_15
-      label: wind turbine inspection comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: wind_turbine_inspection_check_in_form_page_16
-      label: wind turbine inspection comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: wind_turbine_inspection_check_in_form_page_17
-      label: wind turbine inspection comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: wind_turbine_inspection_check_in_form_page_18
-      label: wind turbine inspection comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: wind_turbine_inspection_check_in_form_page_19
-      label: wind turbine inspection comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: wind_turbine_inspection_check_in_form_page_20
-      label: wind turbine inspection comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: wind_turbine_inspection_check_in_form_page_21
-      label: wind turbine inspection comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: wind_turbine_inspection_check_in_form_page_22
-      label: wind turbine inspection comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: wind_turbine_inspection_check_in_form_page_23
-      label: wind turbine inspection comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: wind_turbine_inspection_check_in_form_page_24
-      label: wind_turbine_inspection_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: wind_turbine_inspection_check_in_form_page_25
-      label: wind turbine inspection comments
-      hint: null
+      name: turbine_inspection_comments
+      label: Turbine Inspection Comments
+      hint: Enter any comments or notes about the turbine inspection
       type: text
       options: []
       required: false

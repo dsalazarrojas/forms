@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''monthly''}'
-      - '{''value'': ''weekly''}'
+      - monthly
+      - weekly
       required: true
     - id: 3
       name: rent_amount
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''daily''}'
-      - '{''value'': ''monthly''}'
-      - '{''value'': ''yearly''}'
+      - daily
+      - monthly
+      - yearly
       required: true
     - id: 5
       name: property_type
@@ -42,9 +42,9 @@ inputSchema:
       hint: Please select the type of property.
       type: select_one
       options:
-      - '{''value'': ''House''}'
-      - '{''value'': ''Apartment''}'
-      - '{''value'': ''Condo''}'
+      - House
+      - Apartment
+      - Condo
       required: false
     - id: 6
       name: property_status
@@ -52,8 +52,8 @@ inputSchema:
       hint: Select the status of the property.
       type: select_multiple
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 7
       name: unit_id
@@ -68,8 +68,8 @@ inputSchema:
       hint: Select the value of the unit.
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: value_change
@@ -77,9 +77,9 @@ inputSchema:
       hint: Select how the unit value has changed.
       type: select_multiple
       options:
-      - '{''value'': ''Increase''}'
-      - '{''value'': ''Decrease''}'
-      - '{''value'': ''Stable''}'
+      - Increase
+      - Decrease
+      - Stable
       required: false
     - id: 10
       name: reason_change
@@ -87,9 +87,9 @@ inputSchema:
       hint: Select reason for the change.
       type: select_multiple
       options:
-      - '{''value'': ''Rent increase''}'
-      - '{''value'': ''Rent decrease''}'
-      - '{''value'': ''Market change''}'
+      - Rent increase
+      - Rent decrease
+      - Market change
       required: false
     - id: 11
       name: value_amount

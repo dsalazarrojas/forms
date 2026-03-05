@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Option 1'', ''value'': ''option1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      - Option 1
+      - Option 2
       required: false
     - id: 3
       name: time_slot
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''9:00 am - 10:00 am'', ''label'': ''9:00 am - 10:00 am''}'
-      - '{''value'': ''10:00 am - 11:00 am'', ''label'': ''10:00 am - 11:00 am''}'
-      - '{''value'': ''11:00 am - 12:00 pm'', ''label'': ''11:00 am - 12:00 pm''}'
+      - 9:00 am - 10:00 am
+      - 10:00 am - 11:00 am
+      - 11:00 am - 12:00 pm
       required: false
     - id: 4
       name: campus_visit
@@ -35,8 +35,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: booking_status
@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''available'', ''label'': ''Available''}'
-      - '{''value'': ''not available'', ''label'': ''Not Available''}'
+      - Available
+      - Not Available
       required: false
     - id: 6
       name: comments

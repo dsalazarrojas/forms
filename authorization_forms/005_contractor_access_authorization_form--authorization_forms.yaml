@@ -102,8 +102,8 @@ inputSchema:
       hint: Does contractor need network access
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: systems_list
@@ -205,8 +205,8 @@ inputSchema:
       hint: Has non-disclosure agreement been signed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: security_training_completed
@@ -214,8 +214,8 @@ inputSchema:
       hint: Has required security training been completed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Scheduled
       required: true
     - id: 25

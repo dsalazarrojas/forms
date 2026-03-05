@@ -1,199 +1,188 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Behavioral Concepts Assessment
     pages:
-      - id: 1
-        name: learner_name
-        label: Learner Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: assessment_date
-        label: Assessment Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: course_title
-        label: Course or Training Title
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: concept_1_understanding
-        label: Understanding of Habit Loops
-        hint: How well do you understand this concept
-        type: select_one
-        options:
-          - Not at All
-          - Minimal
-          - Moderate
-          - Good
-          - Excellent
-        required: true
-      - id: 5
-        name: concept_1_confidence
-        label: Confidence in Applying Habit Loops
-        hint: How confident are you in applying it
-        type: select_one
-        options:
-          - Not at All Confident
-          - Slightly Confident
-          - Moderately Confident
-          - Very Confident
-          - Extremely Confident
-        required: true
-      - id: 6
-        name: concept_2_understanding
-        label: Understanding of Behavioral Triggers
-        hint: null
-        type: select_one
-        options:
-          - Not at All
-          - Minimal
-          - Moderate
-          - Good
-          - Excellent
-        required: true
-      - id: 7
-        name: concept_2_confidence
-        label: Confidence in Identifying Triggers
-        hint: null
-        type: select_one
-        options:
-          - Not at All Confident
-          - Slightly Confident
-          - Moderately Confident
-          - Very Confident
-          - Extremely Confident
-        required: true
-      - id: 8
-        name: concept_3_understanding
-        label: Understanding of Reinforcement and Rewards
-        hint: null
-        type: select_one
-        options:
-          - Not at All
-          - Minimal
-          - Moderate
-          - Good
-          - Excellent
-        required: true
-      - id: 9
-        name: concept_3_confidence
-        label: Confidence in Using Rewards Effectively
-        hint: null
-        type: select_one
-        options:
-          - Not at All Confident
-          - Slightly Confident
-          - Moderately Confident
-          - Very Confident
-          - Extremely Confident
-        required: true
-      - id: 10
-        name: concept_4_understanding
-        label: Understanding of Motivation Theories
-        hint: null
-        type: select_one
-        options:
-          - Not at All
-          - Minimal
-          - Moderate
-          - Good
-          - Excellent
-        required: true
-      - id: 11
-        name: concept_4_confidence
-        label: Confidence in Applying Motivation Strategies
-        hint: null
-        type: select_one
-        options:
-          - Not at All Confident
-          - Slightly Confident
-          - Moderately Confident
-          - Very Confident
-          - Extremely Confident
-        required: true
-      - id: 12
-        name: concept_5_understanding
-        label: Understanding of Change Resistance
-        hint: null
-        type: select_one
-        options:
-          - Not at All
-          - Minimal
-          - Moderate
-          - Good
-          - Excellent
-        required: true
-      - id: 13
-        name: concept_5_confidence
-        label: Confidence in Overcoming Resistance
-        hint: null
-        type: select_one
-        options:
-          - Not at All Confident
-          - Slightly Confident
-          - Moderately Confident
-          - Very Confident
-          - Extremely Confident
-        required: true
-      - id: 14
-        name: real_world_application
-        label: Can You Apply These Concepts in Your Work
-        hint: null
-        type: select_one
-        options:
-          - Not Applicable
-          - Not Likely
-          - Possibly
-          - Likely
-          - Very Likely
-        required: true
-      - id: 15
-        name: most_valuable_concept
-        label: Which Concept Was Most Valuable to You
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: concepts_needing_clarification
-        label: Concepts That Need Clarification
-        hint: What would help you understand better
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: additional_resources
-        label: Would You Like Additional Resources
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 18
-        name: comments
-        label: Additional Comments
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: learner_name
+      label: Learner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: course_title
+      label: Course or Training Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: concept_1_understanding
+      label: Understanding of Habit Loops
+      hint: How well do you understand this concept
+      type: select_one
+      options:
+      - Not at All
+      - Minimal
+      - Moderate
+      - Good
+      - Excellent
+      required: true
+    - id: 5
+      name: concept_1_confidence
+      label: Confidence in Applying Habit Loops
+      hint: How confident are you in applying it
+      type: select_one
+      options:
+      - Not at All Confident
+      - Slightly Confident
+      - Moderately Confident
+      - Very Confident
+      - Extremely Confident
+      required: true
+    - id: 6
+      name: concept_2_understanding
+      label: Understanding of Behavioral Triggers
+      hint: null
+      type: select_one
+      options:
+      - Not at All
+      - Minimal
+      - Moderate
+      - Good
+      - Excellent
+      required: true
+    - id: 7
+      name: concept_2_confidence
+      label: Confidence in Identifying Triggers
+      hint: null
+      type: select_one
+      options:
+      - Not at All Confident
+      - Slightly Confident
+      - Moderately Confident
+      - Very Confident
+      - Extremely Confident
+      required: true
+    - id: 8
+      name: concept_3_understanding
+      label: Understanding of Reinforcement and Rewards
+      hint: null
+      type: select_one
+      options:
+      - Not at All
+      - Minimal
+      - Moderate
+      - Good
+      - Excellent
+      required: true
+    - id: 9
+      name: concept_3_confidence
+      label: Confidence in Using Rewards Effectively
+      hint: null
+      type: select_one
+      options:
+      - Not at All Confident
+      - Slightly Confident
+      - Moderately Confident
+      - Very Confident
+      - Extremely Confident
+      required: true
+    - id: 10
+      name: concept_4_understanding
+      label: Understanding of Motivation Theories
+      hint: null
+      type: select_one
+      options:
+      - Not at All
+      - Minimal
+      - Moderate
+      - Good
+      - Excellent
+      required: true
+    - id: 11
+      name: concept_4_confidence
+      label: Confidence in Applying Motivation Strategies
+      hint: null
+      type: select_one
+      options:
+      - Not at All Confident
+      - Slightly Confident
+      - Moderately Confident
+      - Very Confident
+      - Extremely Confident
+      required: true
+    - id: 12
+      name: concept_5_understanding
+      label: Understanding of Change Resistance
+      hint: null
+      type: select_one
+      options:
+      - Not at All
+      - Minimal
+      - Moderate
+      - Good
+      - Excellent
+      required: true
+    - id: 13
+      name: concept_5_confidence
+      label: Confidence in Overcoming Resistance
+      hint: null
+      type: select_one
+      options:
+      - Not at All Confident
+      - Slightly Confident
+      - Moderately Confident
+      - Very Confident
+      - Extremely Confident
+      required: true
+    - id: 14
+      name: real_world_application
+      label: Can You Apply These Concepts in Your Work
+      hint: null
+      type: select_one
+      options:
+      - Not Applicable
+      - Not Likely
+      - Possibly
+      - Likely
+      - Very Likely
+      required: true
+    - id: 15
+      name: most_valuable_concept
+      label: Which Concept Was Most Valuable to You
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: concepts_needing_clarification
+      label: Concepts That Need Clarification
+      hint: What would help you understand better
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_resources
+      label: Would You Like Additional Resources
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

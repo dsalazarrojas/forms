@@ -4,135 +4,76 @@ inputSchema:
     title: Power Line Safety Inspection Form
     pages:
     - id: 1
-      name: first_page
-      label: Inspection Findings
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 2
-      name: first_page
+      name: inspection_date
       label: Inspection Date
-      hint: null
+      hint: Date of the inspection
       type: date
       options: []
       required: true
-    - id: 3
-      name: first_page
+    - id: 2
+      name: employee_name
       label: Employee Name
-      hint: null
+      hint: Name of the employee conducting the inspection
       type: text
       options: []
       required: true
-    - id: 4
-      name: first_page
-      label: Work Location
-      hint: null
-      type: select_multiple
+    - id: 3
+      name: inspection_location
+      label: Inspection Location
+      hint: Location of the inspection
+      type: select_one
       options:
       - Line Crew
       - Transmission Station
+      - Other
       required: true
-    - id: 5
-      name: first_page
+    - id: 4
+      name: hazard_report
       label: Hazard Report
-      hint: null
+      hint: Description of the hazards found during the inspection
       type: note
       options: []
       required: true
+    - id: 5
+      name: action_plan
+      label: Action Plan
+      hint: Description of the action plan for each hazard
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: first_page
-      label: Inspection Findings
-      hint: null
+      name: additional_comments
+      label: Additional Comments
+      hint: Additional comments or notes from the inspector
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: hazards_found
+      label: Hazards Found
+      hint: Select the type of hazards found during the inspection
       type: select_one
       options:
       - No Hazards
       - Minor Hazards
       - Major Hazards
       required: true
-    - id: 7
-      name: first_page
-      label: Action Plan
-      hint: null
-      type: text
-      options: []
-      required: true
     - id: 8
-      name: first_page
-      label: Additional Comments
-      hint: null
-      type: select_one
+      name: hazards_mitigated
+      label: Hazards Mitigated
+      hint: Select the hazards that have been mitigated
+      type: select_multiple
       options:
-      - Not Required
-      - Other
+      - Line Crew
+      - Transmission Station
       required: true
     - id: 9
-      name: first_page
-      label: first-page
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 10
-      name: first_page
-      label: first-page
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: first_page
-      label: first-page
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: first_page
-      label: first-page
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: first_page
-      label: first-page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: first_page
-      label: first-page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: first_page
-      label: first-page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: first_page
-      label: first-page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: first_page
-      label: first-page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: first_page
-      label: first-page
-      hint: null
-      type: text
-      options: []
+      name: status
+      label: Status
+      hint: Indicate the status of the form
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
       required: true

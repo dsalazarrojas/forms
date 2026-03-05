@@ -1,156 +1,184 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Content Audit Form
     pages:
-      - id: 1
-        name: section_asset_info
-        label: -- Asset Details --
-        hint: Please complete this audit for each content asset.
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: asset_title
-        label: Content Asset Title
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: asset_id
-        label: Content Asset Identification Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: asset_type
-        label: Content Asset Type
-        hint: null
-        type: select_one
-        options: [Blog Post, White Paper, Case Study, Video, Infographic, Podcast, Webinar, Ebook, Other]
-        required: true
-      - id: 5
-        name: asset_url
-        label: Content Asset URL (if applicable)
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: section_strategic_alignment
-        label: -- Strategic Alignment and Performance --
-        hint: Please evaluate the asset's alignment with marketing strategies and performance.
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: alignment_marketing_strategies
-        label: Alignment with Marketing Strategies
-        hint: 1 being low, 5 being high
-        type: select_one
-        options: [1, 2, 3, 4, 5]
-        required: true
-      - id: 8
-        name: target_audience_engagement
-        label: Target Audience Engagement Rating
-        hint: 1 being low, 5 being high
-        type: select_one
-        options: [1, 2, 3, 4, 5]
-        required: true
-      - id: 9
-        name: conversion_rate_rating
-        label: Conversion Rate Rating
-        hint: 1 being low, 5 being high
-        type: select_one
-        options: [1, 2, 3, 4, 5]
-        required: true
-      - id: 10
-        name: section_target_audience
-        label: -- Target Audience and Channel --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: primary_target_audience
-        label: Primary Target Audience Persona
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 12
-        name: distribution_channels
-        label: Content Distribution Channels
-        hint: Select all that apply
-        type: select_multiple
-        options: [Social Media, Email, Website, SEO, Paid Search, Referral, Other]
-        required: false
-      - id: 13
-        name: section_update_priorities
-        label: -- Update Priorities and Recommendations --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: update_priority_level
-        label: Update Priority Level
-        hint: null
-        type: select_one
-        options: [Low, Medium, High, Critical]
-        required: true
-      - id: 15
-        name: update_recommendations
-        label: Specific Recommendations for Updates
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: section_confirmation
-        label: -- Confirmation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: audit_completed
-        label: Audit Completed?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 18
-        name: additional_comments
-        label: Any additional details or comments?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: signature_confirmation
-        label: I confirm that the information provided is accurate
-        hint: null
-        type: select_one
-        options: [I Agree, I Disagree]
-        required: true
-      - id: 20
-        name: audit_submission_date
-        label: Date of Audit Submission
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_asset_info
+      label: -- Asset Details --
+      hint: Please complete this audit for each content asset.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: asset_title
+      label: Content Asset Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: asset_id
+      label: Content Asset Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: asset_type
+      label: Content Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Blog Post
+      - White Paper
+      - Case Study
+      - Video
+      - Infographic
+      - Podcast
+      - Webinar
+      - Ebook
+      - Other
+      required: true
+    - id: 5
+      name: asset_url
+      label: Content Asset URL (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_strategic_alignment
+      label: -- Strategic Alignment and Performance --
+      hint: Please evaluate the asset's alignment with marketing strategies and performance.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: alignment_marketing_strategies
+      label: Alignment with Marketing Strategies
+      hint: 1 being low, 5 being high
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 8
+      name: target_audience_engagement
+      label: Target Audience Engagement Rating
+      hint: 1 being low, 5 being high
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 9
+      name: conversion_rate_rating
+      label: Conversion Rate Rating
+      hint: 1 being low, 5 being high
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 10
+      name: section_target_audience
+      label: -- Target Audience and Channel --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_target_audience
+      label: Primary Target Audience Persona
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: distribution_channels
+      label: Content Distribution Channels
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social Media
+      - Email
+      - Website
+      - SEO
+      - Paid Search
+      - Referral
+      - Other
+      required: false
+    - id: 13
+      name: section_update_priorities
+      label: -- Update Priorities and Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: update_priority_level
+      label: Update Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 15
+      name: update_recommendations
+      label: Specific Recommendations for Updates
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: audit_completed
+      label: Audit Completed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Any additional details or comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 20
+      name: audit_submission_date
+      label: Date of Audit Submission
+      hint: null
+      type: date
+      options: []
+      required: true

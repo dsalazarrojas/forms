@@ -80,8 +80,8 @@ inputSchema:
       hint: Avoid food or drink (except water) for at least 3 hours
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: caffeine_avoidance
@@ -89,8 +89,8 @@ inputSchema:
       hint: These can affect hydration and scan accuracy
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: pacemaker_check
@@ -98,8 +98,8 @@ inputSchema:
       hint: People with these devices should not undergo InBody scans
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: additional_notes

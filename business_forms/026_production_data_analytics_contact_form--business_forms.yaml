@@ -16,198 +16,70 @@ inputSchema:
     pages:
     - id: 1
       name: name
-      label: first_name
-      hint: null
+      label: Your Name
+      hint: Please provide your full name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: last_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
       name: email
       label: Email
-      hint: null
+      hint: Please enter a valid email address
       type: email
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: company
+      label: Company Name
+      hint: Please enter your company name
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: company_name
-      label: company_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: message
-      label: message
-      hint: null
+      label: Message
+      hint: Please provide a brief message
       type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: analytics_type
-      label: analytics_type
+      label: What type of analytics are you interested in?
       hint: null
       type: select_multiple
       options:
-      - Analytics
-      - Reporting
       - Data
+      - Reporting
       - Insights
-      required: false
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: Please select a date
+      type: date
+      options: []
+      required: true
     - id: 7
-      name: date
-      label: Date
-      hint: null
+      name: time
+      label: Time
+      hint: Please select a time
       type: time
       options: []
-      required: false
+      required: true
     - id: 8
-      name: time
-      label: Time
+      name: reporting_type
+      label: What type of reporting are you looking for?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Reporting
+      - Data
+      - Insights
+      required: true
     - id: 9
-      name: reporting
-      label: reporting
-      hint: null
-      type: select_multiple
-      options:
-      - Reporting
-      - Data
-      - Insights
-      required: false
-    - id: 10
-      name: date
-      label: Date
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: time
-      label: Time
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: reporting
-      label: reporting
-      hint: null
-      type: select_multiple
-      options:
-      - Reporting
-      - Data
-      - Insights
-      required: false
-    - id: 13
-      name: date
-      label: Date
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: time
-      label: Time
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: reporting
-      label: reporting
-      hint: null
-      type: select_multiple
-      options:
-      - Reporting
-      - Data
-      - Insights
-      required: false
-    - id: 16
-      name: date
-      label: Date
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: time
-      label: Time
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: reporting
-      label: reporting
-      hint: null
-      type: select_multiple
-      options:
-      - Reporting
-      - Data
-      - Insights
-      required: false
-    - id: 19
-      name: date
-      label: Date
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: time
-      label: Time
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: reporting
-      label: reporting
-      hint: null
-      type: select_multiple
-      options:
-      - Reporting
-      - Data
-      - Insights
-      required: false
-    - id: 22
-      name: date
-      label: Date
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: time
-      label: Time
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: reporting
-      label: reporting
-      hint: null
-      type: select_multiple
-      options:
-      - Reporting
-      - Data
-      - Insights
-      required: false
-    - id: 25
-      name: date
-      label: Date
-      hint: null
-      type: time
+      name: additional_info
+      label: Additional Information
+      hint: Please provide any additional information
+      type: note
       options: []
       required: false
