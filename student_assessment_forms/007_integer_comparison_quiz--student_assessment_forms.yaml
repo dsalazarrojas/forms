@@ -5,103 +5,111 @@ inputSchema:
     pages:
     - id: 1
       name: compare_first_int
-      label: compare_first
+      label: Compare the two integers on the first pair of numbers.
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Very Similar
+      - Somewhat Similar
+      - Not Similar
+      required: true
     - id: 2
       name: compare_second_int
-      label: compare_second
+      label: Compare the two integers on the second pair of numbers.
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Very Similar
+      - Somewhat Similar
+      - Not Similar
+      required: true
     - id: 3
-      name: correct_answer
-      label: correct_answer
+      name: correct_answer_first_int
+      label: What is the correct answer for the first pair of numbers?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - '1'
+      - '2'
+      - None
+      required: true
     - id: 4
-      name: question_type
-      label: question_type
+      name: question_type_first
+      label: What is the type of question being asked for the first pair of numbers?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Integer Comparison
+      - Not Integer Comparison
+      required: true
     - id: 5
-      name: correct_answer_type
-      label: correct_answer_type
+      name: correct_answer_type_first
+      label: What is the correct answer type for the first pair of numbers?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Same
+      - Different
+      required: true
     - id: 6
-      name: question
-      label: question
+      name: feedback_first
+      label: What is your feedback on the first pair of numbers?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: correct_answer
-      label: correct_answer
+      name: compare_third_int
+      label: Compare the two integers on the third pair of numbers.
+      hint: null
+      type: select_one
+      options:
+      - Very Similar
+      - Somewhat Similar
+      - Not Similar
+      required: true
+    - id: 8
+      name: compare_fourth_int
+      label: Compare the two integers on the fourth pair of numbers.
+      hint: null
+      type: select_one
+      options:
+      - Very Similar
+      - Somewhat Similar
+      - Not Similar
+      required: true
+    - id: 9
+      name: correct_answer_fourth
+      label: What is the correct answer for the fourth pair of numbers?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: submit
-      label: submit
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: submit_text
-      label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
+      - '1'
+      - '2'
+      - None
+      required: true
     - id: 10
-      name: feedback
-      label: feedback
+      name: question_type_fourth
+      label: What is the type of question being asked for the fourth pair of numbers?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Integer Comparison
+      - Not Integer Comparison
+      required: true
     - id: 11
-      name: feedback_text
-      label: feedback
+      name: correct_answer_type_fourth
+      label: What is the correct answer type for the fourth pair of numbers?
+      hint: null
+      type: select_one
+      options:
+      - Same
+      - Different
+      required: true
+    - id: 12
+      name: feedback_fourth
+      label: What is your feedback on the fourth pair of numbers?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
-      name: correct_question_type
-      label: correct_question_type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

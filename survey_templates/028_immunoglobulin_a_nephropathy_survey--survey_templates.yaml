@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,10 +16,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Always''}'
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Always
+      - Frequently
+      - Rarely
+      - Never
       required: false
     - id: 3
       name: symptoms_2
@@ -45,10 +34,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not at all''}'
-      - '{''label'': ''A little''}'
-      - '{''label'': ''Moderately''}'
-      - '{''label'': ''Severely''}'
+      - Not at all
+      - A little
+      - Moderately
+      - Severely
       required: false
     - id: 5
       name: quality_of_life_2
@@ -56,10 +45,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Less than 1 month''}'
-      - '{''label'': ''1-3 months''}'
-      - '{''label'': ''4-6 months''}'
-      - '{''label'': ''More than 6 months''}'
+      - Less than 1 month
+      - 1-3 months
+      - 4-6 months
+      - More than 6 months
       required: false
     - id: 6
       name: support_needs
@@ -67,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Medical care''}'
-      - '{''label'': ''Emotional support''}'
-      - '{''label'': ''Other''}'
+      - Medical care
+      - Emotional support
+      - Other
       required: false
     - id: 7
       name: medical_care_1
@@ -77,8 +66,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: medical_care_2
@@ -86,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Clinic''}'
-      - '{''label'': ''Specialist''}'
-      - '{''label'': ''Hospital''}'
+      - Clinic
+      - Specialist
+      - Hospital
       required: false
     - id: 9
       name: support_needs_1
@@ -96,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Family''}'
-      - '{''label'': ''Friend''}'
-      - '{''label'': ''Other''}'
+      - Family
+      - Friend
+      - Other
       required: false
     - id: 10
       name: support_needs_2
@@ -106,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Frequently
+      - Rarely
+      - Never
       required: false
     - id: 11
       name: medical_care_3
@@ -116,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: medical_care_4

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option 1
-      - option 2
-      - option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
       name: question_2
@@ -54,8 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
       name: question_3
@@ -63,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: date
@@ -115,8 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 16
       name: select_multiple_1
@@ -124,8 +126,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 17
       name: select_multiple_2
@@ -133,8 +136,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 18
       name: date_time
@@ -159,12 +163,13 @@ inputSchema:
       required: false
     - id: 21
       name: select_one_2
-      label: How likely are you to recommend us?
+      label: Select One 2
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 22
       name: select_multiple_3
@@ -172,26 +177,27 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 23
       name: email_2
-      label: Email
+      label: Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 24
       name: phone_2
-      label: Phone
+      label: Phone 2
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: note_2
-      label: Additional comments
+      label: Note 2
       hint: null
       type: note
       options: []

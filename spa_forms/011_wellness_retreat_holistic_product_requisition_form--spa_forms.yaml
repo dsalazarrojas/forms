@@ -9,173 +9,67 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Product 1''}'
-      - '{''id'': 2, ''label'': ''Product 2''}'
+      - Massage
+      - Yoga
+      - Meditation
+      - Other
       required: true
     - id: 2
-      name: main_page
-      label: Additional Info
+      name: date_time
+      label: Preferred Date and Time
       hint: null
-      type: note
+      type: date
       options: []
-      required: false
+      required: true
     - id: 3
-      name: main_page
-      label: Additional Comments
+      name: allergies
+      label: Medical Conditions or Allergies
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: main_page
-      label: Additional Questions
+      name: contact_email
+      label: Contact Email
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 5
-      name: main_page
-      label: Additional Comments
+      name: contact_phone
+      label: Contact Phone
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: main_page
+      name: comments
       label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: main_page
-      label: Contact Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 8
-      name: main_page
-      label: Contact Phone
+      name: additional_questions
+      label: Additional Questions
       hint: null
       type: text
       options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - PayPal
+      - Other
       required: true
     - id: 9
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: main_page
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: main_page
-      label: Additional Comments
+      name: special_instructions
+      label: Special Instructions
       hint: null
       type: text
       options: []

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Rural''}'
-      - '{''value'': ''Urban''}'
-      - '{''value'': ''Suburban''}'
+      - Rural
+      - Urban
+      - Suburban
       required: false
     - id: 3
       name: employment_status
@@ -26,12 +26,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Employed''}'
-      - '{''value'': ''Unemployed''}'
-      - '{''value'': ''Self-employed''}'
-      - '{''value'': ''Student''}'
-      - '{''value'': ''Retiree''}'
-      - '{''value'': ''Other (please specify)''}'
+      - Employed
+      - Unemployed
+      - Self-employed
+      - Student
+      - Retiree
+      - Other (please specify)
       required: false
     - id: 4
       name: education_level
@@ -39,13 +39,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High School''}'
-      - '{''value'': ''Vocational/Trade Certificate''}'
-      - '{''value'': ''College Diploma''}'
-      - '{''value'': ''University Degree''}'
-      - '{''value'': "Master''s Degree"}'
-      - '{''value'': ''Doctoral Degree''}'
-      - '{''value'': ''Other (please specify)''}'
+      - High School
+      - Vocational/Trade Certificate
+      - College Diploma
+      - University Degree
+      - Master's Degree
+      - Doctoral Degree
+      - Other (please specify)
       required: false
     - id: 5
       name: employment_type
@@ -53,12 +53,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Full-time''}'
-      - '{''value'': ''Part-time''}'
-      - '{''value'': ''Freelance/Contract''}'
-      - '{''value'': ''Self-employed''}'
-      - '{''value'': ''Retiree''}'
-      - '{''value'': ''Other (please specify)''}'
+      - Full-time
+      - Part-time
+      - Freelance/Contract
+      - Self-employed
+      - Retiree
+      - Other (please specify)
       required: false
     - id: 6
       name: work_experience
@@ -73,10 +73,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Less than 20k''}'
-      - '{''value'': ''20-49k''}'
-      - '{''value'': ''50-79k''}'
-      - '{''value'': ''80k and above''}'
+      - Less than 20k
+      - 20-49k
+      - 50-79k
+      - 80k and above
       required: false
     - id: 8
       name: occupation

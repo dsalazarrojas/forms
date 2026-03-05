@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -69,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''staff1''}'
-      - '{''value'': ''staff2''}'
-      - '{''value'': ''staff3''}'
+      - staff1
+      - staff2
+      - staff3
       required: true
     - id: 9
       name: client_statement
@@ -79,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''statement1''}'
-      - '{''value'': ''statement2''}'
-      - '{''value'': ''statement3''}'
+      - statement1
+      - statement2
+      - statement3
       required: true
     - id: 10
       name: terms_and_conditions
@@ -89,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''term1''}'
-      - '{''value'': ''term2''}'
-      - '{''value'': ''term3''}'
+      - term1
+      - term2
+      - term3
       required: true
     - id: 11
       name: salon_warranty
@@ -99,7 +88,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''warranty1''}'
-      - '{''value'': ''warranty2''}'
-      - '{''value'': ''warranty3''}'
+      - warranty1
+      - warranty2
+      - warranty3
       required: true

@@ -5,189 +5,112 @@ inputSchema:
     pages:
     - id: 1
       name: new_product_survey_page_1
-      label: product_survey_form
+      label: What is your product name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: new_product_survey_page_2
-      label: survey_questions
+      label: What is your age group?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''option_1''}'
-      - '{''label'': ''option_2''}'
-      - '{''label'': ''option_3''}'
-      required: false
+      - Less than 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55 or older
+      required: true
     - id: 3
       name: new_product_survey_page_3
-      label: product_survey_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: new_product_survey_page_4
-      label: survey_questions
+      label: What type of product are you interested in purchasing?
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''option_1''}'
-      - '{''label'': ''option_2''}'
-      required: false
-    - id: 5
-      name: new_product_survey_page_5
-      label: product_survey_form
+      - Electronics
+      - Fashion
+      - Home & Kitchen
+      - Outdoor & Sports
+      - Other
+      required: true
+    - id: 4
+      name: new_product_survey_page_4
+      label: Which of the following features do you like most about the product?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''option_1''}'
-      - '{''label'': ''option_2''}'
-      required: false
+      - Design
+      - Performance
+      - Price
+      - Brand reputation
+      required: true
+    - id: 5
+      name: new_product_survey_page_5
+      label: How likely are you to recommend the product to a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Somewhat
+      - Very likely
+      required: true
     - id: 6
       name: new_product_survey_page_6
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
-      name: new_product_survey_page_7
-      label: product_survey_form
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''option_1''}'
-      - '{''label'': ''option_2''}'
-      required: false
-    - id: 8
-      name: new_product_survey_page_8
-      label: email
+      label: What is your contact email address? (leave blank if you don't have one)
       hint: null
       type: email
       options: []
       required: false
-    - id: 9
-      name: new_product_survey_page_9
-      label: phone
+    - id: 7
+      name: new_product_survey_page_7
+      label: Do you have any phone number to contact you?
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: new_product_survey_page_10
-      label: note
+    - id: 8
+      name: new_product_survey_page_8
+      label: Would you like to provide any additional comments or suggestions about
+        the product?
       hint: null
       type: note
       options: []
       required: false
-    - id: 11
-      name: new_product_survey_page_11
-      label: date
+    - id: 9
+      name: new_product_survey_page_9
+      label: Date of last purchase (if any)?
       hint: null
       type: date
       options: []
       required: false
-    - id: 12
-      name: new_product_survey_page_12
-      label: time
+    - id: 10
+      name: new_product_survey_page_10
+      label: Time of last purchase?
       hint: null
       type: time
       options: []
       required: false
-    - id: 13
-      name: new_product_survey_page_13
-      label: product_survey_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: new_product_survey_page_14
-      label: product_survey_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: new_product_survey_page_15
-      label: product_survey_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: new_product_survey_page_16
-      label: product_survey_form
+    - id: 11
+      name: new_product_survey_page_11
+      label: How did you find out about this product?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''option_1''}'
-      - '{''label'': ''option_2''}'
-      required: false
-    - id: 17
-      name: new_product_survey_page_17
-      label: product_survey_form
+      - Online advertisement
+      - Social media
+      - Word of mouth
+      - In-store promotion
+      required: true
+    - id: 12
+      name: new_product_survey_page_12
+      label: How would you rate the product's performance?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''option_1''}'
-      - '{''label'': ''option_2''}'
-      required: false
-    - id: 18
-      name: new_product_survey_page_18
-      label: product_survey_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: new_product_survey_page_19
-      label: product_survey_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: new_product_survey_page_20
-      label: product_survey_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: new_product_survey_page_21
-      label: product_survey_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: new_product_survey_page_22
-      label: product_survey_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: new_product_survey_page_23
-      label: product_survey_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: new_product_survey_page_24
-      label: product_survey_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: new_product_survey_page_25
-      label: product_survey_form
-      hint: null
-      type: text
-      options: []
-      required: false
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true

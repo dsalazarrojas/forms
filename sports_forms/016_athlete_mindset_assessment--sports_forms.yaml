@@ -1,283 +1,272 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Athlete Mindset Assessment
     pages:
-      - id: 1
-        name: athlete_name
-        label: Athlete Full Name
-        hint: First and last name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: athlete_id
-        label: Athlete ID Number
-        hint: Student or team identification number
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: sport
-        label: Sport
-        hint: Primary sport
-        type: select_one
-        options:
-          - Football
-          - Basketball
-          - Soccer
-          - Track and Field
-          - Swimming
-          - Volleyball
-          - Baseball
-          - Softball
-          - Tennis
-          - Other
-        required: true
-      - id: 4
-        name: team_level
-        label: Team Level
-        hint: Competition level
-        type: select_one
-        options:
-          - Varsity
-          - Junior Varsity
-          - Freshman
-          - Club Team
-        required: true
-      - id: 5
-        name: assessment_date
-        label: Assessment Date
-        hint: Date of assessment
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: motivation_level
-        label: Overall Motivation Level
-        hint: Rate your current motivation
-        type: select_one
-        options:
-          - Very High
-          - High
-          - Moderate
-          - Low
-          - Very Low
-        required: true
-      - id: 7
-        name: confidence_level
-        label: Confidence Level
-        hint: Rate your confidence in your abilities
-        type: select_one
-        options:
-          - Very Confident
-          - Confident
-          - Neutral
-          - Not Confident
-          - Very Unconfident
-        required: true
-      - id: 8
-        name: goal_commitment
-        label: Goal Commitment
-        hint: How committed are you to your athletic goals
-        type: select_one
-        options:
-          - Extremely Committed
-          - Very Committed
-          - Moderately Committed
-          - Slightly Committed
-          - Not Committed
-        required: true
-      - id: 9
-        name: pressure_handling
-        label: Pressure Handling Ability
-        hint: How well do you handle competitive pressure
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Below Average
-          - Poor
-        required: true
-      - id: 10
-        name: focus_concentration
-        label: Focus and Concentration
-        hint: Rate your ability to stay focused during competition
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Below Average
-          - Poor
-        required: true
-      - id: 11
-        name: resilience_rating
-        label: Resilience Rating
-        hint: How well do you bounce back from setbacks
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Below Average
-          - Poor
-        required: true
-      - id: 12
-        name: self_talk
-        label: Self-Talk Quality
-        hint: Rate the positivity of your internal dialogue
-        type: select_one
-        options:
-          - Very Positive
-          - Mostly Positive
-          - Neutral
-          - Mostly Negative
-          - Very Negative
-        required: true
-      - id: 13
-        name: visualization_practice
-        label: Visualization Practice
-        hint: How often do you use visualization techniques
-        type: select_one
-        options:
-          - Daily
-          - Several Times a Week
-          - Once a Week
-          - Rarely
-          - Never
-        required: true
-      - id: 14
-        name: anxiety_level
-        label: Pre-Competition Anxiety Level
-        hint: Rate your typical anxiety before competition
-        type: select_one
-        options:
-          - None
-          - Low
-          - Moderate
-          - High
-          - Very High
-        required: true
-      - id: 15
-        name: anxiety_management
-        label: Anxiety Management
-        hint: How well do you manage competition anxiety
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Below Average
-          - Poor
-        required: true
-      - id: 16
-        name: teamwork_mindset
-        label: Teamwork Mindset
-        hint: Rate your attitude toward team collaboration
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Below Average
-          - Poor
-        required: true
-      - id: 17
-        name: coachability
-        label: Coachability
-        hint: How open are you to feedback and coaching
-        type: select_one
-        options:
-          - Very Open
-          - Open
-          - Neutral
-          - Resistant
-          - Very Resistant
-        required: true
-      - id: 18
-        name: competitive_drive
-        label: Competitive Drive
-        hint: Rate your desire to win and compete
-        type: select_one
-        options:
-          - Extremely High
-          - High
-          - Moderate
-          - Low
-          - Very Low
-        required: true
-      - id: 19
-        name: mental_preparation
-        label: Mental Preparation Routine
-        hint: Do you have a mental preparation routine
-        type: select_one
-        options:
-          - Yes - Detailed Routine
-          - Yes - Basic Routine
-          - Sometimes
-          - No
-        required: true
-      - id: 20
-        name: stress_sources
-        label: Main Sources of Stress
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Performance Expectations
-          - Playing Time
-          - Coach Relationship
-          - Teammate Relationships
-          - Academic Pressure
-          - Family Expectations
-          - Injury Concerns
-          - Future Uncertainty
-          - None
-        required: true
-      - id: 21
-        name: mental_strengths
-        label: Mental Strengths
-        hint: What are your greatest mental strengths
-        type: text
-        options: []
-        required: true
-      - id: 22
-        name: mental_areas_improvement
-        label: Mental Areas for Improvement
-        hint: What mental skills do you want to improve
-        type: text
-        options: []
-        required: true
-      - id: 23
-        name: support_needed
-        label: Mental Skills Support Needed
-        hint: What support would help you
-        type: select_multiple
-        options:
-          - Sports Psychology Sessions
-          - Meditation Training
-          - Goal Setting Workshops
-          - Stress Management Techniques
-          - Confidence Building
-          - Focus Training
-          - None
-        required: false
-      - id: 24
-        name: additional_comments
-        label: Additional Comments
-        hint: Any other thoughts about your mindset
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: athlete_id
+      label: Athlete ID Number
+      hint: Student or team identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sport
+      label: Sport
+      hint: Primary sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Other
+      required: true
+    - id: 4
+      name: team_level
+      label: Team Level
+      hint: Competition level
+      type: select_one
+      options:
+      - Varsity
+      - Junior Varsity
+      - Freshman
+      - Club Team
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: motivation_level
+      label: Overall Motivation Level
+      hint: Rate your current motivation
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      required: true
+    - id: 7
+      name: confidence_level
+      label: Confidence Level
+      hint: Rate your confidence in your abilities
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Neutral
+      - Not Confident
+      - Very Unconfident
+      required: true
+    - id: 8
+      name: goal_commitment
+      label: Goal Commitment
+      hint: How committed are you to your athletic goals
+      type: select_one
+      options:
+      - Extremely Committed
+      - Very Committed
+      - Moderately Committed
+      - Slightly Committed
+      - Not Committed
+      required: true
+    - id: 9
+      name: pressure_handling
+      label: Pressure Handling Ability
+      hint: How well do you handle competitive pressure
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 10
+      name: focus_concentration
+      label: Focus and Concentration
+      hint: Rate your ability to stay focused during competition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 11
+      name: resilience_rating
+      label: Resilience Rating
+      hint: How well do you bounce back from setbacks
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 12
+      name: self_talk
+      label: Self-Talk Quality
+      hint: Rate the positivity of your internal dialogue
+      type: select_one
+      options:
+      - Very Positive
+      - Mostly Positive
+      - Neutral
+      - Mostly Negative
+      - Very Negative
+      required: true
+    - id: 13
+      name: visualization_practice
+      label: Visualization Practice
+      hint: How often do you use visualization techniques
+      type: select_one
+      options:
+      - Daily
+      - Several Times a Week
+      - Once a Week
+      - Rarely
+      - Never
+      required: true
+    - id: 14
+      name: anxiety_level
+      label: Pre-Competition Anxiety Level
+      hint: Rate your typical anxiety before competition
+      type: select_one
+      options:
+      - None
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 15
+      name: anxiety_management
+      label: Anxiety Management
+      hint: How well do you manage competition anxiety
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 16
+      name: teamwork_mindset
+      label: Teamwork Mindset
+      hint: Rate your attitude toward team collaboration
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 17
+      name: coachability
+      label: Coachability
+      hint: How open are you to feedback and coaching
+      type: select_one
+      options:
+      - Very Open
+      - Open
+      - Neutral
+      - Resistant
+      - Very Resistant
+      required: true
+    - id: 18
+      name: competitive_drive
+      label: Competitive Drive
+      hint: Rate your desire to win and compete
+      type: select_one
+      options:
+      - Extremely High
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      required: true
+    - id: 19
+      name: mental_preparation
+      label: Mental Preparation Routine
+      hint: Do you have a mental preparation routine
+      type: select_one
+      options:
+      - Yes - Detailed Routine
+      - Yes - Basic Routine
+      - Sometimes
+      - 'False'
+      required: true
+    - id: 20
+      name: stress_sources
+      label: Main Sources of Stress
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Performance Expectations
+      - Playing Time
+      - Coach Relationship
+      - Teammate Relationships
+      - Academic Pressure
+      - Family Expectations
+      - Injury Concerns
+      - Future Uncertainty
+      - None
+      required: true
+    - id: 21
+      name: mental_strengths
+      label: Mental Strengths
+      hint: What are your greatest mental strengths
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: mental_areas_improvement
+      label: Mental Areas for Improvement
+      hint: What mental skills do you want to improve
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: support_needed
+      label: Mental Skills Support Needed
+      hint: What support would help you
+      type: select_multiple
+      options:
+      - Sports Psychology Sessions
+      - Meditation Training
+      - Goal Setting Workshops
+      - Stress Management Techniques
+      - Confidence Building
+      - Focus Training
+      - None
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts about your mindset
+      type: text
+      options: []
+      required: false

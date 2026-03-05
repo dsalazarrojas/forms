@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Male''}'
-      - '{''id'': 2, ''name'': ''Female''}'
-      - '{''id'': 3, ''name'': ''Other''}'
-      - '{''id'': 4, ''name'': ''Prefer not to say''}'
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
       required: true
     - id: 3
       name: age
@@ -41,8 +41,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: comments

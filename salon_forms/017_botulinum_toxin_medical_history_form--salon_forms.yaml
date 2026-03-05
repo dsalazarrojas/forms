@@ -90,7 +90,7 @@ inputSchema:
       hint: Do you have any neuromuscular conditions
       type: select_one
       options:
-      - false
+      - 'False'
       - Myasthenia gravis
       - ALS
       - Lambert-Eaton syndrome
@@ -104,7 +104,7 @@ inputSchema:
       hint: Do you have any bleeding disorders
       type: select_one
       options:
-      - false
+      - 'False'
       - Hemophilia
       - Von Willebrand disease
       - Thrombocytopenia
@@ -123,8 +123,8 @@ inputSchema:
       hint: Have you ever had an allergic reaction to Botox or similar
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       - Unsure
       required: true
     - id: 16
@@ -151,7 +151,7 @@ inputSchema:
       hint: Are you taking any blood thinning medications
       type: select_one
       options:
-      - false
+      - 'False'
       - Warfarin
       - Heparin
       - Aspirin
@@ -171,8 +171,8 @@ inputSchema:
       hint: Have you taken antibiotics in the past 2 weeks
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 21
       name: muscle_relaxants
@@ -180,8 +180,8 @@ inputSchema:
       hint: Do you take muscle relaxant medications
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 22
       name: sleep_aids
@@ -189,8 +189,8 @@ inputSchema:
       hint: Do you take sleep aids or sedatives
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: false
     - id: 23
       name: previous_cosmetic_procedures
@@ -228,8 +228,8 @@ inputSchema:
       hint: Have you had any facial surgeries
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 27
       name: surgery_details
@@ -288,7 +288,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, all information is accurate
-      - false
+      - 'False'
       required: true
     - id: 33
       name: patient_signature

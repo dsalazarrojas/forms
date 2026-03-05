@@ -5,196 +5,83 @@ inputSchema:
     pages:
     - id: 1
       name: team_id
-      label: Team Id
+      label: Team ID
       hint: null
       type: number
       options: []
       required: false
     - id: 2
       name: team_name
-      label: team_name
+      label: Team Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: team_name
-      label: Team Name
+      name: employee_id
+      label: Employee ID
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 4
-      name: team_name
-      label: Team Name
+      name: employee_name
+      label: Employee Name
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: team_lead
-      label: Team Lead
+      name: date_of_vaccination
+      label: Date of Vaccination
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 6
-      name: team_lead
-      label: Team Lead
+      name: time_of_vaccination
+      label: Time of Vaccination
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 7
-      name: employee_id
-      label: Employee Id
+      name: vaccination_status
+      label: Vaccination Status
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: employee_name
-      label: Employee Name
+      name: vaccine_name
+      label: Vaccine Name
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: employee_name
-      label: Employee Name
+      name: vaccine_dose_number
+      label: Vaccine Dose Number
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 10
-      name: date
-      label: Date
+      name: vaccine_dose_status
+      label: Vaccine Dose Status
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
       required: false
     - id: 11
-      name: date
-      label: Date
+      name: additional_comments
+      label: Additional Comments
       hint: null
-      type: date
+      type: note
       options: []
-      required: false
-    - id: 12
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: vaccine_name
-      label: Vaccine Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: vaccine_name
-      label: Vaccine Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: vaccine_dose_number
-      label: Vaccine Dose Number
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: vaccine_dose_number
-      label: Vaccine Dose Number
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: vaccine_dose_status
-      label: Vaccine Dose Status
-      hint: null
-      type: select_one
-      options:
-      - Completed
-      - In progress
-      - Not Started
-      required: false
-    - id: 19
-      name: vaccine_dose_status
-      label: Vaccine Dose Status
-      hint: null
-      type: select_one
-      options:
-      - Completed
-      - In progress
-      - Not Started
-      required: false
-    - id: 20
-      name: vaccination_status
-      label: Vaccination Status
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 21
-      name: vaccination_status
-      label: Vaccination Status
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 22
-      name: vaccination_status
-      label: Vaccination Status
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 23
-      name: vaccination_status
-      label: Vaccination Status
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 24
-      name: vaccine_dose_status
-      label: Vaccine Dose Status
-      hint: null
-      type: select_one
-      options:
-      - Completed
-      - In progress
-      - Not Started
-      required: false
-    - id: 25
-      name: vaccine_dose_status
-      label: Vaccine Dose Status
-      hint: null
-      type: select_one
-      options:
-      - Completed
-      - In progress
-      - Not Started
       required: false

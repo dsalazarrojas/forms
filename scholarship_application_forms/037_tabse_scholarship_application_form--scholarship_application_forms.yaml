@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': "Bachelor''s", ''label'': "Bachelor''s"}'
-      - '{''id'': 2, ''name'': "Master''s", ''label'': "Master''s"}'
-      - '{''id'': 3, ''name'': ''Doctorate'', ''label'': ''Doctorate''}'
+      - Bachelor's
+      - Master's
+      - Doctorate
       required: false
     - id: 5
       name: education_history_field_of_study
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Computer Science'', ''label'': ''Computer Science''}'
-      - '{''id'': 2, ''name'': ''Engineering'', ''label'': ''Engineering''}'
-      - '{''id'': 3, ''name'': ''Mathematics'', ''label'': ''Mathematics''}'
-      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      - Computer Science
+      - Engineering
+      - Mathematics
+      - Other
       required: false
     - id: 6
       name: education_history_start_date
@@ -89,14 +89,14 @@ inputSchema:
       required: false
     - id: 12
       name: work_experience_start_date
-      label: Start Date
+      label: Work Experience Start Date
       hint: null
       type: date
       options: []
       required: false
     - id: 13
       name: work_experience_end_date
-      label: End Date
+      label: Work Experience End Date
       hint: null
       type: date
       options: []
@@ -142,10 +142,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Professional Reference'', ''label'': ''Professional
-        Reference''}'
-      - '{''id'': 2, ''name'': ''Academic Reference'', ''label'': ''Academic Reference''}'
-      - '{''id'': 3, ''name'': ''Character Reference'', ''label'': ''Character Reference''}'
+      - Professional Reference
+      - Academic Reference
+      - Character Reference
       required: false
     - id: 20
       name: personal_references_reference_number
@@ -163,14 +162,14 @@ inputSchema:
       required: false
     - id: 22
       name: personal_references_reference_job_title
-      label: Job Title
+      label: Personal References Reference Job Title
       hint: null
       type: text
       options: []
       required: false
     - id: 23
       name: personal_references_reference_contact_info
-      label: Contact Info
+      label: Personal References Reference Contact Info
       hint: null
       type: text
       options: []
@@ -183,7 +182,7 @@ inputSchema:
       options: []
       required: false
     - id: 25
-      name: personal_references_reference_note
+      name: personal_references_reference_note_2
       label: Additional Info
       hint: null
       type: text

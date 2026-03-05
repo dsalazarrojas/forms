@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Cancellation due to personal reason''}'
-      - '{''label'': ''Cancellation due to business reason''}'
-      - '{''label'': ''Other''}'
+      - Cancellation due to personal reason
+      - Cancellation due to business reason
+      - Other
       required: false
     - id: 3
       name: cancellation_date
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Aware of cancellation rule''}'
-      - '{''label'': ''Aware of consequences''}'
-      - '{''label'': ''Not aware''}'
+      - Aware of cancellation rule
+      - Aware of consequences
+      - Not aware
       required: false
     - id: 7
       name: satisfaction
@@ -57,11 +57,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very dissatisfied''}'
-      - '{''label'': ''Somewhat dissatisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat satisfied''}'
-      - '{''label'': ''Very satisfied''}'
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
       required: false
     - id: 8
       name: additional_comments
@@ -76,10 +76,10 @@ inputSchema:
       hint: How often do you cancel your classes?
       type: select_one
       options:
-      - '{''label'': ''Less than once a month''}'
-      - '{''label'': ''About once a month''}'
-      - '{''label'': ''About once a week''}'
-      - '{''label'': ''More than once a week''}'
+      - Less than once a month
+      - About once a month
+      - About once a week
+      - More than once a week
       required: false
     - id: 10
       name: email

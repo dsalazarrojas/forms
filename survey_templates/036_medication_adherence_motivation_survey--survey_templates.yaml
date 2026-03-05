@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 7
       name: reasons_for_non_adherence
@@ -54,10 +54,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Forgetfulness''}'
-      - '{''label'': ''Cost''}'
-      - '{''label'': ''Lack of Motivation''}'
-      - '{''label'': ''Other''}'
+      - Forgetfulness
+      - Cost
+      - Lack of Motivation
+      - Other
       required: true
     - id: 8
       name: healthcare_provider_identifier
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Strong''}'
-      - '{''label'': ''Weak''}'
-      - '{''label'': ''None''}'
+      - Strong
+      - Weak
+      - None
       required: false
     - id: 10
       name: patient_satisfaction
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 13
       name: followup_suggestions
@@ -155,9 +155,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Patient''}'
-      - '{''label'': ''Provider''}'
-      - '{''label'': ''Other''}'
+      - Patient
+      - Provider
+      - Other
       required: false
     - id: 21
       name: submitted_on

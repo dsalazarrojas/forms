@@ -4,182 +4,102 @@ inputSchema:
     title: gSCO Family Participation Survey
     pages:
     - id: 1
-      name: form_1
-      label: family level of comfort
-      hint: null
+      name: family_level_of_comfort
+      label: Family level of comfort with in-person events
+      hint: Rate your comfort level with participating in in-person events
       type: number
       options: []
       required: false
     - id: 2
-      name: form_2
-      label: troop model
-      hint: null
-      type: select_one
-      options:
-      - in-person
-      - virtual
-      - mixed
-      required: false
-    - id: 3
-      name: form_3
-      label: description
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 4
-      name: form_4
-      label: family level of comfort
-      hint: null
+      name: event_frequency
+      label: Frequency of in-person event participation
+      hint: How often do you participate in events that are in-person?
       type: number
       options: []
       required: false
-    - id: 5
-      name: form_5
-      label: description
-      hint: null
+    - id: 3
+      name: event_type
+      label: Type of event
+      hint: What type of event is your family most likely to participate in?
+      type: select_one
+      options:
+      - Event with friends
+      - Event with family
+      - Event with a mix of both
+      - No preference
+      required: false
+    - id: 4
+      name: participation_method
+      label: How do you usually participate in events with your family?
+      hint: How do you usually participate in events with your family?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - In-person
+      - Virtual
+      - Mixed
+      - No preference
       required: false
-    - id: 6
-      name: form_6
-      label: description
-      hint: null
-      type: text
+    - id: 5
+      name: typical_participation
+      label: Typical family event participation
+      hint: Describe your typical family event participation
+      type: note
       options: []
       required: false
-    - id: 7
-      name: form_7
-      label: description
-      hint: null
+    - id: 6
+      name: day_of_week
+      label: Day of the week for family events
+      hint: What day of the week do you usually participate in family events?
       type: date
       options: []
       required: false
-    - id: 8
-      name: form_8
-      label: description
-      hint: null
+    - id: 7
+      name: time_of_participation
+      label: Time of day for family events
+      hint: At what time do you usually participate in family events?
       type: time
       options: []
       required: false
+    - id: 8
+      name: event_days
+      label: Event Days
+      hint: Do you usually participate in family events on weekdays or weekends?
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      required: false
     - id: 9
-      name: form_9
-      label: description
-      hint: null
-      type: email
-      options: []
+      name: communication_methods
+      label: Communication methods with family members
+      hint: What type of communication methods do you usually use with family members?
+      type: select_multiple
+      options:
+      - Calls
+      - Messages
+      - Emails
+      - Video calls
+      - Social media
+      - In-person
       required: false
     - id: 10
-      name: form_10
-      label: description
-      hint: null
-      type: text
+      name: communication_frequency
+      label: Frequency of communication with family members
+      hint: How often do you communicate with family members?
+      type: number
       options: []
       required: false
     - id: 11
-      name: form_11
-      label: description
-      hint: null
+      name: time_zone
+      label: Time zone for family events
+      hint: What time zone do you usually participate in family events?
       type: text
       options: []
       required: false
     - id: 12
-      name: form_12
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: form_13
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: form_14
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: form_15
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: form_16
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: form_17
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: form_18
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: form_19
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: form_20
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: form_21
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_22
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_23
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_24
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_25
-      label: description
-      hint: null
-      type: text
+      name: description
+      label: Description
+      hint: Describe your family's event participation
+      type: note
       options: []
       required: false

@@ -222,7 +222,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I authorize
-      - false
+      - 'False'
       required: true
     - id: 27
       name: photo_video_consent
@@ -241,7 +241,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I waive
-      - false
+      - 'False'
       required: true
     - id: 29
       name: camp_rules
@@ -250,7 +250,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, agreed
-      - false
+      - 'False'
       required: true
     - id: 30
       name: t_shirt_size
@@ -291,8 +291,8 @@ inputSchema:
       hint: Are you eligible for sibling discount
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 34
       name: early_bird_discount
@@ -300,8 +300,8 @@ inputSchema:
       hint: Did you register by early bird deadline
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 35
       name: how_heard_about_camp

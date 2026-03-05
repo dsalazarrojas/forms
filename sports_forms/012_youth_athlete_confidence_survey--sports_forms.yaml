@@ -5,167 +5,16 @@ inputSchema:
     pages:
     - id: 1
       name: athlete_name
-      label: athlete_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: age_group
-      label: age_group
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: event_competed
-      label: events_competed
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: sports_competed
-      label: sports_competed
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: confidence_level_road
-      label: confidence_level_road
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: confidence_level_race
-      label: confidence_level_race
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: confidence_level_sprint
-      label: confidence_level_sprint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: confidence_level_jumps
-      label: confidence_level_jumps
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: confidence_level_distance
-      label: confidence_level_distance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: confidence_level_throws
-      label: confidence_level_throws
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: event_confidence
-      label: event_confidence
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: event_performance
-      label: event_performance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: training_confidence
-      label: training_confidence
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: training_performance
-      label: training_performance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: competition_confidence
-      label: competition_confidence
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: competition_performance
-      label: competition_performance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: overall_confidence
-      label: overall_confidence
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: overall_performance
-      label: overall_performance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: athlete_name_hint
-      label: athlete_name
+      label: What is your name?
       hint: This is the athlete's name
       type: text
       options: []
-      required: false
-    - id: 20
-      name: event_type
-      label: event_type
-      hint: null
-      type: select_one
-      options:
-      - Running
-      - Swimming
-      - Cycling
-      - Basketball
-      - Soccer
-      - Tennis
-      - Volleyball
-      - Baseball
-      - Softball
-      - Golf
-      - Other
-      required: false
-    - id: 21
-      name: athlete_gender
-      label: gender
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
+      required: true
+    - id: 2
       name: age_group
-      label: age_group
+      label: What is your age group?
       hint: Please select the age group of the athlete
-      type: select_multiple
+      type: select_one
       options:
       - U11
       - U12
@@ -175,10 +24,10 @@ inputSchema:
       - U16
       - U17
       - U18
-      required: false
-    - id: 23
+      required: true
+    - id: 3
       name: events_competed
-      label: events_competed
+      label: Which events have you competed in?
       hint: Please select the events that the athlete has competed in
       type: select_multiple
       options:
@@ -193,11 +42,11 @@ inputSchema:
       - Softball
       - Golf
       - Other
-      required: false
-    - id: 24
+      required: true
+    - id: 4
       name: sports_competed
-      label: sports_competed
-      hint: null
+      label: Which sports have you competed in?
+      hint: Please select the sports that the athlete has competed in
       type: select_multiple
       options:
       - Running
@@ -211,96 +60,102 @@ inputSchema:
       - Softball
       - Golf
       - Other
-      required: false
-    - id: 25
+      required: true
+    - id: 5
+      name: gender
+      label: What is your gender?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
       name: sports_competed_other
-      label: sports_competed_other
+      label: Have you competed in any other sports?
       hint: Please enter other sports
       type: text
       options: []
       required: false
-    - id: 26
-      name: sports_competed_other
-      label: sports_competed_other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
+    - id: 7
       name: events_competed_other
-      label: events_competed_other
+      label: Have you competed in any other events?
       hint: Please enter other events
       type: text
       options: []
       required: false
-    - id: 28
-      name: sports_competed
-      label: sports_competed
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 29
-      name: events_competed
-      label: events_competed
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 30
-      name: athlete_gender
-      label: gender
-      hint: null
-      type: text
+    - id: 8
+      name: overall_confidence
+      label: What is your overall confidence level in competitions?
+      hint: On a scale of 1-10
+      type: number
       options: []
-      required: false
-    - id: 31
-      name: athlete_name
-      label: athlete_name
-      hint: null
-      type: text
+      required: true
+    - id: 9
+      name: event_confidence
+      label: How confident are you in your performance in events?
+      hint: On a scale of 1-10
+      type: number
       options: []
-      required: false
-    - id: 32
-      name: sports_competed_other
-      label: sports_competed_other
-      hint: null
-      type: text
+      required: true
+    - id: 10
+      name: competition_confidence
+      label: Competition Confidence
+      hint: On a scale of 1-10
+      type: number
       options: []
-      required: false
-    - id: 33
-      name: events_competed_other
-      label: events_competed_other
-      hint: null
-      type: text
+      required: true
+    - id: 11
+      name: overall_confidence_2
+      label: How confident are you in your overall performance?
+      hint: On a scale of 1-10
+      type: number
       options: []
-      required: false
-    - id: 34
-      name: age_group
-      label: age_group
-      hint: null
-      type: text
+      required: true
+    - id: 12
+      name: training_confidence
+      label: How confident are you in your training?
+      hint: On a scale of 1-10
+      type: number
       options: []
-      required: false
-    - id: 35
-      name: sports_competed
-      label: sports_competed
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 36
-      name: events_competed
-      label: events_competed
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true
+    - id: 13
+      name: performance_event
+      label: Performance Event
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: training_performance
+      label: Training Performance
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: competition_training_confidence
+      label: How confident are you in your performance in competitions?
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: performance_competition
+      label: Performance Competition
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: overall_training_confidence
+      label: How confident are you in your overall training?
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: performance_training
+      label: How confident are you in your performance in training?
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: true

@@ -1,195 +1,184 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Bespoke Interpretation Survey
     pages:
-      - id: 1
-        name: event_details_header
-        label: -- Event Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: event_name
-        label: Event or Meeting Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: event_date
-        label: Date of Event
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: languages_utilized
-        label: Languages Interpreted
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - English
-          - Spanish
-          - French
-          - German
-          - Mandarin Chinese
-          - Japanese
-          - Arabic
-          - Portuguese
-          - Other
-        required: true
-      - id: 5
-        name: interpreter_performance_header
-        label: -- Interpreter Performance --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: interpreter_clarity_rating
-        label: Clarity and Accuracy of Interpretation
-        hint: How clear was the message in the target language
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Poor
-        required: true
-      - id: 7
-        name: subject_matter_knowledge
-        label: Knowledge of Subject Matter
-        hint: Did the interpreter understand technical terms used
-        type: select_one
-        options:
-          - Very Knowledgeable
-          - Somewhat Knowledgeable
-          - Not Knowledgeable
-        required: true
-      - id: 8
-        name: interpreter_professionalism
-        label: Professionalism and Conduct
-        hint: null
-        type: select_one
-        options:
-          - Highly Professional
-          - Professional
-          - Neutral
-          - Unprofessional
-        required: true
-      - id: 9
-        name: technical_quality_header
-        label: -- Technical Quality and Equipment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: audio_clarity_score
-        label: Audio Clarity Rating
-        hint: 1 being very poor, 5 being crystal clear
-        type: select_one
-        options:
-          - 1 - Poor
-          - 2
-          - 3
-          - 4
-          - 5 - Excellent
-        required: true
-      - id: 11
-        name: equipment_reliability
-        label: Reliability of Interpretation Equipment
-        hint: null
-        type: select_one
-        options:
-          - Completely Reliable
-          - Minor Technical Issues
-          - Frequent Interruptions
-          - Failed to Work
-        required: true
-      - id: 12
-        name: platform_ease_of_use
-        label: Ease of Use of Interpretation Platform
-        hint: null
-        type: select_one
-        options:
-          - Very Easy
-          - Moderate
-          - Difficult
-        required: true
-      - id: 13
-        name: overall_satisfaction_header
-        label: -- Overall Satisfaction --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: overall_experience_rating
-        label: Overall Experience Rating
-        hint: Scale of 1 to 10
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-          - 6
-          - 7
-          - 8
-          - 9
-          - 10
-        required: true
-      - id: 15
-        name: future_service_intent
-        label: Would you use this interpretation service again
-        hint: null
-        type: select_one
-        options:
-          - Definitely Yes
-          - Probably Yes
-          - Unsure
-          - No
-        required: true
-      - id: 16
-        name: improvement_recommendations
-        label: Recommendations for Improvement
-        hint: How can we make this service better for you
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: respondent_name
-        label: Your Name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 18
-        name: respondent_organization
-        label: Organization Name
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: respondent_email
-        label: Contact Email Address
-        hint: null
-        type: email
-        options: []
-        required: false
+    - id: 1
+      name: event_details_header
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event or Meeting Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: languages_utilized
+      label: Languages Interpreted
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Mandarin Chinese
+      - Japanese
+      - Arabic
+      - Portuguese
+      - Other
+      required: true
+    - id: 5
+      name: interpreter_performance_header
+      label: -- Interpreter Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: interpreter_clarity_rating
+      label: Clarity and Accuracy of Interpretation
+      hint: How clear was the message in the target language
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 7
+      name: subject_matter_knowledge
+      label: Knowledge of Subject Matter
+      hint: Did the interpreter understand technical terms used
+      type: select_one
+      options:
+      - Very Knowledgeable
+      - Somewhat Knowledgeable
+      - Not Knowledgeable
+      required: true
+    - id: 8
+      name: interpreter_professionalism
+      label: Professionalism and Conduct
+      hint: null
+      type: select_one
+      options:
+      - Highly Professional
+      - Professional
+      - Neutral
+      - Unprofessional
+      required: true
+    - id: 9
+      name: technical_quality_header
+      label: -- Technical Quality and Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: audio_clarity_score
+      label: Audio Clarity Rating
+      hint: 1 being very poor, 5 being crystal clear
+      type: select_one
+      options:
+      - 1 - Poor
+      - '2'
+      - '3'
+      - '4'
+      - 5 - Excellent
+      required: true
+    - id: 11
+      name: equipment_reliability
+      label: Reliability of Interpretation Equipment
+      hint: null
+      type: select_one
+      options:
+      - Completely Reliable
+      - Minor Technical Issues
+      - Frequent Interruptions
+      - Failed to Work
+      required: true
+    - id: 12
+      name: platform_ease_of_use
+      label: Ease of Use of Interpretation Platform
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Moderate
+      - Difficult
+      required: true
+    - id: 13
+      name: overall_satisfaction_header
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: overall_experience_rating
+      label: Overall Experience Rating
+      hint: Scale of 1 to 10
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 15
+      name: future_service_intent
+      label: Would you use this interpretation service again
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - 'False'
+      required: true
+    - id: 16
+      name: improvement_recommendations
+      label: Recommendations for Improvement
+      hint: How can we make this service better for you
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: respondent_organization
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: respondent_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

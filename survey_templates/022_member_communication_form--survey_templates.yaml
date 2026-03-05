@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''label'': ''Both'', ''value'': ''both''}'
-      - '{''label'': ''Never'', ''value'': ''never''}'
+      - Email
+      - Phone
+      - Both
+      - Never
       required: false
     - id: 5
       name: preferred_communication_method
@@ -41,8 +41,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - Email
+      - Phone
       required: false
     - id: 6
       name: communication_frequency
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Once a week'', ''value'': ''once_a_week''}'
-      - '{''label'': ''2-3 times a week'', ''value'': ''2-3_times_a_week''}'
-      - '{''label'': ''Daily'', ''value'': ''daily''}'
+      - Once a week
+      - 2-3 times a week
+      - Daily
       required: false
     - id: 7
       name: preferred_time
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Morning'', ''value'': ''morning''}'
-      - '{''label'': ''Afternoon'', ''value'': ''afternoon''}'
-      - '{''label'': ''Evening'', ''value'': ''evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 9
       name: note
@@ -133,8 +133,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Communicating'', ''value'': ''communicating''}'
-      - '{''label'': ''Not Communicating'', ''value'': ''not_communicating''}'
+      - Communicating
+      - Not Communicating
       required: false
     - id: 18
       name: communication_method
@@ -142,8 +142,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - Email
+      - Phone
       required: false
     - id: 19
       name: note_2

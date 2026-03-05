@@ -4,32 +4,30 @@ inputSchema:
     title: Psa Form
     pages:
     - id: 1
-      name: kids
-      label: kids_list
+      name: kids_count
+      label: How many children do you have?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 2
       name: first_kid_name
-      label: first_kid_name
-      hint: null
+      label: What is the name of your first child?
+      hint: Please enter the name of your first child
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: first_kid_dob
-      label: date_of_birth
-      hint: null
+      label: What is your first child's date of birth?
+      hint: mm/dd/yyyy
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
       name: first_kid_level
-      label: assessment_level
-      hint: null
+      label: What is your first child's assessment level?
+      hint: Select level for your first child
       type: select_one
       options:
       - Level 1
@@ -37,32 +35,36 @@ inputSchema:
       - Level 3
       - Level 4
       - Level 5
-      required: false
+      required: true
     - id: 5
       name: first_kid_medical
-      label: medical_conditions
-      hint: null
-      type: text
-      options: []
-      required: false
+      label: Does your first child have any medical conditions?
+      hint: Select all conditions
+      type: select_multiple
+      options:
+      - None
+      - Condition 1
+      - Condition 2
+      - Condition 3
+      required: true
     - id: 6
       name: second_kid_name
-      label: second_kid_name
-      hint: null
+      label: What is your second child's name?
+      hint: Please enter the name of your second child
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
       name: second_kid_dob
-      label: date_of_birth
-      hint: null
+      label: What is your second child's date of birth?
+      hint: mm/dd/yyyy
       type: date
       options: []
-      required: false
+      required: true
     - id: 8
       name: second_kid_level
-      label: assessment_level
-      hint: null
+      label: What is your second child's assessment level?
+      hint: Select level for your second child
       type: select_one
       options:
       - Level 1
@@ -70,32 +72,36 @@ inputSchema:
       - Level 3
       - Level 4
       - Level 5
-      required: false
+      required: true
     - id: 9
       name: second_kid_medical
-      label: medical_conditions
-      hint: null
-      type: text
-      options: []
-      required: false
+      label: Does your second child have any medical conditions?
+      hint: Select all conditions
+      type: select_multiple
+      options:
+      - None
+      - Condition 1
+      - Condition 2
+      - Condition 3
+      required: true
     - id: 10
       name: third_kid_name
-      label: third_kid_name
-      hint: null
+      label: What is your third child's name?
+      hint: Please enter the name of your third child
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
       name: third_kid_dob
-      label: date_of_birth
-      hint: null
+      label: What is your third child's date of birth?
+      hint: mm/dd/yyyy
       type: date
       options: []
-      required: false
+      required: true
     - id: 12
       name: third_kid_level
-      label: assessment_level
-      hint: null
+      label: What is your third child's assessment level?
+      hint: Select level for your third child
       type: select_one
       options:
       - Level 1
@@ -103,32 +109,36 @@ inputSchema:
       - Level 3
       - Level 4
       - Level 5
-      required: false
+      required: true
     - id: 13
       name: third_kid_medical
-      label: medical_conditions
-      hint: null
-      type: text
-      options: []
-      required: false
+      label: Does your third child have any medical conditions?
+      hint: Select all conditions
+      type: select_multiple
+      options:
+      - None
+      - Condition 1
+      - Condition 2
+      - Condition 3
+      required: true
     - id: 14
       name: fourth_kid_name
-      label: fourth_kid_name
-      hint: null
+      label: What is your fourth child's name?
+      hint: Please enter the name of your fourth child
       type: text
       options: []
       required: false
     - id: 15
       name: fourth_kid_dob
-      label: date_of_birth
-      hint: null
+      label: What is your fourth child's date of birth?
+      hint: mm/dd/yyyy
       type: date
       options: []
       required: false
     - id: 16
       name: fourth_kid_level
-      label: assessment_level
-      hint: null
+      label: What is your fourth child's assessment level?
+      hint: Select level for your fourth child
       type: select_one
       options:
       - Level 1
@@ -139,29 +149,33 @@ inputSchema:
       required: false
     - id: 17
       name: fourth_kid_medical
-      label: medical_conditions
-      hint: null
-      type: text
-      options: []
+      label: Does your fourth child have any medical conditions?
+      hint: Select all conditions
+      type: select_multiple
+      options:
+      - None
+      - Condition 1
+      - Condition 2
+      - Condition 3
       required: false
     - id: 18
       name: fifth_kid_name
-      label: fifth_kid_name
-      hint: null
+      label: What is your fifth child's name?
+      hint: Please enter the name of your fifth child
       type: text
       options: []
       required: false
     - id: 19
       name: fifth_kid_dob
-      label: date_of_birth
-      hint: null
+      label: What is your fifth child's date of birth?
+      hint: mm/dd/yyyy
       type: date
       options: []
       required: false
     - id: 20
       name: fifth_kid_level
-      label: assessment_level
-      hint: null
+      label: What is your fifth child's assessment level?
+      hint: Select level for your fifth child
       type: select_one
       options:
       - Level 1
@@ -172,29 +186,37 @@ inputSchema:
       required: false
     - id: 21
       name: fifth_kid_medical
-      label: medical_conditions
-      hint: null
-      type: text
-      options: []
+      label: Does your fifth child have any medical conditions?
+      hint: Select all conditions
+      type: select_multiple
+      options:
+      - None
+      - Condition 1
+      - Condition 2
+      - Condition 3
       required: false
     - id: 22
       name: media_declaration
-      label: media_declaration
-      hint: null
-      type: text
-      options: []
-      required: false
+      label: Do you consent to the collection and use of your child's information
+        for the purpose of this assessment?
+      hint: None
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Decline
+      required: true
     - id: 23
       name: terms
-      label: terms_and_conditions
-      hint: null
+      label: Terms and Conditions
+      hint: None
       type: text
       options: []
       required: false
     - id: 24
       name: agreement
-      label: confirm
-      hint: null
+      label: Confirmation
+      hint: None
       type: select_one
       options:
       - 'True'

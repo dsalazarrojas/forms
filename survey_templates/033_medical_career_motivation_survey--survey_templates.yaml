@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''High School''}'
-      - '{''id'': 3, ''label'': ''Undergraduate''}'
-      - '{''id'': 4, ''label'': "Master''s"}'
-      - '{''id'': 5, ''label'': ''PhD''}'
+      - None
+      - High School
+      - Undergraduate
+      - Master's
+      - PhD
       required: false
     - id: 3
       name: family_background
@@ -39,11 +28,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Biological''}'
-      - '{''id'': 3, ''label'': ''Adoptive''}'
-      - '{''id'': 4, ''label'': ''Foster''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - None
+      - Biological
+      - Adoptive
+      - Foster
+      - Other
       required: false
     - id: 4
       name: career_challenge
@@ -58,11 +47,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Physician''}'
-      - '{''id'': 3, ''label'': ''Researcher''}'
-      - '{''id'': 4, ''label'': ''Teacher''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - None
+      - Physician
+      - Researcher
+      - Teacher
+      - Other
       required: false
     - id: 6
       name: career_pursuit
@@ -70,12 +59,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Personal Interest''}'
-      - '{''id'': 2, ''label'': ''Family Obligation''}'
-      - '{''id'': 3, ''label'': ''Financial''}'
-      - '{''id'': 4, ''label'': ''Social Impact''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - None
+      - Personal Interest
+      - Family Obligation
+      - Financial
+      - Social Impact
+      - Other
       required: false
     - id: 7
       name: job_satisfaction
@@ -83,11 +72,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Very Satisfied''}'
-      - '{''id'': 3, ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 4, ''label'': ''Somewhat Dissatisfied''}'
-      - '{''id'': 5, ''label'': ''Very Dissatisfied''}'
+      - None
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 8
       name: medical_field
@@ -95,10 +84,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Primary Care''}'
-      - '{''id'': 3, ''label'': ''Specialty Care''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - None
+      - Primary Care
+      - Specialty Care
+      - Other
       required: false
     - id: 9
       name: job_security
@@ -106,11 +95,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Very Secure''}'
-      - '{''id'': 3, ''label'': ''Somewhat Secure''}'
-      - '{''id'': 4, ''label'': ''Somewhat Insecure''}'
-      - '{''id'': 5, ''label'': ''Very Insecure''}'
+      - None
+      - Very Secure
+      - Somewhat Secure
+      - Somewhat Insecure
+      - Very Insecure
       required: false
     - id: 10
       name: education_influences
@@ -119,12 +108,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Personal Interest''}'
-      - '{''id'': 3, ''label'': ''Family Obligation''}'
-      - '{''id'': 4, ''label'': ''Financial''}'
-      - '{''id'': 5, ''label'': ''Social Impact''}'
-      - '{''id'': 6, ''label'': ''Other''}'
+      - None
+      - Personal Interest
+      - Family Obligation
+      - Financial
+      - Social Impact
+      - Other
       required: false
     - id: 11
       name: work_life_balance
@@ -147,11 +136,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Clinical''}'
-      - '{''id'': 3, ''label'': ''Teaching''}'
-      - '{''id'': 4, ''label'': ''Research''}'
-      - '{''id'': 5, ''label'': ''Administration''}'
+      - None
+      - Clinical
+      - Teaching
+      - Research
+      - Administration
       required: false
     - id: 14
       name: job_satisfaction_growth_2
@@ -159,11 +148,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Very Satisfied''}'
-      - '{''id'': 3, ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 4, ''label'': ''Somewhat Dissatisfied''}'
-      - '{''id'': 5, ''label'': ''Very Dissatisfied''}'
+      - None
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 15
       name: role_models
@@ -171,11 +160,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Physician''}'
-      - '{''id'': 3, ''label'': ''Researcher''}'
-      - '{''id'': 4, ''label'': ''Teacher''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - None
+      - Physician
+      - Researcher
+      - Teacher
+      - Other
       required: false
     - id: 16
       name: career_satisfaction
@@ -183,11 +172,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Very Satisfied''}'
-      - '{''id'': 3, ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 4, ''label'': ''Somewhat Dissatisfied''}'
-      - '{''id'': 5, ''label'': ''Very Dissatisfied''}'
+      - None
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 17
       name: job_satisfaction
@@ -195,11 +184,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Very Satisfied''}'
-      - '{''id'': 3, ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 4, ''label'': ''Somewhat Dissatisfied''}'
-      - '{''id'': 5, ''label'': ''Very Dissatisfied''}'
+      - None
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 18
       name: role_model
@@ -214,11 +203,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Very Secure''}'
-      - '{''id'': 3, ''label'': ''Somewhat Secure''}'
-      - '{''id'': 4, ''label'': ''Somewhat Insecure''}'
-      - '{''id'': 5, ''label'': ''Very Insecure''}'
+      - None
+      - Very Secure
+      - Somewhat Secure
+      - Somewhat Insecure
+      - Very Insecure
       required: false
     - id: 20
       name: education_influences_2
@@ -226,12 +215,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Personal Interest''}'
-      - '{''id'': 3, ''label'': ''Family Obligation''}'
-      - '{''id'': 4, ''label'': ''Financial''}'
-      - '{''id'': 5, ''label'': ''Social Impact''}'
-      - '{''id'': 6, ''label'': ''Other''}'
+      - None
+      - Personal Interest
+      - Family Obligation
+      - Financial
+      - Social Impact
+      - Other
       required: false
     - id: 21
       name: work_life_balance_2
@@ -247,10 +236,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Personal Interest''}'
-      - '{''id'': 2, ''label'': ''Family Obligation''}'
-      - '{''id'': 3, ''label'': ''Financial''}'
-      - '{''id'': 4, ''label'': ''Social Impact''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - None
+      - Personal Interest
+      - Family Obligation
+      - Financial
+      - Social Impact
+      - Other
       required: false

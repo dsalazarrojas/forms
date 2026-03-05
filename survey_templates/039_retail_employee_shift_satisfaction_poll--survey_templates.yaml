@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
-      - '{''value'': ''Night''}'
+      - Morning
+      - Afternoon
+      - Night
       required: false
     - id: 3
       name: start_time
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''On Time''}'
-      - '{''value'': ''Late''}'
-      - '{''value'': ''Absent''}'
+      - On Time
+      - Late
+      - Absent
       required: false
     - id: 7
       name: satisfaction_level
@@ -57,10 +57,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Very Satisfied''}'
-      - '{''value'': ''Somewhat Satisfied''}'
-      - '{''value'': ''Somewhat Dissatisfied''}'
-      - '{''value'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 8
       name: reasons_for_satisfaction

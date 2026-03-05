@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''User A''}'
-      - '{''name'': ''User B''}'
-      - '{''name'': ''User C''}'
+      - User A
+      - User B
+      - User C
       required: false
     - id: 5
       name: review_status
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Approved''}'
-      - '{''name'': ''Rejected''}'
-      - '{''name'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: false
     - id: 6
       name: script_type
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Regression''}'
-      - '{''name'': ''Sanity''}'
-      - '{''name'': ''Functional''}'
+      - Regression
+      - Sanity
+      - Functional
       required: false
     - id: 7
       name: script_description

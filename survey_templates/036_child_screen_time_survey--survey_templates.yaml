@@ -23,16 +23,11 @@ inputSchema:
       hint: Select the appropriate age group
       type: select_one
       options:
-      - label: Under 2 years
-        value: baby
-      - label: 2 to 5 years
-        value: toddler
-      - label: 6 to 10 years
-        value: child
-      - label: 11 to 13 years
-        value: tween
-      - label: 14 to 17 years
-        value: teen
+      - Under 2 years
+      - 2 to 5 years
+      - 6 to 10 years
+      - 11 to 13 years
+      - 14 to 17 years
       required: true
     - id: 4
       name: section_daily_usage
@@ -54,16 +49,11 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - label: Smartphone
-        value: phone
-      - label: Tablet or IPad
-        value: tablet
-      - label: Television
-        value: tv
-      - label: Computer or Laptop
-        value: computer
-      - label: Gaming Console
-        value: console
+      - Smartphone
+      - Tablet or IPad
+      - Television
+      - Computer or Laptop
+      - Gaming Console
       required: true
     - id: 7
       name: section_supervision
@@ -78,16 +68,11 @@ inputSchema:
       hint: What does the child do most?
       type: select_multiple
       options:
-      - label: Educational games and apps
-        value: educational
-      - label: Videos or YouTube
-        value: videos
-      - label: Social media or Messaging
-        value: social
-      - label: Entertainment Video games
-        value: gaming
-      - label: School work and Research
-        value: school
+      - Educational games and apps
+      - Videos or YouTube
+      - Social media or Messaging
+      - Entertainment Video games
+      - School work and Research
       required: true
     - id: 9
       name: parental_controls
@@ -95,12 +80,9 @@ inputSchema:
       hint: Filtering or monitoring software
       type: select_one
       options:
-      - label: Yes - Always Active
-        value: always
-      - label: Yes - Sometimes Active
-        value: sometimes
-      - label: No - Not used
-        value: false
+      - Yes - Always Active
+      - Yes - Sometimes Active
+      - No - Not used
       required: true
     - id: 10
       name: time_limit_status
@@ -108,10 +90,8 @@ inputSchema:
       hint: Enforced boundaries
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: section_impact
@@ -126,12 +106,9 @@ inputSchema:
       hint: General mood and focus
       type: select_one
       options:
-      - label: Positively - Helps learning
-        value: positive
-      - label: Neutrally - No major change
-        value: neutral
-      - label: Negatively - Causes irritability
-        value: negative
+      - Positively - Helps learning
+      - Neutrally - No major change
+      - Negatively - Causes irritability
       required: true
     - id: 13
       name: screen_habits_comments

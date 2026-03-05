@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Less than $25,000''}'
-      - '{''label'': ''$25,000 - $50,000''}'
-      - '{''label'': ''$50,000 - $75,000''}'
-      - '{''label'': ''$75,000 - $100,000''}'
-      - '{''label'': ''More than $100,000''}'
+      - Less than $25,000
+      - $25,000 - $50,000
+      - $50,000 - $75,000
+      - $75,000 - $100,000
+      - More than $100,000
       required: true
     - id: 6
       name: savings_rate
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Bank''}'
-      - '{''label'': ''Credit Union''}'
-      - '{''label'': ''Other''}'
+      - Bank
+      - Credit Union
+      - Other
       required: true
     - id: 8
       name: money_source
@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Savings''}'
-      - '{''label'': ''Investments''}'
-      - '{''label'': ''Other''}'
+      - Savings
+      - Investments
+      - Other
       required: true
     - id: 9
       name: money_use
@@ -76,10 +76,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Housing''}'
-      - '{''label'': ''Transportation''}'
-      - '{''label'': ''Food''}'
-      - '{''label'': ''Other''}'
+      - Housing
+      - Transportation
+      - Food
+      - Other
       required: true
     - id: 10
       name: financial_goal
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Short term (less than 6 months)''}'
-      - '{''label'': ''Medium term (6-12 months)''}'
-      - '{''label'': ''Long term (more than 12 months)''}'
+      - Short term (less than 6 months)
+      - Medium term (6-12 months)
+      - Long term (more than 12 months)
       required: true
     - id: 11
       name: money_awareness
@@ -97,10 +97,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very low''}'
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''High''}'
+      - Very low
+      - Low
+      - Medium
+      - High
       required: true
     - id: 12
       name: follow_up

@@ -9,26 +9,27 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Coach 1
+      - Coach 2
+      - Coach 3
       required: false
     - id: 2
-      name: favorite_coach_id_1
-      label: Coach 1
+      name: coach_1_info
+      label: Coach 1 Info
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: favorite_coach_id_2
-      label: Coach 2
+      name: coach_2_info
+      label: Coach 2 Info
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: favorite_coach_id_3
-      label: Coach 3
+      name: coach_3_info
+      label: Coach 3 Info
       hint: null
       type: text
       options: []
@@ -41,44 +42,100 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: feedback
-      label: Feedback
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: additional_feedback
+      label: Additional Feedback
       hint: null
       type: note
       options: []
       required: false
-    - id: 7
-      name: coach_id_1
-      label: Coach 1
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 8
-      name: coach_id_2
-      label: Coach 2
+      name: coach_1_feedback
+      label: Coach 1 Feedback
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 9
-      name: coach_id_3
-      label: Coach 3
+      name: coach_2_feedback
+      label: Coach 2 Feedback
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 10
-      name: vote_for_coach_id
-      label: Vote For Coach
+      name: coach_3_feedback
+      label: Coach 3 Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: coach_1_name
+      label: Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: email
-      label: email
+    - id: 12
+      name: coach_1_team
+      label: Team
       hint: null
-      type: email
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: coach_1_bio
+      label: Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: coach_2_name
+      label: Coach 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: coach_2_team
+      label: Coach 2 Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coach_2_bio
+      label: Coach 2 Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: coach_3_name
+      label: Coach 3 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: coach_3_team
+      label: Coach 3 Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coach_3_bio
+      label: Coach 3 Bio
+      hint: null
+      type: text
       options: []
       required: false

@@ -4,195 +4,114 @@ inputSchema:
     title: House Painting Estimate Form
     pages:
     - id: 1
-      name: house_painting_estimate_form_first_page
-      label: First Page
+      name: intro_page
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: house_painting_estimate_form_first_page_2
-      label: Second Page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: first_page_first_field
+      name: house_type
       label: House Type
-      hint: null
-      type: select_multiple
+      hint: Select your house type
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: first_page_first_field_2
+      - Single-family home
+      - Condo
+      - Townhouse
+      - Other (please specify)
+      required: true
+    - id: 3
+      name: painting_area
       label: Painting Area
-      hint: null
+      hint: List the areas to be painted
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: first_page_first_field_3
+      - Living room
+      - Kitchen
+      - Dining room
+      - Bedroom 1
+      - Bedroom 2
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: color_scheme
       label: Color Scheme
-      hint: null
-      type: select_multiple
+      hint: Select your color scheme
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: first_page_first_field_4
+      - Primary color 1
+      - Secondary color 1
+      - Accent color 1
+      - Other (please specify)
+      required: true
+    - id: 5
+      name: stories
       label: Number of Stories
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: first_page_first_field_5
-      label: Room Count
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: first_page_last_field
-      label: Special Requests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: second_page_first_field
-      label: Painting Service
-      hint: null
+      hint: Select the number of stories
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 10
-      name: second_page_first_field_2
-      label: Paint Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: second_page_first_field_3
-      label: Paint Color
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: second_page_last_field
-      label: Special Requests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: house_painting_estimate_form_last_page
-      label: Last Page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: house_painting_estimate_form_last_page_2
-      label: Last Page 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: last_page_first_field
-      label: Total Cost
-      hint: null
+      - Other
+      required: true
+    - id: 6
+      name: rooms
+      label: Number of Rooms
+      hint: Count the number of rooms
       type: number
       options: []
+      required: true
+    - id: 7
+      name: special_requests
+      label: Special Requests
+      hint: Add any special notes
+      type: text
+      options: []
       required: false
-    - id: 16
-      name: last_page_first_field_2
+    - id: 8
+      name: painting_service
+      label: Painting Service
+      hint: Do you need painting service?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: paint_color
+      label: Paint Color
+      hint: Select your paint color
+      type: select_one
+      options:
+      - White
+      - Red
+      - Blue
+      - Other (please specify)
+      required: true
+    - id: 10
+      name: payment_method
       label: Payment Method
-      hint: null
+      hint: Select your payment method
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: last_page_last_field
+      - Check
+      - Credit card
+      - Other (please specify)
+      required: true
+    - id: 11
+      name: confirm
       label: Confirm
-      hint: null
+      hint: Confirm the details
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: first_page_last_field
-      label: None
-      hint: null
-      type: text
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: total_cost
+      label: Total Cost
+      hint: Enter the total cost
+      type: number
       options: []
-      required: false
-    - id: 19
-      name: first_page_last_field_2
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: last_page_last_field_2
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: last_page_last_field_3
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: last_page_last_field_4
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: last_page_last_field_5
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: last_page_last_field_6
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: last_page_last_field_7
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

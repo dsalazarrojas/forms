@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''eco_friendly'', ''label'': ''Eco-friendly''}'
-      - '{''id'': 2, ''name'': ''sustainable'', ''label'': ''Sustainable''}'
-      - '{''id'': 3, ''name'': ''not_important'', ''label'': ''Not important''}'
+      - Eco-friendly
+      - Sustainable
+      - Not important
       required: true
     - id: 3
       name: gift_motivation
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''experience'', ''label'': ''Experience''}'
-      - '{''id'': 2, ''name'': ''physical'', ''label'': ''Physical''}'
-      - '{''id'': 3, ''name'': ''digital'', ''label'': ''Digital''}'
-      - '{''id'': 4, ''name'': ''other'', ''label'': ''Other''}'
+      - Experience
+      - Physical
+      - Digital
+      - Other
       required: false
     - id: 5
       name: email
@@ -86,12 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''eco_friendly_repeat'', ''label'': ''Eco-friendly'',
-        ''hint'': None, ''required'': True}'
-      - '{''id'': 2, ''name'': ''sustainable_repeat'', ''label'': ''Sustainable'',
-        ''hint'': None}'
-      - '{''id'': 3, ''name'': ''not_important_repeat'', ''label'': ''Not important'',
-        ''hint'': None}'
+      - Eco-friendly
+      - Sustainable
+      - Not important
       required: true
     - id: 12
       name: gift_motivation_repeat
@@ -106,13 +103,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''experience_repeat'', ''label'': ''Experience'', ''hint'':
-        None}'
-      - '{''id'': 2, ''name'': ''physical_repeat'', ''label'': ''Physical'', ''hint'':
-        None}'
-      - '{''id'': 3, ''name'': ''digital_repeat'', ''label'': ''Digital'', ''hint'':
-        None}'
-      - '{''id'': 4, ''name'': ''other_repeat'', ''label'': ''Other'', ''hint'': None}'
+      - Experience
+      - Physical
+      - Digital
+      - Other
       required: false
     - id: 14
       name: email_repeat

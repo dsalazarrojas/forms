@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Service'', ''value'': ''Service''}'
-      - '{''label'': ''Delivery'', ''value'': ''Delivery''}'
-      - '{''label'': ''Package'', ''value'': ''Package''}'
+      - Service
+      - Delivery
+      - Package
       required: false
     - id: 2
       name: client_details
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
-      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 4
       name: estimated_cost
@@ -50,7 +50,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
-      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false

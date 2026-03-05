@@ -4,8 +4,8 @@ inputSchema:
     title: Student Food Survey Template
     pages:
     - id: 1
-      name: student_survey
-      label: student_food_survey
+      name: eat_fruits
+      label: Do you eat fruits?
       hint: null
       type: select_multiple
       options:
@@ -13,33 +13,35 @@ inputSchema:
       - 'No'
       required: false
     - id: 2
-      name: food_preferences
-      label: favorite_foods
+      name: how_often_fruits
+      label: How often do you eat fruits?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Apple Pie
-      - Banana
-      - Orange
-      - Pizza
-      required: true
+      - 'Yes'
+      - 'No'
+      required: false
     - id: 3
-      name: eating_report
-      label: what_do_you_eat
+      name: eat_vegetables
+      label: Do you eat vegetables?
       hint: null
-      type: note
-      options: []
-      required: true
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
     - id: 4
-      name: survey_frequency
-      label: how_often_do_you_eat
+      name: how_often_vegetables
+      label: How often do you eat vegetables?
       hint: null
-      type: number
-      options: []
-      required: true
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
     - id: 5
-      name: meal_frequency
-      label: meal_frequency
+      name: eat_pizza
+      label: Do you eat pizza?
       hint: null
       type: select_multiple
       options:
@@ -47,17 +49,17 @@ inputSchema:
       - 'No'
       required: false
     - id: 6
-      name: eating_frequency
-      label: eating_frequency
+      name: how_often_pizza
+      label: How often do you eat pizza?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 7
-      name: food_preferences_fruit
-      label: favorite_fruits
+      name: drink_beverages
+      label: Do you drink beverages?
       hint: null
       type: select_multiple
       options:
@@ -65,8 +67,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 8
-      name: food_preferences_vegetable
-      label: favorite_vegetables
+      name: how_often_drinks
+      label: How often do you drink?
       hint: null
       type: select_multiple
       options:
@@ -74,8 +76,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 9
-      name: survey_frequency_vegetable
-      label: how_often_do_you_eat_vegetables
+      name: eat_snacks
+      label: Do you eat snacks?
       hint: null
       type: select_multiple
       options:
@@ -83,8 +85,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 10
-      name: survey_frequency_fruit
-      label: how_often_do_you_eat_fruit
+      name: how_often_snacks
+      label: How often do you eat snacks?
       hint: null
       type: select_multiple
       options:
@@ -92,8 +94,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 11
-      name: survey_frequency_pizza
-      label: how_often_do_you_eat_pizza
+      name: eat_morning
+      label: Do you eat in the morning?
       hint: null
       type: select_multiple
       options:
@@ -101,125 +103,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 12
-      name: survey_frequency_other
-      label: how_often_do_you_eat_other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: favorite_liquid
-      label: favorite_drinks
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: survey_frequency_liquid
-      label: how_often_do_you_drink
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: favorite_solid
-      label: favorite_snacks
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: survey_frequency_solid
-      label: how_often_do_you_eat_solid
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: meal_frequency_morning
-      label: morning
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: meal_frequency_afternoon
-      label: afternoon
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: meal_frequency_night
-      label: night
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: survey_frequency_morning
-      label: how_often_morning
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: survey_frequency_afternoon
-      label: how_often_afternoon
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: survey_frequency_night
-      label: how_often_night
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: food_preference_vegetable
-      label: favorite_vegetables
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: food_preference_solid
-      label: favorite_snacks
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: food_preference_fruit
-      label: favorite_fruits
+      name: how_often_morning
+      label: How often do you eat in the morning?
       hint: null
       type: select_multiple
       options:

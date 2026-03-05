@@ -5,224 +5,112 @@ inputSchema:
     pages:
     - id: 1
       name: sports_equipment_usability_feedback_survey_1
-      label: Sports equipment usability feedback survey
-      hint: null
-      type: text
-      options: []
-      required: false
+      label: What type of sports do you enjoy?
+      hint: Please select one or more sports that you are interested in playing with
+        this equipment.
+      type: select_multiple
+      options:
+      - Basketball
+      - Soccer
+      - Tennis
+      - Other
+      - Specify other
+      required: true
     - id: 2
-      name: rating_1
-      label: Overall usability of sports equipment
-      hint: null
+      name: overall_usability
+      label: Overall usability of equipment
+      hint: Rate the overall usability of this equipment from 1 to 5.
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: rating_1_hints_1
+      name: rating_overall_usability
       label: What do you like about this equipment?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Fair''}'
-      required: false
-    - id: 4
-      name: rating_2
-      label: Overall usability of equipment in terms of comfort
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: rating_2_hints_1
-      label: What do you like about this equipment?
-      hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''Good''}'
-      - '{''option2'': ''Fair''}'
-      - '{''option3'': ''Not at all''}'
-      required: false
-    - id: 6
-      name: rating_3
-      label: Overall usability of equipment in terms of performance
-      hint: null
+      hint: Please specify the reasons why you liked this equipment.
       type: text
       options: []
-      required: false
-    - id: 7
-      name: rating_3_hints_1
-      label: What do you like about this equipment?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Fair''}'
-      required: false
-    - id: 8
-      name: rating_4
-      label: Overall usability of equipment in terms of durability
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Fair''}'
-      required: false
-    - id: 9
-      name: rating_4_hints_1
-      label: What do you like about this equipment?
-      hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Not at all''}'
-      required: false
-    - id: 10
-      name: rating_5
-      label: Overall usability of equipment in terms of aesthetic appeal
-      hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Not at all''}'
-      required: false
-    - id: 11
-      name: rating_5_hints_1
-      label: What do you like about this equipment?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Fair''}'
-      required: false
-    - id: 12
-      name: rating_6
-      label: Overall usability of equipment in terms of ease of use
-      hint: null
+      required: true
+    - id: 4
+      name: overall_comfort
+      label: Overall comfort of equipment
+      hint: Rate the overall comfort of this equipment from 1 to 5.
       type: number
       options: []
-      required: false
-    - id: 13
-      name: rating_6_hints_1
-      label: What do you like about this equipment?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Fair''}'
-      required: false
-    - id: 14
-      name: rating_7
-      label: Overall usability of equipment in terms of price
-      hint: null
+      required: true
+    - id: 5
+      name: rating_overall_comfort
+      label: What do you like about this equipment's comfort?
+      hint: Please specify the reasons why you liked this equipment's comfort.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: overall_performance
+      label: Overall performance of equipment
+      hint: Rate the overall performance of this equipment from 1 to 5.
       type: number
+      options: []
+      required: true
+    - id: 7
+      name: rating_overall_performance
+      label: What do you like about this equipment's performance?
+      hint: Please specify the reasons why you liked this equipment's performance.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: overall_price
+      label: Overall price of equipment
+      hint: Rate the overall price of this equipment from 1 to 5.
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: rating_overall_price
+      label: What do you like about this equipment's price?
+      hint: Please specify the reasons why you liked this equipment's price.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: overall_ease_of_use
+      label: Overall ease of use of this equipment
+      hint: Rate the overall ease of use of this equipment from 1 to 5.
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: rating_overall_ease_of_use
+      label: What do you like about this equipment's ease of use?
+      hint: Please specify the reasons why you liked this equipment's ease of use.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: overall_value_for_money
+      label: Overall value for money of this equipment
+      hint: Rate the overall value for money of this equipment from 1 to 5.
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: rating_overall_value_for_money
+      label: What do you like about this equipment's value for money?
+      hint: Please specify the reasons why you liked this equipment's value for money.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: overall_improvement_suggestions
+      label: Overall improvement suggestions for this equipment
+      hint: Please specify any suggestions you have for improving this equipment.
+      type: text
       options: []
       required: false
     - id: 15
-      name: rating_7_hints_1
-      label: What do you like about this equipment?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Fair''}'
-      required: false
-    - id: 16
-      name: rating_8
-      label: Overall usability of equipment in terms of ease of cleaning
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: rating_8_hints_1
-      label: What do you like about this equipment?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Fair''}'
-      required: false
-    - id: 18
-      name: rating_9
-      label: Overall usability of equipment in terms of value for money
-      hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Not at all''}'
-      required: false
-    - id: 19
-      name: rating_9_hints_1
-      label: What do you like about this equipment?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Fair''}'
-      required: false
-    - id: 20
-      name: rating_10
-      label: Overall usability of equipment in terms of overall satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: rating_10_hints_1
-      label: What do you like about this equipment?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Fair''}'
-      required: false
-    - id: 22
-      name: rating_11
-      label: Overall usability of equipment in terms of improvement suggestions
-      hint: null
+      name: rating_overall_improvement_suggestions
+      label: Rating Overall Improvement Suggestions
+      hint: Please specify the reasons why you liked this equipment.
       type: text
       options: []
-      required: false
-    - id: 23
-      name: rating_11_hints_1
-      label: What do you like about this equipment?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Fair''}'
-      required: false
-    - id: 24
-      name: rating_12
-      label: Overall usability of equipment in terms of overall satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Fair''}'
-      required: false
-    - id: 25
-      name: rating_12_hints_1
-      label: What do you like about this equipment?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Excellent''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Fair''}'
       required: false

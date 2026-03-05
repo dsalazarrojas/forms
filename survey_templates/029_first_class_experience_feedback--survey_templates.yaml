@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''route_1''}'
-      - '{''id'': 2, ''name'': ''route_2''}'
-      - '{''id'': 3, ''name'': ''route_3''}'
+      - route 1
+      - route 2
+      - route 3
       required: false
     - id: 3
       name: airline
@@ -26,8 +26,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''airline_1''}'
-      - '{''id'': 2, ''name'': ''airline_2''}'
+      - airline 1
+      - airline 2
       required: true
     - id: 4
       name: flight_number
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''First Class''}'
-      - '{''id'': 2, ''name'': ''Business Class''}'
-      - '{''id'': 3, ''name'': ''Economy Class''}'
+      - First Class
+      - Business Class
+      - Economy Class
       required: false
     - id: 8
       name: cabin_service
@@ -66,10 +66,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''excellent''}'
-      - '{''id'': 2, ''name'': ''good''}'
-      - '{''id'': 3, ''name'': ''fair''}'
-      - '{''id'': 4, ''name'': ''poor''}'
+      - excellent
+      - good
+      - fair
+      - poor
       required: false
     - id: 9
       name: food_quality
@@ -77,10 +77,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''excellent''}'
-      - '{''id'': 2, ''name'': ''good''}'
-      - '{''id'': 3, ''name'': ''fair''}'
-      - '{''id'': 4, ''name'': ''poor''}'
+      - excellent
+      - good
+      - fair
+      - poor
       required: false
     - id: 10
       name: overall_experience
@@ -88,10 +88,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_good''}'
-      - '{''id'': 2, ''name'': ''good''}'
-      - '{''id'': 3, ''name'': ''fair''}'
-      - '{''id'': 4, ''name'': ''poor''}'
+      - very good
+      - good
+      - fair
+      - poor
       required: false
     - id: 11
       name: comments

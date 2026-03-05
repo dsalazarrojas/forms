@@ -4,211 +4,127 @@ inputSchema:
     title: Judgment And Repentance Survey
     pages:
     - id: 1
-      name: introduction
-      label: introduction
+      name: intro
+      label: Introduction
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: reflection
-      label: reflection
+      label: How did you feel after committing the behavior?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: remorse
-      label: remorse
+      name: remorse_nature
+      label: What was the nature of your remorse after the behavior?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: forgiveness
-      label: forgiveness
+      name: remorse_response
+      label: How did you respond to your remorse?
       hint: null
       type: select_one
       options:
-      - 'yes'
-      - 'no'
+      - 'Yes'
+      - 'No'
       required: true
     - id: 5
-      name: repentance
-      label: repentance
+      name: remorse_frequency
+      label: How often do you experience feelings of remorse after your actions?
       hint: null
-      type: select_multiple
-      options:
-      - 'yes'
-      - 'no'
+      type: text
+      options: []
       required: true
     - id: 6
-      name: attitude
-      label: attitude
+      name: remorse_strength
+      label: How strongly do you associate remorse with personal change?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: remorse_scale
-      label: remorse_scale
+      name: self_reflection_attitude
+      label: What is your attitude towards self-reflection and introspection?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: remorse_scale_description
-      label: remorse_scale_description
+      name: remorse_guilt
+      label: What is the relationship between remorse and personal growth?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: repentance_scale
-      label: repentance_scale
+      name: remorse_in_others
+      label: How do you respond to feelings of remorse in others?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 10
-      name: remorse_scale_description
-      label: remorse_scale_description
+      name: guilt_frequency
+      label: How often do you experience feelings of guilt after your actions?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: remorse_scale_value
-      label: remorse_scale_value
+      name: remorse_intensity
+      label: What is the value of remorse in personal and social relationships?
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: repentance_scale_value
-      label: repentance_scale_value
+      name: remorse_measurement
+      label: How do you measure the intensity of remorse?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 13
-      name: remorse_frequency
-      label: remorse_frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: remorse_frequency_description
-      label: remorse_frequency_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: remorse_intensity
-      label: remorse_intensity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: remorse_intensity_description
-      label: remorse_intensity_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
       name: repentance_frequency
-      label: repentance_frequency
+      label: How frequently do you repent for past actions?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 18
-      name: repentance_frequency_description
-      label: repentance_frequency_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: remorse_intensity
-      label: remorse_intensity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: remorse_intensity_description
-      label: remorse_intensity_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: repentance_intensity
-      label: repentance_intensity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: remorse_value
-      label: remorse_value
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: remorse_value_description
-      label: remorse_value_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: repentance_value
-      label: repentance_value
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: repentance_value_description
-      label: repentance_value_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: submission_date
-      label: submission_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 28
-      name: submission_time
-      label: submission_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 29
+      required: true
+    - id: 14
       name: submit
-      label: submit
+      label: Submit
       hint: null
       type: select_one
       options:
       - submit
       - Other
       required: true
+    - id: 15
+      name: submission
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

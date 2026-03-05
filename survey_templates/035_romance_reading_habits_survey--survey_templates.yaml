@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''authors''}'
-      - '{''value'': ''publishers''}'
-      - '{''value'': ''librarians''}'
-      - '{''value'': ''book_communities''}'
+      - authors
+      - publishers
+      - librarians
+      - book communities
       required: false
     - id: 3
       name: reading_frequency
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 4
       name: reading_length
@@ -51,14 +51,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Romance''}'
-      - '{''value'': ''Fiction''}'
-      - '{''value'': ''Non-Fiction''}'
-      - '{''value'': ''Fantasy''}'
-      - '{''value'': ''Mystery''}'
-      - '{''value'': ''Thriller''}'
-      - '{''value'': ''Horror''}'
-      - '{''value'': ''Science Fiction''}'
+      - Romance
+      - Fiction
+      - Non-Fiction
+      - Fantasy
+      - Mystery
+      - Thriller
+      - Horror
+      - Science Fiction
       required: false
     - id: 7
       name: favorite_author
@@ -75,10 +75,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Hardcover''}'
-      - '{''value'': ''Paperback''}'
-      - '{''value'': ''E-Book''}'
-      - '{''value'': ''Audiobook''}'
+      - Hardcover
+      - Paperback
+      - E-Book
+      - Audiobook
       required: false
     - id: 9
       name: recommended_source
@@ -86,10 +86,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Book Clubs''}'
-      - '{''value'': ''Online Communities''}'
-      - '{''value'': ''Social Media''}'
-      - '{''value'': ''Friends''}'
+      - Book Clubs
+      - Online Communities
+      - Social Media
+      - Friends
       required: false
     - id: 10
       name: preferred_book_length
@@ -97,13 +97,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Short Story Collection''}'
-      - '{''value'': ''100-200 pages''}'
-      - '{''value'': ''200-300 pages''}'
-      - '{''value'': ''300-400 pages''}'
-      - '{''value'': ''400-600 pages''}'
-      - '{''value'': ''600-800 pages''}'
-      - '{''value'': ''800+ pages''}'
+      - Short Story Collection
+      - 100-200 pages
+      - 200-300 pages
+      - 300-400 pages
+      - 400-600 pages
+      - 600-800 pages
+      - 800+ pages
       required: false
     - id: 11
       name: preferred_format
@@ -111,9 +111,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Physical Book''}'
-      - '{''value'': ''E-Book''}'
-      - '{''value'': ''Audiobook''}'
+      - Physical Book
+      - E-Book
+      - Audiobook
       required: false
     - id: 12
       name: reading_device
@@ -121,11 +121,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''E-Reader''}'
-      - '{''value'': ''Tablet''}'
-      - '{''value'': ''Smartphone''}'
-      - '{''value'': ''Paperback''}'
-      - '{''value'': ''Hardcover''}'
+      - E-Reader
+      - Tablet
+      - Smartphone
+      - Paperback
+      - Hardcover
       required: false
     - id: 13
       name: reading_location
@@ -133,10 +133,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Home''}'
-      - '{''value'': ''Work''}'
-      - '{''value'': ''School''}'
-      - '{''value'': ''Public Place''}'
+      - Home
+      - Work
+      - School
+      - Public Place
       required: false
     - id: 14
       name: time_spent_reading
@@ -151,10 +151,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Bookstore''}'
-      - '{''value'': ''Online''}'
-      - '{''value'': ''Recommendation''}'
-      - '{''value'': ''Gift''}'
+      - Bookstore
+      - Online
+      - Recommendation
+      - Gift
       required: false
     - id: 16
       name: why_do_you_read
@@ -169,16 +169,16 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1}'
-      - '{''value'': 2}'
-      - '{''value'': 3}'
-      - '{''value'': 4}'
-      - '{''value'': 5}'
-      - '{''value'': 6}'
-      - '{''value'': 7}'
-      - '{''value'': 8}'
-      - '{''value'': 9}'
-      - '{''value'': 10}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
       required: false
     - id: 18
       name: favorite_book_type
@@ -186,10 +186,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Fiction''}'
-      - '{''value'': ''Non-Fiction''}'
-      - '{''value'': ''Comic Books''}'
-      - '{''value'': ''Magazine''}'
+      - Fiction
+      - Non-Fiction
+      - Comic Books
+      - Magazine
       required: false
     - id: 19
       name: how_do_you_find_new_authors
@@ -197,11 +197,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Bookstore''}'
-      - '{''value'': ''Online''}'
-      - '{''value'': ''Recommendation''}'
-      - '{''value'': ''Social Media''}'
-      - '{''value'': ''Book Clubs''}'
+      - Bookstore
+      - Online
+      - Recommendation
+      - Social Media
+      - Book Clubs
       required: false
     - id: 20
       name: what_dont_like
@@ -209,10 +209,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Excessive Romance''}'
-      - '{''value'': ''Lack of Romance''}'
-      - '{''value'': ''Excessive Description''}'
-      - '{''value'': ''Not Enough Description''}'
+      - Excessive Romance
+      - Lack of Romance
+      - Excessive Description
+      - Not Enough Description
       required: false
     - id: 21
       name: favorite_character_type
@@ -220,13 +220,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Romance''}'
-      - '{''value'': ''Fantasy''}'
-      - '{''value'': ''Science Fiction''}'
-      - '{''value'': ''Horror''}'
-      - '{''value'': ''Comedy''}'
-      - '{''value'': ''Mystery''}'
-      - '{''value'': ''Adventure''}'
+      - Romance
+      - Fantasy
+      - Science Fiction
+      - Horror
+      - Comedy
+      - Mystery
+      - Adventure
       required: false
     - id: 22
       name: reading_mood
@@ -234,11 +234,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Relaxing''}'
-      - '{''value'': ''Exciting''}'
-      - '{''value'': ''Adventurous''}'
-      - '{''value'': ''Emotional''}'
-      - '{''value'': ''Informative''}'
+      - Relaxing
+      - Exciting
+      - Adventurous
+      - Emotional
+      - Informative
       required: false
     - id: 23
       name: reading_mood_reason
@@ -246,11 +246,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Escape''}'
-      - '{''value'': ''Learn''}'
-      - '{''value'': ''Relax''}'
-      - '{''value'': ''Socialize''}'
-      - '{''value'': ''Challenge''}'
+      - Escape
+      - Learn
+      - Relax
+      - Socialize
+      - Challenge
       required: false
     - id: 24
       name: how_do_you_rate_your_reading_habits
@@ -258,11 +258,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1}'
-      - '{''value'': 2}'
-      - '{''value'': 3}'
-      - '{''value'': 4}'
-      - '{''value'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 25
       name: additional_comments

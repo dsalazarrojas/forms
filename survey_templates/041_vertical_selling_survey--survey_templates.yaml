@@ -4,219 +4,177 @@ inputSchema:
     title: Vertical Selling Survey
     pages:
     - id: 1
-      name: vertical_selling_survey_page_1
-      label: Vertical Selling Survey
+      name: sales_and_marketing_role
+      label: What is your role in the company?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Both
+      required: true
     - id: 2
       name: sales_and_marketing_strategy
-      label: Sales and Marketing Strategy
+      label: What is your company's sales and marketing strategy?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: targeted_strategy
-      label: Targeted Strategy
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
       name: specific_vertical_market
       label: Specific Vertical Market
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Automotive'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Financial Services'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Real Estate'', ''value'': 3}'
+      - Automotive
+      - Financial Services
+      - Real Estate
       required: false
-    - id: 5
+    - id: 4
       name: sales_and_marketing_budget
-      label: Sales and Marketing Budget
+      label: What is your company's sales and marketing budget?
       hint: null
       type: number
       options: []
       required: false
-    - id: 6
-      name: marketing_strategy
-      label: Marketing Strategy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: sales_strategy
-      label: Sales Strategy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
+    - id: 5
       name: specific_sales_channels
       label: Specific Sales Channels
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Email'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Phone'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Social Media'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Online Advertising'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Print Advertising'', ''value'': 5}'
+      - Email
+      - Phone
+      - Social Media
+      - Online Advertising
+      - Print Advertising
       required: false
-    - id: 9
+    - id: 6
       name: specific_marketing_channels
       label: Specific Marketing Channels
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Email'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Print Media'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Online Media'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Social Media'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Event'', ''value'': 5}'
+      - Email
+      - Print Media
+      - Online Media
+      - Social Media
+      - Event
       required: false
-    - id: 10
+    - id: 7
       name: sales_and_marketing_team
-      label: Sales and Marketing Team
+      label: Who is part of your sales and marketing team?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sales'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Marketing'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Both'', ''value'': 3}'
+      - Sales
+      - Marketing
+      - Both
       required: true
-    - id: 11
-      name: sales_and_marketing_budget
-      label: Sales and Marketing Budget
+    - id: 8
+      name: sales_and_marketing_budget_2
+      label: How much do you allocate for sales and marketing?
       hint: null
-      type: text
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: specific_sales_channels_2
+      label: Specific Sales Channels 2
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Social Media
+      - Online Advertising
+      - Print Advertising
+      required: false
+    - id: 10
+      name: specific_marketing_channels_2
+      label: Specific Marketing Channels 2
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Print Media
+      - Online Media
+      - Social Media
+      - Event
+      required: false
+    - id: 11
+      name: sales_and_marketing_team_2
+      label: How many team members do you have for sales and marketing?
+      hint: null
+      type: number
       options: []
       required: false
     - id: 12
       name: marketing_strategy
-      label: Marketing Strategy
+      label: What is your marketing strategy?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
       name: sales_strategy
-      label: Sales Strategy
+      label: What is your sales strategy?
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: specific_sales_channels
-      label: Specific Sales Channels
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Email'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Phone'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Social Media'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Online Advertising'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Print Advertising'', ''value'': 5}'
-      required: false
-    - id: 15
-      name: specific_marketing_channels
-      label: Specific Marketing Channels
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Email'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Print Media'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Online Media'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Social Media'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Event'', ''value'': 5}'
-      required: false
-    - id: 16
-      name: sales_and_marketing_team
-      label: Sales and Marketing Team
+      name: sales_and_marketing_alignment
+      label: How do you align your sales and marketing efforts?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sales'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Marketing'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Both'', ''value'': 3}'
+      - Sales
+      - Marketing
+      - Both
+      required: false
+    - id: 15
+      name: sales_and_marketing_budget_3
+      label: Sales and Marketing Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: marketing_strategy_2
+      label: How do you measure the effectiveness of your marketing strategy?
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 17
-      name: sales_and_marketing_budget
-      label: Sales and Marketing Budget
+      name: sales_strategy_2
+      label: How do you measure the effectiveness of your sales strategy?
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: marketing_strategy
-      label: Marketing Strategy
+      name: specific_sales_channels_3
+      label: Specific Sales Channels 3
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Social Media
+      - Online Advertising
+      - Print Advertising
       required: false
     - id: 19
-      name: sales_strategy
-      label: Sales Strategy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: specific_sales_channels
-      label: Specific Sales Channels
+      name: specific_marketing_channels_3
+      label: Specific Marketing Channels 3
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Email'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Phone'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Social Media'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Online Advertising'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Print Advertising'', ''value'': 5}'
-      required: false
-    - id: 21
-      name: specific_marketing_channels
-      label: Specific Marketing Channels
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Email'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Print Media'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Online Media'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Social Media'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Event'', ''value'': 5}'
-      required: false
-    - id: 22
-      name: sales_and_marketing_team
-      label: Sales and Marketing Team
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Sales'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Marketing'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Both'', ''value'': 3}'
-      required: false
-    - id: 23
-      name: sales_and_marketing_budget
-      label: Sales and Marketing Budget
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: marketing_strategy
-      label: Marketing Strategy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: sales_strategy
-      label: Sales Strategy
-      hint: null
-      type: text
-      options: []
+      - Email
+      - Print Media
+      - Online Media
+      - Social Media
+      - Event
       required: false

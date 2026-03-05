@@ -6,23 +6,24 @@ inputSchema:
     - id: 1
       name: introduction
       label: Introduction
-      hint: null
+      hint: Please take a few minutes to answer these questions.
       type: text
       options: []
       required: false
     - id: 2
       name: school_rating
-      label: school_rating
-      hint: How would you rate your school?
+      label: School Rating
+      hint: Rate your school out of 3 (Good, Fair, Excellent)
       type: select_one
       options:
       - Good
       - Fair
+      - Excellent
       required: false
     - id: 3
       name: teachers_quality
-      label: teachers_quality
-      hint: null
+      label: Teacher Quality
+      hint: Describe what you think about your teachers
       type: select_multiple
       options:
       - Good
@@ -30,179 +31,152 @@ inputSchema:
       required: false
     - id: 4
       name: facilities_satisfaction
-      label: facilities_satisfaction
-      hint: null
+      label: Facilities Satisfaction
+      hint: Rate your satisfaction with the school facilities
       type: number
       options: []
       required: false
     - id: 5
       name: school_environment
-      label: school_environment
-      hint: null
+      label: School Environment
+      hint: Describe your experience in the school
       type: text
       options: []
       required: false
     - id: 6
-      name: communication_satisfaction
-      label: communication_satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
       name: teacher_support
-      label: teacher_support
-      hint: null
+      label: Teacher Support
+      hint: Do you feel supported by your teachers?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 8
+    - id: 7
       name: student_fellowship
-      label: student_fellowship
-      hint: null
+      label: Student Interactions
+      hint: How do you feel about student interactions?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Good
+      - Bad
       required: false
-    - id: 9
+    - id: 8
       name: student_satisfaction
-      label: student_satisfaction
-      hint: null
+      label: Student Satisfaction
+      hint: Describe your satisfaction level with the school
       type: text
       options: []
       required: false
-    - id: 10
-      name: teacher_quality
-      label: teacher_quality
-      hint: null
+    - id: 9
+      name: teacher_quality_2
+      label: Teacher Quality (2)
+      hint: Describe what you think about your teachers
       type: select_multiple
       options:
       - Good
       - Poor
       required: false
-    - id: 11
+    - id: 10
       name: facilities
-      label: facilities
-      hint: null
+      label: Facilities
+      hint: Are the facilities good?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 12
+    - id: 11
       name: teacher_satisfaction
-      label: teacher_satisfaction
-      hint: null
-      type: select_one
+      label: Teacher Satisfaction
+      hint: How satisfied are you with your teacher?
+      type: select_multiple
       options:
       - Satisfied
       - Dissatisfied
       required: false
-    - id: 13
+    - id: 12
       name: student_environment
-      label: student_environment
-      hint: null
+      label: Student Environment
+      hint: Describe your experience in the school environment
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: teacher_communication
+      label: Teacher Communication
+      hint: Describe your experience with teacher communication
       type: text
       options: []
       required: false
     - id: 14
-      name: teacher_communication
-      label: teacher_communication
-      hint: null
+      name: parent_satisfaction
+      label: Parent Satisfaction
+      hint: Describe your parents' satisfaction
       type: text
       options: []
       required: false
     - id: 15
       name: class_size
-      label: class_size
-      hint: null
+      label: Class Size
+      hint: Describe your class size
       type: text
       options: []
       required: false
     - id: 16
-      name: parent_satisfaction
-      label: parent_satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Satisfied
-      - Dissatisfied
-      required: false
-    - id: 17
-      name: teacher_satisfaction
-      label: teacher_satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Satisfied
-      - Dissatisfied
-      required: false
-    - id: 18
-      name: student_rating
-      label: student_rating
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: school_funding
-      label: school_funding
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: teacher_support
-      label: teacher_support
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
       name: parent_quality
-      label: parent_quality
-      hint: null
+      label: Parent Quality
+      hint: Describe what you think about your parents
       type: select_multiple
       options:
       - Good
       - Poor
       required: false
-    - id: 22
-      name: parent_satisfaction
-      label: parent_satisfaction
-      hint: null
-      type: select_multiple
+    - id: 17
+      name: student_fellowship_2
+      label: Student Fellowship 2
+      hint: How do you feel about student interactions?
+      type: select_one
       options:
-      - Satisfied
-      - Dissatisfied
+      - Good
+      - Bad
       required: false
-    - id: 23
-      name: teacher_satisfaction
-      label: teacher_satisfaction
-      hint: null
-      type: select_multiple
+    - id: 18
+      name: school_funding
+      label: School Funding
+      hint: Is the school well funded?
+      type: select_one
       options:
-      - Satisfied
-      - Dissatisfied
+      - 'True'
+      - 'False'
       required: false
-    - id: 24
-      name: teacher_communication
-      label: teacher_communication
-      hint: null
+    - id: 19
+      name: teacher_support_2
+      label: Teacher Support 2
+      hint: Do you feel supported by your teachers?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: parent_communication
+      label: Parent Communication
+      hint: Describe your experience with parent communication
       type: text
       options: []
       required: false
-    - id: 25
+    - id: 21
       name: facilities_quality
-      label: facilities_quality
-      hint: null
+      label: Facilities Quality
+      hint: Describe the quality of school facilities
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_satisfaction_2
+      label: Student Satisfaction 2
+      hint: Describe your satisfaction level with the school
       type: text
       options: []
       required: false

@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''month to month''}'
-      - '{''id'': 2, ''label'': ''ongoing''}'
+      - month to month
+      - ongoing
       required: false
     - id: 7
       name: payment_method
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''credit card''}'
-      - '{''id'': 2, ''label'': ''bank transfer''}'
-      - '{''id'': 3, ''label'': ''check''}'
+      - credit card
+      - bank transfer
+      - check
       required: false
     - id: 8
       name: emergency_contact_name
@@ -77,10 +77,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''parent''}'
-      - '{''id'': 2, ''label'': ''sibling''}'
-      - '{''id'': 3, ''label'': ''spouse''}'
-      - '{''id'': 4, ''label'': ''other''}'
+      - parent
+      - sibling
+      - spouse
+      - other
       required: false
     - id: 11
       name: membership_status
@@ -88,10 +88,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''active''}'
-      - '{''id'': 2, ''label'': ''inactive''}'
-      - '{''id'': 3, ''label'': ''pending''}'
-      - '{''id'': 4, ''label'': ''cancelled''}'
+      - active
+      - inactive
+      - pending
+      - cancelled
       required: false
     - id: 12
       name: notes

@@ -5,109 +5,143 @@ inputSchema:
     pages:
     - id: 1
       name: e_learning_platform
-      label: eLearning Platform
+      label: E-Learning Platform
       hint: null
       type: select_one
       options:
-      - platform_a
-      - platform_b
-      - platform_c
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
     - id: 2
-      name: preferred_platform
-      label: Preferred Platform
-      hint: null
-      type: select_one
-      options:
-      - platform_a
-      - platform_b
-      - platform_c
-      required: false
-    - id: 3
       name: comment
-      label: Comment
+      label: Comments
       hint: null
       type: note
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: faculty_member
+      label: Faculty Member
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
     - id: 4
       name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 5
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: e_learning_platform
-      label: E-Learning Platform
-      hint: null
-      type: select_multiple
-      options:
-      - platform_a
-      - platform_b
-      - platform_c
-      required: false
-    - id: 7
-      name: faculty_member
-      label: Faculty Member
-      hint: null
-      type: select_one
-      options:
-      - faculty_a
-      - faculty_b
-      - faculty_c
-      required: false
-    - id: 8
       name: other_comments
       label: Other Comments
       hint: null
       type: note
       options: []
-      required: false
-    - id: 9
-      name: faculty_member
-      label: Faculty Member
+      required: true
+    - id: 7
+      name: faculty_comments
+      label: Faculty Comments
       hint: null
-      type: select_one
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: platform_use
+      label: Platforms Used
+      hint: null
+      type: select_multiple
       options:
-      - faculty_a
-      - faculty_b
-      - faculty_c
-      required: false
-    - id: 10
-      name: preferred_platform
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 9
+      name: platform_preference
       label: Preferred Platform
       hint: null
       type: select_one
       options:
-      - platform_a
-      - platform_b
-      - platform_c
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 10
+      name: experience
+      label: E-Learning Platform Experience
+      hint: null
+      type: note
+      options: []
+      required: true
     - id: 11
-      name: e_learning_platform
-      label: E-Learning Platform
+      name: positive_comments
+      label: Positive Comments
       hint: null
-      type: select_one
-      options:
-      - platform_a
-      - platform_b
-      - platform_c
-      required: false
+      type: note
+      options: []
+      required: true
     - id: 12
-      name: faculty_member
-      label: Faculty Member
+      name: negative_comments
+      label: Negative Comments
       hint: null
-      type: select_one
-      options:
-      - faculty_a
-      - faculty_b
-      - faculty_c
-      required: false
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: faculty_experience
+      label: Faculty Experience
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: comments
+      label: Comments (2)
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: comments_2
+      label: Comments (3)
+      hint: null
+      type: note
+      options: []
+      required: true

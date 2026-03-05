@@ -1,195 +1,130 @@
 inputSchema:
   type: object
   properties:
-    title: legal_aid_case_data_sharing_consent_form
+    title: Legal Aid Case Data Sharing Consent Form
     pages:
     - id: 1
-      name: legal_aid_case_data_sharing_consent_form_page_1
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 2
-      name: legal_aid_case_data_sharing_consent
-      label: legal_aid_case_data_sharing_consent_label
+      name: client_information
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 2
+      name: data_to_share
+      label: What kind of data do you want to share with us?
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 3
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
+      name: sharing_with
+      label: With whom would you like to share your data?
       hint: null
       type: select_one
       options:
       - Legal Aid Agency
       - Court
       - Solicitor
-      required: false
+      required: true
     - id: 4
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
+      name: start_sharing_date
+      label: What date would you like to start sharing your data from?
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 5
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 6
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
+      name: receiving_method
+      label: How do you prefer to receive your data sharings?
       hint: null
       type: select_one
       options:
-      - Legal Aid Agency
-      - Court
-      - Solicitor
-      required: false
-    - id: 8
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
+      - Email
+      - Text Message
+      - Phone Call
+      required: true
+    - id: 6
+      name: agreement
+      label: Do you agree to receive data sharings from us?
       hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 7
+      name: medical_records
+      label: Do you have any medical records related to your case?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 8
+      name: doctor_name
+      label: If you have medical records, what is the name of your doctor or healthcare
+        provider?
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
+    - id: 9
+      name: email_address
+      label: What is your email address for receiving data sharings?
       hint: null
-      type: select_multiple
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: sharing_with_others
+      label: Do you agree to share your data with others (e.g. family members, caregivers)?
+      hint: null
+      type: checkbox
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - I agree
+      - I do not agree
+      required: true
     - id: 11
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
+      name: other_names
+      label: What is the name of your family member or caregiver?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
+      name: receiving_sharing_from_others
+      label: Do you agree to receive data sharings from others (e.g. family members,
+        caregivers)?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 13
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
-      hint: null
-      type: select_one
-      options:
-      - Legal Aid Agency
-      - Court
-      - Solicitor
-      required: false
-    - id: 19
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
+      name: receiving_sharing_time
+      label: What time of day would you like to receive data sharings from others?
       hint: null
       type: time
       options: []
       required: false
-    - id: 23
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
+    - id: 14
+      name: sharing_with_whom
+      label: What is the name of the person or organization you would like to share
+        your data with?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 25
-      name: legal_aid_case_data_sharing_consent_form_page_1_label
-      label: legal_aid_case_data_sharing_consent_form_page_1_label
+      required: true
+    - id: 15
+      name: sharing_method_others
+      label: How do you want to share your data with others?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      required: true

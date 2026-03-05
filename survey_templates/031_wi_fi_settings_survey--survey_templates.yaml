@@ -1,204 +1,112 @@
 inputSchema:
   type: object
   properties:
-    title: Wi Fi Settings Survey
+    title: Wi-Fi Settings Survey
     pages:
     - id: 1
-      name: page1
-      label: Wi-Fi Settings
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: page2
-      label: Wi-Fi
-      hint: null
+      name: current_provider
+      label: What is your current Wi-Fi network provider?
+      hint: Please select your current provider.
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Verizon
+      - AT&T
+      - T-Mobile
+      - Other
+      required: false
+    - id: 2
+      name: devices_connected
+      label: How many devices are connected to your Wi-Fi network?
+      hint: Please count the number of devices connected to your network.
+      type: number
+      options: []
       required: false
     - id: 3
-      name: page3
-      label: Wi-Fi Settings
-      hint: null
-      type: text
-      options: []
+      name: preferred_speed
+      label: What is your preferred Wi-Fi speed?
+      hint: Select your preferred speed.
+      type: select_one
+      options:
+      - Low (1-10 Mbps)
+      - Medium (11-50 Mbps)
+      - High (51-100 Mbps)
+      - Very High (100+ Mbps)
       required: false
     - id: 4
-      name: page4
-      label: Page 4
-      hint: null
-      type: time
-      options: []
+      name: streaming_frequency
+      label: How often do you use your Wi-Fi for streaming?
+      hint: Select how often you stream.
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Rarely
       required: false
     - id: 5
-      name: page5
-      label: Wi-Fi Settings
-      hint: null
-      type: select_multiple
+      name: connection_issues
+      label: Do you have any issues with your current Wi-Fi connection?
+      hint: Check the box if you have issues.
+      type: checkbox
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Option A
+      - Option B
       required: false
     - id: 6
-      name: page6
-      label: Page 6
-      hint: null
-      type: date
+      name: devices_at_home
+      label: How many devices do you typically use on your Wi-Fi network at home?
+      hint: Please count the devices.
+      type: number
       options: []
       required: false
     - id: 7
-      name: page7
-      label: Page 7
-      hint: null
-      type: note
+      name: monthly_data
+      label: How much data do you use per month on your Wi-Fi network?
+      hint: Estimate your monthly data usage.
+      type: number
       options: []
       required: false
     - id: 8
-      name: page8
-      label: Wi-Fi Settings
-      hint: null
-      type: email
-      options: []
+      name: router_or_access_point
+      label: Do you use a router or access point for your Wi-Fi?
+      hint: Check the box if you use a router.
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 9
-      name: page9
-      label: Page 9
-      hint: null
-      type: number
-      options: []
+      name: internet_plan_speed
+      label: What is your current internet plan speed?
+      hint: Please select your speed.
+      type: select_one
+      options:
+      - Low (1-5 Mbps)
+      - Medium (6-20 Mbps)
+      - High (21-50 Mbps)
+      - Very High (51+ Mbps)
       required: false
     - id: 10
-      name: page10
-      label: Page 10
-      hint: null
-      type: text
+      name: users_at_network
+      label: How many users are connected to your Wi-Fi network?
+      hint: Estimate the number of users.
+      type: number
       options: []
       required: false
     - id: 11
-      name: page11
-      label: Page 11
-      hint: null
-      type: select_one
+      name: wifi_issues_at_home_work
+      label: Do you have any Wi-Fi-related issues at home or work?
+      hint: Check the box if you have issues.
+      type: checkbox
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Option A
+      - Option B
       required: false
     - id: 12
-      name: page12
-      label: Page 12
-      hint: null
-      type: select_multiple
+      name: plan_to_increase_speed
+      label: Do you plan to increase your Wi-Fi speed in the next 6 months?
+      hint: Check the box if you plan to increase speed.
+      type: checkbox
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 13
-      name: page13
-      label: Page 13
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: page14
-      label: Page 14
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: page15
-      label: Page 15
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: page16
-      label: Page 16
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: page17
-      label: Page 17
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 18
-      name: page18
-      label: Page 18
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: page19
-      label: Page 19
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 20
-      name: page20
-      label: Page 20
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: page21
-      label: Page 21
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: page22
-      label: Page 22
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: page23
-      label: Page 23
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 24
-      name: page24
-      label: Page 24
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: page25
-      label: Page 25
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Option A
+      - Option B
       required: false

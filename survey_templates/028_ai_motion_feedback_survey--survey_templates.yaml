@@ -30,16 +30,11 @@ inputSchema:
       hint: What type of movement were you tracking?
       type: select_one
       options:
-      - label: Sports & Fitness (e.g., Yoga, Squats, Golf)
-        value: fitness
-      - label: Physical Rehabilitation / Therapy
-        value: rehab
-      - label: Industrial / Workplace Safety
-        value: safety
-      - label: Dance or Creative Performance
-        value: creative
-      - label: Animation / CGI Motion Capture
-        value: animation
+      - Sports & Fitness (e.g., Yoga, Squats, Golf)
+      - Physical Rehabilitation / Therapy
+      - Industrial / Workplace Safety
+      - Dance or Creative Performance
+      - Animation / CGI Motion Capture
       required: true
     - id: 5
       name: hardware_setup
@@ -47,16 +42,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Standard Smartphone Camera (Front)
-        value: smartphone_front
-      - label: Standard Smartphone Camera (Rear)
-        value: smartphone_rear
-      - label: Laptop Webcam
-        value: webcam
-      - label: Dedicated Depth Camera (e.g., Azure Kinect)
-        value: depth_camera
-      - label: Wearable Inertial Sensors
-        value: wearables
+      - Standard Smartphone Camera (Front)
+      - Standard Smartphone Camera (Rear)
+      - Laptop Webcam
+      - Dedicated Depth Camera (e.g., Azure Kinect)
+      - Wearable Inertial Sensors
       required: true
     - id: 6
       name: system_performance_header
@@ -78,12 +68,9 @@ inputSchema:
       hint: Did you notice a delay in the visual or audio feedback?
       type: select_one
       options:
-      - label: Seamless (No noticeable lag)
-        value: seamless
-      - label: Acceptable (Minor delay, still usable)
-        value: minor_lag
-      - label: Poor (Significant delay, hindered movement)
-        value: high_lag
+      - Seamless (No noticeable lag)
+      - Acceptable (Minor delay, still usable)
+      - Poor (Significant delay, hindered movement)
       required: true
     - id: 9
       name: coaching_feedback_quality
@@ -91,14 +78,10 @@ inputSchema:
       hint: Were the AI's suggestions helpful and timely?
       type: select_one
       options:
-      - label: Excellent (Very clear and actionable)
-        value: excellent
-      - label: Good (Mostly clear)
-        value: good
-      - label: Neutral (Sometimes confusing)
-        value: neutral
-      - label: Poor (Incorrect or unhelpful advice)
-        value: poor
+      - Excellent (Very clear and actionable)
+      - Good (Mostly clear)
+      - Neutral (Sometimes confusing)
+      - Poor (Incorrect or unhelpful advice)
       required: true
     - id: 10
       name: actionability_rating
@@ -106,12 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Yes, completely
-        value: true
-      - label: Somewhat
-        value: somewhat
-      - label: Not at all
-        value: false
+      - Yes, completely
+      - Somewhat
+      - Not at all
       required: true
     - id: 11
       name: usability_header
@@ -133,14 +113,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: More Valuable (Convenient/Objective)
-        value: more_valuable
-      - label: Equal Value
-        value: equal
-      - label: Less Valuable (Misses human nuance)
-        value: less_valuable
-      - label: Different (Great for drills, bad for strategy)
-        value: different
+      - More Valuable (Convenient/Objective)
+      - Equal Value
+      - Less Valuable (Misses human nuance)
+      - Different (Great for drills, bad for strategy)
       required: true
     - id: 14
       name: technical_issues_encountered
@@ -148,16 +124,11 @@ inputSchema:
       hint: Select all that apply.
       type: select_multiple
       options:
-      - label: Calibration Failures
-        value: calibration
-      - label: Poor Lighting Warnings
-        value: lighting
-      - label: App Crashes / Freezes
-        value: crashes
-      - label: Connectivity Issues
-        value: connectivity
-      - label: None
-        value: none
+      - Calibration Failures
+      - Poor Lighting Warnings
+      - App Crashes / Freezes
+      - Connectivity Issues
+      - None
       required: false
     - id: 15
       name: feature_wishlist
@@ -180,10 +151,8 @@ inputSchema:
       hint: Do you consent to sharing your anonymized motion data for algorithm improvement?
       type: select_one
       options:
-      - label: Yes, I consent
-        value: true
-      - label: No, please delete my data after this trial
-        value: false
+      - Yes, I consent
+      - No, please delete my data after this trial
       required: true
     - id: 18
       name: feedback_date

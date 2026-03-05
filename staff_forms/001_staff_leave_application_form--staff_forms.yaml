@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''sick_leave''}'
-      - '{''id'': 2, ''label'': ''annual_leave''}'
-      - '{''id'': 3, ''label'': ''other_leave''}'
+      - sick leave
+      - annual leave
+      - other leave
       required: false
     - id: 3
       name: start_date
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''John Doe''}'
-      - '{''id'': 3, ''label'': ''Jane Doe''}'
+      - chatjimmy
+      - John Doe
+      - Jane Doe
       required: false
     - id: 9
       name: submitted_by
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
-      - '{''id'': 3, ''label'': ''chatjimmy''}'
+      - John Doe
+      - Jane Doe
+      - chatjimmy
       required: false
     - id: 10
       name: status
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''pending''}'
-      - '{''id'': 2, ''label'': ''approved''}'
-      - '{''id'': 3, ''label'': ''denied''}'
+      - pending
+      - approved
+      - denied
       required: false
     - id: 11
       name: submitted_at
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
-      - '{''id'': 3, ''label'': ''chatjimmy''}'
+      - John Doe
+      - Jane Doe
+      - chatjimmy
       required: false
     - id: 16
       name: updated_by
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
-      - '{''id'': 3, ''label'': ''chatjimmy''}'
+      - John Doe
+      - Jane Doe
+      - chatjimmy
       required: false
     - id: 17
       name: deleted_by
@@ -139,40 +139,40 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
-      - '{''id'': 3, ''label'': ''chatjimmy''}'
+      - John Doe
+      - Jane Doe
+      - chatjimmy
       required: false
     - id: 18
-      name: deleted_at
-      label: Deleted At
+      name: deleted_at_2
+      label: Deleted At 2
       hint: null
       type: time
       options: []
       required: false
     - id: 19
-      name: deleted_by
-      label: Deleted By
+      name: deleted_by_2
+      label: Deleted By 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
-      - '{''id'': 3, ''label'': ''chatjimmy''}'
+      - John Doe
+      - Jane Doe
+      - chatjimmy
       required: false
     - id: 20
-      name: updated_by
-      label: Updated By
+      name: updated_by_2
+      label: Updated By 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
-      - '{''id'': 3, ''label'': ''chatjimmy''}'
+      - John Doe
+      - Jane Doe
+      - chatjimmy
       required: false
     - id: 21
-      name: created_at
-      label: Created At
+      name: created_at_2
+      label: Created At 2
       hint: null
       type: time
       options: []
@@ -190,9 +190,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''John Doe''}'
-      - '{''id'': 3, ''label'': ''Jane Doe''}'
+      - chatjimmy
+      - John Doe
+      - Jane Doe
       required: false
     - id: 24
       name: category
@@ -200,8 +200,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Staff Forms''}'
-      - '{''id'': 2, ''label'': ''Other Forms''}'
+      - Staff Forms
+      - Other Forms
       required: false
     - id: 25
       name: description

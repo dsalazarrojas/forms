@@ -1,253 +1,242 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Campus Climate Survey
     pages:
-      - id: 1
-        name: section_respondent_info
-        label: -- Respondent Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_role
-        label: Your Role on Campus
-        hint: null
-        type: select_one
-        options:
-          - Student
-          - Faculty
-          - Staff
-          - Administrator
-          - Other
-        required: true
-      - id: 3
-        name: respondent_years
-        label: How long have you been part of this campus community
-        hint: null
-        type: select_one
-        options:
-          - Less than 1 year
-          - 1-2 years
-          - 3-4 years
-          - 5+ years
-        required: true
-      - id: 4
-        name: respondent_anonymous
-        label: Response should be anonymous
-        hint: null
-        type: select_one
-        options:
-          - Yes, anonymous
-          - No, include my name
-        required: false
-      - id: 5
-        name: section_sense_of_belonging
-        label: -- Sense of Belonging --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: feel_valued
-        label: I feel valued and respected on this campus
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 7
-        name: sense_of_community
-        label: I feel a strong sense of community
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 8
-        name: supported_environment
-        label: I feel supported in this environment
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 9
-        name: section_safety_inclusion
-        label: -- Safety and Inclusion --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: safe_campus
-        label: This campus feels safe
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 11
-        name: inclusive_environment
-        label: This campus is inclusive and welcoming
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 12
-        name: discrimination_experienced
-        label: I have experienced discrimination on campus
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Prefer not to say
-        required: false
-      - id: 13
-        name: discrimination_details
-        label: Please describe the discrimination experienced
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: section_environment_quality
-        label: -- Campus Environment Quality --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: facilities_quality
-        label: Campus facilities are well-maintained
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 16
-        name: communication_effectiveness
-        label: Campus communication is clear and effective
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 17
-        name: section_improvements
-        label: -- Areas for Improvement --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 18
-        name: main_concerns
-        label: What are your main concerns about campus climate
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: improvement_suggestions
-        label: What changes would improve campus climate
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: section_diversity
-        label: -- Diversity and Representation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 21
-        name: diversity_adequate
-        label: Campus adequately represents diverse perspectives
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 22
-        name: underrepresented_groups
-        label: I consider myself part of an underrepresented group
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Prefer not to say
-        required: false
-      - id: 23
-        name: support_needed
-        label: What support is needed for underrepresented groups
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 24
-        name: section_overall
-        label: -- Overall Assessment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 25
-        name: overall_climate_rating
-        label: Overall campus climate rating
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Poor
-          - Very Poor
-        required: true
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your Role on Campus
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Staff
+      - Administrator
+      - Other
+      required: true
+    - id: 3
+      name: respondent_years
+      label: How long have you been part of this campus community
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-4 years
+      - 5+ years
+      required: true
+    - id: 4
+      name: respondent_anonymous
+      label: Response should be anonymous
+      hint: null
+      type: select_one
+      options:
+      - Yes, anonymous
+      - No, include my name
+      required: false
+    - id: 5
+      name: section_sense_of_belonging
+      label: -- Sense of Belonging --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: feel_valued
+      label: I feel valued and respected on this campus
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 7
+      name: sense_of_community
+      label: I feel a strong sense of community
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 8
+      name: supported_environment
+      label: I feel supported in this environment
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 9
+      name: section_safety_inclusion
+      label: -- Safety and Inclusion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: safe_campus
+      label: This campus feels safe
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 11
+      name: inclusive_environment
+      label: This campus is inclusive and welcoming
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 12
+      name: discrimination_experienced
+      label: I have experienced discrimination on campus
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Prefer not to say
+      required: false
+    - id: 13
+      name: discrimination_details
+      label: Please describe the discrimination experienced
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_environment_quality
+      label: -- Campus Environment Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: facilities_quality
+      label: Campus facilities are well-maintained
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 16
+      name: communication_effectiveness
+      label: Campus communication is clear and effective
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 17
+      name: section_improvements
+      label: -- Areas for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: main_concerns
+      label: What are your main concerns about campus climate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: improvement_suggestions
+      label: What changes would improve campus climate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_diversity
+      label: -- Diversity and Representation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: diversity_adequate
+      label: Campus adequately represents diverse perspectives
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 22
+      name: underrepresented_groups
+      label: I consider myself part of an underrepresented group
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Prefer not to say
+      required: false
+    - id: 23
+      name: support_needed
+      label: What support is needed for underrepresented groups
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_overall
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: overall_climate_rating
+      label: Overall campus climate rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Knit''}'
-      - '{''id'': 2, ''name'': ''Print''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Knit
+      - Print
+      - Other
       required: false
     - id: 3
       name: pattern_type
@@ -26,16 +26,16 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''A-line''}'
-      - '{''id'': 2, ''name'': ''A-line (with curves)''}'
-      - '{''id'': 3, ''name'': ''A-line with curves and pockets''}'
-      - '{''id'': 4, ''name'': ''B-line''}'
-      - '{''id'': 5, ''name'': ''B-line with curves''}'
-      - '{''id'': 6, ''name'': ''B-line with pockets''}'
-      - '{''id'': 7, ''name'': ''B-line with curves and pockets''}'
-      - '{''id'': 8, ''name'': ''C-line''}'
-      - '{''id'': 9, ''name'': ''C-line with curves''}'
-      - '{''id'': 10, ''name'': ''C-line with pockets''}'
+      - A-line
+      - A-line (with curves)
+      - A-line with curves and pockets
+      - B-line
+      - B-line with curves
+      - B-line with pockets
+      - B-line with curves and pockets
+      - C-line
+      - C-line with curves
+      - C-line with pockets
       required: false
     - id: 4
       name: pattern_size
@@ -43,13 +43,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''XS-S''}'
-      - '{''id'': 2, ''name'': ''S''}'
-      - '{''id'': 3, ''name'': ''M''}'
-      - '{''id'': 4, ''name'': ''L''}'
-      - '{''id'': 5, ''name'': ''XL''}'
-      - '{''id'': 6, ''name'': ''XXL''}'
-      - '{''id'': 7, ''name'': ''Custom''}'
+      - XS-S
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - Custom
       required: false
     - id: 5
       name: pattern_features
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Knit''}'
-      - '{''id'': 2, ''name'': ''Crochet''}'
-      - '{''id'': 3, ''name'': ''Print''}'
+      - Knit
+      - Crochet
+      - Print
       required: false
     - id: 6
       name: comments

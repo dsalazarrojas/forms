@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Freshman''}'
-      - '{''label'': ''Sophomore''}'
-      - '{''label'': ''Junior''}'
-      - '{''label'': ''Senior''}'
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
       required: true
     - id: 6
       name: parent_email
@@ -125,8 +125,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: teacher_attendance
@@ -134,8 +134,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: parent_permission
@@ -143,8 +143,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: teacher_permission
@@ -152,8 +152,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: event_status
@@ -161,9 +161,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''Cancelled''}'
+      - Active
+      - Completed
+      - Cancelled
       required: false
     - id: 22
       name: school_email
@@ -192,6 +192,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true

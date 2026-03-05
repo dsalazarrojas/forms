@@ -4,93 +4,104 @@ inputSchema:
     title: Crowd Funding Forms
     pages:
     - id: 1
-      name: crowd_funding_form
-      label: CrowdFundingForm
-      hint: null
+      name: main_project_form
+      label: Project Information
+      hint: Please provide your project details below.
       type: text
       options: []
       required: false
     - id: 2
-      name: form_1_name
-      label: FormName
-      hint: null
+      name: main_project_form_contact_info
+      label: Main Project Contact Information
+      hint: Your contact information is private.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: form_1_email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 4
-      name: form_1_phone
-      label: Phone
-      hint: null
+      name: main_project_form_contact_name
+      label: Main Project Contact Name
+      hint: Your contact name should match your name on this form.
       type: text
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: main_project_form_contact_email
+      label: Main Project Contact Email
+      hint: We will use this for communication.
+      type: text
+      options: []
+      required: true
     - id: 5
-      name: form_1_date
-      label: Date
-      hint: null
+      name: main_project_form_contact_phone
+      label: Main Project Contact Phone Number
+      hint: We will use this for communication.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: main_project_form_deadline
+      label: Main Project Deadline
+      hint: When is the deadline for the project?
       type: date
       options: []
-      required: false
-    - id: 6
-      name: form_1_time
-      label: Time
-      hint: null
+      required: true
+    - id: 7
+      name: main_project_form_timeframe
+      label: Main Project Timeframe
+      hint: What is the timeframe for the project?
       type: time
       options: []
-      required: false
-    - id: 7
-      name: form_1_notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
+      required: true
     - id: 8
-      name: form_2_name
-      label: Name
+      name: backer_info_form
+      label: Backer's Information
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: form_2_email
-      label: Email
-      hint: null
-      type: email
+      name: backer_info_form_contact_email
+      label: Backer's Contact Email
+      hint: We will use this for communication.
+      type: text
       options: []
       required: false
     - id: 10
-      name: form_2_phone
-      label: Phone
-      hint: null
+      name: backer_info_form_contact_phone
+      label: Backer's Contact Phone Number
+      hint: We will use this for communication.
       type: text
       options: []
       required: false
     - id: 11
-      name: form_2_date
-      label: Date
-      hint: null
-      type: date
+      name: backer_info_form_notes
+      label: Backer's Notes
+      hint: Any additional notes.
+      type: note
       options: []
       required: false
     - id: 12
-      name: form_2_time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
+      name: backer_info_form_confirmation
+      label: Backer's Confirmation
+      hint: Please confirm your contact information.
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 13
-      name: form_2_notes
-      label: Notes
-      hint: null
+      name: backer_info_form_agreement
+      label: Backer's Agreement
+      hint: Please agree to our terms and conditions.
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 14
+      name: backer_info_form_notes2
+      label: Backer's Notes 2
+      hint: Any additional notes.
       type: note
       options: []
       required: false

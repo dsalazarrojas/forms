@@ -4,193 +4,98 @@ inputSchema:
     title: Weekly Progress Check In
     pages:
     - id: 1
-      name: start_question
-      label: start_question
+      name: weekly_topic
+      label: Weekly Topic
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: weekly_topic
-      label: weekly_topic
+      name: progress_notes
+      label: Progress Notes
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: progress_notes
-      label: progress_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: goals
-      label: goals
+      label: Goals
       hint: null
       type: text
       options: []
       required: true
-    - id: 5
-      name: participation_notes
-      label: participation_notes
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 6
-      name: feedback
-      label: feedback
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
-      name: end_question
-      label: end_question
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: submission_date
-      label: submission_date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 9
-      name: submission_time
-      label: submission_time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 10
-      name: submitted_by
-      label: submitted_by
+    - id: 4
+      name: participation_status
+      label: Participation Status
       hint: null
       type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 11
-      name: submitted_to
-      label: submitted_to
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 12
-      name: submitted_by_role
-      label: submitted_by_role
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 13
-      name: submitted_date
-      label: submitted_date
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 14
-      name: submitted_group
-      label: submitted_group
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 15
-      name: submitted_time
-      label: submitted_time
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 16
-      name: submitted_by_location
-      label: submitted_by_location
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 17
-      name: submitted_status
-      label: submitted_status
-      hint: null
-      type: select_multiple
       options:
       - Active
       - Inactive
       required: true
-    - id: 18
-      name: submitted_user_notes
-      label: submitted_user_notes
+    - id: 5
+      name: submission_date
+      label: Submission Date
       hint: null
-      type: text
+      type: date
       options: []
       required: true
-    - id: 19
-      name: submitted_user_notes
-      label: submitted_user_notes
+    - id: 6
+      name: submission_time
+      label: Submission Time
       hint: null
-      type: text
+      type: time
       options: []
       required: true
-    - id: 20
-      name: submitted_user_notes
-      label: submitted_user_notes
+    - id: 7
+      name: submission_status
+      label: Submission Status
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - On Time
+      - Late
       required: true
-    - id: 21
-      name: submitted_user_notes
-      label: submitted_user_notes
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: text
       options: []
+      required: false
+    - id: 9
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
       required: true
-    - id: 22
-      name: submitted_user_notes
-      label: submitted_user_notes
+    - id: 10
+      name: submitted_from
+      label: Submitted From
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
       required: true
-    - id: 23
-      name: submitted_user_notes
-      label: submitted_user_notes
+    - id: 11
+      name: submitted_role
+      label: Submitted Role
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
       required: true
-    - id: 24
-      name: submitted_user_notes
-      label: submitted_user_notes
+    - id: 12
+      name: confirmation_received
+      label: Confirmation Received?
       hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: submitted_user_notes
-      label: submitted_user_notes
-      hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: true

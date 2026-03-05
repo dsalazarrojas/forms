@@ -4,207 +4,113 @@ inputSchema:
     title: janitorial_services_performance_evaluation
     pages:
     - id: 1
-      name: janitorial_services_performance_evaluation
-      label: janitorial_services_performance_evaluation
+      name: purpose
+      label: What is the purpose of this evaluation form?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: category
-      label: category
+      name: quality_of_services
+      label: How would you rate the overall quality of the services provided?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 3
+      name: areas_met_expectations
+      label: Which areas of the services met your expectations?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: contact_information
-      label: contact_information
-      hint: null
-      type: text
-      options: []
-      required: false
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 4
-      name: evaluation
-      label: evaluation
+      name: staff_courtesy
+      label: Were the janitorial staff courteous and respectful?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 5
-      name: evaluation_category
-      label: evaluation_category
+      name: cleanliness_and_organization
+      label: Did the janitorial staff meet the required standards for cleanliness
+        and organization?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 6
-      name: janitorial_evaluation
-      label: janitorial_evaluation
+      name: recommendation
+      label: Would you recommend the services to others?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: next_evaluation_date
+      label: What date would you like to schedule the next evaluation?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 7
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: note
-      options: []
-      required: false
+      required: true
     - id: 8
-      name: janitorial_evaluation
-      label: janitorial_evaluation
+      name: communication
+      label: How would you rate the communication between the janitorial staff and
+        you/your team?
       hint: null
-      type: email
-      options: []
-      required: false
+      type: radio
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 9
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: janitorial_evaluation
-      label: janitorial_evaluation
+      name: next_evaluation_time
+      label: What time do you expect the next evaluation?
       hint: null
       type: time
       options: []
       required: false
+    - id: 10
+      name: comments_feedback
+      label: Do you have any comments or feedback on the services?
+      hint: null
+      type: note
+      options: []
+      required: false
     - id: 11
-      name: janitorial_evaluation
-      label: janitorial_evaluation
+      name: timeliness
+      label: How would you rate the timeliness of the services?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 12
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: janitorial_evaluation
-      label: janitorial_evaluation
+      name: staff_equipment
+      label: Are the janitorial staff properly equipped with the necessary cleaning
+        supplies?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 14
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: janitorial_evaluation
-      label: janitorial_evaluation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

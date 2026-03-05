@@ -1,219 +1,208 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Class And Teacher Filter Form
     pages:
-      - id: 1
-        name: student_info_header
-        label: -- Student Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: student_name
-        label: Student Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: student_id
-        label: Student ID Number
-        hint: If transferring or re-enrolling
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: current_grade
-        label: Current Grade Level
-        hint: null
-        type: select_one
-        options:
-          - Kindergarten
-          - Grade 1
-          - Grade 2
-          - Grade 3
-          - Grade 4
-          - Grade 5
-          - Grade 6
-          - Grade 7
-          - Grade 8
-          - Grade 9
-          - Grade 10
-          - Grade 11
-          - Grade 12
-        required: true
-      - id: 5
-        name: enrollment_type
-        label: Enrollment Type
-        hint: null
-        type: select_one
-        options:
-          - New student
-          - Returning student
-          - Transfer student
-          - Other
-        required: true
-      - id: 6
-        name: class_header
-        label: -- Class Selection Preferences --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: preferred_class_size
-        label: Preferred Class Size
-        hint: null
-        type: select_one
-        options:
-          - Small class - under 20 students
-          - Medium class - 20-30 students
-          - Standard class - 30-40 students
-          - No preference
-        required: true
-      - id: 8
-        name: preferred_section
-        label: Preferred Class Section - if available
-        hint: A, B, C, etc.
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: classroom_environment
-        label: Preferred Classroom Environment
-        hint: null
-        type: select_multiple
-        options:
-          - Traditional lecture style
-          - Interactive group work
-          - Project-based learning
-          - Technology-enhanced
-          - Mixed approach
-          - No preference
-        required: false
-      - id: 10
-        name: learning_style
-        label: Student Learning Style Preference
-        hint: null
-        type: select_one
-        options:
-          - Visual learner
-          - Auditory learner
-          - Kinesthetic learner
-          - Mixed learning style
-          - Not sure
-        required: false
-      - id: 11
-        name: teacher_header
-        label: -- Teacher Selection Preferences --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: teacher_preference
-        label: Do you have a teacher preference
-        hint: null
-        type: select_one
-        options:
-          - Yes, specific teacher
-          - Yes, certain qualities
-          - No preference
-        required: true
-      - id: 13
-        name: preferred_teacher_name
-        label: Preferred Teacher Name
-        hint: If requesting specific teacher
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: teacher_qualities
-        label: Preferred Teacher Qualities - select all that apply
-        hint: null
-        type: select_multiple
-        options:
-          - Strict and disciplined
-          - Encouraging and supportive
-          - Innovative and creative
-          - Patient with individual learners
-          - Strong subject knowledge
-          - Good communicator
-          - Experienced with special needs
-          - No preference
-        required: false
-      - id: 15
-        name: special_needs_header
-        label: -- Special Needs and Accommodations --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: special_needs
-        label: Does the student have special educational needs
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Under evaluation
-        required: true
-      - id: 17
-        name: special_needs_details
-        label: Details of special needs or required accommodations
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 18
-        name: iep_plan
-        label: Does the student have an IEP plan
-        hint: Individualized Education Plan
-        type: select_one
-        options:
-          - Yes
-          - No
-          - In development
-        required: false
-      - id: 19
-        name: other_considerations_header
-        label: -- Other Considerations --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 20
-        name: schedule_preferences
-        label: Any scheduling preferences or constraints
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: peer_request
-        label: Peer grouping requests or concerns
-        hint: Students to place with or avoid
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: additional_notes
-        label: Additional information or requests
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: If transferring or re-enrolling
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_grade
+      label: Current Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Kindergarten
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 5
+      name: enrollment_type
+      label: Enrollment Type
+      hint: null
+      type: select_one
+      options:
+      - New student
+      - Returning student
+      - Transfer student
+      - Other
+      required: true
+    - id: 6
+      name: class_header
+      label: -- Class Selection Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: preferred_class_size
+      label: Preferred Class Size
+      hint: null
+      type: select_one
+      options:
+      - Small class - under 20 students
+      - Medium class - 20-30 students
+      - Standard class - 30-40 students
+      - No preference
+      required: true
+    - id: 8
+      name: preferred_section
+      label: Preferred Class Section - if available
+      hint: A, B, C, etc.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: classroom_environment
+      label: Preferred Classroom Environment
+      hint: null
+      type: select_multiple
+      options:
+      - Traditional lecture style
+      - Interactive group work
+      - Project-based learning
+      - Technology-enhanced
+      - Mixed approach
+      - No preference
+      required: false
+    - id: 10
+      name: learning_style
+      label: Student Learning Style Preference
+      hint: null
+      type: select_one
+      options:
+      - Visual learner
+      - Auditory learner
+      - Kinesthetic learner
+      - Mixed learning style
+      - Not sure
+      required: false
+    - id: 11
+      name: teacher_header
+      label: -- Teacher Selection Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: teacher_preference
+      label: Do you have a teacher preference
+      hint: null
+      type: select_one
+      options:
+      - Yes, specific teacher
+      - Yes, certain qualities
+      - No preference
+      required: true
+    - id: 13
+      name: preferred_teacher_name
+      label: Preferred Teacher Name
+      hint: If requesting specific teacher
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: teacher_qualities
+      label: Preferred Teacher Qualities - select all that apply
+      hint: null
+      type: select_multiple
+      options:
+      - Strict and disciplined
+      - Encouraging and supportive
+      - Innovative and creative
+      - Patient with individual learners
+      - Strong subject knowledge
+      - Good communicator
+      - Experienced with special needs
+      - No preference
+      required: false
+    - id: 15
+      name: special_needs_header
+      label: -- Special Needs and Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: special_needs
+      label: Does the student have special educational needs
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Under evaluation
+      required: true
+    - id: 17
+      name: special_needs_details
+      label: Details of special needs or required accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: iep_plan
+      label: Does the student have an IEP plan
+      hint: Individualized Education Plan
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - In development
+      required: false
+    - id: 19
+      name: other_considerations_header
+      label: -- Other Considerations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: schedule_preferences
+      label: Any scheduling preferences or constraints
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: peer_request
+      label: Peer grouping requests or concerns
+      hint: Students to place with or avoid
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_notes
+      label: Additional information or requests
+      hint: null
+      type: text
+      options: []
+      required: false

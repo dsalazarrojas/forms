@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Counseling''}'
-      - '{''id'': 3, ''label'': ''Verbal Reprimand''}'
-      - '{''id'': 4, ''label'': ''Suspension''}'
-      - '{''id'': 5, ''label'': ''Termination''}'
+      - None
+      - Counseling
+      - Verbal Reprimand
+      - Suspension
+      - Termination
       required: true
     - id: 7
       name: verbal_warning_form_comments
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''chatjim''}'
+      - chatjimmy
+      - chatjim
       required: false
     - id: 9
       name: submitted_by

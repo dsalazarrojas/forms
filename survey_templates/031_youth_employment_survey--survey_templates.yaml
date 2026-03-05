@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 31, ''label'': ''Working''}'
-      - '{''id'': 32, ''label'': ''Not working''}'
-      - '{''id'': 33, ''label'': ''In school''}'
+      - Working
+      - Not working
+      - In school
       required: false
     - id: 4
       name: job_type
@@ -33,9 +33,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 41, ''label'': ''Full-time''}'
-      - '{''id'': 42, ''label'': ''Part-time''}'
-      - '{''id'': 42, ''label'': ''Part-time''}'
+      - Full-time
+      - Part-time
       required: false
     - id: 5
       name: hours_worked_last_week
@@ -57,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 71, ''label'': ''Sales''}'
-      - '{''id'': 72, ''label'': ''Marketing''}'
-      - '{''id'': 73, ''label'': ''Engineering''}'
+      - Sales
+      - Marketing
+      - Engineering
       required: false
     - id: 8
       name: hours_worked_last_week_list
@@ -67,9 +66,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 81, ''label'': ''Monday''}'
-      - '{''id'': 82, ''label'': ''Tuesday''}'
-      - '{''id'': 83, ''label'': ''Wednesday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
       required: false
     - id: 9
       name: months_worked_last_year
@@ -84,9 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 101, ''label'': ''January''}'
-      - '{''id'': 102, ''label'': ''February''}'
-      - '{''id'': 103, ''label'': ''March''}'
+      - January
+      - February
+      - March
       required: false
     - id: 11
       name: weeks_worked_this_year
@@ -101,8 +100,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 121, ''label'': ''Week 1''}'
-      - '{''id'': 122, ''label'': ''Week 2''}'
+      - Week 1
+      - Week 2
       required: false
     - id: 13
       name: work_status_employer
@@ -110,9 +109,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 131, ''label'': ''Employed''}'
-      - '{''id'': 132, ''label'': ''Unemployed''}'
-      - '{''id'': 133, ''label'': ''Self-employed''}'
+      - Employed
+      - Unemployed
+      - Self-employed
       required: false
     - id: 14
       name: work_status_student
@@ -120,8 +119,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 141, ''label'': ''Student''}'
-      - '{''id'': 142, ''label'': ''Not a student''}'
+      - Student
+      - Not a student
       required: false
     - id: 15
       name: education
@@ -129,11 +128,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 151, ''label'': ''High school graduate''}'
-      - '{''id'': 152, ''label'': ''Some college''}'
-      - '{''id'': 153, ''label'': ''Bachelor’s''}'
-      - '{''id'': 154, ''label'': ''Post graduate''}'
-      - '{''id'': 155, ''label'': ''No formal education''}'
+      - High school graduate
+      - Some college
+      - Bachelor’s
+      - Post graduate
+      - No formal education
       required: false
     - id: 16
       name: skills
@@ -141,11 +140,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 161, ''label'': ''Communication''}'
-      - '{''id'': 162, ''label'': ''Teamwork''}'
-      - '{''id'': 163, ''label'': ''Leadership''}'
-      - '{''id'': 164, ''label'': ''Problem-solving''}'
-      - '{''id'': 165, ''label'': ''Adaptability''}'
+      - Communication
+      - Teamwork
+      - Leadership
+      - Problem-solving
+      - Adaptability
       required: false
     - id: 17
       name: work_experience
@@ -153,10 +152,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 171, ''label'': ''0-1 year''}'
-      - '{''id'': 172, ''label'': ''1-2 years''}'
-      - '{''id'': 172, ''label'': ''1-2 years''}'
-      - '{''id'': 173, ''label'': ''2-3 years''}'
+      - 0-1 year
+      - 1-2 years
+      - 2-3 years
       required: false
     - id: 18
       name: job_satisfaction
@@ -164,9 +162,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 181, ''label'': ''Neutral''}'
-      - '{''id'': 182, ''label'': ''Satisfied''}'
-      - '{''id'': 183, ''label'': ''Very satisfied''}'
+      - Neutral
+      - Satisfied
+      - Very satisfied
       required: false
     - id: 19
       name: job_satisfaction_list
@@ -174,9 +172,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 191, ''label'': ''Satisfied''}'
-      - '{''id'': 192, ''label'': ''Very satisfied''}'
-      - '{''id'': 193, ''label'': ''Not satisfied''}'
+      - Satisfied
+      - Very satisfied
+      - Not satisfied
       required: false
     - id: 20
       name: salary
@@ -226,11 +224,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 261, ''label'': ''High school''}'
-      - '{''id'': 262, ''label'': ''Some college''}'
-      - '{''id'': 263, ''label'': ''Bachelor’s degree''}'
-      - '{''id'': 264, ''label'': ''Post graduate''}'
-      - '{''id'': 265, ''label'': ''No formal education''}'
+      - High school
+      - Some college
+      - Bachelor’s degree
+      - Post graduate
+      - No formal education
       required: false
     - id: 27
       name: skills_list
@@ -238,11 +236,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 271, ''label'': ''Communication''}'
-      - '{''id'': 272, ''label'': ''Teamwork''}'
-      - '{''id'': 273, ''label'': ''Leadership''}'
-      - '{''id'': 274, ''label'': ''Problem-solving''}'
-      - '{''id'': 275, ''label'': ''Adaptability''}'
+      - Communication
+      - Teamwork
+      - Leadership
+      - Problem-solving
+      - Adaptability
       required: false
     - id: 28
       name: comments
@@ -257,9 +255,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 291, ''label'': ''Working''}'
-      - '{''id'': 292, ''label'': ''Not working''}'
-      - '{''id'': 293, ''label'': ''In school''}'
+      - Working
+      - Not working
+      - In school
       required: false
     - id: 30
       name: work_status
@@ -267,7 +265,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 301, ''label'': ''Employed''}'
-      - '{''id'': 302, ''label'': ''Unemployed''}'
-      - '{''id'': 303, ''label'': ''Self-employed''}'
+      - Employed
+      - Unemployed
+      - Self-employed
       required: false

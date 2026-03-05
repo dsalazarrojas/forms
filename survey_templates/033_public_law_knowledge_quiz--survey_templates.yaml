@@ -5,197 +5,130 @@ inputSchema:
     pages:
     - id: 1
       name: first_page
-      label: survey_questions
-      hint: null
+      label: What is the purpose of the Public Law?
+      hint: Select all that apply
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - To protect individual rights
+      - To regulate commerce
+      - To establish public order
       required: false
     - id: 2
       name: first_question
-      label: question_one
-      hint: null
-      type: number
-      options: []
+      label: What is the primary function of public law?
+      hint: Select one option
+      type: select_one
+      options:
+      - To regulate and enforce laws
+      - To interpret and implement laws
+      - To advise and educate citizens
       required: false
     - id: 3
       name: first_question_answer
-      label: first_question_answer
+      label: What is the correct answer?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: first_page_note
-      label: first_page_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 5
-      name: first_question_type
-      label: question_type
-      hint: null
-      type: select_one
-      options:
-      - A
-      - B
-      - C
-      required: false
-    - id: 6
       name: second_page
-      label: second_page
-      hint: null
+      label: What are the types of public law?
+      hint: Select all that apply
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Municipal law
+      - State law
+      - Federal law
       required: false
-    - id: 7
+    - id: 5
       name: second_question
-      label: question_two
+      label: What is the definition of municipal law?
       hint: null
       type: number
       options: []
       required: false
-    - id: 8
+    - id: 6
       name: second_question_answer
-      label: second_question_answer
+      label: Second Question Answer
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: second_page_note
-      label: second_page_note
+    - id: 7
+      name: third_page
+      label: What is the hierarchy of public law?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Federal laws
+      - State laws
+      - Local laws
+      required: false
+    - id: 8
+      name: third_question
+      label: Third Question
       hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: third_page_note
+      label: Additional comments
+      hint: Any additional comments?
       type: note
       options: []
       required: false
     - id: 10
-      name: second_question_type
-      label: question_type
-      hint: null
+      name: fourth_page
+      label: What is the relationship between public law and public policy?
+      hint: Select one option
       type: select_one
       options:
-      - A
-      - B
-      - C
+      - Public law guides public policy
+      - Public policy guides public law
+      - Public law and public policy are independent
       required: false
     - id: 11
-      name: third_page
-      label: third_page
+      name: fourth_question
+      label: What is the correct relationship?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 12
-      name: third_question
-      label: question_three
-      hint: null
-      type: number
+      name: fourth_page_note
+      label: Fourth Page Note
+      hint: Any additional comments?
+      type: note
       options: []
       required: false
     - id: 13
-      name: third_question_answer
-      label: third_question_answer
-      hint: null
-      type: text
-      options: []
+      name: fifth_page
+      label: What is the role of public law in modern society?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - To maintain public order
+      - To protect individual rights
+      - To facilitate commerce
       required: false
     - id: 14
-      name: third_page_note
-      label: third_page_note
+      name: fifth_question
+      label: Fifth Question
       hint: null
-      type: note
+      type: number
       options: []
       required: false
     - id: 15
-      name: third_question_type
-      label: question_type
-      hint: null
-      type: select_one
-      options:
-      - A
-      - B
-      - C
+      name: fifth_page_note
+      label: Fifth Page Note
+      hint: Any additional comments?
+      type: note
+      options: []
       required: false
     - id: 16
-      name: fourth_page
-      label: fourth_page
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: fourth_question
-      label: question_four
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: fourth_question_answer
-      label: fourth_question_answer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: fourth_page_note
-      label: fourth_page_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: fourth_question_type
-      label: question_type
-      hint: null
-      type: select_one
-      options:
-      - A
-      - B
-      - C
-      required: false
-    - id: 21
-      name: fifth_page
-      label: fifth_page
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: fifth_question
-      label: question_five
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: fifth_question_answer
-      label: fifth_question_answer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: fifth_page_note
-      label: fifth_page_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
       name: submit
-      label: submit
+      label: Submit
       hint: null
       type: select_one
       options:

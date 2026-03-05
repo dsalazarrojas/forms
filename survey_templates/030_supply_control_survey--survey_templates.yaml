@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low'', ''value'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium'', ''value'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High'', ''value'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 4
       name: ordering_frequency
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Daily'', ''value'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly'', ''value'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Monthly'', ''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 5
       name: delivery_time

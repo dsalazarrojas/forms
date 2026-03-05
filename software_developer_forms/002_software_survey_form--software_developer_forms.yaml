@@ -16,11 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Software Developer Forms'', ''label'': ''Software
-        Developer Forms''}'
-      - '{''id'': 2, ''name'': ''Software Company Forms'', ''label'': ''Software Company
-        Forms''}'
-      - '{''id'': 3, ''name'': ''Other Forms'', ''label'': ''Other Forms''}'
+      - Software Developer Forms
+      - Software Company Forms
+      - Other Forms
       required: true
     - id: 3
       name: description
@@ -63,10 +61,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Rarely'', ''label'': ''Rarely''}'
-      - '{''id'': 2, ''name'': ''Occasionally'', ''label'': ''Occasionally''}'
-      - '{''id'': 3, ''name'': ''Often'', ''label'': ''Often''}'
-      - '{''id'': 4, ''name'': ''Always'', ''label'': ''Always''}'
+      - Rarely
+      - Occasionally
+      - Often
+      - Always
       required: true
     - id: 9
       name: time_of_day

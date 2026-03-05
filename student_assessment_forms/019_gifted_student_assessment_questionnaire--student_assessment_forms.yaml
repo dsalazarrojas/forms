@@ -4,69 +4,41 @@ inputSchema:
     title: Gifted Student Assessment Questionnaire
     pages:
     - id: 1
-      name: educator_input_1
-      label: What is your name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: educator_input_2
-      label: What is your title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
       name: student_input_1
-      label: Student's name
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 4
-      name: caregiver_input_1
-      label: Caregiver name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 2
       name: student_input_2
-      label: Student's grade
+      label: What is your title?
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 3
       name: student_input_3
-      label: Student's grade level
+      label: Student's grade level?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 4
       name: student_input_4
-      label: Student's date of birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: student_input_5
-      label: Student's ethnicity
+      label: What is your ethnicity?
       hint: null
       type: select_multiple
       options:
-      - African American
       - Asian
+      - African American
       - Hispanic or Latino
       - Native American
       - White
-      required: false
-    - id: 9
-      name: student_input_6
-      label: Student's language
+      required: true
+    - id: 5
+      name: student_input_5
+      label: What language do you use at home?
       hint: null
       type: select_one
       options:
@@ -75,118 +47,46 @@ inputSchema:
       - French
       - Chinese
       - Other
-      required: false
-    - id: 10
-      name: student_input_7
-      label: Student's disability status
+      required: true
+    - id: 6
+      name: student_input_6
+      label: Do you have any disability status?
       hint: null
       type: select_multiple
       options:
       - 'True'
       - 'False'
+      required: true
+    - id: 7
+      name: student_input_7
+      label: What are your accommodation needs?
+      hint: null
+      type: text
+      options: []
       required: false
-    - id: 11
+    - id: 8
       name: student_input_8
-      label: Student's accommodation
+      label: Who is your primary caregiver?
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
+    - id: 9
       name: student_input_9
-      label: teacher input 1
+      label: Who is your teacher?
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
+    - id: 10
       name: student_input_10
-      label: teacher input 2
+      label: What language do you speak?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: student_input_11
-      label: teacher input 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: student_input_12
-      label: teacher input 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: student_input_13
-      label: teacher input 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: student_input_14
-      label: teacher input 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: student_input_15
-      label: teacher input 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: student_input_16
-      label: teacher input 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: teacher_input_1
-      label: teacher input 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: teacher_input_2
-      label: teacher input 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: teacher_input_3
-      label: teacher input 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: teacher_input_4
-      label: teacher input 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: teacher_input_5
-      label: teacher input 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: student_input_21
-      label: Student's input 21
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      - Other
+      required: true

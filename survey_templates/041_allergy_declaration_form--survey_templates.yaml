@@ -65,8 +65,8 @@ inputSchema:
       hint: Any food allergies?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: specific_allergens
@@ -133,7 +133,7 @@ inputSchema:
       options:
       - Yes, always
       - Yes, sometimes
-      - false
+      - 'False'
       required: true
     - id: 16
       name: other_medical_conditions
@@ -213,7 +213,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I understand the risks
-      - false
+      - 'False'
       required: true
     - id: 26
       name: information_accuracy
@@ -222,7 +222,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, all information is accurate
-      - false
+      - 'False'
       required: true
     - id: 27
       name: staff_notification
@@ -232,7 +232,7 @@ inputSchema:
       options:
       - Yes, please inform all relevant staff
       - Yes, inform kitchen only
-      - false
+      - 'False'
       required: true
     - id: 28
       name: additional_notes

@@ -22,242 +22,145 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: introduction_2
-      label: how_do_you_feel
+      name: isolation_feeling
+      label: How do you currently feel about the isolation?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - I feel anxious.
+      - I feel depressed.
+      - I feel hopeless.
+      - I feel neutral.
+      - I feel relieved.
+      - I feel sad.
+      - I feel frustrated.
+      - I feel angry.
       required: false
     - id: 3
-      name: introduction_3
-      label: what_happens
+      name: isolation_effects
+      label: What are some of the things that happened as a result of your isolation?
+        (Select all that apply)
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - I lost contact with friends and family.
+      - I experienced financial strain.
+      - I felt lonely.
+      - I had a lack of social interaction.
+      - I had a lack of support system.
+      - I was isolated from community activities.
+      - I experienced physical health problems.
+      - I experienced mental health problems.
       required: false
     - id: 4
-      name: introduction_4
-      label: what_happens_2
+      name: coping_strategies
+      label: How have you coped with the isolation?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - I exercised regularly.
+      - I practiced mindfulness.
+      - I connected with loved ones.
+      - I focused on hobbies.
+      - I sought professional help.
+      - I relied on online support groups.
+      - I kept a journal.
+      - I learned new skills.
       required: false
     - id: 5
-      name: introduction_5
-      label: how_did_you_cope
+      name: isolation_effects_2
+      label: What are some of the things that happened due to your isolation? (Select
+        all that apply)
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - I lost my job.
+      - I experienced financial strain.
+      - I felt lonely.
+      - I had a lack of social interaction.
+      - I had a lack of support system.
+      - I was isolated from community activities.
+      - I experienced physical health problems.
+      - I experienced mental health problems.
       required: false
     - id: 6
-      name: introduction_6
-      label: what_happens_3
+      name: feelings_start
+      label: How did you feel about the isolation at the start?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - I felt anxious.
+      - I felt depressed.
+      - I felt hopeless.
+      - I felt relieved.
+      - I felt sad.
+      - I felt frustrated.
+      - I felt angry.
       required: false
     - id: 7
-      name: introduction_7
-      label: how_did_you_cope_2
+      name: coping_strategies_2
+      label: What are some of the things that helped you cope with the isolation?
+        (Select one)
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - I exercised regularly.
+      - I practiced mindfulness.
+      - I connected with loved ones.
+      - I focused on hobbies.
+      - I sought professional help.
+      - I relied on online support groups.
+      - I kept a journal.
+      - I learned new skills.
       required: false
     - id: 8
-      name: introduction_8
-      label: what_happens_4
+      name: effects_start
+      label: Effects Start
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - I lost contact with friends and family.
+      - I experienced financial strain.
+      - I felt lonely.
+      - I had a lack of social interaction.
+      - I had a lack of support system.
+      - I was isolated from community activities.
+      - I experienced physical health problems.
+      - I experienced mental health problems.
       required: false
     - id: 9
-      name: introduction_9
-      label: introduction_2
+      name: feelings_end
+      label: How did you feel about the isolation after it ended?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - I feel anxious.
+      - I feel depressed.
+      - I feel hopeless.
+      - I feel relieved.
+      - I feel sad.
+      - I feel frustrated.
+      - I feel angry.
       required: false
     - id: 10
-      name: introduction_10
-      label: how_did_you_feel_2
+      name: effects_end
+      label: Effects End
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - I lost contact with friends and family.
+      - I experienced financial strain.
+      - I felt lonely.
+      - I had a lack of social interaction.
+      - I had a lack of support system.
+      - I was isolated from community activities.
+      - I experienced physical health problems.
+      - I experienced mental health problems.
       required: false
     - id: 11
-      name: introduction_11
-      label: what_happens_2
+      name: openended_question
+      label: Open-ended question for any additional feedback
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 12
-      name: introduction_12
-      label: how_did_you_cope_2
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 13
-      name: introduction_13
-      label: what_happens_3
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 14
-      name: introduction_14
-      label: how_did_you_feel_2
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 15
-      name: introduction_15
-      label: what_happens_4
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 16
-      name: introduction_16
-      label: how_did_you_cope_3
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 17
-      name: introduction_17
-      label: what_happens_5
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 18
-      name: introduction_18
-      label: how_did_you_feel_3
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 19
-      name: introduction_19
-      label: what_happens_6
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 20
-      name: introduction_20
-      label: how_did_you_cope_4
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: introduction_21
-      label: what_happens_7
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 22
-      name: introduction_22
-      label: how_did_you_feel_4
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 23
-      name: introduction_23
-      label: what_happens_8
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 24
-      name: introduction_24
-      label: how_did_you_cope_5
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 25
-      name: introduction_25
-      label: how_did_you_feel_5
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
+      type: note
+      options: []
       required: false

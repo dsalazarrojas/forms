@@ -4,26 +4,22 @@ inputSchema:
     title: Salary Survey For Public Officials
     pages:
     - id: 1
-      name: survey_1
-      label: What is your role?
+      name: role_1
+      label: What is your role in the public official position (job title)?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 2
       name: salary_2
-      label: What is your salary range (per year)?
+      label: What is your annual salary range?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 3
-      name: survey_3
-      label: What are your benefits?
+      name: benefits_3
+      label: Do you have any benefits with your job?
       hint: null
       type: select_multiple
       options:
@@ -31,8 +27,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 4
-      name: salary_4
-      label: What is your salary range (per year)?
+      name: satisfaction_4
+      label: Are you satisfied with your current job?
       hint: null
       type: select_one
       options:
@@ -40,50 +36,66 @@ inputSchema:
       - 'No'
       required: false
     - id: 5
-      name: benefits_5
-      label: What are your benefits?
+      name: schedule_5
+      label: What is your typical work schedule like (hours worked per week)?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: day_at_work_6
+      label: Can you describe your typical day at work?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: training_7
+      label: What kind of training have you received for your job?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 6
-      name: job_6
-      label: What is your job title/position?
+    - id: 8
+      name: experience_8
+      label: How many years do you have of experience in this position?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
-    - id: 7
-      name: survey_7
-      label: Are you satisfied with your job?
+    - id: 9
+      name: job_security_9
+      label: Do you feel your job is secure?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 8
-      name: role_8
-      label: What is your role?
+    - id: 10
+      name: work_life_10
+      label: Are you able to balance work and family life?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 9
-      name: job_9
-      label: What is your job title/position?
+    - id: 11
+      name: stress_anxiety_11
+      label: Do you have any job-related stress or anxiety?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
-    - id: 10
-      name: job_10
-      label: What is your job title/position?
+    - id: 12
+      name: weeks_worked_12
+      label: How many weeks do you work per year?
       hint: null
-      type: text
+      type: number
       options: []
       required: false

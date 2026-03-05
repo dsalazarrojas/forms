@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Type 1''}'
-      - '{''id'': 2, ''value'': ''Type 2''}'
-      - '{''id'': 3, ''value'': ''Type 3''}'
+      - Type 1
+      - Type 2
+      - Type 3
       required: false
     - id: 3
       name: photo_description
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''None''}'
-      - '{''id'': 2, ''value'': ''Low''}'
-      - '{''id'': 3, ''value'': ''High''}'
+      - None
+      - Low
+      - High
       required: false
     - id: 7
       name: repair_cost
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Chatjimmy''}'
-      - '{''id'': 2, ''value'': ''Another''}'
+      - Chatjimmy
+      - Another
       required: false
     - id: 13
       name: category
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''A''}'
-      - '{''id'': 2, ''value'': ''B''}'
-      - '{''id'': 3, ''value'': ''C''}'
+      - A
+      - B
+      - C
       required: false
     - id: 14
       name: equipment_count
@@ -139,9 +139,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Good''}'
-      - '{''id'': 2, ''value'': ''Fair''}'
-      - '{''id'': 3, ''value'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 19
       name: purchase_method
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Lease''}'
-      - '{''id'': 2, ''value'': ''Own''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - Lease
+      - Own
+      - Other
       required: false
     - id: 20
       name: purchase_date_range

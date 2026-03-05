@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''team1'', ''label'': ''Team 1''}'
-      - '{''value'': ''team2'', ''label'': ''Team 2''}'
+      - Team 1
+      - Team 2
       required: true
     - id: 3
       name: player_position
@@ -25,11 +25,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Goalkeeper'', ''label'': ''Goalkeeper''}'
-      - '{''value'': ''Defender'', ''label'': ''Defender''}'
-      - '{''value'': ''Midfielder'', ''label'': ''Midfielder''}'
-      - '{''value'': ''Forward'', ''label'': ''Forward''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Goalkeeper
+      - Defender
+      - Midfielder
+      - Forward
+      - Other
       required: false
     - id: 4
       name: reason
@@ -79,7 +79,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Match Report'', ''label'': ''Match Report''}'
-      - '{''value'': ''Event Report'', ''label'': ''Event Report''}'
-      - '{''value'': ''Both'', ''label'': ''Both''}'
+      - Match Report
+      - Event Report
+      - Both
       required: false

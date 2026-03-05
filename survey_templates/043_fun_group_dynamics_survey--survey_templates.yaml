@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Small Team''}'
-      - '{''id'': 2, ''label'': ''Medium Team''}'
-      - '{''id'': 3, ''label'': ''Large Team''}'
+      - Small Team
+      - Medium Team
+      - Large Team
       required: false
     - id: 3
       name: feedback_style
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Direct and Clear''}'
-      - '{''id'': 2, ''label'': ''Indirect and Clear''}'
-      - '{''id'': 3, ''label'': ''Direct and Vague''}'
-      - '{''id'': 4, ''label'': ''Indirect and Vague''}'
+      - Direct and Clear
+      - Indirect and Clear
+      - Direct and Vague
+      - Indirect and Vague
       required: false
     - id: 6
       name: collaboration_frequency
@@ -52,11 +52,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Almost Never''}'
-      - '{''id'': 2, ''label'': ''Rarely''}'
-      - '{''id'': 3, ''label'': ''Occasionally''}'
-      - '{''id'': 4, ''label'': ''Often''}'
-      - '{''id'': 5, ''label'': ''Almost Always''}'
+      - Almost Never
+      - Rarely
+      - Occasionally
+      - Often
+      - Almost Always
       required: false
     - id: 7
       name: fun_moments
@@ -64,10 +64,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Celebrating Successes''}'
-      - '{''id'': 2, ''label'': ''Playing Games''}'
-      - '{''id'': 3, ''label'': ''Team Lunches''}'
-      - '{''id'': 4, ''label'': ''Team Challenges''}'
+      - Celebrating Successes
+      - Playing Games
+      - Team Lunches
+      - Team Challenges
       required: false
     - id: 8
       name: suggestions
@@ -83,9 +83,9 @@ inputSchema:
         experience.
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Always''}'
-      - '{''id'': 2, ''label'': ''Often''}'
-      - '{''id'': 3, ''label'': ''Sometimes''}'
-      - '{''id'': 4, ''label'': ''Rarely''}'
-      - '{''id'': 5, ''label'': ''Never''}'
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
       required: false

@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Undergraduate''}'
-      - '{''label'': ''Graduate''}'
-      - '{''label'': ''Certificate''}'
-      - '{''label'': ''Other''}'
+      - Undergraduate
+      - Graduate
+      - Certificate
+      - Other
       required: false
     - id: 5
       name: education_level
@@ -41,11 +41,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High School''}'
-      - '{''label'': ''Some College''}'
-      - '{''label'': ''Bachelor''}'
-      - '{''label'': ''Master''}'
-      - '{''label'': ''Doctoral''}'
+      - High School
+      - Some College
+      - Bachelor
+      - Master
+      - Doctoral
       required: false
     - id: 6
       name: start_date

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Course A'', ''value'': ''Course A''}'
-      - '{''label'': ''Course B'', ''value'': ''Course B''}'
-      - '{''label'': ''Course C'', ''value'': ''Course C''}'
+      - Course A
+      - Course B
+      - Course C
       required: false
     - id: 3
       name: enrollment_date
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Cash'', ''value'': ''Cash''}'
-      - '{''label'': ''PayPal'', ''value'': ''PayPal''}'
-      - '{''label'': ''Bank Transfer'', ''value'': ''Bank Transfer''}'
+      - Cash
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 10
       name: agreement
@@ -85,6 +85,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Submit'', ''value'': ''Submit''}'
-      - '{''label'': ''Save for Later'', ''value'': ''Save for Later''}'
+      - Submit
+      - Save for Later
       required: false

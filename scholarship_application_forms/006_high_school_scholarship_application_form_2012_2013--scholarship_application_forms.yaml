@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Home''}'
-      - '{''value'': ''School''}'
-      - '{''value'': ''Both''}'
+      - Home
+      - School
+      - Both
       required: false
     - id: 4
       name: academic_info
@@ -58,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''English''}'
-      - '{''value'': ''Math''}'
-      - '{''value'': ''Science''}'
-      - '{''value'': ''Foreign''}'
+      - English
+      - Math
+      - Science
+      - Foreign
       required: false
     - id: 7
       name: school_info
@@ -76,10 +65,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Business''}'
-      - '{''value'': ''Science''}'
-      - '{''value'': ''Engineering''}'
-      - '{''value'': ''Art''}'
+      - Business
+      - Science
+      - Engineering
+      - Art
       required: false
     - id: 9
       name: student_details

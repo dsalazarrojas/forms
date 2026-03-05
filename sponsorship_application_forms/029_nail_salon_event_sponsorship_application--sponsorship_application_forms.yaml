@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Sponsor Name''}'
-      - '{''option'': ''Sponsor Contact''}'
-      - '{''option'': ''Sponsor Email''}'
-      - '{''option'': ''Sponsor Phone''}'
-      - '{''option'': ''Sponsor Address''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: true
     - id: 7
       name: sponsorship_type
@@ -56,10 +56,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Cash''}'
-      - '{''option'': ''Products''}'
-      - '{''option'': ''Services''}'
-      - '{''option'': ''In-Kind''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: true
     - id: 8
       name: sponsorship_request
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option'': True}'
-      - '{''option'': False}'
+      - Option 1
+      - Option 2
       required: true
     - id: 10
       name: event_description
@@ -118,9 +118,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Applied''}'
-      - '{''option'': ''Approved''}'
-      - '{''option'': ''Rejected''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 16
       name: sponsor_note

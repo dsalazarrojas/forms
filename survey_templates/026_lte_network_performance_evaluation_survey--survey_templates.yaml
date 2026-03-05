@@ -18,12 +18,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Excellent''}'
-      - '{''value'': 2, ''label'': ''Very Good''}'
-      - '{''value'': 3, ''label'': ''Good''}'
-      - '{''value'': 4, ''label'': ''Neutral''}'
-      - '{''value'': 5, ''label'': ''Bad''}'
-      - '{''value'': 6, ''label'': ''Very Bad''}'
+      - Excellent
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
+      - Very Bad
       required: true
     - id: 3
       name: section_2
@@ -31,10 +31,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''signal_loss''}'
-      - '{''value'': 2, ''label'': ''data_speed''}'
-      - '{''value'': 3, ''label'': ''call_drop''}'
-      - '{''value'': 4, ''label'': ''poor_coverage''}'
+      - signal loss
+      - data speed
+      - call drop
+      - poor coverage
       required: false
     - id: 4
       name: section_3
@@ -42,11 +42,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''excellent''}'
-      - '{''value'': 2, ''label'': ''very_good''}'
-      - '{''value'': 3, ''label'': ''good''}'
-      - '{''value'': 4, ''label'': ''average''}'
-      - '{''value'': 5, ''label'': ''poor''}'
+      - excellent
+      - very good
+      - good
+      - average
+      - poor
       required: false
     - id: 5
       name: section_4

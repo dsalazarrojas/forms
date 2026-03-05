@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Family Member''}'
-      - '{''id'': 2, ''label'': ''Friend''}'
-      - '{''id'': 3, ''label'': ''Guest''}'
+      - Family Member
+      - Friend
+      - Guest
       required: true
     - id: 3
       name: contact_number
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Traditional''}'
-      - '{''id'': 2, ''label'': ''Non-traditional''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Traditional
+      - Non-traditional
+      - Other
       required: true
     - id: 7
       name: notes
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Traditional''}'
-      - '{''id'': 2, ''label'': ''Non-traditional''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Traditional
+      - Non-traditional
+      - Other
       required: false
     - id: 12
       name: logistics
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Traditional''}'
-      - '{''id'': 2, ''label'': ''Non-traditional''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Traditional
+      - Non-traditional
+      - Other
       required: false
     - id: 14
       name: funeral_services
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''On-site''}'
-      - '{''id'': 2, ''label'': ''Off-site''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - On-site
+      - Off-site
+      - Other
       required: false
     - id: 16
       name: catering
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - 'True'
+      - 'False'
+      - Other
       required: false
     - id: 17
       name: audio_visual
@@ -139,9 +139,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - 'True'
+      - 'False'
+      - Other
       required: false
     - id: 18
       name: video_stream
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - 'True'
+      - 'False'
+      - Other
       required: false
     - id: 19
       name: live_stream
@@ -159,9 +159,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - 'True'
+      - 'False'
+      - Other
       required: false
     - id: 20
       name: streaming
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - 'True'
+      - 'False'
+      - Other
       required: false
     - id: 21
       name: streaming_capacity
@@ -214,7 +214,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''YouTube''}'
-      - '{''id'': 2, ''label'': ''Vimeo''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - YouTube
+      - Vimeo
+      - Other
       required: false

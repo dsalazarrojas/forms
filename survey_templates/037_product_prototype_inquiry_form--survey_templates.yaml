@@ -4,63 +4,31 @@ inputSchema:
     title: product_prototype_inquiry_form
     pages:
     - id: 1
-      name: business_name
-      label: Company Name
+      name: company_details
+      label: Company Details
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: contact_email
-      label: Contact Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 3
-      name: contact_phone
-      label: Contact Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: product_name
-      label: Product Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: product_description
       label: Product Description
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
-      name: product_version
-      label: Product Version
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: feedback_on_product
-      label: Feedback on Product
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
+    - id: 3
       name: feedback_on_usability
       label: Feedback on Usability
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Very good
+      - Average
+      - Poor
       required: false
-    - id: 9
-      name: feedback_on_usability_options
+    - id: 4
+      name: feedback_on_usability_issues
       label: What usability issues did you encounter?
       hint: e.g. difficulty navigating the interface, unclear instructions
       type: select_multiple
@@ -69,30 +37,16 @@ inputSchema:
       - Unclear instructions
       - Other (please specify)
       required: false
-    - id: 10
-      name: feedback_on_usability_other
-      label: Other (please specify)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: feedback_on_usability_other_comments
-      label: Please provide more details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
+    - id: 5
       name: product_improvement_recommendations
       label: Product Improvement Recommendations
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: contact_preferred_contact_method
-      label: Preferred contact method
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred Contact Method
       hint: null
       type: select_one
       options:
@@ -100,84 +54,7 @@ inputSchema:
       - Email
       - In-person
       required: false
-    - id: 14
-      name: contact_preferred_contact_method_other
-      label: Other (please specify)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: contact_preferred_contact_method_comments
-      label: Please provide more details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
+    - id: 7
       name: comments
       label: Comments
       hint: null

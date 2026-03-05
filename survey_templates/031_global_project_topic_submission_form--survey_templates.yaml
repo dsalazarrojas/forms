@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''option_1''}'
-      - '{''id'': 2, ''name'': ''option_2''}'
+      - option 1
+      - option 2
       required: false
     - id: 3
       name: organization
@@ -60,10 +60,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''active''}'
-      - '{''id'': 2, ''name'': ''not_active''}'
-      - '{''id'': 3, ''name'': ''pending''}'
-      - '{''id'': 4, ''name'': ''canceled''}'
+      - active
+      - not active
+      - pending
+      - canceled
       required: false
     - id: 9
       name: deadline
@@ -78,7 +78,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''low''}'
-      - '{''id'': 2, ''name'': ''high''}'
-      - '{''id'': 3, ''name'': ''medium''}'
+      - low
+      - high
+      - medium
       required: true

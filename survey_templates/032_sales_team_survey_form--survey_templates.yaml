@@ -4,213 +4,98 @@ inputSchema:
     title: sales_team_survey_form
     pages:
     - id: 1
-      name: first_page
-      label: first_page
-      hint: null
-      type: note
+      name: sales_performance
+      label: Sales Performance
+      hint: A brief description of sales performance
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: performance
-      label: sales_performance
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 3
       name: sales_quotas
-      label: sales_quotas
+      label: Sales Quotas
       hint: null
       type: select_one
       options:
       - Quota 1
       - Quota 2
       - Quota 3
-      required: false
-    - id: 4
-      name: sales_quotas
-      label: sales_quotas
-      hint: null
+      required: true
+    - id: 3
+      name: sales_target
+      label: Sales Target
+      hint: Target to be achieved
       type: select_multiple
       options:
-      - Quota 1
-      - Quota 2
-      - Quota 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
+    - id: 4
+      name: target_time
+      label: Target Time
+      hint: Target time to be achieved
+      type: time
+      options: []
+      required: false
     - id: 5
-      name: sales_target
-      label: sales_target
-      hint: null
-      type: number
+      name: performance_date
+      label: Performance Date
+      hint: Date of last performance review
+      type: date
       options: []
       required: false
     - id: 6
-      name: sales_target
-      label: sales_target
+      name: target_hours
+      label: Target Hours
+      hint: Target hours to be worked
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: sales_performance_rating
+      label: Sales Performance Rating
       hint: null
       type: select_one
       options:
-      - '100'
-      - '500'
-      - '1000'
-      required: false
-    - id: 7
-      name: sales_target
-      label: sales_target
-      hint: null
-      type: select_multiple
-      options:
-      - '100'
-      - '500'
-      - '1000'
+      - Excellent
+      - Good
+      - Needs Improvement
       required: true
     - id: 8
-      name: sales_target
-      label: sales_target
-      hint: null
+      name: sales_team_size
+      label: Sales Team Size
+      hint: Number of people in the sales team
       type: number
       options: []
       required: false
     - id: 9
-      name: sales_target
-      label: sales_target
-      hint: null
-      type: select_one
-      options:
-      - '100'
-      - '500'
-      - '1000'
-      required: false
-    - id: 10
-      name: sales_target
-      label: sales_target
+      name: sales_quotas_distribution
+      label: Sales Quotas Distribution
       hint: null
       type: select_multiple
       options:
-      - '100'
-      - '500'
-      - '1000'
+      - Quota 1
+      - Quota 2
+      - Quota 3
+      required: true
+    - id: 10
+      name: target_days
+      label: Target Days
+      hint: Target days to be worked
+      type: number
+      options: []
       required: true
     - id: 11
-      name: sales_target
-      label: sales_target
-      hint: null
-      type: number
+      name: sales_performance_evaluation
+      label: Sales Performance Evaluation
+      hint: Evaluation of sales performance
+      type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: sales_target
-      label: sales_target
-      hint: null
-      type: select_one
-      options:
-      - '100'
-      - '500'
-      - '1000'
-      required: false
-    - id: 13
-      name: first_page
-      label: first_page
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: sales_performance
-      label: sales_performance
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: sales_target
-      label: sales_target
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: sales_target
-      label: sales_target
-      hint: null
-      type: select_one
-      options:
-      - 10:00 AM
-      - 12:00 PM
-      - 02:00 PM
-      required: false
-    - id: 17
-      name: sales_target
-      label: sales_target
-      hint: null
-      type: select_multiple
-      options:
-      - 10:00 AM
-      - 12:00 PM
-      - 02:00 PM
-      required: true
-    - id: 18
-      name: sales_target
-      label: sales_target
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: first_page
-      label: first_page
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: sales_quotas
-      label: sales_quotas
-      hint: null
-      type: select_one
-      options:
-      - Quota 1
-      - Quota 2
-      - Quota 3
-      required: false
-    - id: 21
-      name: sales_quotas
-      label: sales_quotas
-      hint: null
-      type: select_multiple
-      options:
-      - Quota 1
-      - Quota 2
-      - Quota 3
-      required: true
-    - id: 22
-      name: first_page
-      label: first_page
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: sales_performance
-      label: sales_performance
-      hint: null
+      name: target_percentage
+      label: Target Percentage
+      hint: Target percentage to be achieved
       type: number
       options: []
-      required: false
-    - id: 24
-      name: sales_performance
-      label: sales_performance
-      hint: null
-      type: select_one
-      options:
-      - '100'
-      - '500'
-      - '1000'
-      required: false
-    - id: 25
-      name: first_page
-      label: first_page
-      hint: null
-      type: note
-      options: []
-      required: false
+      required: true

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''A''}'
-      - '{''id'': 2, ''label'': ''B''}'
-      - '{''id'': 3, ''label'': ''C''}'
+      - A
+      - B
+      - C
       required: true
     - id: 3
       name: crime_scene
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not Started''}'
-      - '{''id'': 2, ''label'': ''Ongoing''}'
-      - '{''id'': 3, ''label'': ''Completed''}'
+      - Not Started
+      - Ongoing
+      - Completed
       required: true
     - id: 6
       name: suspect_interview
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Closed''}'
+      - Active
+      - Closed
       required: true
     - id: 8
       name: investigator_notes
@@ -73,11 +73,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''A''}'
-      - '{''id'': 2, ''label'': ''B''}'
-      - '{''id'': 3, ''label'': ''C''}'
-      - '{''id'': 4, ''label'': ''D''}'
-      - '{''id'': 5, ''label'': ''E''}'
+      - A
+      - B
+      - C
+      - D
+      - E
       required: true
     - id: 10
       name: email
@@ -148,9 +148,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''18-30''}'
-      - '{''id'': 2, ''label'': ''31-45''}'
-      - '{''id'': 3, ''label'': ''46-60''}'
+      - 18-30
+      - 31-45
+      - 46-60
       required: true
     - id: 20
       name: suspect_gender
@@ -158,10 +158,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
-      - '{''id'': 3, ''label'': ''Other''}'
-      - '{''id'': 4, ''label'': ''Prefer Not To Say''}'
+      - Male
+      - Female
+      - Other
+      - Prefer Not To Say
       required: true
     - id: 21
       name: suspect_race
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Asian''}'
-      - '{''id'': 2, ''label'': ''Black or African American''}'
-      - '{''id'': 3, ''label'': ''White''}'
+      - Asian
+      - Black or African American
+      - White
       required: true
     - id: 22
       name: suspect_weight
@@ -179,9 +179,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Less than 120''}'
-      - '{''id'': 2, ''label'': ''120-180''}'
-      - '{''id'': 3, ''label'': ''Over 180''}'
+      - Less than 120
+      - 120-180
+      - Over 180
       required: false
     - id: 23
       name: suspect_height
@@ -189,11 +189,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': "Less than 5''6"}'
-      - '{''id'': 2, ''label'': "5''6-5''10"}'
-      - '{''id'': 3, ''label'': "5''11-6''1"}'
-      - '{''id'': 4, ''label'': "6''2-6''6"}'
-      - '{''id'': 5, ''label'': "Over 6''"}'
+      - Less than 5'6
+      - 5'6-5'10
+      - 5'11-6'1
+      - 6'2-6'6
+      - Over 6'
       required: true
     - id: 24
       name: suspect_eye_color
@@ -201,11 +201,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Blue''}'
-      - '{''id'': 2, ''label'': ''Brown''}'
-      - '{''id'': 3, ''label'': ''Green''}'
-      - '{''id'': 4, ''label'': ''Hazel''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Blue
+      - Brown
+      - Green
+      - Hazel
+      - Other
       required: true
     - id: 25
       name: suspect_hair_color
@@ -213,9 +213,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Blonde''}'
-      - '{''id'': 2, ''label'': ''Brown''}'
-      - '{''id'': 3, ''label'': ''Black''}'
-      - '{''id'': 4, ''label'': ''Gray''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Blonde
+      - Brown
+      - Black
+      - Gray
+      - Other
       required: true

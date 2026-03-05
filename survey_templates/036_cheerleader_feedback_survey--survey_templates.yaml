@@ -1,156 +1,145 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cheerleader Feedback Survey
     pages:
-      - id: 1
-        name: section_respondent_info
-        label: -- Survey Respondent Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_role_type
-        label: Your Role
-        hint: null
-        type: select_one
-        options:
-          - Cheerleader (Athlete)
-          - Coach
-          - Parent / Guardian
-          - Administrative Staff
-        required: true
-      - id: 3
-        name: respondent_full_name_opt
-        label: Your Full Name
-        hint: Optional for anonymous feedback
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: section_program_satisfaction
-        label: -- Program Satisfaction --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: coaching_effectiveness_rating
-        label: Satisfaction with Coaching Quality
-        hint: Instructional ability, encouragement, and fairness
-        type: select_one
-        options:
-          - Very Satisfied
-          - Satisfied
-          - Neutral
-          - Unsatisfied
-          - Very Unsatisfied
-        required: true
-      - id: 6
-        name: team_spirit_rating_score
-        label: Team Spirit and Morale Rating
-        hint: null
-        type: select_one
-        options:
-          - High Morale
-          - Average Morale
-          - Low Morale
-        required: true
-      - id: 7
-        name: skill_development_progress_rating
-        label: Satisfaction with Skills Development
-        hint: Progress in tumbling, stunting, and routine
-        type: select_one
-        options:
-          - Excellent Progress
-          - Steady Progress
-          - Little Progress
-          - No Progress
-        required: true
-      - id: 8
-        name: section_likes_dislikes
-        label: -- Experience Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: most_enjoyed_program_activity
-        label: What part of the program do you enjoy most
-        hint: e.g. competitions, practice, games
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: least_enjoyed_program_activity
-        label: What part of the program do you enjoy least
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: bonding_activity_suggestions
-        label: Suggestions for Team Bonding Activities
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: communication_rating_admin
-        label: Rating of Program Communication
-        hint: Emails, schedules, and announcements
-        type: select_one
-        options:
-          - Clear and Timely
-          - Mostly Clear
-          - Often Confusing
-          - Very Poor
-        required: true
-      - id: 13
-        name: overall_experience_rating
-        label: Overall Program Rating
-        hint: null
-        type: select_one
-        options:
-          - 5 Stars - Outstanding
-          - 4 Stars - Great
-          - 3 Stars - Average
-          - 2 Stars - Needs Improvement
-          - 1 Star - Poor
-        required: true
-      - id: 14
-        name: recommended_likelihood_friend
-        label: Would you recommend this program to a friend
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - Maybe
-          - No
-        required: true
-      - id: 15
-        name: additional_comments_survey
-        label: Any other comments or concerns
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: survey_completion_timestamp
-        label: Date of Feedback
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_respondent_info
+      label: -- Survey Respondent Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role_type
+      label: Your Role
+      hint: null
+      type: select_one
+      options:
+      - Cheerleader (Athlete)
+      - Coach
+      - Parent / Guardian
+      - Administrative Staff
+      required: true
+    - id: 3
+      name: respondent_full_name_opt
+      label: Your Full Name
+      hint: Optional for anonymous feedback
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_program_satisfaction
+      label: -- Program Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: coaching_effectiveness_rating
+      label: Satisfaction with Coaching Quality
+      hint: Instructional ability, encouragement, and fairness
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Unsatisfied
+      - Very Unsatisfied
+      required: true
+    - id: 6
+      name: team_spirit_rating_score
+      label: Team Spirit and Morale Rating
+      hint: null
+      type: select_one
+      options:
+      - High Morale
+      - Average Morale
+      - Low Morale
+      required: true
+    - id: 7
+      name: skill_development_progress_rating
+      label: Satisfaction with Skills Development
+      hint: Progress in tumbling, stunting, and routine
+      type: select_one
+      options:
+      - Excellent Progress
+      - Steady Progress
+      - Little Progress
+      - No Progress
+      required: true
+    - id: 8
+      name: section_likes_dislikes
+      label: -- Experience Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: most_enjoyed_program_activity
+      label: What part of the program do you enjoy most
+      hint: e.g. competitions, practice, games
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: least_enjoyed_program_activity
+      label: What part of the program do you enjoy least
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: bonding_activity_suggestions
+      label: Suggestions for Team Bonding Activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: communication_rating_admin
+      label: Rating of Program Communication
+      hint: Emails, schedules, and announcements
+      type: select_one
+      options:
+      - Clear and Timely
+      - Mostly Clear
+      - Often Confusing
+      - Very Poor
+      required: true
+    - id: 13
+      name: overall_experience_rating
+      label: Overall Program Rating
+      hint: null
+      type: select_one
+      options:
+      - 5 Stars - Outstanding
+      - 4 Stars - Great
+      - 3 Stars - Average
+      - 2 Stars - Needs Improvement
+      - 1 Star - Poor
+      required: true
+    - id: 14
+      name: recommended_likelihood_friend
+      label: Would you recommend this program to a friend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - Maybe
+      - 'False'
+      required: true
+    - id: 15
+      name: additional_comments_survey
+      label: Any other comments or concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: survey_completion_timestamp
+      label: Date of Feedback
+      hint: null
+      type: date
+      options: []
+      required: true

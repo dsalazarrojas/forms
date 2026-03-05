@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Manager'', ''value'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Team Member'', ''value'': ''Team Member''}'
-      - '{''id'': 3, ''label'': ''Team Lead'', ''value'': ''Team Lead''}'
+      - Manager
+      - Team Member
+      - Team Lead
       required: true
     - id: 2
       name: productivity_and_wellness_survey_what_is_your_current_status_on_a_scale_of_10
@@ -26,13 +26,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Less than 40 hours'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''40 hours'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''More than 40 hours'', ''value'': 3}'
+      - Less than 40 hours
+      - 40 hours
+      - More than 40 hours
       required: true
     - id: 4
       name: productivity_and_wellness_survey_what_is_your_average_work_hours_last_week_hint
-      label: What is your average work hours last week?
+      label: Productivity And Wellness Survey What Is Your Average Work Hours Last
+        Week Hint
       hint: Please provide an exact number.
       type: text
       options: []
@@ -43,10 +44,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Rarely'', ''value'': ''Rarely''}'
-      - '{''id'': 2, ''label'': ''Sometimes'', ''value'': ''Sometimes''}'
-      - '{''id'': 3, ''label'': ''Often'', ''value'': ''Often''}'
-      - '{''id'': 4, ''label'': ''Almost Always'', ''value'': ''Almost Always''}'
+      - Rarely
+      - Sometimes
+      - Often
+      - Almost Always
       required: true
     - id: 6
       name: productivity_and_wellness_survey_do_you_feel_motivated
@@ -54,11 +55,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 2, ''label'': ''A bit'', ''value'': ''A bit''}'
-      - '{''id'': 3, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''Very'', ''value'': ''Very''}'
-      - '{''id'': 5, ''label'': ''Extremely'', ''value'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 7
       name: productivity_and_wellness_survey_do_you_feel_happy
@@ -66,10 +67,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Rarely'', ''value'': ''Rarely''}'
-      - '{''id'': 2, ''label'': ''Sometimes'', ''value'': ''Sometimes''}'
-      - '{''id'': 3, ''label'': ''Often'', ''value'': ''Often''}'
-      - '{''id'': 4, ''label'': ''Almost Always'', ''value'': ''Almost Always''}'
+      - Rarely
+      - Sometimes
+      - Often
+      - Almost Always
       required: true
     - id: 8
       name: productivity_and_wellness_survey_do_you_feel_supported
@@ -77,11 +78,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 2, ''label'': ''A bit'', ''value'': ''A bit''}'
-      - '{''id'': 3, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''Very'', ''value'': ''Very''}'
-      - '{''id'': 5, ''label'': ''Extremely'', ''value'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 9
       name: productivity_and_wellness_survey_do_you_feel_connected
@@ -89,11 +90,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 2, ''label'': ''A bit'', ''value'': ''A bit''}'
-      - '{''id'': 3, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''Very'', ''value'': ''Very''}'
-      - '{''id'': 5, ''label'': ''Extremely'', ''value'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 10
       name: productivity_and_wellness_survey_do_you_feel_respected
@@ -101,10 +102,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Rarely'', ''value'': ''Rarely''}'
-      - '{''id'': 2, ''label'': ''Sometimes'', ''value'': ''Sometimes''}'
-      - '{''id'': 3, ''label'': ''Often'', ''value'': ''Often''}'
-      - '{''id'': 4, ''label'': ''Almost Always'', ''value'': ''Almost Always''}'
+      - Rarely
+      - Sometimes
+      - Often
+      - Almost Always
       required: true
     - id: 11
       name: productivity_and_wellness_survey_do_you_feel_safe
@@ -112,23 +113,23 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 2, ''label'': ''A bit'', ''value'': ''A bit''}'
-      - '{''id'': 3, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''Very'', ''value'': ''Very''}'
-      - '{''id'': 5, ''label'': ''Extremely'', ''value'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 12
-      name: productivity_and_wellness_survey_do_you_feel_supported
-      label: Do you feel supported?
+      name: productivity_and_wellness_survey_do_you_feel_supported_2
+      label: Productivity And Wellness Survey Do You Feel Supported 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 2, ''label'': ''A bit'', ''value'': ''A bit''}'
-      - '{''id'': 3, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''Very'', ''value'': ''Very''}'
-      - '{''id'': 5, ''label'': ''Extremely'', ''value'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 13
       name: productivity_and_wellness_survey_do_you_feel_happy_at_work
@@ -136,10 +137,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Rarely'', ''value'': ''Rarely''}'
-      - '{''id'': 2, ''label'': ''Sometimes'', ''value'': ''Sometimes''}'
-      - '{''id'': 3, ''label'': ''Often'', ''value'': ''Often''}'
-      - '{''id'': 4, ''label'': ''Almost Always'', ''value'': ''Almost Always''}'
+      - Rarely
+      - Sometimes
+      - Often
+      - Almost Always
       required: true
     - id: 14
       name: productivity_and_wellness_survey_do_you_feel_connected_at_work
@@ -147,11 +148,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 2, ''label'': ''A bit'', ''value'': ''A bit''}'
-      - '{''id'': 3, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''Very'', ''value'': ''Very''}'
-      - '{''id'': 5, ''label'': ''Extremely'', ''value'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 15
       name: productivity_and_wellness_survey_do_you_feel_satisfied_with_your_job
@@ -159,11 +160,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 2, ''label'': ''A bit'', ''value'': ''A bit''}'
-      - '{''id'': 3, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''Very'', ''value'': ''Very''}'
-      - '{''id'': 5, ''label'': ''Extremely'', ''value'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 16
       name: productivity_and_wellness_survey_do_you_feel_motivated_at_work
@@ -171,11 +172,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 2, ''label'': ''A bit'', ''value'': ''A bit''}'
-      - '{''id'': 3, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''Very'', ''value'': ''Very''}'
-      - '{''id'': 5, ''label'': ''Extremely'', ''value'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 17
       name: productivity_and_wellness_survey_do_you_feel_confident_in_your_role
@@ -183,11 +184,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 2, ''label'': ''A bit'', ''value'': ''A bit''}'
-      - '{''id'': 3, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''Very'', ''value'': ''Very''}'
-      - '{''id'': 5, ''label'': ''Extremely'', ''value'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 18
       name: productivity_and_wellness_survey_do_you_feel_proud_of_your_work
@@ -195,10 +196,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Rarely'', ''value'': ''Rarely''}'
-      - '{''id'': 2, ''label'': ''Sometimes'', ''value'': ''Sometimes''}'
-      - '{''id'': 3, ''label'': ''Often'', ''value'': ''Often''}'
-      - '{''id'': 4, ''label'': ''Almost Always'', ''value'': ''Almost Always''}'
+      - Rarely
+      - Sometimes
+      - Often
+      - Almost Always
       required: true
     - id: 19
       name: productivity_and_wellness_survey_do_you_feel_safe_at_work
@@ -206,11 +207,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 2, ''label'': ''A bit'', ''value'': ''A bit''}'
-      - '{''id'': 3, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''Very'', ''value'': ''Very''}'
-      - '{''id'': 5, ''label'': ''Extremely'', ''value'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 20
       name: productivity_and_wellness_survey_do_you_feel_respected_at_work
@@ -218,46 +219,47 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Rarely'', ''value'': ''Rarely''}'
-      - '{''id'': 2, ''label'': ''Sometimes'', ''value'': ''Sometimes''}'
-      - '{''id'': 3, ''label'': ''Often'', ''value'': ''Often''}'
-      - '{''id'': 4, ''label'': ''Almost Always'', ''value'': ''Almost Always''}'
+      - Rarely
+      - Sometimes
+      - Often
+      - Almost Always
       required: true
     - id: 21
-      name: productivity_and_wellness_survey_do_you_feel_connected_at_work
-      label: Do you feel connected at work?
+      name: productivity_and_wellness_survey_do_you_feel_connected_at_work_2
+      label: Productivity And Wellness Survey Do You Feel Connected At Work 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 2, ''label'': ''A bit'', ''value'': ''A bit''}'
-      - '{''id'': 3, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''Very'', ''value'': ''Very''}'
-      - '{''id'': 5, ''label'': ''Extremely'', ''value'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 22
-      name: productivity_and_wellness_survey_do_you_feel_satisfied_with_your_job
-      label: Do you feel satisfied with your job?
+      name: productivity_and_wellness_survey_do_you_feel_satisfied_with_your_job_2
+      label: Productivity And Wellness Survey Do You Feel Satisfied With Your Job
+        2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 2, ''label'': ''A bit'', ''value'': ''A bit''}'
-      - '{''id'': 3, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''Very'', ''value'': ''Very''}'
-      - '{''id'': 5, ''label'': ''Extremely'', ''value'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 23
-      name: productivity_and_wellness_survey_do_you_feel_motivated
-      label: Do you feel motivated?
+      name: productivity_and_wellness_survey_do_you_feel_motivated_2
+      label: Productivity And Wellness Survey Do You Feel Motivated 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 2, ''label'': ''A bit'', ''value'': ''A bit''}'
-      - '{''id'': 3, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''Very'', ''value'': ''Very''}'
-      - '{''id'': 5, ''label'': ''Extremely'', ''value'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 24
       name: productivity_and_wellness_survey_do_you_feel_confident
@@ -265,11 +267,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 2, ''label'': ''A bit'', ''value'': ''A bit''}'
-      - '{''id'': 3, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''Very'', ''value'': ''Very''}'
-      - '{''id'': 5, ''label'': ''Extremely'', ''value'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 25
       name: productivity_and_wellness_survey_comments

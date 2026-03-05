@@ -1,100 +1,89 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Career Day Survey
     pages:
-      - id: 1
-        name: event_header
-        label: -- Career Day Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: student_name
-        label: Student name
-        hint: Optional for anonymous feedback
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: grade_level
-        label: Grade level
-        hint: Current grade year
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: favorite_presentation
-        label: Favorite presentation or booth
-        hint: Which exhibitor did you prefer
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: usefulness_rating
-        label: Usefulness rating
-        hint: How helpful was the event
-        type: select_one
-        options:
-          - Very useful
-          - Somewhat useful
-          - Neutral
-          - Not useful
-        required: true
-      - id: 6
-        name: topics_of_interest
-        label: Topics of interest after event
-        hint: Which career areas interested you most
-        type: select_multiple
-        options:
-          - STEM
-          - Healthcare
-          - Business
-          - Arts
-          - Public service
-        required: false
-      - id: 7
-        name: suggest_improvements
-        label: Suggest improvements
-        hint: How to improve future career days
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: would_attend_again
-        label: Would attend similar event again
-        hint: Indicate intent
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Maybe
-        required: false
-      - id: 9
-        name: interest_in_follow_up
-        label: Interest in follow up counseling
-        hint: Want contact for guidance
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 10
-        name: additional_comments
-        label: Additional comments
-        hint: Any other feedback
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: event_header
+      label: -- Career Day Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Optional for anonymous feedback
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade_level
+      label: Grade level
+      hint: Current grade year
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: favorite_presentation
+      label: Favorite presentation or booth
+      hint: Which exhibitor did you prefer
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: usefulness_rating
+      label: Usefulness rating
+      hint: How helpful was the event
+      type: select_one
+      options:
+      - Very useful
+      - Somewhat useful
+      - Neutral
+      - Not useful
+      required: true
+    - id: 6
+      name: topics_of_interest
+      label: Topics of interest after event
+      hint: Which career areas interested you most
+      type: select_multiple
+      options:
+      - STEM
+      - Healthcare
+      - Business
+      - Arts
+      - Public service
+      required: false
+    - id: 7
+      name: suggest_improvements
+      label: Suggest improvements
+      hint: How to improve future career days
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: would_attend_again
+      label: Would attend similar event again
+      hint: Indicate intent
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 9
+      name: interest_in_follow_up
+      label: Interest in follow up counseling
+      hint: Want contact for guidance
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

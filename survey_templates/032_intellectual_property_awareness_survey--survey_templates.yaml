@@ -1,190 +1,54 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Intellectual Property Awareness Survey
     pages:
     - id: 1
-      name: survey_header
-      label: Introduction
+      name: patent_section
+      label: Patents
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - patents are essential for innovation
+      - patents help innovation
       required: false
     - id: 2
-      name: question_1
-      label: What is intellectual property
+      name: copyright_section
+      label: Copyrights
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - copyrights are essential for creative works
+      - copyrights protect creative works
       required: false
     - id: 3
-      name: question_2
-      label: What is intellectual property awareness
+      name: trademark_section
+      label: Trademarks
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - trademarks prevent confusion among consumers
+      - trademarks are used to gain competitive advantage
       required: false
     - id: 4
-      name: question_3
-      label: What is patent
+      name: trade_secret_section
+      label: Trade Secrets
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - trade secrets are used to gain unfair advantage
+      - trade secrets are used to protect competitive advantage
       required: false
     - id: 5
-      name: question_4
-      label: What is copyright
+      name: general_questions
+      label: General Questions
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: question_5
-      label: What is trademark
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: question_6
-      label: What is trade secret
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: question_7
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: question_8
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: question_9
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: question_10
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: question_11
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: question_12
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: question_13
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: question_14
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: question_15
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: question_16
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: question_17
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: question_18
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: question_19
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: question_20
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: question_21
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: question_22
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: question_23
-      label: Do you think that
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: question_24
-      label: Do you think that
+      name: survey_header
+      label: Thank you for taking the time to complete this survey
       hint: null
       type: text
       options: []

@@ -9,24 +9,25 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - domestic
+      - international
+      - both
+      required: true
     - id: 2
       name: trade_volumes
       label: Trade Volumes
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
       name: trade_challenges
       label: Trade Challenges
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: trade_bodies_served
@@ -34,191 +35,69 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
-      name: trade_volumes
-      label: Trade Volumes
+      name: consultants_involved
+      label: Consultants Involved
       hint: null
       type: number
       options: []
       required: false
     - id: 6
-      name: consultants_involved
-      label: Consultants Involved
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
       name: researchers_involved
       label: Researchers Involved
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 8
+    - id: 7
       name: research_areas
       label: Research Areas
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: market_characteristics
+      label: Market Characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: trade_volumes
-      label: Trade Volumes
+      name: trade_partnerships
+      label: Trade Partnerships
       hint: null
-      type: number
-      options: []
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 10
-      name: market_characteristics
-      label: Market Characteristics
-      hint: null
-      type: select_multiple
+      name: trade_events_participation
+      label: Trade Events Participation
+      hint: Select the frequency of participation in trade events
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - daily
+      - weekly
+      - monthly
+      - quarterly
       required: false
     - id: 11
-      name: market_characteristics
-      label: Market Characteristics
+      name: trade_documentation
+      label: Trade Documentation
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: market_characteristics
-      label: Market Characteristics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: market_characteristics
-      label: Market Characteristics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: market_characteristics
-      label: Market Characteristics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: market_characteristics
-      label: Market Characteristics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: market_characteristics
-      label: Market Characteristics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: market_characteristics
-      label: Market Characteristics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: market_characteristics
-      label: Market Characteristics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: market_characteristics
-      label: Market Characteristics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: market_characteristics
-      label: Market Characteristics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: market_characteristics
-      label: Market Characteristics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: market_characteristics
-      label: Market Characteristics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: market_characteristics
-      label: Market Characteristics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: trade_challenges
-      label: Trade Challenges
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: trade_challenges
-      label: Trade Challenges
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false

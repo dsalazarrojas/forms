@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''natural''}'
-      - '{''id'': 2, ''name'': ''unnatural''}'
+      - natural
+      - unnatural
       required: false
     - id: 4
       name: color_match_type
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''exact''}'
-      - '{''id'': 2, ''name'': ''similar''}'
+      - exact
+      - similar
       required: false
     - id: 5
       name: date_of_interest

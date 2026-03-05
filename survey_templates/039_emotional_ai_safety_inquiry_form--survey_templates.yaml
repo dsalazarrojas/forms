@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''risk_factors_1'', ''value'': ''Risk Factor 1''}'
-      - '{''id'': 2, ''name'': ''risk_factors_2'', ''value'': ''Risk Factor 2''}'
-      - '{''id'': 3, ''name'': ''risk_factors_3'', ''value'': ''Risk Factor 3''}'
+      - Risk Factor 1
+      - Risk Factor 2
+      - Risk Factor 3
       required: false
     - id: 3
       name: safeguards
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''safeguard_1'', ''value'': ''Safeguard 1''}'
-      - '{''id'': 2, ''name'': ''safeguard_2'', ''value'': ''Safeguard 2''}'
-      - '{''id'': 3, ''name'': ''safeguard_3'', ''value'': ''Safeguard 3''}'
+      - Safeguard 1
+      - Safeguard 2
+      - Safeguard 3
       required: false
     - id: 4
       name: benefits
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''benefit_1'', ''value'': ''Benefit 1''}'
-      - '{''id'': 2, ''name'': ''benefit_2'', ''value'': ''Benefit 2''}'
-      - '{''id'': 3, ''name'': ''benefit_3'', ''value'': ''Benefit 3''}'
+      - Benefit 1
+      - Benefit 2
+      - Benefit 3
       required: false
     - id: 5
       name: comments
@@ -88,7 +88,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''submitted_by_1'', ''value'': ''User''}'
-      - '{''id'': 2, ''name'': ''submitted_by_2'', ''value'': ''Organization''}'
-      - '{''id'': 3, ''name'': ''submitted_by_3'', ''value'': ''Both''}'
+      - User
+      - Organization
+      - Both
       required: false

@@ -1,86 +1,92 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Camp Games Feedback Form
     pages:
-      - id: 1
-        name: participant_name
-        label: Participant Name
-        hint: Optional for anonymous feedback
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: game_name
-        label: Game Name
-        hint: Which game is being reviewed
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: enjoyment_level
-        label: Enjoyment Level
-        hint: Rate how much you enjoyed the game
-        type: select_one
-        options: [Loved It, Liked It, Neutral, Did Not Like It]
-        required: true
-      - id: 4
-        name: difficulty_rating
-        label: Difficulty Rating
-        hint: How challenging was the game
-        type: select_one
-        options: [Too Easy, Appropriate, Too Hard]
-        required: false
-      - id: 5
-        name: fairness_rating
-        label: Fairness Rating
-        hint: Was the game fair for all players
-        type: select_one
-        options: [Yes, Somewhat, No]
-        required: false
-      - id: 6
-        name: suggestions
-        label: Suggestions for Improvement
-        hint: Ideas to improve game rules or setup
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: safety_concerns
-        label: Safety Concerns
-        hint: Any safety issues noticed during play
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: suitable_age_group
-        label: Suitable Age Group
-        hint: What age group is this game best for
-        type: select_one
-        options: [Under 8, 8-12, 13-17, 18+]
-        required: false
-      - id: 9
-        name: overall_comment
-        label: Overall Comment
-        hint: Final thoughts about the game
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: would_play_again
-        label: Would Play Again
-        hint: Indicate interest in replaying the game
-        type: select_one
-        options: [Yes, Maybe, No]
-        required: true
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Optional for anonymous feedback
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_name
+      label: Game Name
+      hint: Which game is being reviewed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: enjoyment_level
+      label: Enjoyment Level
+      hint: Rate how much you enjoyed the game
+      type: select_one
+      options:
+      - Loved It
+      - Liked It
+      - Neutral
+      - Did Not Like It
+      required: true
+    - id: 4
+      name: difficulty_rating
+      label: Difficulty Rating
+      hint: How challenging was the game
+      type: select_one
+      options:
+      - Too Easy
+      - Appropriate
+      - Too Hard
+      required: false
+    - id: 5
+      name: fairness_rating
+      label: Fairness Rating
+      hint: Was the game fair for all players
+      type: select_one
+      options:
+      - 'True'
+      - Somewhat
+      - 'False'
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions for Improvement
+      hint: Ideas to improve game rules or setup
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_concerns
+      label: Safety Concerns
+      hint: Any safety issues noticed during play
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suitable_age_group
+      label: Suitable Age Group
+      hint: What age group is this game best for
+      type: select_one
+      options:
+      - Under 8
+      - 8-12
+      - 13-17
+      - 18+
+      required: false
+    - id: 9
+      name: overall_comment
+      label: Overall Comment
+      hint: Final thoughts about the game
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: would_play_again
+      label: Would Play Again
+      hint: Indicate interest in replaying the game
+      type: select_one
+      options:
+      - 'True'
+      - Maybe
+      - 'False'
+      required: true

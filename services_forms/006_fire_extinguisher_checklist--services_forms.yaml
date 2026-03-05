@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Type 1''}'
-      - '{''label'': ''Type 2''}'
-      - '{''label'': ''Type 3''}'
+      - Type 1
+      - Type 2
+      - Type 3
       required: false
     - id: 3
       name: fire_extinguisher_status
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
-      - '{''label'': ''Unknown''}'
+      - Active
+      - Inactive
+      - Unknown
       required: false
     - id: 4
       name: fire_extinguisher_last_inspection
@@ -69,7 +69,7 @@ inputSchema:
       required: false
     - id: 9
       name: fire_extinguisher_last_servicer_email
-      label: Fire Extinguisher Last Servicer
+      label: Fire Extinguisher Last Servicer Email
       hint: null
       type: email
       options: []
@@ -106,7 +106,7 @@ inputSchema:
       required: false
     - id: 14
       name: fire_extinguisher_last_replacers_email
-      label: Fire Extinguisher Last Replacer
+      label: Fire Extinguisher Last Replacers Email
       hint: null
       type: email
       options: []
@@ -143,7 +143,7 @@ inputSchema:
       required: false
     - id: 19
       name: fire_extinguisher_last_inspectors_email
-      label: Fire Extinguisher Last Inspector
+      label: Fire Extinguisher Last Inspectors Email
       hint: null
       type: email
       options: []
@@ -180,7 +180,7 @@ inputSchema:
       required: false
     - id: 24
       name: fire_extinguisher_last_location_inspectors_email
-      label: Fire Extinguisher Last Location Inspector
+      label: Fire Extinguisher Last Location Inspectors Email
       hint: null
       type: email
       options: []

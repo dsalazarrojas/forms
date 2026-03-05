@@ -5,45 +5,25 @@ inputSchema:
     pages:
     - id: 1
       name: intro
-      label: men_s_grooming_preference_survey
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: age
-      label: age
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 3
-      name: hair_haircut_style
-      label: hair_haircut_style
+      name: hair_haircut_frequency
+      label: How often do you get a hair cut?
       hint: null
       type: select_one
       options:
-      - Beard
-      - Bald
-      - Crew
-      - Pompadour
-      - Fade
-      - Quiff
-      required: false
-    - id: 4
-      name: hair_haircut_frequency
-      label: hair_haircut_frequency
-      hint: null
-      type: select_multiple
-      options:
+      - Daily
       - 1-2 times a week
       - 3-4 times a week
-      - Daily
       - Never
-      required: false
-    - id: 5
+      required: true
+    - id: 3
       name: beard_maintenance
-      label: beard_maintenance
+      label: How do you maintain your beard?
       hint: null
       type: select_one
       options:
@@ -52,20 +32,9 @@ inputSchema:
       - Waxes
       - Never
       required: false
-    - id: 6
-      name: beard_maintenance_frequency
-      label: beard_maintenance_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - 1-2 times a week
-      - 3-4 times a week
-      - Rarely
-      required: false
-    - id: 7
+    - id: 4
       name: skincare
-      label: skincare
+      label: What skincare products do you use?
       hint: null
       type: select_multiple
       options:
@@ -74,20 +43,9 @@ inputSchema:
       - Serum
       - Sunscreen
       required: false
-    - id: 8
-      name: skincare_frequency
-      label: skincare_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - 1-2 times a week
-      - 3-4 times a week
-      - Rarely
-      required: false
-    - id: 9
+    - id: 5
       name: shaving
-      label: shaving
+      label: How often do you shave?
       hint: null
       type: select_one
       options:
@@ -96,19 +54,9 @@ inputSchema:
       - 3-4 times a week
       - Never
       required: false
-    - id: 10
-      name: shaving_frequency
-      label: shaving_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - 1-2 times a week
-      - 3-4 times a week
-      required: false
-    - id: 11
+    - id: 6
       name: fragrance
-      label: fragrance
+      label: Do you use fragrances?
       hint: null
       type: select_one
       options:
@@ -117,9 +65,9 @@ inputSchema:
       - 3-4 times a week
       - Never
       required: false
-    - id: 12
-      name: fragrance_frequency
-      label: fragrance_frequency
+    - id: 7
+      name: skincare_frequency
+      label: How often do you apply skincare?
       hint: null
       type: select_multiple
       options:
@@ -128,38 +76,9 @@ inputSchema:
       - 3-4 times a week
       - Rarely
       required: false
-    - id: 13
-      name: skincare_product
-      label: skincare_product
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: skincare_price
-      label: skincare_price
-      hint: null
-      type: select_one
-      options:
-      - Less than $10
-      - $10-$20
-      - $21-$30
-      - $31 or more
-      required: false
-    - id: 15
-      name: hair_haircut_cost
-      label: hair_haircut_cost
-      hint: null
-      type: select_one
-      options:
-      - Less than $10
-      - $10-$20
-      - $21-$30
-      - $31 or more
-      required: false
-    - id: 16
+    - id: 8
       name: skincare_tools
-      label: skincare_tools
+      label: What skincare tools do you use?
       hint: null
       type: select_multiple
       options:
@@ -169,45 +88,38 @@ inputSchema:
       - Brushes
       - Other
       required: false
-    - id: 17
-      name: beard_tools
-      label: beard_tools
+    - id: 9
+      name: skincare_product
+      label: What type of skincare product do you use?
       hint: null
-      type: select_multiple
-      options:
-      - Trimmers
-      - Combs
-      - Brushes
-      - Razors
-      - Other
-      required: false
-    - id: 18
-      name: skincare_brand
-      label: skincare_brand
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: haircut_cost
+      label: How much do you spend on haircuts?
       hint: null
       type: select_one
       options:
-      - L
-      - P
-      - D
-      - K
-      - Other
+      - Less than $10
+      - $10-$20
+      - $21-$30
+      - $31 or more
       required: false
-    - id: 19
-      name: hair_haircut_brand
-      label: hair_haircut_brand
+    - id: 11
+      name: skincare_price
+      label: How much do you spend on skincare?
       hint: null
       type: select_one
       options:
-      - L
-      - P
-      - D
-      - K
-      - Other
+      - Less than $10
+      - $10-$20
+      - $21-$30
+      - $31 or more
       required: false
-    - id: 20
-      name: skincare_haircut
-      label: skincare_haircut
+    - id: 12
+      name: hair_haircut
+      label: What type of hair cut do you get?
       hint: null
       type: select_one
       options:
@@ -216,9 +128,9 @@ inputSchema:
       - D
       - K
       required: false
-    - id: 21
-      name: hair_haircut_frequency
-      label: hair_haircut_frequency
+    - id: 13
+      name: hair_haircut_frequency_2
+      label: Hair Haircut Frequency 2
       hint: null
       type: select_one
       options:
@@ -227,9 +139,31 @@ inputSchema:
       - 3-4 times a week
       - Never
       required: false
-    - id: 22
-      name: skincare_product_size
-      label: skincare_product_size
+    - id: 14
+      name: hair_haircut_brand
+      label: What brand of hair cut do you use?
+      hint: null
+      type: select_one
+      options:
+      - L
+      - P
+      - D
+      - K
+      required: false
+    - id: 15
+      name: skincare_brand
+      label: What brand of skincare do you use?
+      hint: null
+      type: select_one
+      options:
+      - L
+      - P
+      - D
+      - K
+      required: false
+    - id: 16
+      name: hair_haircut_size
+      label: What size of hair cut do you get?
       hint: null
       type: select_one
       options:
@@ -237,11 +171,73 @@ inputSchema:
       - 100-200ml
       - More than 200ml
       required: false
-    - id: 23
-      name: skincare_product_type
-      label: skincare_product_size
+    - id: 17
+      name: hair_haircut_form
+      label: What form of hair cut do you get?
       hint: null
       type: select_one
+      options:
+      - Pump
+      - Bottle
+      - Tube
+      required: false
+    - id: 18
+      name: skincare_size
+      label: What size of skincare do you use?
+      hint: null
+      type: select_one
+      options:
+      - Less than 100ml
+      - 100-200ml
+      - More than 200ml
+      required: false
+    - id: 19
+      name: skincare_size_form
+      label: What form of skincare do you use?
+      hint: null
+      type: select_one
+      options:
+      - Pump
+      - Bottle
+      - Tube
+      required: false
+    - id: 20
+      name: skincare_product_size
+      label: Skincare Product Size
+      hint: null
+      type: select_one
+      options:
+      - 10-20ml
+      - 21-40ml
+      - 41-60ml
+      required: false
+    - id: 21
+      name: skincare_product_form
+      label: Skincare Product Form
+      hint: null
+      type: select_one
+      options:
+      - Pump
+      - Bottle
+      - Tube
+      required: false
+    - id: 22
+      name: skincare_characteristics
+      label: What characteristics of skincare do you look for?
+      hint: null
+      type: select_multiple
+      options:
+      - Cream
+      - Gel
+      - Spray
+      - Serum
+      - Other
+      required: false
+    - id: 23
+      name: skincare_characteristics_2
+      label: What other characteristics of skincare do you look for?
+      hint: null
+      type: select_multiple
       options:
       - Cream
       - Gel
@@ -250,24 +246,70 @@ inputSchema:
       - Other
       required: false
     - id: 24
-      name: skincare_product_form
-      label: skincare_product_form
+      name: skincare_characteristics_3
+      label: Skincare Characteristics 3
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Pump
-      - Bottle
-      - Tube
-      - Tube
+      - Cream
+      - Gel
+      - Spray
+      - Serum
       - Other
       required: false
     - id: 25
-      name: skincare_product_size_form
-      label: skincare_product_size
+      name: open_question_1
+      label: Can you tell us anything else about your skincare habits?
       hint: null
-      type: select_one
-      options:
-      - 10-20ml
-      - 21-40ml
-      - 41-60ml
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: open_question_2
+      label: Can you tell us anything else about your haircut habits?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: open_question_3
+      label: Can you tell us anything else about your skin types?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: open_question_4
+      label: Can you tell us anything else about your skincare product frequency?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: open_question_5
+      label: Can you tell us anything else about your skincare brand?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: open_question_6
+      label: Can you tell us anything else about your haircut frequency?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: open_question_7
+      label: Can you tell us anything else about your haircut size?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: open_question_8
+      label: Can you tell us anything else about your haircut brand?
+      hint: null
+      type: text
+      options: []
       required: false

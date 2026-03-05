@@ -16,11 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: questions_page
@@ -28,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: screening_page
@@ -45,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: questionnaire_page
@@ -121,28 +119,28 @@ inputSchema:
       required: false
     - id: 16
       name: email_page_2
-      label: Email
+      label: Email Page 2
       hint: null
       type: email
       options: []
       required: false
     - id: 17
       name: phone_page_2
-      label: Phone
+      label: Phone Page 2
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: email_page_3
-      label: Email
+      label: Email Page 3
       hint: null
       type: email
       options: []
       required: false
     - id: 19
       name: phone_page_3
-      label: Phone
+      label: Phone Page 3
       hint: null
       type: text
       options: []

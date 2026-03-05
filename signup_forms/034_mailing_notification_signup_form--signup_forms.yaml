@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''text''}'
+      - email
+      - text
       required: false
     - id: 4
       name: notification_channels
@@ -32,10 +32,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''text''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''other''}'
+      - email
+      - text
+      - phone
+      - other
       required: true
     - id: 5
       name: user_name

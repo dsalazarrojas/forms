@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''in_stock''}'
-      - '{''value'': ''out_of_stock''}'
+      - in stock
+      - out of stock
       required: false
     - id: 5
       name: storekeeper_id
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''admin''}'
-      - '{''value'': ''manager''}'
-      - '{''value'': ''staff''}'
+      - admin
+      - manager
+      - staff
       required: false
     - id: 6
       name: date

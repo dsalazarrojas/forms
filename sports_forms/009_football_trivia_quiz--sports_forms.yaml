@@ -5,194 +5,157 @@ inputSchema:
     pages:
     - id: 1
       name: football_trivia_quiz_page_1
-      label: Introduction
+      label: What year was the first football game played in England?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - England 1892
+      - Option 2
+      - Option 3
+      required: true
     - id: 2
       name: football_trivia_quiz_page_2
-      label: Football History
+      label: Who is the best football player of all time?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''option_1'': ''1892: The first football game is played in England''}'
-      - '{''option_2'': ''1894: The first football game is played in America''}'
-      - '{''option_3'': ''1896: The first football game is played in Scotland''}'
+      - Cristiano Ronaldo
+      - Option 2
+      - Option 3
       required: false
     - id: 3
       name: football_trivia_quiz_page_3
-      label: Football Teams
+      label: Which is the most successful football team?
       hint: null
       type: select_one
       options:
-      - '{''option_1'': ''Manchester United''}'
-      - '{''option_2'': ''Real Madrid''}'
-      - '{''option_3'': ''Liverpool''}'
+      - Manchester United
+      - Option 2
+      - Option 3
       required: false
     - id: 4
       name: football_trivia_quiz_page_4
-      label: Football Players
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option_1'': ''Cristiano Ronaldo''}'
-      - '{''option_2'': ''Lionel Messi''}'
-      - '{''option_3'': ''Lionel Messi''}'
-      required: false
-    - id: 5
-      name: football_trivia_quiz_page_5
-      label: Football Stadiums
+      label: What is the biggest football stadium?
       hint: null
       type: select_one
       options:
-      - '{''option_1'': ''Wembley''}'
-      - '{''option_2'': ''Celtic Park''}'
-      - '{''option_3'': ''Old Trafford''}'
+      - Wembley
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: football_trivia_quiz_page_5
+      label: What is the Premier League?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 6
       name: football_trivia_quiz_page_6
-      label: Football Leagues
+      label: Who is Lionel Messi?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''option_1'': ''Premier League''}'
-      - '{''option_2'': ''La Liga''}'
-      - '{''option_3'': ''Champions League''}'
+      - Lionel Messi
+      - Option 2
+      - Option 3
       required: false
     - id: 7
       name: football_trivia_quiz_page_7
-      label: Football Dates
+      label: What is the current date?
       hint: null
       type: date
       options: []
       required: false
     - id: 8
       name: football_trivia_quiz_page_8
-      label: Football Time
+      label: What time is it now?
       hint: null
       type: time
       options: []
       required: false
     - id: 9
       name: football_trivia_quiz_page_9
-      label: Football Scores
+      label: How many goals did a player score in the last game?
       hint: null
       type: number
       options: []
       required: false
     - id: 10
       name: football_trivia_quiz_page_10
-      label: Football Emails
+      label: What is the email address of a football club?
       hint: null
       type: email
       options: []
       required: false
     - id: 11
       name: football_trivia_quiz_page_11
-      label: Football Phone
+      label: What is the phone number of a football club?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
       name: football_trivia_quiz_page_12
-      label: Football Address
+      label: What is the address of a football stadium?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
       name: football_trivia_quiz_page_13
-      label: Football Notes
+      label: Football Trivia Answer
       hint: null
       type: text
       options: []
       required: false
     - id: 14
       name: football_trivia_quiz_page_14
-      label: Football Comments
+      label: Football Answer
       hint: null
       type: text
       options: []
       required: false
     - id: 15
       name: football_trivia_quiz_page_15
-      label: Football Trivia
+      label: Football Question
       hint: null
       type: select_one
       options:
-      - '{''option_1'': ''Who is the best football player of all time?''}'
-      - '{''option_2'': ''What is the most successful football team?''}'
-      - '{''option_3'': ''What is the biggest football stadium?''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 16
       name: football_trivia_quiz_page_16
-      label: Football Trivia Answer
+      label: Football Trivia Quiz Page 16
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 17
       name: football_trivia_quiz_page_17
-      label: Football Answer
+      label: Football Trivia Quiz Page 17
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 18
       name: football_trivia_quiz_page_18
-      label: Football Result
+      label: Football Trivia Quiz Page 18
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: football_trivia_quiz_page_19
-      label: Football Result
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: football_trivia_quiz_page_20
-      label: Football Result
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: football_trivia_quiz_page_21
-      label: Football Result
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: football_trivia_quiz_page_22
-      label: Football Result
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: football_trivia_quiz_page_23
-      label: Football Result
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: football_trivia_quiz_page_24
-      label: Football Result
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: football_trivia_quiz_page_25
-      label: Football Result
-      hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
       required: false

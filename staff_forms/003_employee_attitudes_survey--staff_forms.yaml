@@ -4,210 +4,104 @@ inputSchema:
     title: Employee Attitudes Survey
     pages:
     - id: 1
-      name: employee_survey
+      name: survey_questions
       label: Employee Survey
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: department
-      label: Department
-      hint: null
-      type: select_one
-      options:
-      - A
-      - B
-      - C
-      - D
-      required: false
-    - id: 3
-      name: job_title
-      label: Job Title
-      hint: null
-      type: select_multiple
-      options:
-      - Accountant
-      - Analyst
-      - Assistant
-      - Manager
-      required: false
-    - id: 4
-      name: salary_level
-      label: Salary Level
+      name: job_title_rating
+      label: Job Title Rating
       hint: null
       type: number
       options: []
       required: false
-    - id: 5
-      name: department_survey
-      label: Department Survey
+    - id: 3
+      name: work_hours
+      label: Average Hours Worked Per Week
       hint: null
-      type: text
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: motivation_level
+      label: Level of Motivation
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: job_satisfaction
+      label: Overall Job Satisfaction
+      hint: null
+      type: number
       options: []
       required: false
     - id: 6
-      name: manager_survey
-      label: Manager Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: employee_survey_2
-      label: Employee Survey 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: department
-      label: Department
-      hint: null
-      type: select_one
-      options:
-      - A
-      - B
-      - C
-      - D
-      required: false
-    - id: 9
-      name: manager_survey_2
-      label: Manager Survey 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: job_title
-      label: Job Title
-      hint: null
-      type: select_multiple
-      options:
-      - Accountant
-      - Analyst
-      - Assistant
-      - Manager
-      required: false
-    - id: 11
-      name: salary_level
-      label: Salary Level
+      name: department_satisfaction
+      label: Department Satisfaction
       hint: null
       type: number
       options: []
       required: false
-    - id: 12
-      name: department
-      label: Department
+    - id: 7
+      name: workload_level
+      label: Comfort Level with Workload
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: manager_satisfaction
+      label: Manager Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: break_frequency
+      label: Break Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overworked_underworked
+      label: Feeling of Being Overworked or Underworked
       hint: null
       type: select_one
       options:
-      - A
-      - B
-      - C
-      - D
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 11
+      name: suggestions
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_title_satisfaction
+      label: Job Title Satisfaction
+      hint: null
+      type: number
+      options: []
       required: false
     - id: 13
-      name: manager_survey
-      label: Manager Survey
+      name: employee_survey
+      label: Employee Survey (2)
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: department_survey
-      label: Department Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: job_title
-      label: Job Title
-      hint: null
-      type: select_multiple
-      options:
-      - Accountant
-      - Analyst
-      - Assistant
-      - Manager
-      required: false
-    - id: 16
-      name: manager_survey_2
-      label: Manager Survey 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: department
-      label: Department
-      hint: null
-      type: select_one
-      options:
-      - A
-      - B
-      - C
-      - D
-      required: false
-    - id: 18
-      name: department_survey
-      label: Department Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: salary_level
-      label: Salary Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: department
-      label: Department
-      hint: null
-      type: select_one
-      options:
-      - A
-      - B
-      - C
-      - D
-      required: false
-    - id: 21
-      name: manager_survey
-      label: Manager Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: manager_survey_2
-      label: Manager Survey 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: employee_survey
-      label: Employee Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: job_title
-      label: Job Title
-      hint: null
-      type: select_multiple
-      options:
-      - Accountant
-      - Analyst
-      - Assistant
-      - Manager
-      required: false
-    - id: 25
       name: manager_survey
       label: Manager Survey
       hint: null

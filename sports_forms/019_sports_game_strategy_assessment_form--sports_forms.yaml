@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 11, ''label'': ''Excellent'', ''value'': ''excellent''}'
-      - '{''id'': 12, ''label'': ''Good'', ''value'': ''good''}'
-      - '{''id'': 13, ''label'': ''Fair'', ''value'': ''fair''}'
-      - '{''id'': 14, ''label'': ''Poor'', ''value'': ''poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 5
       name: coach_coaching
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 15, ''label'': ''Encourage'', ''value'': ''encourage''}'
-      - '{''id'': 16, ''label'': ''Motivate'', ''value'': ''motivate''}'
-      - '{''id'': 17, ''label'': ''Criticize'', ''value'': ''criticize''}'
+      - Encourage
+      - Motivate
+      - Criticize
       required: false
     - id: 6
       name: player_happiness

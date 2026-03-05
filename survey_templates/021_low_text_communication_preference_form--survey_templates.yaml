@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone''}'
-      - '{''id'': 3, ''name'': ''Both''}'
-      - '{''id'': 4, ''name'': ''No Contact''}'
+      - Email
+      - Phone
+      - Both
+      - No Contact
       required: false
     - id: 3
       name: preferred_communication_channel
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone''}'
-      - '{''id'': 3, ''name'': ''Both''}'
-      - '{''id'': 4, ''name'': ''No Contact''}'
+      - Email
+      - Phone
+      - Both
+      - No Contact
       required: false
     - id: 4
       name: preferred_communication_time
@@ -38,9 +38,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Morning''}'
-      - '{''id'': 2, ''name'': ''Afternoon''}'
-      - '{''id'': 3, ''name'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 5
       name: notes

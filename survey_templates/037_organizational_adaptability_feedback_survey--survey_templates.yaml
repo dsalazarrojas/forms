@@ -4,177 +4,89 @@ inputSchema:
     title: Organizational Adaptability Feedback Survey
     pages:
     - id: 1
-      name: first_name
-      label: First name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 3
-      name: job_title
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: feedback_score_1
+      name: adaptability_question_1
       label: How likely are you to adapt to change?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 5
-      name: feedback_score_2
+      required: true
+    - id: 2
+      name: adaptability_question_2
       label: How confident are you in your ability to adapt to change?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: open_mindedness_question
+      label: How open-minded are you to new ideas?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: risk_taking_question
+      label: How willing are you to take calculated risks?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: feedback_question_1
+      label: How often do you seek feedback from others?
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 6
-      name: feedback_score_3
+      name: communication_question
+      label: What is your preferred way of communication (email, phone, or in-person)?
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - in-person
+      required: true
+    - id: 7
+      name: ambiguity_question
       label: How comfortable are you with ambiguity and uncertainty?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 7
-      name: feedback_score_4
-      label: How open-minded are you to new ideas?
-      hint: null
-      type: number
-      options: []
-      required: false
+      required: true
     - id: 8
-      name: feedback_score_5
-      label: How willing are you to take calculated risks?
+      name: challenge_status_quo_question
+      label: How willing are you to challenge the status quo?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 9
-      name: feedback_score_6
-      label: How willing are you to adapt to change?
+      name: innovation_question
+      label: How often do you try new things?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: manager_name
-      label: Manager's name
+      name: tech_adaptability_question
+      label: How likely are you to adapt to new technologies?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 11
-      name: manager_email
-      label: Manager's email
+      name: feedback_question_1_2
+      label: How often do you receive feedback from others?
       hint: null
-      type: email
+      type: number
       options: []
-      required: false
+      required: true
     - id: 12
-      name: feedback_score_7
-      label: How likely are you to adapt to change?
+      name: feedback_rater_question
+      label: How do you rate your ability to learn from feedback?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 13
-      name: feedback_score_8
-      label: How confident are you in your ability to adapt to change?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: feedback_score_9
-      label: How open-minded are you to new ideas?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: feedback_score_10
-      label: How willing are you to take calculated risks?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: feedback_score_11
-      label: How willing are you to adapt to change?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: manager_name_2
-      label: Manager's name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: manager_email_2
-      label: Manager's email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: manager_comments
-      label: Manager's comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: manager_comments_2
-      label: Manager's comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: employee_name
-      label: Employee's name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: employee_email
-      label: Employee's email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: employee_comments
-      label: Employee's comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: employee_comments_2
-      label: Employee's comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

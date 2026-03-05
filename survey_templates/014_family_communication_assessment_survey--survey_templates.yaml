@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -23,13 +12,13 @@ inputSchema:
       required: false
     - id: 2
       name: communication_level
-      label: "How would you describe your family member\u2019s communication level?"
+      label: How would you describe your family member’s communication level?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 3
       name: emotional_support
@@ -37,8 +26,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: conflict_level
@@ -46,9 +35,9 @@ inputSchema:
       hint: How often do you get into arguments or conflicts with your family member?
       type: select_one
       options:
-      - '{''label'': ''0-1 time in a month''}'
-      - '{''label'': ''2-3 times in a month''}'
-      - '{''label'': ''4 or more times in a month''}'
+      - 0-1 time in a month
+      - 2-3 times in a month
+      - 4 or more times in a month
       required: false
     - id: 5
       name: communication_skills
@@ -56,10 +45,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 6
       name: family_dynamics
@@ -67,10 +56,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Cooperative''}'
-      - '{''label'': ''Competitive''}'
-      - '{''label'': ''Independent''}'
-      - '{''label'': ''Authoritative''}'
+      - Cooperative
+      - Competitive
+      - Independent
+      - Authoritative
       required: false
     - id: 7
       name: conflict_resolution
@@ -78,10 +67,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Collaborative''}'
-      - '{''label'': ''Individual''}'
-      - '{''label'': ''Avoiding''}'
-      - '{''label'': ''Frustrating''}'
+      - Collaborative
+      - Individual
+      - Avoiding
+      - Frustrating
       required: false
     - id: 8
       name: emotional_maturity
@@ -89,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 9
       name: conflict_frequency
@@ -99,9 +88,9 @@ inputSchema:
       hint: How often do you get into conflicts with your family member?
       type: select_one
       options:
-      - '{''label'': ''0-1 time in a month''}'
-      - '{''label'': ''2-3 times in a month''}'
-      - '{''label'': ''4 or more times in a month''}'
+      - 0-1 time in a month
+      - 2-3 times in a month
+      - 4 or more times in a month
       required: false
     - id: 10
       name: family_participation
@@ -109,9 +98,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 11
       name: support_measurement
@@ -119,7 +108,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false

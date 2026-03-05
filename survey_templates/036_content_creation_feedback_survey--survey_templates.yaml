@@ -1,135 +1,157 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Content Creation Feedback Survey
     pages:
-      - id: 1
-        name: section_content_info
-        label: -- Content Details --
-        hint: Please complete this survey for each content project.
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: content_title
-        label: Content Project Title
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: content_id
-        label: Content Project Identification Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: content_type
-        label: Content Asset Type
-        hint: null
-        type: select_one
-        options: [Blog Post, Video, Infographic, White Paper, Ebook, Podcast, Other]
-        required: true
-      - id: 5
-        name: section_feedback_questions
-        label: -- Feedback and Ratings --
-        hint: Please share your feedback and ratings for the content.
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: content_quality_rating
-        label: Content Quality Rating
-        hint: 1 being poor, 5 being excellent
-        type: select_one
-        options: [1, 2, 3, 4, 5]
-        required: true
-      - id: 7
-        name: engagement_level_rating
-        label: Engagement Level Rating
-        hint: 1 being low, 5 being high
-        type: select_one
-        options: [1, 2, 3, 4, 5]
-        required: true
-      - id: 8
-        name: relevance_to_target_audience_rating
-        label: Relevance to Target Audience Rating
-        hint: 1 being low, 5 being high
-        type: select_one
-        options: [1, 2, 3, 4, 5]
-        required: true
-      - id: 9
-        name: specific_feedback_question_1
-        label: What did you like most about the content?
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: specific_feedback_question_2
-        label: What areas could be improved?
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 11
-        name: section_respondent_info
-        label: -- Respondent Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: respondent_name
-        label: Respondent Full Name
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: respondent_id
-        label: Respondent Identification Number
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: respondent_age_range
-        label: Age Range
-        hint: null
-        type: select_one
-        options: [Under 18, 18-24, 25-34, 35-44, 45-54, 55-64, 65+]
-        required: false
-      - id: 15
-        name: section_confirmation
-        label: -- Confirmation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: survey_completed
-        label: Survey Completed?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 17
-        name: signature_confirmation
-        label: I confirm that the information provided is accurate
-        hint: null
-        type: select_one
-        options: [I Agree, I Disagree]
-        required: true
+    - id: 1
+      name: section_content_info
+      label: -- Content Details --
+      hint: Please complete this survey for each content project.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: content_title
+      label: Content Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: content_id
+      label: Content Project Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: content_type
+      label: Content Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Blog Post
+      - Video
+      - Infographic
+      - White Paper
+      - Ebook
+      - Podcast
+      - Other
+      required: true
+    - id: 5
+      name: section_feedback_questions
+      label: -- Feedback and Ratings --
+      hint: Please share your feedback and ratings for the content.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: content_quality_rating
+      label: Content Quality Rating
+      hint: 1 being poor, 5 being excellent
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 7
+      name: engagement_level_rating
+      label: Engagement Level Rating
+      hint: 1 being low, 5 being high
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 8
+      name: relevance_to_target_audience_rating
+      label: Relevance to Target Audience Rating
+      hint: 1 being low, 5 being high
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 9
+      name: specific_feedback_question_1
+      label: What did you like most about the content?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: specific_feedback_question_2
+      label: What areas could be improved?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_respondent_info
+      label: -- Respondent Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: respondent_name
+      label: Respondent Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: respondent_id
+      label: Respondent Identification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: respondent_age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false
+    - id: 15
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: survey_completed
+      label: Survey Completed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: signature_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true

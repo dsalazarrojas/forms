@@ -15,37 +15,40 @@ inputSchema:
     title: Season Play Voting Form
     pages:
     - id: 1
-      name: sports_form_category
-      label: Sports Forms
-      hint: null
+      name: season_category
+      label: Season Category
+      hint: Select the sport for this form
       type: select_one
       options:
-      - Football
+      - Baseball
       - Basketball
+      - Football
       - Hockey
       - Soccer
-      - Baseball
       required: true
     - id: 2
-      name: season_play_voting_form_description
-      label: Season Play Voting Form helps sports leagues and athletics programs collect
-        end-of-season award votes and season feedback in one place using Jotform for
-        fast data collection and organized form submission tracking.
-      hint: null
+      name: season_description
+      label: Season Description
+      hint: Describe the season
       type: text
       options: []
       required: false
     - id: 3
-      name: season_feedback
-      label: Feedback
-      hint: null
-      type: note
-      options: []
-      required: false
+      name: select_sport
+      label: Select a Sport
+      hint: Select one sport
+      type: select_one
+      options:
+      - Baseball
+      - Basketball
+      - Football
+      - Hockey
+      - Soccer
+      required: true
     - id: 4
-      name: sports_form_category
-      label: Sports Forms
-      hint: null
+      name: select_multiple_sports
+      label: Select Multiple Sports
+      hint: Select multiple sports
       type: select_multiple
       options:
       - Baseball
@@ -55,46 +58,58 @@ inputSchema:
       - Soccer
       required: true
     - id: 5
-      name: season_play_voting_form_description
-      label: Season Play Voting Form helps sports leagues and athletics programs collect
-        end-of-season award votes and season feedback in one place using Jotform for
-        fast data collection and organized form submission tracking.
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: season_voting_form_description
+      label: Voting Form Description
       hint: null
       type: text
       options: []
       required: true
-    - id: 6
-      name: season_feedback
-      label: Feedback
-      hint: null
-      type: note
-      options: []
-      required: false
     - id: 7
-      name: sports_form_category
-      label: Sports Forms
-      hint: null
-      type: select_one
-      options:
-      - Baseball
-      - Basketball
-      - Football
-      - Hockey
-      - Soccer
-      required: false
-    - id: 8
-      name: season_play_voting_form_description
-      label: Season Play Voting Form helps sports leagues and athletics programs collect
-        end-of-season award votes and season feedback in one place using Jotform for
-        fast data collection and organized form submission tracking.
+      name: season_feedback_description
+      label: Season Feedback
       hint: null
       type: text
       options: []
       required: false
+    - id: 8
+      name: season_audience
+      label: Season Audience
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 9
+      name: season_play_audience_description
+      label: Season Play Audience Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
       name: season_feedback
-      label: Feedback
+      label: Feedback (2)
       hint: null
       type: note
+      options: []
+      required: true
+    - id: 11
+      name: season_play_audience_feedback
+      label: Season Play Audience Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: season_play_audience_voting_form
+      label: Season Play Audience Voting Form
+      hint: null
+      type: text
       options: []
       required: false

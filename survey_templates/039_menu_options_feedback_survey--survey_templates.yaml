@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 1}'
-      - '{''label'': 2}'
-      - '{''label'': 3}'
-      - '{''label'': 4}'
-      - '{''label'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 5
       name: menu_items
@@ -42,11 +42,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Burger''}'
-      - '{''label'': ''Sandwich''}'
-      - '{''label'': ''Salad''}'
-      - '{''label'': ''Soup''}'
-      - '{''label'': ''Other''}'
+      - Burger
+      - Sandwich
+      - Salad
+      - Soup
+      - Other
       required: false
     - id: 6
       name: menu_items_other
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Rarely''}'
+      - Daily
+      - Weekly
+      - Rarely
       required: false
     - id: 8
       name: menu_item_frequency_other
@@ -78,7 +78,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''$''}'
-      - '{''label'': ''$$''}'
-      - '{''label'': ''$$$''}'
+      - $
+      - $$
+      - $$$
       required: false

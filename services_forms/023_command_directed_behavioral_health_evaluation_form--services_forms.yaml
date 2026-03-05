@@ -1,360 +1,349 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Command Directed Behavioral Health Evaluation Form
     pages:
-      - id: 1
-        name: service_member_name
-        label: Service Member Name
-        hint: Full legal name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: rank_grade
-        label: Rank/Grade
-        hint: Current military rank
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: service_branch
-        label: Service Branch
-        hint: Military branch
-        type: select_one
-        options:
-          - Army
-          - Navy
-          - Air Force
-          - Marine Corps
-          - Coast Guard
-          - Space Force
-        required: true
-      - id: 4
-        name: unit_command
-        label: Unit/Command
-        hint: Current unit assignment
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: date_of_evaluation
-        label: Date of Evaluation
-        hint: Evaluation date
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: section_header_evaluation_type
-        label: -- Evaluation Type --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: evaluation_reason
-        label: Reason for Evaluation
-        hint: Why is this evaluation being conducted
-        type: select_one
-        options:
-          - Routine Assessment
-          - Post-Deployment
-          - Incident-Related
-          - Command Directed
-          - Self-Referral
-          - Medical Referral
-          - Other
-        required: true
-      - id: 8
-        name: previous_evaluations
-        label: Previous Behavioral Health Evaluations
-        hint: Have you had prior evaluations
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 9
-        name: section_header_mental_health
-        label: -- Mental Health Assessment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: current_stress_level
-        label: Current Stress Level
-        hint: Rate your current stress
-        type: select_one
-        options:
-          - Very Low
-          - Low
-          - Moderate
-          - High
-          - Very High
-        required: true
-      - id: 11
-        name: sleep_quality
-        label: Sleep Quality
-        hint: How is your sleep
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Very Poor
-        required: true
-      - id: 12
-        name: mood_changes
-        label: Mood Changes
-        hint: Have you experienced mood changes
-        type: select_one
-        options:
-          - No Changes
-          - Mild Changes
-          - Moderate Changes
-          - Significant Changes
-          - Severe Changes
-        required: true
-      - id: 13
-        name: anxiety_level
-        label: Anxiety Level
-        hint: Rate your anxiety
-        type: select_one
-        options:
-          - None
-          - Mild
-          - Moderate
-          - Severe
-          - Overwhelming
-        required: true
-      - id: 14
-        name: depression_symptoms
-        label: Depression Symptoms
-        hint: Experiencing depression symptoms
-        type: select_one
-        options:
-          - None
-          - Mild
-          - Moderate
-          - Severe
-        required: true
-      - id: 15
-        name: section_header_trauma
-        label: -- Trauma and PTSD --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: trauma_exposure
-        label: Trauma Exposure
-        hint: Have you experienced traumatic events
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Prefer Not to Answer
-        required: true
-      - id: 17
-        name: ptsd_symptoms
-        label: PTSD Symptoms
-        hint: Experiencing PTSD symptoms
-        type: select_one
-        options:
-          - None
-          - Mild
-          - Moderate
-          - Severe
-        required: true
-      - id: 18
-        name: nightmares
-        label: Nightmares or Flashbacks
-        hint: Frequency of nightmares or flashbacks
-        type: select_one
-        options:
-          - Never
-          - Rarely
-          - Sometimes
-          - Often
-          - Daily
-        required: true
-      - id: 19
-        name: section_header_substance_use
-        label: -- Substance Use --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 20
-        name: alcohol_use
-        label: Alcohol Use
-        hint: Frequency of alcohol consumption
-        type: select_one
-        options:
-          - None
-          - Occasional
-          - Moderate
-          - Heavy
-          - Daily
-        required: true
-      - id: 21
-        name: substance_use
-        label: Substance Use
-        hint: Use of other substances
-        type: select_one
-        options:
-          - None
-          - Past Use Only
-          - Occasional
-          - Regular
-          - Daily
-        required: true
-      - id: 22
-        name: section_header_relationships
-        label: -- Relationships and Functioning --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 23
-        name: relationship_status
-        label: Relationship Status
-        hint: Current relationship situation
-        type: select_one
-        options:
-          - Single
-          - Married
-          - Divorced
-          - Separated
-          - Widowed
-          - In a Relationship
-        required: true
-      - id: 24
-        name: family_relationships
-        label: Family Relationships
-        hint: Quality of family relationships
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Strained
-        required: true
-      - id: 25
-        name: work_performance
-        label: Work Performance
-        hint: How is your job performance
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Very Poor
-        required: true
-      - id: 26
-        name: section_header_support
-        label: -- Support and Treatment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 27
-        name: current_treatment
-        label: Currently in Treatment
-        hint: Are you receiving mental health treatment
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 28
-        name: medication
-        label: Currently Taking Medication
-        hint: Psychiatric medication
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 29
-        name: support_system
-        label: Support System
-        hint: Do you have adequate support
-        type: select_one
-        options:
-          - Strong Support
-          - Some Support
-          - Limited Support
-          - No Support
-        required: true
-      - id: 30
-        name: suicidal_thoughts
-        label: Suicidal Thoughts
-        hint: Current suicidal ideation
-        type: select_one
-        options:
-          - No
-          - Past Only
-          - Rarely
-          - Sometimes
-          - Frequently
-        required: true
-      - id: 31
-        name: section_header_recommendations
-        label: -- Evaluator Use Only --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 32
-        name: overall_assessment
-        label: Overall Assessment
-        hint: Evaluator summary
-        type: text
-        options: []
-        required: false
-      - id: 33
-        name: recommendations
-        label: Recommendations
-        hint: Treatment recommendations
-        type: text
-        options: []
-        required: false
-      - id: 34
-        name: follow_up_required
-        label: Follow-Up Required
-        hint: Is follow-up needed
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 35
-        name: evaluator_name
-        label: Evaluator Name
-        hint: Name of evaluating professional
-        type: text
-        options: []
-        required: false
-      - id: 36
-        name: evaluator_signature
-        label: Evaluator Signature
-        hint: Signature
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: service_member_name
+      label: Service Member Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rank_grade
+      label: Rank/Grade
+      hint: Current military rank
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_branch
+      label: Service Branch
+      hint: Military branch
+      type: select_one
+      options:
+      - Army
+      - Navy
+      - Air Force
+      - Marine Corps
+      - Coast Guard
+      - Space Force
+      required: true
+    - id: 4
+      name: unit_command
+      label: Unit/Command
+      hint: Current unit assignment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_evaluation
+      label: Date of Evaluation
+      hint: Evaluation date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_evaluation_type
+      label: -- Evaluation Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_reason
+      label: Reason for Evaluation
+      hint: Why is this evaluation being conducted
+      type: select_one
+      options:
+      - Routine Assessment
+      - Post-Deployment
+      - Incident-Related
+      - Command Directed
+      - Self-Referral
+      - Medical Referral
+      - Other
+      required: true
+    - id: 8
+      name: previous_evaluations
+      label: Previous Behavioral Health Evaluations
+      hint: Have you had prior evaluations
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: section_header_mental_health
+      label: -- Mental Health Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: current_stress_level
+      label: Current Stress Level
+      hint: Rate your current stress
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 11
+      name: sleep_quality
+      label: Sleep Quality
+      hint: How is your sleep
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: mood_changes
+      label: Mood Changes
+      hint: Have you experienced mood changes
+      type: select_one
+      options:
+      - No Changes
+      - Mild Changes
+      - Moderate Changes
+      - Significant Changes
+      - Severe Changes
+      required: true
+    - id: 13
+      name: anxiety_level
+      label: Anxiety Level
+      hint: Rate your anxiety
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      - Overwhelming
+      required: true
+    - id: 14
+      name: depression_symptoms
+      label: Depression Symptoms
+      hint: Experiencing depression symptoms
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 15
+      name: section_header_trauma
+      label: -- Trauma and PTSD --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: trauma_exposure
+      label: Trauma Exposure
+      hint: Have you experienced traumatic events
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Prefer Not to Answer
+      required: true
+    - id: 17
+      name: ptsd_symptoms
+      label: PTSD Symptoms
+      hint: Experiencing PTSD symptoms
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 18
+      name: nightmares
+      label: Nightmares or Flashbacks
+      hint: Frequency of nightmares or flashbacks
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Daily
+      required: true
+    - id: 19
+      name: section_header_substance_use
+      label: -- Substance Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: alcohol_use
+      label: Alcohol Use
+      hint: Frequency of alcohol consumption
+      type: select_one
+      options:
+      - None
+      - Occasional
+      - Moderate
+      - Heavy
+      - Daily
+      required: true
+    - id: 21
+      name: substance_use
+      label: Substance Use
+      hint: Use of other substances
+      type: select_one
+      options:
+      - None
+      - Past Use Only
+      - Occasional
+      - Regular
+      - Daily
+      required: true
+    - id: 22
+      name: section_header_relationships
+      label: -- Relationships and Functioning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: relationship_status
+      label: Relationship Status
+      hint: Current relationship situation
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Separated
+      - Widowed
+      - In a Relationship
+      required: true
+    - id: 24
+      name: family_relationships
+      label: Family Relationships
+      hint: Quality of family relationships
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Strained
+      required: true
+    - id: 25
+      name: work_performance
+      label: Work Performance
+      hint: How is your job performance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 26
+      name: section_header_support
+      label: -- Support and Treatment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: current_treatment
+      label: Currently in Treatment
+      hint: Are you receiving mental health treatment
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 28
+      name: medication
+      label: Currently Taking Medication
+      hint: Psychiatric medication
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 29
+      name: support_system
+      label: Support System
+      hint: Do you have adequate support
+      type: select_one
+      options:
+      - Strong Support
+      - Some Support
+      - Limited Support
+      - No Support
+      required: true
+    - id: 30
+      name: suicidal_thoughts
+      label: Suicidal Thoughts
+      hint: Current suicidal ideation
+      type: select_one
+      options:
+      - 'False'
+      - Past Only
+      - Rarely
+      - Sometimes
+      - Frequently
+      required: true
+    - id: 31
+      name: section_header_recommendations
+      label: -- Evaluator Use Only --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: overall_assessment
+      label: Overall Assessment
+      hint: Evaluator summary
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: recommendations
+      label: Recommendations
+      hint: Treatment recommendations
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: follow_up_required
+      label: Follow-Up Required
+      hint: Is follow-up needed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 35
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Name of evaluating professional
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: evaluator_signature
+      label: Evaluator Signature
+      hint: Signature
+      type: text
+      options: []
+      required: false

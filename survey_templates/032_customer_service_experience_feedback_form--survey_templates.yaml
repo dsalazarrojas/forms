@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Not Sufficient''}'
-      - '{''value'': 2, ''label'': ''Sufficient''}'
-      - '{''value'': 3, ''label'': ''Highly Sufficient''}'
+      - Not Sufficient
+      - Sufficient
+      - Highly Sufficient
       required: false
     - id: 3
       name: service_quality
@@ -26,11 +26,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Poor''}'
-      - '{''value'': 2, ''label'': ''Fair''}'
-      - '{''value'': 3, ''label'': ''Good''}'
-      - '{''value'': 4, ''label'': ''Very Good''}'
-      - '{''value'': 5, ''label'': ''Excellent''}'
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
       required: false
     - id: 4
       name: satisfaction
@@ -38,9 +38,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Not Satisfied''}'
-      - '{''value'': 2, ''label'': ''Satisfied''}'
-      - '{''value'': 3, ''label'': ''Highly Satisfied''}'
+      - Not Satisfied
+      - Satisfied
+      - Highly Satisfied
       required: false
     - id: 5
       name: open_ended
@@ -55,11 +55,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': False}'
-      - '{''value'': 2, ''label'': True}'
-      - '{''value'': 3, ''label'': ''Yes, by phone''}'
-      - '{''value'': 4, ''label'': ''Yes, by email''}'
-      - '{''value'': 5, ''label'': ''Yes, by mail''}'
+      - 'False'
+      - 'True'
+      - Yes, by phone
+      - Yes, by email
+      - Yes, by mail
       required: false
     - id: 7
       name: follow_up_method
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Phone''}'
-      - '{''value'': 2, ''label'': ''Email''}'
-      - '{''value'': 3, ''label'': ''Mail''}'
+      - Phone
+      - Email
+      - Mail
       required: false
     - id: 8
       name: contact_info
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Phone''}'
-      - '{''value'': 2, ''label'': ''Email''}'
-      - '{''value'': 3, ''label'': ''Mail''}'
+      - Phone
+      - Email
+      - Mail
       required: false
     - id: 11
       name: email

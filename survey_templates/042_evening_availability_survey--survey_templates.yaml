@@ -23,13 +23,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 3.1, ''name'': ''Monday''}'
-      - '{''id'': 3.2, ''name'': ''Tuesday''}'
-      - '{''id'': 3.3, ''name'': ''Wednesday''}'
-      - '{''id'': 3.4, ''name'': ''Thursday''}'
-      - '{''id'': 3.5, ''name'': ''Friday''}'
-      - '{''id'': 3.6, ''name'': ''Saturday''}'
-      - '{''id'': 3.7, ''name'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 4
       name: preferred_end_time
@@ -58,13 +58,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 7.1, ''name'': ''Monday''}'
-      - '{''id'': 7.2, ''name'': ''Tuesday''}'
-      - '{''id'': 7.3, ''name'': ''Wednesday''}'
-      - '{''id'': 7.4, ''name'': ''Thursday''}'
-      - '{''id'': 7.5, ''name'': ''Friday''}'
-      - '{''id'': 7.6, ''name'': ''Saturday''}'
-      - '{''id'': 7.7, ''name'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 8
       name: preferred_length
@@ -86,10 +86,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 10.1, ''name'': ''daily''}'
-      - '{''id'': 10.2, ''name'': ''weekly''}'
-      - '{''id'': 10.3, ''name'': ''monthly''}'
-      - '{''id'': 10.4, ''name'': ''as_needed''}'
+      - daily
+      - weekly
+      - monthly
+      - as needed
       required: false
     - id: 11
       name: preferred_meeting_type
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 11.1, ''name'': ''Video Call''}'
-      - '{''id'': 11.2, ''name'': ''Phone Call''}'
-      - '{''id'': 11.3, ''name'': ''In Person''}'
+      - Video Call
+      - Phone Call
+      - In Person
       required: false
     - id: 12
       name: preferred_meeting_duration
@@ -107,11 +107,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 12.1, ''name'': ''15 minutes''}'
-      - '{''id'': 12.2, ''name'': ''30 minutes''}'
-      - '{''id'': 12.3, ''name'': ''60 minutes''}'
-      - '{''id'': 12.4, ''name'': ''90 minutes''}'
-      - '{''id'': 12.5, ''name'': ''120 minutes''}'
+      - 15 minutes
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      - 120 minutes
       required: false
     - id: 13
       name: available_meeting_duration
@@ -119,11 +119,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 13.1, ''name'': ''15 minutes''}'
-      - '{''id'': 13.2, ''name'': ''30 minutes''}'
-      - '{''id'': 13.3, ''name'': ''60 minutes''}'
-      - '{''id'': 13.4, ''name'': ''90 minutes''}'
-      - '{''id'': 13.5, ''name'': ''120 minutes''}'
+      - 15 minutes
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      - 120 minutes
       required: false
     - id: 14
       name: preferred_meeting_time
@@ -145,13 +145,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 16.1, ''name'': ''Monday''}'
-      - '{''id'': 16.2, ''name'': ''Tuesday''}'
-      - '{''id'': 16.3, ''name'': ''Wednesday''}'
-      - '{''id'': 16.4, ''name'': ''Thursday''}'
-      - '{''id'': 16.5, ''name'': ''Friday''}'
-      - '{''id'': 16.6, ''name'': ''Saturday''}'
-      - '{''id'': 16.7, ''name'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 17
       name: available_meeting_days
@@ -159,13 +159,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 17.1, ''name'': ''Monday''}'
-      - '{''id'': 17.2, ''name'': ''Tuesday''}'
-      - '{''id'': 17.3, ''name'': ''Wednesday''}'
-      - '{''id'': 17.4, ''name'': ''Thursday''}'
-      - '{''id'': 17.5, ''name'': ''Friday''}'
-      - '{''id'': 17.6, ''name'': ''Saturday''}'
-      - '{''id'': 17.7, ''name'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 18
       name: preferred_meeting_frequency
@@ -173,9 +173,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 18.1, ''name'': ''once''}'
-      - '{''id'': 18.2, ''name'': ''weekly''}'
-      - '{''id'': 18.3, ''name'': ''monthly''}'
+      - once
+      - weekly
+      - monthly
       required: false
     - id: 19
       name: available_meeting_frequencies
@@ -183,9 +183,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 19.1, ''name'': ''once''}'
-      - '{''id'': 19.2, ''name'': ''weekly''}'
-      - '{''id'': 19.3, ''name'': ''monthly''}'
+      - once
+      - weekly
+      - monthly
       required: false
     - id: 20
       name: additional_comments

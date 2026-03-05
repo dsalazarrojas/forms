@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Single''}'
-      - '{''label'': ''In a relationship''}'
-      - '{''label'': ''In a long-term relationship''}'
-      - '{''label'': ''In a marriage''}'
-      - '{''label'': ''In a long-term partnership''}'
-      - '{''label'': ''In a domestic partnership''}'
+      - Single
+      - In a relationship
+      - In a long-term relationship
+      - In a marriage
+      - In a long-term partnership
+      - In a domestic partnership
       required: false
     - id: 3
       name: intimacy_expectations
@@ -29,10 +29,10 @@ inputSchema:
       hint: What do you expect from your partner in terms of physical intimacy?
       type: select_multiple
       options:
-      - '{''label'': ''Physical touch''}'
-      - '{''label'': ''Emotional intimacy''}'
-      - '{''label'': ''Financial support''}'
-      - '{''label'': ''Emotional support''}'
+      - Physical touch
+      - Emotional intimacy
+      - Financial support
+      - Emotional support
       required: false
     - id: 4
       name: intimacy_boundaries
@@ -40,11 +40,10 @@ inputSchema:
       hint: What are your boundaries regarding intimacy?
       type: select_multiple
       options:
-      - '{''label'': ''No boundaries''}'
-      - '{''label'': ''Some boundaries''}'
-      - '{''label'': ''Physical boundaries (e.g. no kissing, no touching)''}'
-      - '{''label'': ''Emotional boundaries (e.g. no talking about feelings, no emotional
-        support)''}'
+      - No boundaries
+      - Some boundaries
+      - Physical boundaries (e.g. no kissing, no touching)
+      - Emotional boundaries (e.g. no talking about feelings, no emotional support)
       required: false
     - id: 5
       name: boundaries_reasons
@@ -59,10 +58,10 @@ inputSchema:
       hint: What do you expect from your partner in terms of the relationship?
       type: select_multiple
       options:
-      - '{''label'': ''Emotional support''}'
-      - '{''label'': ''Financial support''}'
-      - '{''label'': ''Physical support''}'
-      - '{''label'': ''Intellectual support''}'
+      - Emotional support
+      - Financial support
+      - Physical support
+      - Intellectual support
       required: false
     - id: 7
       name: communication_style
@@ -70,10 +69,10 @@ inputSchema:
       hint: How do you like to communicate with your partner?
       type: select_multiple
       options:
-      - '{''label'': ''Open and direct''}'
-      - '{''label'': ''Indirect and sensitive''}'
-      - '{''label'': ''Avoiding conflict''}'
-      - '{''label'': ''Not very important''}'
+      - Open and direct
+      - Indirect and sensitive
+      - Avoiding conflict
+      - Not very important
       required: false
     - id: 8
       name: communication_channels
@@ -81,12 +80,12 @@ inputSchema:
       hint: What methods of communication do you prefer to use with your partner?
       type: select_multiple
       options:
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Text message''}'
-      - '{''label'': ''In-person conversation''}'
-      - '{''label'': ''Video call''}'
-      - '{''label'': ''Social media''}'
+      - Phone
+      - Email
+      - Text message
+      - In-person conversation
+      - Video call
+      - Social media
       required: false
     - id: 9
       name: emotional_expression
@@ -94,10 +93,10 @@ inputSchema:
       hint: How do you like to express your emotions with your partner?
       type: select_multiple
       options:
-      - '{''label'': ''Openly''}'
-      - '{''label'': ''Indirectly''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Not very important''}'
+      - Openly
+      - Indirectly
+      - Rarely
+      - Not very important
       required: false
     - id: 10
       name: conflict_resolution
@@ -105,10 +104,10 @@ inputSchema:
       hint: How do you like to resolve conflicts with your partner?
       type: select_multiple
       options:
-      - '{''label'': ''Directly''}'
-      - '{''label'': ''Indirectly''}'
-      - '{''label'': ''Avoiding''}'
-      - '{''label'': ''Not very important''}'
+      - Directly
+      - Indirectly
+      - Avoiding
+      - Not very important
       required: false
     - id: 11
       name: emotional_support
@@ -116,10 +115,10 @@ inputSchema:
       hint: How do you expect your partner to support you emotionally?
       type: select_multiple
       options:
-      - '{''label'': ''Constantly''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Not very important''}'
+      - Constantly
+      - Sometimes
+      - Rarely
+      - Not very important
       required: false
     - id: 12
       name: intimacy_expectations_important
@@ -134,11 +133,11 @@ inputSchema:
       hint: How often do you expect these expectations from your partner?
       type: select_multiple
       options:
-      - '{''label'': ''Never''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Daily''}'
+      - Never
+      - Rarely
+      - Sometimes
+      - Frequently
+      - Daily
       required: false
     - id: 14
       name: intimacy_boundaries_important
@@ -153,11 +152,11 @@ inputSchema:
       hint: How often do you enforce your intimacy boundaries?
       type: select_multiple
       options:
-      - '{''label'': ''Never''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Daily''}'
+      - Never
+      - Rarely
+      - Sometimes
+      - Frequently
+      - Daily
       required: false
     - id: 16
       name: review_frequency
@@ -166,11 +165,11 @@ inputSchema:
         your partner?
       type: select_multiple
       options:
-      - '{''label'': ''Never''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Daily''}'
+      - Never
+      - Rarely
+      - Sometimes
+      - Frequently
+      - Daily
       required: false
     - id: 17
       name: review_style
@@ -179,10 +178,10 @@ inputSchema:
         your partner?
       type: select_multiple
       options:
-      - '{''label'': ''Directly''}'
-      - '{''label'': ''Indirectly''}'
-      - '{''label'': ''Avoiding''}'
-      - '{''label'': ''Not very important''}'
+      - Directly
+      - Indirectly
+      - Avoiding
+      - Not very important
       required: false
     - id: 18
       name: relationship_status_update
@@ -190,11 +189,11 @@ inputSchema:
       hint: How often do you update your relationship status with your partner?
       type: select_multiple
       options:
-      - '{''label'': ''Never''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Daily''}'
+      - Never
+      - Rarely
+      - Sometimes
+      - Frequently
+      - Daily
       required: false
     - id: 19
       name: intimacy_expectations_update
@@ -202,11 +201,11 @@ inputSchema:
       hint: How often do you update your intimacy expectations with your partner?
       type: select_multiple
       options:
-      - '{''label'': ''Never''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Daily''}'
+      - Never
+      - Rarely
+      - Sometimes
+      - Frequently
+      - Daily
       required: false
     - id: 20
       name: boundaries_update
@@ -214,11 +213,11 @@ inputSchema:
       hint: How often do you update your intimacy boundaries with your partner?
       type: select_multiple
       options:
-      - '{''label'': ''Never''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Daily''}'
+      - Never
+      - Rarely
+      - Sometimes
+      - Frequently
+      - Daily
       required: false
     - id: 21
       name: relationship_expectations_update
@@ -226,11 +225,11 @@ inputSchema:
       hint: How often do you update your relationship expectations with your partner?
       type: select_multiple
       options:
-      - '{''label'': ''Never''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Daily''}'
+      - Never
+      - Rarely
+      - Sometimes
+      - Frequently
+      - Daily
       required: false
     - id: 22
       name: notes
@@ -259,14 +258,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': 1}'
-      - '{''label'': 2}'
-      - '{''label'': 3}'
-      - '{''label'': 4}'
-      - '{''label'': 5}'
-      - '{''label'': 6}'
-      - '{''label'': 7}'
-      - '{''label'': 8}'
-      - '{''label'': 9}'
-      - '{''label'': 10}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
       required: false

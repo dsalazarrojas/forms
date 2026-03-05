@@ -1,115 +1,75 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Parent Satisfaction Survey
     pages:
     - id: 1
-      name: parent_survey_form
-      label: parent_survey_form
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 2
       name: school_environment
-      label: school_environment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: teacher_support
-      label: teacher_support
+      label: School Environment
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High'', ''value'': ''high''}'
-      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''medium''}'
-      - '{''id'': 4, ''label'': ''Low'', ''value'': ''low''}'
+      - Very Good
+      - Good
+      - Poor
+      required: true
+    - id: 2
+      name: teacher_support
+      label: Teacher Support
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
       required: false
+    - id: 3
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
     - id: 4
-      name: school_environment
-      label: school_environment
+      name: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: teacher_support
-      label: teacher_support
+      name: school_events
+      label: School Events
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High'', ''value'': ''high''}'
-      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''medium''}'
-      - '{''id'': 3, ''label'': ''Low'', ''value'': ''low''}'
+      - Daily
+      - Weekly
+      - Rarely
       required: false
     - id: 6
-      name: feedback
-      label: feedback
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
-      name: suggestions
-      label: suggestions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: parent_involvement
-      label: parent_involvement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: teacher_involvement
-      label: teacher_involvement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: parent_support
-      label: parent_support
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: teacher_support
-      label: teacher_support
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: overall_satisfaction
-      label: overall_satisfaction
+      label: Parent Involvement
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High'', ''value'': ''high''}'
-      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''medium''}'
-      - '{''id'': 3, ''label'': ''Low'', ''value'': ''low''}'
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
       required: true
-    - id: 13
-      name: comments
-      label: comments
+    - id: 8
+      name: suggestions
+      label: Suggestions
       hint: null
       type: text
       options: []

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Event Organizer''}'
-      - '{''id'': 2, ''name'': ''Event Coordinator''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Event Organizer
+      - Event Coordinator
+      - Other
       required: false
     - id: 4
       name: contact_info
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Partnership''}'
-      - '{''id'': 2, ''name'': ''Collaborative Partnership''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Partnership
+      - Collaborative Partnership
+      - Other
       required: false
     - id: 7
       name: message_to_sponsor
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 9
       name: sponsor_info
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Not Sure''}'
+      - 'True'
+      - 'False'
+      - Not Sure
       required: false
     - id: 16
       name: sponsorships_declined
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Not Sure''}'
+      - 'True'
+      - 'False'
+      - Not Sure
       required: false
     - id: 17
       name: sponsorships_other
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Not Sure''}'
+      - 'True'
+      - 'False'
+      - Not Sure
       required: false
     - id: 18
       name: sponsorships_other_notes

@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Onsite''}'
-      - '{''value'': ''Offsite''}'
-      - '{''value'': ''Rotating''}'
+      - Onsite
+      - Offsite
+      - Rotating
       required: true
     - id: 6
       name: on_call_availability_survey_mon
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
-      - '{''value'': ''Evening''}'
-      - '{''value'': ''None''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - None
       required: true
     - id: 7
       name: on_call_availability_survey_tue
@@ -58,10 +58,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
-      - '{''value'': ''Evening''}'
-      - '{''value'': ''None''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - None
       required: true
     - id: 8
       name: on_call_availability_survey_wed
@@ -69,10 +69,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
-      - '{''value'': ''Evening''}'
-      - '{''value'': ''None''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - None
       required: true
     - id: 9
       name: on_call_availability_survey_thu
@@ -80,10 +80,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
-      - '{''value'': ''Evening''}'
-      - '{''value'': ''None''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - None
       required: true
     - id: 10
       name: on_call_availability_survey_fri
@@ -91,10 +91,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
-      - '{''value'': ''Evening''}'
-      - '{''value'': ''None''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - None
       required: true
     - id: 11
       name: on_call_availability_survey_sat
@@ -102,10 +102,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
-      - '{''value'': ''Evening''}'
-      - '{''value'': ''None''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - None
       required: false
     - id: 12
       name: on_call_availability_survey_sun
@@ -113,10 +113,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
-      - '{''value'': ''Evening''}'
-      - '{''value'': ''None''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - None
       required: false
     - id: 13
       name: on_call_availability_survey_onsite_2
@@ -124,92 +124,92 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
-      - '{''value'': ''Evening''}'
-      - '{''value'': ''None''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - None
       required: true
     - id: 14
       name: on_call_availability_survey_mon_start
       label: Monday Start
-      hint: "07:00"
+      hint: 07:00
       type: time
       options: []
       required: false
     - id: 15
       name: on_call_availability_survey_mon_end
       label: Monday End
-      hint: "08:00"
+      hint: 08:00
       type: time
       options: []
       required: false
     - id: 16
       name: on_call_availability_survey_tue_start
       label: Tuesday Start
-      hint: "07:00"
+      hint: 07:00
       type: time
       options: []
       required: false
     - id: 17
       name: on_call_availability_survey_tue_end
       label: Tuesday End
-      hint: "08:00"
+      hint: 08:00
       type: time
       options: []
       required: false
     - id: 18
       name: on_call_availability_survey_wed_start
       label: Wednesday Start
-      hint: "07:00"
+      hint: 07:00
       type: time
       options: []
       required: false
     - id: 19
       name: on_call_availability_survey_wed_end
       label: Wednesday End
-      hint: "08:00"
+      hint: 08:00
       type: time
       options: []
       required: false
     - id: 20
       name: on_call_availability_survey_thu_start
       label: Thursday Start
-      hint: "07:00"
+      hint: 07:00
       type: time
       options: []
       required: false
     - id: 21
       name: on_call_availability_survey_thu_end
       label: Thursday End
-      hint: "08:00"
+      hint: 08:00
       type: time
       options: []
       required: false
     - id: 22
       name: on_call_availability_survey_fri_start
       label: Friday Start
-      hint: "07:00"
+      hint: 07:00
       type: time
       options: []
       required: false
     - id: 23
       name: on_call_availability_survey_fri_end
       label: Friday End
-      hint: "08:00"
+      hint: 08:00
       type: time
       options: []
       required: false
     - id: 24
       name: on_call_availability_survey_sat_start
       label: Saturday Start
-      hint: "07:00"
+      hint: 07:00
       type: time
       options: []
       required: false
     - id: 25
       name: on_call_availability_survey_sat_end
       label: Saturday End
-      hint: "08:00"
+      hint: 08:00
       type: time
       options: []
       required: false

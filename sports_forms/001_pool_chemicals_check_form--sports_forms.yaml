@@ -5,96 +5,98 @@ inputSchema:
     pages:
     - id: 1
       name: pool_chemicals_check
-      label: Pool Chemicals Check
+      label: Pool Chemicals Check Form
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: chemicals
-      label: Chemicals
+      name: pool_maintenance_chemicals
+      label: What is the current chemical used for pool maintenance?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Algaecide
+      - Stabilizer
+      - Clarifier
       required: false
     - id: 3
-      name: chemical_1
+      name: algaecide
       label: Algaecide
       hint: null
       type: select_one
       options:
       - Algaecide
-      - Algaecide
-      - Algaecide
+      - 'False'
       required: false
     - id: 4
-      name: chemical_2
+      name: stabilizer
       label: Stabilizer
       hint: null
       type: select_one
       options:
       - Stabilizer
-      - Stabilizer
-      - Stabilizer
+      - 'False'
       required: false
     - id: 5
-      name: chemical_3
+      name: clarifier
       label: Clarifier
       hint: null
       type: select_one
       options:
       - Clarifier
-      - Clarifier
-      - Clarifier
+      - 'False'
       required: false
     - id: 6
-      name: chemical_4
-      label: Algaecide
-      hint: null
-      type: select_one
-      options:
-      - Algaecide
-      - Algaecide
-      - Algaecide
-      required: false
-    - id: 7
-      name: chemical_5
-      label: Stabilizer
-      hint: null
-      type: select_one
-      options:
-      - Stabilizer
-      - Stabilizer
-      - Stabilizer
-      required: false
-    - id: 8
-      name: chemical_6
-      label: Clarifier
-      hint: null
-      type: select_one
-      options:
-      - Clarifier
-      - Clarifier
-      - Clarifier
-      required: false
-    - id: 9
       name: other_chemicals
       label: Other chemicals
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: other_chemicals_used
+      label: What are these other chemicals?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: chemical_1
+      label: What is the brand name of the pool chemicals used?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: algaecide_expiration
+      label: What is the expiration date of the Algaecide?
+      hint: null
+      type: date
+      options: []
       required: false
     - id: 10
-      name: other_chemicals_1
-      label: Other chemicals 1
+      name: stabilizer_expiration
+      label: What is the expiration date of the Stabilizer?
       hint: null
-      type: select_one
-      options:
-      - Other chemicals 1
-      - Other chemicals 1
-      - Other chemicals 1
+      type: date
+      options: []
       required: false
+    - id: 11
+      name: clarifier_expiration
+      label: What is the expiration date of the Clarifier?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: pool_check
+      label: Pool Check
+      hint: null
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: true

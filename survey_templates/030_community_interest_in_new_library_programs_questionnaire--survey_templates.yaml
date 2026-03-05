@@ -1,138 +1,127 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Community Interest In New Library Programs Questionnaire
     pages:
-      - id: 1
-        name: respondent_age_group
-        label: Age Group of the Primary Participant
-        hint: For program tailoring
-        type: select_one
-        options:
-          - Children (Under 12)
-          - Teens (13-19)
-          - Young Adults (20-35)
-          - Adults (36-60)
-          - Seniors (60+)
-        required: true
-      - id: 2
-        name: program_topic_interest
-        label: Which new program topics would you be most interested in?
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Technology and Coding Workshops
-          - Arts, Crafts, and DIY Projects
-          - Literature, Book Clubs, and Creative Writing
-          - Career Development and Job Search Skills
-          - Language Learning Classes
-          - Local History and Heritage
-          - Personal Finance and Wealth Management
-        required: true
-      - id: 3
-        name: preferred_days
-        label: Preferred Days of the Week for Programs
-        hint: Select all that work for you
-        type: select_multiple
-        options:
-          - Weekdays (Monday - Friday)
-          - Saturdays
-          - Sundays
-        required: true
-      - id: 4
-        name: preferred_times
-        label: Preferred Time of Day for Programs
-        hint: Select all that work for you
-        type: select_multiple
-        options:
-          - Morning (9:00 AM - 12:00 PM)
-          - Afternoon (1:00 PM - 5:00 PM)
-          - Evening (6:00 PM - 9:00 PM)
-        required: true
-      - id: 5
-        name: program_frequency
-        label: Preferred Frequency of Program Attendance
-        hint: How often would you attend?
-        type: select_one
-        options:
-          - Weekly Sessions
-          - Bi-weekly (Every 2 weeks)
-          - Monthly Workshops
-          - One-off Special Events
-        required: true
-      - id: 6
-        name: program_format
-        label: Preferred Program Format
-        hint: null
-        type: select_one
-        options:
-          - In-person at the library
-          - Virtual via Video Call
-          - Hybrid (Choice of both)
-        required: true
-      - id: 7
-        name: volunteer_interest
-        label: Would you be interested in volunteering to lead or assist a program?
-        hint: We value community-led initiatives
-        type: select_one
-        options:
-          - Yes, I would love to lead
-          - Yes, I can assist
-          - No, thank you
-          - Maybe, contact me with info
-        required: true
-      - id: 8
-        name: library_card_holder
-        label: Do you currently have a valid Library Card?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 9
-        name: visit_frequency
-        label: How often do you visit the library currently?
-        hint: null
-        type: select_one
-        options:
-          - Daily
-          - Weekly
-          - Monthly
-          - Rarely or Never
-        required: true
-      - id: 10
-        name: program_suggestions
-        label: Suggestions for programs or services we haven't mentioned
-        hint: Tell us what you would like to see at your library
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: contact_consent
-        label: Can we contact you about upcoming library programs?
-        hint: null
-        type: select_one
-        options:
-          - Yes, via Email
-          - Yes, via Phone
-          - No, thank you
-        required: true
-      - id: 12
-        name: respondent_email
-        label: Your Contact Email
-        hint: Required if you selected Yes above
-        type: email
-        options: []
-        required: false
+    - id: 1
+      name: respondent_age_group
+      label: Age Group of the Primary Participant
+      hint: For program tailoring
+      type: select_one
+      options:
+      - Children (Under 12)
+      - Teens (13-19)
+      - Young Adults (20-35)
+      - Adults (36-60)
+      - Seniors (60+)
+      required: true
+    - id: 2
+      name: program_topic_interest
+      label: Which new program topics would you be most interested in?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Technology and Coding Workshops
+      - Arts, Crafts, and DIY Projects
+      - Literature, Book Clubs, and Creative Writing
+      - Career Development and Job Search Skills
+      - Language Learning Classes
+      - Local History and Heritage
+      - Personal Finance and Wealth Management
+      required: true
+    - id: 3
+      name: preferred_days
+      label: Preferred Days of the Week for Programs
+      hint: Select all that work for you
+      type: select_multiple
+      options:
+      - Weekdays (Monday - Friday)
+      - Saturdays
+      - Sundays
+      required: true
+    - id: 4
+      name: preferred_times
+      label: Preferred Time of Day for Programs
+      hint: Select all that work for you
+      type: select_multiple
+      options:
+      - Morning (9:00 AM - 12:00 PM)
+      - Afternoon (1:00 PM - 5:00 PM)
+      - Evening (6:00 PM - 9:00 PM)
+      required: true
+    - id: 5
+      name: program_frequency
+      label: Preferred Frequency of Program Attendance
+      hint: How often would you attend?
+      type: select_one
+      options:
+      - Weekly Sessions
+      - Bi-weekly (Every 2 weeks)
+      - Monthly Workshops
+      - One-off Special Events
+      required: true
+    - id: 6
+      name: program_format
+      label: Preferred Program Format
+      hint: null
+      type: select_one
+      options:
+      - In-person at the library
+      - Virtual via Video Call
+      - Hybrid (Choice of both)
+      required: true
+    - id: 7
+      name: volunteer_interest
+      label: Would you be interested in volunteering to lead or assist a program?
+      hint: We value community-led initiatives
+      type: select_one
+      options:
+      - Yes, I would love to lead
+      - Yes, I can assist
+      - No, thank you
+      - Maybe, contact me with info
+      required: true
+    - id: 8
+      name: library_card_holder
+      label: Do you currently have a valid Library Card?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: visit_frequency
+      label: How often do you visit the library currently?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely or Never
+      required: true
+    - id: 10
+      name: program_suggestions
+      label: Suggestions for programs or services we haven't mentioned
+      hint: Tell us what you would like to see at your library
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_consent
+      label: Can we contact you about upcoming library programs?
+      hint: null
+      type: select_one
+      options:
+      - Yes, via Email
+      - Yes, via Phone
+      - No, thank you
+      required: true
+    - id: 12
+      name: respondent_email
+      label: Your Contact Email
+      hint: Required if you selected Yes above
+      type: email
+      options: []
+      required: false

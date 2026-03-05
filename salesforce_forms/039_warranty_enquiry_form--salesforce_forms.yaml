@@ -16,219 +16,93 @@ inputSchema:
     pages:
     - id: 1
       name: product_serial_number
-      label: product_serial_number
+      label: What is the product serial number?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: customer_name
-      label: customer_name
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: customer_phone
-      label: customer_phone
+      label: What is your phone number?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: customer_email
-      label: customer_email
+      label: What is your email address?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: product_description
-      label: product_description
+      label: What is the description of the issue?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: claim_date
-      label: claim_date
+      name: warranty_type
+      label: What is the warranty type?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Standard
+      - Extended
+      required: true
     - id: 7
-      name: issue_description
-      label: issue_description
+      name: claim_status
+      label: What is the claim status?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
     - id: 8
-      name: customer_address
-      label: customer_address
+      name: claim_date
+      label: What is the claim date?
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 9
-      name: contact_number
-      label: contact_number
+      name: claim_type
+      label: What is the claim type?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Mechanical
+      - Electrical
+      - Other
+      required: true
     - id: 10
-      name: customer_postal_code
-      label: customer_postal_code
+      name: contact_name
+      label: What is the contact name?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: warranty_type
-      label: warranty_type
+      name: warranty_start_date
+      label: What is the warranty start date?
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Standard''}'
-      - '{''value'': ''Extended''}'
+      type: date
+      options: []
       required: false
     - id: 12
-      name: warranty_start_date
-      label: warranty_start_date
+      name: warranty_end_date
+      label: What is the warranty end date?
       hint: null
       type: date
-      options: []
-      required: false
-    - id: 13
-      name: warranty_end_date
-      label: warranty_end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: claim_status
-      label: claim_status
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Not Started''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Completed''}'
-      required: false
-    - id: 15
-      name: claim_date
-      label: claim_date
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: claim_type
-      label: claim_type
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Mechanical''}'
-      - '{''value'': ''Electrical''}'
-      - '{''value'': ''Other''}'
-      required: false
-    - id: 17
-      name: contact_name
-      label: contact_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: claim_status
-      label: claim_status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: claim_date
-      label: claim_date
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: issue_description
-      label: issue_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: claim_status
-      label: claim_status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: warranty_start_date
-      label: warranty_start_date
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: warranty_end_date
-      label: warranty_end_date
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: claim_type
-      label: claim_type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: customer_phone
-      label: customer_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: product_serial_number
-      label: product_serial_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: issue_description
-      label: issue_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: warranty_type
-      label: warranty_type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: claim_status
-      label: claim_status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: claim_date
-      label: claim_date
-      hint: null
-      type: text
       options: []
       required: false

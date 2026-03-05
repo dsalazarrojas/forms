@@ -102,8 +102,8 @@ inputSchema:
       hint: Were there witnesses?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not Sure
       required: true
     - id: 12
@@ -138,8 +138,8 @@ inputSchema:
       hint: Have you reported before?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: previous_report_details
@@ -154,8 +154,8 @@ inputSchema:
       hint: Do you have evidence?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: evidence_type
@@ -186,7 +186,7 @@ inputSchema:
       options:
       - Yes, Immediate Danger
       - Yes, Some Concern
-      - false
+      - 'False'
       - Not Sure
       required: true
     - id: 21
@@ -195,8 +195,8 @@ inputSchema:
       hint: Were weapons used?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not Sure
       required: true
     - id: 22
@@ -251,7 +251,7 @@ inputSchema:
       - Yes, Counseling
       - Yes, Safety Plan
       - Yes, Mediation
-      - false
+      - 'False'
       - Not Sure
       required: false
     - id: 28

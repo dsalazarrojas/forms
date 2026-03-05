@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''value'': ''AAA''}'
-      - '{''id'': ''2'', ''value'': ''AA Plus''}'
-      - '{''id'': ''3'', ''value'': ''AAA Plus''}'
+      - AAA
+      - AA Plus
+      - AAA Plus
       required: true
     - id: 2
       name: service_type
@@ -19,9 +19,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''1'', ''value'': ''Oil Change''}'
-      - '{''id'': ''2'', ''value'': ''Tire Change''}'
-      - '{''id'': ''3'', ''value'': ''Battery Replacement''}'
+      - Oil Change
+      - Tire Change
+      - Battery Replacement
       required: true
     - id: 3
       name: contact_method
@@ -29,9 +29,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''value'': ''Phone''}'
-      - '{''id'': ''2'', ''value'': ''Email''}'
-      - '{''id'': ''3'', ''value'': ''In Person''}'
+      - Phone
+      - Email
+      - In Person
       required: true
     - id: 4
       name: appointment_date

@@ -11,20 +11,20 @@ inputSchema:
       options: []
       required: true
     - id: 2
-      name: introduction
+      name: introduction_2
       label: Introduction
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: introduction
+      name: introduction_3
       label: What is the student’s grade level?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Elementary School''}'
-      - '{''id'': 2, ''label'': ''High School''}'
+      - Elementary School
+      - High School
       required: false
     - id: 4
       name: parent_education
@@ -32,21 +32,21 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High school or below''}'
-      - '{''id'': 2, ''label'': ''Some College''}'
-      - '{''id'': 3, ''label'': ''Bachelor’s degree''}'
-      - '{''id'': 4, ''label'': ''Some college or higher''}'
+      - High school or below
+      - Some College
+      - Bachelor’s degree
+      - Some college or higher
       required: false
     - id: 5
       name: parent_occupation
-      label: What is the highest level of education completed by the student’s parent(s)?
+      label: Parent Occupation
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High school or below''}'
-      - '{''id'': 2, ''label'': ''Some College''}'
-      - '{''id'': 3, ''label'': ''Bachelor’s degree''}'
-      - '{''id'': 4, ''label'': ''Some college or higher''}'
+      - High school or below
+      - Some College
+      - Bachelor’s degree
+      - Some college or higher
       required: false
     - id: 6
       name: job_title
@@ -56,8 +56,8 @@ inputSchema:
       options: []
       required: false
     - id: 7
-      name: job_title
-      label: What is your job title?
+      name: job_title_2
+      label: Job Title 2
       hint: null
       type: text
       options: []
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Math''}'
-      - '{''id'': 2, ''label'': ''Science''}'
-      - '{''id'': 3, ''label'': ''English''}'
-      - '{''id'': 4, ''label'': ''Social Studies''}'
+      - Math
+      - Science
+      - English
+      - Social Studies
       required: false
     - id: 9
       name: parent_english
@@ -89,13 +89,13 @@ inputSchema:
       required: false
     - id: 11
       name: parent_science
-      label: How would you rate the student’s math skills?
+      label: Parent Science
       hint: null
       type: number
       options: []
       required: false
     - id: 12
-      name: parent_science
+      name: parent_science_2
       label: How would you rate the student’s science skills?
       hint: null
       type: number
@@ -179,8 +179,8 @@ inputSchema:
       options: []
       required: false
     - id: 24
-      name: parent_citizenship
-      label: How would you rate the student’s citizenship skills?
+      name: parent_citizenship_2
+      label: Parent Citizenship 2
       hint: null
       type: number
       options: []

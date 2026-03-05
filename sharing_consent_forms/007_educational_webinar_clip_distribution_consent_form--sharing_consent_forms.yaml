@@ -4,197 +4,93 @@ inputSchema:
     title: Educational Webinar Clip Distribution Consent Form
     pages:
     - id: 1
-      name: form_1
-      label: Consent Form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: form_2
-      label: Consent Form
+      name: participant_name
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 3
-      name: form_3
-      label: Consent Form
+      required: true
+    - id: 2
+      name: participant_role
+      label: What is your role (Student, Teacher, Parent, etc.)?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: form_4
-      label: Consent Form
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: share_consent
+      label: Do you consent to share educational webinar clips?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: contact_method
+      label: How would you like to be contacted for future webinars?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Other
+      required: true
     - id: 5
-      name: form_5
-      label: Consent Form
+      name: share_method
+      label: How will you be sharing the clips?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Publicly
+      - Privately
+      required: true
     - id: 6
-      name: form_6
-      label: Consent Form
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: form_7
-      label: Consent Form
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: form_8
-      label: Consent Form
+      name: email_address
+      label: What is your email address?
       hint: null
       type: email
       options: []
-      required: false
+      required: true
+    - id: 7
+      name: use_purpose
+      label: How will you be using the clips?
+      hint: null
+      type: select_one
+      options:
+      - For personal use
+      - For teaching
+      - For research
+      required: true
+    - id: 8
+      name: share_institutions
+      label: Do you consent to share educational webinar clips with other institutions?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 9
-      name: form_9
-      label: Consent Form
+      name: comments
+      label: Would you like to provide any additional comments about the clips?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: form_10
-      label: Consent Form
+      name: previous_participation
+      label: Have you ever participated in a similar activity before?
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: form_11
-      label: Consent Form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: form_12
-      label: Consent Form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: form_13
-      label: Consent Form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: form_14
-      label: Consent Form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: form_15
-      label: Consent Form
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: form_16
-      label: Consent Form
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: form_17
-      label: Consent Form
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: form_18
-      label: Consent Form
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: form_19
-      label: Consent Form
+      name: other_questions
+      label: Do you have any other questions or concerns about the consent form?
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 20
-      name: form_20
-      label: Consent Form
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: form_21
-      label: Consent Form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: form_22
-      label: Consent Form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: form_23
-      label: Consent Form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: form_24
-      label: Consent Form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: form_25
-      label: Consent Form
-      hint: null
-      type: number
       options: []
       required: false

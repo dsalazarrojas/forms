@@ -23,10 +23,10 @@ inputSchema:
     - id: 3
       name: pet_age
       label: Pet Age
-      hint: Enter pet's age in years
+      hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
       name: marketing_channels
       label: Marketing Channels
@@ -36,13 +36,12 @@ inputSchema:
       - Social Media
       - Email
       - Print
-      - Digital
       - Online Advertising
       required: true
     - id: 5
       name: customer_awareness
       label: Customer Awareness
-      hint: Measure customer awareness on a 1-10 scale
+      hint: null
       type: number
       options: []
       required: true
@@ -54,7 +53,6 @@ inputSchema:
       options:
       - 'True'
       - 'False'
-      - Maybe
       required: true
     - id: 7
       name: customer_referral_amount
@@ -76,16 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      - '6'
-      - '7'
-      - '8'
-      - '9'
-      - '10'
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 10
       name: customer_awareness_score
@@ -109,120 +100,6 @@ inputSchema:
       label: Satisfied
       hint: null
       type: select_multiple
-      options:
-      - Very Satisfied
-      - Satisfied
-      - Not Satisfied
-      required: true
-    - id: 13
-      name: customer_awareness_10
-      label: Customer Awareness 10
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: referral_awareness
-      label: referral_awareness
-      hint: null
-      type: select_multiple
-      options:
-      - Social Media
-      - Email
-      required: true
-    - id: 15
-      name: customer_awareness_100
-      label: Customer Awareness 100
-      hint: null
-      type: select_one
-      options:
-      - Very Satisfied
-      - Satisfied
-      - Not Satisfied
-      required: true
-    - id: 16
-      name: customer_awareness_100
-      label: Customer Awareness 100
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: customer_referral_amount_100
-      label: Customer Referral Amount 100
-      hint: null
-      type: select_one
-      options:
-      - Very Satisfied
-      - Satisfied
-      - Not Satisfied
-      required: true
-    - id: 18
-      name: customer_awareness_scale_100
-      label: Customer Awareness Scale 100
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: customer_awareness_100
-      label: Customer Awareness 100
-      hint: null
-      type: select_multiple
-      options:
-      - Very Satisfied
-      - Satisfied
-      - Not Satisfied
-      required: true
-    - id: 20
-      name: customer_awareness_scale_100
-      label: Customer Awareness Scale 100
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: customer_awareness_100_scale
-      label: Customer Awareness 100
-      hint: null
-      type: select_one
-      options:
-      - Very Satisfied
-      - Satisfied
-      - Not Satisfied
-      required: true
-    - id: 22
-      name: customer_referral_amount_100_scale
-      label: Customer Referral Amount 100
-      hint: null
-      type: select_multiple
-      options:
-      - Very Satisfied
-      - Satisfied
-      - Not Satisfied
-      required: true
-    - id: 23
-      name: customer_awareness_scale_100_scale
-      label: Customer Awareness Scale 100
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: customer_awareness_100_100
-      label: Customer Awareness 100 100
-      hint: null
-      type: select_one
-      options:
-      - Very Satisfied
-      - Satisfied
-      - Not Satisfied
-      required: true
-    - id: 25
-      name: customer_referral_amount_100_100
-      label: Customer Referral Amount 100 100
-      hint: null
-      type: select_one
       options:
       - Very Satisfied
       - Satisfied

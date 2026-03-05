@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Website''}'
-      - '{''id'': 2, ''label'': ''Mobile App''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Website
+      - Mobile App
+      - Other
       required: false
     - id: 3
       name: platform_url
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Free''}'
-      - '{''id'': 2, ''label'': ''Premium''}'
-      - '{''id'': 3, ''label'': ''VIP''}'
+      - Free
+      - Premium
+      - VIP
       required: false
     - id: 5
       name: member_since
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: confirm_phone
@@ -73,8 +73,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: notes
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In Progress''}'
-      - '{''id'': 2, ''label'': ''Approved''}'
-      - '{''id'': 3, ''label'': ''Rejected''}'
+      - In Progress
+      - Approved
+      - Rejected
       required: false
     - id: 13
       name: onboarding_status
@@ -106,7 +106,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Onboarding''}'
-      - '{''id'': 2, ''label'': ''Not Onboarding''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Onboarding
+      - Not Onboarding
+      - Pending
       required: false

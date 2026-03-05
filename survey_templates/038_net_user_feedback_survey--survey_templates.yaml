@@ -9,7 +9,7 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: last_name
       label: Last Name
@@ -19,45 +19,45 @@ inputSchema:
       required: false
     - id: 3
       name: email
-      label: Email
+      label: Email Address
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
       name: feedback_question
       label: How do you feel about our service?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Excellent''}'
-      - '{''id'': 2, ''value'': ''Good''}'
-      - '{''id'': 3, ''value'': ''Fair''}'
-      - '{''id'': 4, ''value'': ''Poor''}'
-      required: false
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 5
       name: issue
       label: Have you encountered any issues with our service?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 6
-      name: date
+      name: date_of_last_use
       label: Date of last use
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 7
-      name: time
+      name: time_of_last_use
       label: Time of last use
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 8
       name: comments
       label: Comments
@@ -66,128 +66,16 @@ inputSchema:
       options: []
       required: false
     - id: 9
-      name: phone
+      name: phone_number
       label: Phone Number
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: feedback
+      name: additional_feedback
       label: Additional feedback
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 12
-      name: service_improvement
-      label: Would you like to suggest any service improvements?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
-      required: false
-    - id: 13
-      name: follow_up
-      label: Would you like to be contacted for follow-up questions?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
-      required: false
-    - id: 14
-      name: contact
-      label: Is there a contact method that would reach you?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''value'': ''Email''}'
-      - '{''id'': 2, ''value'': ''Phone''}'
-      - '{''id'': 3, ''value'': ''Chat''}'
-      required: false
-    - id: 15
-      name: contact_value
-      label: Contact value
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: email
-      label: Email
-      hint: null
-      type: email
       options: []
       required: false

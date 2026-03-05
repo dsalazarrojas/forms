@@ -4,202 +4,114 @@ inputSchema:
     title: Cosmetic_Surgery_Survey
     pages:
     - id: 1
-      name: survey_trend
-      label: Survey_Trend
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 2
-      name: patient_satisfaction
-      label: Patient_Satisfaction
-      hint: null
+      name: overall_experience
+      label: Overall Experience
+      hint: Please rate your overall experience with the surgery.
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 2
+      name: patient_satisfaction
+      label: Patient Satisfaction
+      hint: Rate your satisfaction with the outcome of the surgery.
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Highly Dissatisfied
       required: true
     - id: 3
-      name: overall_experience
-      label: Overall_Experience
-      hint: null
+      name: expectations
+      label: Expectations
+      hint: What were your expectations before the surgery?
       type: text
       options: []
       required: false
     - id: 4
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
+      name: on_time_performance
+      label: On-Time Performance
+      hint: Was the surgery performed on time?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 5
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
+      name: surgeon_expertise
+      label: Surgeon Expertise
+      hint: Rate the surgeon's expertise.
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 6
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: recommend
+      label: Recommend
+      hint: Would you recommend the surgery to others?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 7
-      name: date
-      label: Date
-      hint: null
-      type: date
+      name: rating
+      label: Rating
+      hint: Rate your overall rating of the surgery out of 5.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 8
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
+      name: complications
+      label: Complications
+      hint: Were there any unexpected complications during the surgery?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: select_trend_1
-      label: Select_Trend_1
-      hint: null
+      name: recovery
+      label: Recovery
+      hint: Rate your satisfaction with the recovery process.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Highly Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Highly Dissatisfied
       required: false
     - id: 10
-      name: select_trend_2
-      label: Select_Trend_2
-      hint: null
+      name: post_surgery_care
+      label: Post-Surgery Care
+      hint: Was the post-operative care adequate?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 11
-      name: select_trend_3
-      label: Select_Trend_3
-      hint: null
+      name: meet_expectations
+      label: Meet Expectations
+      hint: Did the surgery meet your expectations?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: select_trend_4
-      label: Select_Trend_4
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: select_trend_5
-      label: Select_Trend_5
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: select_trend_6
-      label: Select_Trend_6
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: select_trend_7
-      label: Select_Trend_7
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: select_trend_8
-      label: Select_Trend_8
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: select_trend_9
-      label: Select_Trend_9
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: select_trend_10
-      label: Select_Trend_10
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: text
-      label: Text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: integer
-      label: Integer
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: decimal
-      label: Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: note
-      label: Note
-      hint: null
+      name: notes
+      label: Notes
+      hint: Please provide any additional comments or concerns.
       type: note
-      options: []
-      required: false
-    - id: 25
-      name: email
-      label: Email
-      hint: null
-      type: email
       options: []
       required: false

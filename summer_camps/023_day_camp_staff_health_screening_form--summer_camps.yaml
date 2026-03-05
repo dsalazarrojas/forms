@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -31,7 +20,7 @@ inputSchema:
       required: false
     - id: 3
       name: medical_history_form
-      label: Medical History
+      label: Medical History Form
       hint: null
       type: text
       options: []
@@ -42,9 +31,9 @@ inputSchema:
       hint: List all known allergies
       type: select_multiple
       options:
-      - '{''value'': ''Peanuts''}'
-      - '{''value'': ''Tree Nuts''}'
-      - '{''value'': ''Shellfish''}'
+      - Peanuts
+      - Tree Nuts
+      - Shellfish
       required: false
     - id: 5
       name: medical_condition_form
@@ -59,12 +48,12 @@ inputSchema:
       hint: Clear staff for medical clearance
       type: select_one
       options:
-      - '{''value'': ''Cleared''}'
-      - '{''value'': ''Not Cleared''}'
+      - Cleared
+      - Not Cleared
       required: false
     - id: 7
-      name: medical_history_form
-      label: Medical History
+      name: medical_history_form_2
+      label: Medical History Form 2
       hint: List any past medical history
       type: text
       options: []
@@ -84,8 +73,8 @@ inputSchema:
       options: []
       required: false
     - id: 10
-      name: emergency_contact_information_form
-      label: Emergency Contact Information
+      name: emergency_contact_information_form_2
+      label: Emergency Contact Information Form 2
       hint: null
       type: text
       options: []
@@ -96,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Request''}'
-      - '{''value'': ''Not Request''}'
+      - Request
+      - Not Request
       required: false
     - id: 12
       name: medication_form
@@ -105,14 +94,14 @@ inputSchema:
       hint: List any ongoing medication
       type: select_multiple
       options:
-      - '{''value'': None}'
-      - '{''value'': ''Medication 1''}'
-      - '{''value'': ''Medication 2''}'
-      - '{''value'': ''Medication 3''}'
+      - Option 1
+      - Medication 1
+      - Medication 2
+      - Medication 3
       required: false
     - id: 13
-      name: medical_history_form
-      label: Medical History
+      name: medical_history_form_3
+      label: Medical History Form 3
       hint: null
       type: text
       options: []
@@ -130,7 +119,7 @@ inputSchema:
       hint: Provide staff's level of credibility
       type: select_one
       options:
-      - '{''value'': ''Low''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false

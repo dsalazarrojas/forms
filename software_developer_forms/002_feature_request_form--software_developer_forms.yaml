@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Customer''}'
-      - '{''id'': 2, ''text'': ''Team''}'
-      - '{''id'': 3, ''text'': ''Both''}'
+      - Customer
+      - Team
+      - Both
       required: false
     - id: 5
       name: email
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''High''}'
-      - '{''id'': 2, ''text'': ''Medium''}'
-      - '{''id'': 3, ''text'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 10
       name: feature_status
@@ -78,10 +78,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''In Development''}'
-      - '{''id'': 2, ''text'': ''In Progress''}'
-      - '{''id'': 3, ''text'': ''Done''}'
-      - '{''id'': 4, ''text'': ''Not Planned''}'
+      - In Development
+      - In Progress
+      - Done
+      - Not Planned
       required: false
     - id: 11
       name: notes

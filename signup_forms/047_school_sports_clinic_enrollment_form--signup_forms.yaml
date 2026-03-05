@@ -5,43 +5,43 @@ inputSchema:
     pages:
     - id: 1
       name: student_name
-      label: student_name
+      label: Student's Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: student_name_2
-      label: parent_name
+      name: parent_name
+      label: Parent's Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: parent_name
-      label: student_email
+      name: student_email
+      label: Student's Email
       hint: null
       type: email
       options: []
       required: false
     - id: 4
-      name: student_email
-      label: phone_number
+      name: phone_number
+      label: Phone Number
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 5
-      name: phone_number
-      label: student_dob
+      name: student_dob
+      label: Date of Birth
       hint: null
       type: date
       options: []
       required: false
     - id: 6
-      name: student_dob
-      label: sports_clinics
-      hint: Baseball, Basketball, Volleyball, Football, Soccer
+      name: sports_clinics
+      label: Sports Clinics
+      hint: null
       type: select_multiple
       options:
       - Baseball
@@ -49,157 +49,57 @@ inputSchema:
       - Volleyball
       - Football
       - Soccer
-      required: false
+      required: true
     - id: 7
-      name: sports_clinics
-      label: enrollment_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
       name: enrollment_date
-      label: enrollment_date
+      label: Enrollment Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 8
       name: student_fee
-      label: student_fee
+      label: Student's Fee
       hint: null
       type: number
       options: []
-      required: false
-    - id: 10
-      name: student_fee_paid
-      label: fee_status
+      required: true
+    - id: 9
+      name: fee_paid
+      label: Fee Paid Status
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 11
-      name: school_name
-      label: school_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: school_name
-      label: address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: address
-      label: address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: address
-      label: school_email
+      name: school_email
+      label: School Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 15
-      name: school_email
-      label: school_phone
+    - id: 12
+      name: school_phone
+      label: School Phone
       hint: null
-      type: text
+      type: number
       options: []
       required: false
-    - id: 16
-      name: school_phone
-      label: school_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: school_phone
-      label: payment_method
+    - id: 13
+      name: payment_method
+      label: Payment Method
       hint: null
       type: select_one
       options:
       - Online Payment
       - Offline Payment
-      required: false
-    - id: 18
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

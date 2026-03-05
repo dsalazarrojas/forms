@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Class A'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Class B'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Class C'', ''value'': 3}'
+      - Class A
+      - Class B
+      - Class C
       required: false
     - id: 5
       name: participant_details_2
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: participant_confirmation_2
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: schedule_preferences_3

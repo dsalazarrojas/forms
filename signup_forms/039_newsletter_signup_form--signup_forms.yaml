@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: phone
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Daily''}'
-      - '{''id'': 2, ''text'': ''Weekly''}'
-      - '{''id'': 3, ''text'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 10
       name: newsletter_topics

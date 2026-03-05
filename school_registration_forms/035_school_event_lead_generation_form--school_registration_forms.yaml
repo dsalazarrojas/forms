@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 13, ''label'': ''Event'', ''value'': ''event''}'
-      - '{''id'': 14, ''label'': ''Lead'', ''value'': ''lead''}'
-      - '{''id'': 15, ''label'': ''Generation'', ''value'': ''generation''}'
+      - Event
+      - Lead
+      - Generation
       required: false
     - id: 11
       name: lead_status
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 17, ''label'': ''Interested'', ''value'': ''Interested''}'
-      - '{''id'': 18, ''label'': ''Not Interested'', ''value'': ''Not Interested''}'
-      - '{''id'': 19, ''label'': ''Follow up Needed'', ''value'': ''Follow up Needed''}'
+      - Interested
+      - Not Interested
+      - Follow up Needed
       required: false
     - id: 12
       name: follow_up_date
@@ -113,11 +113,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 25, ''label'': ''Email'', ''value'': ''Email''}'
-      - '{''id'': 26, ''label'': ''SMS'', ''value'': ''SMS''}'
-      - '{''id'': 27, ''label'': ''Phone'', ''value'': ''Phone''}'
-      - '{''id'': 28, ''label'': ''None'', ''value'': ''None''}'
-      - '{''id'': 29, ''label'': ''Follow up by phone'', ''value'': ''Follow up by
-        phone''}'
-      - '{''id'': 30, ''label'': ''Follow up in-person'', ''value'': ''Follow up in-person''}'
+      - Email
+      - SMS
+      - Phone
+      - None
+      - Follow up by phone
+      - Follow up in-person
       required: false

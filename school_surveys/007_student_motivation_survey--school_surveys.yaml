@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
+      - High
+      - Low
+      - Medium
       required: true
     - id: 5
       name: student_goal
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: school_support
@@ -114,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: school_counselor_comments
@@ -151,8 +151,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''School Surveys''}'
-      - '{''label'': ''Student Assessments''}'
+      - School Surveys
+      - Student Assessments
       required: false
     - id: 21
       name: description
@@ -167,7 +167,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 23
@@ -176,7 +176,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''007_student_motivation_survey--school_surveys.yaml''}'
+      - 007 student motivation survey--school surveys.yaml
       - Other
       required: false
     - id: 24
@@ -185,8 +185,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''student_motivation''}'
-      - '{''label'': ''student_engagement''}'
+      - student motivation
+      - student engagement
       required: false
     - id: 25
       name: form_id

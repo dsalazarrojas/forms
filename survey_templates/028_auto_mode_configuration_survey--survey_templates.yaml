@@ -1,135 +1,124 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Auto Mode Configuration Survey
     pages:
-      - id: 1
-        name: user_profile_header
-        label: -- User Profile --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: user_id
-        label: User ID or Display Name
-        hint: For identification purposes
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: use_frequency
-        label: Frequency of Auto Mode Use
-        hint: How often do you use the automated features?
-        type: select_one
-        options:
-          - Daily
-          - Weekly
-          - Monthly
-          - Rarely
-        required: true
-      - id: 4
-        name: config_usability_header
-        label: -- Configuration Usability --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: setup_ease
-        label: Ease of Initial Setup
-        hint: How was your first experience configuring Auto Mode?
-        type: select_one
-        options:
-          - Very Easy
-          - Easy
-          - Neutral
-          - Difficult
-          - Very Difficult
-        required: true
-      - id: 6
-        name: menu_clarity
-        label: Clarity of Configuration Menu
-        hint: How easy is it to navigate the settings?
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 7
-        name: setup_barriers
-        label: Setup Barriers Encountered
-        hint: List any technical issues or confusing steps
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: feature_performance_header
-        label: -- Feature Performance --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: top_features
-        label: Features Most Used
-        hint: Which automated tools do you rely on most?
-        type: select_multiple
-        options:
-          - Smart Scheduling
-          - Auto-thresholds
-          - Predictive Maintenance
-          - Remote Triggering
-        required: true
-      - id: 10
-        name: reliability_rating
-        label: Auto Mode Reliability Rating
-        hint: Rate on a scale of 1 to 5
-        type: select_one
-        options:
-          - 1 - Not Reliable
-          - 2
-          - 3 - Average
-          - 4
-          - 5 - Highly Reliable
-        required: true
-      - id: 11
-        name: time_savings
-        label: Does Auto Mode save you time?
-        hint: Impact on your workflow efficiency
-        type: select_one
-        options:
-          - Significantly
-          - Somewhat
-          - Not at all
-        required: true
-      - id: 12
-        name: improvement_suggestions
-        label: Feature Improvement Suggestions
-        hint: What would you like to see in future updates?
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: recommendation_likelihood
-        label: Likelihood to Recommend Auto Mode
-        hint: Would you suggest this to others?
-        type: select_one
-        options:
-          - Extremely Likely
-          - Likely
-          - Unlikely
-        required: true
+    - id: 1
+      name: user_profile_header
+      label: -- User Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: User ID or Display Name
+      hint: For identification purposes
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: use_frequency
+      label: Frequency of Auto Mode Use
+      hint: How often do you use the automated features?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 4
+      name: config_usability_header
+      label: -- Configuration Usability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: setup_ease
+      label: Ease of Initial Setup
+      hint: How was your first experience configuring Auto Mode?
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 6
+      name: menu_clarity
+      label: Clarity of Configuration Menu
+      hint: How easy is it to navigate the settings?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: setup_barriers
+      label: Setup Barriers Encountered
+      hint: List any technical issues or confusing steps
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feature_performance_header
+      label: -- Feature Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: top_features
+      label: Features Most Used
+      hint: Which automated tools do you rely on most?
+      type: select_multiple
+      options:
+      - Smart Scheduling
+      - Auto-thresholds
+      - Predictive Maintenance
+      - Remote Triggering
+      required: true
+    - id: 10
+      name: reliability_rating
+      label: Auto Mode Reliability Rating
+      hint: Rate on a scale of 1 to 5
+      type: select_one
+      options:
+      - 1 - Not Reliable
+      - '2'
+      - 3 - Average
+      - '4'
+      - 5 - Highly Reliable
+      required: true
+    - id: 11
+      name: time_savings
+      label: Does Auto Mode save you time?
+      hint: Impact on your workflow efficiency
+      type: select_one
+      options:
+      - Significantly
+      - Somewhat
+      - Not at all
+      required: true
+    - id: 12
+      name: improvement_suggestions
+      label: Feature Improvement Suggestions
+      hint: What would you like to see in future updates?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recommendation_likelihood
+      label: Likelihood to Recommend Auto Mode
+      hint: Would you suggest this to others?
+      type: select_one
+      options:
+      - Extremely Likely
+      - Likely
+      - Unlikely
+      required: true

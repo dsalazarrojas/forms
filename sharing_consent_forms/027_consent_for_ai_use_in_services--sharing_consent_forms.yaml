@@ -108,7 +108,7 @@ inputSchema:
       options:
       - Yes - Fully Understood
       - Yes - Partially Understood
-      - false
+      - 'False'
       required: true
     - id: 13
       name: risks_explained
@@ -118,7 +118,7 @@ inputSchema:
       options:
       - Yes - Fully Understood
       - Yes - Partially Understood
-      - false
+      - 'False'
       required: true
     - id: 14
       name: data_storage
@@ -126,8 +126,8 @@ inputSchema:
       hint: Do you know how data will be stored
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: data_retention
@@ -144,7 +144,7 @@ inputSchema:
       options:
       - Yes - With Named Partners
       - Yes - With Anonymous Partners
-      - false
+      - 'False'
       - Unsure
       required: true
     - id: 17
@@ -160,8 +160,8 @@ inputSchema:
       hint: Do you understand security protections
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: right_to_withdraw
@@ -171,7 +171,7 @@ inputSchema:
       options:
       - Yes - Fully Understood
       - Yes - Partially Understood
-      - false
+      - 'False'
       required: true
     - id: 20
       name: withdrawal_process
@@ -179,8 +179,8 @@ inputSchema:
       hint: Do you know how to withdraw consent
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 21
       name: alternative_options

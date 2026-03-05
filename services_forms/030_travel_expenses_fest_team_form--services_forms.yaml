@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Cash''}'
-      - '{''label'': ''Credit Card''}'
-      - '{''label'': ''Debit Card''}'
+      - Cash
+      - Credit Card
+      - Debit Card
       required: true
     - id: 3
       name: departure_date
@@ -33,11 +33,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Accommodation''}'
-      - '{''label'': ''Food''}'
-      - '{''label'': ''Transportation''}'
-      - '{''label'': ''Activity''}'
-      - '{''label'': ''Other''}'
+      - Accommodation
+      - Food
+      - Transportation
+      - Activity
+      - Other
       required: false
     - id: 5
       name: flight_number

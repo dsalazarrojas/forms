@@ -15,245 +15,86 @@ inputSchema:
     title: mailing_list_signup_form
     pages:
     - id: 1
-      name: form_title
-      label: Mailing List Signup Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: name
+      name: required_name
       label: Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 3
-      name: email
+      required: true
+    - id: 2
+      name: required_email
       label: Email
       hint: null
       type: email
+      options: []
+      required: true
+    - id: 3
+      name: optional_phone
+      label: Phone
+      hint: null
+      type: text
       options: []
       required: false
     - id: 4
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: address
+      name: required_address
       label: Address
       hint: null
       type: text
+      options: []
+      required: true
+    - id: 5
+      name: optional_inquiry
+      label: Inquiries
+      hint: null
+      type: note
       options: []
       required: false
     - id: 6
-      name: inquiry
-      label: Inquiries
+      name: required_date
+      label: Date
       hint: null
-      type: note
+      type: date
       options: []
-      required: false
+      required: true
     - id: 7
-      name: feedback
-      label: Feedback
+      name: optional_time
+      label: Time
       hint: null
-      type: note
+      type: time
       options: []
       required: false
     - id: 8
-      name: select_option_2
-      label: Select Option 2
+      name: optional_language
+      label: Language
       hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''option_1''}'
-      - '{''value'': ''option_2''}'
+      type: text
+      options: []
       required: false
     - id: 9
-      name: select_option_1
-      label: Select Option 1
+      name: optional_time_zone
+      label: Time Zone
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''option_1''}'
-      - '{''value'': ''option_2''}'
-      - '{''value'': ''option_3''}'
-      - '{''value'': ''option_4''}'
+      type: text
+      options: []
       required: false
     - id: 10
-      name: date
-      label: Date
+      name: optional_email_format
+      label: Email Format
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 11
-      name: time
-      label: Time
+      name: optional_phone_format
+      label: Phone Format
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 12
-      name: required_name_1
-      label: Name
+      name: required_address_format
+      label: Address Format
       hint: null
       type: text
       options: []
       required: true
-    - id: 13
-      name: select_option_3
-      label: Select Option 3
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''option_1''}'
-      - '{''value'': ''option_2''}'
-      required: false
-    - id: 14
-      name: required_name_2
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: select_option_4
-      label: Select Option 4
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''option_1''}'
-      - '{''value'': ''option_2''}'
-      required: false
-    - id: 16
-      name: date_2
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: time_2
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: email_2
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: phone_2
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: address_2
-      label: Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: inquiry_2
-      label: Inquiries
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: feedback_2
-      label: Feedback
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: select_option_5
-      label: Select Option 5
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''option_1''}'
-      - '{''value'': ''option_2''}'
-      required: false
-    - id: 24
-      name: select_option_6
-      label: Select Option 6
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''option_1''}'
-      - '{''value'': ''option_2''}'
-      - '{''value'': ''option_3''}'
-      - '{''value'': ''option_4''}'
-      required: false
-    - id: 25
-      name: select_option_7
-      label: Select Option 7
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''option_1''}'
-      - '{''value'': ''option_2''}'
-      required: false
-    - id: 26
-      name: select_option_8
-      label: Select Option 8
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''option_1''}'
-      - '{''value'': ''option_2''}'
-      required: false
-    - id: 27
-      name: required_name_3
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 28
-      name: required_name_4
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 29
-      name: required_name_5
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 30
-      name: select_option_9
-      label: Select Option 9
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''option_1''}'
-      - '{''value'': ''option_2''}'
-      required: false
-    - id: 31
-      name: select_option_10
-      label: Select Option 10
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''option_1''}'
-      - '{''value'': ''option_2''}'
-      - '{''value'': ''option_3''}'
-      - '{''value'': ''option_4''}'
-      required: false

@@ -37,9 +37,9 @@ inputSchema:
       hint: Which year?
       type: select_one
       options:
-      - 2026
-      - 2027
-      - 2028
+      - '2026'
+      - '2027'
+      - '2028'
       - Multi-Year
       required: true
     - id: 6
@@ -250,7 +250,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Accept
-      - false
+      - 'False'
       required: true
     - id: 27
       name: additional_comments

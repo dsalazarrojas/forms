@@ -5,21 +5,21 @@ inputSchema:
     pages:
     - id: 1
       name: student_id
-      label: student_id
-      hint: null
+      label: Student ID
+      hint: Enter student ID
       type: number
       options: []
       required: true
     - id: 2
       name: teacher_name
       label: Teacher Name
-      hint: null
+      hint: Enter teacher name
       type: text
       options: []
       required: true
     - id: 3
       name: student_reasons_left
-      label: student_reasons_left
+      label: Reasons for Students Leaving
       hint: null
       type: select_multiple
       options:
@@ -28,14 +28,14 @@ inputSchema:
       required: true
     - id: 4
       name: student_reasons_left_other
-      label: other
+      label: Other Reasons for Leaving
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: teacher_reasons_left
-      label: teacher_reasons_left
+      label: Reasons for Teachers Leaving
       hint: null
       type: select_multiple
       options:
@@ -44,14 +44,14 @@ inputSchema:
       required: true
     - id: 6
       name: teacher_reasons_left_other
-      label: other
+      label: Other Reasons for Teachers Leaving
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: teacher_support
-      label: teacher_support
+      label: Teacher Support Systems
       hint: null
       type: select_one
       options:
@@ -60,20 +60,19 @@ inputSchema:
       - Parental Support
       - Social Support
       - Transportation
-      - Housing
       - Other
       required: false
     - id: 8
       name: teacher_support_other
-      label: other
-      hint: null
+      label: Other Teacher Support System
+      hint: Please specify the other teacher support system
       type: text
       options: []
       required: false
     - id: 9
       name: student_support
-      label: student_support
-      hint: null
+      label: Student Support Systems
+      hint: Student Support Systems
       type: select_multiple
       options:
       - 'Yes'
@@ -81,50 +80,50 @@ inputSchema:
       required: false
     - id: 10
       name: student_support_other
-      label: other
-      hint: null
+      label: Other Student Support System
+      hint: Please specify the other student support system
       type: text
       options: []
       required: false
     - id: 11
       name: teacher_comments
-      label: teacher_comments
-      hint: null
+      label: Teacher Comments
+      hint: Please provide comments
       type: text
       options: []
       required: false
     - id: 12
       name: student_comments
-      label: student_comments
-      hint: null
+      label: Student Comments
+      hint: Please provide comments
       type: text
       options: []
       required: false
     - id: 13
       name: school_id
-      label: school_id
-      hint: null
+      label: School ID
+      hint: Enter school ID
       type: number
       options: []
       required: false
     - id: 14
       name: grade_level
-      label: grade_level
-      hint: null
+      label: Grade Level
+      hint: Enter grade level
       type: number
       options: []
       required: false
     - id: 15
       name: student_retention_date
-      label: student_retention_date
-      hint: null
+      label: Student Retention Date
+      hint: Please select the date of student retention
       type: date
       options: []
       required: true
     - id: 16
       name: teacher_survey_date
-      label: teacher_survey_date
-      hint: null
+      label: Teacher Survey Date
+      hint: Please select the date of teacher survey
       type: date
       options: []
       required: true

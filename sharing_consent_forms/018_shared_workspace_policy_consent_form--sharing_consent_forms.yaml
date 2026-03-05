@@ -5,194 +5,95 @@ inputSchema:
     pages:
     - id: 1
       name: form_1
-      label: shared-workspace-policy-consent-form
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: form_2
-      label: shared-workspace-policy-form-label
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 3
-      name: form_3
-      label: shared-workspace-policy-form-date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 4
-      name: form_4
-      label: shared-workspace-policy-form-time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 5
-      name: form_5
-      label: shared-workspace-policy-form-note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: form_6
-      label: shared-workspace-policy-form-email
+      label: What is your email address?
       hint: null
       type: email
       options: []
       required: true
-    - id: 7
-      name: form_7
-      label: shared-workspace-policy-form-phone
+    - id: 3
+      name: form_3
+      label: What is your phone number?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
-      name: form_8
-      label: shared-workspace-policy-form-select-multiple
+      required: true
+    - id: 4
+      name: form_4
+      label: Would you like to share your workspace?
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
+    - id: 5
+      name: form_5
+      label: What date would you like to start sharing your workspace from?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: form_6
+      label: What time would you like to share your workspace during?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: form_7
+      label: Do you have any additional comments or notes?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: form_8
+      label: What is the start date of your availability?
+      hint: null
+      type: date
+      options: []
+      required: true
     - id: 9
       name: form_9
-      label: shared-workspace-policy-form-select-one
+      label: What is the end date of your availability?
       hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
+      type: date
+      options: []
       required: true
     - id: 10
       name: form_10
-      label: shared-workspace-policy-form-integer
+      label: Would you like to be notified via email or phone when someone tries to
+        share your workspace?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
     - id: 11
       name: form_11
-      label: shared-workspace-policy-form-decimal
+      label: What time do you like to be notified at?
       hint: null
-      type: number
+      type: time
       options: []
       required: true
     - id: 12
       name: form_12
-      label: shared-workspace-policy-form-date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 13
-      name: form_13
-      label: shared-workspace-policy-form-time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 14
-      name: form_14
-      label: shared-workspace-policy-form-text
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: form_15
-      label: shared-workspace-policy-form-integer
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 16
-      name: form_16
-      label: shared-workspace-policy-form-decimal
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 17
-      name: form_17
-      label: shared-workspace-policy-form-date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 18
-      name: form_18
-      label: shared-workspace-policy-form-time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 19
-      name: form_19
-      label: shared-workspace-policy-form-select-one
+      label: Would you like to share your workspace with others on a specific date
+        and time?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 20
-      name: form_20
-      label: shared-workspace-policy-form-select-multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 21
-      name: form_21
-      label: shared-workspace-policy-form-integer
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 22
-      name: form_22
-      label: shared-workspace-policy-form-decimal
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 23
-      name: form_23
-      label: shared-workspace-policy-form-date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 24
-      name: form_24
-      label: shared-workspace-policy-form-time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 25
-      name: form_25
-      label: shared-workspace-policy-consent
-      hint: null
-      type: select_one
-      options:
-      - Agree
-      - Disagree
-      - Undecided
+      - 'True'
+      - 'False'
       required: true

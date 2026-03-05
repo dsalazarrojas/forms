@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Male''}'
-      - '{''value'': ''Female''}'
-      - '{''value'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 3
       name: crime_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Assault''}'
-      - '{''value'': ''Robbery''}'
-      - '{''value'': ''Other''}'
+      - Assault
+      - Robbery
+      - Other
       required: false
     - id: 4
       name: age
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Other''}'
+      - Phone
+      - Email
+      - Other
       required: false
     - id: 6
       name: location
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Home''}'
-      - '{''value'': ''Work''}'
-      - '{''value'': ''Other''}'
+      - Home
+      - Work
+      - Other
       required: false
     - id: 7
       name: time_of_day
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Handgun''}'
-      - '{''value'': ''Knife''}'
-      - '{''value'': ''Other''}'
+      - Handgun
+      - Knife
+      - Other
       required: false
     - id: 9
       name: date_of_birth
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''White''}'
-      - '{''value'': ''Black''}'
-      - '{''value'': ''Other''}'
+      - White
+      - Black
+      - Other
       required: false
     - id: 11
       name: marital_status
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Married''}'
-      - '{''value'': ''Divorced''}'
-      - '{''value'': ''Other''}'
+      - Married
+      - Divorced
+      - Other
       required: false
     - id: 12
       name: occupation
@@ -114,9 +114,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High School''}'
-      - '{''value'': ''Some College''}'
-      - '{''value'': ''Other''}'
+      - High School
+      - Some College
+      - Other
       required: false
     - id: 14
       name: income
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Employed''}'
-      - '{''value'': ''Unemployed''}'
-      - '{''value'': ''Other''}'
+      - Employed
+      - Unemployed
+      - Other
       required: false
     - id: 17
       name: health_insurance
@@ -148,8 +148,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: housing_info
@@ -157,9 +157,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Rent''}'
-      - '{''value'': ''Own''}'
-      - '{''value'': ''Other''}'
+      - Rent
+      - Own
+      - Other
       required: false
     - id: 19
       name: victim_support
@@ -174,8 +174,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: suspect_info

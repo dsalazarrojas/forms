@@ -20,71 +20,40 @@ inputSchema:
       hint: null
       type: note
       options: []
-      required: false
+      required: true
     - id: 2
       name: expectations
       label: Expectations
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Before the course began, I had the following expectations
+      - Mostly met, some not met
+      - Not at all met
+      required: true
     - id: 3
       name: lessons
       label: Lessons
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - What did you learn from this course?
+      - What lessons did you not understand or need further clarification on?
+      - None of the above
+      required: true
     - id: 4
       name: knowledge_gaps
       label: Knowledge Gaps
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - What knowledge gaps did you identify during the course?
+      - How would you address these knowledge gaps in future courses?
+      required: true
     - id: 5
-      name: student_feedback
-      label: Student Feedback
+      name: classroom_experience
+      label: Classroom Experience
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
-    - id: 6
-      name: expectations
-      label: Expectations
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 7
-      name: lessons
-      label: Lessons
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 8
-      name: knowledge_gaps
-      label: Knowledge Gaps
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
       required: false

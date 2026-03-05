@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_satisfied''}'
-      - '{''value'': ''neutral''}'
-      - '{''value'': ''not_satisfied''}'
+      - very satisfied
+      - neutral
+      - not satisfied
       required: false
     - id: 3
       name: service_quality
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''excellent''}'
-      - '{''value'': ''good''}'
-      - '{''value'': ''fair''}'
-      - '{''value'': ''poor''}'
+      - excellent
+      - good
+      - fair
+      - poor
       required: false
     - id: 4
       name: employee_friendliness
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_helpful''}'
-      - '{''value'': ''somewhat_helpful''}'
-      - '{''value'': ''not_helpful''}'
+      - very helpful
+      - somewhat helpful
+      - not helpful
       required: false
     - id: 5
       name: store_cleanliness
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''excellent''}'
-      - '{''value'': ''good''}'
-      - '{''value'': ''fair''}'
-      - '{''value'': ''poor''}'
+      - excellent
+      - good
+      - fair
+      - poor
       required: false
     - id: 6
       name: employee_knowledge
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_knowledgeable''}'
-      - '{''value'': ''somewhat_knowledgeable''}'
-      - '{''value'': ''not_knowledgeable''}'
+      - very knowledgeable
+      - somewhat knowledgeable
+      - not knowledgeable
       required: false
     - id: 7
       name: store_location
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''excellent''}'
-      - '{''value'': ''good''}'
-      - '{''value'': ''fair''}'
-      - '{''value'': ''poor''}'
+      - excellent
+      - good
+      - fair
+      - poor
       required: false
     - id: 8
       name: store_hours
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: visited_other_locations
@@ -95,8 +95,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: first_time_customer
@@ -104,8 +104,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: referred_by
@@ -155,8 +155,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''google_maps''}'
-      - '{''value'': ''apple_maps''}'
+      - google maps
+      - apple maps
       required: false
     - id: 19
       name: store_location_other

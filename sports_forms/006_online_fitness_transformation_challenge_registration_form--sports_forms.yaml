@@ -23,50 +23,130 @@ inputSchema:
       required: true
     - id: 2
       name: form_2
-      label: Challenge Details
+      label: Do you have any medical conditions that may impact your participation?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: true
     - id: 3
       name: form_3
-      label: Contact Information
+      label: Are you over 18 years old?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 4
+      name: form_4
+      label: What is your current email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: form_5
+      label: What is your current fitness level?
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 6
+      name: form_6
+      label: What is your goal for the challenge?
       hint: null
       type: text
       options: []
       required: true
-    - id: 4
-      name: form_4
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: form_5
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: form_6
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 7
       name: form_7
-      label: None
+      label: What is your phone number?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 8
       name: form_8
-      label: None
+      label: What is your address?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: form_9
+      label: How did you hear about the challenge?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Online Search
+      - Referral
+      - Other
+      required: true
+    - id: 10
+      name: form_10
+      label: Do you have any questions or concerns about the challenge?
       hint: null
       type: text
       options: []
       required: false
+    - id: 11
+      name: form_11
+      label: Are you available to participate in the challenge on the specified dates?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - No, but I can make alternative arrangements
+      - No, I will not be available
+      required: false
+    - id: 12
+      name: form_12
+      label: Please provide your emergency contact's name and phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: form_13
+      label: Are you willing to pay a fee for the challenge?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: form_14
+      label: What type of activities do you prefer during the challenge?
+      hint: null
+      type: select_multiple
+      options:
+      - Cardio
+      - Strength Training
+      - Yoga
+      required: true
+    - id: 15
+      name: form_15
+      label: I confirm that I have read and agreed to the challenge's terms and conditions.
+      hint: null
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 16
+      name: form_16
+      label: I understand that I will be responsible for my own safety and well-being
+        during the challenge.
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true

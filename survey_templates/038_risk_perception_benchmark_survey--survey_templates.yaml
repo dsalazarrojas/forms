@@ -16,11 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
-      - option5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: risk_factors_other
@@ -70,11 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      - option4
-      - option5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: mitigation
@@ -103,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 14
       name: risk_level_other
@@ -150,8 +146,8 @@ inputSchema:
       options: []
       required: false
     - id: 20
-      name: risk_level_other
-      label: Other risk level
+      name: risk_level_other_2
+      label: Risk Level Other 2
       hint: null
       type: text
       options: []
@@ -164,22 +160,22 @@ inputSchema:
       options: []
       required: false
     - id: 22
-      name: risk_precedence_other
-      label: Other risk precedence
+      name: risk_precedence_other_2
+      label: Risk Precedence Other 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: risk_likelihood_other
-      label: Other risk likelihood
+      name: risk_likelihood_other_2
+      label: Risk Likelihood Other 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: risk_consequence_other
-      label: Other risk consequence
+      name: risk_consequence_other_2
+      label: Risk Consequence Other 2
       hint: null
       type: text
       options: []

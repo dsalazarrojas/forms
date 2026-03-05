@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Salon'', ''description'': ''Salon''}'
-      - '{''id'': 2, ''name'': ''Stylist'', ''description'': ''Stylist''}'
-      - '{''id'': 3, ''name'': ''Both'', ''description'': ''Both''}'
+      - Salon
+      - Stylist
+      - Both
       required: false
     - id: 2
       name: client
@@ -19,9 +19,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Client'', ''description'': ''Client''}'
-      - '{''id'': 2, ''name'': "Client''s Representative", ''description'': "Client''s
-        Representative"}'
+      - Client
+      - Client's Representative
       required: false
     - id: 3
       name: date
@@ -78,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Check'', ''description'': ''Check''}'
-      - '{''id'': 2, ''name'': ''Bank Transfer'', ''description'': ''Bank Transfer''}'
-      - '{''id'': 3, ''name'': ''Credit Card'', ''description'': ''Credit Card''}'
+      - Check
+      - Bank Transfer
+      - Credit Card
       required: false
     - id: 11
       name: payment_schedule
@@ -88,10 +87,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''On Signing of Contract'', ''description'': ''On Signing
-        of Contract''}'
-      - '{''id'': 2, ''name'': ''On Completion of Service'', ''description'': ''On
-        Completion of Service''}'
+      - On Signing of Contract
+      - On Completion of Service
       required: false
     - id: 12
       name: service_contract

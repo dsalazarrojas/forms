@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Official'', ''value'': ''Official''}'
-      - '{''id'': 2, ''label'': ''Coach'', ''value'': ''Coach''}'
-      - '{''id'': 3, ''label'': ''Player'', ''value'': ''Player''}'
+      - Official
+      - Coach
+      - Player
       required: false
     - id: 5
       name: school
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High School'', ''value'': ''high_school''}'
-      - '{''id'': 2, ''label'': ''Middle School'', ''value'': ''middle_school''}'
-      - '{''id'': 3, ''label'': ''College'', ''value'': ''college''}'
+      - High School
+      - Middle School
+      - College
       required: false
     - id: 7
       name: sport
@@ -57,10 +57,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Basketball'', ''value'': ''basketball''}'
-      - '{''id'': 2, ''label'': ''Soccer'', ''value'': ''soccer''}'
-      - '{''id'': 3, ''label'': ''Volleyball'', ''value'': ''volleyball''}'
-      - '{''id'': 4, ''label'': ''Football'', ''value'': ''football''}'
+      - Basketball
+      - Soccer
+      - Volleyball
+      - Football
       required: false
     - id: 8
       name: game_experience
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Completed First Aid Training'', ''value'': ''completed_first_aid_training''}'
-      - '{''id'': 2, ''label'': ''Not Completed'', ''value'': ''not_completed_first_aid_training''}'
-      - '{''id'': 3, ''label'': ''Unknown'', ''value'': ''unknown_first_aid_training''}'
+      - Completed First Aid Training
+      - Not Completed
+      - Unknown
       required: false
     - id: 19
       name: certification_expiration

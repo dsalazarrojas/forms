@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Regular'', ''label'': ''Regular''}'
-      - '{''id'': 2, ''name'': ''Double'', ''label'': ''Double''}'
-      - '{''id'': 3, ''name'': ''Triple'', ''label'': ''Triple''}'
+      - Regular
+      - Double
+      - Triple
       required: true
     - id: 9
       name: manager_approval
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Manager'', ''label'': ''Manager''}'
-      - '{''id'': 2, ''name'': ''Team Lead'', ''label'': ''Team Lead''}'
-      - '{''id'': 3, ''name'': ''Department Head'', ''label'': ''Department Head''}'
+      - Manager
+      - Team Lead
+      - Department Head
       required: true
     - id: 10
       name: department
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Manager'', ''label'': ''Manager''}'
-      - '{''id'': 2, ''name'': ''Team Lead'', ''label'': ''Team Lead''}'
-      - '{''id'': 3, ''name'': ''Department Head'', ''label'': ''Department Head''}'
+      - Manager
+      - Team Lead
+      - Department Head
       required: true
     - id: 13
       name: approved_date
@@ -123,9 +123,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Approved'', ''label'': ''Approved''}'
-      - '{''id'': 2, ''name'': ''Pending'', ''label'': ''Pending''}'
-      - '{''id'': 3, ''name'': ''Denied'', ''label'': ''Denied''}'
+      - Approved
+      - Pending
+      - Denied
       required: true
     - id: 17
       name: overtime_notes

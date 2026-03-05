@@ -6,187 +6,85 @@ inputSchema:
     - id: 1
       name: introduction
       label: Introduction
-      hint: null
+      hint: This is an introduction page
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: demographics
-      label: demographics
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      name: company_info
+      label: Company Information
+      hint: Please enter company name
+      type: text
+      options: []
+      required: true
     - id: 3
-      name: contact_info
-      label: Contact Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: company_name
-      label: Company Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: job_title
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: department
-      label: Department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: company_size
-      label: Company Size
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: job_type
-      label: Job Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
       name: role
       label: Role
-      hint: null
+      hint: Please select all that apply
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 10
-      name: company_sector
-      label: Company Sector
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: job_level
-      label: Job Level
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: company_type
-      label: Company Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: job_function
-      label: Job Function
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: company_industry
-      label: Industry
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: job_title_2
+      required: true
+    - id: 4
+      name: job_title
       label: Job Title
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: team_size
+      label: Team Size
+      hint: Please enter a number
+      type: number
+      options: []
+      required: true
+    - id: 7
       name: contact_email
       label: Contact Email
-      hint: null
+      hint: Email address
       type: email
       options: []
-      required: false
-    - id: 17
+      required: true
+    - id: 8
       name: contact_phone
       label: Contact Phone
-      hint: null
+      hint: Phone number
       type: text
       options: []
-      required: false
-    - id: 18
-      name: job_function_2
+      required: true
+    - id: 9
+      name: job_level
+      label: Job Level
+      hint: Job level
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: job_function
       label: Job Function
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: job_function_3
-      label: Job Function
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: job_function_4
-      label: Job Function
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: job_function_5
-      label: Job Function
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: job_function_6
-      label: Job Function
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: job_function_7
-      label: Job Function
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: job_function_8
-      label: Job Function
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: job_function_9
-      label: Job Function
-      hint: null
-      type: text
-      options: []
-      required: false
+      hint: Please select one function
+      type: select_one
+      options:
+      - Job Function 1
+      - Job Function 2
+      - Job Function 3
+      - Job Function 4
+      required: true
+    - id: 11
+      name: industry_relation
+      label: Industry Relation
+      hint: Please select yes or no
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

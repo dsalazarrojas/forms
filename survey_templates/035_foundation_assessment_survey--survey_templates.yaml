@@ -16,9 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Foundation Type'', ''label'': ''Shallow foundation'',
-        ''value'': ''shallow''}'
-      - '{''id'': 2, ''name'': ''Other'', ''label'': ''Other'', ''value'': ''other''}'
+      - Shallow foundation
+      - Other
       required: true
     - id: 3
       name: condition
@@ -26,12 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Satisfactory'', ''label'': ''Satisfactory'', ''value'':
-        ''satisfactory''}'
-      - '{''id'': 2, ''name'': ''Unsatisfactory'', ''label'': ''Unsatisfactory'',
-        ''value'': ''unsatisfactory''}'
-      - '{''id'': 3, ''name'': ''Not Applicable'', ''label'': ''Not Applicable'',
-        ''value'': ''not_applicable''}'
+      - Satisfactory
+      - Unsatisfactory
+      - Not Applicable
       required: true
     - id: 4
       name: foundation_type_details
@@ -46,9 +42,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Small'', ''label'': ''Small'', ''value'': ''small''}'
-      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium'', ''value'': ''medium''}'
-      - '{''id'': 3, ''name'': ''Large'', ''label'': ''Large'', ''value'': ''large''}'
+      - Small
+      - Medium
+      - Large
       required: true
     - id: 6
       name: foundation_age

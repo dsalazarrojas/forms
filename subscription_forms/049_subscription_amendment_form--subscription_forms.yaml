@@ -4,181 +4,92 @@ inputSchema:
     title: Subscription Amendment Form
     pages:
     - id: 1
-      name: subscription_amendment_form
-      label: subscription_amendment_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: customer_name
-      label: customer_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 4
-      name: subscription_id
-      label: subscription_id
-      hint: null
+      name: customer_id
+      label: Customer ID
+      hint: Enter customer ID if you want to edit or delete your subscription.
       type: number
       options: []
-      required: false
-    - id: 5
-      name: new_email
-      label: new_email
-      hint: null
+      required: true
+    - id: 2
+      name: customer_name
+      label: New Name
+      hint: Enter the customer's new name (if changing).
       type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 3
+      name: customer_email
+      label: New Email
+      hint: Enter the customer's new email (if changing).
+      type: email
+      options: []
+      required: true
+    - id: 4
       name: reason
-      label: reason
-      hint: null
+      label: Reason for Amendment
+      hint: Please provide a brief reason for the amendment.
       type: text
       options: []
+      required: true
+    - id: 5
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 7
-      name: customer_name_old
-      label: customer_name_old
-      hint: null
-      type: text
+      name: customer_email_2
+      label: Customer's Current Email
+      hint: Please enter the customer's current email.
+      type: email
       options: []
-      required: false
+      required: true
     - id: 8
       name: email_old
-      label: email_old
+      label: Email Old
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 9
-      name: submit
-      label: submit
+      name: reason_old
+      label: Reason Old
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 10
-      name: customer_email
-      label: customer_email
+      name: customer_name_2
+      label: Customer's Old Name
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 11
-      name: customer_email_old
-      label: customer_email_old
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: new_email
-      label: new_email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: reason
-      label: reason
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: customer_name
-      label: customer_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: customer_name_old
-      label: customer_name_old
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: email_old
-      label: email_old
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: email
-      label: email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: new_email
-      label: new_email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: reason
-      label: reason
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: customer_name
-      label: customer_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: customer_name_old
-      label: customer_name_old
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: email_old
-      label: email_old
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: new_email
-      label: new_email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submit
-      label: submit
+      name: submit_2
+      label: Submit 2
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
+      required: false
+    - id: 12
+      name: customer_id_2
+      label: Customer Id 2
+      hint: null
+      type: number
+      options: []
       required: false

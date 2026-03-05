@@ -5,14 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: opinion_piece_communication_form
-      label: opinion_piece_communication_form
+      label: Opinion Piece Communication Form
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: category
-      label: category
+      label: Category
       hint: null
       type: select_one
       options:
@@ -22,28 +22,28 @@ inputSchema:
       required: true
     - id: 3
       name: writer_name
-      label: writer_name
+      label: Writer Name
       hint: null
       type: text
       options: []
       required: true
     - id: 4
       name: email_address
-      label: email_address
+      label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 5
       name: comments
-      label: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: opinion_piece_communication_form_category
-      label: opinion_piece_communication_form_category
+      name: submitter_category
+      label: Submitter Category
       hint: null
       type: select_multiple
       options:
@@ -52,137 +52,84 @@ inputSchema:
       required: true
     - id: 7
       name: writer_email
-      label: writer_email
+      label: Writer Email
       hint: null
       type: email
       options: []
       required: true
     - id: 8
-      name: comments_email
-      label: comments_email
+      name: comments_2
+      label: Comments 2
       hint: null
       type: text
       options: []
       required: false
     - id: 9
       name: submit_date
-      label: submit_date
+      label: Date
       hint: null
       type: date
       options: []
       required: true
     - id: 10
       name: submit_time
-      label: submit_time
+      label: Time
       hint: null
       type: time
       options: []
       required: true
     - id: 11
       name: submitter
-      label: submitter
+      label: Submitter
       hint: null
       type: text
       options: []
       required: true
     - id: 12
       name: submitter_email
-      label: submitter_email
+      label: Submitter Email
       hint: null
       type: email
       options: []
       required: true
     - id: 13
-      name: submitter_phone
-      label: submitter_phone
+      name: submitter_comments
+      label: Submitter Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: submitter_comments
-      label: submitter_comments
+      name: submitter_phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: submitter_category
-      label: submitter_category
+      name: submitter_note
+      label: Note
       hint: null
-      type: select_multiple
-      options:
-      - Opinion Piece
-      - Article
-      required: true
+      type: note
+      options: []
+      required: false
     - id: 16
-      name: submitter_note
-      label: submitter_note
+      name: submitter_email_2
+      label: Submitter Email 2
       hint: null
-      type: note
+      type: email
       options: []
-      required: false
+      required: true
     - id: 17
-      name: submitter_email
-      label: submitter_email
+      name: submitter_phone_2
+      label: Submitter Phone 2
       hint: null
-      type: email
+      type: text
       options: []
-      required: true
+      required: false
     - id: 18
-      name: submitter_phone
-      label: submitter_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: submitter_comments
-      label: submitter_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: submitter_category
-      label: submitter_category
-      hint: null
-      type: select_multiple
-      options:
-      - Opinion Piece
-      - Article
-      required: true
-    - id: 21
-      name: submitter_note
-      label: submitter_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: submitter_email
-      label: submitter_email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 23
-      name: submitter_phone
-      label: submitter_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: submitter_comments
-      label: submitter_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submitter_category
-      label: submitter_category
+      name: submitter_category_2
+      label: Submitter Category 2
       hint: null
       type: select_multiple
       options:

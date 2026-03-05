@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Not Started''}'
-      - '{''id'': 2, ''name'': ''In Progress''}'
-      - '{''id'': 3, ''name'': ''Complete''}'
+      - Not Started
+      - In Progress
+      - Complete
       required: false
     - id: 5
       name: maintenance_tasks
@@ -42,8 +42,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 4, ''name'': True}'
-      - '{''id'': 5, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: issues
@@ -107,8 +107,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 6, ''name'': ''Jane Doe''}'
-      - '{''id'': 7, ''name'': ''John Doe''}'
+      - Jane Doe
+      - John Doe
       required: false
     - id: 15
       name: completed_date
@@ -130,8 +130,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 6, ''name'': ''Jane Doe''}'
-      - '{''id'': 7, ''name'': ''John Doe''}'
+      - Jane Doe
+      - John Doe
       required: false
     - id: 18
       name: comments
@@ -176,8 +176,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 6, ''name'': ''Jane Doe''}'
-      - '{''id'': 8, ''name'': ''Jim Smith''}'
+      - Jane Doe
+      - Jim Smith
       required: false
     - id: 24
       name: report_id
@@ -192,9 +192,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 26
       name: reporting_period

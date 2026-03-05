@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''lake'', ''value'': ''lake''}'
-      - '{''id'': 11, ''name'': ''river'', ''value'': ''river''}'
-      - '{''id'': 12, ''name'': ''pond'', ''value'': ''pond''}'
+      - lake
+      - river
+      - pond
       required: true
     - id: 4
       name: water_body_location
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 20, ''name'': ''blue'', ''value'': ''blue''}'
-      - '{''id'': 21, ''name'': ''green'', ''value'': ''green''}'
-      - '{''id'': 22, ''name'': ''brown'', ''value'': ''brown''}'
+      - blue
+      - green
+      - brown
       required: true
     - id: 12
       name: odor
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 30, ''name'': ''none'', ''value'': ''none''}'
-      - '{''id'': 31, ''name'': ''mild'', ''value'': ''mild''}'
-      - '{''id'': 32, ''name'': ''moderate'', ''value'': ''moderate''}'
-      - '{''id'': 33, ''name'': ''strong'', ''value'': ''strong''}'
+      - none
+      - mild
+      - moderate
+      - strong
       required: true

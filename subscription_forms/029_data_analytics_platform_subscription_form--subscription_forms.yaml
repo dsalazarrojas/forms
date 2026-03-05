@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Free''}'
-      - '{''label'': ''Premium''}'
-      - '{''label'': ''Enterprise''}'
+      - Free
+      - Premium
+      - Enterprise
       required: false
     - id: 6
       name: payment_method
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''credit_card''}'
-      - '{''label'': ''paypal''}'
-      - '{''label'': ''bank_transfer''}'
+      - credit card
+      - paypal
+      - bank transfer
       required: false
     - id: 7
       name: subscription_period
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Month-to-Month''}'
-      - '{''label'': ''Annual''}'
-      - '{''label'': ''Bi-Annual''}'
+      - Month-to-Month
+      - Annual
+      - Bi-Annual
       required: false
     - id: 8
       name: notes

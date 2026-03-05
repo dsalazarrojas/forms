@@ -58,11 +58,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Student''}'
-      - '{''id'': 2, ''value'': ''Teacher''}'
-      - '{''id'': 3, ''value'': ''Parent''}'
-      - '{''id'': 4, ''value'': ''Community Leader''}'
-      - '{''id'': 5, ''value'': ''Other''}'
+      - Student
+      - Teacher
+      - Parent
+      - Community Leader
+      - Other
       required: false
     - id: 9
       name: select_multiple_1
@@ -70,12 +70,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Community Composting''}'
-      - '{''id'': 2, ''value'': ''Food Waste Reduction''}'
-      - '{''id'': 3, ''value'': ''Urban Agriculture''}'
-      - '{''id'': 4, ''value'': ''Education and Outreach''}'
-      - '{''id'': 5, ''value'': ''Community Garden''}'
-      - '{''id'': 6, ''value'': ''Community Policy''}'
+      - Community Composting
+      - Food Waste Reduction
+      - Urban Agriculture
+      - Education and Outreach
+      - Community Garden
+      - Community Policy
       required: false
     - id: 10
       name: date

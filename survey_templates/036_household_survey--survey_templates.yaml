@@ -9,87 +9,91 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: household_survey_form_2
       label: Household Members
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 1-2
+      - 3-4
+      - 5 or more
+      required: true
     - id: 3
       name: household_survey_form_3
       label: Household Income
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
       name: household_survey_form_4
       label: Household Expenses
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 5
       name: household_survey_form_5
       label: Household Type
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Rent
+      - Buy
+      required: true
     - id: 6
       name: household_survey_form_6
-      label: Household Income
+      label: Address
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
+      required: true
     - id: 7
       name: household_survey_form_7
-      label: Household Expenses
+      label: Phone
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
+      required: true
     - id: 8
       name: household_survey_form_8
-      label: Household Address
-      hint: Enter your household's address
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: household_survey_form_9
-      label: Household Phone
-      hint: Enter your household's phone number
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: household_survey_form_10
-      label: Household Members
+      label: Household Survey Form 8
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: household_survey_form_11
-      label: Household Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: household_survey_form_12
-      label: Household Expenses
+      - Adults Only
+      - Children Only
+      - Family
+      required: true
+    - id: 9
+      name: household_survey_form_9
+      label: Monthly Income
       hint: null
       type: number
       options: []
-      required: false
+      required: true
+    - id: 10
+      name: household_survey_form_10
+      label: Monthly Expenses
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: household_survey_form_11
+      label: Household Income Per Person
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: household_survey_form_12
+      label: Outdoor Features
+      hint: null
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

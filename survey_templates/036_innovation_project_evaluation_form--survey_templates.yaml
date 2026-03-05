@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''R\\&D'', ''label'': ''R\\&D''}'
-      - '{''id'': 2, ''name'': ''Marketing'', ''label'': ''Marketing''}'
-      - '{''id'': 3, ''name'': ''Business Development'', ''label'': ''Business Development''}'
+      - R\&D
+      - Marketing
+      - Business Development
       required: false
     - id: 5
       name: evaluation_criterion
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Effectiveness'', ''label'': ''Effectiveness''}'
-      - '{''id'': 2, ''name'': ''Efficiency'', ''label'': ''Efficiency''}'
-      - '{''id'': 3, ''name'': ''Impact'', ''label'': ''Impact''}'
+      - Effectiveness
+      - Efficiency
+      - Impact
       required: false
     - id: 6
       name: evaluation_method
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Survey'', ''label'': ''Survey''}'
-      - '{''id'': 2, ''name'': ''Interview'', ''label'': ''Interview''}'
-      - '{''id'': 3, ''name'': ''Case Study'', ''label'': ''Case Study''}'
+      - Survey
+      - Interview
+      - Case Study
       required: false
     - id: 7
       name: project_description
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active'', ''label'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive'', ''label'': ''Inactive''}'
-      - '{''id'': 3, ''name'': ''On Hold'', ''label'': ''On Hold''}'
+      - Active
+      - Inactive
+      - On Hold
       required: false
     - id: 11
       name: project_start_date

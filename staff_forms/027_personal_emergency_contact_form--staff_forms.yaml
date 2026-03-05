@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Friend''}'
-      - '{''id'': 2, ''label'': ''Family Member''}'
-      - '{''id'': 3, ''label'': ''Coworker''}'
+      - Friend
+      - Family Member
+      - Coworker
       required: false
     - id: 4
       name: contact_1_name
@@ -71,13 +71,13 @@ inputSchema:
       required: false
     - id: 10
       name: contact_2_relationship
-      label: Relationship
+      label: Contact 2 Relationship
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Friend''}'
-      - '{''id'': 2, ''label'': ''Family Member''}'
-      - '{''id'': 3, ''label'': ''Coworker''}'
+      - Friend
+      - Family Member
+      - Coworker
       required: false
     - id: 11
       name: emergency_contact_3_name
@@ -102,13 +102,13 @@ inputSchema:
       required: false
     - id: 14
       name: emergency_contact_3_relationship
-      label: Relationship
+      label: Emergency Contact 3 Relationship
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Friend''}'
-      - '{''id'': 2, ''label'': ''Family Member''}'
-      - '{''id'': 3, ''label'': ''Coworker''}'
+      - Friend
+      - Family Member
+      - Coworker
       required: false
     - id: 15
       name: emergency_contact_4_name
@@ -133,13 +133,13 @@ inputSchema:
       required: false
     - id: 18
       name: emergency_contact_4_relationship
-      label: Relationship
+      label: Emergency Contact 4 Relationship
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Friend''}'
-      - '{''id'': 2, ''label'': ''Family Member''}'
-      - '{''id'': 3, ''label'': ''Coworker''}'
+      - Friend
+      - Family Member
+      - Coworker
       required: false
     - id: 19
       name: emergency_contact_5_name
@@ -164,13 +164,13 @@ inputSchema:
       required: false
     - id: 22
       name: emergency_contact_5_relationship
-      label: Relationship
+      label: Emergency Contact 5 Relationship
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Friend''}'
-      - '{''id'': 2, ''label'': ''Family Member''}'
-      - '{''id'': 3, ''label'': ''Coworker''}'
+      - Friend
+      - Family Member
+      - Coworker
       required: false
     - id: 23
       name: notes
@@ -185,8 +185,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''other''}'
+      - chatjimmy
+      - other
       required: false
     - id: 25
       name: emergency_contact_6_name

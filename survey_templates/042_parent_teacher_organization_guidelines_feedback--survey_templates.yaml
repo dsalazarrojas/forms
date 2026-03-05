@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 3
       name: pto_effectiveness
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Clear''}'
-      - '{''label'': ''Confusing''}'
-      - '{''label'': ''Somewhat Confusing''}'
+      - Clear
+      - Confusing
+      - Somewhat Confusing
       required: false
     - id: 4
       name: pto_clarity
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''0 - No Clarity''}'
-      - '{''label'': ''1 - Some Clarity''}'
-      - '{''label'': ''2 - A lot of Clarity''}'
+      - 0 - No Clarity
+      - 1 - Some Clarity
+      - 2 - A lot of Clarity
       required: false
     - id: 5
       name: pto_usefulness
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''0 - Not Useful''}'
-      - '{''label'': ''1 - Somewhat Useful''}'
-      - '{''label'': ''2 - Very Useful''}'
+      - 0 - Not Useful
+      - 1 - Somewhat Useful
+      - 2 - Very Useful
       required: false
     - id: 6
       name: pto_recommend
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''0 - Not Recommended''}'
-      - '{''label'': ''1 - Somewhat Recommended''}'
-      - '{''label'': ''2 - Very Recommended''}'
+      - 0 - Not Recommended
+      - 1 - Somewhat Recommended
+      - 2 - Very Recommended
       required: false
     - id: 7
       name: pto_comments

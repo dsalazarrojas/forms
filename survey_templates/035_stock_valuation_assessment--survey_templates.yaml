@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Range 1''}'
-      - '{''id'': 2, ''label'': ''Range 2''}'
-      - '{''id'': 3, ''label'': ''Range 3''}'
+      - Range 1
+      - Range 2
+      - Range 3
       required: true
     - id: 5
       name: stock_valuation_assessment_section_3_1
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very high''}'
-      - '{''id'': 2, ''label'': ''High''}'
-      - '{''id'': 3, ''label'': ''Medium''}'
-      - '{''id'': 4, ''label'': ''Low''}'
+      - Very high
+      - High
+      - Medium
+      - Low
       required: true
     - id: 6
       name: stock_valuation_assessment_section_3_2
@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very high''}'
-      - '{''id'': 2, ''label'': ''High''}'
-      - '{''id'': 3, ''label'': ''Medium''}'
-      - '{''id'': 4, ''label'': ''Low''}'
+      - Very high
+      - High
+      - Medium
+      - Low
       required: true
     - id: 7
       name: stock_valuation_assessment_section_4_1
@@ -65,7 +65,7 @@ inputSchema:
       required: true
     - id: 8
       name: stock_valuation_assessment_section_4_2
-      label: What is the expected growth rate?
+      label: Stock Valuation Assessment Section 4 2
       hint: null
       type: number
       options: []
@@ -76,11 +76,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Revenue''}'
-      - '{''id'': 2, ''label'': ''Earnings growth''}'
-      - '{''id'': 3, ''label'': ''Dividends''}'
-      - '{''id'': 4, ''label'': ''Debt''}'
-      - '{''id'': 5, ''label'': ''Valuation metrics''}'
+      - Revenue
+      - Earnings growth
+      - Dividends
+      - Debt
+      - Valuation metrics
       required: true
     - id: 10
       name: stock_valuation_assessment_section_5_1
@@ -88,11 +88,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Growth''}'
-      - '{''id'': 2, ''label'': ''Value''}'
-      - '{''id'': 3, ''label'': ''Dividend''}'
-      - '{''id'': 4, ''label'': ''Income''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Growth
+      - Value
+      - Dividend
+      - Income
+      - Other
       required: false
     - id: 11
       name: stock_valuation_assessment_section_6_1
@@ -128,11 +128,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Very high''}'
-      - '{''id'': 2, ''label'': ''High''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Low''}'
-      - '{''id'': 5, ''label'': ''Not worth it''}'
+      - Very high
+      - High
+      - Neutral
+      - Low
+      - Not worth it
       required: true
     - id: 16
       name: stock_valuation_assessment_section_10_2
@@ -140,11 +140,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Very high''}'
-      - '{''id'': 2, ''label'': ''High''}'
-      - '{''id'': 3, ''label'': ''Medium''}'
-      - '{''id'': 4, ''label'': ''Low''}'
-      - '{''id'': 5, ''label'': ''Not confident''}'
+      - Very high
+      - High
+      - Medium
+      - Low
+      - Not confident
       required: true
     - id: 17
       name: stock_valuation_assessment_section_11_1
@@ -152,11 +152,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Very high''}'
-      - '{''id'': 2, ''label'': ''High''}'
-      - '{''id'': 3, ''label'': ''Medium''}'
-      - '{''id'': 4, ''label'': ''Low''}'
-      - '{''id'': 5, ''label'': ''None''}'
+      - Very high
+      - High
+      - Medium
+      - Low
+      - None
       required: true
     - id: 18
       name: stock_valuation_assessment_section_12_1
@@ -174,7 +174,7 @@ inputSchema:
       required: false
     - id: 20
       name: stock_valuation_assessment_section_13_1
-      label: What is the expected price change in percentage?
+      label: Stock Valuation Assessment Section 13 1
       hint: null
       type: number
       options: []
@@ -185,22 +185,22 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Revenue''}'
-      - '{''id'': 2, ''label'': ''Earnings growth''}'
-      - '{''id'': 3, ''label'': ''Dividends''}'
-      - '{''id'': 4, ''label'': ''Debt''}'
-      - '{''id'': 5, ''label'': ''Valuation metrics''}'
+      - Revenue
+      - Earnings growth
+      - Dividends
+      - Debt
+      - Valuation metrics
       required: true
     - id: 22
       name: stock_valuation_assessment_section_14_1
-      label: What is the expected growth rate?
+      label: Stock Valuation Assessment Section 14 1
       hint: null
       type: number
       options: []
       required: false
     - id: 23
       name: stock_valuation_assessment_section_15_1
-      label: What is the expected growth rate?
+      label: Stock Valuation Assessment Section 15 1
       hint: null
       type: number
       options: []
@@ -211,21 +211,21 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Revenue''}'
-      - '{''id'': 2, ''label'': ''Earnings growth''}'
-      - '{''id'': 3, ''label'': ''Dividends''}'
-      - '{''id'': 4, ''label'': ''Debt''}'
-      - '{''id'': 5, ''label'': ''Valuation metrics''}'
+      - Revenue
+      - Earnings growth
+      - Dividends
+      - Debt
+      - Valuation metrics
       required: false
     - id: 25
       name: stock_valuation_assessment_section_16_1
-      label: Do you expect any change in the stock price?
+      label: Stock Valuation Assessment Section 16 1
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Very high''}'
-      - '{''id'': 2, ''label'': ''High''}'
-      - '{''id'': 3, ''label'': ''Medium''}'
-      - '{''id'': 4, ''label'': ''Low''}'
-      - '{''id'': 5, ''label'': ''None''}'
+      - Very high
+      - High
+      - Medium
+      - Low
+      - None
       required: false

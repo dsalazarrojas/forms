@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''male''}'
-      - '{''id'': 2, ''name'': ''female''}'
-      - '{''id'': 3, ''name'': ''other''}'
+      - male
+      - female
+      - other
       required: false
     - id: 9
       name: nationality
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''American''}'
-      - '{''id'': 2, ''name'': ''British''}'
-      - '{''id'': 3, ''name'': ''Canadian''}'
-      - '{''id'': 4, ''name'': ''Australian''}'
+      - American
+      - British
+      - Canadian
+      - Australian
       required: false
     - id: 10
       name: address
@@ -100,8 +100,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive''}'
+      - active
+      - inactive
       required: false
     - id: 14
       name: note

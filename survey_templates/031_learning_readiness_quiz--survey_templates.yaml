@@ -5,14 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: Please introduce yourself
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: section1_question1
-      label: section1_question1
+      name: question1_section1
+      label: Are you interested in the course?
       hint: null
       type: select_one
       options:
@@ -20,194 +20,78 @@ inputSchema:
       - 'No'
       required: true
     - id: 3
-      name: section1_question2
-      label: section1_question2
+      name: question2_section1
+      label: How motivated are you to take the course?
+      hint: null
+      type: select_one
+      options:
+      - Highly motivated
+      - Somewhat motivated
+      - Not motivated
+      required: true
+    - id: 4
+      name: question3_section1
+      label: Do you have the required skills for the course?
       hint: null
       type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 5
+      name: question4_section1
+      label: How much time do you have available for the course?
+      hint: null
+      type: select_one
+      options:
+      - Less than a week
+      - 1-2 weeks
+      - More than 2 weeks
+      required: true
+    - id: 6
+      name: question5_section1
+      label: What is your current level of knowledge about this topic?
+      hint: null
+      type: select_one
+      options:
+      - Basic knowledge
+      - Intermediate knowledge
+      - Advanced knowledge
+      required: true
+    - id: 7
+      name: question6_section1
+      label: How much experience do you have with this topic?
+      hint: null
+      type: select_one
+      options:
+      - No experience
+      - Some experience
+      - Much experience
+      required: true
+    - id: 8
+      name: question7_section1
+      label: Are you comfortable with learning through online tutorials?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 9
+      name: question8_section1
+      label: Do you have any physical or learning disabilities that may affect your
+        ability to learn?
+      hint: null
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: true
-    - id: 4
-      name: section1_question3
-      label: section1_question3
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: section1_question4
-      label: section1_question4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: introduction
-      label: introduction
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: introduction
-      label: introduction
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: section1_question3
-      label: section1_question3
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: section1_question4
-      label: section1_question4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 10
-      name: section1_question4
-      label: section1_question4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: section1_question2
-      label: section1_question2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: introduction
-      label: introduction
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: section1_question4
-      label: section1_question4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: section1_question1
-      label: section1_question1
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: introduction
-      label: introduction
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: section1_question2
-      label: section1_question2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: section1_question4
-      label: section1_question4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: section1_question1
-      label: section1_question1
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: introduction
-      label: introduction
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: section1_question2
-      label: section1_question2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: section1_question4
-      label: section1_question4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: section1_question4
-      label: section1_question4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: introduction
-      label: introduction
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: section1_question1
-      label: section1_question1
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: introduction
-      label: introduction
+      name: final_page
+      label: Thank you for taking the quiz!
       hint: null
       type: text
       options: []

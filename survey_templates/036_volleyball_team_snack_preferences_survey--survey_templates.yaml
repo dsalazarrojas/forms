@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None'', ''value'': ''none''}'
-      - '{''id'': 2, ''label'': ''Vegetarian'', ''value'': ''vegetarian''}'
-      - '{''id'': 3, ''label'': ''Vegan'', ''value'': ''vegan''}'
-      - '{''id'': 4, ''label'': ''Gluten-free'', ''value'': ''gluten-free''}'
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
       required: false
     - id: 5
       name: athlete_snack_preferences
@@ -41,11 +41,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Water'', ''value'': ''water''}'
-      - '{''id'': 2, ''label'': ''Fruits'', ''value'': ''fruits''}'
-      - '{''id'': 3, ''label'': ''Vegetables'', ''value'': ''vegetables''}'
-      - '{''id'': 4, ''label'': ''Cheese'', ''value'': ''cheese''}'
-      - '{''id'': 5, ''label'': ''Granola'', ''value'': ''granola''}'
+      - Water
+      - Fruits
+      - Vegetables
+      - Cheese
+      - Granola
       required: false
     - id: 6
       name: team_id

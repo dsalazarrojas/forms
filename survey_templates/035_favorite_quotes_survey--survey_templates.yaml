@@ -16,127 +16,101 @@ inputSchema:
     pages:
     - id: 1
       name: favorite_quote
-      label: Favourite Quote
+      label: What is your favorite quote?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: quote_author
-      label: Quote Author
+      label: Who is the author of your favorite quote?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: quote_date
-      label: Quote Date
+      label: When did you come across this quote?
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
-      name: favorite_quote
-      label: Favourite Quote
+      name: quote_meaning
+      label: Why is this quote meaningful to you?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: favorite_quote
-      label: Favourite Quote
+      name: similar_quotes
+      label: List 3 more quotes that are similar to this one
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: favorite_quote
-      label: Favourite Quote
+      name: quote_inspiration
+      label: Do you think this quote has the potential to inspire others?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 7
-      name: favorite_quote
-      label: Favourite Quote
+      name: inspiration_reason
+      label: Can you explain why you think this quote is inspiring?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: favorite_quotes
-      label: Favourite Quotes
+      name: quote_frequency
+      label: How often do you come across quotes like this one?
       hint: null
-      type: note
+      type: number
       options: []
-      required: false
+      required: true
     - id: 9
-      name: favorite_quote
-      label: Favourite Quote
+      name: shared_quote
+      label: Have you ever shared this quote with someone else?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 10
-      name: quote_author
-      label: Quote Author
+      name: quote_tone
+      label: What is the tone of the quote?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Inspiring
+      - Humorous
+      - Sarcastic
+      - Neutral
+      required: true
     - id: 11
-      name: quote_date
-      label: Quote Date
+      name: quote_impact
+      label: Rate the impact of this quote on you?
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      required: true
     - id: 12
-      name: favorite_quote
-      label: Favourite Quote
+      name: quote_category
+      label: Categorize the quote (e.g., inspirational, motivational, humorous)?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: quote_date
-      label: Quote Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: quote_author
-      label: Quote Author
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: quote_date
-      label: Quote Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: quote_author
-      label: Quote Author
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: favorite_quotes
-      label: Favourite Quotes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: favorite_quote
-      label: Favourite Quote
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Inspirational
+      - Motivational
+      - Humorous
+      - Neutral
+      required: true

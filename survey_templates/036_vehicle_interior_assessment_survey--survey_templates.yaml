@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_good'', ''label'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''fair'', ''label'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''average'', ''label'': ''Average''}'
-      - '{''id'': 4, ''name'': ''poor'', ''label'': ''Poor''}'
-      - '{''id'': 5, ''name'': ''very_poor'', ''label'': ''Very Poor''}'
+      - Very Good
+      - Fair
+      - Average
+      - Poor
+      - Very Poor
       required: false
     - id: 3
       name: interior_condition_comment
@@ -35,11 +35,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_good'', ''label'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''fair'', ''label'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''average'', ''label'': ''Average''}'
-      - '{''id'': 4, ''name'': ''poor'', ''label'': ''Poor''}'
-      - '{''id'': 5, ''name'': ''very_poor'', ''label'': ''Very Poor''}'
+      - Very Good
+      - Fair
+      - Average
+      - Poor
+      - Very Poor
       required: false
     - id: 5
       name: exterior_condition_comment
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''miles'', ''label'': ''miles''}'
-      - '{''id'': 2, ''name'': ''kilometers'', ''label'': ''kilometers''}'
+      - miles
+      - kilometers
       required: false
     - id: 9
       name: vin
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''registered'', ''label'': ''Registered''}'
-      - '{''id'': 2, ''name'': ''deregistered'', ''label'': ''Deregistered''}'
-      - '{''id'': 3, ''name'': ''pending_registration'', ''label'': ''Pending Registration''}'
+      - Registered
+      - Deregistered
+      - Pending Registration
       required: false
     - id: 15
       name: vehicle_warranty_status
@@ -122,9 +122,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active'', ''label'': ''Active''}'
-      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''Inactive''}'
-      - '{''id'': 3, ''name'': ''pending_warranty'', ''label'': ''Pending Warranty''}'
+      - Active
+      - Inactive
+      - Pending Warranty
       required: false
     - id: 16
       name: vehicle_interior_type
@@ -132,10 +132,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''standard'', ''label'': ''Standard''}'
-      - '{''id'': 2, ''name'': ''leather'', ''label'': ''Leather''}'
-      - '{''id'': 3, ''name'': ''premium'', ''label'': ''Premium''}'
-      - '{''id'': 4, ''name'': ''custom'', ''label'': ''Custom''}'
+      - Standard
+      - Leather
+      - Premium
+      - Custom
       required: false
     - id: 17
       name: transmission_type
@@ -143,9 +143,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''automatic'', ''label'': ''Automatic''}'
-      - '{''id'': 2, ''name'': ''manual'', ''label'': ''Manual''}'
-      - '{''id'': 3, ''name'': ''semi-automatic'', ''label'': ''Semi-Automatic''}'
+      - Automatic
+      - Manual
+      - Semi-Automatic
       required: false
     - id: 18
       name: engine_type
@@ -153,10 +153,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''gasoline'', ''label'': ''Gasoline''}'
-      - '{''id'': 2, ''name'': ''diesel'', ''label'': ''Diesel''}'
-      - '{''id'': 3, ''name'': ''hybrid'', ''label'': ''Hybrid''}'
-      - '{''id'': 4, ''name'': ''electric'', ''label'': ''Electric''}'
+      - Gasoline
+      - Diesel
+      - Hybrid
+      - Electric
       required: false
     - id: 19
       name: drive_type
@@ -164,9 +164,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''front_wheel_drive'', ''label'': ''Front Wheel Drive''}'
-      - '{''id'': 2, ''name'': ''rear_wheel_drive'', ''label'': ''Rear Wheel Drive''}'
-      - '{''id'': 3, ''name'': ''all_wheel_drive'', ''label'': ''All Wheel Drive''}'
+      - Front Wheel Drive
+      - Rear Wheel Drive
+      - All Wheel Drive
       required: false
     - id: 20
       name: interior_type
@@ -174,9 +174,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''cloth'', ''label'': ''Cloth''}'
-      - '{''id'': 2, ''name'': ''leather'', ''label'': ''Leather''}'
-      - '{''id'': 3, ''name'': ''vinyl'', ''label'': ''Vinyl''}'
+      - Cloth
+      - Leather
+      - Vinyl
       required: false
     - id: 21
       name: airbag_status
@@ -184,8 +184,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: airbag_type
@@ -193,9 +193,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''dual'', ''label'': ''Dual''}'
-      - '{''id'': 2, ''name'': ''single'', ''label'': ''Single''}'
-      - '{''id'': 3, ''name'': ''none'', ''label'': ''None''}'
+      - Dual
+      - Single
+      - None
       required: false
     - id: 23
       name: airbag_count
@@ -210,8 +210,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''front'', ''label'': ''Front''}'
-      - '{''id'': 2, ''name'': ''rear'', ''label'': ''Rear''}'
+      - Front
+      - Rear
       required: false
     - id: 25
       name: airbag_condition
@@ -219,9 +219,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''good'', ''label'': ''Good''}'
-      - '{''id'': 2, ''name'': ''poor'', ''label'': ''Poor''}'
-      - '{''id'': 3, ''name'': ''average'', ''label'': ''Average''}'
-      - '{''id'': 4, ''name'': ''fair'', ''label'': ''Fair''}'
-      - '{''id'': 5, ''name'': ''very_poor'', ''label'': ''Very Poor''}'
+      - Good
+      - Poor
+      - Average
+      - Fair
+      - Very Poor
       required: false

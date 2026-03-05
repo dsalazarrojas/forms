@@ -4,108 +4,10 @@ inputSchema:
     title: Information Matrix Template Form
     pages:
     - id: 1
-      name: information_matrix_template_form
-      label: What is your favorite color?
+      name: favorite_color
+      label: Favorite color
       hint: null
       type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 2
-      name: information_matrix_template_form_2
-      label: What is your favorite animal?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: information_matrix_template_form_3
-      label: What time do you wake up?
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 4
-      name: information_matrix_template_form_4
-      label: What is your age?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: information_matrix_template_form_5
-      label: What is your email address?
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 6
-      name: information_matrix_template_form_6
-      label: What is your phone number?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: information_matrix_template_form_7
-      label: What is your note?
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: information_matrix_template_form_8
-      label: What date do you plan to start?
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: information_matrix_template_form_9
-      label: What time do you plan to start?
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: information_matrix_template_form_10
-      label: What is your name?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: information_matrix_template_form_11
-      label: What is your age?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: information_matrix_template_form_12
-      label: What is your age group?
-      hint: null
-      type: select_one
-      options:
-      - '18'
-      - '25'
-      - '30'
-      - '35'
-      - '40'
-      - '45'
-      - '50'
-      - '55'
-      - '60'
-      - '65'
-      required: false
-    - id: 13
-      name: information_matrix_template_form_13
-      label: What is your favorite color?
-      hint: null
-      type: select_multiple
       options:
       - red
       - blue
@@ -114,16 +16,50 @@ inputSchema:
       - orange
       - purple
       required: false
-    - id: 14
-      name: information_matrix_template_form_14
+    - id: 2
+      name: favorite_animal
+      label: Favorite animal
+      hint: null
+      type: select_multiple
+      options:
+      - cat
+      - dog
+      - elephant
+      - lion
+      - bear
+      - rabbit
+      required: false
+    - id: 3
+      name: wake_up_time
       label: What time do you wake up?
       hint: null
       type: time
       options: []
       required: false
-    - id: 15
-      name: information_matrix_template_form_15
-      label: What is your favorite food?
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: favorite_food
+      label: Favorite food
       hint: null
       type: select_one
       options:
@@ -132,9 +68,9 @@ inputSchema:
       - salad
       - fruit
       required: false
-    - id: 16
-      name: information_matrix_template_form_16
-      label: What is your favorite drink?
+    - id: 8
+      name: favorite_drink
+      label: Favorite drink
       hint: null
       type: select_multiple
       options:
@@ -144,9 +80,9 @@ inputSchema:
       - tea
       - coffee
       required: false
-    - id: 17
-      name: information_matrix_template_form_17
-      label: What is your favorite hobby?
+    - id: 9
+      name: favorite_hobby
+      label: Favorite hobby
       hint: null
       type: select_one
       options:
@@ -156,9 +92,9 @@ inputSchema:
       - swimming
       - dancing
       required: false
-    - id: 18
-      name: information_matrix_template_form_18
-      label: What is your favorite sport?
+    - id: 10
+      name: favorite_sport
+      label: Favorite sport
       hint: null
       type: select_multiple
       options:
@@ -168,16 +104,16 @@ inputSchema:
       - baseball
       - golf
       required: false
-    - id: 19
-      name: information_matrix_template_form_19
-      label: What time do you plan to finish?
+    - id: 11
+      name: start_time
+      label: What time do you plan to start?
       hint: null
       type: time
       options: []
       required: false
-    - id: 20
-      name: information_matrix_template_form_20
-      label: What is your favorite music genre?
+    - id: 12
+      name: favorite_genre
+      label: Favorite music genre
       hint: null
       type: select_one
       options:
@@ -187,18 +123,21 @@ inputSchema:
       - hip hop
       - electronic
       required: false
-    - id: 21
-      name: information_matrix_template_form_21
-      label: What is your favorite artist?
+    - id: 13
+      name: favorite_artist
+      label: Favorite artist
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - The Beatles
+      - The Rolling Stones
+      - Taylor Swift
+      - Kanye West
+      - "Beyonc\xE9"
       required: false
-    - id: 22
-      name: information_matrix_template_form_22
-      label: What is your favorite social media?
+    - id: 14
+      name: favorite_social_media
+      label: Favorite social media
       hint: null
       type: select_one
       options:
@@ -207,16 +146,16 @@ inputSchema:
       - Instagram
       - TikTok
       required: false
-    - id: 23
-      name: information_matrix_template_form_23
-      label: What is your favorite website?
+    - id: 15
+      name: favorite_website
+      label: Favorite website
       hint: null
       type: text
       options: []
       required: false
-    - id: 24
-      name: information_matrix_template_form_24
-      label: What is your favorite color?
+    - id: 16
+      name: favorite_color_2
+      label: Favorite color 2
       hint: null
       type: select_one
       options:
@@ -227,9 +166,9 @@ inputSchema:
       - orange
       - purple
       required: false
-    - id: 25
-      name: information_matrix_template_form_25
-      label: What is your favorite food?
+    - id: 17
+      name: favorite_food_2
+      label: Favorite food 2
       hint: null
       type: select_one
       options:
@@ -237,4 +176,40 @@ inputSchema:
       - burger
       - salad
       - fruit
+      required: false
+    - id: 18
+      name: favorite_hobby_2
+      label: Favorite hobby 2
+      hint: null
+      type: select_one
+      options:
+      - reading
+      - gaming
+      - hiking
+      - swimming
+      - dancing
+      required: false
+    - id: 19
+      name: favorite_sport_2
+      label: Favorite sport 2
+      hint: null
+      type: select_multiple
+      options:
+      - football
+      - basketball
+      - tennis
+      - baseball
+      - golf
+      required: false
+    - id: 20
+      name: favorite_genre_2
+      label: Favorite music genre 2
+      hint: null
+      type: select_one
+      options:
+      - rock
+      - jazz
+      - pop
+      - hip hop
+      - electronic
       required: false

@@ -16,11 +16,11 @@ inputSchema:
       hint: Please select your skin type from the options below.
       type: select_one
       options:
-      - '{''label'': ''Normal''}'
-      - '{''label'': ''Dry''}'
-      - '{''label'': ''Oily''}'
-      - '{''label'': ''Combination''}'
-      - '{''label'': ''Sensitive''}'
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
       required: false
     - id: 3
       name: skin_concerns
@@ -28,11 +28,11 @@ inputSchema:
       hint: Choose the concerns that apply to you.
       type: select_multiple
       options:
-      - '{''label'': ''Acne''}'
-      - '{''label'': ''Aging''}'
-      - '{''label'': ''Hyper-pigmentation''}'
-      - '{''label'': ''Irritation''}'
-      - '{''label'': ''Redness''}'
+      - Acne
+      - Aging
+      - Hyper-pigmentation
+      - Irritation
+      - Redness
       required: false
     - id: 4
       name: product_preferences
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Morning and Night''}'
-      - '{''label'': ''Morning''}'
-      - '{''label'': ''Night''}'
-      - '{''label'': ''Other''}'
+      - Morning and Night
+      - Morning
+      - Night
+      - Other
       required: false
     - id: 8
       name: products_used

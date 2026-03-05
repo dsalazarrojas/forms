@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 5
       name: resolution_team
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Support''}'
-      - '{''label'': ''Sales''}'
-      - '{''label'': ''Other''}'
+      - Support
+      - Sales
+      - Other
       required: false
     - id: 6
       name: resolution_method
@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Chat''}'
-      - '{''label'': ''In person''}'
+      - Phone
+      - Email
+      - Chat
+      - In person
       required: false
     - id: 7
       name: resolution_date
@@ -104,8 +104,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: resolution_speed_satisfied
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: resolution_time_feedback
@@ -136,11 +136,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very''}'
-      - '{''label'': ''Somewhat''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat dissatisfied''}'
-      - '{''label'': ''Very dissatisfied''}'
+      - Very
+      - Somewhat
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
       required: false
     - id: 18
       name: email_sent
@@ -148,8 +148,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: chat_journey
@@ -178,8 +178,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: resolution_speed_escalation
@@ -187,8 +187,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: comments

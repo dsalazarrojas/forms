@@ -5,21 +5,23 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: communication_effectiveness
-      label: communication_effectiveness
+      label: Communication Effectiveness
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Formal
+      - Informal
       required: false
     - id: 3
       name: communication_frequency
-      label: communication_frequency
+      label: Communication Frequency
       hint: null
       type: select_multiple
       options:
@@ -31,28 +33,8 @@ inputSchema:
       - Annually
       required: false
     - id: 4
-      name: engagement
-      label: engagement
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: communication_channels
-      label: communication_channels
-      hint: null
-      type: select_multiple
-      options:
-      - Email
-      - Phone
-      - Team meetings
-      - Text message
-      - Social media
-      - Company intranet
-      required: false
-    - id: 6
       name: preferred_communication_channels
-      label: preferred_communication_channels
+      label: Preferred Communication Channels
       hint: null
       type: select_one
       options:
@@ -63,97 +45,41 @@ inputSchema:
       - Social media
       - Company intranet
       required: false
-    - id: 7
-      name: communication_style
-      label: communication_style
+    - id: 5
+      name: communication_strategy
+      label: Communication Strategy
       hint: null
       type: select_one
       options:
       - Formal
       - Informal
       required: false
-    - id: 8
-      name: time_management
-      label: time_management
+    - id: 6
+      name: communication_level
+      label: Communication Level
       hint: null
       type: select_one
       options:
-      - On time
-      - Late
-      - As needed
+      - Formal
+      - Informal
       required: false
-    - id: 9
-      name: response_time
-      label: response_time
+    - id: 7
+      name: communication_time
+      label: Communication Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 10
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      - As needed
-      required: false
-    - id: 11
+    - id: 8
       name: response_rate
-      label: response_rate
+      label: Response Rate
       hint: null
       type: number
       options: []
       required: false
-    - id: 12
-      name: feedback
-      label: feedback
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      - As needed
-      required: false
-    - id: 13
-      name: feedback_frequentcy
-      label: feedback_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      - Quarterly
-      - Semi-Annually
-      - Annually
-      required: false
-    - id: 14
-      name: communication_strategy
-      label: communication_strategy
-      hint: null
-      type: select_one
-      options:
-      - Formal
-      - Informal
-      required: false
-    - id: 15
-      name: communication_channels_used
-      label: communication_channels_used
-      hint: null
-      type: select_multiple
-      options:
-      - Email
-      - Phone
-      - Team meetings
-      - Text message
-      - Social media
-      - Company intranet
-      required: false
-    - id: 16
+    - id: 9
       name: communication_content
-      label: communication_content
+      label: Communication Content
       hint: null
       type: select_multiple
       options:
@@ -162,58 +88,34 @@ inputSchema:
       - Manager news
       - Employee newsletters
       - Internal news feed
-      - Personal messages
       required: false
-    - id: 17
-      name: communication_level
-      label: communication_level
+    - id: 10
+      name: response_time
+      label: Response Time
       hint: null
-      type: select_one
-      options:
-      - Formal
-      - Informal
+      type: time
+      options: []
       required: false
-    - id: 18
-      name: time_spend
-      label: time_spend
+    - id: 11
+      name: follow_up
+      label: Follow-up
       hint: null
       type: select_multiple
       options:
-      - Less than 1 hour
-      - 1-2 hours
-      - 2-4 hours
-      - More than 4 hours
+      - 'True'
+      - 'False'
+      - As needed
       required: false
-    - id: 19
+    - id: 12
       name: communication_quality
-      label: communication_quality
+      label: Communication Quality
       hint: null
       type: number
       options: []
       required: false
-    - id: 20
-      name: response_rate
-      label: response_rate
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: communication_frequency
-      label: communication_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      - Quarterly
-      - Semi-Annually
-      - Annually
-      required: false
-    - id: 22
+    - id: 13
       name: communication_channels_used
-      label: communication_channels_used
+      label: Communication Channels Used
       hint: null
       type: select_multiple
       options:
@@ -224,26 +126,36 @@ inputSchema:
       - Social media
       - Company intranet
       required: false
-    - id: 23
-      name: communication_level
-      label: communication_level
+    - id: 14
+      name: communication_frequency_2
+      label: Communication Frequency 2
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 15
+      name: communication_level_2
+      label: Communication Level 2
       hint: null
       type: select_one
       options:
       - Formal
       - Informal
       required: false
-    - id: 24
-      name: communication_time
-      label: communication_time
+    - id: 16
+      name: time_spend
+      label: Time Spend
       hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: communication_effectiveness
-      label: communication_effectiveness
-      hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - More than 4 hours
       required: false

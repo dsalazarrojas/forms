@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Event'', ''value'': ''event''}'
-      - '{''id'': 2, ''label'': ''Meeting'', ''value'': ''meeting''}'
-      - '{''id'': 3, ''label'': ''Conference'', ''value'': ''conference''}'
-      - '{''id'': 4, ''label'': ''Seminar'', ''value'': ''seminar''}'
-      - '{''id'': 5, ''label'': ''Workshop'', ''value'': ''workshop''}'
+      - Event
+      - Meeting
+      - Conference
+      - Seminar
+      - Workshop
       required: false
     - id: 6
       name: event_date
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''stage size'', ''value'': ''stage size''}'
-      - '{''id'': 2, ''label'': ''stage shape'', ''value'': ''stage shape''}'
-      - '{''id'': 3, ''label'': ''stage shape type'', ''value'': ''stage shape type''}'
+      - stage size
+      - stage shape
+      - stage shape type
       required: false
     - id: 11
       name: overall_satisfaction

@@ -4,191 +4,140 @@ inputSchema:
     title: Environmental Sustainability In Hospitals Survey
     pages:
     - id: 1
-      name: intro1
-      label: Environmental Sustainability In Hospitals
-      hint: 'null'
+      name: intro_1
+      label: Introduction
+      hint: null
       type: note
       options: []
       required: true
     - id: 2
       name: facility_type_1
-      label: facility_type
-      hint: 'null'
+      label: Facility Type
+      hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 3
-      name: facility_type_2
-      label: environmental_sustainability_in_hospitals_survey
-      hint: 'null'
-      type: text
-      options: []
+      name: green_initiatives_1
+      label: Green Initiatives
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 4
-      name: facility_type_3
-      label: hospital_facility_type
+      name: challenges_1
+      label: Challenges
       hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      required: false
-    - id: 5
-      name: green_initiatives_1
-      label: green_initiatives
-      hint: 'null'
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 6
-      name: green_initiatives_2
-      label: green_initiatives_in_hospitals
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 5
+      name: ideas_1
+      label: Ideas
       hint: null
       type: text
       options: []
+      required: true
+    - id: 6
+      name: questions_1
+      label: Questions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 7
-      name: challenges_1
-      label: challenges
-      hint: 'null'
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 8
-      name: challenges_2
-      label: hospitals_challenges
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 9
-      name: ideas_1
-      label: ideas
-      hint: 'null'
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: ideas_2
-      label: ideas_to_improve
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: questions_1
-      label: questions
-      hint: 'null'
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 12
       name: questions_2
-      label: hospitals_questions
+      label: Questions (Text Field)
       hint: null
       type: text
       options: []
       required: true
-    - id: 13
+    - id: 8
       name: questions_3
-      label: environmental_performance
+      label: Date of Data Collection
       hint: null
       type: date
       options: []
-      required: false
-    - id: 14
+      required: true
+    - id: 9
       name: questions_4
-      label: questions_to_improve
-      hint: 'null'
+      label: Time of Data Collection
+      hint: null
       type: time
       options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 10
       name: questions_5
-      label: questions
+      label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 16
+      required: true
+    - id: 11
       name: questions_6
-      label: questions_to_ask
+      label: Additional Questions
       hint: null
       type: text
       options: []
-      required: false
-    - id: 17
+      required: true
+    - id: 12
       name: questions_7
-      label: hospitals_questions
+      label: Environmental Performance
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: questions_8
+      label: Questions Asked
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: questions_9
+      label: Questions 9
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: questions_10
+      label: Questions Asked In
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: questions_11
+      label: Questions To Answer
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: questions_12
+      label: Questions 12
       hint: null
       type: text
       options: []
       required: true
     - id: 18
-      name: questions_8
-      label: questionnaire
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: questions_9
-      label: questions_asked
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: questions_10
-      label: questions
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: questions_11
-      label: questions_asked_in
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: questions_12
-      label: questions_to_answer
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
       name: questions_13
-      label: questions
+      label: Questions In Hospitals
       hint: null
       type: text
       options: []
-      required: false
-    - id: 24
-      name: questions_14
-      label: questions_in_hospitals
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: questions_15
-      label: questions
-      hint: null
-      type: note
-      options: []
-      required: false
+      required: true

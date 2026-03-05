@@ -1,231 +1,147 @@
 inputSchema:
   type: object
   properties:
-    title: holiday_trivia_quiz
+    title: Holiday Trivia Quiz
     pages:
     - id: 1
-      name: intro
-      label: welcome_to_holiday_trivia_quiz
+      name: page_1
+      label: Welcome to Holiday Trivia Quiz
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: question_1
-      label: what_is_your_favorite_holiday
+      label: What is your favorite holiday?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Christmas''}'
-      - '{''label'': ''Halloween''}'
-      - '{''label'': ''Easter''}'
+      - Christmas
+      - Halloween
+      - Easter
       required: false
     - id: 3
       name: answer_1
-      label: answer
-      hint: null
+      label: Answer
+      hint: Choose your answer above
       type: select_one
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 4
-      name: score_1
-      label: score_1
-      hint: null
-      type: number
-      options: []
+      name: question_2
+      label: What is known for being the largest holiday celebration in the world?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Christmas
+      - New Year's Eve
+      - Easter Sunday
       required: false
     - id: 5
-      name: question_2
-      label: what_do_you_know
-      hint: null
+      name: answer_2
+      label: Answer 2
+      hint: Your answers are above
       type: select_multiple
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 6
-      name: answer_2
-      label: answer
+      name: question_3
+      label: Which holiday is celebrated in March?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
+      - St. Patrick's Day
+      - Easter
+      - April Fools' Day
       required: false
     - id: 7
-      name: score_2
-      label: score_2
+      name: question_4
+      label: What is the traditional color associated with St. Patrick's Day?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Green
+      - Red
+      - Blue
       required: false
     - id: 8
-      name: question_3
-      label: what_do_you_know_2
+      name: question_5
+      label: What is the primary reason for the 4th of July?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
+      - Independence Day
+      - Labor Day
+      - Summer Solstice
       required: false
     - id: 9
-      name: answer_3
-      label: answer
+      name: question_6
+      label: Which holiday is celebrated with trick-or-treating?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
+      - Halloween
+      - Thanksgiving
+      - Easter
       required: false
     - id: 10
-      name: question_4
-      label: what_do_you_know_3
+      name: question_7
+      label: What is the primary reason for Christmas?
+      hint: null
+      type: select_one
+      options:
+      - Gift-giving
+      - Family reunions
+      - Religious celebrations
+      required: false
+    - id: 11
+      name: question_8
+      label: Which of the following holidays is not a typical New Year's Day activity?
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
-    - id: 11
-      name: answer_4
-      label: answer
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
+      - Counting down to the new year
+      - Watching the Super Bowl
+      - Watching fireworks
       required: false
     - id: 12
       name: submit
-      label: submit
+      label: Submit
       hint: null
       type: text
       options: []
       required: false
     - id: 13
       name: note
-      label: note
+      label: Note
       hint: null
       type: note
       options: []
       required: false
     - id: 14
       name: name
-      label: name
+      label: Name
       hint: null
       type: text
       options: []
       required: false
     - id: 15
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
       required: false
     - id: 16
       name: phone
-      label: phone
+      label: Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 17
-      name: question_5
-      label: question_5
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
-    - id: 18
-      name: answer_5
-      label: answer_5
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
-    - id: 19
-      name: question_6
-      label: question_6
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
-    - id: 20
-      name: answer_6
-      label: answer_6
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
-    - id: 21
-      name: question_7
-      label: question_7
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
-    - id: 22
-      name: answer_7
-      label: answer_7
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
-    - id: 23
-      name: question_8
-      label: question_8
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
-    - id: 24
-      name: answer_8
-      label: answer_8
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
-    - id: 25
-      name: question_9
-      label: question_9
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
       required: false

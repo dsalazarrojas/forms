@@ -5,218 +5,147 @@ inputSchema:
     pages:
     - id: 1
       name: intro
-      label: intro
-      hint: null
+      label: Intro
+      hint: This is the beginning of the Safety Hazard Identification Quiz.
       type: note
       options: []
       required: false
     - id: 2
-      name: safety_hazard_questions
-      label: safety_hazard_questions
-      hint: null
+      name: question_one
+      label: Safety Hazard Recognition
+      hint: How do you recognize safety hazards in the workplace?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_two
+      label: Reporting Frequency
+      hint: How often do you report safety hazards?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 3
-      name: hazard_recognition
-      label: hazard_recognition
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 4
-      name: protocols
-      label: protocols
-      hint: null
+      name: question_three
+      label: Reporting Channels
+      hint: What channels do you use to report safety hazards?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: reporting
-      label: reporting
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 6
-      name: training
-      label: training
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+    - id: 5
+      name: question_four
+      label: Near-Miss Hazards
+      hint: How do you identify near-miss hazards?
+      type: text
+      options: []
       required: false
-    - id: 7
-      name: safety_committee
-      label: safety_committee
-      hint: null
+    - id: 6
+      name: question_five
+      label: Protocols
+      hint: What protocols are in place for reporting safety hazards?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: question_six
+      label: Follow-up
+      hint: How do you follow up on reported safety hazards?
+      type: text
+      options: []
       required: false
     - id: 8
-      name: incident_reporting
-      label: incident_reporting
-      hint: null
+      name: question_seven
+      label: Question Seven
+      hint: What protocols are in place for follow-up actions?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
-      name: near_miss_hazards
-      label: near_miss_hazards
-      hint: null
+      name: question_eight
+      label: Question Eight
+      hint: How often do you follow up on reported safety hazards?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 10
-      name: hazard_prevention
-      label: hazard_prevention
-      hint: null
+      name: question_nine
+      label: Safety Committee
+      hint: What is your role in the safety committee?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: safety_measures
-      label: safety_measures
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: question_ten
+      label: Question Ten
+      hint: How do you prevent near-miss hazards?
+      type: text
+      options: []
       required: false
     - id: 12
-      name: follow_up
-      label: follow_up
-      hint: null
+      name: question_eleven
+      label: Question Eleven
+      hint: What protocols are in place for near-miss hazards?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
-      name: reporting_frequency
-      label: reporting_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
+      name: question_twelve
+      label: Question Twelve
+      hint: How do you follow up on reported safety hazards?
+      type: text
+      options: []
+      required: false
     - id: 14
-      name: safety_committee_roles
-      label: safety_committee_roles
-      hint: null
+      name: question_thirteen
+      label: Reporting
+      hint: How often do you report near-miss hazards?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
-      name: near_miss_hazards
-      label: near_miss_hazards
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: question_fourteen
+      label: Safety Measures
+      hint: What measures do you take to prevent safety hazards?
+      type: text
+      options: []
       required: false
     - id: 16
-      name: reporting_channels
-      label: reporting_channels
-      hint: null
+      name: question_fifteen
+      label: Question Fifteen
+      hint: What protocols are in place for reporting safety measures?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
-      name: hazard_prevention
-      label: hazard_prevention
-      hint: null
+      name: question_sixteen
+      label: Question Sixteen
+      hint: What channels do you use to report safety measures?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: near_miss
-      label: near_miss
-      hint: null
+      name: question_seventeen
+      label: Question Seventeen
+      hint: How do you follow up on reported safety measures?
       type: text
       options: []
-      required: false
-    - id: 20
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: reporting_frequency
-      label: reporting_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

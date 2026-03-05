@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Satisfied''}'
-      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 3, ''label'': ''Not Satisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
       required: false
     - id: 3
       name: easy_of_payment
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Credit Card''}'
-      - '{''id'': 2, ''label'': ''PayPal''}'
-      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 6
       name: issues
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not Encountered''}'
-      - '{''id'': 2, ''label'': ''Had to Contact''}'
-      - '{''id'': 3, ''label'': ''Unable to Complete''}'
+      - Not Encountered
+      - Had to Contact
+      - Unable to Complete
       required: false
     - id: 7
       name: comments
@@ -102,8 +102,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''other''}'
+      - chatjimmy
+      - other
       required: true
     - id: 14
       name: notes

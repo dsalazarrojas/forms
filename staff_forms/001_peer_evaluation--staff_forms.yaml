@@ -16,14 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''communication_effectiveness'', ''value'': ''Communication
-        Effectiveness''}'
-      - '{''id'': 2, ''label'': ''collaboration_and_teamwork'', ''value'': ''Collaboration
-        and Teamwork''}'
-      - '{''id'': 3, ''label'': ''problem_solving'', ''value'': ''Problem Solving''}'
-      - '{''id'': 4, ''label'': ''creativity'', ''value'': ''Creativity''}'
-      - '{''id'': 5, ''label'': ''innovation'', ''value'': ''Innovation''}'
-      - '{''id'': 6, ''label'': ''other'', ''value'': ''Other''}'
+      - communication effectiveness
+      - collaboration and teamwork
+      - problem solving
+      - creativity
+      - innovation
+      - other
       required: false
     - id: 3
       name: form_1_form_group_1
@@ -199,11 +197,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Highly'', ''value'': ''Highly''}'
-      - '{''id'': 2, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
-      - '{''id'': 3, ''label'': ''Not at all'', ''value'': ''Not at all''}'
-      - '{''id'': 4, ''label'': ''Neutral'', ''value'': ''Neutral''}'
-      - '{''id'': 5, ''label'': "Don''t know", ''value'': "Don''t know"}'
+      - Highly
+      - Somewhat
+      - Not at all
+      - Neutral
+      - Don't know
       required: false
     - id: 28
       name: submit
@@ -211,8 +209,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Reset''}'
+      - Submit
+      - Reset
       required: false
     - id: 29
       name: date_submitted

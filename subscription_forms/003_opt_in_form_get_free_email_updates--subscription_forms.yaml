@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 2
       name: mailing_lists
@@ -18,8 +18,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 3
       name: newsletter
@@ -27,160 +27,72 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: note
       label: Note
-      hint: null
+      hint: Please provide any additional comments or questions you have.
       type: note
       options: []
       required: false
     - id: 5
-      name: organization
-      label: Organization
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: email
       label: Email
       hint: null
       type: email
       options: []
       required: true
-    - id: 7
+    - id: 6
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
       required: false
+    - id: 7
+      name: organization
+      label: Organization
+      hint: If you are representing an organization, please provide the name of the
+        organization.
+      type: text
+      options: []
+      required: false
     - id: 8
-      name: assigned_tool
+      name: tool
       label: Assigned Tool
-      hint: null
+      hint: Please specify which tool is assigned to you for this project.
       type: text
       options: []
       required: false
     - id: 9
-      name: category
-      label: Category
-      hint: null
+      name: project_category
+      label: Project Category
+      hint: Please describe the category of your project.
       type: text
       options: []
       required: false
     - id: 10
-      name: description
-      label: Description
-      hint: null
+      name: project_description
+      label: Project Description
+      hint: Please provide a brief description of your project.
       type: text
       options: []
       required: false
     - id: 11
-      name: category
-      label: Category
-      hint: null
+      name: other_questions
+      label: Other Questions or Feedback
+      hint: Do you have any other questions or feedback for us?
       type: text
       options: []
       required: false
     - id: 12
-      name: description
-      label: Description
+      name: questions
+      label: Questions
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
       required: false

@@ -1,166 +1,129 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Marriage Awareness Survey
     pages:
-      - id: 1
-        name: section_demographic_info
-        label: -- Demographic Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_gender
-        label: Gender of Respondent
-        hint: Select one
-        type: select_one
-        options:
-          - label: Female
-            value: female
-          - label: Male
-            value: male
-          - label: Non-binary
-            value: nonbinary
-          - label: Prefer not to say
-            value: skip
-        required: true
-      - id: 3
-        name: respondent_age
-        label: Age Group
-        hint: Choose your current age bracket
-        type: select_one
-        options:
-          - label: Under 18
-            value: minor
-          - label: 18 to 24
-            value: 18_24
-          - label: 25 to 34
-            value: 25_34
-          - label: 35 to 44
-            value: 35_44
-          - label: 45 and Older
-            value: 45plus
-        required: true
-      - id: 4
-        name: section_awareness_questions
-        label: -- Awareness Questions --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: legal_age_awareness
-        label: Are you aware of the legal marriage age in your country?
-        hint: Legal minimum for marriage
-        type: select_one
-        options:
-          - label: Yes - I am aware
-            value: yes
-          - label: No - I am not aware
-            value: no
-        required: true
-      - id: 6
-        name: term_awareness
-        label: Have you heard of the term - child marriage?
-        hint: Knowledge of the terminology
-        type: select_one
-        options:
-          - label: Yes
-            value: yes
-          - label: No
-            value: no
-        required: true
-      - id: 7
-        name: section_attitudes_opinions
-        label: -- Attitudes and Opinions --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: ideal_marriage_age
-        label: In your opinion, what is the ideal age for marriage?
-        hint: Subjective opinion
-        type: select_one
-        options:
-          - label: 18 to 21
-            value: 18_21
-          - label: 22 to 25
-            value: 22_25
-          - label: 26 to 30
-            value: 26_30
-          - label: Over 30
-            value: 30plus
-        required: true
-      - id: 9
-        name: education_impact
-        label: Do you think child marriage impacts education?
-        hint: Correlation between marriage and schooling
-        type: select_one
-        options:
-          - label: Strongly Agree
-            value: strongly_agree
-          - label: Agree
-            value: agree
-          - label: Neutral
-            value: neutral
-          - label: Disagree
-            value: disagree
-        required: true
-      - id: 10
-        name: poverty_driver
-        label: Do you think poverty is a primary driver?
-        hint: Socioeconomic factors
-        type: select_one
-        options:
-          - label: Yes
-            value: yes
-          - label: No
-            value: no
-          - label: Unsure
-            value: unsure
-        required: true
-      - id: 11
-        name: section_community_action
-        label: -- Community Action --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: awareness_programs_local
-        label: Are there awareness programs in your community?
-        hint: Local initiatives or NGOs
-        type: select_one
-        options:
-          - label: Yes - Active Programs
-            value: yes
-          - label: No - None Observed
-            value: no
-        required: true
-      - id: 13
-        name: education_improvement_text
-        label: How can we better educate the public on this issue?
-        hint: Suggestions for outreach
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: survey_date
-        label: Today Date
-        hint: Date of response
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_demographic_info
+      label: -- Demographic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_gender
+      label: Gender of Respondent
+      hint: Select one
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 3
+      name: respondent_age
+      label: Age Group
+      hint: Choose your current age bracket
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 24
+      - 25 to 34
+      - 35 to 44
+      - 45 and Older
+      required: true
+    - id: 4
+      name: section_awareness_questions
+      label: -- Awareness Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: legal_age_awareness
+      label: Are you aware of the legal marriage age in your country?
+      hint: Legal minimum for marriage
+      type: select_one
+      options:
+      - Yes - I am aware
+      - No - I am not aware
+      required: true
+    - id: 6
+      name: term_awareness
+      label: Have you heard of the term - child marriage?
+      hint: Knowledge of the terminology
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: section_attitudes_opinions
+      label: -- Attitudes and Opinions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: ideal_marriage_age
+      label: In your opinion, what is the ideal age for marriage?
+      hint: Subjective opinion
+      type: select_one
+      options:
+      - 18 to 21
+      - 22 to 25
+      - 26 to 30
+      - Over 30
+      required: true
+    - id: 9
+      name: education_impact
+      label: Do you think child marriage impacts education?
+      hint: Correlation between marriage and schooling
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      required: true
+    - id: 10
+      name: poverty_driver
+      label: Do you think poverty is a primary driver?
+      hint: Socioeconomic factors
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 11
+      name: section_community_action
+      label: -- Community Action --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: awareness_programs_local
+      label: Are there awareness programs in your community?
+      hint: Local initiatives or NGOs
+      type: select_one
+      options:
+      - Yes - Active Programs
+      - No - None Observed
+      required: true
+    - id: 13
+      name: education_improvement_text
+      label: How can we better educate the public on this issue?
+      hint: Suggestions for outreach
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_date
+      label: Today Date
+      hint: Date of response
+      type: date
+      options: []
+      required: true

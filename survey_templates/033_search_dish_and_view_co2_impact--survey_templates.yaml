@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Raw''}'
-      - '{''label'': ''Cooked''}'
-      - '{''label'': ''Frozen''}'
+      - Raw
+      - Cooked
+      - Frozen
       required: false
     - id: 6
       name: co2_footprint
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Unknown''}'
+      - 'True'
+      - 'False'
+      - Unknown
       required: false
     - id: 12
       name: co2_impact
@@ -99,8 +99,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Individual''}'
-      - '{''label'': ''Food Business''}'
+      - Individual
+      - Food Business
       required: false
     - id: 14
       name: food_business_name
@@ -129,8 +129,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Default''}'
-      - '{''label'': ''Provided''}'
+      - Default
+      - Provided
       required: true
     - id: 18
       name: co2_impact_source_other
@@ -152,9 +152,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''metric''}'
-      - '{''label'': ''imperial''}'
-      - '{''label'': ''unitless''}'
+      - metric
+      - imperial
+      - unitless
       required: true
     - id: 21
       name: co2_footprint_value

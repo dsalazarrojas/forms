@@ -4,8 +4,8 @@ inputSchema:
     title: Lighting Control Preferences
     pages:
     - id: 1
-      name: lighting_control_preferences
-      label: What's your name
+      name: name
+      label: What is your name?
       hint: null
       type: text
       options: []
@@ -19,186 +19,59 @@ inputSchema:
       required: false
     - id: 3
       name: lighting_control_needs
-      label: What's your lighting control needs
+      label: What's your first lighting control needs?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 4
-      name: lighting_control_automation_preferences
-      label: What's your lighting control automation preferences
+      name: other_needs
+      label: Do you have any other lighting control needs?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: true
+      - 'True'
+      - 'False'
+      required: false
     - id: 5
+      name: automation_preferences
+      label: Do you prefer automation in your lighting control?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
       name: automation_method
-      label: What automation method
+      label: What automation method do you prefer?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: true
-    - id: 6
-      name: control_type
-      label: What control type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
+      - Other
+      required: false
     - id: 7
       name: priority
-      label: Priority
+      label: Do you have a priority level for your lighting control needs?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: true
+      - 'True'
+      - 'False'
+      required: false
     - id: 8
-      name: lighting_control_needs_2
-      label: What's your other lighting control needs
+      name: notes
+      label: Do you have any notes about your lighting control needs or preferences?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: contact_info_2
-      label: Contact info
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: automation_priority
-      label: Automation priority
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 11
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: lighting_control_needs_3
-      label: What's your other lighting control needs
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: automation_method_2
-      label: What automation method
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 14
-      name: control_type_2
-      label: What control type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 15
-      name: priority_2
-      label: Priority
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 16
       name: notes_2
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: contact_info_3
-      label: Contact info
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: lighting_control_needs_4
-      label: What's your other lighting control needs
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: automation_priority_2
-      label: Automation priority
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 20
-      name: notes_2
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: automation_method_3
-      label: What automation method
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: control_type_3
-      label: What control type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 23
-      name: priority_3
-      label: Priority
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 24
-      name: lighting_control_needs_5
-      label: What's your other lighting control needs
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: notes_3
       label: Notes
       hint: null
       type: note

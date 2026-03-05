@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Pre-K''}'
-      - '{''value'': 2, ''label'': ''Kindergarten''}'
-      - '{''value'': 3, ''label'': ''1st Grade''}'
-      - '{''value'': 4, ''label'': ''2nd Grade''}'
-      - '{''value'': 5, ''label'': ''3rd Grade''}'
+      - Pre-K
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
       required: true
     - id: 5
       name: student_email
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Card''}'
-      - '{''value'': 2, ''label'': ''Cash''}'
-      - '{''value'': 3, ''label'': ''Transfer''}'
+      - Card
+      - Cash
+      - Transfer
       required: false
     - id: 14
       name: payment_details
@@ -150,10 +150,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Dairy''}'
-      - '{''value'': 2, ''label'': ''Gluten''}'
-      - '{''value'': 3, ''label'': ''Veggie''}'
-      - '{''value'': 4, ''label'': ''None''}'
+      - Dairy
+      - Gluten
+      - Veggie
+      - None
       required: true
     - id: 21
       name: special_equipment
@@ -161,7 +161,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Wheel Chair''}'
-      - '{''value'': 2, ''label'': ''Walker''}'
-      - '{''value'': 3, ''label'': ''Other''}'
+      - Wheel Chair
+      - Walker
+      - Other
       required: true

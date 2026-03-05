@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Chat Jimmy'', ''label'': ''Chat Jimmy''}'
-      - '{''id'': 2, ''name'': ''Chat Jane'', ''label'': ''Chat Jane''}'
-      - '{''id'': 3, ''name'': ''Chat Bob'', ''label'': ''Chat Bob''}'
+      - Chat Jimmy
+      - Chat Jane
+      - Chat Bob
       required: false
     - id: 10
       name: service_booked
@@ -77,6 +77,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false

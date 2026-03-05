@@ -15,238 +15,108 @@ inputSchema:
     title: Pituitary Adenoma Knowledge Quiz
     pages:
     - id: 1
-      name: introduction
-      label: introduction
-      hint: null
+      name: what_is_pituitary_adenoma
+      label: What is Pituitary Adenoma?
+      hint: Please describe Pituitary Adenoma.
       type: text
       options: []
       required: false
     - id: 2
-      name: question_1
-      label: what_is_pituitary_adenoma
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
+      name: common_symptoms
+      label: What are the common symptoms?
+      hint: Describe the common symptoms.
+      type: text
+      options: []
       required: true
     - id: 3
-      name: question_2
-      label: what_are_the_common_symptoms
-      hint: null
+      name: proper_treatment
+      label: What is the proper treatment?
+      hint: Describe the proper treatment.
       type: text
       options: []
       required: true
     - id: 4
-      name: question_3
-      label: what_is_the_proper_treatment
-      hint: null
-      type: select_multiple
+      name: see_a_doctor
+      label: When should you see a doctor?
+      hint: Indicate when to see a doctor.
+      type: select_one
       options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
+      - a
+      - b
+      - c
       required: true
     - id: 5
-      name: question_4
-      label: when_is_it_necessary_to_see_a_doctor
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
-      required: true
-    - id: 6
-      name: question_5
-      label: what_is_the_proper_follow_up
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
-      required: true
-    - id: 7
-      name: question_6
-      label: what_is_the_common_complication
-      hint: null
+      name: follow_up
+      label: What follow-up is required?
+      hint: Describe the follow-up.
       type: select_multiple
       options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
+      - a
+      - b
+      - c
+      required: true
+    - id: 6
+      name: common_complications
+      label: What is the common complication?
+      hint: Describe the complication.
+      type: select_multiple
+      options:
+      - a
+      - b
+      - c
+      required: true
+    - id: 7
+      name: education
+      label: What education is needed to manage Pituitary Adenoma?
+      hint: Describe the education.
+      type: text
+      options: []
       required: true
     - id: 8
-      name: question_7
-      label: what_is_the_education
-      hint: null
-      type: note
+      name: references
+      label: What are the references for Pituitary Adenoma?
+      hint: List the references.
+      type: text
       options: []
       required: true
     - id: 9
-      name: question_8
-      label: what_is_the_reference
-      hint: null
+      name: next_steps
+      label: What are the next steps after diagnosis?
+      hint: Describe the next steps.
       type: select_multiple
       options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
-      required: false
+      - a
+      - b
+      - c
+      required: true
     - id: 10
-      name: question_9
-      label: what_is_the_preventive_measure
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
+      name: additional_information
+      label: What is the additional information about Pituitary Adenoma?
+      hint: Describe the additional information.
+      type: note
+      options: []
       required: false
     - id: 11
-      name: question_10
-      label: what_is_the_next_steps
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
+      name: question_11
+      label: What are the common causes?
+      hint: Describe the common causes.
+      type: text
+      options: []
       required: false
     - id: 12
-      name: question_11
-      label: what_is_the_additional_information
-      hint: null
-      type: note
-      options: []
+      name: question_12
+      label: What is the proper management?
+      hint: Describe the proper management.
+      type: select_multiple
+      options:
+      - a
+      - b
+      - c
       required: false
     - id: 13
-      name: question_12
-      label: what_is_the_references
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
-      required: false
-    - id: 14
       name: question_13
-      label: what_is_the_next_steps
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
-      required: false
-    - id: 15
-      name: question_14
-      label: what_is_the_additional_information
-      hint: null
-      type: note
+      label: What are the common risk factors?
+      hint: Describe the common risk factors.
+      type: text
       options: []
-      required: false
-    - id: 16
-      name: question_15
-      label: what_is_the_references
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
-      required: false
-    - id: 17
-      name: question_16
-      label: what_is_the_next_steps
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
-      required: false
-    - id: 18
-      name: question_17
-      label: what_is_the_additional_information
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: question_18
-      label: what_is_the_references
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
-      required: false
-    - id: 20
-      name: question_19
-      label: what_is_the_next_steps
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
-      required: false
-    - id: 21
-      name: question_20
-      label: what_is_the_additional_information
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: question_21
-      label: what_is_the_references
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
-      required: false
-    - id: 23
-      name: question_22
-      label: what_is_the_next_steps
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
-      required: false
-    - id: 24
-      name: question_23
-      label: what_is_the_additional_information
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: question_24
-      label: what_is_the_references
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
-      required: false
-    - id: 26
-      name: question_25
-      label: what_is_the_next_steps
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''a''}'
-      - '{''label'': ''b''}'
-      - '{''label'': ''c''}'
       required: false

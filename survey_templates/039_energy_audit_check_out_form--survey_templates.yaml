@@ -4,98 +4,111 @@ inputSchema:
     title: Energy Audit Check Out Form
     pages:
     - id: 1
-      name: energy_audit_check_out_form_1
-      label: Energy usage
+      name: energy_usage_1
+      label: What time of day do you turn off the lights?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: energy_usage_2
+      label: Energy-efficient devices at home or office?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 2
-      name: energy_audit_check_out_form_2
-      label: Energy usage
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
     - id: 3
-      name: energy_audit_check_out_form_3
-      label: energy usage
+      name: lighting_type
+      label: Preferred lighting type
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - LED
+      - Incandescent
+      - Halogen
       required: false
     - id: 4
-      name: energy_audit_check_out_form_4
-      label: energy usage
+      name: electronic_usage
+      label: Hours spent on electronic devices per day
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 5
-      name: energy_audit_check_out_form_5
-      label: energy usage
+      name: commute_method
+      label: How do you commute?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 6
-      name: energy_audit_check_out_form_6
-      label: Energy usage
+      name: laundry_method
+      label: How often do you wash clothes?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
+      - Always use an energy-intensive washing machine
+      - Sometimes use an energy-intensive washing machine
+      - Rarely use an energy-intensive washing machine
+      - Always hand-wash or air-dry
       required: false
     - id: 7
-      name: energy_audit_check_out_form_7
-      label: Energy usage
+      name: thermostat_setting
+      label: Preferred thermostat temperature (winter)
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - "60-64\xB0F (15-18\xB0C)"
+      - "65-69\xB0F (18-21\xB0C)"
+      - "70-74\xB0F (21-23\xB0C)"
+      - "75-79\xB0F (24-26\xB0C)"
       required: false
     - id: 8
-      name: energy_audit_check_out_form_8
-      label: energy usage
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: energy_audit_check_out_form_9
-      label: Energy usage
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: energy_audit_check_out_form_10
-      label: energy usage
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: energy_audit_check_out_form_11
-      label: Energy usage
+      name: solar_panels
+      label: Solar panels or other renewable energy sources?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 12
-      name: energy_audit_check_out_form_12
-      label: energy usage
+    - id: 9
+      name: water_heater_usage
+      label: How often do you use a water heater during winter?
       hint: null
-      type: text
+      type: select_multiple
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 10
+      name: energy_efficient_appliances
+      label: Energy-efficient appliances?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: electricity_bill
+      label: Average electricity bill per month
+      hint: null
+      type: number
       options: []
+      required: false
+    - id: 12
+      name: renewable_energy_plans
+      label: Plans to switch to renewable energy sources?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false

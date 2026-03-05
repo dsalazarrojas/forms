@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''parent'', ''label'': "Parent''s Email"}'
-      - '{''id'': 2, ''name'': ''coach'', ''label'': ''Coach/Assistant Coach''}'
-      - '{''id'': 3, ''name'': ''organization'', ''label'': ''Organization''}'
+      - Parent's Email
+      - Coach/Assistant Coach
+      - Organization
       required: true
     - id: 3
       name: consent_to_share
@@ -45,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''parent'', ''label'': "Parent''s Email"}'
-      - '{''id'': 2, ''name'': ''coach'', ''label'': ''Coach/Assistant Coach''}'
-      - '{''id'': 3, ''name'': ''organization'', ''label'': ''Organization''}'
+      - Parent's Email
+      - Coach/Assistant Coach
+      - Organization
       required: true
     - id: 5
       name: consent_to_analytics
@@ -55,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''analytics'', ''label'': ''Analytics''}'
-      - '{''id'': 2, ''name'': ''non_analytics'', ''label'': ''Non-Analytics''}'
-      - '{''id'': 3, ''name'': ''staff'', ''label'': ''Staff''}'
+      - Analytics
+      - Non-Analytics
+      - Staff
       required: true
     - id: 6
       name: consent_to_social_media
@@ -65,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''facebook'', ''label'': ''Facebook''}'
-      - '{''id'': 2, ''name'': ''instagram'', ''label'': ''Instagram''}'
-      - '{''id'': 3, ''name'': ''twitter'', ''label'': ''Twitter''}'
+      - Facebook
+      - Instagram
+      - Twitter
       required: false
     - id: 7
       name: consent_to_video_storage
@@ -82,8 +71,8 @@ inputSchema:
       hint: How would you like to be contacted about the recorded video?
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''email'', ''label'': ''Email''}'
-      - '{''id'': 2, ''name'': ''phone'', ''label'': ''Phone''}'
+      - Email
+      - Phone
       required: true
     - id: 9
       name: emergency_contact
@@ -92,9 +81,9 @@ inputSchema:
         an accident or injury?
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''parent'', ''label'': ''Parent/Guardian''}'
-      - '{''id'': 2, ''name'': ''coach'', ''label'': ''Coach/Assistant Coach''}'
-      - '{''id'': 3, ''name'': ''staff'', ''label'': ''Staff''}'
+      - Parent/Guardian
+      - Coach/Assistant Coach
+      - Staff
       required: true
     - id: 10
       name: additional_comments
@@ -130,8 +119,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: video_file
@@ -146,8 +135,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: record_image
@@ -155,8 +144,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: record_audio_description

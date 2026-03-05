@@ -57,9 +57,9 @@ inputSchema:
       type: select_one
       options:
       - 1 (Very Late)
-      - 2
-      - 3
-      - 4
+      - '2'
+      - '3'
+      - '4'
       - 5 (On Time)
       required: true
     - id: 8
@@ -68,11 +68,11 @@ inputSchema:
       hint: Was the tech courteous?
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 9
       name: quality_work
@@ -80,11 +80,11 @@ inputSchema:
       hint: Was the job done right?
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 10
       name: cleanliness
@@ -92,11 +92,11 @@ inputSchema:
       hint: Was the work area left clean?
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 11
       name: issue_resolved
@@ -104,8 +104,8 @@ inputSchema:
       hint: Is the system working?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Partially
       required: true
     - id: 12

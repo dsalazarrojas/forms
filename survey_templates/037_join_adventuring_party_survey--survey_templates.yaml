@@ -5,40 +5,33 @@ inputSchema:
     pages:
     - id: 1
       name: player_details
-      label: Player Details
+      label: Player Information
       hint: null
       type: text
       options: []
       required: true
     - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: experience
+      label: Adventure Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
       name: party_preferences
       label: Party Preferences
       hint: null
       type: text
       options: []
       required: true
-    - id: 3
-      name: adventure_settings
-      label: Adventure Settings
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: submit
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: true
     - id: 5
-      name: experience
-      label: Experience
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 6
       name: adventure_type
       label: Adventure Type
       hint: null
@@ -47,7 +40,7 @@ inputSchema:
       - Adventure Story
       - Adventure Map
       required: true
-    - id: 7
+    - id: 6
       name: difficulty_level
       label: Difficulty Level
       hint: null
@@ -56,6 +49,13 @@ inputSchema:
       - Easy
       - Medium
       - Hard
+      required: true
+    - id: 7
+      name: party_size
+      label: Party Size
+      hint: null
+      type: number
+      options: []
       required: true
     - id: 8
       name: adventure_length
@@ -68,15 +68,6 @@ inputSchema:
       - Long
       required: true
     - id: 9
-      name: role
-      label: Role
-      hint: null
-      type: select_one
-      options:
-      - Leader
-      - Member
-      required: true
-    - id: 10
       name: character_class
       label: Character Class
       hint: null
@@ -85,38 +76,33 @@ inputSchema:
       - Wizard
       - Warrior
       - Rogue
-      required: false
-    - id: 11
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
       required: true
-    - id: 12
-      name: phone
-      label: Phone
+    - id: 10
+      name: role
+      label: Role in Party
+      hint: null
+      type: select_one
+      options:
+      - Leader
+      - Member
+      required: true
+    - id: 11
+      name: adventure_settings
+      label: Adventure Settings
       hint: null
       type: text
       options: []
       required: false
+    - id: 12
+      name: experience_2
+      label: Experience Points
+      hint: null
+      type: number
+      options: []
+      required: false
     - id: 13
-      name: experience
-      label: Experience
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: party_size
-      label: Party Size
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: adventure_length
-      label: Adventure Length
+      name: adventure_length_2
+      label: Adventure Length 2
       hint: null
       type: select_one
       options:
@@ -124,79 +110,10 @@ inputSchema:
       - Medium
       - Long
       required: false
-    - id: 16
-      name: adventure_type
-      label: Adventure Type
-      hint: null
-      type: select_one
-      options:
-      - Adventure Story
-      - Adventure Map
-      required: false
-    - id: 17
-      name: difficulty_level
-      label: Difficulty Level
-      hint: null
-      type: select_one
-      options:
-      - Easy
-      - Medium
-      - Hard
-      required: false
-    - id: 18
+    - id: 14
       name: player_name
       label: Player Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: character_class
-      label: Character Class
-      hint: null
-      type: select_one
-      options:
-      - Wizard
-      - Warrior
-      - Rogue
-      required: false
-    - id: 21
-      name: character_class
-      label: Character Class
-      hint: null
-      type: select_one
-      options:
-      - Wizard
-      - Warrior
-      - Rogue
-      required: false
-    - id: 22
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: experience
-      label: Experience
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: role
-      label: Role
-      hint: null
-      type: select_one
-      options:
-      - Leader
-      - Member
       required: false

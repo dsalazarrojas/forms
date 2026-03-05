@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Team A''}'
-      - '{''label'': ''Team B''}'
-      - '{''label'': ''Team C''}'
+      - Team A
+      - Team B
+      - Team C
       required: true
     - id: 5
       name: equipment_type
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Helmet''}'
-      - '{''label'': ''Cleats''}'
-      - '{''label'': ''Gloves''}'
-      - '{''label'': ''Other''}'
+      - Helmet
+      - Cleats
+      - Gloves
+      - Other
       required: true
     - id: 6
       name: equipment_id
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Assigned''}'
-      - '{''label'': ''Returned''}'
+      - Pending
+      - Assigned
+      - Returned
       required: true
     - id: 8
       name: assigned_to
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''chatjimmy''}'
-      - '{''label'': ''team_jimmy''}'
+      - chatjimmy
+      - team jimmy
       required: true
     - id: 9
       name: notes
@@ -98,7 +98,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 13
@@ -107,6 +107,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Sports Forms''}'
+      - Sports Forms
       - Other
       required: false

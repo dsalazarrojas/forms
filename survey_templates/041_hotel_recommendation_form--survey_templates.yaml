@@ -4,140 +4,126 @@ inputSchema:
     title: Hotel Recommendation Form
     pages:
     - id: 1
+      name: name
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
       name: travel_date
       label: Travel Date
-      hint: null
+      hint: mm/dd/yyyy
       type: date
       options: []
-      required: false
-    - id: 2
+      required: true
+    - id: 3
       name: budget
-      label: budget
-      hint: null
+      label: Budget
+      hint: Please enter your budget
       type: number
       options: []
-      required: false
-    - id: 3
+      required: true
+    - id: 4
       name: location
-      label: prophets_location
-      hint: null
+      label: Location
+      hint: Select all that apply
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 4
+      - City
+      - Country
+      - Region
+      required: true
+    - id: 5
       name: hotel_rating
-      label: hotel_rating
-      hint: null
+      label: Hotel Rating
+      hint: Select a rating
       type: select_one
       options:
-      - option4
-      - option5
-      - option6
-      required: false
-    - id: 5
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
+      required: true
+    - id: 6
+      name: travel_length
+      label: Travel Length
+      hint: Select a duration
+      type: select_one
+      options:
+      - 1-3 days
+      - 1-7 days
+      - More than 7 days
+      required: true
+    - id: 7
+      name: travel_agent
+      label: Travel Agent
+      hint: Are you a travel agent?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: preferred_hotel
+      label: Preferred Hotel
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Luxury
+      - Budget
+      - Boutique
+      required: true
+    - id: 9
+      name: travel_mode
+      label: Travel Mode
+      hint: How do you plan to travel?
+      type: select_one
+      options:
+      - Flight
+      - Train
+      - Car
+      required: true
+    - id: 10
+      name: prophets_length
+      label: Prophets Length
+      hint: Select a duration
+      type: select_one
+      options:
+      - 1-3 days
+      - 1-7 days
+      - More than 7 days
+      required: true
+    - id: 11
       name: prophets_location
       label: Prophets Location
       hint: null
       type: select_multiple
       options:
-      - option7
-      - option8
-      - option9
-      required: false
-    - id: 6
-      name: travel_length
-      label: travel_length
-      hint: null
-      type: select_one
-      options:
-      - option10
-      - option11
-      - option12
-      required: false
-    - id: 7
-      name: travel_agent
-      label: travel_agent
-      hint: null
-      type: select_one
-      options:
-      - option13
-      - option14
-      - option15
-      required: false
-    - id: 8
-      name: prophets_length
-      label: Prophets Length
-      hint: null
-      type: select_one
-      options:
-      - option16
-      - option17
-      - option18
-      required: false
-    - id: 9
-      name: preferred_hotel
-      label: preferred_hotel
-      hint: null
-      type: select_multiple
-      options:
-      - option19
-      - option20
-      - option21
-      required: false
-    - id: 10
-      name: travel_mode
-      label: travel_mode
-      hint: null
-      type: select_one
-      options:
-      - option22
-      - option23
-      - option24
-      required: false
-    - id: 11
-      name: travel_mode
-      label: travel_mode
-      hint: null
-      type: select_one
-      options:
-      - option25
-      - option26
-      - option27
+      - Beach
+      - Mountain
+      - City
       required: false
     - id: 12
-      name: budget
-      label: prophets_budget
-      hint: null
+      name: prophets_budget
+      label: Prophets Budget
+      hint: Please enter your budget
       type: number
       options: []
-      required: false
+      required: true
     - id: 13
-      name: travel_date
-      label: prophets_travel_date
-      hint: null
+      name: travel_date_2
+      label: Travel Date 2
+      hint: mm/dd/yyyy
       type: date
       options: []
-      required: false
+      required: true
     - id: 14
-      name: preferred_hotel
-      label: preferred_hotel
-      hint: null
+      name: preferred_hotel_2
+      label: Preferred Hotel 2
+      hint: Select all that apply
       type: select_multiple
       options:
-      - option28
-      - option29
-      - option30
-      required: false
-    - id: 15
-      name: travel_agent
-      label: travel_agent
-      hint: null
-      type: select_one
-      options:
-      - option31
-      - option32
-      - option33
-      required: false
+      - Luxury
+      - Budget
+      - Boutique
+      required: true

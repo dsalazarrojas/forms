@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''never''}'
-      - '{''value'': ''rarely''}'
-      - '{''value'': ''occasionally''}'
-      - '{''value'': ''regularly''}'
-      - '{''value'': ''very_often''}'
+      - never
+      - rarely
+      - occasionally
+      - regularly
+      - very often
       required: false
     - id: 5
       name: donation_amount
@@ -49,10 +49,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''mail''}'
-      - '{''value'': ''none''}'
+      - email
+      - phone
+      - mail
+      - none
       required: false
     - id: 7
       name: volunteer
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: preferred_language
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''English''}'
-      - '{''value'': ''Spanish''}'
-      - '{''value'': ''Other''}'
+      - English
+      - Spanish
+      - Other
       required: false
     - id: 9
       name: preferred_time

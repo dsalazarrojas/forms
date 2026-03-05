@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Sponsor''}'
-      - '{''id'': 2, ''value'': ''Partner''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - Sponsor
+      - Partner
+      - Other
       required: false
     - id: 4
       name: email
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Individual''}'
-      - '{''id'': 2, ''value'': ''Organization''}'
-      - '{''id'': 3, ''value'': ''Both''}'
+      - Individual
+      - Organization
+      - Both
       required: false
     - id: 8
       name: amount
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''USD''}'
-      - '{''id'': 2, ''value'': ''EUR''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - USD
+      - EUR
+      - Other
       required: false
     - id: 10
       name: event_date
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Monetary Support''}'
-      - '{''id'': 2, ''value'': ''Product/Service''}'
-      - '{''id'': 3, ''value'': ''Both''}'
+      - Monetary Support
+      - Product/Service
+      - Both
       required: false
     - id: 15
       name: payment_terms
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''One-time payment''}'
-      - '{''id'': 2, ''value'': ''Ongoing payment''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - One-time payment
+      - Ongoing payment
+      - Other
       required: false
     - id: 16
       name: terms_and_conditions
@@ -143,8 +143,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''John Doe''}'
-      - '{''id'': 2, ''value'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 19
       name: assigned_by
@@ -152,6 +152,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''John Doe''}'
-      - '{''id'': 2, ''value'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: false

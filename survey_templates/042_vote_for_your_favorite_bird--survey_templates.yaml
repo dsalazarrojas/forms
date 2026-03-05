@@ -39,10 +39,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Phone'', ''label'': ''Phone''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Mail''}'
-      - '{''value'': ''In Person''}'
+      - Phone
+      - Email
+      - Mail
+      - In Person
       required: true
     - id: 6
       name: preferred_contact_method_other
@@ -60,7 +60,7 @@ inputSchema:
       required: false
     - id: 8
       name: time_of_day_other
-      label: Other (if above)
+      label: Time Of Day Other
       hint: null
       type: text
       options: []
@@ -88,7 +88,7 @@ inputSchema:
       required: false
     - id: 12
       name: favorite_bird_other
-      label: Other (if above)
+      label: Favorite Bird Other
       hint: null
       type: text
       options: []
@@ -99,15 +99,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Social Media'', ''label'': ''Social Media''}'
-      - '{''value'': ''Google'', ''label'': ''Google''}'
-      - '{''value'': ''Event'', ''label'': ''Event''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
-      - '{''value'': ''Word of Mouth'', ''label'': ''Word of Mouth''}'
+      - Social Media
+      - Google
+      - Event
+      - Other
+      - Word of Mouth
       required: false
     - id: 14
       name: how_did_you_hear_about_us_other
-      label: Other (if above)
+      label: How Did You Hear About Us Other
       hint: null
       type: text
       options: []
@@ -125,6 +125,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true

@@ -52,9 +52,9 @@ inputSchema:
       type: select_one
       options:
       - 1 (Poor)
-      - 2
-      - 3
-      - 4
+      - '2'
+      - '3'
+      - '4'
       - 5 (Excellent)
       required: true
     - id: 8
@@ -63,9 +63,9 @@ inputSchema:
       hint: Based on the interview details
       type: select_one
       options:
-      - true
+      - 'True'
       - Somewhat
-      - false
+      - 'False'
       required: true
     - id: 9
       name: interviewer_prep_rating
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Neutral
       required: true
     - id: 11
@@ -164,8 +164,8 @@ inputSchema:
       hint: Based on your experience as a candidate
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: submission_date_val

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''John Doe'', ''value'': ''John Doe''}'
-      - '{''label'': ''Jane Doe'', ''value'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: true
     - id: 3
       name: symptoms
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Fever'', ''value'': ''Fever''}'
-      - '{''label'': ''Cough'', ''value'': ''Cough''}'
-      - '{''label'': ''Runny nose'', ''value'': ''Runny nose''}'
+      - Fever
+      - Cough
+      - Runny nose
       required: false
     - id: 4
       name: travel_history
@@ -35,9 +35,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Recent travel within the last 14 days'', ''value'': ''Recent
-        travel within the last 14 days''}'
-      - '{''label'': ''None'', ''value'': ''None''}'
+      - Recent travel within the last 14 days
+      - None
       required: true
     - id: 5
       name: contact_info_2
@@ -66,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Office'', ''value'': ''Office''}'
-      - '{''label'': ''Home'', ''value'': ''Home''}'
+      - Office
+      - Home
       required: true
     - id: 9
       name: medical_history
@@ -89,11 +88,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Fever'', ''value'': ''Fever''}'
-      - '{''label'': ''Cough'', ''value'': ''Cough''}'
-      - '{''label'': ''Runny nose'', ''value'': ''Runny nose''}'
-      - '{''label'': ''Headache'', ''value'': ''Headache''}'
-      - '{''label'': ''Fatigue'', ''value'': ''Fatigue''}'
+      - Fever
+      - Cough
+      - Runny nose
+      - Headache
+      - Fatigue
       required: false
     - id: 12
       name: employee_id
@@ -108,11 +107,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Fever'', ''value'': ''Fever''}'
-      - '{''label'': ''Cough'', ''value'': ''Cough''}'
-      - '{''label'': ''Runny nose'', ''value'': ''Runny nose''}'
-      - '{''label'': ''Headache'', ''value'': ''Headache''}'
-      - '{''label'': ''Fatigue'', ''value'': ''Fatigue''}'
+      - Fever
+      - Cough
+      - Runny nose
+      - Headache
+      - Fatigue
       required: false
     - id: 14
       name: date_of_last_symptom
@@ -134,8 +133,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Office'', ''value'': ''Office''}'
-      - '{''label'': ''Home'', ''value'': ''Home''}'
+      - Office
+      - Home
       required: false
     - id: 17
       name: medical_history_2

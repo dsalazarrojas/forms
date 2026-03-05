@@ -5,126 +5,130 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: English Proficiency Assessment
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: listening
-      label: listening
+      label: What is your native language?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Native language
+      - Non-native language
+      - Other
+      required: true
     - id: 3
-      name: speaking
-      label: speaking
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 4
-      name: reading
-      label: reading
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: writing
-      label: writing
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: grammar
-      label: grammar
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: vocabulary
-      label: vocabulary
+      name: listening_skills
+      label: How would you rate your listening skills?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 4
+      name: speaking
+      label: What is your current level of speaking proficiency?
+      hint: null
+      type: select_one
+      options:
+      - Proficient
+      - Basic
+      - None
+      required: true
+    - id: 5
+      name: reading
+      label: Can you read and understand English texts with ease?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Somewhat
+      required: true
+    - id: 6
+      name: writing
+      label: What is your current level of writing proficiency?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 7
+      name: grammar
+      label: Can you understand and use correct English grammar?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Somewhat
+      required: true
     - id: 8
-      name: pronunciation
-      label: pronunciation
+      name: vocabulary
+      label: How would you rate your vocabulary?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
     - id: 9
-      name: comprehension
-      label: comprehension
+      name: pronunciation
+      label: How would you rate your pronunciation?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
     - id: 10
-      name: vocabulary_2
-      label: vocabulary
+      name: overall_proficiency
+      label: How would you rate your overall English language proficiency?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 11
+      name: areas_of_difficulty
+      label: Are there any areas where you struggle with the English language?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 11
-      name: reading_2
-      label: reading
-      hint: null
-      type: number
-      options: []
+      - Speaking
+      - Listening
+      - Reading
+      - Writing
+      - Grammar
+      - Pronunciation
+      - Vocabulary
       required: false
     - id: 12
-      name: writing_2
-      label: writing
+      name: additional_comments
+      label: Is there anything else you would like to add about your English language
+        proficiency?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: grammar_2
-      label: grammar
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: pronunciation_2
-      label: pronunciation
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 15
-      name: listening_2
-      label: listening
-      hint: null
-      type: select_one
-      options:
-      - ประก - option1 - option2 - option3
-      - Other
       required: false

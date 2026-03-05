@@ -1,207 +1,196 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Category and Taxonomy Term Order Request Form
     pages:
-      - id: 1
-        name: requester_name
-        label: Requester Name
-        hint: Your full name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: email
-        label: Email Address
-        hint: Your email address
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: department
-        label: Department
-        hint: Your department
-        type: select_one
-        options:
-          - Content
-          - Web Development
-          - IT
-          - Marketing
-          - SEO
-          - Other
-        required: true
-      - id: 4
-        name: request_date
-        label: Request Date
-        hint: Date of this request
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: priority
-        label: Priority Level
-        hint: How urgent is this request
-        type: select_one
-        options:
-          - Low
-          - Medium
-          - High
-          - Critical
-        required: true
-      - id: 6
-        name: taxonomy_type
-        label: Taxonomy Type
-        hint: Which taxonomy needs changes
-        type: select_one
-        options:
-          - Categories
-          - Tags
-          - Custom Taxonomy
-          - Navigation Menu
-          - Other
-        required: true
-      - id: 7
-        name: affected_section
-        label: Affected Website Section
-        hint: Which part of the site
-        type: select_one
-        options:
-          - Blog
-          - Products
-          - Services
-          - Resources
-          - Entire Site
-          - Other
-        required: true
-      - id: 8
-        name: current_order
-        label: Current Order
-        hint: List current term order
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: requested_order
-        label: Requested Order
-        hint: List desired term order
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: terms_to_add
-        label: Terms to Add
-        hint: New terms to create
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: terms_to_remove
-        label: Terms to Remove
-        hint: Terms to delete or hide
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: terms_to_rename
-        label: Terms to Rename
-        hint: Terms needing name changes
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: parent_child_changes
-        label: Parent-Child Relationship Changes
-        hint: Describe hierarchy changes
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: seo_impact
-        label: SEO Impact Assessment
-        hint: Have you considered SEO implications
-        type: select_one
-        options:
-          - Yes - Reviewed
-          - Yes - Minimal Impact
-          - No - Not Reviewed
-          - Not Applicable
-        required: true
-      - id: 15
-        name: redirect_needed
-        label: URL Redirects Needed
-        hint: Will old URLs need redirects
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Unsure
-        required: true
-      - id: 16
-        name: affected_urls
-        label: Affected URLs
-        hint: List URLs that will change
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: stakeholder_approval
-        label: Stakeholder Approval
-        hint: Have stakeholders approved this
-        type: select_one
-        options:
-          - Yes - Approved
-          - Pending Approval
-          - No - Not Yet
-        required: true
-      - id: 18
-        name: approver_name
-        label: Approver Name
-        hint: Who approved this change
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: implementation_deadline
-        label: Implementation Deadline
-        hint: When should this be done
-        type: date
-        options: []
-        required: false
-      - id: 20
-        name: testing_required
-        label: Testing Required
-        hint: Does this need testing before launch
-        type: select_one
-        options:
-          - Yes - Full Testing
-          - Yes - Basic Testing
-          - No
-        required: true
-      - id: 21
-        name: rollback_plan
-        label: Rollback Plan
-        hint: Can this be reverted if needed
-        type: select_one
-        options:
-          - Yes - Easy Rollback
-          - Yes - Complex Rollback
-          - No - Permanent Change
-        required: false
-      - id: 22
-        name: additional_notes
-        label: Additional Notes
-        hint: Any other relevant information
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Content
+      - Web Development
+      - IT
+      - Marketing
+      - SEO
+      - Other
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: priority
+      label: Priority Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 6
+      name: taxonomy_type
+      label: Taxonomy Type
+      hint: Which taxonomy needs changes
+      type: select_one
+      options:
+      - Categories
+      - Tags
+      - Custom Taxonomy
+      - Navigation Menu
+      - Other
+      required: true
+    - id: 7
+      name: affected_section
+      label: Affected Website Section
+      hint: Which part of the site
+      type: select_one
+      options:
+      - Blog
+      - Products
+      - Services
+      - Resources
+      - Entire Site
+      - Other
+      required: true
+    - id: 8
+      name: current_order
+      label: Current Order
+      hint: List current term order
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: requested_order
+      label: Requested Order
+      hint: List desired term order
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: terms_to_add
+      label: Terms to Add
+      hint: New terms to create
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: terms_to_remove
+      label: Terms to Remove
+      hint: Terms to delete or hide
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: terms_to_rename
+      label: Terms to Rename
+      hint: Terms needing name changes
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: parent_child_changes
+      label: Parent-Child Relationship Changes
+      hint: Describe hierarchy changes
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: seo_impact
+      label: SEO Impact Assessment
+      hint: Have you considered SEO implications
+      type: select_one
+      options:
+      - Yes - Reviewed
+      - Yes - Minimal Impact
+      - No - Not Reviewed
+      - Not Applicable
+      required: true
+    - id: 15
+      name: redirect_needed
+      label: URL Redirects Needed
+      hint: Will old URLs need redirects
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 16
+      name: affected_urls
+      label: Affected URLs
+      hint: List URLs that will change
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: stakeholder_approval
+      label: Stakeholder Approval
+      hint: Have stakeholders approved this
+      type: select_one
+      options:
+      - Yes - Approved
+      - Pending Approval
+      - No - Not Yet
+      required: true
+    - id: 18
+      name: approver_name
+      label: Approver Name
+      hint: Who approved this change
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: implementation_deadline
+      label: Implementation Deadline
+      hint: When should this be done
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: testing_required
+      label: Testing Required
+      hint: Does this need testing before launch
+      type: select_one
+      options:
+      - Yes - Full Testing
+      - Yes - Basic Testing
+      - 'False'
+      required: true
+    - id: 21
+      name: rollback_plan
+      label: Rollback Plan
+      hint: Can this be reverted if needed
+      type: select_one
+      options:
+      - Yes - Easy Rollback
+      - Yes - Complex Rollback
+      - No - Permanent Change
+      required: false
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Team Lead''}'
-      - '{''id'': 3, ''label'': ''Team Member''}'
+      - Manager
+      - Team Lead
+      - Team Member
       required: true
     - id: 7
       name: department
@@ -84,8 +84,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: date_completed

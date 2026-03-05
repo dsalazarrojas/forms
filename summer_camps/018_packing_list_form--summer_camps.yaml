@@ -4,182 +4,151 @@ inputSchema:
     title: Packing List Form
     pages:
     - id: 1
-      name: packing_list_form_page_1
-      label: Packing List
+      name: general_information
+      label: General Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: packing_list_form_page_2
-      label: Important Items
+      name: packing_clothing
+      label: What type of clothing do you want to pack?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: packing_list_form_page_2
-      label: Extra Items
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: packing_list_form_page_3
-      label: Important Items
+      name: medications
+      label: Do you have any medications that you need to pack?
       hint: null
       type: select_one
       options:
-      - Item 1
-      - Item 2
-      - Item 3
-      required: true
-    - id: 5
-      name: packing_list_form_page_3
-      label: Extra Items
-      hint: null
-      type: select_multiple
-      options:
-      - Item 1
-      - Item 2
-      - Item 3
+      - 'Yes'
+      - 'No'
       required: false
-    - id: 6
-      name: packing_list_form_page_5
-      label: Date
-      hint: Date should be in MM/DD/YYYY format
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: packing_list_form_page_5
-      label: Time
-      hint: Time should be 4 digits
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: packing_list_form_page_6
-      label: Phone
+    - id: 4
+      name: equipment
+      label: List any special equipment you need to bring?
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: packing_list_form_page_7
-      label: Email
+    - id: 5
+      name: camp_date
+      label: What is your camp date?
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: arrival_time
+      label: What time do you need to arrive at camp?
+      hint: HH -MM AM/PM
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: What is your email?
       hint: null
       type: email
       options: []
       required: false
-    - id: 10
-      name: packing_list_form_page_7
-      label: Note
+    - id: 9
+      name: medical_conditions
+      label: Do you have any medical conditions that we need to know about?
       hint: null
-      type: note
+      type: text
       options: []
       required: false
+    - id: 10
+      name: dietary_requirements
+      label: Do you have any dietary requirements?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
     - id: 11
-      name: packing_list_form_page_8
-      label: packing_list_form__page_8
+      name: additional_info
+      label: Is there anything else you want to tell us about yourself?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: packing_list_form_page_8
-      label: packing_list_form__page_8
+      name: questions_concerns
+      label: Do you have any questions or concerns about camp?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: packing_list_form_page_9
-      label: packing_list_form__page_9
+      name: transportation
+      label: Do you need any help with transportation?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 14
-      name: packing_list_form_page_9
-      label: packing_list_form__page_9
+      name: more_info
+      label: Do you have any other information you want to share?
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: packing_list_form_page_10
-      label: packing_list_form__page_10
+      name: child_info
+      label: Is there anything else you want to say about your child?
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: packing_list_form_page_11
-      label: packing_list_form__page_11
+      name: first_time_camper
+      label: Are you a first-time camper?
       hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 17
-      name: packing_list_form_page_12
-      label: packing_list_form__page_12
+      name: buddy_program
+      label: Do you want to join a buddy program?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 18
-      name: packing_list_form_page_13
-      label: packing_list_form__page_13
+      name: behavioral_comments
+      label: Do you have any comments or concerns about your child's behavior?
       hint: null
       type: text
       options: []
       required: false
     - id: 19
-      name: packing_list_form_page_14
-      label: packing_list_form__page_14
+      name: additional_forms
+      label: Do you need any additional forms or documentation?
       hint: null
       type: text
       options: []
       required: false
     - id: 20
-      name: packing_list_form_page_15
-      label: packing_list_form__page_15
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: packing_list_form_page_16
-      label: packing_list_form__page_16
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: packing_list_form_page_17
-      label: packing_list_form__page_17
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: packing_list_form_page_18
-      label: packing_list_form__page_18
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: packing_list_form_page_19
-      label: packing_list_form__page_19
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: packing_list_form_page_20
-      label: packing_list_form__page_20
+      name: final_comments
+      label: Is there anything else you want to tell us?
       hint: null
       type: text
       options: []

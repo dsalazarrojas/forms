@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''One''}'
-      - '{''id'': 2, ''label'': ''Two''}'
-      - '{''id'': 3, ''label'': ''Three or more''}'
+      - One
+      - Two
+      - Three or more
       required: false
     - id: 3
       name: age
@@ -33,11 +33,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
-      - '{''id'': 3, ''label'': ''Other (please specify)''}'
-      - '{''id'': 4, ''label'': ''Do not wish to answer''}'
-      - '{''id'': 5, ''label'': ''Prefer not to say''}'
+      - Male
+      - Female
+      - Other (please specify)
+      - Do not wish to answer
+      - Prefer not to say
       required: false
     - id: 5
       name: height
@@ -59,10 +59,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Feet and Inches''}'
-      - '{''id'': 2, ''label'': ''Centimeters''}'
-      - '{''id'': 3, ''label'': ''Other (please specify)''}'
-      - '{''id'': 4, ''label'': ''Not applicable''}'
+      - Feet and Inches
+      - Centimeters
+      - Other (please specify)
+      - Not applicable
       required: false
     - id: 8
       name: food_intake_frequency
@@ -70,10 +70,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Rarely''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
       required: false
     - id: 9
       name: food_intake_frequency_other
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Breakfast''}'
-      - '{''id'': 2, ''label'': ''Lunch''}'
-      - '{''id'': 3, ''label'': ''Dinner''}'
+      - Breakfast
+      - Lunch
+      - Dinner
       required: false
     - id: 11
       name: typical_meal_time
@@ -98,10 +98,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Early''}'
-      - '{''id'': 2, ''label'': ''Late''}'
-      - '{''id'': 3, ''label'': ''No set time''}'
-      - '{''id'': 4, ''label'': ''Other (please specify)''}'
+      - Early
+      - Late
+      - No set time
+      - Other (please specify)
       required: false
     - id: 12
       name: typical_meal_time_other
@@ -116,10 +116,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Late''}'
-      - '{''id'': 3, ''label'': ''No set time''}'
-      - '{''id'': 4, ''label'': ''Other (please specify)''}'
+      - Morning
+      - Late
+      - No set time
+      - Other (please specify)
       required: false
     - id: 14
       name: typical_breakfast_time_other
@@ -134,10 +134,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Early''}'
-      - '{''id'': 2, ''label'': ''Late''}'
-      - '{''id'': 3, ''label'': ''No set time''}'
-      - '{''id'': 4, ''label'': ''Other (please specify)''}'
+      - Early
+      - Late
+      - No set time
+      - Other (please specify)
       required: false
     - id: 16
       name: typical_dinner_time_other
@@ -152,9 +152,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Less than 3 times a day''}'
-      - '{''id'': 2, ''label'': ''3 or 4 times a day''}'
-      - '{''id'': 3, ''label'': ''More than 5 times a day''}'
+      - Less than 3 times a day
+      - 3 or 4 times a day
+      - More than 5 times a day
       required: false
     - id: 18
       name: meal_frequency_days_other
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 20
       name: meal_frequency_time_other
@@ -186,10 +186,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Between meals''}'
-      - '{''id'': 2, ''label'': ''Morning''}'
-      - '{''id'': 3, ''label'': ''Afternoon''}'
-      - '{''id'': 4, ''label'': ''Evening''}'
+      - Between meals
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 22
       name: typical_snack_time_other
@@ -204,9 +204,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''1-2 times a day''}'
-      - '{''id'': 2, ''label'': ''3-4 times a day''}'
-      - '{''id'': 3, ''label'': ''5 or more times a day''}'
+      - 1-2 times a day
+      - 3-4 times a day
+      - 5 or more times a day
       required: false
     - id: 24
       name: meal_frequency_other

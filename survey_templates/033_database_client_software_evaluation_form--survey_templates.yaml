@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''MySQL''}'
-      - '{''id'': 2, ''label'': ''PostgreSQL''}'
-      - '{''id'': 3, ''label'': ''Microsoft SQL Server''}'
-      - '{''id'': 4, ''label'': ''Oracle''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - MySQL
+      - PostgreSQL
+      - Microsoft SQL Server
+      - Oracle
+      - Other
       required: false
     - id: 6
       name: database_version
@@ -77,10 +77,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Engineering''}'
-      - '{''id'': 2, ''label'': ''IT''}'
-      - '{''id'': 3, ''label'': ''Database Admin''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Engineering
+      - IT
+      - Database Admin
+      - Other
       required: false
     - id: 11
       name: recommendations

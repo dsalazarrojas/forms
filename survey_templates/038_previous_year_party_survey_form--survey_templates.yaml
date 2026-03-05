@@ -4,144 +4,108 @@ inputSchema:
     title: Previous Year Party Survey Form
     pages:
     - id: 1
-      name: previous_year_party
-      label: previous_year_party
+      name: party_theme
+      label: What was the party theme?
+      hint: null
+      type: select_one
+      options:
+      - Theme1
+      - Theme2
+      - Theme3
+      required: false
+    - id: 2
+      name: party_prophets
+      label: Who was a prophet at the party?
+      hint: null
+      type: select_one
+      options:
+      - Prophet1
+      - Prophet2
+      - Prophet3
+      required: false
+    - id: 3
+      name: party_attendees
+      label: How many people attended the party?
       hint: null
       type: number
       options: []
       required: false
-    - id: 2
-      name: party_prophets
-      label: party_prophets
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: party_theme
-      label: party_theme
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 4
       name: party_venue
-      label: party_venue
+      label: Where was the party held?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Venue1''}'
-      - Other
+      - Venue1
+      - Venue2
+      - Venue3
       required: false
     - id: 5
       name: party_food
-      label: party_food
+      label: What type of food was served?
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Food1''}'
-      - '{''label'': ''Food2''}'
-      - '{''label'': ''Food3''}'
+      - Food1
+      - Food2
+      - Food3
       required: false
     - id: 6
       name: party_dress
-      label: party_dress
+      label: What was the dress code for the party?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Dress1''}'
-      - '{''label'': ''Dress2''}'
-      - '{''label'': ''Dress3''}'
+      - Dress1
+      - Dress2
+      - Dress3
       required: false
     - id: 7
       name: party_entertainment
-      label: party_entertainment
+      label: What type of entertainment was provided?
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Entertainment1''}'
-      - '{''label'': ''Entertainment2''}'
-      - '{''label'': ''Entertainment3''}'
+      - Entertainment1
+      - Entertainment2
+      - Entertainment3
       required: false
     - id: 8
       name: party_cost
-      label: party_cost
+      label: How much did the party cost?
       hint: null
       type: number
       options: []
       required: false
     - id: 9
       name: party_comments
-      label: party_comments
+      label: Do you have any comments about the party?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
       name: party_planner_name
-      label: party_planner_name
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: party_prophets
-      label: party_prophets
+      name: party_prophets_2
+      label: Was there a prophet at the party?
       hint: null
-      type: select_one
+      type: checkbox
       options:
-      - '{''label'': ''Prophets1''}'
-      - '{''label'': ''Prophets2''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: party_planners
-      label: party_planners
+      name: party_prophets2
+      label: Was there a second prophet at the party?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: party_prophets
-      label: party_prophets
-      hint: null
-      type: select_one
+      type: checkbox
       options:
-      - '{''label'': ''Prophets1''}'
-      - '{''label'': ''Prophets2''}'
-      required: false
-    - id: 14
-      name: party_prophets
-      label: party_prophets
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: party_prophets
-      label: party_prophets
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: party_planners
-      label: party_planners
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: party_prophets
-      label: party_prophets
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false

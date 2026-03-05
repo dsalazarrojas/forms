@@ -23,13 +23,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Catcher''}'
-      - '{''id'': 2, ''label'': ''Pitcher''}'
-      - '{''id'': 3, ''label'': ''Shortstop''}'
-      - '{''id'': 4, ''label'': ''Second_base''}'
-      - '{''id'': 5, ''label'': ''Third_base''}'
-      - '{''id'': 6, ''label'': ''First_base''}'
-      - '{''id'': 7, ''label'': ''Outfielder''}'
+      - Catcher
+      - Pitcher
+      - Shortstop
+      - Second base
+      - Third base
+      - First base
+      - Outfielder
       required: true
     - id: 4
       name: guardian_contact
@@ -58,13 +58,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Pitcher''}'
-      - '{''id'': 2, ''label'': ''Catcher''}'
-      - '{''id'': 3, ''label'': ''Outfielder''}'
-      - '{''id'': 4, ''label'': ''Shortstop''}'
-      - '{''id'': 5, ''label'': ''First_base''}'
-      - '{''id'': 6, ''label'': ''Second_base''}'
-      - '{''id'': 7, ''label'': ''Third_base''}'
+      - Pitcher
+      - Catcher
+      - Outfielder
+      - Shortstop
+      - First base
+      - Second base
+      - Third base
       required: true
     - id: 8
       name: athlete_height

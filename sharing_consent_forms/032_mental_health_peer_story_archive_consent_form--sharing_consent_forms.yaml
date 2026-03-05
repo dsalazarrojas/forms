@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 4
       name: use_in_archive
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Yes, with name removed''}'
-      - '{''label'': ''Yes, with name''}'
-      - '{''label'': False}'
+      - Yes, with name removed
+      - Yes, with name
+      - 'False'
       required: false
     - id: 5
       name: share_with_peer_group
@@ -43,8 +43,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: share_with_organization
@@ -52,8 +52,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: share_with_public
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: archive_location
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Online''}'
-      - '{''label'': ''Offline''}'
-      - '{''label'': ''Both''}'
+      - Online
+      - Offline
+      - Both
       required: false
     - id: 10
       name: contact_name

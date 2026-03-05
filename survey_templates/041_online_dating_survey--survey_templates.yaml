@@ -4,210 +4,163 @@ inputSchema:
     title: Online Dating Survey
     pages:
     - id: 1
-      name: survey_background
-      label: dating_apps_usage
+      name: current_dating_app_usage
+      label: How often do you use dating apps?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Daily
+      required: true
     - id: 2
-      name: what_is_our_survey_about
-      label: None
+      name: why_survey
+      label: Why did you take this survey?
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: why_survey
-      label: None
+      name: best_dating_app_feature
+      label: What is the most important feature in a dating app?
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - Matching algorithm
+      - User interface
+      - Communication tools
+      - Safety and security
+      - Other
       required: false
     - id: 4
-      name: dating_app_preferences
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: best_dating_app_feature
-      label: None
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
       name: online_relationships
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: dating_app_preferences
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: single
-      label: None
+      label: Have you ever had an online relationship?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
+      required: true
+    - id: 5
+      name: single
+      label: Are you currently single?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: age
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: What is your gender?
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      required: true
+    - id: 8
+      name: education_level
+      label: What is your educational background?
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - College/University
+      - Postgraduate
+      - Other
       required: false
     - id: 9
-      name: how_old
-      label: None
+      name: income
+      label: What is your annual income?
       hint: null
       type: number
       options: []
-      required: true
-    - id: 10
-      name: age_range
-      label: None
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false
-    - id: 11
-      name: gender
-      label: None
+    - id: 10
+      name: current_city
+      label: What is your current city?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferred_city
+      label: Which city do you prefer for dating?
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 12
-      name: education_level
-      label: None
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: income
-      label: None
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: income_range
-      label: None
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: current_city
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: preferred_city
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
       name: device_used
-      label: None
+      label: Which device do you use for dating apps?
       hint: null
       type: select_multiple
+      options:
+      - Mobile phone
+      - Tablet
+      - Computer
+      - Other
+      required: false
+    - id: 13
+      name: access_method
+      label: How do you access dating apps?
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile data
+      - Wi-Fi
+      - Other
+      required: false
+    - id: 14
+      name: online_dating
+      label: Have you ever been in an online relationship?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: none
+      label: None
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: none_2
+      label: None 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: none_3
+      label: None 3
+      hint: null
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 18
-      name: access_method
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: online_dating
-      label: None
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: none
-      label: None
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: none
-      label: None
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: none
-      label: None
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: none
-      label: None
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: none
-      label: None
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: none
-      label: None
+      name: none_4
+      label: None 4
       hint: null
       type: select_one
       options:

@@ -1,85 +1,93 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: medical_physics_and_pharmacy_survey
     pages:
     - id: 1
-      name: medical_physics_and_pharmacy_survey_page_1
-      label: collaboration
+      name: introduction
+      label: background information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: medical_physics_and_pharmacy_survey_page_2
-      label: collaboration
+      name: current_position
+      label: current position
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: medical_physics_and_pharmacy_survey_page_3
-      label: key_topics
+      name: specific_areas_of_interest
+      label: specific areas of interest
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - anesthesia and critical care
+      - clinical trials
+      - pharmacology
+      - radiology
+      - research
       required: false
     - id: 4
-      name: medical_physics_and_pharmacy_survey_page_4
-      label: challenges
+      name: challenges_facing
+      label: challenges facing the field
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: medical_physics_and_pharmacy_survey_page_5
-      label: challenges
+      name: key_topics
+      label: key topics
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - pharmacology
+      - radiology
+      - research
+      - regulatory
+      - safety
+      - science
       required: false
     - id: 6
-      name: medical_physics_and_pharmacy_survey_page_6
-      label: key_topics
+      name: collaboration
+      label: collaboration
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - interdisciplinary
+      - interprofessional
+      - multidisciplinary
+      - university-industry partnership
       required: false
     - id: 7
-      name: medical_physics_and_pharmacy_survey_page_7
-      label: collaboration
+      name: recent_events
+      label: recent events
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: medical_physics_and_pharmacy_survey_page_8
-      label: collaboration
+      name: collaboration_state
+      label: state of collaboration
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - poor
+      - fair
+      - good
+      - excellent
       required: false
     - id: 9
-      name: medical_physics_and_pharmacy_survey_page_9
-      label: key_topics
+      name: future_vision
+      label: future vision
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: medical_physics_and_pharmacy_survey_page_10
-      label: challenges
+      name: suggestions
+      label: suggestions
       hint: null
       type: text
       options: []

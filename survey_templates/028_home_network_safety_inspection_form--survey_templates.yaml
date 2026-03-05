@@ -23,12 +23,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Router''}'
-      - '{''label'': ''Modem''}'
-      - '{''label'': ''Switch''}'
-      - '{''label'': ''Access Point''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''None''}'
+      - Router
+      - Modem
+      - Switch
+      - Access Point
+      - Other
+      - None
       required: false
     - id: 4
       name: firewall
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Other (please describe)''}'
+      - 'True'
+      - 'False'
+      - Other (please describe)
       required: false
     - id: 5
       name: network_connections
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Wired''}'
-      - '{''label'': ''Wireless''}'
-      - '{''label'': ''Both''}'
+      - Wired
+      - Wireless
+      - Both
       required: false
     - id: 6
       name: network_security

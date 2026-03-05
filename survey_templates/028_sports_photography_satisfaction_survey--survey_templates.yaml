@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 2
       name: professionalism
@@ -20,10 +20,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 3
       name: communication
@@ -31,10 +31,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 4
       name: delivery_time
@@ -42,10 +42,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Fast''}'
-      - '{''label'': ''Average''}'
-      - '{''label'': ''Slow''}'
-      - '{''label'': ''Very_Slow''}'
+      - Fast
+      - Average
+      - Slow
+      - Very Slow
       required: false
     - id: 5
       name: value_for_money
@@ -53,10 +53,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Overpriced''}'
-      - '{''label'': ''Priced_right''}'
-      - '{''label'': ''Underpriced''}'
-      - '{''label'': "Don''t_know"}'
+      - Overpriced
+      - Priced right
+      - Underpriced
+      - Don't know
       required: false
     - id: 6
       name: overall_satisfaction
@@ -64,11 +64,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Satisfied''}'
-      - '{''label'': ''Somewhat_Satisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat_Dissatisfied''}'
-      - '{''label'': ''Dissatisfied''}'
+      - Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Dissatisfied
       required: false
     - id: 7
       name: comments
@@ -104,9 +104,9 @@ inputSchema:
       hint: Please provide the date and time of your photo shoot.
       type: select_multiple
       options:
-      - '{''label'': ''AM''}'
-      - '{''label'': ''PM''}'
-      - '{''label'': ''Both''}'
+      - AM
+      - PM
+      - Both
       required: false
     - id: 12
       name: photo_shoot_date
@@ -135,9 +135,9 @@ inputSchema:
       hint: Please enter your photographer's name
       type: select_multiple
       options:
-      - '{''label'': ''Jim''}'
-      - '{''label'': ''Bob''}'
-      - '{''label'': ''Other''}'
+      - Jim
+      - Bob
+      - Other
       required: false
     - id: 16
       name: photo_shoot_type
@@ -145,10 +145,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Wedding''}'
-      - '{''label'': ''Event''}'
-      - '{''label'': ''Commercial''}'
-      - '{''label'': ''Other''}'
+      - Wedding
+      - Event
+      - Commercial
+      - Other
       required: false
     - id: 17
       name: number_of_photos
@@ -212,7 +212,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false

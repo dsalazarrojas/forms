@@ -1,247 +1,236 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Caregiver Survey
     pages:
-      - id: 1
-        name: respondent_information
-        label: -- Respondent Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_name
-        label: Your Name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: respondent_relationship
-        label: Your Relationship to the Care Recipient
-        hint: null
-        type: select_one
-        options:
-          - Family Member
-          - Friend
-          - Healthcare Provider
-          - Social Worker
-          - Other Professional
-        required: true
-      - id: 4
-        name: survey_date
-        label: Today's Date
-        hint: MM/DD/YYYY
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: caregiver_information
-        label: -- Caregiver Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: caregiver_full_name
-        label: Caregiver Full Name
-        hint: Enter the full name of the caregiver you are evaluating
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: care_duration
-        label: How long have you known this caregiver?
-        hint: null
-        type: select_one
-        options:
-          - Less than 1 month
-          - 1 to 3 months
-          - 3 to 6 months
-          - 6 months to 1 year
-          - More than 1 year
-        required: true
-      - id: 8
-        name: care_frequency
-        label: How frequently do you interact with this caregiver?
-        hint: null
-        type: select_one
-        options:
-          - Daily
-          - Several times per week
-          - Weekly
-          - Monthly
-          - Less frequently
-        required: true
-      - id: 9
-        name: compassion_assessment
-        label: -- Compassion and Attitude --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: treats_with_respect
-        label: The caregiver treats the care recipient with respect
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 11
-        name: shows_patience
-        label: The caregiver demonstrates patience and compassion
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 12
-        name: emotional_support
-        label: The caregiver provides emotional support when needed
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 13
-        name: listening_skills
-        label: The caregiver listens actively to concerns and preferences
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 14
-        name: competence_assessment
-        label: -- Professional Competence --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: skilled_tasks
-        label: The caregiver performs assigned tasks skillfully
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 16
-        name: punctuality_reliability
-        label: The caregiver is punctual and reliable
-        hint: null
-        type: select_one
-        options:
-          - Always
-          - Usually
-          - Sometimes
-          - Rarely
-          - Never
-        required: true
-      - id: 17
-        name: personal_hygiene
-        label: The caregiver maintains good personal hygiene and appearance
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 18
-        name: communication_skills
-        label: The caregiver communicates clearly and effectively
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 19
-        name: safety_practices
-        label: The caregiver follows safety protocols and best practices
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 20
-        name: overall_assessment
-        label: -- Overall Assessment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 21
-        name: overall_satisfaction
-        label: Overall satisfaction with this caregiver
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Satisfactory
-          - Fair
-          - Poor
-        required: true
-      - id: 22
-        name: would_recommend
-        label: Would you recommend this caregiver to others?
-        hint: null
-        type: select_one
-        options:
-          - Yes, highly
-          - Yes
-          - Neutral
-          - No
-          - No, would not recommend
-        required: true
-      - id: 23
-        name: additional_comments
-        label: Additional comments or suggestions for improvement
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: respondent_information
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_relationship
+      label: Your Relationship to the Care Recipient
+      hint: null
+      type: select_one
+      options:
+      - Family Member
+      - Friend
+      - Healthcare Provider
+      - Social Worker
+      - Other Professional
+      required: true
+    - id: 4
+      name: survey_date
+      label: Today's Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: caregiver_information
+      label: -- Caregiver Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: caregiver_full_name
+      label: Caregiver Full Name
+      hint: Enter the full name of the caregiver you are evaluating
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: care_duration
+      label: How long have you known this caregiver?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1 to 3 months
+      - 3 to 6 months
+      - 6 months to 1 year
+      - More than 1 year
+      required: true
+    - id: 8
+      name: care_frequency
+      label: How frequently do you interact with this caregiver?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - Monthly
+      - Less frequently
+      required: true
+    - id: 9
+      name: compassion_assessment
+      label: -- Compassion and Attitude --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: treats_with_respect
+      label: The caregiver treats the care recipient with respect
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 11
+      name: shows_patience
+      label: The caregiver demonstrates patience and compassion
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 12
+      name: emotional_support
+      label: The caregiver provides emotional support when needed
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 13
+      name: listening_skills
+      label: The caregiver listens actively to concerns and preferences
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 14
+      name: competence_assessment
+      label: -- Professional Competence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: skilled_tasks
+      label: The caregiver performs assigned tasks skillfully
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 16
+      name: punctuality_reliability
+      label: The caregiver is punctual and reliable
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 17
+      name: personal_hygiene
+      label: The caregiver maintains good personal hygiene and appearance
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 18
+      name: communication_skills
+      label: The caregiver communicates clearly and effectively
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 19
+      name: safety_practices
+      label: The caregiver follows safety protocols and best practices
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 20
+      name: overall_assessment
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: overall_satisfaction
+      label: Overall satisfaction with this caregiver
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 22
+      name: would_recommend
+      label: Would you recommend this caregiver to others?
+      hint: null
+      type: select_one
+      options:
+      - Yes, highly
+      - 'True'
+      - Neutral
+      - 'False'
+      - No, would not recommend
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional comments or suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''daily''}'
-      - '{''value'': ''several times a week''}'
-      - '{''value'': ''rarely''}'
-      - '{''value'': ''never''}'
+      - daily
+      - several times a week
+      - rarely
+      - never
       required: false
     - id: 2
       name: session_duration
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''messaging_app''}'
-      - '{''value'': ''video_call''}'
+      - email
+      - phone
+      - messaging app
+      - video call
       required: false
     - id: 4
       name: feedback
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''technical_issues''}'
-      - '{''value'': ''time_management''}'
-      - '{''value'': ''lack_of_access''}'
+      - technical issues
+      - time management
+      - lack of access
       required: false
     - id: 6
       name: effectiveness
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_effective''}'
-      - '{''value'': ''fairly_effective''}'
-      - '{''value'': ''neutral''}'
-      - '{''value'': ''not_effective''}'
-      - '{''value'': ''very_not_effective''}'
+      - very effective
+      - fairly effective
+      - neutral
+      - not effective
+      - very not effective
       required: false

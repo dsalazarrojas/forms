@@ -5,214 +5,153 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: covid_19_salon_services_consent_form
+      label: Covid 19 Salon Services Consent Form
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: contact_name
-      label: contact_name
+      label: Contact Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: phone_number
-      label: phone_number
+      label: Phone Number
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: email_address
-      label: email_address
+      label: Email Address
       hint: null
       type: email
       options: []
       required: false
     - id: 5
-      name: service_type
-      label: service_type
+      name: have_you_traveled_recently
+      label: Have you traveled recently?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
       required: false
     - id: 6
-      name: have_you_traveled_recently
-      label: have_you_traveled_recently
+      name: have_you_visited_a_high_risk_location
+      label: Have you visited a high-risk location?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
       required: true
     - id: 7
-      name: symptoms
-      label: symptoms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: have_you_visited_a_high_risk_location
-      label: have_you_visited_a_high_risk_location
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 9
       name: recent_travel_history
-      label: recent_travel_history
+      label: Recent Travel History
       hint: null
       type: date
       options: []
       required: false
-    - id: 10
-      name: contact_tracing_status
-      label: contact_tracing_status
+    - id: 8
+      name: have_you_been_in_close_contact
+      label: Have you been in close contact?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: have_you_been_tested
+      label: Have you been tested?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: last_test_result
+      label: Last Test Result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
       required: false
     - id: 11
-      name: have_you_been_in_close_contact
-      label: have_you_been_in_close_contact
+      name: have_you_been_in_contact_with_someone_sick
+      label: Have you been in contact with someone sick?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
       required: false
     - id: 12
-      name: have_you_been_tested
-      label: have_you_been_tested
+      name: have_you_been_in_contact_with_someone_with_covid
+      label: Have you been in contact with someone with COVID-19?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
       required: false
     - id: 13
-      name: last_test_result
-      label: last_test_result
+      name: have_you_been_in_close_contact_with_someone_with_symptoms
+      label: Have you been in close contact with someone with COVID-19 symptoms?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
       required: false
     - id: 14
-      name: have_you_visited_a_high_risk_location
-      label: have_you_visited_a_high_risk_location
+      name: have_you_been_in_contact_with_someone_with_covid_2
+      label: Have You Been In Contact With Someone With Covid 2
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
       required: false
     - id: 15
-      name: have_you_traveled_to
-      label: have_you_traveled_to
+      name: have_you_been_in_close_contact_with_someone_diagnosed_with_covid
+      label: Have you been in close contact with someone diagnosed with COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: have_you_been_in_contact_with_someone_diagnosed_with_covid
+      label: Have you been in contact with someone diagnosed with COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: service_type
+      label: Service Type
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      required: false
-    - id: 16
-      name: have_you_been_in_contact_with_anyone_sick
-      label: have_you_been_in_contact_with_anyone_sick
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 17
-      name: have_you_been_in_contact_with_someone_who_has_covid
-      label: have_you_been_in_contact_with_someone_who_has_covid
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
+      - Haircut
+      - Color
+      - Chemical Service
+      - Waxing
+      required: true
     - id: 18
-      name: have_you_been_in_contact_with_someone_with_covid
-      label: have_you_been_in_contact_with_someone_with_covid
+      name: recent_travel_history_2
+      label: Recent Travel History 2
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 19
-      name: have_you_been_in_contact_with_someone_diagnosed_with_covid
-      label: have_you_been_in_contact_with_someone_diagnosed_with_covid
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 20
-      name: have_you_been_in_contact_with_sick_contacts
-      label: have_you_been_in_contact_with_sick_contacts
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 21
-      name: have_you_been_in_contact_with_someone_with_covid_symptoms
-      label: have_you_been_in_contact_with_someone_with_covid_symptoms
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 22
-      name: have_you_been_in_contact_with_someone_with_symptoms
-      label: have_you_been_in_contact_with_someone_with_symptoms
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 23
-      name: have_you_been_in_close_contact_with_someone_with_symptoms
-      label: have_you_been_in_close_contact_with_someone_with_symptoms
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 24
-      name: have_you_been_in_contact_with_someone_diagnosed_with_covid
-      label: have_you_been_in_contact_with_someone_diagnosed_with_covid
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 25
-      name: have_you_been_in_contact_with_someone_with_covid_symptoms
-      label: have_you_been_in_contact_with_someone_with_covid_symptoms
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
+      type: date
+      options: []
       required: false

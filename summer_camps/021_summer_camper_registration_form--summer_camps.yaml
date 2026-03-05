@@ -100,8 +100,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': ''Yes''}'
-      - '{''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: camper_medical_notes
@@ -116,10 +116,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Allergies''}'
-      - '{''label'': ''Physical Disability''}'
-      - '{''label'': ''Chronic Illness''}'
-      - '{''label'': ''Other''}'
+      - Allergies
+      - Physical Disability
+      - Chronic Illness
+      - Other
       required: false
     - id: 17
       name: camper_food_restrictions
@@ -127,10 +127,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Vegetarian''}'
-      - '{''label'': ''Vegan''}'
-      - '{''label'': ''No Preference''}'
+      - None
+      - Vegetarian
+      - Vegan
+      - No Preference
       required: false
     - id: 18
       name: camper_language
@@ -138,8 +138,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''Espagnol''}'
+      - English
+      - Espagnol
       required: false
     - id: 19
       name: camper_english_level
@@ -147,10 +147,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Beginner''}'
-      - '{''label'': ''Intérmédiaire''}'
-      - '{''label'': ''Intérmédiaire-Expert''}'
-      - '{''label'': ''Expert''}'
+      - Beginner
+      - Intérmédiaire
+      - Intérmédiaire-Expert
+      - Expert
       required: false
     - id: 20
       name: camper_camp_preferences
@@ -158,10 +158,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Water Sports''}'
-      - '{''label'': ''Arts and Crafts''}'
-      - '{''label'': ''Théatre et Performances''}'
-      - '{''label'': ''Autres''}'
+      - Water Sports
+      - Arts and Crafts
+      - Théatre et Performances
+      - Autres
       required: false
     - id: 21
       name: camper_additional_comments

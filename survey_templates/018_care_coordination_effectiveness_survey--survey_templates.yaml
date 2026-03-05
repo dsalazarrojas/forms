@@ -16,14 +16,10 @@ inputSchema:
       hint: Select the role that applies to you
       type: select_one
       options:
-      - label: Patient
-        value: patient
-      - label: Family Member/Caregiver
-        value: caregiver
-      - label: Healthcare Provider/Staff
-        value: provider
-      - label: Care Manager
-        value: care_manager
+      - Patient
+      - Family Member/Caregiver
+      - Healthcare Provider/Staff
+      - Care Manager
       required: true
     - id: 3
       name: facility_program_name
@@ -115,10 +111,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Yes, I am open to it
-        value: true
-      - label: No, please do not contact me
-        value: false
+      - Yes, I am open to it
+      - No, please do not contact me
       required: true
     - id: 16
       name: contact_email_for_followup

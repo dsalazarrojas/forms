@@ -4,182 +4,78 @@ inputSchema:
     title: ESG Impact Strategy Fellowship Application Form
     pages:
     - id: 1
-      name: name
-      label: name
+      name: contact_information
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: name
-      label: contact_email
+      name: references
+      label: References
       hint: null
-      type: email
+      type: text
       options: []
       required: true
     - id: 3
-      name: name
-      label: address
+      name: research_experience
+      label: Research Experience
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: name
-      label: date_of_birth
+      name: research_goals
+      label: Research Goals
       hint: null
-      type: date
+      type: text
       options: []
       required: true
     - id: 5
-      name: name
-      label: phone
+      name: motivation
+      label: Motivation
       hint: null
       type: text
       options: []
       required: true
     - id: 6
-      name: name
-      label: resume
+      name: availability_for_fellowship
+      label: Availability for Fellowship
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 7
-      name: name
-      label: portfolio
+      name: fellowship_availability
+      label: Fellowship Availability
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 8
-      name: name
-      label: references
+      name: time_commitment
+      label: Time Commitment
       hint: null
-      type: text
+      type: time
       options: []
       required: true
     - id: 9
-      name: name
-      label: research_experience
+      name: time_commitment_2
+      label: Time Commitment 2
       hint: null
-      type: text
+      type: time
       options: []
       required: true
     - id: 10
-      name: name
-      label: research_goals
+      name: final_application_information
+      label: Final Application Information
       hint: null
       type: text
-      options: []
-      required: true
-    - id: 11
-      name: name
-      label: motivation
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: name
-      label: name
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 13
-      name: name
-      label: name
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 14
-      name: name
-      label: name
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
-      required: false
-    - id: 15
-      name: name
-      label: name
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
-      required: false
-    - id: 16
-      name: name
-      label: name
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 17
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: name
-      label: name
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 19
-      name: name
-      label: name
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 20
-      name: name
-      label: name
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 21
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: name
-      label: name
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
-      required: false
-    - id: 23
-      name: name
-      label: name
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
-      required: false
-    - id: 24
-      name: name
-      label: name
-      hint: null
-      type: number
       options: []
       required: true

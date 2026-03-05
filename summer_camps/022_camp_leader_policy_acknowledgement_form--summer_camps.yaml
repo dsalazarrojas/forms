@@ -1,86 +1,79 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Camp Leader Policy Acknowledgement Form
     pages:
-      - id: 1
-        name: leader_name
-        label: Camp Leader Name
-        hint: Full name of the camp leader
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: email
-        label: Email Address
-        hint: For official communications and records
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: policy_review_date
-        label: Policy Review Date
-        hint: Date the policies were reviewed
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: policies_acknowledged
-        label: Policies Acknowledged
-        hint: List of key policies the leader acknowledges
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: training_completed
-        label: Training Completed
-        hint: Has required training been completed
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 6
-        name: signature
-        label: Electronic Signature
-        hint: Type your full name as signature
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: supervisor_name
-        label: Supervisor Name
-        hint: Name of supervisor verifying acknowledgement
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: acknowledgment_notes
-        label: Acknowledgment Notes
-        hint: Any additional notes or clarifications
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: effective_date
-        label: Effective Date
-        hint: Date the acknowledgement becomes effective
-        type: date
-        options: []
-        required: false
-      - id: 10
-        name: renewal_required
-        label: Renewal Required
-        hint: Whether renewal acknowledgement is required annually
-        type: select_one
-        options: [Yes, No]
-        required: false
+    - id: 1
+      name: leader_name
+      label: Camp Leader Name
+      hint: Full name of the camp leader
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For official communications and records
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: policy_review_date
+      label: Policy Review Date
+      hint: Date the policies were reviewed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: policies_acknowledged
+      label: Policies Acknowledged
+      hint: List of key policies the leader acknowledges
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: training_completed
+      label: Training Completed
+      hint: Has required training been completed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: signature
+      label: Electronic Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of supervisor verifying acknowledgement
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: acknowledgment_notes
+      label: Acknowledgment Notes
+      hint: Any additional notes or clarifications
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: effective_date
+      label: Effective Date
+      hint: Date the acknowledgement becomes effective
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: renewal_required
+      label: Renewal Required
+      hint: Whether renewal acknowledgement is required annually
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

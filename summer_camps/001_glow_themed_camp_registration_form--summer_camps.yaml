@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 31, ''name'': ''day_night'', ''label'': ''Day''}'
-      - '{''id'': 32, ''name'': ''evening'', ''label'': ''Evening''}'
-      - '{''id'': 33, ''name'': ''both'', ''label'': ''Both''}'
+      - Day
+      - Evening
+      - Both
       required: false
     - id: 4
       name: participant_preferences
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 41, ''name'': ''fun'', ''label'': ''Fun''}'
-      - '{''id'': 42, ''name'': ''social'', ''label'': ''Social''}'
-      - '{''id'': 43, ''name'': ''adventure'', ''label'': ''Adventure''}'
+      - Fun
+      - Social
+      - Adventure
       required: false
     - id: 5
       name: participant_notes

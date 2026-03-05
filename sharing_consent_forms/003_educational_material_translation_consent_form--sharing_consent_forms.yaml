@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 6
       name: notes
@@ -117,18 +117,18 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''Spanish''}'
-      - '{''label'': ''French''}'
-      - '{''label'': ''Chinese''}'
-      - '{''label'': ''Portuguese''}'
-      - '{''label'': ''Arabic''}'
-      - '{''label'': ''Russian''}'
-      - '{''label'': ''German''}'
-      - '{''label'': ''Korean''}'
-      - '{''label'': ''Japanese''}'
-      - '{''label'': ''Italian''}'
-      - '{''label'': ''Other''}'
+      - English
+      - Spanish
+      - French
+      - Chinese
+      - Portuguese
+      - Arabic
+      - Russian
+      - German
+      - Korean
+      - Japanese
+      - Italian
+      - Other
       required: true
     - id: 17
       name: translation_type
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Machine Translation''}'
-      - '{''label'': ''Human Translation''}'
-      - '{''label'': ''Both''}'
+      - Machine Translation
+      - Human Translation
+      - Both
       required: false
     - id: 18
       name: translation_notes

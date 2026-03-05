@@ -9,210 +9,47 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: Name
+      name: services
+      label: Services
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes, I am interested in the following services:'
+      - 'Yes, I am not interested in any of the following services:'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 3
-      name: email
-      label: Email
+      name: confirm
+      label: Confirm Subscription Request
       hint: null
-      type: email
-      options: []
+      type: select_one
+      options:
+      - Yes, I am ready to confirm my subscription request
+      - Yes, I am not ready to confirm my subscription request
       required: false
     - id: 4
-      name: phone
-      label: Phone
+      name: notes
+      label: Additional Notes
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 5
       name: company
-      label: Company
+      label: Company Name (if applicable)
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: services
-      label: Services
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: services
-      label: Services
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: confirm
-      label: Confirm
+      name: company_type
+      label: Business or Personal
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: confirm
-      label: Confirm
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - Business
+      - Personal
       required: false

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''this content was exactly what I was looking for'': None}'
-      - '{''label'': False, ''this content was not what I was looking for'': None}'
-      - '{''label'': ''Not sure''}'
+      - 'True'
+      - 'False'
+      - Not sure
       required: true
     - id: 5
       name: feedback_answer_2
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Not likely''}'
-      - '{''label'': ''Somewhat likely''}'
-      - '{''label'': ''Very likely''}'
-      - '{''label'': ''Extremely likely''}'
+      - Not likely
+      - Somewhat likely
+      - Very likely
+      - Extremely likely
       required: true
     - id: 7
       name: form_comments

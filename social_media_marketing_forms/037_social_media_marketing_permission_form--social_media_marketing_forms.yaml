@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''platforms'': ''Facebook''}'
-      - '{''platforms'': ''Instagram''}'
-      - '{''platforms'': ''Twitter''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 7
       name: image_rights
@@ -54,10 +54,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''options'': None, ''name'': ''image_rights_1'', ''value'': ''Facebook,
-        Instagram, Twitter''}'
-      - '{''options'': None, ''name'': ''image_rights_2'', ''value'': ''LinkedIn,
-        TikTok, YouTube''}'
+      - Facebook, Instagram, Twitter
+      - LinkedIn, TikTok, YouTube
       required: true
     - id: 8
       name: testimonial_rights
@@ -65,10 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': None, ''name'': ''testimonial_rights_1'', ''value'': ''Facebook,
-        Instagram, Twitter''}'
-      - '{''options'': None, ''name'': ''testimonial_rights_2'', ''value'': ''LinkedIn,
-        TikTok, YouTube''}'
+      - Facebook, Instagram, Twitter
+      - LinkedIn, TikTok, YouTube
       required: true
     - id: 9
       name: date_of_birth

@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 6
       name: additional_comments
@@ -128,9 +128,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Bad''}'
-      - '{''id'': 3, ''label'': ''Average''}'
+      - Good
+      - Bad
+      - Average
       required: false
     - id: 18
       name: assigned_tool
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''jennifers''}'
-      - '{''id'': 3, ''label'': ''johndoe''}'
+      - chatjimmy
+      - jennifers
+      - johndoe
       required: false
     - id: 19
       name: form_id

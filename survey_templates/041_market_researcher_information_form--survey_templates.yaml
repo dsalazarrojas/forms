@@ -5,76 +5,89 @@ inputSchema:
     pages:
     - id: 1
       name: form_id
-      label: Form Id
-      hint: null
+      label: Form ID
+      hint: Please enter your form ID
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
       name: category
       label: Category
-      hint: null
+      hint: Please select your category
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Marketing
+      - Research
+      - Analysis
+      - Strategy
       required: false
     - id: 3
       name: description
       label: Description
-      hint: null
+      hint: Please provide a brief description of yourself
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: output_file
-      label: Output File
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: description
-      label: Description
-      hint: null
-      type: text
+      name: years_of_experience
+      label: Years of Experience
+      hint: How many years have you been working as a market researcher?
+      type: number
       options: []
-      required: false
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Please enter your phone number
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
     - id: 8
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      name: years_of_service
+      label: Years of Service
+      hint: How many years have you been working as a market researcher?
+      type: number
+      options: []
       required: false
     - id: 9
-      name: output_file
-      label: Output File
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: availability
+      label: Availability
+      hint: What is your availability (e.g., 8am-5pm)?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: hourly_rate
+      label: Hourly Rate
+      hint: What is your hourly rate?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: file
+      label: File
+      hint: Please upload your file
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: Any additional comments or notes
+      type: note
+      options: []
       required: false

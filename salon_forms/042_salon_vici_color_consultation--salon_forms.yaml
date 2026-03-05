@@ -4,231 +4,262 @@ inputSchema:
     title: Salon Vici Color Consultation
     pages:
     - id: 1
-      name: salon_vici_color_consultation_form
-      label: salon_vici_color_consultation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: color_type
-      label: color_type
+      name: hair_color
+      label: What is your hair color?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 3
+      - blonde
+      - brunette
+      - redhead
+      - grey
+      - other
+      required: false
+    - id: 2
       name: hair_length
-      label: hair_length
+      label: How long is your hair?
       hint: null
       type: number
       options: []
       required: false
-    - id: 4
-      name: hair_color
-      label: hair_color
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 5
+    - id: 3
       name: hair_type
-      label: hair_type
+      label: What type of hair do you have?
+      hint: null
+      type: select_one
+      options:
+      - curly
+      - straight
+      - wavy
+      - fine
+      - coarse
+      required: false
+    - id: 4
+      name: hair_condition
+      label: What is the condition of your hair?
+      hint: null
+      type: select_one
+      options:
+      - healthy
+      - damaged
+      - dry
+      - oily
+      - frizzy
+      required: false
+    - id: 5
+      name: hair_texture
+      label: What is the texture of your hair?
+      hint: null
+      type: select_one
+      options:
+      - smooth
+      - rough
+      - silky
+      - coarse
+      - frizzy
+      required: false
+    - id: 6
+      name: notes
+      label: Do you have any notes about your hair?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: hair_color_2
+      label: What is your hair color (2nd question)?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 6
-      name: hair_condition
-      label: hair_condition
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 7
-      name: hair_texture
-      label: hair_texture
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
+      - blonde
+      - brunette
+      - redhead
+      - grey
+      - other
+      required: false
     - id: 8
       name: hair_length_2
-      label: hair_length
+      label: How long is your hair (2nd question)?
       hint: null
       type: number
       options: []
       required: false
     - id: 9
-      name: hair_color_2
-      label: hair_color
+      name: hair_type_2
+      label: What type of hair do you have (2nd question)?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - curly
+      - straight
+      - wavy
+      - fine
+      - coarse
       required: false
     - id: 10
-      name: hair_type_2
-      label: hair_type
+      name: hair_condition_2
+      label: What is the condition of your hair (2nd question)?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - healthy
+      - damaged
+      - dry
+      - oily
+      - frizzy
       required: false
     - id: 11
-      name: hair_condition_2
-      label: hair_condition
+      name: hair_texture_2
+      label: What is the texture of your hair (2nd question)?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - smooth
+      - rough
+      - silky
+      - coarse
+      - frizzy
       required: false
     - id: 12
-      name: hair_texture_2
-      label: hair_texture
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 13
-      name: notes
-      label: notes
+      name: notes_2
+      label: Do you have any notes about your hair (2nd question)?
       hint: null
       type: note
       options: []
       required: false
+    - id: 13
+      name: hair_color_3
+      label: What is your hair color (3rd question)?
+      hint: null
+      type: select_multiple
+      options:
+      - blonde
+      - brunette
+      - redhead
+      - grey
+      - other
+      required: false
     - id: 14
       name: hair_length_3
-      label: hair_length_3
+      label: How long is your hair (3rd question)?
       hint: null
       type: number
       options: []
       required: false
     - id: 15
       name: hair_type_3
-      label: hair_type_3
+      label: What type of hair do you have (3rd question)?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - curly
+      - straight
+      - wavy
+      - fine
+      - coarse
       required: false
     - id: 16
-      name: hair_color_3
-      label: hair_color_3
+      name: hair_condition_3
+      label: What is the condition of your hair (3rd question)?
+      hint: null
+      type: select_one
+      options:
+      - healthy
+      - damaged
+      - dry
+      - oily
+      - frizzy
+      required: false
+    - id: 17
+      name: hair_texture_3
+      label: What is the texture of your hair (3rd question)?
+      hint: null
+      type: select_one
+      options:
+      - smooth
+      - rough
+      - silky
+      - coarse
+      - frizzy
+      required: false
+    - id: 18
+      name: notes_3
+      label: Do you have any notes about your hair (3rd question)?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: hair_color_4
+      label: What is your hair color (4th question)?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - blonde
+      - brunette
+      - redhead
+      - grey
+      - other
       required: false
-    - id: 17
-      name: hair_condition_3
-      label: hair_condition_3
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 18
-      name: hair_texture_3
-      label: hair_texture_3
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 19
+    - id: 20
       name: hair_length_4
-      label: hair_length_4
+      label: How long is your hair (4th question)?
       hint: null
       type: number
       options: []
       required: false
-    - id: 20
+    - id: 21
       name: hair_type_4
-      label: hair_type_4
+      label: What type of hair do you have (4th question)?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: hair_color_4
-      label: hair_color_4
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
+      - curly
+      - straight
+      - wavy
+      - fine
+      - coarse
       required: false
     - id: 22
       name: hair_condition_4
-      label: hair_condition_4
+      label: What is the condition of your hair (4th question)?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - healthy
+      - damaged
+      - dry
+      - oily
+      - frizzy
       required: false
     - id: 23
       name: hair_texture_4
-      label: hair_texture_4
+      label: What is the texture of your hair (4th question)?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - smooth
+      - rough
+      - silky
+      - coarse
+      - frizzy
       required: false
     - id: 24
-      name: hair_length_5
-      label: hair_length_5
+      name: notes_4
+      label: Do you have any notes about your hair (4th question)?
       hint: null
-      type: number
+      type: note
       options: []
       required: false
     - id: 25
-      name: hair_type_5
-      label: hair_type_5
+      name: hair_color_5
+      label: What is your hair color (5th question)?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - blonde
+      - brunette
+      - redhead
+      - grey
+      - other
       required: false

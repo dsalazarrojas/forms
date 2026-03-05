@@ -15,192 +15,98 @@ inputSchema:
     title: Scholarship Workshop Feedback Form
     pages:
     - id: 1
-      name: scholarship_workshop_feedback_form
-      label: Scholarship Workshop Feedback Form
+      name: overall_satisfaction
+      label: Overall Satisfaction
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
+      - Very Bad
+      required: true
     - id: 2
-      name: name
-      label: Name
+      name: feedback
+      label: Feedback
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: email
-      label: Email
+      name: participant_info
+      label: Participant Info
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 4
-      name: feedback
-      label: Feedback
+      name: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: satisfaction
-      label: Satisfaction
-      hint: null
-      type: select_one
-      options:
-      - Very Good
-      - Good
-      - Neutral
-      - Bad
-      - Very Bad
-      required: false
-    - id: 6
       name: suggestions
       label: Suggestions
       hint: null
       type: text
       options: []
       required: false
+    - id: 6
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
     - id: 7
-      name: comments
-      label: Comments
+      name: note
+      label: Note
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: submit
-      label: Submit
+      name: repeat_participant_info
+      label: Repeat Participant Info
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 9
-      name: time
-      label: Time
+      name: more_feedback
+      label: More Feedback
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 10
-      name: note
-      label: Note
+      name: more_comments
+      label: More Comments
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 11
-      name: email
-      label: Email
+      name: more_suggestions
+      label: More Suggestions
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 12
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: feedback
-      label: Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: satisfaction
-      label: Satisfaction
-      hint: null
-      type: select_one
-      options:
-      - Very Good
-      - Good
-      - Neutral
-      - Bad
-      - Very Bad
-      required: false
-    - id: 15
-      name: suggestions
-      label: Suggestions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: submit
-      label: Submit
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: time
-      label: Time
+      name: submission_time_2
+      label: Submission Time 2
       hint: null
       type: time
       options: []
       required: false
-    - id: 19
-      name: note
-      label: Note
+    - id: 13
+      name: submission_date_2
+      label: Submission Date
       hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: feedback
-      label: Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: satisfaction
-      label: Satisfaction
-      hint: null
-      type: select_one
-      options:
-      - Very Good
-      - Good
-      - Neutral
-      - Bad
-      - Very Bad
-      required: false
-    - id: 24
-      name: suggestions
-      label: Suggestions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: comments
-      label: Comments
-      hint: null
-      type: text
+      type: date
       options: []
       required: false

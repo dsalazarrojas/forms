@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''In-progress''}'
-      - '{''value'': ''Completed''}'
-      - '{''value'': ''Pending''}'
+      - In-progress
+      - Completed
+      - Pending
       required: true
     - id: 3
       name: transaction_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Residential''}'
-      - '{''value'': ''Commercial''}'
-      - '{''value'': ''Other''}'
+      - Residential
+      - Commercial
+      - Other
       required: false
     - id: 4
       name: buyer_agent
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: follow_up_date
@@ -185,7 +185,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''User''}'
-      - '{''value'': ''System''}'
-      - '{''value'': ''Other''}'
+      - User
+      - System
+      - Other
       required: false

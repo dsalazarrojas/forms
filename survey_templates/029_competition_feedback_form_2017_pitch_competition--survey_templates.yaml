@@ -1,134 +1,123 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Competition Feedback Form 2017 PITCH COMPETITION
     pages:
-      - id: 1
-        name: pitch_feedback_header
-        label: -- 2017 Pitch Competition Evaluation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: pitcher_name_eval
-        label: Name of Pitcher / Startup Team
-        hint: Identify the team you are evaluating
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: pitch_criteria_section
-        label: -- Pitch Evaluation Criteria --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 4
-        name: problem_clarity_rating
-        label: Clarity of the Problem being Solved
-        hint: Does the team articulate a clear pain point?
-        type: select_one
-        options:
-          - Very Clear
-          - Clear
-          - Vague
-          - Not Defined
-        required: true
-      - id: 5
-        name: solution_viability_rating
-        label: Viability and Innovation of the Solution
-        hint: Is the solution practical and unique?
-        type: select_one
-        options:
-          - 1 - Not Viable
-          - 2
-          - 3
-          - 4
-          - 5 - Highly Viable
-        required: true
-      - id: 6
-        name: market_potential_rating
-        label: Market Size and Potential
-        hint: Scale of the business opportunity
-        type: select_one
-        options:
-          - Large Global Potential
-          - Moderate National Potential
-          - Local Niche Market
-          - Underspecified
-        required: true
-      - id: 7
-        name: team_confidence_rating
-        label: Confidence in Team's Ability to Execute
-        hint: Do they have the right skills and passion?
-        type: select_one
-        options:
-          - High Confidence
-          - Moderate Confidence
-          - Low Confidence
-        required: true
-      - id: 8
-        name: pitch_delivery_impact
-        label: Overall Pitch Delivery and Impact
-        hint: Quality of the presentation and slides
-        type: select_one
-        options:
-          - Professional / Inspiring
-          - Good / Clear
-          - Fair / Needs Work
-          - Poor / Unclear
-        required: true
-      - id: 9
-        name: memorable_pitch_element
-        label: What was the most memorable part of the pitch?
-        hint: Highlight or unique factor
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: pitch_improvement_feedback
-        label: Specific constructive feedback for the team
-        hint: How can they improve their pitch or business model?
-        type: text
-        options: []
-        required: true
-      - id: 11
-        name: investment_likelihood_pitch
-        label: Likelihood to Invest (Hypothetical)
-        hint: If you were an angel investor
-        type: select_one
-        options:
-          - Definitely Invest
-          - Would consider with more data
-          - Unlikely to invest
-        required: true
-      - id: 12
-        name: evaluator_role_type
-        label: Evaluator Role
-        hint: Select your role in the competition
-        type: select_one
-        options:
-          - Judge
-          - Fellow Competitor
-          - Audience Member
-          - Mentor
-        required: true
-      - id: 13
-        name: pitch_eval_date
-        label: Date
-        hint: Select today's date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: pitch_feedback_header
+      label: -- 2017 Pitch Competition Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pitcher_name_eval
+      label: Name of Pitcher / Startup Team
+      hint: Identify the team you are evaluating
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pitch_criteria_section
+      label: -- Pitch Evaluation Criteria --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: problem_clarity_rating
+      label: Clarity of the Problem being Solved
+      hint: Does the team articulate a clear pain point?
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Vague
+      - Not Defined
+      required: true
+    - id: 5
+      name: solution_viability_rating
+      label: Viability and Innovation of the Solution
+      hint: Is the solution practical and unique?
+      type: select_one
+      options:
+      - 1 - Not Viable
+      - '2'
+      - '3'
+      - '4'
+      - 5 - Highly Viable
+      required: true
+    - id: 6
+      name: market_potential_rating
+      label: Market Size and Potential
+      hint: Scale of the business opportunity
+      type: select_one
+      options:
+      - Large Global Potential
+      - Moderate National Potential
+      - Local Niche Market
+      - Underspecified
+      required: true
+    - id: 7
+      name: team_confidence_rating
+      label: Confidence in Team's Ability to Execute
+      hint: Do they have the right skills and passion?
+      type: select_one
+      options:
+      - High Confidence
+      - Moderate Confidence
+      - Low Confidence
+      required: true
+    - id: 8
+      name: pitch_delivery_impact
+      label: Overall Pitch Delivery and Impact
+      hint: Quality of the presentation and slides
+      type: select_one
+      options:
+      - Professional / Inspiring
+      - Good / Clear
+      - Fair / Needs Work
+      - Poor / Unclear
+      required: true
+    - id: 9
+      name: memorable_pitch_element
+      label: What was the most memorable part of the pitch?
+      hint: Highlight or unique factor
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pitch_improvement_feedback
+      label: Specific constructive feedback for the team
+      hint: How can they improve their pitch or business model?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: investment_likelihood_pitch
+      label: Likelihood to Invest (Hypothetical)
+      hint: If you were an angel investor
+      type: select_one
+      options:
+      - Definitely Invest
+      - Would consider with more data
+      - Unlikely to invest
+      required: true
+    - id: 12
+      name: evaluator_role_type
+      label: Evaluator Role
+      hint: Select your role in the competition
+      type: select_one
+      options:
+      - Judge
+      - Fellow Competitor
+      - Audience Member
+      - Mentor
+      required: true
+    - id: 13
+      name: pitch_eval_date
+      label: Date
+      hint: Select today's date
+      type: date
+      options: []
+      required: true

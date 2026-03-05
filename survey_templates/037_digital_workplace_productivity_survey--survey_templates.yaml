@@ -4,206 +4,143 @@ inputSchema:
     title: Digital Workplace Productivity Survey
     pages:
     - id: 1
-      name: introduction
-      label: introduction
+      name: page_1
+      label: Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: survey_category
-      label: what_do_you_do_at_work
+      name: page_2
+      label: Job Title
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 3
-      name: tool_usage
-      label: tool_usage
+      name: page_3
+      label: Collaboration Tool Usage
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 4
-      name: workflow_frequency
-      label: how_often_do_you_use
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: workflow_importance
-      label: how_important_is_it_to
+      name: page_4
+      label: How Important is Collaboration
       hint: null
       type: select_multiple
       options:
       - Very Important
       - Not Important
       required: false
+    - id: 5
+      name: page_5
+      label: Time Spent on Work
+      hint: null
+      type: number
+      options: []
+      required: false
     - id: 6
-      name: productivity_tools
-      label: what_are_some_of_the
+      name: page_6
+      label: Time Spent on Work Other
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: collaboration_frequency
-      label: how_often_do_you_collaborate
+      name: page_7
+      label: Communication
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Good
-      - Fair
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: collaboration_importance
-      label: how_important_is_collaboration
+      name: page_8
+      label: Time Spent outside Work
       hint: null
-      type: select_multiple
-      options:
-      - Very Important
-      - Not Important
+      type: number
+      options: []
       required: false
     - id: 9
-      name: time_management
-      label: time_management
+      name: page_9
+      label: Time Spent outside Work Other
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 10
-      name: communication
-      label: communication
+      name: page_10
+      label: Page 10
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: employee_satisfaction
-      label: overall_what_do_you_feel
+      name: page_11
+      label: What are some Areas for Improvement
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: workflow_improvement
-      label: what_are_some_areas
+      name: page_12
+      label: What tools are Recommended
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
-      name: tool_recommendation
-      label: what_are_some_tools
+      name: page_13
+      label: What Channels do you Use for Collaboration
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
-      name: collaboration_channels
-      label: what_channel
+      name: page_14
+      label: What Methods do you Use for Collaboration
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
-      name: communication_channels
-      label: what_channel
+      name: page_15
+      label: How Much Time do you Spend on Work Tasks
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 16
-      name: collaboration_methods
-      label: what_method
+      name: page_16
+      label: How Much Time do you Spend outside of Work
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 17
-      name: time_spent_collaborating
-      label: how_much_time
+      name: page_17
+      label: Other Channels for Communication
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 18
-      name: time_spent_collaborating_other
-      label: other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: time_spent_on_work
-      label: how_much_time
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: time_spent_on_work_other
-      label: other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: time_spent_communicating
-      label: how_much_time
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: time_spent_communicating_other
-      label: other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: time_spent_on_work_other
-      label: other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: time_spent_outside_work
-      label: how_much_time
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: time_spent_outside_work_other
-      label: other
+      name: page_18
+      label: Other Methods for Collaboration
       hint: null
       type: text
       options: []

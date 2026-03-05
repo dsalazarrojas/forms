@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Improve technique''}'
-      - '{''id'': 2, ''label'': ''Increase performance''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Improve technique
+      - Increase performance
+      - Both
       required: false
     - id: 4
       name: training_habits
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Several times a week''}'
-      - '{''id'': 3, ''label'': ''Rarely''}'
-      - '{''id'': 4, ''label'': ''Not at all''}'
+      - Daily
+      - Several times a week
+      - Rarely
+      - Not at all
       required: false
     - id: 5
       name: support_needs
@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Technical''}'
-      - '{''id'': 2, ''label'': ''Emotional''}'
-      - '{''id'': 3, ''label'': ''Financial''}'
-      - '{''id'': 4, ''label'': ''None''}'
+      - Technical
+      - Emotional
+      - Financial
+      - None
       required: false
     - id: 6
       name: discipline_frequency
@@ -55,10 +55,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Several times a week''}'
-      - '{''id'': 3, ''label'': ''Rarely''}'
-      - '{''id'': 4, ''label'': ''Not at all''}'
+      - Daily
+      - Several times a week
+      - Rarely
+      - Not at all
       required: false
     - id: 7
       name: performance_frequency
@@ -66,10 +66,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Frequently''}'
-      - '{''id'': 2, ''label'': ''Occasionally''}'
-      - '{''id'': 3, ''label'': ''Rarely''}'
-      - '{''id'': 4, ''label'': ''Never''}'
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
       required: false
     - id: 8
       name: note

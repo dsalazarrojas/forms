@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Spouse or Partner'', ''value'': ''spouse_or_partners''}'
-      - '{''id'': 2, ''label'': ''Parent'', ''value'': ''parent''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Spouse or Partner
+      - Parent
+      - Other
       required: false
     - id: 3
       name: emergency_contact_relationship
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male'', ''value'': ''male''}'
-      - '{''id'': 2, ''label'': ''Female'', ''value'': ''female''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 12
       name: personal_training_waiver_agreement
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
-      - '{''id'': 3, ''label'': ''Decline'', ''value'': ''decline''}'
+      - 'True'
+      - 'False'
+      - Decline
       required: false
     - id: 14
       name: personal_training_waiver_informed_consent
@@ -137,65 +137,62 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Alabama'', ''value'': ''alabama''}'
-      - '{''id'': 2, ''label'': ''Alaska'', ''value'': ''alaska''}'
-      - '{''id'': 3, ''label'': ''American Samoa'', ''value'': ''american_samoa''}'
-      - '{''id'': 4, ''label'': ''Arizona'', ''value'': ''arizona''}'
-      - '{''id'': 5, ''label'': ''Arkansas'', ''value'': ''arkansas''}'
-      - '{''id'': 6, ''label'': ''California'', ''value'': ''california''}'
-      - '{''id'': 7, ''label'': ''Colorado'', ''value'': ''colorado''}'
-      - '{''id'': 8, ''label'': ''Connecticut'', ''value'': ''connecticut''}'
-      - '{''id'': 9, ''label'': ''Delaware'', ''value'': ''delaware''}'
-      - '{''id'': 10, ''label'': ''District of Columbia'', ''value'': ''district_of_columbia''}'
-      - '{''id'': 11, ''label'': ''Florida'', ''value'': ''florida''}'
-      - '{''id'': 12, ''label'': ''Georgia'', ''value'': ''georgia''}'
-      - '{''id'': 13, ''label'': ''Guam'', ''value'': ''guam''}'
-      - '{''id'': 14, ''label'': ''Hawaii'', ''value'': ''hawaii''}'
-      - '{''id'': 15, ''label'': ''Idaho'', ''value'': ''idaho''}'
-      - '{''id'': 16, ''label'': ''Illinois'', ''value'': ''illinois''}'
-      - '{''id'': 17, ''label'': ''Indiana'', ''value'': ''indiana''}'
-      - '{''id'': 18, ''label'': ''Iowa'', ''value'': ''iowa''}'
-      - '{''id'': 19, ''label'': ''Kansas'', ''value'': ''kansas''}'
-      - '{''id'': 20, ''label'': ''Kentucky'', ''value'': ''kentucky''}'
-      - '{''id'': 21, ''label'': ''Louisiana'', ''value'': ''louisiana''}'
-      - '{''id'': 22, ''label'': ''Maine'', ''value'': ''maine''}'
-      - '{''id'': 23, ''label'': ''Maryland'', ''value'': ''maryland''}'
-      - '{''id'': 24, ''label'': ''Massachusetts'', ''value'': ''massachusetts''}'
-      - '{''id'': 25, ''label'': ''Michigan'', ''value'': ''michigan''}'
-      - '{''id'': 26, ''label'': ''Minnesota'', ''value'': ''minnesota''}'
-      - '{''id'': 27, ''label'': ''Mississippi'', ''value'': ''mississippi''}'
-      - '{''id'': 28, ''label'': ''Missouri'', ''value'': ''missouri''}'
-      - '{''id'': 29, ''label'': ''Montana'', ''value'': ''montana''}'
-      - '{''id'': 30, ''label'': ''Nebraska'', ''value'': ''nebraska''}'
-      - '{''id'': 31, ''label'': ''Nevada'', ''value'': ''nevada''}'
-      - '{''id'': 32, ''label'': ''New Hampshire'', ''value'': ''new_hampshire''}'
-      - '{''id'': 33, ''label'': ''New Jersey'', ''value'': ''new_jersey''}'
-      - '{''id'': 34, ''label'': ''New Mexico'', ''value'': ''new_mexico''}'
-      - '{''id'': 35, ''label'': ''New York'', ''value'': ''new_york''}'
-      - '{''id'': 36, ''label'': ''North Carolina'', ''value'': ''north_carolina''}'
-      - '{''id'': 37, ''label'': ''North Dakota'', ''value'': ''north_dakota''}'
-      - '{''id'': 38, ''label'': ''Ohio'', ''value'': ''ohio''}'
-      - '{''id'': 39, ''label'': ''Oklahoma'', ''value'': ''oklahoma''}'
-      - '{''id'': 40, ''label'': ''Oregon'', ''value'': ''oregon''}'
-      - '{''id'': 41, ''label'': ''Pennsylvania'', ''value'': ''pennsylvania''}'
-      - '{''id'': 42, ''label'': ''Puerto Rico'', ''value'': ''puerto_rico''}'
-      - '{''id'': 43, ''label'': ''Rhode Island'', ''value'': ''rhode_island''}'
-      - '{''id'': 44, ''label'': ''South Carolina'', ''value'': ''south_carolina''}'
-      - '{''id'': 45, ''label'': ''South Dakota'', ''value'': ''south_dakota''}'
-      - '{''id'': 46, ''label'': ''Tennessee'', ''value'': ''tennessee''}'
-      - '{''id'': 47, ''label'': ''Texas'', ''value'': ''texas''}'
-      - '{''id'': 48, ''label'': ''Utah'', ''value'': ''utah''}'
-      - '{''id'': 49, ''label'': ''Vermont'', ''value'': ''vermont''}'
-      - '{''id'': 50, ''label'': ''Virgin Islands'', ''value'': ''virgin_islands''}'
-      - '{''id'': 51, ''label'': ''Virginia'', ''value'': ''virginia''}'
-      - '{''id'': 52, ''label'': ''Washington'', ''value'': ''washington''}'
-      - '{''id'': 53, ''label'': ''West Virginia'', ''value'': ''west_virginia''}'
-      - '{''id'': 54, ''label'': ''Wisconsin'', ''value'': ''wisconsin''}'
-      - '{''id'': 55, ''label'': ''Wyoming'', ''value'': ''wyoming''}'
-      - '{''id'': 56, ''label'': ''District of Columbia'', ''value'': ''district_of_columbia''}'
-      - '{''id'': 57, ''label'': ''American Samoa'', ''value'': ''american_samoa''}'
-      - '{''id'': 58, ''label'': ''Guam'', ''value'': ''guam''}'
-      - '{''id'': 59, ''label'': ''Northern Mariana Islands'', ''value'': ''northern_mariana_islands''}'
+      - Alabama
+      - Alaska
+      - American Samoa
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - District of Columbia
+      - Florida
+      - Georgia
+      - Guam
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Puerto Rico
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virgin Islands
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      - Northern Mariana Islands
       required: false
     - id: 19
       name: signature

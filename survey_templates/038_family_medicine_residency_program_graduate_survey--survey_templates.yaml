@@ -19,7 +19,7 @@ inputSchema:
       required: false
     - id: 3
       name: education_rating
-      label: Education
+      label: Education Rating
       hint: null
       type: number
       options: []
@@ -36,15 +36,13 @@ inputSchema:
       required: false
     - id: 5
       name: clinical_exposure_rating
-      label: Clinical Exposure
+      label: Clinical Exposure Rating
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 6
       name: program_flexibility
@@ -58,15 +56,13 @@ inputSchema:
       required: false
     - id: 7
       name: program_flexibility_rating
-      label: Program Flexibility
+      label: Program Flexibility Rating
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 8
       name: education_fundamentals
@@ -108,7 +104,7 @@ inputSchema:
       options: []
       required: false
     - id: 13
-      name: program_rating
+      name: program_rating_2
       label: Program Rating
       hint: null
       type: number
@@ -136,8 +132,8 @@ inputSchema:
       options: []
       required: false
     - id: 17
-      name: education_rating
-      label: Education
+      name: education_rating_2
+      label: Education Rating 2
       hint: null
       type: number
       options: []
@@ -160,7 +156,7 @@ inputSchema:
       required: false
     - id: 20
       name: education
-      label: Education
+      label: Education (4)
       hint: null
       type: select_one
       options:

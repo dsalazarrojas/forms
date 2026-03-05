@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -20,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''very likely''}'
-      - '{''label'': ''somewhat likely''}'
-      - '{''label'': ''not very likely''}'
-      - '{''label'': ''not at all''}'
+      - very likely
+      - somewhat likely
+      - not very likely
+      - not at all
       required: false
     - id: 2
       name: donation_channel_survey_second_page
@@ -31,10 +20,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''very reliable''}'
-      - '{''label'': ''somewhat reliable''}'
-      - '{''label'': ''not reliable at all''}'
-      - '{''label'': ''not reliable''}'
+      - very reliable
+      - somewhat reliable
+      - not reliable at all
+      - not reliable
       required: false
     - id: 3
       name: donation_channel_survey_third_page
@@ -42,10 +31,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''very trustworthy''}'
-      - '{''label'': ''somewhat trustworthy''}'
-      - '{''label'': ''not trustworthy at all''}'
-      - '{''label'': ''not trustworthy''}'
+      - very trustworthy
+      - somewhat trustworthy
+      - not trustworthy at all
+      - not trustworthy
       required: false
     - id: 4
       name: submission

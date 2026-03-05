@@ -13,193 +13,187 @@ inputSchema:
     - id: 2
       name: joint_making_rules_assessment_form_questions_1
       label: What type of joint are you creating?
-      hint: What type of joint are you creating?
+      hint: null
       type: select_one
       options:
-      - butt_joints
-      - dowel_joints
-      - dado_joints
-      - edge_joints
-      - dado_joints
-      - other
-      required: false
+      - butt joints
+      - dowel joints
+      - dado joints
+      - edge joints
+      required: true
     - id: 3
       name: joint_making_rules_assessment_form_questions_2
       label: What type of joint is the question referring to?
-      hint: What type of joint is the question referring to?
+      hint: null
       type: select_one
       options:
-      - butt_joints
-      - dowel_joints
-      - dado_joints
-      - edge_joints
-      required: false
+      - butt joints
+      - dowel joints
+      - dado joints
+      - edge joints
+      required: true
     - id: 4
       name: joint_making_rules_assessment_form_questions_3
       label: Which joint is being referred to in this question?
-      hint: Which joint is being referred to in this question?
+      hint: null
       type: select_one
       options:
-      - butt_joints
-      - dowel_joints
-      - dado_joints
-      - edge_joints
-      required: false
+      - butt joints
+      - dowel joints
+      - dado joints
+      - edge joints
+      required: true
     - id: 5
       name: joint_making_rules_assessment_form_questions_4
       label: What is the confidence level of the selected joint?
-      hint: What is the confidence level of the selected joint?
+      hint: null
       type: select_multiple
       options:
       - High
       - Medium
       - Low
-      required: false
+      required: true
     - id: 6
       name: joint_making_rules_assessment_form_questions_5
       label: Why is the joint important?
-      hint: Why is the joint important?
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
       name: joint_making_rules_assessment_form_questions_6
       label: What type of joint is not important?
-      hint: What type of joint is not important?
+      hint: null
       type: select_multiple
       options:
-      - butt_joints
-      - dowel_joints
-      - dado_joints
-      - edge_joints
-      required: false
+      - butt joints
+      - dowel joints
+      - dado joints
+      - edge joints
+      required: true
     - id: 8
       name: joint_making_rules_assessment_form_questions_7
       label: Why is this joint not important?
-      hint: Why is this joint not important?
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
       name: joint_making_rules_assessment_form_questions_8
       label: Additional Comments
-      hint: Additional Comments
-      type: note
+      hint: null
+      type: text
       options: []
       required: false
     - id: 10
       name: joint_making_rules_assessment_form_questions_9
       label: Written Explanation
-      hint: Written Explanation
+      hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: joint_making_rules_assessment_form_questions_10
       label: Written Answer
-      hint: Written Answer
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
       name: joint_making_rules_assessment_form_questions_11
-      label: Joint Making Rules Assessment
+      label: What is the date of completion?
       hint: null
-      type: note
+      type: date
       options: []
       required: false
     - id: 13
       name: joint_making_rules_assessment_form_questions_12
-      label: None
+      label: What is the time of completion?
       hint: null
-      type: number
+      type: time
       options: []
       required: false
     - id: 14
       name: joint_making_rules_assessment_form_questions_13
-      label: None
+      label: What is the email address for contact information?
       hint: null
-      type: number
+      type: email
       options: []
       required: false
     - id: 15
       name: joint_making_rules_assessment_form_questions_14
-      label: None
+      label: What is the label for this page?
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 16
       name: joint_making_rules_assessment_form_questions_15
-      label: None
+      label: What is the number of joints being assessed?
       hint: null
-      type: time
+      type: number
       options: []
-      required: false
+      required: true
     - id: 17
       name: joint_making_rules_assessment_form_questions_16
-      label: None
+      label: What is the written answer for the joint assessment?
       hint: null
-      type: email
+      type: text
       options: []
-      required: false
+      required: true
     - id: 18
       name: joint_making_rules_assessment_form_questions_17
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: joint_making_rules_assessment_form_questions_18
-      label: None
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 20
-      name: joint_making_rules_assessment_form_questions_19
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 21
-      name: joint_making_rules_assessment_form_questions_20
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: joint_making_rules_assessment_form_questions_21
-      label: None
+      label: What is the date of the joint assessment?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 23
-      name: joint_making_rules_assessment_form_questions_22
-      label: None
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: joint_making_rules_assessment_form_questions_23
-      label: None
+      required: true
+    - id: 19
+      name: joint_making_rules_assessment_form_questions_18
+      label: What is the email address for the joint assessment?
       hint: null
       type: email
       options: []
-      required: false
-    - id: 25
-      name: joint_making_rules_assessment_form_questions_24
-      label: None
+      required: true
+    - id: 20
+      name: joint_making_rules_assessment_form_questions_19
+      label: What is the written explanation for the joint assessment?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: joint_making_rules_assessment_form_questions_20
+      label: What is the time of the joint assessment?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: joint_making_rules_assessment_form_questions_21
+      label: What is the text for the joint assessment?
       hint: null
       type: text
       options: []
       required: false
+    - id: 23
+      name: joint_making_rules_assessment_form_questions_23
+      label: Joint Making Rules Assessment Form Questions 23
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: joint_making_rules_assessment_form_questions_24
+      label: Joint Making Rules Assessment Form Questions 24
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: joint_making_rules_assessment_form_questions_25
+      label: Joint Making Rules Assessment Form Questions 25
+      hint: null
+      type: email
+      options: []
+      required: true

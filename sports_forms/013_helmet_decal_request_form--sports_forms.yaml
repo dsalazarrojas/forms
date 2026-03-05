@@ -16,182 +16,66 @@ inputSchema:
     pages:
     - id: 1
       name: team
-      label: team
-      hint: null
+      label: Team or School Affiliation
+      hint: Please enter your team or school name
       type: text
       options: []
       required: false
     - id: 2
-      name: school
-      label: school
-      hint: null
+      name: artwork
+      label: Artwork Description
+      hint: Describe the design or artwork you would like to have on your helmet decals
       type: text
       options: []
       required: false
     - id: 3
-      name: artwork
-      label: artwork
-      hint: null
-      type: text
-      options: []
+      name: size
+      label: Decal Size
+      hint: Select a size for your decal (e.g., small, medium, large)
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 4
-      name: size
-      label: size
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: color
-      label: color
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: quantity
-      label: quantity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: colors
-      label: colors
-      hint: null
+      label: Color(s) Choice
+      hint: Select the color(s) for your decal
       type: select_multiple
       options:
       - Black
       - White
       - Red
       required: false
-    - id: 8
+    - id: 5
       name: quantity
-      label: quantity
-      hint: null
-      type: text
+      label: Quantity
+      hint: How many decals would you like to order?
+      type: number
       options: []
-      required: false
-    - id: 9
-      name: artwork
-      label: artwork
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 6
       name: print_shop
-      label: print shop
-      hint: null
+      label: Print Shop
+      hint: Select your preferred print shop
       type: select_multiple
       options:
       - Local Print Shop
       - National Print Shop
       - Online Print Shop
       required: false
-    - id: 11
-      name: quantity
-      label: quantity
-      hint: null
+    - id: 7
+      name: artwork_2
+      label: Additional Artwork
+      hint: Would you like to add any additional artwork to your order?
       type: text
       options: []
       required: false
-    - id: 12
-      name: artwork
-      label: artwork
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: size
-      label: size
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: color
-      label: color
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: quantity
-      label: quantity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: artwork
-      label: artwork
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: quantity
-      label: quantity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: size
-      label: size
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: color
-      label: color
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: quantity
-      label: quantity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: artwork
-      label: artwork
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: size
-      label: size
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: color
-      label: color
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: quantity
-      label: quantity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
+    - id: 8
       name: notes
-      label: notes
-      hint: null
+      label: Notes
+      hint: Any additional notes or requirements for your order?
       type: note
       options: []
       required: false

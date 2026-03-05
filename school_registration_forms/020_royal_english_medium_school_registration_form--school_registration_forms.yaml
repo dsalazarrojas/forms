@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
+      - Male
+      - Female
       required: true
     - id: 9
       name: student_grade
@@ -81,9 +81,9 @@ inputSchema:
       hint: 'Enter your English medium preference: e.g. 1, 2, 3 etc.'
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''English Medium 1''}'
-      - '{''id'': 2, ''label'': ''English Medium 2''}'
-      - '{''id'': 3, ''label'': ''English Medium 3''}'
+      - English Medium 1
+      - English Medium 2
+      - English Medium 3
       required: false
     - id: 12
       name: parent_medium
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''English Medium 1''}'
-      - '{''id'': 2, ''label'': ''English Medium 2''}'
-      - '{''id'': 3, ''label'': ''English Medium 3''}'
+      - English Medium 1
+      - English Medium 2
+      - English Medium 3
       required: false
     - id: 13
       name: student_medium_other

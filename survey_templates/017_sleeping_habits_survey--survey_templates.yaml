@@ -5,37 +5,30 @@ inputSchema:
     pages:
     - id: 1
       name: sleeping_habits_survey_page_1
-      label: what_do_you_do_at_night
+      label: 1. What time do you typically go to sleep?
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 2
-      name: sleep_time
-      label: what_time_do_you_go_to_sleep
+      name: sleeping_habits_survey_page_2
+      label: 2. What time do you wake up?
       hint: null
-      type: number
+      type: time
       options: []
       required: false
     - id: 3
-      name: wake_time
-      label: what_time_do_you_wake_up
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: sleep_patterns
-      label: how_do_you_sleep
+      name: sleeping_habits_survey_page_3
+      label: 3. Do you have any sleep patterns?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 5
-      name: wake_up_patterns
-      label: how_do_you_wake_up
+    - id: 4
+      name: sleeping_habits_survey_page_4
+      label: 4. How do you wake up?
       hint: null
       type: select_multiple
       options:
@@ -44,23 +37,23 @@ inputSchema:
       - Night
       - Other
       required: false
+    - id: 5
+      name: sleeping_habits_survey_page_5
+      label: 5. How much time do you spend exercising per day?
+      hint: null
+      type: number
+      options: []
+      required: false
     - id: 6
-      name: exercise_time
-      label: how_much_time_do_you_spend_exercising
+      name: sleeping_habits_survey_page_6
+      label: 6. How much screen time do you spend per day?
       hint: null
       type: number
       options: []
       required: false
     - id: 7
-      name: screen_time
-      label: how_much_screen_time_do_you_spend
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: study_time
-      label: how_much_time_do_you_spend_studying
+      name: sleeping_habits_survey_page_7
+      label: 7. How much time do you spend studying per day?
       hint: null
       type: select_one
       options:
@@ -70,18 +63,18 @@ inputSchema:
       - 4-6 hours
       - More than 6 hours
       required: false
-    - id: 9
-      name: sleep_quality
-      label: what_is_the_quality_of_your_sleep
+    - id: 8
+      name: sleeping_habits_survey_page_8
+      label: 8. What is the quality of your sleep?
       hint: null
       type: select_multiple
       options:
       - Good
       - Poor
       required: false
-    - id: 10
-      name: sleep_frequency
-      label: how_ofently_do_you_sleep
+    - id: 9
+      name: sleeping_habits_survey_page_9
+      label: 9. How often do you sleep at night?
       hint: null
       type: select_one
       options:
@@ -92,41 +85,32 @@ inputSchema:
       - Less than 1 night
       - Never
       required: false
-    - id: 11
-      name: sleep_location
-      label: where_do_you_sleep
+    - id: 10
+      name: sleeping_habits_survey_page_10
+      label: 10. Where do you sleep?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
+    - id: 11
+      name: sleeping_habits_survey_page_11
+      label: 11. Have you been woken up by anything recently?
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 12
-      name: sleep_enviro
-      label: what_environment_do_you_sleep_in
+      name: sleeping_habits_survey_page_12
+      label: 12. What was it that woke you up?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: sleep_disturbance
-      label: have_you_been_woken_up_by_something
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: sleep_disturbance_source
-      label: what_woke_you_up
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: sleep_disturbance_frequency
-      label: how_ofentally_did_it_happen
+      name: sleeping_habits_survey_page_13
+      label: 13. How often do you get woken up by disturbances?
       hint: null
       type: select_one
       options:
@@ -136,16 +120,16 @@ inputSchema:
       - 5-10 times
       - More than 10 times
       required: false
-    - id: 16
-      name: sleep_disturbance_source_description
-      label: describe_the_event
+    - id: 14
+      name: sleeping_habits_survey_page_14
+      label: 14. Describe what happened.
       hint: null
       type: text
       options: []
       required: false
-    - id: 17
-      name: sleep_quality_source
-      label: what_was_the_impact_of_the_disturbance
+    - id: 15
+      name: sleeping_habits_survey_page_15
+      label: 15. What was the impact of the disturbance on your sleep?
       hint: null
       type: select_one
       options:
@@ -153,32 +137,25 @@ inputSchema:
       - Somewhat impactful
       - Very impactful
       required: false
-    - id: 18
-      name: sleep_disturbance_source_type
-      label: what_type_of_disturbance_was_it
+    - id: 16
+      name: sleeping_habits_survey_page_16
+      label: 16. What type of disturbance was it?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 19
-      name: sleep_disturbance_source_other
-      label: other
+    - id: 17
+      name: sleeping_habits_survey_page_17
+      label: 17. Describe other disturbances.
       hint: null
       type: text
       options: []
       required: false
-    - id: 20
-      name: sleep_disturbance_source_other_description
-      label: describe
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: sleep_disturbance_source_other_frequency
-      label: how_ofentally_did_it_happen
+    - id: 18
+      name: sleeping_habits_survey_page_18
+      label: 18. How often do other disturbances happen?
       hint: null
       type: select_one
       options:
@@ -187,32 +164,4 @@ inputSchema:
       - 2-5 times
       - 5-10 times
       - More than 10 times
-      required: false
-    - id: 22
-      name: sleep_disturbance_source_other_description_1
-      label: describe_what_happened
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: sleep_disturbance_source_other_description_2
-      label: describe_what_happened
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: sleep_disturbance_source_other_description_3
-      label: describe_what_happened
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: sleep_disturbance_source_other_description_4
-      label: describe_what_happened
-      hint: null
-      type: text
-      options: []
       required: false

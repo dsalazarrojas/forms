@@ -4,189 +4,85 @@ inputSchema:
     title: 'Toolbox Talk: Compliance Issues Participation Form'
     pages:
     - id: 1
-      name: tool_box_talk_compliance_issues_participation_form_questions
-      label: Questions
+      name: introduction
+      label: Introduction
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: tool_box_talk_compliance_issues_participation_form_name
-      label: Name
+      name: general_question_1
+      label: Nature of the Compliance Issue
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - New
+      - Ongoing
       required: true
     - id: 3
-      name: tool_box_talk_compliance_issues_participation_form_email
-      label: Email
+      name: general_question_2
+      label: Was the Compliance Issue New or Ongoing
       hint: null
-      type: email
-      options: []
-      required: false
+      type: select_one
+      options:
+      - New
+      - Ongoing
+      required: true
     - id: 4
-      name: tool_box_talk_compliance_issues_participation_form_phone
-      label: Phone
+      name: address_addressed
+      label: Addressed by the Toolbox Talk
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: true
-    - id: 5
-      name: tool_box_talk_compliance_issues_participation_form_notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
     - id: 6
-      name: tool_box_talk_compliance_issues_participation_form_date
-      label: Date
+      name: total_compliance_issues
+      label: Total Compliance Issues
       hint: null
-      type: date
+      type: number
       options: []
       required: true
     - id: 7
-      name: tool_box_talk_compliance_issues_participation_form_time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: tool_box_talk_compliance_issues_participation_form_select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 9
-      name: tool_box_talk_compliance_issues_participation_form_select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: tool_box_talk_compliance_issues_participation_form_integer
-      label: Integer
+      name: average_severity
+      label: Average Severity of Compliance Issues
       hint: null
       type: number
+      options: []
+      required: true
+    - id: 8
+      name: compliance_issue_first_noticed
+      label: When was the Compliance Issue First Noted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: expected_resolution_date
+      label: Expected Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: general_question_5
+      label: General Question 5
+      hint: null
+      type: text
       options: []
       required: true
     - id: 11
-      name: tool_box_talk_compliance_issues_participation_form_decimal
-      label: Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: tool_box_talk_compliance_issues_participation_form_date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: tool_box_talk_compliance_issues_participation_form_time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: tool_box_talk_compliance_issues_participation_form_text
-      label: Text
+      name: general_question_6
+      label: General Question 6
       hint: null
       type: text
       options: []
-      required: false
-    - id: 15
-      name: tool_box_talk_compliance_issues_participation_form_text_area
-      label: Text Area
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: tool_box_talk_compliance_issues_participation_form_select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: tool_box_talk_compliance_issues_participation_form_select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: tool_box_talk_compliance_issues_participation_form_integer
-      label: Integer
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: tool_box_talk_compliance_issues_participation_form_decimal
-      label: Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: tool_box_talk_compliance_issues_participation_form_date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: tool_box_talk_compliance_issues_participation_form_time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: tool_box_talk_compliance_issues_participation_form_text
-      label: Text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: tool_box_talk_compliance_issues_participation_form_text_area
-      label: Text Area
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: tool_box_talk_compliance_issues_participation_form_select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: tool_box_talk_compliance_issues_participation_form_select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

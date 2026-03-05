@@ -4,234 +4,130 @@ inputSchema:
     title: Library Satisfaction Survey
     pages:
     - id: 1
-      name: intro_text
-      label: intro_text
-      hint: null
+      name: page1
+      label: Introduction
+      hint: Please take a few minutes to answer the questions below.
       type: text
       options: []
       required: false
     - id: 2
-      name: how_often_visit
+      name: page2
       label: How often do you visit the library?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Very often
+      - Occasionally
+      - Rarely
+      - Never
       required: false
     - id: 3
-      name: how_often_visit_frequency
-      label: How often do you visit the library?
+      name: page3
+      label: What do you enjoy most about our library?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: visit_frequency
-      label: Visit Frequency
+      name: page4
+      label: Have you had any issues with our library?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'True'
+      - 'False'
       required: false
     - id: 5
-      name: visit_frequency2
-      label: Visit Frequency 2
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 6
-      name: visit_frequency3
-      label: Visit Frequency 3
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 7
-      name: how_satisfied
-      label: How satisfied are you with our library?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 8
-      name: how_satisfied2
-      label: How satisfied are you with our library?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: how_satisfied_frequency
-      label: How Satisfied Frequency
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 10
-      name: how_satisfied_frequency2
-      label: How Satisfied Frequency
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 11
-      name: have_issues
-      label: Have you ever had issues while visiting the library?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 12
-      name: have_issues_frequency
-      label: Have Issues Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 13
-      name: have_issues_frequency2
-      label: Have Issues Frequency 2
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 14
-      name: why_visit
+      name: page5
       label: Why do you visit the library?
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
-      name: why_visit_frequency
-      label: Why Visit Frequency
+    - id: 6
+      name: page6
+      label: How satisfied are you with our library?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
       required: false
-    - id: 16
-      name: why_visit_frequency2
-      label: Why Visit Frequency 2
+    - id: 7
+      name: page7
+      label: How often do you experience problems with our library?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Very often
+      - Occasionally
+      - Rarely
+      - Never
       required: false
-    - id: 17
-      name: how_satisfy
-      label: How Satisfied
+    - id: 8
+      name: page8
+      label: What can we do to improve our library?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: page9
+      label: How likely are you to recommend our library to a friend or family member?
       hint: null
       type: number
       options: []
       required: false
-    - id: 18
-      name: have_issues2
-      label: Have Issues
+    - id: 10
+      name: page10
+      label: How do you use our library resources?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Books
+      - Articles
+      - Media
+      - Other (please specify)
       required: false
-    - id: 19
-      name: how_satisfied_frequency2
-      label: How Satisfied Frequency
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 20
-      name: have_issues3
-      label: Have Issues 3
+    - id: 11
+      name: page11
+      label: What do you value most when visiting our library?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Quiet and relaxing atmosphere
+      - Availability of resources
+      - Knowledgeable staff
+      - Other (please specify)
       required: false
-    - id: 21
-      name: have_issues4
-      label: Have Issues 4
+    - id: 12
+      name: page12
+      label: Page12
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
+      type: text
+      options: []
       required: false
-    - id: 22
-      name: have_issues5
-      label: Have Issues 5
+    - id: 13
+      name: page13
+      label: What is your favorite library service or feature?
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
+      type: text
+      options: []
       required: false
-    - id: 23
-      name: have_issues6
-      label: Have Issues 6
+    - id: 14
+      name: page14
+      label: How would you rate your overall experience with our library?
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
+      type: number
+      options: []
       required: false
-    - id: 24
-      name: have_issues7
-      label: Have Issues 7
+    - id: 15
+      name: page15
+      label: Any suggestions for library events or programs?
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 25
-      name: have_issues8
-      label: Have Issues 8
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
+      type: text
+      options: []
       required: false

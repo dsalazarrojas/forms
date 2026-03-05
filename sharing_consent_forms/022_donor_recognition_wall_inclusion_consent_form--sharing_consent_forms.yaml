@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: share_with_who
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''public'', ''label'': ''Public''}'
-      - '{''value'': ''private'', ''label'': ''Private''}'
-      - '{''value'': ''internal'', ''label'': ''Internal''}'
+      - Public
+      - Private
+      - Internal
       required: false
     - id: 10
       name: share_with_who_other

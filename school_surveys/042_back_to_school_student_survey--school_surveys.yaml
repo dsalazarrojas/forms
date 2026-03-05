@@ -1,86 +1,88 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Back To School Student Survey
     pages:
-      - id: 1
-        name: student_name
-        label: Student name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: grade
-        label: Grade
-        hint: Current grade level
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: learning_preference
-        label: Preferred learning format
-        hint: In person hybrid remote
-        type: select_one
-        options: [In person, Hybrid, Remote]
-        required: true
-      - id: 4
-        name: biggest_concern
-        label: Biggest concern this school year
-        hint: Open response
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: support_services_needed
-        label: Support services needed
-        hint: Academic counseling health services
-        type: select_multiple
-        options: [Tutoring, Counseling, Health services, Technology support]
-        required: false
-      - id: 6
-        name: extracurricular_interest
-        label: Extracurricular interest
-        hint: Clubs sports arts
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: safety_feedback
-        label: Feedback on school safety
-        hint: How safe do you feel at school
-        type: select_one
-        options: [Not safe, Somewhat safe, Safe, Very safe]
-        required: false
-      - id: 8
-        name: mental_health_needs
-        label: Mental health needs
-        hint: Would you like support
-        type: select_one
-        options: [Yes, No]
-        required: false
-      - id: 9
-        name: additional_comments
-        label: Additional comments
-        hint: Anything else to share
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: submission_date
-        label: Submission date
-        hint: Date completed
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grade
+      label: Grade
+      hint: Current grade level
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: learning_preference
+      label: Preferred learning format
+      hint: In person hybrid remote
+      type: select_one
+      options:
+      - In person
+      - Hybrid
+      - Remote
+      required: true
+    - id: 4
+      name: biggest_concern
+      label: Biggest concern this school year
+      hint: Open response
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: support_services_needed
+      label: Support services needed
+      hint: Academic counseling health services
+      type: select_multiple
+      options:
+      - Tutoring
+      - Counseling
+      - Health services
+      - Technology support
+      required: false
+    - id: 6
+      name: extracurricular_interest
+      label: Extracurricular interest
+      hint: Clubs sports arts
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_feedback
+      label: Feedback on school safety
+      hint: How safe do you feel at school
+      type: select_one
+      options:
+      - Not safe
+      - Somewhat safe
+      - Safe
+      - Very safe
+      required: false
+    - id: 8
+      name: mental_health_needs
+      label: Mental health needs
+      hint: Would you like support
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date completed
+      type: date
+      options: []
+      required: true

@@ -37,16 +37,11 @@ inputSchema:
       hint: Knowledge, clarity, and engagement.
       type: select_one
       options:
-      - label: 1 - Poor
-        value: 1
-      - label: 2 - Below Average
-        value: 2
-      - label: 3 - Average
-        value: 3
-      - label: 4 - Good
-        value: 4
-      - label: 5 - Excellent
-        value: 5
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
       required: true
     - id: 6
       name: topics_evaluation_header
@@ -61,16 +56,11 @@ inputSchema:
       hint: Check all that apply.
       type: select_multiple
       options:
-      - label: Zero-shot / One-shot Prompting
-        value: zero_shot
-      - label: Few-shot Learning
-        value: few_shot
-      - label: Chain-of-Thought (CoT) Prompting
-        value: cot
-      - label: Iterative Refinement
-        value: refinement
-      - label: Role-based Prompting
-        value: role_based
+      - Zero-shot / One-shot Prompting
+      - Few-shot Learning
+      - Chain-of-Thought (CoT) Prompting
+      - Iterative Refinement
+      - Role-based Prompting
       required: true
     - id: 8
       name: content_quality_rating
@@ -85,14 +75,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Extremely Valuable
-        value: extremely_valuable
-      - label: Somewhat Valuable
-        value: somewhat_valuable
-      - label: Neutral
-        value: neutral
-      - label: Not very valuable
-        value: not_valuable
+      - Extremely Valuable
+      - Somewhat Valuable
+      - Neutral
+      - Not very valuable
       required: true
     - id: 10
       name: most_valuable_topic
@@ -114,12 +100,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Too Fast
-        value: too_fast
-      - label: Just Right
-        value: just_right
-      - label: Too Slow
-        value: too_slow
+      - Too Fast
+      - Just Right
+      - Too Slow
       required: true
     - id: 13
       name: platform_feedback
@@ -142,12 +125,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
-      - label: Maybe
-        value: maybe
+      - 'True'
+      - 'False'
+      - Maybe
       required: true
     - id: 16
       name: badge_request_email

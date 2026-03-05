@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Executive Director''}'
-      - '{''id'': 2, ''label'': ''Department Head''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Executive Director
+      - Department Head
+      - Other
       required: true
     - id: 4
       name: years_experience
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Bachelor''}'
-      - '{''id'': 2, ''label'': ''Master''}'
-      - '{''id'': 3, ''label'': ''PhD''}'
+      - Bachelor
+      - Master
+      - PhD
       required: false
     - id: 6
       name: organization
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Often''}'
-      - '{''id'': 2, ''label'': ''Occasionally''}'
-      - '{''id'': 3, ''label'': ''Rarely''}'
+      - Often
+      - Occasionally
+      - Rarely
       required: true
     - id: 12
       name: performance_type
@@ -102,8 +102,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: training_experience
@@ -118,8 +118,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: performance_evaluation_process
@@ -134,10 +134,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Yearly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
       required: false
     - id: 18
       name: budgeted_funds
@@ -173,10 +173,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Yearly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
       required: true
     - id: 23
       name: performance_measures

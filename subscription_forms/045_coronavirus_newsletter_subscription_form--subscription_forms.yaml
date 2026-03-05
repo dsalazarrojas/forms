@@ -4,7 +4,7 @@ inputSchema:
     title: coronavirus_newsletter_subscription_form
     pages:
     - id: 1
-      name: name
+      name: full_name
       label: Full Name
       hint: null
       type: text
@@ -18,21 +18,7 @@ inputSchema:
       options: []
       required: true
     - id: 3
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 5
-      name: select_one
+      name: select_one_source
       label: How did you hear about us?
       hint: null
       type: select_one
@@ -42,10 +28,9 @@ inputSchema:
       - Instagram
       - Online Search
       - Referral
-      - Other
       required: true
-    - id: 6
-      name: select_multiple
+    - id: 4
+      name: select_multiple_channels
       label: Select Multiple
       hint: null
       type: select_multiple
@@ -55,162 +40,72 @@ inputSchema:
       - Instagram
       - Online Search
       - Referral
-      - Other
       required: true
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: select_one_option
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
     - id: 7
+      name: select_multiple_option
+      label: Select Multiple Option
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 8
       name: date
       label: Date
       hint: null
       type: date
-      options: []
-      required: false
-    - id: 8
-      name: time
-      label: Time
-      hint: null
-      type: time
       options: []
       required: false
     - id: 9
-      name: note
-      label: Note
+      name: time
+      label: Time
       hint: null
-      type: note
+      type: time
       options: []
       required: false
     - id: 10
-      name: email
-      label: Email
+      name: note_2
+      label: Note 2
       hint: null
-      type: email
+      type: note
       options: []
       required: false
     - id: 11
-      name: phone
-      label: Phone
+      name: select_one_option_2
+      label: Select One Option 2
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 13
-      name: select_multiple
-      label: Select Multiple
+      name: select_multiple_option_2
+      label: Select Multiple Option 2
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: false
-    - id: 14
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 20
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: false
-    - id: 21
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 25
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

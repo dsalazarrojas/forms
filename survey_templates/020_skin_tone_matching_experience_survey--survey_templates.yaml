@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Skin Tone Meter''}'
-      - '{''label'': ''Skin Tone Color Wheel''}'
-      - '{''label'': ''Other''}'
+      - Skin Tone Meter
+      - Skin Tone Color Wheel
+      - Other
       required: false
     - id: 3
       name: skin_tone_matching_accuracy
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Accurate''}'
-      - '{''label'': ''Somewhat Accurate''}'
-      - '{''label'': ''Not Accurate''}'
+      - Very Accurate
+      - Somewhat Accurate
+      - Not Accurate
       required: false
     - id: 4
       name: satisfaction
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Not Satisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
       required: false
     - id: 5
       name: accuracy_accuracy
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Accurate''}'
-      - '{''label'': ''Somewhat Accurate''}'
-      - '{''label'': ''Not Accurate''}'
+      - Very Accurate
+      - Somewhat Accurate
+      - Not Accurate
       required: false
     - id: 6
       name: shade_recommendation
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Cool Undertones''}'
-      - '{''label'': ''Warm Undertones''}'
-      - '{''label'': ''Neutral''}'
+      - Cool Undertones
+      - Warm Undertones
+      - Neutral
       required: false
     - id: 7
       name: additional_comments
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''None''}'
+      - Email
+      - Phone
+      - None
       required: false
     - id: 11
       name: customer_satisfaction
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Not Satisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
       required: false
     - id: 12
       name: overall_satisfaction
@@ -122,8 +122,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: name
@@ -169,7 +169,7 @@ inputSchema:
       required: false
     - id: 21
       name: zip_ext
-      label: ZIP
+      label: Zip Ext
       hint: null
       type: text
       options: []
@@ -190,14 +190,14 @@ inputSchema:
       required: false
     - id: 24
       name: email_ext
-      label: Email
+      label: Email Ext
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: phone_ext
-      label: Phone
+      label: Phone Ext
       hint: null
       type: text
       options: []

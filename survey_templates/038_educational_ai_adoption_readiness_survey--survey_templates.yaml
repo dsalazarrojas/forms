@@ -5,186 +5,148 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: Educational AI Adoption Readiness Survey
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: institution_info
-      label: institution_info
+      label: What department are you from?
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: ai_goals
-      label: ai_goals
+      label: What are your institution's AI goals?
       hint: null
       type: text
       options: []
       required: true
     - id: 4
       name: readiness_factors
-      label: readiness_factors
+      label: What factors influence your institution's AI adoption readiness?
       hint: null
       type: text
       options: []
       required: true
     - id: 5
       name: ai_deployment
-      label: ai_deployment
+      label: How will you deploy AI in your institution?
       hint: null
       type: text
       options: []
       required: true
     - id: 6
-      name: ai_readiness_score
-      label: ai_readiness_score
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 7
       name: comments
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: institution_name
-      label: institution_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: department
-      label: department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: institution_type
-      label: institution_type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: institution_employees
-      label: institution_employees
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: institution_funding
-      label: institution_funding
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: comments_section
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: email_2
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: phone_2
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: ai_deployment_plans
-      label: ai_deployment_plans
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: ai_pilot
-      label: ai_pilot
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: ai_readiness_score_2
-      label: ai_readiness_score_2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: comments_2
       label: Comments
       hint: null
       type: note
       options: []
-      required: false
-    - id: 22
-      name: institution_type_2
-      label: institution_type_2
+      required: true
+    - id: 7
+      name: institution_type
+      label: What type of institution do you represent?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: institution_employees_2
-      label: institution_employees
+      - Primary
+      - Secondary
+      - Tertiary
+      - Other
+      required: true
+    - id: 8
+      name: institution_employees
+      label: How many employees do you have in your institution?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 24
-      name: institution_funding_2
-      label: institution_funding
+      required: true
+    - id: 9
+      name: institution_funding
+      label: Does your institution have a dedicated AI funding source?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 25
+      required: true
+    - id: 10
       name: form_completion
-      label: Form Completion
+      label: Did you complete this form?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
+      required: true
+    - id: 11
+      name: institution_name
+      label: What is your institution's name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: institution_type_2
+      label: Institution Type 2
+      hint: null
+      type: select_one
+      options:
+      - Primary
+      - Secondary
+      - Tertiary
+      - Other
+      required: true
+    - id: 16
+      name: institution_funding_2
+      label: Institution Funding 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: institution_employees_2
+      label: Institution Employees 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: ai_pilot
+      label: Have you conducted an AI pilot in your institution?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: comments_2
+      label: Comments or feedback about your institution's AI adoption process
+      hint: null
+      type: note
+      options: []
       required: true

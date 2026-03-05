@@ -45,7 +45,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I am 18 or older
-      - false
+      - 'False'
       required: true
     - id: 7
       name: address
@@ -160,8 +160,8 @@ inputSchema:
       hint: Do you understand the deadline
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: scoring_system
@@ -169,8 +169,8 @@ inputSchema:
       hint: Do you understand the scoring
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 21
       name: prize_structure
@@ -178,8 +178,8 @@ inputSchema:
       hint: Do you understand the prizes
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: rules_acknowledgment
@@ -188,7 +188,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I agree
-      - false
+      - 'False'
       required: true
     - id: 23
       name: tiebreaker_understanding
@@ -196,8 +196,8 @@ inputSchema:
       hint: Do you understand tiebreaker rules
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: communication_preference
@@ -216,8 +216,8 @@ inputSchema:
       hint: Receive updates and promotions
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 26
       name: referral_source

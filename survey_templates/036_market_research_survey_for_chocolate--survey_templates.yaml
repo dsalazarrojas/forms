@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Never''}'
-      - '{''id'': 2, ''label'': ''Rarely''}'
-      - '{''id'': 3, ''label'': ''Occasionally''}'
-      - '{''id'': 4, ''label'': ''Frequently''}'
-      - '{''id'': 5, ''label'': ''Always''}'
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
       required: false
     - id: 3
       name: preferred_chocolate_type
@@ -28,11 +28,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Dark Chocolate''}'
-      - '{''id'': 2, ''label'': ''Milk Chocolate''}'
-      - '{''id'': 3, ''label'': ''White Chocolate''}'
-      - '{''id'': 4, ''label'': ''Other''}'
-      - '{''id'': 5, ''label'': ''Unknown''}'
+      - Dark Chocolate
+      - Milk Chocolate
+      - White Chocolate
+      - Other
+      - Unknown
       required: false
     - id: 4
       name: preferred_chocolate_brand
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Lindt''}'
-      - '{''id'': 2, ''label'': "Hershey''s"}'
-      - '{''id'': 3, ''label'': ''Dove''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Lindt
+      - Hershey's
+      - Dove
+      - Other
       required: false
     - id: 5
       name: age
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 7
       name: contact_method
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Phone''}'
-      - '{''id'': 2, ''label'': ''Email''}'
-      - '{''id'': 3, ''label'': ''In-Store''}'
+      - Phone
+      - Email
+      - In-Store
       required: false
     - id: 8
       name: note
@@ -162,11 +162,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''PST''}'
-      - '{''id'': 2, ''label'': ''EST''}'
-      - '{''id'': 3, ''label'': ''CST''}'
-      - '{''id'': 4, ''label'': ''MST''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - PST
+      - EST
+      - CST
+      - MST
+      - Other
       required: false
     - id: 21
       name: note_1

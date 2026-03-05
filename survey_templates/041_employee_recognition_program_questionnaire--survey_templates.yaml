@@ -16,9 +16,9 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 3
       name: manager_role
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 7
       name: recognition_value
@@ -81,31 +81,31 @@ inputSchema:
       required: false
     - id: 11
       name: recognition_type2
-      label: What type of recognition do you prefer?
+      label: Recognition Type2
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
       name: recognition_value2
-      label: How valuable is recognition to you?
+      label: Recognition Value2
       hint: null
       type: number
       options: []
       required: false
     - id: 13
       name: recognition_timing2
-      label: How soon do you want to receive recognition?
+      label: Recognition Timing2
       hint: null
       type: time
       options: []
       required: false
     - id: 14
       name: recognition_frequency3
-      label: How often would you like to receive recognition?
+      label: Recognition Frequency3
       hint: null
       type: text
       options: []
@@ -121,7 +121,7 @@ inputSchema:
       required: false
     - id: 16
       name: recognition_amount2
-      label: How much recognition do you receive?
+      label: Recognition Amount2
       hint: null
       type: number
       options: []
@@ -146,35 +146,35 @@ inputSchema:
       required: false
     - id: 19
       name: recognition_value3
-      label: How valuable is recognition to you?
+      label: Recognition Value3
       hint: null
       type: number
       options: []
       required: false
     - id: 20
       name: recognition_amount3
-      label: How much recognition do you receive?
+      label: Recognition Amount3
       hint: null
       type: number
       options: []
       required: false
     - id: 21
       name: recognition_timing3
-      label: How soon do you want to receive recognition?
+      label: Recognition Timing3
       hint: null
       type: time
       options: []
       required: false
     - id: 22
       name: recognition_frequency4
-      label: How often do you receive recognition?
+      label: Recognition Frequency4
       hint: null
       type: text
       options: []
       required: false
     - id: 23
       name: recognition_type4
-      label: What type of recognition do you prefer?
+      label: Recognition Type4
       hint: null
       type: select_one
       options:
@@ -183,7 +183,7 @@ inputSchema:
       required: false
     - id: 24
       name: recognition_amount4
-      label: How much recognition do you receive?
+      label: Recognition Amount4
       hint: null
       type: number
       options: []

@@ -5,179 +5,107 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: 1. Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: structural_model_name
-      label: structural_model_name
+      label: 2. Structural Model Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: structural_systems
-      label: structural_systems
+      label: 3. Structural Systems
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: model_rating
-      label: model_rating
+      label: 4. Model Rating
       hint: null
       type: number
       options: []
       required: false
     - id: 5
       name: design_complexity
-      label: design_complexity
+      label: 5. Design Complexity
       hint: null
       type: number
       options: []
       required: false
     - id: 6
       name: structural_model_suitability
-      label: structural_model_suitability
+      label: 6. Structural Model Suitability
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: structural_model_suitability_score
-      label: structural_model_suitability_score
+      name: structural_model_suitability_scale
+      label: 7. Structural Model Suitability Scale
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: model_suitability
-      label: model_suitability
+      name: structural_model_suitability_scale_score
+      label: 8. Structural Model Suitability Scale Score
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: model_suitability_score
-      label: model_suitability_score
+      name: model_suitability
+      label: 9. Model Suitability
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: model_suitability_description
-      label: model_suitability_description
+      name: model_suitability_score
+      label: 10. Model Suitability Score
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: structural_model_suitability_scale
-      label: structural_model_suitability_scale
+      name: model_suitability_description
+      label: 11. Model Suitability Description
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: structural_model_suitability_scale_score
-      label: structural_model_suitability_scale_score
+      name: structural_systems_score
+      label: 12. Structural Systems Score
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: structural_model_suitability_scale_score_description
-      label: structural_model_suitability_scale_score_description
+      name: structural_systems_scale
+      label: 13. Structural Systems Scale
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: structural_systems
-      label: structural_systems
+      name: structural_systems_scale_score
+      label: 14. Structural Systems Scale Score
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 15
-      name: structural_systems_description
-      label: structural_systems_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: structural_systems_score
-      label: structural_systems_score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: structural_systems_scale
-      label: structural_systems_scale
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: structural_systems_scale_score
-      label: structural_systems_scale_score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: structural_systems_scale_score_description
-      label: structural_systems_scale_score_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: structural_model_suitability
-      label: structural_model_suitability
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: structural_model_suitability_description
-      label: structural_model_suitability_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: structural_model_suitability_scale
-      label: structural_model_suitability_scale
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: structural_model_suitability_scale_score
-      label: structural_model_suitability_scale_score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: model_suitability_score
-      label: model_suitability_score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: comments
-      label: comments
+      label: 15. Comments
       hint: null
       type: text
       options: []

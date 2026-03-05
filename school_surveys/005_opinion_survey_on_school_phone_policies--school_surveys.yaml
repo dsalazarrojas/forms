@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''School Administration''}'
-      - '{''name'': ''School Staff''}'
-      - '{''name'': ''Student''}'
+      - School Administration
+      - School Staff
+      - Student
       required: true
     - id: 5
       name: role
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Student''}'
-      - '{''name'': ''Faculty''}'
-      - '{''name'': ''Staff''}'
+      - Student
+      - Faculty
+      - Staff
       required: true
     - id: 6
       name: opinion
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Strongly Agree''}'
-      - '{''name'': ''Somewhat Agree''}'
-      - '{''name'': ''Neither Agree nor Disagree''}'
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
       required: false
     - id: 15
       name: disagree
@@ -116,6 +116,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Strongly Disagree''}'
-      - '{''name'': ''Somewhat Disagree''}'
+      - Strongly Disagree
+      - Somewhat Disagree
       required: false

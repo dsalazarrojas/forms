@@ -58,10 +58,10 @@ inputSchema:
       hint: Which year?
       type: select_one
       options:
-      - 2026
-      - 2025
-      - 2024
-      - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       required: true
     - id: 9
       name: vehicle_owner
@@ -381,8 +381,8 @@ inputSchema:
       hint: Was sticker issued?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not Applicable
       required: true
     - id: 43

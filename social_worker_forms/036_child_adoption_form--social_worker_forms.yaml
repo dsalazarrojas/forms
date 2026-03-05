@@ -1,215 +1,204 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Adoption Form
     pages:
-      - id: 1
-        name: form_intro
-        label: -- Child Adoption Form --
-        hint: Finalization documentation for child adoption proceedings
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: adoption_case_number
-        label: Adoption case number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: form_completion_date
-        label: Form completion date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: adoptive_parent_1_name
-        label: First adoptive parent name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: adoptive_parent_1_dob
-        label: Date of birth
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: adoptive_parent_1_address
-        label: Address
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: adoptive_parent_2_name
-        label: Second adoptive parent name (if applicable)
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: adoptive_parent_2_dob
-        label: Date of birth
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 9
-        name: adoptive_parent_2_address
-        label: Address
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: child_legal_name
-        label: Child's legal name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 11
-        name: child_birth_date
-        label: Child's date of birth
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 12
-        name: child_gender
-        label: Child's gender
-        hint: null
-        type: select_one
-        options:
-          - Male
-          - Female
-          - Other
-        required: true
-      - id: 13
-        name: child_place_of_birth
-        label: Child's place of birth
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: biological_parent_1_name
-        label: Biological parent 1 name
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: biological_parent_2_name
-        label: Biological parent 2 name
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: consent_obtained
-        label: Consent from biological parents obtained
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Terminated by court
-          - Waived
-        required: true
-      - id: 17
-        name: placement_date
-        label: Date child placed with adoptive parents
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 18
-        name: prior_custody
-        label: Prior custody or guardianship
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: agency_name
-        label: Adoption agency or organization (if applicable)
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: social_worker_name
-        label: Social worker name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 21
-        name: court_approval
-        label: Has court approved the adoption?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Pending
-        required: true
-      - id: 22
-        name: finalization_date
-        label: Adoption finalization date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 23
-        name: child_new_name
-        label: Child's new legal name (if changed)
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 24
-        name: inheritance_rights
-        label: Child has all inheritance and succession rights
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 25
-        name: post_adoption_support
-        label: Post-adoption support services discussed
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Declined
-        required: true
-      - id: 26
-        name: records_seal_request
-        label: Request to seal adoption records
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
+    - id: 1
+      name: form_intro
+      label: -- Child Adoption Form --
+      hint: Finalization documentation for child adoption proceedings
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: adoption_case_number
+      label: Adoption case number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_completion_date
+      label: Form completion date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: adoptive_parent_1_name
+      label: First adoptive parent name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: adoptive_parent_1_dob
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: adoptive_parent_1_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: adoptive_parent_2_name
+      label: Second adoptive parent name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: adoptive_parent_2_dob
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: adoptive_parent_2_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: child_legal_name
+      label: Child's legal name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: child_birth_date
+      label: Child's date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: child_gender
+      label: Child's gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 13
+      name: child_place_of_birth
+      label: Child's place of birth
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: biological_parent_1_name
+      label: Biological parent 1 name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: biological_parent_2_name
+      label: Biological parent 2 name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: consent_obtained
+      label: Consent from biological parents obtained
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Terminated by court
+      - Waived
+      required: true
+    - id: 17
+      name: placement_date
+      label: Date child placed with adoptive parents
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: prior_custody
+      label: Prior custody or guardianship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: agency_name
+      label: Adoption agency or organization (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: social_worker_name
+      label: Social worker name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: court_approval
+      label: Has court approved the adoption?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Pending
+      required: true
+    - id: 22
+      name: finalization_date
+      label: Adoption finalization date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: child_new_name
+      label: Child's new legal name (if changed)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: inheritance_rights
+      label: Child has all inheritance and succession rights
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: post_adoption_support
+      label: Post-adoption support services discussed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Declined
+      required: true
+    - id: 26
+      name: records_seal_request
+      label: Request to seal adoption records
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

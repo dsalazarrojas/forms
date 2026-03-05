@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: follow_up_action
@@ -143,9 +143,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
+      - 'True'
       - Already synced
-      - false
+      - 'False'
       required: false
     - id: 18
       name: private_internal_note
@@ -160,8 +160,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: call_log_footer

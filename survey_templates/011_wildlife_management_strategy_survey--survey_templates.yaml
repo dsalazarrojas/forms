@@ -1,169 +1,110 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Wildlife Management Strategy Survey
     pages:
     - id: 1
-      name: wildlife_management_strategy_survey_first_page
-      label: Wildlife Management Strategy Survey
+      name: introduction
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: wildlife_management_strategy_survey_second_page
-      label: Conservation Plan Details
+      name: conservation_plan
+      label: What is the most critical conservation issue in your area?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - habitat loss
+      - pollution
+      - overhunting
+      - climate change
+      - other
+      required: true
     - id: 3
-      name: wildlife_management_strategy_survey_third_page
-      label: Stakeholder Input
+      name: conservation_plan_2
+      label: How do you think we can best address this issue?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: wildlife_management_strategy_survey_fourth_page
-      label: Wildlife Policy
+      name: wildlife_policy
+      label: What do you think is the primary goal of wildlife management?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - protecting wildlife
+      - managing wildlife populations
+      - balancing human wildlife interactions
+      - other
+      required: true
     - id: 5
-      name: wildlife_management_strategy_survey_fifth_page
-      label: Conservation Plan
+      name: wildlife_policy_2
+      label: Do you think wildlife management policies are effective?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - undecided
+      required: true
     - id: 6
-      name: wildlife_management_strategy_survey_sixth_page
-      label: Additional Information
+      name: stakeholder_input
+      label: How do you think stakeholders should be involved in wildlife management
+        decision-making?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - local communities
+      - conservationists
+      - government agencies
+      - researchers
+      - other
+      required: true
     - id: 7
-      name: wildlife_management_strategy_survey_seventh_page
-      label: Contact Information
+      name: stakeholder_input_2
+      label: What role do you think you play in wildlife management decision-making?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - leader
+      - advisor
+      - participant
+      - other
+      required: true
     - id: 8
-      name: wildlife_management_strategy_survey_eighth_page
-      label: Wildlife Policy
+      name: contact_information
+      label: How can we reach you for follow-up questions?
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 9
-      name: wildlife_management_strategy_survey_ninth_page
-      label: Conservation Plan
+      name: contact_information_2
+      label: What is your phone number (or leave blank if you don't want to be contacted)?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: wildlife_management_strategy_survey_tenth_page
-      label: Stakeholder Input
+      name: contact_information_3
+      label: What is your location (e.g., country, region, or city)?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: wildlife_management_strategy_survey_eleventh_page
-      label: Additional Information
+      name: additional_information
+      label: Do you have any additional comments or concerns about wildlife management?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: wildlife_management_strategy_survey_twelfth_page
-      label: Contact Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: wildlife_management_strategy_survey_thirteenth_page
-      label: Stakeholder Input
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: wildlife_management_strategy_survey_fourteenth_page
-      label: Conservation Plan
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: wildlife_management_strategy_survey_fifth_page
-      label: Wildlife Policy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: wildlife_management_strategy_survey_sixth_page
-      label: Additional Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: wildlife_management_strategy_survey_sixth_page
-      label: Contact Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: wildlife_management_strategy_survey_seventh_page
-      label: Stakeholder Input
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: wildlife_management_strategy_survey_eighth_page
-      label: Wildlife Policy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: wildlife_management_strategy_survey_ninth_page
-      label: Conservation Plan
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: wildlife_management_strategy_survey_tenth_page
-      label: Additional Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: wildlife_management_strategy_survey_tenth_page
-      label: Contact Information
+      name: additional_information_2
+      label: Is there anything else you would like to share with us?
       hint: null
       type: text
       options: []

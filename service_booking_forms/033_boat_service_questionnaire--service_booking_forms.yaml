@@ -159,8 +159,8 @@ inputSchema:
       hint: Does boat need to be hauled?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: false
     - id: 21
@@ -176,8 +176,8 @@ inputSchema:
       hint: Is this warranty service?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: insurance_claim
@@ -185,8 +185,8 @@ inputSchema:
       hint: Is this an insurance repair?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: budget_range

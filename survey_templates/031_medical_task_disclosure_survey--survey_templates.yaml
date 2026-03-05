@@ -12,7 +12,7 @@ inputSchema:
       - Task 1
       - Task 2
       - Task 3
-      required: false
+      required: true
     - id: 2
       name: task_clarity
       label: Task Clarity
@@ -22,7 +22,7 @@ inputSchema:
       - Clear
       - Unclear
       - Not Applicable
-      required: false
+      required: true
     - id: 3
       name: training_needs
       label: Training Needs
@@ -90,94 +90,42 @@ inputSchema:
       options: []
       required: false
     - id: 12
-      name: task_clarity_2
-      label: Task Clarity
-      hint: null
-      type: select_one
-      options:
-      - Clear
-      - Unclear
-      - Not Applicable
-      required: false
-    - id: 13
       name: clinical_responsibilities_2
-      label: Clinical Responsibilities
+      label: Clinical Responsibilities 2
       hint: null
       type: select_multiple
       options:
       - Task 1
       - Task 2
       - Task 3
-      required: false
-    - id: 14
+      required: true
+    - id: 13
       name: training_needs_2
-      label: Training Needs
+      label: Training Needs 2
       hint: null
       type: select_multiple
       options:
       - Training 1
       - Training 2
       - Training 3
-      required: true
-    - id: 15
-      name: clinical_tasks_2
-      label: Clinical Tasks
-      hint: null
-      type: number
-      options: []
       required: false
-    - id: 16
+    - id: 14
       name: work_hours_2
-      label: Work Hours
+      label: Work Hours 2
       hint: null
       type: number
       options: []
       required: false
-    - id: 17
+    - id: 15
       name: staff_feedback_2
-      label: Staff Feedback
+      label: Staff Feedback 2
       hint: null
       type: note
       options: []
       required: false
-    - id: 18
-      name: email_2
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: phone_2
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: name_2
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: date_2
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: time_2
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: task_clarity_3
-      label: Task Clarity
+    - id: 16
+      name: task_clarity_2
+      label: Task Clarity 2
       hint: null
       type: select_one
       options:
@@ -185,19 +133,9 @@ inputSchema:
       - Unclear
       - Not Applicable
       required: false
-    - id: 24
-      name: clinical_responsibilities_3
-      label: Clinical Responsibilities
-      hint: null
-      type: select_multiple
-      options:
-      - Task 1
-      - Task 2
-      - Task 3
-      required: false
-    - id: 25
+    - id: 17
       name: clinical_tasks_2
-      label: Clinical Tasks
+      label: Clinical Tasks 2
       hint: null
       type: number
       options: []

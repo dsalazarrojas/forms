@@ -4,86 +4,108 @@ inputSchema:
     title: Performance Appraisal Form
     pages:
     - id: 1
-      name: performance_appraisal_form
-      label: Performance Appraisal Form
+      name: introduction
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: category
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      name: current_job_title
+      label: What is your current job title?
+      hint: Please provide your current job title
+      type: text
+      options: []
+      required: true
     - id: 3
-      name: description
-      label: description
-      hint: Briefly describe the employees performance
-      type: text
-      options: []
-      required: false
+      name: self_rating
+      label: How do you rate your performance in this role?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 4
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Survey Templates
-      - Employment Forms
-      required: false
-    - id: 5
-      name: category
-      label: Survey Templates, Employment Forms
+      name: quarterly_accomplishments
+      label: List your major accomplishments in the past quarter
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: assigned_tool
-      label: Assigned Tool
-      hint: Select assigned tool
-      type: select_one
+      - Accomplishment 1
+      - Accomplishment 2
+      - Accomplishment 3
+      required: true
+    - id: 5
+      name: quarterly_goals
+      label: What are your top 3 goals for the next quarter?
+      hint: null
+      type: select_multiple
       options:
-      - chatjimmy
-      - Other
-      required: false
-    - id: 7
-      name: output_file
-      label: Output File
-      hint: Enter the output file name
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: true
+    - id: 6
+      name: goal_strategy
+      label: How do you plan to achieve these goals?
+      hint: Provide a clear plan of action
       type: text
       options: []
-      required: false
-    - id: 8
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: assigned_tool
-      label: Assigned Tool
+      required: true
+    - id: 7
+      name: used_tools
+      label: What tools do you use for this role?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: true
+    - id: 8
+      name: assigned_tools
+      label: Which tools have been assigned to you?
+      hint: null
+      type: select_multiple
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: true
+    - id: 9
+      name: manager_feedback
+      label: What feedback do you have for your manager?
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 10
-      name: assigned_tool
-      label: Assigned Tool
+      name: role_improvement
+      label: What areas for improvement do you suggest for your role?
+      hint: null
+      type: select_multiple
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: true
+    - id: 11
+      name: output_format
+      label: What is the expected output format for the appraisal?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Format 1
+      - Format 2
+      - Format 3
+      required: true
+    - id: 12
+      name: output_file_name
+      label: What is the name of the output file?
+      hint: Please provide the name of the output file
+      type: text
+      options: []
+      required: true

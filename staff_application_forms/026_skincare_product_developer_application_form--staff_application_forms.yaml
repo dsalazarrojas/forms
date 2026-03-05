@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Developer''}'
-      - '{''label'': ''Designer''}'
-      - '{''label'': ''Marketing''}'
+      - Developer
+      - Designer
+      - Marketing
       required: true
     - id: 3
       name: name
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Less than 1 year''}'
-      - '{''label'': ''1-3 years''}'
-      - '{''label'': ''3-6 years''}'
-      - '{''label'': ''More than 6 years''}'
+      - Less than 1 year
+      - 1-3 years
+      - 3-6 years
+      - More than 6 years
       required: false
     - id: 7
       name: education
@@ -121,8 +121,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Completed''}'
+      - In Progress
+      - Completed
       required: true
     - id: 17
       name: submission_status_details

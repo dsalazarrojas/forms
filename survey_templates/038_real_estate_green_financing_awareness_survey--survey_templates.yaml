@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''very_low''}'
-      - '{''label'': ''low''}'
-      - '{''label'': ''medium''}'
-      - '{''label'': ''high''}'
+      - very low
+      - low
+      - medium
+      - high
       required: false
     - id: 3
       name: preferred_financing_source
@@ -38,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''bank''}'
-      - '{''label'': ''government''}'
-      - '{''label'': ''private_investor''}'
-      - '{''label'': ''other''}'
+      - bank
+      - government
+      - private investor
+      - other
       required: false
     - id: 4
       name: green_financing_incentives
@@ -49,10 +38,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''tax_incentives''}'
-      - '{''label'': ''low_interest_rates''}'
-      - '{''label'': ''grant''}'
-      - '{''label'': ''other''}'
+      - tax incentives
+      - low interest rates
+      - grant
+      - other
       required: false
     - id: 5
       name: interest_in_sustainable_properties
@@ -60,9 +49,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''very_strong''}'
-      - '{''label'': ''somewhat_strong''}'
-      - '{''label'': ''not_strong''}'
+      - very strong
+      - somewhat strong
+      - not strong
       required: false
     - id: 6
       name: financing_options
@@ -70,10 +59,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''energy_efficiency_improvements''}'
-      - '{''label'': ''renewable_energy_systems''}'
-      - '{''label'': ''sustainable_design''}'
-      - '{''label'': ''other''}'
+      - energy efficiency improvements
+      - renewable energy systems
+      - sustainable design
+      - other
       required: false
     - id: 7
       name: green_financing_barriers
@@ -81,10 +70,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''lack_of_underwriting_capacity''}'
-      - '{''label'': ''lack_of_understanding''}'
-      - '{''label'': ''lack_of_incentives''}'
-      - '{''label'': ''other''}'
+      - lack of underwriting capacity
+      - lack of understanding
+      - lack of incentives
+      - other
       required: false
     - id: 8
       name: awareness_of_government_programs
@@ -92,8 +81,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: awareness_of_private_investors
@@ -101,8 +90,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: knowledge_of_green_financing_products
@@ -110,8 +99,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: interest_in_certified_green_buildings
@@ -119,10 +108,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''very_high''}'
-      - '{''label'': ''somewhat_high''}'
-      - '{''label'': ''somewhat_low''}'
-      - '{''label'': ''very_low''}'
+      - very high
+      - somewhat high
+      - somewhat low
+      - very low
       required: false
     - id: 12
       name: interest_in_energy_efficiency_improvements
@@ -130,10 +119,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''very_high''}'
-      - '{''label'': ''somewhat_high''}'
-      - '{''label'': ''somewhat_low''}'
-      - '{''label'': ''very_low''}'
+      - very high
+      - somewhat high
+      - somewhat low
+      - very low
       required: false
     - id: 13
       name: financing_for_green_redevelopment
@@ -141,8 +130,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: interest_in_renewable_energy_systems
@@ -150,10 +139,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''very_strong''}'
-      - '{''label'': ''somewhat_strong''}'
-      - '{''label'': ''somewhat_low''}'
-      - '{''label'': ''very_low''}'
+      - very strong
+      - somewhat strong
+      - somewhat low
+      - very low
       required: false
     - id: 15
       name: knowledge_of_sustainable_financing_instruments
@@ -161,10 +150,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''very_strong''}'
-      - '{''label'': ''somewhat_strong''}'
-      - '{''label'': ''somewhat_low''}'
-      - '{''label'': ''very_low''}'
+      - very strong
+      - somewhat strong
+      - somewhat low
+      - very low
       required: false
     - id: 16
       name: knowledge_of_green_financing_incentives
@@ -172,8 +161,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: awareness_of_green_financing_products
@@ -181,8 +170,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: green_financing_product_availability
@@ -190,10 +179,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''very_high''}'
-      - '{''label'': ''somewhat_high''}'
-      - '{''label'': ''somewhat_low''}'
-      - '{''label'': ''very_low''}'
+      - very high
+      - somewhat high
+      - somewhat low
+      - very low
       required: false
     - id: 19
       name: awareness_of_green_financing_incentives
@@ -201,8 +190,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: green_financing_incentives_availability
@@ -210,10 +199,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''very_high''}'
-      - '{''label'': ''somewhat_high''}'
-      - '{''label'': ''somewhat_low''}'
-      - '{''label'': ''very_low''}'
+      - very high
+      - somewhat high
+      - somewhat low
+      - very low
       required: false
     - id: 21
       name: awareness_of_federal_programs
@@ -221,8 +210,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: awareness_of_state_local_programs
@@ -230,8 +219,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: knowledge_of_green_financing_sources
@@ -239,8 +228,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: financing_for_sustainable_properties
@@ -248,9 +237,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''very_strong''}'
-      - '{''label'': ''somewhat_strong''}'
-      - '{''label'': ''not_strong''}'
+      - very strong
+      - somewhat strong
+      - not strong
       required: false
     - id: 25
       name: financing_for_green_buildings
@@ -258,7 +247,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''very_strong''}'
-      - '{''label'': ''somewhat_strong''}'
-      - '{''label'': ''not_strong''}'
+      - very strong
+      - somewhat strong
+      - not strong
       required: false

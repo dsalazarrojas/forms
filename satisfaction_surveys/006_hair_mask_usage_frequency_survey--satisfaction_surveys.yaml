@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -20,11 +9,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Never''}'
-      - '{''id'': 2, ''label'': ''Less than once a week''}'
-      - '{''id'': 3, ''label'': ''Once a week''}'
-      - '{''id'': 4, ''label'': ''Several times a week''}'
-      - '{''id'': 5, ''label'': ''Every day''}'
+      - Never
+      - Less than once a week
+      - Once a week
+      - Several times a week
+      - Every day
       required: true
     - id: 2
       name: satisfaction
@@ -32,11 +21,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very dissatisfied''}'
-      - '{''id'': 2, ''label'': ''Dissatisfied''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Satisfied''}'
-      - '{''id'': 5, ''label'': ''Very satisfied''}'
+      - Very dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very satisfied
       required: true
     - id: 3
       name: hair_mask_preferences
@@ -44,11 +33,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Natural ingredients''}'
-      - '{''id'': 2, ''label'': ''Moisturizing''}'
-      - '{''id'': 3, ''label'': ''Color protecting''}'
-      - '{''id'': 4, ''label'': ''Hydrating''}'
-      - '{''id'': 5, ''label'': ''Other (please specify)''}'
+      - Natural ingredients
+      - Moisturizing
+      - Color protecting
+      - Hydrating
+      - Other (please specify)
       required: false
     - id: 4
       name: other_preferences

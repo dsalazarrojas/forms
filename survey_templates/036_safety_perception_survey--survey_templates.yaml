@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''very_safe''}'
-      - '{''label'': ''somewhat_safe''}'
-      - '{''label'': ''neutral''}'
-      - '{''label'': ''somewhat_uneasy''}'
-      - '{''label'': ''very_uneasy''}'
+      - very safe
+      - somewhat safe
+      - neutral
+      - somewhat uneasy
+      - very uneasy
       required: false
     - id: 4
       name: question_3
@@ -35,10 +35,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''very_frequently''}'
-      - '{''label'': ''sometimes''}'
-      - '{''label'': ''rarely''}'
-      - '{''label'': ''never''}'
+      - very frequently
+      - sometimes
+      - rarely
+      - never
       required: true
     - id: 5
       name: comments
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: comments_follow_up

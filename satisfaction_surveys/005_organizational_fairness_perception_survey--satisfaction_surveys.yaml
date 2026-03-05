@@ -4,249 +4,182 @@ inputSchema:
     title: Organizational Fairness Perception Survey
     pages:
     - id: 1
-      name: employee_fairness_survey
-      label: Employee Fairness
+      name: fairness_in_leadership
+      label: Fairness in Leadership
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 2
-      name: leadership_fairness_survey
-      label: Leadership Fairness
+      name: fairness_in_recruitment
+      label: Fairness in Recruitment
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 3
-      name: fairness_in_diversity_and_inclusion
-      label: Fairness in Diversity and Inclusion
+      name: fairness_in_training_and_development
+      label: Fairness in Training and Development
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 4
-      name: fairness_in_recruitment
-      label: Fairness in Recruitment
+      name: fairness_in_promotion
+      label: Fairness in Promotion
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 5
-      name: fairness_in_training_and_development
-      label: Fairness in Training and Development
+      name: fairness_in_compensation
+      label: Fairness in Compensation
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 6
-      name: fairness_in_promotion
-      label: Fairness in Promotion
+      name: fairness_in_job_security
+      label: Fairness in Job Security
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 7
-      name: fairness_in_compensation
-      label: Fairness in Compensation
+      name: fairness_in_job_content
+      label: Fairness in Job Content
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 8
-      name: fairness_in_job_security
-      label: Fairness in Job Security
+      name: fairness_in_equitable_treatment
+      label: Fairness in Equitable Treatment
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 9
-      name: fairness_in_job_content
-      label: Fairness in Job Content
+      name: fairness_in_organizational_climate
+      label: Fairness in Organizational Climate
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 10
-      name: fairness_in_equitable_treatment
-      label: Fairness in Equitable Treatment
+      name: fairness_in_work_life_balance
+      label: Fairness in Work/Life Balance
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 11
-      name: fairness_in_organizational_climate
-      label: Fairness in Organizational Climate
+      name: fairness_in_communication
+      label: Fairness in Communication
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 12
-      name: fairness_in_work_life_balance
-      label: Fairness in Work/Life Balance
+      name: fairness_in_diversity_and_inclusion
+      label: Fairness in Diversity and Inclusion
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 13
-      name: fairness_in_communication
-      label: Fairness in Communication
+      name: fairness_in_equitable_treatment_2
+      label: Fairness In Equitable Treatment 2
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 14
-      name: fairness_in_diversity_and_inclusion
-      label: Fairness in Diversity and Inclusion
+      name: fairness_in_organizational_climate_2
+      label: Fairness In Organizational Climate 2
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 15
-      name: fairness_in_recruitment
-      label: Fairness in Recruitment
+      name: fairness_in_work_life_balance_2
+      label: Fairness In Work Life Balance 2
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 16
-      name: fairness_in_training_and_development
-      label: Fairness in Training and Development
+      name: fairness_in_communication_2
+      label: Fairness In Communication 2
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 17
-      name: fairness_in_promotion
-      label: Fairness in Promotion
+      name: fairness_in_diversity_and_inclusion_2
+      label: Fairness In Diversity And Inclusion 2
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false
     - id: 18
-      name: fairness_in_compensation
-      label: Fairness in Compensation
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
-      required: false
-    - id: 19
-      name: fairness_in_job_security
-      label: Fairness in Job Security
+      name: fairness_in_work_life_balance_3
+      label: Fairness In Work Life Balance 3
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
-      required: false
-    - id: 20
-      name: fairness_in_job_content
-      label: Fairness in Job Content
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
-      required: false
-    - id: 21
-      name: fairness_in_equitable_treatment
-      label: Fairness in Equitable Treatment
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
-      required: false
-    - id: 22
-      name: fairness_in_organizational_climate
-      label: Fairness in Organizational Climate
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
-      required: false
-    - id: 23
-      name: fairness_in_work_life_balance
-      label: Fairness in Work/Life Balance
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
-      required: false
-    - id: 24
-      name: fairness_in_communication
-      label: Fairness in Communication
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
-      required: false
-    - id: 25
-      name: fairness_in_diversity_and_inclusion
-      label: Fairness in Diversity and Inclusion
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
+      - Very Good
+      - Neutral
+      - Very Poor
       required: false

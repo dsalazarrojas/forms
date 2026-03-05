@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Break Room''}'
-      - '{''label'': ''Kitchen''}'
-      - '{''label'': ''Meeting Room''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''Office''}'
+      - Break Room
+      - Kitchen
+      - Meeting Room
+      - Other
+      - Office
       required: true
     - id: 3
       name: cleanliness_level
@@ -28,11 +28,11 @@ inputSchema:
       hint: On a scale of 1-5
       type: select_one
       options:
-      - '{''label'': ''1 - Very Dirty''}'
-      - '{''label'': ''2 - Somewhat Dirty''}'
-      - '{''label'': ''3 - Neutral''}'
-      - '{''label'': ''4 - Somewhat Clean''}'
-      - '{''label'': ''5 - Extremely Clean''}'
+      - 1 - Very Dirty
+      - 2 - Somewhat Dirty
+      - 3 - Neutral
+      - 4 - Somewhat Clean
+      - 5 - Extremely Clean
       required: true
     - id: 4
       name: concerns
@@ -54,11 +54,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
       required: true
     - id: 7
       name: cleanliness_priority
@@ -66,8 +66,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Trash and Recycling''}'
-      - '{''label'': ''Disinfecting and Sanitizing''}'
-      - '{''label'': ''Cleaning Equipment and Supplies''}'
-      - '{''label'': ''Other''}'
+      - Trash and Recycling
+      - Disinfecting and Sanitizing
+      - Cleaning Equipment and Supplies
+      - Other
       required: true

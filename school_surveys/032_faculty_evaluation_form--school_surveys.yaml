@@ -61,11 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: student_support
@@ -89,11 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 12
       name: faculty_teaching_style
@@ -150,9 +146,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 20
       name: department_faculty_evaluation
@@ -176,30 +172,28 @@ inputSchema:
       options: []
       required: false
     - id: 23
-      name: course_satisfaction
-      label: Course Satisfaction
+      name: course_satisfaction_2
+      label: Course Satisfaction 2
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 24
-      name: overall_satisfaction
-      label: Overall Satisfaction
+      name: overall_satisfaction_2
+      label: Overall Satisfaction 2
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 25
-      name: course_evaluation
-      label: Course Evaluation
+      name: course_evaluation_2
+      label: Course Evaluation 2
       hint: null
       type: text
       options: []

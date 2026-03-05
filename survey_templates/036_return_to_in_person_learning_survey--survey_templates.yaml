@@ -4,29 +4,33 @@ inputSchema:
     title: Return To In Person Learning Survey
     pages:
     - id: 1
-      name: survey_header
-      label: Survey Header
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: what_is_your_level_of_in_person_learning
-      label: What Is Your Level Of In Person Learning
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 3
-      name: how_long_do_you_agree_with_the_following
-      label: How Long Do You Agree With The Following
+      name: introduction_to_in_person_learning
+      label: Introduction to In Person Learning
       hint: null
       type: text
       options: []
       required: false
+    - id: 2
+      name: in_person_learning_experience
+      label: In Person Learning Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agreement_with_in_person_learning
+      label: Agreement with In Person Learning
+      hint: null
+      type: select_one
+      options:
+      - A great deal
+      - Somewhat
+      - Not at all
+      - No opinion
+      required: false
     - id: 4
-      name: in_person_learning_enjoyed_your_learning_experience
-      label: In Person Learning Enjoyed Your Learning Experience
+      name: in_person_learning_satisfaction
+      label: In Person Learning Satisfaction
       hint: null
       type: select_one
       options:
@@ -36,10 +40,10 @@ inputSchema:
       - No opinion
       required: false
     - id: 5
-      name: how_long_do_you_agree_with_the_following
-      label: How Long Do You Agree With The Following
+      name: frequency_of_in_person_learning
+      label: Frequency of In Person Learning
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - A great deal
       - Somewhat
@@ -47,75 +51,30 @@ inputSchema:
       - No opinion
       required: false
     - id: 6
-      name: how_long_do_you_agree_with_the_following_2
-      label: How Long Do You Agree With The Following
+      name: in_person_learning_benefits
+      label: In Person Learning Benefits
       hint: null
-      type: select_multiple
-      options:
-      - A great deal
-      - Somewhat
-      - Not at all
-      - No opinion
-      required: false
-    - id: 7
-      name: in_person_learning_enjoyed_your_learning_experience_2
-      label: In Person Learning Enjoyed Your Learning Experience
-      hint: null
-      type: select_one
-      options:
-      - A great deal
-      - Somewhat
-      - Not at all
-      - No opinion
-      required: false
-    - id: 8
-      name: in_person_learning_enjoyed_your_learning_experience_3
-      label: In Person Learning Enjoyed Your Learning Experience
-      hint: null
-      type: select_one
-      options:
-      - A great deal
-      - Somewhat
-      - Not at all
-      - No opinion
-      required: false
-    - id: 9
-      name: how_long_do_you_agree_with_the_following_2
-      label: How Long Do You Agree With The Following
-      hint: null
-      type: select_multiple
-      options:
-      - A great deal
-      - Somewhat
-      - Not at all
-      - No opinion
-      required: false
-    - id: 10
-      name: in_person_learning_enjoyed_your_learning_experience_4
-      label: In Person Learning Enjoyed Your Learning Experience
-      hint: null
-      type: select_one
-      options:
-      - A great deal
-      - Somewhat
-      - Not at all
-      - No opinion
-      required: false
-    - id: 11
-      name: survey_footer
-      label: Survey Footer
-      hint: null
-      type: note
+      type: text
       options: []
       required: false
-    - id: 12
-      name: in_person_learning_enjoyed_your_learning_experience_5
-      label: In Person Learning Enjoyed Your Learning Experience
+    - id: 7
+      name: open_ended_question
+      label: Open-Ended Question
       hint: null
-      type: select_one
-      options:
-      - A great deal
-      - Somewhat
-      - Not at all
-      - No opinion
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: final_thoughts
+      label: Final Thoughts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: survey_instructions
+      label: Survey Instructions
+      hint: null
+      type: text
+      options: []
       required: false

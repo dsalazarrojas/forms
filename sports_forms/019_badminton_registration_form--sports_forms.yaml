@@ -1,220 +1,209 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Badminton Registration Form
     pages:
-      - id: 1
-        name: section_player
-        label: -- Player Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: player_name
-        label: Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: date_of_birth
-        label: Date of Birth
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: email_address
-        label: Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 5
-        name: phone_number
-        Label: Phone Number
-        hint: null
-        type: phone
-        options: []
-        required: true
-      - id: 6
-        name: emergency_contact
-        label: Emergency Contact Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: emergency_phone
-        Label: Emergency Contact Phone
-        hint: null
-        type: phone
-        options: []
-        required: true
-      - id: 8
-        name: section_membership
-        label: -- Membership Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: membership_type
-        label: Membership Type
-        hint: null
-        type: select_one
-        options:
-          - Individual
-          - Student
-          - Family
-          - Corporate
-        required: true
-      - id: 10
-        name: experience_level
-        Label: Playing Experience Level
-        hint: null
-        type: select_one
-        options:
-          - Beginner
-          - Intermediate
-          - Advanced
-          - Professional
-        required: true
-      - id: 11
-        name: section_schedule
-        label: -- Playing Schedule --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: preferred_days
-        Label: Preferred Playing Days
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Monday
-          - Tuesday
-          - Wednesday
-          - Thursday
-          - Friday
-          - Saturday
-          - Sunday
-        required: true
-      - id: 13
-        name: preferred_times
-        Label: Preferred Time Slots
-        hint: null
-        type: select_one
-        options:
-          - Morning (6am - 12pm)
-          - Afternoon (12pm - 6pm)
-          - Evening (6pm - 10pm)
-          - Flexible
-        required: true
-      - id: 14
-        name: sessions_per_week
-        Label: Preferred Number of Sessions Per Week
-        hint: null
-        type: integer
-        options: []
-        required: false
-      - id: 15
-        name: section_facility
-        label: -- Facility Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: preferred_court
-        label: Preferred Court/Facility
-        hint: If available
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: section_payment
-        label: -- Payment Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 18
-        name: annual_fee
-        Label: Annual Membership Fee
-        hint: In dollars
-        type: decimal
-        options: []
-        required: true
-      - id: 19
-        name: payment_method
-        Label: Preferred Payment Method
-        hint: null
-        type: select_one
-        options:
-          - Credit Card
-          - Debit Card
-          - Bank Transfer
-          - Cash
-          - Check
-        required: true
-      - id: 20
-        name: section_health
-        label: -- Health and Safety --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 21
-        name: medical_conditions
-        Label: Medical Conditions or Injuries
-        hint: Any relevant health information
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: liability_waiver
-        Label: I Agree to the Liability Waiver
-        hint: null
-        type: select_one
-        options:
-          - I Agree
-          - I Do Not Agree
-        required: true
-      - id: 23
-        name: medical_clearance
-        Label: Medical Clearance Obtained
-        hint: For high-risk individuals
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Required
-        required: false
-      - id: 24
-        name: section_preferences
-        label: -- Additional Preferences --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 25
-        name: special_requests
-        Label: Special Requests or Accommodations
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: section_player
+      label: -- Player Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      Label: Phone Number
+      hint: null
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_phone
+      Label: Emergency Contact Phone
+      hint: null
+      type: phone
+      options: []
+      required: true
+    - id: 8
+      name: section_membership
+      label: -- Membership Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Student
+      - Family
+      - Corporate
+      required: true
+    - id: 10
+      name: experience_level
+      Label: Playing Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 11
+      name: section_schedule
+      label: -- Playing Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preferred_days
+      Label: Preferred Playing Days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 13
+      name: preferred_times
+      Label: Preferred Time Slots
+      hint: null
+      type: select_one
+      options:
+      - Morning (6am - 12pm)
+      - Afternoon (12pm - 6pm)
+      - Evening (6pm - 10pm)
+      - Flexible
+      required: true
+    - id: 14
+      name: sessions_per_week
+      Label: Preferred Number of Sessions Per Week
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 15
+      name: section_facility
+      label: -- Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: preferred_court
+      label: Preferred Court/Facility
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: annual_fee
+      Label: Annual Membership Fee
+      hint: In dollars
+      type: decimal
+      options: []
+      required: true
+    - id: 19
+      name: payment_method
+      Label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Cash
+      - Check
+      required: true
+    - id: 20
+      name: section_health
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: medical_conditions
+      Label: Medical Conditions or Injuries
+      hint: Any relevant health information
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: liability_waiver
+      Label: I Agree to the Liability Waiver
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: medical_clearance
+      Label: Medical Clearance Obtained
+      hint: For high-risk individuals
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Required
+      required: false
+    - id: 24
+      name: section_preferences
+      label: -- Additional Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: special_requests
+      Label: Special Requests or Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Strongly Agree''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Disagree''}'
-      - '{''label'': ''Strongly Disagree''}'
+      - Strongly Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
       required: false
     - id: 3
       name: stakeholder_feedback
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Strongly Agree''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Disagree''}'
-      - '{''label'': ''Strongly Disagree''}'
+      - Strongly Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
       required: false
     - id: 4
       name: program_evaluation_checklist_program_effectiveness
@@ -38,8 +38,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: program_evaluation_checklist_participant_engagement
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 6
       name: program_evaluation_checklist_stakeholder_engagement
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 7
       name: program_evaluation_checklist_recommendations

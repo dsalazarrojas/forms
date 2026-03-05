@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Business''}'
-      - '{''value'': ''Service''}'
-      - '{''value'': ''Product''}'
+      - Business
+      - Service
+      - Product
       required: false
     - id: 5
       name: business_size
@@ -40,12 +40,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''1-10''}'
-      - '{''value'': ''11-50''}'
-      - '{''value'': ''51-100''}'
-      - '{''value'': ''101-500''}'
-      - '{''value'': ''501-1000''}'
-      - '{''value'': 1001}'
+      - 1-10
+      - 11-50
+      - 51-100
+      - 101-500
+      - 501-1000
+      - '1001'
       required: false
     - id: 6
       name: location
@@ -74,10 +74,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Social Media''}'
-      - '{''value'': ''Word of Mouth''}'
-      - '{''value'': ''Online Search''}'
-      - '{''value'': ''Other''}'
+      - Social Media
+      - Word of Mouth
+      - Online Search
+      - Other
       required: true
     - id: 10
       name: how_would_you_like_to_be_contacted
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Text Message''}'
+      - Phone
+      - Email
+      - Text Message
       required: true
     - id: 11
       name: additional_comments
@@ -102,8 +102,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: follow_up
@@ -111,9 +111,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Only if Requested''}'
+      - 'True'
+      - 'False'
+      - Only if Requested
       required: false
     - id: 14
       name: lead_source
@@ -121,8 +121,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Online''}'
-      - '{''value'': ''Offline''}'
+      - Online
+      - Offline
       required: false
     - id: 15
       name: lead_channel
@@ -130,9 +130,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Website''}'
-      - '{''value'': ''Social Media''}'
-      - '{''value'': ''Referral''}'
+      - Website
+      - Social Media
+      - Referral
       required: false
     - id: 16
       name: marketing_channels
@@ -140,10 +140,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Google Ads''}'
-      - '{''value'': ''Social Media''}'
-      - '{''value'': ''Referral''}'
-      - '{''value'': ''Word of Mouth''}'
+      - Google Ads
+      - Social Media
+      - Referral
+      - Word of Mouth
       required: false
     - id: 17
       name: sales_channels
@@ -151,9 +151,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Online''}'
-      - '{''value'': ''Offline''}'
-      - '{''value'': ''Phone''}'
+      - Online
+      - Offline
+      - Phone
       required: false
     - id: 18
       name: target_audience
@@ -161,9 +161,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''B2B''}'
-      - '{''value'': ''B2C''}'
-      - '{''value'': ''Consumer''}'
+      - B2B
+      - B2C
+      - Consumer
       required: false
     - id: 19
       name: target_location
@@ -171,9 +171,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Local''}'
-      - '{''value'': ''National''}'
-      - '{''value'': ''Global''}'
+      - Local
+      - National
+      - Global
       required: false
     - id: 20
       name: lead_timeframe
@@ -181,10 +181,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Immediately''}'
-      - '{''value'': ''Short-Term''}'
-      - '{''value'': ''Medium-Term''}'
-      - '{''value'': ''Long-Term''}'
+      - Immediately
+      - Short-Term
+      - Medium-Term
+      - Long-Term
       required: false
     - id: 21
       name: lead_value
@@ -213,8 +213,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''New Lead''}'
-      - '{''value'': ''Follow up''}'
+      - New Lead
+      - Follow up
       required: false
     - id: 25
       name: notes

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Assistance with Food'', ''value'': ''assistance_with_food''}'
-      - '{''id'': 2, ''label'': ''Emergency Assistance'', ''value'': ''emergency_assistance''}'
+      - Assistance with Food
+      - Emergency Assistance
       required: false
     - id: 3
       name: contact_method
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''id'': 2, ''label'': ''Email'', ''value'': ''email''}'
-      - '{''id'': 3, ''label'': ''In Person'', ''value'': ''in_person''}'
+      - Phone
+      - Email
+      - In Person
       required: false
     - id: 4
       name: request_details
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cash'', ''value'': ''cash''}'
-      - '{''id'': 2, ''label'': ''Credit'', ''value'': ''credit''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Cash
+      - Credit
+      - Other
       required: false
     - id: 6
       name: payment_amount
@@ -59,6 +59,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Open'', ''value'': ''open''}'
-      - '{''id'': 2, ''label'': ''Closed'', ''value'': ''closed''}'
+      - Open
+      - Closed
       required: false

@@ -16,16 +16,16 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Weight Lifting''}'
-      - '{''value'': ''Yoga''}'
-      - '{''value'': ''Pilates''}'
-      - '{''value'': ''Cardio Kickboxing''}'
-      - '{''value'': ''Cycling''}'
-      - '{''value'': ''Dance''}'
-      - '{''value'': ''Hiking''}'
-      - '{''value'': ''Running''}'
-      - '{''value'': ''Swimming''}'
-      - '{''value'': ''Tennis''}'
+      - Weight Lifting
+      - Yoga
+      - Pilates
+      - Cardio Kickboxing
+      - Cycling
+      - Dance
+      - Hiking
+      - Running
+      - Swimming
+      - Tennis
       required: true
     - id: 3
       name: preferred_time
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Mornings''}'
-      - '{''value'': ''Afternoons''}'
-      - '{''value'': ''Evenings''}'
-      - '{''value'': ''Weekends''}'
+      - Mornings
+      - Afternoons
+      - Evenings
+      - Weekends
       required: true
     - id: 4
       name: frequency
@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''3x per week''}'
-      - '{''value'': ''2x per week''}'
-      - '{''value'': ''Less than 2x per week''}'
+      - Daily
+      - 3x per week
+      - 2x per week
+      - Less than 2x per week
       required: true
     - id: 5
       name: start_date
@@ -62,10 +62,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''John Doe''}'
-      - '{''value'': ''Jane Doe''}'
-      - '{''value'': ''Jim Smith''}'
-      - '{''value'': ''Jane Smith''}'
+      - John Doe
+      - Jane Doe
+      - Jim Smith
+      - Jane Smith
       required: true
     - id: 7
       name: additional_comments
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''City Center''}'
-      - '{''value'': ''Suburbs''}'
-      - '{''value'': ''Regional''}'
+      - City Center
+      - Suburbs
+      - Regional
       required: true
     - id: 11
       name: preferred_language
@@ -104,9 +104,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''English''}'
-      - '{''value'': ''Spanish''}'
-      - '{''value'': ''Mandarin''}'
+      - English
+      - Spanish
+      - Mandarin
       required: true
     - id: 12
       name: additional_information
@@ -121,10 +121,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Self''}'
-      - '{''value'': ''Spouse''}'
-      - '{''value'': ''Parent''}'
-      - '{''value'': ''Other''}'
+      - Self
+      - Spouse
+      - Parent
+      - Other
       required: true
     - id: 14
       name: emergency_phone
@@ -146,10 +146,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Child''}'
-      - '{''value'': ''Spouse''}'
-      - '{''value'': ''Parent''}'
-      - '{''value'': ''Other''}'
+      - Child
+      - Spouse
+      - Parent
+      - Other
       required: true
     - id: 17
       name: emergency_address
@@ -164,9 +164,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''City Center''}'
-      - '{''value'': ''Suburbs''}'
-      - '{''value'': ''Regional''}'
+      - City Center
+      - Suburbs
+      - Regional
       required: true
     - id: 19
       name: emergency_country
@@ -174,8 +174,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Australia''}'
-      - '{''value'': ''New Zealand''}'
+      - Australia
+      - New Zealand
       required: true
     - id: 20
       name: emergency_postal_code
@@ -183,8 +183,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''1234''}'
-      - '{''value'': ''5678''}'
+      - '1234'
+      - '5678'
       required: true
     - id: 21
       name: emergency_relationship_status
@@ -192,9 +192,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Single''}'
-      - '{''value'': ''Married''}'
-      - '{''value'': ''In a relationship''}'
+      - Single
+      - Married
+      - In a relationship
       required: true
     - id: 22
       name: emergency_notes
@@ -223,6 +223,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Yes''}'
-      - '{''value'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: true

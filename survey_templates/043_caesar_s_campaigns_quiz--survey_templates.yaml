@@ -1,135 +1,163 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Caesar's Campaigns Quiz
     pages:
-      - id: 1
-        name: quiz_intro
-        label: -- Julius Caesar - Gallic and Civil Wars Quiz --
-        hint: Test your knowledge of Caesar's military campaigns
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: student_name
-        label: Student Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: quiz_date
-        label: Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: class_section
-        label: Class Section
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: question_1
-        label: In which territory did Caesar fight the Helvetii at the start of the Gallic Wars
-        hint: 58 BC
-        type: select_one
-        options: [Gaul, Britannia, Hispania, Germania]
-        required: true
-      - id: 6
-        name: question_2
-        label: Who was Caesar's primary opponent at the Siege of Alesia
-        hint: null
-        type: select_one
-        options: [Vercingetorix, Ambiorix, Ariovistus, Cassivellaunus]
-        required: true
-      - id: 7
-        name: question_3
-        label: Crossing which river signified Caesar's declaration of civil war against the Senate
-        hint: Alea iacta est
-        type: select_one
-        options: [Rubicon, Rhine, Tiber, Po]
-        required: true
-      - id: 8
-        name: question_4
-        label: At which battle did Caesar decisively defeat Pompey the Great
-        hint: 48 BC
-        type: select_one
-        options: [Pharsalus, Thapsus, Munda, Dyrrhachium]
-        required: true
-      - id: 9
-        name: question_5
-        label: What phrase did Caesar use to describe his swift victory in Pontus
-        hint: Battle of Zela
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: question_6
-        label: Identify Caesar's famous military engineering feat across the Rhine
-        hint: null
-        type: select_one
-        options: [Timber Bridge, Pontoon Bridge, Siege Tower, Underground Tunnel]
-        required: true
-      - id: 11
-        name: question_7
-        label: Which Gallic tribe was known for their fierce resistance and coastal sailing prowess
-        hint: null
-        type: select_one
-        options: [Veneti, Arverni, Belgae, Sequani]
-        required: true
-      - id: 12
-        name: question_8
-        label: Describe the 'Testudo' formation used by the Roman Legions
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: question_9
-        label: What was the primary motivation for Caesar's second invasion of Britannia
-        hint: 54 BC
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: bonus_question
-        label: Who were the members of the First Triumvirate
-        hint: select all three
-        type: select_multiple
-        options: [Julius Caesar, Pompey the Great, Marcus Crassus, Mark Antony, Octavian, Cicero]
-        required: false
-      - id: 15
-        name: quiz_feedback
-        label: How difficult did you find this quiz
-        hint: null
-        type: select_one
-        options: [Easy, Moderate, Difficult, Extremely Challenging]
-        required: true
-      - id: 16
-        name: additional_comments
-        label: Comments or questions for the instructor
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: submission_ack
-        label: I confirm this is my own work
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
+    - id: 1
+      name: quiz_intro
+      label: -- Julius Caesar - Gallic and Civil Wars Quiz --
+      hint: Test your knowledge of Caesar's military campaigns
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quiz_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: class_section
+      label: Class Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: question_1
+      label: In which territory did Caesar fight the Helvetii at the start of the
+        Gallic Wars
+      hint: 58 BC
+      type: select_one
+      options:
+      - Gaul
+      - Britannia
+      - Hispania
+      - Germania
+      required: true
+    - id: 6
+      name: question_2
+      label: Who was Caesar's primary opponent at the Siege of Alesia
+      hint: null
+      type: select_one
+      options:
+      - Vercingetorix
+      - Ambiorix
+      - Ariovistus
+      - Cassivellaunus
+      required: true
+    - id: 7
+      name: question_3
+      label: Crossing which river signified Caesar's declaration of civil war against
+        the Senate
+      hint: Alea iacta est
+      type: select_one
+      options:
+      - Rubicon
+      - Rhine
+      - Tiber
+      - Po
+      required: true
+    - id: 8
+      name: question_4
+      label: At which battle did Caesar decisively defeat Pompey the Great
+      hint: 48 BC
+      type: select_one
+      options:
+      - Pharsalus
+      - Thapsus
+      - Munda
+      - Dyrrhachium
+      required: true
+    - id: 9
+      name: question_5
+      label: What phrase did Caesar use to describe his swift victory in Pontus
+      hint: Battle of Zela
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: question_6
+      label: Identify Caesar's famous military engineering feat across the Rhine
+      hint: null
+      type: select_one
+      options:
+      - Timber Bridge
+      - Pontoon Bridge
+      - Siege Tower
+      - Underground Tunnel
+      required: true
+    - id: 11
+      name: question_7
+      label: Which Gallic tribe was known for their fierce resistance and coastal
+        sailing prowess
+      hint: null
+      type: select_one
+      options:
+      - Veneti
+      - Arverni
+      - Belgae
+      - Sequani
+      required: true
+    - id: 12
+      name: question_8
+      label: Describe the 'Testudo' formation used by the Roman Legions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: question_9
+      label: What was the primary motivation for Caesar's second invasion of Britannia
+      hint: 54 BC
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: bonus_question
+      label: Who were the members of the First Triumvirate
+      hint: select all three
+      type: select_multiple
+      options:
+      - Julius Caesar
+      - Pompey the Great
+      - Marcus Crassus
+      - Mark Antony
+      - Octavian
+      - Cicero
+      required: false
+    - id: 15
+      name: quiz_feedback
+      label: How difficult did you find this quiz
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Moderate
+      - Difficult
+      - Extremely Challenging
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Comments or questions for the instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_ack
+      label: I confirm this is my own work
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

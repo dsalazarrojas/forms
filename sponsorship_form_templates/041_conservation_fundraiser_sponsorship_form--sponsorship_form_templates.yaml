@@ -163,7 +163,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - Will submit
-      - false
+      - 'False'
       required: true
     - id: 18
       name: logo_email
@@ -178,8 +178,8 @@ inputSchema:
       hint: For events with vendor booths
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Maybe
       required: false
     - id: 20
@@ -188,8 +188,8 @@ inputSchema:
       hint: Employee volunteer interest
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Maybe
       required: true
     - id: 21
@@ -205,8 +205,8 @@ inputSchema:
       hint: Goods or services instead of cash
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: in_kind_details
@@ -228,8 +228,8 @@ inputSchema:
       hint: Will others match your donation
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 26
@@ -238,8 +238,8 @@ inputSchema:
       hint: Do you need tax documentation
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 27
       name: tax_id_number

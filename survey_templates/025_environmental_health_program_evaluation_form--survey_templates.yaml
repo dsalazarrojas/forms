@@ -5,28 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: program_info
-      label: program_info
+      label: Program Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: ratings
-      label: Ratings
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 3
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: ratings_1
-      label: How often is the program evaluated?
+      name: program_frequency
+      label: Program Evaluation Frequency
       hint: null
       type: select_one
       options:
@@ -36,9 +22,9 @@ inputSchema:
       - 2 or more times per year
       - More than 2 times per year
       required: false
-    - id: 5
-      name: ratings_2
-      label: How satisfied are you with the program?
+    - id: 3
+      name: program_satisfaction
+      label: Program Satisfaction
       hint: null
       type: select_multiple
       options:
@@ -48,37 +34,16 @@ inputSchema:
       - Somewhat dissatisfied
       - Very dissatisfied
       required: false
-    - id: 6
-      name: ratings_3
-      label: Comments about the program
+    - id: 4
+      name: program_likes
+      label: Program Likes
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
-      name: ratings_4
-      label: What do you like most about the program?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: ratings_5
-      label: What would you do if the program was not available?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: ratings_6
-      label: Comments about the program
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: ratings_7
-      label: How often do you use the program?
+    - id: 5
+      name: program_use
+      label: Program Use
       hint: null
       type: select_one
       options:
@@ -88,34 +53,9 @@ inputSchema:
       - 2 or more times per week
       - More than 2 times per week
       required: false
-    - id: 11
-      name: ratings_8
-      label: What would you do if the program was not available?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: ratings_9
-      label: Comments about the program
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: ratings_10
-      label: Do you use the program for work or personal reasons?
-      hint: null
-      type: select_one
-      options:
-      - Work
-      - Personal
-      - Both
-      - Neither
-      required: false
-    - id: 14
-      name: ratings_11
-      label: Do you know how to access the program?
+    - id: 6
+      name: program_access
+      label: Program Access
       hint: null
       type: select_one
       options:
@@ -123,9 +63,9 @@ inputSchema:
       - 'No'
       - Unknown
       required: false
-    - id: 15
-      name: ratings_12
-      label: How do you usually access the program?
+    - id: 7
+      name: program_access_method
+      label: Program Access Method
       hint: null
       type: select_multiple
       options:
@@ -135,9 +75,9 @@ inputSchema:
       - Through email
       - Through other means
       required: false
-    - id: 16
-      name: ratings_13
-      label: How often do you access the program?
+    - id: 8
+      name: program_access_frequency
+      label: Program Access Frequency
       hint: null
       type: select_one
       options:
@@ -147,16 +87,9 @@ inputSchema:
       - 2 or more times per week
       - More than 2 times per week
       required: false
-    - id: 17
-      name: ratings_14
-      label: Comments about the program
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: ratings_15
-      label: Is there a way to access the program 24/7?
+    - id: 9
+      name: program_24_7
+      label: 24/7 Availability
       hint: null
       type: select_one
       options:
@@ -164,16 +97,9 @@ inputSchema:
       - 'No'
       - Unknown
       required: false
-    - id: 19
-      name: ratings_16
-      label: Comments about the program
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: ratings_17
-      label: Is the program available in multiple languages?
+    - id: 10
+      name: program_languages
+      label: Program Languages
       hint: null
       type: select_one
       options:
@@ -181,16 +107,9 @@ inputSchema:
       - 'No'
       - Unknown
       required: false
-    - id: 21
-      name: ratings_18
-      label: Comments about the program
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: ratings_19
-      label: What is your level of interest in this program?
+    - id: 11
+      name: program_interest
+      label: Program Interest
       hint: null
       type: select_one
       options:
@@ -199,23 +118,16 @@ inputSchema:
       - Low
       - None
       required: false
-    - id: 23
-      name: ratings_20
-      label: Comments about the program
+    - id: 12
+      name: program_unavailability
+      label: Program Unavailability
       hint: null
       type: text
       options: []
       required: false
-    - id: 24
-      name: ratings_21
-      label: What would you do if the program was not available?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: ratings_22
-      label: Comments about the program
+    - id: 13
+      name: program_comments
+      label: Comments
       hint: null
       type: text
       options: []

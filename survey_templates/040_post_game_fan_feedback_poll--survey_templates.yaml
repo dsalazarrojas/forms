@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Game 1''}'
-      - '{''id'': 2, ''label'': ''Game 2''}'
-      - '{''id'': 3, ''label'': ''Game 3''}'
+      - Game 1
+      - Game 2
+      - Game 3
       required: true
     - id: 3
       name: overall_satisfaction
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Satisfied''}'
-      - '{''id'': 2, ''label'': ''Neutral''}'
-      - '{''id'': 3, ''label'': ''Somewhat Dissatisfied''}'
+      - Very Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
       required: true
     - id: 4
       name: venue_experience
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Average''}'
-      - '{''id'': 3, ''label'': ''Poor''}'
+      - Excellent
+      - Average
+      - Poor
       required: true
     - id: 6
       name: catering_service
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Good''}'
-      - '{''id'': 2, ''label'': ''Neutral''}'
-      - '{''id'': 3, ''label'': ''Poor''}'
+      - Very Good
+      - Neutral
+      - Poor
       required: true
     - id: 7
       name: merchandise
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: suggestions

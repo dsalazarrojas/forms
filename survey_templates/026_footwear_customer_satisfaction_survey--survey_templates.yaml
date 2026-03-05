@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Excellent''}'
-      - '{''value'': ''Good''}'
-      - '{''value'': ''Fair''}'
-      - '{''value'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 4
       name: rating_of_value_for_money
@@ -41,8 +41,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: purchase_intent
@@ -50,10 +50,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Definitely Will Purchase''}'
-      - '{''value'': ''Probably Will Purchase''}'
-      - '{''value'': ''Not Sure''}'
-      - '{''value'': ''Definitely Will Not Purchase''}'
+      - Definitely Will Purchase
+      - Probably Will Purchase
+      - Not Sure
+      - Definitely Will Not Purchase
       required: true
     - id: 7
       name: feedback

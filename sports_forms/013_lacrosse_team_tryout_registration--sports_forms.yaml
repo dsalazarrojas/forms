@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Goalie''}'
-      - '{''label'': ''Defenseman''}'
-      - '{''label'': ''Forward''}'
-      - '{''label'': ''Other''}'
+      - Goalie
+      - Defenseman
+      - Forward
+      - Other
       required: false
     - id: 8
       name: team_experience
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Some''}'
+      - 'True'
+      - 'False'
+      - Some
       required: false
     - id: 9
       name: parent_permission
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: notes

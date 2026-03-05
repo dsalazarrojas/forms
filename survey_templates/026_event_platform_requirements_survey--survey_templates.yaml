@@ -4,150 +4,59 @@ inputSchema:
     title: Event Platform Requirements Survey
     pages:
     - id: 1
-      name: event_platform_requirements_survey
-      label: Platform Requirements
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: event_planning_priorities
-      label: Priorities
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 3
-      name: event_platform_expectations
-      label: Expectations
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 4
-      name: event_planning_timeframe
-      label: Timeframe
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 5
-      name: event_planning_duration
-      label: Duration
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 6
-      name: event_platforms_used
-      label: Platforms Used
+      name: event_planning_platforms_used
+      label: Event Platforms Used
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 2
+      name: event_planning_priorities
+      label: Event Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 3
+      name: event_planning_timeframe
+      label: Event Timeframe
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_planning_duration
+      label: Event Duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: event_planning_teams_involved
+      label: Event Teams Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: event_planning_platforms_expected_to_use
+      label: Expected to Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 7
-      name: event_planning_teams
-      label: Teams Involved
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 8
-      name: event_platforms_expected_to_use
-      label: Expected to Use
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 9
-      name: event_planning_teams_involved
-      label: Teams Involved
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: event_platforms_expected_to_use
-      label: Expected to Use
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: event_planning_duration
-      label: Duration
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: event_platform_requirements_questions
-      label: Questions
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: event_planning_timeframe
-      label: Timeframe
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: event_planning_teams
-      label: Teams Involved
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: event_planning_duration
-      label: Duration
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: event_platform_expectations
-      label: Expectations
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: event_planning_priorities
-      label: Priorities
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: event_planning_timeframe
-      label: Timeframe
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
       name: event_planning_teams_used
       label: Teams Used
       hint: null
@@ -155,52 +64,43 @@ inputSchema:
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 20
-      name: event_planning_teams_involved
+      required: true
+    - id: 8
+      name: event_planning_teams
       label: Teams Involved
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 21
-      name: event_planning_duration
-      label: Duration
+      required: true
+    - id: 9
+      name: event_platform_expectations
+      label: Expectations
       hint: null
-      type: time
+      type: note
       options: []
-      required: false
-    - id: 22
-      name: event_planning_timeframe
-      label: Timeframe
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: event_planning_teams_involved
-      label: Teams Involved
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: event_planning_duration
-      label: Duration
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: event_planning_priorities
+      required: true
+    - id: 10
+      name: event_planning_priorities_2
       label: Priorities
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
+    - id: 11
+      name: event_planning_timeframe_2
+      label: Timeframe
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: event_planning_duration_2
+      label: Duration
+      hint: null
+      type: time
+      options: []
+      required: true

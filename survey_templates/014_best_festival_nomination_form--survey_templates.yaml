@@ -1,194 +1,183 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Best Festival Nomination Form
     pages:
-      - id: 1
-        name: nominator_info_header
-        label: -- Nominator Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: nominator_name_input
-        label: Nominator Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: nominator_email_input
-        label: Nominator Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: festival_details_header
-        label: -- Festival Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: festival_name_text
-        label: Festival Name
-        hint: The official name of the event
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: festival_location_text
-        label: Festival Location
-        hint: City and State or Country
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: festival_website_url
-        label: Festival Website
-        hint: URL for event information
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: festival_category_select
-        label: Festival Category
-        hint: Primary focus of the festival
-        type: select_one
-        options:
-          - Music and Arts
-          - Food and Drink
-          - Film and Media
-          - Cultural and Heritage
-          - Technology and Innovation
-          - Seasonal (Holiday/Solstice)
-          - Other
-        required: true
-      - id: 9
-        name: last_event_occurrence
-        label: Last Event Date
-        hint: Date when the most recent edition took place
-        type: date
-        options: []
-        required: true
-      - id: 10
-        name: festival_quality_header
-        label: -- Quality and Impact Assessment --
-        hint: Rate from 1 (Low) to 5 (High)
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: organization_quality_rating
-        label: Organization and Logistics
-        hint: How well was the event managed
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 12
-        name: value_for_money_rating
-        label: Value for Money
-        hint: null
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 13
-        name: community_impact_rating
-        label: Local Community Impact
-        hint: null
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 14
-        name: sustainability_rating
-        label: Environmental Sustainability
-        hint: Efforts to reduce waste and carbon footprint
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 15
-        name: nomination_support_header
-        label: -- Nomination Support --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: unique_features_desc
-        label: Describe the unique features of this festival
-        hint: What sets it apart from others
-        type: text
-        options: []
-        required: true
-      - id: 17
-        name: win_justification_text
-        label: Why does this festival deserve to win
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: recent_highlights_list
-        label: Notable highlights from the most recent edition
-        hint: Key performers, vendors, or moments
-        type: text
-        options: []
-        required: true
-      - id: 19
-        name: conclusion_header
-        label: -- Conclusion --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 20
-        name: recommendation_status
-        label: Would you recommend this festival to others
-        hint: null
-        type: select_one
-        options:
-          - Definitely Yes
-          - Probably
-          - Neutral
-          - No
-        required: true
-      - id: 21
-        name: nomination_final_date
-        label: Date of Submission
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: nominator_info_header
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_name_input
+      label: Nominator Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email_input
+      label: Nominator Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: festival_details_header
+      label: -- Festival Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: festival_name_text
+      label: Festival Name
+      hint: The official name of the event
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: festival_location_text
+      label: Festival Location
+      hint: City and State or Country
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: festival_website_url
+      label: Festival Website
+      hint: URL for event information
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: festival_category_select
+      label: Festival Category
+      hint: Primary focus of the festival
+      type: select_one
+      options:
+      - Music and Arts
+      - Food and Drink
+      - Film and Media
+      - Cultural and Heritage
+      - Technology and Innovation
+      - Seasonal (Holiday/Solstice)
+      - Other
+      required: true
+    - id: 9
+      name: last_event_occurrence
+      label: Last Event Date
+      hint: Date when the most recent edition took place
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: festival_quality_header
+      label: -- Quality and Impact Assessment --
+      hint: Rate from 1 (Low) to 5 (High)
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: organization_quality_rating
+      label: Organization and Logistics
+      hint: How well was the event managed
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 12
+      name: value_for_money_rating
+      label: Value for Money
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 13
+      name: community_impact_rating
+      label: Local Community Impact
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 14
+      name: sustainability_rating
+      label: Environmental Sustainability
+      hint: Efforts to reduce waste and carbon footprint
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 15
+      name: nomination_support_header
+      label: -- Nomination Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: unique_features_desc
+      label: Describe the unique features of this festival
+      hint: What sets it apart from others
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: win_justification_text
+      label: Why does this festival deserve to win
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: recent_highlights_list
+      label: Notable highlights from the most recent edition
+      hint: Key performers, vendors, or moments
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: conclusion_header
+      label: -- Conclusion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: recommendation_status
+      label: Would you recommend this festival to others
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably
+      - Neutral
+      - 'False'
+      required: true
+    - id: 21
+      name: nomination_final_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

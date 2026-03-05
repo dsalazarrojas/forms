@@ -1,192 +1,181 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Best Movies Watchlist Checklist
     pages:
-      - id: 1
-        name: cinephile_profile_header
-        label: -- Cinephile Profile --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: movie_fan_name
-        label: Your Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: favorite_movie_genre
-        label: Your Favorite Movie Genre
-        hint: What do you enjoy watching most
-        type: select_one
-        options:
-          - Drama and Romance
-          - Comedy and Satire
-          - Action and Thriller
-          - Sci-Fi and Fantasy
-          - Horror and Mystery
-          - Documentary
-          - Animation
-          - Other
-        required: true
-      - id: 4
-        name: watchlist_header
-        label: -- Movie Watchlist --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: movie_title_1
-        label: Movie Title 1
-        hint: Title of a film you want to watch
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: movie_reason_1
-        label: Reason for Selection 1
-        hint: Why do you want to watch this film
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: movie_title_2
-        label: Movie Title 2
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: movie_reason_2
-        label: Reason for Selection 2
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: movie_title_3
-        label: Movie Title 3
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: movie_reason_3
-        label: Reason for Selection 3
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: movie_title_4
-        label: Movie Title 4
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: movie_reason_4
-        label: Reason for Selection 4
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: checklist_rating_header
-        label: -- Film Checklist and Experience --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: classic_films_checklist
-        label: Which of these classics have you already seen
-        hint: Check all that apply
-        type: select_multiple
-        options:
-          - The Godfather
-          - Citizen Kane
-          - Pulp Fiction
-          - Parasite
-          - Inception
-          - The Shawshank Redemption
-          - Spirited Away
-          - Other
-        required: false
-      - id: 15
-        name: top_choice_avg_rating
-        label: Average Expected Rating for Your Watchlist
-        hint: From 1 to 5
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: false
-      - id: 16
-        name: future_streaming_header
-        label: -- Future Watchlist and Streaming --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: streaming_service_preference
-        label: Preferred Streaming Platforms
-        hint: Select your primary sources for films
-        type: select_multiple
-        options:
-          - Netflix
-          - HBO Max
-          - Disney+
-          - Amazon Prime Video
-          - Hulu
-          - Apple TV+
-          - Movie Theater (Cinema)
-          - Criterion Channel
-        required: false
-      - id: 18
-        name: movie_recommendation_text
-        label: Any specific movies you would like to recommend
-        hint: Share your favorites with the group
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: movie_fan_contact_header
-        label: -- Contact Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 20
-        name: movie_fan_email
-        label: Your Email Address
-        hint: null
-        type: email
-        options: []
-        required: false
-      - id: 21
-        name: checklist_date
-        label: Date of Checklist
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: cinephile_profile_header
+      label: -- Cinephile Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: movie_fan_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: favorite_movie_genre
+      label: Your Favorite Movie Genre
+      hint: What do you enjoy watching most
+      type: select_one
+      options:
+      - Drama and Romance
+      - Comedy and Satire
+      - Action and Thriller
+      - Sci-Fi and Fantasy
+      - Horror and Mystery
+      - Documentary
+      - Animation
+      - Other
+      required: true
+    - id: 4
+      name: watchlist_header
+      label: -- Movie Watchlist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: movie_title_1
+      label: Movie Title 1
+      hint: Title of a film you want to watch
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: movie_reason_1
+      label: Reason for Selection 1
+      hint: Why do you want to watch this film
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: movie_title_2
+      label: Movie Title 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: movie_reason_2
+      label: Reason for Selection 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: movie_title_3
+      label: Movie Title 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: movie_reason_3
+      label: Reason for Selection 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: movie_title_4
+      label: Movie Title 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: movie_reason_4
+      label: Reason for Selection 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: checklist_rating_header
+      label: -- Film Checklist and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: classic_films_checklist
+      label: Which of these classics have you already seen
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - The Godfather
+      - Citizen Kane
+      - Pulp Fiction
+      - Parasite
+      - Inception
+      - The Shawshank Redemption
+      - Spirited Away
+      - Other
+      required: false
+    - id: 15
+      name: top_choice_avg_rating
+      label: Average Expected Rating for Your Watchlist
+      hint: From 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 16
+      name: future_streaming_header
+      label: -- Future Watchlist and Streaming --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: streaming_service_preference
+      label: Preferred Streaming Platforms
+      hint: Select your primary sources for films
+      type: select_multiple
+      options:
+      - Netflix
+      - HBO Max
+      - Disney+
+      - Amazon Prime Video
+      - Hulu
+      - Apple TV+
+      - Movie Theater (Cinema)
+      - Criterion Channel
+      required: false
+    - id: 18
+      name: movie_recommendation_text
+      label: Any specific movies you would like to recommend
+      hint: Share your favorites with the group
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: movie_fan_contact_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: movie_fan_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: checklist_date
+      label: Date of Checklist
+      hint: null
+      type: date
+      options: []
+      required: true

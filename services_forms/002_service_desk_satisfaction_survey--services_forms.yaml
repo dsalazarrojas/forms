@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Less than 1 hour''}'
-      - '{''id'': 2, ''label'': ''1-2 hours''}'
-      - '{''id'': 3, ''label'': ''2-4 hours''}'
-      - '{''id'': 4, ''label'': ''4-8 hours''}'
-      - '{''id'': 5, ''label'': ''More than 4 hours''}'
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - 4-8 hours
+      - More than 4 hours
       required: false
     - id: 6
       name: resolution_time_scale_other
@@ -56,11 +56,11 @@ inputSchema:
       hint: How would you describe the communication with the support staff?
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very clear''}'
-      - '{''id'': 2, ''label'': ''Clear''}'
-      - '{''id'': 3, ''label'': ''Somewhat clear''}'
-      - '{''id'': 4, ''label'': ''Not very clear''}'
-      - '{''id'': 5, ''label'': ''Not at all clear''}'
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Not very clear
+      - Not at all clear
       required: false
     - id: 8
       name: communication_scale
@@ -75,11 +75,11 @@ inputSchema:
       hint: How would you rate the helpfulness of the support staff?
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very helpful''}'
-      - '{''id'': 2, ''label'': ''Helpful''}'
-      - '{''id'': 3, ''label'': ''Somewhat helpful''}'
-      - '{''id'': 4, ''label'': ''Not very helpful''}'
-      - '{''id'': 5, ''label'': ''Not at all helpful''}'
+      - Very helpful
+      - Helpful
+      - Somewhat helpful
+      - Not very helpful
+      - Not at all helpful
       required: false
     - id: 10
       name: helpfulness_scale
@@ -94,11 +94,11 @@ inputSchema:
       hint: How satisfied are you with the service?
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very satisfied''}'
-      - '{''id'': 2, ''label'': ''Satisfied''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Dissatisfied''}'
-      - '{''id'': 5, ''label'': ''Very dissatisfied''}'
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
       required: false
     - id: 12
       name: additional_comments
@@ -155,9 +155,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Support team''}'
-      - '{''id'': 2, ''label'': ''Team members''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Support team
+      - Team members
+      - Other
       required: false
     - id: 20
       name: manager
@@ -165,7 +165,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Was a manager involved in the case?''}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': True}'
+      - Was a manager involved in the case?
+      - 'False'
+      - 'True'
       required: false

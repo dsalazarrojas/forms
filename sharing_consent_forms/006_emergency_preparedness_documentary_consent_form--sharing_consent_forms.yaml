@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Participant''}'
-      - '{''id'': 2, ''label'': ''Supporter''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Participant
+      - Supporter
+      - Both
       required: true
     - id: 3
       name: consent
@@ -26,8 +26,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 4
       name: participant_details_1

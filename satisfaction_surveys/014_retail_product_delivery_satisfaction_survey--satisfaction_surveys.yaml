@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Very dissatisfied''}'
-      - '{''value'': 2, ''label'': ''Somewhat dissatisfied''}'
-      - '{''value'': 3, ''label'': ''Neutral''}'
-      - '{''value'': 4, ''label'': ''Somewhat satisfied''}'
-      - '{''value'': 5, ''label'': ''Very satisfied''}'
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
       required: true
     - id: 5
       name: communication
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Excellent''}'
-      - '{''value'': 2, ''label'': ''Good''}'
-      - '{''value'': 3, ''label'': ''Fair''}'
+      - Excellent
+      - Good
+      - Fair
       required: true
     - id: 7
       name: product_condition
@@ -59,9 +59,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''New''}'
-      - '{''value'': 2, ''label'': ''Gently used''}'
-      - '{''value'': 3, ''label'': ''Used''}'
+      - New
+      - Gently used
+      - Used
       required: true
     - id: 8
       name: order_status
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''On time''}'
-      - '{''value'': 2, ''label'': ''Delayed''}'
-      - '{''value'': 3, ''label'': ''Cancelled''}'
+      - On time
+      - Delayed
+      - Cancelled
       required: true
     - id: 9
       name: contact_method
@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Phone''}'
-      - '{''value'': 2, ''label'': ''Email''}'
+      - Phone
+      - Email
       required: true
     - id: 10
       name: comments
@@ -137,8 +137,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Received''}'
-      - '{''value'': 2, ''label'': ''Not received''}'
+      - Received
+      - Not received
       required: true
     - id: 18
       name: delivery_note

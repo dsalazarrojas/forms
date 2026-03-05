@@ -12,110 +12,68 @@
 inputSchema:
   type: object
   properties:
-    title: football_trial_application_form
+    title: Football Trial Application Form
     pages:
     - id: 1
-      name: football_trial_application_form_page_1
-      label: football_trial_application_form_page_1
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: trial_details
-      label: trial_details
+      name: contact_information
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
+    - id: 2
+      name: trial_details
+      label: Trial Details
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 3
       name: trial_dates
-      label: trial_dates
+      label: Trial Dates
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
       name: trial_time
-      label: trial_time
+      label: Trial Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 5
       name: trial_location
-      label: trial_location
+      label: Trial Location
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: trial_notes
-      label: trial_notes
+      name: football_player_details
+      label: Football Player Details
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 7
       name: trial_attorney
-      label: trial_attorney
+      label: Trial Attorney
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: football_player_details
-      label: football_player_details
+      name: contact_person
+      label: Contact Person
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: trial_date
-      label: trial_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: trial_time
-      label: trial_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: trial_location
-      label: trial_location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: trial_attorney
-      label: trial_attorney
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: trial_notes
-      label: trial_notes
+      name: notes
+      label: Notes
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 14
-      name: football_player_details
-      label: football_player_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: email
-      label: email
-      hint: null
-      type: email
       options: []
       required: false

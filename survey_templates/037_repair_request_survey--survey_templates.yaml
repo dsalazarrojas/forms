@@ -23,10 +23,10 @@ inputSchema:
       hint: Enter location
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Location 1''}'
-      - '{''id'': 2, ''name'': ''Location 2''}'
-      - '{''id'': 3, ''name'': ''Location 3''}'
-      - '{''id'': 4, ''name'': ''Location 4''}'
+      - Location 1
+      - Location 2
+      - Location 3
+      - Location 4
       required: false
     - id: 4
       name: repair_date
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Issue Type 1''}'
-      - '{''id'': 2, ''name'': ''Issue Type 2''}'
-      - '{''id'': 3, ''name'': ''Issue Type 3''}'
+      - Issue Type 1
+      - Issue Type 2
+      - Issue Type 3
       required: false
     - id: 7
       name: issue_severity
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Issue Severity 1''}'
-      - '{''id'': 2, ''name'': ''Issue Severity 2''}'
-      - '{''id'': 3, ''name'': ''Issue Severity 3''}'
+      - Issue Severity 1
+      - Issue Severity 2
+      - Issue Severity 3
       required: false
     - id: 8
       name: repair_type
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Repair Type 1''}'
-      - '{''id'': 2, ''name'': ''Repair Type 2''}'
-      - '{''id'': 3, ''name'': ''Repair Type 3''}'
+      - Repair Type 1
+      - Repair Type 2
+      - Repair Type 3
       required: false
     - id: 9
       name: repair_outcome
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Repair Outcome 1''}'
-      - '{''id'': 2, ''name'': ''Repair Outcome 2''}'
-      - '{''id'': 3, ''name'': ''Repair Outcome 3''}'
+      - Repair Outcome 1
+      - Repair Outcome 2
+      - Repair Outcome 3
       required: false
     - id: 10
       name: comments
@@ -137,8 +137,8 @@ inputSchema:
       hint: Enter location 2
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Location 1''}'
-      - '{''id'': 2, ''name'': ''Location 2''}'
+      - Location 1
+      - Location 2
       required: false
     - id: 18
       name: repair_date2
@@ -160,8 +160,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Issue Type 1''}'
-      - '{''id'': 2, ''name'': ''Issue Type 2''}'
+      - Issue Type 1
+      - Issue Type 2
       required: false
     - id: 21
       name: issue_severity2
@@ -169,7 +169,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Issue Severity 1''}'
+      - Issue Severity 1
       - Other
       required: false
     - id: 22
@@ -192,6 +192,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Repair Outcome 1''}'
-      - '{''id'': 2, ''name'': ''Repair Outcome 2''}'
+      - Repair Outcome 1
+      - Repair Outcome 2
       required: false

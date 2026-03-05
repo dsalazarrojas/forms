@@ -1,182 +1,171 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Constitutional Rights Feedback Form
     pages:
-      - id: 1
-        name: respondent_type
-        label: Respondent Type
-        hint: Which category best describes you
-        type: select_one
-        options:
-          - Student
-          - Educator
-          - Legal Professional
-          - Government Employee
-          - General Public
-          - Activist or Advocate
-          - Researcher
-        required: true
-      - id: 2
-        name: age_range
-        label: Age Range
-        hint: Select your age group
-        type: select_one
-        options:
-          - Under 18
-          - 18 to 24
-          - 25 to 34
-          - 35 to 44
-          - 45 to 54
-          - 55 to 64
-          - 65 or older
-        required: false
-      - id: 3
-        name: education_level
-        label: Education Level
-        hint: Highest level of education completed
-        type: select_one
-        options:
-          - High School or Less
-          - Some College
-          - Associate Degree
-          - Bachelor's Degree
-          - Graduate Degree
-          - Professional Degree
-        required: false
-      - id: 4
-        name: awareness_level
-        label: Awareness of Constitutional Rights
-        hint: How would you rate your understanding
-        type: select_one
-        options:
-          - Very Knowledgeable
-          - Somewhat Knowledgeable
-          - Neutral
-          - Somewhat Unknowledgeable
-          - Very Unknowledgeable
-        required: true
-      - id: 5
-        name: rights_knowledge_source
-        label: How Did You Learn About Constitutional Rights
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - School Education
-          - College or University Courses
-          - Self-Study or Reading
-          - News Media
-          - Social Media
-          - Family or Friends
-          - Legal Proceedings
-          - Community Organizations
-          - Never Learned About Them
-        required: true
-      - id: 6
-        name: first_amendment_understanding
-        label: First Amendment Understanding
-        hint: How well do you understand First Amendment rights
-        type: select_one
-        options:
-          - Very Well
-          - Moderately Well
-          - Slightly
-          - Not At All
-        required: true
-      - id: 7
-        name: fourth_amendment_understanding
-        label: Fourth Amendment Understanding
-        hint: How well do you understand Fourth Amendment rights
-        type: select_one
-        options:
-          - Very Well
-          - Moderately Well
-          - Slightly
-          - Not At All
-        required: true
-      - id: 8
-        name: rights_violation_experience
-        label: Have You Experienced Rights Violation
-        hint: Personal experience with constitutional rights issues
-        type: select_one
-        options:
-          - Yes, Personally
-          - Yes, Someone I Know
-          - No
-          - Prefer Not to Answer
-        required: true
-      - id: 9
-        name: rights_protection_rating
-        label: How Well Are Constitutional Rights Protected
-        hint: In your community
-        type: select_one
-        options:
-          - Very Well Protected
-          - Somewhat Protected
-          - Neutral
-          - Somewhat Not Protected
-          - Not Protected At All
-        required: true
-      - id: 10
-        name: most_important_right
-        label: Most Important Constitutional Right
-        hint: Which right do you consider most important
-        type: select_one
-        options:
-          - Freedom of Speech
-          - Freedom of Religion
-          - Right to Bear Arms
-          - Protection from Unreasonable Search
-          - Right to Fair Trial
-          - Equal Protection
-          - Due Process
-        required: true
-      - id: 11
-        name: education_improvement_needed
-        label: Should Constitutional Education Be Improved
-        hint: In schools and communities
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 12
-        name: suggested_improvements
-        label: Suggested Improvements
-        hint: How can constitutional rights education be improved
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: community_engagement
-        label: Community Engagement Interest
-        hint: Would you participate in rights education programs
-        type: select_one
-        options:
-          - Definitely Yes
-          - Probably Yes
-          - Maybe
-          - Probably No
-          - Definitely No
-        required: false
-      - id: 14
-        name: additional_feedback
-        label: Additional Comments
-        hint: Any other thoughts on constitutional rights
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: respondent_type
+      label: Respondent Type
+      hint: Which category best describes you
+      type: select_one
+      options:
+      - Student
+      - Educator
+      - Legal Professional
+      - Government Employee
+      - General Public
+      - Activist or Advocate
+      - Researcher
+      required: true
+    - id: 2
+      name: age_range
+      label: Age Range
+      hint: Select your age group
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 24
+      - 25 to 34
+      - 35 to 44
+      - 45 to 54
+      - 55 to 64
+      - 65 or older
+      required: false
+    - id: 3
+      name: education_level
+      label: Education Level
+      hint: Highest level of education completed
+      type: select_one
+      options:
+      - High School or Less
+      - Some College
+      - Associate Degree
+      - Bachelor's Degree
+      - Graduate Degree
+      - Professional Degree
+      required: false
+    - id: 4
+      name: awareness_level
+      label: Awareness of Constitutional Rights
+      hint: How would you rate your understanding
+      type: select_one
+      options:
+      - Very Knowledgeable
+      - Somewhat Knowledgeable
+      - Neutral
+      - Somewhat Unknowledgeable
+      - Very Unknowledgeable
+      required: true
+    - id: 5
+      name: rights_knowledge_source
+      label: How Did You Learn About Constitutional Rights
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - School Education
+      - College or University Courses
+      - Self-Study or Reading
+      - News Media
+      - Social Media
+      - Family or Friends
+      - Legal Proceedings
+      - Community Organizations
+      - Never Learned About Them
+      required: true
+    - id: 6
+      name: first_amendment_understanding
+      label: First Amendment Understanding
+      hint: How well do you understand First Amendment rights
+      type: select_one
+      options:
+      - Very Well
+      - Moderately Well
+      - Slightly
+      - Not At All
+      required: true
+    - id: 7
+      name: fourth_amendment_understanding
+      label: Fourth Amendment Understanding
+      hint: How well do you understand Fourth Amendment rights
+      type: select_one
+      options:
+      - Very Well
+      - Moderately Well
+      - Slightly
+      - Not At All
+      required: true
+    - id: 8
+      name: rights_violation_experience
+      label: Have You Experienced Rights Violation
+      hint: Personal experience with constitutional rights issues
+      type: select_one
+      options:
+      - Yes, Personally
+      - Yes, Someone I Know
+      - 'False'
+      - Prefer Not to Answer
+      required: true
+    - id: 9
+      name: rights_protection_rating
+      label: How Well Are Constitutional Rights Protected
+      hint: In your community
+      type: select_one
+      options:
+      - Very Well Protected
+      - Somewhat Protected
+      - Neutral
+      - Somewhat Not Protected
+      - Not Protected At All
+      required: true
+    - id: 10
+      name: most_important_right
+      label: Most Important Constitutional Right
+      hint: Which right do you consider most important
+      type: select_one
+      options:
+      - Freedom of Speech
+      - Freedom of Religion
+      - Right to Bear Arms
+      - Protection from Unreasonable Search
+      - Right to Fair Trial
+      - Equal Protection
+      - Due Process
+      required: true
+    - id: 11
+      name: education_improvement_needed
+      label: Should Constitutional Education Be Improved
+      hint: In schools and communities
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 12
+      name: suggested_improvements
+      label: Suggested Improvements
+      hint: How can constitutional rights education be improved
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: community_engagement
+      label: Community Engagement Interest
+      hint: Would you participate in rights education programs
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: false
+    - id: 14
+      name: additional_feedback
+      label: Additional Comments
+      hint: Any other thoughts on constitutional rights
+      type: text
+      options: []
+      required: false

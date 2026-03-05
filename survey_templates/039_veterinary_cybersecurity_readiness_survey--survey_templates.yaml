@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Location A''}'
-      - '{''name'': ''Location B''}'
-      - '{''name'': ''Location C''}'
-      - '{''name'': ''Location D''}'
+      - Location A
+      - Location B
+      - Location C
+      - Location D
       required: false
     - id: 3
       name: number_of_clinics
@@ -34,12 +34,12 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''name'': ''Compliance''}'
-      - '{''name'': ''Data Breach''}'
-      - '{''name'': ''Cyber Insurance''}'
-      - '{''name'': ''IT/IS Security''}'
-      - '{''name'': ''Other''}'
-      - '{''name'': ''Regulatory Compliance''}'
+      - Compliance
+      - Data Breach
+      - Cyber Insurance
+      - IT/IS Security
+      - Other
+      - Regulatory Compliance
       required: false
     - id: 5
       name: cybersecurity_readiness
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Public''}'
-      - '{''name'': ''Private''}'
-      - '{''name'': ''Confidential''}'
+      - Public
+      - Private
+      - Confidential
       required: false
     - id: 8
       name: data_classification_details

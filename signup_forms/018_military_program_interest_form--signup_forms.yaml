@@ -30,12 +30,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Army''}'
-      - '{''id'': 2, ''label'': ''Navy''}'
-      - '{''id'': 3, ''label'': ''Air Force''}'
-      - '{''id'': 4, ''label'': ''Marine Corps''}'
-      - '{''id'': 5, ''label'': ''Coast Guard''}'
-      - '{''id'': 6, ''label'': ''Other''}'
+      - Army
+      - Navy
+      - Air Force
+      - Marine Corps
+      - Coast Guard
+      - Other
       required: false
     - id: 5
       name: date_of_interest
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Phone''}'
-      - '{''id'': 2, ''label'': ''Email''}'
-      - '{''id'': 3, ''label'': ''In-person''}'
+      - Phone
+      - Email
+      - In-person
       required: true
     - id: 7
       name: contact_phone

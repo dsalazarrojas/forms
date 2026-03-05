@@ -18,9 +18,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Control 1'', ''value'': ''Control 1''}'
-      - '{''label'': ''Control 2'', ''value'': ''Control 2''}'
-      - '{''label'': ''Control 3'', ''value'': ''Control 3''}'
+      - Control 1
+      - Control 2
+      - Control 3
       required: false
     - id: 3
       name: safety_gear_used
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: user_last_use
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Self'', ''value'': ''Self''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
-      - '{''label'': ''Both'', ''value'': ''Both''}'
+      - Self
+      - Other
+      - Both
       required: false
     - id: 11
       name: user_last_use_other_user
@@ -98,8 +98,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Self'', ''value'': ''Self''}'
-      - '{''label'': ''Another'', ''value'': ''Another''}'
+      - Self
+      - Another
       required: false
     - id: 13
       name: comments
@@ -184,6 +184,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

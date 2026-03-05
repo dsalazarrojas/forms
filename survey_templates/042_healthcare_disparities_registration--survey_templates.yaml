@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Email''}'
-      - '{''label'': ''In-Person''}'
+      - Phone
+      - Email
+      - In-Person
       required: false
     - id: 4
       name: clinic_name
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Primary Care''}'
-      - '{''label'': ''Social Worker''}'
-      - '{''label'': ''Case Manager''}'
-      - '{''label'': ''Clinic Manager''}'
+      - Primary Care
+      - Social Worker
+      - Case Manager
+      - Clinic Manager
       required: false
     - id: 6
       name: contact_phone
@@ -86,68 +86,66 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Alabama''}'
-      - '{''label'': ''Alaska''}'
-      - '{''label'': ''American Samoa''}'
-      - '{''label'': ''Arizona''}'
-      - '{''label'': ''Arkansas''}'
-      - '{''label'': ''Armed Forces - AE''}'
-      - '{''label'': ''Armed Forces - AP''}'
-      - '{''label'': ''Armed Forces - AA''}'
-      - '{''label'': ''California''}'
-      - '{''label'': ''Colorado''}'
-      - '{''label'': ''Connecticut''}'
-      - '{''label'': ''Delaware''}'
-      - '{''label'': ''Washington D.C.''}'
-      - '{''label'': ''District of Columbia''}'
-      - '{''label'': ''Florida''}'
-      - '{''label'': ''Georgia''}'
-      - '{''label'': ''Guam''}'
-      - '{''label'': ''Hawaii''}'
-      - '{''label'': ''Idaho''}'
-      - '{''label'': ''Illinois''}'
-      - '{''label'': ''Indiana''}'
-      - '{''label'': ''Iowa''}'
-      - '{''label'': ''Kansas''}'
-      - '{''label'': ''Kentucky''}'
-      - '{''label'': ''Louisiana''}'
-      - '{''label'': ''Maine''}'
-      - '{''label'': ''Maryland''}'
-      - '{''label'': ''Massachusetts''}'
-      - '{''label'': ''Michigan''}'
-      - '{''label'': ''Minnesota''}'
-      - '{''label'': ''Mississippi''}'
-      - '{''label'': ''Missouri''}'
-      - '{''label'': ''Montana''}'
-      - '{''label'': ''Nebraska''}'
-      - '{''label'': ''Nevada''}'
-      - '{''label'': ''New Hampshire''}'
-      - '{''label'': ''New Jersey''}'
-      - '{''label'': ''New York''}'
-      - '{''label'': ''North Carolina''}'
-      - '{''label'': ''North Dakota''}'
-      - '{''label'': ''Northern Mariana Islands''}'
-      - '{''label'': ''Ohio''}'
-      - '{''label'': ''Oklahoma''}'
-      - '{''label'': ''Oregon''}'
-      - '{''label'': ''Pennsylvania''}'
-      - '{''label'': ''Puerto Rico''}'
-      - '{''label'': ''Rhode Island''}'
-      - '{''label'': ''South Carolina''}'
-      - '{''label'': ''South Dakota''}'
-      - '{''label'': ''Tennessee''}'
-      - '{''label'': ''Texas''}'
-      - '{''label'': ''Utah''}'
-      - '{''label'': ''Vermont''}'
-      - '{''label'': ''Virgin Islands''}'
-      - '{''label'': ''Virginia''}'
-      - '{''label'': ''Washington''}'
-      - '{''label'': ''Washington D.C.''}'
-      - '{''label'': ''West Virginia''}'
-      - '{''label'': ''Wisconsin''}'
-      - '{''label'': ''Wyoming''}'
-      - '{''label'': ''Puerto Rico''}'
-      - '{''label'': ''US Virgin Islands''}'
+      - Alabama
+      - Alaska
+      - American Samoa
+      - Arizona
+      - Arkansas
+      - Armed Forces - AE
+      - Armed Forces - AP
+      - Armed Forces - AA
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Washington D.C.
+      - District of Columbia
+      - Florida
+      - Georgia
+      - Guam
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New York
+      - North Carolina
+      - North Dakota
+      - Northern Mariana Islands
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Puerto Rico
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virgin Islands
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      - US Virgin Islands
       required: false
     - id: 12
       name: race_and_ethnicity
@@ -162,9 +160,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''Spanish''}'
-      - '{''label'': ''Other''}'
+      - English
+      - Spanish
+      - Other
       required: false
     - id: 14
       name: language_other
@@ -186,9 +184,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Female''}'
-      - '{''label'': ''Non-Binary''}'
+      - Male
+      - Female
+      - Non-Binary
       required: false
     - id: 17
       name: patient_gender_other
@@ -210,8 +208,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''18-64''}'
-      - '{''label'': ''65 or Older''}'
+      - 18-64
+      - 65 or Older
       required: false
     - id: 20
       name: patient_gender_id
@@ -226,12 +224,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Asian''}'
-      - '{''label'': ''Black or African American''}'
-      - '{''label'': ''Native American''}'
-      - '{''label'': ''Pacific Islander''}'
-      - '{''label'': ''White''}'
-      - '{''label'': ''Other''}'
+      - Asian
+      - Black or African American
+      - Native American
+      - Pacific Islander
+      - White
+      - Other
       required: false
     - id: 22
       name: patient_race_other
@@ -246,13 +244,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Asian''}'
-      - '{''label'': ''Black or African American''}'
-      - '{''label'': ''Native American''}'
-      - '{''label'': ''Pacific Islander''}'
-      - '{''label'': ''White''}'
-      - '{''label'': ''Hispanic or Latino''}'
-      - '{''label'': ''Other''}'
+      - Asian
+      - Black or African American
+      - Native American
+      - Pacific Islander
+      - White
+      - Hispanic or Latino
+      - Other
       required: false
     - id: 24
       name: patient_ethnicity_other

@@ -16,8 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: preferences
@@ -77,14 +78,14 @@ inputSchema:
       required: false
     - id: 11
       name: event_planner_email
-      label: Email
+      label: Event Planner Email
       hint: null
       type: email
       options: []
       required: false
     - id: 12
       name: event_planner_phone
-      label: Phone
+      label: Event Planner Phone
       hint: null
       type: text
       options: []
@@ -105,14 +106,14 @@ inputSchema:
       required: false
     - id: 15
       name: production_team_email
-      label: Email
+      label: Production Team Email
       hint: null
       type: email
       options: []
       required: false
     - id: 16
       name: production_team_phone
-      label: Phone
+      label: Production Team Phone
       hint: null
       type: text
       options: []

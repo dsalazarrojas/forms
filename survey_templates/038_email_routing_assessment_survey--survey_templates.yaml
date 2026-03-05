@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Rarely''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
       required: false
     - id: 3
       name: email_routing_process2
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''IT''}'
-      - '{''id'': 2, ''label'': ''Operations''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - IT
+      - Operations
+      - Other
       required: false
     - id: 6
       name: email_routing_process6
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Difficulty in accessing information''}'
-      - '{''id'': 2, ''label'': ''Lack of clear instructions''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Difficulty in accessing information
+      - Lack of clear instructions
+      - Other
       required: false
     - id: 7
       name: email_routing_process7
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: email_routing_process9
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Phone''}'
-      - '{''id'': 2, ''label'': ''Email''}'
-      - '{''id'': 3, ''label'': ''Neither''}'
+      - Phone
+      - Email
+      - Neither
       required: true
     - id: 10
       name: email_routing_process10

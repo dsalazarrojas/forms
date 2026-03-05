@@ -4,22 +4,26 @@ inputSchema:
     title: Discipleship Pathway Survey
     pages:
     - id: 1
-      name: survey_title
-      label: survey_title
+      name: spiritual_growth
+      label: Your Current Level of Spiritual Growth
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 2
-      name: survey_instructions
-      label: survey_instructions
+      name: discipleship_needs
+      label: Do You Need More Support?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 3
-      name: spiritual_growth
-      label: spiritual_growth
+      name: follow_up
+      label: Follow-up Frequency
       hint: null
       type: select_one
       options:
@@ -27,176 +31,94 @@ inputSchema:
       - 'No'
       required: false
     - id: 4
-      name: discipleship_needs
-      label: discipleship_needs
+      name: program_goals
+      label: What Do You Think About the Program?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 5
-      name: customize_programs
-      label: customize_programs
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: engagement_connection
-      label: engagement_connection
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: effectiveness_initiatives
-      label: effectiveness_initiatives
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: program_goals
-      label: program_goals
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: survey_comments
-      label: survey_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: contact_information
-      label: contact_information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: program_details
-      label: program_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: date_completed
-      label: date_completed
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: time_completed
-      label: time_completed
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: survey_awareness
-      label: survey_awareness
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: survey_fulfillment
-      label: survey_fulfillment
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: survey_recommendation
-      label: survey_recommendation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: survey_satisfaction
-      label: survey_satisfaction
+      name: satisfaction
+      label: How Satisfied Are You with the Program?
       hint: null
       type: select_one
       options:
       - Satisfied
       - Dissatisfied
       required: false
-    - id: 21
-      name: survey_comments
-      label: survey_comments
+    - id: 6
+      name: comments
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 22
-      name: contact_person
-      label: contact_person
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
+    - id: 7
       name: email
-      label: email
+      label: Your Email Address
       hint: null
       type: email
       options: []
       required: false
-    - id: 24
+    - id: 8
       name: phone
-      label: phone
+      label: Your Phone Number
       hint: null
       type: text
       options: []
       required: false
-    - id: 25
-      name: follow_up
-      label: follow_up
+    - id: 9
+      name: program_awareness
+      label: How Aware Are You of the Program's Purpose and Objectives?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
+      required: false
+    - id: 10
+      name: event_participation
+      label: How Often Do You Participate in Program Events?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: survey_completion
+      label: When Was This Survey Completed?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: survey_completion_time
+      label: What Time Was This Survey Completed?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: survey_recommendation
+      label: Would You Recommend the Program?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email_2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
       required: false

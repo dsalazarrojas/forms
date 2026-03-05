@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''In-person''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Video''}'
-      - '{''value'': ''Online''}'
+      - In-person
+      - Phone
+      - Video
+      - Online
       required: false
     - id: 3
       name: technology_rating
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Technology''}'
-      - '{''value'': ''Communication''}'
-      - '{''value'': ''Availability''}'
-      - '{''value'': ''Other''}'
+      - Technology
+      - Communication
+      - Availability
+      - Other
       required: false
     - id: 6
       name: comments

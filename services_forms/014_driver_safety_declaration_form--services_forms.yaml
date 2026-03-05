@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 3
       name: vehicle_info
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive''}'
+      - active
+      - inactive
       required: false
     - id: 7
       name: driving_history
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Toyota''}'
-      - '{''id'': 2, ''name'': ''Honda''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Toyota
+      - Honda
+      - Other
       required: true
     - id: 10
       name: vehicle_model
@@ -121,8 +121,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive''}'
+      - active
+      - inactive
       required: false
     - id: 17
       name: vehicle_make_status
@@ -130,8 +130,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive''}'
+      - active
+      - inactive
       required: false
     - id: 18
       name: vehicle_model_status
@@ -139,8 +139,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive''}'
+      - active
+      - inactive
       required: false
     - id: 19
       name: vehicle_status
@@ -148,6 +148,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive''}'
+      - active
+      - inactive
       required: false

@@ -16,7 +16,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''resident''}'
+      - Option 1
       - guest
       required: false
     - id: 3
@@ -25,17 +25,17 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''top_loader''}'
-      - front_loader
+      - Option 1
+      - front loader
       - other
       required: false
     - id: 4
       name: start_time
       label: Select a time
-      hint: "Choose a time between 8:00 AM and 9:00 PM"
+      hint: Choose a time between 8:00 AM and 9:00 PM
       type: select_multiple
       options:
-      - '{''id'': ''8:00 AM''}'
+      - Option 1
       - 8:30 AM
       - 9:00 AM
       required: false
@@ -45,7 +45,7 @@ inputSchema:
       hint: Choose an end time
       type: select_multiple
       options:
-      - '{''id'': ''8:15 AM''}'
+      - Option 1
       - 8:30 AM
       - 8:45 AM
       required: false

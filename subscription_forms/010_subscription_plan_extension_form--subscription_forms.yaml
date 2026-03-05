@@ -4,190 +4,56 @@ inputSchema:
     title: Subscription Plan Extension Form
     pages:
     - id: 1
-      name: subscription_plan_extension_form_1
-      label: customer_information
+      name: customer_information
+      label: Customer Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: customer_name
-      label: customer_name
+      name: current_subscription_plan
+      label: Current Subscription Plan
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - month-to-month
+      - 3-month-to-3-month
+      - 6-month-to-6-month
+      required: true
     - id: 3
-      name: customer_phone_number
-      label: customer_phone_number
+      name: desired_subscription_plan
+      label: Desired Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - month-to-month
+      - 3-month-to-3-month
+      - 6-month-to-6-month
+      required: true
+    - id: 4
+      name: extension_request_details
+      label: Extension Request Details
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 4
-      name: customer_email
-      label: customer_email
-      hint: null
-      type: email
       options: []
       required: false
     - id: 5
-      name: current_subscription_plan
-      label: current_subscription_plan
+      name: customer_signature
+      label: Customer Signature
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''month-to-month''}'
-      - '{''id'': 2, ''name'': ''3-month-to-3-month''}'
-      - '{''id'': 3, ''name'': ''6-month-to-6-month''}'
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 6
-      name: new_subscription_plan
-      label: new_subscription_plan
+      name: confirm_contact_information
+      label: Confirm Contact Information
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''month-to-month''}'
-      - '{''id'': 2, ''name'': ''3-month-to-3-month''}'
-      - '{''id'': 3, ''name'': ''6-month-to-6-month''}'
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 7
-      name: extension_request_date
-      label: extension_request_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: next_subscription_end_date
-      label: next_subscription_end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: reason_for_extension
-      label: reason_for_extension
-      hint: Please specify the reason for the extension request
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: customer_signature
-      label: customer_signature
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      required: true
-    - id: 11
-      name: customer_signature_date
-      label: customer_signature_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: customer_signature
-      label: customer_signature
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      required: true
-    - id: 13
-      name: customer_phone_number
-      label: customer_phone_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: customer_email
-      label: customer_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: extension_request_date
-      label: extension_request_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: next_subscription_end_date
-      label: next_subscription_end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: reason_for_extension
-      label: reason_for_extension
-      hint: Please specify the reason for the extension request
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: customer_signature
-      label: customer_signature
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      required: true
-    - id: 19
-      name: customer_phone_number
-      label: customer_phone_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: customer_email
-      label: customer_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: extension_request_date
-      label: extension_request_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: next_subscription_end_date
-      label: next_subscription_end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: reason_for_extension
-      label: reason_for_extension
-      hint: Please specify the reason for the extension request
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: customer_signature
-      label: customer_signature
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      required: true
-    - id: 25
-      name: customer_phone_number
-      label: customer_phone_number
+      name: confirm
+      label: Confirm
       hint: null
       type: text
       options: []

@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1001, ''name'': ''Adult'', ''label'': ''Adult''}'
-      - '{''id'': 1002, ''name'': ''Junior'', ''label'': ''Junior''}'
-      - '{''id'': 1003, ''name'': ''Youth'', ''label'': ''Youth''}'
-      - '{''id'': 1004, ''name'': ''Senior'', ''label'': ''Senior''}'
+      - Adult
+      - Junior
+      - Youth
+      - Senior
       required: true
     - id: 7
       name: position
@@ -55,10 +55,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1005, ''name'': ''Goalkeeper'', ''label'': ''Goalkeeper''}'
-      - '{''id'': 1006, ''name'': ''Defender'', ''label'': ''Defender''}'
-      - '{''id'': 1007, ''name'': ''Midfielder'', ''label'': ''Midfielder''}'
-      - '{''id'': 1008, ''name'': ''Forward'', ''label'': ''Forward''}'
+      - Goalkeeper
+      - Defender
+      - Midfielder
+      - Forward
       required: true
     - id: 8
       name: note
@@ -73,8 +73,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1009, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
-      - '{''id'': 1010, ''name'': ''other'', ''label'': ''other''}'
+      - chatjimmy
+      - other
       required: false
     - id: 10
       name: output_file
@@ -99,7 +99,7 @@ inputSchema:
       required: false
     - id: 13
       name: form_id_hint
-      label: Form ID
+      label: Form Id Hint
       hint: null
       type: text
       options: []
@@ -112,13 +112,13 @@ inputSchema:
       options: []
       required: false
     - id: 15
-      name: category
-      label: Category
+      name: category_2
+      label: Category 2
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1011, ''name'': ''Sports Forms'', ''label'': ''Sports Forms''}'
-      - '{''id'': 1012, ''name'': ''other'', ''label'': ''other''}'
+      - Sports Forms
+      - other
       required: true
     - id: 16
       name: form_title
@@ -128,13 +128,13 @@ inputSchema:
       options: []
       required: false
     - id: 17
-      name: assigned_tool
-      label: Assigned Tool
+      name: assigned_tool_2
+      label: Assigned Tool 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1013, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
-      - '{''id'': 1014, ''name'': ''other'', ''label'': ''other''}'
+      - chatjimmy
+      - other
       required: false
     - id: 18
       name: form_description
@@ -144,29 +144,29 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: form_id
-      label: Form ID
+      name: form_id_2
+      label: Form Id 2
       hint: null
       type: text
       options: []
       required: false
     - id: 20
-      name: form_id_hint
-      label: Form ID
+      name: form_id_hint_2
+      label: Form Id Hint 2
       hint: null
       type: text
       options: []
       required: false
     - id: 21
-      name: output_file
-      label: Output File
+      name: output_file_2
+      label: Output File 2
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: output_file_name
-      label: Output File Name
+      name: output_file_name_2
+      label: Output File Name 2
       hint: null
       type: text
       options: []

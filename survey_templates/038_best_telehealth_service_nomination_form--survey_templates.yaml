@@ -1,220 +1,209 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Best Telehealth Service Nomination Form
     pages:
-      - id: 1
-        name: nominator_profile_header
-        label: -- Nominator Profile --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: nominator_full_name
-        label: Your Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: nominator_role_choice
-        label: Your Role
-        hint: How do you interact with this service
-        type: select_one
-        options:
-          - Patient or Caregiver
-          - Medical Professional
-          - Healthcare Administrator
-          - Insurance Provider
-          - Technology Specialist
-          - Other
-        required: true
-      - id: 4
-        name: nominator_email_addr
-        label: Your Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 5
-        name: telehealth_service_nominee_header
-        label: -- Telehealth Service Nominee --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: service_name_text
-        label: Telehealth Service Name
-        hint: The official name of the service
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: service_website_url
-        label: Website or App Link
-        hint: URL for access or information
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: types_of_care_selection
-        label: Types of Care Provided
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - General Practitioner (GP)
-          - Mental Health and Therapy
-          - Specialist Consultation
-          - Urgent Care Services
-          - Pediatric Care
-          - Chronic Disease Management
-          - Other
-        required: true
-      - id: 9
-        name: platform_usage_select
-        label: Primary Delivery Platform
-        hint: What technology do they use
-        type: select_one
-        options:
-          - Proprietary Mobile App
-          - Web-based Secure Portal
-          - Third Party (Zoom, Teams, etc.)
-          - Integration with EMR/EHR
-          - Other
-        required: true
-      - id: 10
-        name: quality_security_header
-        label: -- Quality and Security Assessment --
-        hint: Rate from 1 (Needs Improvement) to 5 (Outstanding)
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: scheduling_ease_rating
-        label: Ease of Scheduling and Registration
-        hint: null
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 12
-        name: audio_video_quality_rating
-        label: Video and Audio Clarity
-        hint: Communication quality during visits
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 13
-        name: privacy_security_rating
-        label: Patient Data Privacy and Security
-        hint: Trustworthiness of the platform
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 14
-        name: accessibility_ease_rating
-        label: Ease of Use for Non-technical Users
-        hint: Accessibility for seniors or those with low tech skills
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 15
-        name: tech_support_rating
-        label: Technical Support Availability
-        hint: Quality of help when issues arise
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 16
-        name: justification_header
-        label: -- Justification and Narrative --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: exceptional_service_desc
-        label: What makes this telehealth service exceptional
-        hint: Describe their standout features
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: positive_outcome_example
-        label: Describe a specific success story or positive outcome
-        hint: A patient story or impact statement
-        type: text
-        options: []
-        required: true
-      - id: 19
-        name: healthcare_access_impact
-        label: How has this service improved access to healthcare
-        hint: Reaching underserved areas or populations
-        type: text
-        options: []
-        required: true
-      - id: 20
-        name: win_justification_detailed
-        label: Why should this service win the Best Telehealth Service Award
-        hint: Summarize your nomination
-        type: text
-        options: []
-        required: true
-      - id: 21
-        name: final_submission_header
-        label: -- Final Submission --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 22
-        name: professional_reference_contact
-        label: Professional Reference
-        hint: Name and email for verification
-        type: text
-        options: []
-        required: true
-      - id: 23
-        name: nomination_final_date_stamp
-        label: Date of Nomination
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: nominator_profile_header
+      label: -- Nominator Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_role_choice
+      label: Your Role
+      hint: How do you interact with this service
+      type: select_one
+      options:
+      - Patient or Caregiver
+      - Medical Professional
+      - Healthcare Administrator
+      - Insurance Provider
+      - Technology Specialist
+      - Other
+      required: true
+    - id: 4
+      name: nominator_email_addr
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: telehealth_service_nominee_header
+      label: -- Telehealth Service Nominee --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: service_name_text
+      label: Telehealth Service Name
+      hint: The official name of the service
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_website_url
+      label: Website or App Link
+      hint: URL for access or information
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: types_of_care_selection
+      label: Types of Care Provided
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General Practitioner (GP)
+      - Mental Health and Therapy
+      - Specialist Consultation
+      - Urgent Care Services
+      - Pediatric Care
+      - Chronic Disease Management
+      - Other
+      required: true
+    - id: 9
+      name: platform_usage_select
+      label: Primary Delivery Platform
+      hint: What technology do they use
+      type: select_one
+      options:
+      - Proprietary Mobile App
+      - Web-based Secure Portal
+      - Third Party (Zoom, Teams, etc.)
+      - Integration with EMR/EHR
+      - Other
+      required: true
+    - id: 10
+      name: quality_security_header
+      label: -- Quality and Security Assessment --
+      hint: Rate from 1 (Needs Improvement) to 5 (Outstanding)
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: scheduling_ease_rating
+      label: Ease of Scheduling and Registration
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 12
+      name: audio_video_quality_rating
+      label: Video and Audio Clarity
+      hint: Communication quality during visits
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 13
+      name: privacy_security_rating
+      label: Patient Data Privacy and Security
+      hint: Trustworthiness of the platform
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 14
+      name: accessibility_ease_rating
+      label: Ease of Use for Non-technical Users
+      hint: Accessibility for seniors or those with low tech skills
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 15
+      name: tech_support_rating
+      label: Technical Support Availability
+      hint: Quality of help when issues arise
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 16
+      name: justification_header
+      label: -- Justification and Narrative --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: exceptional_service_desc
+      label: What makes this telehealth service exceptional
+      hint: Describe their standout features
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: positive_outcome_example
+      label: Describe a specific success story or positive outcome
+      hint: A patient story or impact statement
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: healthcare_access_impact
+      label: How has this service improved access to healthcare
+      hint: Reaching underserved areas or populations
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: win_justification_detailed
+      label: Why should this service win the Best Telehealth Service Award
+      hint: Summarize your nomination
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: final_submission_header
+      label: -- Final Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: professional_reference_contact
+      label: Professional Reference
+      hint: Name and email for verification
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: nomination_final_date_stamp
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true

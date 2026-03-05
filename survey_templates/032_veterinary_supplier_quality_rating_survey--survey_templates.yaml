@@ -5,192 +5,103 @@ inputSchema:
     pages:
     - id: 1
       name: supplier_name
-      label: supplier_name
-      hint: null
+      label: Supplier Name
+      hint: Please enter the name of the supplier.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: question_1
-      label: Rating
-      hint: null
+      name: quality_service
+      label: Quality of Service
+      hint: How would you rate the quality of service?
       type: select_one
       options:
+      - Excellent
       - Good
       - Fair
+      - Poor
       required: false
     - id: 3
-      name: question_2
-      label: Rating
-      hint: null
+      name: quality_facility
+      label: Quality of Facility
+      hint: How would you rate the quality of the facility?
       type: select_multiple
       options:
+      - Excellent
       - Good
       - Fair
+      - Poor
       required: false
     - id: 4
-      name: question_3
-      label: Rating
-      hint: null
+      name: have_direct_contact
+      label: Direct Contact
+      hint: Do you have direct contact with the supplier's facility?
       type: select_multiple
       options:
-      - Good
-      - Fair
+      - 'True'
+      - 'False'
       required: false
     - id: 5
-      name: quality_service
-      label: quality_service
-      hint: null
+      name: quality_communication
+      label: Quality of Communication
+      hint: How would you rate the quality of communication?
       type: select_multiple
       options:
+      - Excellent
       - Good
+      - Fair
       - Poor
       required: false
     - id: 6
-      name: quality_facility
-      label: quality_facility
-      hint: null
+      name: quality_response
+      label: Quality of Response
+      hint: How would you rate the quality of response?
       type: select_multiple
       options:
+      - Excellent
       - Good
+      - Fair
       - Poor
       required: false
     - id: 7
-      name: contact_facility
-      label: contact_facility
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: quality_communication
-      label: quality_communication
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Poor
-      required: false
-    - id: 9
-      name: quality_response
-      label: quality_response
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Poor
-      required: false
-    - id: 10
       name: total_score
-      label: total_score
-      hint: null
+      label: Total Score
+      hint: What is your total score out of 10?
       type: number
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 8
       name: comments
-      label: comments
+      label: Comments
       hint: Please describe your experience with this supplier.
       type: note
       options: []
       required: false
-    - id: 12
-      name: submit
-      label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: supplier_id
-      label: supplier_id
-      hint: Enter the ID number of this supplier.
-      type: text
-      options: []
-      required: false
-    - id: 14
+    - id: 9
       name: email
-      label: email
+      label: Email
       hint: Enter a valid email address.
       type: email
       options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 10
       name: phone
-      label: phone
+      label: Phone
       hint: Enter a valid phone number.
       type: text
       options: []
       required: false
-    - id: 16
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: date
-      label: date
-      hint: Enter the date you last contacted this supplier.
+    - id: 11
+      name: last_contact
+      label: Last Contact
+      hint: When was your last contact with the supplier?
       type: date
       options: []
-      required: false
-    - id: 18
-      name: time
-      label: time
+      required: true
+    - id: 12
+      name: submit
+      label: Submit
       hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: time_of_day
-      label: time_of_day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: time_of_week
-      label: time_of_week
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: time_of_day_of_week
-      label: time_of_day_of_week
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: time_of_day_of_weekend
-      label: time_of_day_of_weekend
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: time_of_day_of_day
-      label: time_of_day_of_day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: time_of_day_of_day_of_week
-      label: time_of_day_of_day_of_week
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: time_of_day_of_day_of_weekend
-      label: time_of_day_of_day_of_weekend
-      hint: null
-      type: time
+      type: text
       options: []
       required: false

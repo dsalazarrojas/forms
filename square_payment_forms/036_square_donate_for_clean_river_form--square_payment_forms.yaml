@@ -15,176 +15,127 @@ inputSchema:
     title: Square Donate For Clean River Form
     pages:
     - id: 1
-      name: square_donate_for_clean_river_form
-      label: square_donate_for_clean_river_form
+      name: donor_info
+      label: Donor Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: square_donate_to_our_environment
-      label: square_donate_to_our_environment
+      name: donate_to_our_environment
+      label: What is the purpose of your donation?
       hint: null
-      type: text
-      options: []
-      required: true
+      type: select_one
+      options:
+      - Help Clean the River
+      - Support Conservation Efforts
+      - Donate to a Specific Project
+      required: false
     - id: 3
-      name: square_donate_for_clean_river
-      label: square_donate_for_clean_river
+      name: amount_donated
+      label: Amount Donated
       hint: null
-      type: text
+      type: number
       options: []
-      required: true
+      required: false
     - id: 4
-      name: square_donate_to_river
-      label: square_donate_to_river
+      name: donation_date
+      label: Date of Donation
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 5
-      name: square_donate_for_green_environment
-      label: square_donate_for_green_environment
+      name: donation_time
+      label: Time of Donation
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 6
-      name: square_donation_message
-      label: square_donation_message
+      name: donation_message
+      label: Additional Information
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: square_donate_for_clean_water
-      label: square_donate_for_clean_water
+      name: contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: square_donate_to_water
-      label: square_donate_to_water
+      name: confirmation
+      label: Confirmation
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 9
-      name: square_donation
-      label: square_donation
+      name: donation_details
+      label: Donations Details
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: square_donations
-      label: square_donations
+      name: river_cleaning_status
+      label: River Cleaning Status
       hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - Yes, I've already cleaned the river
+      - No, I haven't yet
+      - Not Applicable
       required: false
     - id: 11
-      name: square_donate_for_river_form
-      label: square_donate_for_river_form
+      name: follow_up_question
+      label: Would you like to be contacted for a follow-up?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe Later
       required: false
     - id: 12
-      name: square_donation_form
-      label: square_donation_form
+      name: additional_comments
+      label: Any additional comments?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: square_donate_form_for_clean_river
-      label: square_donate_form_for_clean_river
+      name: contact_method
+      label: Contact Method
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
       required: false
     - id: 14
-      name: square_donate_to_river_form
-      label: square_donate_to_river_form
+      name: contact_info_2
+      label: Contact Info 2
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: square_donation_form_for_clean_river
-      label: square_donation_form_for_clean_river
+      name: thank_you_message
+      label: Thank You Message
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: square_donate_for_green_environment_form
-      label: square_donate_for_green_environment_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: square_donation_form_for_clean_water
-      label: square_donation_form_for_clean_water
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: square_donate_to_water_form
-      label: square_donate_to_water_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: square_donate_form_for_river
-      label: square_donate_form_for_river
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: square_donate_form
-      label: square_donate_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: square_donate_for_water
-      label: square_donate_for_water
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: square_donate_to_river
-      label: square_donate_to_river
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: square_donate_form_for_clean_water
-      label: square_donate_form_for_clean_water
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: square_donate_to_water
-      label: square_donate_to_water
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: square_donation_form
-      label: square_donation_form
+      name: confirmation_message
+      label: Confirmation Message
       hint: null
       type: text
       options: []

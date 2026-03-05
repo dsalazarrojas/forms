@@ -1,202 +1,191 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Best Friend Survey
     pages:
-      - id: 1
-        name: friendship_survey_header
-        label: -- Friendship Survey --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: your_full_name
-        label: Your Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: friend_full_name
-        label: Friend Name
-        hint: Who are you taking this survey about
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: knowledge_check_header
-        label: -- Knowledge and Familiarity --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: middle_name_check
-        label: Do you know their middle name
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - I think so
-        required: true
-      - id: 6
-        name: favorite_movie_check
-        label: Do you know their favorite movie
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - I think so
-        required: true
-      - id: 7
-        name: favorite_musician_check
-        label: Do you know their favorite musician
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - I think so
-        required: true
-      - id: 8
-        name: quality_check_header
-        label: -- Friendship Quality --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: communication_frequency
-        label: How often do you talk
-        hint: Includes messaging and calls
-        type: select_one
-        options:
-          - Every day
-          - A few times a week
-          - Once a week
-          - Monthly
-          - Less than monthly
-        required: true
-      - id: 10
-        name: communication_methods
-        label: How do you usually communicate
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Text Messaging
-          - Phone calls
-          - Social Media DM
-          - In-person hanging out
-          - Video calls
-        required: true
-      - id: 11
-        name: trust_rating
-        label: How much do you trust them
-        hint: 1 being not at all, 5 being completely
-        type: select_one
-        options:
-          - 1 - Not at all
-          - 2
-          - 3
-          - 4
-          - 5 - Completely
-        required: true
-      - id: 12
-        name: personhood_impact
-        label: Do they make you a better person
-        hint: In terms of growth and positivity
-        type: select_one
-        options:
-          - Yes - definitely
-          - Sometimes
-          - No
-        required: true
-      - id: 13
-        name: deep_friendship_header
-        label: -- The Meaning of Friendship --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: friendship_quality_priority
-        label: What is the most important quality in a friend
-        hint: Select one
-        type: select_one
-        options:
-          - Loyalty
-          - Honesty
-          - Sense of Humor
-          - Shared Interests
-          - Kindness and Empathy
-        required: true
-      - id: 15
-        name: helper_scenario
-        label: If your friend was in trouble, how would you help
-        hint: Describe your support style
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: appreciation_description
-        label: What do you appreciate most about this friend
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 17
-        name: fun_header
-        label: -- Just for Fun --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 18
-        name: show_characters
-        label: If you were both characters in a show, which ones would you be
-        hint: Name the show and the characters
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: friendship_song
-        label: What is your song
-        hint: A song that reminds you of each other
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: final_thoughts_header
-        label: -- Final Thoughts --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 21
-        name: additional_comments_text
-        label: Anything else you would like to share about your friendship
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: survey_completion_date
-        label: Date of Survey
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: friendship_survey_header
+      label: -- Friendship Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: your_full_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: friend_full_name
+      label: Friend Name
+      hint: Who are you taking this survey about
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: knowledge_check_header
+      label: -- Knowledge and Familiarity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: middle_name_check
+      label: Do you know their middle name
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - I think so
+      required: true
+    - id: 6
+      name: favorite_movie_check
+      label: Do you know their favorite movie
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - I think so
+      required: true
+    - id: 7
+      name: favorite_musician_check
+      label: Do you know their favorite musician
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - I think so
+      required: true
+    - id: 8
+      name: quality_check_header
+      label: -- Friendship Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: communication_frequency
+      label: How often do you talk
+      hint: Includes messaging and calls
+      type: select_one
+      options:
+      - Every day
+      - A few times a week
+      - Once a week
+      - Monthly
+      - Less than monthly
+      required: true
+    - id: 10
+      name: communication_methods
+      label: How do you usually communicate
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Text Messaging
+      - Phone calls
+      - Social Media DM
+      - In-person hanging out
+      - Video calls
+      required: true
+    - id: 11
+      name: trust_rating
+      label: How much do you trust them
+      hint: 1 being not at all, 5 being completely
+      type: select_one
+      options:
+      - 1 - Not at all
+      - '2'
+      - '3'
+      - '4'
+      - 5 - Completely
+      required: true
+    - id: 12
+      name: personhood_impact
+      label: Do they make you a better person
+      hint: In terms of growth and positivity
+      type: select_one
+      options:
+      - Yes - definitely
+      - Sometimes
+      - 'False'
+      required: true
+    - id: 13
+      name: deep_friendship_header
+      label: -- The Meaning of Friendship --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: friendship_quality_priority
+      label: What is the most important quality in a friend
+      hint: Select one
+      type: select_one
+      options:
+      - Loyalty
+      - Honesty
+      - Sense of Humor
+      - Shared Interests
+      - Kindness and Empathy
+      required: true
+    - id: 15
+      name: helper_scenario
+      label: If your friend was in trouble, how would you help
+      hint: Describe your support style
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: appreciation_description
+      label: What do you appreciate most about this friend
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: fun_header
+      label: -- Just for Fun --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: show_characters
+      label: If you were both characters in a show, which ones would you be
+      hint: Name the show and the characters
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: friendship_song
+      label: What is your song
+      hint: A song that reminds you of each other
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: final_thoughts_header
+      label: -- Final Thoughts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments_text
+      label: Anything else you would like to share about your friendship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: survey_completion_date
+      label: Date of Survey
+      hint: null
+      type: date
+      options: []
+      required: true

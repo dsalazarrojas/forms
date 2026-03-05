@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: network_problem
@@ -39,8 +39,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: repair_service
@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: service_type
@@ -57,10 +57,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Hardware'', ''value'': ''hardware''}'
-      - '{''label'': ''Software'', ''value'': ''software''}'
-      - '{''label'': ''Network'', ''value'': ''network''}'
-      - '{''label'': ''Network and Hardware'', ''value'': ''hardware_and_network''}'
+      - Hardware
+      - Software
+      - Network
+      - Network and Hardware
       required: false
     - id: 8
       name: description
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Jimmy'', ''value'': ''jimmy''}'
-      - '{''label'': ''Sarah'', ''value'': ''sarah''}'
-      - '{''label'': ''John'', ''value'': ''john''}'
+      - Jimmy
+      - Sarah
+      - John
       required: false
     - id: 13
       name: assigned_technician
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Jimmy'', ''value'': ''jimmy''}'
-      - '{''label'': ''Sarah'', ''value'': ''sarah''}'
-      - '{''label'': ''John'', ''value'': ''john''}'
+      - Jimmy
+      - Sarah
+      - John
       required: false
     - id: 14
       name: status
@@ -130,9 +130,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Low'', ''value'': ''low''}'
-      - '{''label'': ''Medium'', ''value'': ''medium''}'
-      - '{''label'': ''High'', ''value'': ''high''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 17
       name: notes

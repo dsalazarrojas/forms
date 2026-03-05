@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Materials'', ''value'': ''Materials''}'
-      - '{''label'': ''Recycled'', ''value'': ''Recycled''}'
-      - '{''label'': ''Biodegradable'', ''value'': ''Biodegradable''}'
-      - '{''label'': ''Compostable'', ''value'': ''Compostable''}'
+      - Materials
+      - Recycled
+      - Biodegradable
+      - Compostable
       required: true
     - id: 4
       name: manufacturing_process
@@ -55,10 +55,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Landfill'', ''value'': ''Landfill''}'
-      - '{''label'': ''Recycled'', ''value'': ''Recycled''}'
-      - '{''label'': ''Composting'', ''value'': ''Composting''}'
-      - '{''label'': ''Biodegradable'', ''value'': ''Biodegradable''}'
+      - Landfill
+      - Recycled
+      - Composting
+      - Biodegradable
       required: true
     - id: 8
       name: production_location

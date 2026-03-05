@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Apple''}'
-      - '{''id'': 2, ''label'': ''Banana''}'
-      - '{''id'': 3, ''label'': ''Orange''}'
+      - Apple
+      - Banana
+      - Orange
       required: true
     - id: 5
       name: quantity
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''credit card''}'
-      - '{''id'': 2, ''label'': ''bank transfer''}'
-      - '{''id'': 3, ''label'': ''cash''}'
+      - credit card
+      - bank transfer
+      - cash
       required: true
     - id: 9
       name: payment_method_other
@@ -99,7 +99,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''pending''}'
-      - '{''id'': 2, ''label'': ''shipped''}'
-      - '{''id'': 3, ''label'': ''delivered''}'
+      - pending
+      - shipped
+      - delivered
       required: false

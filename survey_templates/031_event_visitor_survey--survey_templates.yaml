@@ -9,11 +9,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Event Visitor Survey''}'
-      - '{''text'': ''Event Feedback Form''}'
-      - '{''text'': ''Feedback Form''}'
-      - '{''text'': ''Visitor Survey''}'
-      - '{''text'': ''Event Survey''}'
+      - Event Visitor Survey
+      - Event Feedback Form
+      - Feedback Form
+      - Visitor Survey
+      - Event Survey
       required: true
     - id: 2
       name: feedback
@@ -42,10 +42,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Attended alone''}'
-      - '{''value'': ''Attended with friends''}'
-      - '{''value'': ''Attended with family''}'
-      - '{''value'': ''Attended with colleagues''}'
+      - Attended alone
+      - Attended with friends
+      - Attended with family
+      - Attended with colleagues
       required: true
     - id: 6
       name: attended_before
@@ -53,11 +53,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Never''}'
-      - '{''value'': ''1-2 times''}'
-      - '{''value'': ''3-5 times''}'
-      - '{''value'': ''6-10 times''}'
-      - '{''value'': ''More than 10 times''}'
+      - Never
+      - 1-2 times
+      - 3-5 times
+      - 6-10 times
+      - More than 10 times
       required: true
     - id: 7
       name: rated
@@ -65,11 +65,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Very satisfied''}'
-      - '{''value'': ''Somewhat satisfied''}'
-      - '{''value'': ''Neither satisfied nor dissatisfied''}'
-      - '{''value'': ''Somewhat dissatisfied''}'
-      - '{''value'': ''Very dissatisfied''}'
+      - Very satisfied
+      - Somewhat satisfied
+      - Neither satisfied nor dissatisfied
+      - Somewhat dissatisfied
+      - Very dissatisfied
       required: true
     - id: 8
       name: rated_why
@@ -84,8 +84,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Online event''}'
-      - '{''value'': ''In person event''}'
+      - Online event
+      - In person event
       required: true
     - id: 10
       name: visited_from
@@ -93,10 +93,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Online''}'
-      - '{''value'': ''Social media''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Offline promotion''}'
+      - Online
+      - Social media
+      - Email
+      - Offline promotion
       required: true
     - id: 11
       name: visited_before
@@ -104,11 +104,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Never''}'
-      - '{''value'': ''1-2 times''}'
-      - '{''value'': ''3-5 times''}'
-      - '{''value'': ''6-10 times''}'
-      - '{''value'': ''More than 10 times''}'
+      - Never
+      - 1-2 times
+      - 3-5 times
+      - 6-10 times
+      - More than 10 times
       required: true
     - id: 12
       name: attended_with
@@ -116,10 +116,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Attended alone''}'
-      - '{''value'': ''Attended with friends''}'
-      - '{''value'': ''Attended with family''}'
-      - '{''value'': ''Attended with colleagues''}'
+      - Attended alone
+      - Attended with friends
+      - Attended with family
+      - Attended with colleagues
       required: true
     - id: 13
       name: visited_at

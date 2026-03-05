@@ -4,68 +4,119 @@ inputSchema:
     title: Non Linear Equation Methods Survey
     pages:
     - id: 1
-      name: non_linear_equation_methods_survey
-      label: Introduction
-      hint: null
+      name: introduction
+      label: What is the purpose of this survey?
+      hint: Please provide a brief description of the purpose of this survey.
       type: note
       options: []
       required: false
     - id: 2
       name: numerical_methods_used_in_signal_processing
-      label: Numerical Methods Used In Signal Processing
+      label: How often do you use numerical methods in signal processing?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Never
+      - Occasionally
+      - Frequently
       required: false
     - id: 3
-      name: numerical_methods_used_in_signal_processing
-      label: numerical-methods-used-in-signal-processing
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: numerical_methods_used_in_signal_processing
-      label: numerical-methods-used-in-signal-processing
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: numerical_methods
-      label: numerical-methods
+      name: numerical_method_type
+      label: What type of numerical method is used most often in signal processing?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Linear method
+      - Non-linear method
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: numerical_method_selection
+      label: How do you choose the type of numerical method to use in signal processing?
+      hint: null
+      type: select_one
+      options:
+      - By experience
+      - By literature review
+      - By experimentation
+      required: false
+    - id: 5
+      name: common_numerical_methods
+      label: What is the most common numerical method used in signal processing?
+      hint: null
+      type: select_one
+      options:
+      - Least squares method
+      - Kalman filter
+      - Wavelet transform
+      - Other (please specify)
       required: false
     - id: 6
-      name: numerical_methods
-      label: numerical-methods
+      name: numerical_method_validation
+      label: How do you validate the results of numerical methods in signal processing?
+      hint: null
+      type: select_one
+      options:
+      - By visual inspection
+      - By statistical analysis
+      - By experimentation
+      required: false
+    - id: 7
+      name: signal_processing_goal
+      label: What is the primary goal of using numerical methods in signal processing?
+      hint: null
+      type: select_one
+      options:
+      - To filter out noise
+      - To detect anomalies
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: numerical_methods_used
+      label: What are some common numerical methods used in signal processing?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Least squares method
+      - Kalman filter
+      - Wavelet transform
+      - Other (please specify)
       required: false
-    - id: 7
-      name: numerical_methods
-      label: numerical-methods
+    - id: 9
+      name: numerical_method_selection_again
+      label: How do you determine the appropriate numerical method for a specific
+        signal processing task?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - By experience
+      - By literature review
+      - By experimentation
       required: false
-    - id: 8
-      name: numerical_methods
-      label: numerical-methods
+    - id: 10
+      name: numerical_method_role
+      label: What is the role of numerical methods in signal processing?
       hint: null
-      type: text
+      type: select_one
+      options:
+      - To filter out noise
+      - To detect anomalies
+      - To extract features
+      required: false
+    - id: 11
+      name: numerical_method_performance
+      label: How do you assess the performance of numerical methods in signal processing?
+      hint: null
+      type: select_one
+      options:
+      - By visual inspection
+      - By statistical analysis
+      - Other (please specify)
+      required: false
+    - id: 12
+      name: note
+      label: Any additional comments?
+      hint: null
+      type: note
       options: []
       required: false

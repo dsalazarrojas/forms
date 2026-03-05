@@ -15,177 +15,191 @@ inputSchema:
     title: Salon Chemical Release Form
     pages:
     - id: 1
-      name: salon_chemical_release_form
-      label: chemical_reform
-      hint: null
+      name: introduction
+      label: Introduction
+      hint: Please answer all questions honestly.
       type: text
       options: []
       required: false
     - id: 2
-      name: chemical_reform_chemistry
-      label: chemical_chemistry
-      hint: null
+      name: salon_information
+      label: Salon Information
+      hint: Please provide your salon information.
       type: text
       options: []
       required: true
     - id: 3
-      name: chemical_reform_chemicals
-      label: chemical_chemicals
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: chemical_reform_services
-      label: chemical_services
-      hint: null
+      name: name
+      label: Name
+      hint: Please provide your name.
       type: text
       options: []
       required: true
+    - id: 4
+      name: role
+      label: Role in the Salon
+      hint: Please select your role in the salon.
+      type: select_one
+      options:
+      - Owner/Manager
+      - Staff Member
+      - Client
+      required: true
     - id: 5
-      name: chemical_reform_chemistry_chemicals
-      label: chemical_chemistry_chemicals
-      hint: null
+      name: chemical_information
+      label: Chemical Information
+      hint: Please provide chemical information.
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: chemical_reform_sign_off
-      label: sign_off
-      hint: null
+      name: chemical_name
+      label: Chemical Name
+      hint: Please provide the name of the chemical being used.
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: chemical_reform_signature
-      label: signature
-      hint: null
-      type: text
+      name: concentration
+      label: Concentration
+      hint: Please provide the concentration of the chemical being used.
+      type: number
       options: []
       required: true
     - id: 8
-      name: chemical_reform_form_date
-      label: form_date
-      hint: null
+      name: date_of_release
+      label: Date of Release
+      hint: Please provide the date of the chemical release.
       type: date
       options: []
       required: true
     - id: 9
-      name: chemical_reform_signature_date
-      label: signature_date
-      hint: null
-      type: date
+      name: exposure_duration
+      label: Exposure Duration
+      hint: Please provide how long you have been exposed to the chemical.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: chemical_reform_chemical_reform
-      label: chemical_reform
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: previous_incidents
+      label: Previous Chemical Exposure Incidents
+      hint: Have you had any previous chemical exposure incidents?
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 11
-      name: chemical_reform_chemistry_chemistry
-      label: chemistry_chemistry
-      hint: null
+      name: occupation
+      label: Occupation
+      hint: Please provide your occupation.
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: chemical_reform_chemical_services
-      label: chemical_services
-      hint: null
+      name: contact_information
+      label: Contact Information
+      hint: Please provide your contact information.
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: chemical_reform_chemical_chemistry_chemicals
-      label: chemical_chemistry_chemicals
-      hint: null
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: Please list any medical conditions or allergies that may be affected by
+        chemical exposure.
       type: text
       options: []
       required: false
     - id: 14
-      name: chemical_reform_chemical_chemicals_chemistry
-      label: chemical_chemistry_chemicals_chemistry
-      hint: null
+      name: emergency_contact
+      label: Emergency Contact Information
+      hint: Please provide the emergency contact person's information.
       type: text
       options: []
-      required: false
+      required: true
     - id: 15
-      name: chemical_reform_chemical_sign_off
-      label: chemical_sign_off
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: chemical_reform_chemical_signature
-      label: chemical_signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: chemical_reform_chemical_form_date
-      label: chemical_form_date
-      hint: null
+      name: last_release_date
+      label: Last Chemical Release Date
+      hint: Please provide the date of your last chemical release.
       type: date
       options: []
       required: true
-    - id: 18
-      name: chemical_reform_chemical_signature_date
-      label: chemical_signature_date
-      hint: null
-      type: date
+    - id: 16
+      name: release_frequency
+      label: Chemical Release Frequency
+      hint: Please provide the chemical release frequency.
+      type: number
       options: []
-      required: false
+      required: true
+    - id: 17
+      name: safety_procedures
+      label: Chemical Safety Procedures
+      hint: Have you received training on chemical safety procedures?
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 18
+      name: spill_response
+      label: Chemical Spill Response Plan
+      hint: Is there a chemical spill response plan?
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 19
-      name: chemical_reform_chemical_chemical_chemistry
-      label: chemical_chemistry
-      hint: null
+      name: spill_response_location
+      label: Chemical Spill Response Plan Location
+      hint: Please provide the location of the chemical spill response plan.
       type: text
       options: []
       required: false
     - id: 20
-      name: chemical_reform_chemical_chemicals_chemistry
-      label: chemical_chemistry
-      hint: null
+      name: safety_officer
+      label: Chemical Safety Officer
+      hint: Please provide the chemical safety officer's information.
       type: text
       options: []
-      required: false
+      required: true
     - id: 21
-      name: chemical_reform_chemical_chemical_services
-      label: chemical_services
-      hint: null
+      name: inventory
+      label: Chemical Inventory
+      hint: Please provide the chemical inventory.
       type: text
       options: []
-      required: false
+      required: true
     - id: 22
-      name: chemical_reform_chemical_chemical_chemicals
-      label: chemical_chemicals
-      hint: null
+      name: inventory_storage
+      label: Chemical Inventory Storage
+      hint: Please describe how you will store the chemical inventory.
       type: text
       options: []
-      required: false
+      required: true
     - id: 23
-      name: chemical_reform_chemical_chemical_chemistry_chemicals
-      label: chemical_chemistry_chemicals
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: labeling_and_locking
+      label: Chemical Labeling and Locking
+      hint: Are the chemicals labeled and locked?
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 24
-      name: chemical_reform_chemical_chemical_services_chemistry
-      label: chemical_services_chemistry
-      hint: null
+      name: access
+      label: Chemical Access
+      hint: Who has access to the chemicals?
       type: text
       options: []
-      required: false
+      required: true
     - id: 25
-      name: chemical_reform_chemical_chemical_signature
-      label: chemical_signature
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: chemical_usage
+      label: Chemical Usage
+      hint: Are the chemicals used properly?
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true

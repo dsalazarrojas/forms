@@ -4,55 +4,32 @@ inputSchema:
     title: Employee Attitude Survey
     pages:
     - id: 1
-      name: employee_survey
-      label: How do you feel about your work environment?
-      hint: null
-      type: select_one
-      options:
-      - Very Good
-      - Good
-      - Neutral
-      - Bad
-      - Very Bad
-      required: false
-    - id: 2
-      name: job_satisfaction
-      label: How satisfied are you with your job?
-      hint: null
+      name: employee_satisfaction
+      label: Overall, how would you rate your job satisfaction?
+      hint: Choose the best answer for you.
       type: select_multiple
       options:
       - Highly Satisfied
       - Satisfied
       - Neutral
       - Dissatisfied
-      - Dissatisfied
-      required: false
-    - id: 3
-      name: communication
-      label: How do you feel about communication among team members?
-      hint: null
+      - Very Dissatisfied
+      required: true
+    - id: 2
+      name: job_security
+      label: How satisfied are you with your job security?
+      hint: Select one of the options
       type: select_one
-      options:
-      - Very Good
-      - Good
-      - Neutral
-      - Bad
-      - Very Bad
-      required: false
-    - id: 4
-      name: manager_support
-      label: How much support do you receive from your manager?
-      hint: null
-      type: select_multiple
       options:
       - High
       - Medium
       - Low
-      required: false
-    - id: 5
+      - None
+      required: true
+    - id: 3
       name: work_life_balance
-      label: How do you feel about your work-life balance?
-      hint: null
+      label: How would you rate your work-life balance?
+      hint: Choose the best answer for you.
       type: select_one
       options:
       - Very Good
@@ -60,54 +37,89 @@ inputSchema:
       - Neutral
       - Bad
       - Very Bad
-      required: false
-    - id: 6
-      name: employee_satisfaction
-      label: How satisfied are you with your job?
-      hint: null
-      type: select_multiple
+      required: true
+    - id: 4
+      name: stress_level
+      label: How often do you feel stressed about work?
+      hint: Choose the best answer for you.
+      type: select_one
       options:
-      - Highly Satisfied
-      - Satisfied
-      - Neutral
-      - Dissatisfied
-      - Dissatisfied
-      required: false
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 5
+      name: manager_support
+      label: How would you rate your manager's support?
+      hint: Select one of the options
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: true
+    - id: 6
+      name: hours_worked
+      label: How many hours do you typically work per week?
+      hint: Enter a number
+      type: number
+      options: []
+      required: true
     - id: 7
-      name: feedback
-      label: Any feedback about your work environment?
-      hint: null
-      type: note
+      name: working_hours
+      label: What are your working hours?
+      hint: Choose the best answer for you.
+      type: time
       options: []
-      required: false
+      required: true
     - id: 8
-      name: employee_survey_8
-      label: How do you feel about your work environment?
-      hint: null
-      type: number
-      options: []
-      required: false
+      name: autonomy
+      label: How much autonomy do you have in your work?
+      hint: Select one of the options
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
     - id: 9
-      name: job_satisfaction_9
-      label: How satisfied are you with your job?
-      hint: null
-      type: number
-      options: []
-      required: false
+      name: feedback_manager
+      label: How would you rate the level of feedback you receive from your manager?
+      hint: Select one of the options
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: true
     - id: 10
-      name: communication_10
-      label: How do you feel about communication among team members?
-      hint: null
+      name: clear_goals
+      label: Do you feel like your goals and expectations are clear?
+      hint: Choose the best answer for you.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: collaboration
+      label: How would you rate your collaboration with colleagues?
+      hint: Choose the best answer for you.
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
+      - Very Bad
+      required: true
+    - id: 12
+      name: comments
+      label: Any other comments or suggestions about your work environment?
+      hint: Enter your thoughts
       type: text
       options: []
-      required: false
-    - id: 11
-      name: manager_support_11
-      label: How much support do you receive from your manager?
-      hint: null
-      type: select_one
-      options:
-      - High
-      - Medium
-      - Low
-      required: false
+      required: true

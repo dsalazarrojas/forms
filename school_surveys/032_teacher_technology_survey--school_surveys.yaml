@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High School''}'
-      - '{''id'': 2, ''label'': ''Elementary School''}'
+      - High School
+      - Elementary School
       required: true
     - id: 4
       name: subject_area
@@ -39,10 +39,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Desktop Computer''}'
-      - '{''id'': 2, ''label'': ''Smartphone''}'
-      - '{''id'': 3, ''label'': ''Laptop''}'
-      - '{''id'': 4, ''label'': ''Interactive Whiteboard''}'
+      - Desktop Computer
+      - Smartphone
+      - Laptop
+      - Interactive Whiteboard
       required: true
     - id: 6
       name: technology_needed
@@ -183,9 +183,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not Started''}'
-      - '{''id'': 2, ''label'': ''Completed''}'
-      - '{''id'': 3, ''label'': ''In Progress''}'
-      - '{''id'': 4, ''label'': ''On Hold''}'
-      - '{''id'': 5, ''label'': ''Completed''}'
+      - Not Started
+      - Completed
+      - In Progress
+      - On Hold
       required: true

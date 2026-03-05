@@ -79,10 +79,9 @@ inputSchema:
       hint: Select a payment option
       type: select_one
       options:
-      - '{''name'': ''Stripe''}'
-      - '{''name'': ''Stripe''}'
-      - '{''name'': ''PayPal''}'
-      - '{''name'': ''Bank Transfer''}'
+      - Stripe
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 12
       name: payment_method_2
@@ -90,7 +89,7 @@ inputSchema:
       hint: Select a payment option
       type: select_one
       options:
-      - '{''name'': ''Stripe''}'
-      - '{''name'': ''PayPal''}'
-      - '{''name'': ''Bank Transfer''}'
+      - Stripe
+      - PayPal
+      - Bank Transfer
       required: false

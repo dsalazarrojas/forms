@@ -5,87 +5,90 @@ inputSchema:
     pages:
     - id: 1
       name: start_time
-      label: start_time
+      label: Start Time
       hint: null
       type: time
       options: []
       required: false
     - id: 2
       name: end_time
-      label: end_time
+      label: End Time
       hint: null
       type: time
       options: []
       required: false
     - id: 3
-      name: staff_handover_details
-      label: staff_handover_details
+      name: handover_details
+      label: Handover Details
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: key_actions
-      label: key_actions
+      name: actions_taken
+      label: Actions Taken
       hint: null
       type: select_multiple
       options:
-      - Action 1
-      - Action 2
-      - Action 3
+      - Completed task 1
+      - Completed task 2
+      - Completed task 3
+      - Completed task 4
       required: false
     - id: 5
       name: report
-      label: report
+      label: Report
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: handover_issues
-      label: handover_issues
+      label: Handover Issues
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: handover_comments
-      label: handover_comments
+      name: shift_comments
+      label: Shift Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 8
       name: next_shift
-      label: next_shift
+      label: Next Shift
       hint: null
       type: number
       options: []
       required: false
     - id: 9
-      name: next_shift
-      label: next_shift
+      name: end_time_previous_shift
+      label: End Time of Previous Shift
       hint: null
-      type: number
+      type: time
       options: []
       required: false
     - id: 10
-      name: end_time
-      label: end_time
+      name: start_time_previous_shift
+      label: Start Time of Previous Shift
       hint: null
       type: time
       options: []
       required: false
     - id: 11
-      name: end_time
-      label: end_time
+      name: first_shift
+      label: First Shift
       hint: null
-      type: time
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 12
       name: report_id
-      label: report_id
+      label: Report ID
       hint: null
       type: number
       options: []

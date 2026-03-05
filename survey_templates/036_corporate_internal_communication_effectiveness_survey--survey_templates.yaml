@@ -5,240 +5,98 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: corporate internal communication effectiveness survey
+      label: Corporate Internal Communication Effectiveness Survey
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: how_do_you_routinely_receive_information_from_your_direct_supervisor
-      label: how do you routinely receive information from your direct supervisor
+      name: supervisor_communication_frequency
+      label: How often do you receive information from your direct supervisor?
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''other''}'
+      type: number
+      options: []
       required: false
     - id: 3
-      name: how_do_you_prefer_to_receive_information_from_your_direct_supervisor
-      label: how do you prefer to receive information from your direct supervisor
+      name: critical_issues_informed
+      label: How often do you feel informed about critical issues?
       hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''text''}'
+      type: number
+      options: []
       required: false
     - id: 4
-      name: communication_effectiveness
-      label: communication effectiveness
+      name: non_critical_issues_informed
+      label: How often do you feel informed about non-critical issues?
       hint: null
       type: number
       options: []
       required: false
     - id: 5
-      name: how_often_do_you_feel_informed_about_critical_issues
-      label: how often do you feel informed about critical issues
+      name: preferred_communication_method
+      label: What method of communication do you prefer?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - In-person Meeting
+      - Other
       required: false
     - id: 6
-      name: how_often_do_you_feel_informed_about_non_critical_issues
-      label: how often do you feel informed about non-critical issues
+      name: satisfaction_with_communication_methods
+      label: How would you rate your overall satisfaction with current communication
+        methods?
       hint: null
       type: number
       options: []
       required: false
     - id: 7
-      name: how_often_do_you_feel_informed_about_non_critical_issues_2
-      label: how often do you feel informed about non-critical issues
+      name: liked_communication_methods
+      label: What do you like about current communication methods?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Fast
+      - Clear
+      - Frequent
+      - Helpful
+      - Other
       required: false
     - id: 8
-      name: how_often_do_you_feel_informed_about_critical_issues_2
-      label: how often do you feel informed about critical issues
+      name: disliked_communication_methods
+      label: What do you dislike about current communication methods?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Slow
+      - Unclear
+      - Infrequent
+      - Not Helpful
+      - Not Clear
+      - Other
       required: false
     - id: 9
-      name: what_do_you_prefer_as_a_method_of_communication
-      label: what do you prefer as a method of communication
+      name: critical_issues_communication_method
+      label: What method of communication do you prefer for receiving information
+        about critical issues?
       hint: null
       type: select_one
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''other''}'
+      - Email
+      - Phone Call
+      - In-person Meeting
+      - Other
       required: false
     - id: 10
-      name: how_do_you_rate_your_overall_satisfaction_with_current_communication_methods
-      label: how do you rate your overall satisfaction with current communication
-        methods
+      name: additional_comments
+      label: Additional comments
       hint: null
-      type: number
+      type: note
       options: []
       required: false
     - id: 11
-      name: what_do_you_prefer_as_a_method_of_communication_2
-      label: what do you prefer as a method of communication
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''other''}'
-      required: false
-    - id: 12
-      name: what_do_you_like_about_current_communication_methods
-      label: what do you like about current communication methods
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''fast''}'
-      - '{''value'': ''clear''}'
-      - '{''value'': ''frequent''}'
-      - '{''value'': ''helpful''}'
-      - '{''value'': ''clear''}'
-      - '{''value'': ''other''}'
-      required: false
-    - id: 13
-      name: what_do_you_dislike_about_current_communication_methods
-      label: what do you dislike about current communication methods
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''slow''}'
-      - '{''value'': ''unclear''}'
-      - '{''value'': ''infrequent''}'
-      - '{''value'': ''not_helpful''}'
-      - '{''value'': ''not_clear''}'
-      - '{''value'': ''other''}'
-      required: false
-    - id: 14
-      name: what_do_you_prefer_as_a_method_of_communication_3
-      label: what do you prefer as a method of communication
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''other''}'
-      required: false
-    - id: 15
-      name: additional_comments
-      label: additional comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: what_do_you_prefer_as_a_method_of_communication_4
-      label: what do you prefer as a method of communication
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''other''}'
-      required: false
-    - id: 17
-      name: what_do_you_prefer_as_a_method_of_communication_5
-      label: what do you prefer as a method of communication
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''other''}'
-      required: false
-    - id: 18
-      name: what_do_you_prefer_as_a_method_of_communication_6
-      label: what do you prefer as a method of communication
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''other''}'
-      required: false
-    - id: 19
-      name: what_do_you_prefer_as_a_method_of_communication_7
-      label: what do you prefer as a method of communication
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''other''}'
-      required: false
-    - id: 20
-      name: what_do_you_prefer_as_a_method_of_communication_8
-      label: what do you prefer as a method of communication
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''other''}'
-      required: false
-    - id: 21
-      name: what_do_you_prefer_as_a_method_of_communication_9
-      label: what do you prefer as a method of communication
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''other''}'
-      required: false
-    - id: 22
-      name: what_do_you_prefer_as_a_method_of_communication_10
-      label: what do you prefer as a method of communication
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''other''}'
-      required: false
-    - id: 23
-      name: what_do_you_prefer_as_a_method_of_communication_11
-      label: what do you prefer as a method of communication
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''other''}'
-      required: false
-    - id: 24
-      name: additional_comments_2
-      label: additional comments 2
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
       name: assigned_tool
-      label: assigned tool
+      label: Assigned tool
       hint: null
       type: text
       options: []

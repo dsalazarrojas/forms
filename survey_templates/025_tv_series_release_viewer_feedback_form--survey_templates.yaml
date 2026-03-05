@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: watched_episodes
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': 1}'
-      - '{''id'': 2, ''label'': 2}'
-      - '{''id'': 3, ''label'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: true
     - id: 7
       name: watched_series
@@ -56,8 +56,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: feedback_type
@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Positive''}'
-      - '{''id'': 2, ''label'': ''Negative''}'
+      - Positive
+      - Negative
       required: true
     - id: 9
       name: rating

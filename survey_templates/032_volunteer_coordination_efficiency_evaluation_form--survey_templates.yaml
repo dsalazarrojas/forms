@@ -4,205 +4,213 @@ inputSchema:
     title: Volunteer Coordination Efficiency Evaluation Form
     pages:
     - id: 1
-      name: volunteer_coordination_efficiency_form_1
+      name: overall_experience
       label: Overall Experience
       hint: null
       type: note
       options: []
       required: true
     - id: 2
-      name: volunteer_coordination_efficiency_form_2
-      label: Volunteer Coordinator
+      name: volunteer_coordinator
+      label: Who is the primary volunteer coordinator?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Primary''}'
-      - '{''id'': 2, ''label'': ''Secondary''}'
-      - '{''id'': 3, ''label'': ''Tertiary''}'
-      - '{''id'': 4, ''label'': ''None''}'
+      - Primary
+      - Secondary
+      - Tertiary
+      - None
       required: true
     - id: 3
-      name: volunteer_coordination_efficiency_form_3
-      label: Frequency of Meetings
+      name: frequency_of_meetings
+      label: What is the frequency of meetings held for the volunteer program?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Quarterly''}'
-      - '{''id'': 5, ''label'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
       required: true
     - id: 4
-      name: volunteer_coordination_efficiency_form_4
-      label: Volunteer Management Tools
+      name: tools_and_resources
+      label: What tools and resources are used for volunteer management?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Database''}'
-      - '{''id'': 2, ''label'': ''Spreadsheets''}'
-      - '{''id'': 3, ''label'': ''None''}'
+      - Database
+      - Spreadsheets
+      - None
       required: false
     - id: 5
-      name: volunteer_coordination_efficiency_form_5
-      label: Time Management
+      name: time_management
+      label: What is the time management process like?
       hint: null
       type: number
       options: []
       required: false
     - id: 6
-      name: volunteer_coordination_efficiency_form_6
-      label: Communication
+      name: communication
+      label: How is communication handled for the volunteer program?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: volunteer_coordination_efficiency_form_7
-      label: Training
+      name: training
+      label: What kind of training is provided for volunteers?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: volunteer_coordination_efficiency_form_8
-      label: Feedback
+      name: feedback
+      label: What type of feedback is received from volunteers?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: volunteer_coordination_efficiency_form_9
-      label: Coordination
+      name: coordination
+      label: Who is responsible for coordination?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: volunteer_coordination_efficiency_form_10
-      label: Meetings
+      name: reporting_frequency
+      label: What is the reporting frequency for the volunteer program?
       hint: null
-      type: time
-      options: []
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
       required: false
     - id: 11
-      name: volunteer_coordination_efficiency_form_11
-      label: Reporting
+      name: coordination_tools
+      label: What tools and resources are utilized for coordination and reporting?
       hint: null
-      type: date
-      options: []
+      type: select_multiple
+      options:
+      - Database
+      - Spreadsheets
+      - None
       required: false
     - id: 12
-      name: volunteer_coordination_efficiency_form_12
-      label: Frequency of Reporting
+      name: communication_coordination
+      label: How is communication handled between coordinators?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Quarterly''}'
-      - '{''id'': 5, ''label'': ''Never''}'
+      type: text
+      options: []
       required: false
     - id: 13
-      name: volunteer_coordination_efficiency_form_13
-      label: Tools and Resources
+      name: coordinator_training
+      label: What kind of training is provided for coordinators?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Database''}'
-      - '{''id'': 2, ''label'': ''Spreadsheets''}'
-      - '{''id'': 3, ''label'': ''None''}'
+      type: text
+      options: []
       required: false
     - id: 14
-      name: volunteer_coordination_efficiency_form_14
-      label: Communication
+      name: feedback_coordinators
+      label: What type of feedback is received from coordinators?
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: volunteer_coordination_efficiency_form_15
-      label: Training
+      name: meetings_frequency
+      label: What is the frequency of meetings for coordinators?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
       required: false
     - id: 16
-      name: volunteer_coordination_efficiency_form_16
-      label: Feedback
+      name: meetings_tools
+      label: What tools and resources are utilized for meetings?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Database
+      - Spreadsheets
+      - None
       required: false
     - id: 17
-      name: volunteer_coordination_efficiency_form_17
-      label: Coordination
+      name: reporting
+      label: How is reporting handled?
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: volunteer_coordination_efficiency_form_18
-      label: Meetings
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: volunteer_coordination_efficiency_form_19
-      label: Reporting
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: volunteer_coordination_efficiency_form_20
-      label: Frequency of Reporting
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Quarterly''}'
-      - '{''id'': 5, ''label'': ''Never''}'
-      required: false
-    - id: 21
-      name: volunteer_coordination_efficiency_form_21
-      label: Tools and Resources
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Database''}'
-      - '{''id'': 2, ''label'': ''Spreadsheets''}'
-      - '{''id'': 3, ''label'': ''None''}'
-      required: false
-    - id: 22
-      name: volunteer_coordination_efficiency_form_22
-      label: Communication
+      name: overall_coordination
+      label: What is the overall experience with coordination?
       hint: null
       type: text
       options: []
       required: false
+    - id: 19
+      name: meeting_time
+      label: At what time of day are meetings held?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: last_report
+      label: On what date was the last report generated?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: reporting_frequency_volunteers
+      label: Reporting Frequency Volunteers
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
+      required: false
+    - id: 22
+      name: tools_volunteers
+      label: What tools and resources are utilized for volunteers?
+      hint: null
+      type: select_multiple
+      options:
+      - Database
+      - Spreadsheets
+      - None
+      required: false
     - id: 23
-      name: volunteer_coordination_efficiency_form_23
-      label: Training
+      name: feedback_volunteers
+      label: Feedback Volunteers
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: volunteer_coordination_efficiency_form_24
-      label: Feedback
+      name: volunteer_training
+      label: Volunteer Training
       hint: null
       type: text
       options: []
       required: false
     - id: 25
-      name: volunteer_coordination_efficiency_form_25
-      label: Meetings
+      name: overall_volunteer
+      label: What is the overall experience with the volunteer program?
       hint: null
-      type: time
+      type: text
       options: []
       required: false

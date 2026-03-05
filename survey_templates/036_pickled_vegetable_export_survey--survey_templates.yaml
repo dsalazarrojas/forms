@@ -5,72 +5,15 @@ inputSchema:
     pages:
     - id: 1
       name: export_survey
-      label: export_survey
-      hint: null
+      label: What is your export survey?
+      hint: Please provide a brief description of your export survey.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: destinations
-      label: destinations
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: products
-      label: export_products
-      hint: null
-      type: select_one
-      options:
-      - Pickled Cucumbers
-      - Pickled Peppers
-      - Pickled Olives
-      - Pickled Tomatoes
-      - Pickled Beets
-      - Pickled Onions
-      - Pickled Carrots
-      required: false
-    - id: 4
-      name: quantity
-      label: quantity
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: operational_challenges
-      label: operational_challenges
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: export_channels
-      label: export_channels
-      hint: null
-      type: select_one
-      options:
-      - Trade Shows
-      - Online Marketplaces
-      - Retailers
-      - Exporters Associations
-      required: false
-    - id: 7
-      name: export_value
-      label: export_value
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: destinations
-      label: destinations
-      hint: Where do you export the pickled vegetables?
+      label: Which destinations do you export to?
+      hint: List the countries or regions you export to.
       type: select_multiple
       options:
       - USA
@@ -81,19 +24,82 @@ inputSchema:
       - Korea
       - Europe
       - Other Country
-      required: false
-    - id: 9
-      name: operational_issues
-      label: operational_issues
+      required: true
+    - id: 3
+      name: export_products
+      label: What pickled vegetable products do you export?
+      hint: Please select the products you export.
+      type: select_one
+      options:
+      - Pickled Cucumbers
+      - Pickled Peppers
+      - Pickled Olives
+      - Pickled Tomatoes
+      - Pickled Beets
+      - Pickled Onions
+      - Pickled Carrots
+      required: true
+    - id: 4
+      name: quantity
+      label: How much do you export per shipment?
       hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: operational_issues
+      label: Do you face any operational issues?
+      hint: Yes or No
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
+    - id: 6
+      name: export_channels
+      label: Which export channels do you use?
+      hint: Please select one export channel.
+      type: select_one
+      options:
+      - Trade Shows
+      - Online Marketplaces
+      - Retailers
+      - Exporters Associations
+      required: true
+    - id: 7
+      name: export_value
+      label: What is the export value per shipment?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: exported_to
+      label: Where do you export?
+      hint: List the countries or regions you export to.
+      type: select_multiple
+      options:
+      - USA
+      - Mexico
+      - Canada
+      - China
+      - Japan
+      - Korea
+      - Europe
+      - Other Country
+      required: true
+    - id: 9
+      name: export_issues
+      label: Do you face any export issues?
+      hint: Yes or No
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 10
-      name: export_products
-      label: export_products
+      name: export_products_2
+      label: Export Products 2
       hint: null
       type: select_one
       options:
@@ -106,8 +112,8 @@ inputSchema:
       - Pickled Carrots
       required: false
     - id: 11
-      name: quantity
-      label: quantity
+      name: total_exports
+      label: How many total exports per shipment?
       hint: null
       type: number
       options: []

@@ -4,114 +4,101 @@ inputSchema:
     title: humble_hungry_smart_survey
     pages:
     - id: 1
-      name: '1'
+      name: team_member_position
       label: Team Member
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: name
-      label: Team Member Name
-      hint: Please enter team member name
-      type: text
-      options: []
-      required: true
-    - id: 3
-      name: name
-      label: Team Member Position
-      hint: Select one of the options
-      type: select_one
-      options:
-      - Manager
-      - Member
-      - Other
-      required: true
-    - id: 4
-      name: name
-      label: What does this team member do
-      hint: Please enter short description of the team member role
-      type: note
-      options: []
-      required: false
-    - id: 5
-      name: name
-      label: Rate this team member
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: name
+      name: team_member_description
       label: How would you describe this team member
-      hint: Select all that apply
+      hint: null
       type: select_multiple
       options:
       - Humble
       - Hungry
       - Smart
       required: true
-    - id: 7
-      name: name
+    - id: 3
+      name: rate1
       label: Rate this team member
-      hint: Select one of the options
+      hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 4
+      name: rate2
+      label: Rate2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 5
+      name: rate3
+      label: Rate3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 6
+      name: team_member_role
+      label: What does this team member do
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: team_member_date
+      label: Enter a valid date
+      hint: null
+      type: date
+      options: []
       required: true
     - id: 8
-      name: name
-      label: Rate this team member
-      hint: Select one of the options
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      name: team_member_time
+      label: Enter a valid time
+      hint: null
+      type: time
+      options: []
       required: true
     - id: 9
-      name: name
-      label: Rate this team member
-      hint: Select one of the options
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      name: team_member_email
+      label: Enter a valid email
+      hint: null
+      type: email
+      options: []
       required: true
     - id: 10
-      name: name
-      label: Rate this team member
-      hint: Enter value with up to 2 decimal places
+      name: team_member_rating
+      label: Enter a numerical value
+      hint: null
       type: number
       options: []
       required: true
     - id: 11
-      name: name
-      label: Rate this team member
-      hint: Please enter valid date
-      type: date
-      options: []
+      name: team_member_option
+      label: Select a suitable option
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 12
-      name: name
-      label: Rate this team member
-      hint: Please enter valid time
-      type: time
-      options: []
-      required: true
-    - id: 13
-      name: name
-      label: Rate this team member
-      hint: Please enter valid email
-      type: email
+      name: team_member_name
+      label: Team Member Name
+      hint: null
+      type: text
       options: []
       required: true

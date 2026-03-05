@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Not sure''}'
+      - 'True'
+      - 'False'
+      - Not sure
       required: false
     - id: 5
       name: parent_involvement
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: device
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Laptop/Desktop''}'
-      - '{''value'': ''Smartphone''}'
-      - '{''value'': ''Tablet''}'
+      - Laptop/Desktop
+      - Smartphone
+      - Tablet
       required: false
     - id: 7
       name: network_speed
@@ -59,8 +59,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Fast''}'
-      - '{''value'': ''Slow''}'
+      - Fast
+      - Slow
       required: false
     - id: 8
       name: internet_access
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Not enough''}'
+      - 'True'
+      - 'False'
+      - Not enough
       required: false
     - id: 9
       name: feel_important
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Important''}'
-      - '{''value'': ''Not important''}'
-      - '{''value'': ''Not at all important''}'
+      - Important
+      - Not important
+      - Not at all important
       required: false
     - id: 10
       name: parent_knowledge
@@ -88,7 +88,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Low''}'
-      - '{''value'': ''No answer''}'
+      - High
+      - Low
+      - No answer
       required: false

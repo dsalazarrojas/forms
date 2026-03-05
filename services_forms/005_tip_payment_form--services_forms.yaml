@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''10'', ''label'': ''10%''}'
-      - '{''value'': ''15%'', ''label'': ''15%''}'
-      - '{''value'': ''20%'', ''label'': ''20%''}'
+      - 10%
+      - 15%
+      - 20%
       required: false
     - id: 4
       name: tip_amount
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''base price'', ''label'': ''Base Price''}'
-      - '{''value'': ''tip percentage'', ''label'': ''Tip Percentage''}'
-      - '{''value'': ''tip amount'', ''label'': ''Tip Amount''}'
+      - Base Price
+      - Tip Percentage
+      - Tip Amount
       required: false
     - id: 7
       name: submit
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''calculate tip'', ''label'': ''Calculate Tip''}'
-      - '{''value'': ''reset'', ''label'': ''Reset''}'
+      - Calculate Tip
+      - Reset
       required: true
     - id: 8
       name: result

@@ -5,128 +5,110 @@ inputSchema:
     pages:
     - id: 1
       name: unit_type
-      label: unit_type
+      label: Unit Type
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 2
-      name: quantity
-      label: quantity
+      name: unit_quantity
+      label: Quantity
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
       name: unit_price
-      label: unit_price
+      label: Unit Price
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
       name: order_date
-      label: order_date
+      label: Order Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 5
       name: tester_unit_name
-      label: tester_unit_name
+      label: Tester Unit Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: tester_unit_number
-      label: tester_unit_number
+      name: unit_number
+      label: Unit Number
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 7
       name: customer_name
-      label: customer_name
+      label: Customer Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: email
-      label: email
+      name: customer_email
+      label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 9
-      name: phone
-      label: phone
+      name: customer_phone
+      label: Phone
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
       name: shipping_address
-      label: shipping_address
+      label: Shipping Address
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: city
-      label: city
+      name: customer_city
+      label: City
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: state
-      label: state
+      name: customer_state
+      label: State
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: country
-      label: country
+      name: customer_country
+      label: Country
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 14
-      name: notes
-      label: notes
+      name: customer_notes
+      label: Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 15
-      name: unit_type
-      label: unit_type
+      name: customer_notes_2
+      label: Customer Notes
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: tester_unit_number
-      label: tester_unit_number
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: customer_name
-      label: customer_name
-      hint: null
-      type: text
+      type: note
       options: []
       required: false

@@ -1,367 +1,356 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Automation Challenges in Manufacturing Survey
     pages:
-      - id: 1
-        name: introduction
-        label: Automation Challenges in Manufacturing Survey
-        hint: Help us understand automation in manufacturing
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_info
-        label: Respondent Information
-        hint: Your details
-        type: note
-        options: []
-        required: false
-      - id: 3
-        name: first_name
-        label: First Name
-        hint: Your first name
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: last_name
-        label: Last Name
-        hint: Your last name
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: email
-        label: Email Address
-        hint: Contact email
-        type: email
-        options: []
-        required: false
-      - id: 6
-        name: company_name
-        label: Company Name
-        hint: Your company
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: job_title
-        label: Job Title
-        hint: Your position
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: industry
-        label: Industry
-        hint: Your industry
-        type: select_one
-        options:
-          - Automotive
-          - Electronics
-          - Food and Beverage
-          - Pharmaceuticals
-          - Aerospace
-          - Consumer Goods
-          - Chemical
-          - Metal Fabrication
-          - Plastics
-          - Other
-        required: true
-      - id: 9
-        name: company_size
-        label: Company Size
-        hint: Number of employees
-        type: select_one
-        options:
-          - 1-50
-          - 51-200
-          - 201-500
-          - 501-1000
-          - 1001-5000
-          - Over 5000
-        required: true
-      - id: 10
-        name: facility_info
-        label: Facility Information
-        hint: About your facility
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: facility_location
-        label: Facility Location
-        hint: Where located
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: facility_size
-        label: Facility Size
-        hint: Square footage
-        type: select_one
-        options:
-          - Under 10000 sq ft
-          - 10000-50000 sq ft
-          - 50000-100000 sq ft
-          - 100000-500000 sq ft
-          - Over 500000 sq ft
-        required: false
-      - id: 13
-        name: production_type
-        label: Production Type
-        hint: What type of production
-        type: select_one
-        options:
-          - Discrete Manufacturing
-          - Process Manufacturing
-          - Batch Production
-          - Mass Production
-          - Custom Production
-          - Mixed Mode
-        required: true
-      - id: 14
-        name: automation_level
-        label: Current Automation Level
-        hint: How automated is your facility
-        type: select_one
-        options:
-          - Minimal Automation
-          - Partial Automation
-          - Moderate Automation
-          - High Automation
-          - Fully Automated
-        required: true
-      - id: 15
-        name: automation_years
-        label: Years Using Automation
-        hint: How long
-        type: select_one
-        options:
-          - Less than 1 year
-          - 1-3 years
-          - 3-5 years
-          - 5-10 years
-          - Over 10 years
-        required: true
-      - id: 16
-        name: technologies_used
-        label: Automation Technologies Used
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Industrial Robots
-          - Collaborative Robots
-          - CNC Machines
-          - PLC Systems
-          - SCADA Systems
-          - MES Systems
-          - IoT Sensors
-          - Machine Vision
-          - AI or Machine Learning
-          - AGV or AMR
-          - None
-        required: true
-      - id: 17
-        name: investment_range
-        label: Automation Investment Range
-        hint: Annual spending
-        type: select_one
-        options:
-          - Under $50000
-          - $50000-$100000
-          - $100000-$500000
-          - $500000-$1M
-          - $1M-$5M
-          - Over $5M
-        required: false
-      - id: 18
-        name: challenges
-        label: Automation Challenges
-        hint: What challenges do you face
-        type: note
-        options: []
-        required: false
-      - id: 19
-        name: top_challenges
-        label: Top Challenges
-        hint: Select your top challenges
-        type: select_multiple
-        options:
-          - High Initial Cost
-          - Lack of Skilled Workers
-          - Integration Complexity
-          - Maintenance Issues
-          - Downtime During Implementation
-          - Employee Resistance
-          - Technology Obsolescence
-          - Cybersecurity Concerns
-          - ROI Uncertainty
-          - Supply Chain Issues
-          - Quality Control
-          - Other
-        required: true
-      - id: 20
-        name: biggest_challenge
-        label: Biggest Challenge
-        hint: Your single biggest challenge
-        type: select_one
-        options:
-          - High Initial Cost
-          - Lack of Skilled Workers
-          - Integration Complexity
-          - Maintenance Issues
-          - Employee Resistance
-          - Technology Obsolescence
-          - Cybersecurity Concerns
-          - ROI Uncertainty
-        required: true
-      - id: 21
-        name: challenge_details
-        label: Challenge Details
-        hint: Describe your challenges
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: workforce_impact
-        label: Workforce Impact
-        hint: How has automation affected workforce
-        type: select_one
-        options:
-          - Reduced Headcount
-          - No Change
-          - Increased Headcount
-          - Shifted Skill Requirements
-          - Mixed Impact
-        required: true
-      - id: 23
-        name: training_provided
-        label: Training Provided
-        hint: Do you provide automation training
-        type: select_one
-        options:
-          - Yes Comprehensive
-          - Yes Basic
-          - No
-          - Planning To
-        required: true
-      - id: 24
-        name: skills_gap
-        label: Skills Gap
-        hint: Do you have a skills gap
-        type: select_one
-        options:
-          - Severe Gap
-          - Moderate Gap
-          - Minor Gap
-          - No Gap
-        required: true
-      - id: 25
-        name: roi_satisfaction
-        label: ROI Satisfaction
-        hint: Are you satisfied with ROI
-        type: select_one
-        options:
-          - Very Satisfied
-          - Satisfied
-          - Neutral
-          - Dissatisfied
-          - Very Dissatisfied
-        required: true
-      - id: 26
-        name: future_plans
-        label: Future Plans
-        hint: What are your plans
-        type: note
-        options: []
-        required: false
-      - id: 27
-        name: planned_investments
-        label: Planned Investments
-        hint: Next 12 months
-        type: select_one
-        options:
-          - Increase Significantly
-          - Increase Slightly
-          - Maintain Current
-          - Decrease Slightly
-          - Decrease Significantly
-        required: true
-      - id: 28
-        name: technology_interest
-        label: Technologies of Interest
-        hint: What interests you
-        type: select_multiple
-        options:
-          - Industrial Robots
-          - Collaborative Robots
-          - AI or Machine Learning
-          - IoT and Industry 4.0
-          - Digital Twins
-          - Predictive Maintenance
-          - Advanced Analytics
-          - Cloud Computing
-          - 5G Connectivity
-          - Additive Manufacturing
-        required: false
-      - id: 29
-        name: implementation_timeline
-        label: Implementation Timeline
-        hint: When planning to implement
-        type: select_one
-        options:
-          - Within 6 Months
-          - 6-12 Months
-          - 1-2 Years
-          - 2-5 Years
-          - No Plans
-        required: false
-      - id: 30
-        name: support_needed
-        label: Support Needed
-        hint: What support do you need
-        type: select_multiple
-        options:
-          - Technical Consulting
-          - Financial Support
-          - Training Programs
-          - Vendor Selection
-          - Integration Services
-          - Maintenance Support
-          - None
-        required: false
-      - id: 31
-        name: success_metrics
-        label: Success Metrics
-        hint: How do you measure success
-        type: select_multiple
-        options:
-          - Productivity Increase
-          - Cost Reduction
-          - Quality Improvement
-          - Safety Improvement
-          - Lead Time Reduction
-          - Flexibility Increase
-          - Customer Satisfaction
-          - Employee Satisfaction
-        required: false
-      - id: 32
-        name: additional_comments
-        label: Additional Comments
-        hint: Any other insights
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: introduction
+      label: Automation Challenges in Manufacturing Survey
+      hint: Help us understand automation in manufacturing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_info
+      label: Respondent Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Your company
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Your industry
+      type: select_one
+      options:
+      - Automotive
+      - Electronics
+      - Food and Beverage
+      - Pharmaceuticals
+      - Aerospace
+      - Consumer Goods
+      - Chemical
+      - Metal Fabrication
+      - Plastics
+      - Other
+      required: true
+    - id: 9
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1001-5000
+      - Over 5000
+      required: true
+    - id: 10
+      name: facility_info
+      label: Facility Information
+      hint: About your facility
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: facility_location
+      label: Facility Location
+      hint: Where located
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_size
+      label: Facility Size
+      hint: Square footage
+      type: select_one
+      options:
+      - Under 10000 sq ft
+      - 10000-50000 sq ft
+      - 50000-100000 sq ft
+      - 100000-500000 sq ft
+      - Over 500000 sq ft
+      required: false
+    - id: 13
+      name: production_type
+      label: Production Type
+      hint: What type of production
+      type: select_one
+      options:
+      - Discrete Manufacturing
+      - Process Manufacturing
+      - Batch Production
+      - Mass Production
+      - Custom Production
+      - Mixed Mode
+      required: true
+    - id: 14
+      name: automation_level
+      label: Current Automation Level
+      hint: How automated is your facility
+      type: select_one
+      options:
+      - Minimal Automation
+      - Partial Automation
+      - Moderate Automation
+      - High Automation
+      - Fully Automated
+      required: true
+    - id: 15
+      name: automation_years
+      label: Years Using Automation
+      hint: How long
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 16
+      name: technologies_used
+      label: Automation Technologies Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Industrial Robots
+      - Collaborative Robots
+      - CNC Machines
+      - PLC Systems
+      - SCADA Systems
+      - MES Systems
+      - IoT Sensors
+      - Machine Vision
+      - AI or Machine Learning
+      - AGV or AMR
+      - None
+      required: true
+    - id: 17
+      name: investment_range
+      label: Automation Investment Range
+      hint: Annual spending
+      type: select_one
+      options:
+      - Under $50000
+      - $50000-$100000
+      - $100000-$500000
+      - $500000-$1M
+      - $1M-$5M
+      - Over $5M
+      required: false
+    - id: 18
+      name: challenges
+      label: Automation Challenges
+      hint: What challenges do you face
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: top_challenges
+      label: Top Challenges
+      hint: Select your top challenges
+      type: select_multiple
+      options:
+      - High Initial Cost
+      - Lack of Skilled Workers
+      - Integration Complexity
+      - Maintenance Issues
+      - Downtime During Implementation
+      - Employee Resistance
+      - Technology Obsolescence
+      - Cybersecurity Concerns
+      - ROI Uncertainty
+      - Supply Chain Issues
+      - Quality Control
+      - Other
+      required: true
+    - id: 20
+      name: biggest_challenge
+      label: Biggest Challenge
+      hint: Your single biggest challenge
+      type: select_one
+      options:
+      - High Initial Cost
+      - Lack of Skilled Workers
+      - Integration Complexity
+      - Maintenance Issues
+      - Employee Resistance
+      - Technology Obsolescence
+      - Cybersecurity Concerns
+      - ROI Uncertainty
+      required: true
+    - id: 21
+      name: challenge_details
+      label: Challenge Details
+      hint: Describe your challenges
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: workforce_impact
+      label: Workforce Impact
+      hint: How has automation affected workforce
+      type: select_one
+      options:
+      - Reduced Headcount
+      - No Change
+      - Increased Headcount
+      - Shifted Skill Requirements
+      - Mixed Impact
+      required: true
+    - id: 23
+      name: training_provided
+      label: Training Provided
+      hint: Do you provide automation training
+      type: select_one
+      options:
+      - Yes Comprehensive
+      - Yes Basic
+      - 'False'
+      - Planning To
+      required: true
+    - id: 24
+      name: skills_gap
+      label: Skills Gap
+      hint: Do you have a skills gap
+      type: select_one
+      options:
+      - Severe Gap
+      - Moderate Gap
+      - Minor Gap
+      - No Gap
+      required: true
+    - id: 25
+      name: roi_satisfaction
+      label: ROI Satisfaction
+      hint: Are you satisfied with ROI
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 26
+      name: future_plans
+      label: Future Plans
+      hint: What are your plans
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: planned_investments
+      label: Planned Investments
+      hint: Next 12 months
+      type: select_one
+      options:
+      - Increase Significantly
+      - Increase Slightly
+      - Maintain Current
+      - Decrease Slightly
+      - Decrease Significantly
+      required: true
+    - id: 28
+      name: technology_interest
+      label: Technologies of Interest
+      hint: What interests you
+      type: select_multiple
+      options:
+      - Industrial Robots
+      - Collaborative Robots
+      - AI or Machine Learning
+      - IoT and Industry 4.0
+      - Digital Twins
+      - Predictive Maintenance
+      - Advanced Analytics
+      - Cloud Computing
+      - 5G Connectivity
+      - Additive Manufacturing
+      required: false
+    - id: 29
+      name: implementation_timeline
+      label: Implementation Timeline
+      hint: When planning to implement
+      type: select_one
+      options:
+      - Within 6 Months
+      - 6-12 Months
+      - 1-2 Years
+      - 2-5 Years
+      - No Plans
+      required: false
+    - id: 30
+      name: support_needed
+      label: Support Needed
+      hint: What support do you need
+      type: select_multiple
+      options:
+      - Technical Consulting
+      - Financial Support
+      - Training Programs
+      - Vendor Selection
+      - Integration Services
+      - Maintenance Support
+      - None
+      required: false
+    - id: 31
+      name: success_metrics
+      label: Success Metrics
+      hint: How do you measure success
+      type: select_multiple
+      options:
+      - Productivity Increase
+      - Cost Reduction
+      - Quality Improvement
+      - Safety Improvement
+      - Lead Time Reduction
+      - Flexibility Increase
+      - Customer Satisfaction
+      - Employee Satisfaction
+      required: false
+    - id: 32
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other insights
+      type: text
+      options: []
+      required: false

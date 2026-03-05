@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''other'', ''label'': ''other''}'
-      - '{''id'': 3, ''name'': None, ''label'': ''None''}'
+      - chatjimmy
+      - other
+      - None
       required: false
     - id: 9
       name: customer_experience
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''better'', ''label'': ''better''}'
-      - '{''id'': 2, ''name'': ''worse'', ''label'': ''worse''}'
-      - '{''id'': 3, ''name'': None, ''label'': ''None''}'
+      - better
+      - worse
+      - None
       required: false
     - id: 10
       name: more_info

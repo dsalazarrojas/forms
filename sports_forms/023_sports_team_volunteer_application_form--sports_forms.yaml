@@ -15,71 +15,120 @@ inputSchema:
     title: sports_team_volunteer_application_form
     pages:
     - id: 1
-      name: volunteer_preferences
-      label: volunteer_preferences
+      name: name
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: volunteer_information
-      label: volunteer_information
+      name: availability
+      label: What is your availability for volunteering?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: volunteer_preferences
-      label: volunteer_preferences
+      name: volunteer_interest
+      label: What sports teams or programs would you be interested in volunteering
+        with?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 4
-      name: volunteer_preferences
-      label: volunteer_preferences
+      name: experience
+      label: Do you have any experience with this sport or in a similar role?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: sport
-      label: sport
+      name: contact_info
+      label: What is your primary contact method (phone, email, or in person)?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: volunteer_preferences
-      label: volunteer_preferences
+      name: availability_schedule
+      label: What is your availability for volunteering in a 4-day workweek (e.g.,
+        Monday to Thursday 9am-5pm, Tuesday to Thursday 10am-6pm)?
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 7
-      name: volunteer_preferences
-      label: volunteer_preferences
+      name: volunteer_hours
+      label: How many hours per week are you available to volunteer?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 8
-      name: volunteer_preferences
-      label: volunteer_preferences
+      name: medical_conditions
+      label: Do you have any medical conditions that would affect your ability to
+        participate in physical activities?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 9
-      name: volunteer_preferences
-      label: volunteer_preferences
+      name: certifications
+      label: Do you have any certifications or special skills that would be useful
+        for volunteering with our team?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: volunteer_preferences
-      label: volunteer_preferences
+      name: referral_source
+      label: How did you hear about our team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: transportation
+      label: Do you have a reliable means of transportation?
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 12
+      name: previous_volunteer_status
+      label: Are you a student or have you previously volunteered with our team before?
+      hint: null
+      type: radio
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 13
+      name: availability_4day
+      label: Availability 4Day
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: contact_method
+      label: How do you want to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 15
+      name: additional_info
+      label: Additional information about you or any specific volunteer experience?
       hint: null
       type: text
       options: []

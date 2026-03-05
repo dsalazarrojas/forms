@@ -5,60 +5,98 @@ inputSchema:
     pages:
     - id: 1
       name: submit_your_project_form_1
-      label: Submit
-      hint: null
+      label: Project Title
+      hint: Enter a brief title for your project
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: project_description
-      label: Description
-      hint: null
+      label: Project Description
+      hint: Briefly describe your project
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: project_status_1
+      name: project_status
       label: Status
-      hint: null
-      type: select_one
-      options:
-      - New
-      - Active
-      - Completed
-      required: false
-    - id: 4
-      name: project_status_2
-      label: Status
-      hint: null
+      hint: Select the current status of your project
       type: select_one
       options:
       - Draft
       - Active
       - Completed
-      required: false
-    - id: 5
-      name: project_status_3
-      label: Status
-      hint: null
+      required: true
+    - id: 4
+      name: project_status_2
+      label: Project Status 2
+      hint: Select the next expected status of your project
       type: select_one
       options:
       - Active
       - Completed
-      required: false
-    - id: 6
-      name: project_status_4
-      label: Status
-      hint: null
+      - Inactive
+      required: true
+    - id: 5
+      name: project_status_3
+      label: Project Status 3
+      hint: Select the reason for project completion
       type: select_one
       options:
-      - Active
-      - Inactive
-      required: false
-    - id: 7
-      name: submitter
+      - Completed due to success
+      - Completed due to failure
+      required: true
+    - id: 6
+      name: project_submitter
       label: Submitter
+      hint: Enter the name of the person submitting the project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: submitter_email
+      label: Email
+      hint: Enter the submitter's email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: project_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Technology
+      - Software Development
+      - Project Management
+      required: true
+    - id: 11
+      name: project_comments
+      label: Comments
       hint: null
       type: text
       options: []
+      required: false
+    - id: 12
+      name: project_submission
+      label: Submission
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false

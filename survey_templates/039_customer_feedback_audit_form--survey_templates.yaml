@@ -16,13 +16,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Strongly disagree''}'
-      - '{''label'': ''Strongly agree''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': "Don''t know"}'
+      - Strongly disagree
+      - Strongly agree
+      - Neutral
+      - Don't know
       required: false
     - id: 3
-      name: customer_feedback
+      name: customer_feedback_2
       label: Feedback
       hint: null
       type: text
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very prophets''}'
-      - '{''label'': ''Not very good''}'
-      - '{''label'': ''Not at all''}'
+      - Very prophets
+      - Not very good
+      - Not at all
       required: false
     - id: 7
       name: service_quality
@@ -58,10 +58,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 8
       name: date_of_visit
@@ -141,38 +141,38 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: customer_experience
+      name: customer_experience_2
       label: Experience
       hint: null
       type: number
       options: []
       required: false
     - id: 20
-      name: customer_satisfaction
-      label: Satisfaction
+      name: customer_satisfaction_2
+      label: Customer Satisfaction 2
       hint: null
       type: number
       options: []
       required: false
     - id: 21
-      name: service_quality
-      label: Service Quality
+      name: service_quality_2
+      label: Service Quality 2
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very good''}'
-      - '{''label'': ''Not very good''}'
-      - '{''label'': ''Not at all''}'
+      - Very good
+      - Not very good
+      - Not at all
       required: false
     - id: 22
-      name: product_quality
-      label: Product Quality
+      name: product_quality_2
+      label: Product Quality 2
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very good''}'
-      - '{''label'': ''Not very good''}'
-      - '{''label'': ''Not at all''}'
+      - Very good
+      - Not very good
+      - Not at all
       required: false
     - id: 23
       name: customer_service
@@ -180,26 +180,26 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very good''}'
-      - '{''label'': ''Not very good''}'
-      - '{''label'': ''Not at all''}'
+      - Very good
+      - Not very good
+      - Not at all
       required: false
     - id: 24
-      name: customer_service
-      label: Customer Service
+      name: customer_service_2
+      label: Customer Service 2
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very good''}'
-      - '{''label'': ''Not very good''}'
-      - '{''label'': ''Not at all''}'
+      - Very good
+      - Not very good
+      - Not at all
       required: false
     - id: 25
-      name: product_quality
-      label: Product Quality
+      name: product_quality_3
+      label: Product Quality 3
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very good''}'
-      - '{''label'': ''Not very good''}'
+      - Very good
+      - Not very good
       required: false

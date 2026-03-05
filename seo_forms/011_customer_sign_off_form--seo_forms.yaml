@@ -4,201 +4,41 @@ inputSchema:
     title: Customer Sign Off Form
     pages:
     - id: 1
-      name: customer_sign_off_form_page_1
-      label: service_provider
+      name: customer_info
+      label: Customer Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: customer_sign_off_form_page_2
-      label: customer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: customer_sign_off_form_page_2
-      label: date_signed
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 4
-      name: customer_sign_off_form_page_4
-      label: service_provider_signed
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: customer_sign_off_form_page_5
-      label: customer_signed
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: customer_sign_off_form_page_6
-      label: date_signed
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: customer_sign_off_form_page_7
-      label: service_provider
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: customer_sign_off_form_page_8
-      label: customer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: customer_sign_off_form_page_9
-      label: service_provider_signed
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: customer_sign_off_form_page_10
-      label: customer_signed
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: customer_sign_off_form_page_11
-      label: date_signed
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: customer_sign_off_form_page_12
-      label: service_provider_signed
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: customer_signed
-      label: Customer Signed
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: date_signed
-      label: Date Signed
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: service_provider
+      name: service_info
       label: Service Provider
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
-      name: customer
-      label: Customer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: service_provider_signed
-      label: Service Provider Signed
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: customer_signed
-      label: Customer Signed
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
+    - id: 3
       name: date_signed
       label: Date Signed
       hint: null
       type: date
       options: []
-      required: false
-    - id: 20
-      name: customer
-      label: Customer
+      required: true
+    - id: 4
+      name: customer_signed
+      label: Customer Signed
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
       name: service_provider_signed
       label: Service Provider Signed
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: customer_signed
-      label: Customer Signed
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: date_signed
-      label: Date Signed
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: service_provider_signed
-      label: Service Provider Signed
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: customer_signed
-      label: Customer Signed
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true

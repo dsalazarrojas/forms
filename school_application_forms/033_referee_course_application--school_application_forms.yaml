@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''School A''}'
-      - '{''name'': ''School B''}'
-      - '{''name'': ''School C''}'
+      - School A
+      - School B
+      - School C
       required: true
     - id: 6
       name: referee_course_name
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Basketball''}'
-      - '{''name'': ''Soccer''}'
-      - '{''name'': ''Volleyball''}'
+      - Basketball
+      - Soccer
+      - Volleyball
       required: true
     - id: 7
       name: referee_grade_level
@@ -78,11 +78,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''1 session''}'
-      - '{''name'': ''2 sessions''}'
-      - '{''name'': ''3 sessions''}'
-      - '{''name'': ''4 sessions''}'
-      - '{''name'': ''5 sessions''}'
+      - 1 session
+      - 2 sessions
+      - 3 sessions
+      - 4 sessions
+      - 5 sessions
       required: true
     - id: 11
       name: referee_course_time_slot
@@ -90,13 +90,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Morning''}'
-      - '{''name'': ''Afternoon''}'
-      - '{''name'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: true
     - id: 12
       name: referee_course
-      label: Referee Course Name
+      label: Referee Course
       hint: null
       type: text
       options: []
@@ -114,10 +114,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''A''}'
-      - '{''name'': ''B''}'
-      - '{''name'': ''C''}'
-      - '{''name'': ''D''}'
+      - A
+      - B
+      - C
+      - D
       required: true
     - id: 15
       name: student_referee_grade_level
@@ -125,9 +125,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': 1}'
-      - '{''name'': 2}'
-      - '{''name'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: true
     - id: 16
       name: student_referee_level
@@ -135,9 +135,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Level 1''}'
-      - '{''name'': ''Level 2''}'
-      - '{''name'': ''Level 3''}'
+      - Level 1
+      - Level 2
+      - Level 3
       required: true
     - id: 17
       name: referee_course_start_day
@@ -145,13 +145,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Monday''}'
-      - '{''name'': ''Tuesday''}'
-      - '{''name'': ''Wednesday''}'
-      - '{''name'': ''Thursday''}'
-      - '{''name'': ''Friday''}'
-      - '{''name'': ''Saturday''}'
-      - '{''name'': ''prophetsday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - prophetsday
       required: true
     - id: 18
       name: referee_course_start_time
@@ -182,29 +182,29 @@ inputSchema:
       options: []
       required: true
     - id: 22
-      name: referee_course
-      label: Referee Course Name
+      name: referee_course_2
+      label: Referee Course 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: referee_course_notes
-      label: Referee Course Notes
+      name: referee_course_notes_2
+      label: Referee Course Notes 2
       hint: null
       type: note
       options: []
       required: false
     - id: 24
-      name: referee_course_2
-      label: Referee Course Name
+      name: referee_course_2_2
+      label: Referee Course 2 2
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: referee
-      label: Referee Course Name
+      label: Referee
       hint: null
       type: text
       options: []

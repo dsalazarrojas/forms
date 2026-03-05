@@ -58,11 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Yes, I am a beauty professional'', ''value'': ''I am a beauty
-        professional''}'
-      - '{''label'': ''No, I am not a beauty professional'', ''value'': ''No, I am
-        not a beauty professional''}'
-      - '{''label'': ''Other (please specify)'', ''value'': ''Other (please specify)''}'
+      - Yes, I am a beauty professional
+      - No, I am not a beauty professional
+      - Other (please specify)
       required: false
     - id: 9
       name: age_group
@@ -70,12 +68,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''16-24'', ''value'': ''16-24''}'
-      - '{''label'': ''25-34'', ''value'': ''25-34''}'
-      - '{''label'': ''35-44'', ''value'': ''35-44''}'
-      - '{''label'': ''45-54'', ''value'': ''45-54''}'
-      - '{''label'': ''55 or older'', ''value'': ''55 or older''}'
-      - '{''label'': ''Other (please specify)'', ''value'': ''Other (please specify)''}'
+      - 16-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55 or older
+      - Other (please specify)
       required: false
     - id: 10
       name: education_level
@@ -83,10 +81,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High School or Lower'', ''value'': ''High School or Lower''}'
-      - '{''label'': "Bachelor''s degree or Higher", ''value'': "Bachelor''s degree
-        or Higher"}'
-      - '{''label'': ''Other (please specify)'', ''value'': ''Other (please specify)''}'
+      - High School or Lower
+      - Bachelor's degree or Higher
+      - Other (please specify)
       required: false
     - id: 11
       name: occupation
@@ -108,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Email'', ''value'': ''Email''}'
-      - '{''label'': ''Phone'', ''value'': ''Phone''}'
-      - '{''label'': ''Other (please specify)'', ''value'': ''Other (please specify)''}'
+      - Email
+      - Phone
+      - Other (please specify)
       required: false
     - id: 14
       name: contact_info

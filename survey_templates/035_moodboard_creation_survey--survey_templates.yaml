@@ -40,13 +40,6 @@ inputSchema:
       - Yellow
       required: false
     - id: 4
-      name: project_image
-      label: Project Image
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
       name: target_audience
       label: Target Audience
       hint: null
@@ -55,7 +48,14 @@ inputSchema:
       - Men
       - Women
       - Children
-      required: false
+      required: true
+    - id: 5
+      name: inspiration_sources
+      label: Inspiration Sources
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 6
       name: design_style
       label: Design Style
@@ -67,13 +67,6 @@ inputSchema:
       - Vintage
       required: false
     - id: 7
-      name: inspiration_sources
-      label: Inspiration Sources
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: preferred_color
       label: Preferred Color
       hint: null
@@ -82,36 +75,29 @@ inputSchema:
       - Blue
       - Red
       - Green
-      required: false
-    - id: 9
+      required: true
+    - id: 8
       name: moodboard_name
       label: Moodboard Name
       hint: null
       type: text
       options: []
       required: true
-    - id: 10
+    - id: 9
       name: project_url
       label: Project URL
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: project_url_url
-      label: Project URL
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 10
       name: project_image
       label: Project Image
       hint: null
       type: text
       options: []
       required: true
-    - id: 13
+    - id: 11
       name: target_age_group
       label: Target Age Group
       hint: null
@@ -120,111 +106,4 @@ inputSchema:
       - Men
       - Women
       - Children
-      required: false
-    - id: 14
-      name: design_style
-      label: Design Style
-      hint: null
-      type: select_one
-      options:
-      - Modern
-      - Minimalist
-      - Vintage
-      required: false
-    - id: 15
-      name: project_color_scheme
-      label: Project Color Scheme
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      - Yellow
-      required: false
-    - id: 16
-      name: preferred_color
-      label: Preferred Color
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 17
-      name: target_audience
-      label: Target Audience
-      hint: null
-      type: select_one
-      options:
-      - Men
-      - Women
-      - Children
-      required: false
-    - id: 18
-      name: design_style
-      label: Design Style
-      hint: null
-      type: select_one
-      options:
-      - Modern
-      - Minimalist
-      - Vintage
-      required: false
-    - id: 19
-      name: project_image
-      label: Project Image
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: project_url
-      label: Project URL
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: project_url_url
-      label: Project URL
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: project_image
-      label: Project Image
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: target_audience
-      label: Target Audience
-      hint: null
-      type: select_one
-      options:
-      - Men
-      - Women
-      - Children
-      required: false
-    - id: 24
-      name: inspiration_sources
-      label: Inspiration Sources
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: preferred_color
-      label: Preferred Color
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      - Yellow
       required: false

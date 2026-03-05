@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Category 1''}'
-      - '{''id'': 2, ''label'': ''Category 2''}'
-      - '{''id'': 3, ''label'': ''Category 3''}'
+      - Category 1
+      - Category 2
+      - Category 3
       required: true
     - id: 3
       name: description
@@ -33,11 +33,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 1}'
-      - '{''id'': 2, ''label'': 2}'
-      - '{''id'': 3, ''label'': 3}'
-      - '{''id'': 4, ''label'': 4}'
-      - '{''id'': 5, ''label'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 5
       name: date_of_service
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''chatjane''}'
-      - '{''id'': 3, ''label'': ''chatjohn''}'
+      - chatjimmy
+      - chatjane
+      - chatjohn
       required: true
     - id: 11
       name: additional_notes
@@ -104,8 +104,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: follow_up_date
@@ -134,8 +134,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: email_date
@@ -164,8 +164,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: phone_date
@@ -194,7 +194,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''pending''}'
-      - '{''id'': 2, ''label'': ''completed''}'
-      - '{''id'': 3, ''label'': ''cancelled''}'
+      - pending
+      - completed
+      - cancelled
       required: true

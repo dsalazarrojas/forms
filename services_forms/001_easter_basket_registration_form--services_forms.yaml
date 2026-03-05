@@ -1,191 +1,87 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: easter_basket_registration_form
     pages:
     - id: 1
-      name: easter_basket_registration_form_page_1
-      label: easter_basket_registration
+      name: introduction_and_personal_details
+      label: Introduction and Personal Details
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: easter_basket_registration_form_page_2
-      label: easter_basket_details
+      name: basket_preferences
+      label: Basket Preferences
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - What is your favorite color for the Easter basket?
+      - What shape of basket would you prefer?
+      - How big would you like your basket to be?
       required: true
     - id: 3
-      name: easter_basket_registration_form_page_3
-      label: easter_basket_request
+      name: additional_questions
+      label: Additional Questions
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: easter_basket_registration_form_page_4
-      label: easter_basket_details
+      name: contact_information
+      label: Contact Information
       hint: null
-      type: text
+      type: email
       options: []
       required: true
     - id: 5
-      name: easter_basket_registration_form_page_5
-      label: easter_basket_request
+      name: payment_information
+      label: Payment Information
       hint: null
-      type: text
+      type: number
       options: []
       required: true
     - id: 6
-      name: easter_basket_registration_form_page_6
-      label: easter_basket_request
+      name: special_requests
+      label: Special Requests
       hint: null
-      type: text
-      options: []
-      required: true
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
     - id: 7
-      name: easter_basket_registration_form_page_7
-      label: easter_basket_request
+      name: notes
+      label: Notes
       hint: null
-      type: text
+      type: note
       options: []
-      required: true
+      required: false
     - id: 8
-      name: easter_basket_registration_form_page_8
-      label: easter_basket_request
+      name: confirm
+      label: Confirm
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
       required: true
     - id: 9
-      name: easter_basket_registration_form_page_9
-      label: easter_basket_request
+      name: payment_method
+      label: Payment Method
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
       required: true
     - id: 10
-      name: easter_basket_registration_form_page_10
-      label: easter_basket_request
+      name: confirm2
+      label: Confirm 2
       hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: easter_basket_registration_form_page_11
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: easter_basket_registration_form_page_12
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: easter_basket_registration_form_page_13
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: easter_basket_registration_form_page_14
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: easter_basket_registration_form_page_15
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: easter_basket_registration_form_page_16
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: easter_basket_registration_form_page_17
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: easter_basket_registration_form_page_18
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: easter_basket_registration_form_page_19
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: easter_basket_registration_form_page_20
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: easter_basket_registration_form_page_21
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: easter_basket_registration_form_page_22
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: easter_basket_registration_form_page_23
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: easter_basket_registration_form_page_24
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: easter_basket_registration_form_page_25
-      label: easter_basket_request
-      hint: null
-      type: text
-      options: []
-      required: true
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

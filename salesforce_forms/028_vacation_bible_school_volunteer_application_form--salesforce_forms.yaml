@@ -18,27 +18,20 @@ inputSchema:
       options: []
       required: false
     - id: 3
-      name: contact_info
-      label: Contact Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: emergency_contact
       label: Emergency Contact
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
+    - id: 4
       name: volunteer_details
       label: Volunteer Details
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
+    - id: 5
       name: availability
       label: Availability
       hint: null
@@ -47,137 +40,59 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 7
-      name: volunteer_roles
-      label: Volunteer Roles
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: volunteer_hours
-      label: Volunteer Hours
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
+    - id: 6
       name: volunteer_hours
       label: Volunteer Hours
       hint: null
       type: number
       options: []
+      required: true
+    - id: 7
+      name: first_time_volunteer
+      label: First Time Volunteer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: experience_vacation_bible_school
+      label: Experience With Vacation Bible School
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 10
-      name: volunteer_notes
-      label: Volunteer Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
       name: volunteer_agreement
       label: Volunteer Agreement
+      hint: null
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 11
+      name: agreement
+      label: I Agree
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: volunteer_agreement
-      label: Volunteer Agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: volunteer_agreement
-      label: Volunteer Agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: volunteer_agreement
-      label: Volunteer Agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: volunteer_agreement
-      label: Volunteer Agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: volunteer_agreement
-      label: Volunteer Agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: volunteer_agreement
-      label: Volunteer Agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: volunteer_agreement
-      label: Volunteer Agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: volunteer_agreement
-      label: Volunteer Agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: volunteer_agreement
-      label: Volunteer Agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: volunteer_agreement
-      label: Volunteer Agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: volunteer_agreement
-      label: Volunteer Agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: volunteer_agreement
-      label: Volunteer Agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: volunteer_agreement
-      label: Volunteer Agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: volunteer_agreement
-      label: Volunteer Agreement
+      name: agreement_text
+      label: Agreement Text
       hint: null
       type: text
       options: []

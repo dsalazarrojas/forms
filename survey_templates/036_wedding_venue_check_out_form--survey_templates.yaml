@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Wedding'', ''value'': ''Wedding''}'
-      - '{''id'': 2, ''label'': ''Birthday'', ''value'': ''Birthday''}'
-      - '{''id'': 3, ''label'': ''Company Party'', ''value'': ''Company Party''}'
+      - Wedding
+      - Birthday
+      - Company Party
       required: false
     - id: 3
       name: check_out_status
@@ -26,8 +26,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not Checked'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Checked'', ''value'': 2}'
+      - Not Checked
+      - Checked
       required: true
     - id: 4
       name: rental_items
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Chairs'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Tables'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Linens'', ''value'': 3}'
+      - Chairs
+      - Tables
+      - Linens
       required: true
     - id: 5
       name: comments
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not Returned'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Returned'', ''value'': 2}'
+      - Not Returned
+      - Returned
       required: true
     - id: 11
       name: comments_returned
@@ -105,8 +105,8 @@ inputSchema:
       options: []
       required: false
     - id: 14
-      name: comments
-      label: Comments
+      name: comments_2
+      label: Comments 2
       hint: null
       type: note
       options: []
@@ -133,52 +133,52 @@ inputSchema:
       options: []
       required: false
     - id: 18
-      name: return_date
-      label: Return Date
+      name: return_date_2
+      label: Return Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 19
-      name: return_time
-      label: Return Time
+      name: return_time_2
+      label: Return Time 2
       hint: null
       type: time
       options: []
       required: false
     - id: 20
-      name: return_status
-      label: Return Status
+      name: return_status_2
+      label: Return Status 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not Returned'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Returned'', ''value'': 2}'
+      - Not Returned
+      - Returned
       required: true
     - id: 21
-      name: comments_returned
-      label: Comments Returned
+      name: comments_returned_2
+      label: Comments Returned 2
       hint: null
       type: note
       options: []
       required: false
     - id: 22
-      name: contact_person
-      label: Contact Person
+      name: contact_person_2
+      label: Contact Person 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: contact_number
-      label: Contact Number
+      name: contact_number_2
+      label: Contact Number 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: comments
-      label: Comments
+      name: comments_3
+      label: Comments 3
       hint: null
       type: note
       options: []
@@ -189,6 +189,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': 1}'
-      - '{''id'': 2, ''label'': False, ''value'': 2}'
+      - 'True'
+      - 'False'
       required: true

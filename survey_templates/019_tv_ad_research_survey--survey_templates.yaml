@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Length'', ''value'': ''Length''}'
-      - '{''id'': 2, ''label'': ''Music'', ''value'': ''Music''}'
-      - '{''id'': 3, ''label'': ''Color'', ''value'': ''Color''}'
+      - Length
+      - Music
+      - Color
       required: false
     - id: 4
       name: ad_effects
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Appealing'', ''value'': ''Appealing''}'
-      - '{''id'': 2, ''label'': ''Repulsive'', ''value'': ''Repulsive''}'
-      - '{''id'': 3, ''label'': ''Neutral'', ''value'': ''Neutral''}'
+      - Appealing
+      - Repulsive
+      - Neutral
       required: false
     - id: 5
       name: ad_location
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Top'', ''value'': ''Top''}'
-      - '{''id'': 2, ''label'': ''Middle'', ''value'': ''Middle''}'
-      - '{''id'': 3, ''label'': ''Bottom'', ''value'': ''Bottom''}'
+      - Top
+      - Middle
+      - Bottom
       required: false
     - id: 6
       name: ad_time
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''ABC'', ''value'': ''ABC''}'
-      - '{''id'': 2, ''label'': ''CBS'', ''value'': ''CBS''}'
-      - '{''id'': 3, ''label'': ''NBC'', ''value'': ''NBC''}'
+      - ABC
+      - CBS
+      - NBC
       required: false
     - id: 9
       name: tv_show
@@ -91,7 +91,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Positive'', ''value'': ''Positive''}'
-      - '{''id'': 2, ''label'': ''Negative'', ''value'': ''Negative''}'
-      - '{''id'': 3, ''label'': ''Neutral'', ''value'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: false

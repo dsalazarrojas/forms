@@ -74,10 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 11, ''name'': ''staff_member_1'', ''label'': ''John Doe'', ''value'':
-        ''staff_member_1''}'
-      - '{''id'': 12, ''name'': ''staff_member_2'', ''label'': ''Jane Doe'', ''value'':
-        ''staff_member_2''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 11
       name: appointment_status
@@ -85,12 +83,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 14, ''name'': ''confirmed'', ''label'': ''Confirmed'', ''value'':
-        ''confirmed''}'
-      - '{''id'': 15, ''name'': ''pending'', ''label'': ''Pending'', ''value'': ''pending''}'
-      - '{''id'': 16, ''name'': ''cancelled'', ''label'': ''Cancelled'', ''value'':
-        ''cancelled''}'
-      - '{''id'': 17, ''name'': ''no_show'', ''label'': ''No Show'', ''value'': ''no_show''}'
+      - Confirmed
+      - Pending
+      - Cancelled
+      - No Show
       required: false
     - id: 12
       name: payment_method
@@ -98,11 +94,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 19, ''name'': ''credit_card'', ''label'': ''Credit Card'', ''value'':
-        ''credit_card''}'
-      - '{''id'': 20, ''name'': ''cash'', ''label'': ''Cash'', ''value'': ''cash''}'
-      - '{''id'': 21, ''name'': ''bank_transfer'', ''label'': ''Bank Transfer'', ''value'':
-        ''bank_transfer''}'
+      - Credit Card
+      - Cash
+      - Bank Transfer
       required: false
     - id: 13
       name: payment_details

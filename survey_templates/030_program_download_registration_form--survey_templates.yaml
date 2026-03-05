@@ -51,11 +51,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''software'', ''label'': ''software''}'
-      - '{''id'': 2, ''name'': ''digital'', ''label'': ''digital''}'
-      - '{''id'': 3, ''name'': ''service'', ''label'': ''service''}'
-      - '{''id'': 4, ''name'': ''other'', ''label'': ''other''}'
-      - '{''id'': 5, ''name'': ''unknown'', ''label'': ''unknown''}'
+      - software
+      - digital
+      - service
+      - other
+      - unknown
       required: false
     - id: 8
       name: how_did_you_find_us
@@ -63,11 +63,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''online_search'', ''label'': ''online_search''}'
-      - '{''id'': 2, ''name'': ''social_media'', ''label'': ''social_media''}'
-      - '{''id'': 3, ''name'': ''friend'', ''label'': ''friend''}'
-      - '{''id'': 4, ''name'': ''other'', ''label'': ''other''}'
-      - '{''id'': 5, ''name'': ''unknown'', ''label'': ''unknown''}'
+      - online search
+      - social media
+      - friend
+      - other
+      - unknown
       required: false
     - id: 9
       name: comments

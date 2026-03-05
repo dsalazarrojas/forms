@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''monthly'', ''label'': ''Monthly''}'
-      - '{''value'': ''yearly'', ''label'': ''Yearly''}'
+      - Monthly
+      - Yearly
       required: true
     - id: 12
       name: plan_id
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Plan 1''}'
-      - '{''value'': 2, ''label'': ''Plan 2''}'
-      - '{''value'': 3, ''label'': ''Plan 3''}'
+      - Plan 1
+      - Plan 2
+      - Plan 3
       required: false
     - id: 13
       name: submit
@@ -147,9 +147,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''credit_card'', ''label'': ''Credit Card''}'
-      - '{''value'': ''paypal'', ''label'': ''PayPal''}'
-      - '{''value'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: true
     - id: 21
       name: payment_gateway
@@ -157,9 +157,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''stripe'', ''label'': ''Stripe''}'
-      - '{''value'': ''square'', ''label'': ''Square''}'
-      - '{''value'': ''paypal'', ''label'': ''PayPal''}'
+      - Stripe
+      - Square
+      - PayPal
       required: false
     - id: 22
       name: payment_status

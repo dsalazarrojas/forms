@@ -23,9 +23,9 @@ inputSchema:
       hint: Select the option that best fits your needs
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 4
       name: sync_behavior
@@ -33,10 +33,10 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Automatic''}'
-      - '{''id'': 2, ''label'': ''Manual''}'
-      - '{''id'': 3, ''label'': ''Other''}'
-      - '{''id'': 4, ''label'': ''Unknown''}'
+      - Automatic
+      - Manual
+      - Other
+      - Unknown
       required: true
     - id: 5
       name: sync_behavior_other
@@ -72,9 +72,9 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Unknown''}'
+      - 'True'
+      - 'False'
+      - Unknown
       required: true
     - id: 10
       name: sync_synchronization_issues_details
@@ -110,10 +110,10 @@ inputSchema:
       hint: Select the option that best fits
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Performance''}'
-      - '{''id'': 2, ''label'': ''Security''}'
-      - '{''id'': 3, ''label'': ''Usability''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Performance
+      - Security
+      - Usability
+      - Other
       required: true
     - id: 15
       name: sync_synchronization_issues_impact_details
@@ -149,9 +149,9 @@ inputSchema:
       hint: Select the option that best fits
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Unknown''}'
+      - 'True'
+      - 'False'
+      - Unknown
       required: true
     - id: 20
       name: sync_synchronization_issues_awareness_details

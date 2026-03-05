@@ -227,8 +227,8 @@ inputSchema:
       hint: Do you understand the time commitment
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: price_estimate
@@ -236,8 +236,8 @@ inputSchema:
       hint: Do you understand the estimated cost
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: deposit_paid
@@ -245,8 +245,8 @@ inputSchema:
       hint: Have you paid the deposit
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Pending
       required: true
     - id: 26
@@ -256,7 +256,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I understand
-      - false
+      - 'False'
       required: true
     - id: 27
       name: aftercare_instructions
@@ -265,7 +265,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I agree
-      - false
+      - 'False'
       required: true
     - id: 28
       name: special_requests

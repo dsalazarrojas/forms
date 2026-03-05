@@ -79,11 +79,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Diabetes''}'
-      - '{''id'': 3, ''label'': ''Asthma''}'
-      - '{''id'': 4, ''label'': ''Epilepsy''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - None
+      - Diabetes
+      - Asthma
+      - Epilepsy
+      - Other
       required: false
     - id: 12
       name: allergy
@@ -91,10 +91,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Nuts''}'
-      - '{''id'': 3, ''label'': ''Shellfish''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - None
+      - Nuts
+      - Shellfish
+      - Other
       required: false
     - id: 13
       name: medical_condition_note
@@ -130,10 +130,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Vegetarian''}'
-      - '{''id'': 3, ''label'': ''Vegan''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - None
+      - Vegetarian
+      - Vegan
+      - Other
       required: false
     - id: 18
       name: emergency_contact_permission
@@ -141,8 +141,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: parent_permission
@@ -150,8 +150,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: medical_permission
@@ -159,8 +159,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 21
       name: medical_permission_note
@@ -175,9 +175,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Daily
+      - Weekly
+      - Other
       required: false
     - id: 23
       name: camper_start_date

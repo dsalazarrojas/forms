@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Very Good''}'
-      - '{''value'': 2, ''label'': ''Good''}'
-      - '{''value'': 3, ''label'': ''Average''}'
-      - '{''value'': 4, ''label'': ''Bad''}'
-      - '{''value'': 5, ''label'': ''Very Bad''}'
+      - Very Good
+      - Good
+      - Average
+      - Bad
+      - Very Bad
       required: false
     - id: 4
       name: improvement_suggestions
@@ -35,10 +35,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Add or remove features''}'
-      - '{''value'': 2, ''label'': ''Change layout''}'
-      - '{''value'': 3, ''label'': ''Improve navigation''}'
-      - '{''value'': 4, ''label'': ''Other''}'
+      - Add or remove features
+      - Change layout
+      - Improve navigation
+      - Other
       required: false
     - id: 5
       name: comments

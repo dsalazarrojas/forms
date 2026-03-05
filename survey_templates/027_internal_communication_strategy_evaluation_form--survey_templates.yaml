@@ -21,10 +21,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Emails'', ''label'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Intranet'', ''label'': ''Intranet''}'
-      - '{''id'': 3, ''name'': ''Mobile App'', ''label'': ''Mobile App''}'
-      - '{''id'': 4, ''name'': ''Meetings'', ''label'': ''Meetings''}'
+      - Email
+      - Intranet
+      - Mobile App
+      - Meetings
       required: false
     - id: 3
       name: update_effectiveness
@@ -32,10 +32,10 @@ inputSchema:
       hint: How would you rate the effectiveness of updates?
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Very Effective'', ''label'': ''Very Effective''}'
-      - '{''id'': 2, ''name'': ''Somewhat Effective'', ''label'': ''Somewhat Effective''}'
-      - '{''id'': 3, ''name'': ''Not Very Effective'', ''label'': ''Not Very Effective''}'
-      - '{''id'': 4, ''name'': ''Not at All Effective'', ''label'': ''Not at All Effective''}'
+      - Very Effective
+      - Somewhat Effective
+      - Not Very Effective
+      - Not at All Effective
       required: false
     - id: 4
       name: satisfaction_with_updates

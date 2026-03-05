@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Cardiac''}'
-      - '{''label'': ''Neurologic''}'
-      - '{''label'': ''Surgical''}'
-      - '{''label'': ''Other''}'
+      - Cardiac
+      - Neurologic
+      - Surgical
+      - Other
       required: false
     - id: 3
       name: provider_name
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 7
       name: feedback

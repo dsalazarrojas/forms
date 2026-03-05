@@ -5,89 +5,74 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: What is this principle about?
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: team_members
-      label: team members
+      name: team_members_awareness
+      label: How many team members are aware of this principle?
       hint: null
       type: select_multiple
       options:
-      - Team Member 1
-      - Team Member 2
-      - Team Member 3
-      - Team Member 4
-      - Team Member 5
-      - Team Member 6
-      - Team Member 7
-      - Team Member 8
-      - Team Member 9
-      - Team Member 10
+      - Few
+      - Some
+      - Most
       required: false
     - id: 3
-      name: principle_awareness
-      label: principle awareness
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
       name: principle_training_needs
-      label: principle training needs
+      label: What kind of training do you need to understand this principle?
       hint: null
       type: select_one
       options:
-      - Needs training
-      - No further training needed
-      - Not aware of this principle
+      - On-the-job training
+      - Classroom training
+      - Online training
+      - No training needed
       required: false
-    - id: 5
+    - id: 4
       name: feedback_for_leadership
-      label: feedback for leadership
+      label: Do you have any feedback for leadership on implementing this principle?
       hint: null
       type: note
       options: []
       required: false
-    - id: 6
+    - id: 5
       name: principle_implementations
-      label: principle implementations
+      label: How has this principle been implemented in your team?
       hint: null
       type: select_multiple
       options:
-      - Implemented
-      - Not yet implemented
+      - Fully implemented
       - Partially implemented
-      - Not implemented
+      - Not yet implemented
       required: false
-    - id: 7
+    - id: 6
       name: principle_impact
-      label: principle impact
+      label: What is the impact of this principle on your team?
       hint: null
       type: select_one
       options:
-      - Has significant impact
-      - Has some impact
-      - Has a small impact
-      - No significant impact
+      - High
+      - Medium
+      - Low
       - No impact
       required: false
-    - id: 8
+    - id: 7
       name: principle_benefit
-      label: principle benefit
+      label: What benefits does this principle bring to your team?
       hint: null
       type: select_multiple
       options:
       - High
       - Medium
       - Low
-      - No benefit
+      - No benefits
       required: false
-    - id: 9
+    - id: 8
       name: principle_cost
-      label: principle cost
+      label: What cost is associated with implementing this principle?
       hint: null
       type: select_multiple
       options:
@@ -96,170 +81,9 @@ inputSchema:
       - Low
       - No cost
       required: false
-    - id: 10
-      name: principle_impact_on_other_principles
-      label: principle impact on other principles
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      - No impact
-      required: false
-    - id: 11
+    - id: 9
       name: principle_impact_on_other_teams
-      label: principle impact on other teams
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      - No impact
-      required: false
-    - id: 12
-      name: principle_impact_on_other_teams
-      label: principle impact on other teams
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      - No impact
-      required: false
-    - id: 13
-      name: additional_comments
-      label: additional comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: principle_impact_on_other_teams_1
-      label: principle impact on other teams
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      - No impact
-      required: false
-    - id: 15
-      name: principle_impact_on_other_teams_1
-      label: principle impact on other teams
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      - No impact
-      required: false
-    - id: 16
-      name: principle_impact_on_other_teams_1
-      label: principle impact on other teams
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      - No impact
-      required: false
-    - id: 17
-      name: principle_impact_on_other_teams_1
-      label: principle impact on other teams
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      - No impact
-      required: false
-    - id: 18
-      name: principle_impact_on_other_teams_2
-      label: principle impact on other teams
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      - No impact
-      required: false
-    - id: 19
-      name: principle_impact_on_other_teams_2
-      label: principle impact on other teams
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      - No impact
-      required: false
-    - id: 20
-      name: principle_impact_on_other_teams_2
-      label: principle impact on other teams
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      - No impact
-      required: false
-    - id: 21
-      name: principle_impact_on_other_teams_3
-      label: principle impact on other teams
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      - No impact
-      required: false
-    - id: 22
-      name: principle_impact_on_other_teams_3
-      label: principle impact on other teams
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      - No impact
-      required: false
-    - id: 23
-      name: principle_impact_on_other_teams_3
-      label: principle impact on other teams
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      - No impact
-      required: false
-    - id: 24
-      name: principle_impact_on_other_teams_4
-      label: principle impact on other teams
-      hint: null
-      type: select_multiple
-      options:
-      - High
-      - Medium
-      - Low
-      - No impact
-      required: false
-    - id: 25
-      name: principle_impact_on_other_teams_4
-      label: principle impact on other teams
+      label: How does this principle impact other teams?
       hint: null
       type: select_multiple
       options:

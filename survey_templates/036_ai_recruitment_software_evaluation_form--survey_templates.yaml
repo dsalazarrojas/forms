@@ -23,16 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: HR / Talent Acquisition Manager
-        value: hr_manager
-      - label: Recruiter / Sourcer
-        value: recruiter
-      - label: IT / Systems Administrator
-        value: it_admin
-      - label: Procurement / Finance
-        value: procurement
-      - label: Department Head (Hiring Manager)
-        value: dept_head
+      - HR / Talent Acquisition Manager
+      - Recruiter / Sourcer
+      - IT / Systems Administrator
+      - Procurement / Finance
+      - Department Head (Hiring Manager)
       required: true
     - id: 4
       name: vendor_software_name
@@ -110,12 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Native Integration Available
-        value: native
-      - label: API / Custom Integration Required
-        value: api_required
-      - label: Not Compatible
-        value: not_compatible
+      - Native Integration Available
+      - API / Custom Integration Required
+      - Not Compatible
       required: true
     - id: 15
       name: bias_mitigation_tools
@@ -123,12 +115,9 @@ inputSchema:
       hint: e.g., de-identifying resumes, diversity dashboards.
       type: select_one
       options:
-      - label: Yes, robust features
-        value: yes_robust
-      - label: Yes, basic features
-        value: yes_basic
-      - label: false
-        value: false
+      - Yes, robust features
+      - Yes, basic features
+      - 'False'
       required: true
     - id: 16
       name: compliance_certification
@@ -136,14 +125,10 @@ inputSchema:
       hint: GDPR, EEO, etc.
       type: select_multiple
       options:
-      - label: GDPR Compliant
-        value: gdpr
-      - label: SOC 2 Certified
-        value: soc2
-      - label: EEO / OFCCP Compliant
-        value: eeo
-      - label: ISO 27001
-        value: iso27001
+      - GDPR Compliant
+      - SOC 2 Certified
+      - EEO / OFCCP Compliant
+      - ISO 27001
       required: true
     - id: 17
       name: vendor_pricing_model
@@ -151,14 +136,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Per Seat / User
-        value: per_user
-      - label: Per Hire / Success-based
-        value: per_hire
-      - label: Flat Annual Subscription
-        value: flat_annual
-      - label: Usage-based (Per Application)
-        value: usage_based
+      - Per Seat / User
+      - Per Hire / Success-based
+      - Flat Annual Subscription
+      - Usage-based (Per Application)
       required: true
     - id: 18
       name: final_recommendation
@@ -166,14 +147,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Shortlist for Pilot
-        value: shortlist
-      - label: Approved for Purchase
-        value: buy
-      - label: Hold / Needs more info
-        value: hold
-      - label: Reject
-        value: reject
+      - Shortlist for Pilot
+      - Approved for Purchase
+      - Hold / Needs more info
+      - Reject
       required: true
     - id: 19
       name: recommendation_justification

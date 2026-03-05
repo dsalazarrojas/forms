@@ -30,12 +30,9 @@ inputSchema:
       hint: Optional field
       type: select_one
       options:
-      - label: Male
-        value: male
-      - label: Female
-        value: female
-      - label: Other
-        value: other
+      - Male
+      - Female
+      - Other
       required: false
     - id: 5
       name: section_guardian_contact
@@ -85,10 +82,8 @@ inputSchema:
       hint: Select yes if any long-term health issues exist
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: emergency_contact_name
@@ -117,14 +112,9 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - label: Monday
-        value: mon
-      - label: Tuesday
-        value: tue
-      - label: Wednesday
-        value: wed
-      - label: Thursday
-        value: thu
-      - label: Friday
-        value: fri
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
       required: true

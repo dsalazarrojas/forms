@@ -4,66 +4,66 @@ inputSchema:
     title: Student Adaptation To College Questionnaire
     pages:
     - id: 1
-      name: student_adaptation_to_college_questionnaire
-      label: adaptation_to_college
+      name: adaptation_to_college
+      label: How does the student adapt to college?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: student_background
-      label: student_background
+      label: What is the student's background?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: parental_involvement
-      label: parental_involvement
+      label: How involved are the parents?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: student_involvement
-      label: student_involvement
+      label: How involved is the student?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: school_counselor_form
-      label: school_counselor_form
+      label: School Counselor Form
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: other
-      label: other
+      label: Is there anything else you'd like to share about the student?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: notes
-      label: notes
+      label: Additional Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: student_adaptation_to_college_questionnaire
-      label: student_adaptation_to_college_questionnaire
+      name: student_adaptation
+      label: Does the student adapt to college?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 9
-      name: student_adaptation_to_college_questionnaire
-      label: student_adaptation_to_college_questionnaire
+      name: student_adaptation_2
+      label: Student Adaptation 2
       hint: null
       type: select_multiple
       options:
@@ -72,51 +72,51 @@ inputSchema:
       required: false
     - id: 10
       name: date
-      label: date
+      label: What is the student's start date?
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 11
       name: time
-      label: time
+      label: What is the student's start time?
       hint: null
       type: time
       options: []
       required: false
     - id: 12
       name: school_name
-      label: school_name
+      label: School Name
       hint: null
       type: text
       options: []
       required: false
     - id: 13
       name: school_year
-      label: school_year
+      label: School Year?
       hint: null
       type: number
       options: []
       required: false
     - id: 14
-      name: student_grade
-      label: student_grade
+      name: grade_level
+      label: Student Grade Level?
       hint: null
       type: number
       options: []
       required: false
     - id: 15
       name: student_gender
-      label: student_gender
+      label: Student Gender?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Male
+      - Female
       required: false
     - id: 16
       name: student_ethnicity
-      label: student_ethnicity
+      label: Student Ethnicity?
       hint: null
       type: select_one
       options:
@@ -125,7 +125,7 @@ inputSchema:
       required: false
     - id: 17
       name: student_disability
-      label: student_disability
+      label: Student Disability?
       hint: null
       type: select_one
       options:
@@ -134,21 +134,21 @@ inputSchema:
       required: false
     - id: 18
       name: phone
-      label: phone
+      label: School Phone?
       hint: null
       type: text
       options: []
       required: false
     - id: 19
       name: email
-      label: email
+      label: School Email?
       hint: null
       type: email
       options: []
       required: false
     - id: 20
-      name: student_adaptation_to_college_questionnaire
-      label: student_adaptation_to_college_questionnaire
+      name: student_adaptation_3
+      label: Student Adaptation 3
       hint: null
       type: select_multiple
       options:
@@ -156,39 +156,23 @@ inputSchema:
       - 'No'
       required: false
     - id: 21
-      name: student_adaptation_to_college_questionnaire
-      label: student_adaptation_to_college_questionnaire
+      name: notes_2
+      label: Notes 2
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
       name: school_email
-      label: school_email
+      label: School Email? (2)
       hint: null
       type: email
       options: []
       required: false
-    - id: 24
+    - id: 23
       name: school_phone
-      label: school_phone
+      label: School Phone? (2)
       hint: null
       type: text
       options: []
-      required: false
-    - id: 25
-      name: student_adaptation_to_college_questionnaire
-      label: student_adaptation_to_college_questionnaire
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

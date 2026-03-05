@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Undisclosed''}'
+      - 'True'
+      - 'False'
+      - Undisclosed
       required: true
     - id: 7
       name: housing_benefit_type
@@ -54,10 +54,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Type 1''}'
-      - '{''id'': 2, ''name'': ''Type 2''}'
-      - '{''id'': 3, ''name'': ''Type 3''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Type 1
+      - Type 2
+      - Type 3
+      - Other
       required: true
     - id: 8
       name: additional_info
@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Owner Occupier''}'
-      - '{''id'': 2, ''name'': ''Tenant''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Owner Occupier
+      - Tenant
+      - Other
       required: true
     - id: 11
       name: verification_date

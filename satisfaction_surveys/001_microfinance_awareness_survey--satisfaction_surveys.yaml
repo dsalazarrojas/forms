@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Very well'', ''label'': ''Very well''}'
-      - '{''value'': ''Not very well'', ''label'': ''Not very well''}'
-      - '{''value'': ''Not at all'', ''label'': ''Not at all''}'
+      - Very well
+      - Not very well
+      - Not at all
       required: false
     - id: 3
       name: know_source
@@ -26,13 +26,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Radio/TV'', ''label'': ''Radio/TV''}'
-      - '{''value'': ''Internet'', ''label'': ''Internet''}'
-      - '{''value'': ''Newspapers'', ''label'': ''Newspapers''}'
-      - '{''value'': ''Social media'', ''label'': ''Social media''}'
-      - '{''value'': ''Word of mouth'', ''label'': ''Word of mouth''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
-      - '{''value'': "Don''t know", ''label'': "Don''t know"}'
+      - Radio/TV
+      - Internet
+      - Newspapers
+      - Social media
+      - Word of mouth
+      - Other
+      - Don't know
       required: false
     - id: 4
       name: interest_mfi
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Very interested'', ''label'': ''Very interested''}'
-      - '{''value'': ''Somewhat interested'', ''label'': ''Somewhat interested''}'
-      - '{''value'': ''Not very interested'', ''label'': ''Not very interested''}'
-      - '{''value'': ''Not at all interested'', ''label'': ''Not at all interested''}'
+      - Very interested
+      - Somewhat interested
+      - Not very interested
+      - Not at all interested
       required: false
     - id: 5
       name: mfi_benefits
@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''MfA'', ''label'': ''MfA''}'
-      - '{''value'': ''MfS'', ''label'': ''MfS''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
-      - '{''value'': ''None'', ''label'': ''None''}'
+      - MfA
+      - MfS
+      - Other
+      - None
       required: false
     - id: 8
       name: mfi_services
@@ -76,10 +76,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''MFS'', ''label'': ''MFS''}'
-      - '{''value'': ''MFB'', ''label'': ''MFB''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
-      - '{''value'': ''None'', ''label'': ''None''}'
+      - MFS
+      - MFB
+      - Other
+      - None
       required: false
     - id: 9
       name: mfi_opinion
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Positive'', ''label'': ''Positive''}'
-      - '{''value'': ''Negative'', ''label'': ''Negative''}'
-      - '{''value'': ''Neutral'', ''label'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: false
     - id: 10
       name: contact
@@ -97,8 +97,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: email
@@ -134,9 +134,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Male'', ''label'': ''Male''}'
-      - '{''value'': ''Female'', ''label'': ''Female''}'
-      - '{''value'': ''Prefer not to say'', ''label'': ''Prefer not to say''}'
+      - Male
+      - Female
+      - Prefer not to say
       required: false
     - id: 16
       name: age
@@ -151,12 +151,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Primary'', ''label'': ''Primary''}'
-      - '{''value'': ''Secondary'', ''label'': ''Secondary''}'
-      - '{''value'': ''High school'', ''label'': ''High school''}'
-      - '{''value'': ''University'', ''label'': ''University''}'
-      - '{''value'': ''Tertiary'', ''label'': ''Tertiary''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Primary
+      - Secondary
+      - High school
+      - University
+      - Tertiary
+      - Other
       required: false
     - id: 18
       name: occupation
@@ -192,9 +192,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Less than 5 years'', ''label'': ''Less than 5 years''}'
-      - '{''value'': ''5-10 years'', ''label'': ''5-10 years''}'
-      - '{''value'': ''More than 10 years'', ''label'': ''More than 10 years''}'
+      - Less than 5 years
+      - 5-10 years
+      - More than 10 years
       required: false
     - id: 23
       name: how_heard
@@ -202,13 +202,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Radio/TV'', ''label'': ''Radio/TV''}'
-      - '{''value'': ''Internet'', ''label'': ''Internet''}'
-      - '{''value'': ''Newspapers'', ''label'': ''Newspapers''}'
-      - '{''value'': ''Social media'', ''label'': ''Social media''}'
-      - '{''value'': ''Word of mouth'', ''label'': ''Word of mouth''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
-      - '{''value'': "Don''t know", ''label'': "Don''t know"}'
+      - Radio/TV
+      - Internet
+      - Newspapers
+      - Social media
+      - Word of mouth
+      - Other
+      - Don't know
       required: false
     - id: 24
       name: how_aware
@@ -216,10 +216,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Very aware'', ''label'': ''Very aware''}'
-      - '{''value'': ''Somewhat aware'', ''label'': ''Somewhat aware''}'
-      - '{''value'': ''Not very aware'', ''label'': ''Not very aware''}'
-      - '{''value'': ''Not at all aware'', ''label'': ''Not at all aware''}'
+      - Very aware
+      - Somewhat aware
+      - Not very aware
+      - Not at all aware
       required: false
     - id: 25
       name: last_survey
@@ -227,6 +227,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false

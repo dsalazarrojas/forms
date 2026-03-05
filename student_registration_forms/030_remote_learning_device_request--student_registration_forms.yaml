@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''K-5'', ''value'': ''K-5''}'
-      - '{''id'': 2, ''name'': ''6-8'', ''value'': ''6-8''}'
-      - '{''id'': 3, ''name'': ''9-12'', ''value'': ''9-12''}'
+      - K-5
+      - 6-8
+      - 9-12
       required: false
     - id: 4
       name: device_type
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''laptop'', ''value'': ''laptop''}'
-      - '{''id'': 2, ''name'': ''tablet'', ''value'': ''tablet''}'
-      - '{''id'': 3, ''name'': ''chromebook'', ''value'': ''chromebook''}'
+      - laptop
+      - tablet
+      - chromebook
       required: false
     - id: 5
       name: student_name

@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 7
       name: payment_method
@@ -53,8 +53,8 @@ inputSchema:
       hint: Check or bank transfer
       type: select_multiple
       options:
-      - '{''value'': ''Check''}'
-      - '{''value'': ''Bank Transfer''}'
+      - Check
+      - Bank Transfer
       required: false
     - id: 8
       name: session_notes

@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''email'', ''value'': ''email''}'
-      - '{''label'': ''phone'', ''value'': ''phone''}'
-      - '{''label'': ''chat'', ''value'': ''chat''}'
+      - email
+      - phone
+      - chat
       required: false
     - id: 6
       name: feedback_frequency
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''daily'', ''value'': ''daily''}'
-      - '{''label'': ''weekly'', ''value'': ''weekly''}'
-      - '{''label'': ''monthly'', ''value'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 7
       name: preferred_contact_method
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''email'', ''value'': ''email''}'
-      - '{''label'': ''phone'', ''value'': ''phone''}'
-      - '{''label'': ''chat'', ''value'': ''chat''}'
+      - email
+      - phone
+      - chat
       required: false
     - id: 8
       name: feedback

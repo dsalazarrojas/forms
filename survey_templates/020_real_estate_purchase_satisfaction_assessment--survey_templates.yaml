@@ -4,36 +4,8 @@ inputSchema:
     title: real_estate_purchase_satisfaction_assessment
     pages:
     - id: 1
-      name: real_estate_agent
-      label: real_estate_agent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: transaction_id
-      label: transaction_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 3
-      name: real_estate_location
-      label: real_estate_location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: real_estate_price
-      label: real_estate_price
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: real_estate_agent_rating
-      label: prophets_rating
+      name: real_estate_agent_experience
+      label: How was your experience with the real estate agent?
       hint: null
       type: select_multiple
       options:
@@ -42,41 +14,75 @@ inputSchema:
       - 3 - Highly Satisfactory
       - 4 - Extremely Satisfactory
       - 5 - Highly Extremely Satisfactory
-      required: false
-    - id: 6
-      name: real_estate_communcation
-      label: real_estate_communiation
+      required: true
+    - id: 2
+      name: transaction_id
+      label: What was the transaction ID?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 3
+      name: real_estate_location
+      label: What location did you purchase the real estate property in?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: real_estate_price
+      label: What was the price of the real estate property you purchased?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: real_estate_agent_rating
+      label: How would you rate the real estate agent's performance?
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - 1
+      - 2 - 2
+      - 3 - 3
+      - 4 - 4
+      - 5 - 5
+      required: true
+    - id: 6
       name: real_estate_clarity
-      label: real_estate_clarity
+      label: How clear was the real estate agent's explanation of the property's condition?
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 7
+      name: real_estate_agent_overall_performance
+      label: How would you rate the real estate agent's overall performance?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 8
-      name: real_prophets_estate
-      label: real_estate_prophets
+      name: real_estate_agent_interaction
+      label: How often would you say you interacted with the real estate agent?
       hint: null
       type: select_multiple
       options:
-      - 1 - Not at All
+      - 1 - Never
       - 2 - A Little
       - 3 - Some
       - 4 - A Lot
       - 5 - Almost All
-      required: false
+      required: true
     - id: 9
-      name: real_estate_prophets
-      label: real_estate_prophets
+      name: real_estate_agent_satisfaction
+      label: How would you rate the overall satisfaction with the real estate purchase?
       hint: null
       type: select_multiple
       options:
@@ -85,99 +91,33 @@ inputSchema:
       - 3 - Some
       - 4 - A Lot
       - 5 - Almost All
-      required: false
+      required: true
     - id: 10
-      name: real_estate_prophets
-      label: real_estate_prophets
+      name: real_estate_agent_expertise
+      label: How would you rate the real estate agent's expertise in the field?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 1 - Not at All
-      - 2 - A Little
-      - 3 - Some
-      - 4 -ประก - Almost All
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 11
-      name: real_estate_prophets
-      label: real_estate_prophets
+      name: real_estate_agent_responsiveness
+      label: How would you rate the real estate agent's responsiveness to your questions
+        and concerns?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 1 - Not at All
-      - 2 - A Little
-      - 3 - Some
-      - 4 - A Lot
-      - 5 - Almost All
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 12
-      name: real_estate_prophets
-      label: real_estate_prophets
+      name: real_estate_agent_comment
+      label: Is there anything else you'd like to share about your experience with
+        the real estate agent?
       hint: null
-      type: select_multiple
-      options:
-      - 1 - Not at All
-      - 2 - A Little
-      - 3 - Some
-      - 4 - A Lot
-      - 5 - Almost All
-      required: false
-    - id: 13
-      name: real_estate_prophets
-      label: real_estate_prophets
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Not at All
-      - 2 - A Little
-      - 3 - Some
-      - 4 - A Lot
-      - 5 - Almost All
-      required: false
-    - id: 14
-      name: real_estate_prophets
-      label: real_estate_prophets
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Not at All
-      - 2 - A Little
-      - 3 - Some
-      - 4 - A Lot
-      - 5 - Almost All
-      required: false
-    - id: 15
-      name: real_estate_prophets
-      label: real_estate_prophets
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Not at All
-      - 2 - A Little
-      - 3 - Some
-      - 4 - A Lot
-      - 5 - Almost All
-      required: false
-    - id: 16
-      name: real_estate_prophets
-      label: real_estate_prophets
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Not at All
-      - 2 - A Little
-      - 3 - Some
-      - 4 - A Lot
-      - 5 - Almost All
-      required: false
-    - id: 17
-      name: real_estate_prophets
-      label: real_estate_prophets
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Not at All
-      - 2 - A Little
-      - 3 - Some
-      - 4 - A Lot
-      - 5 - Almost All
+      type: note
+      options: []
       required: false

@@ -1,118 +1,98 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Session Feedback Survey
     pages:
-      - id: 1
-        name: section_session_info
-        label: -- Session Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: provider_name
-        label: Professional or Provider Name
-        hint: Person who conducted the session
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: session_date
-        label: Date of Session
-        hint: When did the meeting occur?
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: child_name
-        label: Child Full Name
-        hint: Participant name
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: section_satisfaction
-        label: -- Satisfaction Rating --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: overall_satisfaction
-        label: Overall satisfaction with today session
-        hint: General quality rating
-        type: select_one
-        options:
-          - label: Very Satisfied
-            value: very_satisfied
-          - label: Satisfied
-            value: satisfied
-          - label: Neutral
-            value: neutral
-          - label: Dissatisfied
-            value: dissatisfied
-        required: true
-      - id: 7
-        name: engagement_rating
-        label: How was child engagement level?
-        hint: Focus and participation
-        type: select_one
-        options:
-          - label: High - Fully engaged
-            value: high
-          - label: Moderate - Mostly focused
-            value: moderate
-          - label: Low - Struggles with focus
-            value: low
-        required: true
-      - id: 8
-        name: section_experience_feedback
-        label: -- Experience Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: session_positives
-        label: What did the child enjoy most today?
-        hint: Highlights of the session
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: session_challenges
-        label: Any challenges or concerns during the session?
-        hint: Areas needing attention
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: follow_up_request
-        label: Would you like a follow-up call from the provider?
-        hint: To discuss the session in detail
-        type: select_one
-        options:
-          - label: Yes - Please call me
-            value: yes
-          - label: No - Not needed at this time
-            value: no
-        required: true
-      - id: 12
-        name: submission_date
-        label: Today Date
-        hint: Date of feedback
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_session_info
+      label: -- Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: provider_name
+      label: Professional or Provider Name
+      hint: Person who conducted the session
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_date
+      label: Date of Session
+      hint: When did the meeting occur?
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: child_name
+      label: Child Full Name
+      hint: Participant name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_satisfaction
+      label: -- Satisfaction Rating --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall satisfaction with today session
+      hint: General quality rating
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: true
+    - id: 7
+      name: engagement_rating
+      label: How was child engagement level?
+      hint: Focus and participation
+      type: select_one
+      options:
+      - High - Fully engaged
+      - Moderate - Mostly focused
+      - Low - Struggles with focus
+      required: true
+    - id: 8
+      name: section_experience_feedback
+      label: -- Experience Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: session_positives
+      label: What did the child enjoy most today?
+      hint: Highlights of the session
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_challenges
+      label: Any challenges or concerns during the session?
+      hint: Areas needing attention
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_request
+      label: Would you like a follow-up call from the provider?
+      hint: To discuss the session in detail
+      type: select_one
+      options:
+      - Yes - Please call me
+      - No - Not needed at this time
+      required: true
+    - id: 12
+      name: submission_date
+      label: Today Date
+      hint: Date of feedback
+      type: date
+      options: []
+      required: true

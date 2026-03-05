@@ -1,152 +1,122 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Fitness Readiness Survey
     pages:
-      - id: 1
-        name: section_program_info
-        label: -- Program and Participant Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: club_name
-        label: Youth Program or Club Name
-        hint: Name of the sports organization
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: child_name
-        label: Child Full Name
-        hint: Full legal name of participant
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: section_medical_history
-        label: -- Medical History --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: heart_conditions
-        label: Does the child have any known heart conditions?
-        hint: Including congenital issues
-        type: select_one
-        options:
-          - label: Yes
-            value: yes
-          - label: No
-            value: no
-        required: true
-      - id: 6
-        name: dizziness_activity
-        label: Does the child experience dizziness during activity?
-        hint: Or fainting spells
-        type: select_one
-        options:
-          - label: Yes
-            value: yes
-          - label: No
-            value: no
-        required: true
-      - id: 7
-        name: bone_joint_problems
-        label: Any bone or joint problems that could be aggravated?
-        hint: Includes history of fractures
-        type: select_one
-        options:
-          - label: Yes
-            value: yes
-          - label: No
-            value: no
-        required: true
-      - id: 8
-        name: medications
-        label: Is the child currently taking any medications?
-        hint: If yes, please list below in additional info
-        type: select_one
-        options:
-          - label: Yes
-            value: yes
-          - label: No
-            value: no
-        required: true
-      - id: 9
-        name: section_activity_levels
-        label: -- Activity Levels --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: physical_activity_freq
-        label: Frequency of current physical activity
-        hint: Typical weekly average
-        type: select_one
-        options:
-          - label: Daily
-            value: daily
-          - label: 3-5 times a week
-            value: frequent
-          - label: 1-2 times a week
-            value: occasional
-          - label: Rarely
-            value: rare
-        required: true
-      - id: 11
-        name: preferred_sports
-        label: Preferred Sports or Activities
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - label: Soccer
-            value: soccer
-          - label: Swimming
-            value: swimming
-          - label: Basketball
-            value: basketball
-          - label: Gymnastics
-            value: gymnastics
-          - label: Dance
-            value: dance
-        required: false
-      - id: 12
-        name: section_parental_consent
-        label: -- Parental Consent --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: fitness_participation_perm
-        label: I grant permission for participation in fitness activities
-        hint: Legal authorization
-        type: select_one
-        options:
-          - label: I Agree
-            value: agree
-          - label: I Disagree
-            value: disagree
-        required: true
-      - id: 14
-        name: signature_date
-        label: Date of Signature
-        hint: Today date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_program_info
+      label: -- Program and Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: club_name
+      label: Youth Program or Club Name
+      hint: Name of the sports organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_name
+      label: Child Full Name
+      hint: Full legal name of participant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: heart_conditions
+      label: Does the child have any known heart conditions?
+      hint: Including congenital issues
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: dizziness_activity
+      label: Does the child experience dizziness during activity?
+      hint: Or fainting spells
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: bone_joint_problems
+      label: Any bone or joint problems that could be aggravated?
+      hint: Includes history of fractures
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: medications
+      label: Is the child currently taking any medications?
+      hint: If yes, please list below in additional info
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: section_activity_levels
+      label: -- Activity Levels --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: physical_activity_freq
+      label: Frequency of current physical activity
+      hint: Typical weekly average
+      type: select_one
+      options:
+      - Daily
+      - 3-5 times a week
+      - 1-2 times a week
+      - Rarely
+      required: true
+    - id: 11
+      name: preferred_sports
+      label: Preferred Sports or Activities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Soccer
+      - Swimming
+      - Basketball
+      - Gymnastics
+      - Dance
+      required: false
+    - id: 12
+      name: section_parental_consent
+      label: -- Parental Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: fitness_participation_perm
+      label: I grant permission for participation in fitness activities
+      hint: Legal authorization
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 14
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true

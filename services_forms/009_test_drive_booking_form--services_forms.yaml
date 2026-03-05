@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Vehicle 1''}'
-      - '{''id'': 2, ''name'': ''Vehicle 2''}'
-      - '{''id'': 3, ''name'': ''Vehicle 3''}'
+      - Vehicle 1
+      - Vehicle 2
+      - Vehicle 3
       required: true
     - id: 3
       name: customer_name
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: notes

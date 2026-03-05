@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Strongly Agree''}'
-      - '{''value'': 2, ''label'': ''Somewhat Agree''}'
-      - '{''value'': 3, ''label'': ''Neutral''}'
-      - '{''value'': 4, ''label'': ''Somewhat Disagree''}'
-      - '{''value'': 5, ''label'': ''Strongly Disagree''}'
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
       required: true
     - id: 3
       name: doctor_interaction_page
@@ -28,11 +28,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Strongly Agree''}'
-      - '{''value'': 2, ''label'': ''Somewhat Agree''}'
-      - '{''value'': 3, ''label'': ''Neutral''}'
-      - '{''value'': 4, ''label'': ''Somewhat Disagree''}'
-      - '{''value'': 5, ''label'': ''Strongly Disagree''}'
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
       required: true
     - id: 4
       name: wait_time_page
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Less than 30 minutes''}'
-      - '{''value'': 2, ''label'': ''30-60 minutes''}'
-      - '{''value'': 3, ''label'': ''60-90 minutes''}'
-      - '{''value'': 4, ''label'': ''More than 90 minutes''}'
+      - Less than 30 minutes
+      - 30-60 minutes
+      - 60-90 minutes
+      - More than 90 minutes
       required: true
     - id: 5
       name: overall_experience_page
@@ -51,11 +51,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Excellent''}'
-      - '{''value'': 2, ''label'': ''Good''}'
-      - '{''value'': 3, ''label'': ''Neutral''}'
-      - '{''value'': 4, ''label'': ''Poor''}'
-      - '{''value'': 5, ''label'': ''Bad''}'
+      - Excellent
+      - Good
+      - Neutral
+      - Poor
+      - Bad
       required: true
     - id: 6
       name: staff_availability_page
@@ -84,8 +84,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: discharge_instructions_page
@@ -93,8 +93,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Given Clearly''}'
-      - '{''value'': 2, ''label'': ''Not Given''}'
+      - Given Clearly
+      - Not Given
       required: true
     - id: 11
       name: pain_management_page
@@ -102,8 +102,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Effective''}'
-      - '{''value'': 2, ''label'': ''Ineffective''}'
+      - Effective
+      - Ineffective
       required: true
     - id: 12
       name: staff_communication_page
@@ -111,11 +111,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Excellent''}'
-      - '{''value'': 2, ''label'': ''Good''}'
-      - '{''value'': 3, ''label'': ''Neutral''}'
-      - '{''value'': 4, ''label'': ''Poor''}'
-      - '{''value'': 5, ''label'': ''Bad''}'
+      - Excellent
+      - Good
+      - Neutral
+      - Poor
+      - Bad
       required: true
     - id: 13
       name: wait_time_satisfaction_page

@@ -1,123 +1,112 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Competitor Research Survey
     pages:
-      - id: 1
-        name: research_intro_header
-        label: -- Competitor Product Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: competitor_brand_choice
-        label: Which competitor's product do you currently use?
-        hint: Select the primary one
-        type: select_one
-        options:
-          - Competitor A
-          - Competitor B
-          - Competitor C
-          - Other
-        required: true
-      - id: 3
-        name: specific_product_used
-        label: Specific Product or Service Used
-        hint: Enter the name of the tool or service
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: usage_duration_comp
-        label: How long have you been using this product?
-        hint: Tenure with the competitor
-        type: select_one
-        options:
-          - Less than 6 months
-          - 6-12 months
-          - 1-3 years
-          - More than 3 years
-        required: true
-      - id: 5
-        name: main_reason_for_choosing_competitor
-        label: What was the primary reason for choosing them?
-        hint: Your initial motivation
-        type: select_one
-        options:
-          - Lower Price
-          - Better Features
-          - Recommendation
-          - Brand Reputation
-          - Ease of Use
-        required: true
-      - id: 6
-        name: competitor_advantage_feedback
-        label: What is the one thing they do better than us?
-        hint: Be honest - this helps us improve
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: our_advantage_perception
-        label: What is one thing you believe we do better than them?
-        hint: Where do we stand out?
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: competitor_satisfaction_rating
-        label: Overall satisfaction with their product
-        hint: 1 being not satisfied, 5 being highly satisfied
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 9
-        name: likelihood_to_switch_to_us
-        label: How likely are you to switch to our product in the next 6 months?
-        hint: Rating your intent to change
-        type: select_one
-        options:
-          - Very Likely
-          - Likely
-          - Neutral
-          - Unlikely
-          - Not interested
-        required: true
-      - id: 10
-        name: missing_feature_competitor
-        label: Is there a key feature missing in their product?
-        hint: Describe any gaps you have noticed
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: negative_experience_competitor
-        label: Have you had any recent negative experiences with them?
-        hint: Support issues, bugs, or price hikes
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: survey_date_research
-        label: Date
-        hint: Select today's date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: research_intro_header
+      label: -- Competitor Product Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: competitor_brand_choice
+      label: Which competitor's product do you currently use?
+      hint: Select the primary one
+      type: select_one
+      options:
+      - Competitor A
+      - Competitor B
+      - Competitor C
+      - Other
+      required: true
+    - id: 3
+      name: specific_product_used
+      label: Specific Product or Service Used
+      hint: Enter the name of the tool or service
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: usage_duration_comp
+      label: How long have you been using this product?
+      hint: Tenure with the competitor
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-3 years
+      - More than 3 years
+      required: true
+    - id: 5
+      name: main_reason_for_choosing_competitor
+      label: What was the primary reason for choosing them?
+      hint: Your initial motivation
+      type: select_one
+      options:
+      - Lower Price
+      - Better Features
+      - Recommendation
+      - Brand Reputation
+      - Ease of Use
+      required: true
+    - id: 6
+      name: competitor_advantage_feedback
+      label: What is the one thing they do better than us?
+      hint: Be honest - this helps us improve
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: our_advantage_perception
+      label: What is one thing you believe we do better than them?
+      hint: Where do we stand out?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: competitor_satisfaction_rating
+      label: Overall satisfaction with their product
+      hint: 1 being not satisfied, 5 being highly satisfied
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 9
+      name: likelihood_to_switch_to_us
+      label: How likely are you to switch to our product in the next 6 months?
+      hint: Rating your intent to change
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Not interested
+      required: true
+    - id: 10
+      name: missing_feature_competitor
+      label: Is there a key feature missing in their product?
+      hint: Describe any gaps you have noticed
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: negative_experience_competitor
+      label: Have you had any recent negative experiences with them?
+      hint: Support issues, bugs, or price hikes
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: survey_date_research
+      label: Date
+      hint: Select today's date
+      type: date
+      options: []
+      required: true

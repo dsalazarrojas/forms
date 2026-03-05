@@ -1,227 +1,216 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Citation Style Quiz
     pages:
-      - id: 1
-        name: student_name
-        label: Your Full Name
-        hint: First and last name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: email
-        label: Email Address
-        hint: For quiz results
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: institution
-        label: School or Institution
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: course_name
-        label: Course Name
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: experience_level
-        label: Your Experience with Citations
-        hint: null
-        type: select_one
-        options:
-          - Beginner
-          - Intermediate
-          - Advanced
-        required: true
-      - id: 6
-        name: question_1
-        label: Question 1 - Which style is commonly used in social sciences
-        hint: Select the best answer
-        type: select_one
-        options:
-          - APA
-          - MLA
-          - Chicago
-          - IEEE
-        required: true
-      - id: 7
-        name: question_2
-        label: Question 2 - In MLA style, how do you format a book title
-        hint: null
-        type: select_one
-        options:
-          - Italics
-          - Quotation marks
-          - Underline
-          - Bold
-        required: true
-      - id: 8
-        name: question_3
-        label: Question 3 - What does APA stand for
-        hint: null
-        type: select_one
-        options:
-          - American Psychological Association
-          - American Publishing Association
-          - Academic Publishing Alliance
-          - Applied Psychology Association
-        required: true
-      - id: 9
-        name: question_4
-        label: Question 4 - In APA style, where does the date appear in a reference
-        hint: null
-        type: select_one
-        options:
-          - After the author
-          - At the end
-          - After the title
-          - Before the publisher
-        required: true
-      - id: 10
-        name: question_5
-        label: Question 5 - Which style uses footnotes or endnotes
-        hint: null
-        type: select_one
-        options:
-          - Chicago
-          - APA
-          - MLA
-          - CSE
-        required: true
-      - id: 11
-        name: question_6
-        label: Question 6 - How are multiple authors listed in APA style
-        hint: For 3 or more authors
-        type: select_one
-        options:
-          - First author et al.
-          - All authors listed
-          - First two authors only
-          - Use and so on
-        required: true
-      - id: 12
-        name: question_7
-        label: Question 7 - What is a DOI
-        hint: null
-        type: select_one
-        options:
-          - Digital Object Identifier
-          - Document Online Index
-          - Data Organization ID
-          - Digital Output Indicator
-        required: true
-      - id: 13
-        name: question_8
-        label: Question 8 - In MLA, how do you cite a website
-        hint: null
-        type: select_one
-        options:
-          - Include URL and access date
-          - Only the title
-          - Just the author
-          - No citation needed
-        required: true
-      - id: 14
-        name: question_9
-        label: Question 9 - Which element comes first in an APA reference
-        hint: null
-        type: select_one
-        options:
-          - Author
-          - Title
-          - Date
-          - Publisher
-        required: true
-      - id: 15
-        name: question_10
-        label: Question 10 - What is plagiarism
-        hint: null
-        type: select_one
-        options:
-          - Using others work without credit
-          - Citing too many sources
-          - Quoting directly
-          - Paraphrasing
-        required: true
-      - id: 16
-        name: question_11
-        label: Question 11 - When should you use quotation marks
-        hint: null
-        type: select_one
-        options:
-          - For direct quotes
-          - For paraphrases
-          - For summaries
-          - Never
-        required: true
-      - id: 17
-        name: question_12
-        label: Question 12 - What is a works cited page
-        hint: null
-        type: select_one
-        options:
-          - MLA reference list
-          - APA reference list
-          - Chicago bibliography
-          - IEEE references
-        required: true
-      - id: 18
-        name: confidence_level
-        label: How Confident Are You in Your Answers
-        hint: null
-        type: select_one
-        options:
-          - Very confident
-          - Somewhat confident
-          - Not very confident
-          - Just guessing
-        required: true
-      - id: 19
-        name: topics_difficult
-        label: Which Citation Topics Are Most Difficult
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - APA format
-          - MLA format
-          - Chicago format
-          - In-text citations
-          - Reference lists
-          - Electronic sources
-          - Book citations
-        required: false
-      - id: 20
-        name: further_learning
-        label: Would You Like More Citation Training
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 21
-        name: additional_comments
-        label: Any Additional Comments
-        hint: Feedback on the quiz
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: student_name
+      label: Your Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For quiz results
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: institution
+      label: School or Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience_level
+      label: Your Experience with Citations
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 6
+      name: question_1
+      label: Question 1 - Which style is commonly used in social sciences
+      hint: Select the best answer
+      type: select_one
+      options:
+      - APA
+      - MLA
+      - Chicago
+      - IEEE
+      required: true
+    - id: 7
+      name: question_2
+      label: Question 2 - In MLA style, how do you format a book title
+      hint: null
+      type: select_one
+      options:
+      - Italics
+      - Quotation marks
+      - Underline
+      - Bold
+      required: true
+    - id: 8
+      name: question_3
+      label: Question 3 - What does APA stand for
+      hint: null
+      type: select_one
+      options:
+      - American Psychological Association
+      - American Publishing Association
+      - Academic Publishing Alliance
+      - Applied Psychology Association
+      required: true
+    - id: 9
+      name: question_4
+      label: Question 4 - In APA style, where does the date appear in a reference
+      hint: null
+      type: select_one
+      options:
+      - After the author
+      - At the end
+      - After the title
+      - Before the publisher
+      required: true
+    - id: 10
+      name: question_5
+      label: Question 5 - Which style uses footnotes or endnotes
+      hint: null
+      type: select_one
+      options:
+      - Chicago
+      - APA
+      - MLA
+      - CSE
+      required: true
+    - id: 11
+      name: question_6
+      label: Question 6 - How are multiple authors listed in APA style
+      hint: For 3 or more authors
+      type: select_one
+      options:
+      - First author et al.
+      - All authors listed
+      - First two authors only
+      - Use and so on
+      required: true
+    - id: 12
+      name: question_7
+      label: Question 7 - What is a DOI
+      hint: null
+      type: select_one
+      options:
+      - Digital Object Identifier
+      - Document Online Index
+      - Data Organization ID
+      - Digital Output Indicator
+      required: true
+    - id: 13
+      name: question_8
+      label: Question 8 - In MLA, how do you cite a website
+      hint: null
+      type: select_one
+      options:
+      - Include URL and access date
+      - Only the title
+      - Just the author
+      - No citation needed
+      required: true
+    - id: 14
+      name: question_9
+      label: Question 9 - Which element comes first in an APA reference
+      hint: null
+      type: select_one
+      options:
+      - Author
+      - Title
+      - Date
+      - Publisher
+      required: true
+    - id: 15
+      name: question_10
+      label: Question 10 - What is plagiarism
+      hint: null
+      type: select_one
+      options:
+      - Using others work without credit
+      - Citing too many sources
+      - Quoting directly
+      - Paraphrasing
+      required: true
+    - id: 16
+      name: question_11
+      label: Question 11 - When should you use quotation marks
+      hint: null
+      type: select_one
+      options:
+      - For direct quotes
+      - For paraphrases
+      - For summaries
+      - Never
+      required: true
+    - id: 17
+      name: question_12
+      label: Question 12 - What is a works cited page
+      hint: null
+      type: select_one
+      options:
+      - MLA reference list
+      - APA reference list
+      - Chicago bibliography
+      - IEEE references
+      required: true
+    - id: 18
+      name: confidence_level
+      label: How Confident Are You in Your Answers
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Not very confident
+      - Just guessing
+      required: true
+    - id: 19
+      name: topics_difficult
+      label: Which Citation Topics Are Most Difficult
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - APA format
+      - MLA format
+      - Chicago format
+      - In-text citations
+      - Reference lists
+      - Electronic sources
+      - Book citations
+      required: false
+    - id: 20
+      name: further_learning
+      label: Would You Like More Citation Training
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Any Additional Comments
+      hint: Feedback on the quiz
+      type: text
+      options: []
+      required: false

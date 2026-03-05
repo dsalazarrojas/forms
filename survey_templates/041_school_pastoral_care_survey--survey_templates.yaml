@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: student_feedback_frequency
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 7
       name: staff_support_frequency
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
       name: parent_support_frequency
@@ -67,8 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: student_support_frequency
@@ -76,17 +77,19 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: staff_feedback_frequency
-      label: Staff Feedback Frequency
+      label: Staff Feedback Frequency (2)
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
       name: date_of_feedback
@@ -139,32 +142,33 @@ inputSchema:
       required: false
     - id: 18
       name: student_feedback_frequency_frequency
-      label: Student Feedback Frequency
+      label: Student Feedback Frequency Frequency
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 19
       name: parent_feedback_frequency_frequency
-      label: Parent Feedback Frequency
+      label: Parent Feedback Frequency Frequency
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 20
       name: staff_feedback_frequency_frequency
-      label: Staff Feedback Frequency
+      label: Staff Feedback Frequency Frequency
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 21
       name: wellbeing_support_frequency
@@ -172,8 +176,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 22
       name: school_pastoral_care_score

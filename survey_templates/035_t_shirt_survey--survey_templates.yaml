@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Small''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Large''}'
-      - '{''id'': 4, ''label'': ''X-Large''}'
+      - Small
+      - Medium
+      - Large
+      - X-Large
       required: false
     - id: 3
       name: style
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Casual''}'
-      - '{''id'': 2, ''label'': ''Formal''}'
-      - '{''id'': 3, ''label'': ''Sporty''}'
-      - '{''id'': 4, ''label'': ''Boho''}'
+      - Casual
+      - Formal
+      - Sporty
+      - Boho
       required: false
     - id: 4
       name: color
@@ -38,10 +38,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Black''}'
-      - '{''id'': 2, ''label'': ''White''}'
-      - '{''id'': 3, ''label'': ''Gray''}'
-      - '{''id'': 4, ''label'': ''Red''}'
+      - Black
+      - White
+      - Gray
+      - Red
       required: false
     - id: 5
       name: price
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cotton''}'
-      - '{''id'': 2, ''label'': ''Polyester''}'
-      - '{''id'': 3, ''label'': ''Linen''}'
+      - Cotton
+      - Polyester
+      - Linen
       required: false
     - id: 7
       name: design
@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Logo''}'
-      - '{''id'': 2, ''label'': ''Pattern''}'
-      - '{''id'': 3, ''label'': ''Solid''}'
+      - Logo
+      - Pattern
+      - Solid
       required: false
     - id: 8
       name: pattern
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: logo
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: sleeve_length
@@ -94,8 +94,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Short''}'
-      - '{''id'': 2, ''label'': ''Long''}'
+      - Short
+      - Long
       required: false
     - id: 11
       name: collar_type
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Crew''}'
-      - '{''id'': 2, ''label'': ''V-Neck''}'
-      - '{''id'': 3, ''label'': ''Crew-Neck''}'
+      - Crew
+      - V-Neck
+      - Crew-Neck
       required: false
     - id: 12
       name: pocket_type
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Normal''}'
-      - '{''id'': 2, ''label'': ''Zipper''}'
-      - '{''id'': 3, ''label'': ''Pocketless''}'
+      - Normal
+      - Zipper
+      - Pocketless
       required: false
     - id: 13
       name: hem_type
@@ -123,9 +123,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Normal''}'
-      - '{''id'': 2, ''label'': ''Rolled''}'
-      - '{''id'': 3, ''label'': ''Tab''}'
+      - Normal
+      - Rolled
+      - Tab
       required: false
     - id: 14
       name: hem_position
@@ -133,9 +133,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Bottom''}'
-      - '{''id'': 2, ''label'': ''Sleeve''}'
-      - '{''id'': 3, ''label'': ''Hem''}'
+      - Bottom
+      - Sleeve
+      - Hem
       required: false
     - id: 15
       name: hem_width
@@ -143,9 +143,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Normal''}'
-      - '{''id'': 2, ''label'': ''Wide''}'
-      - '{''id'': 3, ''label'': ''Narrow''}'
+      - Normal
+      - Wide
+      - Narrow
       required: false
     - id: 16
       name: hem_style
@@ -153,8 +153,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Simple''}'
-      - '{''id'': 2, ''label'': ''Decorative''}'
+      - Simple
+      - Decorative
       required: false
     - id: 17
       name: pocket_position
@@ -162,9 +162,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Front''}'
-      - '{''id'': 2, ''label'': ''Back''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Front
+      - Back
+      - Both
       required: false
     - id: 18
       name: collar_type
@@ -172,9 +172,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Crew''}'
-      - '{''id'': 2, ''label'': ''V-Neck''}'
-      - '{''id'': 3, ''label'': ''Crew-Neck''}'
+      - Crew
+      - V-Neck
+      - Crew-Neck
       required: false
     - id: 19
       name: collar_width
@@ -182,9 +182,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Normal''}'
-      - '{''id'': 2, ''label'': ''Wide''}'
-      - '{''id'': 3, ''label'': ''Narrow''}'
+      - Normal
+      - Wide
+      - Narrow
       required: false
     - id: 20
       name: sleeve_type
@@ -192,8 +192,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Full''}'
-      - '{''id'': 2, ''label'': ''Short''}'
+      - Full
+      - Short
       required: false
     - id: 21
       name: cuff_position
@@ -201,8 +201,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Bottom''}'
-      - '{''id'': 2, ''label'': ''Top''}'
+      - Bottom
+      - Top
       required: false
     - id: 22
       name: cuff_width
@@ -210,9 +210,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Normal''}'
-      - '{''id'': 2, ''label'': ''Wide''}'
-      - '{''id'': 3, ''label'': ''Narrow''}'
+      - Normal
+      - Wide
+      - Narrow
       required: false
     - id: 23
       name: cuff_style
@@ -220,8 +220,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Simple''}'
-      - '{''id'': 2, ''label'': ''Decorative''}'
+      - Simple
+      - Decorative
       required: false
     - id: 24
       name: hem_style
@@ -229,8 +229,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Simple''}'
-      - '{''id'': 2, ''label'': ''Decorative''}'
+      - Simple
+      - Decorative
       required: false
     - id: 25
       name: shirt_length
@@ -238,8 +238,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Short''}'
-      - '{''id'': 2, ''label'': ''Long''}'
+      - Short
+      - Long
       required: false
     - id: 26
       name: shirt_type
@@ -247,7 +247,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''T-Shirt''}'
-      - '{''id'': 2, ''label'': ''Polo Shirt''}'
-      - '{''id'': 3, ''label'': ''Tank Top''}'
+      - T-Shirt
+      - Polo Shirt
+      - Tank Top
       required: false

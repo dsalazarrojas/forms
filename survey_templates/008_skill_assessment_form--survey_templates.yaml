@@ -5,184 +5,54 @@ inputSchema:
     pages:
     - id: 1
       name: candidate_info
-      label: Candidate Info
-      hint: null
+      label: Candidate Information
+      hint: First name and Last name of the candidate
       type: text
       options: []
       required: false
     - id: 2
       name: assessment_info
-      label: Assessment Info
-      hint: null
+      label: Assessment Information
+      hint: Assessment date and time
       type: text
       options: []
       required: false
     - id: 3
-      name: questions
-      label: Questions
-      hint: null
+      name: scorecard
+      label: Scorecard
+      hint: Scorecard of the candidate
       type: text
       options: []
       required: false
     - id: 4
-      name: skills
-      label: Skills
-      hint: null
+      name: review_questions
+      label: Review Questions
+      hint: Review questions for the candidate
       type: text
       options: []
       required: false
     - id: 5
-      name: scorecard
-      label: Scorecard
-      hint: null
+      name: review
+      label: Review
+      hint: Review of the candidate
       type: text
       options: []
       required: false
     - id: 6
-      name: review_questions
-      label: Review Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: review
-      label: Review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: candidate_info_1
-      label: Candidate Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: assessment_info_1
-      label: Assessment Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: question_1
-      label: Question 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: question_2
-      label: Question 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: question_3
-      label: Question 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: question_4
-      label: Question 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: scorecard_1
-      label: Scorecard
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: review_questions_1
-      label: Review Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: review_1
-      label: Review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: score
-      label: Score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: review
-      label: Review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: assessment_date
-      label: Assessment Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: assessment_time
-      label: Assessment Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: select_one_1
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      - '{''label'': ''Option 4''}'
-      required: true
-    - id: 24
       name: select_multiple_1
       label: Select Multiple
-      hint: null
+      hint: Select multiple options
       type: select_multiple
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      - '{''label'': ''Option 4''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: true
-    - id: 25
+    - id: 7
       name: note
       label: Note
-      hint: null
-      type: note
+      hint: Additional information about the candidate
+      type: text
       options: []
       required: false

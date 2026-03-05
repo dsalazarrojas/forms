@@ -4,204 +4,147 @@ inputSchema:
     title: Patronage Request Form
     pages:
     - id: 1
-      name: patronage_request_form_1
-      label: first_page
+      name: name_page
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: patronage_request_form_2
-      label: second_page
+      name: email_page
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: availability_page
+      label: Which of the following options do you agree to?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: requests_page
+      label: Do you have any specific requests or preferences?
       hint: null
       type: note
       options: []
       required: false
-    - id: 3
-      name: patronage_request_form_3
-      label: submit_page
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': ''option1''}'
-      - option2
-      - option3
-      required: true
-    - id: 4
-      name: patronage_request_form_4
-      label: contact_page
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 5
-      name: patronage_request_form_5
-      label: email_page
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 6
-      name: patronage_request_form_6
-      label: date_page
+      name: date_page
+      label: What date of patronage do you prefer?
       hint: null
       type: date
       options: []
       required: false
-    - id: 7
-      name: patronage_request_form_7
-      label: time_page
+    - id: 6
+      name: time_page
+      label: What time of day do you prefer to patronize?
       hint: null
       type: time
       options: []
       required: false
-    - id: 8
-      name: patronage_request_form_8
-      label: note_page
+    - id: 7
+      name: time_zone_page
+      label: Do you have any time zone restrictions?
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: date_range_page
+      label: Do you have any date range preferences?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: patronage_request_form_9
-      label: text_page
+      name: time_range_page
+      label: Do you have any time range preferences?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 10
-      name: patronage_request_form_10
-      label: time_zone_page
+      name: select_options_page
+      label: Do you have any select options?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: true
+      - 'True'
+      - 'False'
+      required: false
     - id: 11
-      name: patronage_request_form_11
-      label: date_range_page
+      name: text_input_page
+      label: Do you have any text input options?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 12
-      name: patronage_request_form_12
-      label: time_range_page
+      name: select_all_page
+      label: Do you have any select all options?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
-      name: patronage_request_form_13
-      label: select_page
+      name: select_option_page
+      label: Do you have any select option pages?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
-      name: patronage_request_form_14
-      label: select_all_page
+      name: select_options_page_2
+      label: Do you have any select options pages?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
-      name: patronage_request_form_15
-      label: select_option_page
+      name: date_input_page
+      label: Do you have any date input options?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
-      name: patronage_request_form_16
-      label: select_options_page
+      name: time_input_page
+      label: Do you have any time input options?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
-      name: patronage_request_form_17
-      label: time_input_page
+      name: submit_page
+      label: Submit
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 18
-      name: patronage_request_form_18
-      label: date_input_page
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: patronage_request_form_19
-      label: text_input_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: patronage_request_form_20
-      label: time_input_page
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: patronage_request_form_21
-      label: note_input_page
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: patronage_request_form_22
-      label: date_input_page
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: patronage_request_form_23
-      label: time_input_page
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: patronage_request_form_24
-      label: submit_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: patronage_request_form_25
-      label: confirm_page
+      name: confirm_page
+      label: Confirm
       hint: null
       type: text
       options: []

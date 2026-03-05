@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very dissatisfied''}'
-      - '{''label'': ''Somewhat dissatisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat satisfied''}'
-      - '{''label'': ''Very satisfied''}'
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
       required: false
     - id: 4
       name: suggestions
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Core Feature''}'
-      - '{''label'': ''Non-Core Feature''}'
-      - '{''label'': ''Other''}'
+      - Core Feature
+      - Non-Core Feature
+      - Other
       required: false
     - id: 6
       name: frequency
@@ -52,10 +52,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Occasionally''}'
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Almost always''}'
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Almost always
       required: false
     - id: 7
       name: improvement_plan
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Owner''}'
-      - '{''label'': ''End user''}'
+      - Owner
+      - End user
       required: false
     - id: 10
       name: email

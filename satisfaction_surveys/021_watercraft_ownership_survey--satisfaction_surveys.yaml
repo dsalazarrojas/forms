@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not sure''}'
+      - 'True'
+      - 'False'
+      - Not sure
       required: true
     - id: 3
       name: engine_oil
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''sail''}'
-      - '{''id'': 2, ''label'': ''power''}'
-      - '{''id'': 3, ''label'': ''other''}'
+      - sail
+      - power
+      - other
       required: true
     - id: 6
       name: boat_age
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Provider 1''}'
-      - '{''id'': 2, ''label'': ''Provider 2''}'
-      - '{''id'': 3, ''label'': ''Provider 3''}'
+      - Provider 1
+      - Provider 2
+      - Provider 3
       required: true
     - id: 14
       name: boat_maintenance
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not sure''}'
+      - 'True'
+      - 'False'
+      - Not sure
       required: true
     - id: 15
       name: boat_warranty
@@ -119,8 +119,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: boat_license
@@ -128,9 +128,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not sure''}'
+      - 'True'
+      - 'False'
+      - Not sure
       required: true
     - id: 17
       name: boat_registration_status
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Registered''}'
-      - '{''id'': 2, ''label'': ''Not registered''}'
-      - '{''id'': 3, ''label'': ''Unknown''}'
+      - Registered
+      - Not registered
+      - Unknown
       required: true
     - id: 18
       name: boat_insurance_status
@@ -148,9 +148,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Not insured''}'
+      - Active
+      - Inactive
+      - Not insured
       required: true
     - id: 19
       name: boat_safety_equipment
@@ -158,9 +158,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not applicable''}'
+      - 'True'
+      - 'False'
+      - Not applicable
       required: false
     - id: 20
       name: boat_must_haves
@@ -168,9 +168,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Engine''}'
-      - '{''id'': 2, ''label'': ''Propeller''}'
-      - '{''id'': 3, ''label'': ''Anchor''}'
+      - Engine
+      - Propeller
+      - Anchor
       required: false
     - id: 21
       name: boat_worth

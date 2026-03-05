@@ -4,183 +4,78 @@ inputSchema:
     title: Quiz On Eigenvalues And Eigenvectors
     pages:
     - id: 1
-      name: practice_form
-      label: Practice Quiz
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: eigenvalues_form
-      label: Eigenvalues
-      hint: null
-      type: select_one
-      options:
-      - Eigenvalue 1
-      - Eigenvalue 2
-      - Eigenvalue 3
-      required: false
-    - id: 3
-      name: eigenvectors_form
-      label: Eigenvectors
-      hint: null
+      name: practice_question
+      label: Practice Question
+      hint: This is the first question of the quiz.
       type: select_multiple
       options:
-      - Eigenvector 1
-      - Eigenvector 2
-      - Eigenvector 3
-      required: false
+      - What is the definition of an eigenvalue?
+      - What is the significance of eigenvalues in linear algebra?
+      - How are eigenvalues used in applications?
+      required: true
+    - id: 2
+      name: eigenvalues_count
+      label: Eigenvalues Count
+      hint: How many eigenvalues can a matrix have?
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - Multiple
+      required: true
+    - id: 3
+      name: eigenvalues_example
+      label: Eigenvalues Example
+      hint: Provide an example of an eigenvalue.
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: eigenvalues_answer
-      label: Eigenvalues Answer
-      hint: null
-      type: number
+      name: eigenvalues_note
+      label: Eigenvalues Note
+      hint: Additional notes on eigenvalues.
+      type: note
       options: []
       required: false
     - id: 5
-      name: eigenvectors_answer
-      label: Eigenvectors Answer
-      hint: null
-      type: number
+      name: email
+      label: Email
+      hint: Please enter your email address.
+      type: email
       options: []
-      required: false
+      required: true
     - id: 6
       name: date
       label: Date
-      hint: null
+      hint: When will you complete this quiz?
       type: date
       options: []
-      required: false
+      required: true
     - id: 7
       name: time
       label: Time
-      hint: null
+      hint: What time do you usually study for exams?
       type: time
       options: []
       required: false
     - id: 8
-      name: note
-      label: Note
-      hint: null
-      type: note
+      name: phone
+      label: Phone
+      hint: Please provide your phone number.
+      type: text
       options: []
       required: false
     - id: 9
-      name: email
-      label: Email
-      hint: null
+      name: email_2
+      label: Email 2
+      hint: Email for feedback.
       type: email
       options: []
       required: false
     - id: 10
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: submit
       label: Submit
-      hint: null
+      hint: Submit your answers.
       type: text
       options: []
-      required: false
+      required: true

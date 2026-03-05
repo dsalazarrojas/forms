@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''School''}'
-      - '{''id'': 2, ''name'': ''Office''}'
-      - '{''id'': 3, ''name'': ''Gym''}'
-      - '{''id'': 4, ''name'': ''Venue''}'
+      - School
+      - Office
+      - Gym
+      - Venue
       required: true
     - id: 2
       name: delivery_details
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 13, ''name'': ''Pending''}'
-      - '{''id'': 14, ''name'': ''In Progress''}'
-      - '{''id'': 15, ''name'': ''Completed''}'
+      - Pending
+      - In Progress
+      - Completed
       required: true
     - id: 13
       name: supplier
@@ -153,9 +153,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 21, ''name'': ''Pending''}'
-      - '{''id'': 22, ''name'': ''In Progress''}'
-      - '{''id'': 23, ''name'': ''Completed''}'
+      - Pending
+      - In Progress
+      - Completed
       required: true
     - id: 21
       name: customer
@@ -163,9 +163,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 22, ''name'': ''School''}'
-      - '{''id'': 23, ''name'': ''Office''}'
-      - '{''id'': 24, ''name'': ''Gym''}'
+      - School
+      - Office
+      - Gym
       required: true
     - id: 22
       name: customer_address

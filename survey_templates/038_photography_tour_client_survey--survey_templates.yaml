@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Satisfied'', ''value'': ''Not Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied'', ''value'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Satisfied'', ''value'': ''Satisfied''}'
-      - '{''label'': ''Very Satisfied'', ''value'': ''Very Satisfied''}'
-      - '{''label'': ''Extremely Satisfied'', ''value'': ''Extremely Satisfied''}'
+      - Not Satisfied
+      - Somewhat Satisfied
+      - Satisfied
+      - Very Satisfied
+      - Extremely Satisfied
       required: false
     - id: 4
       name: routes
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Too short'', ''value'': ''Too short''}'
-      - '{''label'': ''Just right'', ''value'': ''Just right''}'
-      - '{''label'': ''Too long'', ''value'': ''Too long''}'
+      - Too short
+      - Just right
+      - Too long
       required: false
     - id: 5
       name: guide
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Good'', ''value'': ''Not Good''}'
-      - '{''label'': ''Needs Improvement'', ''value'': ''Needs Improvement''}'
-      - '{''label'': ''Good'', ''value'': ''Good''}'
+      - Not Good
+      - Needs Improvement
+      - Good
       required: false
     - id: 6
       name: suggestions

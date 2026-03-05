@@ -1,197 +1,162 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Customer Experience Feedback Consent Form
     pages:
     - id: 1
-      name: customer_experience_feedback_consent_form_1
-      label: Customer Experience Feedback
-      hint: null
+      name: introduction
+      label: Introduction and Consent
+      hint: Briefly introduce the purpose of this form and ask for consent to share
+        feedback.
       type: text
       options: []
       required: false
     - id: 2
-      name: customer_experience_feedback_form_2
-      label: Customer Experience Feedback
-      hint: null
+      name: demographics
+      label: Demographics
+      hint: Please provide your basic demographics.
       type: text
       options: []
       required: false
     - id: 3
-      name: customer_experience_consent_form_3
-      label: Consent
+      name: experience_with_company
+      label: Experience with the Company
       hint: null
       type: select_multiple
       options:
-      - Consent to receive email updates
-      - Consent to share feedback with our team
-      - Prophets and wizards
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
     - id: 4
-      name: customer_experience_feedback_form_4
-      label: Customer Experience Feedback
-      hint: null
+      name: satisfaction_with_product
+      label: Satisfaction with the Product or Service
+      hint: Please share your thoughts about our product or service.
       type: text
       options: []
       required: false
     - id: 5
-      name: customer_experience_feedback_form_5
-      label: Customer Experience Feedback
+      name: quality_of_product
+      label: Quality of the Product or Service
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
     - id: 6
-      name: customer_experience_feedback_form_6
-      label: Prophets and wizards
-      hint: null
+      name: feedback_comments
+      label: Additional Comments
+      hint: Please provide any additional comments or suggestions.
       type: text
       options: []
       required: false
     - id: 7
-      name: customer_experience_feedback_form_7
-      label: Customer Experience Feedback
-      hint: null
-      type: time
+      name: experience_with_company_2
+      label: Overall Experience with the Company
+      hint: Please share your overall experience with the company.
+      type: text
       options: []
       required: false
     - id: 8
-      name: customer_experience_feedback_form_8
-      label: Customer Experience Feedback
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
+      name: suggestions
+      label: Suggestions for Improvement
+      hint: Please suggest ways we can improve our service.
+      type: text
+      options: []
       required: false
     - id: 9
-      name: customer_experience_feedback_form_9
-      label: Customer Experience Feedback
-      hint: null
+      name: additional_comments_1
+      label: Additional Comments 1
+      hint: Please provide any additional comments or suggestions.
       type: text
       options: []
       required: false
     - id: 10
-      name: customer_experience_feedback_form_10
-      label: Customer Experience Feedback
+      name: feedback_willingness
+      label: Willingness to Provide Feedback
       hint: null
-      type: text
-      options: []
-      required: false
+      type: radio
+      options:
+      - Option 1
+      - Option 2
+      required: true
     - id: 11
-      name: customer_experience_feedback_form_11
-      label: Customer Experience Feedback
-      hint: null
+      name: contact_info
+      label: Contact Information
+      hint: Please provide your contact information for follow-up.
       type: text
       options: []
       required: false
     - id: 12
-      name: customer_experience_feedback_form_12
-      label: Customer Experience Feedback
-      hint: null
+      name: additional_comments_2
+      label: Additional Comments 2
+      hint: Please provide any additional comments or suggestions.
       type: text
       options: []
       required: false
     - id: 13
-      name: customer_experience_feedback_form_13
-      label: Customer Experience Feedback
+      name: satisfaction_with_company
+      label: Satisfaction with the Company
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
     - id: 14
-      name: customer_experience_feedback_form_14
-      label: Customer Experience Feedback
+      name: quality_of_support
+      label: Quality of Support
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
     - id: 15
-      name: customer_experience_feedback_form_15
-      label: Customer Experience Feedback
+      name: timeliness_of_responses
+      label: Timeliness of Responses
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
     - id: 16
-      name: customer_experience_feedback_form_16
-      label: Customer Experience Feedback
+      name: experience_with_communication
+      label: Experience with Communication
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
     - id: 17
-      name: customer_experience_feedback_form_17
-      label: Customer Experience Feedback
+      name: experience_with_website
+      label: Experience with the Website or Platform
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
     - id: 18
-      name: customer_experience_feedback_form_18
-      label: Customer Experience Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: customer_experience_feedback_form_19
-      label: Customer Experience Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: customer_experience_feedback_form_20
-      label: Customer Experience Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: customer_experience_feedback_form_21
-      label: Customer Experience Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: customer_experience_feedback_form_22
-      label: Customer Experience Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: customer_experience_feedback_form_23
-      label: Customer Experience Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: customer_experience_feedback_form_24
-      label: Customer Experience Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: customer_experience_feedback_form_25
-      label: Customer Experience Feedback
-      hint: null
+      name: final_comments
+      label: Final Comments
+      hint: Please provide any final thoughts or comments.
       type: text
       options: []
       required: false

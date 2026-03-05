@@ -6,179 +6,86 @@ inputSchema:
     - id: 1
       name: student_name
       label: Student Name
-      hint: null
+      hint: Please enter the student's name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: submission_date
       label: Submission Date
-      hint: null
+      hint: Select the date of submission
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
       name: grade
-      label: Grade
-      hint: null
+      label: Grade (if applicable)
+      hint: Enter the grade if applicable
       type: number
       options: []
       required: false
     - id: 4
       name: assignment_name
       label: Assignment Name
-      hint: null
+      hint: Enter the assignment title
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
+      name: assignment_due_date
+      label: Assignment Due Date
+      hint: Enter the due date of the assignment
+      type: date
+      options: []
+      required: true
+    - id: 6
       name: notes
-      label: Notes
-      hint: null
+      label: Notes (if applicable)
+      hint: Enter any additional notes
       type: note
       options: []
       required: false
-    - id: 6
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
     - id: 7
-      name: phone
-      label: Phone
-      hint: null
+      name: submitter_name
+      label: Submitter Name
+      hint: Enter your name
       type: text
       options: []
       required: false
     - id: 8
-      name: assignment_due_date
-      label: Assignment Due Date
-      hint: null
-      type: date
-      options: []
-      required: false
+      name: assignment_type
+      label: Assignment Type
+      hint: Select the type of assignment
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 9
-      name: submitter_name
-      label: Submitter Name
-      hint: null
+      name: submission_comments
+      label: Submission Comments
+      hint: Enter any comments about the submission
       type: text
       options: []
       required: false
     - id: 10
-      name: submitter_email
-      label: Submitter Email
-      hint: null
-      type: email
+      name: submitter_phone
+      label: Submitter Phone
+      hint: Enter your phone number
+      type: text
       options: []
       required: false
     - id: 11
-      name: submitter_phone
-      label: Submitter Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
       name: assignment_notes
       label: Assignment Notes
-      hint: null
+      hint: Enter any additional notes about the assignment
       type: note
       options: []
       required: false
-    - id: 13
-      name: assignment_title
-      label: Assignment Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: assignment_type
-      label: Assignment Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: submission_comments
-      label: Submission Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: submitter_name
-      label: Submitter Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: grade
-      label: Grade
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: submitter_name
-      label: Submitter Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: assignment_due_date
-      label: Assignment Due Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: submission_date
-      label: Submission Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
+    - id: 12
       name: submitter_email
       label: Submitter Email
-      hint: null
+      hint: Enter your email
       type: email
-      options: []
-      required: false
-    - id: 22
-      name: submitter_phone
-      label: Submitter Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: assignment_title
-      label: Assignment Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: assignment_type
-      label: Assignment Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: submitter_name
-      label: Submitter Name
-      hint: null
-      type: text
       options: []
       required: false

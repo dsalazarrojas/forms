@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Sedentary''}'
-      - '{''value'': ''Lightly active''}'
-      - '{''value'': ''Very active''}'
-      - '{''value'': ''Extremely active''}'
+      - Sedentary
+      - Lightly active
+      - Very active
+      - Extremely active
       required: false
     - id: 3
       name: height
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Low''}'
-      - '{''value'': ''Normal''}'
-      - '{''value'': ''High''}'
+      - Low
+      - Normal
+      - High
       required: false
     - id: 6
       name: medication
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Several times a week''}'
-      - '{''value'': ''Rarely''}'
+      - Daily
+      - Several times a week
+      - Rarely
       required: false
     - id: 15
       name: sleep_pattern
@@ -117,8 +117,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''7-8 hours''}'
-      - '{''value'': ''6-7 hours''}'
-      - '{''value'': ''Less than 6 hours''}'
-      - '{''value'': ''More than 8 hours''}'
+      - 7-8 hours
+      - 6-7 hours
+      - Less than 6 hours
+      - More than 8 hours
       required: false

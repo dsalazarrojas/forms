@@ -1,120 +1,112 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Spa Client Intake Form
     pages:
     - id: 1
-      name: spa_client_intake_form
+      name: client_info
       label: Client Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: client_info
-      label: Medical History
+      name: contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: medical_history
-      label: Allergies
+      label: Medical History
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: allergies
-      label: Contact Info
+      name: payment_info
+      label: Payment Information
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: contact_info
-      label: Contact Info
+      name: appointment
+      label: Appointment
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: contact_info
-      label: Contact Info
+      name: session_notes
+      label: Session Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: payment
-      label: Payment Info
+      name: medical_info
+      label: Medical Information
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: payment_info
-      label: Payment Info
+      name: contact_info_2
+      label: Emergency Contact Info
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: payment_info
-      label: Payment Info
+      name: payment_method
+      label: Payment Method
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
     - id: 10
-      name: medical_info
-      label: Medical Info
+      name: payment_amount
+      label: Payment Amount
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 11
-      name: medical_info
-      label: Medical Info
+      name: start_time
+      label: Start Time
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 12
-      name: appointment
-      label: Appointment
+      name: end_time
+      label: End Time
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 13
-      name: appointment
-      label: Appointment
+      name: appointment_date
+      label: Appointment Date
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 14
-      name: notes
-      label: Session Notes
+      name: medical_conditions
+      label: Medical Conditions
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: session_notes
-      label: Session Notes
+      name: medications
+      label: Medications
       hint: null
       type: text
       options: []

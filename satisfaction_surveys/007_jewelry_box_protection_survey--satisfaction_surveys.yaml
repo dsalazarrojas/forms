@@ -15,249 +15,72 @@ inputSchema:
     title: Jewelry Box Protection Survey Form
     pages:
     - id: 1
-      name: intro_page
-      label: introduction
-      hint: null
-      type: note
+      name: storage_habits
+      label: Storage Habits
+      hint: Describe your current storage habits
+      type: text
       options: []
       required: false
     - id: 2
-      name: storage_habits
-      label: storage habits
-      hint: null
-      type: select_multiple
+      name: protection_features
+      label: Protection Features
+      hint: What feature do you value most?
+      type: select_one
       options:
-      - Box
-      - Closet
+      - Secure
+      - Water resistant
       - Other
       required: false
     - id: 3
-      name: protection_features
-      label: protection features
-      hint: null
-      type: select_one
-      options:
-      - Secure
-      - Water resistant
-      - Other
-      required: false
-    - id: 4
       name: satisfaction
-      label: customer satisfaction
-      hint: null
+      label: Customer Satisfaction
+      hint: How satisfied are you?
       type: select_one
       options:
       - Satisfied
       - Not Satisfied
+      - Neutral
+      required: false
+    - id: 4
+      name: product_teams
+      label: Product Teams
+      hint: What do you think about the product teams?
+      type: select_one
+      options:
+      - Agree
+      - Disagree
       - Neutral
       required: false
     - id: 5
-      name: customer_satisfaction
-      label: customer satisfaction
-      hint: null
+      name: storage_commissioner
+      label: Storage Commissioner
+      hint: Who is responsible for your jewelry box?
       type: select_multiple
       options:
-      - Satisfied
-      - Not Satisfied
-      - Neutral
+      - Box
+      - Closet
+      - Other
       required: false
     - id: 6
-      name: product_teams
-      label: product teams
-      hint: null
-      type: select_one
+      name: other_issues
+      label: Other Issues
+      hint: Have you noticed any other issues with the jewelry box?
+      type: checkbox
       options:
-      - Agree
-      - Disagree
-      - Neutral
+      - Option A
+      - Option B
       required: false
     - id: 7
-      name: storage_commissioner
-      label: storage commissioner
-      hint: null
-      type: select_multiple
-      options:
-      - Agree
-      - Disagree
-      - Neutral
+      name: design
+      label: Design
+      hint: How would you rate the design of the jewelry box?
+      type: number
+      options: []
       required: false
     - id: 8
-      name: storage_habits_2
-      label: storage habits
-      hint: null
-      type: select_one
-      options:
-      - Box
-      - Closet
-      - Other
-      required: false
-    - id: 9
-      name: protection_features_2
-      label: protection features
-      hint: null
-      type: select_multiple
-      options:
-      - Secure
-      - Water resistant
-      - Other
-      required: false
-    - id: 10
-      name: customer_satisfaction_2
-      label: customer satisfaction
-      hint: null
-      type: select_one
-      options:
-      - Satisfied
-      - Not Satisfied
-      - Neutral
-      required: false
-    - id: 11
-      name: customer_satisfaction_2
-      label: customer satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Satisfied
-      - Not Satisfied
-      - Neutral
-      required: false
-    - id: 12
-      name: product_teams_2
-      label: product teams
-      hint: null
-      type: select_one
-      options:
-      - Agree
-      - Disagree
-      - Neutral
-      required: false
-    - id: 13
-      name: storage_commissioner_2
-      label: storage commissioner
-      hint: null
-      type: select_multiple
-      options:
-      - Agree
-      - Disagree
-      - Neutral
-      required: false
-    - id: 14
-      name: storage_habits_3
-      label: storage habits
-      hint: null
-      type: select_multiple
-      options:
-      - Box
-      - Closet
-      - Other
-      required: false
-    - id: 15
-      name: protection_features_3
-      label: protection features
-      hint: null
-      type: select_one
-      options:
-      - Secure
-      - Water resistant
-      - Other
-      required: false
-    - id: 16
-      name: customer_satisfaction_3
-      label: customer satisfaction
-      hint: null
-      type: select_one
-      options:
-      - Satisfied
-      - Not Satisfied
-      - Neutral
-      required: false
-    - id: 17
-      name: product_teams_3
-      label: product teams
-      hint: null
-      type: select_one
-      options:
-      - Agree
-      - Disagree
-      - Neutral
-      required: false
-    - id: 18
-      name: storage_commissioner_3
-      label: storage commissioner
-      hint: null
-      type: select_multiple
-      options:
-      - Agree
-      - Disagree
-      - Neutral
-      required: false
-    - id: 19
-      name: storage_habits_4
-      label: storage habits
-      hint: null
-      type: select_one
-      options:
-      - Box
-      - Closet
-      - Other
-      required: false
-    - id: 20
-      name: protection_features_4
-      label: protection features
-      hint: null
-      type: select_multiple
-      options:
-      - Secure
-      - Water resistant
-      - Other
-      required: false
-    - id: 21
-      name: customer_satisfaction_4
-      label: customer satisfaction
-      hint: null
-      type: select_one
-      options:
-      - Satisfied
-      - Not Satisfied
-      - Neutral
-      required: false
-    - id: 22
-      name: product_teams_4
-      label: product teams
-      hint: null
-      type: select_one
-      options:
-      - Agree
-      - Disagree
-      - Neutral
-      required: false
-    - id: 23
-      name: storage_commissioner_4
-      label: storage commissioner
-      hint: null
-      type: select_multiple
-      options:
-      - Agree
-      - Disagree
-      - Neutral
-      required: false
-    - id: 24
-      name: storage_habits_5
-      label: storage habits
-      hint: null
-      type: select_one
-      options:
-      - Box
-      - Closet
-      - Other
-      required: false
-    - id: 25
-      name: protection_features_5
-      label: protection features
-      hint: null
-      type: select_multiple
-      options:
-      - Secure
-      - Water resistant
-      - Other
+      name: value_for_money
+      label: Value for Money
+      hint: How would you rate the value for money of the jewelry box?
+      type: number
+      options: []
       required: false

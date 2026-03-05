@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Spa''}'
-      - '{''id'': 2, ''name'': ''Other''}'
-      - '{''id'': 3, ''name'': ''Unspecified''}'
+      - Spa
+      - Other
+      - Unspecified
       required: true
     - id: 3
       name: incident_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Injury''}'
-      - '{''id'': 2, ''name'': ''Illness''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Injury
+      - Illness
+      - Other
       required: true
     - id: 4
       name: description
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Done''}'
-      - '{''id'': 2, ''name'': ''Not Done''}'
-      - '{''id'': 3, ''name'': ''Not Applicable''}'
+      - Done
+      - Not Done
+      - Not Applicable
       required: false
     - id: 15
       name: internal_notes

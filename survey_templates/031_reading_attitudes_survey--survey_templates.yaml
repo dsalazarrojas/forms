@@ -20,287 +20,169 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: student_id
-      label: Student Id
+      label: Student ID
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: reading_frequency
-      label: How often do you read
+      name: reading_frequency_leisure
+      label: How often do you read for leisure?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 4
-      name: reading_frequency_2
-      label: How often do you read
+      name: reading_frequency_education
+      label: How often do you read for education or personal development?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 5
-      name: reading_frequency_3
-      label: How often do you read
+      name: reading_frequency_work
+      label: How often do you read for work or professional purposes?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 6
-      name: reading_frequency_4
-      label: How often do you read
+      name: reading_frequency_challenging_opinions
+      label: How often do you read books or articles that challenge your opinions
+        or worldviews?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: true
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
     - id: 7
-      name: reading_frequency_5
-      label: How often do you read
+      name: reading_frequency_other_media
+      label: How often do you engage in other forms of media (e.g., listening to podcasts,
+        watching documentaries, or videos)?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: true
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
     - id: 8
-      name: reading_frequency_6
-      label: How often do you read
+      name: reading_frequency_discussion
+      label: How often do you share or discuss what you have read with others?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
-      name: reading_frequency_7
-      label: How often do you read
+      name: reading_frequency_fiction
+      label: How often do you read fiction for pleasure?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
-      name: reading_frequency_8
-      label: How often do you read
+      name: reading_frequency_nonfiction
+      label: How often do you read non-fiction for pleasure?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
-      name: reading_frequency_9
-      label: How often do you read
+      name: reading_frequency_selfhelp
+      label: How often do you read self-help or motivational books?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
-      name: reading_frequency_10
-      label: How often do you read
+      name: reading_frequency_politics
+      label: How often do you read books or articles on politics or social issues?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
-      name: reading_frequency_11
-      label: How often do you read
+      name: reading_frequency_reviews
+      label: How often do you read online reviews or ratings of products or services?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 14
-      name: reading_frequency_12
-      label: How often do you read
+      name: reading_frequency_audiobooks
+      label: How often do you read or listen to audiobooks or podcasts?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 15
-      name: reading_frequency_13
-      label: How often do you read
+      name: reading_frequency_other
+      label: Other (please specify)
       hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      type: text
+      options: []
       required: false
     - id: 16
-      name: reading_frequency_14
-      label: How often do you read
+      name: reading_frequency_frequency
+      label: How often do you read on a typical day?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 17
-      name: reading_frequency_15
-      label: How often do you read
+      name: reading_frequency_duration
+      label: How long do you typically read in a single sitting?
       hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      type: number
+      options: []
       required: false
     - id: 18
-      name: reading_frequency_16
-      label: How often do you read
+      name: reading_frequency_purpose
+      label: What do you usually read for?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: false
-    - id: 19
-      name: reading_frequency_17
-      label: How often do you read
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: false
-    - id: 20
-      name: reading_frequency_18
-      label: How often do you read
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: false
-    - id: 21
-      name: reading_frequency_19
-      label: How often do you read
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: false
-    - id: 22
-      name: reading_frequency_20
-      label: How often do you read
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: false
-    - id: 23
-      name: reading_frequency_21
-      label: How often do you read
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: false
-    - id: 24
-      name: reading_frequency_22
-      label: How often do you read
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: false
-    - id: 25
-      name: reading_frequency_23
-      label: How often do you read
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - For leisure
+      - For education or personal development
+      - For work or professional purposes
+      - For self-improvement
+      - For other (please specify)
       required: false

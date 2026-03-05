@@ -1,93 +1,82 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Oral Skills Assessment Form
     pages:
     - id: 1
-      name: rating_1
-      label: pronunciation
+      name: pronunciation
+      label: Pronunciation
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: rating_2
-      label: fluency
+      name: fluency
+      label: Fluency
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: rating_3
-      label: vocabulary
+      name: interaction
+      label: Interaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: interaction_2
+      label: Interaction 2
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: comprehension
+      label: Comprehension
       hint: null
       type: text
       options: []
       required: false
-    - id: 4
-      name: interaction_1
-      label: interaction
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
-      required: false
-    - id: 5
-      name: interaction_2
-      label: interaction
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
-      required: false
     - id: 6
-      name: rating_4
-      label: comprehension
+      name: vocabulary
+      label: Vocabulary
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: rating_5
-      label: comprehension
+      name: note
+      label: Note
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 8
-      name: rating_6
-      label: vocabulary_2
+      name: vocabulary_2
+      label: Vocabulary_2
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: rating_7
-      label: vocabulary_2
+      name: vocabulary_3
+      label: Vocabulary_3
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: rating_8
-      label: vocabulary_3
+      name: extra_question
+      label: Extra question
       hint: null
       type: text
       options: []

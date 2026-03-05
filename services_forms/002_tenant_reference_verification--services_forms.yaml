@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Friend''}'
-      - '{''id'': 2, ''label'': ''Family''}'
-      - '{''id'': 3, ''label'': ''Coworker''}'
+      - Friend
+      - Family
+      - Coworker
       required: false
     - id: 4
       name: tenant_reference_verification_question_4
@@ -33,12 +33,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Outgoing''}'
-      - '{''id'': 2, ''label'': ''Reserved''}'
-      - '{''id'': 3, ''label'': ''Assertive''}'
-      - '{''id'': 4, ''label'': ''Calm''}'
-      - '{''id'': 5, ''label'': ''Adventurous''}'
-      - '{''id'': 6, ''label'': ''Diplomatic''}'
+      - Outgoing
+      - Reserved
+      - Assertive
+      - Calm
+      - Adventurous
+      - Diplomatic
       required: false
     - id: 5
       name: tenant_reference_verification_question_5
@@ -46,10 +46,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Timely''}'
-      - '{''id'': 2, ''label'': ''Unpredictable''}'
-      - '{''id'': 3, ''label'': ''Unreliable''}'
-      - '{''id'': 4, ''label'': ''Punctual''}'
+      - Timely
+      - Unpredictable
+      - Unreliable
+      - Punctual
       required: false
     - id: 6
       name: tenant_reference_verification_question_6
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: tenant_reference_verification_question_10
@@ -87,6 +87,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false

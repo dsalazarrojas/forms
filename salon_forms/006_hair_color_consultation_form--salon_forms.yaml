@@ -45,8 +45,6 @@ inputSchema:
       - Thick
       - Thin
       - Very
-      - Very
-      - Thick
       required: true
     - id: 4
       name: hair_condition
@@ -58,7 +56,6 @@ inputSchema:
       - Dry
       - Oily
       - Damaged
-      - Normal
       - Curly
       - Wiry
       - Curled
@@ -74,9 +71,6 @@ inputSchema:
       - Coarse
       - Normal
       - Very
-      - Very
-      - Very
-      - Fine
       required: true
     - id: 6
       name: hair_density
@@ -89,9 +83,6 @@ inputSchema:
       - Coarse
       - Normal
       - Very
-      - Very
-      - Very
-      - Fine
       required: true
     - id: 7
       name: face_shape
@@ -104,9 +95,6 @@ inputSchema:
       - Square
       - Heart
       - Triangular
-      - Triangular
-      - Square
-      - Oval
       required: true
     - id: 8
       name: skin_tone
@@ -119,9 +107,6 @@ inputSchema:
       - Tan
       - Dark
       - Very
-      - Very
-      - Very
-      - Dark
       required: true
     - id: 9
       name: hair_hue
@@ -134,13 +119,11 @@ inputSchema:
       - Cool
       - Neutral
       - Deep
-      - Cool
       - Very
-      - Neutral
       required: true
     - id: 10
       name: face_shape_2
-      label: Select Face Shape
+      label: Face Shape 2
       hint: null
       type: select_one
       options:
@@ -149,13 +132,10 @@ inputSchema:
       - Square
       - Heart
       - Triangular
-      - Triangular
-      - Square
-      - Oval
       required: false
     - id: 11
       name: skin_tone_2
-      label: Select Skin Tone
+      label: Skin Tone 2
       hint: null
       type: select_one
       options:
@@ -164,13 +144,10 @@ inputSchema:
       - Tan
       - Dark
       - Very
-      - Very
-      - Very
-      - Dark
       required: false
     - id: 12
       name: hair_hue_2
-      label: Select Your Desired Hair Hue
+      label: Hair Hue 2
       hint: null
       type: select_one
       options:
@@ -179,9 +156,7 @@ inputSchema:
       - Cool
       - Neutral
       - Deep
-      - Cool
       - Very
-      - Neutral
       required: false
     - id: 13
       name: notes
@@ -257,9 +232,6 @@ inputSchema:
       - Jane
       - John
       - Doe
-      - Doe
-      - Jane
-      - John
       required: true
     - id: 23
       name: services
@@ -272,13 +244,10 @@ inputSchema:
       - Color
       - Trim
       - Style
-      - Trim
-      - Style
-      - Consultation
       required: true
     - id: 24
       name: hair_length_2
-      label: Select Hair Length
+      label: Hair Length 2
       hint: null
       type: select_one
       options:
@@ -291,7 +260,7 @@ inputSchema:
       required: false
     - id: 25
       name: hair_condition_2
-      label: Select Hair Condition
+      label: Hair Condition 2
       hint: null
       type: select_one
       options:
@@ -299,7 +268,6 @@ inputSchema:
       - Dry
       - Oily
       - Damaged
-      - Normal
       - Curly
       - Wiry
       - Curled

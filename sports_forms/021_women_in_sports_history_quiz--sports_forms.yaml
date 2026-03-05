@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''title'': ''Serena Williams''}'
-      - '{''title'': ''Maria Sharapova''}'
-      - '{''title'': ''Martina Navratilova''}'
-      - '{''title'': ''Naomi Osaka''}'
+      - Serena Williams
+      - Maria Sharapova
+      - Martina Navratilova
+      - Naomi Osaka
       required: true
     - id: 6
       name: favorite_sport
@@ -48,11 +48,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''title'': ''Tennis''}'
-      - '{''title'': ''Basketball''}'
-      - '{''title'': ''Football''}'
-      - '{''title'': ''Baseball''}'
-      - '{''title'': ''Volleyball''}'
+      - Tennis
+      - Basketball
+      - Football
+      - Baseball
+      - Volleyball
       required: false
     - id: 7
       name: sport_participated
@@ -60,12 +60,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''title'': ''Tennis''}'
-      - '{''title'': ''Basketball''}'
-      - '{''title'': ''Football''}'
-      - '{''title'': ''Baseball''}'
-      - '{''title'': ''Volleyball''}'
-      - '{''title'': ''Golf''}'
+      - Tennis
+      - Basketball
+      - Football
+      - Baseball
+      - Volleyball
+      - Golf
       required: true
     - id: 8
       name: score

@@ -156,8 +156,8 @@ inputSchema:
       hint: Health screening
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 21
       name: symptom_list
@@ -182,8 +182,8 @@ inputSchema:
       hint: Exposure screening
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       - Not sure
       required: true
     - id: 23
@@ -192,8 +192,8 @@ inputSchema:
       hint: Travel history
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 24
       name: mask_worn
@@ -201,8 +201,8 @@ inputSchema:
       hint: Mask compliance
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Medical exemption
       required: true
     - id: 25
@@ -211,8 +211,8 @@ inputSchema:
       hint: Hand hygiene
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 26
       name: host_name

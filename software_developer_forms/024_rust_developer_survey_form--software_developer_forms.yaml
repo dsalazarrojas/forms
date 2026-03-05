@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Less than 6 months''}'
-      - '{''label'': ''6-12 months''}'
-      - '{''label'': ''1-2 years''}'
-      - '{''label'': ''More than 2 years''}'
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - More than 2 years
       required: false
     - id: 3
       name: satisfaction
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Satisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Dissatisfied''}'
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 4
       name: teams
@@ -45,10 +45,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Rust Project''}'
-      - '{''label'': ''Rust Community Forum''}'
-      - '{''label'': ''Reddit (r/rust)''}'
-      - '{''label'': ''Other (specify)''}'
+      - Rust Project
+      - Rust Community Forum
+      - Reddit (r/rust)
+      - Other (specify)
       required: false
     - id: 6
       name: research
@@ -98,6 +98,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I agree''}'
-      - '{''label'': ''I disagree''}'
+      - I agree
+      - I disagree
       required: true

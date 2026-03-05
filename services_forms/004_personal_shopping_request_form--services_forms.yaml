@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Clothing''}'
-      - '{''value'': ''Accessories''}'
-      - '{''value'': ''Shoes''}'
-      - '{''value'': ''Other''}'
+      - Clothing
+      - Accessories
+      - Shoes
+      - Other
       required: false
     - id: 10
       name: product_size
@@ -76,10 +76,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Small''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Large''}'
-      - '{''value'': ''X-Large''}'
+      - Small
+      - Medium
+      - Large
+      - X-Large
       required: false
     - id: 11
       name: product_color
@@ -87,10 +87,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Red''}'
-      - '{''value'': ''Blue''}'
-      - '{''value'': ''Green''}'
-      - '{''value'': ''Yellow''}'
+      - Red
+      - Blue
+      - Green
+      - Yellow
       required: false
     - id: 12
       name: product_color
@@ -168,9 +168,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''FedEx''}'
-      - '{''value'': ''USPS''}'
-      - '{''value'': ''UPS''}'
+      - FedEx
+      - USPS
+      - UPS
       required: false
     - id: 23
       name: shipping_method
@@ -178,8 +178,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Free Shipping''}'
-      - '{''value'': ''Paid Shipping''}'
+      - Free Shipping
+      - Paid Shipping
       required: false
     - id: 24
       name: payment_method
@@ -187,7 +187,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Credit Card''}'
-      - '{''value'': ''Bank Transfer''}'
-      - '{''value'': ''Cash''}'
+      - Credit Card
+      - Bank Transfer
+      - Cash
       required: false

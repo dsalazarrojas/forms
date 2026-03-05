@@ -16,35 +16,32 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: Survey Questions
+      label: Favorite Nail Polish Color
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Pastel Pink
+      - Deep Red
+      - Sparkly Purple
+      - Minty Fresh
+      - Neutral Beige
+      - Other (please specify)
       required: false
     - id: 2
       name: page_2
-      label: Nail Polish Colors
-      hint: Select all that apply
+      label: Nail Polish Brand
+      hint: null
       type: select_multiple
       options:
-      - Pink
-      - Red
-      - Purple
-      - White
-      - Brown
-      - Blue
-      - Other
+      - Sally Hansen
+      - OPI
+      - Essie
+      - China Glaze
+      - Other (please specify)
       required: false
     - id: 3
       name: page_3
-      label: Nail Polish Brands
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: page_4
-      label: Nail Polish Price Range
+      label: Nail Polish Budget
       hint: null
       type: select_one
       options:
@@ -53,41 +50,75 @@ inputSchema:
       - $41 - $60
       - More than $60
       required: false
-    - id: 5
-      name: page_5
-      label: Nail Polish Brands
-      hint: null
-      type: select_multiple
-      options:
-      - Sally Hansen
-      - OPI
-      - Essie
-      - China Glaze
-      - Deborah Lippman
-      - Other
-      required: false
-    - id: 6
-      name: page_6
-      label: Nail Polish Price Range
-      hint: Select only one option
-      type: select_one
-      options:
-      - $10 - $20
-      - $21 - $40
-      - $41 - $60
-      - More than $60
-      required: false
-    - id: 7
-      name: page_7
-      label: Nail Polish Brands
+    - id: 4
+      name: page_4
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
+    - id: 5
+      name: page_5
+      label: How Often Do You Get Your Nails Done
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
+      - Never
+      required: false
+    - id: 6
+      name: page_6
+      label: How Often Do You Buy Nail Polish
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 7
+      name: page_7
+      label: Finish Preference
+      hint: null
+      type: select_one
+      options:
+      - Matte
+      - Glossy
+      - Neither
+      required: false
     - id: 8
       name: page_8
-      label: Additional Comments
+      label: Importance of Chemical-Free Polish
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Not Very Important
+      - Not at All Important
+      required: false
+    - id: 9
+      name: page_9
+      label: Purchase Preference
+      hint: null
+      type: select_one
+      options:
+      - In Store
+      - Online
+      - Both
+      required: false
+    - id: 10
+      name: page_10
+      label: Number of Bottles at Home
+      hint: null
+      type: select_one
+      options:
+      - Less than 5
+      - 5-10
+      - 11-20
+      - More than 20
       required: false

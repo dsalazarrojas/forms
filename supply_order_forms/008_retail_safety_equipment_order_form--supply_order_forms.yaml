@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Company'', ''value'': ''Company''}'
-      - '{''id'': 2, ''label'': ''Individual'', ''value'': ''Individual''}'
+      - Company
+      - Individual
       required: true
     - id: 3
       name: delivery_preferences
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Standard'', ''value'': ''Standard''}'
-      - '{''id'': 2, ''label'': ''Expedited'', ''value'': ''Expedited''}'
-      - '{''id'': 3, ''label'': ''Express'', ''value'': ''Express''}'
+      - Standard
+      - Expedited
+      - Express
       required: true
     - id: 4
       name: purchasing_details

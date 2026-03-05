@@ -6,181 +6,88 @@ inputSchema:
     - id: 1
       name: introduction_page
       label: Introduction
-      hint: null
+      hint: Please share your experience with our private jet grooming service.
       type: note
       options: []
       required: false
     - id: 2
       name: cleanliness_ratings
-      label: CleanlinessRatings
-      hint: null
-      type: select_multiple
+      label: Cleanliness Ratings
+      hint: Rate the cleanliness of our private jet.
+      type: select_one
       options:
       - Good
       - Fair
       required: true
     - id: 3
-      name: cleanliness_ratings_2
-      label: CleanlinessRatings2
-      hint: null
+      name: cleanliness_score
+      label: Cleanliness Score
+      hint: Rate the cleanliness of our private jet on a scale of 1-10.
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter your email address for us to contact you.
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: Share your thoughts about our service.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: Enter your name for verification purposes.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: confirm_cleanliness_ratings
+      label: Confirm Cleanliness Ratings
+      hint: Confirm your cleanliness ratings above.
       type: select_one
       options:
       - Good
       - Fair
-      required: false
-    - id: 4
-      name: grooming_services
-      label: GroomingServices
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: cleanliness_score
-      label: CleanlinessScore
-      hint: null
+      required: true
+    - id: 8
+      name: confirm_cleanliness_score
+      label: Confirm Cleanliness Score
+      hint: Confirm the cleanliness score you provided above.
       type: number
       options: []
       required: true
-    - id: 6
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 8
-      name: comments_2
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 9
-      name: submit_button
-      label: Submit
-      hint: null
+      name: additional_comments
+      label: Additional Comments
+      hint: Share any additional comments or concerns.
       type: text
       options: []
       required: false
     - id: 10
-      name: name
-      label: Name
-      hint: null
+      name: submit_button
+      label: Submit
+      hint: Complete the feedback form.
       type: text
       options: []
       required: false
     - id: 11
-      name: email_2
-      label: Email
-      hint: null
-      type: email
+      name: final_comments
+      label: Final Comments
+      hint: Leave any final comments or suggestions.
+      type: text
       options: []
       required: false
     - id: 12
-      name: comments_3
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: comments_4
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: comments_5
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: comments_6
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: comments_7
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: comments_8
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: comments_9
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: comments_10
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: comments_11
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: comments_12
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: comments_13
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: comments_14
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: comments_15
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: comments_16
-      label: Comments
-      hint: null
-      type: text
+      name: repeat_name_and_email
+      label: Confirm Your Information
+      hint: Confirm your name and email address.
+      type: note
       options: []
       required: false

@@ -72,10 +72,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Windows''}'
-      - '{''id'': 2, ''label'': ''macOS''}'
-      - '{''id'': 3, ''label'': ''Linux''}'
-      - '{''id'': 4, ''label'': ''Unknown''}'
+      - Windows
+      - macOS
+      - Linux
+      - Unknown
       required: false
     - id: 11
       name: operating_system_other
@@ -97,10 +97,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Early Access''}'
-      - '{''id'': 2, ''label'': ''Limited Access''}'
-      - '{''id'': 3, ''label'': ''Closed Beta''}'
-      - '{''id'': 4, ''label'': ''Public Access''}'
+      - Early Access
+      - Limited Access
+      - Closed Beta
+      - Public Access
       required: false
     - id: 14
       name: beta_access_details
@@ -122,8 +122,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: agree_terms_details
@@ -134,14 +134,14 @@ inputSchema:
       required: false
     - id: 18
       name: comments_comments
-      label: Comments
+      label: Comments Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 19
       name: contact_number_details
-      label: Contact Number
+      label: Contact Number Details
       hint: null
       type: text
       options: []
@@ -152,8 +152,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: beta_group_details
@@ -182,12 +182,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: comments_confirmation
-      label: Comments
+      label: Comments Confirmation
       hint: null
       type: text
       options: []

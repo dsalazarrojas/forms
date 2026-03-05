@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 3.1, ''label'': ''Male''}'
-      - '{''id'': 3.2, ''label'': ''Female''}'
-      - '{''id'': 3.3, ''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 4
       name: patient_context
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 7.1, ''label'': ''Podiatrist''}'
-      - '{''id'': 7.2, ''label'': ''Orthotist''}'
-      - '{''id'': 7.3, ''label'': ''Other''}'
+      - Podiatrist
+      - Orthotist
+      - Other
       required: false
     - id: 8
       name: orthotic_device_type
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 8.1, ''label'': ''AFO''}'
-      - '{''id'': 8.2, ''label'': ''K-Orthosis''}'
-      - '{''id'': 8.3, ''label'': ''Other''}'
+      - AFO
+      - K-Orthosis
+      - Other
       required: false
     - id: 9
       name: prescription_date
@@ -88,8 +88,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 11.1, ''label'': ''Review Required''}'
-      - '{''id'': 11.2, ''label'': ''Not Review Required''}'
+      - Review Required
+      - Not Review Required
       required: false
     - id: 12
       name: review_comments

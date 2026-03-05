@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 11, ''label'': ''Pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: false
     - id: 12
       name: project_type
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Grazing''}'
-      - '{''id'': 2, ''label'': ''Haymaking''}'
-      - '{''id'': 3, ''label'': ''Harvesting''}'
+      - Grazing
+      - Haymaking
+      - Harvesting
       required: false
     - id: 13
       name: grazing_method
@@ -99,8 +99,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Strip Grazing''}'
-      - '{''id'': 2, ''label'': ''Mob Grazing''}'
+      - Strip Grazing
+      - Mob Grazing
       required: false
     - id: 14
       name: project_leads

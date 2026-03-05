@@ -194,7 +194,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, if available
-      - false
+      - 'False'
       - Will arrive early
       required: false
     - id: 23
@@ -204,7 +204,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, if available
-      - false
+      - 'False'
       required: false
     - id: 24
       name: transportation_needed
@@ -215,7 +215,7 @@ inputSchema:
       - Yes, airport pickup
       - Yes, airport dropoff
       - Yes, both
-      - false
+      - 'False'
       required: false
     - id: 25
       name: package_preference
@@ -276,8 +276,8 @@ inputSchema:
       hint: Are you a member of our loyalty program
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Want to join
       required: true
     - id: 30

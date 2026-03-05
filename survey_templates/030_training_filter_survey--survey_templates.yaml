@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''CEO''}'
-      - '{''label'': ''Manager''}'
-      - '{''label'': ''Employee''}'
-      - '{''label'': ''None''}'
+      - CEO
+      - Manager
+      - Employee
+      - None
       required: false
     - id: 3
       name: form_questions_2
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Less than 1 year''}'
-      - '{''label'': ''1-3 years''}'
-      - '{''label'': ''3-5 years''}'
-      - '{''label'': ''More than 5 years''}'
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - More than 5 years
       required: false
     - id: 4
       name: form_questions_3
@@ -38,11 +38,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Dissatisfied''}'
-      - '{''label'': ''Somewhat Dissatisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Very Satisfied''}'
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
       required: false
     - id: 5
       name: form_questions_4
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: form_questions_6

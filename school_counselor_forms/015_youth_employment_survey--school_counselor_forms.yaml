@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
-      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
-      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 3
       name: program_name
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: employment_type
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Part-time'', ''value'': ''Part-time''}'
-      - '{''label'': ''Full-time'', ''value'': ''Full-time''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - Part-time
+      - Full-time
+      - Other
       required: false
     - id: 8
       name: work_hours
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Part-time'', ''value'': ''Part-time''}'
-      - '{''label'': ''Full-time'', ''value'': ''Full-time''}'
-      - '{''label'': ''Internship'', ''value'': ''Internship''}'
+      - Part-time
+      - Full-time
+      - Internship
       required: false
     - id: 12
       name: work_status_change
@@ -97,6 +97,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

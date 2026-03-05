@@ -5,166 +5,150 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
-      hint: null
+      label: Introduction
+      hint: Please read this carefully before continuing.
       type: text
       options: []
       required: false
     - id: 2
-      name: demographics
-      label: demographics
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: financial_knowledge_questions
-      label: financial_knowledge_questions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: financial_knowledge
-      label: financial_knowledge
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: financial_literacy_questions
-      label: financial_literacy_questions
-      hint: null
+      name: level_of_knowledge
+      label: Your Level of Knowledge
+      hint: Please select your level of knowledge about personal finance.
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 6
-      name: financial_literacy
-      label: financial_literacy
-      hint: null
+      - I am highly knowledgeable
+      - I have some knowledge
+      - I have little knowledge
+      required: true
+    - id: 3
+      name: financial_goals
+      label: Your Short-Term Financial Goals
+      hint: Please describe your financial goals for the next 6-12 months.
       type: text
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: financial_institutions
+      label: Financial Institution Familiarity
+      hint: Please select the financial institution(s) you are familiar with.
+      type: select_multiple
+      options:
+      - Our bank
+      - Another bank
+      - Credit union
+      - Other
+      required: true
+    - id: 5
+      name: financial_products
+      label: Financial Products and Services Used
+      hint: Please select all the financial products or services you have used in
+        the past 6-12 months.
+      type: select_multiple
+      options:
+      - Savings account
+      - Checking account
+      - Credit card
+      - Loan
+      - Investment
+      - Insurance
+      required: true
+    - id: 6
+      name: debt_management
+      label: Debt Management
+      hint: How do you currently manage your debt?
+      type: select_one
+      options:
+      - I have a clear plan
+      - I try to pay off high-interest debt first
+      - I pay off debt as it comes
+      - I don't have a plan
+      required: true
     - id: 7
-      name: financial_knowledge_level
-      label: financial_knowledge_level
-      hint: null
+      name: financial_crisis
+      label: Financial Crisis or Emergency
+      hint: Have you ever experienced a financial crisis or emergency?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: knowledge_about_investments
+      label: Knowledge about Investments and Saving Strategies
+      hint: Please rate your level of knowledge about investment and saving strategies.
       type: number
       options: []
       required: false
-    - id: 8
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 9
-      name: notes
-      label: notes
-      hint: null
-      type: text
+      name: institutional_meeting_financial_needs
+      label: Does our Financial Institution Meet Your Needs?
+      hint: Please rate how well our institution meets your financial needs.
+      type: number
       options: []
       required: false
     - id: 10
-      name: email
-      label: email
-      hint: null
-      type: email
+      name: current_financial_situation
+      label: Your Current Financial Situation
+      hint: Please rate your satisfaction with your current financial situation.
+      type: number
       options: []
       required: false
     - id: 11
-      name: phone_number
-      label: phone_number
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: submission_status
+      label: Submission Status
+      hint: Please select the status of your submission.
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
     - id: 12
-      name: date
-      label: date
-      hint: null
+      name: submission_date
+      label: Submission Date
+      hint: Please select the date of your submission.
       type: date
       options: []
       required: false
     - id: 13
-      name: time
-      label: time
-      hint: null
+      name: submission_time
+      label: Submission Time
+      hint: Please select the time of your submission.
       type: time
       options: []
       required: false
     - id: 14
-      name: notes
-      label: notes
-      hint: null
+      name: submission
+      label: Any Additional Comments
+      hint: Please provide any additional comments or feedback.
       type: text
       options: []
       required: false
     - id: 15
-      name: submission
-      label: submission
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
+      name: email
+      label: Your Email
+      hint: Please enter your email address.
+      type: email
+      options: []
+      required: true
     - id: 16
-      name: submission_date
-      label: submission_date
-      hint: null
-      type: date
+      name: phone_number
+      label: Your Phone Number
+      hint: Please enter your phone number.
+      type: text
       options: []
       required: false
     - id: 17
-      name: submission_time
-      label: submission_time
-      hint: null
-      type: time
+      name: notes
+      label: Any Notes
+      hint: Please provide any additional notes or comments.
+      type: text
       options: []
       required: false
     - id: 18
-      name: email
-      label: email
-      hint: null
+      name: email_2
+      label: Email 2
+      hint: Please enter your email address.
       type: email
-      options: []
-      required: false
-    - id: 19
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: submission_status
-      label: submission_status
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 22
-      name: submission_status_date
-      label: submission_status_date
-      hint: null
-      type: date
       options: []
       required: false

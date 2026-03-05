@@ -14,157 +14,195 @@ inputSchema:
   properties:
     title: Charity Project Funding Voting Form
     pages:
-      - id: 1
-        name: section_voter_info
-        label: -- Voter Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: voter_name
-        label: Your Name
-        hint: Full name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: voter_email
-        label: Email Address
-        hint: For voting records
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: voter_organization
-        label: Organization or Role
-        hint: Your affiliation with the funding body
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: voting_round
-        label: Voting Round
-        hint: Which funding cycle is this
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: voting_date
-        label: Date of Vote
-        hint: When are you voting
-        type: date
-        options: []
-        required: true
-      - id: 7
-        name: section_project_1
-        label: -- Project A Evaluation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: project_1_name
-        label: Project Name
-        hint: Name of first project under consideration
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: project_1_alignment
-        label: Alignment with Mission
-        hint: Does this fit our mission
-        type: select_one
-        options: ["Excellent Alignment", "Good Alignment", "Moderate Alignment", "Poor Alignment"]
-        required: true
-      - id: 10
-        name: project_1_impact
-        label: Potential Impact Score
-        hint: Rate expected impact
-        type: select_one
-        options: ["Exceptional", "High", "Moderate", "Low"]
-        required: true
-      - id: 11
-        name: project_1_feasibility
-        label: Feasibility of Implementation
-        hint: Can this be accomplished
-        type: select_one
-        options: ["Highly Feasible", "Feasible", "Somewhat Feasible", "Not Feasible"]
-        required: true
-      - id: 12
-        name: project_1_budget_rating
-        label: Budget Reasonableness
-        hint: Is the budget appropriate
-        type: select_one
-        options: ["Excellent", "Good", "Fair", "Poor"]
-        required: false
-      - id: 13
-        name: project_1_vote
-        label: Your Vote for This Project
-        hint: Fund or Do Not Fund
-        type: select_one
-        options: ["Definitely Fund", "Probably Fund", "Undecided", "Probably Not Fund", "Definitely Not Fund"]
-        required: true
-      - id: 14
-        name: section_project_2
-        label: -- Project B Evaluation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: project_2_name
-        label: Project Name
-        hint: Name of second project
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: project_2_alignment
-        label: Alignment with Mission
-        hint: Mission fit for this project
-        type: select_one
-        options: ["Excellent Alignment", "Good Alignment", "Moderate Alignment", "Poor Alignment"]
-        required: true
-      - id: 17
-        name: project_2_impact
-        label: Potential Impact Score
-        hint: Rate expected impact
-        type: select_one
-        options: ["Exceptional", "High", "Moderate", "Low"]
-        required: true
-      - id: 18
-        name: project_2_vote
-        label: Your Vote for This Project
-        hint: Fund or Do Not Fund
-        type: select_one
-        options: ["Definitely Fund", "Probably Fund", "Undecided", "Probably Not Fund", "Definitely Not Fund"]
-        required: true
-      - id: 19
-        name: section_comparison
-        label: -- Comparative Assessment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 20
-        name: highest_priority
-        label: Which Project Should Be Highest Priority
-        hint: Choose one
-        type: select_one
-        options: ["Project A", "Project B", "Equal Priority", "Neither"]
-        required: false
-      - id: 21
-        name: rationale
-        label: Rationale for Your Voting Decisions
-        hint: Explain your reasoning
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: additional_comments
-        label: Additional Comments or Concerns
-        hint: Any other feedback
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: section_voter_info
+      label: -- Voter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voter_email
+      label: Email Address
+      hint: For voting records
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: voter_organization
+      label: Organization or Role
+      hint: Your affiliation with the funding body
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: voting_round
+      label: Voting Round
+      hint: Which funding cycle is this
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: voting_date
+      label: Date of Vote
+      hint: When are you voting
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_project_1
+      label: -- Project A Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_1_name
+      label: Project Name
+      hint: Name of first project under consideration
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_1_alignment
+      label: Alignment with Mission
+      hint: Does this fit our mission
+      type: select_one
+      options:
+      - Excellent Alignment
+      - Good Alignment
+      - Moderate Alignment
+      - Poor Alignment
+      required: true
+    - id: 10
+      name: project_1_impact
+      label: Potential Impact Score
+      hint: Rate expected impact
+      type: select_one
+      options:
+      - Exceptional
+      - High
+      - Moderate
+      - Low
+      required: true
+    - id: 11
+      name: project_1_feasibility
+      label: Feasibility of Implementation
+      hint: Can this be accomplished
+      type: select_one
+      options:
+      - Highly Feasible
+      - Feasible
+      - Somewhat Feasible
+      - Not Feasible
+      required: true
+    - id: 12
+      name: project_1_budget_rating
+      label: Budget Reasonableness
+      hint: Is the budget appropriate
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: project_1_vote
+      label: Your Vote for This Project
+      hint: Fund or Do Not Fund
+      type: select_one
+      options:
+      - Definitely Fund
+      - Probably Fund
+      - Undecided
+      - Probably Not Fund
+      - Definitely Not Fund
+      required: true
+    - id: 14
+      name: section_project_2
+      label: -- Project B Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: project_2_name
+      label: Project 2 Name
+      hint: Name of second project
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: project_2_alignment
+      label: Project 2 Alignment
+      hint: Mission fit for this project
+      type: select_one
+      options:
+      - Excellent Alignment
+      - Good Alignment
+      - Moderate Alignment
+      - Poor Alignment
+      required: true
+    - id: 17
+      name: project_2_impact
+      label: Project 2 Impact
+      hint: Rate expected impact
+      type: select_one
+      options:
+      - Exceptional
+      - High
+      - Moderate
+      - Low
+      required: true
+    - id: 18
+      name: project_2_vote
+      label: Project 2 Vote
+      hint: Fund or Do Not Fund
+      type: select_one
+      options:
+      - Definitely Fund
+      - Probably Fund
+      - Undecided
+      - Probably Not Fund
+      - Definitely Not Fund
+      required: true
+    - id: 19
+      name: section_comparison
+      label: -- Comparative Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: highest_priority
+      label: Which Project Should Be Highest Priority
+      hint: Choose one
+      type: select_one
+      options:
+      - Project A
+      - Project B
+      - Equal Priority
+      - Neither
+      required: false
+    - id: 21
+      name: rationale
+      label: Rationale for Your Voting Decisions
+      hint: Explain your reasoning
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

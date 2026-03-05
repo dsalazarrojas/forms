@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Full-time Student''}'
-      - '{''id'': 2, ''label'': ''Part-time Student''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Full-time Student
+      - Part-time Student
+      - Other
       required: false
     - id: 3
       name: loan_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Federal''}'
-      - '{''id'': 2, ''label'': ''Private''}'
-      - '{''id'': 3, ''label'': ''In-Loan Default''}'
+      - Federal
+      - Private
+      - In-Loan Default
       required: false
     - id: 4
       name: loan_amount
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Standard Repayment''}'
-      - '{''id'': 2, ''label'': ''Income-Driven Repayment''}'
-      - '{''id'': 3, ''label'': ''Pay-As-You-Go''}'
+      - Standard Repayment
+      - Income-Driven Repayment
+      - Pay-As-You-Go
       required: false
     - id: 6
       name: loan_forgiveness
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Public Service Loan Forgiveness''}'
-      - '{''id'': 2, ''label'': ''Deferment''}'
-      - '{''id'': 3, ''label'': ''Forbearance''}'
+      - Public Service Loan Forgiveness
+      - Deferment
+      - Forbearance
       required: false
     - id: 7
       name: contact_info

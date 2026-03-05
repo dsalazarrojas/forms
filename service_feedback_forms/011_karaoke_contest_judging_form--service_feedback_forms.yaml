@@ -11,22 +11,22 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: song_scores
-      label: Song Scores
+      name: round_1_scores
+      label: Round 1 Scores
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: overall_score
-      label: Overall Score
+      name: round_2_scores
+      label: Round 2 Scores
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 4
-      name: comments
-      label: Comments
+      name: round_3_scores
+      label: Round 3 Scores
       hint: null
       type: text
       options: []
@@ -35,167 +35,41 @@ inputSchema:
       name: winner
       label: Winner
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''First Place''}'
-      - '{''id'': 2, ''label'': ''Second Place''}'
-      - '{''id'': 3, ''label'': ''Third Place''}'
+      type: text
+      options: []
       required: false
     - id: 6
-      name: song_scores_2
-      label: Song Scores 2
+      name: winner_contact_info
+      label: Winner Contact Info
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 7
-      name: award
-      label: Award
+      name: round_4_scores
+      label: Round 4 Scores
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Gold''}'
-      - '{''id'': 2, ''label'': ''Silver''}'
-      - '{''id'': 3, ''label'': ''Bronze''}'
+      type: text
+      options: []
       required: false
     - id: 8
-      name: email
-      label: Email
+      name: overall_score_4
+      label: Overall Score 4
       hint: null
-      type: email
+      type: number
       options: []
       required: false
     - id: 9
-      name: phone_number
-      label: Phone Number
+      name: overall_score_4_2
+      label: Overall Score 4 (2)
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 10
-      name: winner_email
-      label: Winner Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: winner_phone_number
-      label: Winner Phone Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: overall_score_2
-      label: Overall Score
+      name: overall_score_5
+      label: Overall Score 5
       hint: null
       type: number
       options: []
-      required: false
-    - id: 13
-      name: comments_2
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: song_scores_3
-      label: Song Scores 3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: winner_2
-      label: Winner
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: award_2
-      label: Award
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Gold''}'
-      - '{''id'': 2, ''label'': ''Silver''}'
-      - '{''id'': 3, ''label'': ''Bronze''}'
-      required: false
-    - id: 17
-      name: email_2
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: phone_number_2
-      label: Phone Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: winner_email_2
-      label: Winner Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: winner_phone_number_2
-      label: Winner Phone Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: overall_score_3
-      label: Overall Score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: comments_2
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: song_scores_4
-      label: Song Scores 4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: winner_3
-      label: Winner
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: award_3
-      label: Award
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

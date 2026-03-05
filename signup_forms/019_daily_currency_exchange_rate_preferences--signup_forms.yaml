@@ -4,15 +4,14 @@ inputSchema:
     title: Daily Currency Exchange Rate Preferences
     pages:
     - id: 1
-      name: subscribe_to_updates
-      label: Subscribe to updates
+      name: update_frequency
+      label: Update frequency
       hint: null
       type: select_multiple
       options:
-      - US Dollar
-      - Euro
-      - Pound
-      - Yen
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 2
       name: preferred_update_time
@@ -32,181 +31,61 @@ inputSchema:
       - Push
       required: false
     - id: 4
-      name: update_frequency
-      label: Update frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      required: false
-    - id: 5
       name: preferred_currencies
       label: Preferred currencies
       hint: null
       type: select_multiple
       options:
+      - USD
       - EUR
       - JPY
       - CNY
-      - USD
       required: false
-    - id: 6
+    - id: 5
       name: start_date
       label: Start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End date
       hint: null
       type: date
       options: []
       required: false
     - id: 7
-      name: end_date
-      label: End date
+      name: timezone
+      label: Timezone
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - UTC
+      - EST
+      - PST
       required: false
     - id: 8
-      name: timezone
-      label: Timezone
+      name: timezone_offset
+      label: Timezone offset
       hint: null
-      type: select_one
-      options:
-      - UTC
-      - EST
-      - PST
+      type: number
+      options: []
       required: false
     - id: 9
-      name: timezone_offset
-      label: Timezone offset
+      name: delivery_frequency
+      label: Delivery frequency
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 10
-      name: delivery_frequency
-      label: Delivery frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      required: false
-    - id: 11
       name: currency_update_time
       label: Currency update time
       hint: null
       type: time
-      options: []
-      required: false
-    - id: 12
-      name: timezone_offset
-      label: Timezone offset
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: timezone
-      label: Timezone
-      hint: null
-      type: select_one
-      options:
-      - UTC
-      - EST
-      - PST
-      required: false
-    - id: 14
-      name: timezone_offset
-      label: Timezone offset
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: start_date
-      label: Start date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: end_date
-      label: End date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: delivery_frequency
-      label: Delivery frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      required: false
-    - id: 18
-      name: timezone_offset
-      label: Timezone offset
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: currency_update_time
-      label: Currency update time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: timezone
-      label: Timezone
-      hint: null
-      type: select_one
-      options:
-      - UTC
-      - EST
-      - PST
-      required: false
-    - id: 21
-      name: timezone_offset
-      label: Timezone offset
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: start_date
-      label: Start date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: end_date
-      label: End date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: delivery_frequency
-      label: Delivery frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      required: false
-    - id: 25
-      name: timezone_offset
-      label: Timezone offset
-      hint: null
-      type: number
       options: []
       required: false

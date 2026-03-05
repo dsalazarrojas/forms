@@ -9,17 +9,17 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 2
       name: sponsorship_communication_form_2
-      label: Sponsor Interest
+      label: Sponsorship Interest
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: sponsorship_communication_form_3
@@ -34,8 +34,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: sponsorship_communication_form_5
@@ -46,159 +46,81 @@ inputSchema:
       required: false
     - id: 6
       name: sponsorship_communication_form_6
-      label: Sponsorship Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: sponsorship_communication_form_7
-      label: Sponsorship Communication
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: sponsorship_communication_form_8
-      label: Sponsorship Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: sponsorship_communication_form_9
       label: Sponsor Contact Info
       hint: null
       type: email
       options: []
       required: false
-    - id: 10
-      name: sponsorship_communication_form_10
+    - id: 7
+      name: sponsorship_communication_form_7
       label: Sponsorship Communication Preference
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 11
-      name: sponsorship_communication_form_11
-      label: Sponsorship Communication Frequency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: sponsorship_communication_form_12
-      label: Sponsorship Communication Method
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: sponsorship_communication_form_13
-      label: Sponsorship Interest
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: sponsorship_communication_form_14
-      label: Sponsorship Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: sponsorship_communication_form_15
-      label: Sponsorship Amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: sponsorship_communication_form_16
-      label: Sponsorship Period
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: sponsorship_communication_form_17
-      label: Sponsor Contact Info
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: sponsorship_communication_form_18
-      label: Sponsorship Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: sponsorship_communication_form_19
-      label: Sponsorship Contact Info
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: sponsorship_communication_form_20
+    - id: 8
+      name: sponsorship_communication_form_8
       label: Sponsorship Frequency
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 21
-      name: sponsorship_communication_form_21
-      label: Sponsorship Interest
+    - id: 9
+      name: sponsorship_communication_form_9
+      label: Sponsorship Method
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 22
-      name: sponsorship_communication_form_22
+    - id: 10
+      name: sponsorship_communication_form_10
       label: Sponsorship Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 23
-      name: sponsorship_communication_form_23
-      label: Sponsor Contact Info
+    - id: 11
+      name: sponsorship_communication_form_11
+      label: Sponsorship Interest 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: sponsorship_communication_form_12
+      label: Sponsor Contact Info 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 24
-      name: sponsorship_communication_form_24
-      label: Sponsorship Interest
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: sponsorship_communication_form_25
+    - id: 13
+      name: sponsorship_communication_form_13
       label: Sponsorship Communication
       hint: null
       type: note
       options: []
+      required: false
+    - id: 14
+      name: sponsorship_communication_form_14
+      label: Sponsor Contact Info 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sponsorship_communication_form_15
+      label: Sponsorship Communication Form 15
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false

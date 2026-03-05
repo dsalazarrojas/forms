@@ -95,7 +95,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I understand
-      - false
+      - 'False'
       required: true
     - id: 13
       name: injury_risks
@@ -104,7 +104,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I understand
-      - false
+      - 'False'
       required: true
     - id: 14
       name: serious_injury_risk
@@ -113,7 +113,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I understand
-      - false
+      - 'False'
       required: true
     - id: 15
       name: death_risk
@@ -122,7 +122,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I understand
-      - false
+      - 'False'
       required: true
     - id: 16
       name: medical_examination
@@ -130,8 +130,8 @@ inputSchema:
       hint: I have undergone a medical examination and am fit to compete
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: medical_clearance_date
@@ -153,8 +153,8 @@ inputSchema:
       hint: I have medical insurance coverage
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: insurance_provider
@@ -170,7 +170,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I release
-      - false
+      - 'False'
       required: true
     - id: 22
       name: assumption_of_risk
@@ -179,7 +179,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I assume
-      - false
+      - 'False'
       required: true
     - id: 23
       name: rules_compliance
@@ -188,7 +188,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I agree
-      - false
+      - 'False'
       required: true
     - id: 24
       name: referee_authority
@@ -197,7 +197,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I agree
-      - false
+      - 'False'
       required: true
     - id: 25
       name: medical_treatment_authorization
@@ -206,7 +206,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I authorize
-      - false
+      - 'False'
       required: true
     - id: 26
       name: photo_video_consent
@@ -215,7 +215,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I consent
-      - false
+      - 'False'
       required: true
     - id: 27
       name: media_usage
@@ -224,7 +224,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I agree
-      - false
+      - 'False'
       required: true
     - id: 28
       name: voluntary_participation
@@ -232,8 +232,8 @@ inputSchema:
       hint: I am participating voluntarily without coercion
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 29
       name: sobriety_confirmation
@@ -242,7 +242,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I confirm
-      - false
+      - 'False'
       required: true
     - id: 30
       name: equipment_confirmation
@@ -250,8 +250,8 @@ inputSchema:
       hint: I confirm my equipment meets safety standards
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 31
       name: participant_signature

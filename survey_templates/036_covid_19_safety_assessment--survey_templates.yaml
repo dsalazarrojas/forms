@@ -65,8 +65,8 @@ inputSchema:
       hint: Have all staff received COVID-19 safety training?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - In Progress
       required: true
     - id: 9
@@ -75,8 +75,8 @@ inputSchema:
       hint: Temperature checks or symptom questionnaires for arrivals
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Sometimes
       required: true
     - id: 10
@@ -110,6 +110,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
+      - 'True'
       - 'False'
       required: true

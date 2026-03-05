@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Novice''}'
-      - '{''value'': ''Intermediate''}'
-      - '{''value'': ''Advanced''}'
+      - Novice
+      - Intermediate
+      - Advanced
       required: false
     - id: 3
       name: time_commitment
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Online''}'
-      - '{''value'': ''In-person''}'
-      - '{''value'': ''Hybrid''}'
+      - Online
+      - In-person
+      - Hybrid
       required: false
     - id: 7
       name: classroom_environment
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''In-person''}'
-      - '{''value'': ''Online''}'
-      - '{''value'': ''Hybrid''}'
+      - In-person
+      - Online
+      - Hybrid
       required: false
     - id: 8
       name: teacher_support
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''A lot''}'
-      - '{''value'': ''A moderate amount''}'
-      - '{''value'': ''Not much''}'
+      - A lot
+      - A moderate amount
+      - Not much
       required: false
     - id: 9
       name: student_support
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''A lot''}'
-      - '{''value'': ''A moderate amount''}'
-      - '{''value'': ''Not much''}'
+      - A lot
+      - A moderate amount
+      - Not much
       required: false
     - id: 10
       name: class_size
@@ -87,11 +87,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''10-20''}'
-      - '{''value'': ''21-30''}'
-      - '{''value'': ''31-40''}'
-      - '{''value'': ''41-50''}'
-      - '{''value'': ''51 or more''}'
+      - 10-20
+      - 21-30
+      - 31-40
+      - 41-50
+      - 51 or more
       required: false
     - id: 11
       name: teacher_response_time
@@ -99,10 +99,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Immediately''}'
-      - '{''value'': ''Within a few hours''}'
-      - '{''value'': ''Within a day''}'
-      - '{''value'': ''Within a few days''}'
+      - Immediately
+      - Within a few hours
+      - Within a day
+      - Within a few days
       required: false
     - id: 12
       name: course_materials
@@ -110,10 +110,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Excellent''}'
-      - '{''value'': ''Good''}'
-      - '{''value'': ''Fair''}'
-      - '{''value'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 13
       name: class_participation
@@ -121,9 +121,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 14
       name: class_clarity
@@ -131,9 +131,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Clear''}'
-      - '{''value'': ''Fair''}'
-      - '{''value'': ''Poor''}'
+      - Clear
+      - Fair
+      - Poor
       required: false
     - id: 15
       name: student_interaction
@@ -141,9 +141,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 16
       name: student_help
@@ -151,9 +151,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Frequently''}'
-      - '{''value'': ''Occasionally''}'
-      - '{''value'': ''Rarely''}'
+      - Frequently
+      - Occasionally
+      - Rarely
       required: false
     - id: 17
       name: student_satisfaction
@@ -161,9 +161,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 18
       name: teacher_satisfaction
@@ -172,9 +172,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 19
       name: teacher_frustration
@@ -182,9 +182,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Frequently''}'
-      - '{''value'': ''Occasionally''}'
-      - '{''value'': ''Rarely''}'
+      - Frequently
+      - Occasionally
+      - Rarely
       required: false
     - id: 20
       name: student_frustration
@@ -192,9 +192,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Frequently''}'
-      - '{''value'': ''Occasionally''}'
-      - '{''value'': ''Rarely''}'
+      - Frequently
+      - Occasionally
+      - Rarely
       required: false
     - id: 21
       name: student_motivation
@@ -202,9 +202,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''The content of the course''}'
-      - '{''value'': ''The instructor''}'
-      - '{''value'': ''Both''}'
+      - The content of the course
+      - The instructor
+      - Both
       required: false
     - id: 22
       name: student_engagement
@@ -212,9 +212,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 23
       name: student_expectations
@@ -222,9 +222,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 24
       name: course_difficulty
@@ -232,7 +232,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false

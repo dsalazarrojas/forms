@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''rite_price_1'', ''label'': 1}'
-      - '{''value'': ''rite_price_2'', ''label'': 2}'
-      - '{''value'': ''rite_price_3'', ''label'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 4
       name: service_location
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''rite_location_1'', ''label'': ''One''}'
-      - '{''value'': ''rite_location_2'', ''label'': ''Two''}'
-      - '{''value'': ''rite_location_3'', ''label'': ''Three''}'
+      - One
+      - Two
+      - Three
       required: false
     - id: 5
       name: service_history
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
-      - '{''value'': ''chatjimmy2'', ''label'': ''chatjimmy2''}'
+      - chatjimmy
+      - chatjimmy2
       required: false
     - id: 10
       name: service_report_status
@@ -80,7 +80,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''service_report_status_1'', ''label'': 1}'
-      - '{''value'': ''service_report_status_2'', ''label'': 2}'
-      - '{''value'': ''service_report_status_3'', ''label'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false

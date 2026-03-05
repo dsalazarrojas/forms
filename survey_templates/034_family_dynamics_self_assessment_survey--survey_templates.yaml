@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Married''}'
-      - '{''label'': ''Single''}'
-      - '{''label'': ''Divorced''}'
-      - '{''label'': ''Separated''}'
-      - '{''label'': ''Widowed''}'
+      - Married
+      - Single
+      - Divorced
+      - Separated
+      - Widowed
       required: false
     - id: 3
       name: communication
@@ -28,11 +28,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Average''}'
-      - '{''label'': ''Bad''}'
-      - '{''label'': ''Terrible''}'
+      - Excellent
+      - Good
+      - Average
+      - Bad
+      - Terrible
       required: false
     - id: 4
       name: conflict_resolution
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Agree''}'
-      - '{''label'': ''Disagree''}'
+      - Agree
+      - Disagree
       required: false
     - id: 5
       name: roles
@@ -49,10 +49,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Father''}'
-      - '{''label'': ''Mother''}'
-      - '{''label'': ''Grandparent''}'
-      - '{''label'': ''Other''}'
+      - Father
+      - Mother
+      - Grandparent
+      - Other
       required: false
     - id: 6
       name: relationship_quality
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 8
       name: conflict_frequency
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Often''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Rarely''}'
+      - Often
+      - Sometimes
+      - Rarely
       required: false
     - id: 9
       name: conflict_intensity
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 10
       name: conflict_resolution_effect
@@ -95,8 +95,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Negative''}'
+      - Positive
+      - Negative
       required: false
     - id: 11
       name: support_system
@@ -104,8 +104,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Strong''}'
-      - '{''label'': ''Weak''}'
+      - Strong
+      - Weak
       required: false
     - id: 12
       name: conflict_resolution_method
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Discussion''}'
-      - '{''label'': ''Avoidance''}'
-      - '{''label'': ''Aggression''}'
+      - Discussion
+      - Avoidance
+      - Aggression
       required: false
     - id: 13
       name: family_support
@@ -123,8 +123,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Strong''}'
-      - '{''label'': ''Weak''}'
+      - Strong
+      - Weak
       required: false
     - id: 14
       name: support_person
@@ -132,10 +132,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Father''}'
-      - '{''label'': ''Mother''}'
-      - '{''label'': ''Friend''}'
-      - '{''label'': ''Other''}'
+      - Father
+      - Mother
+      - Friend
+      - Other
       required: false
     - id: 15
       name: conflict_effect_on_relationship
@@ -143,8 +143,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Negative''}'
+      - Positive
+      - Negative
       required: false
     - id: 16
       name: family_relationship_quality
@@ -152,10 +152,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Average''}'
-      - '{''label'': ''Bad''}'
+      - Excellent
+      - Good
+      - Average
+      - Bad
       required: false
     - id: 17
       name: support_method
@@ -163,9 +163,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Discussion''}'
-      - '{''label'': ''Avoidance''}'
-      - '{''label'': ''Aggression''}'
+      - Discussion
+      - Avoidance
+      - Aggression
       required: false
     - id: 18
       name: emotional_intelligence
@@ -180,8 +180,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 20
       name: conflict_control
@@ -189,18 +189,18 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 21
       name: conflict_frequency_control
-      label: Conflict Frequency
+      label: Conflict Frequency Control
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Often''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Rarely''}'
+      - Often
+      - Sometimes
+      - Rarely
       required: false
     - id: 22
       name: support_frequency
@@ -208,18 +208,18 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 23
       name: conflict_resolution_control
-      label: Conflict Resolution
+      label: Conflict Resolution Control
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 24
       name: communication_frequency_control
@@ -227,9 +227,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 25
       name: support_effectiveness
@@ -237,8 +237,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 26
       name: emotional_control_frequency
@@ -246,19 +246,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 27
       name: conflict_control_frequency
-      label: Conflict Control
+      label: Conflict Control Frequency
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Often''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Rarely''}'
+      - Often
+      - Sometimes
+      - Rarely
       required: false
     - id: 28
       name: conflict_effectiveness
@@ -266,8 +266,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 29
       name: support_control
@@ -275,8 +275,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 30
       name: communication_control
@@ -284,6 +284,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Low
       required: false

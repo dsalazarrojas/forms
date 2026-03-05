@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -16,189 +5,140 @@ inputSchema:
     pages:
     - id: 1
       name: intro
-      label: intro
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: hot
-      label: hot
+      name: hot_feedback
+      label: Hot Feedback
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Positive'', ''label'': ''Positive''}'
-      - '{''id'': 2, ''name'': ''Negative'', ''label'': ''Negative''}'
-      - '{''id'': 3, ''name'': ''Neutral'', ''label'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: true
     - id: 3
       name: hot_desc
-      label: how_hot
+      label: How Hot was it?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: cold
-      label: cold
+      name: cold_feedback
+      label: Cold Feedback
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Positive'', ''label'': ''Positive''}'
-      - '{''id'': 2, ''name'': ''Negative'', ''label'': ''Negative''}'
-      - '{''id'': 3, ''name'': ''Neutral'', ''label'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: true
     - id: 5
       name: cold_desc
-      label: how_cold
+      label: How Cold was it?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: action
-      label: action
+      label: Action
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Positive'', ''label'': ''Positive''}'
-      - '{''id'': 2, ''name'': ''Negative'', ''label'': ''Negative''}'
-      - '{''id'': 3, ''name'': ''Neutral'', ''label'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: false
     - id: 7
       name: action_desc
-      label: action_desc
+      label: Action Description
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: comments
-      label: comments
+      name: rating
+      label: Rating
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Bad
+      - Not Rated
+      required: true
     - id: 9
-      name: suggestions
-      label: suggestions
+      name: rating_desc
+      label: Rating Description
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: next_steps
-      label: next_steps
+      name: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: follow_up
-      label: follow_up
+      name: open_comments
+      label: Open Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: follow_up_desc
-      label: follow_up_desc
+      name: closed_comments
+      label: Closed Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: rating
-      label: rating
+      name: rating_desc_2
+      label: Rating Desc 2
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Excellent'', ''label'': ''Excellent''}'
-      - '{''id'': 2, ''name'': ''Good'', ''label'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair'', ''label'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Bad'', ''label'': ''Bad''}'
-      - '{''id'': 5, ''name'': ''Not Rated'', ''label'': ''Not Rated''}'
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 14
-      name: rating_desc
-      label: rating_desc
+      name: follow_up
+      label: Follow-up Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: open_comments
-      label: open_comments
+      name: next_steps
+      label: Next Steps
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: closed_comments
-      label: closed_comments
+      name: open_comments_desc
+      label: Open Comments Description
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: open_comments_desc
-      label: open_comments_desc
+      name: closed_comments_desc
+      label: Closed Comments Description
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: closed_comments_desc
-      label: closed_comments_desc
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: follow_up_comments
-      label: follow_up_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: follow_up_comments_desc
-      label: follow_up_comments_desc
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: follow_up_comments
-      label: follow_up_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: follow_up_comments_desc
-      label: follow_up_comments_desc
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: follow_up_comments
-      label: follow_up_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: follow_up_comments
-      label: follow_up_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: follow_up_comments_desc
-      label: follow_up_comments_desc
+      name: rating_desc_3
+      label: Rating Desc 3
       hint: null
       type: text
       options: []

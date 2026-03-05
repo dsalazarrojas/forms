@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In-person'', ''value'': ''in-person''}'
-      - '{''id'': 2, ''label'': ''Online'', ''value'': ''online''}'
+      - In-person
+      - Online
       required: false
     - id: 3
       name: time_management
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Positive'', ''value'': ''positive''}'
-      - '{''id'': 2, ''label'': ''Negative'', ''value'': ''negative''}'
+      - Positive
+      - Negative
       required: false
     - id: 5
       name: learning_styles
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Hands-on'', ''value'': ''hands-on''}'
-      - '{''id'': 2, ''label'': ''Lecture'', ''value'': ''lecture''}'
-      - '{''id'': 3, ''label'': ''Reading'', ''value'': ''reading''}'
+      - Hands-on
+      - Lecture
+      - Reading
       required: false
     - id: 6
       name: task_completion
@@ -51,10 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Complete tasks as soon as possible'', ''value'':
-        ''task-completion''}'
-      - '{''id'': 2, ''label'': ''Break tasks down into smaller tasks'', ''value'':
-        ''task-breakdown''}'
+      - Complete tasks as soon as possible
+      - Break tasks down into smaller tasks
       required: false
     - id: 7
       name: collaboration
@@ -62,8 +60,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Prefer to work alone'', ''value'': ''individual''}'
-      - '{''id'': 2, ''label'': ''Prefer to work with others'', ''value'': ''team''}'
+      - Prefer to work alone
+      - Prefer to work with others
       required: false
     - id: 8
       name: learning_speed
@@ -71,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Fast'', ''value'': ''fast''}'
-      - '{''id'': 2, ''label'': ''Average'', ''value'': ''average''}'
-      - '{''id'': 3, ''label'': ''Slow'', ''value'': ''slow''}'
+      - Fast
+      - Average
+      - Slow
       required: false
     - id: 9
       name: learning_frequency
@@ -81,11 +79,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily'', ''value'': ''daily''}'
-      - '{''id'': 2, ''label'': ''Weekly'', ''value'': ''weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly'', ''value'': ''monthly''}'
-      - '{''id'': 4, ''label'': ''Quarterly'', ''value'': ''quarterly''}'
-      - '{''id'': 5, ''label'': ''Periodically'', ''value'': ''periodic''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Periodically
       required: false
     - id: 10
       name: learning_frequency_2
@@ -93,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily'', ''value'': ''daily''}'
-      - '{''id'': 2, ''label'': ''Weekly'', ''value'': ''weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly'', ''value'': ''monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 11
       name: communication_method
@@ -103,8 +101,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In-person'', ''value'': ''in-person''}'
-      - '{''id'': 2, ''label'': ''Online'', ''value'': ''online''}'
+      - In-person
+      - Online
       required: false
     - id: 12
       name: communication_type
@@ -112,8 +110,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Synchronous'', ''value'': ''synchronous''}'
-      - '{''id'': 2, ''label'': ''Asynchronous'', ''value'': ''asynchronous''}'
+      - Synchronous
+      - Asynchronous
       required: false
     - id: 13
       name: time_preference
@@ -121,9 +119,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Morning'', ''value'': ''morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon'', ''value'': ''afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening'', ''value'': ''evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 14
       name: time_preference_2
@@ -131,9 +129,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Morning'', ''value'': ''morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon'', ''value'': ''afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening'', ''value'': ''evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 15
       name: time_preference_3
@@ -141,8 +139,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Morning'', ''value'': ''morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon'', ''value'': ''afternoon''}'
+      - Morning
+      - Afternoon
       required: false
     - id: 16
       name: feedback_method
@@ -150,8 +148,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Email'', ''value'': ''email''}'
-      - '{''id'': 2, ''label'': ''Phone'', ''value'': ''phone''}'
+      - Email
+      - Phone
       required: false
     - id: 17
       name: feedback_frequency
@@ -159,9 +157,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily'', ''value'': ''daily''}'
-      - '{''id'': 2, ''label'': ''Weekly'', ''value'': ''weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly'', ''value'': ''monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 18
       name: communication_preference
@@ -169,8 +167,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In-person'', ''value'': ''in-person''}'
-      - '{''id'': 2, ''label'': ''Online'', ''value'': ''online''}'
+      - In-person
+      - Online
       required: false
     - id: 19
       name: collaboration_method
@@ -178,8 +176,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In-person'', ''value'': ''in-person''}'
-      - '{''id'': 2, ''label'': ''Online'', ''value'': ''online''}'
+      - In-person
+      - Online
       required: false
     - id: 20
       name: collaboration_type
@@ -187,8 +185,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Synchronous'', ''value'': ''synchronous''}'
-      - '{''id'': 2, ''label'': ''Asynchronous'', ''value'': ''asynchronous''}'
+      - Synchronous
+      - Asynchronous
       required: false
     - id: 21
       name: time_management_2
@@ -196,7 +194,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Fast'', ''value'': ''fast''}'
+      - Fast
       - Other
       required: false
     - id: 22
@@ -205,8 +203,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Synchronous'', ''value'': ''synchronous''}'
-      - '{''id'': 2, ''label'': ''Asynchronous'', ''value'': ''asynchronous''}'
+      - Synchronous
+      - Asynchronous
       required: false
     - id: 23
       name: collaboration_2
@@ -214,8 +212,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In-person'', ''value'': ''in-person''}'
-      - '{''id'': 2, ''label'': ''Online'', ''value'': ''online''}'
+      - In-person
+      - Online
       required: false
     - id: 24
       name: time_management
@@ -223,9 +221,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Fast'', ''value'': ''fast''}'
-      - '{''id'': 2, ''label'': ''Average'', ''value'': ''average''}'
-      - '{''id'': 3, ''label'': ''Slow'', ''value'': ''slow''}'
+      - Fast
+      - Average
+      - Slow
       required: false
     - id: 25
       name: collaboration_3
@@ -233,8 +231,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''In-person'', ''value'': ''in-person''}'
-      - '{''id'': 2, ''label'': ''Online'', ''value'': ''online''}'
+      - In-person
+      - Online
       required: false
     - id: 26
       name: learning_preferences_2

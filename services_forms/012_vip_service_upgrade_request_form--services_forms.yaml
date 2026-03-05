@@ -16,176 +16,141 @@ inputSchema:
     pages:
     - id: 1
       name: user_info
-      label: User Info
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: vip_details
-      label: vip_details
+      name: service_request
+      label: What service are you requesting?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Advanced
       required: false
     - id: 3
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: upgrade_details
+      label: What is the reason for your service upgrade request?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: service_upgrade_request
-      label: service_upgrade_request
+      label: Do you have any additional requests for your service upgrade?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: contact_info
+      label: How would you like to be contacted?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Email
+      - Phone
       required: false
     - id: 6
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: email
+      label: Email
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 7
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: contact_method
+      label: What is your preferred contact method?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Email
+      - Phone
       required: false
     - id: 8
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: phone
+      label: Phone Number
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 9
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: date_of_birth
+      label: Date of Birth
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 10
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: time
+      label: Time
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 11
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: benefits
+      label: What benefits do you expect from your service upgrade?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: timeline
+      label: When do you need the service upgrade?
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 13
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: budget
+      label: What is your budget for the service upgrade?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 14
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: comments
+      label: Do you have any additional comments?
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: agreement
+      label: Have you read and agree to our service level agreement?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 16
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: agreement_details
+      label: What are your thoughts on our service level agreement?
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: upgrades
+      label: What services would you like to upgrade?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Basic
+      - Premium
+      - Advanced
       required: false
     - id: 18
-      name: service_upgrade_request
-      label: service_upgrade_request
+      name: submission
+      label: Is this information correct?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: service_upgrade_request
-      label: service_upgrade_request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: service_upgrade_request
-      label: service_upgrade_request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: service_upgrade_request
-      label: service_upgrade_request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: service_upgrade_request
-      label: service_upgrade_request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: service_upgrade_request
-      label: service_upgrade_request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: service_upgrade_request
-      label: service_upgrade_request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: service_upgrade_request
-      label: service_upgrade_request
-      hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - 'True'
+      - 'False'
       required: false

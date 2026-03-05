@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Survey Templates''}'
-      - '{''id'': 2, ''name'': ''Product Surveys''}'
+      - Survey Templates
+      - Product Surveys
       required: true
     - id: 2
       name: navigation_tool_usage
@@ -25,10 +25,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Very Satisfied''}'
-      - '{''id'': 2, ''name'': ''Somewhat Satisfied''}'
-      - '{''id'': 3, ''name'': ''Somewhat Dissatisfied''}'
-      - '{''id'': 4, ''name'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: true
     - id: 4
       name: feature_priorities
@@ -36,8 +36,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Navigation Bar''}'
-      - '{''id'': 2, ''name'': ''Navigation Menu''}'
+      - Navigation Bar
+      - Navigation Menu
       required: true
     - id: 5
       name: note

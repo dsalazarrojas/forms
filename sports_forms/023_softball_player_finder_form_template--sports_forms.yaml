@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''9-12''}'
-      - '{''id'': 2, ''name'': ''13-15''}'
-      - '{''id'': 3, ''name'': ''16-18''}'
+      - 9-12
+      - 13-15
+      - 16-18
       required: false
     - id: 4
       name: height
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Pitcher''}'
-      - '{''id'': 2, ''name'': ''Catcher''}'
-      - '{''id'': 3, ''name'': ''Infielder''}'
-      - '{''id'': 4, ''name'': ''Outfielder''}'
+      - Pitcher
+      - Catcher
+      - Infielder
+      - Outfielder
       required: false
     - id: 6
       name: contact_info
@@ -72,12 +72,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Monday''}'
-      - '{''id'': 2, ''name'': ''Tuesday''}'
-      - '{''id'': 3, ''name'': ''Wednesday''}'
-      - '{''id'': 4, ''name'': ''Thursday''}'
-      - '{''id'': 5, ''name'': ''Friday''}'
-      - '{''id'': 6, ''name'': ''Saturday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
       required: false
     - id: 10
       name: player_skills
@@ -99,10 +99,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''None''}'
-      - '{''id'': 2, ''name'': ''Local Team''}'
-      - '{''id'': 3, ''name'': ''Regional Team''}'
-      - '{''id'': 4, ''name'': ''National Team''}'
+      - None
+      - Local Team
+      - Regional Team
+      - National Team
       required: false
     - id: 13
       name: coach_name

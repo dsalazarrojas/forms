@@ -1,138 +1,127 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Competition Rituals Survey
     pages:
-      - id: 1
-        name: rituals_intro_header
-        label: -- Understanding Pre-Competition Routines --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: primary_sport_activity
-        label: Primary Sport or Competitive Activity
-        hint: e.g., Tennis, Chess, Gaming, Running
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: competition_frequency_rituals
-        label: How often do you participate in competitions?
-        hint: Select the most accurate frequency
-        type: select_one
-        options:
-          - Weekly
-          - Monthly
-          - A few times a year
-          - Once a year or less
-        required: true
-      - id: 4
-        name: ritual_duration
-        label: Average duration of your pre-competition routine
-        hint: From start of preparation to start of event
-        type: select_one
-        options:
-          - Less than 15 minutes
-          - 15-30 minutes
-          - 30-60 minutes
-          - 1-2 hours
-          - More than 2 hours
-        required: true
-      - id: 5
-        name: physical_rituals_select
-        label: Which physical rituals do you perform?
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Specific Warm-up / Stretching
-          - Breathing Exercises
-          - Eating a Specific Meal
-          - Wearing "Lucky" Clothing
-          - Listening to specific music
-          - Equipment Check / Cleaning
-        required: true
-      - id: 6
-        name: mental_rituals_select
-        label: Which mental rituals do you perform?
-        hint: Psychological preparation techniques
-        type: select_multiple
-        options:
-          - Visualization / Mental Rehearsal
-          - Positive Self-Talk / Affirmations
-          - Meditation / Quiet Time
-          - Studying Opponents / Game Tape
-          - Goal Setting
-        required: true
-      - id: 7
-        name: ritual_skipping_impact
-        label: How does it impact your performance if you skip your ritual?
-        hint: Perception of psychological impact
-        type: select_one
-        options:
-          - Significant negative impact
-          - Slight negative impact
-          - No impact at all
-          - Depends on the competition level
-        required: true
-      - id: 8
-        name: music_genre_ritual
-        label: If you listen to music, which genre is most effective?
-        hint: Pick one primary genre
-        type: select_one
-        options:
-          - Rock / Metal
-          - Hip Hop / Rap
-          - Electronic / EDM
-          - Classical / Calm
-          - Pop
-          - Not applicable
-        required: false
-      - id: 9
-        name: superstition_presence
-        label: Do you consider any part of your ritual to be a superstition?
-        hint: Belief in supernatural causality
-        type: select_one
-        options:
-          - Yes, definitely
-          - Somewhat
-          - No
-        required: true
-      - id: 10
-        name: ritual_success_correlation
-        label: Rate the correlation between ritual consistency and success
-        hint: 1 being low correlation, 5 being high correlation
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 11
-        name: ritual_evolution_comments
-        label: How has your ritual changed over the years?
-        hint: Briefly describe any evolution in your routine
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: survey_completion_date_rituals
-        label: Date
-        hint: Select today's date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: rituals_intro_header
+      label: -- Understanding Pre-Competition Routines --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_sport_activity
+      label: Primary Sport or Competitive Activity
+      hint: e.g., Tennis, Chess, Gaming, Running
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: competition_frequency_rituals
+      label: How often do you participate in competitions?
+      hint: Select the most accurate frequency
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - A few times a year
+      - Once a year or less
+      required: true
+    - id: 4
+      name: ritual_duration
+      label: Average duration of your pre-competition routine
+      hint: From start of preparation to start of event
+      type: select_one
+      options:
+      - Less than 15 minutes
+      - 15-30 minutes
+      - 30-60 minutes
+      - 1-2 hours
+      - More than 2 hours
+      required: true
+    - id: 5
+      name: physical_rituals_select
+      label: Which physical rituals do you perform?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Specific Warm-up / Stretching
+      - Breathing Exercises
+      - Eating a Specific Meal
+      - Wearing "Lucky" Clothing
+      - Listening to specific music
+      - Equipment Check / Cleaning
+      required: true
+    - id: 6
+      name: mental_rituals_select
+      label: Which mental rituals do you perform?
+      hint: Psychological preparation techniques
+      type: select_multiple
+      options:
+      - Visualization / Mental Rehearsal
+      - Positive Self-Talk / Affirmations
+      - Meditation / Quiet Time
+      - Studying Opponents / Game Tape
+      - Goal Setting
+      required: true
+    - id: 7
+      name: ritual_skipping_impact
+      label: How does it impact your performance if you skip your ritual?
+      hint: Perception of psychological impact
+      type: select_one
+      options:
+      - Significant negative impact
+      - Slight negative impact
+      - No impact at all
+      - Depends on the competition level
+      required: true
+    - id: 8
+      name: music_genre_ritual
+      label: If you listen to music, which genre is most effective?
+      hint: Pick one primary genre
+      type: select_one
+      options:
+      - Rock / Metal
+      - Hip Hop / Rap
+      - Electronic / EDM
+      - Classical / Calm
+      - Pop
+      - Not applicable
+      required: false
+    - id: 9
+      name: superstition_presence
+      label: Do you consider any part of your ritual to be a superstition?
+      hint: Belief in supernatural causality
+      type: select_one
+      options:
+      - Yes, definitely
+      - Somewhat
+      - 'False'
+      required: true
+    - id: 10
+      name: ritual_success_correlation
+      label: Rate the correlation between ritual consistency and success
+      hint: 1 being low correlation, 5 being high correlation
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 11
+      name: ritual_evolution_comments
+      label: How has your ritual changed over the years?
+      hint: Briefly describe any evolution in your routine
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: survey_completion_date_rituals
+      label: Date
+      hint: Select today's date
+      type: date
+      options: []
+      required: true

@@ -16,7 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
+      - Very Good
       - Good
+      - Fair
       - Poor
       required: true
     - id: 3
@@ -45,27 +47,6 @@ inputSchema:
       - Poor
       required: true
     - id: 6
-      name: store_hours
-      label: Store Hours
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
-      name: employee_knowledge
-      label: Employee Knowledge
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: employee_attention
-      label: Employee Attention
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 9
       name: resolution_speed
       label: Resolution Speed
       hint: null
@@ -76,14 +57,21 @@ inputSchema:
       - Fair
       - Poor
       required: true
-    - id: 10
-      name: communication_effectiveness
-      label: Communication Effectiveness
+    - id: 7
+      name: store_hours
+      label: Store Hours
       hint: null
-      type: number
+      type: time
       options: []
-      required: true
-    - id: 11
+      required: false
+    - id: 8
+      name: employee_knowledge
+      label: Employee Knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
       name: employee_presentation
       label: Employee Presentation
       hint: null
@@ -94,13 +82,27 @@ inputSchema:
       - Fair
       - Poor
       required: true
+    - id: 10
+      name: employee_attention
+      label: Employee Attention
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: communication_effectiveness_2
+      label: Communication Effectiveness 2
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 12
-      name: store_clarity
-      label: Store Clarity
+      name: employee_interaction_2
+      label: Employee Interaction 2
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 13
       name: customer_service
       label: Customer Service
@@ -113,19 +115,15 @@ inputSchema:
       - Poor
       required: true
     - id: 14
-      name: customer_service_improvement
-      label: Customer Service Improvement
+      name: store_facilities
+      label: Store Facilities
       hint: null
-      type: select_one
-      options:
-      - Very Good
-      - Good
-      - Fair
-      - Poor
+      type: number
+      options: []
       required: true
     - id: 15
-      name: customer_friendly
-      label: Customer Friendly
+      name: customer_service_improvement
+      label: Customer Service Improvement
       hint: null
       type: select_one
       options:
@@ -135,35 +133,24 @@ inputSchema:
       - Poor
       required: true
     - id: 16
-      name: store_facilities
-      label: Store Facilities
+      name: employee_presentation_2
+      label: Employee Presentation 2
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 17
-      name: customer_service
-      label: Customer Service
+      name: store_clarity
+      label: Store Clarity
       hint: null
-      type: select_one
-      options:
-      - Very Good
-      - Good
-      - Fair
-      - Poor
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 18
-      name: customer_service_improvement
-      label: Customer Service Improvement
-      hint: null
-      type: select_one
-      options:
-      - Very Good
-      - Good
-      - Fair
-      - Poor
-      required: false
-    - id: 19
       name: customer_friendly
       label: Customer Friendly
       hint: null
@@ -173,50 +160,11 @@ inputSchema:
       - Good
       - Fair
       - Poor
-      required: false
-    - id: 20
-      name: store_hours
-      label: Store Hours
+      required: true
+    - id: 19
+      name: store_hours_2
+      label: Store Hours 2
       hint: null
       type: time
-      options: []
-      required: false
-    - id: 21
-      name: employee_knowledge
-      label: Employee Knowledge
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: employee_presentation
-      label: Employee Presentation
-      hint: null
-      type: select_one
-      options:
-      - Very Good
-      - Good
-      - Fair
-      - Poor
-      required: false
-    - id: 23
-      name: employee_attention
-      label: Employee Attention
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 24
-      name: employee_interaction
-      label: Employee Interaction
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: employee_interaction_2
-      label: Employee Interaction 2
-      hint: null
-      type: text
       options: []
       required: false

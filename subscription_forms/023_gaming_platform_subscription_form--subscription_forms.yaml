@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''card''}'
-      - '{''label'': ''prophets''}'
+      - card
+      - prophets
       required: true
     - id: 5
       name: payment_details
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''monthly''}'
-      - '{''label'': ''yearly''}'
-      - '{''label'': ''other''}'
+      - monthly
+      - yearly
+      - other
       required: true
     - id: 7
       name: payment_amount
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''CA''}'
-      - '{''label'': ''NY''}'
-      - '{''label'': ''other''}'
+      - CA
+      - NY
+      - other
       required: true
     - id: 11
       name: zip
@@ -94,8 +94,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''US''}'
-      - '{''label'': ''other''}'
+      - US
+      - other
       required: true
     - id: 13
       name: phone_number
@@ -145,9 +145,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''weekly''}'
-      - '{''label'': ''monthly''}'
-      - '{''label'': ''other''}'
+      - weekly
+      - monthly
+      - other
       required: false
     - id: 20
       name: card_number
@@ -176,8 +176,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''card''}'
-      - '{''label'': ''prophets''}'
+      - card
+      - prophets
       required: false
     - id: 24
       name: expiration_date2

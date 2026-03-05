@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''type1''}'
-      - '{''id'': 2, ''name'': ''type2''}'
-      - '{''id'': 3, ''name'': ''type3''}'
+      - type1
+      - type2
+      - type3
       required: false
     - id: 4
       name: priority
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''new''}'
-      - '{''id'': 2, ''name'': ''in_progress''}'
-      - '{''id'': 3, ''name'': ''completed''}'
+      - new
+      - in progress
+      - completed
       required: false
     - id: 6
       name: description
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''high''}'
-      - '{''id'': 2, ''name'': ''medium''}'
-      - '{''id'': 3, ''name'': ''low''}'
+      - high
+      - medium
+      - low
       required: false
     - id: 8
       name: due_date
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''not_assigned''}'
+      - chatjimmy
+      - not assigned
       required: false
     - id: 10
       name: submit_button

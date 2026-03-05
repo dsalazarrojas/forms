@@ -15,185 +15,112 @@ inputSchema:
     title: High School Student Climate Change Awareness Survey
     pages:
     - id: 1
-      name: school_surveys_title
-      label: High School Student Climate Change Awareness Survey
-      hint: null
+      name: school_surveys_page_1
+      label: Introduction
+      hint: Please answer the questions honestly
       type: text
       options: []
       required: false
     - id: 2
-      name: school_surveys_category
-      label: Category
+      name: school_surveys_q1
+      label: What is your favorite subject in school?
       hint: null
       type: select_one
       options:
-      - School Surveys
-      - Other
+      - Mathematics
+      - Science
+      - English
+      - Arts
+      - Physical Education
       required: false
     - id: 3
-      name: school_surveys_description
-      label: Description
+      name: school_surveys_q2
+      label: Have you learned about climate change in school?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 4
-      name: school_surveys_form_id
-      label: Form ID
+      name: school_surveys_q3
+      label: Can you list three main causes of climate change?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: school_surveys_assigned_tool
-      label: Assigned Tool
+      name: school_surveys_q4
+      label: What are some effects of climate change that you've noticed in your community?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: school_surveys_output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: school_surveys_category_2
-      label: Category
+      name: school_surveys_q5
+      label: Do you think humans are responsible for climate change?
       hint: null
       type: select_one
       options:
-      - School Surveys
-      - Other
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 7
+      name: school_surveys_q6
+      label: Can you describe a personal experience related to climate change?
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 8
-      name: school_surveys_description_2
-      label: Description
+      name: school_surveys_q7
+      label: What are some ways to reduce your carbon footprint?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: school_surveys_form_id_2
-      label: Form ID
+      name: school_surveys_q8
+      label: Do you think climate change is a serious issue that requires immediate
+        action?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
       required: false
     - id: 10
-      name: school_surveys_assigned_tool_2
-      label: Assigned Tool
+      name: school_surveys_q9
+      label: Can you name one climate change-related policy or law that you think
+        is effective?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: school_surveys_output_file_2
-      label: Output File
+      name: school_surveys_q10
+      label: What are some climate change-related concerns you have for your community's
+        future?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: school_surveys_title_2
-      label: TITLE
+      name: school_surveys_q11
+      label: Can you suggest a way to educate others about climate change?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: school_surveys_category_3
-      label: CATEGORY
+      name: school_surveys_q12
+      label: Do you think climate change has impacted your daily life?
       hint: null
       type: select_one
       options:
-      - School Surveys
-      - Other
-      required: false
-    - id: 14
-      name: school_surveys_description_3
-      label: DESCRIPTION
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: school_surveys_form_id_3
-      label: FORM_ID
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: school_surveys_assigned_tool_3
-      label: ASSIGNED_TOOL
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: school_surveys_output_file_3
-      label: OUTPUT_FILE
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: school_surveys_title_3
-      label: TITLE
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: school_surveys_category_4
-      label: CATEGORY
-      hint: null
-      type: select_one
-      options:
-      - School Surveys
-      - Other
-      required: false
-    - id: 20
-      name: school_surveys_description_4
-      label: DESCRIPTION
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: school_surveys_form_id_4
-      label: FORM_ID
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: school_surveys_assigned_tool_4
-      label: ASSIGNED_TOOL
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: school_surveys_output_file_4
-      label: OUTPUT_FILE
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: school_surveys_title_4
-      label: TITLE
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: school_surveys_description_5
-      label: DESCRIPTION
-      hint: null
-      type: text
-      options: []
+      - 'True'
+      - 'False'
+      - Unsure
       required: false

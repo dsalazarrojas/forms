@@ -16,50 +16,74 @@ inputSchema:
     pages:
     - id: 1
       name: first_name
-      label: First Name
+      label: What is your first name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: last_name
-      label: Last Name
+      label: What is your last name?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: email
-      label: Email
+      label: What is your email address?
       hint: null
       type: email
       options: []
       required: false
     - id: 4
       name: favorite_color
-      label: Favorite Color
+      label: What is your favorite color?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Purple
+      - Other
       required: false
     - id: 5
       name: favorite_color_2
-      label: Favorite Color
+      label: What is your second favorite color?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Purple
+      - Other
       required: false
     - id: 6
       name: favorite_color_3
-      label: Favorite Color
+      label: What is your third favorite color?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Purple
+      - Other
       required: false
     - id: 7
       name: favorite_color_4
-      label: Favorite Color
+      label: What is your fourth favorite color?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Purple
+      - Other
       required: false

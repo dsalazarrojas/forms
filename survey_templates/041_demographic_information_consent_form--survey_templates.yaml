@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Female''}'
-      - '{''label'': ''Non-binary''}'
-      - '{''label'': ''Prefer not to answer''}'
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to answer
       required: false
     - id: 3
       name: date_of_birth
@@ -55,10 +55,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''United States''}'
-      - '{''label'': ''Canada''}'
-      - '{''label'': ''Mexico''}'
-      - '{''label'': ''Other''}'
+      - United States
+      - Canada
+      - Mexico
+      - Other
       required: false
     - id: 8
       name: participant_consent_date
@@ -73,8 +73,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: participant_consent_reason

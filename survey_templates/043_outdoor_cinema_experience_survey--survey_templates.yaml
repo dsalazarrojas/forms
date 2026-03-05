@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''1-2-3''}'
-      - '{''id'': 2, ''label'': ''4-5''}'
-      - '{''id'': 3, ''label'': ''6-7''}'
+      - 1-2-3
+      - 4-5
+      - 6-7
       required: true
     - id: 5
       name: review
@@ -49,8 +49,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: comments
@@ -93,9 +93,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: true
     - id: 13
       name: occupation
@@ -131,9 +131,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''1-2 times per month''}'
-      - '{''id'': 2, ''label'': ''1-2 times per year''}'
-      - '{''id'': 3, ''label'': ''Less than once a year''}'
+      - 1-2 times per month
+      - 1-2 times per year
+      - Less than once a year
       required: true
     - id: 18
       name: preferred_location
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - English
+      - Spanish
+      - Other
       required: true
     - id: 23
       name: preferred_subtitles
@@ -179,8 +179,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: comments

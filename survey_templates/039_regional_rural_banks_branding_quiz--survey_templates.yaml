@@ -4,180 +4,110 @@ inputSchema:
     title: Regional Rural Banks Branding Quiz
     pages:
     - id: 1
-      name: regional_rural_banks_branding_quiz_form
-      label: regional_rural_banks_branding_quiz
+      name: branding_knowledge
+      label: What is the name of our regional bank?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: branding_knowledge_test
-      label: branding_knowledge
+      name: logo_recognition
+      label: Which of the following logos are recognized as our regional bank?
       hint: null
       type: select_multiple
       options:
-      - option 1
-      - option 2
-      - option 3
+      - Our logo with a red and blue color scheme
+      - Our logo with a green and yellow color scheme
       required: false
     - id: 3
-      name: recognition_test
-      label: recognition
+      name: years_of_familiarity
+      label: How many years have you been familiar with our regional bank?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 1 year
+      - 2-5 years
+      - More than 5 years
       required: false
     - id: 4
-      name: familiarity_test
-      label: familiarity
+      name: age_group
+      label: What is your age group?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56 and above
       required: false
     - id: 5
-      name: quiz_score
-      label: quiz_score
+      name: expected_score
+      label: What is the score you think you would get out of 100 if you were to take
+        the test?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Less than 30
+      - 30-50
+      - 51-70
+      - 71-90
+      - More than 90
       required: false
     - id: 6
-      name: quiz_score_out_of
-      label: quiz_score_out_of
+      name: knowledge_of_history
+      label: How do you rate your knowledge of our regional bank's history?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Medium
+      - Low
+      - Very low
       required: false
     - id: 7
-      name: quiz_submission_date
-      label: quiz_submission_date
+      name: relationship_with_bank
+      label: Which of the following describes your relationship with our regional
+        bank?
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
       required: false
     - id: 8
-      name: quiz_submission_time
-      label: quiz_submission_time
+      name: service_offered
+      label: Which of the following services does our regional bank offer?
       hint: null
-      type: time
-      options: []
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 9
-      name: quiz_submission_comments
-      label: quiz_submission_comments
+      name: comments
+      label: What are your comments about our regional bank?
       hint: null
       type: note
       options: []
       required: false
     - id: 10
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
+      name: quiz_submission
+      label: What is your score out of 100?
       hint: null
-      type: email
+      type: number
       options: []
-      required: false
+      required: true
     - id: 11
       name: regional_rural_banks_branding_quiz_form_submitted
       label: regional_rural_banks_branding_quiz_form_submitted
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
-      hint: null
       type: email
       options: []
-      required: false
-    - id: 13
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: regional_rural_banks_branding_quiz_form_submitted
-      label: regional_rural_banks_branding_quiz_form_submitted
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

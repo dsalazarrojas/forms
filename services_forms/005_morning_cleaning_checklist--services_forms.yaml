@@ -1,186 +1,145 @@
 inputSchema:
   type: object
   properties:
-    title: morning_cleaning_checklist
+    title: Morning Cleaning Checklist
     pages:
     - id: 1
-      name: morning_cleaning_checklist_page
-      label: Morning Cleaning Checklist
+      name: morning_tasks
+      label: What are the tasks to be performed in the morning?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: daily_tasks
-      label: daily_tasks
+      label: Is this task completed daily?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: assigned_to
-      label: assigned_to
+      label: Who is assigned to perform this task?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - John Doe
+      - Jane Doe
+      - Team A
       required: false
     - id: 4
       name: start_time
-      label: start_time
+      label: What is the start time for this task?
       hint: null
       type: time
       options: []
       required: false
     - id: 5
       name: end_time
-      label: end_time
+      label: What is the end time for this task?
       hint: null
       type: time
       options: []
       required: false
     - id: 6
       name: location
-      label: location
+      label: What location is this task performed at?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: notes
-      label: notes
+      label: Are there any notes for this task?
       hint: null
       type: note
       options: []
       required: false
     - id: 8
       name: assigned_tool
-      label: assigned_tool
+      label: What tool is assigned for this task?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - Tool A
+      - Tool B
+      - Tool C
       required: false
     - id: 9
       name: created_by
-      label: created_by
+      label: Who created this task?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
       name: updated_by
-      label: updated_by
+      label: Who updated this task?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: created_at
-      label: created_at
+      label: When was this task created?
       hint: null
       type: date
       options: []
       required: false
     - id: 12
       name: updated_at
-      label: updated_at
+      label: When was this task updated?
       hint: null
       type: date
       options: []
       required: false
     - id: 13
       name: completed_at
-      label: completed_at
+      label: When was this task completed?
       hint: null
       type: date
       options: []
       required: false
     - id: 14
-      name: completed_at
-      label: completed_at
+      name: completed_by
+      label: Who completed this task?
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 15
-      name: completed_at
-      label: completed_at
+      name: assigned_to_2
+      label: Assigned To 2
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Team A
       required: false
     - id: 16
-      name: completed_at
-      label: completed_at
+      name: tool_details
+      label: What details about the tool?
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 17
-      name: completed_at
-      label: completed_at
+      name: task_status
+      label: What is the task status?
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Cancelled
       required: false
     - id: 18
-      name: completed_at
-      label: completed_at
+      name: additional_notes
+      label: Are there any additional notes?
       hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: completed_at
-      label: completed_at
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: completed_at
-      label: completed_at
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: completed_at
-      label: completed_at
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: completed_at
-      label: completed_at
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: completed_at
-      label: completed_at
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: completed_at
-      label: completed_at
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: completed_at
-      label: completed_at
-      hint: null
-      type: date
+      type: note
       options: []
       required: false

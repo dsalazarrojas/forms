@@ -25,8 +25,7 @@ inputSchema:
       hint: What do you prefer?
       type: select_multiple
       options:
-      - '[{1: None, ''label'': ''None'', ''value'': 1}, {2: None, ''label'': ''Some'',
-        ''value'': 2}, {3: None, ''label'': ''Most'', ''value'': 3}]'
+      - None
       - Other
       required: true
     - id: 4
@@ -42,10 +41,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Counselor'', ''value'': 1}'
-      - '{''label'': ''Educator'', ''value'': 2}'
-      - '{''label'': ''HR'', ''value'': 3}'
-      - '{''label'': ''Other'', ''value'': 4}'
+      - Counselor
+      - Educator
+      - HR
+      - Other
       required: true
     - id: 6
       name: additional_comments

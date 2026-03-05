@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Mindfulness Meditation''}'
-      - '{''label'': ''Journaling''}'
-      - '{''label'': ''Yoga''}'
-      - '{''label'': ''Breathwork''}'
-      - '{''label'': ''Other''}'
+      - Mindfulness Meditation
+      - Journaling
+      - Yoga
+      - Breathwork
+      - Other
       required: false
     - id: 3
       name: frequency_of_meditation
@@ -52,7 +52,7 @@ inputSchema:
       required: false
     - id: 7
       name: mindfulness_practices_other
-      label: Other (please specify)
+      label: Mindfulness Practices Other
       hint: null
       type: text
       options: []
@@ -63,12 +63,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Mind''}'
-      - '{''label'': ''Body''}'
-      - '{''label'': ''Emotions''}'
-      - '{''label'': ''Relationships''}'
-      - '{''label'': ''Work''}'
-      - '{''label'': ''Other''}'
+      - Mind
+      - Body
+      - Emotions
+      - Relationships
+      - Work
+      - Other
       required: false
     - id: 9
       name: mindfulness_reflections
@@ -125,10 +125,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Other''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Other
       required: false
     - id: 17
       name: mindfulness_refections_frequencies
@@ -136,10 +136,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Other''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Other
       required: false
     - id: 18
       name: mindfulness_self_care
@@ -164,14 +164,14 @@ inputSchema:
       required: false
     - id: 21
       name: mindfulness_practices_other_self_care
-      label: Other (please specify)
+      label: Mindfulness Practices Other Self Care
       hint: null
       type: text
       options: []
       required: false
     - id: 22
       name: mindfulness_practices_self_care_other
-      label: Other (please specify)
+      label: Mindfulness Practices Self Care Other
       hint: null
       type: text
       options: []
@@ -189,10 +189,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Other''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Other
       required: false
     - id: 25
       name: mindfulness_self_care_reflections

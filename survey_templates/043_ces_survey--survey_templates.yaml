@@ -1,124 +1,113 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Customer Effort Score (CES) Survey
     pages:
-      - id: 1
-        name: ces_survey_intro
-        label: -- We Value Your Time --
-        hint: Please help us understand how easy it was to work with us today.
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: interaction_type_ces
-        label: What type of interaction did you have today?
-        hint: null
-        type: select_one
-        options:
-          - Online Purchase
-          - Technical Support Request
-          - Billing Inquiry
-          - Product Return/Exchange
-          - General Information
-        required: true
-      - id: 3
-        name: main_ces_question
-        label: The company made it easy for me to handle my issue
-        hint: To what extent do you agree with the following statement?
-        type: select_one
-        options:
-          - 1 - Strongly Disagree
-          - 2 - Disagree
-          - 3 - Somewhat Disagree
-          - 4 - Neither Agree nor Disagree
-          - 5 - Somewhat Agree
-          - 6 - Agree
-          - 7 - Strongly Agree
-        required: true
-      - id: 4
-        name: rating_reason_ces
-        label: Why did you give this rating?
-        hint: What specifically made it easy or difficult?
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: speed_of_resolution_ces
-        label: How satisfied were you with the time it took to resolve your issue?
-        hint: null
-        type: select_one
-        options:
-          - Very Dissatisfied
-          - Dissatisfied
-          - Satisfied
-          - Very Satisfied
-        required: true
-      - id: 6
-        name: representative_helpfulness
-        label: Was the representative you spoke with helpful?
-        hint: null
-        type: select_one
-        options:
-          - Yes, very helpful
-          - Yes, somewhat
-          - No, not helpful
-          - Not Applicable (Self-service)
-        required: true
-      - id: 7
-        name: repeat_contact_check
-        label: Did you have to contact us more than once for this issue?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 8
-        name: future_improvement_suggestion
-        label: What is one thing we could do to make this process easier for you?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: follow_up_permission_ces
-        label: May we contact you to discuss your feedback further?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 10
-        name: customer_email_ces
-        label: Your Email Address
-        hint: Only used if you granted permission above.
-        type: email
-        options: []
-        required: false
-      - id: 11
-        name: interaction_date_ces
-        label: Date of Interaction
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 12
-        name: ces_survey_thank_you
-        label: -- Thank You --
-        hint: We are committed to making your experience effortless.
-        type: note
-        options: []
-        required: false
+    - id: 1
+      name: ces_survey_intro
+      label: -- We Value Your Time --
+      hint: Please help us understand how easy it was to work with us today.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: interaction_type_ces
+      label: What type of interaction did you have today?
+      hint: null
+      type: select_one
+      options:
+      - Online Purchase
+      - Technical Support Request
+      - Billing Inquiry
+      - Product Return/Exchange
+      - General Information
+      required: true
+    - id: 3
+      name: main_ces_question
+      label: The company made it easy for me to handle my issue
+      hint: To what extent do you agree with the following statement?
+      type: select_one
+      options:
+      - 1 - Strongly Disagree
+      - 2 - Disagree
+      - 3 - Somewhat Disagree
+      - 4 - Neither Agree nor Disagree
+      - 5 - Somewhat Agree
+      - 6 - Agree
+      - 7 - Strongly Agree
+      required: true
+    - id: 4
+      name: rating_reason_ces
+      label: Why did you give this rating?
+      hint: What specifically made it easy or difficult?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: speed_of_resolution_ces
+      label: How satisfied were you with the time it took to resolve your issue?
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 6
+      name: representative_helpfulness
+      label: Was the representative you spoke with helpful?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very helpful
+      - Yes, somewhat
+      - No, not helpful
+      - Not Applicable (Self-service)
+      required: true
+    - id: 7
+      name: repeat_contact_check
+      label: Did you have to contact us more than once for this issue?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: future_improvement_suggestion
+      label: What is one thing we could do to make this process easier for you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_permission_ces
+      label: May we contact you to discuss your feedback further?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: customer_email_ces
+      label: Your Email Address
+      hint: Only used if you granted permission above.
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: interaction_date_ces
+      label: Date of Interaction
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: ces_survey_thank_you
+      label: -- Thank You --
+      hint: We are committed to making your experience effortless.
+      type: note
+      options: []
+      required: false

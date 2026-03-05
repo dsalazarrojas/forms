@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''phone''}'
-      - '{''id'': 2, ''label'': ''email''}'
-      - '{''id'': 3, ''label'': ''mail''}'
+      - phone
+      - email
+      - mail
       required: true
     - id: 6
       name: phone_number
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''CA''}'
-      - '{''id'': 2, ''label'': ''NY''}'
-      - '{''id'': 3, ''label'': ''NJ''}'
+      - CA
+      - NY
+      - NJ
       required: false
     - id: 11
       name: camp_zip

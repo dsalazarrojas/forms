@@ -4,39 +4,28 @@ inputSchema:
     title: School Wellbeing Space Survey
     pages:
     - id: 1
-      name: school_survey_form
-      label: School Survey Form
-      hint: null
+      name: introduction
+      label: Introduction
+      hint: Please take a few minutes to answer this survey about our school's wellbeing
+        spaces.
       type: text
       options: []
       required: false
     - id: 2
-      name: wellbeing_spaces
-      label: Wellbeing Spaces
-      hint: null
-      type: select_multiple
-      options:
-      - School playground
-      - School hallway
-      - Library
-      - School courtyard
-      - Other (please specify)
-      required: true
-    - id: 3
       name: frequency
       label: Frequency
-      hint: null
+      hint: How often do you use our wellbeing spaces?
       type: select_one
       options:
+      - Daily
       - 1-2 times a week
       - 3-4 times a week
-      - Daily
       - Rarely
       required: true
-    - id: 4
+    - id: 3
       name: satisfaction
       label: Satisfaction
-      hint: null
+      hint: How satisfied are you with our wellbeing spaces?
       type: select_one
       options:
       - Very satisfied
@@ -45,154 +34,58 @@ inputSchema:
       - Somewhat dissatisfied
       - Very dissatisfied
       required: true
-    - id: 5
+    - id: 4
       name: improvement_areas
       label: Improvement Areas
-      hint: null
+      hint: What areas would you like to see improved in our wellbeing spaces?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - More resources
+      - More space
+      - Better facilities
+      - Other (please specify)
       required: true
-    - id: 6
+    - id: 5
       name: support_services
       label: Support Services
-      hint: null
+      hint: Do we have support services available within the wellbeing spaces?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: Any additional comments or suggestions?
+      type: note
+      options: []
+      required: false
     - id: 7
-      name: other_spaces
-      label: Other
-      hint: null
-      type: text
+      name: email
+      label: E-mail
+      hint: Your email for contact purposes
+      type: email
       options: []
       required: false
     - id: 8
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: email
-      label: E-mail
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 10
-      name: phone
-      label: Phone number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
       name: name
       label: Name
-      hint: null
+      hint: Your name
       type: text
       options: []
       required: true
-    - id: 12
-      name: email2
-      label: E-mail
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 13
-      name: name2
-      label: Name 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: name3
-      label: Name 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: phone2
-      label: Phone number 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: comments2
-      label: Comments 2
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: comments3
-      label: Comments 3
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: name4
-      label: Name 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: email3
-      label: E-mail
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: phone3
+    - id: 9
+      name: phone
       label: Phone number
-      hint: null
+      hint: Your phone number
       type: text
       options: []
       required: false
-    - id: 21
-      name: comments4
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: name5
-      label: Name 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: comments5
-      label: Comments 2
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: name6
-      label: Name 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: comments6
-      label: Comments 3
-      hint: null
+    - id: 10
+      name: other_comments
+      label: Other comments
+      hint: Any other comments or suggestions?
       type: note
       options: []
       required: false

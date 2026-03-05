@@ -4,223 +4,111 @@ inputSchema:
     title: salon_rebooking_behavior_survey
     pages:
     - id: 1
-      name: client_loyalty
-      label: client_loyalty
-      hint: null
+      name: rebooking_frequency
+      label: What is your rebooking frequency?
+      hint: Please select your rebooking frequency
       type: select_one
       options:
-      - Always rebook
-      - Rarely rebook
-      - Never rebook
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 2
-      name: rebooking_habits
-      label: rebooking_habits
-      hint: null
+      name: service_type
+      label: What type of service do you usually rebook?
+      hint: Please select the type of service you usually rebook
       type: select_multiple
       options:
-      - '{''label'': ''Always rebook''}'
-      - '{''label'': ''Rarely rebook''}'
-      - '{''label'': ''Never rebook''}'
+      - Hair cut
+      - Color treatment
+      - Chemical service
       required: false
     - id: 3
-      name: rebooking_frequency
-      label: rebooking_frequency
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 4
-      name: service_type
-      label: service_type
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Hair cut''}'
-      - '{''label'': ''Color treatment''}'
-      - '{''label'': ''Chemical service''}'
-      required: false
-    - id: 5
-      name: booking_window
-      label: booking_window
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: client_satisfaction
-      label: client_satisfaction
-      hint: null
+      name: rebooking_window
+      label: How often do you rebook your appointments?
+      hint: Please select the rebooking window
       type: select_one
       options:
-      - '{''label'': ''Very satisfied''}'
-      - '{''label'': ''Somewhat satisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat dissatisfied''}'
-      - '{''label'': ''Very dissatisfied''}'
+      - 1-2 weeks
+      - 2-4 weeks
+      - 4-6 weeks
       required: false
-    - id: 7
-      name: note
-      label: note
-      hint: null
+    - id: 4
+      name: appointment_satisfaction
+      label: How would you rate your satisfaction with your last appointment?
+      hint: Please rate your satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 5
+      name: rebooking_habits
+      label: Rebooking Habits
+      hint: Please select your rebooking habits
+      type: select_multiple
+      options:
+      - Always
+      - Rarely
+      - Never
+      required: false
+    - id: 6
+      name: rebooking_reason
+      label: Why do you rebook your appointments?
+      hint: Please provide a note about your rebooking reasons
       type: note
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: contact_info
-      label: contact_info
-      hint: null
+      label: What is your preferred contact method for rebooking?
+      hint: Please select your preferred contact method
       type: select_one
       options:
-      - email
       - phone
+      - email
+      required: false
+    - id: 8
+      name: appointment_rebooking_window
+      label: How long before your next appointment will be rebooked?
+      hint: Please select the rebooking window
+      type: select_one
+      options:
+      - 1-2 weeks
+      - 2-4 weeks
+      - 4-6 weeks
       required: false
     - id: 9
-      name: email
-      label: contact_info_email
-      hint: null
-      type: email
-      options: []
+      name: rebooking_window_unit
+      label: What unit do you use to measure your rebooking window?
+      hint: Please select the unit you use
+      type: select_one
+      options:
+      - days
+      - weeks
+      - months
       required: false
     - id: 10
-      name: phone
-      label: contact_info_phone
-      hint: null
-      type: text
+      name: note
+      label: Do you have any additional comments about your rebooking behavior?
+      hint: Please provide any additional comments
+      type: note
       options: []
       required: false
     - id: 11
-      name: client_satisfaction_comment
-      label: client_satisfaction_comment
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: appointment_satisfaction
-      label: appointment_satisfaction
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Very satisfied''}'
-      - '{''label'': ''Somewhat satisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat dissatisfied''}'
-      - '{''label'': ''Very dissatisfied''}'
-      required: false
-    - id: 13
-      name: appointment_rebooking
-      label: appointment_rebooking
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Always rebook''}'
-      - '{''label'': ''Rarely rebook''}'
-      - '{''label'': ''Never rebook''}'
-      required: false
-    - id: 14
-      name: appointment_satisfaction
-      label: appointment_satisfaction
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Very satisfied''}'
-      - '{''label'': ''Somewhat satisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat dissatisfied''}'
-      - '{''label'': ''Very dissatisfied''}'
-      required: false
-    - id: 15
-      name: rebooking_window
-      label: rebooking_window
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: rebooking_window_range
-      label: rebooking_window_range
-      hint: null
-      type: select_one
-      options:
-      - 1-2 weeks
-      - 2-4 weeks
-      - 4-6 weeks
-      required: false
-    - id: 17
-      name: rebooking_window_unit
-      label: rebooking_window_unit
-      hint: null
-      type: select_one
-      options:
-      - days
-      - weeks
-      - months
-      required: false
-    - id: 18
-      name: rebooking_window_reason
-      label: rebooking_window_reason
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: appointment_rebooking_reason
-      label: appointment_rebooking_reason
-      hint: null
-      type: select_one
-      options:
-      - Always rebook
-      - Rarely rebook
-      - Never rebook
-      required: false
-    - id: 20
-      name: appointment_rebooking_window
-      label: appointment_rebooking_window
-      hint: null
-      type: select_one
-      options:
-      - 1-2 weeks
-      - 2-4 weeks
-      - 4-6 weeks
-      required: false
-    - id: 21
-      name: appointment_rebooking_window_unit
-      label: appointment_rebooking_window_unit
-      hint: null
-      type: select_one
-      options:
-      - days
-      - weeks
-      - months
-      required: false
-    - id: 22
-      name: appointment_rebooking_window_reason
-      label: appointment_rebooking_window_reason
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
       name: phone
-      label: contact_info
-      hint: null
+      label: What is your phone number?
+      hint: Please enter your phone number
       type: text
       options: []
       required: false
-    - id: 25
-      name: contact_info
-      label: contact_info
-      hint: null
-      type: select_one
-      options:
-      - phone
-      - email
+    - id: 12
+      name: note_2
+      label: Is there anything else you'd like to comment about your rebooking behavior?
+      hint: Please provide any additional comments
+      type: note
+      options: []
       required: false

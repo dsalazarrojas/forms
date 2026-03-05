@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''text''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''other''}'
+      - email
+      - text
+      - phone
+      - in person
+      - other
       required: false
     - id: 3
       name: preferred_channel
@@ -28,11 +28,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''text''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
-      - '{''value'': ''other''}'
+      - email
+      - text
+      - phone
+      - in person
+      - other
       required: false
     - id: 4
       name: understandability_health_info
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''unsure''}'
+      - 'True'
+      - 'False'
+      - unsure
       required: true
     - id: 6
       name: community_feedback

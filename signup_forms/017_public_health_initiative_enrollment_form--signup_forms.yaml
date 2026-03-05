@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''diabetes''}'
-      - '{''value'': ''hypertension''}'
-      - '{''value'': ''none''}'
+      - diabetes
+      - hypertension
+      - none
       required: false
     - id: 4
       name: medications
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''insulin''}'
-      - '{''value'': ''blood_thinners''}'
-      - '{''value'': ''beta_blockers''}'
+      - insulin
+      - blood thinners
+      - beta blockers
       required: false
     - id: 5
       name: follow_up_reminders
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy''}'
-      - '{''value'': ''user2''}'
-      - '{''value'': ''user3''}'
+      - chatjimmy
+      - user2
+      - user3
       required: false
     - id: 10
       name: medical_notes
@@ -88,7 +88,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''pending''}'
-      - '{''value'': ''completed''}'
-      - '{''value'': ''missed''}'
+      - pending
+      - completed
+      - missed
       required: false

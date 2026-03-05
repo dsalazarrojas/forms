@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 12
       name: team_involvement
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 13
       name: automation
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 14
       name: communication_channels
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Video Conference''}'
+      - Email
+      - Phone
+      - Video Conference
       required: false
     - id: 15
       name: training_resources
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 16
       name: documentation_type
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Standardized''}'
-      - '{''label'': ''Ad Hoc''}'
-      - '{''label'': ''Automated''}'
+      - Standardized
+      - Ad Hoc
+      - Automated
       required: false
     - id: 17
       name: review_process_implement
@@ -139,8 +139,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: review_cycle_length

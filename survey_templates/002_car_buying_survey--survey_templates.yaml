@@ -1,142 +1,210 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Car Buying Survey
     pages:
-      - id: 1
-        name: respondent_name
-        label: Your name
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: respondent_email
-        label: Your email address
-        hint: null
-        type: email
-        options: []
-        required: false
-      - id: 3
-        name: purchase_frequency
-        label: How often do you purchase a vehicle?
-        hint: null
-        type: select_one
-        options: [Every 2-3 years, Every 3-5 years, Every 5+ years, First time buyer, Rarely]
-        required: true
-      - id: 4
-        name: primary_purchase_driver
-        label: What is your primary reason for purchasing a car?
-        hint: null
-        type: select_one
-        options: [Replacement, Upgrade, Business Need, Lifestyle Change, Family Expansion, First Vehicle]
-        required: true
-      - id: 5
-        name: research_method
-        label: How do you typically research vehicles? (select all that apply)
-        hint: null
-        type: select_multiple
-        options: [Online Reviews, Dealer Websites, Consumer Reports, Friends and Family, Car Blogs, YouTube Videos, Social Media, Test Drives]
-        required: false
-      - id: 6
-        name: online_shopping_comfort
-        label: How comfortable are you shopping for cars online?
-        hint: null
-        type: select_one
-        options: [Very Comfortable, Comfortable, Somewhat Comfortable, Uncomfortable, Very Uncomfortable]
-        required: true
-      - id: 7
-        name: budget_flexibility
-        label: How flexible is your budget?
-        hint: null
-        type: select_one
-        options: [Very Flexible, Flexible, Fixed within 5%, Fixed within 10%, Very Fixed]
-        required: false
-      - id: 8
-        name: consideration_timeframe
-        label: Typical consideration period before purchase
-        hint: null
-        type: select_one
-        options: [Less than 1 week, 1-2 weeks, 2-4 weeks, 1-3 months, 3+ months]
-        required: false
-      - id: 9
-        name: dealer_interaction_preference
-        label: Do you prefer in-person or remote dealer interactions?
-        hint: null
-        type: select_one
-        options: [In-Person Only, Mostly In-Person, No Preference, Mostly Remote, Remote Only]
-        required: false
-      - id: 10
-        name: financing_influence
-        label: How much does financing affect your purchase decision?
-        hint: null
-        type: select_one
-        options: [Critically Important, Very Important, Important, Somewhat Important, Not Important]
-        required: true
-      - id: 11
-        name: brand_loyalty
-        label: Are you loyal to a specific car brand?
-        hint: null
-        type: select_one
-        options: [Yes, Very Loyal, Somewhat Loyal, No, Open to All Brands]
-        required: false
-      - id: 12
-        name: environmental_concern
-        label: Environmental impact - how important?
-        hint: null
-        type: select_one
-        options: [Very Important, Important, Somewhat Important, Not Important]
-        required: false
-      - id: 13
-        name: safety_rating_influence
-        label: Do safety ratings influence your purchase?
-        hint: null
-        type: select_one
-        options: [Always, Usually, Sometimes, Rarely, Never]
-        required: false
-      - id: 14
-        name: technology_features_importance
-        label: How important are modern technology features?
-        hint: null
-        type: select_one
-        options: [Must Have, Very Important, Nice to Have, Less Important, Not Important]
-        required: false
-      - id: 15
-        name: previous_satisfaction
-        label: How satisfied were you with your previous vehicle?
-        hint: null
-        type: select_one
-        options: [Very Satisfied, Satisfied, Neutral, Dissatisfied, Very Dissatisfied, N/A]
-        required: false
-      - id: 16
-        name: recommendation_likelihood
-        label: Would you recommend this car to others?
-        hint: null
-        type: select_one
-        options: [Definitely, Probably, Maybe, Probably Not, Definitely Not]
-        required: false
-      - id: 17
-        name: price_vs_quality_priority
-        label: Price vs Quality - what matters more?
-        hint: null
-        type: select_one
-        options: [Price is Priority, Price is Somewhat Priority, Quality is Somewhat Priority, Quality is Priority, Equal Importance]
-        required: false
-      - id: 18
-        name: additional_feedback
-        label: Any additional feedback or suggestions?
-        hint: Please share any thoughts about your car buying experience
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: respondent_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_email
+      label: Your email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: purchase_frequency
+      label: How often do you purchase a vehicle?
+      hint: null
+      type: select_one
+      options:
+      - Every 2-3 years
+      - Every 3-5 years
+      - Every 5+ years
+      - First time buyer
+      - Rarely
+      required: true
+    - id: 4
+      name: primary_purchase_driver
+      label: What is your primary reason for purchasing a car?
+      hint: null
+      type: select_one
+      options:
+      - Replacement
+      - Upgrade
+      - Business Need
+      - Lifestyle Change
+      - Family Expansion
+      - First Vehicle
+      required: true
+    - id: 5
+      name: research_method
+      label: How do you typically research vehicles? (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Online Reviews
+      - Dealer Websites
+      - Consumer Reports
+      - Friends and Family
+      - Car Blogs
+      - YouTube Videos
+      - Social Media
+      - Test Drives
+      required: false
+    - id: 6
+      name: online_shopping_comfort
+      label: How comfortable are you shopping for cars online?
+      hint: null
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Somewhat Comfortable
+      - Uncomfortable
+      - Very Uncomfortable
+      required: true
+    - id: 7
+      name: budget_flexibility
+      label: How flexible is your budget?
+      hint: null
+      type: select_one
+      options:
+      - Very Flexible
+      - Flexible
+      - Fixed within 5%
+      - Fixed within 10%
+      - Very Fixed
+      required: false
+    - id: 8
+      name: consideration_timeframe
+      label: Typical consideration period before purchase
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-2 weeks
+      - 2-4 weeks
+      - 1-3 months
+      - 3+ months
+      required: false
+    - id: 9
+      name: dealer_interaction_preference
+      label: Do you prefer in-person or remote dealer interactions?
+      hint: null
+      type: select_one
+      options:
+      - In-Person Only
+      - Mostly In-Person
+      - No Preference
+      - Mostly Remote
+      - Remote Only
+      required: false
+    - id: 10
+      name: financing_influence
+      label: How much does financing affect your purchase decision?
+      hint: null
+      type: select_one
+      options:
+      - Critically Important
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      required: true
+    - id: 11
+      name: brand_loyalty
+      label: Are you loyal to a specific car brand?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - Very Loyal
+      - Somewhat Loyal
+      - 'False'
+      - Open to All Brands
+      required: false
+    - id: 12
+      name: environmental_concern
+      label: Environmental impact - how important?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      required: false
+    - id: 13
+      name: safety_rating_influence
+      label: Do safety ratings influence your purchase?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 14
+      name: technology_features_importance
+      label: How important are modern technology features?
+      hint: null
+      type: select_one
+      options:
+      - Must Have
+      - Very Important
+      - Nice to Have
+      - Less Important
+      - Not Important
+      required: false
+    - id: 15
+      name: previous_satisfaction
+      label: How satisfied were you with your previous vehicle?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - N/A
+      required: false
+    - id: 16
+      name: recommendation_likelihood
+      label: Would you recommend this car to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Maybe
+      - Probably Not
+      - Definitely Not
+      required: false
+    - id: 17
+      name: price_vs_quality_priority
+      label: Price vs Quality - what matters more?
+      hint: null
+      type: select_one
+      options:
+      - Price is Priority
+      - Price is Somewhat Priority
+      - Quality is Somewhat Priority
+      - Quality is Priority
+      - Equal Importance
+      required: false
+    - id: 18
+      name: additional_feedback
+      label: Any additional feedback or suggestions?
+      hint: Please share any thoughts about your car buying experience
+      type: text
+      options: []
+      required: false

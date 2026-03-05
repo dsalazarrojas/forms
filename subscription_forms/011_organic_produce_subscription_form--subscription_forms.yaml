@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''weekly''}'
-      - '{''id'': 2, ''name'': ''bi_weekly''}'
-      - '{''id'': 3, ''name'': ''monthly''}'
+      - weekly
+      - bi weekly
+      - monthly
       required: false
     - id: 3
       name: produce_types
@@ -26,11 +26,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''fruits''}'
-      - '{''id'': 2, ''name'': ''vegetables''}'
-      - '{''id'': 3, ''name'': ''leafy_greens''}'
-      - '{''id'': 4, ''name'': ''berries''}'
-      - '{''id'': 5, ''name'': ''herbs''}'
+      - fruits
+      - vegetables
+      - leafy greens
+      - berries
+      - herbs
       required: false
     - id: 4
       name: subscription_start_date

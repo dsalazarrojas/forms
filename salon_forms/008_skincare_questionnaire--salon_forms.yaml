@@ -18,12 +18,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Normal''}'
-      - '{''label'': ''Oily''}'
-      - '{''label'': ''Sensitive''}'
-      - '{''label'': ''Dry''}'
-      - '{''label'': ''Combination''}'
-      - '{''label'': ''Other''}'
+      - Normal
+      - Oily
+      - Sensitive
+      - Dry
+      - Combination
+      - Other
       required: false
     - id: 3
       name: age
@@ -47,11 +47,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Skincare''}'
-      - '{''label'': ''Haircare''}'
-      - '{''label'': ''Cosmetics''}'
-      - '{''label'': ''Fragrance''}'
-      - '{''label'': ''Other''}'
+      - Skincare
+      - Haircare
+      - Cosmetics
+      - Fragrance
+      - Other
       required: false
     - id: 6
       name: skin_concerns
@@ -59,12 +59,12 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''label'': ''Acne''}'
-      - '{''label'': ''Aging''}'
-      - '{''label'': ''Hyper-pigmentation''}'
-      - '{''label'': ''Sensitive skin''}'
-      - '{''label'': ''Rosacea''}'
-      - '{''label'': ''Other''}'
+      - Acne
+      - Aging
+      - Hyper-pigmentation
+      - Sensitive skin
+      - Rosacea
+      - Other
       required: false
     - id: 7
       name: skin_tone
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Light''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Dark''}'
+      - Light
+      - Medium
+      - Dark
       required: false
     - id: 8
       name: skin_condition

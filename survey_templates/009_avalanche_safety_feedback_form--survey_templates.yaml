@@ -1,152 +1,141 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Avalanche Safety Feedback Form
     pages:
-      - id: 1
-        name: section_respondent_info
-        label: -- Respondent Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: full_name
-        label: Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: email_address
-        label: Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: experience_level
-        label: Backcountry Experience Level
-        hint: Select the most accurate description
-        type: select_one
-        options:
-          - Beginner (New to backcountry)
-          - Intermediate (Some training)
-          - Advanced (Regular user)
-          - Professional (Guide/Ski Patrol)
-        required: true
-      - id: 5
-        name: region_visited
-        label: Region or Area Visited
-        hint: Specific mountain range or ski resort
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: section_safety_feedback
-        label: -- Safety Feedback --
-        hint: Help us improve risk communication
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: forecast_accuracy
-        label: Avalanche Forecast Accuracy
-        hint: How well did the forecast match conditions?
-        type: select_one
-        options:
-          - 1 - Very Inaccurate
-          - 2 - Inaccurate
-          - 3 - Neutral
-          - 4 - Accurate
-          - 5 - Very Accurate
-        required: true
-      - id: 8
-        name: instability_signs
-        label: Signs of Instability Observed
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Whumpfing (Collapsing)
-          - Shooting Cracks
-          - Recent Avalanches
-          - Rapid Snowfall or Wind Loading
-          - None Observed
-        required: false
-      - id: 9
-        name: gear_carried
-        label: Safety Gear Carried
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Beacon (Transceiver)
-          - Shovel
-          - Probe
-          - Avalanche Airbag
-          - GPS Device
-        required: true
-      - id: 10
-        name: communication_quality
-        label: Safety Communication Quality
-        hint: Rate the clarity of safety information
-        type: select_one
-        options:
-          - Poor
-          - Fair
-          - Good
-          - Excellent
-        required: true
-      - id: 11
-        name: overall_safety_rating
-        label: Overall Safety Rating
-        hint: Rate your overall sense of safety
-        type: select_one
-        options:
-          - 1 - Not Safe
-          - 2 - Somewhat Safe
-          - 3 - Safe
-          - 4 - Very Safe
-          - 5 - Exceptionally Safe
-        required: true
-      - id: 12
-        name: improvement_suggestions
-        label: Suggested Improvements for Risk Communication
-        hint: How can we better share safety info?
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: use_again
-        label: Would you use this service or area again?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Maybe
-        required: true
-      - id: 14
-        name: additional_concerns
-        label: Additional Safety Concerns
-        hint: Please provide any other details
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: date_of_feedback
-        label: Date of Feedback
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: experience_level
+      label: Backcountry Experience Level
+      hint: Select the most accurate description
+      type: select_one
+      options:
+      - Beginner (New to backcountry)
+      - Intermediate (Some training)
+      - Advanced (Regular user)
+      - Professional (Guide/Ski Patrol)
+      required: true
+    - id: 5
+      name: region_visited
+      label: Region or Area Visited
+      hint: Specific mountain range or ski resort
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_safety_feedback
+      label: -- Safety Feedback --
+      hint: Help us improve risk communication
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: forecast_accuracy
+      label: Avalanche Forecast Accuracy
+      hint: How well did the forecast match conditions?
+      type: select_one
+      options:
+      - 1 - Very Inaccurate
+      - 2 - Inaccurate
+      - 3 - Neutral
+      - 4 - Accurate
+      - 5 - Very Accurate
+      required: true
+    - id: 8
+      name: instability_signs
+      label: Signs of Instability Observed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Whumpfing (Collapsing)
+      - Shooting Cracks
+      - Recent Avalanches
+      - Rapid Snowfall or Wind Loading
+      - None Observed
+      required: false
+    - id: 9
+      name: gear_carried
+      label: Safety Gear Carried
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Beacon (Transceiver)
+      - Shovel
+      - Probe
+      - Avalanche Airbag
+      - GPS Device
+      required: true
+    - id: 10
+      name: communication_quality
+      label: Safety Communication Quality
+      hint: Rate the clarity of safety information
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 11
+      name: overall_safety_rating
+      label: Overall Safety Rating
+      hint: Rate your overall sense of safety
+      type: select_one
+      options:
+      - 1 - Not Safe
+      - 2 - Somewhat Safe
+      - 3 - Safe
+      - 4 - Very Safe
+      - 5 - Exceptionally Safe
+      required: true
+    - id: 12
+      name: improvement_suggestions
+      label: Suggested Improvements for Risk Communication
+      hint: How can we better share safety info?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: use_again
+      label: Would you use this service or area again?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
+    - id: 14
+      name: additional_concerns
+      label: Additional Safety Concerns
+      hint: Please provide any other details
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_of_feedback
+      label: Date of Feedback
+      hint: null
+      type: date
+      options: []
+      required: true

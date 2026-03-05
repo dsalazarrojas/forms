@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1001, ''name'': True, ''label'': True}'
-      - '{''id'': 1002, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: services
@@ -53,10 +53,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1003, ''name'': ''food_and_drinks'', ''label'': ''Food and drinks''}'
-      - '{''id'': 1004, ''name'': ''merchandise'', ''label'': ''Merchandise''}'
-      - '{''id'': 1005, ''name'': ''parking'', ''label'': ''Parking''}'
-      - '{''id'': 1006, ''name'': ''security'', ''label'': ''Security''}'
+      - Food and drinks
+      - Merchandise
+      - Parking
+      - Security
       required: false
     - id: 8
       name: comments

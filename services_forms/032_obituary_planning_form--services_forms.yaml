@@ -4,176 +4,127 @@ inputSchema:
     title: Obituary Planning Form
     pages:
     - id: 1
-      name: deceased_name
-      label: first_name
+      name: deceased_first_name
+      label: Deceased First Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: deceased_name
-      label: middle_name
+      name: deceased_middle_name
+      label: Deceased Middle Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: deceased_name
-      label: last_name
+      name: deceased_last_name
+      label: Deceased Last Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: address
-      label: deceased_address
+      name: deceased_address
+      label: Deceased Address
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: date_of_death
-      label: date_of_death
+      label: Date of Death
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 6
       name: place_of_death
-      label: place_of_death
+      label: Place of Death
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: place_of_death
-      label: city
+      name: city_of_death
+      label: City of Death
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: place_of_death
-      label: state
+      name: state_of_death
+      label: State of Death
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: place_of_death
-      label: zip
+      name: zip_of_death
+      label: Zip Code
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: place_of_death
-      label: country
+      name: country_of_death
+      label: Country of Death
       hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: cause_of_death
-      label: cause_of_death
+      label: Cause of Death
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: place_of_death
-      label: place_of_death
+      name: obituary
+      label: Obituary
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: obituary
-      label: obituary
+      name: funeral_home
+      label: Funeral Home
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: obituary
-      label: obituary
+      name: date_of_service
+      label: Date of Service
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 15
-      name: place_of_service
-      label: place_of_service
+      name: time_of_service
+      label: Time of Service
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 16
-      name: place_of_service
-      label: place_of_service
+      name: contact
+      label: Contact
       hint: null
       type: text
       options: []
       required: false
     - id: 17
       name: place_of_service
-      label: place_of_service
+      label: Place of Service
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: funeral_home
-      label: funeral_home
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: place_of_service
-      label: place_of_service
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: date_of_service
-      label: date_of_service
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: time_of_service
-      label: time_of_service
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: place_of_service
-      label: place_of_service
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: place_of_service
-      label: place_of_service
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: place_of_service
-      label: place_of_service
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: contact
-      label: contact
+      name: obituary_text
+      label: Obituary Text
       hint: null
       type: text
       options: []

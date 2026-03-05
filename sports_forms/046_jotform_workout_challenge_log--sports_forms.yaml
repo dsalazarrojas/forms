@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Strength'', ''label'': ''Strength''}'
-      - '{''id'': 2, ''name'': ''Cardio'', ''label'': ''Cardio''}'
-      - '{''id'': 3, ''name'': ''Yoga'', ''label'': ''Yoga''}'
+      - Strength
+      - Cardio
+      - Yoga
       required: false
     - id: 6
       name: intensity
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Low'', ''label'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High'', ''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 7
       name: weight_used

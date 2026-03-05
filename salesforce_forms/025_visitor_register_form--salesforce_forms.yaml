@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Student''}'
-      - '{''id'': 2, ''label'': ''Staff''}'
-      - '{''id'': 3, ''label'': ''Guest''}'
+      - Student
+      - Staff
+      - Guest
       required: true
     - id: 5
       name: department
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 13, ''label'': ''Signature 1''}'
-      - '{''id'': 14, ''label'': ''Signature 2''}'
-      - '{''id'': 15, ''label'': ''Signature 3''}'
+      - Signature 1
+      - Signature 2
+      - Signature 3
       required: false
     - id: 12
       name: date_visit

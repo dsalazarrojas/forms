@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''membership_level_1'', ''label'': ''Basic''}'
-      - '{''id'': ''membership_level_2'', ''label'': ''Premium''}'
-      - '{''id'': ''membership_level_3'', ''label'': ''Elite''}'
+      - Basic
+      - Premium
+      - Elite
       required: true
     - id: 3
       name: name
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''favorite_class_1'', ''label'': ''5am''}'
-      - '{''id'': ''favorite_class_2'', ''label'': ''7am''}'
-      - '{''id'': ''favorite_class_3'', ''label'': ''9am''}'
+      - 5am
+      - 7am
+      - 9am
       required: true
     - id: 10
       name: how_did_you_find_out
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''how_did_you_find_out_1'', ''label'': ''Online''}'
-      - '{''id'': ''how_did_you_find_out_2'', ''label'': ''In Store''}'
-      - '{''id'': ''how_did_you_find_out_3'', ''label'': ''Word of Mouth''}'
+      - Online
+      - In Store
+      - Word of Mouth
       required: true
     - id: 11
       name: do_we_have_your_info
@@ -88,8 +88,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''do_we_have_your_info_1'', ''label'': True}'
-      - '{''id'': ''do_we_have_your_info_2'', ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: what_brought_you_to_cf
@@ -104,8 +104,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''have_you_been_to_cf_before_1'', ''label'': True}'
-      - '{''id'': ''have_you_been_to_cf_before_2'', ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: do_you_like
@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''have_you_been_to_cf_recently_1'', ''label'': True}'
-      - '{''id'': ''have_you_been_to_cf_recently_2'', ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: what_are_your_goals
@@ -164,8 +164,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''would_you_recommend_cf_to_a_friend_1'', ''label'': True}'
-      - '{''id'': ''would_you_recommend_cf_to_a_friend_2'', ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: do_we_have_your_permission_to_share_your_info
@@ -173,10 +173,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''do_we_have_your_permission_to_share_your_info_1'', ''label'':
-        True}'
-      - '{''id'': ''do_we_have_your_permission_to_share_your_info_2'', ''label'':
-        False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: do_we_have_your_email_permission
@@ -184,8 +182,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''do_we_have_your_email_permission_1'', ''label'': True}'
-      - '{''id'': ''do_we_have_your_email_permission_2'', ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: do_we_have_your_phone_permission
@@ -193,8 +191,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''do_we_have_your_phone_permission_1'', ''label'': True}'
-      - '{''id'': ''do_we_have_your_phone_permission_2'', ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: do_we_have_your_email_permission_for_newsletter
@@ -202,8 +200,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''do_we_have_your_email_permission_for_newsletter_1'', ''label'':
-        True}'
-      - '{''id'': ''do_we_have_your_email_permission_for_newsletter_2'', ''label'':
-        False}'
+      - 'True'
+      - 'False'
       required: true

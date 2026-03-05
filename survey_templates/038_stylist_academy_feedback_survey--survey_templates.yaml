@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_satisfied'', ''value'': 5}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''value'': 4}'
-      - '{''id'': 3, ''name'': ''not_satisfied'', ''value'': 3}'
-      - '{''id'': 4, ''name'': ''very_dissatisfied'', ''value'': 2}'
-      - '{''id'': 5, ''name'': ''not_satisfied_at_all'', ''value'': 1}'
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
       required: false
     - id: 3
       name: form_3
@@ -28,9 +28,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''highly_recommended'', ''value'': ''Yes''}'
-      - '{''id'': 2, ''name'': ''somewhat_recommended'', ''value'': ''Maybe''}'
-      - '{''id'': 3, ''name'': ''not_recommended'', ''value'': False}'
+      - 'Yes'
+      - Maybe
+      - 'False'
       required: false
     - id: 4
       name: form_4

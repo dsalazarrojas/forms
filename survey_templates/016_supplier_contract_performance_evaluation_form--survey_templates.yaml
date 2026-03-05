@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 9
       name: delivery_rating
@@ -77,8 +77,8 @@ inputSchema:
       options: []
       required: false
     - id: 11
-      name: supplier_contract_review_comments
-      label: Comments on the supplier contract
+      name: supplier_contract_review_comments_2
+      label: Supplier Contract Review Comments 2
       hint: null
       type: text
       options: []
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 13
       name: supplier_contract_remarks
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 15
       name: supplier_contract_satisfaction
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 16
       name: supplier_contract_recommendation
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not sure''}'
+      - 'True'
+      - 'False'
+      - Not sure
       required: false
     - id: 17
       name: contract_type
@@ -136,12 +136,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Service contract''}'
-      - '{''label'': ''Goods contract''}'
+      - Service contract
+      - Goods contract
       required: false
     - id: 18
       name: contract_value
-      label: Contract value
+      label: Contract value (2)
       hint: null
       type: number
       options: []
@@ -152,8 +152,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: supplier_contract_recurring
@@ -161,8 +161,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: contract_term
@@ -179,15 +179,15 @@ inputSchema:
       options: []
       required: false
     - id: 23
-      name: contract_start_date
-      label: Contract start date
+      name: contract_start_date_2
+      label: Contract Start Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 24
-      name: contract_end_date
-      label: Contract end date
+      name: contract_end_date_2
+      label: Contract End Date 2
       hint: null
       type: date
       options: []
@@ -233,7 +233,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''In progress''}'
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''Canceled''}'
+      - In progress
+      - Completed
+      - Canceled
       required: false

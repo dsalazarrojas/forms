@@ -58,8 +58,8 @@ inputSchema:
       hint: Whether the camper needs to be isolated for safety
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: staff_notes
@@ -74,8 +74,8 @@ inputSchema:
       hint: Was the parent or guardian notified
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: follow_up_actions

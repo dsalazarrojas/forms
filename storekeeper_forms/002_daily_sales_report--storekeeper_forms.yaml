@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Electronics''}'
-      - '{''id'': 2, ''name'': ''Clothing''}'
-      - '{''id'': 3, ''name'': ''Toys''}'
+      - Electronics
+      - Clothing
+      - Toys
       required: false
     - id: 5
       name: product_id
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''Shipped''}'
-      - '{''id'': 3, ''name'': ''Cancelled''}'
+      - Pending
+      - Shipped
+      - Cancelled
       required: false
     - id: 13
       name: payment_type
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Payment by Cash''}'
-      - '{''id'': 2, ''name'': ''Payment by Card''}'
-      - '{''id'': 3, ''name'': ''Payment by Bank Transfer''}'
+      - Payment by Cash
+      - Payment by Card
+      - Payment by Bank Transfer
       required: false
     - id: 14
       name: total_orders

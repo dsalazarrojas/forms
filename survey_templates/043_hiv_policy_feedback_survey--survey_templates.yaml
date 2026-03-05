@@ -5,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: region
-      label: region
+      label: Which region has the greatest need for HIV policy support?
       hint: null
       type: select_one
       options:
@@ -13,10 +13,10 @@ inputSchema:
       - Americas
       - Asia
       - Europe
-      required: false
+      required: true
     - id: 2
-      name: feedback_effectiveness
-      label: policy_effectiveness
+      name: policy_effectiveness
+      label: How would you rate the effectiveness of the HIV policy?
       hint: null
       type: select_multiple
       options:
@@ -24,10 +24,10 @@ inputSchema:
       - Somewhat Effective
       - Not Very Effective
       - Not Effective At All
-      required: false
+      required: true
     - id: 3
       name: barriers_implementation
-      label: implementation_barriers
+      label: What are the barriers to implementing the HIV policy?
       hint: null
       type: select_multiple
       options:
@@ -36,10 +36,10 @@ inputSchema:
       - Lack of Awareness
       - Lack of Policy Enforcement
       - Other (please specify)
-      required: false
+      required: true
     - id: 4
       name: improvement_priorities
-      label: improvement_priorities
+      label: What are the priorities for improving the HIV policy?
       hint: null
       type: select_multiple
       options:
@@ -48,205 +48,115 @@ inputSchema:
       - Enhance Community Engagement
       - Improve Policy Enforcement
       - Other (please specify)
-      required: false
+      required: true
     - id: 5
-      name: policy_implementation_barriers
-      label: policy_implementation_barriers
-      hint: null
-      type: select_multiple
-      options:
-      - Lack of Funding
-      - Lack of Community Engagement
-      - Lack of Awareness
-      - Lack of Policy Enforcement
-      - Other (please specify)
-      required: false
-    - id: 6
-      name: note
-      label: additional_feedback
-      hint: Please provide any additional feedback.
-      type: note
-      options: []
-      required: false
-    - id: 7
       name: contact_name
-      label: contact_name
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 6
       name: contact_email
-      label: contact_email
+      label: What is your email address?
       hint: null
       type: email
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 7
       name: contact_phone
-      label: contact_phone
+      label: What is your phone number?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 10
-      name: contact_phone_extension
-      label: contact_phone_extension
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 8
       name: contact_address
-      label: contact_address
+      label: What is your address?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
-      name: contact_zip
-      label: contact_zip
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 9
       name: form_submitted
-      label: submit
+      label: Have you already submitted this form?
       hint: null
       type: select_one
       options:
       - 'True'
       - 'False'
-      required: false
-    - id: 14
-      name: additional_feedback
-      label: additional_feedback
-      hint: Please provide any additional feedback.
-      type: note
-      options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 10
       name: date_submitted
-      label: date_submitted
+      label: On what date did you submit this form?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 16
+      required: true
+    - id: 11
       name: time_submitted
-      label: time_submitted
+      label: On what time did you submit this form?
       hint: null
       type: time
       options: []
-      required: false
-    - id: 17
-      name: region
-      label: region
+      required: true
+    - id: 12
+      name: region_2
+      label: Is your region in need of policy support?
       hint: null
       type: select_one
       options:
-      - Africa
-      - Americas
-      - Asia
-      - Europe
-      required: false
-    - id: 18
-      name: region
-      label: region
-      hint: null
-      type: select_one
-      options:
-      - Africa
-      - Americas
-      - Asia
-      - Europe
-      required: false
-    - id: 19
-      name: feedback_effectiveness
-      label: policy_effectiveness
-      hint: null
-      type: select_multiple
-      options:
-      - Very Effective
-      - Somewhat Effective
-      - Not Very Effective
-      - Not Effective At All
-      required: false
-    - id: 20
-      name: barriers_implementation
-      label: implementation_barriers
-      hint: null
-      type: select_multiple
-      options:
-      - Lack of Funding
-      - Lack of Community Engagement
-      - Lack of Awareness
-      - Lack of Policy Enforcement
-      - Other (please specify)
-      required: false
-    - id: 21
-      name: improvement_priorities
-      label: improvement_priorities
-      hint: null
-      type: select_multiple
-      options:
-      - Increase Funding
-      - Improve Awareness
-      - Enhance Community Engagement
-      - Improve Policy Enforcement
-      - Other (please specify)
-      required: false
-    - id: 22
-      name: policy_implementation_barriers
-      label: policy_implementation_barriers
-      hint: null
-      type: select_multiple
-      options:
-      - Lack of Funding
-      - Lack of Community Engagement
-      - Lack of Awareness
-      - Lack of Policy Enforcement
-      - Other (please specify)
-      required: false
-    - id: 23
-      name: policy_implementation_barriers
-      label: policy_implementation_barriers
-      hint: null
-      type: select_multiple
-      options:
-      - Lack of Funding
-      - Lack of Community Engagement
-      - Lack of Awareness
-      - Lack of Policy Enforcement
-      - Other (please specify)
-      required: false
-    - id: 24
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
       name: note
-      label: additional_feedback
+      label: Do you have any additional feedback?
+      hint: Please provide any additional feedback.
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: region_3
+      label: Region 3
+      hint: null
+      type: select_one
+      options:
+      - Africa
+      - Americas
+      - Asia
+      - Europe
+      required: true
+    - id: 15
+      name: additional_feedback
+      label: Additional feedback
       hint: Please provide any additional feedback.
       type: note
       options: []
       required: false
-    - id: 25
-      name: contact_phone
-      label: contact_phone
+    - id: 16
+      name: region_4
+      label: Region
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Africa
+      - Americas
+      - Asia
+      - Europe
       required: false
-    - id: 26
-      name: region
-      label: region
+    - id: 17
+      name: region_5
+      label: Region 5
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 27
-      name: region
-      label: region
+    - id: 18
+      name: region_6
+      label: Region 6
       hint: null
       type: select_one
       options:

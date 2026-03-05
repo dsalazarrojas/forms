@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''rent''}'
-      - '{''value'': ''own''}'
-      - '{''value'': ''mortgage''}'
-      - '{''value'': ''homeless''}'
+      - rent
+      - own
+      - mortgage
+      - homeless
       required: false
     - id: 3
       name: housing_status
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''stable''}'
-      - '{''value'': ''unstable''}'
-      - '{''value'': ''precarious''}'
+      - stable
+      - unstable
+      - precarious
       required: false
     - id: 4
       name: rent_amount
@@ -121,10 +121,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''AL''}'
-      - '{''value'': ''AK''}'
-      - '{''value'': ''AZ''}'
-      - '{''value'': ''AR''}'
+      - AL
+      - AK
+      - AZ
+      - AR
       required: false
     - id: 17
       name: contact_city

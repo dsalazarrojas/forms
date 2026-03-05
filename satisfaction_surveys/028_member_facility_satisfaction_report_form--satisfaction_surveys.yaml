@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''text'': ''1 - 1 Star''}'
-      - '{''value'': 5, ''text'': ''5 - 5 Stars''}'
+      - '1'
+      - '5'
       required: true
     - id: 4
       name: staff_attendance
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''on-time'', ''text'': ''On Time''}'
-      - '{''value'': ''helpful'', ''text'': ''Helpful''}'
-      - '{''value'': ''patient'', ''text'': ''Patient''}'
+      - on-time
+      - helpful
+      - patient
       required: true
     - id: 5
       name: facilities
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''clean'', ''text'': ''Clean''}'
-      - '{''value'': ''well-maintained'', ''text'': ''Well-Maintained''}'
-      - '{''value'': ''secure'', ''text'': ''Secure''}'
+      - clean
+      - well-maintained
+      - secure
       required: true
     - id: 6
       name: comments
@@ -157,8 +157,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''text'': ''1 Star''}'
-      - '{''value'': 5, ''text'': ''5 Stars''}'
+      - '1'
+      - '5'
       required: true
     - id: 22
       name: facility_facility_comments
@@ -173,8 +173,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''text'': ''1 Star''}'
-      - '{''value'': 5, ''text'': ''5 Stars''}'
+      - '1'
+      - '5'
       required: true
     - id: 24
       name: facility_facility_facility_notes

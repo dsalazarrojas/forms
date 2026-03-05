@@ -4,185 +4,89 @@ inputSchema:
     title: Membership Registration Form PayPal
     pages:
     - id: 1
-      name: membership_registration_form_paypal
-      label: membership_registration_form_paypal
+      name: full_name
+      label: Full Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: name
+      name: address
+      label: Address
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: name
-      label: address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: name
-      label: email
+      name: email
+      label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 5
-      name: name
-      label: phone
+      required: true
+    - id: 4
+      name: contact_phone_number
+      label: Contact Phone Number
       hint: null
-      type: text
+      type: number
       options: []
       required: false
-    - id: 6
-      name: name
-      label: occupational_affiliations
+    - id: 5
+      name: occupational_affiliations
+      label: Occupational Affiliations
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - Accounting
+      - Engineering
+      - Law
+      - Medicine
+      required: false
+    - id: 6
+      name: special_skills
+      label: Special Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Programming
+      - Data Analysis
+      - Marketing
+      - Graphic Design
+      - Writing
       required: false
     - id: 7
-      name: name
-      label: special_skills
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 8
-      name: name
-      label: membership_options
+      name: membership_options
+      label: Membership Options
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - Monthly
+      - Quarterly
+      - Annual
       required: false
-    - id: 9
-      name: name
-      label: payment_method
+    - id: 8
+      name: payment_method
+      label: Payment Method
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - PayPal
+      - Credit Card
+      - Bank Transfer
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 10
-      name: name
-      label: name
+      name: confirmation
+      label: Confirmation
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

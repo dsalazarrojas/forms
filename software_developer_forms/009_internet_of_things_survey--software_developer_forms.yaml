@@ -16,7 +16,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''<text>'', ''value'': ''<text>''}'
+      - <text>
       - Other
       required: false
     - id: 3
@@ -28,39 +28,39 @@ inputSchema:
       required: false
     - id: 4
       name: applications
-      label: <text>
+      label: Applications
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Home Automation'', ''value'': ''<text>''}'
-      - '{''id'': 2, ''label'': ''Health Monitoring'', ''value'': ''<text>''}'
-      - '{''id'': 3, ''label'': ''Energy Management'', ''value'': ''<text>''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''<text>''}'
+      - Home Automation
+      - Health Monitoring
+      - Energy Management
+      - Other
       required: false
     - id: 5
       name: devices
-      label: <text>
+      label: Devices
       hint: null
       type: number
       options: []
       required: false
     - id: 6
       name: location
-      label: <text>
+      label: Location
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: contact_info
-      label: <text>
+      label: Contact Info
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: contact_info
-      label: <text>
+      name: contact_info_2
+      label: Contact Info 2
       hint: null
       type: email
       options: []

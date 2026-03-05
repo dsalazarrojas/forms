@@ -4,320 +4,193 @@ inputSchema:
     title: Islamic Teachings And Modernity Survey
     pages:
     - id: 1
-      name: survey_questions
-      label: Survey Questions
+      name: agree_with_islamic_teachings_in_conflict_with_modern_values
+      label: Agree with 'Islamic teachings are in conflict with modern values'?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
     - id: 2
-      name: age
-      label: age
+      name: islamic_teachings_relevant_in_modern_world
+      label: Do you believe that Islamic teachings are relevant in the modern world?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
     - id: 3
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 4
-      name: country
-      label: country
+      name: importance_of_jihad_in_islamic_teachings
+      label: How important is the concept of jihad in your understanding of Islamic
+        teachings?
       hint: null
       type: select_one
       options:
-      - Afghanistan
-      - Albania
-      - Algeria
-      - Algeria
-      - Andorra
-      - Angola
-      - Antigua
-      - Antilles Islands
-      - Argentina
-      - Armenia
-      - Australia
-      - Austria
-      - Bahamas
-      - Bahrain
-      - Bangladesh
-      - Barbados
-      - Belarus
-      - Belgium
-      - Belize
-      - Benin
-      - Bhutan
-      - Bolivia
-      - Bosnia
-      - Botswana
-      - Brazil
-      - Brunei
-      - Bulgaria
-      - Burkina Faso
-      - Burundi
-      - Cameroon
-      - Central African Republic
-      - Chad
-      - Chile
-      - China
-      - Colombia
-      - Comoros
-      - Congo
-      - Congo (Democratic Republic)
-      - Costa Rica
-      - Cote d\'Ivoire
-      - Croatia
-      - Cuba
-      - Cyprus
-      - Czech Republic
-      - Denmark
-      - Djibouti
-      - Dominica
-      - Dominican Republic
-      - Ecuador
-      - Egypt
-      - El Salvador
-      - Equatorial Guinea
-      - Eritrea
-      - Estonia
-      - Ethiopia
-      - Falkland
-      - Fiji
-      - Finland
-      - France
-      - France ( Metropolitan)
-      - French Polynesia
-      - Gabon
-      - Gambia
-      - Georgia
-      - Germany
-      - Ghana
-      - Greece
-      - Grenada
-      - Guam
-      - Guatemala
-      - Guinea
-      - Guinea-Bissau
-      - Guyana
-      - Haiti
-      - Honduras
-      - Hungary
-      - Iceland
-      - India
-      - Indonesia
-      - Iran
-      - Iraq
-      - Ireland
-      - Islamic Republic of Iran
-      - Israel
-      - Italy
-      - Jamaica
-      - Jordan
-      - Kazakhstan
-      - Kenya
-      - Kiribati
-      - Korea (North)
-      - Korea (South)
-      - Kosovo
-      - Kuwait
-      - Kyrgyzstan
-      - Lao
-      - Latvia
-      - Lebanon
-      - Lesotho
-      - Liberia
-      - Libya
-      - Lithuania
-      - Luxembourg
-      - Macedonia
-      - Madagascar
-      - Malawi
-      - Malaysia
-      - Maldives
-      - Mali
-      - Malta
-      - Mauritania
-      - Mauritius
-      - Mauritania
-      - Mexico
-      - Micronesia
-      - Moldova
-      - Monaco
-      - Mongolia
-      - Montenegro
-      - Montserrat
-      - Morocco
-      - Mozambique
-      - Myanmar
-      - Namibia
-      - Nauru
-      - Nepal
-      - Netherlands
-      - New Zealand
-      - Nicaragua
-      - Niger
-      - Nigeria
-      - Niue
-      - Norfolk Island
-      - Norway
-      - Oman
-      - Pakistan
-      - Palau
-      - Panama
-      - Papua New Guinea
-      - Paraguay
-      - Peru
-      - Philippines
-      - Poland
-      - Portugal
-      - Qatar
-      - Romania
-      - Russia
-      - Rwanda
-      - Saint Kitts
-      - Saint Lucia
-      - Saint Vincent
-      - Samoa
-      - San Marino
-      - Sao Tome
-      - Saudi Arabia
-      - Scotland
-      - Senegal
-      - Serbia
-      - Seychelles
-      - Sierra Leone
-      - Singapore
-      - Slovakia
-      - Slovenia
-      - Somalia
-      - South Africa
-      - South Korea
-      - South Sudan
-      - Spain
-      - Sri Lanka
-      - Sudan
-      - Surinam
-      - Svalbard
-      - Sweden
-      - Swaziland
-      - Switzerland
-      - Syria
-      - Taiwan
-      - Tajikistan
-      - Tanzania
-      - Thailand
-      - Togo
-      - Tonga
-      - Trinidad
-      - Tristan da Cunha
-      - Tunisia
-      - Turkey
-      - Turkmenistan
-      - Turks and Caicos
-      - Tuvalu
-      - Uganda
-      - Ukraine
-      - United Arab Emirates
-      - United Kingdom
-      - United States
-      - Uruguay
-      - Us Virgin Islands
-      - Vanuatu
-      - Vatican
-      - Venezuela
-      - Vietnam
-      - Yemen
-      - Yugoslavia
-      - Zambia
-      - Zimbabwe
-      - '{''countries'': []}'
-      required: false
-    - id: 5
-      name: gender
-      label: gender
+      - Very Important
+      - Somewhat Important
+      - Neither Important nor Unimportant
+      - Somewhat Unimportant
+      - Very Unimportant
+      required: true
+    - id: 4
+      name: islamic_teachings_promote_social_justice
+      label: Do you think that Islamic teachings promote social justice?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: date_of_birth
-      label: date of birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 10
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: age
-      label: age
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
+    - id: 5
+      name: influence_of_local_cultures_on_islamic_teachings
+      label: On a scale of 1-10, how much do you think that Islamic teachings are
+        influenced by local cultures?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 12
-      name: country
-      label: country
+      required: true
+    - id: 6
+      name: relevance_of_sharia_law_in_modern_society
+      label: How much do you believe in the concept of sharia law in modern society?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: country
-      label: country
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
+    - id: 7
+      name: islamic_teachings_promote_gender_equality
+      label: Do you think that Islamic teachings promote gender equality?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: country
-      label: country
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
+    - id: 8
+      name: influence_on_poverty_and_inequality
+      label: On a scale of 1-10, how much do you think that Islamic teachings are
+        relevant to modern issues like poverty and inequality?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: date
-      label: date
-      hint: null
-      type: date
+      type: number
       options: []
-      required: false
+      required: true
+    - id: 9
+      name: islamic_teachings_compatible_with_democracy
+      label: Do you think that Islamic teachings are compatible with democracy?
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
+    - id: 10
+      name: influence_on_global_politics
+      label: On a scale of 1-10, how much do you think that Islamic teachings are
+        influential in shaping global politics?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: promote_interfaith_dialogue
+      label: Do you think that Islamic teachings promote interfaith dialogue and understanding?
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
+    - id: 12
+      name: promote_critical_thinking
+      label: On a scale of 1-10, how much do you think that Islamic teachings promote
+        critical thinking and critical inquiry?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: compatibility_with_science_and_reason
+      label: Do you think that Islamic teachings are compatible with science and reason?
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
+    - id: 14
+      name: relevance_to_modern_education
+      label: On a scale of 1-10, how much do you think that Islamic teachings are
+        relevant to modern education?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: promote_tolerance_and_acceptance
+      label: Do you think that Islamic teachings promote tolerance and acceptance
+        of other cultures?
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
+    - id: 16
+      name: influence_on_personal_values_and_moral_principles
+      label: On a scale of 1-10, how much do you think that Islamic teachings are
+        influential in shaping personal values and moral principles?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: relevance_to_global_challenges
+      label: Do you believe that Islamic teachings are relevant in the context of
+        global challenges like climate change?
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
+    - id: 18
+      name: promote_peace_and_nonviolence
+      label: On a scale of 1-10, how much do you think that Islamic teachings promote
+        peace and nonviolence?
+      hint: null
+      type: number
+      options: []
+      required: true

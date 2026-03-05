@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': 1}'
-      - '{''value'': 2, ''label'': 2}'
-      - '{''value'': 3, ''label'': 3}'
-      - '{''value'': 4, ''label'': 4}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 3
       name: parent_involvement_frequency
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Never'', ''label'': ''Never''}'
-      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
-      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
-      - '{''value'': ''Daily'', ''label'': ''Daily''}'
+      - Never
+      - Monthly
+      - Weekly
+      - Daily
       required: false
     - id: 4
       name: student_name
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Email'', ''label'': ''Email''}'
-      - '{''value'': ''Phone'', ''label'': ''Phone''}'
-      - '{''value'': ''In-person'', ''label'': ''In-person''}'
+      - Email
+      - Phone
+      - In-person
       required: false
     - id: 11
       name: parent_involvement_comments

@@ -16,258 +16,143 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: What is the primary factor that investors consider when evaluating a
+        business venture?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Growth potential
+      - Risk management
+      - Financial returns
       required: false
     - id: 2
-      name: what_do_investors_see
-      label: what_do_investors_see
+      name: investor_success_measures
+      label: How do investors measure the success of their investments?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Revenue growth
+      - Market share
+      - Customer satisfaction
       required: false
     - id: 3
-      name: what_do_investors_seek
-      label: what_do_investors_seek
+      name: investment_criteria
+      label: What do investors look for when considering an investment opportunity?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - Strong management team
+      - Unique value proposition
+      - Scalability
       required: false
     - id: 4
-      name: how_do_investors_prioritise
-      label: how_do_investors_prioritise
+      name: research_frequency
+      label: How often do investors conduct research on a company before investing?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Rarely
+      - Occasionally
+      - Regularly
       required: false
     - id: 5
-      name: what_do_investors_prefer
-      label: what_do_investors_prefer
+      name: expected_return_on_investment
+      label: What is the expected return on investment for most investors?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - 10-20% annual returns
+      - 20-50% annual returns
+      - 50% or more annual returns
       required: false
     - id: 6
-      name: why_do_investors_invest
-      label: why_do_investors_invest
+      name: industry_trends
+      label: How do investors view the current state of their industry?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Bullish
+      - Bearish
+      - Neutral
       required: false
     - id: 7
-      name: when_do_investors_invest
-      label: when_do_investors_invest
+      name: investment_priorities
+      label: What are the primary goals that investors prioritize when making investment
+        decisions?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Return on investment
+      - Risk management
+      - Social impact
       required: false
     - id: 8
-      name: what_do_investors_expect
-      label: what_do_investors_expect
+      name: progress_measurement
+      label: How do investors measure the progress of their investments?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - Financial metrics
+      - Operational efficiency
+      - Customer feedback
       required: false
     - id: 9
-      name: what_do_investors_look_for
-      label: what_do_investors_look_for
+      name: investment_return_expectations
+      label: What do investors expect in terms of return on investment?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - 10-20% annual returns
+      - 20-50% annual returns
+      - 50% or more annual returns
       required: false
     - id: 10
-      name: how_do_investors_measure_success
-      label: how_do_investors_measure_success
+      name: founder_relationships
+      label: How do investors view their fellow founders?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Positive
+      - Neutral
+      - Negative
       required: false
     - id: 11
-      name: what_do_investors_support
-      label: what_do_investors_support
+      name: value_measurement
+      label: How do investors measure the value of a company?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - Financial metrics
+      - Operational efficiency
+      - Customer satisfaction
       required: false
     - id: 12
-      name: how_do_investors_measure_progress
-      label: how_do_investors_measure_progress
+      name: market_trends
+      label: How often do investors review market trends?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Rarely
+      - Occasionally
+      - Regularly
       required: false
     - id: 13
-      name: what_do_investors_expect_in_return_on_investment
-      label: what_do_investors_expect_in_return_on_investment
+      name: market_trends_view
+      label: How do investors view market trends?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Bullish
+      - Bearish
+      - Neutral
       required: false
     - id: 14
-      name: how_do_investors_view_competitors
-      label: how_do_investors_view_competitors
+      name: value_measures
+      label: What do investors prioritize when evaluating a company's value?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 15
-      name: how_do_investors_view_market
-      label: how_do_investors_view_market
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 16
-      name: how_do_investors_measure_success
-      label: how_do_investors_measure_success
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 17
-      name: what_do_investors_expect_in_return_on_investment
-      label: what_do_investors_expect_in_return_on_investment
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 18
-      name: how_do_investors_view_industry
-      label: how_do_investors_view_industry
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 19
-      name: how_do_investors_view_fellow_founders
-      label: how_do_investors_view_fellow_founders
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 20
-      name: how_do_investors_view_founding_team
-      label: how_do_investors_view_founding_team
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: what_do_investors_support
-      label: what_do_investors_support
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 22
-      name: how_do_investors_measure_value
-      label: how_do_investors_measure_value
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 23
-      name: what_do_investors_expect_in_return_on_investment
-      label: what_do_investors_expect_in_return_on_investment
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 24
-      name: how_do_investors_view_market_trends
-      label: how_do_investors_view_market_trends
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 25
-      name: what_do_investors_expect_in_return_on_investment
-      label: what_do_investors_expect_in_return_on_investment
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
+      - Financial metrics
+      - Operational efficiency
+      - Customer satisfaction
       required: false

@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Pell Grant''}'
-      - '{''label'': ''Federal Work-Study''}'
-      - '{''label'': ''Federal Perkins Loan''}'
-      - '{''label'': ''Institutional''}'
-      - '{''label'': ''Private''}'
+      - Pell Grant
+      - Federal Work-Study
+      - Federal Perkins Loan
+      - Institutional
+      - Private
       required: false
     - id: 4
       name: income
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Other (please specify)''}'
+      - 'True'
+      - 'False'
+      - Other (please specify)
       required: false
     - id: 6
       name: financial_challenge
@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not Applicable''}'
+      - 'True'
+      - 'False'
+      - Not Applicable
       required: false
     - id: 9
       name: financial_wellness_programs
@@ -76,10 +76,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Financial Literacy''}'
-      - '{''label'': ''Financial Planning''}'
-      - '{''label'': ''Financial Wellness Program''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Financial Literacy
+      - Financial Planning
+      - Financial Wellness Program
+      - Other (please specify)
       required: false
     - id: 10
       name: other_financial_wellness_programs
@@ -101,11 +101,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Academic Advising''}'
-      - '{''label'': ''Career Counseling''}'
-      - '{''label'': ''Financial Aid Office''}'
-      - '{''label'': ''Student Life''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Academic Advising
+      - Career Counseling
+      - Financial Aid Office
+      - Student Life
+      - Other (please specify)
       required: false
     - id: 13
       name: school_support_services_details

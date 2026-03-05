@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''federal''}'
-      - '{''value'': ''private''}'
+      - federal
+      - private
       required: false
     - id: 3
       name: satisfaction
@@ -25,10 +25,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''very_satisfied''}'
-      - '{''value'': ''somewhat_satisfied''}'
-      - '{''value'': ''somewhat_dissatisfied''}'
-      - '{''value'': ''very_dissatisfied''}'
+      - very satisfied
+      - somewhat satisfied
+      - somewhat dissatisfied
+      - very dissatisfied
       required: false
     - id: 4
       name: school_financial_aid
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''student''}'
-      - '{''value'': ''financial_aid_officer''}'
-      - '{''value'': ''other''}'
+      - student
+      - financial aid officer
+      - other
       required: false
     - id: 13
       name: other_survey_completed_by

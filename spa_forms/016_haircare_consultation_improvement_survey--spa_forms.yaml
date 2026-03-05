@@ -5,188 +5,79 @@ inputSchema:
     pages:
     - id: 1
       name: consultation_improvement_survey_page
-      label: What did we get right
+      label: What did we get right?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: What did we get wrong
+      label: What did we get wrong?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: What did we get right page
+      name: consultation_improvement_survey_follow_up_page
+      label: Are you available for a follow-up consultation?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 4
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: What did we get wrong page
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: What did we get wrong page
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: What time of day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
+      name: consultation_improvement_survey_email_page
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 9
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
+      required: true
+    - id: 5
+      name: consultation_improvement_survey_phone_page
       label: Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 10
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: Your Feedback
-      hint: null
-      type: text
-      options: []
       required: true
-    - id: 11
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: What is your email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: What is your phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: Your Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: Your name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: What is your age
+    - id: 6
+      name: consultation_improvement_survey_age_page
+      label: What is your age?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 16
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: What is your gender
+      required: true
+    - id: 7
+      name: consultation_improvement_survey_gender_page
+      label: What is your gender?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: What is your hair type
+      - Male
+      - Female
+      required: true
+    - id: 8
+      name: consultation_improvement_survey_hair_type_page
+      label: What is your hair type?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: What is your service
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: consultation_improvement_survey_service_page
+      label: What is your preferred service?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: Do you like this
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: consultation_improvement_survey_note_page
       label: Note
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 21
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: Your Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: Your Feedback
-      hint: null
-      type: text
       options: []
       required: true
-    - id: 25
-      name: consultation_improvement_survey_what_we_didnt_get_right_page
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false

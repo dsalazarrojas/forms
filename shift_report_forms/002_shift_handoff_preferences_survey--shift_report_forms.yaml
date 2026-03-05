@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''None''}'
-      - '{''id'': 2, ''name'': ''Primary''}'
-      - '{''id'': 3, ''name'': ''Secondary''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - None
+      - Primary
+      - Secondary
+      - Other
       required: false
     - id: 2
       name: handoff_method
@@ -20,10 +20,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Voice''}'
-      - '{''id'': 2, ''name'': ''Video''}'
-      - '{''id'': 3, ''name'': ''Text''}'
-      - '{''id'': 4, ''name'': ''Email''}'
+      - Voice
+      - Video
+      - Text
+      - Email
       required: false
     - id: 3
       name: shift_length
@@ -45,10 +45,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Bi-Weekly''}'
-      - '{''id'': 4, ''name'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
       required: false
     - id: 6
       name: improvement_priorities
@@ -56,11 +56,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Prophets''}'
-      - '{''id'': 2, ''name'': ''Shift Leader''}'
-      - '{''id'': 3, ''name'': ''Team Manager''}'
-      - '{''id'': 4, ''name'': ''Team Lead''}'
-      - '{''id'': 5, ''name'': ''Other''}'
+      - Prophets
+      - Shift Leader
+      - Team Manager
+      - Team Lead
+      - Other
       required: false
     - id: 7
       name: feedback_frequency
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Bi-Weekly''}'
-      - '{''id'': 4, ''name'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
       required: false
     - id: 8
       name: feedback_type
@@ -79,10 +79,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Verbal''}'
-      - '{''id'': 2, ''name'': ''Written''}'
-      - '{''id'': 3, ''name'': ''Email''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Verbal
+      - Written
+      - Email
+      - Other
       required: false
     - id: 9
       name: communication_type
@@ -90,8 +90,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Phone''}'
-      - '{''id'': 2, ''name'': ''Email''}'
+      - Phone
+      - Email
       required: false
     - id: 10
       name: improvement_areas
@@ -99,11 +99,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Prophets''}'
-      - '{''id'': 2, ''name'': ''Shift Leader''}'
-      - '{''id'': 3, ''name'': ''Team Manager''}'
-      - '{''id'': 4, ''name'': ''Team Lead''}'
-      - '{''id'': 5, ''name'': ''Other''}'
+      - Prophets
+      - Shift Leader
+      - Team Manager
+      - Team Lead
+      - Other
       required: false
     - id: 11
       name: submission_status
@@ -111,8 +111,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Approved''}'
-      - '{''id'': 2, ''name'': ''In Review''}'
-      - '{''id'': 3, ''name'': ''Rejected''}'
-      - '{''id'': 4, ''name'': ''In Progress''}'
+      - Approved
+      - In Review
+      - Rejected
+      - In Progress
       required: false

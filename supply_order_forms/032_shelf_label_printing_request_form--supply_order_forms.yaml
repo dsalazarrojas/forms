@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Retail team''}'
-      - '{''id'': 2, ''value'': ''Warehouse team''}'
+      - Retail team
+      - Warehouse team
       required: false
     - id: 7
       name: production_status
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''In progress''}'
-      - '{''id'': 2, ''value'': ''Complete''}'
-      - '{''id'': 3, ''value'': ''Delayed''}'
+      - In progress
+      - Complete
+      - Delayed
       required: false
     - id: 8
       name: notes

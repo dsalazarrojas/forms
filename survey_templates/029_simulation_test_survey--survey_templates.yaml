@@ -4,188 +4,112 @@ inputSchema:
     title: Simulation Test Survey
     pages:
     - id: 1
-      name: simulation_test_survey_title
-      label: Simulation Test Survey
+      name: participant_feedback
+      label: What was your overall experience with the simulation test?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: simulation_test_survey_category
-      label: Category
+      name: participant_rating
+      label: How would you rate your experience with the simulation test?
       hint: null
-      type: select_one
-      options:
-      - Survey Templates
-      - Education Forms
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 3
-      name: simulation_test_survey_description
-      label: Description
+      name: participant_comments
+      label: What did you think of the test's difficulty level?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: simulation_test_survey_participant_id
-      label: Participant ID
+      name: recommend_simulation_test
+      label: How likely are you to recommend this simulation test to others?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 5
+      name: most_challenging_part
+      label: What was the most challenging part of the simulation test?
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
-      name: simulation_test_survey_start_time
-      label: Start Time
-      hint: null
-      type: time
-      options: []
-      required: false
     - id: 6
-      name: simulation_test_survey_end_time
-      label: End Time
+      name: test_duration
+      label: How much time did you spend on the simulation test?
       hint: null
       type: time
       options: []
       required: false
     - id: 7
-      name: simulation_test_survey_participant_feedback
-      label: Participant Feedback
+      name: start_time
+      label: Start Time
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 8
-      name: simulation_test_survey_surveyor_test
-      label: Survey or Test
+      name: finish_time
+      label: Finish Time
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: time
+      options: []
+      required: true
     - id: 9
-      name: simulation_test_survey_participant_comments
-      label: Participant Comments
+      name: num_completed_tests
+      label: How many simulation tests have you completed before?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - 4 or more
+      required: true
     - id: 10
-      name: simulation_test_survey_instructor_name
-      label: Instructor Name
+      name: find_useful
+      label: Do you think this simulation test was useful?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
     - id: 11
-      name: simulation_test_survey_instructor_comments
-      label: Instructor Comments
+      name: overall_design
+      label: What do you think about the simulation test's overall design?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: simulation_test_survey_participant_rating
-      label: Participant Rating
+      name: take_again
+      label: Would you take this simulation test again?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
       required: false
     - id: 13
-      name: simulation_test_survey_instructor_rating
-      label: Instructor Rating
+      name: instructions
+      label: How did you find the simulation test's instructions?
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 14
-      name: simulation_test_survey_survey_completion_status
-      label: Survey Completion Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 15
-      name: simulation_test_survey_survey_type
-      label: Survey Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: simulation_test_survey_survey_or_test_name
-      label: Survey or Test Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: simulation_test_survey_participant_id
-      label: Participant ID
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: simulation_test_survey_start_time
-      label: Start Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: simulation_test_survey_end_time
-      label: End Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: simulation_test_survey_participant_rating
-      label: Participant Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: simulation_test_survey_instructor_rating
-      label: Instructor Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: simulation_test_survey_survey_completion_status
-      label: Survey Completion Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 23
-      name: simulation_test_survey_survey_type
-      label: Survey Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: simulation_test_survey_survey_or_test_name
-      label: Survey or Test Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: simulation_test_survey_participant_id
-      label: Participant ID
+      name: suggestions
+      label: Do you have any suggestions for the simulation test's improvement?
       hint: null
       type: text
       options: []

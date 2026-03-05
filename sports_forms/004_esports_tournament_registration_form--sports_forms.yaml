@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''esports_tournament'', ''label'': ''esports tournament''}'
-      - '{''id'': 2, ''name'': ''esports_league'', ''label'': ''esports league''}'
+      - esports tournament
+      - esports league
       required: false
     - id: 6
       name: competition_date
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''online'', ''label'': ''online''}'
-      - '{''id'': 2, ''name'': ''offline'', ''label'': ''offline''}'
-      - '{''id'': 3, ''name'': ''hybrid'', ''label'': ''hybrid''}'
+      - online
+      - offline
+      - hybrid
       required: false
     - id: 8
       name: team_name

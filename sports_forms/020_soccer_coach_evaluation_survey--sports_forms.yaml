@@ -31,9 +31,9 @@ inputSchema:
         sessions.
       type: select_one
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Negative''}'
+      - Positive
+      - Fair
+      - Negative
       required: false
     - id: 5
       name: positive_environment
@@ -41,10 +41,10 @@ inputSchema:
       hint: Rate the positive environment at your team's practices and games.
       type: select_multiple
       options:
-      - '{''label'': ''Encouraging''}'
-      - '{''label'': ''Supportive''}'
-      - '{''label'': ''Motivating''}'
-      - '{''label'': ''Negative''}'
+      - Encouraging
+      - Supportive
+      - Motivating
+      - Negative
       required: false
     - id: 6
       name: feedback_to_players
@@ -52,10 +52,10 @@ inputSchema:
       hint: Rate the quality and helpfulness of the feedback provided to players.
       type: select_one
       options:
-      - '{''label'': ''Consistently''}'
-      - '{''label'': ''Occasionally''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Consistently
+      - Occasionally
+      - Rarely
+      - Never
       required: false
     - id: 7
       name: player_development
@@ -63,9 +63,9 @@ inputSchema:
       hint: Rate your coach's ability to help players grow and improve their skills.
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 8
       name: coach_likability
@@ -73,9 +73,9 @@ inputSchema:
       hint: Rate your coach's likability and relatability.
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 9
       name: additional_comments
@@ -97,9 +97,9 @@ inputSchema:
       hint: Rate your coach's coaching style based on the provided options.
       type: select_one
       options:
-      - '{''label'': ''Highly Effective''}'
-      - '{''label'': ''Somewhat Effective''}'
-      - '{''label'': ''Not Very Effective''}'
+      - Highly Effective
+      - Somewhat Effective
+      - Not Very Effective
       required: false
     - id: 12
       name: player_development_scale
@@ -107,9 +107,9 @@ inputSchema:
       hint: Rate your coach's ability to help players grow and improve their skills.
       type: select_one
       options:
-      - '{''label'': ''Highly Effective''}'
-      - '{''label'': ''Somewhat Effective''}'
-      - '{''label'': ''Not Very Effective''}'
+      - Highly Effective
+      - Somewhat Effective
+      - Not Very Effective
       required: false
     - id: 13
       name: communication_scale
@@ -117,9 +117,9 @@ inputSchema:
       hint: Rate your coach's ability to communicate effectively.
       type: select_one
       options:
-      - '{''label'': ''Highly Effective''}'
-      - '{''label'': ''Somewhat Effective''}'
-      - '{''label'': ''Not Very Effective''}'
+      - Highly Effective
+      - Somewhat Effective
+      - Not Very Effective
       required: false
     - id: 14
       name: likability_scale
@@ -127,9 +127,9 @@ inputSchema:
       hint: Rate your coach's likability and relatability.
       type: select_one
       options:
-      - '{''label'': ''Highly Likable''}'
-      - '{''label'': ''Somewhat Likable''}'
-      - '{''label'': ''Not Very Likable''}'
+      - Highly Likable
+      - Somewhat Likable
+      - Not Very Likable
       required: false
     - id: 15
       name: team_environment_scale
@@ -137,8 +137,8 @@ inputSchema:
       hint: Rate the positive and negative aspects of the team environment.
       type: select_multiple
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Negative''}'
+      - Positive
+      - Negative
       required: false
     - id: 16
       name: feedback_scale
@@ -146,10 +146,10 @@ inputSchema:
       hint: Rate the quality and helpfulness of feedback provided to players.
       type: select_multiple
       options:
-      - '{''label'': ''Consistently''}'
-      - '{''label'': ''Occasionally''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Consistently
+      - Occasionally
+      - Rarely
+      - Never
       required: false
     - id: 17
       name: overall_likability
@@ -157,9 +157,9 @@ inputSchema:
       hint: Rate the likability and relatability of your coach.
       type: select_multiple
       options:
-      - '{''label'': ''Highly Likable''}'
-      - '{''label'': ''Somewhat Likable''}'
-      - '{''label'': ''Not Very Likable''}'
+      - Highly Likable
+      - Somewhat Likable
+      - Not Very Likable
       required: false
     - id: 18
       name: overall_environment
@@ -167,10 +167,10 @@ inputSchema:
       hint: Rate the overall positive and negative aspects of your team's environment.
       type: select_multiple
       options:
-      - '{''label'': ''Encouraging''}'
-      - '{''label'': ''Supportive''}'
-      - '{''label'': ''Motivating''}'
-      - '{''label'': ''Negative''}'
+      - Encouraging
+      - Supportive
+      - Motivating
+      - Negative
       required: false
     - id: 19
       name: player_performance
@@ -178,9 +178,9 @@ inputSchema:
       hint: Rate the performance of players under their coach's guidance.
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 20
       name: communication
@@ -191,14 +191,14 @@ inputSchema:
       required: false
     - id: 21
       name: additional_comments_2
-      label: Additional Comments
+      label: Additional Comments 2
       hint: null
       type: text
       options: []
       required: false
     - id: 22
       name: overall_performance_2
-      label: Overall Performance
+      label: Overall Performance 2
       hint: null
       type: number
       options: []
@@ -212,14 +212,14 @@ inputSchema:
       required: false
     - id: 24
       name: communication_style_2
-      label: Communication Style
+      label: Communication Style 2
       hint: Rate your coach's communication style.
       type: text
       options: []
       required: false
     - id: 25
       name: overall_rating_2
-      label: Overall Rating
+      label: Overall Rating 2
       hint: Rate your overall experience with your coach.
       type: number
       options: []

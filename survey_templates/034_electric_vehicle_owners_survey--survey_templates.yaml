@@ -5,160 +5,114 @@ inputSchema:
     pages:
     - id: 1
       name: vehicle_type
-      label: vehicle_type
+      label: What type of vehicle do you own?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - car
+      - truck
+      - bike
+      - other
       required: false
     - id: 2
       name: vehicle_year
-      label: vehicle_year
+      label: What is the year of your vehicle?
       hint: null
       type: number
       options: []
       required: false
     - id: 3
-      name: battery_size
-      label: battery_size
+      name: has_large_battery
+      label: Does your vehicle have a battery size of 40kWh or larger?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: charging_frequency
-      label: charging_frequency
+      label: How often do you charge your vehicle?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 5
-      name: range
-      label: range
+      name: driving_range
+      label: What is your driving range?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 100-200mi
+      - 200-300mi
+      - 300+mi
       required: false
     - id: 6
-      name: drive_time
-      label: drive_time
+      name: vehicle_weight
+      label: How much does your vehicle weight?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 0-1t
+      - 1-2t
+      - 2+ t
       required: false
     - id: 7
-      name: driving_habits
-      label: driving_habits
+      name: driving_frequency
+      label: How often do you drive in a week?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 0-1 day
+      - 1-2 days
+      - 2-3 days
+      - 4-5 days
+      - 6 days
       required: false
     - id: 8
-      name: vehicle_weight
-      label: vehicleประกweight
+      name: driving_fuel_type
+      label: What type of fuel do you use for your driving habits?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Electric
+      - Gasoline
+      - Diesel
+      - Hybrid
       required: false
     - id: 9
-      name: range
-      label: range
+      name: driving_miles_per_week
+      label: How many miles do you drive per week?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 10
-      name: drive_frequency
-      label: drive_frequency
+      name: driving_miles_per_month
+      label: How many miles do you drive per month?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 11
-      name: battery_kwh_used
-      label: battery_kwh_used
+      name: driving_miles_per_year
+      label: How many miles do you drive per year?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 12
-      name: driving_miles_per_week
-      label: driving_miles_per_week
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: driving_miles_per_month
-      label: driving_miles_per_month
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: driving_miles_per_year
-      label: driving_miles_per_year
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: driving_miles_per_week
-      label: driving_miles_per_week
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: driving_frequency
-      label: driving_frequency
+      name: driving_frequency_2
+      label: How often do you drive?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: driving_fuel_type
-      label: driving_fuel_type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: vehicle_weight
-      label: vehicle_weight
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: driving_frequency
-      label: driving_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      - 1-2 times/week
+      - 2-4 times/week
+      - 5+ times/week
       required: false

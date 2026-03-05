@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: preferred_contact
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Other''}'
+      - Phone
+      - Email
+      - Other
       required: false
     - id: 4
       name: contact_frequency
@@ -49,10 +49,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Emotional''}'
-      - '{''value'': ''Financial''}'
-      - '{''value'': ''Practical''}'
-      - '{''value'': ''Spiritual''}'
+      - Emotional
+      - Financial
+      - Practical
+      - Spiritual
       required: false
     - id: 7
       name: support_services
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Improve Daily Functioning''}'
-      - '{''value'': ''Build Support Network''}'
-      - '{''value'': ''Address Mental Health''}'
+      - Improve Daily Functioning
+      - Build Support Network
+      - Address Mental Health
       required: true
     - id: 9
       name: client_history
@@ -84,10 +84,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Spouse''}'
-      - '{''value'': ''Family''}'
-      - '{''value'': ''Friends''}'
-      - '{''value'': ''Other''}'
+      - Spouse
+      - Family
+      - Friends
+      - Other
       required: false
     - id: 11
       name: service_requests
@@ -137,9 +137,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''In-Office''}'
-      - '{''value'': ''Off-Site''}'
-      - '{''value'': ''Telephonic''}'
+      - In-Office
+      - Off-Site
+      - Telephonic
       required: true
     - id: 18
       name: follow_up_scheduling
@@ -147,8 +147,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: follow_up_frequency
@@ -156,9 +156,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 20
       name: client_culture
@@ -187,9 +187,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Phone Call''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''In-Person''}'
+      - Phone Call
+      - Email
+      - In-Person
       required: false
     - id: 24
       name: follow_up_notes

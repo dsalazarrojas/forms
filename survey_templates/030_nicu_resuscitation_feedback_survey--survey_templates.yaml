@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cardiac Arrest''}'
-      - '{''id'': 2, ''label'': ''Seizure''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Cardiac Arrest
+      - Seizure
+      - Other
       required: false
     - id: 3
       name: staff_involved
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Doctor''}'
-      - '{''id'': 2, ''label'': ''Nurse''}'
-      - '{''id'': 3, ''label'': ''Respiratory''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Doctor
+      - Nurse
+      - Respiratory
+      - Other
       required: false
     - id: 4
       name: patient_age
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''CPAP''}'
-      - '{''id'': 2, ''label'': ''PPV''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - CPAP
+      - PPV
+      - Other
       required: false
     - id: 8
       name: complications
@@ -68,12 +68,12 @@ inputSchema:
       hint: Check all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Hypotension''}'
-      - '{''id'': 3, ''label'': ''Hypertension''}'
-      - '{''id'': 4, ''label'': ''Hypoxia''}'
-      - '{''id'': 5, ''label'': ''Bradycardia''}'
-      - '{''id'': 6, ''label'': ''Other''}'
+      - None
+      - Hypotension
+      - Hypertension
+      - Hypoxia
+      - Bradycardia
+      - Other
       required: false
     - id: 9
       name: outcome
@@ -81,7 +81,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Poor''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Good
+      - Poor
+      - Other
       required: false

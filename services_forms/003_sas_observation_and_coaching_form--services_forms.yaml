@@ -4,187 +4,81 @@ inputSchema:
     title: SAS Observation And Coaching Form
     pages:
     - id: 1
-      name: main_page
-      label: Main Page
+      name: introduction
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: observations
-      label: Observations
+      name: introduction_2
+      label: What is your position/title in the organization?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
+      name: observation
+      label: Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: observation_2
+      label: What were the most significant observations that stood out to you?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
       name: coaching
       label: Coaching
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: feedback
-      label: Feedback
-      hint: null
-      type: note
+      type: text
       options: []
       required: false
-    - id: 5
+    - id: 6
+      name: coaching_2
+      label: How did the client/individual respond to coaching?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
       name: progress
       label: Progress
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 8
-      name: email
-      label: Email
+      name: progress_2
+      label: Describe the progress made
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 9
-      name: phone
-      label: Phone
+      name: review
+      label: Review
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: main_page
-      label: Review
+      name: review_2
+      label: What did you learn from the experience?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 11
-      name: main_page
-      label: Review
+      name: review_3
+      label: Additional comments
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 12
-      name: main_page
-      label: Review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: main_page
-      label: Review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: main_page
-      label: Review
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: main_page
-      label: Review
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: main_page
-      label: Review
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: main_page
-      label: Review
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: main_page
-      label: Review
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: main_page
-      label: Review
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: main_page
-      label: Review
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: main_page
-      label: Review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: main_page
-      label: Review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: main_page
-      label: Review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: main_page
-      label: Review
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: main_page
-      label: Review
-      hint: null
-      type: time
       options: []
       required: false

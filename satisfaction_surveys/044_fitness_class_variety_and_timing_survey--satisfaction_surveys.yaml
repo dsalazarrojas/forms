@@ -18,10 +18,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Morning''}'
-      - '{''label'': ''Afternoon''}'
-      - '{''label'': ''Evening''}'
-      - '{''label'': ''Other''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - Other
       required: false
     - id: 3
       name: class_frequency
@@ -29,10 +29,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Occasionally''}'
-      - '{''label'': ''Often''}'
-      - '{''label'': ''Almost Always''}'
+      - Rarely
+      - Occasionally
+      - Often
+      - Almost Always
       required: false
     - id: 4
       name: class_duration
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''30-60 minutes''}'
-      - '{''label'': ''60-90 minutes''}'
-      - '{''label'': ''90-120 minutes''}'
+      - 30-60 minutes
+      - 60-90 minutes
+      - 90-120 minutes
       required: false
     - id: 5
       name: class_intensity
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 6
       name: class_style

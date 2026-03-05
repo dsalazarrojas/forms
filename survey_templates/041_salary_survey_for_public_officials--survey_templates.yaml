@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Executive''}'
-      - '{''id'': 2, ''name'': ''Manager''}'
-      - '{''id'': 3, ''name'': ''Public Administrator''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Executive
+      - Manager
+      - Public Administrator
+      - Other
       required: false
     - id: 3
       name: job_type
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Executive''}'
-      - '{''id'': 2, ''name'': ''Manager''}'
-      - '{''id'': 3, ''name'': ''Public Administrator''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Executive
+      - Manager
+      - Public Administrator
+      - Other
       required: false
     - id: 4
       name: years_of_service
@@ -45,13 +45,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''$40,000-$49,999''}'
-      - '{''id'': 2, ''name'': ''$50,000-$59,999''}'
-      - '{''id'': 3, ''name'': ''$60,000-$69,999''}'
-      - '{''id'': 4, ''name'': ''$70,000-$79,999''}'
-      - '{''id'': 5, ''name'': ''$80,000-$89,999''}'
-      - '{''id'': 6, ''name'': ''$90,000-$99,999''}'
-      - '{''id'': 7, ''name'': ''$100,000+''}'
+      - $40,000-$49,999
+      - $50,000-$59,999
+      - $60,000-$69,999
+      - $70,000-$79,999
+      - $80,000-$89,999
+      - $90,000-$99,999
+      - $100,000+
       required: false
     - id: 6
       name: benefits
@@ -59,11 +59,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Pension''}'
-      - '{''id'': 2, ''name'': ''Health insurance''}'
-      - '{''id'': 3, ''name'': ''Paid time off''}'
-      - '{''id'': 4, ''name'': ''Flexible work arrangement''}'
-      - '{''id'': 5, ''name'': ''Other''}'
+      - Pension
+      - Health insurance
+      - Paid time off
+      - Flexible work arrangement
+      - Other
       required: false
     - id: 7
       name: satisfaction
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 8
       name: job_satisfaction
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 12
       name: benefits_performance
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 13
       name: salary_performance
@@ -122,9 +122,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 14
       name: overall_satisfaction
@@ -132,9 +132,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 15
       name: job_security
@@ -142,9 +142,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 16
       name: job_satisfaction
@@ -152,9 +152,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 17
       name: job_satisfaction_level
@@ -162,9 +162,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 18
       name: benefits_satisfaction
@@ -172,9 +172,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 19
       name: benefits_satisfaction_level
@@ -182,9 +182,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 20
       name: job_type_satisfaction
@@ -192,9 +192,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 21
       name: job_type_satisfaction_level
@@ -202,9 +202,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 22
       name: job_employer_satisfaction
@@ -212,9 +212,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 23
       name: role_satisfaction
@@ -222,9 +222,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 24
       name: role_satisfaction_level
@@ -232,9 +232,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 25
       name: comments

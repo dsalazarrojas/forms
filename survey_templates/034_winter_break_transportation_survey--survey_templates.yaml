@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Fly''}'
-      - '{''id'': 2, ''label'': ''Drive''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Fly
+      - Drive
+      - Other
       required: false
     - id: 3
       name: trip_details
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Rarely''}'
-      - '{''id'': 2, ''label'': ''Occasionally''}'
-      - '{''id'': 3, ''label'': ''Frequently''}'
+      - Rarely
+      - Occasionally
+      - Frequently
       required: false
     - id: 11
       name: transportation_mode
@@ -85,11 +85,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Car''}'
-      - '{''id'': 2, ''label'': ''Train''}'
-      - '{''id'': 3, ''label'': ''Bus''}'
-      - '{''id'': 4, ''label'': ''Plane''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Car
+      - Train
+      - Bus
+      - Plane
+      - Other
       required: false
     - id: 12
       name: travel_cost
@@ -139,9 +139,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''On Campus''}'
-      - '{''id'': 2, ''label'': ''Near Campus''}'
-      - '{''id'': 3, ''label'': ''Off Campus''}'
+      - On Campus
+      - Near Campus
+      - Off Campus
       required: false
     - id: 19
       name: parking
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      - 'True'
+      - 'False'
+      - Not Applicable
       required: false
     - id: 20
       name: parking_lot
@@ -173,9 +173,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Shuttle''}'
-      - '{''id'': 2, ''label'': ''Taxi''}'
-      - '{''id'': 3, ''label'': ''Ride-hailing''}'
+      - Shuttle
+      - Taxi
+      - Ride-hailing
       required: false
     - id: 23
       name: campus_map

@@ -5,26 +5,19 @@ inputSchema:
     pages:
     - id: 1
       name: date
-      label: Date
+      label: Client's Date of Visit
       hint: null
       type: date
       options: []
       required: true
     - id: 2
-      name: technician_name
-      label: Technician Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 3
       name: client_name
       label: Client Name
       hint: null
       type: text
       options: []
       required: true
-    - id: 4
+    - id: 3
       name: equipment_condition
       label: Equipment Condition
       hint: null
@@ -36,7 +29,7 @@ inputSchema:
       - Missing
       - Unknown
       required: true
-    - id: 5
+    - id: 4
       name: chemicals_condition
       label: Chemicals Condition
       hint: null
@@ -46,7 +39,7 @@ inputSchema:
       - Poor
       - Unknown
       required: true
-    - id: 6
+    - id: 5
       name: wax_condition
       label: Wax Condition
       hint: null
@@ -55,33 +48,33 @@ inputSchema:
       - Good
       - Poor
       - Unknown
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: notes
-      label: Notes
+      label: Additional Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 8
-      name: signature
-      label: Technician Signature
+    - id: 7
+      name: technician_signature
+      label: Technician's Signature
       hint: null
       type: text
       options: []
       required: true
-    - id: 9
-      name: equipment_condition_3
-      label: Equipment Condition
+    - id: 8
+      name: yes_no_equipment_condition
+      label: Equipment Condition (Yes/No)
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 10
-      name: chemicals_condition_3
-      label: Chemicals Condition
+    - id: 9
+      name: chemicals_condition_2
+      label: Chemicals Condition 2
       hint: null
       type: select_multiple
       options:
@@ -89,26 +82,43 @@ inputSchema:
       - Poor
       - Unknown
       required: true
-    - id: 11
+    - id: 10
       name: technician_name
-      label: Technician Name
+      label: Technician's Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 11
+      name: additional_notes
+      label: Additional Notes (2)
+      hint: null
+      type: note
+      options: []
+      required: true
     - id: 12
+      name: yes_no_equipment_condition_2
+      label: Yes No Equipment Condition 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: chemicals_condition_2_2
+      label: Chemicals Condition 2 2
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      - Unknown
+      required: true
+    - id: 14
       name: notes_2
       label: Notes
       hint: null
       type: note
       options: []
-      required: true
-    - id: 13
-      name: equipment_condition_5
-      label: Equipment Condition
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: true

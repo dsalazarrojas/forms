@@ -5,207 +5,95 @@ inputSchema:
     pages:
     - id: 1
       name: intro_page
-      label: introduction
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: display_type
-      label: display_type
+      label: Will you be attending the Winter Illumination event?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 3
       name: photo_credit
-      label: photo_credit
+      label: Do you have a photo credit for the event?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
-      name: display_rating
-      label: display_rating
+      name: rating_1
+      label: How would you rate the event's display quality (good)?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Good
+      - Fair
       required: false
     - id: 5
       name: feedback
-      label: feedback
+      label: Feedback
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: suggestion
-      label: suggestion
+      label: Suggestion
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: display_type_other
-      label: other
+      name: display_type_2
+      label: Will you be displaying your name at the event?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: rating_1
-      label: rating_1
+      name: event_name
+      label: Event name
       hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Fair
+      type: text
+      options: []
       required: false
     - id: 9
-      name: rating_2
-      label: rating_2
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 10
-      name: rating_3
-      label: rating_3
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 11
-      name: rating_4
-      label: rating_4
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 12
-      name: rating_5
-      label: rating_5
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 13
-      name: display_name
-      label: display_name
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: display_type_other
-      label: other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: display_name_other
-      label: other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: display_description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: display_location
-      label: location
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: display_location_other
-      label: other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: event_name
-      label: event_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
       name: event_date
-      label: event_date
+      label: Event date
       hint: null
       type: date
       options: []
       required: false
-    - id: 21
+    - id: 10
       name: event_time
-      label: event_time
+      label: Event time
       hint: null
       type: time
       options: []
       required: false
-    - id: 22
-      name: display_type_5
-      label: photo_credit_5
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: photo_description
-      label: photo_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: photo_credit
-      label: photo_credit
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: display_name
-      label: display_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
+    - id: 11
       name: display_location
-      label: display_location
+      label: Where will the event be held?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
       required: false

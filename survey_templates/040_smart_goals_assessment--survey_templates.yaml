@@ -15,96 +15,96 @@ inputSchema:
     title: SMART Goals Assessment
     pages:
     - id: 1
-      name: survey_templates_1
+      name: introduction
       label: Introduction
-      hint: null
+      hint: This form will help you assess the SMARTness of a goal.
       type: note
       options: []
       required: false
     - id: 2
-      name: question_1
+      name: goal_clarity
       label: Is the goal clear?
-      hint: null
+      hint: Describe the goal in one sentence.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: question_2
+      name: goal_achievable
       label: Is the goal achievable?
-      hint: null
+      hint: Consider the resources and challenges.
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      required: false
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 4
-      name: question_3
+      name: goal_relevance
       label: Is the goal relevant?
-      hint: null
-      type: select_multiple
+      hint: How does it align with your overall objectives?
+      type: select_one
       options:
-      - '{''value'': ''Goal is relevant''}'
-      - '{''value'': ''Goal is irrelevant''}'
-      required: false
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 5
-      name: question_4
-      label: Is the goal measurable?
-      hint: null
+      name: goal_measurability
+      label: How will you measure progress towards the goal?
+      hint: Provide specific metrics or indicators.
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: question_5
+      name: goal_attainability
       label: Is the goal attainable?
-      hint: null
+      hint: Consider the resources and challenges.
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      required: false
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 7
-      name: question_6
+      name: goal_timeliness
       label: Is the goal time-bound?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Time-bound''}'
-      - '{''value'': ''Not time-bound''}'
-      required: false
-    - id: 8
-      name: question_7
-      label: Is the goal specific?
-      hint: null
+      hint: Provide a specific deadline or timeframe.
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      required: false
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: goal_specificty
+      label: Is the goal specific?
+      hint: Clearly define what needs to be achieved.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 9
-      name: question_8
-      label: Is the goal measurable?
-      hint: null
+      name: goal_outcome
+      label: What is the expected outcome or result of achieving the goal?
+      hint: Describe the benefits or impact.
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: question_9
-      label: Is the goal measurable?
-      hint: null
+      name: goal_progress_tracking
+      label: How will you track and report progress towards the goal?
+      hint: Describe your process.
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: question_10
-      label: Is the goal measurable?
-      hint: null
+      name: goal_impact
+      label: What is the expected impact or benefit of achieving the goal?
+      hint: Describe the effects on your work or life.
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: question_11
-      label: Is the goal measurable?
-      hint: null
-      type: text
+      name: introduction_2
+      label: Additional comments or feedback.
+      hint: Please share any additional thoughts or insights.
+      type: note
       options: []
       required: false

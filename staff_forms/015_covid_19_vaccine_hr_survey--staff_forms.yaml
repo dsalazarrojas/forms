@@ -144,8 +144,8 @@ inputSchema:
       hint: Any chronic health conditions
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Prefer Not to Say
       required: false
     - id: 16
@@ -161,8 +161,8 @@ inputSchema:
       hint: Do you have a compromised immune system
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       - Prefer Not to Say
       required: false
@@ -185,7 +185,7 @@ inputSchema:
       options:
       - Yes, confirmed positive
       - Yes, probably had it
-      - false
+      - 'False'
       - Unsure
       required: false
     - id: 20

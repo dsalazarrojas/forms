@@ -15,7 +15,7 @@ inputSchema:
     title: Vendor Invoice Experience Survey
     pages:
     - id: 1
-      name: vendor_invoicesurvey
+      name: satisfaction_with_invoices
       label: What do you think about the invoices we send?
       hint: null
       type: text
@@ -122,7 +122,7 @@ inputSchema:
       - Never
       required: false
     - id: 12
-      name: vendor_experience
+      name: overall_experience
       label: How would you rate your overall experience with our vendor team?
       hint: null
       type: select_one
@@ -153,7 +153,7 @@ inputSchema:
       - Not very effective
       required: false
     - id: 15
-      name: vendor_satisfaction
+      name: satisfaction_with_vendor_team
       label: How satisfied are you with our vendor team?
       hint: null
       type: select_one
@@ -180,8 +180,8 @@ inputSchema:
       options: []
       required: false
     - id: 18
-      name: payment_timeliness
-      label: How timely are our payments?
+      name: payment_timeliness_2
+      label: Payment Timeliness 2
       hint: null
       type: select_multiple
       options:
@@ -190,8 +190,8 @@ inputSchema:
       - Not very timely
       required: false
     - id: 19
-      name: vendor_relationship
-      label: What kind of relationship do you have with our vendor team?
+      name: vendor_relationship_2
+      label: Vendor Relationship 2
       hint: null
       type: select_one
       options:
@@ -200,81 +200,12 @@ inputSchema:
       - Not very close
       required: false
     - id: 20
-      name: vendor_support
-      label: How supportive is the vendor team in answering your questions?
+      name: vendor_support_2
+      label: Vendor Support 2
       hint: null
       type: select_multiple
       options:
       - Highly supportive
       - Somewhat supportive
       - Not very supportive
-      required: false
-    - id: 21
-      name: additional_comments
-      label: Is there anything else you'd like to comment on or tell us about?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: payment_frequency
-      label: How often do you receive payments from our company?
-      hint: null
-      type: select_multiple
-      options:
-      - Every time
-      - Most of the time
-      - Some of the time
-      - Never
-      required: false
-    - id: 23
-      name: vendor_experience
-      label: How would you rate your overall experience with our vendor team?
-      hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
-      required: false
-    - id: 24
-      name: invoice_format
-      label: How often do you like the format of our invoices?
-      hint: null
-      type: select_multiple
-      options:
-      - Very much
-      - Somewhat
-      - Not very much
-      required: false
-    - id: 25
-      name: communication_effectiveness
-      label: How effective is our communication in addressing your concerns?
-      hint: null
-      type: select_multiple
-      options:
-      - Very effective
-      - Somewhat effective
-      - Not very effective
-      required: false
-    - id: 26
-      name: vendor_satisfaction
-      label: How satisfied are you with our vendor team?
-      hint: null
-      type: select_one
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Not very satisfied
-      required: false
-    - id: 27
-      name: payment_punctuality
-      label: How punctual are our payments?
-      hint: null
-      type: select_multiple
-      options:
-      - Very punctual
-      - Somewhat punctual
-      - Not very punctual
       required: false

@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Satisfied'', ''value'': 4}'
-      - '{''label'': ''Somewhat Satisfied'', ''value'': 3}'
-      - '{''label'': ''Not Satisfied'', ''value'': 2}'
-      - '{''label'': ''Very Not Satisfied'', ''value'': 1}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Very Not Satisfied
       required: false
     - id: 2
       name: conference_topics
@@ -20,9 +20,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Technical'', ''value'': ''technical''}'
-      - '{''label'': ''Business'', ''value'': ''business''}'
-      - '{''label'': ''Social'', ''value'': ''social''}'
+      - Technical
+      - Business
+      - Social
       required: false
     - id: 3
       name: speaker_performance
@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent'', ''value'': 5}'
-      - '{''label'': ''Good'', ''value'': 4}'
-      - '{''label'': ''Fair'', ''value'': 3}'
-      - '{''label'': ''Poor'', ''value'': 2}'
-      - '{''label'': ''Very Poor'', ''value'': 1}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
       required: false
     - id: 4
       name: feedback

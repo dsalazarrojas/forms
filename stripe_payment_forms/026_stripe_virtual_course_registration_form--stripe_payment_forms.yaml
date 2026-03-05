@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Stripe''}'
-      - '{''id'': 2, ''label'': ''PayPal''}'
+      - Stripe
+      - PayPal
       required: true
     - id: 7
       name: payment_amount
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Stripe''}'
-      - '{''id'': 2, ''label'': ''PayPal''}'
+      - Stripe
+      - PayPal
       required: false
     - id: 9
       name: stripe_publishable_key
@@ -111,9 +111,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Beginner''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: true
     - id: 16
       name: student_address
@@ -128,9 +128,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Online''}'
-      - '{''id'': 2, ''label'': ''In-Person''}'
-      - '{''id'': 3, ''label'': ''Hybrid''}'
+      - Online
+      - In-Person
+      - Hybrid
       required: true
     - id: 18
       name: student_state
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''California''}'
-      - '{''id'': 2, ''label'': ''New York''}'
-      - '{''id'': 3, ''label'': ''Florida''}'
+      - California
+      - New York
+      - Florida
       required: true
     - id: 19
       name: student_country
@@ -148,9 +148,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''United States''}'
-      - '{''id'': 2, ''label'': ''Canada''}'
-      - '{''id'': 3, ''label'': ''Mexico''}'
+      - United States
+      - Canada
+      - Mexico
       required: true
     - id: 20
       name: student_postal_code
@@ -172,9 +172,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''USD''}'
-      - '{''id'': 2, ''label'': ''EUR''}'
-      - '{''id'': 3, ''label'': ''JPY''}'
+      - USD
+      - EUR
+      - JPY
       required: true
     - id: 23
       name: student_price
@@ -189,9 +189,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''French''}'
+      - English
+      - Spanish
+      - French
       required: true
     - id: 25
       name: student_timezone
@@ -199,7 +199,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''PST''}'
-      - '{''id'': 2, ''label'': ''EST''}'
-      - '{''id'': 3, ''label'': ''CST''}'
+      - PST
+      - EST
+      - CST
       required: true

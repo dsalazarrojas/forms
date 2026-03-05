@@ -1,147 +1,58 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Hockey Equipment Checklist
     pages:
     - id: 1
-      name: team_id
-      label: team
-      hint: null
-      type: number
+      name: team_details
+      label: Team Details
+      hint: Provide team information
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: hockey_equipment_list
-      label: hockey_equipment_list
-      hint: null
+      label: Hockey Equipment List
+      hint: Select the required equipment for the team
       type: select_multiple
       options:
-      - Hockey Stick
+      - Stick
       - Helmet
       - Pads
       - Gloves
       - Skates
       - Shin Guards
-      - Goalie Mask
       required: false
     - id: 3
-      name: minimalist_hockey_equipment
-      label: minimalist_hockey_equipment
+      name: player_position_1
+      label: Goalie Position
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Hockey Stick
-      - Helmet
-      - Pads
-      - Gloves
-      - Skates
-      - Shin Guards
-      - Hockey Socks
+      - 'True'
+      - 'False'
       required: false
     - id: 4
-      name: goalie_equipment
-      label: goalie_equipment
+      name: player_position_2
+      label: Forward Position
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Goalie Mask
-      - Goalie Gloves
-      - Shin Guards
-      - Pads
+      - 'True'
+      - 'False'
       required: false
     - id: 5
-      name: player_position
-      label: player_position
+      name: player_position_3
+      label: Defense Position
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
-      name: hockey_equipment_list
-      label: hockey_equipment_list
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: equipment_type
-      label: equipment_type
-      hint: null
-      type: select_one
-      options:
-      - Equipment
-      - Goalie
-      required: false
-    - id: 8
-      name: equipment_type_2
-      label: equipment_type_2
-      hint: null
-      type: select_one
-      options:
-      - Goalie
-      - Equipment
-      required: false
-    - id: 9
-      name: player_position_2
-      label: player_position_2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: player_position_3
-      label: player_position_3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: player_position_4
-      label: player_position_4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: player_position_5
-      label: player_position_5
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: player_position_6
-      label: player_position_6
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: player_position_7
-      label: player_position_7
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: goalie_equipment_1
-      label: goalie_equipment
+      name: goalie_equipment
+      label: Goalie Equipment
       hint: null
       type: select_one
       options:
@@ -150,94 +61,57 @@ inputSchema:
       - Shin Guards
       - Pads
       required: false
-    - id: 16
-      name: goalie_equipment_2
-      label: goalie_equipment_2
+    - id: 7
+      name: additional_equipement_types
+      label: Additional Equipment Types
+      hint: null
+      type: select_multiple
+      options:
+      - Goalie
+      - Equipment
+      required: false
+    - id: 8
+      name: player_position_4
+      label: Player Position 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: player_position_5
+      label: Player Position 5
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: defense_position
+      label: Defense Position (2)
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: player_position_6
+      label: Player Position
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: goalie_mask
+      label: Goalie Mask
       hint: null
       type: select_one
       options:
       - Goalie Mask
       - Goalie Gloves
-      - Shin Guards
-      required: false
-    - id: 17
-      name: player_position_8
-      label: player_position_8
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: hockey_equipment_list_2
-      label: hockey_equipment_list
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: player_position_9
-      label: player_position_9
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: player_position_10
-      label: player_position_10
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: player_position_11
-      label: player_position_11
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: equipment_type_3
-      label: equipment_type_3
-      hint: null
-      type: select_one
-      options:
-      - Goalie
-      - Equipment
-      required: false
-    - id: 23
-      name: player_position_12
-      label: player_position_12
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: equipment_type_4
-      label: equipment_type_4
-      hint: null
-      type: select_one
-      options:
-      - Goalie
-      - Equipment
-      required: false
-    - id: 25
-      name: player_position_13
-      label: player_position_13
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

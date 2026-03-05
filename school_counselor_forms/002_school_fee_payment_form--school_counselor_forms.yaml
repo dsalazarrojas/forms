@@ -15,65 +15,67 @@ inputSchema:
     title: School Fee Payment Form
     pages:
     - id: 1
-      name: school_fee_payment_form_fields
-      label: school_fee_payment_form_fields
-      hint: null
+      name: student_details
+      label: Student
+      hint: Please provide student details.
       type: text
       options: []
       required: false
     - id: 2
-      name: school_fee_payment_form_fields
-      label: school_fee_payment_form_fields
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: payment_method
+      label: Payment Method
+      hint: How did you make the payment?
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Online Transfer
+      required: true
     - id: 3
-      name: school_fee_payment_form_fields
-      label: school_fee_payment_form_fields
-      hint: null
-      type: text
+      name: fee_amount
+      label: Fee Amount Paid
+      hint: Enter the amount paid.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: school_supplies
-      label: school_supplies
-      hint: null
-      type: text
+      name: payment_date
+      label: Fee Paid Date
+      hint: Date of payment.
+      type: date
       options: []
-      required: false
+      required: true
     - id: 5
-      name: school_supplies
-      label: school_supplies
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: supplies_purchased
+      label: Supplies
+      hint: Select the supplies purchased.
+      type: select_multiple
+      options:
+      - Pencils
+      - Pens
+      - Paper
+      - Calculator
+      required: true
     - id: 6
-      name: book_order_form
-      label: book_order_form
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: swags_purchased
+      label: Swags
+      hint: Select the swags purchased.
+      type: select_multiple
+      options:
+      - Notebooks
+      - Folders
+      required: true
     - id: 7
-      name: book_order_form
-      label: book_order_form
-      hint: null
+      name: book_order
+      label: Book Order Form
+      hint: Order your books here.
       type: text
       options: []
       required: false
     - id: 8
-      name: school_swags
-      label: school_swags
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: school_swags
-      label: school_swags
-      hint: null
-      type: text
+      name: comments
+      label: Comments
+      hint: Any comments about the payment or swags.
+      type: note
       options: []
       required: false

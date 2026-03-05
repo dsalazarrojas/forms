@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''daily''}'
-      - '{''label'': ''weekly''}'
-      - '{''label'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 4
       name: event_participation
@@ -35,10 +35,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''always''}'
-      - '{''label'': ''often''}'
-      - '{''label'': ''rarely''}'
-      - '{''label'': ''never''}'
+      - always
+      - often
+      - rarely
+      - never
       required: false
     - id: 5
       name: communication_channels
@@ -46,10 +46,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''email''}'
-      - '{''label'': ''phone''}'
-      - '{''label'': ''in person''}'
-      - '{''label'': ''text message''}'
+      - email
+      - phone
+      - in person
+      - text message
       required: false
     - id: 6
       name: event_frequency
@@ -57,10 +57,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''weekly''}'
-      - '{''label'': ''monthly''}'
-      - '{''label'': ''quarterly''}'
-      - '{''label'': ''never''}'
+      - weekly
+      - monthly
+      - quarterly
+      - never
       required: false
     - id: 7
       name: feedback

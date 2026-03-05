@@ -1,464 +1,137 @@
 inputSchema:
   type: object
   properties:
-    title: employee_exit_interview_form
+    title: Employee Exit Interview Form
     pages:
     - id: 1
       name: employee_name
-      label: employee name
+      label: Employee Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: job_title
       label: Job Title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: reason_for_departure
-      label: reason_for_leaving
+      name: reason_for_leaving
+      label: Reason for Leaving
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: how_much_do_you_like
-      label: much_do_you_like_our_company
+      name: how_much_do_you_like_our_company
+      label: How Much Do You Like Our Company?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
+      - I agree
+      - I disagree
+      - Neutral
+      required: true
     - id: 5
       name: how_much_support
-      label: much_support
+      label: How Much Support Did You Receive?
       hint: null
       type: number
       options: []
       required: false
     - id: 6
       name: manager
-      label: manager
+      label: Manager
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: team
-      label: team
+      label: Team
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: date_of_last_day
-      label: last_day
+      name: date_of_last_workday
+      label: Date of Last Day
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 9
-      name: reason_for_leaving
-      label: reason_for_leaving
+      name: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: any_comments
-      label: comments
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 11
+      name: supervisor
+      label: Supervisor
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
     - id: 12
-      name: contact_email
-      label: contact_email
+      name: department
+      label: Department
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 13
-      name: contact_phone
-      label: contact_phone
+      name: reporting_manager
+      label: Reporting Manager
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: supervisor_name
-      label: supervisor_name
+      name: job_performance
+      label: Job Performance
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: department
-      label: department
+      name: communication
+      label: Communication
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: reporting_manager
-      label: reporting_manager
+      name: company_culture
+      label: Company Culture
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: job_title
-      label: job_title
+      name: manager_name
+      label: Manager Name
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: job_performance
-      label: job_performance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: work_satisfaction
-      label: work_satisfaction
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: benefits
-      label: benefits
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: communication
-      label: communication
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: company_culture
-      label: company_culture
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: manager_name
-      label: manager_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
       name: employee_number
-      label: employee_number
+      label: Employee Number
       hint: null
       type: text
       options: []
-      required: false
-    - id: 25
-      name: last_day
-      label: last_day
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 26
-      name: contact_name
-      label: contact_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: contact_title
-      label: contact_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: contact_department
-      label: contact_department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: contact_email
-      label: contact_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 30
-      name: contact_phone
-      label: contact_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: supervisor
-      label: supervisor
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: department
-      label: department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: reporting_manager
-      label: reporting_manager
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: job_performance
-      label: job_performance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: communication
-      label: communication
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: company_culture
-      label: company_culture
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: manager_name
-      label: manager_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: employee_number
-      label: employee_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: last_day
-      label: last_day
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 40
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 41
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 42
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 43
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 44
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 45
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 46
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 47
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 48
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 49
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 50
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 51
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 52
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 53
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 54
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 55
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 56
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
-      required: false
-    - id: 57
-      name: contact_preferences
-      label: contact_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - choice1
-      - choice2
-      - choice3
       required: false

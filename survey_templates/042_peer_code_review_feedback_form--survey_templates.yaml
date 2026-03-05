@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Submission 1''}'
-      - '{''id'': 2, ''label'': ''Submission 2''}'
+      - Submission 1
+      - Submission 2
       required: false
     - id: 3
       name: submission_notes
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Review''}'
-      - '{''id'': 2, ''label'': ''Code Review''}'
-      - '{''id'': 3, ''label'': ''Code Quality''}'
+      - Review
+      - Code Review
+      - Code Quality
       required: false
     - id: 5
       name: reviewer_score
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In Progress''}'
-      - '{''id'': 2, ''label'': ''Done''}'
-      - '{''id'': 3, ''label'': ''Archived''}'
+      - In Progress
+      - Done
+      - Archived
       required: false
     - id: 15
       name: reviewer_comments_date

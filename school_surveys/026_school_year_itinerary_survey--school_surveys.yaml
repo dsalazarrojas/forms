@@ -16,10 +16,10 @@ inputSchema:
       hint: Please select the school year you are currently in.
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''First Year''}'
-      - '{''value'': 2, ''label'': ''Second Year''}'
-      - '{''value'': 3, ''label'': ''Third Year''}'
-      - '{''value'': 4, ''label'': ''Other''}'
+      - First Year
+      - Second Year
+      - Third Year
+      - Other
       required: false
     - id: 3
       name: courses
@@ -27,10 +27,10 @@ inputSchema:
       hint: Select all courses you are planning to take this school year.
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''English''}'
-      - '{''value'': 2, ''label'': ''Math''}'
-      - '{''value'': 3, ''label'': ''Science''}'
-      - '{''value'': 4, ''label'': ''History''}'
+      - English
+      - Math
+      - Science
+      - History
       required: false
     - id: 4
       name: activities
@@ -94,28 +94,28 @@ inputSchema:
       hint: Please select your emergency contact's relationship to you.
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Parent''}'
-      - '{''value'': 2, ''label'': ''Guardian''}'
-      - '{''value'': 3, ''label'': ''Sibling''}'
-      - '{''value'': 4, ''label'': ''Other''}'
+      - Parent
+      - Guardian
+      - Sibling
+      - Other
       required: false
     - id: 13
       name: emergency_contact_phone
-      label: Phone
+      label: Emergency Contact Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 14
       name: emergency_contact_email
-      label: Email
+      label: Emergency Contact Email
       hint: null
       type: email
       options: []
       required: false
     - id: 15
       name: emergency_contact_address
-      label: Address
+      label: Emergency Contact Address
       hint: null
       type: text
       options: []
@@ -161,9 +161,9 @@ inputSchema:
       hint: Select more accomplishments you have achieved.
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Accomplishment 1''}'
-      - '{''value'': 2, ''label'': ''Accomplishment 2''}'
-      - '{''value'': 3, ''label'': ''Accomplishment 3''}'
+      - Accomplishment 1
+      - Accomplishment 2
+      - Accomplishment 3
       required: false
     - id: 22
       name: student_interests
@@ -178,10 +178,10 @@ inputSchema:
       hint: Select a student interest.
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Music''}'
-      - '{''value'': 2, ''label'': ''Dance''}'
-      - '{''value'': 3, ''label'': ''Sports''}'
-      - '{''value'': 4, ''label'': ''Art''}'
+      - Music
+      - Dance
+      - Sports
+      - Art
       required: false
     - id: 24
       name: student_interests_2
@@ -189,10 +189,10 @@ inputSchema:
       hint: Select more student interests.
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Music''}'
-      - '{''value'': 2, ''label'': ''Dance''}'
-      - '{''value'': 3, ''label'': ''Sports''}'
-      - '{''value'': 4, ''label'': ''Art''}'
+      - Music
+      - Dance
+      - Sports
+      - Art
       required: false
     - id: 25
       name: submission

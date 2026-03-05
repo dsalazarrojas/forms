@@ -11,181 +11,87 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: end_date
-      label: End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 3
       name: shift_start_time
       label: Shift Start Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 4
+    - id: 3
       name: shift_end_time
       label: Shift End Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 5
-      name: shift
-      label: Shift
-      hint: Select your shift
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: team
-      label: Team
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: supervisor
-      label: Supervisor
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: assigned_to
-      label: Assigned To
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: notes
-      label: Notes
-      hint: Enter notes
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: phone
-      label: Phone
-      hint: Enter phone number
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 13
-      name: shift_start
-      label: Shift Start
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: shift_end
-      label: Shift End
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: break_status
-      label: Break Status
+    - id: 4
+      name: shift_status
+      label: Shift Status
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
       required: false
-    - id: 16
-      name: shift
-      label: Shift
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
+    - id: 5
       name: team
       label: Team
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 18
+    - id: 6
       name: supervisor
       label: Supervisor
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
+    - id: 7
       name: comments
       label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 20
+    - id: 8
       name: assigned_to
       label: Assigned To
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 21
+    - id: 9
       name: notes
       label: Notes
-      hint: Enter notes
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: phone
-      label: Phone
-      hint: Enter phone number
+      hint: null
       type: text
       options: []
       required: false
-    - id: 23
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
       name: email
       label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 24
-      name: notes
-      label: Notes
-      hint: Enter notes
-      type: text
-      options: []
+    - id: 12
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false

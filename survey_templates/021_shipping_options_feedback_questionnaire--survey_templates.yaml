@@ -4,35 +4,18 @@ inputSchema:
     title: Shipping Options Feedback Questionnaire
     pages:
     - id: 1
-      name: shipping_options
-      label: shipping_options
-      hint: null
-      type: select_multiple
-      options:
-      - Ground Service
-      - Air Service
-      - Other
-      required: false
-    - id: 2
-      name: shipping_costs
-      label: shipping_costs
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 3
       name: shipping_speed
-      label: shipping_speed
+      label: What is your preferred shipping speed?
       hint: null
       type: select_one
       options:
-      - 2-5 business days
-      - 1-3 business days
       - Same Day
-      required: true
-    - id: 4
+      - 1-3 business days
+      - 2-5 business days
+      required: false
+    - id: 2
       name: shipping_frequency
-      label: shipping_frequency
+      label: How often do you like to receive shipments?
       hint: null
       type: select_one
       options:
@@ -41,159 +24,35 @@ inputSchema:
       - Weekly
       - Bi-Weekly
       required: false
-    - id: 5
+    - id: 3
       name: shipping_method
-      label: shipping_method
+      label: What is your preferred shipping method?
       hint: null
       type: select_one
       options:
       - Standard Shipping
       - Express Shipping
-      required: true
-    - id: 6
-      name: shipping_service
-      label: shipping_service
-      hint: null
-      type: select_one
-      options:
-      - Ground Service
-      - Air Service
       required: false
-    - id: 7
+    - id: 4
       name: shipping_service_provider
-      label: shipping_service_provider
+      label: Which shipping service provider do you usually use?
       hint: null
       type: select_one
       options:
       - UPS
       - USPS
       - FedEx
-      required: true
-    - id: 8
+      required: false
+    - id: 5
       name: shipping_cost
-      label: shipping_cost
+      label: What is your average shipping cost expectation?
       hint: null
       type: number
       options: []
       required: false
-    - id: 9
-      name: shipping_frequency_comments
-      label: shipping_frequency_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: shipping_method_comments
-      label: shipping_method_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: shipping_service_comments
-      label: shipping_service_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: shipping_speed_comments
-      label: shipping_speed_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: shipping_costs_comments
-      label: shipping_costs_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: shipping_preferences
-      label: shipping_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - Fastest
-      - Easiest
-      - Cheapest
-      required: false
-    - id: 15
-      name: shipping_frequency_comments
-      label: shipping_frequency_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: shipping_method_comments
-      label: shipping_method_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: shipping_service_provider_comments
-      label: shipping_service_provider_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: shipping_service_comments
-      label: shipping_service_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: shipping_speed_comments
-      label: shipping_speed_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: shipping_costs_comments
-      label: shipping_costs_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: shipping_option_comments
-      label: shipping_option_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: shipping_comments
-      label: shipping_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: shipping_preferences_comments
-      label: shipping_preferences_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: shipping_service_provider_comments
-      label: shipping_service_provider_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
+    - id: 6
       name: overall_satisfaction
-      label: overall_satisfaction
+      label: How satisfied are you overall with the shipping service?
       hint: null
       type: select_one
       options:
@@ -202,4 +61,33 @@ inputSchema:
       - Neutral
       - Somewhat Dissatisfied
       - Very Dissatisfied
-      required: true
+      required: false
+    - id: 7
+      name: shipping_frequency_2
+      label: Shipping Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 8
+      name: shipping_preferences
+      label: What are your shipping preferences?
+      hint: null
+      type: select_multiple
+      options:
+      - Fastest
+      - Easiest
+      - Cheapest
+      required: false
+    - id: 9
+      name: shipping_comments
+      label: Do you have any comments on the shipping options?
+      hint: null
+      type: text
+      options: []
+      required: false

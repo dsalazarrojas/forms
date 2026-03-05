@@ -5,188 +5,238 @@ inputSchema:
     pages:
     - id: 1
       name: workplace_technology_survey_page_1
-      label: workplace-technology-survey
+      label: What is your current job title?
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 2
       name: workplace_technology_survey_page_2
-      label: workplace-technology-survey
+      label: How many years of experience do you have in the field?
       hint: null
       type: number
       options: []
       required: false
     - id: 3
       name: workplace_technology_survey_page_3
-      label: workplace-technology-survey
+      label: What is your current role in the company?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 4
       name: workplace_technology_survey_page_4
-      label: workplace-technology-survey
+      label: What is your department/section in the company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workplace_technology_survey_page_5
+      label: How would you rate your satisfaction with our company's technology and
+        tools?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: workplace_technology_survey_page_6
+      label: How often do you use the company email system?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Regularly
+      - Almost Always
+      required: false
+    - id: 7
+      name: workplace_technology_survey_page_7
+      label: How satisfied are you with the company's IT services?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 8
+      name: workplace_technology_survey_page_8
+      label: How often do you use the company's collaboration tools (e.g., Slack,
+        Trello, Asana)?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Regularly
+      - Almost Always
+      required: false
+    - id: 9
+      name: workplace_technology_survey_page_9
+      label: How often do you experience issues with the company's technology?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 5
-      name: workplace_technology_survey_page_5
-      label: workplace-technology-survey
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: workplace_technology_survey_page_6
-      label: workplace-technology-survey
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
-      name: workplace_technology_survey_page_7
-      label: workplace-technology-survey
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: workplace_technology_survey_page_8
-      label: workplace-technology-survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: workplace_technology_survey_page_9
-      label: workplace-technology-survey
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 10
       name: workplace_technology_survey_page_10
-      label: workplace-technology-survey
+      label: How many hours of work do you think you spend using digital tools each
+        day?
       hint: null
       type: number
       options: []
       required: false
     - id: 11
       name: workplace_technology_survey_page_11
-      label: workplace-technology-survey
+      label: How often do you experience delays or obstacles in your work due to technology
+        issues?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Never
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Almost Always
       required: false
     - id: 12
       name: workplace_technology_survey_page_12
-      label: workplace-technology-survey
+      label: How satisfied are you with the company's workflow and process?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
       required: false
     - id: 13
       name: workplace_technology_survey_page_13
-      label: workplace-technology-survey
+      label: How often do you use the company's time-tracking tools (e.g., Harvest,
+        Clockify)?
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Regularly
+      - Almost Always
       required: false
     - id: 14
       name: workplace_technology_survey_page_14
-      label: workplace-technology-survey
+      label: How many hours do you think you could save with more efficient technology?
       hint: null
-      type: time
+      type: number
       options: []
       required: false
     - id: 15
       name: workplace_technology_survey_page_15
-      label: workplace-technology-survey
+      label: How often do you receive unnecessary notifications from the company's
+        technology?
       hint: null
-      type: email
-      options: []
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Almost Always
       required: false
     - id: 16
       name: workplace_technology_survey_page_16
-      label: workplace-technology-survey
+      label: What technology-related features would you like to see implemented or
+        improved?
       hint: null
       type: text
       options: []
       required: false
     - id: 17
       name: workplace_technology_survey_page_17
-      label: workplace-technology-survey
+      label: How often do you use the company's mobile app?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Regularly
+      - Almost Always
+      required: false
+    - id: 18
+      name: workplace_technology_survey_page_18
+      label: How satisfied are you with the company's IT support team?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 19
+      name: workplace_technology_survey_page_19
+      label: What technology-related challenges do you face in your work?
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
-      name: workplace_technology_survey_page_18
-      label: workplace-technology-survey
+    - id: 20
+      name: workplace_technology_survey_page_20
+      label: How many IT-related issues do you think the company should address to
+        improve?
       hint: null
       type: number
       options: []
       required: false
-    - id: 19
-      name: workplace_technology_survey_page_19
-      label: workplace-technology-survey
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: workplace_technology_survey_page_20
-      label: workplace-technology-survey
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 21
       name: workplace_technology_survey_page_21
-      label: workplace-technology-survey
+      label: What is the most important technology-related feature or improvement
+        you would like to see?
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 22
       name: workplace_technology_survey_page_22
-      label: workplace-technology-survey
+      label: How often do you share your IT-related concerns with colleagues or management?
       hint: null
-      type: time
-      options: []
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Almost Always
       required: false
     - id: 23
       name: workplace_technology_survey_page_23
-      label: workplace-technology-survey
+      label: How satisfied are you with the overall technology used in the company?
       hint: null
-      type: email
+      type: number
       options: []
       required: false
     - id: 24
       name: workplace_technology_survey_page_24
-      label: workplace-technology-survey
+      label: What technology-related feedback would you like to give to the company?
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: workplace_technology_survey_page_25
-      label: workplace-technology-survey
+      label: What is your overall satisfaction with the company's technology?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
       required: false
