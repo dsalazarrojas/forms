@@ -1,393 +1,196 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: smoking_management_course_feedback
     pages:
     - id: 1
-      name: title
-      label: title
+      name: introduction_and_background
+      label: Introduction and background
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: category
-      label: category
+      name: how_did_you_learn_about_this_course
+      label: How did you learn about this course?
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Category 1'', ''value'': ''Category 1''}'
-      - '{''id'': 2, ''label'': ''Category 2'', ''value'': ''Category 2''}'
-      - '{''id'': 3, ''label'': ''Category 3'', ''value'': ''Category 3''}'
-      - '{''id'': 4, ''label'': ''Category 4'', ''value'': ''Category 4''}'
+      type: text
+      options: []
       required: true
     - id: 3
-      name: description
-      label: description
+      name: who_is_this_course_intended_for
+      label: Who is this course intended for?
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: participant_rating
-      label: participant_rating
+      name: relevance_of_course_content
+      label: How relevant is the course content to your needs?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Rating 1'', ''value'': ''Rating 1''}'
-      - '{''id'': 2, ''label'': ''Rating 2'', ''value'': ''Rating 2''}'
-      - '{''id'': 3, ''label'': ''Rating 3'', ''value'': ''Rating 3''}'
-      - '{''id'': 4, ''label'': ''Rating 4'', ''value'': ''Rating 4''}'
-      - '{''id'': 5, ''label'': ''Rating 5'', ''value'': ''Rating 5''}'
+      type: number
+      options: []
       required: true
     - id: 5
-      name: participant_comments
-      label: participant_comments
+      name: quality_of_information
+      label: How would you rate the quality of the information presented?
       hint: null
-      type: text
+      type: number
       options: []
       required: true
     - id: 6
-      name: participant_comments
-      label: participant_comments
+      name: most_helpful_topics
+      label: What were the most helpful topics or modules?
       hint: null
       type: text
       options: []
       required: true
     - id: 7
-      name: participant_rating
-      label: participant_rating
+      name: pace_of_course
+      label: How would you rate the pace of the course?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Rating 1'', ''value'': ''Rating 1''}'
-      - '{''id'': 2, ''label'': ''Rating 2'', ''value'': ''Rating 2''}'
-      - '{''id'': 3, ''label'': ''Rating 3'', ''value'': ''Rating 3''}'
-      - '{''id'': 4, ''label'': ''Rating 4'', ''value'': ''Rating 4''}'
-      - '{''id'': 5, ''label'': ''Rating 5'', ''value'': ''Rating 5''}'
+      type: number
+      options: []
       required: true
     - id: 8
-      name: participant_comments
-      label: participant_comments
+      name: organization_and_layout
+      label: How would you rate the organization and layout of the course materials?
       hint: null
-      type: text
+      type: number
       options: []
       required: true
     - id: 9
-      name: participant_comments
-      label: participant_comments
+      name: overall_satisfaction
+      label: How would you rate your overall satisfaction with the course?
       hint: null
-      type: text
+      type: number
       options: []
       required: true
     - id: 10
-      name: participant_rating
-      label: participant_rating
+      name: engagement_with_content
+      label: How would you rate your engagement with the course content?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Rating 1'', ''value'': ''Rating 1''}'
-      - '{''id'': 2, ''label'': ''Rating 2'', ''value'': ''Rating 2''}'
-      - '{''id'': 3, ''label'': ''Rating 3'', ''value'': ''Rating 3''}'
-      - '{''id'': 4, ''label'': ''Rating 4'', ''value'': ''Rating 4''}'
-      - '{''id'': 5, ''label'': ''Rating 5'', ''value'': ''Rating 5''}'
+      type: number
+      options: []
       required: true
     - id: 11
-      name: participant_comments
-      label: participant_comments
+      name: most_positive_aspects
+      label: What were the most positive aspects of the course?
       hint: null
       type: text
       options: []
       required: true
     - id: 12
-      name: participant_rating
-      label: participant_rating
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Rating 1'', ''value'': ''Rating 1''}'
-      - '{''id'': 2, ''label'': ''Rating 2'', ''value'': ''Rating 2''}'
-      - '{''id'': 3, ''label'': ''Rating 3'', ''value'': ''Rating 3''}'
-      - '{''id'': 4, ''label'': ''Rating 4'', ''value'': ''Rating 4''}'
-      - '{''id'': 5, ''label'': ''Rating 5'', ''value'': ''Rating 5''}'
-      required: true
-    - id: 13
-      name: participant_comments
-      label: participant_comments
+      name: most_negative_aspects
+      label: What were the most negative aspects of the course?
       hint: null
       type: text
+      options: []
+      required: true
+    - id: 13
+      name: technical_quality
+      label: How would you rate the technical quality of the course materials (e.g.,
+        videos, images, audio)?
+      hint: null
+      type: number
       options: []
       required: true
     - id: 14
-      name: participant_comments
-      label: participant_comments
+      name: logistical_support
+      label: How would you rate the logistical support from the course organizers?
       hint: null
-      type: text
+      type: number
       options: []
       required: true
     - id: 15
-      name: participant_rating
-      label: participant_rating
+      name: availability_of_resources
+      label: How would you rate the availability of resources and materials?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Rating 1'', ''value'': ''Rating 1''}'
-      - '{''id'': 2, ''label'': ''Rating 2'', ''value'': ''Rating 2''}'
-      - '{''id'': 3, ''label'': ''Rating 3'', ''value'': ''Rating 3''}'
-      - '{''id'': 4, ''label'': ''Rating 4'', ''value'': ''Rating 4''}'
-      - '{''id'': 5, ''label'': ''Rating 5'', ''value'': ''Rating 5''}'
+      type: number
+      options: []
       required: true
     - id: 16
-      name: participant_comments
-      label: participant_comments
+      name: suggestions_for_improvement
+      label: What suggestions do you have for improving the course content?
       hint: null
       type: text
       options: []
       required: true
     - id: 17
-      name: participant_rating
-      label: participant_rating
+      name: suggestions_for_format
+      label: What suggestions do you have for improving the course format and organization?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Rating 1'', ''value'': ''Rating 1''}'
-      - '{''id'': 2, ''label'': ''Rating 2'', ''value'': ''Rating 2''}'
-      - '{''id'': 3, ''label'': ''Rating 3'', ''value'': ''Rating 3''}'
-      - '{''id'': 4, ''label'': ''Rating 4'', ''value'': ''Rating 4''}'
-      - '{''id'': 5, ''label'': ''Rating 5'', ''value'': ''Rating 5''}'
+      type: text
+      options: []
       required: true
     - id: 18
-      name: participant_comments
-      label: participant_comments
+      name: other_suggestions
+      label: Do you have any other suggestions for the course?
       hint: null
       type: text
       options: []
       required: true
     - id: 19
-      name: participant_rating
-      label: participant_rating
+      name: participant_comments_1
+      label: Participant Comments 1
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Rating 1'', ''value'': ''Rating 1''}'
-      - '{''id'': 2, ''label'': ''Rating 2'', ''value'': ''Rating 2''}'
-      - '{''id'': 3, ''label'': ''Rating 3'', ''value'': ''Rating 3''}'
-      - '{''id'': 4, ''label'': ''Rating 4'', ''value'': ''Rating 4''}'
-      - '{''id'': 5, ''label'': ''Rating 5'', ''value'': ''Rating 5''}'
+      type: text
+      options: []
       required: true
     - id: 20
-      name: participant_comments
-      label: participant_comments
+      name: participant_rating_1
+      label: Participant Rating 1
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: true
     - id: 21
-      name: participant_rating
-      label: participant_rating
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Rating 1'', ''value'': ''Rating 1''}'
-      - '{''id'': 2, ''label'': ''Rating 2'', ''value'': ''Rating 2''}'
-      - '{''id'': 3, ''label'': ''Rating 3'', ''value'': ''Rating 3''}'
-      - '{''id'': 4, ''label'': ''Rating 4'', ''value'': ''Rating 4''}'
-      - '{''id'': 5, ''label'': ''Rating 5'', ''value'': ''Rating 5''}'
-      required: true
-    - id: 22
-      name: participant_comments
-      label: participant_comments
+      name: participant_comments_2
+      label: Participant Comments 2
       hint: null
       type: text
       options: []
       required: true
+    - id: 22
+      name: participant_rating_2
+      label: Participant Rating 2
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
     - id: 23
-      name: participant_comments
-      label: participant_comments
+      name: participant_comments_3
+      label: Participant Comments 3
       hint: null
       type: text
       options: []
       required: true
     - id: 24
-      name: participant_rating
-      label: participant_rating
+      name: participant_rating_3
+      label: Participant Rating 3
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Rating 1'', ''value'': ''Rating 1''}'
-      - '{''id'': 2, ''label'': ''Rating 2'', ''value'': ''Rating 2''}'
-      - '{''id'': 3, ''label'': ''Rating 3'', ''value'': ''Rating 3''}'
-      - '{''id'': 4, ''label'': ''Rating 4'', ''value'': ''Rating 4''}'
-      - '{''id'': 5, ''label'': ''Rating 5'', ''value'': ''Rating 5''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: true
     - id: 25
-      name: participant_comments
-      label: participant_comments
+      name: participant_comments_4
+      label: Participant Comments 4
       hint: null
       type: text
       options: []
       required: true
-    - id: 26
-      name: follow_up_status
-      label: follow_up_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
-      - '{''id'': 3, ''label'': ''Not Applicable'', ''value'': ''Not Applicable''}'
-      - '{''id'': 4, ''label'': ''Follow up pending'', ''value'': ''Follow up pending''}'
-      required: false
-    - id: 27
-      name: follow_up_status
-      label: follow_up_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
-      - '{''id'': 3, ''label'': ''Not Applicable'', ''value'': ''Not Applicable''}'
-      - '{''id'': 4, ''label'': ''Follow up pending'', ''value'': ''Follow up pending''}'
-      required: false
-    - id: 28
-      name: follow_up_status
-      label: follow_up_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
-      - '{''id'': 3, ''label'': ''Not Applicable'', ''value'': ''Not Applicable''}'
-      - '{''id'': 4, ''label'': ''Follow up pending'', ''value'': ''Follow up pending''}'
-      required: false
-    - id: 29
-      name: participant_program_status
-      label: participant_program_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Completed'', ''value'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not Started'', ''value'': ''Not Started''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      required: false
-    - id: 30
-      name: participant_program_status
-      label: participant_program_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Completed'', ''value'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not Started'', ''value'': ''Not Started''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      required: false
-    - id: 31
-      name: participant_program_status
-      label: participant_program_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Completed'', ''value'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not Started'', ''value'': ''Not Started''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      required: false
-    - id: 32
-      name: participant_program_status
-      label: participant_program_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Completed'', ''value'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not Started'', ''value'': ''Not Started''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      required: false
-    - id: 33
-      name: participant_program_status
-      label: participant_program_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Completed'', ''value'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not Started'', ''value'': ''Not Started''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      required: false
-    - id: 34
-      name: participant_program_status
-      label: participant_program_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Completed'', ''value'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not Started'', ''value'': ''Not Started''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      required: false
-    - id: 35
-      name: participant_program_status
-      label: participant_program_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Completed'', ''value'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not Started'', ''value'': ''Not Started''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      required: false
-    - id: 36
-      name: participant_program_status
-      label: participant_program_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Completed'', ''value'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not Started'', ''value'': ''Not Started''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      required: false
-    - id: 37
-      name: participant_program_status
-      label: participant_program_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Completed'', ''value'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not Started'', ''value'': ''Not Started''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      required: false
-    - id: 38
-      name: participant_program_status
-      label: participant_program_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Completed'', ''value'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not Started'', ''value'': ''Not Started''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      required: false
-    - id: 39
-      name: participant_program_status
-      label: participant_program_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Completed'', ''value'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not Started'', ''value'': ''Not Started''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      required: false
-    - id: 40
-      name: participant_program_status
-      label: participant_program_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Completed'', ''value'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not Started'', ''value'': ''Not Started''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      required: false

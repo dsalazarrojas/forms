@@ -5,102 +5,29 @@ inputSchema:
     pages:
     - id: 1
       name: team_leadership_1
-      label: Team Leadership Form
+      label: Team Leadership Style
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Team Leadership
-      - Team Collaboration
-      - Teamwork
-      required: false
+      - Leadership
+      - Communication
+      - Problem Solving
+      - Time Management
+      - Adaptability
+      required: true
     - id: 2
       name: team_leadership_2
       label: Team Communication
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: team_leadership_3
-      label: Teamwork
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: team_leadership_4
-      label: Team Leadership Skills
-      hint: null
-      type: select_one
-      options:
-      - Leadership
-      - Communication
-      - Problem Solving
-      - Time Management
-      - Adaptability
-      required: false
-    - id: 5
-      name: team_leadership_5
-      label: Team Dynamics
-      hint: null
       type: select_multiple
       options:
-      - Teamwork
-      - Trust
-      - Adaptability
-      - Communication
-      - Time Management
-      required: false
-    - id: 6
-      name: team_leadership_6
-      label: Teamwork
-      hint: null
-      type: select_one
-      options:
-      - Teamwork
-      - Other
-      required: false
-    - id: 7
-      name: team_leadership_7
-      label: Time Management
-      hint: null
-      type: select_one
-      options:
-      - Time Management
-      - Other
-      required: false
-    - id: 8
-      name: team_leadership_8
-      label: Team Leadership Assessment
-      hint: null
-      type: select_multiple
-      options:
-      - Team Leadership
       - Teamwork
       - Team Collaboration
       - Team Communication
-      required: false
-    - id: 9
-      name: team_leadership_9
-      label: Team Performance
-      hint: null
-      type: select_one
-      options:
-      - Team Performance
-      - Other
-      required: false
-    - id: 10
-      name: team_leadership_10
-      label: Teamwork
-      hint: null
-      type: select_one
-      options:
-      - Teamwork
-      - Other
-      required: false
-    - id: 11
-      name: team_leadership_11
-      label: Team Leadership Skills
+      required: true
+    - id: 3
+      name: team_leadership_3
+      label: Team Adaptability
       hint: null
       type: select_one
       options:
@@ -109,151 +36,80 @@ inputSchema:
       - Problem Solving
       - Time Management
       - Adaptability
-      required: false
-    - id: 12
-      name: team_leadership_12
+      required: true
+    - id: 4
+      name: team_leadership_4
+      label: Team Performance
+      hint: null
+      type: select_multiple
+      options:
+      - Teamwork
+      - Trust
+      - Adaptability
+      - Communication
+      - Time Management
+      required: true
+    - id: 5
+      name: team_leadership_5
       label: Time Management
       hint: null
       type: select_one
       options:
       - Time Management
       - Other
-      required: false
-    - id: 13
-      name: team_leadership_13
-      label: Teamwork
-      hint: null
-      type: select_multiple
-      options:
-      - Teamwork
-      - Trust
-      - Adaptability
-      - Communication
-      - Time Management
-      required: false
-    - id: 14
-      name: team_leadership_14
-      label: Teamwork
-      hint: null
-      type: select_one
-      options:
-      - Teamwork
-      - Other
-      required: false
-    - id: 15
-      name: team_leadership_15
-      label: Team Leadership Skills
-      hint: null
-      type: select_one
-      options:
-      - Leadership
-      - Communication
-      - Problem Solving
-      - Time Management
-      - Adaptability
-      required: false
-    - id: 16
-      name: time_leadership_16
-      label: Teamwork
-      hint: null
-      type: select_one
-      options:
-      - Teamwork
-      - Other
-      required: false
-    - id: 17
-      name: team_leadership_17
-      label: Team Leadership
-      hint: null
-      type: select_one
-      options:
-      - Team Leadership
-      - Other
-      required: false
-    - id: 18
-      name: team_leadership_18
-      label: Teamwork
-      hint: null
-      type: select_multiple
-      options:
-      - Teamwork
-      - Trust
-      - Adaptability
-      - Communication
-      - Time Management
-      required: false
-    - id: 19
-      name: team_leadership_19
-      label: Team Leadership Skills
-      hint: null
-      type: select_one
-      options:
-      - Leadership
-      - Communication
-      - Problem Solving
-      - Time Management
-      - Adaptability
-      required: false
-    - id: 20
-      name: team_leadership_20
-      label: Teamwork
-      hint: null
-      type: select_multiple
-      options:
-      - Teamwork
-      - Trust
-      - Adaptability
-      - Communication
-      - Time Management
-      required: false
-    - id: 21
-      name: team_leadership_21
-      label: Teamwork
-      hint: null
-      type: select_one
-      options:
-      - Teamwork
-      - Other
-      required: false
-    - id: 22
-      name: team_leadership_22
-      label: Team Leadership Skills
-      hint: null
-      type: select_one
-      options:
-      - Leadership
-      - Communication
-      - Problem Solving
-      - Time Management
-      - Adaptability
-      required: false
-    - id: 23
-      name: team_leadership_23
-      label: Teamwork
-      hint: null
-      type: select_one
-      options:
-      - Teamwork
-      - Other
-      required: false
-    - id: 24
-      name: team_leadership_24
-      label: Team Leadership Skills
-      hint: null
-      type: select_multiple
-      options:
-      - Leadership
-      - Communication
-      - Problem Solving
-      - Time Management
-      - Adaptability
-      required: false
-    - id: 25
-      name: team_leadership_25
-      label: Team Performance
+      required: true
+    - id: 6
+      name: team_leadership_6
+      label: Areas for Improvement
       hint: null
       type: select_one
       options:
       - Team Performance
       - Other
-      required: false
+      required: true
+    - id: 7
+      name: team_leadership_7
+      label: Team Leadership Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Leadership
+      - Communication
+      - Problem Solving
+      - Time Management
+      - Adaptability
+      required: true
+    - id: 8
+      name: team_leadership_8
+      label: Teamwork
+      hint: null
+      type: select_multiple
+      options:
+      - Teamwork
+      - Trust
+      - Adaptability
+      - Communication
+      - Time Management
+      required: true
+    - id: 9
+      name: team_leadership_9
+      label: Team Collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - Teamwork
+      - Team Collaboration
+      - Team Communication
+      required: true
+    - id: 10
+      name: team_leadership_10
+      label: Team Performance Indicators
+      hint: null
+      type: select_multiple
+      options:
+      - Teamwork
+      - Trust
+      - Adaptability
+      - Communication
+      - Time Management
+      required: true

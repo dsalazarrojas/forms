@@ -18,12 +18,8 @@ inputSchema:
       name: participant_contact_details
       label: Participant Contact Details
       hint: null
-      type: select_multiple
-      options:
-      - First Name
-      - Last Name
-      - Email
-      - Phone
+      type: text
+      options: []
       required: true
     - id: 2
       name: reasons_for_joining
@@ -47,14 +43,14 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: participant_interests
       label: Participant Interests
-      hint: null
+      hint: List of participant interests (e.g. Hiking, reading, etc.)
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: consent_participation
       label: Consent for Participation
@@ -70,129 +66,10 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: participant_interests
-      label: Participant Interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: participant_interests
-      label: Participant Interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: participant_interests
-      label: Participant Interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: participant_interests
-      label: Participant Interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
       name: participant_interests_2
-      label: Participant Interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: participant_interests_2
-      label: Participant Interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: participant_interests_2
-      label: Participant Interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: participant_interests_3
-      label: Participant Interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: participant_interests_3
-      label: Participant Interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: participant_interests_4
-      label: Participant Interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: participant_interests_5
-      label: Participant Interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: participant_interests_5
-      label: Participant Interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: participant_interests_5
-      label: Participant Interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: participant_interests_5
-      label: Participant Interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: participant_interests_6
-      label: Participant Interests
+      label: Participant Interests 2
       hint: null
       type: text
       options: []

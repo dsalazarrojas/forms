@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''user''}'
-      - '{''id'': 2, ''value'': ''team-member''}'
-      - '{''id'': 3, ''value'': ''stakeholder''}'
+      - user
+      - team-member
+      - stakeholder
       required: false
     - id: 6
       name: satisfaction_rating
@@ -47,11 +47,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''very-satisfied''}'
-      - '{''id'': 2, ''value'': ''somewhat-satisfied''}'
-      - '{''id'': 3, ''value'': ''neither-satisfied-nor-dissatisfied''}'
-      - '{''id'': 4, ''value'': ''somewhat-dissatisfied''}'
-      - '{''id'': 5, ''value'': ''very-dissatisfied''}'
+      - very-satisfied
+      - somewhat-satisfied
+      - neither-satisfied-nor-dissatisfied
+      - somewhat-dissatisfied
+      - very-dissatisfied
       required: false
     - id: 7
       name: ease_of_use
@@ -59,11 +59,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''very-easy''}'
-      - '{''id'': 2, ''value'': ''somewhat-easy''}'
-      - '{''id'': 3, ''value'': ''neither-easy-nor-hard''}'
-      - '{''id'': 4, ''value'': ''somewhat-hard''}'
-      - '{''id'': 5, ''value'': ''very-hard''}'
+      - very-easy
+      - somewhat-easy
+      - neither-easy-nor-hard
+      - somewhat-hard
+      - very-hard
       required: false
     - id: 8
       name: submission_procedure
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''current-procedure''}'
-      - '{''id'': 2, ''value'': ''improved-procedure''}'
-      - '{''id'': 3, ''value'': ''new-procedure''}'
+      - current-procedure
+      - improved-procedure
+      - new-procedure
       required: false
     - id: 9
       name: improvement_ideas

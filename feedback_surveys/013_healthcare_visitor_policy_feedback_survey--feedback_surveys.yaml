@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': None, ''value'': ''Good'', ''label'': ''Good''}'
-      - '{''options'': None, ''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''options'': None, ''value'': ''Bad'', ''label'': ''Bad''}'
+      - Good
+      - Fair
+      - Bad
       required: false
     - id: 4
       name: issues_faced
@@ -33,12 +33,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''options'': None, ''value'': ''None'', ''label'': ''None''}'
-      - '{''options'': None, ''value'': ''Communication Issues'', ''label'': ''Communication
-        Issues''}'
-      - '{''options'': None, ''value'': ''Parking Issues'', ''label'': ''Parking Issues''}'
-      - '{''options'': None, ''value'': ''Access Issues'', ''label'': ''Access Issues''}'
-      - '{''options'': None, ''value'': ''Other'', ''label'': ''Other''}'
+      - None
+      - Communication Issues
+      - Parking Issues
+      - Access Issues
+      - Other
       required: false
     - id: 5
       name: comments

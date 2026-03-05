@@ -4,189 +4,128 @@ inputSchema:
     title: Operational Readiness Assessment Template
     pages:
     - id: 1
-      name: operational_readiness_assessment_template_page
-      label: Operational Readiness
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: introduction
       label: Introduction
       hint: null
       type: text
       options: []
       required: false
-    - id: 3
-      name: operational_readiness_assessment_template_page_1
+    - id: 2
+      name: operational_readiness
       label: Operational Readiness
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: assessment_section_1
-      label: Assessment Section 1
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: assessment_section_1_answer_1
-      label: Assessment Section 1 Answer 1
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: assessment_section_1_answer_2
-      label: Assessment Section 1 Answer 2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: assessment_section_2
-      label: Assessment Section 2
+      - On-time
+      - Behind schedule
+      - Delayed
+      required: true
+    - id: 3
+      name: team_performance
+      label: Team Performance
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: assessment_section_2_answer_1
-      label: Assessment Section 2 Answer 1
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: resource_availability
+      label: Resource Availability
       hint: null
       type: number
       options: []
-      required: false
-    - id: 9
-      name: assessment_section_2_answer_2
-      label: Assessment Section 2 Answer 2
+      required: true
+    - id: 5
+      name: situational_awareness
+      label: Situational Awareness
       hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: operational_readiness_assessment_template_page_2
-      label: Operational Readiness
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: operational_challenges
+      label: Operational Challenges
       hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
+      type: select_multiple
+      options:
+      - Technical issues
+      - Communication breakdown
+      - Resource constraints
+      required: true
+    - id: 7
       name: notes
       label: Notes
       hint: null
       type: note
       options: []
-      required: false
-    - id: 12
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 13
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: assessment_section_3
-      label: Assessment Section 3
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: assessment_section_3_answer_1
-      label: Assessment Section 3 Answer 1
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: assessment_section_3_answer_2
-      label: Assessment Section 3 Answer 2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: assessment_section_4
-      label: Assessment Section 4
+      required: true
+    - id: 8
+      name: communication
+      label: Communication
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: assessment_section_4_answer_1
-      label: Assessment Section 4 Answer 1
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: assessment_section_4_answer_2
-      label: Assessment Section 4 Answer 2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: operational_readiness_assessment_template_page_3
-      label: Operational Readiness
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
       name: submit
       label: Submit
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: submit_answer
-      label: Submit Answer
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: email
+      label: Email
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
       name: submit_comment
       label: Submit Comment
       hint: null
       type: note
       options: []
-      required: false
+      required: true
+    - id: 15
+      name: submit_answer
+      label: Submit Answer
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

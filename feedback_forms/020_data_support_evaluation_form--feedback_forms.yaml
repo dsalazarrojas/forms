@@ -5,232 +5,141 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: first_section
+      label: Initial Contact with Support
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 2
       name: rating_score
-      label: rating_score
+      label: Rating Score
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: satisfaction_level
-      label: satisfaction_level
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Response Time
+      - Knowledge
+      - Problem Solving
+      - Overall Experience
+      required: true
+    - id: 4
+      name: contact_frequency
+      label: Contact Frequency
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 4
-      name: improvement_areas
-      label: improvement_areas
-      hint: Please select areas where we can improve
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
     - id: 5
-      name: feedback
-      label: feedback
+      name: basis_for_rating
+      label: Basis for Rating
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Experience
+      - Knowledge
+      - Communication
+      - Response Time
+      required: true
     - id: 6
-      name: email
-      label: email
+      name: average_rating
+      label: Average Rating
       hint: null
-      type: email
+      type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: phone
-      label: phone
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: follow_up
-      label: follow_up
+      name: satisfaction_level
+      label: Satisfaction Level
       hint: null
-      type: time
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
     - id: 9
-      name: date
-      label: date
+      name: team_member_rating
+      label: Team Member Rating
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      - Very Bad
       required: false
     - id: 10
-      name: team_member
-      label: team_member
+      name: team_lead_rating
+      label: Team Lead Rating
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      - Very Bad
       required: false
     - id: 11
-      name: team_lead
-      label: team_lead
+      name: support_team_performance
+      label: Support Team Performance
       hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
+      type: text
+      options: []
       required: false
     - id: 12
-      name: other_comments
-      label: other_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: rating_system
-      label: rating_system
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 14
-      name: rating_frequency
-      label: rating_frequency
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 15
-      name: rating_basis
-      label: rating_basis
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 16
-      name: rating_score_frequency
-      label: rating_score_frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
       name: rating_scale
-      label: rating_scale
+      label: Rating Scale
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 18
+      - Scale 1-5
+      - Scale 1-10
+      - Scale 6-10
+      required: true
+    - id: 13
+      name: rating_score_2
+      label: Rating Score 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
       name: rating_scale_type
-      label: rating_scale_type
+      label: Rating Scale Type
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 19
-      name: rating_score_range
-      label: rating_score_range
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: rating_score_average
-      label: rating_score_average
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
+      - Linear
+      - Non-Linear
+      required: true
+    - id: 15
       name: rating_score_total
-      label: rating_score_total
+      label: Rating Score Total
       hint: null
       type: number
       options: []
-      required: false
-    - id: 22
-      name: other_fields
-      label: other_fields
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: team_member_notes
-      label: team_member_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: team_lead_notes
-      label: team_lead_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submit
-      label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 28
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
+      required: true

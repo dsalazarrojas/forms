@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''resolved'', ''text'': ''Resolved''}'
-      - '{''id'': 2, ''name'': ''not_resolved'', ''text'': ''Not Resolved''}'
-      - '{''id'': 3, ''name'': ''partially_resolved'', ''text'': ''Partially Resolved''}'
+      - resolved
+      - not resolved
+      - partially resolved
       required: true
     - id: 4
       name: suggestions
@@ -152,9 +152,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''work-related'', ''text'': ''Work-related''}'
-      - '{''id'': 2, ''name'': ''work-life balance'', ''text'': ''Work-life balance''}'
-      - '{''id'': 3, ''name'': ''personal'', ''text'': ''Personal''}'
+      - work-related
+      - work-life balance
+      - personal
       required: true
     - id: 22
       name: grievance_description
@@ -183,7 +183,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''resolved'', ''text'': ''Resolved''}'
-      - '{''id'': 2, ''name'': ''not_resolved'', ''text'': ''Not Resolved''}'
-      - '{''id'': 3, ''name'': ''partially_resolved'', ''text'': ''Partially Resolved''}'
+      - resolved
+      - not resolved
+      - partially resolved
       required: true

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Affordable'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Expensive'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Average'', ''value'': 3}'
+      - Affordable
+      - Expensive
+      - Average
       required: false
     - id: 7
       name: service_price
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Affordable'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Expensive'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Average'', ''value'': 3}'
+      - Affordable
+      - Expensive
+      - Average
       required: false
     - id: 8
       name: food_environment
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Satisfied'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Neutral'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Very Dissatisfied'', ''value'': 3}'
+      - Very Satisfied
+      - Neutral
+      - Very Dissatisfied
       required: false
     - id: 10
       name: food_quality_rating
@@ -81,11 +81,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Good'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Average'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Fair'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Poor'', ''value'': 5}'
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
       required: false
     - id: 11
       name: service_quality_rating
@@ -93,11 +93,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Good'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Average'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Fair'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Poor'', ''value'': 5}'
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
       required: false
     - id: 12
       name: will_revisit
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': 1}'
-      - '{''id'': 2, ''label'': False, ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Undecided'', ''value'': 3}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 13
       name: recommendations

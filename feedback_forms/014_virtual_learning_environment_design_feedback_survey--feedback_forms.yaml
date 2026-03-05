@@ -4,248 +4,86 @@ inputSchema:
     title: Virtual Learning Environment Design Feedback Survey
     pages:
     - id: 1
-      name: survey_title
-      label: Virtual Learning Environment Design Feedback Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: usability_rating
       label: Usability Rating
-      hint: null
+      hint: How would you rate the usability of the Virtual Learning Environment?
       type: number
       options: []
-      required: false
-    - id: 3
+      required: true
+    - id: 2
       name: feature_feedback
       label: Feature Feedback
-      hint: Please provide any additional feedback about the features of the Virtual
-        Learning Environment.
+      hint: What features of the Virtual Learning Environment do you find most useful?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 3
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Are there any additional features you would like to see implemented in
+        the Virtual Learning Environment?
       type: text
       options: []
       required: false
     - id: 4
       name: improvement_suggestions
       label: Improvement Suggestions
-      hint: null
+      hint: What are your suggestions for improvement?
       type: text
       options: []
       required: false
     - id: 5
-      name: email
-      label: Email
-      hint: null
-      type: email
+      name: documentation_quality
+      label: Documentation Quality
+      hint: How would you rate the quality of the Virtual Learning Environment's documentation
+        and support?
+      type: number
       options: []
-      required: false
+      required: true
     - id: 6
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: issues_performance
+      label: Issues with Performance
+      hint: Are there any issues with the Virtual Learning Environment's performance
+        or functionality?
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 7
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
+      name: navigation_suggestions
+      label: Navigation and User Flow Suggestions
+      hint: Do you have any suggestions for the Virtual Learning Environment's navigation
+        and user flow?
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 8
-      name: time
-      label: Time
-      hint: null
-      type: time
+      name: overall_user_experience
+      label: Overall User Experience
+      hint: How would you rate the overall user experience of the Virtual Learning
+        Environment?
+      type: number
       options: []
-      required: false
+      required: true
     - id: 9
-      name: note
-      label: Note
-      hint: null
-      type: note
+      name: other_comments
+      label: Other Comments or Suggestions
+      hint: Are there any other comments or suggestions you would like to make about
+        the Virtual Learning Environment?
+      type: text
       options: []
       required: false
     - id: 10
-      name: rating_1
-      label: Rating 1
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: true
-    - id: 11
-      name: rating_2
-      label: Rating 2
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: true
-    - id: 12
-      name: rating_3
-      label: Rating 3
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: true
-    - id: 13
-      name: feature_1
-      label: Feature 1
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: true
-    - id: 14
-      name: feature_2
-      label: Feature 2
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: true
-    - id: 15
-      name: feature_3
-      label: Feature 3
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: true
-    - id: 16
-      name: suggestions
-      label: Do you have any suggestions for improvement?
-      hint: null
-      type: text
+      name: support_quality
+      label: Support Quality
+      hint: How would you rate the support quality available in the Virtual Learning
+        Environment?
+      type: number
       options: []
-      required: false
-    - id: 17
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: true
-    - id: 18
-      name: submit
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: category_1
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: true
-    - id: 20
-      name: category_2
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: true
-    - id: 21
-      name: category_3
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: true
-    - id: 22
-      name: category_4
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: true
-    - id: 23
-      name: category_5
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: true
-    - id: 24
-      name: category_6
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: true
-    - id: 25
-      name: category_7
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
       required: true

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Medical Wearable Device 1''}'
-      - '{''value'': ''Medical Wearable Device 2''}'
-      - '{''value'': ''Other''}'
+      - Medical Wearable Device 1
+      - Medical Wearable Device 2
+      - Other
       required: false
     - id: 4
       name: participant_info
@@ -33,9 +33,9 @@ inputSchema:
       hint: This will help us verify participant data
       type: select_multiple
       options:
-      - '{''value'': ''Participant 1''}'
-      - '{''value'': ''Participant 2''}'
-      - '{''value'': ''Participant 3''}'
+      - Participant 1
+      - Participant 2
+      - Participant 3
       required: false
     - id: 5
       name: usability
@@ -43,11 +43,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 5}'
-      - '{''value'': 4}'
-      - '{''value'': 3}'
-      - '{''value'': 2}'
-      - '{''value'': 1}'
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
       required: false
     - id: 6
       name: benefits
@@ -83,8 +83,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: comments

@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''individual'', ''value'': ''individual''}'
-      - '{''label'': ''team'', ''value'': ''team''}'
+      - individual
+      - team
       required: true
     - id: 5
       name: role
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Andhra Pradesh'', ''value'': ''Andhra Pradesh''}'
-      - '{''label'': ''Karnataka'', ''value'': ''Karnataka''}'
-      - '{''label'': ''Tamil Nadu'', ''value'': ''Tamil Nadu''}'
+      - Andhra Pradesh
+      - Karnataka
+      - Tamil Nadu
       required: true
     - id: 11
       name: pincode
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''tech'', ''value'': ''tech''}'
-      - '{''label'': ''non_tech'', ''value'': ''non_tech''}'
-      - '{''label'': ''hackathon'', ''value'': ''hackathon''}'
+      - tech
+      - non tech
+      - hackathon
       required: false
     - id: 13
       name: preferred_location
@@ -108,8 +108,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''tech'', ''value'': ''tech''}'
-      - '{''label'': ''non_tech'', ''value'': ''non_tech''}'
+      - tech
+      - non tech
       required: false
     - id: 15
       name: tech_stack
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''tech'', ''value'': ''tech''}'
-      - '{''label'': ''non_tech'', ''value'': ''non_tech''}'
-      - '{''label'': ''hackathon'', ''value'': ''hackathon''}'
+      - tech
+      - non tech
+      - hackathon
       required: false
     - id: 17
       name: innovation_focus

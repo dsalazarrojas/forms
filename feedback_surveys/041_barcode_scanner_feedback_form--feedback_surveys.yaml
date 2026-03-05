@@ -1,186 +1,175 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Barcode Scanner Feedback Form
     pages:
-      - id: 1
-        name: device_info_header
-        label: -- Device and User Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: scanner_model
-        label: Barcode Scanner Model / App Name
-        hint: e.g., Zebra TC52, Honeywell Voyager, ScanApp v2
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: serial_number
-        label: Device Serial Number (if known)
-        hint: Look for the tag on the back or bottom
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: software_version
-        label: Current Software / Firmware Version
-        hint: Check the "About" screen in settings
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: user_role
-        label: Your Primary Role
-        hint: null
-        type: select_one
-        options:
-          - Warehouse Picker / Packer
-          - Retail Associate
-          - Inventory Auditor
-          - Delivery Driver
-          - IT Support
-        required: true
-      - id: 6
-        name: usage_environment
-        label: Usage Environment
-        hint: Where is this device primarily used?
-        type: select_one
-        options:
-          - Indoor Warehouse
-          - Retail Floor
-          - Outdoor / Loading Dock
-          - On the Road (Delivery)
-          - Healthcare / Lab
-        required: true
-      - id: 7
-        name: performance_ratings_header
-        label: -- Performance and Functionality Ratings --
-        hint: Rate from 1 (Poor) to 5 (Excellent)
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: scanning_speed
-        label: Scanning Speed and Responsiveness
-        hint: How quickly does it capture codes?
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 9
-        name: scan_distance
-        label: Scanning Distance / Range
-        hint: Ability to scan from far away or very close
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 10
-        name: low_light_performance
-        label: Performance in Low Light or Glare
-        hint: null
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-          - N/A
-        required: true
-      - id: 11
-        name: battery_life_rating
-        label: Battery Life / Duration
-        hint: Does it last your entire shift?
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 12
-        name: ergonomics_rating
-        label: Ergonomics and Comfort
-        hint: Weight, grip, and ease of trigger pull
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 13
-        name: issues_header
-        label: -- Technical Issues and Challenges --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: issue_frequency
-        label: How often do you experience technical glitches?
-        hint: e.g., Freezing, connectivity drops
-        type: select_one
-        options:
-          - Never
-          - Rarely (Once a month)
-          - Occasionally (Once a week)
-          - Frequently (Every shift)
-        required: true
-      - id: 15
-        name: specific_issue_desc
-        label: Describe any specific issues encountered
-        hint: Be as detailed as possible regarding steps to reproduce
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: connectivity_type
-        label: Connectivity Used
-        hint: null
-        type: select_multiple
-        options:
-          - Wi-Fi (Internal)
-          - Bluetooth
-          - Cellular (LTE/5G)
-          - USB / Wired
-        required: true
-      - id: 17
-        name: feature_request
-        label: Suggested Features or Improvements
-        hint: What would make your job easier with this device?
-        type: text
-        options: []
-        required: false
-      - id: 18
-        name: feedback_date
-        label: Date of Feedback
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: device_info_header
+      label: -- Device and User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: scanner_model
+      label: Barcode Scanner Model / App Name
+      hint: e.g., Zebra TC52, Honeywell Voyager, ScanApp v2
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: serial_number
+      label: Device Serial Number (if known)
+      hint: Look for the tag on the back or bottom
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: software_version
+      label: Current Software / Firmware Version
+      hint: Check the "About" screen in settings
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_role
+      label: Your Primary Role
+      hint: null
+      type: select_one
+      options:
+      - Warehouse Picker / Packer
+      - Retail Associate
+      - Inventory Auditor
+      - Delivery Driver
+      - IT Support
+      required: true
+    - id: 6
+      name: usage_environment
+      label: Usage Environment
+      hint: Where is this device primarily used?
+      type: select_one
+      options:
+      - Indoor Warehouse
+      - Retail Floor
+      - Outdoor / Loading Dock
+      - On the Road (Delivery)
+      - Healthcare / Lab
+      required: true
+    - id: 7
+      name: performance_ratings_header
+      label: -- Performance and Functionality Ratings --
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: scanning_speed
+      label: Scanning Speed and Responsiveness
+      hint: How quickly does it capture codes?
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 9
+      name: scan_distance
+      label: Scanning Distance / Range
+      hint: Ability to scan from far away or very close
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 10
+      name: low_light_performance
+      label: Performance in Low Light or Glare
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - N/A
+      required: true
+    - id: 11
+      name: battery_life_rating
+      label: Battery Life / Duration
+      hint: Does it last your entire shift?
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 12
+      name: ergonomics_rating
+      label: Ergonomics and Comfort
+      hint: Weight, grip, and ease of trigger pull
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 13
+      name: issues_header
+      label: -- Technical Issues and Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: issue_frequency
+      label: How often do you experience technical glitches?
+      hint: e.g., Freezing, connectivity drops
+      type: select_one
+      options:
+      - Never
+      - Rarely (Once a month)
+      - Occasionally (Once a week)
+      - Frequently (Every shift)
+      required: true
+    - id: 15
+      name: specific_issue_desc
+      label: Describe any specific issues encountered
+      hint: Be as detailed as possible regarding steps to reproduce
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: connectivity_type
+      label: Connectivity Used
+      hint: null
+      type: select_multiple
+      options:
+      - Wi-Fi (Internal)
+      - Bluetooth
+      - Cellular (LTE/5G)
+      - USB / Wired
+      required: true
+    - id: 17
+      name: feature_request
+      label: Suggested Features or Improvements
+      hint: What would make your job easier with this device?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: feedback_date
+      label: Date of Feedback
+      hint: null
+      type: date
+      options: []
+      required: true

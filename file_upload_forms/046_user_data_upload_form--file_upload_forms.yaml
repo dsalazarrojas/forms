@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''image'', ''label'': ''Image''}'
-      - '{''id'': 2, ''name'': ''document'', ''label'': ''Document''}'
-      - '{''id'': 3, ''name'': ''video'', ''label'': ''Video''}'
+      - Image
+      - Document
+      - Video
       required: false
     - id: 9
       name: upload_date
@@ -89,8 +89,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''someone_else'', ''label'': ''Someone Else''}'
+      - chatjimmy
+      - Someone Else
       required: false
     - id: 13
       name: uploaded_by
@@ -98,8 +98,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''uploaded_by_user'', ''label'': ''uploaded_by_user''}'
-      - '{''id'': 2, ''name'': ''automated_system'', ''label'': ''Automated System''}'
+      - uploaded by user
+      - Automated System
       required: false
     - id: 14
       name: uploaded_date
@@ -149,7 +149,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''uploaded_user'', ''label'': ''uploaded_user''}'
+      - uploaded user
       - Other
       required: false
     - id: 21
@@ -165,9 +165,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''completed'', ''label'': ''Completed''}'
-      - '{''id'': 2, ''name'': ''pending'', ''label'': ''Pending''}'
-      - '{''id'': 3, ''name'': ''failed'', ''label'': ''Failed''}'
+      - Completed
+      - Pending
+      - Failed
       required: false
     - id: 23
       name: upload_user_group
@@ -175,8 +175,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''group_a'', ''label'': ''Group A''}'
-      - '{''id'': 2, ''name'': ''group_b'', ''label'': ''Group B''}'
+      - Group A
+      - Group B
       required: false
     - id: 24
       name: file_name

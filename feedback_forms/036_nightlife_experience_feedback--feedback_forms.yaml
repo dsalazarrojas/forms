@@ -4,209 +4,70 @@ inputSchema:
     title: Nightlife Experience Feedback
     pages:
     - id: 1
-      name: nightlife_experience
-      label: Nightlife Experience
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: rating
-      label: rating
-      hint: null
+      name: overall_experience
+      label: Overall Experience
+      hint: How would you rate the overall experience?
       type: number
       options: []
-      required: false
-    - id: 3
+      required: true
+    - id: 2
       name: service
-      label: service
-      hint: How would you rate the service
+      label: Service Quality
+      hint: How would you rate the service quality?
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: ambiance
+      label: Ambiance
+      hint: What was the ambiance like?
       type: text
       options: []
       required: false
     - id: 4
-      name: ambiance
-      label: ambiance
+      name: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: overall_experience
-      label: overall experience
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: email
-      label: email
+      label: Email
       hint: Your Email
       type: email
       options: []
       required: false
-    - id: 8
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
+    - id: 6
       name: assigned_tool
-      label: assigned_tool
-      hint: null
+      label: Assigned Tool
+      hint: Were you assigned a tool?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
       name: submitted
-      label: submitted
-      hint: null
+      label: Submission Date
+      hint: (YYYY-MM-DD)
       type: date
+      options: []
+      required: true
+    - id: 8
+      name: assigned_tool_type
+      label: Tool Type
+      hint: What type of tool was assigned?
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: true
+    - id: 9
+      name: comments_on_tool
+      label: Comments on Tool
+      hint: What were your thoughts on the tool?
+      type: text
       options: []
       required: false

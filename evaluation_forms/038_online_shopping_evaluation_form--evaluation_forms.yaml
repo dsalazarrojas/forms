@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Online Shopping''}'
-      - '{''id'': 2, ''name'': ''Offline Shopping''}'
-      - '{''id'': 3, ''name'': ''Store Visit''}'
+      - Online Shopping
+      - Offline Shopping
+      - Store Visit
       required: false
     - id: 3
       name: rating
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: contact_info

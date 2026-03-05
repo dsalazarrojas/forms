@@ -16,29 +16,29 @@ inputSchema:
     pages:
     - id: 1
       name: submission_details
-      label: Submission Details
-      hint: null
+      label: What is your name?
+      hint: Please enter your name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: artwork_files
       label: Artwork Files
-      hint: null
+      hint: Please upload your artwork
       type: text
       options: []
       required: false
     - id: 3
       name: artwork_description
       label: Artwork Description
-      hint: null
+      hint: Please describe your artwork
       type: note
       options: []
       required: false
     - id: 4
-      name: submission_details
+      name: submission_details_2
       label: Submission Details
-      hint: null
+      hint: Please provide more information about your submission
       type: text
       options: []
       required: false
@@ -50,51 +50,55 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
+      name: artwork_description_2
+      label: Artwork Description 2
+      hint: Please describe your artwork
+      type: note
       options: []
       required: false
     - id: 7
-      name: artwork_files
-      label: Artwork Files
-      hint: null
+      name: artwork_files_2
+      label: Artwork Files 2
+      hint: Please upload your artwork
       type: text
       options: []
       required: false
     - id: 8
-      name: artwork_description
-      label: Artwork Description
-      hint: null
-      type: note
+      name: submission_details_3
+      label: Submission Details 3
+      hint: Please provide more information about your submission
+      type: text
       options: []
       required: false
     - id: 9
-      name: submission_details
-      label: Submission Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: artwork_description
-      label: Artwork Description
-      hint: null
+      name: artwork_description_3
+      label: Artwork Description 3
+      hint: Please describe your artwork
       type: note
       options: []
       required: false
+    - id: 10
+      name: submit_button_2
+      label: Submit Button 2
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 11
-      name: submit_button
-      label: Submit
+      name: file_type
+      label: File Type (2D or 3D)
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 2D
+      - 3D
+      required: true
     - id: 12
-      name: submit
-      label: Submit
+      name: file_format
+      label: File Format
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - JPEG
+      - PNG
+      required: true

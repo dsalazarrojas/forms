@@ -15,184 +15,101 @@ inputSchema:
     title: Senior Expo Healthcare Sponsorship Application
     pages:
     - id: 1
-      name: sponsor_info
-      label: Sponsor Information
+      name: sponsor_name
+      label: What is your name as the sponsor?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: event_details
-      label: Event Details
+      name: sponsor_company
+      label: What is your company's name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: contact_details
-      label: Contact Details
+      name: event_details
+      label: What is the event name and date?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: agreement
-      label: Agreement
-      hint: Please note that this is a sample sponsorship application form for demonstration
-        purposes.
-      type: text
-      options: []
-      required: false
+      name: how_did_you_hear
+      label: How did you hear about us?
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Email
+      - Referral
+      - Online search
+      required: true
     - id: 5
-      name: submission_details
-      label: Submission
+      name: contact_details
+      label: What is your contact information?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: submission_confirmation
-      label: Submission Confirmation
+      name: sponsorship_amount
+      label: How much are you willing to pay for sponsorship?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: review
-      label: Review
+      name: agreements
+      label: Do you have any agreements or contracts with other sponsors?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 8
-      name: payment_details
-      label: Payment Details
+      name: questions_requests
+      label: Do you have any questions or requests?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: sponsor_info_1
-      label: Sponsor Information
+      name: use_of_funds
+      label: How will you use the sponsorship funds?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Event marketing
+      - Event promotion
+      - Staff support
+      required: true
     - id: 10
-      name: event_details_1
-      label: Event Details
+      name: payment_date
+      label: When would you like to receive the sponsorship funds?
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 11
-      name: sponsor_agreement_1
-      label: Agreement 1
-      hint: Please note that this is a sample sponsorship application form for demonstration
-        purposes.
-      type: text
-      options: []
-      required: false
+      name: contact_method
+      label: How will we be able to contact you?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - SMS
+      - Mail
+      required: true
     - id: 12
-      name: submission_details_1
-      label: Submission 1
+      name: review
+      label: Review and Confirmation
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: sponsor_agreement_1
-      label: Agreement 1
-      hint: Please note that this is a sample sponsorship application form for demonstration
-        purposes.
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: sponsor_info_2
-      label: Sponsor Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: event_details_2
-      label: Event Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: submission_details_2
-      label: Submission 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: sponsor_agreement_2
-      label: Agreement 1
-      hint: Please note that this is a sample sponsorship application form for demonstration
-        purposes.
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: payment_details_1
-      label: Payment Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: sponsor_agreement_2
-      label: Agreement 1
-      hint: Please note that this is a sample sponsorship application form for demonstration
-        purposes.
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: payment_details_2
-      label: Payment Details 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: sponsor_agreement_3
-      label: Agreement 1
-      hint: Please note that this is a sample sponsorship application form for demonstration
-        purposes.
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: payment_details_3
-      label: Payment Details 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: sponsor_agreement_4
-      label: Agreement 1
-      hint: Please note that this is a sample sponsorship application form for demonstration
-        purposes.
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: payment_details_4
-      label: Payment Details 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submit
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: radio
+      options:
+      - Sponsorship Application Confirmed
+      - Sponsorship Application Rejected
+      required: true

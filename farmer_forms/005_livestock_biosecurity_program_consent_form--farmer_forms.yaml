@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Participant'', ''value'': ''Participant''}'
-      - '{''label'': ''Farmer'', ''value'': ''Farmer''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
-      - '{''label'': ''None'', ''value'': ''None''}'
+      - Participant
+      - Farmer
+      - Other
+      - None
       required: true
     - id: 3
       name: farm_name
@@ -62,12 +62,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - Biosecurity
+      - Other
       required: true
     - id: 9
       name: date_visited
@@ -96,10 +92,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Map 1'', ''value'': ''Map 1''}'
-      - '{''label'': ''Map 2'', ''value'': ''Map 2''}'
-      - '{''label'': ''Map 3'', ''value'': ''Map 3''}'
-      - '{''label'': ''Map 4'', ''value'': ''Map 4''}'
+      - Map 1
+      - Map 2
+      - Map 3
+      - Map 4
       required: true
     - id: 13
       name: participant_signature
@@ -156,10 +152,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Acres'', ''value'': ''Acres''}'
-      - '{''label'': ''Hectares'', ''value'': ''Hectares''}'
-      - '{''label'': ''Square Kilometers'', ''value'': ''Square Kilometers''}'
-      - '{''label'': ''Square Miles'', ''value'': ''Square Miles''}'
+      - Acres
+      - Hectares
+      - Square Kilometers
+      - Square Miles
       required: false
     - id: 21
       name: biosecurity_measures_1
@@ -167,12 +163,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - Biosecurity
+      - Other
       required: false
     - id: 22
       name: biosecurity_measures_2
@@ -180,12 +172,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - Biosecurity
+      - Other
       required: false
     - id: 23
       name: biosecurity_measures_3
@@ -193,12 +181,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - Biosecurity
+      - Other
       required: false
     - id: 24
       name: biosecurity_measures_4
@@ -206,12 +190,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
-      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - Biosecurity
+      - Other
       required: false
     - id: 25
       name: signature_date

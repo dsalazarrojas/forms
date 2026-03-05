@@ -1,153 +1,107 @@
 inputSchema:
   type: object
   properties:
-    title: evaluation_form
+    title: Evaluation Form
     pages:
     - id: 1
-      name: introduction
-      label: introduction
-      hint: null
+      name: intro_1
+      label: Introduction
+      hint: Tell us about the product/service
       type: text
       options: []
       required: false
     - id: 2
       name: feedback_question_1
-      label: feedback_question_1
-      hint: null
+      label: Is the product/service satisfactory?
+      hint: Select one of the options below
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 3
       name: feedback_question_2
-      label: feedback_question_2
-      hint: null
+      label: Are there any features you'd like to see added or improved?
+      hint: Select multiple options below
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Yes, add more features
+      - Yes, improve existing features
+      - No changes needed
+      required: true
     - id: 4
-      name: feedback_question_3
-      label: feedback_question_3
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: date_of_submission_reported_date
-      label: date_of_submission.reported_date
-      hint: null
+      name: reported_date
+      label: Date of submission
+      hint: Format - YYYY-MM-DD
       type: date
       options: []
       required: false
+    - id: 5
+      name: reported_time
+      label: Time of submission
+      hint: Format - HH -MM AM/PM
+      type: time
+      options: []
+      required: false
     - id: 6
-      name: date_of_submission_reported_datetime
-      label: date_of_submission.reported_datetime
-      hint: null
+      name: feedback_score
+      label: Feedback score (out of 10)
+      hint: Enter a number between 1 and 10
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: feedback
+      label: Additional feedback
+      hint: Please share any additional thoughts
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: feedback_question_3
+      label: Is the product/service easy to use?
+      hint: Select one of the options below
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 7
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
+      required: true
     - id: 9
-      name: rating
-      label: rating
-      hint: null
+      name: feedback_score_2
+      label: Ease of use score (out of 10)
+      hint: Enter a number between 1 and 10
       type: number
       options: []
       required: false
     - id: 10
-      name: feedback
-      label: feedback
-      hint: null
-      type: note
-      options: []
-      required: false
+      name: feedback_question_4
+      label: Would you recommend this product/service?
+      hint: Select one of the options below
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 11
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
+      name: feedback_question_5
+      label: How likely are you to recommend this product/service?
+      hint: Select one of the options below
+      type: select_one
+      options:
+      - Highly likely
+      - Somewhat likely
+      - Not likely
+      - Not at all
+      required: true
     - id: 12
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: feedback_score
-      label: feedback_score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
+      name: feedback_question_6
+      label: What would you like to see improved?
+      hint: Select multiple options below
+      type: select_multiple
+      options:
+      - Features
+      - User interface
+      - Performance
+      - Support
+      - Other (please specify)
+      required: true

@@ -78,7 +78,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I acknowledge
-      - false
+      - 'False'
       required: true
     - id: 11
       name: understand_camp_waiver
@@ -87,7 +87,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I understand
-      - false
+      - 'False'
       required: true
     - id: 12
       name: assume_all_risks
@@ -96,7 +96,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I assume all risks
-      - false
+      - 'False'
       required: true
     - id: 13
       name: authorize_medical_care
@@ -105,7 +105,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I authorize
-      - false
+      - 'False'
       required: true
     - id: 14
       name: section_medical_info
@@ -156,7 +156,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, agrees
-      - false
+      - 'False'
       required: true
     - id: 21
       name: responsible_conduct
@@ -165,7 +165,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, agrees
-      - false
+      - 'False'
       required: true
     - id: 22
       name: parent_supervision_agreement
@@ -173,8 +173,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: release_and_waiver
@@ -183,7 +183,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I release and waive
-      - false
+      - 'False'
       required: true
     - id: 24
       name: signature_date
@@ -199,5 +199,5 @@ inputSchema:
       type: select_one
       options:
       - Yes, I confirm
-      - false
+      - 'False'
       required: true

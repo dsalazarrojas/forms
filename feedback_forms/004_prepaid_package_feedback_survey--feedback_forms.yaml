@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': 1, ''value'': ''Highly satisfied''}'
-      - '{''option'': 2, ''value'': ''Satisfied''}'
-      - '{''option'': 3, ''value'': ''Not satisfied''}'
+      - Highly satisfied
+      - Satisfied
+      - Not satisfied
       required: false
     - id: 4
       name: suggestions
@@ -40,8 +40,8 @@ inputSchema:
       hint: This will help us understand your feedback better
       type: select_one
       options:
-      - '{''option'': 1, ''value'': True}'
-      - '{''option'': 2, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: email
@@ -108,35 +108,35 @@ inputSchema:
       required: false
     - id: 15
       name: rating4_label
-      label: Explanation
+      label: Rating4 Label
       hint: null
       type: text
       options: []
       required: false
     - id: 16
       name: rating4_reason
-      label: Why did you rate that way?
+      label: Rating4 Reason
       hint: null
       type: text
       options: []
       required: false
     - id: 17
       name: rating5
-      label: How likely are you to purchase again?
+      label: Rating5
       hint: null
       type: number
       options: []
       required: false
     - id: 18
       name: rating5_label
-      label: Explanation
+      label: Rating5 Label
       hint: null
       type: text
       options: []
       required: false
     - id: 19
       name: rating5_reason
-      label: Why did you rate that way?
+      label: Rating5 Reason
       hint: null
       type: text
       options: []
@@ -150,14 +150,14 @@ inputSchema:
       required: false
     - id: 21
       name: rating6_label
-      label: Explanation
+      label: Rating6 Label
       hint: null
       type: text
       options: []
       required: false
     - id: 22
       name: rating6_reason
-      label: Why did you rate that way?
+      label: Rating6 Reason
       hint: null
       type: text
       options: []
@@ -171,7 +171,7 @@ inputSchema:
       required: false
     - id: 24
       name: rating7_label
-      label: Explanation
+      label: Rating7 Label
       hint: null
       type: text
       options: []

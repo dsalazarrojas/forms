@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pickup'', ''label'': ''Pickup''}'
-      - '{''id'': 2, ''name'': ''delivery'', ''label'': ''Delivery''}'
+      - Pickup
+      - Delivery
       required: false
     - id: 5
       name: pickup_date
@@ -46,12 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''radio_equipment1'', ''label'': ''Radio Equipment
-        1''}'
-      - '{''id'': 2, ''name'': ''radio_equipment2'', ''label'': ''Radio Equipment
-        2''}'
-      - '{''id'': 3, ''name'': ''radio_equipment3'', ''label'': ''Radio Equipment
-        3''}'
+      - Radio Equipment 1
+      - Radio Equipment 2
+      - Radio Equipment 3
       required: false
     - id: 7
       name: donor_name

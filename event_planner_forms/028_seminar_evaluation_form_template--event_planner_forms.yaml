@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Highly Relevant''}'
-      - '{''id'': 2, ''label'': ''Somewhat Relevant''}'
-      - '{''id'': 3, ''label'': ''Not Relevant''}'
+      - Highly Relevant
+      - Somewhat Relevant
+      - Not Relevant
       required: true
     - id: 3
       name: overall_seminar_effectiveness
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: participant_name
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Finance''}'
-      - '{''id'': 2, ''label'': ''Marketing''}'
-      - '{''id'': 3, ''label'': ''HR''}'
+      - Finance
+      - Marketing
+      - HR
       required: true
     - id: 14
       name: participant_title
@@ -108,10 +108,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Director''}'
-      - '{''id'': 2, ''label'': ''Manager''}'
-      - '{''id'': 3, ''label'': ''Assistant Manager''}'
-      - '{''id'': 4, ''label'': ''Team Member''}'
+      - Director
+      - Manager
+      - Assistant Manager
+      - Team Member
       required: true
     - id: 15
       name: participant_job_function
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Sales''}'
-      - '{''id'': 2, ''label'': ''Operations''}'
-      - '{''id'': 3, ''label'': ''IT''}'
+      - Sales
+      - Operations
+      - IT
       required: true
     - id: 16
       name: participant_location

@@ -11,8 +11,8 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: name
-      label: Name
+      name: name_2
+      label: Name 2
       hint: null
       type: text
       options: []
@@ -79,12 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 12, ''name'': ''Type'', ''label'': ''Type'', ''value'': ''In-Person'',
-        ''selected'': False}'
-      - '{''id'': 13, ''name'': ''Type'', ''label'': ''Type'', ''value'': ''Virtual'',
-        ''selected'': False}'
-      - '{''id'': 14, ''name'': ''Type'', ''label'': ''Type'', ''value'': ''Hybrid'',
-        ''selected'': False}'
+      - Type
+      - Other
       required: false
     - id: 12
       name: payment_method
@@ -92,14 +88,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 16, ''name'': ''method'', ''label'': ''Cash'', ''value'': ''Cash'',
-        ''selected'': False}'
-      - '{''id'': 17, ''name'': ''method'', ''label'': ''Credit Card'', ''value'':
-        ''Credit card'', ''selected'': False}'
-      - '{''id'': 18, ''name'': ''method'', ''label'': ''Bank Transfer'', ''value'':
-        ''Bank transfer'', ''selected'': False}'
-      - '{''id'': 19, ''name'': ''method'', ''label'': ''Online Bank Transfer'', ''value'':
-        ''Online Bank transfer'', ''selected'': False}'
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      - Online Bank Transfer
       required: false
     - id: 13
       name: notes
@@ -109,36 +101,36 @@ inputSchema:
       options: []
       required: false
     - id: 14
-      name: contact_number
-      label: Contact Number
+      name: contact_number_2
+      label: Contact Number 2
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: event_date
-      label: Event Date
+      name: event_date_2
+      label: Event Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 16
-      name: age
-      label: Age
+      name: age_2
+      label: Age 2
       hint: Must be a positive integer
       type: number
       options: []
       required: false
     - id: 17
-      name: event_time
-      label: Event Time
+      name: event_time_2
+      label: Event Time 2
       hint: null
       type: time
       options: []
       required: false
     - id: 18
-      name: notes
-      label: Notes
+      name: notes_2
+      label: Notes 2
       hint: null
       type: note
       options: []

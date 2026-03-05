@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Not Satisfied''}'
-      - '{''label'': ''Not Satisfied at All''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Not Satisfied at All
       required: false
     - id: 3
       name: purchase_intent
@@ -41,11 +41,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Poor''}'
-      - '{''label'': ''Bad''}'
+      - Excellent
+      - Good
+      - Neutral
+      - Poor
+      - Bad
       required: false
     - id: 6
       name: would_recommend
@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: product_reliability
@@ -104,6 +104,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false

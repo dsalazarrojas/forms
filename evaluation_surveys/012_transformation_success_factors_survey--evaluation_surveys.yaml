@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active'', ''label'': ''Active''}'
-      - '{''value'': ''inactive'', ''label'': ''Inactive''}'
-      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: true
     - id: 8
       name: start_date
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Business Process'', ''label'': ''Business Process''}'
-      - '{''value'': ''Organization'', ''label'': ''Organization''}'
-      - '{''value'': ''Technology'', ''label'': ''Technology''}'
+      - Business Process
+      - Organization
+      - Technology
       required: false
     - id: 12
       name: transformation_status
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not Started'', ''label'': ''Not Started''}'
-      - '{''value'': ''In Progress'', ''label'': ''In Progress''}'
-      - '{''value'': ''Completed'', ''label'': ''Completed''}'
+      - Not Started
+      - In Progress
+      - Completed
       required: true
     - id: 13
       name: comments_2

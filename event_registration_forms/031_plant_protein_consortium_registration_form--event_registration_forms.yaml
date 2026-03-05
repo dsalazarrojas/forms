@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Member''}'
-      - '{''id'': 2, ''label'': ''Non-Member''}'
-      - '{''id'': 3, ''label'': ''Sponsor''}'
+      - Member
+      - Non-Member
+      - Sponsor
       required: true
     - id: 7
       name: bio
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Agree''}'
-      - '{''id'': 2, ''label'': ''Decline''}'
+      - Agree
+      - Decline
       required: true
     - id: 9
       name: terms_and_conditions
@@ -70,11 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''I have read and agree to the terms and conditions'',
-        ''value'': 1}'
-      - '{''id'': 2, ''label'': ''I have not read and do not agree to the terms and
-        conditions'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Not Provided'', ''value'': 3}'
+      - I have read and agree to the terms and conditions
+      - I have not read and do not agree to the terms and conditions
+      - Not Provided
       required: true
     - id: 10
       name: submit

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -20,8 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
+      - base price
+      - price per attendee
+      - price per item
+      - other
       required: false
     - id: 2
       name: event_fee_structure_survey_page_2
@@ -29,64 +20,94 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - base_price
-      - price_per_attendee
-      - price_per_item
-      - revenue_per_event
-      - total_revenue
+      - revenue per event
+      - total revenue
+      - other
       required: false
     - id: 3
       name: event_fee_structure_survey_page_3
-      label: None
+      label: Event Type
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - concert
+      - festival
+      - conference
+      - other
       required: false
     - id: 4
       name: event_fee_structure_survey_page_4
-      label: None
+      label: Additional Fees
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 5
       name: event_fee_structure_survey_page_5
-      label: None
+      label: Additional Fees for
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: event_fee_structure_survey_page_6
-      label: None
+      label: Clarity of Fee Structure
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - very clear
+      - somewhat clear
+      - not clear
       required: false
     - id: 7
       name: event_fee_structure_survey_page_7
-      label: None
+      label: Recommend to Others
       hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: event_fee_structure_survey_page_8
-      label: None
+      label: Fair and Transparent
       hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: event_fee_structure_survey_page_9
-      label: None
+      label: Time Frame for Ticket Sales and Event Preparation
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 10
       name: event_fee_structure_survey_page_10
-      label: None
+      label: Comparison with Other Events
+      hint: null
+      type: select_multiple
+      options:
+      - fair
+      - unfair
+      - neutral
+      required: false
+    - id: 11
+      name: event_fee_structure_survey_page_11
+      label: Unexpected Fees
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 12
+      name: event_fee_structure_survey_page_12
+      label: Suggestions for Improvement
       hint: null
       type: text
       options: []

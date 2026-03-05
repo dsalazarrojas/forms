@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Machine''}'
-      - '{''id'': 2, ''name'': ''System''}'
-      - '{''id'': 3, ''name'': ''Hand Tool''}'
+      - Machine
+      - System
+      - Hand Tool
       required: false
     - id: 4
       name: equipment_model
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Pass''}'
-      - '{''id'': 2, ''name'': ''Fail''}'
-      - '{''id'': 3, ''name'': ''In Progress''}'
+      - Pass
+      - Fail
+      - In Progress
       required: false
     - id: 10
       name: comments

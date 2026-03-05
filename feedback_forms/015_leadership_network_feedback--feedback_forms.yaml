@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: communication_channels
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''label'': ''Chat'', ''value'': ''chat''}'
+      - Email
+      - Phone
+      - Chat
       required: false
     - id: 4
       name: event_satisfaction

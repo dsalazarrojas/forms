@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Accountant''}'
-      - '{''label'': ''Finance Team''}'
-      - '{''label'': ''Other''}'
+      - Accountant
+      - Finance Team
+      - Other
       required: false
     - id: 3
       name: company
@@ -138,8 +138,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Online Submission''}'
-      - '{''label'': ''In-House Submission''}'
+      - Online Submission
+      - In-House Submission
       required: true
     - id: 20
       name: submission_location
@@ -154,9 +154,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': 2020}'
-      - '{''label'': 2021}'
-      - '{''label'': 2022}'
+      - '2020'
+      - '2021'
+      - '2022'
       required: true
     - id: 22
       name: submission_status
@@ -164,9 +164,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Approved''}'
-      - '{''label'': ''Rejected''}'
-      - '{''label'': ''In Progress''}'
+      - Approved
+      - Rejected
+      - In Progress
       required: true
     - id: 23
       name: submission_comment
@@ -188,7 +188,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Accountant''}'
-      - '{''label'': ''Finance Team Manager''}'
-      - '{''label'': ''Other''}'
+      - Accountant
+      - Finance Team Manager
+      - Other
       required: false

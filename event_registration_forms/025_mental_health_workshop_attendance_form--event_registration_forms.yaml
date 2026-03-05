@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 100, ''label'': ''chatjimmy''}'
-      - '{''id'': 101, ''label'': ''chatjimmy 2''}'
-      - '{''id'': 102, ''label'': ''chatjimmy 3''}'
+      - chatjimmy
+      - chatjimmy 2
+      - chatjimmy 3
       required: false
     - id: 13
       name: participant_survey
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 200, ''label'': True}'
-      - '{''id'': 201, ''label'': False}'
-      - '{''id'': 202, ''label'': ''unsure''}'
+      - 'True'
+      - 'False'
+      - unsure
       required: false
     - id: 14
       name: workshop_length
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 300, ''label'': ''present''}'
-      - '{''id'': 301, ''label'': ''absent''}'
-      - '{''id'': 302, ''label'': ''declined''}'
+      - present
+      - absent
+      - declined
       required: false
     - id: 16
       name: participant_status_note

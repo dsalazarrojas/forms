@@ -7,14 +7,14 @@ inputSchema:
       name: participant_expectation
       label: Participant Expectation
       hint: null
-      type: text
+      type: number
       options: []
       required: true
     - id: 2
       name: readiness
       label: Readiness
       hint: null
-      type: text
+      type: number
       options: []
       required: true
     - id: 3
@@ -23,8 +23,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
       required: true
     - id: 4
       name: follow_up_questions
@@ -46,36 +49,50 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
-      name: participant_expectation
-      label: Participant Expectation
+      name: participant_expectation_rate
+      label: Participant Expectation Rate
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 8
-      name: readiness
-      label: Readiness
+      name: readiness_rate
+      label: Readiness Rate
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 9
-      name: session_topics
-      label: Session Topics
+      name: session_topics_interested
+      label: Session Topics Interested
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
-      name: follow_up_questions
-      label: Follow Up Questions
+      name: follow_up_questions_ask
+      label: Follow Up Questions Asked
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_notes_comments
+      label: Participant Notes/Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_engagement
+      label: Participant Engagement
+      hint: null
+      type: number
       options: []
       required: false

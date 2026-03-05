@@ -6,188 +6,61 @@ inputSchema:
     - id: 1
       name: form_start
       label: Form Start
-      hint: null
+      hint: Please take a few minutes to complete this form to help us improve our
+        service
       type: note
       options: []
       required: false
     - id: 2
-      name: prophets
-      label: Prophets
-      hint: null
-      type: select_multiple
+      name: experience
+      label: Overall Experience
+      hint: How would you rate your overall experience with the facility management
+        system?
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: ease_of_use
+      label: Ease of Use
+      hint: How would you rate the system's ease of use?
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: effectiveness
+      label: Effectiveness
+      hint: How would you rate the system's effectiveness in meeting your needs?
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: category
+      label: Category
+      hint: Which category best describes your experience?
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 3
-      name: rating
-      label: prophets
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: comment
-      label: comment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
+      - Other
+      required: true
     - id: 6
-      name: rating
-      label: rating
-      hint: null
-      type: number
+      name: email
+      label: Email
+      hint: Please enter your email address
+      type: email
       options: []
-      required: false
+      required: true
     - id: 7
       name: comments
       label: Comments
-      hint: null
+      hint: Can you share any additional comments about your experience?
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: rating
-      label: Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
       name: form_end
       label: Form End
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 11
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 12
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 13
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: form_end
-      label: Form End
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: category
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - option4
-      - option1
-      - option3
-      - option5
-      required: false
-    - id: 22
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_end
-      label: Form End
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: form_end
-      label: Form End
-      hint: null
+      hint: Thank you for taking the time to provide feedback
       type: note
       options: []
       required: false

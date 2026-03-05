@@ -1,222 +1,211 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cabinet Cleaning Checklist
     pages:
-      - id: 1
-        name: cleaner_name
-        label: Cleaner Name
-        hint: Name of person performing cleaning
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: cleaning_date
-        label: Cleaning Date
-        hint: Date of this cleaning task
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: cleaning_time
-        label: Cleaning Time
-        hint: Time cleaning was performed
-        type: time
-        options: []
-        required: false
-      - id: 4
-        name: property_name
-        label: Property Name
-        hint: Name or address of property
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: property_location
-        label: Property Location
-        hint: Building or area within property
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: cabinet_type
-        label: Cabinet Type
-        hint: Type of cabinets being cleaned
-        type: select_one
-        options:
-          - Kitchen cabinets
-          - Bathroom vanities
-          - Storage cabinets
-          - Utility cabinets
-          - Outdoor cabinets
-          - Other
-        required: true
-      - id: 7
-        name: cabinet_material
-        label: Cabinet Material
-        hint: What material are the cabinets
-        type: select_one
-        options:
-          - Wood
-          - Laminate
-          - Metal
-          - Painted
-          - Stained
-          - Mixed materials
-        required: false
-      - id: 8
-        name: exterior_cleaned
-        label: Exterior Cleaned
-        hint: Were cabinet exteriors cleaned
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not applicable
-        required: true
-      - id: 9
-        name: interior_cleaned
-        label: Interior Cleaned
-        hint: Were cabinet interiors cleaned
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not applicable
-        required: true
-      - id: 10
-        name: doors_and_frames
-        label: Doors and Frames Cleaned
-        hint: Were all doors and frames cleaned
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not applicable
-        required: true
-      - id: 11
-        name: handles_and_knobs
-        label: Handles and Knobs Cleaned
-        hint: Were all hardware pieces cleaned
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not applicable
-        required: true
-      - id: 12
-        name: hinges_checked
-        label: Hinges Checked
-        hint: Were hinges inspected and cleaned
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not applicable
-        required: true
-      - id: 13
-        name: drawers_cleaned
-        label: Drawers Cleaned
-        hint: Were all drawers cleaned
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not applicable
-        required: true
-      - id: 14
-        name: shelves_wiped
-        label: Shelves Wiped
-        hint: Were all shelves wiped down
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not applicable
-        required: true
-      - id: 15
-        name: damage_found
-        label: Damage Found
-        hint: Was any damage discovered
-        type: select_one
-        options:
-          - No damage
-          - Minor scratches
-          - Water damage
-          - Hardware broken
-          - Structural damage
-        required: true
-      - id: 16
-        name: damage_description
-        label: Damage Description
-        hint: Describe any damage found
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: cleaning_products_used
-        label: Cleaning Products Used
-        hint: What products were used for cleaning
-        type: select_multiple
-        options:
-          - All-purpose cleaner
-          - Wood polish
-          - Glass cleaner
-          - Disinfectant
-          - Degreaser
-          - Other
-        required: false
-      - id: 18
-        name: supplies_needed
-        label: Supplies Needed
-        hint: Any supplies running low
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: time_spent
-        label: Time Spent
-        hint: How long did cleaning take
-        type: select_one
-        options:
-          - Under 15 minutes
-          - 15-30 minutes
-          - 30-45 minutes
-          - 45-60 minutes
-          - Over 1 hour
-        required: false
-      - id: 20
-        name: task_completed
-        label: Task Completed
-        hint: Was the cleaning task fully completed
-        type: select_one
-        options:
-          - Yes, fully completed
-          - Partially completed
-          - Not completed
-        required: true
-      - id: 21
-        name: incomplete_reason
-        label: Reason if Incomplete
-        hint: Why was task not completed if applicable
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: additional_notes
-        label: Additional Notes
-        hint: Any other observations or comments
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: cleaner_name
+      label: Cleaner Name
+      hint: Name of person performing cleaning
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: cleaning_date
+      label: Cleaning Date
+      hint: Date of this cleaning task
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: cleaning_time
+      label: Cleaning Time
+      hint: Time cleaning was performed
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: property_name
+      label: Property Name
+      hint: Name or address of property
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_location
+      label: Property Location
+      hint: Building or area within property
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: cabinet_type
+      label: Cabinet Type
+      hint: Type of cabinets being cleaned
+      type: select_one
+      options:
+      - Kitchen cabinets
+      - Bathroom vanities
+      - Storage cabinets
+      - Utility cabinets
+      - Outdoor cabinets
+      - Other
+      required: true
+    - id: 7
+      name: cabinet_material
+      label: Cabinet Material
+      hint: What material are the cabinets
+      type: select_one
+      options:
+      - Wood
+      - Laminate
+      - Metal
+      - Painted
+      - Stained
+      - Mixed materials
+      required: false
+    - id: 8
+      name: exterior_cleaned
+      label: Exterior Cleaned
+      hint: Were cabinet exteriors cleaned
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 9
+      name: interior_cleaned
+      label: Interior Cleaned
+      hint: Were cabinet interiors cleaned
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 10
+      name: doors_and_frames
+      label: Doors and Frames Cleaned
+      hint: Were all doors and frames cleaned
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 11
+      name: handles_and_knobs
+      label: Handles and Knobs Cleaned
+      hint: Were all hardware pieces cleaned
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 12
+      name: hinges_checked
+      label: Hinges Checked
+      hint: Were hinges inspected and cleaned
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 13
+      name: drawers_cleaned
+      label: Drawers Cleaned
+      hint: Were all drawers cleaned
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 14
+      name: shelves_wiped
+      label: Shelves Wiped
+      hint: Were all shelves wiped down
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 15
+      name: damage_found
+      label: Damage Found
+      hint: Was any damage discovered
+      type: select_one
+      options:
+      - No damage
+      - Minor scratches
+      - Water damage
+      - Hardware broken
+      - Structural damage
+      required: true
+    - id: 16
+      name: damage_description
+      label: Damage Description
+      hint: Describe any damage found
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cleaning_products_used
+      label: Cleaning Products Used
+      hint: What products were used for cleaning
+      type: select_multiple
+      options:
+      - All-purpose cleaner
+      - Wood polish
+      - Glass cleaner
+      - Disinfectant
+      - Degreaser
+      - Other
+      required: false
+    - id: 18
+      name: supplies_needed
+      label: Supplies Needed
+      hint: Any supplies running low
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: time_spent
+      label: Time Spent
+      hint: How long did cleaning take
+      type: select_one
+      options:
+      - Under 15 minutes
+      - 15-30 minutes
+      - 30-45 minutes
+      - 45-60 minutes
+      - Over 1 hour
+      required: false
+    - id: 20
+      name: task_completed
+      label: Task Completed
+      hint: Was the cleaning task fully completed
+      type: select_one
+      options:
+      - Yes, fully completed
+      - Partially completed
+      - Not completed
+      required: true
+    - id: 21
+      name: incomplete_reason
+      label: Reason if Incomplete
+      hint: Why was task not completed if applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations or comments
+      type: text
+      options: []
+      required: false

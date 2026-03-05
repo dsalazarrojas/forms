@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Likely''}'
-      - '{''label'': ''Somewhat Likely''}'
-      - '{''label'': ''Very Likely''}'
-      - '{''label'': ''Extremely Likely''}'
+      - Not Likely
+      - Somewhat Likely
+      - Very Likely
+      - Extremely Likely
       required: false
     - id: 3
       name: likely_to_recommend_reason
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Applicable''}'
-      - '{''label'': ''Executive''}'
-      - '{''label'': ''Manager''}'
-      - '{''label'': ''Non-Executive''}'
+      - Not Applicable
+      - Executive
+      - Manager
+      - Non-Executive
       required: false
     - id: 7
       name: demographic_questions_2
@@ -59,10 +59,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Marketing''}'
-      - '{''label'': ''Sales''}'
-      - '{''label'': ''Customer Support''}'
-      - '{''label'': ''Development''}'
+      - Marketing
+      - Sales
+      - Customer Support
+      - Development
       required: false
     - id: 8
       name: demographic_questions_3
@@ -77,10 +77,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Less than 1 year''}'
-      - '{''label'': ''1-2 years''}'
-      - '{''label'': ''2-5 years''}'
-      - '{''label'': ''More than 5 years''}'
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
       required: false
     - id: 10
       name: open_comments
@@ -107,7 +107,7 @@ inputSchema:
       required: false
     - id: 13
       name: open_comments_2
-      label: Additional Comments
+      label: Open Comments 2
       hint: null
       type: text
       options: []
@@ -118,10 +118,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''CEO/Founder''}'
-      - '{''label'': ''Non-Executive''}'
-      - '{''label'': ''Manager''}'
-      - '{''label'': ''Non-Executive''}'
+      - CEO/Founder
+      - Non-Executive
+      - Manager
       required: false
     - id: 15
       name: demographic_questions_6
@@ -129,14 +128,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Less than 1 year''}'
-      - '{''label'': ''1-2 years''}'
-      - '{''label'': ''2-5 years''}'
-      - '{''label'': ''More than 5 years''}'
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
       required: false
     - id: 16
       name: open_comments_3
-      label: Additional Comments
+      label: Open Comments 3
       hint: null
       type: text
       options: []
@@ -147,9 +146,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''1 time''}'
-      - '{''label'': ''2-5 times''}'
-      - '{''label'': ''More than 5 times''}'
+      - 1 time
+      - 2-5 times
+      - More than 5 times
       required: false
     - id: 18
       name: demographic_questions_8
@@ -157,11 +156,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Low''}'
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''High''}'
-      - '{''label'': ''Very High''}'
+      - Very Low
+      - Low
+      - Neutral
+      - High
+      - Very High
       required: false
     - id: 19
       name: demographic_questions_9
@@ -169,11 +168,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Dissatisfied''}'
-      - '{''label'': ''Somewhat Dissatisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Very Satisfied''}'
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
       required: false
     - id: 20
       name: demographic_questions_10
@@ -181,15 +180,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Poor''}'
-      - '{''label'': ''Somewhat Poor''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Very Good''}'
+      - Very Poor
+      - Somewhat Poor
+      - Fair
+      - Good
+      - Very Good
       required: false
     - id: 21
       name: open_comments_4
-      label: Additional Comments
+      label: Open Comments 4
       hint: null
       type: text
       options: []
@@ -200,14 +199,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Not Likely''}'
-      - '{''label'': ''Somewhat Likely''}'
-      - '{''label'': ''Likely''}'
-      - '{''label'': ''Very Likely''}'
+      - Not Likely
+      - Somewhat Likely
+      - Likely
+      - Very Likely
       required: false
     - id: 23
       name: open_comments_5
-      label: Additional Comments
+      label: Open Comments 5
       hint: null
       type: text
       options: []
@@ -219,14 +218,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Likely''}'
-      - '{''label'': ''Somewhat Likely''}'
-      - '{''label'': ''Very Likely''}'
-      - '{''label'': ''Extremely Likely''}'
+      - Not Likely
+      - Somewhat Likely
+      - Very Likely
+      - Extremely Likely
       required: false
     - id: 25
       name: demographic_questions_13
-      label: Reason for not recommending
+      label: Demographic Questions 13
       hint: null
       type: text
       options: []

@@ -1,223 +1,212 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Consultant Feedback Form
     pages:
-      - id: 1
-        name: client_name
-        label: Client Name
-        hint: Your full name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: client_email
-        label: Email Address
-        hint: Email for follow-up
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: company_name
-        label: Company Name
-        hint: Your organization
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: consultant_name
-        label: Consultant Name
-        hint: Name of the consultant you worked with
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: engagement_date
-        label: Engagement Date
-        hint: When did you receive the consultation
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: service_type
-        label: Service Type Received
-        hint: Type of consulting service
-        type: select_one
-        options:
-          - Strategy Consulting
-          - Management Consulting
-          - Financial Consulting
-          - IT Consulting
-          - HR Consulting
-          - Marketing Consulting
-          - Operations Consulting
-          - Other
-        required: true
-      - id: 7
-        name: overall_satisfaction
-        label: Overall Satisfaction
-        hint: Rate your overall experience
-        type: select_one
-        options:
-          - Very Satisfied
-          - Satisfied
-          - Neutral
-          - Dissatisfied
-          - Very Dissatisfied
-        required: true
-      - id: 8
-        name: consultant_knowledge
-        label: Consultant Knowledge and Expertise
-        hint: Rate the consultant's expertise
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Below Average
-          - Poor
-        required: true
-      - id: 9
-        name: consultant_communication
-        label: Consultant Communication Skills
-        hint: Rate communication effectiveness
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Below Average
-          - Poor
-        required: true
-      - id: 10
-        name: consultant_professionalism
-        label: Consultant Professionalism
-        hint: Rate professionalism
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Below Average
-          - Poor
-        required: true
-      - id: 11
-        name: value_received
-        label: Value Received for Cost
-        hint: Rate the value of the service
-        type: select_one
-        options:
-          - Excellent Value
-          - Good Value
-          - Fair Value
-          - Poor Value
-          - Very Poor Value
-        required: true
-      - id: 12
-        name: expectations_met
-        label: Were Your Expectations Met
-        hint: Select if expectations were met
-        type: select_one
-        options:
-          - Exceeded Expectations
-          - Met Expectations
-          - Partially Met
-          - Did Not Meet
-        required: true
-      - id: 13
-        name: helpful_aspects
-        label: Most Helpful Aspects
-        hint: What was most valuable
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: improvement_areas
-        label: Areas for Improvement
-        hint: What could be improved
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: recommendations_implemented
-        label: Have You Implemented Recommendations
-        hint: Select if you have acted on advice
-        type: select_one
-        options:
-          - Yes, Fully
-          - Yes, Partially
-          - In Progress
-          - Not Yet
-          - No Plans To
-        required: false
-      - id: 16
-        name: results_achieved
-        label: Results Achieved
-        hint: Describe any results from the consultation
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: would_recommend
-        label: Would You Recommend This Consultant
-        hint: Select if you would refer others
-        type: select_one
-        options:
-          - Definitely Yes
-          - Probably Yes
-          - Neutral
-          - Probably No
-          - Definitely No
-        required: true
-      - id: 18
-        name: would_use_again
-        label: Would You Use This Consultant Again
-        hint: Select if you would work together again
-        type: select_one
-        options:
-          - Definitely Yes
-          - Probably Yes
-          - Maybe
-          - Probably No
-          - Definitely No
-        required: true
-      - id: 19
-        name: additional_services_interest
-        label: Interested in Additional Services
-        hint: Select any other services of interest
-        type: select_multiple
-        options:
-          - Follow-up Consultation
-          - Implementation Support
-          - Training Services
-          - Ongoing Advisory
-          - Assessment Services
-          - None at This Time
-        required: false
-      - id: 20
-        name: additional_comments
-        label: Additional Comments
-        hint: Any other feedback to share
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: testimonial_permission
-        label: May We Use Your Feedback as a Testimonial
-        hint: Select if we can quote your feedback
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Email for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consultant_name
+      label: Consultant Name
+      hint: Name of the consultant you worked with
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: engagement_date
+      label: Engagement Date
+      hint: When did you receive the consultation
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Service Type Received
+      hint: Type of consulting service
+      type: select_one
+      options:
+      - Strategy Consulting
+      - Management Consulting
+      - Financial Consulting
+      - IT Consulting
+      - HR Consulting
+      - Marketing Consulting
+      - Operations Consulting
+      - Other
+      required: true
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your overall experience
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 8
+      name: consultant_knowledge
+      label: Consultant Knowledge and Expertise
+      hint: Rate the consultant's expertise
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 9
+      name: consultant_communication
+      label: Consultant Communication Skills
+      hint: Rate communication effectiveness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 10
+      name: consultant_professionalism
+      label: Consultant Professionalism
+      hint: Rate professionalism
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 11
+      name: value_received
+      label: Value Received for Cost
+      hint: Rate the value of the service
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 12
+      name: expectations_met
+      label: Were Your Expectations Met
+      hint: Select if expectations were met
+      type: select_one
+      options:
+      - Exceeded Expectations
+      - Met Expectations
+      - Partially Met
+      - Did Not Meet
+      required: true
+    - id: 13
+      name: helpful_aspects
+      label: Most Helpful Aspects
+      hint: What was most valuable
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: What could be improved
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: recommendations_implemented
+      label: Have You Implemented Recommendations
+      hint: Select if you have acted on advice
+      type: select_one
+      options:
+      - Yes, Fully
+      - Yes, Partially
+      - In Progress
+      - Not Yet
+      - No Plans To
+      required: false
+    - id: 16
+      name: results_achieved
+      label: Results Achieved
+      hint: Describe any results from the consultation
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: would_recommend
+      label: Would You Recommend This Consultant
+      hint: Select if you would refer others
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Neutral
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 18
+      name: would_use_again
+      label: Would You Use This Consultant Again
+      hint: Select if you would work together again
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 19
+      name: additional_services_interest
+      label: Interested in Additional Services
+      hint: Select any other services of interest
+      type: select_multiple
+      options:
+      - Follow-up Consultation
+      - Implementation Support
+      - Training Services
+      - Ongoing Advisory
+      - Assessment Services
+      - None at This Time
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback to share
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: testimonial_permission
+      label: May We Use Your Feedback as a Testimonial
+      hint: Select if we can quote your feedback
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

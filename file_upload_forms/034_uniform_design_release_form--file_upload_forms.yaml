@@ -4,179 +4,130 @@ inputSchema:
     title: Uniform Design Release Form
     pages:
     - id: 1
-      name: form_1
-      label: uniform_design_permissions
+      name: permissions
+      label: Are you authorized to upload design files?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 2
+      name: upload_design_files
+      label: Upload design files
       hint: null
       type: text
       options: []
       required: true
-    - id: 2
-      name: design_signature
-      label: design_signature
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': ''Yes''}'
-      - 'No'
-      required: true
     - id: 3
-      name: file_1_upload
-      label: upload_design_files
+      name: upload_additional_files
+      label: Upload additional files
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: file_2_upload
-      label: upload_additional_files
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: description
-      label: description
+      label: Description
       hint: null
       type: text
       options: []
       required: true
-    - id: 6
+    - id: 5
       name: date
-      label: date
+      label: Date
       hint: null
       type: date
       options: []
       required: true
-    - id: 7
+    - id: 6
       name: time
-      label: time
+      label: Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: signature
-      label: signature
+      label: Signature
       hint: null
       type: note
       options: []
       required: true
-    - id: 9
+    - id: 8
       name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: phone
-      label: phone
+      label: Notes
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
       name: assigned_tool
-      label: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: form_id
+      label: Form ID
       hint: null
       type: text
       options: []
       required: true
     - id: 13
-      name: form_id
-      label: form_id
+      name: category
+      label: Category
       hint: null
       type: text
       options: []
       required: true
     - id: 14
-      name: category
-      label: category
+      name: assigned_tool_2
+      label: Assigned Tool 2
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 15
-      name: description
-      label: description
+      name: notes_2
+      label: Notes 2
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: category
-      label: category
+      name: form_id_2
+      label: Form Id 2
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 17
-      name: description
-      label: description
+      name: description_2
+      label: Description 2
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: category
-      label: category
+      name: category_2
+      label: Category 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_id
-      label: form_id
-      hint: null
-      type: text
-      options: []
-      required: true

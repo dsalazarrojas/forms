@@ -12,7 +12,7 @@ inputSchema:
       required: false
     - id: 2
       name: medical_professional
-      label: Were you a mental health professional?
+      label: Have you been a mental health professional?
       hint: null
       type: select_one
       options:
@@ -42,149 +42,63 @@ inputSchema:
       options: []
       required: false
     - id: 5
-      name: mental_health_professionals
-      label: Mental health professionals you have visited
+      name: contact_method
+      label: Preferred method of contact
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: mental_health_concerns_other
-      label: Other mental health concerns
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: mental_health_professionals_other
       label: Other mental health professionals
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: additional_feedback
-      label: Additional feedback
+    - id: 7
+      name: experiences
+      label: Can you describe your mental health experiences?
       hint: null
       type: text
       options: []
       required: false
+    - id: 8
+      name: received_help
+      label: Have you received help from a mental health professional?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
     - id: 9
-      name: date
+      name: stay_in_touch
+      label: Preferred way of staying in touch
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 10
+      name: suggestions
+      label: Comments or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recent_visit
       label: Date of last visit
       hint: null
       type: date
       options: []
       required: false
-    - id: 10
-      name: time
-      label: Time of last visit
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: phone
-      label: Phone number
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 12
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 13
-      name: email_address
-      label: Email address
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: address
-      label: Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
       name: phone_number
       label: Phone number
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 16
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: email
-      label: Email
-      hint: null
-      type: email
       options: []
       required: false

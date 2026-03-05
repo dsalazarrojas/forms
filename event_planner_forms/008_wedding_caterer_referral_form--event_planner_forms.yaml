@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Wedding''}'
-      - '{''label'': ''Birthday''}'
-      - '{''label'': ''Other''}'
+      - Wedding
+      - Birthday
+      - Other
       required: false
     - id: 5
       name: guest_count
@@ -110,8 +110,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: follow_up_date

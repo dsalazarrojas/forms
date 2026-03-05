@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''never''}'
-      - '{''id'': 2, ''name'': ''rarely''}'
-      - '{''id'': 3, ''name'': ''occasionally''}'
-      - '{''id'': 4, ''name'': ''regularly''}'
-      - '{''id'': 5, ''name'': ''daily''}'
+      - never
+      - rarely
+      - occasionally
+      - regularly
+      - daily
       required: false
     - id: 4
       name: communication_style
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''too_often''}'
-      - '{''id'': 2, ''name'': ''just_right''}'
-      - '{''id'': 3, ''name'': ''too_seldom''}'
+      - too often
+      - just right
+      - too seldom
       required: false
     - id: 5
       name: manager_style
@@ -45,11 +45,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''supportive''}'
-      - '{''id'': 2, ''name'': ''helpful''}'
-      - '{''id'': 3, ''name'': ''distant''}'
-      - '{''id'': 3, ''name'': ''micromanaging''}'
-      - '{''id'': 4, ''name'': ''unhelpful''}'
+      - supportive
+      - helpful
+      - distant
+      - micromanaging
+      - unhelpful
       required: false
     - id: 6
       name: employee_satisfaction
@@ -57,11 +57,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''very_satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''name'': ''neutral''}'
-      - '{''id'': 4, ''name'': ''somewhat_dissatisfied''}'
-      - '{''id'': 5, ''name'': ''very_dissatisfied''}'
+      - very satisfied
+      - somewhat satisfied
+      - neutral
+      - somewhat dissatisfied
+      - very dissatisfied
       required: false
     - id: 7
       name: manager_satisfaction
@@ -69,11 +69,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''name'': ''neutral''}'
-      - '{''id'': 4, ''name'': ''somewhat_dissatisfied''}'
-      - '{''id'': 5, ''name'': ''very_dissatisfied''}'
+      - very satisfied
+      - somewhat satisfied
+      - neutral
+      - somewhat dissatisfied
+      - very dissatisfied
       required: false
     - id: 8
       name: feedback

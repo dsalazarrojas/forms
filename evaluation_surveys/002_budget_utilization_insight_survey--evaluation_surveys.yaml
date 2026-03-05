@@ -1,114 +1,104 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Budget Utilization Insight Survey
     pages:
-      - id: 1
-        name: survey_header
-        label: -- Survey Introduction --
-        hint: Help us understand how budgets are being used and where improvements can be made
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_name
-        label: Respondent Name
-        hint: Optional for anonymous responses
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: respondent_role
-        label: Role or Title
-        hint: Your role in the organization
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: department
-        label: Department
-        hint: Department or team responsible for the budget
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: typical_budget_size
-        label: Typical Budget Size
-        hint: Approximate annual budget handled by your team
-        type: select_one
-        options:
-          - Under 50k
-          - 50k to 250k
-          - 250k to 1M
-          - Over 1M
-        required: true
-      - id: 6
-        name: accuracy_of_forecasting
-        label: Accuracy of Budget Forecasting
-        hint: Rate how accurate actual spend is compared to forecast
-        type: select_one
-        options:
-          - Very accurate
-          - Somewhat accurate
-          - Neutral
-          - Somewhat inaccurate
-          - Very inaccurate
-        required: true
-      - id: 7
-        name: biggest_challenges
-        label: Biggest Challenges With Budget Utilization
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Procurement delays
-          - Unexpected costs
-          - Lack of staffing
-          - Insufficient planning
-          - Approval bottlenecks
-        required: false
-      - id: 8
-        name: satisfaction_with_support
-        label: Satisfaction With Financial Support Services
-        hint: Rate your satisfaction with central finance support
-        type: select_one
-        options:
-          - Very satisfied
-          - Satisfied
-          - Neutral
-          - Dissatisfied
-          - Very dissatisfied
-        required: true
-      - id: 9
-        name: improvement_suggestions
-        label: Suggestions to Improve Budget Use
-        hint: Provide brief recommendations
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: follow_up_consent
-        label: May we contact you for follow up
-        hint: Provide contact details below if yes
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 11
-        name: contact_email
-        label: Contact Email
-        hint: Only fill if you consent to follow up
-        type: email
-        options: []
-        required: false
+    - id: 1
+      name: survey_header
+      label: -- Survey Introduction --
+      hint: Help us understand how budgets are being used and where improvements can
+        be made
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent Name
+      hint: Optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_role
+      label: Role or Title
+      hint: Your role in the organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Department or team responsible for the budget
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: typical_budget_size
+      label: Typical Budget Size
+      hint: Approximate annual budget handled by your team
+      type: select_one
+      options:
+      - Under 50k
+      - 50k to 250k
+      - 250k to 1M
+      - Over 1M
+      required: true
+    - id: 6
+      name: accuracy_of_forecasting
+      label: Accuracy of Budget Forecasting
+      hint: Rate how accurate actual spend is compared to forecast
+      type: select_one
+      options:
+      - Very accurate
+      - Somewhat accurate
+      - Neutral
+      - Somewhat inaccurate
+      - Very inaccurate
+      required: true
+    - id: 7
+      name: biggest_challenges
+      label: Biggest Challenges With Budget Utilization
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Procurement delays
+      - Unexpected costs
+      - Lack of staffing
+      - Insufficient planning
+      - Approval bottlenecks
+      required: false
+    - id: 8
+      name: satisfaction_with_support
+      label: Satisfaction With Financial Support Services
+      hint: Rate your satisfaction with central finance support
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 9
+      name: improvement_suggestions
+      label: Suggestions to Improve Budget Use
+      hint: Provide brief recommendations
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_consent
+      label: May we contact you for follow up
+      hint: Provide contact details below if yes
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: Only fill if you consent to follow up
+      type: email
+      options: []
+      required: false

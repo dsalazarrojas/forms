@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Short''}'
-      - '{''name'': ''Medium''}'
-      - '{''name'': ''Long''}'
-      - '{''name'': ''Unknown''}'
-      - '{''name'': ''Other''}'
+      - Short
+      - Medium
+      - Long
+      - Unknown
+      - Other
       required: false
     - id: 5
       name: select_program_fees
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Free''}'
-      - '{''name'': ''Paid''}'
-      - '{''name'': ''Varies''}'
+      - Free
+      - Paid
+      - Varies
       required: false
     - id: 6
       name: comments

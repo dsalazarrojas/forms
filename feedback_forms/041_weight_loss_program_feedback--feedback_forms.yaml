@@ -25,11 +25,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''2 weeks''}'
-      - '{''value'': 2, ''label'': ''4 weeks''}'
-      - '{''value'': 3, ''label'': ''6 weeks''}'
-      - '{''value'': 4, ''label'': ''8 weeks''}'
-      - '{''value'': 5, ''label'': ''12 weeks''}'
+      - 2 weeks
+      - 4 weeks
+      - 6 weeks
+      - 8 weeks
+      - 12 weeks
       required: false
     - id: 4
       name: program_type
@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Online'', ''label'': ''Online''}'
-      - '{''value'': ''In-person'', ''label'': ''In-person''}'
-      - '{''value'': ''Hybrid'', ''label'': ''Hybrid''}'
-      - '{''value'': ''Virtual'', ''label'': ''Virtual''}'
+      - Online
+      - In-person
+      - Hybrid
+      - Virtual
       required: false
     - id: 5
       name: program_rating
@@ -48,11 +48,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''1/5''}'
-      - '{''value'': 2, ''label'': ''2/5''}'
-      - '{''value'': 3, ''label'': ''3/5''}'
-      - '{''value'': 4, ''label'': ''4/5''}'
-      - '{''value'': 5, ''label'': ''5/5''}'
+      - 1/5
+      - 2/5
+      - 3/5
+      - 4/5
+      - 5/5
       required: false
     - id: 6
       name: rating_comment
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': False}'
-      - '{''value'': 3, ''label'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 9
       name: rating_reasons
@@ -84,11 +84,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Lack of time''}'
-      - '{''value'': 2, ''label'': ''Cost was too high''}'
-      - '{''value'': 3, ''label'': ''Program was too difficult''}'
-      - '{''value'': 4, ''label'': ''Too many commitments''}'
-      - '{''value'': 5, ''label'': ''Other (please specify in the box below)''}'
+      - Lack of time
+      - Cost was too high
+      - Program was too difficult
+      - Too many commitments
+      - Other (please specify in the box below)
       required: false
     - id: 10
       name: other_reasons

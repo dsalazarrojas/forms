@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Partner'', ''value'': ''Partner''}'
-      - '{''id'': 2, ''label'': ''Family Member'', ''value'': ''Family Member''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      - Partner
+      - Family Member
+      - Other
       required: false
     - id: 6
       name: ceremony_type
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Civil'', ''value'': ''Civil''}'
-      - '{''id'': 2, ''label'': ''Religious'', ''value'': ''Religious''}'
-      - '{''id'': 3, ''label'': ''Non-denominational'', ''value'': ''Non-denominational''}'
+      - Civil
+      - Religious
+      - Non-denominational
       required: false
     - id: 7
       name: ceremony_attendance
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: ceremony_next_ceremony

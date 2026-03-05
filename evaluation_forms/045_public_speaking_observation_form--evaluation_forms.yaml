@@ -4,206 +4,174 @@ inputSchema:
     title: public_speaking_observation_form
     pages:
     - id: 1
-      name: intro
-      label: intro
-      hint: null
+      name: general_impact_of_the_speaker
+      label: General Impression of the Speaker
+      hint: none
       type: text
       options: []
       required: false
     - id: 2
       name: communication_skills
-      label: communication_skills
-      hint: null
+      label: Communication Skills
+      hint: none
       type: number
       options: []
       required: false
     - id: 3
       name: body_language
-      label: body_language
-      hint: null
+      label: Body Language
+      hint: none
       type: text
       options: []
       required: false
     - id: 4
-      name: vocal_variance
-      label: vocal_variance
-      hint: null
+      name: speaker_speaking_speed
+      label: Speaking Speed
+      hint: none
       type: number
       options: []
       required: false
     - id: 5
       name: nonverbal_cues
-      label: nonverbal_cues
-      hint: null
+      label: Nonverbal Cues
+      hint: none
       type: select_multiple
       options:
-      - '{''text'': {''en'': ''Fidgeting'', ''zh'': ''Fidgeting''}}'
-      - '{''text'': {''en'': ''Eye contact'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Crossing arms'', ''zh'': ''''}}'
+      - Fidgeting
+      - Eye contact
+      - Crossing arms
+      - Playing with hands
+      - Biting nails
       required: false
     - id: 6
-      name: vocal_vocalizations
-      label: vocal_vocalizations
-      hint: null
+      name: vocalizations
+      label: Vocalizations
+      hint: none
       type: select_multiple
       options:
-      - '{''text'': {''en'': ''Stammering'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Using filler words'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Using filler phrases'', ''zh'': ''''}}'
+      - Stammering
+      - Using filler words
+      - Using filler phrases
       required: false
     - id: 7
-      name: vocal_tone
-      label: vocal_tone
-      hint: null
+      name: speaker_tone
+      label: Vocal Tone
+      hint: none
       type: select_multiple
       options:
-      - '{''text'': {''en'': ''Too fast'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Too slow'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Too loud'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Too soft'', ''zh'': ''''}}'
+      - Too fast
+      - Too slow
+      - Too loud
+      - Too soft
       required: false
     - id: 8
-      name: vocal_volume
-      label: vocal_volume
-      hint: null
+      name: volume
+      label: Volume
+      hint: none
       type: select_multiple
       options:
-      - '{''text'': {''en'': ''Too loud'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Too soft'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Just right'', ''zh'': ''''}}'
+      - Too loud
+      - Too soft
+      - Just right
       required: false
     - id: 9
-      name: eye_contact
-      label: eye_contact
-      hint: null
+      name: speaker_eye_contact
+      label: Eye Contact
+      hint: none
       type: select_multiple
       options:
-      - '{''text'': {''en'': ''No eye contact'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Minimal eye contact'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Frequent eye contact'', ''zh'': ''''}}'
+      - No eye contact
+      - Minimal eye contact
+      - Frequent eye contact
       required: false
     - id: 10
-      name: body_language
-      label: body_language
-      hint: null
+      name: speaker_confidence
+      label: Confidence
+      hint: none
       type: text
       options: []
       required: false
     - id: 11
-      name: confidence
-      label: confidence
-      hint: null
+      name: overall_impression
+      label: Overall Impression
+      hint: none
       type: text
       options: []
       required: false
     - id: 12
-      name: body_language
-      label: body_language
-      hint: null
+      name: additional_comments
+      label: Additional Comments
+      hint: none
       type: text
       options: []
       required: false
     - id: 13
-      name: overall_impression
-      label: overall_impression
-      hint: null
-      type: text
-      options: []
+      name: speaker_sitting_on_hands
+      label: Sitting on hands
+      hint: none
+      type: select_multiple
+      options:
+      - No sitting on hands
+      - Minimal sitting on hands
+      - Frequent sitting on hands
       required: false
     - id: 14
-      name: additional_comments
-      label: additional_comments
-      hint: null
-      type: text
-      options: []
+      name: speaker_crossing_arms
+      label: Crossing arms
+      hint: none
+      type: select_multiple
+      options:
+      - No crossing arms
+      - Minimal crossing arms
+      - Frequent crossing arms
       required: false
     - id: 15
-      name: nonverbal_cues
-      label: nonverbal_cues
-      hint: null
+      name: speaker_tapping_foot
+      label: Tapping foot
+      hint: none
       type: select_multiple
       options:
-      - '{''text'': {''en'': ''Fidgeting'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Tapping foot'', ''zh'': ''''}}'
+      - No tapping foot
+      - Minimal tapping foot
+      - Frequent tapping foot
       required: false
     - id: 16
-      name: nonverbal_cues
-      label: nonverbal_cues
-      hint: null
+      name: speaker_fidgeting
+      label: Fidgeting
+      hint: none
       type: select_multiple
       options:
-      - '{''text'': {''en'': ''Crossing arms'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Tapping pen'', ''zh'': ''''}}'
+      - No fidgeting
+      - Minimal fidgeting
+      - Frequent fidgeting
       required: false
     - id: 17
-      name: nonverbal_cues
-      label: nonverbal_cues
-      hint: null
+      name: speaker_playing_with_hair
+      label: Playing with hair
+      hint: none
       type: select_multiple
       options:
-      - '{''text'': {''en'': ''Playing with hair'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Biting nails'', ''zh'': ''''}}'
+      - No playing with hair
+      - Minimal playing with hair
+      - Frequent playing with hair
       required: false
     - id: 18
-      name: nonverbal_cues
-      label: nonverbal_cues
-      hint: null
+      name: speaker_biting_nails
+      label: Biting nails
+      hint: none
       type: select_multiple
       options:
-      - '{''text'': {''en'': ''Sitting on hands'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Fidgeting'', ''zh'': ''''}}'
+      - No biting nails
+      - Minimal biting nails
+      - Frequent biting nails
       required: false
     - id: 19
-      name: nonverbal_cues
-      label: nonverbal_cues
-      hint: null
+      name: speaker_rubbing_hands
+      label: Rubbing hands
+      hint: none
       type: select_multiple
       options:
-      - '{''text'': {''en'': ''Playing with hands'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Looking down'', ''zh'': ''''}}'
-      required: false
-    - id: 20
-      name: nonverbal_cues
-      label: nonverbal_cues
-      hint: null
-      type: select_multiple
-      options:
-      - '{''text'': {''en'': ''Fidgeting'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Rubbing hands'', ''zh'': ''''}}'
-      required: false
-    - id: 21
-      name: nonverbal_cues
-      label: nonverbal_cues
-      hint: null
-      type: select_multiple
-      options:
-      - '{''text'': {''en'': ''Biting nails'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Playing with hair'', ''zh'': ''''}}'
-      required: false
-    - id: 22
-      name: nonverbal_cues
-      label: nonverbal_cues
-      hint: null
-      type: select_multiple
-      options:
-      - '{''text'': {''en'': ''Fidgeting'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Fidgeting'', ''zh'': ''''}}'
-      required: false
-    - id: 23
-      name: nonverbal_cues
-      label: nonverbal_cues
-      hint: null
-      type: select_multiple
-      options:
-      - '{''text'': {''en'': ''Playing with hands'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Biting nails'', ''zh'': ''''}}'
-      required: false
-    - id: 24
-      name: nonverbal_cues
-      label: nonverbal_cues
-      hint: null
-      type: select_multiple
-      options:
-      - '{''text'': {''en'': ''Rubbing face'', ''zh'': ''''}}'
-      - '{''text'': {''en'': ''Rubbing hands'', ''zh'': ''''}}'
+      - No rubbing hands
+      - Minimal rubbing hands
+      - Frequent rubbing hands
       required: false

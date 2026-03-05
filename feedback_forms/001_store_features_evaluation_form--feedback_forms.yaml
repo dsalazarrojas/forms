@@ -4,189 +4,116 @@ inputSchema:
     title: Store Features Evaluation Form
     pages:
     - id: 1
-      name: store_features_evaluation_form_page_1
-      label: Store Features Evaluation Form
-      hint: null
-      type: note
+      name: overall_impression
+      label: What is your overall impression of the store's appearance?
+      hint: Please provide your honest feedback on the store's appearance.
+      type: text
       options: []
       required: false
     - id: 2
-      name: store_features_evaluation_form_page_2
-      label: store features
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 3
-      name: store_features_evaluation_form_page_3
-      label: store features evaluation form
-      hint: null
-      type: select_multiple
-      options:
-      - Excellent (9/10)
-      - Poor (5/10)
-      - Good (7/10)
-      - Fair (6/10)
-      required: false
-    - id: 4
-      name: store_features_evaluation_form_page_4
-      label: store features evaluation form
-      hint: null
+      name: product_variety
+      label: How would you rate the store's product variety?
+      hint: Rate the variety of products available at the store.
       type: select_one
       options:
       - Excellent (9/10)
-      - Poor (5/10)
       - Good (7/10)
       - Fair (6/10)
+      - Poor (5/10)
       required: true
+    - id: 3
+      name: customer_service
+      label: How would you rate the store's customer service?
+      hint: Rate the helpfulness and friendliness of the store's staff.
+      type: select_one
+      options:
+      - Excellent (9/10)
+      - Good (7/10)
+      - Fair (6/10)
+      - Poor (5/10)
+      required: true
+    - id: 4
+      name: favorite_product
+      label: What is your favorite product or feature at the store?
+      hint: Please specify your favorite product or feature.
+      type: text
+      options: []
+      required: false
     - id: 5
-      name: store_features_evaluation_form_page_5
-      label: store features
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: website_navigation
+      label: How easy was it to navigate the store's website?
+      hint: Rate the ease of navigation on the store's website.
+      type: select_one
+      options:
+      - Excellent (9/10)
+      - Good (7/10)
+      - Fair (6/10)
+      - Poor (5/10)
+      required: true
     - id: 6
-      name: store_features_evaluation_form_page_6
-      label: store features
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: product_quality
+      label: How would you rate the store's product quality?
+      hint: Rate the quality of products available at the store.
+      type: select_one
+      options:
+      - Excellent (9/10)
+      - Good (7/10)
+      - Fair (6/10)
+      - Poor (5/10)
+      required: true
     - id: 7
-      name: store_features_evaluation_form_page_7
-      label: store features evaluation form
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: prices
+      label: How would you rate the store's prices?
+      hint: Rate the store's prices in comparison to other stores.
+      type: select_one
+      options:
+      - Excellent (9/10)
+      - Good (7/10)
+      - Fair (6/10)
+      - Poor (5/10)
+      required: true
     - id: 8
-      name: store_features_evaluation_form_page_8
-      label: store features
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: store_environment
+      label: How would you rate the store's environment?
+      hint: Rate the store's cleanliness and comfort.
+      type: select_one
+      options:
+      - Excellent (9/10)
+      - Good (7/10)
+      - Fair (6/10)
+      - Poor (5/10)
+      required: true
     - id: 9
-      name: store_features_evaluation_form_page_9
-      label: store features
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: checkout_process
+      label: How would you rate the store's checkout process?
+      hint: Rate the efficiency of the checkout process.
+      type: select_one
+      options:
+      - Excellent (9/10)
+      - Good (7/10)
+      - Fair (6/10)
+      - Poor (5/10)
+      required: true
     - id: 10
-      name: store_features_evaluation_form_page_10
-      label: store features
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: return_to_store
+      label: Would you return to this store in the future?
+      hint: Please indicate your likelihood of returning to the store.
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 11
-      name: store_features_evaluation_form_page_11
-      label: store features evaluation form
-      hint: null
-      type: date
+      name: like_most_about_store
+      label: What did you like most about the store?
+      hint: Specify the feature or product you liked most.
+      type: text
       options: []
       required: false
     - id: 12
-      name: store_features_evaluation_form_page_12
-      label: store features
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: store_features_evaluation_form_page_13
-      label: store features
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: store_features_evaluation_form_page_14
-      label: store features evaluation form
-      hint: null
+      name: store_suggestions
+      label: What suggestions do you have for the store's improvement?
+      hint: Provide feedback to help the store improve.
       type: text
       options: []
       required: true
-    - id: 15
-      name: store_features_evaluation_form_page_15
-      label: store features
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: store_features_evaluation_form_page_16
-      label: store features
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 17
-      name: store_features_evaluation_form_page_17
-      label: store features evaluation form
-      hint: null
-      type: select_one
-      options:
-      - Excellent (9/10)
-      - Poor (5/10)
-      required: false
-    - id: 18
-      name: store_features_evaluation_form_page_18
-      label: store features evaluation form
-      hint: null
-      type: select_one
-      options:
-      - Excellent (9/10)
-      - Poor (5/10)
-      required: false
-    - id: 19
-      name: store_features_evaluation_form_page_19
-      label: store features
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: store_features_evaluation_form_page_20
-      label: store features
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: store_features_evaluation_form_page_21
-      label: store features
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: store_features_evaluation_form_page_22
-      label: store features evaluation form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: store_features_evaluation_form_page_23
-      label: store features
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: store_features_evaluation_form_page_24
-      label: store features
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: store_features_evaluation_form_page_25
-      label: store features evaluation form
-      hint: null
-      type: text
-      options: []
-      required: false

@@ -5,202 +5,137 @@ inputSchema:
     pages:
     - id: 1
       name: first_name
-      label: first name
+      label: First Name
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: last_name
-      label: last name
+      label: Last Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
-      name: email
-      label: email
+      name: phone
+      label: Phone
       hint: null
-      type: email
+      type: number
       options: []
       required: false
     - id: 5
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: date
-      label: date
+      label: Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 7
+    - id: 6
       name: time
-      label: time
+      label: Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: note
-      label: note
+      label: Additional Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: select_one
-      label: select one
+      label: Are you a participant?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 10
-      name: select_multiple
-      label: select multiple
+      required: true
+    - id: 9
+      name: participant_status
+      label: Participant Status
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: note
+      options: []
       required: false
     - id: 11
-      name: participant_info
-      label: participant info
+      name: event_info
+      label: Event Information
       hint: null
       type: note
       options: []
       required: false
     - id: 12
-      name: event_info
-      label: event info
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: participant_status_2
+      label: Participant Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: participant_status_3
+      label: Participant Status 3
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: participant_status_4
+      label: Participant Status 4
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: participant_info_2
+      label: Participant Information 2
       hint: null
       type: note
       options: []
       required: false
-    - id: 13
-      name: participant_id
-      label: participant id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: participant_name
-      label: participant name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: participant_status
-      label: participant status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 16
-      name: participant_status_options
-      label: participant status options
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 17
-      name: participant_status_options_2
-      label: participant status 2
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      required: false
     - id: 18
-      name: participant_status_options_3
-      label: participant status 3
+      name: participant_info_3
+      label: Participant Information 3
       hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 19
-      name: participant_status_options_4
-      label: participant status 4
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 20
-      name: participant_status_3
-      label: participant status 3
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 21
-      name: participant_status_2
-      label: participant status 2
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 22
-      name: participant_status_2
-      label: participant status 2
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 23
-      name: participant_status_3
-      label: participant status 3
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 24
-      name: participant_status_4
-      label: participant status 4
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 25
-      name: participant_status_5
-      label: participant status 5
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
+      type: note
+      options: []
       required: false

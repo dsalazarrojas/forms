@@ -107,8 +107,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - chatjimmy
+      - Other
       required: false
     - id: 16
       name: submitted_by
@@ -116,8 +116,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''chef'', ''hint'': None}'
-      - '{''id'': 2, ''label'': ''home_cook''}'
+      - chef
+      - home cook
       required: false
     - id: 17
       name: created_at
@@ -167,11 +167,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''usd''}'
-      - '{''id'': 2, ''label'': ''eur''}'
-      - '{''id'': 3, ''label'': ''gbp''}'
-      - '{''id'': 4, ''label'': ''chf''}'
-      - '{''id'': 5, ''label'': ''jpy''}'
+      - usd
+      - eur
+      - gbp
+      - chf
+      - jpy
       required: false
     - id: 24
       name: submission_status
@@ -179,9 +179,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''draft''}'
-      - '{''id'': 2, ''label'': ''submitted''}'
-      - '{''id'': 3, ''label'': ''rejected''}'
+      - draft
+      - submitted
+      - rejected
       required: false
     - id: 25
       name: comments

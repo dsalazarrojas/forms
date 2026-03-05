@@ -15,9 +15,9 @@ inputSchema:
     title: Nutritional Counseling Effectiveness Survey
     pages:
     - id: 1
-      name: survey_title
-      label: Survey Title
-      hint: null
+      name: introduction
+      label: Introduction
+      hint: Please fill in your details below
       type: text
       options: []
       required: false
@@ -25,187 +25,35 @@ inputSchema:
       name: rating_scale
       label: Rating Scale
       hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
+      type: text
+      options: []
       required: false
     - id: 3
-      name: survey_description
-      label: Survey Description
-      hint: null
+      name: feedback
+      label: Feedback
+      hint: Please provide your feedback below
       type: text
       options: []
       required: false
     - id: 4
-      name: feedback_1
-      label: Feedback 1
-      hint: null
+      name: survey_description
+      label: Survey Description
+      hint: Please provide a brief description of this survey
       type: text
       options: []
       required: false
     - id: 5
-      name: feedback_2
-      label: Feedback 2
+      name: open_ended_feedback
+      label: Is there anything else you would like to share about your experience
+        with the nutritional counseling?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: feedback_3
-      label: Feedback 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: feedback_4
-      label: Feedback 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: feedback_5
-      label: Feedback 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: survey_title_2
-      label: Survey Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: survey_description_2
-      label: Survey Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: rating_scale_2
-      label: Rating Scale
-      hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
-      required: false
-    - id: 12
-      name: feedback_6
-      label: Feedback 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: rating_scale_3
-      label: Rating Scale
-      hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
-      required: false
-    - id: 14
-      name: feedback_7
-      label: Feedback 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: rating_scale_4
-      label: Rating Scale
-      hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
-      required: false
-    - id: 16
-      name: feedback_8
-      label: Feedback 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: feedback_9
-      label: Feedback 9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: feedback_10
-      label: Feedback 10
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: rating_scale_5
-      label: Rating Scale
-      hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
-      required: false
-    - id: 20
-      name: feedback_11
-      label: Feedback 11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: feedback_12
-      label: Feedback 12
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: feedback_13
-      label: Feedback 13
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: feedback_14
-      label: Feedback 14
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: feedback_15
-      label: Feedback 15
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: survey_submit
       label: Survey Submit
-      hint: null
+      hint: Please submit this survey
       type: time
       options: []
       required: false

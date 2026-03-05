@@ -5,208 +5,125 @@ inputSchema:
     pages:
     - id: 1
       name: music_style
-      label: music_style
+      label: What is the style of this music piece?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Classical
+      - Jazz
+      - Pop
+      - Rock
+      - Folk
+      - Electronic
+      - R&B
+      - Hip-Hop
+      required: true
     - id: 2
-      name: evaluation_category
-      label: evaluation_category
+      name: music_period
+      label: Which period is this music piece from?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Baroque
+      - Classical
+      - Romantic
+      - Impressionist
+      - Modern
+      - Contemporary
+      required: true
     - id: 3
-      name: music_period
-      label: music_period
+      name: music_genre
+      label: What is the genre of this music piece?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: music_genre
-      label: music_genre
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: music_period
-      label: music_period
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: music_style
-      label: music_style
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: music_genre
-      label: music_genre
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: music_period
-      label: music_period
+      name: music_length
+      label: How long is this music piece?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 9
-      name: music_style
-      label: music_style
+      required: true
+    - id: 5
+      name: music_period_date
+      label: When is this music piece from?
       hint: null
       type: date
       options: []
-      required: false
+      required: true
+    - id: 6
+      name: evaluation_category
+      label: What is your evaluation category for this music piece?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: music_style_multiple
+      label: What are the styles of this music piece?
+      hint: null
+      type: select_multiple
+      options:
+      - Classical
+      - Jazz
+      - Pop
+      - Rock
+      - Folk
+      - Electronic
+      - R&B
+      - Hip-Hop
+      required: true
+    - id: 8
+      name: music_period_single
+      label: Is this music piece from a specific period?
+      hint: null
+      type: select_one
+      options:
+      - Baroque
+      - Classical
+      - Romantic
+      - Impressionist
+      - Modern
+      - Contemporary
+      - Folk
+      - Jazz
+      required: true
+    - id: 9
+      name: period_rating
+      label: How would you rate this music piece's period?
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 10
-      name: music_genre
-      label: music_genre
+      name: evaluation_category2
+      label: Evaluation Category2
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: evaluation_category
-      label: evaluation_category
+      name: music_period_multiple
+      label: Are there other notable characteristics of this music piece?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 12
-      name: music_style
-      label: music_style
+      name: period_confirmation
+      label: Period Confirmation
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: music_period
-      label: music_period
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: music_genre
-      label: music_genre
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: music_style
-      label: music_style
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: music_period
-      label: music_period
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: music_genre
-      label: music_genre
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: music_period
-      label: music_period
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: music_style
-      label: music_style
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: music_genre
-      label: music_genre
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: music_style
-      label: music_style
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: music_genre
-      label: music_genre
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: music_period
-      label: music_period
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: evaluation_category
-      label: evaluation_category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: music_style
-      label: music_style
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Baroque
+      - Classical
+      - Romantic
+      - Impressionist
+      - Modern
+      - Contemporary
+      - Folk
+      - Jazz
+      required: true

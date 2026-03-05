@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''High''}'
-      - '{''text'': ''Low''}'
-      - '{''text'': ''Medium''}'
-      required: false
+      - High
+      - Low
+      - Medium
+      required: true
     - id: 3
-      name: prevention_benefits
+      name: prevention_benefit
       label: Prevention Benefits
       hint: null
       type: text
@@ -47,140 +47,35 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Always''}'
-      - '{''text'': ''Sometimes''}'
-      - '{''text'': ''Never''}'
-      required: false
+      - Always
+      - Sometimes
+      - Never
+      required: true
     - id: 7
-      name: fire_prevention
-      label: Fire Prevention
+      name: prevention_measures
+      label: Prevention Measures
       hint: null
       type: text
       options: []
       required: true
     - id: 8
-      name: fire_prevention_measures
-      label: Fire Prevention Measures
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 9
       name: prevention_awareness
-      label: Prevention Awareness
+      label: Awareness
       hint: null
       type: date
       options: []
-      required: false
+      required: true
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: true
     - id: 10
-      name: prevention_awareness
-      label: Prevention Awareness
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: prevention_measures
-      label: Prevention Measures
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: prevention_awareness
-      label: Prevention Awareness
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: prevention_measures
-      label: Prevention Measures
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: email
+      name: contact_email
       label: Email
       hint: null
       type: email
       options: []
       required: true
-    - id: 15
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false

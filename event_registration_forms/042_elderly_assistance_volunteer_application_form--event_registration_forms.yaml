@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Available'', ''label'': ''Available''}'
-      - '{''value'': ''Unavailable'', ''label'': ''Unavailable''}'
+      - Available
+      - Unavailable
       required: false
     - id: 10
       name: services
@@ -74,11 +74,11 @@ inputSchema:
       hint: What services can you perform?
       type: select_multiple
       options:
-      - '{''value'': ''Home visits'', ''label'': ''Home visits''}'
-      - '{''value'': ''Telephone support'', ''label'': ''Telephone support''}'
-      - '{''value'': ''Transportation'', ''label'': ''Transportation''}'
-      - '{''value'': ''Meal delivery'', ''label'': ''Meal delivery''}'
-      - '{''value'': ''Companionship'', ''label'': ''Companionship''}'
+      - Home visits
+      - Telephone support
+      - Transportation
+      - Meal delivery
+      - Companionship
       required: false
     - id: 11
       name: email

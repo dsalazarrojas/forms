@@ -4,40 +4,36 @@ inputSchema:
     title: Microbial Virulence Factors Quiz
     pages:
     - id: 1
-      name: introduction
-      label: Introduction
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
       name: question_1
       label: What are the primary virulence factors of E. coli?
       hint: null
       type: select_multiple
       options:
-      - Virulence Factors
-      - Another Factor
-      - Even More
+      - Adhesive molecules
+      - Invasion factors
+      - Toxin production
       required: true
-    - id: 3
+    - id: 2
       name: question_2
       label: Which of the following bacteria are known for their high virulence?
       hint: null
       type: select_one
       options:
-      - Bacterium A
-      - Bacterium B
-      - Bacterium C
+      - E. coli
+      - S. aureus
+      - Listeria
       required: true
-    - id: 4
+    - id: 3
       name: question_3
       label: How does the virulence of E. coli differ from other bacteria?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Virulence factor type
+      - Virulence factor amount
+      - Virulence factor strength
       required: true
-    - id: 5
+    - id: 4
       name: question_4
       label: What is the primary virulence factor of Staphylococcus aureus?
       hint: null
@@ -47,7 +43,7 @@ inputSchema:
       - Factor B
       - Factor C
       required: true
-    - id: 6
+    - id: 5
       name: question_5
       label: Which of the following are virulence factors for S. aureus?
       hint: null
@@ -57,29 +53,29 @@ inputSchema:
       - Factor 2
       - Factor 3
       required: true
-    - id: 7
+    - id: 6
       name: question_6
       label: What is the primary virulence factor of S. aureus?
       hint: null
       type: select_one
       options:
-      - Factor 1
-      - Factor 2
-      - Factor 3
+      - Factor A
+      - Factor B
+      - Factor C
       required: true
-    - id: 8
+    - id: 7
       name: question_7
-      label: What is the virulence factor of Listeria?
+      label: Which of the following are virulence factors for Listeria?
       hint: null
       type: select_multiple
       options:
       - Factor 1
       - Factor 2
       - Factor 3
-      required: false
-    - id: 9
+      required: true
+    - id: 8
       name: question_8
-      label: Which of the following bacteria are known for their high virulence?
+      label: Question 8
       hint: null
       type: select_one
       options:
@@ -87,14 +83,17 @@ inputSchema:
       - Bacterium E
       - Bacterium F
       required: true
-    - id: 10
+    - id: 9
       name: question_9
-      label: How does the virulence of E. coli differ from other bacteria?
+      label: Question 9
       hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
+      type: select_multiple
+      options:
+      - Virulence factor type
+      - Virulence factor amount
+      - Virulence factor strength
+      required: true
+    - id: 10
       name: question_10
       label: What is the primary virulence factor of E. coli?
       hint: null
@@ -104,7 +103,7 @@ inputSchema:
       - Factor B
       - Factor C
       required: true
-    - id: 12
+    - id: 11
       name: question_11
       label: Which of the following are virulence factors for E. coli?
       hint: null
@@ -114,127 +113,13 @@ inputSchema:
       - Factor 2
       - Factor 3
       required: true
-    - id: 13
+    - id: 12
       name: question_12
-      label: What is the virulence factor of S. cerevisiae?
+      label: What is the primary virulence factor of S. cerevisiae?
       hint: null
       type: select_one
       options:
       - Factor A
       - Factor B
       - Factor C
-      required: true
-    - id: 14
-      name: question_13
-      label: How does the virulence of S. aureus differ from other bacteria?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: question_14
-      label: Which of the following are not virulence factors for S. aureus?
-      hint: null
-      type: select_multiple
-      options:
-      - Not A
-      - Not B
-      - Not C
-      required: false
-    - id: 16
-      name: question_16
-      label: Which of the following are virulence factors for E. coli?
-      hint: null
-      type: select_multiple
-      options:
-      - Factor 1
-      - Factor 2
-      - Factor 3
-      required: true
-    - id: 17
-      name: question_17
-      label: What is the primary virulence factor of S. aureus?
-      hint: null
-      type: select_one
-      options:
-      - Factor A
-      - Factor B
-      - Factor C
-      required: true
-    - id: 18
-      name: question_18
-      label: What are the virulence factors of S. aureus?
-      hint: null
-      type: select_multiple
-      options:
-      - Factor 1
-      - Factor 2
-      - Factor 3
-      required: false
-    - id: 19
-      name: question_19
-      label: What is the primary virulence factor of E. coli?
-      hint: null
-      type: select_one
-      options:
-      - Factor A
-      - Factor B
-      - Factor C
-      required: true
-    - id: 20
-      name: question_20
-      label: How does the virulence of S. aureus differ from other bacteria?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: question_21
-      label: Which of the following are not virulence factors for S. aureus?
-      hint: null
-      type: select_multiple
-      options:
-      - Not A
-      - Not B
-      - Not C
-      required: false
-    - id: 22
-      name: question_22
-      label: What is the primary virulence factor of E. coli?
-      hint: null
-      type: select_one
-      options:
-      - Factor A
-      - Factor B
-      - Factor C
-      required: true
-    - id: 23
-      name: question_23
-      label: Which of the following are virulence factors for S. aureus?
-      hint: null
-      type: select_multiple
-      options:
-      - Factor 1
-      - Factor 2
-      - Factor 3
-      required: true
-    - id: 24
-      name: question_24
-      label: What is the primary virulence factor of S. aureus?
-      hint: null
-      type: select_one
-      options:
-      - Factor A
-      - Factor B
-      - Factor C
-      required: true
-    - id: 25
-      name: question_25
-      label: What are the virulence factors of E. coli?
-      hint: null
-      type: select_multiple
-      options:
-      - Factor 1
-      - Factor 2
-      - Factor 3
       required: true

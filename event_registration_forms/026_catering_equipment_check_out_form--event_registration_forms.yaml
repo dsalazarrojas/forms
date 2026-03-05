@@ -146,7 +146,7 @@ inputSchema:
       hint: Do you need delivery
       type: select_one
       options:
-      - true
+      - 'True'
       - No - Will Pickup
       required: true
     - id: 20
@@ -155,8 +155,8 @@ inputSchema:
       hint: Do you need setup service
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 21
       name: deposit_amount
@@ -171,8 +171,8 @@ inputSchema:
       hint: Has deposit been paid
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Pending
       required: true
     - id: 23
@@ -182,7 +182,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Accept
-      - false
+      - 'False'
       required: true
     - id: 24
       name: special_instructions

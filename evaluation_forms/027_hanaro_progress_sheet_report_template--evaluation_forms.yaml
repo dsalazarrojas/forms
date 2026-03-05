@@ -1,7 +1,7 @@
 inputSchema:
   type: object
   properties:
-    title: ประก Hanaro Progress Sheet Report Template
+    title: "\u0E1B\u0E23\u0E30\u0E01 Hanaro Progress Sheet Report Template"
     pages:
     - id: 1
       name: student_name
@@ -9,21 +9,21 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: student_id
       label: Student ID
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
       name: teacher_name
       label: Teacher Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: reading_progress
       label: Reading Progress
@@ -34,7 +34,7 @@ inputSchema:
       - Good
       - Fair
       - Poor
-      required: false
+      required: true
     - id: 5
       name: listening_progress
       label: Listening Progress
@@ -45,7 +45,7 @@ inputSchema:
       - Good
       - Fair
       - Poor
-      required: false
+      required: true
     - id: 6
       name: understand_teachers_dscussions
       label: Understand Teachers Discussions
@@ -56,7 +56,7 @@ inputSchema:
       - Good
       - Fair
       - Poor
-      required: false
+      required: true
     - id: 7
       name: reading_progress_notes
       label: Reading Progress Notes
@@ -77,28 +77,28 @@ inputSchema:
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 10
       name: listening_progress_email
       label: Listening Progress Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 11
       name: progress_sheet_date
       label: Progress Sheet Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 12
       name: progress_sheet_time
       label: Progress Sheet Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 13
       name: assigned_to
       label: Assigned To
@@ -118,100 +118,4 @@ inputSchema:
       - Good
       - Fair
       - Poor
-      required: false
-    - id: 15
-      name: student_name
-      label: Student Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: student_id
-      label: Student ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: teacher_name
-      label: Teacher Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: reading_progress
-      label: Reading Progress
-      hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
-      required: false
-    - id: 19
-      name: listening_progress
-      label: Listening Progress
-      hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
-      required: false
-    - id: 20
-      name: understand_teachers_dscussions
-      label: Understand Teachers Discussions
-      hint: null
-      type: select_multiple
-      options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
-      required: false
-    - id: 21
-      name: reading_progress_notes
-      label: Reading Progress Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: listening_progress_notes
-      label: Listening Progress Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: reading_progress_email
-      label: Reading Progress Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: listening_progress_email
-      label: Listening Progress Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: progress_sheet_date
-      label: Progress Sheet Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 26
-      name: progress_sheet_time
-      label: Progress Sheet Time
-      hint: null
-      type: time
-      options: []
-      required: false
+      required: true

@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Marketing''}'
-      - '{''id'': 2, ''label'': ''Sales''}'
-      - '{''id'': 3, ''label'': ''IT''}'
-      - '{''id'': 4, ''label'': ''Engineering''}'
+      - Marketing
+      - Sales
+      - IT
+      - Engineering
       required: true
     - id: 10
       name: role
@@ -76,10 +76,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Team member''}'
-      - '{''id'': 2, ''label'': ''Manager''}'
-      - '{''id'': 3, ''label'': ''Stakeholder''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Team member
+      - Manager
+      - Stakeholder
+      - Other
       required: true
     - id: 11
       name: date
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Office''}'
-      - '{''id'': 2, ''label'': ''Remote''}'
-      - '{''id'': 3, ''label'': ''Online''}'
+      - Office
+      - Remote
+      - Online
       required: true
     - id: 14
       name: submitted_at

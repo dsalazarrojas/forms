@@ -104,7 +104,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
+      - 'True'
       - No - Not required for this permit
       required: true
     - id: 14
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - N/A
       required: true
     - id: 15
@@ -123,8 +123,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: section_additional_info
@@ -139,8 +139,8 @@ inputSchema:
       hint: Additional fees may apply
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: previous_denials
@@ -148,8 +148,8 @@ inputSchema:
       hint: If yes, provide reason below
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 19
       name: denial_reason_desc

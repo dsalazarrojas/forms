@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Radio''}'
-      - '{''id'': 2, ''label'': ''Mic''}'
-      - '{''id'': 3, ''label'': ''Headphones''}'
-      - '{''id'': 4, ''label'': ''Speaker''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Radio
+      - Mic
+      - Headphones
+      - Speaker
+      - Other
       required: false
     - id: 3
       name: donor_name
@@ -63,10 +63,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Available''}'
-      - '{''id'': 2, ''label'': ''In-Transit''}'
-      - '{''id'': 3, ''label'': ''Delivered''}'
-      - '{''id'': 4, ''label'': ''Cancelled''}'
+      - Available
+      - In-Transit
+      - Delivered
+      - Cancelled
       required: false
     - id: 9
       name: pickup_confirmation
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: notes

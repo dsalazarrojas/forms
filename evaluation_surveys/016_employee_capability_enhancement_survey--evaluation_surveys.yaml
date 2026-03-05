@@ -4,216 +4,105 @@ inputSchema:
     title: Employee Capability Enhancement Survey
     pages:
     - id: 1
-      name: employee_capability_enhancement_survey_page_1
-      label: survey_form
-      hint: null
+      name: current_role
+      label: What is your current role at the company?
+      hint: Please select from the list below
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Team Lead
+      - Manager
+      - Team Member
+      - Other
+      - None
+      required: true
     - id: 2
-      name: employee_capability_enhancement_survey_page_2
-      label: select_multiple
+      name: job_satisfaction
+      label: How would you rate your overall job satisfaction?
+      hint: Rate from 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Which department do you belong to?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 3
-      name: employee_capability_enhancement_survey_page_3
-      label: employee_capability_enhancement_survey_form
-      hint: null
-      type: text
-      options: []
-      required: false
+      - Sales
+      - Marketing
+      - Engineering
+      - Operations
+      - Other
+      required: true
     - id: 4
-      name: employee_capability_enhancement_survey_page_4
-      label: current_skills_assessment
+      name: skills_level
+      label: Can you rate your job skills level?
       hint: null
       type: number
       options: []
       required: false
     - id: 5
-      name: employee_capability_enhancement_survey_page_5
-      label: development_interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: satisfaction_with_growth_opportunities
-      label: growth_opportunities
-      hint: null
+      name: growth_opportunities
+      label: Are you satisfied with your growth opportunities?
+      hint: Rate from 1 to 5
       type: number
       options: []
       required: false
-    - id: 7
-      name: employee_capability_enhancement_survey_page_7
-      label: satisfaction_with_skills_assessment
+    - id: 6
+      name: availability
+      label: What is your availability?
       hint: null
-      type: time
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 7
+      name: satisfaction_with_growth
+      label: Satisfaction With Growth
+      hint: Rate from 1 to 5
+      type: number
       options: []
       required: false
     - id: 8
-      name: employee_capability_enhancement_survey_page_8
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: phone
+      name: contact_info
       label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
+    - id: 9
       name: date
-      label: date
+      label: Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 11
-      name: employee_capability_enhancement_survey_page_11
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: employee_capability_enhancement_survey_page_12
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: employee_capability_enhancement_survey_page_13
-      label: evaluation_survey
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 14
-      name: employee_capability_enhancement_survey_page_14
-      label: employee_capability_enhancement_survey
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 15
-      name: employee_capability_enhancement_survey_page_15
-      label: select_multiple_3
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 16
-      name: employee_capability_enhancement_survey_page_16
-      label: time_2
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: select_multiple_2
-      label: Select Multiple 2
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 18
-      name: employee_capability_enhancement_survey_page_18
-      label: select_multiple_4
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 19
-      name: select_multiple_3
-      label: Select Multiple 3
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 20
-      name: select_multiple_2
-      label: Select Multiple 2
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: select_multiple_1
+    - id: 10
+      name: select_multiple
       label: Select Multiple 1
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 22
-      name: select_one_2
-      label: Select One 2
+    - id: 11
+      name: note
+      label: Note
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
+      type: note
+      options: []
       required: false
-    - id: 23
-      name: select_one_1
+    - id: 12
+      name: select_one
       label: Select One 1
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 24
-      name: date_2
-      label: Date 2
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: employee_capability_enhancement_survey_form_2
-      label: select_multiple_2
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

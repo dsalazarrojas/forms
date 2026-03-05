@@ -7,7 +7,7 @@ inputSchema:
       name: theme_park_visit
       label: Theme Park Visit
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 2
@@ -42,14 +42,21 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: phone
-      label: Phone
+      name: feedback_date
+      label: Feedback Date
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 7
-      name: theme_park_visit
+      name: feedback_time
+      label: Feedback Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: would_visit_again
       label: Would you visit again?
       hint: null
       type: select_one
@@ -57,126 +64,21 @@ inputSchema:
       - 'True'
       - 'False'
       required: true
-    - id: 8
-      name: theme_park_visit_details
+    - id: 9
+      name: visit_details
       label: Visit Details
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: feedback_date
-      label: Feedback Date
-      hint: null
-      type: date
-      options: []
-      required: true
     - id: 10
-      name: feedback_time
-      label: Feedback Time
+      name: stay_in_park
+      label: How long did you stay in the park?
       hint: null
-      type: time
+      type: text
       options: []
       required: true
     - id: 11
-      name: assigned_user
-      label: Assigned User
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: assigned_user
-      label: Assigned User
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: assigned_user
-      label: Assigned User
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: assigned_user
-      label: Assigned User
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: assigned_user
-      label: Assigned User
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: assigned_user
-      label: Assigned User
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: assigned_user
-      label: Assigned User
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: assigned_user
-      label: Assigned User
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: assigned_user
-      label: Assigned User
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: assigned_user
-      label: Assigned User
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: assigned_user
-      label: Assigned User
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: assigned_user
-      label: Assigned User
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: assigned_user
-      label: Assigned User
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: assigned_user
-      label: Assigned User
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: assigned_user
       label: Assigned User
       hint: null

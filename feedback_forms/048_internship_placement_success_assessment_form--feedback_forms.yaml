@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Positive'', ''value'': 1}'
-      - '{''label'': ''Neutral'', ''value'': 2}'
-      - '{''label'': ''Negative'', ''value'': 3}'
+      - Positive
+      - Neutral
+      - Negative
       required: false
     - id: 4
       name: intern
@@ -33,11 +33,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Strongly Disagree'', ''value'': 1}'
-      - '{''label'': ''Somewhat Disagree'', ''value'': 2}'
-      - '{''label'': ''Neutral'', ''value'': 3}'
-      - '{''label'': ''Agree'', ''value'': 4}'
-      - '{''label'': ''Strongly Agree'', ''value'': 5}'
+      - Strongly Disagree
+      - Somewhat Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
       required: false
     - id: 5
       name: program_duration

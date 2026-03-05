@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Leader''}'
-      - '{''label'': ''Non-Leader''}'
+      - Leader
+      - Non-Leader
       required: true
     - id: 6
       name: group_size
@@ -81,10 +81,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''WhatsApp''}'
-      - '{''label'': ''Other''}'
+      - Email
+      - Phone
+      - WhatsApp
+      - Other
       required: false
     - id: 12
       name: emergency_contact_name

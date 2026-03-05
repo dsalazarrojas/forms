@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''excellent''}'
-      - '{''value'': ''good''}'
-      - '{''value'': ''bad''}'
-      - '{''value'': ''neutral''}'
-      - '{''value'': ''very_bad''}'
+      - excellent
+      - good
+      - bad
+      - neutral
+      - very bad
       required: false
     - id: 5
       name: experience
@@ -42,8 +42,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''positive''}'
-      - '{''value'': ''negative''}'
+      - positive
+      - negative
       required: false
     - id: 6
       name: service_quality
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''fast''}'
-      - '{''value'': ''average''}'
-      - '{''value'': ''slow''}'
+      - fast
+      - average
+      - slow
       required: false
     - id: 7
       name: communication
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''good''}'
-      - '{''value'': ''bad''}'
+      - good
+      - bad
       required: false
     - id: 8
       name: price_range
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''low''}'
-      - '{''value'': ''average''}'
-      - '{''value'': ''high''}'
+      - low
+      - average
+      - high
       required: false
     - id: 9
       name: recommended
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: visit_time
@@ -112,15 +112,15 @@ inputSchema:
       options: []
       required: false
     - id: 14
-      name: email
-      label: email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 15
       name: email_hint
-      label: email
+      label: Email Hint
       hint: Enter your email address
       type: email
       options: []
@@ -140,10 +140,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''restaurant''}'
-      - '{''value'': ''shop''}'
-      - '{''value'': ''salon''}'
-      - '{''value'': ''other''}'
+      - restaurant
+      - shop
+      - salon
+      - other
       required: false
     - id: 18
       name: shop
@@ -151,8 +151,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''local''}'
-      - '{''value'': ''online''}'
+      - local
+      - online
       required: false
     - id: 19
       name: location
@@ -167,10 +167,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''google''}'
-      - '{''value'': ''yelp''}'
-      - '{''value'': ''facebook''}'
-      - '{''value'': ''instagram''}'
+      - google
+      - yelp
+      - facebook
+      - instagram
       required: false
     - id: 21
       name: rating_score
@@ -187,15 +187,15 @@ inputSchema:
       options: []
       required: false
     - id: 23
-      name: review
-      label: review
+      name: review_2
+      label: Review 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: rating
-      label: rating
+      name: rating_2
+      label: Rating 2
       hint: null
       type: number
       options: []

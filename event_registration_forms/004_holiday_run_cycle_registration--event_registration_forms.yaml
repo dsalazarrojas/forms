@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: tshirt_size
@@ -32,11 +32,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Small''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Large''}'
-      - '{''id'': 4, ''label'': ''X-Large''}'
-      - '{''id'': 5, ''label'': ''XX-Large''}'
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
       required: false
     - id: 5
       name: event_date

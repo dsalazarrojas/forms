@@ -118,7 +118,7 @@ inputSchema:
       hint: Do you need transportation assistance
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, need information
       - Yes, need arrangement
       required: false
@@ -128,8 +128,8 @@ inputSchema:
       hint: Will you need parking
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: hotel_accommodation
@@ -137,7 +137,7 @@ inputSchema:
       hint: Do you need hotel recommendations
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, please send information
       - Yes, need booking assistance
       required: false

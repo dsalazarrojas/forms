@@ -1,191 +1,256 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Beauty Product Review Credibility Survey
     pages:
-      - id: 1
-        name: respondent_header
-        label: -- Respondent Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: age_group
-        label: Age Group
-        hint: null
-        type: select_one
-        options: [18-25, 26-35, 36-45, 46-55, 56+]
-        required: true
-      - id: 3
-        name: shopping_frequency
-        label: Beauty Product Shopping Frequency
-        hint: null
-        type: select_one
-        options: [Rarely, Occasionally, Monthly, Weekly, Very Frequently]
-        required: true
-      - id: 4
-        name: review_header
-        label: -- Review Consultation Habits --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: review_consultation
-        label: How Often Do You Read Product Reviews
-        hint: null
-        type: select_one
-        options: [Never, Rarely, Sometimes, Often, Always]
-        required: true
-      - id: 6
-        name: review_impact
-        label: How Much Do Reviews Influence Your Purchase
-        hint: null
-        type: select_one
-        options: [Not at All, Slightly, Moderately, Significantly, Very Significantly]
-        required: true
-      - id: 7
-        name: review_platforms
-        label: Where Do You Read Reviews
-        hint: null
-        type: select_multiple
-        options: [Brand Website, Amazon, Sephora, Ulta, YouTube, Social Media, Beauty Forums, Other]
-        required: true
-      - id: 8
-        name: credibility_header
-        label: -- Review Credibility Factors --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: reviewer_expertise
-        label: Importance of Reviewer Expertise
-        hint: Professional knowledge in beauty
-        type: select_one
-        options: [Not Important, Somewhat Important, Very Important, Critical]
-        required: true
-      - id: 10
-        name: verified_purchase
-        label: Importance of Verified Purchase Badge
-        hint: null
-        type: select_one
-        options: [Not Important, Somewhat Important, Very Important, Critical]
-        required: true
-      - id: 11
-        name: review_length
-        label: Importance of Detailed Review Length
-        hint: null
-        type: select_one
-        options: [Not Important, Somewhat Important, Very Important, Critical]
-        required: true
-      - id: 12
-        name: reviewer_experience
-        label: Importance of Reviewer Product Experience
-        hint: Long-term or established history
-        type: select_one
-        options: [Not Important, Somewhat Important, Very Important, Critical]
-        required: true
-      - id: 13
-        name: multiple_sources
-        label: Importance of Checking Multiple Sources
-        hint: null
-        type: select_one
-        options: [Not Important, Somewhat Important, Very Important, Critical]
-        required: true
-      - id: 14
-        name: transparency_header
-        label: -- Transparency and Authenticity --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: sponsored_awareness
-        label: Awareness of Sponsored Reviews
-        hint: null
-        type: select_one
-        options: [Not Aware, Slightly Aware, Moderately Aware, Very Aware]
-        required: true
-      - id: 16
-        name: disclosure_importance
-        label: Importance of Sponsorship Disclosure
-        hint: null
-        type: select_one
-        options: [Not Important, Somewhat Important, Very Important, Critical]
-        required: true
-      - id: 17
-        name: reviewer_credibility_trust
-        label: How You Evaluate Reviewer Credibility
-        hint: Comments, videos, photos, credentials, etc.
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: red_flags_header
-        label: -- Red Flags and Skepticism --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 19
-        name: suspicious_reviews
-        label: Can You Identify Suspicious or Fake Reviews
-        hint: null
-        type: select_one
-        options: [Not at All, Somewhat, Moderately, Yes, Easily]
-        required: true
-      - id: 20
-        name: review_red_flags
-        label: Red Flags That Make You Skeptical
-        hint: All positive, poor grammar, generic language, etc.
-        type: text
-        options: []
-        required: true
-      - id: 21
-        name: negative_review_trust
-        label: Trust in Negative Reviews
-        hint: null
-        type: select_one
-        options: [Very Distrustful, Distrustful, Neutral, Trustful, Very Trustful]
-        required: true
-      - id: 22
-        name: positive_review_skepticism
-        label: Skepticism Toward Overly Positive Reviews
-        hint: null
-        type: select_one
-        options: [Not Skeptical, Somewhat Skeptical, Moderately Skeptical, Very Skeptical, Extremely Skeptical]
-        required: true
-      - id: 23
-        name: behavior_header
-        label: -- Review Writing Behavior --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 24
-        name: write_reviews
-        label: Do You Write Product Reviews
-        hint: null
-        type: select_one
-        options: [Never, Rarely, Sometimes, Often, Always]
-        required: true
-      - id: 25
-        name: review_motivation
-        label: Motivation for Writing Reviews
-        hint: Help others, warn about issues, influence brand, etc.
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: respondent_header
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56+
+      required: true
+    - id: 3
+      name: shopping_frequency
+      label: Beauty Product Shopping Frequency
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Monthly
+      - Weekly
+      - Very Frequently
+      required: true
+    - id: 4
+      name: review_header
+      label: -- Review Consultation Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: review_consultation
+      label: How Often Do You Read Product Reviews
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 6
+      name: review_impact
+      label: How Much Do Reviews Influence Your Purchase
+      hint: null
+      type: select_one
+      options:
+      - Not at All
+      - Slightly
+      - Moderately
+      - Significantly
+      - Very Significantly
+      required: true
+    - id: 7
+      name: review_platforms
+      label: Where Do You Read Reviews
+      hint: null
+      type: select_multiple
+      options:
+      - Brand Website
+      - Amazon
+      - Sephora
+      - Ulta
+      - YouTube
+      - Social Media
+      - Beauty Forums
+      - Other
+      required: true
+    - id: 8
+      name: credibility_header
+      label: -- Review Credibility Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_expertise
+      label: Importance of Reviewer Expertise
+      hint: Professional knowledge in beauty
+      type: select_one
+      options:
+      - Not Important
+      - Somewhat Important
+      - Very Important
+      - Critical
+      required: true
+    - id: 10
+      name: verified_purchase
+      label: Importance of Verified Purchase Badge
+      hint: null
+      type: select_one
+      options:
+      - Not Important
+      - Somewhat Important
+      - Very Important
+      - Critical
+      required: true
+    - id: 11
+      name: review_length
+      label: Importance of Detailed Review Length
+      hint: null
+      type: select_one
+      options:
+      - Not Important
+      - Somewhat Important
+      - Very Important
+      - Critical
+      required: true
+    - id: 12
+      name: reviewer_experience
+      label: Importance of Reviewer Product Experience
+      hint: Long-term or established history
+      type: select_one
+      options:
+      - Not Important
+      - Somewhat Important
+      - Very Important
+      - Critical
+      required: true
+    - id: 13
+      name: multiple_sources
+      label: Importance of Checking Multiple Sources
+      hint: null
+      type: select_one
+      options:
+      - Not Important
+      - Somewhat Important
+      - Very Important
+      - Critical
+      required: true
+    - id: 14
+      name: transparency_header
+      label: -- Transparency and Authenticity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: sponsored_awareness
+      label: Awareness of Sponsored Reviews
+      hint: null
+      type: select_one
+      options:
+      - Not Aware
+      - Slightly Aware
+      - Moderately Aware
+      - Very Aware
+      required: true
+    - id: 16
+      name: disclosure_importance
+      label: Importance of Sponsorship Disclosure
+      hint: null
+      type: select_one
+      options:
+      - Not Important
+      - Somewhat Important
+      - Very Important
+      - Critical
+      required: true
+    - id: 17
+      name: reviewer_credibility_trust
+      label: How You Evaluate Reviewer Credibility
+      hint: Comments, videos, photos, credentials, etc.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: red_flags_header
+      label: -- Red Flags and Skepticism --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: suspicious_reviews
+      label: Can You Identify Suspicious or Fake Reviews
+      hint: null
+      type: select_one
+      options:
+      - Not at All
+      - Somewhat
+      - Moderately
+      - 'True'
+      - Easily
+      required: true
+    - id: 20
+      name: review_red_flags
+      label: Red Flags That Make You Skeptical
+      hint: All positive, poor grammar, generic language, etc.
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: negative_review_trust
+      label: Trust in Negative Reviews
+      hint: null
+      type: select_one
+      options:
+      - Very Distrustful
+      - Distrustful
+      - Neutral
+      - Trustful
+      - Very Trustful
+      required: true
+    - id: 22
+      name: positive_review_skepticism
+      label: Skepticism Toward Overly Positive Reviews
+      hint: null
+      type: select_one
+      options:
+      - Not Skeptical
+      - Somewhat Skeptical
+      - Moderately Skeptical
+      - Very Skeptical
+      - Extremely Skeptical
+      required: true
+    - id: 23
+      name: behavior_header
+      label: -- Review Writing Behavior --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: write_reviews
+      label: Do You Write Product Reviews
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 25
+      name: review_motivation
+      label: Motivation for Writing Reviews
+      hint: Help others, warn about issues, influence brand, etc.
+      type: text
+      options: []
+      required: false

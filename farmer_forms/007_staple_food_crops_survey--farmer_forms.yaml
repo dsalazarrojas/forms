@@ -23,10 +23,10 @@ inputSchema:
       hint: Select one or more of the staple foods you produce
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''maize''}'
-      - '{''id'': 2, ''name'': ''wheat''}'
-      - '{''id'': 3, ''name'': ''rice''}'
-      - '{''id'': 4, ''name'': ''potatoes''}'
+      - maize
+      - wheat
+      - rice
+      - potatoes
       required: false
     - id: 4
       name: production_area
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''urban''}'
-      - '{''id'': 2, ''name'': ''rural''}'
-      - '{''id'': 3, ''name'': ''peri-urban''}'
+      - urban
+      - rural
+      - peri-urban
       required: false
     - id: 9
       name: contact_number

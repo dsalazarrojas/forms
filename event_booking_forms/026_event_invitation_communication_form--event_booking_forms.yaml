@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Attending'', ''value'': ''attending''}'
-      - '{''label'': ''Declining'', ''value'': ''declining''}'
-      - '{''label'': ''Unable to Attend'', ''value'': ''unable_to_attend''}'
+      - Attending
+      - Declining
+      - Unable to Attend
       required: false
     - id: 6
       name: dietary_preferences
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Vegetarian'', ''value'': ''vegetarian''}'
-      - '{''label'': ''Vegan'', ''value'': ''vegan''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Vegetarian
+      - Vegan
+      - Other
       required: false
     - id: 7
       name: special_requests

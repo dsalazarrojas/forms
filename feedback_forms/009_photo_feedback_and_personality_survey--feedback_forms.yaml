@@ -23,9 +23,9 @@ inputSchema:
       hint: Select one option
       type: select_one
       options:
-      - '{1: ''Agreeable''}'
-      - '{2: ''Conscientious''}'
-      - '{3: ''Neurotic''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 4
       name: emotion
@@ -52,9 +52,9 @@ inputSchema:
       hint: Your personal details
       type: select_multiple
       options:
-      - '{1: ''Male''}'
-      - '{2: ''Female''}'
-      - '{3: ''Other''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 7
       name: age
@@ -69,8 +69,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{1: True}'
-      - '{2: False}'
+      - Option 1
+      - Option 2
       required: false
     - id: 9
       name: comments
@@ -151,28 +151,28 @@ inputSchema:
       required: false
     - id: 20
       name: agreeableness_likertscale
-      label: Agreeableness
+      label: Agreeableness Likertscale
       hint: null
       type: number
       options: []
       required: false
     - id: 21
       name: conscientiousness_likertscale
-      label: Conscientiousness
+      label: Conscientiousness Likertscale
       hint: null
       type: number
       options: []
       required: false
     - id: 22
       name: neuroticism_likertscale
-      label: Neuroticism
+      label: Neuroticism Likertscale
       hint: null
       type: number
       options: []
       required: false
     - id: 23
-      name: extraversion_likertscale
-      label: Extraversion
+      name: extraversion_likertscale_2
+      label: Extraversion Likertscale 2
       hint: null
       type: number
       options: []
@@ -186,7 +186,7 @@ inputSchema:
       required: false
     - id: 25
       name: survey_rating_likertscale
-      label: How good is this survey?
+      label: Survey Rating Likertscale
       hint: null
       type: number
       options: []

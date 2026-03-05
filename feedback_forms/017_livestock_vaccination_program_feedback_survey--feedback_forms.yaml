@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''A''}'
-      - '{''text'': ''B''}'
-      - '{''text'': ''C''}'
+      - A
+      - B
+      - C
       required: false
     - id: 5
       name: how_did_vaccination_cover_work
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': 1}'
-      - '{''text'': 2}'
-      - '{''text'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: true
     - id: 7
       name: what_did_you_find_not_helpful
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': 1}'
-      - '{''text'': 2}'
-      - '{''text'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: true
     - id: 8
       name: additional_comments
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': 1}'
-      - '{''text'': 2}'
+      - '1'
+      - '2'
       required: true
     - id: 11
       name: what_is_the_current_level
@@ -118,13 +118,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Mon''}'
-      - '{''text'': ''Tue''}'
-      - '{''text'': ''Wed''}'
-      - '{''text'': ''Thu''}'
-      - '{''text'': ''Fri''}'
-      - '{''text'': ''Sat''}'
-      - '{''text'': ''Sun''}'
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
       required: true
     - id: 16
       name: date_of_week
@@ -146,9 +146,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Sunny''}'
-      - '{''text'': ''Cloudy''}'
-      - '{''text'': ''Rainy''}'
+      - Sunny
+      - Cloudy
+      - Rainy
       required: true
     - id: 19
       name: contact_name

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Department A''}'
-      - '{''label'': ''Department B''}'
-      - '{''label'': ''Department C''}'
-      - '{''label'': ''Department D''}'
+      - Department A
+      - Department B
+      - Department C
+      - Department D
       required: false
     - id: 3
       name: job_title
@@ -80,11 +69,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Highly Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat Dissatisfied''}'
-      - '{''label'': ''Highly Dissatisfied''}'
+      - Highly Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Highly Dissatisfied
       required: false
     - id: 10
       name: career_growth_opportunities

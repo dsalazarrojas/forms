@@ -58,12 +58,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Not Satisfied''}'
-      - '{''name'': ''Somewhat Satisfied''}'
-      - '{''name'': ''Neutral''}'
-      - '{''name'': ''Somewhat Satisfied''}'
-      - '{''name'': ''Satisfied''}'
-      - '{''name'': ''Very Satisfied''}'
+      - Not Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
       required: false
     - id: 9
       name: event_stager
@@ -71,7 +70,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Not Available''}'
-      - '{''name'': ''Present''}'
-      - '{''name'': ''Absent''}'
+      - Not Available
+      - Present
+      - Absent
       required: false

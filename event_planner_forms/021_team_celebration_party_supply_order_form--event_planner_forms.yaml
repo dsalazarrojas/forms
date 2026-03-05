@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Holiday''}'
-      - '{''id'': 2, ''label'': ''Birthday''}'
-      - '{''id'': 3, ''label'': ''Anniversary''}'
+      - Holiday
+      - Birthday
+      - Anniversary
       required: false
     - id: 3
       name: party_supplies
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Balloons''}'
-      - '{''id'': 2, ''label'': ''Streamers''}'
-      - '{''id'': 3, ''label'': ''Confetti''}'
+      - Balloons
+      - Streamers
+      - Confetti
       required: true
     - id: 4
       name: delivery_preferences

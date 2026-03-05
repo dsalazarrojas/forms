@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In-person''}'
-      - '{''id'': 2, ''label'': ''Online''}'
+      - In-person
+      - Online
       required: true
     - id: 13
       name: emergency_contact_name
@@ -123,8 +123,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Attended''}'
-      - '{''id'': 2, ''label'': ''Did Not Attend''}'
+      - Attended
+      - Did Not Attend
       required: true
     - id: 18
       name: attendance_reason
@@ -146,8 +146,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I have read and agree to the terms.''}'
-      - '{''id'': 2, ''label'': ''Do not display this''}'
+      - I have read and agree to the terms.
+      - Do not display this
       required: true
     - id: 21
       name: privacy_pledge
@@ -155,8 +155,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I agree to the use of my data.''}'
-      - '{''id'': 2, ''label'': ''Do not display this''}'
+      - I agree to the use of my data.
+      - Do not display this
       required: true
     - id: 22
       name: submit

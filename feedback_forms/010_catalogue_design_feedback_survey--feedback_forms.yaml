@@ -1,226 +1,215 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Catalogue Design Feedback Survey
     pages:
-      - id: 1
-        name: respondent_name
-        label: Your Name
-        hint: Optional - your name
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: email
-        label: Email Address
-        hint: For follow-up if needed
-        type: email
-        options: []
-        required: false
-      - id: 3
-        name: role
-        label: Your Role
-        hint: Your relationship to this project
-        type: select_one
-        options:
-          - Designer
-          - Marketing Team
-          - Client
-          - Stakeholder
-          - Test User
-          - Other
-        required: true
-      - id: 4
-        name: catalogue_version
-        label: Catalogue Version Reviewed
-        hint: Which version did you review
-        type: select_one
-        options:
-          - Draft v1
-          - Draft v2
-          - Final Draft
-          - Print Version
-          - Digital Version
-        required: true
-      - id: 5
-        name: overall_impression
-        label: Overall Impression
-        hint: Rate your overall impression
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 6
-        name: layout_rating
-        label: Layout Rating
-        hint: Rate the page layouts
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 7
-        name: typography_rating
-        label: Typography Rating
-        hint: Rate the font choices and text styling
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 8
-        name: color_scheme_rating
-        label: Color Scheme Rating
-        hint: Rate the color choices
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 9
-        name: imagery_rating
-        label: Imagery Rating
-        hint: Rate the photos and graphics
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 10
-        name: navigation_rating
-        label: Navigation Rating
-        hint: Rate the ease of navigation
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 11
-        name: content_clarity
-        label: Content Clarity
-        hint: Is the content clear and understandable
-        type: select_one
-        options:
-          - Very Clear
-          - Clear
-          - Neutral
-          - Unclear
-          - Very Unclear
-        required: true
-      - id: 12
-        name: brand_consistency
-        label: Brand Consistency
-        hint: Does it align with brand guidelines
-        type: select_one
-        options:
-          - Very Consistent
-          - Consistent
-          - Neutral
-          - Inconsistent
-          - Very Inconsistent
-        required: true
-      - id: 13
-        name: favorite_element
-        label: Favorite Design Element
-        hint: What did you like most
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: least_favorite_element
-        label: Least Favorite Design Element
-        hint: What needs improvement
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: readability
-        label: Readability Assessment
-        hint: Is the text easy to read
-        type: select_one
-        options:
-          - Very Easy
-          - Easy
-          - Neutral
-          - Difficult
-          - Very Difficult
-        required: true
-      - id: 16
-        name: visual_hierarchy
-        label: Visual Hierarchy
-        hint: Is information well organized visually
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Poor
-          - Very Poor
-        required: true
-      - id: 17
-        name: mobile_friendly
-        label: Mobile Friendly - If Digital
-        hint: Does it work well on mobile
-        type: select_one
-        options:
-          - Yes - Very
-          - Yes - Somewhat
-          - No
-          - Not Applicable
-        required: false
-      - id: 18
-        name: would_recommend
-        label: Would You Recommend This Design
-        hint: Would you approve this design
-        type: select_one
-        options:
-          - Definitely Yes
-          - Probably Yes
-          - Neutral
-          - Probably No
-          - Definitely No
-        required: true
-      - id: 19
-        name: changes_suggested
-        label: Suggested Changes
-        hint: What changes would you make
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: additional_comments
-        label: Additional Comments
-        hint: Any other feedback
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional - your name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For follow-up if needed
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Your Role
+      hint: Your relationship to this project
+      type: select_one
+      options:
+      - Designer
+      - Marketing Team
+      - Client
+      - Stakeholder
+      - Test User
+      - Other
+      required: true
+    - id: 4
+      name: catalogue_version
+      label: Catalogue Version Reviewed
+      hint: Which version did you review
+      type: select_one
+      options:
+      - Draft v1
+      - Draft v2
+      - Final Draft
+      - Print Version
+      - Digital Version
+      required: true
+    - id: 5
+      name: overall_impression
+      label: Overall Impression
+      hint: Rate your overall impression
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: layout_rating
+      label: Layout Rating
+      hint: Rate the page layouts
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: typography_rating
+      label: Typography Rating
+      hint: Rate the font choices and text styling
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: color_scheme_rating
+      label: Color Scheme Rating
+      hint: Rate the color choices
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: imagery_rating
+      label: Imagery Rating
+      hint: Rate the photos and graphics
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: navigation_rating
+      label: Navigation Rating
+      hint: Rate the ease of navigation
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: content_clarity
+      label: Content Clarity
+      hint: Is the content clear and understandable
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Neutral
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 12
+      name: brand_consistency
+      label: Brand Consistency
+      hint: Does it align with brand guidelines
+      type: select_one
+      options:
+      - Very Consistent
+      - Consistent
+      - Neutral
+      - Inconsistent
+      - Very Inconsistent
+      required: true
+    - id: 13
+      name: favorite_element
+      label: Favorite Design Element
+      hint: What did you like most
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: least_favorite_element
+      label: Least Favorite Design Element
+      hint: What needs improvement
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: readability
+      label: Readability Assessment
+      hint: Is the text easy to read
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 16
+      name: visual_hierarchy
+      label: Visual Hierarchy
+      hint: Is information well organized visually
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 17
+      name: mobile_friendly
+      label: Mobile Friendly - If Digital
+      hint: Does it work well on mobile
+      type: select_one
+      options:
+      - Yes - Very
+      - Yes - Somewhat
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 18
+      name: would_recommend
+      label: Would You Recommend This Design
+      hint: Would you approve this design
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Neutral
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 19
+      name: changes_suggested
+      label: Suggested Changes
+      hint: What changes would you make
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''John'', ''value'': ''John''}'
-      - '{''label'': ''Jane'', ''value'': ''Jane''}'
-      - '{''label'': ''Joe'', ''value'': ''Joe''}'
+      - John
+      - Jane
+      - Joe
       required: false
     - id: 8
       name: meeting_topic_preferences
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Sales'', ''value'': ''sales''}'
-      - '{''label'': ''Marketing'', ''value'': ''marketing''}'
-      - '{''label'': ''HR'', ''value'': ''hr''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Sales
+      - Marketing
+      - HR
+      - Other
       required: false
     - id: 9
       name: preferred_meeting_time
@@ -79,11 +79,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Monday'', ''value'': 1}'
-      - '{''label'': ''Tuesday'', ''value'': 2}'
-      - '{''label'': ''Wednesday'', ''value'': 3}'
-      - '{''label'': ''Thursday'', ''value'': 4}'
-      - '{''label'': ''Friday'', ''value'': 5}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
       required: false
     - id: 11
       name: preferred_meeting_time
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Morning'', ''value'': 1}'
-      - '{''label'': ''Afternoon'', ''value'': 2}'
-      - '{''label'': ''Evening'', ''value'': 3}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 12
       name: preferred_meeting_date
@@ -101,6 +101,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Weekends'', ''value'': 1}'
-      - '{''label'': ''Weekdays'', ''value'': 2}'
+      - Weekends
+      - Weekdays
       required: false

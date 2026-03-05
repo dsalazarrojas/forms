@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -41,11 +30,11 @@ inputSchema:
       hint: Duration at this location
       type: select_one
       options:
-        - Less than 3 months
-        - 3-6 months
-        - 6 months - 1 year
-        - 1-2 years
-        - Over 2 years
+      - Less than 3 months
+      - 3-6 months
+      - 6 months - 1 year
+      - 1-2 years
+      - Over 2 years
       required: true
     - id: 5
       name: noise_perception
@@ -53,11 +42,11 @@ inputSchema:
       hint: How loud is the building
       type: select_one
       options:
-        - Very Quiet
-        - Quiet
-        - Moderate
-        - Noisy
-        - Very Noisy
+      - Very Quiet
+      - Quiet
+      - Moderate
+      - Noisy
+      - Very Noisy
       required: true
     - id: 6
       name: noise_sources
@@ -65,14 +54,14 @@ inputSchema:
       hint: What causes the most noise
       type: select_multiple
       options:
-        - Traffic Outside
-        - Neighboring Units
-        - Hallway Activity
-        - Plumbing
-        - HVAC Systems
-        - Elevators
-        - Construction
-        - Other
+      - Traffic Outside
+      - Neighboring Units
+      - Hallway Activity
+      - Plumbing
+      - HVAC Systems
+      - Elevators
+      - Construction
+      - Other
       required: true
     - id: 7
       name: peak_noise_times
@@ -80,12 +69,12 @@ inputSchema:
       hint: When is it most noisy
       type: select_multiple
       options:
-        - Early Morning
-        - Mid-Morning
-        - Afternoon
-        - Evening
-        - Night
-        - All Day
+      - Early Morning
+      - Mid-Morning
+      - Afternoon
+      - Evening
+      - Night
+      - All Day
       required: false
     - id: 8
       name: noise_impact
@@ -93,11 +82,11 @@ inputSchema:
       hint: How much does it affect you
       type: select_one
       options:
-        - No Impact
-        - Minimal Impact
-        - Moderate Impact
-        - Significant Impact
-        - Severe Impact
+      - No Impact
+      - Minimal Impact
+      - Moderate Impact
+      - Significant Impact
+      - Severe Impact
       required: true
     - id: 9
       name: sleep_disturbance
@@ -105,11 +94,11 @@ inputSchema:
       hint: Does it affect sleep quality
       type: select_one
       options:
-        - Never
-        - Rarely
-        - Sometimes
-        - Often
-        - Always
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
       required: true
     - id: 10
       name: work_disturbance
@@ -117,10 +106,10 @@ inputSchema:
       hint: Impacts concentration
       type: select_one
       options:
-        - No Impact
-        - Minor Impact
-        - Moderate Impact
-        - Major Impact
+      - No Impact
+      - Minor Impact
+      - Moderate Impact
+      - Major Impact
       required: false
     - id: 11
       name: previous_complaints
@@ -128,8 +117,8 @@ inputSchema:
       hint: Previous noise complaints
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: complaint_response
@@ -137,11 +126,11 @@ inputSchema:
       hint: How was your complaint handled
       type: select_one
       options:
-        - Resolved Quickly
-        - Partially Resolved
-        - Not Resolved
-        - No Action Taken
-        - Not Applicable
+      - Resolved Quickly
+      - Partially Resolved
+      - Not Resolved
+      - No Action Taken
+      - Not Applicable
       required: false
     - id: 13
       name: mitigation_awareness
@@ -149,10 +138,10 @@ inputSchema:
       hint: Know about building improvements
       type: select_one
       options:
-        - Very Aware
-        - Somewhat Aware
-        - Minimally Aware
-        - Not Aware
+      - Very Aware
+      - Somewhat Aware
+      - Minimally Aware
+      - Not Aware
       required: true
     - id: 14
       name: mitigation_effectiveness
@@ -160,11 +149,11 @@ inputSchema:
       hint: Have improvements helped
       type: select_one
       options:
-        - Very Effective
-        - Effective
-        - Somewhat Effective
-        - Not Effective
-        - No measures in place
+      - Very Effective
+      - Effective
+      - Somewhat Effective
+      - Not Effective
+      - No measures in place
       required: false
     - id: 15
       name: suggested_improvements
@@ -179,9 +168,9 @@ inputSchema:
       hint: Can you help address noise
       type: select_one
       options:
-        - Yes
-        - Maybe
-        - No
+      - 'True'
+      - Maybe
+      - 'False'
       required: false
     - id: 17
       name: overall_satisfaction
@@ -189,9 +178,9 @@ inputSchema:
       hint: General satisfaction
       type: select_one
       options:
-        - Very Satisfied
-        - Satisfied
-        - Neutral
-        - Dissatisfied
-        - Very Dissatisfied
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
       required: true

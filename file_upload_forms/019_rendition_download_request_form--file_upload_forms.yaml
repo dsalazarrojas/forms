@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''1x''}'
-      - '{''value'': 2, ''label'': ''2x''}'
-      - '{''value'': 3, ''label'': ''4x''}'
-      - '{''value'': 4, ''label'': ''8x''}'
+      - None
+      - 1x
+      - 2x
+      - 4x
+      - 8x
       required: false
     - id: 4
       name: rendition_formats
@@ -35,10 +35,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''pdf'', ''label'': ''PDF''}'
-      - '{''value'': ''jpeg'', ''label'': ''JPEG''}'
-      - '{''value'': ''png'', ''label'': ''PNG''}'
-      - '{''value'': ''tiff'', ''label'': ''TIFF''}'
+      - PDF
+      - JPEG
+      - PNG
+      - TIFF
       required: false
     - id: 5
       name: delivery_timeline
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: contact_person

@@ -70,8 +70,8 @@ inputSchema:
       hint: (If under 18) Do you plan to vote when you turn 18?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not eligible yet
       required: true
     - id: 8
@@ -116,7 +116,7 @@ inputSchema:
       options:
       - Yes, very interested
       - Maybe
-      - false
+      - 'False'
       required: false
     - id: 12
       name: leader_nomination
@@ -145,7 +145,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
+      - 'True'
       - Not applicable
       required: true
     - id: 16

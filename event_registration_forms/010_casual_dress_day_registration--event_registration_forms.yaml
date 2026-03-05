@@ -1,97 +1,86 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Casual Dress Day Registration
     pages:
-      - id: 1
-        name: registrant_name
-        label: Registrant name
-        hint: Full name for attendance record
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: email
-        label: Email address
-        hint: For confirmation and updates
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: team_or_department
-        label: Team or department
-        hint: Optional department name
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: shirt_size
-        label: Shirt size
-        hint: If a shirt is provided
-        type: select_one
-        options:
-          - XS
-          - S
-          - M
-          - L
-          - XL
-          - XXL
-        required: false
-      - id: 5
-        name: payment_option
-        label: Payment option for donations
-        hint: Choose donation method if applicable
-        type: select_one
-        options:
-          - None
-          - Online
-          - Cash on day
-        required: false
-      - id: 6
-        name: dietary_needs
-        label: Dietary needs
-        hint: For any food provided at event
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: consent_photos
-        label: Consent to event photos
-        hint: Permit internal use of images
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 8
-        name: emergency_contact
-        label: Emergency contact details
-        hint: Name and phone
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: accessibility_requirements
-        label: Accessibility requirements
-        hint: Describe any accessibility needs
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: additional_notes
-        label: Additional notes
-        hint: Any other information organizers should know
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: registrant_name
+      label: Registrant name
+      hint: Full name for attendance record
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: team_or_department
+      label: Team or department
+      hint: Optional department name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shirt_size
+      label: Shirt size
+      hint: If a shirt is provided
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 5
+      name: payment_option
+      label: Payment option for donations
+      hint: Choose donation method if applicable
+      type: select_one
+      options:
+      - None
+      - Online
+      - Cash on day
+      required: false
+    - id: 6
+      name: dietary_needs
+      label: Dietary needs
+      hint: For any food provided at event
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_photos
+      label: Consent to event photos
+      hint: Permit internal use of images
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact details
+      hint: Name and phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accessibility_requirements
+      label: Accessibility requirements
+      hint: Describe any accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information organizers should know
+      type: text
+      options: []
+      required: false

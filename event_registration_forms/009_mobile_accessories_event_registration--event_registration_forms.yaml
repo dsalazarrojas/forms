@@ -6,197 +6,106 @@ inputSchema:
     - id: 1
       name: first_name
       label: First Name
-      hint: null
+      hint: Enter your first name.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: last_name
-      label: Last Name
-      hint: null
+      name: company
+      label: Company
+      hint: Your company name.
       type: text
       options: []
       required: false
     - id: 3
-      name: company
-      label: Company
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: email
       label: Email
-      hint: null
+      hint: Enter a valid email address.
       type: email
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: phone
       label: Phone
-      hint: null
+      hint: Enter your phone number.
       type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: attendee_type
       label: Attendee Type
-      hint: null
+      hint: Choose your type.
       type: select_one
       options:
       - Visitor
       - Speaker
       - Organizer
       - Exhibitor
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: segments_of_interest
       label: Segments Of Interest
-      hint: null
+      hint: Select your interests.
       type: select_multiple
       options:
       - Mobile Accessories
       - Electronics
       - Gadgets
       - Novelties
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: sign_up_for
       label: Sign up for
-      hint: null
+      hint: Select events.
       type: select_multiple
       options:
       - Trade Show
       - Launch
       - Workshop
-      required: false
-    - id: 9
+      required: true
+    - id: 8
       name: event_date
       label: Event Date
-      hint: null
+      hint: MM/DD/YYYY
       type: date
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 9
       name: event_time
       label: Event Time
-      hint: null
+      hint: HH -MM AM/PM
       type: time
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments?
+      type: note
       options: []
       required: false
     - id: 11
-      name: additional_comments
-      label: Additional Comments
-      hint: null
-      type: note
+      name: event_date_2
+      label: Event Date 2
+      hint: MM/DD/YYYY
+      type: date
       options: []
       required: false
     - id: 12
-      name: first_name_2
-      label: First Name
-      hint: null
-      type: text
+      name: event_time_2
+      label: Event Time 2
+      hint: HH -MM AM/PM
+      type: time
       options: []
       required: false
     - id: 13
-      name: last_name_2
-      label: Last Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: company_2
-      label: Company
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: email_2
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: phone_2
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: attendee_type_2
-      label: Attendee Type
-      hint: null
-      type: select_one
-      options:
-      - Visitor
-      - Speaker
-      - Organizer
-      - Exhibitor
-      required: false
-    - id: 18
       name: segments_of_interest_2
-      label: Segments Of Interest
-      hint: null
+      label: Segments Of Interest 2
+      hint: Select interests.
       type: select_multiple
       options:
       - Mobile Accessories
       - Electronics
       - Gadgets
       - Novelties
-      required: false
-    - id: 19
-      name: sign_up_for_2
-      label: Sign up for
-      hint: null
-      type: select_multiple
-      options:
-      - Trade Show
-      - Launch
-      - Workshop
-      required: false
-    - id: 20
-      name: event_date_2
-      label: Event Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: event_time_2
-      label: Event Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: additional_comments_2
-      label: Additional Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: first_name_3
-      label: First Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: last_name_3
-      label: Last Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: company_3
-      label: Company
-      hint: null
-      type: text
-      options: []
       required: false

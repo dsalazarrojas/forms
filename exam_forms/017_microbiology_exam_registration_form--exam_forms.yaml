@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Biology''}'
-      - '{''id'': 2, ''label'': ''Chemistry''}'
-      - '{''id'': 3, ''label'': ''Physics''}'
+      - Biology
+      - Chemistry
+      - Physics
       required: true
     - id: 9
       name: school_name
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''60 minutes''}'
-      - '{''id'': 2, ''label'': ''90 minutes''}'
-      - '{''id'': 3, ''label'': ''120 minutes''}'
+      - 60 minutes
+      - 90 minutes
+      - 120 minutes
       required: true
     - id: 15
       name: student_id_number
@@ -155,8 +155,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
+      - Male
+      - Female
       required: true
     - id: 22
       name: student_birthdate

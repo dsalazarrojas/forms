@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Highly Satisfied'', ''value'': 5}'
-      - '{''label'': ''Somewhat Satisfied'', ''value'': 3}'
-      - '{''label'': ''Somewhat Dissatisfied'', ''value'': 2}'
-      - '{''label'': ''Not Satisfied'', ''value'': 1}'
+      - Highly Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Not Satisfied
       required: true
     - id: 3
       name: event_title
@@ -111,10 +111,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Less than 10'', ''value'': 10}'
-      - '{''label'': ''10-20'', ''value'': 20}'
-      - '{''label'': ''20-50'', ''value'': 50}'
-      - '{''label'': ''50 or more'', ''value'': 50}'
+      - Less than 10
+      - 10-20
+      - 20-50
+      - 50 or more
       required: true
     - id: 16
       name: language
@@ -122,10 +122,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''English'', ''value'': ''English''}'
-      - '{''label'': ''Spanish'', ''value'': ''Spanish''}'
-      - '{''label'': ''French'', ''value'': ''French''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - English
+      - Spanish
+      - French
+      - Other
       required: true
     - id: 17
       name: timezone
@@ -133,8 +133,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''UTC+0'', ''value'': ''UTC+0''}'
-      - '{''label'': ''UTC-8'', ''value'': ''UTC-8''}'
-      - '{''label'': ''UTC+8'', ''value'': ''UTC+8''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - UTC+0
+      - UTC-8
+      - UTC+8
+      - Other
       required: true

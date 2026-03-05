@@ -23,11 +23,11 @@ inputSchema:
       hint: Which topics do you think should be included in future workshops?
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Mindfulness and Meditation''}'
-      - '{''value'': 2, ''label'': ''Nutrition and Wellness''}'
-      - '{''value'': 3, ''label'': ''Stress Management''}'
-      - '{''value'': 4, ''label'': ''Mindful Movement''}'
-      - '{''value'': 5, ''label'': ''Other (please specify)''}'
+      - Mindfulness and Meditation
+      - Nutrition and Wellness
+      - Stress Management
+      - Mindful Movement
+      - Other (please specify)
       required: false
     - id: 4
       name: future_workshops
@@ -42,10 +42,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 0, ''label'': ''Not Attended''}'
-      - '{''value'': 1, ''label'': ''Partially Attended''}'
-      - '{''value'': 2, ''label'': ''Fully Attended''}'
-      - '{''value'': 3, ''label'': ''Will Attend in the Future''}'
+      - Not Attended
+      - Partially Attended
+      - Fully Attended
+      - Will Attend in the Future
       required: false
     - id: 6
       name: email

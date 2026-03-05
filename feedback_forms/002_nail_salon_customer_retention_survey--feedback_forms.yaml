@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent'', ''value'': 4}'
-      - '{''label'': ''Good'', ''value'': 3}'
-      - '{''label'': ''Slightly Below Average'', ''value'': 2}'
-      - '{''label'': ''Poor'', ''value'': 1}'
+      - Excellent
+      - Good
+      - Slightly Below Average
+      - Poor
       required: false
     - id: 3
       name: satisfaction_with_staff
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent'', ''value'': 4}'
-      - '{''label'': ''Good'', ''value'': 3}'
-      - '{''label'': ''Slightly Below Average'', ''value'': 2}'
-      - '{''label'': ''Poor'', ''value'': 1}'
+      - Excellent
+      - Good
+      - Slightly Below Average
+      - Poor
       required: false
     - id: 4
       name: visit_habits
@@ -38,10 +38,10 @@ inputSchema:
       hint: What do you usually visit for?
       type: select_multiple
       options:
-      - '{''label'': ''For nail care'', ''value'': 1}'
-      - '{''label'': ''For nail art'', ''value'': 2}'
-      - '{''label'': ''For nail extensions'', ''value'': 3}'
-      - '{''label'': ''For other'', ''value'': 4}'
+      - For nail care
+      - For nail art
+      - For nail extensions
+      - For other
       required: false
     - id: 5
       name: loyalty_program
@@ -49,8 +49,8 @@ inputSchema:
       hint: Do you participate in the loyalty program?
       type: select_one
       options:
-      - '{''label'': True, ''value'': 4}'
-      - '{''label'': False, ''value'': 1}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: feedback

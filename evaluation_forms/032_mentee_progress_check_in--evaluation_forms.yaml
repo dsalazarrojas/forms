@@ -5,203 +5,206 @@ inputSchema:
     pages:
     - id: 1
       name: mentee_progress_check_in_1
-      label: What is the mentee name
-      hint: null
+      label: Mentee Name
+      hint: Enter mentee's name
       type: text
       options: []
       required: true
     - id: 2
-      name: goal_1
-      label: Goal 1 title
-      hint: null
+      name: mentee_progress_check_in_2
+      label: Goal 1
+      hint: Select a goal for the mentee
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Goal 1'', ''value'': ''Goal 1''}'
-      - '{''id'': 2, ''name'': ''Goal 2'', ''value'': ''Goal 2''}'
-      - '{''id'': 3, ''name'': ''Goal 3'', ''value'': ''Goal 3''}'
+      - Goal 1
+      - Goal 2
+      - Goal 3
       required: true
     - id: 3
-      name: mentee_progress_check_in_2
-      label: What is the mentee progress
-      hint: null
+      name: mentee_progress_check_in_3
+      label: Current Progress
+      hint: Enter current progress
       type: text
       options: []
       required: true
     - id: 4
-      name: mentee_progress_check_in_3
-      label: What is the mentee progress
-      hint: null
+      name: mentee_progress_check_in_4
+      label: Progress Date
+      hint: Enter progress date
       type: date
       options: []
       required: false
     - id: 5
-      name: mentee_progress_check_in_4
-      label: What is the mentee progress
-      hint: null
+      name: mentee_progress_check_in_5
+      label: Progress Time
+      hint: Enter progress time
       type: time
       options: []
       required: false
     - id: 6
-      name: mentee_progress_check_in_5
-      label: What is the mentee progress
-      hint: null
+      name: mentee_progress_check_in_6
+      label: Goal 1 Value
+      hint: Rate mentee's progress on Goal 1
       type: number
       options: []
       required: true
     - id: 7
-      name: mentee_progress_check_in_6
-      label: What is the mentee progress
-      hint: null
+      name: mentee_progress_check_in_7
+      label: Goal 2 Value
+      hint: Rate mentee's progress on Goal 2
       type: number
       options: []
       required: true
     - id: 8
-      name: mentee_progress_check_in_7
-      label: What is the mentee progress
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
       name: mentee_progress_check_in_8
-      label: What is the mentee progress
-      hint: null
-      type: text
+      label: Goal 3 Value
+      hint: Rate mentee's progress on Goal 3
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: mentee_progress_check_in_9
+      label: Additional Progress Notes
+      hint: Provide additional comments
+      type: note
       options: []
       required: false
     - id: 10
-      name: mentee_progress_check_in_9
-      label: What is the mentee progress
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
       name: mentee_progress_check_in_10
-      label: What is the mentee progress
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Goal 1'', ''value'': ''Goal 1''}'
-      - '{''id'': 2, ''name'': ''Goal 2'', ''value'': ''Goal 2''}'
-      - '{''id'': 3, ''name'': ''Goal 3'', ''value'': ''Goal 3''}'
-      required: true
-    - id: 12
-      name: mentee_progress_check_in_11
-      label: What is the mentee progress
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Goal 1'', ''value'': ''Goal 1''}'
-      - '{''id'': 2, ''name'': ''Goal 2'', ''value'': ''Goal 2''}'
-      - '{''id'': 3, ''name'': ''Goal 3'', ''value'': ''Goal 3''}'
-      required: true
-    - id: 13
-      name: mentee_progress_check_in_12
-      label: What is the mentee progress
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Goal 1'', ''value'': ''Goal 1''}'
-      - '{''id'': 2, ''name'': ''Goal 2'', ''value'': ''Goal 2''}'
-      - '{''id'': 3, ''name'': ''Goal 3'', ''value'': ''Goal 3''}'
-      required: true
-    - id: 14
-      name: mentee_progress_check_in_13
-      label: What is the mentee progress
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Goal 1'', ''value'': ''Goal 1''}'
-      - '{''id'': 2, ''name'': ''Goal 2'', ''value'': ''Goal 2''}'
-      - '{''id'': 3, ''name'': ''Goal 3'', ''value'': ''Goal 3''}'
-      required: true
-    - id: 15
-      name: mentee_progress_check_in_14
-      label: What is the mentee progress
-      hint: null
+      label: Goal 1 Progress Status
+      hint: Select progress status for Goal 1
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Goal 1'', ''value'': ''Goal 1''}'
-      - '{''id'': 2, ''name'': ''Goal 2'', ''value'': ''Goal 2''}'
-      - '{''id'': 3, ''name'': ''Goal 3'', ''value'': ''Goal 3''}'
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 11
+      name: mentee_progress_check_in_11
+      label: Goal 2 Progress Status
+      hint: Select progress status for Goal 2
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 12
+      name: mentee_progress_check_in_12
+      label: Goal 3 Progress Status
+      hint: Select progress status for Goal 3
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 13
+      name: mentee_progress_check_in_13
+      label: Goal 1 Progress Details
+      hint: Provide progress details for Goal 1
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: mentee_progress_check_in_14
+      label: Goal 2 Progress Details
+      hint: Provide progress details for Goal 2
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: mentee_progress_check_in_15
+      label: Goal 3 Progress Details
+      hint: Provide progress details for Goal 3
+      type: text
+      options: []
       required: true
     - id: 16
-      name: mentee_progress_check_in_15
-      label: What is the mentee progress
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
       name: mentee_progress_check_in_16
-      label: What is the mentee progress
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
+      label: Progress Frequency
+      hint: Check in frequency
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      required: true
+    - id: 17
       name: mentee_progress_check_in_17
-      label: What is the mentee progress
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 19
-      name: mentee_progress_check_in_18
-      label: What is the mentee progress
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 20
-      name: mentee_progress_check_in_19
-      label: What is the mentee progress
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: mentee_progress_check_in_20
-      label: What is the mentee progress
-      hint: null
+      label: Mentee Feedback
+      hint: Provide feedback for the mentee
       type: text
       options: []
       required: false
-    - id: 22
-      name: mentee_progress_check_in_21
-      label: What is the mentee progress
-      hint: null
-      type: note
+    - id: 18
+      name: mentee_progress_check_in_18
+      label: Additional Comments
+      hint: Provide additional comments
+      type: text
       options: []
       required: false
-    - id: 23
-      name: mentee_progress_check_in_22
-      label: What is the mentee progress
-      hint: null
+    - id: 19
+      name: mentee_progress_check_in_19
+      label: Mentee Progress Check In 19
+      hint: Select a goal for the mentee
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Goal 1'', ''value'': ''Goal 1''}'
-      - '{''id'': 2, ''name'': ''Goal 2'', ''value'': ''Goal 2''}'
-      - '{''id'': 3, ''name'': ''Goal 3'', ''value'': ''Goal 3''}'
+      - Goal 1
+      - Goal 2
+      - Goal 3
       required: true
-    - id: 24
-      name: mentee_progress_check_in_23
-      label: What is the mentee progress
-      hint: null
+    - id: 20
+      name: mentee_progress_check_in_20
+      label: Goal 2
+      hint: Select a goal for the mentee
+      type: select_multiple
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: true
+    - id: 21
+      name: mentee_progress_check_in_21
+      label: Goal 3
+      hint: Select a goal for the mentee
+      type: select_multiple
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: true
+    - id: 22
+      name: mentee_progress_check_in_22
+      label: Mentee Progress Check In 22
+      hint: Select a goal for the mentee
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Goal 1'', ''value'': ''Goal 1''}'
-      - '{''id'': 2, ''name'': ''Goal 2'', ''value'': ''Goal 2''}'
-      - '{''id'': 3, ''name'': ''Goal 3'', ''value'': ''Goal 3''}'
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: true
+    - id: 23
+      name: mentee_progress_check_in_23
+      label: Mentee Progress Check In 23
+      hint: Select a goal for the mentee
+      type: select_one
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: true
+    - id: 24
+      name: mentee_progress_check_in_24
+      label: Progress Check In 2
+      hint: Progress check in 2
+      type: date
+      options: []
       required: false
     - id: 25
-      name: mentee_progress_check_in_24
-      label: What is the mentee progress
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Goal 1'', ''value'': ''Goal 1''}'
-      - '{''id'': 2, ''name'': ''Goal 2'', ''value'': ''Goal 2''}'
-      - '{''id'': 3, ''name'': ''Goal 3'', ''value'': ''Goal 3''}'
+      name: mentee_progress_check_in_25
+      label: Progress Check In 3
+      hint: Progress check in 3
+      type: date
+      options: []
       required: false

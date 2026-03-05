@@ -1,104 +1,93 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Civic Journalism Participation Survey
     pages:
-      - id: 1
-        name: respondent_role
-        label: Respondent role
-        hint: Journalist citizen student researcher
-        type: select_one
-        options:
-          - Journalist
-          - Citizen
-          - Student
-          - Researcher
-          - Other
-        required: true
-      - id: 2
-        name: publication_affiliation
-        label: Publication affiliation
-        hint: Media outlet or independent
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: areas_of_interest
-        label: Areas of reporting interest
-        hint: Select topics
-        type: select_multiple
-        options:
-          - Local government
-          - Public safety
-          - Education
-          - Environment
-          - Culture
-        required: false
-      - id: 4
-        name: barriers_to_participation
-        label: Barriers to participation in civic journalism
-        hint: Training resources legal concerns safety
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: training_needs
-        label: Training needs
-        hint: Indicate topics for capacity building
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: interest_in_collaboration
-        label: Interest in collaboration with organizations
-        hint: Yes or no
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 7
-        name: preferred_support_types
-        label: Preferred support types
-        hint: Select any that apply
-        type: select_multiple
-        options:
-          - Training
-          - Grants
-          - Legal assistance
-          - Mentorship
-        required: false
-      - id: 8
-        name: feedback_on_resources
-        label: Feedback on available resources
-        hint: Comments on tools and platforms
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: consent_for_follow_up
-        label: Consent for follow up
-        hint: Allow organizers to contact you
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 10
-        name: submission_date
-        label: Submission date
-        hint: Use today date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: respondent_role
+      label: Respondent role
+      hint: Journalist citizen student researcher
+      type: select_one
+      options:
+      - Journalist
+      - Citizen
+      - Student
+      - Researcher
+      - Other
+      required: true
+    - id: 2
+      name: publication_affiliation
+      label: Publication affiliation
+      hint: Media outlet or independent
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: areas_of_interest
+      label: Areas of reporting interest
+      hint: Select topics
+      type: select_multiple
+      options:
+      - Local government
+      - Public safety
+      - Education
+      - Environment
+      - Culture
+      required: false
+    - id: 4
+      name: barriers_to_participation
+      label: Barriers to participation in civic journalism
+      hint: Training resources legal concerns safety
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_needs
+      label: Training needs
+      hint: Indicate topics for capacity building
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interest_in_collaboration
+      label: Interest in collaboration with organizations
+      hint: Yes or no
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: preferred_support_types
+      label: Preferred support types
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - Training
+      - Grants
+      - Legal assistance
+      - Mentorship
+      required: false
+    - id: 8
+      name: feedback_on_resources
+      label: Feedback on available resources
+      hint: Comments on tools and platforms
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_for_follow_up
+      label: Consent for follow up
+      hint: Allow organizers to contact you
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true

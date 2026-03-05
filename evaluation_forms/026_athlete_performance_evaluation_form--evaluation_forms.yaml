@@ -1,244 +1,233 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Athlete Performance Evaluation Form
     pages:
-      - id: 1
-        name: header_details
-        label: -- Evaluation Identification --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: athlete_name
-        label: Athlete Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: athlete_sport
-        label: Primary Sport
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: evaluator_name
-        label: Evaluator Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: evaluation_date
-        label: Evaluation Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: physical_condition_header
-        label: -- Physical Condition Assessment --
-        hint: Scale of 1 to 5 - 1 is Poor, 5 is Exceptional
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: speed_rating
-        label: Speed and Agility
-        hint: null
-        type: select_one
-        options:
-          - 1 - Needs Significant Work
-          - 2 - Developing
-          - 3 - Proficient
-          - 4 - Advanced
-          - 5 - Elite
-        required: true
-      - id: 8
-        name: power_rating
-        label: Power and Strength
-        hint: null
-        type: select_one
-        options:
-          - 1 - Needs Significant Work
-          - 2 - Developing
-          - 3 - Proficient
-          - 4 - Advanced
-          - 5 - Elite
-        required: true
-      - id: 9
-        name: endurance_rating
-        label: Endurance and Stamina
-        hint: null
-        type: select_one
-        options:
-          - 1 - Needs Significant Work
-          - 2 - Developing
-          - 3 - Proficient
-          - 4 - Advanced
-          - 5 - Elite
-        required: true
-      - id: 10
-        name: flexibility_rating
-        label: Flexibility and Range of Motion
-        hint: null
-        type: select_one
-        options:
-          - 1 - Needs Significant Work
-          - 2 - Developing
-          - 3 - Proficient
-          - 4 - Advanced
-          - 5 - Elite
-        required: true
-      - id: 11
-        name: skill_proficiency_header
-        label: -- Skill Proficiency Assessment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: technical_accuracy
-        label: Technical Accuracy of Execution
-        hint: null
-        type: select_one
-        options:
-          - 1 - Inconsistent
-          - 2 - Functional
-          - 3 - Competent
-          - 4 - Precise
-          - 5 - Masterful
-        required: true
-      - id: 13
-        name: tactical_application
-        label: Tactical Application during Competition
-        hint: Game sense and strategy
-        type: select_one
-        options:
-          - 1 - Inconsistent
-          - 2 - Functional
-          - 3 - Competent
-          - 4 - Precise
-          - 5 - Masterful
-        required: true
-      - id: 14
-        name: skill_consistency
-        label: Performance Consistency
-        hint: null
-        type: select_one
-        options:
-          - 1 - Inconsistent
-          - 2 - Functional
-          - 3 - Competent
-          - 4 - Precise
-          - 5 - Masterful
-        required: true
-      - id: 15
-        name: behavioral_header
-        label: -- Behavioral Attributes --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: coachability_rating
-        label: Coachability and Receptiveness to Feedback
-        hint: null
-        type: select_one
-        options:
-          - 1 - Poor
-          - 2 - Fair
-          - 3 - Good
-          - 4 - Very Good
-          - 5 - Excellent
-        required: true
-      - id: 17
-        name: leadership_rating
-        label: Leadership and Positive Influence
-        hint: null
-        type: select_one
-        options:
-          - 1 - Poor
-          - 2 - Fair
-          - 3 - Good
-          - 4 - Very Good
-          - 5 - Excellent
-        required: true
-      - id: 18
-        name: mental_toughness
-        label: Mental Toughness and Resilience
-        hint: null
-        type: select_one
-        options:
-          - 1 - Poor
-          - 2 - Fair
-          - 3 - Good
-          - 4 - Very Good
-          - 5 - Excellent
-        required: true
-      - id: 19
-        name: summary_header
-        label: -- Performance Summary --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 20
-        name: overall_rating
-        label: Overall Performance Rating
-        hint: Scale of 1 to 10
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-          - 6
-          - 7
-          - 8
-          - 9
-          - 10
-        required: true
-      - id: 21
-        name: strengths_text
-        label: Noteworthy Strengths
-        hint: Highlight the athletes best attributes
-        type: text
-        options: []
-        required: true
-      - id: 22
-        name: improvement_areas
-        label: Key Areas for Improvement
-        hint: Specific skills or attributes to focus on
-        type: text
-        options: []
-        required: true
-      - id: 23
-        name: recommended_focus
-        label: Recommended Training Focus for Next Period
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 24
-        name: evaluator_signature
-        label: Evaluator Electronic Signature
-        hint: Type your full name
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: header_details
+      label: -- Evaluation Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_sport
+      label: Primary Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: physical_condition_header
+      label: -- Physical Condition Assessment --
+      hint: Scale of 1 to 5 - 1 is Poor, 5 is Exceptional
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: speed_rating
+      label: Speed and Agility
+      hint: null
+      type: select_one
+      options:
+      - 1 - Needs Significant Work
+      - 2 - Developing
+      - 3 - Proficient
+      - 4 - Advanced
+      - 5 - Elite
+      required: true
+    - id: 8
+      name: power_rating
+      label: Power and Strength
+      hint: null
+      type: select_one
+      options:
+      - 1 - Needs Significant Work
+      - 2 - Developing
+      - 3 - Proficient
+      - 4 - Advanced
+      - 5 - Elite
+      required: true
+    - id: 9
+      name: endurance_rating
+      label: Endurance and Stamina
+      hint: null
+      type: select_one
+      options:
+      - 1 - Needs Significant Work
+      - 2 - Developing
+      - 3 - Proficient
+      - 4 - Advanced
+      - 5 - Elite
+      required: true
+    - id: 10
+      name: flexibility_rating
+      label: Flexibility and Range of Motion
+      hint: null
+      type: select_one
+      options:
+      - 1 - Needs Significant Work
+      - 2 - Developing
+      - 3 - Proficient
+      - 4 - Advanced
+      - 5 - Elite
+      required: true
+    - id: 11
+      name: skill_proficiency_header
+      label: -- Skill Proficiency Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: technical_accuracy
+      label: Technical Accuracy of Execution
+      hint: null
+      type: select_one
+      options:
+      - 1 - Inconsistent
+      - 2 - Functional
+      - 3 - Competent
+      - 4 - Precise
+      - 5 - Masterful
+      required: true
+    - id: 13
+      name: tactical_application
+      label: Tactical Application during Competition
+      hint: Game sense and strategy
+      type: select_one
+      options:
+      - 1 - Inconsistent
+      - 2 - Functional
+      - 3 - Competent
+      - 4 - Precise
+      - 5 - Masterful
+      required: true
+    - id: 14
+      name: skill_consistency
+      label: Performance Consistency
+      hint: null
+      type: select_one
+      options:
+      - 1 - Inconsistent
+      - 2 - Functional
+      - 3 - Competent
+      - 4 - Precise
+      - 5 - Masterful
+      required: true
+    - id: 15
+      name: behavioral_header
+      label: -- Behavioral Attributes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: coachability_rating
+      label: Coachability and Receptiveness to Feedback
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 17
+      name: leadership_rating
+      label: Leadership and Positive Influence
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 18
+      name: mental_toughness
+      label: Mental Toughness and Resilience
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 19
+      name: summary_header
+      label: -- Performance Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: overall_rating
+      label: Overall Performance Rating
+      hint: Scale of 1 to 10
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 21
+      name: strengths_text
+      label: Noteworthy Strengths
+      hint: Highlight the athletes best attributes
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: improvement_areas
+      label: Key Areas for Improvement
+      hint: Specific skills or attributes to focus on
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: recommended_focus
+      label: Recommended Training Focus for Next Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: evaluator_signature
+      label: Evaluator Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true

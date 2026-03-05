@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Apple''}'
-      - '{''label'': ''Berry''}'
-      - '{''label'': ''Citrus''}'
-      - '{''label'': ''Other''}'
+      - Apple
+      - Berry
+      - Citrus
+      - Other
       required: true
     - id: 4
       name: comments
@@ -41,8 +41,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: contact_email

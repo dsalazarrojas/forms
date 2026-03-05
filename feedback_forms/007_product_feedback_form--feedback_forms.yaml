@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Product1''}'
-      - '{''id'': 2, ''label'': ''Product2''}'
-      - '{''id'': 3, ''label'': ''Product3''}'
+      - Product1
+      - Product2
+      - Product3
       required: true
     - id: 3
       name: form_1_page_3
@@ -61,11 +61,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Very Satisfied''}'
-      - '{''id'': 2, ''label'': ''Satisfied''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Dissatisfied''}'
-      - '{''id'': 5, ''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
       required: true
     - id: 9
       name: form_1_page_9
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: form_1_page_11
@@ -89,8 +89,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: form_1_page_12
@@ -98,8 +98,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Do Not Submit''}'
+      - Submit
+      - Do Not Submit
       required: true
     - id: 13
       name: form_1_page_13

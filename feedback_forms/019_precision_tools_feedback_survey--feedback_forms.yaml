@@ -16,17 +16,17 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{1: ''High-temperature oven''}'
-      - '{2: ''Microplate''}'
-      - '{3: ''Sample holder''}'
-      - '{4: ''Pipettes''}'
-      - '{5: ''Pipette tips''}'
-      - '{6: ''Heating block''}'
-      - '{7: ''Cooled surface''}'
-      - '{8: ''Heating elements''}'
-      - '{9: ''Precision balance''}'
-      - '{10: ''Balance scale''}'
-      - '{11: ''Other precision tool''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      - Option 11
       required: true
     - id: 3
       name: tool_used_which
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Yes''}'
-      - '{2: ''No''}'
-      - '{3: ''Not sure''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 4
       name: how_long
@@ -58,11 +58,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{1: ''Very satisfied''}'
-      - '{2: ''Somewhat satisfied''}'
-      - '{3: ''Neutral''}'
-      - '{4: ''Somewhat dissatisfied''}'
-      - '{5: ''Very dissatisfied''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: true
     - id: 7
       name: comments

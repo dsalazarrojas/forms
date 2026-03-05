@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 4
       name: participant_consent_reason
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Contest''}'
-      - '{''label'': ''Campaign''}'
-      - '{''label'': ''Class''}'
-      - '{''label'': ''Community Project''}'
+      - Contest
+      - Campaign
+      - Class
+      - Community Project
       required: false
     - id: 6
       name: participant_intake_form_sub_type
@@ -67,10 +67,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Contest''}'
-      - '{''label'': ''Campaign''}'
-      - '{''label'': ''Class''}'
-      - '{''label'': ''Community Project''}'
+      - Contest
+      - Campaign
+      - Class
+      - Community Project
       required: false
     - id: 9
       name: participant_intake_form_subtypes_other
@@ -99,10 +99,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Video''}'
-      - '{''label'': ''Image''}'
-      - '{''label'': ''Audio''}'
-      - '{''label'': ''File''}'
+      - Video
+      - Image
+      - Audio
+      - File
       required: false
     - id: 13
       name: participant_intake_media

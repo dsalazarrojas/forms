@@ -23,9 +23,9 @@ inputSchema:
       hint: Select your RSVP status
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''attending'', ''label'': ''Attending''}'
-      - '{''id'': 2, ''name'': ''not_attending'', ''label'': ''Not Attending''}'
-      - '{''id'': 3, ''name'': ''declined'', ''label'': ''Declined''}'
+      - Attending
+      - Not Attending
+      - Declined
       required: false
     - id: 4
       name: email
@@ -89,9 +89,9 @@ inputSchema:
       hint: Food options
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''turkey'', ''label'': ''Turkey''}'
-      - '{''id'': 2, ''name'': ''vegan'', ''label'': ''Vegan''}'
-      - '{''id'': 3, ''name'': ''vegetarian'', ''label'': ''Vegetarian''}'
+      - Turkey
+      - Vegan
+      - Vegetarian
       required: false
     - id: 13
       name: food_comment

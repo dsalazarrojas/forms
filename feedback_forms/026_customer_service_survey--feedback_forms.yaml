@@ -4,219 +4,99 @@ inputSchema:
     title: Customer Service Survey
     pages:
     - id: 1
-      name: customer_service_survey_form_1
-      label: Customer Survey
+      name: customer_experience
+      label: What is your experience with our customer service?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: customer_survey_feedback_1
-      label: Feedback
+      name: customer_service_rating
+      label: How would you rate our customer service?
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
+      type: number
+      options: []
       required: true
     - id: 3
-      name: customer_service_survey_date_2
-      label: Date
+      name: customer_service_improvement
+      label: What would you like to see improved in our customer service?
       hint: null
-      type: date
-      options: []
-      required: true
-    - id: 4
-      name: customer_service_survey_time_1
-      label: Time
-      hint: null
-      type: time
+      type: text
       options: []
       required: false
-    - id: 5
-      name: customer_service_survey_note_1
-      label: Note
+    - id: 4
+      name: customer_service_interaction
+      label: Have you had any recent interactions with our customer service team?
       hint: null
-      type: note
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: customer_service_email
+      label: Can you provide your email address for follow-up communication?
+      hint: null
+      type: email
       options: []
       required: false
     - id: 6
-      name: customer_service_survey_email_1
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 7
-      name: customer_service_survey_phone_1
-      label: Phone
+      name: customer_service_phone
+      label: Can you provide your phone number for follow-up communication?
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: customer_service_survey_form_1
-      label: Form
+    - id: 7
+      name: customer_service_wait_time
+      label: Have you ever had to wait a long time to get help from our customer service
+        team?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - option1
-      - option2
-      - option3
+      - 'True'
+      - 'False'
       required: true
-    - id: 9
-      name: customer_service_survey_date_1
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: customer_service_survey_time_1
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: customer_service_survey_note_1
-      label: Note
+    - id: 8
+      name: customer_service_feedback
+      label: Can you describe your recent experience with our customer service team?
       hint: null
       type: note
       options: []
       required: false
-    - id: 12
-      name: customer_service_survey_email_1
-      label: Email
+    - id: 9
+      name: customer_service_follow_up
+      label: Would you like to be contacted for follow-up communication?
       hint: null
-      type: email
-      options: []
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
       required: false
-    - id: 13
-      name: customer_service_survey_phone_1
-      label: Phone
+    - id: 10
+      name: customer_service_satisfaction
+      label: How satisfied are you with our customer service?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Very Dissatisfied
+      required: true
+    - id: 11
+      name: customer_service_suggestion
+      label: Do you have any suggestions for our customer service team?
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
-      name: customer_service_survey_form_1
-      label: Form
+    - id: 12
+      name: customer_service_confirmation
+      label: Is this form complete and accurate?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 15
-      name: customer_service_survey_form_1
-      label: Form
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 16
-      name: customer_service_survey_form_1
-      label: Form
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 17
-      name: customer_service_survey_form_1
-      label: Form
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 18
-      name: customer_service_survey_form_1
-      label: Form
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 19
-      name: customer_service_survey_form_1
-      label: Form
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 20
-      name: customer_service_survey_form_1
-      label: Form
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: customer_service_survey_form_1
-      label: Form
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 22
-      name: customer_service_survey_form_1
-      label: Form
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 23
-      name: customer_service_survey_form_1
-      label: Form
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 24
-      name: customer_service_survey_form_1
-      label: Form
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 25
-      name: customer_service_survey_form_1
-      label: Form
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
+      - 'True'
+      - 'False'
       required: false

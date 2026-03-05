@@ -9,52 +9,50 @@ inputSchema:
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
       name: recruiting_dials
       label: Recruiting Dials
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
       name: persons_interviewed
       label: Persons Interviewed
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
       name: total_recruits
       label: Total Recruits
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 5
       name: week
       label: Week
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 6
       name: notes
       label: Notes
       hint: null
       type: note
       options: []
-      required: false
+      required: true
     - id: 7
       name: assigned_to
       label: Assigned To
       hint: null
       type: select_multiple
       options:
-      - Assigned to
-      - Jimmy
-      - John
-      - Jane
+      - Option A
+      - Option B
       required: true
     - id: 8
       name: email
@@ -71,138 +69,73 @@ inputSchema:
       options: []
       required: true
     - id: 10
-      name: assigned_to
-      label: Assigned To
+      name: assigned_to_2
+      label: Assigned To 2
       hint: null
       type: select_multiple
       options:
-      - Assigned to
-      - Jimmy
-      - John
-      - Jane
+      - Option A
+      - Option B
       required: true
     - id: 11
-      name: email
-      label: Email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
       required: true
     - id: 12
-      name: phone
-      label: Phone
+      name: phone_2
+      label: Phone 2
       hint: null
       type: text
       options: []
       required: true
     - id: 13
-      name: assigned_to
-      label: Assigned To
+      name: notes_2
+      label: Additional Notes
       hint: null
-      type: select_multiple
-      options:
-      - Assigned to
-      - Jimmy
-      - John
-      - Jane
-      required: true
-    - id: 14
-      name: email
-      label: Email
-      hint: null
-      type: email
+      type: note
       options: []
+      required: false
+    - id: 14
+      name: week_2
+      label: Last Week
+      hint: null
+      type: select_one
+      options:
+      - This Week
+      - Last Week
+      - Previous Week
       required: true
     - id: 15
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: assigned_to
-      label: Assigned To
+      name: assigned_to_3
+      label: Team Leader
       hint: null
       type: select_multiple
       options:
-      - Assigned to
-      - Jimmy
-      - John
-      - Jane
+      - Team A
+      - Team B
+      - Team C
       required: true
-    - id: 17
-      name: email
-      label: Email
+    - id: 16
+      name: email_3
+      label: Email 3
       hint: null
       type: email
+      options: []
+      required: true
+    - id: 17
+      name: phone_3
+      label: Phone Number
+      hint: null
+      type: text
       options: []
       required: true
     - id: 18
-      name: phone
-      label: Phone
+      name: notes_3
+      label: Special Instructions
       hint: null
-      type: text
+      type: note
       options: []
-      required: true
-    - id: 19
-      name: assigned_to
-      label: Assigned To
-      hint: null
-      type: select_multiple
-      options:
-      - Assigned to
-      - Jimmy
-      - John
-      - Jane
-      required: true
-    - id: 20
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 21
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: assigned_to
-      label: Assigned To
-      hint: null
-      type: select_multiple
-      options:
-      - Assigned to
-      - Jimmy
-      - John
-      - Jane
-      required: true
-    - id: 23
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 24
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: assigned_to
-      label: Assigned To
-      hint: null
-      type: select_multiple
-      options:
-      - Assigned to
-      - Jimmy
-      - John
-      - Jane
-      required: true
+      required: false

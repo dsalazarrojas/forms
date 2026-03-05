@@ -219,7 +219,7 @@ inputSchema:
       hint: Does tool need replacing
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, scheduled
       - Yes, urgent
       - Under review
@@ -237,8 +237,8 @@ inputSchema:
       hint: Is tool FOD controlled
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 31
       name: missing_tools

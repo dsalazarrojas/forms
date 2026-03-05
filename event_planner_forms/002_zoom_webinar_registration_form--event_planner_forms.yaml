@@ -166,7 +166,7 @@ inputSchema:
       required: false
     - id: 14
       name: timezone
-      label: time zone
+      label: Timezone
       hint: null
       type: select_one
       options:
@@ -176,42 +176,32 @@ inputSchema:
       - Eastern Time
       required: true
     - id: 15
-      name: timezone_offset
-      label: time zone offset
+      name: timezone_offset_2
+      label: Timezone Offset 2
       hint: null
       type: number
       options: []
       required: false
     - id: 16
-      name: timezone
-      label: time zone
+      name: timezone_2
+      label: Timezone 2
       hint: null
       type: select_one
       options:
-      - '0'
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      - '6'
-      - '7'
-      - '8'
-      - '9'
-      - '10'
-      - '11'
-      - '12'
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 17
       name: timezone_offset_label
-      label: time zone offset
+      label: Timezone Offset Label
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: start_time
-      label: start time
+      name: start_time_2
+      label: Start Time 2
       hint: null
       type: select_one
       options:
@@ -241,8 +231,8 @@ inputSchema:
       - 07:00
       required: true
     - id: 19
-      name: end_time
-      label: end time
+      name: end_time_2
+      label: End Time 2
       hint: null
       type: select_one
       options:

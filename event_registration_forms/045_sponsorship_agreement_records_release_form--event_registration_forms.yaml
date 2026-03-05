@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Active'', ''value'': ''active''}'
-      - '{''id'': 2, ''text'': ''Inactive'', ''value'': ''inactive''}'
-      - '{''id'': 3, ''text'': ''Expired'', ''value'': ''expired''}'
+      - active
+      - inactive
+      - expired
       required: false
     - id: 12
       name: agreement_signed
@@ -89,6 +89,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True, ''value'': True}'
-      - '{''id'': 2, ''text'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

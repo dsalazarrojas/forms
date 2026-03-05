@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Employed''}'
-      - '{''label'': ''Employed part-time''}'
-      - '{''label'': ''Self Employed''}'
-      - '{''label'': ''Retired''}'
+      - Employed
+      - Employed part-time
+      - Self Employed
+      - Retired
       required: false
     - id: 7
       name: household_income
@@ -55,11 +55,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Less than 20,000''}'
-      - '{''label'': ''20,000 to 40,000''}'
-      - '{''label'': ''40,000 to 60,000''}'
-      - '{''label'': ''60,000 to 80,000''}'
-      - '{''label'': ''80,000 or more''}'
+      - Less than 20,000
+      - 20,000 to 40,000
+      - 40,000 to 60,000
+      - 60,000 to 80,000
+      - 80,000 or more
       required: false
     - id: 8
       name: age
@@ -81,10 +81,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High school diploma''}'
-      - '{''label'': ''Some college''}'
-      - '{''label'': "Bachelor''s degree"}'
-      - '{''label'': ''Advanced degree''}'
+      - High school diploma
+      - Some college
+      - Bachelor's degree
+      - Advanced degree
       required: false
     - id: 11
       name: language_spoken
@@ -92,11 +92,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''Spanish''}'
-      - '{''label'': ''French''}'
-      - '{''label'': ''Chinese''}'
-      - '{''label'': ''Other''}'
+      - English
+      - Spanish
+      - French
+      - Chinese
+      - Other
       required: false
     - id: 12
       name: race_ethnicity
@@ -104,11 +104,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Caucasian''}'
-      - '{''label'': ''African American''}'
-      - '{''label'': ''Asian''}'
-      - '{''label'': ''Latin American''}'
-      - '{''label'': ''Other''}'
+      - Caucasian
+      - African American
+      - Asian
+      - Latin American
+      - Other
       required: false
     - id: 13
       name: gender
@@ -116,8 +116,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Female''}'
+      - Male
+      - Female
       required: false
     - id: 14
       name: years_of_experience
@@ -139,10 +139,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Single''}'
-      - '{''label'': ''Married''}'
-      - '{''label'': ''Divorced''}'
-      - '{''label'': ''Widowed''}'
+      - Single
+      - Married
+      - Divorced
+      - Widowed
       required: false
     - id: 17
       name: education_level_2
@@ -150,10 +150,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Less than 12th grade''}'
-      - '{''label'': ''12th grade''}'
-      - '{''label'': "Bachelor''s degree"}'
-      - '{''label'': ''Advanced degree''}'
+      - Less than 12th grade
+      - 12th grade
+      - Bachelor's degree
+      - Advanced degree
       required: false
     - id: 18
       name: years_of_service_2
@@ -182,10 +182,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High school diploma''}'
-      - '{''label'': ''Some college''}'
-      - '{''label'': "Bachelor''s degree"}'
-      - '{''label'': ''Advanced degree''}'
+      - High school diploma
+      - Some college
+      - Bachelor's degree
+      - Advanced degree
       required: false
     - id: 22
       name: years_of_service_5
@@ -214,8 +214,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High school diploma''}'
-      - '{''label'': ''Some college''}'
-      - '{''label'': "Bachelor''s degree"}'
-      - '{''label'': ''Advanced degree''}'
+      - High school diploma
+      - Some college
+      - Bachelor's degree
+      - Advanced degree
       required: false

@@ -1,205 +1,194 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Best Practices In Manufacturing Feedback Form
     pages:
-      - id: 1
-        name: operational_context_header
-        label: -- Operational Context --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: facility_plant_name
-        label: Facility or Plant Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: production_line_dept
-        label: Production Line or Department
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: respondent_role_selection
-        label: Role of Respondent
-        hint: Select the one that best describes your position
-        type: select_one
-        options:
-          - Line Operator
-          - Shift Supervisor
-          - Process Engineer
-          - Quality Control Specialist
-          - Maintenance Technician
-          - Plant Management
-          - Other
-        required: true
-      - id: 5
-        name: best_practices_header
-        label: -- Manufacturing Best Practices Evaluation --
-        hint: Rate from 1 (Needs Improvement) to 5 (Outstanding)
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: five_s_quality_rating
-        label: 5S Implementation Quality
-        hint: Sort, Set in Order, Shine, Standardize, Sustain
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 7
-        name: lean_adoption_rating
-        label: Lean Manufacturing Adoption
-        hint: Effectiveness of waste reduction strategies
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 8
-        name: safety_adherence_rating
-        label: Safety Protocols Adherence
-        hint: Consistent following of safety rules
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 9
-        name: quality_control_accuracy
-        label: Quality Control Accuracy and Rigor
-        hint: Reliability of defect detection
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 10
-        name: maintenance_schedule_rating
-        label: Equipment Maintenance Effectiveness
-        hint: Prevention of breakdowns
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 11
-        name: efficiency_waste_header
-        label: -- Efficiency and Waste --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: waste_identification_desc
-        label: Where do you see the most waste in current processes
-        hint: Identify bottlenecks or unnecessary steps
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: overall_efficiency_rating
-        label: Overall Operational Efficiency Rating
-        hint: null
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 14
-        name: downtime_reduction_suggestions
-        label: Suggestions for Reducing Downtime
-        hint: Practical ideas for keeping lines running
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: innovation_improvement_header
-        label: -- Innovation and Continuous Improvement --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: successful_practice_example
-        label: Describe a Best Practice implemented recently that worked well
-        hint: Shared success story
-        type: text
-        options: []
-        required: true
-      - id: 17
-        name: quality_improvement_recommendation
-        label: One change recommended to improve product quality
-        hint: What single action would make the biggest difference
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: tool_technology_request
-        label: Any tool or technology that would improve your work
-        hint: Specific requests for software or hardware
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: feedback_conclusion_header
-        label: -- Conclusion --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 20
-        name: overall_workflow_satisfaction
-        label: Overall satisfaction with current workflows
-        hint: null
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 21
-        name: feedback_date_input
-        label: Date of Feedback Submission
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: operational_context_header
+      label: -- Operational Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_plant_name
+      label: Facility or Plant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: production_line_dept
+      label: Production Line or Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_role_selection
+      label: Role of Respondent
+      hint: Select the one that best describes your position
+      type: select_one
+      options:
+      - Line Operator
+      - Shift Supervisor
+      - Process Engineer
+      - Quality Control Specialist
+      - Maintenance Technician
+      - Plant Management
+      - Other
+      required: true
+    - id: 5
+      name: best_practices_header
+      label: -- Manufacturing Best Practices Evaluation --
+      hint: Rate from 1 (Needs Improvement) to 5 (Outstanding)
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: five_s_quality_rating
+      label: 5S Implementation Quality
+      hint: Sort, Set in Order, Shine, Standardize, Sustain
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 7
+      name: lean_adoption_rating
+      label: Lean Manufacturing Adoption
+      hint: Effectiveness of waste reduction strategies
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 8
+      name: safety_adherence_rating
+      label: Safety Protocols Adherence
+      hint: Consistent following of safety rules
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 9
+      name: quality_control_accuracy
+      label: Quality Control Accuracy and Rigor
+      hint: Reliability of defect detection
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 10
+      name: maintenance_schedule_rating
+      label: Equipment Maintenance Effectiveness
+      hint: Prevention of breakdowns
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 11
+      name: efficiency_waste_header
+      label: -- Efficiency and Waste --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: waste_identification_desc
+      label: Where do you see the most waste in current processes
+      hint: Identify bottlenecks or unnecessary steps
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: overall_efficiency_rating
+      label: Overall Operational Efficiency Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 14
+      name: downtime_reduction_suggestions
+      label: Suggestions for Reducing Downtime
+      hint: Practical ideas for keeping lines running
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: innovation_improvement_header
+      label: -- Innovation and Continuous Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: successful_practice_example
+      label: Describe a Best Practice implemented recently that worked well
+      hint: Shared success story
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: quality_improvement_recommendation
+      label: One change recommended to improve product quality
+      hint: What single action would make the biggest difference
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: tool_technology_request
+      label: Any tool or technology that would improve your work
+      hint: Specific requests for software or hardware
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: feedback_conclusion_header
+      label: -- Conclusion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: overall_workflow_satisfaction
+      label: Overall satisfaction with current workflows
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 21
+      name: feedback_date_input
+      label: Date of Feedback Submission
+      hint: null
+      type: date
+      options: []
+      required: true

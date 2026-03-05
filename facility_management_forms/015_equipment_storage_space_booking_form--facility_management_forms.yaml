@@ -12,67 +12,66 @@ inputSchema:
       required: false
     - id: 2
       name: contact_person
-      label: contact_person
+      label: Contact Person
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: facility_contact_person
-      label: facility_contact_person
+      label: Facility Contact Person
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: facility_name
-      label: facility_name
+      label: Facility Name
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: facility_location
-      label: facility_location
+      label: Facility Location
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: equipment_type
-      label: equipment_type
+      label: Equipment Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Equipment
+      - Supplies
+      - Tools
       required: false
     - id: 7
       name: storage_unit_size
-      label: storage_unit_size
+      label: Storage Unit Size
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 8
       name: booking_start_date
-      label: booking_start_date
+      label: Booking Start Date
       hint: null
       type: date
       options: []
       required: false
     - id: 9
       name: booking_end_date
-      label: booking_end_date
+      label: Booking End Date
       hint: null
       type: date
       options: []
       required: false
     - id: 10
       name: booking_status
-      label: booking_status
+      label: Booking Status
       hint: null
       type: select_one
       options:
@@ -80,119 +79,39 @@ inputSchema:
       - Inactive
       required: false
     - id: 11
-      name: remarks
-      label: remarks
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: facility_booking_id
-      label: facility_booking_id
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 13
-      name: storage_unit_capacity
-      label: storage_unit_capacity
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: equipment_id
-      label: equipment_id
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: storage_unit_id
-      label: storage_unit_id
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: booking_start_time
-      label: booking_start_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: booking_end_time
-      label: booking_end_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: remarks_2
-      label: remarks
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: submit
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
       name: facility_booking_status
-      label: facility_booking_status
+      label: Facility Booking Status
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
       required: false
-    - id: 21
-      name: booking_start_date_1
-      label: booking_start_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: booking_end_date_1
-      label: booking_end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: remarks_1
-      label: remarks
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: facility_booking_id_1
-      label: facility_booking_id
+    - id: 12
+      name: facility_booking_id
+      label: Facility Booking ID
       hint: null
       type: number
       options: []
       required: false
-    - id: 25
-      name: storage_unit_capacity_1
-      label: storage_unit_capacity
+    - id: 13
+      name: storage_unit_capacity
+      label: Storage Unit Capacity
       hint: null
       type: number
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
       options: []
       required: false

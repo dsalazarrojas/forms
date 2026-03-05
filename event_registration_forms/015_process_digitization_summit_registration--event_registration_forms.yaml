@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Attendee''}'
-      - '{''label'': ''Presenter''}'
-      - '{''label'': ''Sponsor''}'
+      - Attendee
+      - Presenter
+      - Sponsor
       required: false
     - id: 3
       name: accessibility_needs
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Wheelchair''}'
-      - '{''label'': ''Service Dog''}'
-      - '{''label'': ''No Accessibility Needs''}'
+      - Wheelchair
+      - Service Dog
+      - No Accessibility Needs
       required: false
     - id: 4
       name: email
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Track A''}'
-      - '{''label'': ''Track B''}'
-      - '{''label'': ''Track C''}'
+      - Track A
+      - Track B
+      - Track C
       required: false
     - id: 11
       name: session_time
@@ -109,8 +109,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Onsite''}'
-      - '{''label'': ''Online''}'
+      - Onsite
+      - Online
       required: false
     - id: 15
       name: attendance_status
@@ -118,10 +118,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Confirmed''}'
-      - '{''label'': ''Confirmed - Online''}'
-      - '{''label'': ''No Show''}'
-      - '{''label'': ''Cancelled''}'
+      - Confirmed
+      - Confirmed - Online
+      - No Show
+      - Cancelled
       required: false
     - id: 16
       name: attendance_type
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Attendee''}'
-      - '{''label'': ''Presenter''}'
-      - '{''label'': ''Sponsor''}'
+      - Attendee
+      - Presenter
+      - Sponsor
       required: false
     - id: 17
       name: comments
@@ -195,9 +195,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''New Attendee''}'
-      - '{''label'': ''Returning Attendee''}'
-      - '{''label'': ''Speaker''}'
+      - New Attendee
+      - Returning Attendee
+      - Speaker
       required: false
     - id: 26
       name: session

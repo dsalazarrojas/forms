@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Team A''}'
-      - '{''id'': 2, ''label'': ''Team B''}'
-      - '{''id'': 3, ''label'': ''Team C''}'
+      - Team A
+      - Team B
+      - Team C
       required: false
     - id: 3
       name: question_1
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Clear and respectful''}'
-      - '{''id'': 2, ''label'': ''Confusing and unclear''}'
-      - '{''id'': 3, ''label'': ''Unnecessary gossiping''}'
+      - Clear and respectful
+      - Confusing and unclear
+      - Unnecessary gossiping
       required: false
     - id: 4
       name: question_2
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Meetings are very effective''}'
-      - '{''id'': 2, ''label'': ''Meetings are somewhat effective''}'
-      - '{''id'': 3, ''label'': ''Meetings are not effective''}'
+      - Meetings are very effective
+      - Meetings are somewhat effective
+      - Meetings are not effective
       required: false
     - id: 5
       name: question_3
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Yes, very respectful''}'
-      - '{''id'': 2, ''label'': ''Somewhat respectful''}'
-      - '{''id'': 3, ''label'': ''Not very respectful''}'
+      - Yes, very respectful
+      - Somewhat respectful
+      - Not very respectful
       required: false
     - id: 6
       name: question_4
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Yes, open to change and improvement''}'
-      - '{''id'': 2, ''label'': ''Somewhat open to change and improvement''}'
-      - '{''id'': 3, ''label'': ''Not open to change and improvement''}'
+      - Yes, open to change and improvement
+      - Somewhat open to change and improvement
+      - Not open to change and improvement
       required: false
     - id: 7
       name: question_5
@@ -66,8 +66,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Yes, collaboratively''}'
-      - '{''id'': 2, ''label'': ''Not collaboratively''}'
+      - Yes, collaboratively
+      - Not collaboratively
       required: false
     - id: 8
       name: question_6
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: question_7
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very satisfied''}'
-      - '{''id'': 2, ''label'': ''Somewhat satisfied''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
       required: false
     - id: 10
       name: question_8
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very satisfied''}'
-      - '{''id'': 2, ''label'': ''Somewhat satisfied''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
       required: false
     - id: 11
       name: suggestion
@@ -204,7 +204,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''By''}'
-      - '{''id'': 2, ''label'': ''By''}'
-      - '{''id'': 3, ''label'': ''By''}'
+      - By
+      - Other
       required: false

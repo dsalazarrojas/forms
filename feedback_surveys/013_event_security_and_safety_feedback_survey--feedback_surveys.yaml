@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''conference''}'
-      - '{''value'': 2, ''label'': ''workshop''}'
-      - '{''value'': 3, ''label'': ''seminar''}'
+      - conference
+      - workshop
+      - seminar
       required: false
     - id: 3
       name: security_measures
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''cameras''}'
-      - '{''value'': 2, ''label'': ''security personnel''}'
-      - '{''value'': 3, ''label'': ''barriers''}'
+      - cameras
+      - security personnel
+      - barriers
       required: false
     - id: 4
       name: safety_measures
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''first aid kits''}'
-      - '{''value'': 2, ''label'': ''emergency exits''}'
-      - '{''value'': 3, ''label'': ''emergency contact information''}'
+      - first aid kits
+      - emergency exits
+      - emergency contact information
       required: false
     - id: 5
       name: event_security_rating

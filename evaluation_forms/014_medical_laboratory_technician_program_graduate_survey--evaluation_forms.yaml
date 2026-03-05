@@ -4,195 +4,91 @@ inputSchema:
     title: Medical Laboratory Technician Program Graduate Survey
     pages:
     - id: 1
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: note
+      name: overall_experience
+      label: What was your overall experience in the program?
+      hint: Please provide your honest feedback on the program's quality and relevance
+        to your career goals.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: evaluation_time
-      label: evaluation_time
-      hint: null
-      type: time
+      name: program_quality
+      label: How satisfied are you with the program's quality?
+      hint: Please rate the program's quality on a scale of 1-5.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: evaluation_time
-      label: evaluation_time
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 4
-      name: evaluation_time
-      label: evaluation_time
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 5
-      name: evaluation_time
-      label: evaluation_time
-      hint: null
+      name: favorite_courses
+      label: What were your favorite courses or activities in the program?
+      hint: Please list the courses or activities you enjoyed the most.
       type: text
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: challenging_courses
+      label: What were your least favorite courses or activities in the program?
+      hint: Please list the courses or activities you found most challenging.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: curriculum_rating
+      label: How would you rate the program's curriculum?
+      hint: Please rate the program's curriculum on a scale of 1-5.
+      type: number
+      options: []
+      required: true
     - id: 6
-      name: evaluation_time
-      label: evaluation_time
-      hint: null
-      type: number
+      name: suggestions
+      label: What suggestions do you have for improving the program?
+      hint: Please provide any suggestions or comments for program improvement.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: evaluation_time
-      label: evaluation_time
-      hint: null
-      type: number
+      name: career_preparedness
+      label: How did the program prepare you for your career as a medical laboratory
+        technician?
+      hint: Please provide an honest assessment of the program's effectiveness in
+        preparing you for your career.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: program_survey
-      label: program_survey
-      hint: null
+      name: demographic_info
+      label: Please provide your demographic information (e.g., age, gender, location)
+      hint: This information will help us better understand the diversity of our graduate
+        population.
       type: note
       options: []
-      required: false
+      required: true
     - id: 9
-      name: program_survey
-      label: program_survey
-      hint: null
+      name: career_goals
+      label: What are your current career goals as a medical laboratory technician?
+      hint: Please describe your short-term and long-term career goals.
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
+      name: resources_support
+      label: What resources or services did the program provide that were helpful?
+      hint: Please list any resources or services that were particularly helpful or
+        valuable.
+      type: text
+      options: []
+      required: true
     - id: 11
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
+      name: favorite_activities
+      label: What were your favorite activities or projects in the program?
+      hint: Please describe the activities or projects that you enjoyed the most.
+      type: text
+      options: []
       required: false
     - id: 12
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 21
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 22
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: program_survey
-      label: program_survey
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: program_survey
-      label: program_survey
-      hint: null
+      name: additional_comments
+      label: Any additional comments or suggestions?
+      hint: Please provide any further comments or suggestions for program improvement.
       type: text
       options: []
       required: false

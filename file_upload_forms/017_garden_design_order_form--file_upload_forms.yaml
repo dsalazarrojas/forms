@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Package 1''}'
-      - '{''text'': ''Package 2''}'
-      - '{''text'': ''Package 3''}'
+      - Package 1
+      - Package 2
+      - Package 3
       required: false
     - id: 10
       name: total_price
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Cash''}'
-      - '{''text'': ''Credit Card''}'
-      - '{''text'': ''Bank Transfer''}'
+      - Cash
+      - Credit Card
+      - Bank Transfer
       required: false
     - id: 16
       name: payment_status
@@ -122,8 +122,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Unpaid''}'
-      - '{''text'': ''Paid''}'
+      - Unpaid
+      - Paid
       required: false
     - id: 17
       name: payment_amount

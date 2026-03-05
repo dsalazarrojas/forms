@@ -1,106 +1,95 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Compassion Feedback Form
     pages:
-      - id: 1
-        name: compassion_event_header
-        label: -- Sharing a Compassionate Moment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: compassionate_giver
-        label: Who performed the act of compassion?
-        hint: Enter the name of the person or group
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: compassionate_recipient
-        label: Who received the act of compassion?
-        hint: e.g., Myself, a colleague, a community member
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: event_date
-        label: Approximately when did this occur?
-        hint: Date of the event
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: event_location
-        label: Where did this take place?
-        hint: e.g., Office, Hospital, School, Community Center
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: act_description
-        label: Describe the act of compassion
-        hint: Provide a brief story of what happened
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: impact_rating
-        label: What was the impact of this act on you or the community?
-        hint: Choose the most relevant description
-        type: select_one
-        options:
-          - Extremely Positive / Life-changing
-          - Highly Encouraging
-          - Noticeably Helpful
-          - Slightly Positive
-          - Not Observed
-        required: true
-      - id: 8
-        name: compassion_frequency
-        label: How often do you observe acts like this in our environment?
-        hint: Frequency of compassionate behavior
-        type: select_one
-        options:
-          - Daily
-          - Weekly
-          - Monthly
-          - Rarely
-          - Never
-        required: true
-      - id: 9
-        name: fostering_kindness_suggestions
-        label: Suggestions for fostering a kinder culture
-        hint: How can we encourage more behavior like this?
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: submitter_name
-        label: Your Name (Optional)
-        hint: You may remain anonymous
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: consent_to_share
-        label: Do we have permission to share this story publicly or internally?
-        hint: Helps us inspire others
-        type: select_one
-        options:
-          - Yes, with my name
-          - Yes, anonymously
-          - No
-        required: true
+    - id: 1
+      name: compassion_event_header
+      label: -- Sharing a Compassionate Moment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: compassionate_giver
+      label: Who performed the act of compassion?
+      hint: Enter the name of the person or group
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: compassionate_recipient
+      label: Who received the act of compassion?
+      hint: e.g., Myself, a colleague, a community member
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Approximately when did this occur?
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_location
+      label: Where did this take place?
+      hint: e.g., Office, Hospital, School, Community Center
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: act_description
+      label: Describe the act of compassion
+      hint: Provide a brief story of what happened
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: impact_rating
+      label: What was the impact of this act on you or the community?
+      hint: Choose the most relevant description
+      type: select_one
+      options:
+      - Extremely Positive / Life-changing
+      - Highly Encouraging
+      - Noticeably Helpful
+      - Slightly Positive
+      - Not Observed
+      required: true
+    - id: 8
+      name: compassion_frequency
+      label: How often do you observe acts like this in our environment?
+      hint: Frequency of compassionate behavior
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: fostering_kindness_suggestions
+      label: Suggestions for fostering a kinder culture
+      hint: How can we encourage more behavior like this?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_name
+      label: Your Name (Optional)
+      hint: You may remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_to_share
+      label: Do we have permission to share this story publicly or internally?
+      hint: Helps us inspire others
+      type: select_one
+      options:
+      - Yes, with my name
+      - Yes, anonymously
+      - 'False'
+      required: true

@@ -5,122 +5,108 @@ inputSchema:
     pages:
     - id: 1
       name: educator_roles
-      label: Educator Roles
+      label: What roles do educators play in the assessment process?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Lead Educator
+      - Assistant Educator
+      - Guest Educator
+      - Lead Assistant Educator
       required: false
     - id: 2
       name: experience
-      label: Experience
+      label: How would you describe your experience with the current assessment design?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
+      name: ratings
+      label: What would you rate the overall quality of the assessment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
       name: strategies
-      label: Strategies
+      label: What strategies do you use when designing assessments?
       hint: null
       type: text
       options: []
       required: false
-    - id: 4
-      name: ratings
-      label: Ratings
-      hint: null
-      type: number
-      options: []
-      required: false
     - id: 5
-      name: ratings_2
-      label: Ratings
+      name: feedback
+      label: What is your feedback on the assessment feedback mechanism?
       hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
+      type: text
+      options: []
       required: false
     - id: 6
-      name: feedback
-      label: Feedback
+      name: frequency
+      label: How often do you use assessments to inform your work?
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
       required: false
     - id: 7
-      name: feedback_2
-      label: Feedback
+      name: diverse_perspectives
+      label: How would you rate the assessment's ability to capture diverse perspectives?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Very effective
+      - Somewhat effective
+      - Not effective at all
       required: false
     - id: 8
-      name: ratings_3
-      label: Ratings
+      name: received_feedback
+      label: Have you ever received feedback on your own assessments?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: ratings_4
-      label: Ratings
+      name: received_feedback_frequency
+      label: How often do you receive feedback on your assessments?
       hint: null
       type: select_one
       options:
-      - Good
-      - Fair
+      - Frequently
+      - Occasionally
+      - Rarely
       required: false
     - id: 10
-      name: ratings_5
-      label: Ratings
+      name: inclusivity_rating
+      label: What rating would you give to the assessment's ability to accommodate
+        different needs?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
+      - Excellent
       - Good
       - Fair
+      - Poor
       required: false
     - id: 11
-      name: experience_2
-      label: Experience
+      name: inclusivity_effectiveness
+      label: How would you rate the assessment's effectiveness in promoting inclusivity?
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Very effective
+      - Somewhat effective
+      - Not effective at all
       required: false
     - id: 12
-      name: experience_2_2
-      label: Experience
+      name: inclusive_strategies
+      label: What strategies do you employ when designing assessments to be more inclusive?
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
-    - id: 13
-      name: experience_2_3
-      label: Experience
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: ratings_6
-      label: Ratings
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 15
-      name: experience_3
-      label: Experience
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

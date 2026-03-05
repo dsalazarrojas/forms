@@ -1,284 +1,273 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Community Sharing Fridge Feedback
     pages:
-      - id: 1
-        name: respondent_info
-        label: Respondent Information
-        hint: Your details
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: first_name
-        label: First Name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: last_name
-        label: Last Name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: email
-        label: Email Address
-        hint: For follow-up
-        type: email
-        options: []
-        required: false
-      - id: 5
-        name: zip_code
-        label: ZIP Code
-        hint: Where you live
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: usage_type
-        label: How Do You Use the Fridge
-        hint: null
-        type: select_one
-        options:
-        - I Take Food
-        - I Donate Food
-        - I Both Take and Donate
-        - I Help Maintain It
-        - I Am Considering Using It
-        required: true
-      - id: 7
-        name: fridge_location
-        label: Which Fridge Location Do You Use
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: frequency
-        label: How Often Do You Use the Fridge
-        hint: null
-        type: select_one
-        options:
-        - Daily
-        - Several Times a Week
-        - Once a Week
-        - Few Times a Month
-        - Once a Month
-        - Rarely
-        required: true
-      - id: 9
-        name: satisfaction_ratings
-        label: Satisfaction Ratings
-        hint: Rate your experience
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: overall_satisfaction
-        label: Overall Satisfaction
-        hint: null
-        type: select_one
-        options:
-        - Very Satisfied
-        - Satisfied
-        - Neutral
-        - Dissatisfied
-        - Very Dissatisfied
-        required: true
-      - id: 11
-        name: food_quality
-        label: Quality of Food Available
-        hint: null
-        type: select_one
-        options:
-        - Excellent
-        - Very Good
-        - Good
-        - Fair
-        - Poor
-        required: true
-      - id: 12
-        name: food_variety
-        label: Variety of Food Available
-        hint: null
-        type: select_one
-        options:
-        - Excellent
-        - Very Good
-        - Good
-        - Fair
-        - Poor
-        required: true
-      - id: 13
-        name: cleanliness
-        label: Cleanliness of Fridge Area
-        hint: null
-        type: select_one
-        options:
-        - Excellent
-        - Very Good
-        - Good
-        - Fair
-        - Poor
-        required: true
-      - id: 14
-        name: accessibility
-        label: Accessibility of Location
-        hint: null
-        type: select_one
-        options:
-        - Excellent
-        - Very Good
-        - Good
-        - Fair
-        - Poor
-        required: true
-      - id: 15
-        name: availability
-        label: Food Availability When You Visit
-        hint: null
-        type: select_one
-        options:
-        - Always Available
-        - Usually Available
-        - Sometimes Available
-        - Rarely Available
-        - Never Available
-        required: true
-      - id: 16
-        name: safety
-        label: Do You Feel Safe Using the Fridge
-        hint: null
-        type: select_one
-        options:
-        - Very Safe
-        - Safe
-        - Neutral
-        - Unsafe
-        - Very Unsafe
-        required: true
-      - id: 17
-        name: impact
-        label: How Has the Fridge Impacted You
-        hint: Select all that apply
-        type: select_multiple
-        options:
-        - Reduced Food Costs
-        - Improved Nutrition
-        - Reduced Food Waste
-        - Connected to Community
-        - Less Stress
-        - No Significant Impact
-        - Other
-        required: true
-      - id: 18
-        name: issues
-        label: Have You Experienced Any Issues
-        hint: Select all that apply
-        type: select_multiple
-        options:
-        - Empty Fridge
-        - Spoiled Food
-        - Dirty Conditions
-        - Safety Concerns
-        - Inconvenient Hours
-        - Location Issues
-        - No Issues
-        - Other
-        required: true
-      - id: 19
-        name: issues_description
-        label: Describe the Issues
-        hint: If applicable
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: improvements
-        label: What Improvements Would You Suggest
-        hint: Your ideas
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: volunteer_interest
-        label: Would You Like to Volunteer
-        hint: Help maintain the fridge
-        type: select_one
-        options:
-        - Yes
-        - No
-        - Maybe
-        required: false
-      - id: 22
-        name: volunteer_tasks
-        label: What Tasks Would You Help With
-        hint: Select all that apply
-        type: select_multiple
-        options:
-        - Cleaning
-        - Restocking
-        - Food Pickup
-        - Maintenance
-        - Outreach
-        - Fundraising
-        - Other
-        required: false
-      - id: 23
-        name: donation_interest
-        label: Would You Like to Donate
-        hint: Support the fridge
-        type: select_one
-        options:
-        - Yes - Food
-        - Yes - Money
-        - Yes - Both
-        - No
-        required: false
-      - id: 24
-        name: communication
-        label: How Do You Prefer Updates
-        hint: null
-        type: select_one
-        options:
-        - Email
-        - Social Media
-        - Text Messages
-        - Flyers
-        - Website
-        - No Updates Needed
-        required: false
-      - id: 25
-        name: recommend
-        label: Would You Recommend the Fridge to Others
-        hint: null
-        type: select_one
-        options:
-        - Definitely Yes
-        - Probably Yes
-        - Maybe
-        - Probably No
-        - Definitely No
-        required: true
-      - id: 26
-        name: additional_comments
-        label: Additional Comments
-        hint: Share your thoughts
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: respondent_info
+      label: Respondent Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For follow-up
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: zip_code
+      label: ZIP Code
+      hint: Where you live
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: usage_type
+      label: How Do You Use the Fridge
+      hint: null
+      type: select_one
+      options:
+      - I Take Food
+      - I Donate Food
+      - I Both Take and Donate
+      - I Help Maintain It
+      - I Am Considering Using It
+      required: true
+    - id: 7
+      name: fridge_location
+      label: Which Fridge Location Do You Use
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: frequency
+      label: How Often Do You Use the Fridge
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several Times a Week
+      - Once a Week
+      - Few Times a Month
+      - Once a Month
+      - Rarely
+      required: true
+    - id: 9
+      name: satisfaction_ratings
+      label: Satisfaction Ratings
+      hint: Rate your experience
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 11
+      name: food_quality
+      label: Quality of Food Available
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: food_variety
+      label: Variety of Food Available
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: cleanliness
+      label: Cleanliness of Fridge Area
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: accessibility
+      label: Accessibility of Location
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: availability
+      label: Food Availability When You Visit
+      hint: null
+      type: select_one
+      options:
+      - Always Available
+      - Usually Available
+      - Sometimes Available
+      - Rarely Available
+      - Never Available
+      required: true
+    - id: 16
+      name: safety
+      label: Do You Feel Safe Using the Fridge
+      hint: null
+      type: select_one
+      options:
+      - Very Safe
+      - Safe
+      - Neutral
+      - Unsafe
+      - Very Unsafe
+      required: true
+    - id: 17
+      name: impact
+      label: How Has the Fridge Impacted You
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Reduced Food Costs
+      - Improved Nutrition
+      - Reduced Food Waste
+      - Connected to Community
+      - Less Stress
+      - No Significant Impact
+      - Other
+      required: true
+    - id: 18
+      name: issues
+      label: Have You Experienced Any Issues
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Empty Fridge
+      - Spoiled Food
+      - Dirty Conditions
+      - Safety Concerns
+      - Inconvenient Hours
+      - Location Issues
+      - No Issues
+      - Other
+      required: true
+    - id: 19
+      name: issues_description
+      label: Describe the Issues
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: improvements
+      label: What Improvements Would You Suggest
+      hint: Your ideas
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: volunteer_interest
+      label: Would You Like to Volunteer
+      hint: Help maintain the fridge
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 22
+      name: volunteer_tasks
+      label: What Tasks Would You Help With
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cleaning
+      - Restocking
+      - Food Pickup
+      - Maintenance
+      - Outreach
+      - Fundraising
+      - Other
+      required: false
+    - id: 23
+      name: donation_interest
+      label: Would You Like to Donate
+      hint: Support the fridge
+      type: select_one
+      options:
+      - Yes - Food
+      - Yes - Money
+      - Yes - Both
+      - 'False'
+      required: false
+    - id: 24
+      name: communication
+      label: How Do You Prefer Updates
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Text Messages
+      - Flyers
+      - Website
+      - No Updates Needed
+      required: false
+    - id: 25
+      name: recommend
+      label: Would You Recommend the Fridge to Others
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Share your thoughts
+      type: text
+      options: []
+      required: false

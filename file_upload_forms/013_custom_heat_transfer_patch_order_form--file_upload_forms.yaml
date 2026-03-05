@@ -4,197 +4,194 @@ inputSchema:
     title: Custom Heat Transfer Patch Order Form
     pages:
     - id: 1
-      name: custom_heat_transfer_patch_order_form_page_1
-      label: Custom Heat Transfer Patch Orders
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: custom_heat_transfer_patch_order_form_page_2
-      label: Heat Transfer Patches
+      name: heat_transfer_patch_type
+      label: What type of heat transfer patch do you need?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
-      required: false
+      - Option 1
+      - Option 2
+      required: true
+    - id: 2
+      name: heat_transfer_patch_size
+      label: How many heat transfer patches do you need?
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 3
-      name: custom_heat_transfer_patch_order_form_page_3
-      label: Heat Transfer Patches
+      name: heat_transfer_patch_location_source
+      label: What is the location of the heat source?
       hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
-      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: custom_heat_transfer_patch_order_form_page_4
-      label: Heat Transfer Patches
+      name: heat_transfer_patch_location_sink
+      label: What is the location of the heat sink?
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: custom_heat_transfer_patch_order_form_page_5
-      label: Heat Transfer Patches
+      name: heat_transfer_medium
+      label: What type of medium do you use for heat transfer?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
     - id: 6
-      name: custom_heat_transfer_patch_order_form_page_6
-      label: Heat Transfer Patches
+      name: heat_transfer_date
+      label: Date and time of heat transfer
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 7
-      name: custom_heat_transfer_patch_order_form_page_7
-      label: Heat Transfer Patches
+      name: heat_transfer_time
+      label: Time of heat transfer
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 8
-      name: custom_heat_transfer_patch_order_form_page_8
-      label: Heat Transfer Patches
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
-      required: false
-    - id: 9
-      name: custom_heat_transfer_patch_order_form_page_9
-      label: Heat Transfer Patches
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
-      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
-      required: false
-    - id: 10
-      name: custom_heat_transfer_patch_order_form_page_10
-      label: Heat Transfer Patches
+      name: heat_transfer_additional_comments
+      label: Enter any additional comments or notes
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 9
+      name: heat_transfer_patch_select_multiple_1
+      label: Select multiple options
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 10
+      name: heat_transfer_patch_description
+      label: Enter a brief description of the heat transfer patch
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 11
-      name: custom_heat_transfer_patch_order_form_page_11
-      label: Heat Transfer Patches
+      name: heat_transfer_client_email
+      label: Enter the email address of the client
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 12
-      name: custom_heat_transfer_patch_order_form_page_12
-      label: Heat Transfer Patches
+      name: heat_transfer_patch_size_description
+      label: Enter a description of the patch size
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: custom_heat_transfer_patch_order_form_page_13
-      label: Heat Transfer Patches
+      name: heat_transfer_patch_select_multiple_2
+      label: Heat Transfer Patch Select Multiple 2
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 14
+      name: heat_transfer_patch_note_1
+      label: Enter a note
       hint: null
       type: note
       options: []
-      required: false
-    - id: 14
-      name: custom_heat_transfer_patch_order_form_page_14
-      label: Heat Transfer Patches
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 15
-      name: custom_heat_transfer_patch_order_form_page_15
-      label: Heat Transfer Patches
+      name: heat_transfer_patch_note_2
+      label: Enter another note
       hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
-      required: false
+      type: note
+      options: []
+      required: true
     - id: 16
-      name: custom_heat_transfer_patch_order_form_page_16
-      label: Heat Transfer Patches
+      name: heat_transfer_patch_note_3
+      label: Heat Transfer Patch Note 3
       hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
-      required: false
+      type: note
+      options: []
+      required: true
     - id: 17
-      name: custom_heat_transfer_patch_order_form_page_17
-      label: Heat Transfer Patches
+      name: heat_transfer_patch_size_2
+      label: Enter another patch size
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 18
-      name: custom_heat_transfer_patch_order_form_page_18
-      label: Heat Transfer Patches
+      name: heat_transfer_patch_select_1
+      label: Select one option
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 19
+      name: heat_transfer_patch_select_multiple_3
+      label: Heat Transfer Patch Select Multiple 3
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 20
+      name: heat_transfer_patch_select_2
+      label: Heat Transfer Patch Select 2
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 21
+      name: heat_transfer_patch_date
+      label: Enter a date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 19
-      name: custom_heat_transfer_patch_order_form_page_19
-      label: Heat Transfer Patches
+      required: true
+    - id: 22
+      name: heat_transfer_patch_time
+      label: Enter a time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 20
-      name: custom_heat_transfer_patch_order_form_page_20
-      label: Heat Transfer Patches
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
-      required: false
-    - id: 21
-      name: custom_heat_transfer_patch_order_form_page_21
-      label: Heat Transfer Patches
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
-      required: false
-    - id: 22
-      name: custom_heat_transfer_patch_order_form_page_22
-      label: Heat Transfer Patches
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 23
-      name: custom_heat_transfer_patch_order_form_page_23
-      label: Heat Transfer Patches
+      name: heat_transfer_patch_size_3
+      label: Heat Transfer Patch Size 3
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 24
-      name: custom_heat_transfer_patch_order_form_page_24
-      label: Heat Transfer Patches
+      name: heat_transfer_patch_size_4
+      label: Heat Transfer Patch Size 4
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 25
-      name: custom_heat_transfer_patch_order_form_page_25
-      label: Heat Transfer Patches
+      name: heat_transfer_patch_size_5
+      label: Heat Transfer Patch Size 5
       hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
-      required: false
+      type: number
+      options: []
+      required: true

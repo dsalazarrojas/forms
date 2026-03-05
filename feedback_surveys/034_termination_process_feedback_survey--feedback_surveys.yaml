@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Redundancy''}'
-      - '{''id'': 2, ''text'': ''Career Development Opportunities''}'
-      - '{''id'': 3, ''text'': ''Career Change''}'
+      - Redundancy
+      - Career Development Opportunities
+      - Career Change
       required: false
     - id: 4
       name: notice_period
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Less than 1 week''}'
-      - '{''id'': 2, ''text'': ''1 week - 2 weeks''}'
-      - '{''id'': 3, ''text'': ''2 - 6 weeks''}'
-      - '{''id'': 4, ''text'': ''More than 6 weeks''}'
+      - Less than 1 week
+      - 1 week - 2 weeks
+      - 2 - 6 weeks
+      - More than 6 weeks
       required: false
     - id: 5
       name: notice_date
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Voluntary''}'
-      - '{''id'': 2, ''text'': ''Involuntary''}'
+      - Voluntary
+      - Involuntary
       required: false
     - id: 12
       name: prophets
@@ -102,7 +102,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Manager 1''}'
-      - '{''id'': 2, ''text'': ''Manager 2''}'
-      - '{''id'': 3, ''text'': ''Manager 3''}'
+      - Manager 1
+      - Manager 2
+      - Manager 3
       required: false

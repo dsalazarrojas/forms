@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''On-site''}'
-      - '{''value'': ''Virtual''}'
-      - '{''value'': ''Hybrid''}'
+      - On-site
+      - Virtual
+      - Hybrid
       required: false
     - id: 3
       name: event_details_1
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Networking''}'
-      - '{''value'': ''Educational''}'
-      - '{''value'': ''Social''}'
+      - Networking
+      - Educational
+      - Social
       required: false
     - id: 4
       name: event_details_2
@@ -57,10 +57,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Networked with speakers''}'
-      - '{''value'': ''Attended sessions''}'
-      - '{''value'': ''Spoke at sessions''}'
-      - '{''value'': ''Other (please specify)''}'
+      - Networked with speakers
+      - Attended sessions
+      - Spoke at sessions
+      - Other (please specify)
       required: false
     - id: 8
       name: networking_details_1
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Network with attendees''}'
-      - '{''value'': ''Engage with speakers''}'
-      - '{''value'': ''Learn from others''}'
-      - '{''value'': ''Other (please specify)''}'
+      - Network with attendees
+      - Engage with speakers
+      - Learn from others
+      - Other (please specify)
       required: false
     - id: 9
       name: networking_details_2

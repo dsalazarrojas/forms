@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Acne''}'
-      - '{''value'': ''Aging''}'
-      - '{''value'': ''Rosacea''}'
-      - '{''value'': ''Skin Cancer''}'
-      - '{''value'': ''Other''}'
+      - Acne
+      - Aging
+      - Rosacea
+      - Skin Cancer
+      - Other
       required: true
     - id: 7
       name: skin_type
@@ -56,10 +56,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Dry''}'
-      - '{''value'': ''Oily''}'
-      - '{''value'': ''Normal''}'
-      - '{''value'': ''Combination''}'
+      - Dry
+      - Oily
+      - Normal
+      - Combination
       required: true
     - id: 8
       name: preferred_method
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Virtual Consultation''}'
-      - '{''value'': ''In-Office Visit''}'
-      - '{''value'': ''Phone Call''}'
+      - Virtual Consultation
+      - In-Office Visit
+      - Phone Call
       required: false
     - id: 9
       name: note
@@ -84,8 +84,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: appointment_date

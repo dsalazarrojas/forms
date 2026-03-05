@@ -30,7 +30,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''artist''}'
+      - artist
       - performer
       - vendor
       required: false
@@ -40,7 +40,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Self''}'
+      - Self
       - Others
       - Group
       required: false
@@ -57,7 +57,7 @@ inputSchema:
       hint: Yes/No
       type: select_one
       options:
-      - '{''name'': True}'
+      - 'True'
       - 'False'
       required: false
     - id: 8

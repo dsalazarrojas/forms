@@ -5,196 +5,63 @@ inputSchema:
     pages:
     - id: 1
       name: demographic_info
-      label: demographic_info
-      hint: null
+      label: Demographic Information
+      hint: Please provide your demographic information to help us understand our
+        audience.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: audience_preferences
-      label: audience_preferences
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: event_preferences
+      label: Preferred Events
+      hint: Select events you're interested in attending in the next 6 months.
+      type: select_multiple
+      options:
+      - Music Festival
+      - Theater Performance
+      - Art Exhibition
+      - Food Festival
+      required: true
     - id: 3
       name: feedback
-      label: feedback
-      hint: null
+      label: Feedback
+      hint: Provide any feedback on our current arts and entertainment offerings.
       type: text
       options: []
       required: false
     - id: 4
-      name: arts_entertainment_habits
-      label: arts_entertainment_habits
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: arts_venue
+      label: Preferred Arts Venue
+      hint: Select your preferred arts and entertainment venue.
+      type: select_one
+      options:
+      - Theater
+      - Museum
+      - Gallery
+      - Park
+      required: true
     - id: 5
-      name: additional_comments
-      label: additional_comments
-      hint: null
-      type: text
-      options: []
+      name: contact_person
+      label: Contact Person
+      hint: Provide the name of the person to contact for more information.
+      type: select_one
+      options:
+      - Event Organizer
+      - Venue Manager
+      - Marketing Team
+      - Volunteer
       required: false
     - id: 6
       name: contact_info
-      label: contact_info
-      hint: null
+      label: Contact Information
+      hint: Provide your contact information so we can reach out to you.
       type: text
       options: []
       required: false
     - id: 7
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: arts_and_entertainment_preferences
-      label: arts_and_entertainment_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - option_0
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 13
-      name: event_organizer
-      label: event_organizer
-      hint: null
-      type: select_one
-      options:
-      - option_0
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 14
-      name: arts_venue
-      label: arts_venue
-      hint: null
-      type: select_one
-      options:
-      - option_0
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 15
-      name: cultural_institution
-      label: cultural_institution
-      hint: null
-      type: select_one
-      options:
-      - option_0
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 16
-      name: contact_person
-      label: contact_person
-      hint: null
-      type: select_one
-      options:
-      - option_0
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 17
-      name: arts_venue_other
-      label: arts_venue_other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: additional_comments_arts_venue
-      label: additional_comments_arts_venue
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: event
-      label: event
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: event_info
-      label: event_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: cultural_institution_other
-      label: cultural_institution_other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: contact_info
-      label: contact_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: phone
-      label: phone
-      hint: null
+      name: additional_comments
+      label: Additional Comments
+      hint: Provide any additional comments or suggestions.
       type: text
       options: []
       required: false

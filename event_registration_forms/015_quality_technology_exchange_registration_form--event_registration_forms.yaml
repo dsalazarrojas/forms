@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Tech Talk''}'
-      - '{''id'': 2, ''label'': ''Networking Event''}'
-      - '{''id'': 3, ''label'': ''Workshop''}'
+      - Tech Talk
+      - Networking Event
+      - Workshop
       required: true
     - id: 3
       name: job_title
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Frontend''}'
-      - '{''id'': 2, ''label'': ''Backend''}'
-      - '{''id'': 3, ''label'': ''Fullstack''}'
+      - Frontend
+      - Backend
+      - Fullstack
       required: false
     - id: 11
       name: job_technologies
@@ -85,10 +85,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Python''}'
-      - '{''id'': 2, ''label'': ''JavaScript''}'
-      - '{''id'': 3, ''label'': ''Java''}'
-      - '{''id'': 4, ''label'': ''C++''}'
+      - Python
+      - JavaScript
+      - Java
+      - C++
       required: true
     - id: 12
       name: job_experience
@@ -117,9 +117,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''USD''}'
-      - '{''id'': 2, ''label'': ''EUR''}'
-      - '{''id'': 3, ''label'': ''JPY''}'
+      - USD
+      - EUR
+      - JPY
       required: true
     - id: 16
       name: job_salary_min
@@ -155,9 +155,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Archived''}'
-      - '{''id'': 3, ''label'': ''Inactive''}'
+      - Active
+      - Archived
+      - Inactive
       required: true
     - id: 21
       name: job_start_date

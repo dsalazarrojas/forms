@@ -25,10 +25,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not rated'', ''value'': ''Not rated''}'
-      - '{''id'': 2, ''label'': ''Satisfactory'', ''value'': ''Satisfactory''}'
-      - '{''id'': 3, ''label'': ''Unsatisfactory'', ''value'': ''Unsatisfactory''}'
-      - '{''id'': 4, ''label'': ''Not assessed'', ''value'': ''Not assessed''}'
+      - Not rated
+      - Satisfactory
+      - Unsatisfactory
+      - Not assessed
       required: false
     - id: 4
       name: comments
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None'', ''value'': ''None''}'
-      - '{''id'': 2, ''label'': ''Simple'', ''value'': ''Simple''}'
-      - '{''id'': 3, ''label'': ''Complex'', ''value'': ''Complex''}'
+      - None
+      - Simple
+      - Complex
       required: false
     - id: 9
       name: case_duration
@@ -74,10 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Less than 30 minutes'', ''value'': ''Less than 30
-        minutes''}'
-      - '{''id'': 2, ''label'': ''30-60 minutes'', ''value'': ''30-60 minutes''}'
-      - '{''id'': 3, ''label'': ''More than 1 hour'', ''value'': ''More than 1 hour''}'
+      - Less than 30 minutes
+      - 30-60 minutes
+      - More than 1 hour
       required: false
     - id: 10
       name: peer_satisfaction

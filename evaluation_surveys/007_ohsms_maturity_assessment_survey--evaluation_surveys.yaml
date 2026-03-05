@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 4
       name: page_4
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Regular''}'
-      - '{''id'': 2, ''label'': ''Sporadic''}'
-      - '{''id'': 3, ''label'': ''Never''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Regular
+      - Sporadic
+      - Never
+      - Other
       required: true
     - id: 5
       name: page_5
@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Low''}'
-      - '{''id'': 3, ''label'': ''None''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - High
+      - Low
+      - None
+      - Other
       required: true
     - id: 6
       name: page_6

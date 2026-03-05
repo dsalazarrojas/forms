@@ -4,209 +4,148 @@ inputSchema:
     title: drop_close_submission_form
     pages:
     - id: 1
-      name: drop_close_submission_form_page_1
-      label: upload_evidence
-      hint: null
+      name: upload_evidence
+      label: Upload Evidence
+      hint: Please upload relevant evidence for this submission
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: close_details
-      label: details
-      hint: null
+      name: upload_evidence_page_2
+      label: Evidence Description
+      hint: Briefly describe the uploaded evidence
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: closure_date
-      label: closure_date
-      hint: null
-      type: date
-      options: []
+      name: facility_1
+      label: Facility
+      hint: Select facility related to this submission
+      type: select_one
+      options:
+      - Facility A
+      - Facility B
       required: false
     - id: 4
-      name: closure_time
-      label: closure_time
-      hint: null
+      name: facility_2
+      label: Facility Details
+      hint: Select additional facility information
+      type: select_multiple
+      options:
+      - Facility C
+      - Facility D
+      required: false
+    - id: 5
+      name: operation_1
+      label: Operation
+      hint: Select operation related to this submission
+      type: select_one
+      options:
+      - Operation E
+      - Operation F
+      required: false
+    - id: 6
+      name: operation_2
+      label: Operation Details
+      hint: Select additional operation information
+      type: select_multiple
+      options:
+      - Operation G
+      - Operation H
+      required: false
+    - id: 7
+      name: logistics_1
+      label: Logistics
+      hint: Select logistics information
+      type: select_one
+      options:
+      - Logistics I
+      - Logistics J
+      required: false
+    - id: 8
+      name: logistics_2
+      label: Logistics Details
+      hint: Select additional logistics information
+      type: select_multiple
+      options:
+      - Logistics K
+      - Logistics L
+      required: false
+    - id: 9
+      name: team_leader_1
+      label: Team Leader
+      hint: Select team leader
+      type: select_one
+      options:
+      - Team Leader M
+      - Team Leader N
+      required: false
+    - id: 10
+      name: team_leader_2
+      label: Team Leader Details
+      hint: Select additional team leader information
+      type: select_multiple
+      options:
+      - Team Leader O
+      - Team Leader P
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: Provide any additional comments
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submission_date
+      label: Closure Date
+      hint: Select closure date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: submission_time
+      label: Closure Time
+      hint: Select closure time
       type: time
       options: []
       required: false
-    - id: 5
-      name: facility_id
-      label: facility
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: facility_id_2
-      label: facility_name
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: operation_id
-      label: operation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: operation_id_2
-      label: operation_name
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: logistics_id
-      label: logistics
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: logistics_id_2
-      label: logistics_name
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: team_leader_id
-      label: team_leader
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: team_leader_id_2
-      label: team_leader_name
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: upload_file
-      label: upload_file
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 14
-      name: comments
-      label: comments
-      hint: null
+      name: submit
+      label: Submit
+      hint: Submit this form
       type: text
       options: []
-      required: false
+      required: true
     - id: 15
-      name: submit
-      label: submit
-      hint: null
+      name: upload_file
+      label: Upload File
+      hint: Upload relevant file
       type: text
       options: []
       required: false
     - id: 16
-      name: upload_file_2
-      label: upload_file_2
-      hint: null
-      type: text
-      options: []
+      name: facility_3
+      label: Facility 3
+      hint: Select facility
+      type: select_one
+      options:
+      - Facility Q
+      - Facility R
       required: false
     - id: 17
-      name: comments_2
-      label: comments_2
-      hint: null
-      type: text
-      options: []
+      name: facility_4
+      label: Facility 4
+      hint: Select additional facility information
+      type: select_multiple
+      options:
+      - Facility S
+      - Facility T
       required: false
     - id: 18
-      name: facility_id_3
-      label: facility
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: facility_id_4
-      label: facility_name
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: operation_id_3
-      label: operation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: operation_id_4
-      label: operation_name
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: logistics_id_2
-      label: logistics
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: logistics_id_3
-      label: logistics_name
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: team_leader_id_2
-      label: team_leader
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: team_leader_id_3
-      label: team_leader_name
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: comments_2
+      label: Comments 2
+      hint: Provide any additional comments
+      type: text
+      options: []
       required: false

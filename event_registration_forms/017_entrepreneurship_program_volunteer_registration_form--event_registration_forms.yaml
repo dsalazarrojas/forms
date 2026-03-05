@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''volunteer''}'
-      - '{''value'': ''staff''}'
+      - volunteer
+      - staff
       required: false
     - id: 3
       name: skills
@@ -74,6 +74,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false

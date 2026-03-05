@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cake''}'
-      - '{''id'': 2, ''label'': ''Cookie''}'
+      - Cake
+      - Cookie
       required: true
     - id: 9
       name: entry_subcategory
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Chocolate''}'
-      - '{''id'': 2, ''label'': ''Fruits''}'
-      - '{''id'': 3, ''label'': ''Cakes''}'
+      - Chocolate
+      - Fruits
+      - Cakes
       required: false
     - id: 10
       name: submitter
@@ -175,8 +175,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Follow''}'
-      - '{''id'': 2, ''label'': ''No Follow''}'
+      - Follow
+      - No Follow
       required: false
     - id: 25
       name: terms
@@ -184,6 +184,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Agree''}'
-      - '{''id'': 2, ''label'': ''Disagree''}'
+      - Agree
+      - Disagree
       required: false

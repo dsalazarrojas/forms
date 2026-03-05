@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''flight_1''}'
-      - '{''id'': 2, ''label'': ''flight_2''}'
-      - '{''id'': 3, ''label'': ''flight_3''}'
+      - flight 1
+      - flight 2
+      - flight 3
       required: false
     - id: 5
       name: customer_phone
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: customer_address

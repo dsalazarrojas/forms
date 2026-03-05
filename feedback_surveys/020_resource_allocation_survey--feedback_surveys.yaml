@@ -4,206 +4,108 @@ inputSchema:
     title: Resource Allocation Survey
     pages:
     - id: 1
-      name: resource_allocation_survey
-      label: What is your role in the organization?
+      name: resources_access
+      label: How many resources do you currently have access to?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 1-5
+      - 6-10
+      - 11-15
+      - More than 15
       required: false
     - id: 2
-      name: role
-      label: Team leader
+      name: hours_available
+      label: How many hours do you have available per week?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Less than 10 hours
+      - 10-20 hours
+      - 21-30 hours
+      - More than 30 hours
       required: false
     - id: 3
-      name: allocated_resources
-      label: How many resources do you currently have access to?
-      hint: Please enter a number
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: allocated_resources_amount
-      label: How many hours do you have available?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
       name: resource_distribution
       label: Do you think resource distribution is working well?
-      hint: Please select one option
+      hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       - Undecided
       required: false
-    - id: 6
+    - id: 4
       name: resource_availability
       label: Can you access all necessary resources?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 7
+    - id: 5
       name: additional_resources
-      label: Is there anything else you'd like to add?
+      label: Are there any additional resources you'd like to request?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: What is your role in the organization?
+      hint: null
+      type: select_one
+      options:
+      - Team leader
+      - Team member
+      - Other
+      required: false
+    - id: 7
+      name: thoughts_on_resource_distribution
+      label: What are your thoughts on resource distribution?
       hint: null
       type: note
       options: []
       required: false
     - id: 8
-      name: date
-      label: Date
+      name: available_hours_use
+      label: How do you currently use your available hours?
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Working on core tasks
+      - Collaborating with team members
+      - Learning/Professional development
+      - Other
       required: false
     - id: 9
-      name: time
-      label: Time
+      name: skills_to_perform_job
+      label: Do you feel you have the necessary skills to perform your job?
       hint: null
-      type: time
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 10
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: comments
-      label: Additional comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: resource_availability_2
-      label: Is there anything else you'd like to add?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: resource_distribution_2
-      label: Do you think resource distribution is working well?
-      hint: Please select one option
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: resource_availability_3
-      label: Can you access all necessary resources?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: resource_distribution_3
-      label: Do you think resource distribution is working well?
-      hint: Please select one option
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: allocated_resources_2
-      label: How many resources do you currently have access to?
-      hint: Please enter a number
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: allocated_resources_3
-      label: How many hours do you have available?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: resource_distribution_4
-      label: Do you think resource distribution is working well?
-      hint: Please select one option
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: resource_availability_4
-      label: Can you access all necessary resources?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: allocated_resources_4
-      label: Is there anything else you'd like to add?
+      name: resource_accessing_challenges
+      label: What are some challenges you face when accessing resources?
       hint: null
       type: note
       options: []
       required: false
-    - id: 22
-      name: resource_allocation_survey_2
-      label: Resource allocation survey 2
+    - id: 11
+      name: improve_resource_distribution
+      label: How do you think resource distribution could be improved?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: note
+      options: []
       required: false
-    - id: 23
-      name: resource_availability_5
-      label: Can you access all necessary resources?
+    - id: 12
+      name: additional_comments
+      label: Are there any other comments or suggestions you'd like to share?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: resource_distribution_5
-      label: Do you think resource distribution is working well?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: resource_allocation_survey_3
-      label: Resource allocation survey 3
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: note
+      options: []
       required: false

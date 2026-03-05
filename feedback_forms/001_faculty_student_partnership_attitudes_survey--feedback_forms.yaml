@@ -15,216 +15,231 @@ inputSchema:
     title: Faculty Student Partnership Attitudes Survey
     pages:
     - id: 1
-      name: faculty_survey
-      label: Faculty Survey
+      name: faculty_partnership
+      label: Faculty Partnership
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 2
-      name: student_survey
-      label: Student Survey
-      hint: null
-      type: text
-      options: []
+      name: student_collaboration
+      label: Student Collaboration
+      hint: How often do you engage in collaborative research projects with students?
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      - Unsure
       required: true
     - id: 3
-      name: faculty_survey_2
-      label: Faculty Survey 2
+      name: satisfaction_support
+      label: Satisfaction with Support
       hint: null
-      type: select_multiple
+      type: radio
       options:
-      - None
-      - None
-      - None
+      - Satisfied
+      - Neutral
+      - Dissatisfied
       required: true
     - id: 4
-      name: student_survey_2
-      label: Student Survey 2
+      name: comfort_technology
+      label: Comfort with Technology
       hint: null
-      type: select_multiple
-      options:
-      - None
-      - None
-      - None
-      required: true
+      type: number
+      options: []
+      required: false
     - id: 5
-      name: faculty_survey_3
-      label: Faculty Survey 3
-      hint: null
-      type: text
+      name: projects_last_year
+      label: Projects in Last Year
+      hint: How many research projects have you collaborated with students on in the
+        past academic year?
+      type: number
       options: []
       required: true
     - id: 6
-      name: faculty_survey_3_1
-      label: Faculty Survey 3
+      name: office_hours_importance
+      label: Importance of Office Hours
       hint: null
       type: select_one
       options:
-      - None
-      - None
-      - None
-      required: true
+      - Very Important
+      - Somewhat Important
+      - Not Very Important
+      - Not at All Important
+      required: false
     - id: 7
-      name: faculty_survey_3_2
-      label: Faculty Survey 3
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: funded_projects
+      label: Funded Projects
+      hint: Have you ever participated in a faculty-student collaborative project
+        that received funding or recognition?
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 8
-      name: faculty_survey_3_3
-      label: Faculty Survey 3
+      name: number_of_students
+      label: Number of Students
       hint: null
-      type: date
+      type: number
       options: []
-      required: false
-    - id: 9
-      name: student_survey_3_1
-      label: Student Survey 3
-      hint: null
-      type: select_one
-      options:
-      - None
-      - None
-      - None
       required: true
-    - id: 10
-      name: student_survey_3_2
-      label: Student Survey 3
+    - id: 9
+      name: best_aspect
+      label: Best Aspect of Working with Students
       hint: null
       type: text
       options: []
-      required: true
-    - id: 11
-      name: student_survey_3_3
-      label: Student Survey 3
+      required: false
+    - id: 10
+      name: feedback_quality
+      label: Feedback Quality
       hint: null
-      type: select_multiple
-      options:
-      - None
-      - None
-      - None
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: hours_per_week
+      label: Hours per Week
+      hint: How many hours per week do you usually dedicate to student-led projects?
+      type: number
+      options: []
       required: true
     - id: 12
-      name: student_survey_3_3_1
-      label: Student Survey 3
+      name: department_support
+      label: Department Support
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - None
-      - None
-      - None
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Somewhat Satisfied
+      - Not Very Satisfied
+      - Not at All Satisfied
       required: true
     - id: 13
-      name: faculty_survey_4
-      label: Faculty Survey 4
+      name: funding_source
+      label: Funding Source
       hint: null
-      type: select_one
-      options:
-      - None
-      - None
-      - None
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 14
-      name: faculty_survey_4_1
-      label: Faculty Survey 4
+      name: collaboration_tools
+      label: Collaboration Tools
       hint: null
-      type: date
+      type: text
       options: []
-      required: true
+      required: false
     - id: 15
-      name: faculty_survey_4_2
-      label: Faculty Survey 4
+      name: job_satisfaction
+      label: Job Satisfaction
       hint: null
-      type: text
+      type: number
       options: []
-      required: true
+      required: false
     - id: 16
-      name: faculty_survey_4_3
-      label: Faculty Survey 4
+      name: recognition_frequency
+      label: Recognition Frequency
       hint: null
-      type: select_multiple
-      options:
-      - None
-      - None
-      - None
-      required: true
-    - id: 17
-      name: student_survey_4_1
-      label: Student Survey 4
-      hint: null
-      type: text
+      type: number
       options: []
-      required: true
-    - id: 18
-      name: student_survey_4_2
-      label: Student Survey 4
+      required: false
+    - id: 17
+      name: autonomy_in_decision
+      label: Autonomy in Decision-Making
       hint: null
-      type: select_multiple
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: mentorship_relationship
+      label: Mentorship Relationship
+      hint: null
+      type: radio
       options:
-      - None
-      - None
-      - None
+      - 'True'
+      - 'False'
       required: true
     - id: 19
-      name: faculty_survey_5
-      label: Faculty Survey 5
+      name: mentorship_quality
+      label: Mentorship Quality
       hint: null
-      type: select_multiple
-      options:
-      - None
-      - None
-      - None
-      required: true
+      type: number
+      options: []
+      required: false
     - id: 20
-      name: faculty_survey_5_1
-      label: Faculty Survey 5
+      name: mentees_last_year
+      label: Number of Mentees Last Year
       hint: null
-      type: text
+      type: number
       options: []
-      required: true
+      required: false
     - id: 21
-      name: faculty_survey_5_1_1
-      label: Faculty Survey 5
+      name: student_services_quality
+      label: Student Services Quality
       hint: null
-      type: select_one
-      options:
-      - None
-      - None
-      - None
-      required: true
+      type: number
+      options: []
+      required: false
     - id: 22
-      name: student_survey_5
-      label: Student Survey 5
+      name: advice_from_students
+      label: Advice from Students
       hint: null
-      type: select_multiple
-      options:
-      - None
-      - None
-      - None
-      required: true
+      type: number
+      options: []
+      required: false
     - id: 23
-      name: student_survey_5_1
-      label: Student Survey 5
+      name: job_satisfaction_when_working_with_students
+      label: Job Satisfaction When Working with Students
       hint: null
-      type: text
+      type: number
       options: []
-      required: true
+      required: false
     - id: 24
-      name: faculty_survey_6
-      label: Faculty Survey 6
+      name: facilities_resources
+      label: Facilities and Resources
       hint: null
-      type: text
+      type: number
       options: []
-      required: true
+      required: false
     - id: 25
-      name: faculty_survey_6_1
-      label: Faculty Survey 6
+      name: student_feedback_on_my_work
+      label: Student Feedback on My Work
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: diversity_in_projects
+      label: Diversity in Projects
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: departmental_support
+      label: Departmental Support
       hint: null
       type: select_one
       options:
-      - None
-      - None
-      - None
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Somewhat Satisfied
+      - Not Very Satisfied
+      - Not at All Satisfied
+      required: true
+    - id: 28
+      name: feedback_from_students
+      label: Feedback from Students
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Somewhat Satisfied
+      - Not Very Satisfied
+      - Not at All Satisfied
       required: true

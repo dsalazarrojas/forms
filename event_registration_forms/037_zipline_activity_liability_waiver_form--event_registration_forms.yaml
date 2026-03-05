@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Participant 1''}'
-      - '{''id'': 2, ''label'': ''Participant 2''}'
-      - '{''id'': 3, ''label'': ''Participant 3''}'
+      - Participant 1
+      - Participant 2
+      - Participant 3
       required: false
     - id: 3
       name: form_3
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Participant 1''}'
-      - '{''id'': 2, ''label'': ''Participant 2''}'
-      - '{''id'': 3, ''label'': ''Participant 3''}'
+      - Participant 1
+      - Participant 2
+      - Participant 3
       required: false
     - id: 4
       name: form_4
@@ -64,8 +64,8 @@ inputSchema:
       hint: Select from below
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Parent/Guardian''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - Parent/Guardian
+      - Other
       required: false
     - id: 9
       name: form_9
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High Risk''}'
-      - '{''id'': 2, ''label'': ''Low Risk''}'
-      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      - High Risk
+      - Low Risk
+      - Not Applicable
       required: false
     - id: 16
       name: form_16
@@ -125,9 +125,9 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Epilepsy''}'
-      - '{''id'': 2, ''label'': ''Diabetes''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Epilepsy
+      - Diabetes
+      - Other
       required: false
     - id: 17
       name: form_17
@@ -137,8 +137,8 @@ inputSchema:
         to participate in this activity
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: form_19
@@ -148,8 +148,8 @@ inputSchema:
         your ability to participate in this activity
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: form_20
@@ -158,8 +158,8 @@ inputSchema:
         on
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: form_21

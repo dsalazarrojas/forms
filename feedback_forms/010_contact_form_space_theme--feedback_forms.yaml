@@ -1,86 +1,75 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Contact Form Space Theme
     pages:
-      - id: 1
-        name: header
-        label: -- Space Theme Contact --
-        hint: Use this form to send feedback or requests
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: visitor_name
-        label: Visitor name
-        hint: Your full name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: email
-        label: Email address
-        hint: We will use this to reply
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: subject
-        label: Subject
-        hint: Brief subject of your message
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: message
-        label: Message
-        hint: Provide details for your request or feedback
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: importance_level
-        label: Importance level
-        hint: Select how urgent the matter is
-        type: select_one
-        options:
-          - Low
-          - Medium
-          - High
-        required: false
-      - id: 7
-        name: preferred_contact
-        label: Preferred contact method
-        hint: Choose how you prefer to be contacted
-        type: select_one
-        options:
-          - Email
-          - Phone
-        required: false
-      - id: 8
-        name: follow_up
-        label: Require follow up
-        hint: Should our team contact you
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 9
-        name: additional_info
-        label: Additional information
-        hint: Any other context to help our response
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: header
+      label: -- Space Theme Contact --
+      hint: Use this form to send feedback or requests
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Visitor name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: We will use this to reply
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: subject
+      label: Subject
+      hint: Brief subject of your message
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: message
+      label: Message
+      hint: Provide details for your request or feedback
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: importance_level
+      label: Importance level
+      hint: Select how urgent the matter is
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: preferred_contact
+      label: Preferred contact method
+      hint: Choose how you prefer to be contacted
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 8
+      name: follow_up
+      label: Require follow up
+      hint: Should our team contact you
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: additional_info
+      label: Additional information
+      hint: Any other context to help our response
+      type: text
+      options: []
+      required: false

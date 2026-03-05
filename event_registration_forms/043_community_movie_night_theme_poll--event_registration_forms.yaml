@@ -1,99 +1,88 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Community Movie Night Theme Poll
     pages:
-      - id: 1
-        name: poll_header
-        label: -- Movie Night Poll --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: voter_name
-        label: Voter name
-        hint: Optional for prize contact
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: email
-        label: Email address
-        hint: Optional for notification
-        type: email
-        options: []
-        required: false
-      - id: 4
-        name: preferred_genres
-        label: Preferred movie genres
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Comedy
-          - Drama
-          - Family
-          - Action
-          - Documentary
-        required: true
-      - id: 5
-        name: specific_titles
-        label: Specific movie titles suggested
-        hint: List any specific movies
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: preferred_date
-        label: Preferred date for screening
-        hint: Indicate preferred date or weekend
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: seating_preference
-        label: Seating preference
-        hint: Lawn seating, chairs, or blankets
-        type: select_one
-        options:
-          - Lawn seating
-          - Chair seating
-          - Blankets
-          - No preference
-        required: false
-      - id: 8
-        name: attend_with_family
-        label: Attending with family
-        hint: Indicate yes or no
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 9
-        name: volunteer_interest
-        label: Interested in volunteering at event
-        hint: Help with setup or concessions
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 10
-        name: additional_comments
-        label: Additional comments
-        hint: Any other suggestions
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: poll_header
+      label: -- Movie Night Poll --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_name
+      label: Voter name
+      hint: Optional for prize contact
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email address
+      hint: Optional for notification
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: preferred_genres
+      label: Preferred movie genres
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Comedy
+      - Drama
+      - Family
+      - Action
+      - Documentary
+      required: true
+    - id: 5
+      name: specific_titles
+      label: Specific movie titles suggested
+      hint: List any specific movies
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_date
+      label: Preferred date for screening
+      hint: Indicate preferred date or weekend
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seating_preference
+      label: Seating preference
+      hint: Lawn seating, chairs, or blankets
+      type: select_one
+      options:
+      - Lawn seating
+      - Chair seating
+      - Blankets
+      - No preference
+      required: false
+    - id: 8
+      name: attend_with_family
+      label: Attending with family
+      hint: Indicate yes or no
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: volunteer_interest
+      label: Interested in volunteering at event
+      hint: Help with setup or concessions
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other suggestions
+      type: text
+      options: []
+      required: false

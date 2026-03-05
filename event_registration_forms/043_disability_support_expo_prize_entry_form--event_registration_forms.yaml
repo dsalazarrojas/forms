@@ -4,194 +4,36 @@ inputSchema:
     title: Disability Support Expo Prize Entry Form
     pages:
     - id: 1
-      name: first_name
-      label: First Name
+      name: contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: last_name
-      label: Last Name
+      name: personal_info
+      label: Personal Information
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: email
-      label: Email
+      name: prize_info
+      label: Prize Information
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 4
-      name: phone
-      label: Phone
+      name: additional_info
+      label: Additional Information
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: address_1
-      label: Address Line 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: address_2
-      label: Address Line 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: city
-      label: City
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: state
-      label: State
-      hint: Choose your State
-      type: select_one
-      options:
-      - '{''id'': ''state1'', ''label'': ''State 1''}'
-      - '{''id'': ''state2'', ''label'': ''State 2''}'
-      - '{''id'': ''state3'', ''label'': ''State 3''}'
-      required: false
-    - id: 9
-      name: zip
-      label: Zip Code
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: date_of_birth
-      label: Date of Birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: prize_choice
-      label: Prize Choice
-      hint: Choose all that apply
-      type: select_multiple
-      options:
-      - '{''id'': ''prize1'', ''label'': ''Prize 1''}'
-      - '{''id'': ''prize2'', ''label'': ''Prize 2''}'
-      - '{''id'': ''prize3'', ''label'': ''Prize 3''}'
-      - '{''id'': ''prize4'', ''label'': ''Prize 4''}'
-      required: false
-    - id: 12
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: email2
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: phone2
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: address_3
-      label: Address Line 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: state_2
-      label: State
-      hint: Choose your State
-      type: select_one
-      options:
-      - '{''id'': ''state1'', ''label'': ''State 1''}'
-      - '{''id'': ''state2'', ''label'': ''State 2''}'
-      - '{''id'': ''state3'', ''label'': ''State 3''}'
-      required: false
-    - id: 17
-      name: zip_2
-      label: Zip Code
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: date_2
-      label: Date of Birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: prize_choice_2
-      label: Prize Choice
-      hint: Choose all that apply
-      type: select_multiple
-      options:
-      - '{''id'': ''prize1'', ''label'': ''Prize 1''}'
-      - '{''id'': ''prize2'', ''label'': ''Prize 2''}'
-      - '{''id'': ''prize3'', ''label'': ''Prize 3''}'
-      - '{''id'': ''prize4'', ''label'': ''Prize 4''}'
-      required: false
-    - id: 20
-      name: note_2
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: email3
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: phone3
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: address_4
-      label: Address Line 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: prize_choice_3
-      label: Prize Choice
-      hint: Choose all that apply
-      type: select_multiple
-      options:
-      - '{''id'': ''prize1'', ''label'': ''Prize 1''}'
-      - '{''id'': ''prize2'', ''label'': ''Prize 2''}'
-      - '{''id'': ''prize3'', ''label'': ''Prize 3''}'
-      - '{''id'': ''prize4'', ''label'': ''Prize 4''}'
-      required: false
-    - id: 25
-      name: note_3
-      label: Note
+      name: note2
+      label: Additional Note
       hint: null
       type: note
       options: []

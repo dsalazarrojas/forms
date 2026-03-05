@@ -186,7 +186,7 @@ inputSchema:
       options:
       - Yes on-site
       - Yes nearby
-      - false
+      - 'False'
       - Unsure
       required: true
     - id: 20
@@ -206,8 +206,8 @@ inputSchema:
       hint: Has the fee been paid
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Waived
       required: true
     - id: 22
@@ -216,8 +216,8 @@ inputSchema:
       hint: Are you a member of a beekeeping association
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: additional_notes

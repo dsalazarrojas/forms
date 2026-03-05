@@ -4,63 +4,69 @@ inputSchema:
     title: Design Evolution Feedback Survey
     pages:
     - id: 1
-      name: design_evolution_feedback_survey_page_1
-      label: Design Evolution Feedback Survey
-      hint: null
-      type: note
+      name: introduction
+      label: Introduction to the Design Evolution Feedback Survey
+      hint: Please take a few minutes to provide your feedback on the current design
+        evolution process.
+      type: text
       options: []
       required: false
     - id: 2
-      name: design_evolution_feedback_survey_page_2
-      label: Feedback
+      name: feedback
+      label: What do you think about the current design evolution process?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: select_one_feedback_option
+      label: Select one option that best describes your feedback.
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Feedback''}'
-      - '{''text'': ''Feedback 2''}'
+      - The design evolution process is well-organized and structured.
+      - The design evolution process is disorganized and unstructured.
+      - I'm not sure.
       required: false
-    - id: 3
-      name: design_evolution_feedback_survey_page_3
-      label: Feedback
+    - id: 4
+      name: select_multiple_feedback_options
+      label: Select multiple options that best describe your feedback.
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Feedback''}'
-      - '{''text'': ''Feedback 1''}'
-      - '{''text'': ''Feedback 2''}'
-      required: false
-    - id: 4
-      name: design_evolution_feedback_survey_page_4
-      label: Feedback
-      hint: null
-      type: number
-      options: []
+      - The design evolution process is well-organized and structured.
+      - The design evolution process is disorganized and unstructured.
+      - I'm not sure.
       required: false
     - id: 5
-      name: design_evolution_feedback_survey_page_5
-      label: Date
+      name: date_of_last_feedback
+      label: When was your last feedback given?
       hint: null
       type: date
       options: []
       required: false
     - id: 6
-      name: design_evolution_feedback_survey_page_6
-      label: Time
+      name: time_of_last_feedback
+      label: What time was your last feedback given?
       hint: null
       type: time
       options: []
       required: false
     - id: 7
-      name: design_evolution_feedback_survey_page_7
-      label: Design Evolution Feedback Survey
+      name: design_preferences
+      label: What type of design preferences do you have for the current design evolution
+        process?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Simple and intuitive design.
+      - Complex and detailed design.
+      - Customizable design.
       required: false
     - id: 8
-      name: design_evolution_feedback_survey_page_8
-      label: Design Evolution Feedback Survey
-      hint: null
+      name: demographic_information
+      label: Demographic Information
+      hint: Please provide your demographic information for analysis purposes.
       type: text
       options: []
       required: false

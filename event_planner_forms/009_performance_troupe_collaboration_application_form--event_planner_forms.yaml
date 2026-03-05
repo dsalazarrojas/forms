@@ -4,24 +4,24 @@ inputSchema:
     title: Performance Troupe Collaboration Application Form
     pages:
     - id: 1
-      name: form_title
-      label: Performance Troupe Collaboration Application
+      name: performance_troupe
+      label: Performance Troupe
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: trroupe_name
-      label: Trroupe Name
+      name: event_name
+      label: Event Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: event_name
-      label: Event Name
+      name: event_date
+      label: Event Date
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 4
@@ -39,50 +39,29 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: email
-      label: Email
+      name: contact_email
+      label: Contact Email
       hint: null
       type: email
       options: []
       required: false
     - id: 7
-      name: phone
-      label: Phone
+      name: contact_phone
+      label: Contact Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: event_date
-      label: Event Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: event_time
-      label: Event Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: event_length
-      label: Event Length
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
       name: number_of_dancers
       label: Number of Dancers
       hint: null
       type: number
       options: []
       required: false
-    - id: 12
+    - id: 9
       name: trroupe_style
-      label: Trroupe Style
+      label: Troupe Style
       hint: null
       type: select_one
       options:
@@ -91,11 +70,35 @@ inputSchema:
       - Hip-Hop
       - Jazz
       - Modern
-      - Tap
+      required: false
+    - id: 10
+      name: trroupe_video
+      label: Troupe Video URL
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: trroupe_audio
+      label: Troupe Audio URL
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: bio_dancers
+      label: Dancer Bio
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 13
-      name: trroupe_style_other
-      label: Trroupe Style Other Specify
+      name: trroupe_image
+      label: Troupe Image URL
       hint: null
       type: select_multiple
       options:
@@ -103,103 +106,18 @@ inputSchema:
       - 'No'
       required: false
     - id: 14
-      name: bio
-      label: Bio
+      name: specific_dancer
+      label: Specific Dancer
       hint: null
       type: select_multiple
       options:
-      - Dancer 1
-      - Dancer 2
-      - Dancer 3
-      - Dancer 4
-      - Dancer 5
+      - 'Yes'
+      - 'No'
       required: false
     - id: 15
-      name: bio_dancer_1
-      label: Dancer 1
+      name: trroupe_audio_2
+      label: Trroupe Audio 2
       hint: null
       type: text
       options: []
-      required: false
-    - id: 16
-      name: bio_dancer_2
-      label: Dancer 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: bio_dancer_3
-      label: Dancer 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: bio_dancer_4
-      label: Dancer 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: bio_dancer_5
-      label: Dancer 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: trroupe_image
-      label: Trroupe Image URL
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: trroupe_image_url
-      label: Trroupe Image URL
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: trroupe_video
-      label: Trroupe Video URL
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: trroupe_video_url
-      label: Trroupe Video URL
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: trroupe_audio
-      label: Trroupe Audio URL
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: trroupe_audio_url
-      label: Trroupe Audio URL
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

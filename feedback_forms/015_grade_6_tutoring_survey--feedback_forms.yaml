@@ -5,177 +5,56 @@ inputSchema:
     pages:
     - id: 1
       name: first_name
-      label: first_name
+      label: Student Name
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: grade_completed
-      label: grade_completed
+      name: tutor_rating
+      label: Tutor Support
       hint: null
       type: number
       options: []
       required: false
     - id: 3
-      name: grade_completed_highest
-      label: highest_grade_completed
+      name: grade_completed
+      label: Number of Grades Completed
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: grade_completed_highest
-      label: highest_grade_completed
+      name: course_name
+      label: Course Name
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 5
-      name: course_name
-      label: course_name
+      name: time_spent
+      label: Time Spent on Each Session
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 6
-      name: tutor_rating
-      label: tutor_rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: tutor_support
-      label: does_support_support
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: time_spent
-      label: time_spent
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 9
       name: date_completed
-      label: date_completed
+      label: Date Completed
       hint: null
       type: date
       options: []
       required: true
-    - id: 10
+    - id: 7
       name: comments
-      label: comments
+      label: Additional Comments
       hint: null
-      type: note
+      type: text
       options: []
       required: true
-    - id: 11
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 12
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: feedback
-      label: feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: additional_feedback
-      label: additional_feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
+    - id: 8
       name: suggestions
-      label: suggestions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: first_name
-      label: first_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: grade_completed
-      label: grade_completed
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: course_name
-      label: course_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: tutor_rating
-      label: tutor_rating
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: does_support_support
-      label: does_support_support
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: time_spent
-      label: time_spent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: date_completed
-      label: date_completed
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: email
-      label: email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: comments
-      label: comments
+      label: Suggestions for Improvement
       hint: null
       type: text
       options: []

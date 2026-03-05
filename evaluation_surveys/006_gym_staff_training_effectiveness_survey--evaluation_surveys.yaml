@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Basic''}'
-      - '{''value'': ''Advanced''}'
-      - '{''value'': ''None''}'
+      - Basic
+      - Advanced
+      - None
       required: false
     - id: 6
       name: rating
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Excellent''}'
-      - '{''value'': ''Good''}'
-      - '{''value'': ''Fair''}'
-      - '{''value'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 7
       name: notes
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Staff''}'
-      - '{''value'': ''Manager''}'
-      - '{''value'': ''Customer''}'
+      - Staff
+      - Manager
+      - Customer
       required: false
     - id: 9
       name: submitted_on

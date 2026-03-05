@@ -33,19 +33,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
-      name: print_run
-      label: Print Run
+      name: print_run_2
+      label: Print Run 2
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: quantity
@@ -77,7 +77,7 @@ inputSchema:
       required: false
     - id: 10
       name: ticket_type_other_value
-      label: Ticket Type Other
+      label: Ticket Type Other Value
       hint: null
       type: text
       options: []
@@ -131,7 +131,7 @@ inputSchema:
       required: false
     - id: 17
       name: submitted_by_value
-      label: Submitted by
+      label: Submitted By Value
       hint: null
       type: text
       options: []
@@ -173,14 +173,14 @@ inputSchema:
       required: false
     - id: 23
       name: print_method_other
-      label: Print Method
+      label: Print Method Other
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: print_method
-      label: Print Method
+      name: print_method_2
+      label: Print Method 2
       hint: null
       type: select_multiple
       options:
@@ -188,8 +188,8 @@ inputSchema:
       - Email
       required: false
     - id: 25
-      name: submitted_by
-      label: Submitted by
+      name: submitted_by_2
+      label: Submitted By 2
       hint: null
       type: select_one
       options:

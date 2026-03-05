@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 2
       name: general_feedback
@@ -26,9 +26,9 @@ inputSchema:
       hint: Please let us know how we can improve the conference.
       type: select_multiple
       options:
-      - option4
-      - option5
-      - option6
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: conference_satisfaction
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option7
-      - option8
-      - option9
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 7
       name: attendees_diet_other
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option10
-      - option11
-      - option12
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 14
       name: attendees_experience
@@ -128,8 +128,8 @@ inputSchema:
       options: []
       required: false
     - id: 17
-      name: conference_satisfaction
-      label: Conference Satisfaction
+      name: conference_satisfaction_2
+      label: Conference Satisfaction 2
       hint: null
       type: text
       options: []
@@ -147,9 +147,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option13
-      - option14
-      - option15
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 20
       name: attendees_recommendation
@@ -157,13 +157,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option16
-      - option17
-      - option18
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 21
-      name: attendees_attendance
-      label: Attendees Attendance
+      name: attendees_attendance_2
+      label: Attendees Attendance 2
       hint: null
       type: number
       options: []
@@ -184,14 +184,14 @@ inputSchema:
       required: false
     - id: 24
       name: attendees_fees_details
-      label: Details
+      label: Attendees Fees Details
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: follow_up_details
-      label: Details
+      label: Follow Up Details
       hint: null
       type: text
       options: []

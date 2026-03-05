@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''product''}'
-      - product_review
+      - product
+      - product review
       - service
       required: false
     - id: 3
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''product_name''}'
-      - product_description
+      - product name
+      - product description
       required: false
     - id: 7
       name: product_description
@@ -91,8 +91,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''service_name''}'
-      - service_description
+      - service name
+      - service description
       required: false
     - id: 13
       name: service_description

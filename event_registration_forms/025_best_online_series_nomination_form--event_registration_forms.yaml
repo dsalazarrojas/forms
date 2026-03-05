@@ -1,214 +1,203 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Best Online Series Nomination Form
     pages:
-      - id: 1
-        name: nominator_contact_header
-        label: -- Nominator Contact Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: nominator_full_name
-        label: Your Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: nominator_email_addr
-        label: Your Email Address
-        hint: For nomination verification purposes
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: series_nominee_details_header
-        label: -- Series Nominee Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: series_title_text
-        label: Series Title
-        hint: Official name of the online series
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: primary_streaming_platform
-        label: Primary Streaming Platform
-        hint: Where is the series mainly broadcast
-        type: select_one
-        options:
-          - YouTube
-          - Netflix
-          - Disney+
-          - Amazon Prime Video
-          - Hulu
-          - HBO Max
-          - TikTok (Short-form Series)
-          - Web Series (Independent Site)
-          - Other
-        required: true
-      - id: 7
-        name: series_link_url
-        label: Link to Series or Playlist
-        hint: URL for viewing or review
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: series_genre_select
-        label: Series Genre
-        hint: Primary category for this series
-        type: select_one
-        options:
-          - Comedy and Satire
-          - Drama and Storytelling
-          - Educational and Knowledge
-          - Horror and Mystery
-          - Sci-Fi and Fantasy
-          - Vlog and Reality
-          - Documentary and Investigative
-          - Other
-        required: true
-      - id: 9
-        name: recent_episode_info
-        label: Most Recent Season or Episode Released
-        hint: Specify the latest release date or title
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: quality_assessment_header
-        label: -- Quality and Impact Assessment --
-        hint: Rate from 1 (Needs Improvement) to 5 (Outstanding)
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: writing_rating_score
-        label: Writing and Storytelling
-        hint: Quality of the narrative and dialogue
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 12
-        name: production_value_rating
-        label: Production Value
-        hint: Quality of visuals, lighting, and editing
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 13
-        name: performance_rating_score
-        label: Acting or Hosting Performance
-        hint: Quality of the onscreen talent
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 14
-        name: sound_music_rating
-        label: Sound Design and Music
-        hint: Audio clarity and musical accompaniment
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 15
-        name: audience_engagement_rating
-        label: Audience Engagement and Community
-        hint: Strength of the series' following
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 16
-        name: nomination_argument_header
-        label: -- Nomination Argument --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: audience_impact_desc
-        label: Describe the impact of this series on its audience
-        hint: Why do people watch and love this series
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: series_differentiation_desc
-        label: What makes this series stand out from other online content
-        hint: Unique selling points
-        type: text
-        options: []
-        required: true
-      - id: 19
-        name: win_justification_detailed
-        label: Why should this series win the award for Best Online Series
-        hint: Summarize your nomination
-        type: text
-        options: []
-        required: true
-      - id: 20
-        name: final_details_header
-        label: -- Final Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 21
-        name: affiliation_disclosure
-        label: Are you affiliated with the production of this series
-        hint: Disclosure for award eligibility
-        type: select_one
-        options:
-          - Yes - I am a creator or crew member
-          - No - I am a fan or viewer
-        required: true
-      - id: 22
-        name: nomination_final_date_input
-        label: Date of Nomination
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: nominator_contact_header
+      label: -- Nominator Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email_addr
+      label: Your Email Address
+      hint: For nomination verification purposes
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: series_nominee_details_header
+      label: -- Series Nominee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: series_title_text
+      label: Series Title
+      hint: Official name of the online series
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_streaming_platform
+      label: Primary Streaming Platform
+      hint: Where is the series mainly broadcast
+      type: select_one
+      options:
+      - YouTube
+      - Netflix
+      - Disney+
+      - Amazon Prime Video
+      - Hulu
+      - HBO Max
+      - TikTok (Short-form Series)
+      - Web Series (Independent Site)
+      - Other
+      required: true
+    - id: 7
+      name: series_link_url
+      label: Link to Series or Playlist
+      hint: URL for viewing or review
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: series_genre_select
+      label: Series Genre
+      hint: Primary category for this series
+      type: select_one
+      options:
+      - Comedy and Satire
+      - Drama and Storytelling
+      - Educational and Knowledge
+      - Horror and Mystery
+      - Sci-Fi and Fantasy
+      - Vlog and Reality
+      - Documentary and Investigative
+      - Other
+      required: true
+    - id: 9
+      name: recent_episode_info
+      label: Most Recent Season or Episode Released
+      hint: Specify the latest release date or title
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: quality_assessment_header
+      label: -- Quality and Impact Assessment --
+      hint: Rate from 1 (Needs Improvement) to 5 (Outstanding)
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: writing_rating_score
+      label: Writing and Storytelling
+      hint: Quality of the narrative and dialogue
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 12
+      name: production_value_rating
+      label: Production Value
+      hint: Quality of visuals, lighting, and editing
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 13
+      name: performance_rating_score
+      label: Acting or Hosting Performance
+      hint: Quality of the onscreen talent
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 14
+      name: sound_music_rating
+      label: Sound Design and Music
+      hint: Audio clarity and musical accompaniment
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 15
+      name: audience_engagement_rating
+      label: Audience Engagement and Community
+      hint: Strength of the series' following
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 16
+      name: nomination_argument_header
+      label: -- Nomination Argument --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: audience_impact_desc
+      label: Describe the impact of this series on its audience
+      hint: Why do people watch and love this series
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: series_differentiation_desc
+      label: What makes this series stand out from other online content
+      hint: Unique selling points
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: win_justification_detailed
+      label: Why should this series win the award for Best Online Series
+      hint: Summarize your nomination
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: final_details_header
+      label: -- Final Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: affiliation_disclosure
+      label: Are you affiliated with the production of this series
+      hint: Disclosure for award eligibility
+      type: select_one
+      options:
+      - Yes - I am a creator or crew member
+      - No - I am a fan or viewer
+      required: true
+    - id: 22
+      name: nomination_final_date_input
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true

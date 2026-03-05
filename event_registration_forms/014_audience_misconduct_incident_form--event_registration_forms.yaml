@@ -1,130 +1,119 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Audience Misconduct Incident Form
     pages:
-      - id: 1
-        name: section_report_info
-        label: -- Report Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: staff_member_reporting
-        label: Reporting Staff Member
-        hint: Your full name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: staff_role
-        label: Staff Role
-        hint: e.g., Usher, Security, Manager
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: incident_date
-        label: Date of Incident
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: incident_time
-        label: Time of Incident
-        hint: null
-        type: time
-        options: []
-        required: true
-      - id: 6
-        name: section_incident_details
-        label: -- Incident Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: location_in_venue
-        label: Location in Venue
-        hint: e.g., Section A, Row 5, Lobby, Restroom
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: misconduct_type
-        label: Type of Misconduct
-        hint: null
-        type: select_one
-        options:
-          - Verbal Abuse
-          - Physical Altercation
-          - Intoxication
-          - Recording without Permission
-          - Disruption of Performance
-          - Safety Violation
-          - Other
-        required: true
-      - id: 9
-        name: detailed_description
-        label: Detailed Description of Incident
-        hint: Please be objective and include specific actions and words used
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: involved_parties
-        label: Involved Audience Members
-        hint: Names or seat numbers if known
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: section_action_taken
-        label: -- Action Taken --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: immediate_response
-        label: Immediate Action Taken
-        hint: e.g., Verbal warning, removal from venue
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: police_notified
-        label: Were the police notified?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 14
-        name: witnesses
-        label: Witnesses
-        hint: Staff or other audience members
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: supervisor_notified
-        label: Name of Supervisor Notified
-        hint: null
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: section_report_info
+      label: -- Report Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: staff_member_reporting
+      label: Reporting Staff Member
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: staff_role
+      label: Staff Role
+      hint: e.g., Usher, Security, Manager
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: section_incident_details
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: location_in_venue
+      label: Location in Venue
+      hint: e.g., Section A, Row 5, Lobby, Restroom
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: misconduct_type
+      label: Type of Misconduct
+      hint: null
+      type: select_one
+      options:
+      - Verbal Abuse
+      - Physical Altercation
+      - Intoxication
+      - Recording without Permission
+      - Disruption of Performance
+      - Safety Violation
+      - Other
+      required: true
+    - id: 9
+      name: detailed_description
+      label: Detailed Description of Incident
+      hint: Please be objective and include specific actions and words used
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: involved_parties
+      label: Involved Audience Members
+      hint: Names or seat numbers if known
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_action_taken
+      label: -- Action Taken --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: immediate_response
+      label: Immediate Action Taken
+      hint: e.g., Verbal warning, removal from venue
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: police_notified
+      label: Were the police notified?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: witnesses
+      label: Witnesses
+      hint: Staff or other audience members
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_notified
+      label: Name of Supervisor Notified
+      hint: null
+      type: text
+      options: []
+      required: true

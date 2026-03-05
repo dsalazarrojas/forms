@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''small''}'
-      - '{''value'': ''large''}'
-      - '{''value'': ''medium''}'
+      - small
+      - large
+      - medium
       required: true
     - id: 4
       name: address
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''address_line_1''}'
-      - '{''value'': ''address_line_2''}'
-      - '{''value'': ''postal_code''}'
+      - address line 1
+      - address line 2
+      - postal code
       required: true
     - id: 5
       name: city
@@ -78,10 +78,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''sound_system''}'
-      - '{''value'': ''projector_screen''}'
-      - '{''value'': ''whiteboard''}'
-      - '{''value'': ''wifi''}'
+      - sound system
+      - projector screen
+      - whiteboard
+      - wifi
       required: false
     - id: 11
       name: venue_equipment
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''projector''}'
-      - '{''value'': ''sound_system''}'
-      - '{''value'': ''microphone''}'
+      - projector
+      - sound system
+      - microphone
       required: false
     - id: 12
       name: capacity
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''classroom''}'
-      - '{''value'': ''workshop''}'
-      - '{''value'': ''seminar''}'
+      - classroom
+      - workshop
+      - seminar
       required: true
     - id: 14
       name: training_durations
@@ -116,8 +116,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''short''}'
-      - '{''value'': ''long''}'
+      - short
+      - long
       required: true
     - id: 15
       name: contact_person

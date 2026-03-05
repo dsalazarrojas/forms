@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_satisfied'', ''value'': ''Very Satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''value'': ''Somewhat Satisfied''}'
-      - '{''id'': 3, ''name'': ''not_satisfied'', ''value'': ''Not Satisfied''}'
-      - '{''id'': 4, ''name'': ''very_un_satisfied'', ''value'': ''Very Unsatisfied''}'
-      - '{''id'': 5, ''name'': ''no_outcome'', ''value'': ''No Outcome''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Very Unsatisfied
+      - No Outcome
       required: false
     - id: 3
       name: project_team
@@ -84,6 +84,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

@@ -1,116 +1,105 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Complaint Form
     pages:
-      - id: 1
-        name: feedback_complaint_header
-        label: -- Employee Improvement and Complaint Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: employee_name_optional
-        label: Employee Name (Optional)
-        hint: Leave blank to remain anonymous
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: employee_department_complaint
-        label: Department
-        hint: Your current working department
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: complaint_incident_date
-        label: Date of Incident or Concern
-        hint: Approximate date if recurring
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: complaint_type_selection
-        label: Nature of Complaint
-        hint: Select the most relevant category
-        type: select_one
-        options:
-          - Management / Leadership
-          - Work Environment / Safety
-          - Compensation / Benefits
-          - Peer Conflict
-          - Workload / Scheduling
-          - Evaluation Process
-          - Other
-        required: true
-      - id: 6
-        name: detailed_complaint_desc
-        label: Detailed Description of the Issue
-        hint: Please be as specific as possible (Who, What, When)
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: previous_discussion_status
-        label: Have you discussed this with your manager or HR before?
-        hint: Internal resolution attempts
-        type: select_one
-        options:
-          - Yes
-          - No
-          - I do not feel comfortable doing so
-        required: true
-      - id: 8
-        name: desired_resolution_employee
-        label: What is your desired resolution?
-        hint: How can the company make this better?
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: impact_on_work_rating
-        label: How is this issue impacting your ability to work?
-        hint: Impact on performance and morale
-        type: select_one
-        options:
-          - Severe Impact
-          - Moderate Impact
-          - Minimal Impact
-          - No Impact (Just reporting)
-        required: true
-      - id: 10
-        name: suggestions_for_better_company
-        label: Suggestions for Company Improvement
-        hint: General ideas to prevent such issues in the future
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: contact_for_followup
-        label: Would you like someone from HR to contact you?
-        hint: Only if you provided your name
-        type: select_one
-        options:
-          - Yes, please contact me
-          - No, just reporting for record
-        required: true
-      - id: 12
-        name: complaint_feedback_date
-        label: Date Submitted
-        hint: Today's date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: feedback_complaint_header
+      label: -- Employee Improvement and Complaint Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name_optional
+      label: Employee Name (Optional)
+      hint: Leave blank to remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_department_complaint
+      label: Department
+      hint: Your current working department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: complaint_incident_date
+      label: Date of Incident or Concern
+      hint: Approximate date if recurring
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: complaint_type_selection
+      label: Nature of Complaint
+      hint: Select the most relevant category
+      type: select_one
+      options:
+      - Management / Leadership
+      - Work Environment / Safety
+      - Compensation / Benefits
+      - Peer Conflict
+      - Workload / Scheduling
+      - Evaluation Process
+      - Other
+      required: true
+    - id: 6
+      name: detailed_complaint_desc
+      label: Detailed Description of the Issue
+      hint: Please be as specific as possible (Who, What, When)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: previous_discussion_status
+      label: Have you discussed this with your manager or HR before?
+      hint: Internal resolution attempts
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - I do not feel comfortable doing so
+      required: true
+    - id: 8
+      name: desired_resolution_employee
+      label: What is your desired resolution?
+      hint: How can the company make this better?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: impact_on_work_rating
+      label: How is this issue impacting your ability to work?
+      hint: Impact on performance and morale
+      type: select_one
+      options:
+      - Severe Impact
+      - Moderate Impact
+      - Minimal Impact
+      - No Impact (Just reporting)
+      required: true
+    - id: 10
+      name: suggestions_for_better_company
+      label: Suggestions for Company Improvement
+      hint: General ideas to prevent such issues in the future
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_for_followup
+      label: Would you like someone from HR to contact you?
+      hint: Only if you provided your name
+      type: select_one
+      options:
+      - Yes, please contact me
+      - No, just reporting for record
+      required: true
+    - id: 12
+      name: complaint_feedback_date
+      label: Date Submitted
+      hint: Today's date
+      type: date
+      options: []
+      required: true

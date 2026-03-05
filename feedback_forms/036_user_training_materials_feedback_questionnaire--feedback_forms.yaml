@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Poor''}'
+      - Very Good
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 4
       name: trainer_supportiveness
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Always''}'
-      - '{''id'': 2, ''name'': ''Mostly''}'
-      - '{''id'': 3, ''name'': ''Rarely''}'
-      - '{''id'': 4, ''name'': ''Never''}'
+      - Always
+      - Mostly
+      - Rarely
+      - Never
       required: false
     - id: 5
       name: date
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''2 hours''}'
-      - '{''id'': 2, ''name'': ''4 hours''}'
-      - '{''id'': 3, ''name'': ''6 hours''}'
+      - 2 hours
+      - 4 hours
+      - 6 hours
       required: false
     - id: 16
       name: session_fees

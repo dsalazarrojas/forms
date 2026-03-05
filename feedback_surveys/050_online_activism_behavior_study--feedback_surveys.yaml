@@ -20,7 +20,7 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: category_1
       label: Category
@@ -31,169 +31,74 @@ inputSchema:
       - Other
       required: true
     - id: 3
-      name: description_1
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: demographics_1
       label: Demographics
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: motivations_1
       label: Motivations
       hint: null
       type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: perceptions_1
       label: Perceptions
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: page_2
       label: Page 2
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
-      name: category_2
-      label: Category
+      required: true
+    - id: 7
+      name: motivations_2
+      label: Motivations for Category
       hint: null
       type: select_one
       options:
-      - Feedback Surveys
-      - Other
+      - Category 1
+      - Category 2
+      required: true
+    - id: 8
+      name: demographics_2
+      label: Demographics of Category
+      hint: null
+      type: text
+      options: []
       required: true
     - id: 9
-      name: description_2
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: demographics_2
-      label: Demographics
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: motivations_2
-      label: Motivations
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: perceptions_2
-      label: Perceptions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
       name: page_3
       label: Page 3
       hint: null
       type: text
       options: []
-      required: false
-    - id: 14
-      name: category_3
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Feedback Surveys
-      - Other
       required: true
-    - id: 15
-      name: description_3
-      label: Description
+    - id: 10
+      name: perceptions_2
+      label: Perceptions of Category
       hint: null
       type: text
       options: []
-      required: false
-    - id: 16
-      name: demographics_3
-      label: Demographics
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
+      required: true
+    - id: 11
       name: page_4
       label: Page 4
       hint: null
       type: text
       options: []
-      required: false
-    - id: 18
-      name: category_4
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Feedback Surveys
-      - Other
       required: true
-    - id: 19
-      name: description_4
-      label: Description
+    - id: 12
+      name: perceptions_3
+      label: Self-Perceptions
       hint: null
       type: text
       options: []
-      required: false
-    - id: 20
-      name: demographics_4
-      label: Demographics
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: motivations_4
-      label: Motivations
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: perceptions_4
-      label: Perceptions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: page_5
-      label: Page 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: perceptions_5
-      label: Perceptions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submitted
-      label: Submitted
-      hint: null
-      type: note
-      options: []
-      required: false
+      required: true

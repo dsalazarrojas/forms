@@ -1,187 +1,176 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Baby Wishes Collection
     pages:
-      - id: 1
-        name: wellwisher_name
-        label: Your Full Name
-        hint: Name of person sharing wishes
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: wellwisher_email
-        label: Email Address
-        hint: For confirmation
-        type: email
-        options: []
-        required: false
-      - id: 3
-        name: relationship_to_parents
-        label: Relationship to Parents
-        hint: How do you know the family
-        type: select_one
-        options:
-          - Family Member
-          - Friend
-          - Co-worker
-          - Neighbor
-          - Other
-        required: true
-      - id: 4
-        name: baby_name
-        label: Baby Name
-        hint: Name of baby if known
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: baby_gender
-        label: Baby Gender
-        hint: If known
-        type: select_one
-        options:
-          - Boy
-          - Girl
-          - Surprise
-          - Twins or Multiples
-        required: false
-      - id: 6
-        name: wish_type
-        label: Type of Wish
-        hint: What type of message is this
-        type: select_one
-        options:
-          - General Well Wishes
-          - Advice for Parents
-          - Wish for Baby Future
-          - Blessing or Prayer
-          - Funny Message
-          - Poem or Quote
-        required: true
-      - id: 7
-        name: wish_message
-        label: Your Wish or Message
-        hint: Share your heartfelt message
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: advice_for_parents
-        label: Advice for New Parents
-        hint: Share your best parenting tip
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: wish_for_baby
-        label: Wish for Baby Future
-        hint: What do you hope for baby
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: favorite_quote
-        label: Favorite Quote or Saying
-        hint: Include a meaningful quote
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: memory_with_parents
-        label: Favorite Memory with Parents
-        hint: Share a special memory
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: prediction_for_baby
-        label: Prediction for Baby
-        hint: What do you think baby will be like
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: book_recommendation
-        label: Book Recommendation
-        hint: Suggest a book for baby or parents
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: include_photo
-        label: Include a Photo
-        hint: Would you like to include a photo with your message
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 15
-        name: photo_description
-        label: Photo Description
-        hint: Describe the photo you are including
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: keep_message_private
-        label: Keep Message Private
-        hint: Should this be private or shareable
-        type: select_one
-        options:
-          - Share with parents only
-          - OK to share publicly
-          - Include in baby book
-        required: true
-      - id: 17
-        name: contact_for_questions
-        label: Contact for Questions
-        hint: Can parents contact you with questions
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 18
-        name: willing_to_help
-        label: Willing to Help Family
-        hint: Are you available to help after baby arrives
-        type: select_one
-        options:
-          - Yes, happy to help
-          - Maybe, depends on timing
-          - No, sorry
-        required: false
-      - id: 19
-        name: help_type
-        label: Type of Help You Can Offer
-        hint: Select what you can provide
-        type: select_multiple
-        options:
-          - Meal delivery
-          - Babysitting
-          - Errands
-          - House cleaning
-          - Emotional support
-          - Cannot help at this time
-        required: false
-      - id: 20
-        name: submission_date
-        label: Date of Submission
-        hint: Today date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: wellwisher_name
+      label: Your Full Name
+      hint: Name of person sharing wishes
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: wellwisher_email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: relationship_to_parents
+      label: Relationship to Parents
+      hint: How do you know the family
+      type: select_one
+      options:
+      - Family Member
+      - Friend
+      - Co-worker
+      - Neighbor
+      - Other
+      required: true
+    - id: 4
+      name: baby_name
+      label: Baby Name
+      hint: Name of baby if known
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: baby_gender
+      label: Baby Gender
+      hint: If known
+      type: select_one
+      options:
+      - Boy
+      - Girl
+      - Surprise
+      - Twins or Multiples
+      required: false
+    - id: 6
+      name: wish_type
+      label: Type of Wish
+      hint: What type of message is this
+      type: select_one
+      options:
+      - General Well Wishes
+      - Advice for Parents
+      - Wish for Baby Future
+      - Blessing or Prayer
+      - Funny Message
+      - Poem or Quote
+      required: true
+    - id: 7
+      name: wish_message
+      label: Your Wish or Message
+      hint: Share your heartfelt message
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: advice_for_parents
+      label: Advice for New Parents
+      hint: Share your best parenting tip
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: wish_for_baby
+      label: Wish for Baby Future
+      hint: What do you hope for baby
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: favorite_quote
+      label: Favorite Quote or Saying
+      hint: Include a meaningful quote
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: memory_with_parents
+      label: Favorite Memory with Parents
+      hint: Share a special memory
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: prediction_for_baby
+      label: Prediction for Baby
+      hint: What do you think baby will be like
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: book_recommendation
+      label: Book Recommendation
+      hint: Suggest a book for baby or parents
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: include_photo
+      label: Include a Photo
+      hint: Would you like to include a photo with your message
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: photo_description
+      label: Photo Description
+      hint: Describe the photo you are including
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: keep_message_private
+      label: Keep Message Private
+      hint: Should this be private or shareable
+      type: select_one
+      options:
+      - Share with parents only
+      - OK to share publicly
+      - Include in baby book
+      required: true
+    - id: 17
+      name: contact_for_questions
+      label: Contact for Questions
+      hint: Can parents contact you with questions
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: willing_to_help
+      label: Willing to Help Family
+      hint: Are you available to help after baby arrives
+      type: select_one
+      options:
+      - Yes, happy to help
+      - Maybe, depends on timing
+      - No, sorry
+      required: false
+    - id: 19
+      name: help_type
+      label: Type of Help You Can Offer
+      hint: Select what you can provide
+      type: select_multiple
+      options:
+      - Meal delivery
+      - Babysitting
+      - Errands
+      - House cleaning
+      - Emotional support
+      - Cannot help at this time
+      required: false
+    - id: 20
+      name: submission_date
+      label: Date of Submission
+      hint: Today date
+      type: date
+      options: []
+      required: true

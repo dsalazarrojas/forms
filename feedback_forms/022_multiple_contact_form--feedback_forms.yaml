@@ -4,89 +4,59 @@ inputSchema:
     title: Multiple Contact Form
     pages:
     - id: 1
-      name: name
-      label: name
+      name: contact_name
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: email
-      label: email
+      label: Email Address
       hint: null
       type: email
       options: []
       required: true
     - id: 3
       name: phone
-      label: phone
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: feedback_field
+      label: Feedback
       hint: null
       type: text
       options: []
-      required: false
-    - id: 4
-      name: select_variety
-      label: select_variety
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: true
     - id: 5
-      name: feedback_field
-      label: feedback_field
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 6
       name: feedback_details
-      label: feedback_details
+      label: Additional details about your feedback
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
+    - id: 6
       name: select_variety
-      label: select_variety
+      label: Do you have any other concerns or issues?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: other_info_field
+      label: Do you have any other information to share?
+      hint: null
+      type: text
+      options: []
       required: true
     - id: 8
-      name: other_info_field
-      label: other_info_field
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 9
       name: other_info_details
-      label: other_info_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 12
-      name: phone
-      label: phone
+      label: Additional information about your other concerns
       hint: null
       type: text
       options: []

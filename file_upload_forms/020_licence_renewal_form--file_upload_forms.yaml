@@ -4,41 +4,94 @@ inputSchema:
     title: Licence Renewal Form
     pages:
     - id: 1
-      name: licence_renewal_form
-      label: licence_renewal_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: file_uploads
-      label: file_uploads
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: licence_renewal_form
-      label: licence_renewal_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: file_uploads
-      label: file_uploads
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: licence_renewal_form
-      label: licence_renewal_form
-      hint: null
+      name: current_license_type
+      label: What is your current license type?
+      hint: Please select your current license type
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Driver's License
+      - Vehicle License
+      - Other
+      required: true
+    - id: 2
+      name: name_on_license
+      label: What is your name as it appears on the license?
+      hint: Please enter your name exactly as it appears on your license
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: What is your date of birth?
+      hint: Please enter your date of birth in the format mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: current_address
+      label: What is your current address?
+      hint: Please enter your current address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: outstanding_traffic_offenses
+      label: Do you have any outstanding traffic offenses?
+      hint: Please select one of the options
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: years_held_license
+      label: How long have you held this license?
+      hint: Please enter the number of years
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: last_license_renewal_date
+      label: When did you last renew your license?
+      hint: Please enter the date of last license renewal in the format mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: contact_number
+      label: What is your contact number?
+      hint: Please enter your contact number
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: address_or_employment_changes
+      label: Do you have any new addresses or employment changes?
+      hint: Please enter details of changes
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: traffic_accident_involvement
+      label: Have you been involved in any traffic accidents since your last license
+        renewal?
+      hint: Please select one of the options
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: license_renewal_date
+      label: What is your license renewal date (mm/dd/yyyy)?
+      hint: Please enter your license renewal date in the format mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional comments
+      hint: Please add any additional comments
+      type: text
+      options: []
       required: false

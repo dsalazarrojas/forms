@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''male''}'
-      - '{''value'': ''female''}'
-      - '{''value'': ''other''}'
+      - male
+      - female
+      - other
       required: false
     - id: 3
       name: age
@@ -40,12 +40,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''primary''}'
-      - '{''value'': ''secondary''}'
-      - '{''value'': ''high_school''}'
-      - '{''value'': ''some_college''}'
-      - '{''value'': ''degree''}'
-      - '{''value'': ''some_university''}'
+      - primary
+      - secondary
+      - high school
+      - some college
+      - degree
+      - some university
       required: false
     - id: 6
       name: employment
@@ -53,12 +53,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''employed''}'
-      - '{''value'': ''not_employed''}'
-      - '{''value'': ''self_employed''}'
-      - '{''value'': ''student''}'
-      - '{''value'': ''retired''}'
-      - '{''value'': ''other''}'
+      - employed
+      - not employed
+      - self employed
+      - student
+      - retired
+      - other
       required: false
     - id: 7
       name: household_income
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''high''}'
-      - '{''value'': ''medium''}'
-      - '{''value'': ''low''}'
+      - high
+      - medium
+      - low
       required: false
     - id: 9
       name: policy_1
@@ -118,9 +118,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''agree''}'
-      - '{''value'': ''neutral''}'
-      - '{''value'': ''disagree''}'
+      - agree
+      - neutral
+      - disagree
       required: false
     - id: 15
       name: policy_7
@@ -128,9 +128,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''agree''}'
-      - '{''value'': ''neutral''}'
-      - '{''value'': ''disagree''}'
+      - agree
+      - neutral
+      - disagree
       required: false
     - id: 16
       name: policy_8
@@ -138,7 +138,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''agree''}'
-      - '{''value'': ''neutral''}'
-      - '{''value'': ''disagree''}'
+      - agree
+      - neutral
+      - disagree
       required: false

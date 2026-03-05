@@ -128,8 +128,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Online Payment Gateway''}'
-      - '{''id'': 2, ''name'': ''In-person Payment''}'
+      - Online Payment Gateway
+      - In-person Payment
       required: true
     - id: 19
       name: payment_transaction_id
@@ -151,9 +151,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Paid''}'
-      - '{''id'': 2, ''name'': ''Pending''}'
-      - '{''id'': 3, ''name'': ''Declined''}'
+      - Paid
+      - Pending
+      - Declined
       required: true
     - id: 22
       name: emergency_contact_relationship
@@ -175,9 +175,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Approved''}'
-      - '{''id'': 2, ''name'': ''Declined''}'
-      - '{''id'': 3, ''name'': ''Pending''}'
+      - Approved
+      - Declined
+      - Pending
       required: true
     - id: 25
       name: submit

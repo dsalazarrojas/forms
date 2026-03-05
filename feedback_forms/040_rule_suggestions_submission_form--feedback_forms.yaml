@@ -4,33 +4,34 @@ inputSchema:
     title: Rule Suggestions Submission Form
     pages:
     - id: 1
-      name: submit_rule_suggestion
+      name: rule_suggestion_submit
       label: Submit Rule Suggestion
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 2
-      name: suggestion_description
+      name: rule_suggestion_description
       label: Description
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: suggestion_category
+      name: submitter_category
       label: Category
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Category 1
+      - Category 2
+      - Category 3
       required: true
     - id: 4
-      name: suggested_by
-      label: Suggested By
+      name: submitter_name
+      label: Name
       hint: null
       type: text
       options: []
@@ -43,141 +44,85 @@ inputSchema:
       options: []
       required: true
     - id: 6
-      name: submitter_phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: submitter_department
       label: Department
       hint: null
       type: text
       options: []
       required: true
-    - id: 8
+    - id: 7
       name: submitter_position
       label: Position
       hint: null
       type: text
       options: []
       required: true
-    - id: 9
+    - id: 8
       name: submitter_comment
       label: Comment
       hint: null
       type: text
       options: []
       required: true
-    - id: 10
+    - id: 9
       name: submitter_attachment
       label: Attachment
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
+    - id: 10
       name: submitter_notes
       label: Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 12
-      name: submit_rule_suggestion_submit
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
+    - id: 11
       name: submit_form_submit
       label: Submit
       hint: null
       type: text
       options: []
       required: true
-    - id: 14
+    - id: 12
       name: submit
-      label: Submit
+      label: Submit (2)
       hint: null
       type: text
       options: []
       required: true
-    - id: 15
-      name: submit
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: submit_form
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: submitter_email
-      label: Email
+    - id: 13
+      name: submitter_email_2
+      label: Submitter Email 2
       hint: null
       type: email
       options: []
       required: true
-    - id: 18
+    - id: 14
       name: submitter_phone
       label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
-      name: submitter_department
-      label: Department
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: submitter_position
-      label: Position
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: submitter_comment
-      label: Comment
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: submitter_attachment
-      label: Attachment
+    - id: 15
+      name: submitter_attachment_2
+      label: Submitter Attachment 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 23
-      name: submitter_notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: submit
-      label: Submit
+    - id: 16
+      name: submitter_position_2
+      label: Submitter Position 2
       hint: null
       type: text
       options: []
       required: true
-    - id: 25
-      name: submit_form
-      label: Submit
+    - id: 17
+      name: submitter_department_2
+      label: Submitter Department 2
       hint: null
       type: text
       options: []

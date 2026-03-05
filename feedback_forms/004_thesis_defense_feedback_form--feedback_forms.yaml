@@ -1,195 +1,129 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Thesis Defense Feedback Form
     pages:
     - id: 1
-      name: thesis_defense_feedback_form_first_page
-      label: first_page
+      name: background_information
+      label: Background Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: first_page_section_1
-      label: section_1
+      name: reviewer_background
+      label: Reviewer's Background
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: first_page_section_1_question_1
-      label: question_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: first_page_section_1_question_2
-      label: question_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: first_page_section_2
-      label: section_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: first_page_section_2_question_1
-      label: question_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: first_page_section_2_question_2
-      label: question_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: first_page_section_3
-      label: section_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: first_page_section_3_question_1
-      label: question_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: first_page_section_3_question_2
-      label: question_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: second_page
-      label: second_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: second_page_section_1
-      label: section_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: second_page_section_1_question_1
-      label: question_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: second_page_section_1_question_2
-      label: question_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: second_page_section_2
-      label: section_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: second_page_section_2_question_1
-      label: question_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: second_page_section_2_question_2
-      label: question_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: second_page_section_3
-      label: section_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: second_page_section_3_question_1
-      label: question_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: second_page_section_3_question_2
-      label: question_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: second_page_section_3_question_3
-      label: question_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: submit
-      label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: reviewer_input
-      label: reviewer_input
+      name: evaluation_criteria
+      label: Evaluation Criteria
       hint: null
       type: select_one
       options:
-      - '{''id'': 24, ''name'': ''reviewer_input_1'', ''label'': ''reviewer_input_1'',
-        ''value'': 1}'
-      - '{''id'': 25, ''name'': ''reviewer_input_2'', ''label'': ''reviewer_input_2'',
-        ''value'': 2}'
-      required: false
-    - id: 25
-      name: additional_comments
-      label: additional_comments
+      - Content and Structure
+      - Methodology and Method
+      - Results and Discussion
+      - Overall Impression
+      required: true
+    - id: 4
+      name: relevance_and_impact
+      label: Relevance and Impact
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 5
+      name: originality_and_contribution
+      label: Originality and Contribution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: research_design_and_methodology
+      label: Research Design and Methodology
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: results_and_discussion
+      label: Results and Discussion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: overall_evaluation
+      label: Overall Evaluation
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 9
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 12
+      name: reviewer_background_2
+      label: Reviewer Background 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reviewer_contact
+      label: Reviewer's Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reviewer_signature
+      label: Reviewer's Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reviewer_declaration
+      label: Conflicts of Interest Declaration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: final_submission
+      label: Final Submission
+      hint: null
+      type: text
+      options: []
+      required: true

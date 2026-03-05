@@ -4,180 +4,89 @@ inputSchema:
     title: Schedule Drawing Submission Form
     pages:
     - id: 1
-      name: mainpage
-      label: Main Page
+      name: user_info
+      label: User's Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: mainpage_1
-      label: File Upload
+      name: file_details
+      label: File Title and Description
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: mainpage_2
-      label: File Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: mainpage_3
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: mainpage_4
+      name: file_type
       label: File Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 6
-      name: mainpage_5
+    - id: 4
+      name: file_category
       label: File Category
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 7
-      name: mainpage_6
-      label: Date
+    - id: 5
+      name: date_submission
+      label: Date of Submission
       hint: null
       type: date
       options: []
       required: true
-    - id: 8
-      name: mainpage_7
-      label: Time
+    - id: 6
+      name: time_submission
+      label: Time of Submission
       hint: null
       type: time
       options: []
       required: false
-    - id: 9
-      name: mainpage_8
-      label: Location
+    - id: 7
+      name: location_submission
+      label: Location of Submission
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: mainpage_9
-      label: Contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: mainpage_10
-      label: Phone
+    - id: 8
+      name: contact_info
+      label: User's Contact Information
       hint: null
       type: text
       options: []
       required: true
-    - id: 12
-      name: mainpage_11
-      label: Email
+    - id: 9
+      name: user_phone
+      label: User's Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: user_email
+      label: User's Email Address
       hint: null
       type: email
       options: []
       required: true
-    - id: 13
-      name: mainpage_12
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
       label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: mainpage_13
-      label: None
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: mainpage_14
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: mainpage_15
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: mainpage_16
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: mainpage_17
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: mainpage_18
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: mainpage_19
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: mainpage_20
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: mainpage_21
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: mainpage_22
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: mainpage_23
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: mainpage_24
-      label: None
       hint: null
       type: text
       options: []

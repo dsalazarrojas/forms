@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Meditation'', ''label'': ''Meditation''}'
-      - '{''value'': ''Yoga'', ''label'': ''Yoga''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Meditation
+      - Yoga
+      - Other
       required: false
     - id: 10
       name: attendee_count
@@ -96,8 +96,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': None, ''label'': ''chatjimmy''}'
-      - '{''value'': None, ''label'': ''None''}'
+      - chatjimmy
+      - None
       required: false
     - id: 14
       name: output_file

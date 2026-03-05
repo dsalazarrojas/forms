@@ -4,15 +4,15 @@ inputSchema:
     title: Evidence Summary Survey
     pages:
     - id: 1
-      name: general_info
-      label: general_info
+      name: general_information
+      label: General Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: evidence
-      label: evidence
+      name: evidence_selection
+      label: Select Relevant Evidence or Findings
       hint: Select the relevant evidence or findings for this survey
       type: select_multiple
       options:
@@ -21,50 +21,50 @@ inputSchema:
       - None of the above
       required: false
     - id: 3
-      name: summary
-      label: summary
+      name: summary_statement
+      label: Summary of Findings or Evidence
       hint: Provide a brief summary of the findings or evidence
       type: text
       options: []
       required: false
     - id: 4
       name: impact_statement
-      label: impact_statement
+      label: Impact Statement
       hint: Describe the impact of the findings or evidence on the outcome
       type: text
       options: []
       required: false
     - id: 5
       name: recommendation
-      label: recommendation
+      label: Recommendation
       hint: If applicable, provide recommendations for future action or further investigation
       type: text
       options: []
       required: false
     - id: 6
       name: evidence_statement
-      label: evidence_statement
+      label: Detailed Description of Evidence or Findings
       hint: Provide a detailed description of the evidence or findings
       type: text
       options: []
       required: false
     - id: 7
       name: reference_statement
-      label: reference_statement
+      label: Reference or Citation
       hint: Provide a reference or citation for the evidence or findings
       type: text
       options: []
       required: false
     - id: 8
-      name: other
-      label: other
+      name: other_statement
+      label: Other
       hint: Other (please specify)
       type: text
       options: []
       required: false
     - id: 9
       name: assigned_tool
-      label: assigned_tool
+      label: Assigned Tool
       hint: null
       type: select_one
       options:
@@ -72,116 +72,16 @@ inputSchema:
       - other
       required: false
     - id: 10
-      name: assigned_tool_description
-      label: assigned_tool_description
-      hint: Provide a brief description of the tool assigned to this participant
+      name: participant_info_general
+      label: Participant Information
+      hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: participant_info
-      label: participant_info
+      name: participant_info_tool
+      label: Participant Info Tool
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 12
-      name: participant_info_form_id
-      label: participant_info_form_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: participant_info_assigned_tool
-      label: participant_info_assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - other
-      required: false
-    - id: 14
-      name: participant_info_email
-      label: participant_info_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: participant_info_phone
-      label: participant_info_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: participant_info_name
-      label: participant_info_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: participant_info_job_title
-      label: participant_info_job_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: participant_info_department
-      label: participant_info_department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: participant_info_institution
-      label: participant_info_institution
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: participant_info_job_title_other
-      label: participant_info_job_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: participant_info_department_other
-      label: participant_info_department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: participant_info_institution_other
-      label: participant_info_institution
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: participant_info_date
-      label: participant_info_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: participant_info_date_time
-      label: participant_info_date_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: participant_info_date_time
-      label: participant_info_date
-      hint: null
-      type: time
       options: []
       required: false

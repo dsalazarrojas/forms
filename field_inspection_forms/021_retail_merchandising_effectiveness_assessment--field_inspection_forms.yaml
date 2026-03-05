@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Region 1''}'
-      - '{''id'': 2, ''name'': ''Region 2''}'
-      - '{''id'': 3, ''name'': ''Region 3''}'
+      - Region 1
+      - Region 2
+      - Region 3
       required: true
     - id: 3
       name: store_address
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 13
       name: store_status
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Open''}'
-      - '{''id'': 2, ''name'': ''Closed''}'
-      - '{''id'': 3, ''name'': ''Temporarily Closed''}'
+      - Open
+      - Closed
+      - Temporarily Closed
       required: true
     - id: 14
       name: store_comments
@@ -116,8 +116,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''User 1''}'
-      - '{''id'': 2, ''name'': ''User 2''}'
+      - User 1
+      - User 2
       required: true
     - id: 16
       name: created_by
@@ -125,8 +125,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''User 1''}'
-      - '{''id'': 2, ''name'': ''User 2''}'
+      - User 1
+      - User 2
       required: false
     - id: 17
       name: updated_by
@@ -134,8 +134,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''User 1''}'
-      - '{''id'': 2, ''name'': ''User 2''}'
+      - User 1
+      - User 2
       required: false
     - id: 18
       name: updated_date

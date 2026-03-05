@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 30, ''label'': ''30 minutes''}'
-      - '{''value'': 45, ''label'': ''45 minutes''}'
-      - '{''value'': 60, ''label'': ''60 minutes''}'
-      - '{''value'': 90, ''label'': ''90 minutes''}'
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes
       required: false
     - id: 5
       name: pricing
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''private'', ''label'': ''Private Session''}'
-      - '{''value'': ''package'', ''label'': ''Package (multiple sessions)''}'
-      - '{''value'': ''group'', ''label'': ''Group Class''}'
+      - Private Session
+      - Package (multiple sessions)
+      - Group Class
       required: false
     - id: 6
       name: location
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''studio'', ''label'': ''Studio''}'
-      - '{''value'': ''home'', ''label'': ''Home''}'
-      - '{''value'': ''online'', ''label'': ''Online''}'
+      - Studio
+      - Home
+      - Online
       required: false
     - id: 7
       name: services
@@ -61,9 +61,9 @@ inputSchema:
       hint: Select additional services (check all that apply)
       type: select_multiple
       options:
-      - '{''value'': ''meditation'', ''label'': ''Meditation''}'
-      - '{''value'': ''yoga'', ''label'': ''Yoga''}'
-      - '{''value'': ''breathwork'', ''label'': ''Breathwork''}'
+      - Meditation
+      - Yoga
+      - Breathwork
       required: false
     - id: 8
       name: estimated_price
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 4, ''label'': ''4 sessions''}'
-      - '{''value'': 8, ''label'': ''8 sessions''}'
-      - '{''value'': 12, ''label'': ''12 sessions''}'
+      - 4 sessions
+      - 8 sessions
+      - 12 sessions
       required: false
     - id: 10
       name: package_price
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 120, ''label'': ''$120''}'
-      - '{''value'': 180, ''label'': ''$180''}'
-      - '{''value'': 240, ''label'': ''$240''}'
+      - $120
+      - $180
+      - $240
       required: false
     - id: 11
       name: group_count
@@ -98,10 +98,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''1-2'', ''label'': ''1-2 students''}'
-      - '{''value'': ''3-4'', ''label'': ''3-4 students''}'
-      - '{''value'': ''5-10'', ''label'': ''5-10 students''}'
-      - '{''value'': ''11+'', ''label'': ''More than 10 students''}'
+      - 1-2 students
+      - 3-4 students
+      - 5-10 students
+      - More than 10 students
       required: false
     - id: 12
       name: estimated_price_group

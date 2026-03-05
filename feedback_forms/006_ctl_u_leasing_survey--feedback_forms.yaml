@@ -4,107 +4,119 @@ inputSchema:
     title: ctl_u_leasing_survey
     pages:
     - id: 1
-      name: form_id
-      label: form_id
-      hint: null
-      type: number
+      name: user_name
+      label: User Name
+      hint: Please enter your name
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: Select a rating from 1-5
+      type: select_one
+      options:
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
+      required: true
     - id: 3
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: main_reason
+      label: Main Reason for Choosing
+      hint: Please select the main reason
+      type: select_one
+      options:
+      - Price
+      - Quality
+      - Service
+      - Other (please specify)
+      required: true
     - id: 4
-      name: form_id
-      label: form_id
-      hint: null
-      type: number
-      options: []
-      required: false
+      name: frequency_of_use
+      label: Frequency of Use
+      hint: Select the frequency
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
     - id: 5
-      name: output_file
-      label: output_file
-      hint: null
+      name: comments
+      label: Comments
+      hint: Please enter your comments
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: service_quality
+      label: Service Quality
+      hint: Select a rating from 1-5
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 7
-      name: title
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: support_responsiveness
+      label: Support Responsiveness
+      hint: Select a rating
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 8
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: tool_type
+      label: Tool Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Drill
+      - Saw
+      - Welder
+      - Other (please specify)
+      required: true
     - id: 9
-      name: category
-      label: category
-      hint: null
+      name: output_feedback
+      label: Output Feedback
+      hint: Please enter your feedback
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: age_range
+      label: Age Range
+      hint: Select your age range
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
     - id: 11
-      name: form_id
-      label: form_id
-      hint: null
-      type: number
-      options: []
-      required: false
+      name: website_ease
+      label: Website Ease of Navigation
+      hint: Select a rating from 1-5
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 12
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: form_id
-      label: form_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: form_id
-      label: form_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: output_quality
+      label: Output Quality
+      hint: Please select the output quality
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true

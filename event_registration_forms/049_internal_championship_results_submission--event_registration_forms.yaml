@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      - 'True'
+      - 'False'
+      - Not Applicable
       required: false
     - id: 3
       name: event_name
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Competition A''}'
-      - '{''id'': 2, ''label'': ''Competition B''}'
-      - '{''id'': 3, ''label'': ''Type C''}'
+      - Competition A
+      - Competition B
+      - Type C
       required: false
     - id: 8
       name: competition_type_2
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Competition A''}'
-      - '{''id'': 2, ''label'': ''Competition B''}'
-      - '{''id'': 3, ''label'': ''Type C''}'
+      - Competition A
+      - Competition B
+      - Type C
       required: false
     - id: 9
       name: judges_score
@@ -95,7 +95,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pending''}'
-      - '{''id'': 2, ''label'': ''Approved''}'
-      - '{''id'': 3, ''label'': ''Denied''}'
+      - Pending
+      - Approved
+      - Denied
       required: false

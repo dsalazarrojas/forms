@@ -1,139 +1,128 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Auto Parts Verification Form
     pages:
-      - id: 1
-        name: tech_info_header
-        label: -- Inspector and Technician Info --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: technician_name
-        label: Technician Name
-        hint: Person performing the verification
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: shop_name
-        label: Shop Name
-        hint: Repair facility or parts center
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: verification_date
-        label: Verification Date
-        hint: Today's date
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: vehicle_id_header
-        label: -- Vehicle Identification --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: vehicle_vin
-        label: Vehicle VIN
-        hint: 17-digit ID for the target vehicle
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: vehicle_desc
-        label: Vehicle Make, Model, and Year
-        hint: e.g. 2021 Toyota RAV4
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: part_verification_header
-        label: -- Part Verification Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: part_name
-        label: Part Name
-        hint: Common name of the part
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: part_number
-        label: Manufacturer Part Number
-        hint: Official ID on the part or box
-        type: text
-        options: []
-        required: true
-      - id: 11
-        name: serial_number
-        label: Serial Number on Part
-        hint: If applicable
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: part_source
-        label: Part Source
-        hint: Origin of the replacement part
-        type: select_one
-        options:
-          - OEM
-          - Aftermarket
-          - Recycled
-        required: true
-      - id: 13
-        name: condition_check
-        label: Part Condition Check
-        hint: Visual assessment of the part
-        type: select_one
-        options:
-          - New
-          - Like New
-          - Fair
-          - Defective
-        required: true
-      - id: 14
-        name: packaging_intact
-        label: Packaging Intact
-        hint: Was the part delivered in good condition?
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 15
-        name: mounting_match
-        label: Mounting Points Match
-        hint: Does the part fit the vehicle specifications?
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 16
-        name: verification_notes
-        label: Verification Notes or Discrepancies
-        hint: Record any issues found during inspection
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: tech_info_header
+      label: -- Inspector and Technician Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: technician_name
+      label: Technician Name
+      hint: Person performing the verification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shop_name
+      label: Shop Name
+      hint: Repair facility or parts center
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: verification_date
+      label: Verification Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_id_header
+      label: -- Vehicle Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: 17-digit ID for the target vehicle
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_desc
+      label: Vehicle Make, Model, and Year
+      hint: e.g. 2021 Toyota RAV4
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: part_verification_header
+      label: -- Part Verification Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: part_name
+      label: Part Name
+      hint: Common name of the part
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: part_number
+      label: Manufacturer Part Number
+      hint: Official ID on the part or box
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: serial_number
+      label: Serial Number on Part
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: part_source
+      label: Part Source
+      hint: Origin of the replacement part
+      type: select_one
+      options:
+      - OEM
+      - Aftermarket
+      - Recycled
+      required: true
+    - id: 13
+      name: condition_check
+      label: Part Condition Check
+      hint: Visual assessment of the part
+      type: select_one
+      options:
+      - New
+      - Like New
+      - Fair
+      - Defective
+      required: true
+    - id: 14
+      name: packaging_intact
+      label: Packaging Intact
+      hint: Was the part delivered in good condition?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: mounting_match
+      label: Mounting Points Match
+      hint: Does the part fit the vehicle specifications?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: verification_notes
+      label: Verification Notes or Discrepancies
+      hint: Record any issues found during inspection
+      type: text
+      options: []
+      required: false

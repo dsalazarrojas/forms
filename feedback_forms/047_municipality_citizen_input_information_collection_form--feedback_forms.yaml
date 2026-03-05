@@ -32,10 +32,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None'', ''value'': 0}'
-      - '{''label'': ''Mayor'', ''value'': 1}'
-      - '{''label'': ''Department 1'', ''value'': 2}'
-      - '{''label'': ''Department 2'', ''value'': 3}'
+      - None
+      - Mayor
+      - Department 1
+      - Department 2
       required: true
     - id: 5
       name: contact_number
@@ -78,11 +78,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Good'', ''value'': 5}'
-      - '{''label'': ''Good'', ''value'': 4}'
-      - '{''label'': ''Neutral'', ''value'': 3}'
-      - '{''label'': ''Bad'', ''value'': 2}'
-      - '{''label'': ''Very Bad'', ''value'': 1}'
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
+      - Very Bad
       required: true
     - id: 11
       name: additional_comments

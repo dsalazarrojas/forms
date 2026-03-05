@@ -60,8 +60,8 @@ inputSchema:
       hint: Symptom screening
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 8
       name: symptom_list
@@ -86,8 +86,8 @@ inputSchema:
       hint: Recent test
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 10
       name: recent_exposure
@@ -96,8 +96,8 @@ inputSchema:
       hint: Exposure history
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 11
       name: household_members_symptoms
@@ -105,8 +105,8 @@ inputSchema:
       hint: Household screening
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       - I live alone
       required: true
     - id: 12
@@ -115,8 +115,8 @@ inputSchema:
       hint: Travel history
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 13
       name: vaccination_status
@@ -153,7 +153,7 @@ inputSchema:
       hint: Anxiety level
       type: select_one
       options:
-      - false
+      - 'False'
       - Mild
       - Moderate
       - Severe
@@ -185,8 +185,8 @@ inputSchema:
       hint: Latex sensitivity
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       - Not sure
       required: true
     - id: 20

@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: comment
@@ -102,8 +102,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: send_reminders_time
@@ -125,8 +125,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone''}'
+      - Email
+      - Phone
       required: false
     - id: 18
       name: graduation_ceremony_rsvp_form_additional_notes
@@ -157,8 +157,8 @@ inputSchema:
       options: []
       required: false
     - id: 22
-      name: graduation_date
-      label: Graduation Date
+      name: graduation_date_2
+      label: Graduation Date 2
       hint: null
       type: date
       options: []
@@ -176,8 +176,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High School''}'
-      - '{''id'': 2, ''name'': ''College''}'
+      - High School
+      - College
       required: false
     - id: 25
       name: graduation_type
@@ -185,12 +185,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Graduation''}'
-      - '{''id'': 2, ''name'': ''Commencement''}'
+      - Graduation
+      - Commencement
       required: false
     - id: 26
       name: graduation_ceremony_rsvp_form_comments
-      label: Comments
+      label: Graduation Ceremony Rsvp Form Comments
       hint: null
       type: note
       options: []
@@ -210,8 +210,8 @@ inputSchema:
       options: []
       required: false
     - id: 29
-      name: graduation_ceremony_rsvp_form_signature
-      label: Signature
+      name: graduation_ceremony_rsvp_form_signature_2
+      label: Graduation Ceremony Rsvp Form Signature 2
       hint: null
       type: text
       options: []
@@ -231,8 +231,8 @@ inputSchema:
       options: []
       required: false
     - id: 32
-      name: graduation_ceremony_rsvp_form_signature
-      label: Signature
+      name: graduation_ceremony_rsvp_form_signature_3
+      label: Graduation Ceremony Rsvp Form Signature 3
       hint: null
       type: text
       options: []

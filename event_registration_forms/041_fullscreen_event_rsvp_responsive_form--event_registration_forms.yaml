@@ -15,177 +15,83 @@ inputSchema:
     title: Fullscreen Event RSVP Responsive Form
     pages:
     - id: 1
-      name: page_1
+      name: rsvp_information
       label: RSVP Information
-      hint: null
+      hint: Provide your name and contact information.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: page_2
+      name: event_details
       label: Event Details
-      hint: null
+      hint: Please describe the event in details.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: page_3
+      name: event_rsvp
       label: Event RSVP
-      hint: null
-      type: text
-      options: []
-      required: false
+      hint: Choose the number of people attending
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - 5 or more
+      required: true
     - id: 4
-      name: page_4
+      name: additional_info
       label: Additional Information
-      hint: null
+      hint: Provide any additional information about the event.
       type: text
       options: []
       required: false
     - id: 5
-      name: page_5
-      label: Event Summary
-      hint: null
+      name: summary
+      label: Summary
+      hint: Summarize the event in a few words.
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: page_6
-      label: Submit Event
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: page_7
-      label: RSVP Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: page_8
-      label: Submit RSVP
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: page_9
-      label: Additional Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: page_10
-      label: Event Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: page_11
-      label: RSVP Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: page_12
-      label: Submit Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: page_13
-      label: Event Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: page_14
-      label: RSVP Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: page_15
-      label: Submit Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: page_16
-      label: Info RSVP
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: page_17
-      label: Additional Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: page_18
-      label: Summary Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: page_19
-      label: Submit RSVP
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: page_20
-      label: Event Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: page_21
-      label: RSVP Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: page_22
+      name: event_registration
       label: Event Registration
-      hint: null
-      type: text
+      hint: Confirm event registration.
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 7
+      name: submit_rsvp
+      label: Submit RSVP
+      hint: Confirm your RSVP.
+      type: radio
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 8
+      name: confirm_rsvp
+      label: Confirm RSVP
+      hint: Confirm your attendance.
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Event date and time.
+      type: date
       options: []
-      required: false
-    - id: 23
-      name: page_23
-      label: Submit Info
-      hint: null
-      type: text
+      required: true
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: Event start and end time.
+      type: time
       options: []
-      required: false
-    - id: 24
-      name: page_24
-      label: RSVP Event
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: page_25
-      label: Additional Info
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

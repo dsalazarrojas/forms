@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''beginner''}'
-      - '{''value'': ''intermediate''}'
-      - '{''value'': ''advanced''}'
+      - beginner
+      - intermediate
+      - advanced
       required: false
     - id: 6
       name: products_sourced
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''maybe''}'
+      - 'True'
+      - 'False'
+      - maybe
       required: false
     - id: 7
       name: workshop_date

@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: safety_hazards
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Other (please specify)''}'
+      - 'True'
+      - 'False'
+      - Other (please specify)
       required: false
     - id: 5
       name: safety_hazards_other
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Other (please specify)''}'
+      - 'True'
+      - 'False'
+      - Other (please specify)
       required: false
     - id: 8
       name: site_equipment_other

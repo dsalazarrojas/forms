@@ -4,177 +4,44 @@ inputSchema:
     title: Practical Guidance Registration Form
     pages:
     - id: 1
-      name: event_registration_form
-      label: registration
-      hint: null
+      name: event_details
+      label: Event Information
+      hint: Please provide event details below
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: workshop_name
-      label: workshop_name
-      hint: null
+      name: participant_details
+      label: Participant Information
+      hint: Please provide participant details below
       type: text
       options: []
       required: false
     - id: 3
-      name: date
-      label: date
-      hint: null
+      name: event_date
+      label: Event Date
+      hint: Please select event date
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
-      name: time
-      label: time
-      hint: null
+      name: event_time
+      label: Event Time
+      hint: Please select event time
       type: time
       options: []
-      required: false
+      required: true
     - id: 5
-      name: participant_name
-      label: participant_name
-      hint: null
-      type: text
+      name: participant_email
+      label: Participant Email
+      hint: Please enter participant email
+      type: email
       options: []
-      required: false
+      required: true
     - id: 6
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 7
       name: participant_phone
-      label: participant_phone
-      hint: null
+      label: Participant Phone
+      hint: Please enter participant phone number
       type: text
       options: []
-      required: false
-    - id: 8
-      name: event_description
-      label: event_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: event_start_date
-      label: event_start_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: event_end_date
-      label: event_end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: participant_email
-      label: participant_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: participant_phone
-      label: participant_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: participant_email
-      label: participant_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: participant_phone
-      label: participant_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: participant_phone
-      label: participant_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: participant_phone
-      label: participant_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: participant_phone
-      label: participant_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: participant_phone
-      label: participant_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: participant_phone
-      label: participant_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: participant_phone
-      label: participant_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: participant_phone
-      label: participant_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: participant_phone
-      label: participant_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: participant_phone
-      label: participant_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: participant_phone
-      label: participant_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: participant_phone
-      label: participant_phone
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

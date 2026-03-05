@@ -5,86 +5,86 @@ inputSchema:
     pages:
     - id: 1
       name: training_assignment_submission_form_1
-      label: Submit Training Assignment
+      label: What type of file is this?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 2
-      name: uploaded_files
-      label: Files
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 3
       name: description
       label: Description
       hint: null
       type: text
       options: []
       required: true
-    - id: 4
-      name: training_assignment_submission_form_4
+    - id: 3
+      name: training_assignment_submission_form_3
       label: Submit Training Assignment
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 5
+    - id: 4
       name: submitted_by
-      label: Submitted By
+      label: Who submitted this?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 6
+    - id: 5
       name: date_submitted
       label: Date Submitted
       hint: null
       type: date
       options: []
       required: true
-    - id: 7
+    - id: 6
       name: time_submitted
       label: Time Submitted
       hint: null
       type: time
       options: []
       required: true
-    - id: 8
-      name: training_assignment_submission_form_8
-      label: Submit Training Assignment
+    - id: 7
+      name: training_assignment_submission_form_7
+      label: Training Assignment Submission Form 7
       hint: null
       type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 9
-      name: training_assignment_submission_form_9
-      label: Submit Training Assignment
-      hint: null
-      type: select_multiple
       options:
       - 'Yes'
       - 'No'
+      - Other
+      required: false
+    - id: 8
+      name: training_assignment_submission_form_8
+      label: Training Assignment Submission Form 8
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: training_assignment_submission_form_9
+      label: Training Assignment Submission Form 9
+      hint: null
+      type: text
+      options: []
       required: true
     - id: 10
       name: training_assignment_submission_form_10
-      label: Submit Training Assignment
+      label: Training Assignment Submission Form
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

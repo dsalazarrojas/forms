@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''attendee'', ''label'': ''Attendee''}'
-      - '{''id'': 11, ''name'': ''speaker'', ''label'': ''Speaker''}'
-      - '{''id'': 12, ''name'': ''exhibitor'', ''label'': ''Exhibitor''}'
+      - Attendee
+      - Speaker
+      - Exhibitor
       required: false
     - id: 8
       name: payment_type
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 13, ''name'': ''online_payment'', ''label'': ''Online Payment''}'
-      - '{''id'': 14, ''name'': ''offline_payment'', ''label'': ''Offline Payment''}'
-      - '{''id'': 15, ''name'': ''no_payment'', ''label'': ''No Payment''}'
+      - Online Payment
+      - Offline Payment
+      - No Payment
       required: false
     - id: 9
       name: event_date
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 16, ''name'': ''visa'', ''label'': ''Visa''}'
-      - '{''id'': 17, ''name'': ''mastercard'', ''label'': ''Mastercard''}'
-      - '{''id'': 18, ''name'': ''amex'', ''label'': ''Amex''}'
+      - Visa
+      - Mastercard
+      - Amex
       required: false
     - id: 15
       name: payment_amount

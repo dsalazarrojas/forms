@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''John Doe''}'
-      - '{''name'': ''Jane Doe''}'
-      - '{''name'': ''Other''}'
+      - John Doe
+      - Jane Doe
+      - Other
       required: false
     - id: 2
       name: date_of_inspection
@@ -26,10 +26,10 @@ inputSchema:
       hint: Check the condition of all equipment
       type: select_multiple
       options:
-      - '{''name'': ''Good''}'
-      - '{''name'': ''Fair''}'
-      - '{''name'': ''Poor''}'
-      - '{''name'': ''Unknown''}'
+      - Good
+      - Fair
+      - Poor
+      - Unknown
       required: false
     - id: 4
       name: cleanliness
@@ -37,9 +37,9 @@ inputSchema:
       hint: Check the cleanliness of the room
       type: select_multiple
       options:
-      - '{''name'': ''Good''}'
-      - '{''name'': ''Fair''}'
-      - '{''name'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 5
       name: temperature

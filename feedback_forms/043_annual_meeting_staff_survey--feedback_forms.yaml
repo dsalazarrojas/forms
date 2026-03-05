@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,18 +23,18 @@ inputSchema:
       hint: Your department
       type: select_one
       options:
-        - Human Resources
-        - Finance
-        - Operations
-        - Marketing
-        - Sales
-        - IT
-        - Engineering
-        - Customer Service
-        - Legal
-        - Executive
-        - Other
-        - Prefer Not to Say
+      - Human Resources
+      - Finance
+      - Operations
+      - Marketing
+      - Sales
+      - IT
+      - Engineering
+      - Customer Service
+      - Legal
+      - Executive
+      - Other
+      - Prefer Not to Say
       required: false
     - id: 4
       name: position_level
@@ -53,13 +42,13 @@ inputSchema:
       hint: Your level
       type: select_one
       options:
-        - Entry Level
-        - Mid-Level
-        - Senior
-        - Manager
-        - Director
-        - Executive
-        - Other
+      - Entry Level
+      - Mid-Level
+      - Senior
+      - Manager
+      - Director
+      - Executive
+      - Other
       required: false
     - id: 5
       name: meeting_year
@@ -67,10 +56,10 @@ inputSchema:
       hint: Which meeting?
       type: select_one
       options:
-        - 2026
-        - 2025
-        - 2024
-        - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       required: true
     - id: 6
       name: attendance_type
@@ -78,9 +67,9 @@ inputSchema:
       hint: How did you attend?
       type: select_one
       options:
-        - In Person
-        - Virtual
-        - Hybrid
+      - In Person
+      - Virtual
+      - Hybrid
       required: true
     - id: 7
       name: overall_satisfaction
@@ -88,11 +77,11 @@ inputSchema:
       hint: Rate the meeting
       type: select_one
       options:
-        - Very Satisfied
-        - Satisfied
-        - Neutral
-        - Dissatisfied
-        - Very Dissatisfied
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
       required: true
     - id: 8
       name: meeting_content
@@ -100,11 +89,11 @@ inputSchema:
       hint: Rate the content
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
       required: true
     - id: 9
       name: presentation_quality
@@ -112,11 +101,11 @@ inputSchema:
       hint: Rate presentations
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
       required: true
     - id: 10
       name: speaker_effectiveness
@@ -124,11 +113,11 @@ inputSchema:
       hint: Rate speakers
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
       required: true
     - id: 11
       name: relevance_to_role
@@ -136,11 +125,11 @@ inputSchema:
       hint: How relevant?
       type: select_one
       options:
-        - Very Relevant
-        - Relevant
-        - Somewhat Relevant
-        - Not Very Relevant
-        - Not Relevant
+      - Very Relevant
+      - Relevant
+      - Somewhat Relevant
+      - Not Very Relevant
+      - Not Relevant
       required: true
     - id: 12
       name: information_clarity
@@ -148,11 +137,11 @@ inputSchema:
       hint: How clear?
       type: select_one
       options:
-        - Very Clear
-        - Clear
-        - Somewhat Clear
-        - Unclear
-        - Very Unclear
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      - Very Unclear
       required: true
     - id: 13
       name: meeting_length
@@ -160,9 +149,9 @@ inputSchema:
       hint: Was it appropriate?
       type: select_one
       options:
-        - Too Long
-        - Just Right
-        - Too Short
+      - Too Long
+      - Just Right
+      - Too Short
       required: true
     - id: 14
       name: pacing
@@ -170,11 +159,11 @@ inputSchema:
       hint: Rate the pace
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
       required: true
     - id: 15
       name: q_and_a_sessions
@@ -182,11 +171,11 @@ inputSchema:
       hint: Were they helpful?
       type: select_one
       options:
-        - Very Helpful
-        - Helpful
-        - Neutral
-        - Not Helpful
-        - Did Not Attend
+      - Very Helpful
+      - Helpful
+      - Neutral
+      - Not Helpful
+      - Did Not Attend
       required: false
     - id: 16
       name: networking_opportunities
@@ -194,12 +183,12 @@ inputSchema:
       hint: Rate networking
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
-        - Not Applicable
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      - Not Applicable
       required: false
     - id: 17
       name: technology_platform
@@ -207,12 +196,12 @@ inputSchema:
       hint: Rate the platform
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
-        - Not Applicable
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      - Not Applicable
       required: false
     - id: 18
       name: materials_provided
@@ -220,11 +209,11 @@ inputSchema:
       hint: Were they useful?
       type: select_one
       options:
-        - Very Useful
-        - Useful
-        - Neutral
-        - Not Useful
-        - Not Provided
+      - Very Useful
+      - Useful
+      - Neutral
+      - Not Useful
+      - Not Provided
       required: false
     - id: 19
       name: key_takeaways
@@ -260,11 +249,11 @@ inputSchema:
       hint: Would you recommend?
       type: select_one
       options:
-        - Very Likely
-        - Likely
-        - Neutral
-        - Unlikely
-        - Very Unlikely
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
       required: true
     - id: 24
       name: suggestions_for_improvement

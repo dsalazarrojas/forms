@@ -4,22 +4,15 @@ inputSchema:
     title: Tournament Award Ribbon Color Choice Order Form
     pages:
     - id: 1
-      name: tournament_award_ribbon_choice_order_form
-      label: Tournament Award Ribbon Choice Order Form
+      name: tournament_name
+      label: Tournament Name
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: quantity_1
-      label: quantity
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 3
-      name: color_1
-      label: color
+      name: color
+      label: Award Color
       hint: null
       type: select_one
       options:
@@ -27,16 +20,16 @@ inputSchema:
       - blue
       - green
       required: false
-    - id: 4
-      name: quantity_2
-      label: quantity
+    - id: 3
+      name: quantity
+      label: Quantity of Winners
       hint: null
       type: number
       options: []
       required: false
-    - id: 5
-      name: payment_type_1
-      label: payment type
+    - id: 4
+      name: payment_type
+      label: Payment Type
       hint: null
       type: select_one
       options:
@@ -44,70 +37,72 @@ inputSchema:
       - Online Payment
       - Cash
       required: false
+    - id: 5
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
     - id: 6
-      name: quantity_3
-      label: quantity
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: payment_amount_1
-      label: payment amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
       name: notes
-      label: notes
+      label: Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 9
-      name: email_1
-      label: email
+    - id: 7
+      name: email
+      label: Email
       hint: null
       type: email
       options: []
       required: false
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: confirm_payment_terms
+      label: Confirm Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
     - id: 10
-      name: email_2
-      label: email
+      name: confirm_email
+      label: Confirm Email
       hint: null
       type: email
       options: []
       required: false
     - id: 11
-      name: phone_1
-      label: phone
+      name: payment_method
+      label: Payment Method
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 12
-      name: phone_2
-      label: phone
+      name: payment_method_details
+      label: Payment Method Details
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: payment_terms
-      label: payment terms
+      name: payment_method_details2
+      label: Payment Method Details 2
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: payment_terms
-      label: payment terms
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Grant''}'
-      - '{''id'': 2, ''label'': ''Loan''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Grant
+      - Loan
+      - Other
       required: false
     - id: 5
       name: satisfaction_level
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Satisfied''}'
-      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 3, ''label'': ''Not Very Satisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Very Satisfied
       required: false
     - id: 6
       name: impact_area
@@ -50,10 +50,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Education''}'
-      - '{''id'': 2, ''label'': ''Health''}'
-      - '{''id'': 3, ''label'': ''Environment''}'
-      - '{''id'': 4, ''label'': ''Arts''}'
+      - Education
+      - Health
+      - Environment
+      - Arts
       required: false
     - id: 7
       name: improvement_ideas

@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''File Server'', ''value'': ''File Server''}'
-      - '{''id'': 2, ''label'': ''NAS'', ''value'': ''NAS''}'
-      - '{''id'': 3, ''label'': ''SAN'', ''value'': ''SAN''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      - File Server
+      - NAS
+      - SAN
+      - Other
       required: false
     - id: 3
       name: storage_location
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''On-premise'', ''value'': ''On-premise''}'
-      - '{''id'': 2, ''label'': ''Cloud'', ''value'': ''Cloud''}'
-      - '{''id'': 3, ''label'': ''Hybrid'', ''value'': ''Hybrid''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      - On-premise
+      - Cloud
+      - Hybrid
+      - Other
       required: false
     - id: 4
       name: satisfaction
@@ -59,10 +59,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Server'', ''value'': ''Server''}'
-      - '{''id'': 2, ''label'': ''Storage'', ''value'': ''Storage''}'
-      - '{''id'': 3, ''label'': ''Rack'', ''value'': ''Rack''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      - Server
+      - Storage
+      - Rack
+      - Other
       required: false
     - id: 8
       name: product_rating
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''On-site'', ''value'': ''On-site''}'
-      - '{''id'': 2, ''label'': ''Off-site'', ''value'': ''Off-site''}'
-      - '{''id'': 3, ''label'': ''Both'', ''value'': ''Both''}'
+      - On-site
+      - Off-site
+      - Both
       required: false
     - id: 10
       name: service_rating

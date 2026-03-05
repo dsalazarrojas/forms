@@ -1,198 +1,156 @@
 inputSchema:
   type: object
   properties:
-    title: easter_meal_order_form
+    title: Easter Meal Order Form
     pages:
     - id: 1
       name: easter_meal_order_form_page1
-      label: easter_meal_order_form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: main_course
-      label: main_course
+      label: What's your easter meal order preference?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Ham
+      - Lamb
+      - None
+      - Other (please specify)
+      required: true
+    - id: 2
+      name: main_course_page
+      label: Which main course would you like?
+      hint: null
+      type: select_one
+      options:
+      - Roasted chicken
+      - Grilled salmon
+      - Vegetarian option
+      - None
+      required: true
     - id: 3
-      name: side_dish
-      label: side_dish
+      name: side_dish_page
+      label: Which side dish would you like?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Mashed potatoes
+      - Steamed broccoli
+      - Salad
+      - None
+      required: true
     - id: 4
-      name: holiday_dessert
-      label: holiday_dessert
+      name: holiday_dessert_page
+      label: Would you like a holiday dessert?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      - None
+      required: true
     - id: 5
-      name: special_occassion
-      label: special_occassion
+      name: contact_information_page
+      label: Contact Information
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - By phone
+      - By email
+      - None
+      required: true
     - id: 6
-      name: contact_number
-      label: contact_number
+      name: contact_number_page
+      label: Your Contact Number
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: email
-      label: email
+      name: email_page
+      label: Your Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 8
-      name: name
-      label: name
+      name: name_page
+      label: Your Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: address
-      label: address
+      name: address_page
+      label: Your Address
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: special_request
-      label: special_request
+      name: special_request_page
+      label: Any Special Requests?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: event_date
-      label: event_date
+      name: easter_event_date_page
+      label: Event Date
       hint: null
       type: date
       options: []
       required: false
     - id: 12
-      name: event_time
-      label: event_time
+      name: easter_event_time_page
+      label: Event Time
       hint: null
       type: time
       options: []
       required: false
     - id: 13
-      name: easter
-      label: easter_ประก
+      name: easter_day_page
+      label: Easter Day
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      - None
+      required: true
     - id: 14
-      name: easter_date
-      label: easter_date
+      name: easter_egg_page
+      label: Easter Egg
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 15
-      name: easter_time
-      label: easter_time
+      name: easter_bunny_page
+      label: Easter Bunny
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 16
-      name: easter_day
-      label: easter_day
+      name: easter_meal_page
+      label: Easter Meal
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 17
-      name: easter_egg
-      label: easter_egg
+      name: easter_holiday_page
+      label: Easter Holiday
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 18
-      name: easter_bunny
-      label: easter_bunny
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: easter_meal
-      label: easter_meal
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: easter_holiday
-      label: easter_holiday
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: easter_day2
-      label: easter_day2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: easter_time2
-      label: prophets_time
+      name: easter_time_page
+      label: Easter Time Page
       hint: null
       type: time
-      options: []
-      required: false
-    - id: 23
-      name: easter_date2
-      label: easter_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: easter_egg2
-      label: easter_egg
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: easter_bunny2
-      label: easter_bunny
-      hint: null
-      type: text
       options: []
       required: false

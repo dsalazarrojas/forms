@@ -48,10 +48,6 @@ inputSchema:
       - CST
       - PST
       - MST
-      - CST
-      - PST
-      - EST
-      - MST
       required: false
     - id: 6
       name: timezone_offset
@@ -111,8 +107,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - America/New_York
-      - America/Los_Angeles
+      - America/New York
+      - America/Los Angeles
       - Asia/Tokyo
       required: false
     - id: 14
@@ -167,10 +163,6 @@ inputSchema:
       - PST
       - CST
       - MST
-      - MST
-      - PST
-      - EST
-      - CST
       required: false
     - id: 21
       name: event_timezone_offset

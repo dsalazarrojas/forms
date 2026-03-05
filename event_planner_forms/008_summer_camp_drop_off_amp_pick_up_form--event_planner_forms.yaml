@@ -1,7 +1,7 @@
 inputSchema:
   type: object
   properties:
-    title: Summer Camp Drop Off &amp; Pick Up Form
+    title: Summer Camp Drop Off & Pick Up Form
     pages:
     - id: 1
       name: summer_camp_details
@@ -9,251 +9,67 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: name
       label: Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: name_of_child
-      label: Name of Child
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: date_of_birth
       label: Date of Birth
       hint: null
       type: date
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: start_date
       label: Start Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 6
-      name: end_date
-      label: End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 5
       name: drop_off_time
       label: Drop Off Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 6
       name: drop_off_details
       label: Drop Off Details
       hint: null
       type: text
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 7
       name: pick_up_time
       label: Pick Up Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 8
       name: pick_up_details
       label: Pick Up Details
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 9
       name: comments
       label: Comments
-      hint: Optional comments for campers
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: name_of_child_2
-      label: Name of Child 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: date_of_birth_2
-      label: Date of Birth
+    - id: 10
+      name: additional_children
+      label: Additional Children
       hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: start_date_2
-      label: Start Date
-      hint: null
-      type: select_one
-      options:
-      - Monday
-      - Tuesday
-      - Wednesday
-      - Thursday
-      - Friday
-      - Saturday
-      - Sunday
-      required: false
-    - id: 15
-      name: end_date_2
-      label: End Date
-      hint: null
-      type: select_one
-      options:
-      - 08:00
-      - 09:00
-      - '600'
-      - '660'
-      - '720'
-      - '780'
-      - '840'
-      - '900'
-      - '960'
-      - '1020'
-      - '1080'
-      - '1140'
-      - '1200'
-      required: false
-    - id: 16
-      name: drop_off_time_2
-      label: Drop Off Time
-      hint: null
-      type: select_one
-      options:
-      - 08:00
-      - 09:00
-      - '600'
-      - '660'
-      - '720'
-      - '780'
-      - '840'
-      - '900'
-      - '960'
-      - '1020'
-      - '1080'
-      - '1140'
-      - '1200'
-      required: false
-    - id: 17
-      name: pick_up_time_2
-      label: Pick Up Time
-      hint: null
-      type: select_one
-      options:
-      - 08:00
-      - 09:00
-      - '600'
-      - '660'
-      - '720'
-      - '780'
-      - '840'
-      - '900'
-      - '960'
-      - '1020'
-      - '1080'
-      - '1140'
-      - '1200'
-      required: false
-    - id: 18
-      name: drop_off_details_2
-      label: Drop Off Details
-      hint: null
-      type: select_multiple
-      options:
-      - 08:00
-      - 09:00
-      - '600'
-      - '660'
-      - '720'
-      - '780'
-      - '840'
-      - '900'
-      - '960'
-      - '1020'
-      - '1080'
-      - '1140'
-      - '1200'
-      required: false
-    - id: 19
-      name: pick_up_details_2
-      label: Pick Up Details
-      hint: null
-      type: select_multiple
-      options:
-      - 08:00
-      - 09:00
-      - '600'
-      - '660'
-      - '720'
-      - '780'
-      - '840'
-      - '900'
-      - '960'
-      - '1020'
-      - '1080'
-      - '1140'
-      - '1200'
-      required: false
-    - id: 20
-      name: comments_2
-      label: Comments
-      hint: Optional comments for campers 2
       type: text
       options: []
-      required: false
-    - id: 21
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: name_3
-      label: Name
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: date_of_birth_3
-      label: Date of Birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: start_date_3
-      label: Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: end_date_3
-      label: End Date
-      hint: null
-      type: select_one
-      options:
-      - Monday
-      - Tuesday
-      - Wednesday
-      - Thursday
-      - Friday
-      - Saturday
-      - Sunday
       required: false

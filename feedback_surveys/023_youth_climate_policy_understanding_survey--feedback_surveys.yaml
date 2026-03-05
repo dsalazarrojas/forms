@@ -4,183 +4,113 @@ inputSchema:
     title: youth_climate_policy_understanding_survey
     pages:
     - id: 1
-      name: introduction
+      name: climate_change_introduction
       label: Introduction
-      hint: null
+      hint: This is the introduction to the survey
       type: note
       options: []
       required: false
     - id: 2
-      name: climate_change
-      label: climate_change
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: climate_changeawareness
+      label: Climate Change Awareness
+      hint: How aware are you of climate change?
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
     - id: 3
       name: climate_policies
-      label: climate_policies
-      hint: null
-      type: select_one
+      label: Climate Policies
+      hint: What are your opinions on climate policies?
+      type: select_multiple
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 4
-      name: policy_awareness
-      label: policy_awareness
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
-    - id: 5
-      name: policy_attitudes
-      label: policy_attitudes
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
-    - id: 6
       name: policy_ideas
-      label: policy_ideas
-      hint: null
+      label: Policy Ideas
+      hint: Do you have any ideas for climate policies?
       type: text
       options: []
       required: false
-    - id: 7
+    - id: 5
       name: demographic_info
-      label: demographic_info
-      hint: null
+      label: Demographic Information
+      hint: Please provide your demographic information
       type: select_one
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
-    - id: 8
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
       name: age_range
-      label: age_range
-      hint: null
+      label: Age Range
+      hint: What is your age range?
       type: number
       options: []
-      required: false
-    - id: 9
-      name: gender_range
-      label: gender_range
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
-    - id: 10
+      required: true
+    - id: 7
       name: education_level
-      label: education_level
-      hint: null
+      label: Education Level
+      hint: What is your education level?
       type: number
       options: []
-      required: false
-    - id: 11
-      name: income_range
-      label: income_range
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 8
       name: region_range
-      label: region_range
-      hint: null
+      label: Region
+      hint: Which region do you live in?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: language
+      label: Language
+      hint: What language do you prefer to communicate?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: Please provide your contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submission
+      label: Submission
+      hint: Please submit your feedback
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: Do you have any comments or feedback?
       type: text
       options: []
       required: false
     - id: 13
-      name: language
-      label: language
-      hint: null
+      name: other_comments
+      label: Other Comments
+      hint: Do you have any other comments or feedback?
       type: text
       options: []
       required: false
     - id: 14
       name: email
-      label: email
-      hint: null
+      label: Email
+      hint: Please provide your email
       type: email
       options: []
-      required: false
-    - id: 15
-      name: contact_number
-      label: contact_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: submission
-      label: submission
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
-      required: false
-    - id: 18
-      name: feedback
-      label: feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: other_comments
-      label: other_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: submission
-      label: submission
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      required: false
-    - id: 21
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: contact_number
-      label: contact_number
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

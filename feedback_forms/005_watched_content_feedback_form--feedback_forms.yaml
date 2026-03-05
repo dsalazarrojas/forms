@@ -5,77 +5,96 @@ inputSchema:
     pages:
     - id: 1
       name: watched_content_feedback_form_1
-      label: watched_content_feedback
+      label: Did you watch the content?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 2
-      name: watched_content_feedback_form_2
-      label: watched_content
+      name: watched_content_type
+      label: What type of content was it?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Video
+      - Article
+      - Other
+      required: true
     - id: 3
-      name: watched_content_feedback_rating
-      label: watched_content_feedback_rating
+      name: watched_content_count
+      label: How many times did you watch it?
       hint: null
       type: number
       options: []
       required: false
     - id: 4
-      name: watched_content_feedback_rating_comment
-      label: watched_content_feedback_rating_comment
+      name: watched_content_rating
+      label: What was the rating?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: watched_content_comment
+      label: What was your comment on the content?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
-      name: watched_content_feedback_form_5
-      label: watched_content_feedback
-      hint: null
-      type: note
-      options: []
-      required: false
+      required: true
     - id: 6
-      name: watched_content_feedback_form_6
-      label: watched_content_feedback
+      name: watched_content_watched_again
+      label: Would you watch it again?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: watched_content_watched_at
+      label: When was the last time you watched it?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 7
-      name: watched_content_feedback_form_7
-      label: watched_content_feedback
+      required: true
+    - id: 8
+      name: watched_content_watched_at_time
+      label: What time did you watch it?
       hint: null
       type: time
       options: []
       required: false
-    - id: 8
-      name: watched_content_feedback_form_8
-      label: watched_content_feedback
-      hint: null
-      type: email
-      options: []
-      required: false
     - id: 9
-      name: watched_content_feedback_form_9
-      label: watched_content_feedback
+      name: watched_content_access_method
+      label: How did you access the content?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: watched_content_feedback_form_10
-      label: watched_content_feedback
+      name: watched_content_relevance
+      label: Was the content relevant to you?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: watched_content_followability
+      label: Was the content easy to follow?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: watched_content_other_comments
+      label: Any other comments?
+      hint: null
+      type: note
+      options: []
       required: false

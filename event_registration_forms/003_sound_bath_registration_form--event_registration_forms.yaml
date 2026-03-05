@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''label'': ''Sound Bath''}'
-      - '{''id'': 1, ''label'': ''Reiki''}'
+      - Sound Bath
+      - Reiki
       required: true
     - id: 7
       name: sound_frequency
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''label'': ''432 Hz''}'
-      - '{''id'': 1, ''label'': ''528 Hz''}'
-      - '{''id'': 2, ''label'': ''5280 Hz''}'
+      - 432 Hz
+      - 528 Hz
+      - 5280 Hz
       required: false
     - id: 8
       name: payment_method
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''label'': ''PayPal''}'
-      - '{''id'': 1, ''label'': ''Stripe''}'
+      - PayPal
+      - Stripe
       required: true
     - id: 9
       name: email

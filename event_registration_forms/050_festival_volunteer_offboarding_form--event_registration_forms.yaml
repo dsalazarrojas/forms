@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{1: ''On site''}'
-      - '{2: ''Off site''}'
-      - '{3: ''Hybrid''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 3
       name: materials_returned
@@ -72,8 +72,7 @@ inputSchema:
       type: select_one
       options:
       - Volunteer Name
-      - Volunteer Name
-      - Volunteer Name
+      - Other
       required: false
     - id: 10
       name: confirm_volunteer_contact
@@ -82,6 +81,5 @@ inputSchema:
       type: select_one
       options:
       - Volunteer Contact
-      - Volunteer Contact
-      - Volunteer Contact
+      - Other
       required: false

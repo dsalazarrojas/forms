@@ -18,8 +18,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: score_guess
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''win''}'
-      - '{''value'': ''loss''}'
-      - '{''value'': ''tie''}'
+      - win
+      - loss
+      - tie
       required: false
     - id: 5
       name: pick_submission
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''submitted''}'
-      - '{''value'': ''pending''}'
-      - '{''value'': ''cancelled''}'
+      - submitted
+      - pending
+      - cancelled
       required: false
     - id: 7
       name: game_submission_note

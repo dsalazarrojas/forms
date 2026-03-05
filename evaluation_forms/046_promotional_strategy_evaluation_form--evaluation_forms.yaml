@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 5
       name: channels_used
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 6
       name: campaign_goal
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 7
       name: feedback_comments
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 14
       name: select_multiple
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 15
       name: note
@@ -124,15 +124,15 @@ inputSchema:
       options: []
       required: false
     - id: 16
-      name: email
-      label: email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 17
-      name: phone
-      label: phone
+      name: phone_2
+      label: Phone 2
       hint: null
       type: text
       options: []
@@ -173,28 +173,28 @@ inputSchema:
       options: []
       required: false
     - id: 23
-      name: select_one
-      label: select one
+      name: select_one_2
+      label: Select One 2
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 24
-      name: select_multiple
-      label: select multiple
+      name: select_multiple_2
+      label: Select Multiple 2
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 25
-      name: note
-      label: note
+      name: note_2
+      label: Note 2
       hint: null
       type: note
       options: []

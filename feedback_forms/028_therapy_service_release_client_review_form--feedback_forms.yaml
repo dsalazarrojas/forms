@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 4
       name: share_testimonial
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Publicly''}'
-      - '{''value'': ''Privately''}'
-      - '{''value'': ''On request''}'
+      - Publicly
+      - Privately
+      - On request
       required: false
     - id: 5
       name: share_on_facebook
@@ -75,7 +75,7 @@ inputSchema:
     - id: 10
       name: time
       label: Time
-      hint: "hh:mm am/pm"
+      hint: hh:mm am/pm
       type: time
       options: []
       required: false

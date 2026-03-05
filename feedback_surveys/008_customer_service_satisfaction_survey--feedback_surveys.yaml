@@ -16,11 +16,9 @@ inputSchema:
       hint: How would you rate the service quality?
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: communication_skills
@@ -35,11 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: time_response
@@ -80,10 +76,7 @@ inputSchema:
       type: select_one
       options:
       - online
-      - online
-      - online
-      - online
-      - online
+      - Other
       required: false
     - id: 10
       name: comments
@@ -108,33 +101,30 @@ inputSchema:
       required: false
     - id: 13
       name: customer_email
-      label: Email
+      label: Customer Email
       hint: null
       type: email
       options: []
       required: false
     - id: 14
       name: customer_phone
-      label: Phone
+      label: Customer Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 15
       name: customer_online
-      label: Online
+      label: Customer Online
       hint: null
       type: select_one
       options:
       - online
-      - online
-      - online
-      - online
-      - online
+      - Other
       required: false
     - id: 16
       name: feedback_comments
-      label: Comments
+      label: Feedback Comments
       hint: null
       type: note
       options: []

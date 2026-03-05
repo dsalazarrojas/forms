@@ -16,8 +16,8 @@ inputSchema:
       hint: 'null'
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''male'', ''description'': ''Male''}'
-      - '{''id'': 2, ''name'': ''female'', ''description'': ''Female''}'
+      - male
+      - female
       required: true
     - id: 3
       name: debate_topic
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''politics'', ''description'': ''Politics''}'
-      - '{''id'': 2, ''name'': ''environment'', ''description'': ''Environment''}'
-      - '{''id'': 3, ''name'': ''sports'', ''description'': ''Sports''}'
+      - politics
+      - environment
+      - sports
       required: false
     - id: 4
       name: rating

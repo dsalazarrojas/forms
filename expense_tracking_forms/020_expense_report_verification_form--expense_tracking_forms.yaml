@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Manager''}'
-      - '{''label'': ''Accountant''}'
-      - '{''label'': ''HR''}'
+      - Manager
+      - Accountant
+      - HR
       required: true
     - id: 8
       name: comments
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Manager''}'
-      - '{''label'': ''Employee''}'
+      - Manager
+      - Employee
       required: true
     - id: 10
       name: approval_status
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Approved''}'
-      - '{''label'': ''Rejected''}'
+      - Approved
+      - Rejected
       required: true
     - id: 11
       name: date_verified

@@ -5,179 +5,137 @@ inputSchema:
     pages:
     - id: 1
       name: account_details
-      label: account_details
+      label: What type of account do you have with the bank?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: account_type
-      label: account_type
+      name: issue_description
+      label: Can you describe any issues you experienced with your account?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: issue_description
-      label: issue_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: feedback_type
-      label: feedback_type
+      label: Do you think the bank's service was helpful?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 5
+    - id: 4
       name: feedback_rating
-      label: feedback_rating
+      label: How would you rate the bank's service?
       hint: null
       type: select_multiple
       options:
       - Good
       - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 5
+      name: bank_contact
+      label: What is your bank's contact information?
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 6
-      name: bank_contact
-      label: bank_contact
+      name: bank_phone
+      label: Bank Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: bank_phone
-      label: bank_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: bank_email
-      label: bank_email
+      label: Bank Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: bank_website
-      label: bank_website
+      label: Bank Website
       hint: null
       type: text
       options: []
       required: false
+    - id: 9
+      name: bank_social_media
+      label: Is the bank active on social media?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
     - id: 10
-      name: bank_app
-      label: bank_app
+      name: account_number
+      label: What is your account number?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: bank_social_media
-      label: bank_social_media
+      name: account_type
+      label: Account Type
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: account_manager
-      label: account_manager
+      name: bank_app
+      label: How do you like the bank's mobile app?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: account_number
-      label: account_number
+      name: account_manager
+      label: Who is your account manager's name?
       hint: null
       type: text
       options: []
       required: false
     - id: 14
       name: feedback_message
-      label: feedback_message
+      label: Do you have any additional feedback for the bank?
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: account_type
-      label: account_type
+      name: account_number_type
+      label: What type of account number do you have?
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: account_number_type
-      label: account_type
+      name: bank_social_media_2
+      label: Bank Social Media 2
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 17
-      name: bank_app
-      label: bank_app
+      name: account_details_2
+      label: Please provide any additional details about your account.
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: bank_social_media
-      label: bank_social_media
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: account_manager
-      label: account_manager
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: account_number
-      label: account_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: feedback_message
-      label: feedback_message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: account_type
-      label: account_type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: account_number_type
-      label: account_number_type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: account_details
-      label: account_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: bank_app
-      label: bank_app
+      name: issue_description_2
+      label: Can you provide more details about any issues you experienced with your
+        account?
       hint: null
       type: text
       options: []

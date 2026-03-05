@@ -4,211 +4,230 @@ inputSchema:
     title: Onboarding Feedback Questionnaire
     pages:
     - id: 1
-      name: onboarding_feedback_questionnaire
-      label: onboarding_feedback_questionnaire
+      name: onboarding_first_impressions
+      label: What were your first impressions of our company culture?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: feedback_questions
-      label: feedback_questions
+      name: onboarding_process
+      label: How did you feel about the onboarding process?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: open_ended_questions
-      label: open_ended_questions
+      name: onboarding_expectations
+      label: What were your expectations before joining the company, and how were
+        they met?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: next_steps
-      label: next_steps
+      name: feedback_manager
+      label: Who would you like to give feedback to about your onboarding experience?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      - Manager 4
+      - Manager 5
       required: false
     - id: 5
-      name: employee_id
-      label: employee_id
+      name: onboarding_experience
+      label: Rate your overall experience with the onboarding process.
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Somewhat Unsatisfied
+      - Very Unsatisfied
       required: false
     - id: 6
-      name: department_id
-      label: department_id
+      name: feedback_frequency
+      label: How frequently do you give feedback to your manager?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Frequently
+      - Daily
       required: false
     - id: 7
-      name: manager_id
-      label: manager_id
+      name: next_steps
+      label: What actions would you like to see taken as a result of your feedback?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Send email
+      - Create task
+      - Create issue
+      - None
       required: false
     - id: 8
       name: onboarding_length
-      label: onboarding_length
+      label: What are your thoughts on the length of the onboarding process?
       hint: null
-      type: number
+      type: note
       options: []
       required: false
     - id: 9
       name: onboarding_date
-      label: onboarding_date
+      label: What is your onboarding date?
       hint: null
       type: date
       options: []
       required: false
     - id: 10
-      name: manager_name
-      label: manager_name
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Manager 1''}'
-      - '{''label'': ''Manager 2''}'
-      - '{''label'': ''Manager 3''}'
-      - '{''label'': ''Manager 4''}'
-      - '{''label'': ''Manager 5''}'
-      required: false
-    - id: 11
-      name: feedback_score
-      label: feedback_score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
       name: manager_score
-      label: manager_score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: employee_score
-      label: employee_score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: overall_experience
-      label: overall_experience
+      label: Rate your satisfaction with your manager's feedback.
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Neither Satisfied nor Unsatisfied''}'
-      - '{''label'': ''Somewhat Unsatisfied''}'
-      - '{''label'': ''Very Unsatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Somewhat Unsatisfied
+      - Very Unsatisfied
+      required: false
+    - id: 11
+      name: employee_score
+      label: Rate your satisfaction with your own feedback.
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Somewhat Unsatisfied
+      - Very Unsatisfied
+      required: false
+    - id: 12
+      name: overall_experience
+      label: How satisfied are you with your overall experience on the company?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Somewhat Unsatisfied
+      - Very Unsatisfied
+      required: false
+    - id: 13
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: email_2
+      label: How frequently do you use email to give feedback?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Frequently
+      - Daily
       required: false
     - id: 15
-      name: overall_experience_comments
-      label: overall_experience_comments
+      name: email_comments
+      label: What are your comments on email?
       hint: null
       type: note
       options: []
       required: false
     - id: 16
-      name: feedback_frequency
-      label: feedback_frequency
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Never''}'
-      - '{''label'': ''Occasionally''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Daily''}'
-      required: false
-    - id: 17
-      name: feedback_source
-      label: feedback_source
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Chat''}'
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''In-Person''}'
-      - '{''label'': ''Online''}'
-      required: false
-    - id: 18
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: phone
-      label: phone
+      name: manager_name
+      label: What is your manager's name?
       hint: null
       type: text
       options: []
       required: false
-    - id: 20
-      name: next_steps_actions
-      label: next_steps_actions
+    - id: 17
+      name: manager_name_2
+      label: How would you rate the length of time you have spent onboarding?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: manager_name_3
+      label: Manager Name 3
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      - Manager 4
+      - Manager 5
+      required: false
+    - id: 19
+      name: manager_name_4
+      label: Manager Name 4
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Send email''}'
-      - '{''label'': ''Create task''}'
-      - '{''label'': ''Create issue''}'
-      - '{''label'': ''None''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Somewhat Unsatisfied
+      - Very Unsatisfied
       required: false
-    - id: 21
-      name: onboarding_length_comments
-      label: onboarding_length_comments
+    - id: 20
+      name: manager_name_5
+      label: What are your comments on your onboarding experience with your manager?
       hint: null
       type: note
+      options: []
+      required: false
+    - id: 21
+      name: onboarding_length_2
+      label: What is your onboarding length?
+      hint: null
+      type: number
       options: []
       required: false
     - id: 22
-      name: onboarding_date_comments
-      label: onboarding_date_comments
+      name: manager_name_6
+      label: Manager Name 6
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Somewhat Unsatisfied
+      - Very Unsatisfied
       required: false
     - id: 23
-      name: onboarding_length
-      label: onboarding_length
+      name: email_3
+      label: Email 3
       hint: null
       type: number
       options: []
       required: false
     - id: 24
-      name: manager_name
-      label: manager_name
+      name: email_4
+      label: Email 4
       hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Manager 1''}'
-      - '{''label'': ''Manager 2''}'
-      - '{''label'': ''Manager 3''}'
-      - '{''label'': ''Manager 4''}'
-      - '{''label'': ''Manager 5''}'
+      type: email
+      options: []
       required: false
     - id: 25
-      name: overall_experience
-      label: overall_experience
+      name: phone
+      label: What is your phone number?
       hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Neither Satisfied nor Unsatisfied''}'
-      - '{''label'': ''Somewhat Unsatisfied''}'
-      - '{''label'': ''Very Unsatisfied''}'
+      type: text
+      options: []
       required: false

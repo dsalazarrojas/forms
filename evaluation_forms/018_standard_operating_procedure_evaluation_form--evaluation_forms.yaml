@@ -23,8 +23,8 @@ inputSchema:
       hint: Is the Standard Operating Procedure clear and concise?
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: sop_evaluation_question_3
@@ -32,9 +32,9 @@ inputSchema:
       hint: Is the Standard Operating Procedure reviewed regularly?
       type: select_multiple
       options:
-      - '{''label'': ''Regularly''}'
-      - '{''label'': ''Semi-regularly''}'
-      - '{''label'': ''Never''}'
+      - Regularly
+      - Semi-regularly
+      - Never
       required: false
     - id: 5
       name: sop_evaluation_question_4
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 8
       name: sop_evaluation_question_7
@@ -73,8 +73,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Required''}'
-      - '{''label'': ''Optional''}'
+      - Required
+      - Optional
       required: false
     - id: 10
       name: sop_evaluation_question_9

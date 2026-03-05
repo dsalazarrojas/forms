@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 5.1, ''name'': ''maintenance_issue'', ''label'': ''Maintenance Issue''}'
-      - '{''id'': 5.2, ''name'': ''rent_issue'', ''label'': ''Rent Issue''}'
-      - '{''id'': 5.3, ''name'': ''other'', ''label'': ''Other''}'
+      - Maintenance Issue
+      - Rent Issue
+      - Other
       required: false
     - id: 6
       name: description
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 8.1, ''name'': ''follow_up_email'', ''label'': ''Send Email''}'
-      - '{''id'': 8.2, ''name'': ''follow_up_phone'', ''label'': ''Call''}'
-      - '{''id'': 8.3, ''name'': ''follow_up_no_action'', ''label'': ''No Follow-Up''}'
+      - Send Email
+      - Call
+      - No Follow-Up
       required: false
     - id: 9
       name: follow_up_contact
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 9.1, ''name'': ''contact_person'', ''label'': ''Maintenance Person''}'
-      - '{''id'': 9.2, ''name'': ''contact_manager'', ''label'': ''Property Manager''}'
+      - Maintenance Person
+      - Property Manager
       required: false
     - id: 10
       name: resolution_date
@@ -101,8 +101,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 13.1, ''name'': ''satisfied'', ''label'': ''Satisfied''}'
-      - '{''id'': 13.2, ''name'': ''not_satisfied'', ''label'': ''Not Satisfied''}'
+      - Satisfied
+      - Not Satisfied
       required: false
     - id: 14
       name: resolution_status
@@ -110,9 +110,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 14.1, ''name'': ''resolved'', ''label'': ''Resolved''}'
-      - '{''id'': 14.2, ''name'': ''pending'', ''label'': ''Pending''}'
-      - '{''id'': 14.3, ''name'': ''unresolved'', ''label'': ''Unresolved''}'
+      - Resolved
+      - Pending
+      - Unresolved
       required: false
     - id: 15
       name: comments
@@ -127,9 +127,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 16.1, ''name'': ''maintenance_person'', ''label'': ''Maintenance
-        Person''}'
-      - '{''id'': 16.2, ''name'': ''property_manager'', ''label'': ''Property Manager''}'
+      - Maintenance Person
+      - Property Manager
       required: false
     - id: 17
       name: created

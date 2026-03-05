@@ -1,154 +1,143 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Comparative And Superlative Quiz
     pages:
-      - id: 1
-        name: student_details_section
-        label: -- Student Identification --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: student_name
-        label: Student Full Name
-        hint: Enter your name as it appears in the school record
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: class_section
-        label: Class / Section
-        hint: e.g., Grade 10 - B
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: quiz_date
-        label: Date
-        hint: Select today's date
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: comparative_questions_section
-        label: -- Section 1 - Comparatives --
-        hint: Choose the correct comparative form
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: q1_comparative
-        label: This mountain is (high) than the one we climbed last week.
-        hint: Fill in the correct form
-        type: select_one
-        options:
-          - higher
-          - more high
-          - highest
-          - highly
-        required: true
-      - id: 7
-        name: q2_comparative
-        label: Learning English is (difficult) than I expected.
-        hint: Choose the best option
-        type: select_one
-        options:
-          - difficulter
-          - more difficult
-          - most difficult
-          - as difficult
-        required: true
-      - id: 8
-        name: q3_comparative
-        label: My new car is (fast) than my old one.
-        hint: Choose the best option
-        type: select_one
-        options:
-          - faster
-          - more fast
-          - fastest
-          - fastly
-        required: true
-      - id: 9
-        name: superlative_questions_section
-        label: -- Section 2 - Superlatives --
-        hint: Choose the correct superlative form
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: q4_superlative
-        label: Jupiter is the (large) planet in our solar system.
-        hint: Choose the best option
-        type: select_one
-        options:
-          - larger
-          - more large
-          - largest
-          - mostly large
-        required: true
-      - id: 11
-        name: q5_superlative
-        label: She is the (intelligent) person in the class.
-        hint: Choose the best option
-        type: select_one
-        options:
-          - intelligenter
-          - more intelligent
-          - most intelligent
-          - intelligentest
-        required: true
-      - id: 12
-        name: q6_superlative
-        label: That was the (bad) movie I have ever seen.
-        hint: Choose the best option
-        type: select_one
-        options:
-          - badder
-          - worst
-          - worse
-          - most bad
-        required: true
-      - id: 13
-        name: usage_rules_section
-        label: -- Section 3 - Rules and Usage --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: rules_q7
-        label: We use (more) for adjectives with three or more syllables.
-        hint: True or False
-        type: select_one
-        options:
-          - True
-          - False
-        required: true
-      - id: 15
-        name: comparative_adverbs
-        label: Provide the comparative form of the adverb - quickly
-        hint: Type your answer
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: superlative_adverbs
-        label: Provide the superlative form of the adverb - well
-        hint: Type your answer
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: student_details_section
+      label: -- Student Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Full Name
+      hint: Enter your name as it appears in the school record
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: class_section
+      label: Class / Section
+      hint: e.g., Grade 10 - B
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Date
+      hint: Select today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: comparative_questions_section
+      label: -- Section 1 - Comparatives --
+      hint: Choose the correct comparative form
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: q1_comparative
+      label: This mountain is (high) than the one we climbed last week.
+      hint: Fill in the correct form
+      type: select_one
+      options:
+      - higher
+      - more high
+      - highest
+      - highly
+      required: true
+    - id: 7
+      name: q2_comparative
+      label: Learning English is (difficult) than I expected.
+      hint: Choose the best option
+      type: select_one
+      options:
+      - difficulter
+      - more difficult
+      - most difficult
+      - as difficult
+      required: true
+    - id: 8
+      name: q3_comparative
+      label: My new car is (fast) than my old one.
+      hint: Choose the best option
+      type: select_one
+      options:
+      - faster
+      - more fast
+      - fastest
+      - fastly
+      required: true
+    - id: 9
+      name: superlative_questions_section
+      label: -- Section 2 - Superlatives --
+      hint: Choose the correct superlative form
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: q4_superlative
+      label: Jupiter is the (large) planet in our solar system.
+      hint: Choose the best option
+      type: select_one
+      options:
+      - larger
+      - more large
+      - largest
+      - mostly large
+      required: true
+    - id: 11
+      name: q5_superlative
+      label: She is the (intelligent) person in the class.
+      hint: Choose the best option
+      type: select_one
+      options:
+      - intelligenter
+      - more intelligent
+      - most intelligent
+      - intelligentest
+      required: true
+    - id: 12
+      name: q6_superlative
+      label: That was the (bad) movie I have ever seen.
+      hint: Choose the best option
+      type: select_one
+      options:
+      - badder
+      - worst
+      - worse
+      - most bad
+      required: true
+    - id: 13
+      name: usage_rules_section
+      label: -- Section 3 - Rules and Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: rules_q7
+      label: We use (more) for adjectives with three or more syllables.
+      hint: True or False
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: comparative_adverbs
+      label: Provide the comparative form of the adverb - quickly
+      hint: Type your answer
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: superlative_adverbs
+      label: Provide the superlative form of the adverb - well
+      hint: Type your answer
+      type: text
+      options: []
+      required: true

@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_satisfied''}'
-      - '{''value'': ''somewhat_satisfied''}'
-      - '{''value'': ''neutral''}'
-      - '{''value'': ''somewhat_dissatisfied''}'
-      - '{''value'': ''very_dissatisfied''}'
+      - very satisfied
+      - somewhat satisfied
+      - neutral
+      - somewhat dissatisfied
+      - very dissatisfied
       required: false
     - id: 5
       name: suggestions
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''in_person''}'
+      - email
+      - phone
+      - in person
       required: false
     - id: 7
       name: contact_frequency
@@ -59,10 +59,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''never''}'
-      - '{''value'': ''rarely''}'
-      - '{''value'': ''sometimes''}'
-      - '{''value'': ''often''}'
+      - never
+      - rarely
+      - sometimes
+      - often
       required: false
     - id: 8
       name: program_value
@@ -70,10 +70,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''important''}'
-      - '{''value'': ''very_important''}'
-      - '{''value'': ''somewhat_important''}'
-      - '{''value'': ''not_at_all_important''}'
+      - important
+      - very important
+      - somewhat important
+      - not at all important
       required: false
     - id: 9
       name: program_value_scale

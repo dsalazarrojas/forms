@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Document''}'
-      - '{''id'': 2, ''value'': ''Image''}'
-      - '{''id'': 3, ''value'': ''Audio''}'
+      - Document
+      - Image
+      - Audio
       required: true
     - id: 3
       name: file_name
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Pending''}'
-      - '{''id'': 2, ''value'': ''Approved''}'
-      - '{''id'': 3, ''value'': ''Rejected''}'
+      - Pending
+      - Approved
+      - Rejected
       required: false
     - id: 8
       name: file_owner
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Marketing''}'
-      - '{''id'': 2, ''value'': ''Sales''}'
-      - '{''id'': 3, ''value'': ''Finance''}'
+      - Marketing
+      - Sales
+      - Finance
       required: false
     - id: 11
       name: file_notes

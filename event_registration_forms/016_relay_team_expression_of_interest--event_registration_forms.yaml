@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: prior_experience_length
@@ -39,14 +39,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Swimming''}'
-      - '{''id'': 2, ''label'': ''Cycling''}'
-      - '{''id'': 3, ''label'': ''Running''}'
-      - '{''id'': 4, ''label'': ''Triathlon''}'
-      - '{''id'': 5, ''label'': ''Rowing''}'
-      - '{''id'': 6, ''label'': ''Rowing''}'
-      - '{''id'': 7, ''label'': ''Rowing''}'
-      - '{''id'': 8, ''label'': ''Rowing''}'
+      - Swimming
+      - Cycling
+      - Running
+      - Triathlon
+      - Rowing
       required: false
     - id: 6
       name: interested_in_coaching
@@ -54,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 7
       name: team_sport_coach_experience
@@ -108,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 14
       name: team_sport_coaching_experience
@@ -134,8 +131,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: prior_coaching
@@ -171,8 +168,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: team_lead_experience

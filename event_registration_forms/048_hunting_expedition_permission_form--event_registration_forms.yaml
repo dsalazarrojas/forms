@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: participant_experience
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: participant_vehicle
@@ -55,8 +55,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: guide_experience
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: participant_agreement
@@ -94,9 +94,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I have read and understand the terms and conditions''}'
-      - '{''id'': 2, ''label'': ''I have not read and not understand the terms and
-        conditions''}'
+      - I have read and understand the terms and conditions
+      - I have not read and not understand the terms and conditions
       required: false
     - id: 13
       name: guide_agreement
@@ -104,9 +103,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I have read and understand the terms and conditions''}'
-      - '{''id'': 2, ''label'': ''I have not read and not understand the terms and
-        conditions''}'
+      - I have read and understand the terms and conditions
+      - I have not read and not understand the terms and conditions
       required: false
     - id: 14
       name: participant_vehicle_details
@@ -142,8 +140,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: guide_agreed_to_terms
@@ -151,8 +149,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: participant_vehicle_type
@@ -160,9 +158,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''2-Wheel''}'
-      - '{''id'': 2, ''label'': ''4-Wheel''}'
-      - '{''id'': 3, ''label'': ''All-Terrain''}'
+      - 2-Wheel
+      - 4-Wheel
+      - All-Terrain
       required: false
     - id: 21
       name: guide_vehicle_type
@@ -170,9 +168,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''2-Wheel''}'
-      - '{''id'': 2, ''label'': ''4-Wheel''}'
-      - '{''id'': 3, ''label'': ''All-Terrain''}'
+      - 2-Wheel
+      - 4-Wheel
+      - All-Terrain
       required: false
     - id: 22
       name: participant_vehicle_make

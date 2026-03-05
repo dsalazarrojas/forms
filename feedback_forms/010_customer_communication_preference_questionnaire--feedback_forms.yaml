@@ -25,10 +25,10 @@ inputSchema:
       hint: Choose from the following options
       type: select_one
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
-      - '{''value'': ''Evening''}'
-      - '{''value'': ''Other (please specify)''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - Other (please specify)
       required: false
     - id: 4
       name: preferred_contact_method
@@ -36,11 +36,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''In Person''}'
-      - '{''value'': ''Chat''}'
-      - '{''value'': ''Text Message''}'
+      - Phone
+      - Email
+      - In Person
+      - Chat
+      - Text Message
       required: false
     - id: 5
       name: preferred_contact_frequency
@@ -48,11 +48,11 @@ inputSchema:
       hint: How often would you like to be contacted?
       type: select_multiple
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Quarterly''}'
-      - '{''value'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
       required: false
     - id: 6
       name: preferred_contact_days
@@ -60,13 +60,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Monday''}'
-      - '{''value'': ''Tuesday''}'
-      - '{''value'': ''Wednesday''}'
-      - '{''value'': ''Thursday''}'
-      - '{''value'': ''Friday''}'
-      - '{''value'': ''Saturday''}'
-      - '{''value'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 7
       name: introduction_text
@@ -77,35 +77,35 @@ inputSchema:
       required: false
     - id: 8
       name: communication_channels_text
-      label: Communication Channels
+      label: Communication Channels Text
       hint: null
       type: text
       options: []
       required: false
     - id: 9
       name: preferred_contact_time_text
-      label: Preferred Contact Time
+      label: Preferred Contact Time Text
       hint: null
       type: text
       options: []
       required: false
     - id: 10
       name: preferred_contact_method_text
-      label: Preferred Contact Method
+      label: Preferred Contact Method Text
       hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: preferred_contact_frequency_text
-      label: Preferred Contact Frequency
+      label: Preferred Contact Frequency Text
       hint: null
       type: text
       options: []
       required: false
     - id: 12
       name: preferred_contact_days_text
-      label: Preferred Contact Days
+      label: Preferred Contact Days Text
       hint: null
       type: text
       options: []

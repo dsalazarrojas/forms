@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Developer''}'
-      - '{''id'': 2, ''label'': ''Student''}'
-      - '{''id'': 3, ''label'': ''Organizer''}'
+      - Developer
+      - Student
+      - Organizer
       required: false
     - id: 6
       name: name_of_event
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: note

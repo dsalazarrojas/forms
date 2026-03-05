@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Verbal Communication''}'
-      - '{''id'': 2, ''label'': ''Written Communication''}'
-      - '{''id'': 3, ''label'': ''Nonverbal Communication''}'
-      - '{''id'': 4, ''label'': ''Visual Communication''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Verbal Communication
+      - Written Communication
+      - Nonverbal Communication
+      - Visual Communication
+      - Other
       required: false
     - id: 3
       name: body
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Online Submission''}'
-      - '{''id'': 2, ''label'': ''Email Submission''}'
-      - '{''id'': 3, ''label'': ''In-person Submission''}'
+      - Online Submission
+      - Email Submission
+      - In-person Submission
       required: false
     - id: 11
       name: email

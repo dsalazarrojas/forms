@@ -1,160 +1,151 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Art For Social Change Impact Survey
     pages:
-      - id: 1
-        name: project_context_header
-        label: -- Project Context --
-        hint: Help us measure the social impact of our arts-based initiatives
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: participant_name_optional
-        label: Name (Optional)
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: project_title
-        label: Name of the Art for Social Change Project
-        hint: null
-        type: select_one
-        options:
-          - Community Mural Initiative
-          - Voices of the Unheard - Theater Workshop
-          - Urban Resilience - Photography Program
-          - Digital Storytelling for Youth
-          - Other
-        required: true
-      - id: 4
-        name: project_location
-        label: Project Location - Community
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: impact_assessment_header
-        label: -- Impact Assessment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: awareness_increase
-        label: To what extent did this project increase your awareness of the social issue addressed?
-        hint: (1 = Not at all, 5 = Significantly)
-        type: select_one
-        options:
-          - 5 - Significantly
-          - 4 - Somewhat
-          - 3 - Neutral
-          - 2 - A Little
-          - 1 - Not at all
-        required: true
-      - id: 7
-        name: community_connection_rating
-        label: Did you feel more connected to your community after participating?
-        hint: null
-        type: select_one
-        options:
-          - Much more connected
-          - Slightly more connected
-          - No change
-          - Less connected
-        required: true
-      - id: 8
-        name: skill_development
-        label: What skills did you develop through this project?
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Artistic Skills (Painting, Acting, etc.)
-          - Communication Skills
-          - Leadership Skills
-          - Collaborative - Teamwork Skills
-          - Critical Thinking
-          - Digital Literacy
-        required: true
-      - id: 9
-        name: emotional_wellbeing_impact
-        label: How did participation affect your emotional well-being?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: behavior_change_intent
-        label: As a result of this project, do you intend to take further action on this social issue?
-        hint: null
-        type: select_one
-        options:
-          - Yes - Definitely
-          - Yes - Likely
-          - Maybe
-          - No
-        required: true
-      - id: 11
-        name: project_quality_header
-        label: -- Project Delivery and Quality --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: facilitation_rating
-        label: How would you rate the quality of project facilitation?
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Poor
-        required: true
-      - id: 13
-        name: accessibility_rating
-        label: How accessible was the project to everyone in the community?
-        hint: null
-        type: select_one
-        options:
-          - Very Accessible
-          - Fairly Accessible
-          - Some Barriers Encountered
-          - Not Accessible
-        required: true
-      - id: 14
-        name: key_takeaway
-        label: What was your single biggest takeaway from this project?
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: improvement_feedback
-        label: How can we make this project more impactful in the future?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: survey_date
-        label: Date of Survey Completion
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: project_context_header
+      label: -- Project Context --
+      hint: Help us measure the social impact of our arts-based initiatives
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name_optional
+      label: Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_title
+      label: Name of the Art for Social Change Project
+      hint: null
+      type: select_one
+      options:
+      - Community Mural Initiative
+      - Voices of the Unheard - Theater Workshop
+      - Urban Resilience - Photography Program
+      - Digital Storytelling for Youth
+      - Other
+      required: true
+    - id: 4
+      name: project_location
+      label: Project Location - Community
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: impact_assessment_header
+      label: -- Impact Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: awareness_increase
+      label: To what extent did this project increase your awareness of the social
+        issue addressed?
+      hint: (1 = Not at all, 5 = Significantly)
+      type: select_one
+      options:
+      - 5 - Significantly
+      - 4 - Somewhat
+      - 3 - Neutral
+      - 2 - A Little
+      - 1 - Not at all
+      required: true
+    - id: 7
+      name: community_connection_rating
+      label: Did you feel more connected to your community after participating?
+      hint: null
+      type: select_one
+      options:
+      - Much more connected
+      - Slightly more connected
+      - No change
+      - Less connected
+      required: true
+    - id: 8
+      name: skill_development
+      label: What skills did you develop through this project?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Artistic Skills (Painting, Acting, etc.)
+      - Communication Skills
+      - Leadership Skills
+      - Collaborative - Teamwork Skills
+      - Critical Thinking
+      - Digital Literacy
+      required: true
+    - id: 9
+      name: emotional_wellbeing_impact
+      label: How did participation affect your emotional well-being?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: behavior_change_intent
+      label: As a result of this project, do you intend to take further action on
+        this social issue?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Definitely
+      - Yes - Likely
+      - Maybe
+      - 'False'
+      required: true
+    - id: 11
+      name: project_quality_header
+      label: -- Project Delivery and Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: facilitation_rating
+      label: How would you rate the quality of project facilitation?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 13
+      name: accessibility_rating
+      label: How accessible was the project to everyone in the community?
+      hint: null
+      type: select_one
+      options:
+      - Very Accessible
+      - Fairly Accessible
+      - Some Barriers Encountered
+      - Not Accessible
+      required: true
+    - id: 14
+      name: key_takeaway
+      label: What was your single biggest takeaway from this project?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: improvement_feedback
+      label: How can we make this project more impactful in the future?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: survey_date
+      label: Date of Survey Completion
+      hint: null
+      type: date
+      options: []
+      required: true

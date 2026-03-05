@@ -17,7 +17,6 @@ inputSchema:
       type: select_one
       options:
       - Open
-      - Closed
       - Formal
       - Informal
       required: false
@@ -27,10 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: conflict_resolution
@@ -83,16 +81,6 @@ inputSchema:
       - Low-Functioning
       required: false
     - id: 9
-      name: communication_channels_used
-      label: Communication Channels Used
-      hint: null
-      type: select_multiple
-      options:
-      - Email
-      - Phone
-      - Video Conferencing
-      required: false
-    - id: 10
       name: manager_support
       label: Manager Support
       hint: null
@@ -102,149 +90,33 @@ inputSchema:
       - Medium
       - Low
       required: false
-    - id: 11
-      name: team_size
-      label: Team Size
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: collaboration_level
-      label: Collaboration Level
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      required: false
-    - id: 13
-      name: conflict_resolution
-      label: Conflict Resolution
-      hint: null
-      type: select_one
-      options:
-      - Direct
-      - Indirect
-      - Mediation
-      required: false
-    - id: 14
-      name: communication_channels
-      label: Communication Channels
+    - id: 10
+      name: communication_channels_used
+      label: Communication Channels Used
       hint: null
       type: select_multiple
       options:
       - Email
       - Phone
-      - In-Person
+      - Video Conferencing
       required: false
-    - id: 15
-      name: work_flow
-      label: Work Flow
+    - id: 11
+      name: manager_support_2
+      label: Manager Support 2
       hint: null
       type: select_one
       options:
-      - Agile
-      - Hybrid
-      - Waterfall
+      - High
+      - Medium
+      - Low
       required: false
-    - id: 16
-      name: collaboration_tools
-      label: Collaboration Tools
-      hint: null
-      type: select_multiple
-      options:
-      - Trello
-      - Asana
-      - Jira
-      required: false
-    - id: 17
-      name: team_dynamics
-      label: Team Dynamics
+    - id: 12
+      name: team_dynamics_2
+      label: Team Dynamics 2
       hint: null
       type: select_one
       options:
       - High-Functioning
       - Functional
       - Low-Functioning
-      required: false
-    - id: 18
-      name: communication_channels_used
-      label: Communication Channels Used
-      hint: null
-      type: select_multiple
-      options:
-      - Email
-      - Phone
-      - Video Conferencing
-      required: false
-    - id: 19
-      name: manager_support
-      label: Manager Support
-      hint: null
-      type: select_one
-      options:
-      - High
-      - Medium
-      - Low
-      required: false
-    - id: 20
-      name: team_size
-      label: Team Size
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: collaboration_level
-      label: Collaboration Level
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      required: false
-    - id: 22
-      name: conflict_resolution
-      label: Conflict Resolution
-      hint: null
-      type: select_one
-      options:
-      - Direct
-      - Indirect
-      - Mediation
-      required: false
-    - id: 23
-      name: communication_channels
-      label: Communication Channels
-      hint: null
-      type: select_multiple
-      options:
-      - Email
-      - Phone
-      - In-Person
-      required: false
-    - id: 24
-      name: work_flow
-      label: Work Flow
-      hint: null
-      type: select_one
-      options:
-      - Agile
-      - Hybrid
-      - Waterfall
-      required: false
-    - id: 25
-      name: collaboration_tools
-      label: Collaboration Tools
-      hint: null
-      type: select_multiple
-      options:
-      - Trello
-      - Asana
-      - Jira
       required: false

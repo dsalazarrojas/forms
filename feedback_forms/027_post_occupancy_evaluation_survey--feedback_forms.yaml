@@ -15,16 +15,9 @@ inputSchema:
     title: Post Occupancy Evaluation Survey
     pages:
     - id: 1
-      name: introduction
+      name: comfort_and_satisfaction
       label: Post Occupancy Evaluation Survey
       hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: building_comfort
-      label: Building Comfort
-      hint: Rate your comfort level while in the building
       type: select_multiple
       options:
       - Very comfortable
@@ -32,7 +25,7 @@ inputSchema:
       - Not very comfortable
       - Not at all comfortable
       required: false
-    - id: 3
+    - id: 2
       name: building_functionality
       label: Building Functionality
       hint: Rate your satisfaction with building functionality
@@ -44,10 +37,17 @@ inputSchema:
       - Somewhat dissatisfied
       - Very dissatisfied
       required: false
+    - id: 3
+      name: improvement_suggestions
+      label: What would you like to improve?
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 4
-      name: satisfaction
-      label: Overall Satisfaction
-      hint: Rate your overall satisfaction with building
+      name: building_satisfaction
+      label: Building Satisfaction
+      hint: null
       type: select_multiple
       options:
       - Very satisfied
@@ -57,79 +57,13 @@ inputSchema:
       - Very dissatisfied
       required: false
     - id: 5
-      name: improvement_suggestions
-      label: Improvement Suggestions
-      hint: What would you like to improve?
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: building_satisfaction
-      label: Building Satisfaction
-      hint: Rate your satisfaction with building
-      type: select_multiple
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 7
-      name: building_comfort_2
-      label: Building Comfort 2
-      hint: Rate your comfort level while in the building
-      type: select_multiple
-      options:
-      - Very comfortable
-      - Somewhat comfortable
-      - Not very comfortable
-      - Not at all comfortable
-      required: false
-    - id: 8
-      name: building_functionality_2
-      label: Building Functionality 2
-      hint: Rate your satisfaction with building functionality
-      type: select_multiple
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 9
-      name: building_satisfaction_2
-      label: Building Satisfaction 2
-      hint: Rate your satisfaction with building
-      type: select_multiple
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 10
-      name: overall_satisfaction_2
-      label: Overall Satisfaction 2
-      hint: Rate your overall satisfaction with building
-      type: select_multiple
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 11
       name: comments
       label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
+    - id: 6
       name: building_condition
       label: Building Condition
       hint: Rate your satisfaction with building condition
@@ -141,10 +75,10 @@ inputSchema:
       - Somewhat dissatisfied
       - Very dissatisfied
       required: false
-    - id: 13
-      name: building_condition_2
-      label: Building Condition 2
-      hint: Rate your satisfaction with building condition
+    - id: 7
+      name: satisfaction
+      label: Overall Satisfaction
+      hint: null
       type: select_multiple
       options:
       - Very satisfied
@@ -153,128 +87,19 @@ inputSchema:
       - Somewhat dissatisfied
       - Very dissatisfied
       required: false
-    - id: 14
-      name: building_condition_3
-      label: Building Condition 3
-      hint: Rate your satisfaction with building condition
+    - id: 8
+      name: building_comfort
+      label: Building Comfort
+      hint: null
       type: select_multiple
       options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
+      - Very comfortable
+      - Somewhat comfortable
+      - Not very comfortable
+      - Not at all comfortable
       required: false
-    - id: 15
+    - id: 9
       name: satisfaction_2
-      label: Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 16
-      name: satisfaction_3
-      label: Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 17
-      name: satisfaction_4
-      label: Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 18
-      name: satisfaction_5
-      label: Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 19
-      name: satisfaction_6
-      label: Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 20
-      name: building_satisfaction_4
-      label: Building Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 21
-      name: building_condition_4
-      label: Building Condition
-      hint: null
-      type: select_multiple
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 22
-      name: building_condition_5
-      label: Building Condition 2
-      hint: null
-      type: select_multiple
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 23
-      name: building_functionality_2
-      label: Building Functionality 2
-      hint: null
-      type: select_multiple
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 24
-      name: building_satisfaction_5
       label: Building Satisfaction 2
       hint: null
       type: select_multiple
@@ -285,20 +110,33 @@ inputSchema:
       - Somewhat dissatisfied
       - Very dissatisfied
       required: false
-    - id: 25
-      name: building_comfort_3
-      label: Building Comfort 3
+    - id: 10
+      name: building_facilities
+      label: Building Facilities
       hint: null
       type: select_multiple
       options:
-      - Very comfortable
-      - Somewhat comfortable
-      - Not very comfortable
-      - Not at all comfortable
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
       required: false
-    - id: 26
-      name: building_condition_6
-      label: Building Condition 3
+    - id: 11
+      name: satisfaction_3
+      label: Satisfaction 2
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 12
+      name: building_maintenance
+      label: Building Maintenance
       hint: null
       type: select_multiple
       options:

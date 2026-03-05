@@ -11,411 +11,97 @@ inputSchema:
       options: []
       required: true
     - id: 2
-      name: school_superintendent_evaluation_form_page_2
-      label: Performance
+      name: performance_evaluation
+      label: What is your overall impression of the school's performance?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Strong
+      - Weak
+      - Unknown
+      required: true
     - id: 3
-      name: school_superintendent_evaluation_form_page_3
-      label: Recommendations
+      name: school_superintendent_recommendations
+      label: Do you have any recommendations for the school?
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: school_superintendent_evaluation_form_page_4
-      label: Evaluation
+      name: evaluation_date
+      label: What date was the evaluation conducted?
       hint: null
-      type: number
+      type: date
       options: []
-      required: false
+      required: true
     - id: 5
-      name: school_superintendent_evaluation_form_page_5
-      label: Evaluation Date
+      name: comments
+      label: Please provide any comments or feedback you have for the school.
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: school_superintendent_evaluation_form_page_6
-      label: School Superintendent Evaluation Form
+      name: superintendent_supportive_admin
+      label: Do you agree that the school's administration is supportive of teachers?
       hint: null
-      type: email
-      options: []
-      required: false
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 7
-      name: school_superintendent_evaluation_form_page_7
-      label: School Superintendent Evaluation Form
+      name: superintendent_qualified_teachers
+      label: Do you agree that the school's teachers are well-qualified and prepared?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 8
-      name: school_superintendent_evaluation_form_page_8
-      label: Comments
+      name: superintendent_relevant_curriculum
+      label: Do you agree that the school's curriculum is relevant and engaging?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 9
-      name: school_superintendent_evaluation_form_page_9
-      label: Additional Comments
+      name: superintendent_maintained_facilities
+      label: Do you agree that the school's facilities are well-maintained?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 10
-      name: school_superintendent_evaluation_form_page_10
-      label: School Superintendent Evaluation Form
+      name: superintendent_adequate_resources
+      label: Do you agree that the school's resources (e.g., books, technology) are
+        adequate?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 11
-      name: school_superintendent_evaluation_form_page_11
-      label: School Superintendent Evaluation Form
+      name: superintendent_effective_leadership
+      label: Do you agree that the school's leadership is effective?
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 12
-      name: school_superintendent_evaluation_form_page_12
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: school_superintendent_evaluation_form_page_13
-      label: School Superintendent Evaluation Form
+      name: superintendent_inclusive_culture
+      label: Do you agree that the school's culture is inclusive and supportive?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: school_superintendent_evaluation_form_page_14
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: school_superintendent_evaluation_form_page_15
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: school_superintendent_evaluation_form_page_16
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: school_superintendent_evaluation_form_page_17
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: school_superintendent_evaluation_form_page_18
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: school_superintendent_evaluation_form_page_19
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: school_superintendent_evaluation_form_page_20
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: school_superintendent_evaluation_form_page_21
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: school_superintendent_evaluation_form_page_22
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: school_superintendent_evaluation_form_page_23
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: school_superintendent_evaluation_form_page_24
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: school_superintendent_evaluation_form_page_25
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 26
-      name: school_superintendent_evaluation_form_page_26
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: school_superintendent_evaluation_form_page_27
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 28
-      name: school_superintendent_evaluation_form_page_8
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: school_superintendent_evaluation_form_page_9
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: school_superintendent_evaluation_form_page_12
-      label: Evaluation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 31
-      name: school_superintendent_evaluation_form_page_13
-      label: Recommendations
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 32
-      name: school_superintendent_evaluation_form_page_16
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: school_superintendent_evaluation_form_page_17
-      label: Evaluation Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 34
-      name: school_superintendent_evaluation_form_page_18
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: school_superintendent_evaluation_form_page_19
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: school_superintendent_evaluation_form_page_20
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: school_superintendent_evaluation_form_page_21
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 38
-      name: school_superintendent_evaluation_form_page_22
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 39
-      name: school_superintendent_evaluation_form_page_23
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 40
-      name: school_superintendent_evaluation_form_page_24
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 41
-      name: school_superintendent_evaluation_form_page_25
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: school_superintendent_evaluation_form_page_26
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: school_superintendent_evaluation_form_page_27
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 44
-      name: school_superintendent_evaluation_form_page_28
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: school_superintendent_evaluation_form_page_29
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: school_superintendent_evaluation_form_page_30
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 47
-      name: school_superintendent_evaluation_form_page_31
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 48
-      name: school_superintendent_evaluation_form_page_32
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 49
-      name: school_superintendent_evaluation_form_page_33
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 50
-      name: school_superintendent_evaluation_form_page_34
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 51
-      name: school_superintendent_evaluation_form_page_35
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 52
-      name: school_superintendent_evaluation_form_page_36
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 53
-      name: school_superintendent_evaluation_form_page_37
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 54
-      name: school_superintendent_evaluation_form_page_38
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 55
-      name: school_superintendent_evaluation_form_page_39
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 56
-      name: school_superintendent_evaluation_form_page_40
-      label: School Superintendent Evaluation Form
-      hint: null
-      type: text
-      options: []
-      required: false
+      - I agree
+      - I do not agree
+      required: true

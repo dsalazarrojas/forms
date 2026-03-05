@@ -1,218 +1,66 @@
 inputSchema:
   type: object
   properties:
-    title: workshop_annual_performance_review_self_evaluation
+    title: Workshop Annual Performance Review Self Evaluation
     pages:
     - id: 1
       name: self_evaluation_form
-      label: self_evaluation_form
-      hint: null
+      label: Self Evaluation Form
+      hint: Please provide your honest evaluation of your performance over the past
+        year.
       type: text
       options: []
       required: false
     - id: 2
-      name: job_performance_level
-      label: performance_level
+      name: job_performance_comments
+      label: Job Performance Comments
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''high''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''low''}'
+      type: text
+      options: []
       required: false
     - id: 3
-      name: job_performance_comments
-      label: performance_comments
+      name: knowledge_level
+      label: Knowledge Level
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
       required: false
     - id: 4
-      name: job_knowledge_level
-      label: knowledge_level
+      name: skills_level
+      label: Skills Level
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''id'': 1, ''label'': ''high''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 5
-      name: job_skills_level
-      label: skills_level
+      name: attitude_level
+      label: Attitude Level
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''high''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 6
-      name: job_attitude_level
-      label: attitude_level
+      name: overall_job_satisfactions
+      label: Overall Job Satisfactions
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''high''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 7
-      name: job_mission_alignment
-      label: mission_alignment
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''high''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''low''}'
-      required: false
-    - id: 8
-      name: job_satisfactions
-      label: satisfactions
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: job_expectations
-      label: job_expectations
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: overall_job_satisfactions
-      label: overall_satisfactions
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: job_expectations
-      label: job_expectations
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: performance_comments
-      label: performance_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: areas_improvement
-      label: areas_improvement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: overall_performance_level
-      label: overall_performance_level
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''high''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''low''}'
-      required: false
-    - id: 15
-      name: overall_knowledge_level
-      label: overall_knowledge_level
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''high''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''low''}'
-      required: false
-    - id: 16
-      name: overall_skills_level
-      label: overall_skills_level
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''high''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''low''}'
-      required: false
-    - id: 17
-      name: overall_attitude_level
-      label: overall_attitude_level
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''high''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''low''}'
-      required: false
-    - id: 18
-      name: overall_mission_alignment
-      label: overall_mission_alignment
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''high''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''low''}'
-      required: false
-    - id: 19
-      name: overall_satisfactions
-      label: overall_satisfactions
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''high''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''low''}'
-      required: false
-    - id: 20
-      name: overall_expectations
-      label: overall_expectations
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''high''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''low''}'
-      required: false
-    - id: 21
-      name: overall_comments
-      label: overall_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: overall_satisfactions_comments
-      label: overall_satisfactions_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: job_satisfactions
-      label: job_satisfactions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''high''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''low''}'
-      required: false
-    - id: 24
-      name: job_expectations
-      label: job_expectations
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: self_evaluation_comments
-      label: self_evaluation_comments
+      name: overall_performance_comments
+      label: Overall Performance Comments
       hint: null
       type: text
       options: []

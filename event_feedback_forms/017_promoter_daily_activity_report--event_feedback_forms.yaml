@@ -11,172 +11,95 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: event_id
-      label: Event Id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 3
       name: event_type
       label: Event Type
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Event'', ''value'': ''Event''}'
-      - '{''id'': 2, ''label'': ''Non Event'', ''value'': ''Non Event''}'
-      required: false
-    - id: 4
-      name: event_name
-      label: Event Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: start_time
-      label: Start Time
-      hint: 24 hour time format
-      type: time
-      options: []
-      required: false
-    - id: 6
-      name: end_time
-      label: End Time
-      hint: 24 hour time format
-      type: time
-      options: []
-      required: false
-    - id: 7
+      - Event
+      - Non Event
+      required: true
+    - id: 3
       name: activity_type
       label: Activity Type
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''On-Site'', ''value'': ''On-Site''}'
-      - '{''id'': 2, ''label'': ''Off-Site'', ''value'': ''Off-Site''}'
-      - '{''id'': 3, ''label'': ''Hybrid'', ''value'': ''Hybrid''}'
-      required: false
-    - id: 8
+      - On-Site
+      - Off-Site
+      - Hybrid
+      required: true
+    - id: 4
+      name: activity_location
+      label: Activity Location
+      hint: null
+      type: select_multiple
+      options:
+      - On-Site
+      - Off-Site
+      - Hybrid
+      - Other
+      - Unknown
+      required: true
+    - id: 5
       name: activity_details
       label: Activity Details
       hint: null
       type: text
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 6
       name: activity_duration
       label: Activity Duration
       hint: null
       type: number
       options: []
       required: false
-    - id: 10
-      name: activity_location
-      label: Activity Location
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''On-Site'', ''value'': ''On-Site''}'
-      - '{''id'': 2, ''label'': ''Off-Site'', ''value'': ''Off-Site''}'
-      - '{''id'': 3, ''label'': ''Hybrid'', ''value'': ''Hybrid''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
-      - '{''id'': 5, ''label'': ''Unknown'', ''value'': ''Unknown''}'
-      required: false
-    - id: 11
+    - id: 7
       name: promoter_team
       label: Promoter Team
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
-      name: promoter_notes
-      label: Promoter Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: event_notes
-      label: Event Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
+      required: true
+    - id: 8
       name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 9
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
+    - id: 10
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
       name: event_id_2
-      label: Event Id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: event_id_3
-      label: Event Id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: event_id_4
-      label: Event Id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: event_id_5
-      label: Event Id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: event_id_6
-      label: Event Id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: event_id_7
-      label: Event Id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: event_id_8
-      label: Event Id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: event_id_9
-      label: Event Id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: event_id_10
-      label: Event Id
+      label: Event ID 2
       hint: null
       type: text
       options: []

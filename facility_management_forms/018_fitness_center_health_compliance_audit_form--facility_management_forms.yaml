@@ -15,70 +15,56 @@ inputSchema:
     title: Fitness Center Health Compliance Audit Form
     pages:
     - id: 1
-      name: fitness_center_health_compliance_audit_form_1
+      name: gym_sanitation
       label: Gym Sanitation
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: fitness_center_health_compliance_audit_form_2
+      name: equipment_checks
       label: Equipment Checks
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: fitness_center_health_compliance_audit_form_3
+      name: safety_protocols
       label: Safety Protocols
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: fitness_center_health_compliance_audit_form_4
+      name: location
       label: Location
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: fitness_center_health_compliance_audit_form_5
+      name: date
       label: Date
       hint: null
       type: date
       options: []
       required: true
     - id: 6
-      name: fitness_center_health_compliance_audit_form_6
+      name: time
       label: Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 7
-      name: fitness_center_health_compliance_audit_form_7
+      name: auditor_name
       label: Auditor Name
       hint: null
       type: text
       options: []
       required: true
     - id: 8
-      name: fitness_center_health_compliance_audit_form_8
-      label: Auditor Contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: fitness_center_health_compliance_audit_form_9
-      label: Auditor Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 10
-      name: fitness_center_health_compliance_audit_form_10
+      name: form_submission
       label: Form Submission
       hint: null
       type: select_one
@@ -86,29 +72,22 @@ inputSchema:
       - Compliant
       - Non-Compliant
       required: true
-    - id: 11
-      name: fitness_center_health_compliance_audit_form_11
+    - id: 9
+      name: comments
       label: Comments
       hint: null
       type: note
       options: []
       required: false
-    - id: 12
-      name: fitness_center_health_compliance_audit_form_12
-      label: Submission Date
+    - id: 10
+      name: submission_date_and_time
+      label: Submission Date and Time
       hint: null
       type: date
       options: []
-      required: false
-    - id: 13
-      name: fitness_center_health_compliance_audit_form_13
-      label: Submission Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: fitness_center_health_compliance_audit_form_14
+      required: true
+    - id: 11
+      name: submission_status
       label: Submission Status
       hint: null
       type: select_one
@@ -117,86 +96,55 @@ inputSchema:
       - Pending
       - Rejected
       required: true
-    - id: 15
-      name: fitness_center_health_compliance_audit_form_15
-      label: Submission Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: fitness_center_health_compliance_audit_form_16
-      label: Submission Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: fitness_center_health_compliance_audit_form_17
-      label: Submission Status
-      hint: null
-      type: select_one
-      options:
-      - Submitted
-      - Pending
-      - Rejected
-      required: false
-    - id: 18
-      name: fitness_center_health_compliance_audit_form_18
+    - id: 12
+      name: auditors_signature
       label: Auditor's Signature
       hint: null
       type: text
       options: []
       required: true
-    - id: 19
-      name: fitness_center_health_compliance_audit_form_19
+    - id: 13
+      name: manager_signature
       label: Manager's Signature
       hint: null
       type: text
       options: []
       required: true
-    - id: 20
-      name: fitness_center_health_compliance_audit_form_20
+    - id: 14
+      name: supervisors_signature
       label: Supervisor's Signature
       hint: null
       type: text
       options: []
       required: true
-    - id: 21
-      name: fitness_center_health_compliance_audit_form_21
+    - id: 15
+      name: hr_signature
       label: HR's Signature
       hint: null
       type: text
       options: []
       required: true
-    - id: 22
-      name: fitness_center_health_compliance_audit_form_22
-      label: Submission Date
+    - id: 16
+      name: submission_date_and_time_2
+      label: Submission Date And Time 2
       hint: null
       type: date
       options: []
-      required: false
-    - id: 23
-      name: fitness_center_health_compliance_audit_form_23
-      label: Submission Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: fitness_center_health_compliance_audit_form_24
-      label: Submission Status
+      required: true
+    - id: 17
+      name: submission_status_2
+      label: Submission Status 2
       hint: null
       type: select_one
       options:
       - Submitted
       - Pending
       - Rejected
-      required: false
-    - id: 25
-      name: fitness_center_health_compliance_audit_form_25
-      label: Submission Date
+      required: true
+    - id: 18
+      name: additional_information
+      label: Additional Information
       hint: null
-      type: date
+      type: note
       options: []
       required: false

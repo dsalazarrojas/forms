@@ -115,7 +115,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I permit
-      - false
+      - 'False'
       required: true
     - id: 17
       name: photography_permission
@@ -124,7 +124,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I permit
-      - false
+      - 'False'
       required: true
     - id: 18
       name: publicity_permission
@@ -133,7 +133,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I permit
-      - false
+      - 'False'
       - With credit only
       required: true
     - id: 19
@@ -143,7 +143,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, required
-      - false
+      - 'False'
       required: true
     - id: 20
       name: section_terms
@@ -176,7 +176,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I agree
-      - false
+      - 'False'
       required: true
     - id: 24
       name: artist_statement
@@ -184,8 +184,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: acknowledgment
@@ -194,5 +194,5 @@ inputSchema:
       type: select_one
       options:
       - Yes, I acknowledge
-      - false
+      - 'False'
       required: true

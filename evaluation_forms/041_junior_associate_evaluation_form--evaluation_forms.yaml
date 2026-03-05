@@ -30,9 +30,9 @@ inputSchema:
       hint: Select the evaluation period for the junior associate
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''First 90 days''}'
-      - '{''id'': 2, ''name'': ''Next 90 days''}'
-      - '{''id'': 3, ''name'': ''Beyond 6 months''}'
+      - First 90 days
+      - Next 90 days
+      - Beyond 6 months
       required: false
     - id: 5
       name: performance_area_1
@@ -47,11 +47,11 @@ inputSchema:
       hint: Select the performance area you would like to focus on
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Communication''}'
-      - '{''id'': 2, ''name'': ''Teamwork''}'
-      - '{''id'': 3, ''name'': ''Leadership''}'
-      - '{''id'': 4, ''name'': ''Adaptability''}'
-      - '{''id'': 5, ''name'': ''Initiative''}'
+      - Communication
+      - Teamwork
+      - Leadership
+      - Adaptability
+      - Initiative
       required: false
     - id: 7
       name: performance_area_3
@@ -59,11 +59,11 @@ inputSchema:
       hint: Select the performance area you would like to focus on
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Communication''}'
-      - '{''id'': 2, ''name'': ''Teamwork''}'
-      - '{''id'': 3, ''name'': ''Leadership''}'
-      - '{''id'': 4, ''name'': ''Adaptability''}'
-      - '{''id'': 5, ''name'': ''Initiative''}'
+      - Communication
+      - Teamwork
+      - Leadership
+      - Adaptability
+      - Initiative
       required: false
     - id: 8
       name: evaluation_comments
@@ -148,8 +148,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Completed''}'
-      - '{''id'': 2, ''name'': ''Not Completed''}'
+      - Completed
+      - Not Completed
       required: false
     - id: 20
       name: completed_status
@@ -157,8 +157,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: evaluation_comments

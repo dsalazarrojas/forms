@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''2D''}'
-      - '{''id'': 2, ''label'': ''3D''}'
-      - '{''id'': 3, ''label'': ''Live-Action''}'
+      - 2D
+      - 3D
+      - Live-Action
       required: false
     - id: 3
       name: genre
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Adventure''}'
-      - '{''id'': 2, ''label'': ''Action''}'
-      - '{''id'': 3, ''label'': ''Comedy''}'
-      - '{''id'': 4, ''label'': ''Sci-Fi''}'
+      - Adventure
+      - Action
+      - Comedy
+      - Sci-Fi
       required: false
     - id: 4
       name: animation_style
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Traditional''}'
-      - '{''id'': 2, ''label'': ''Computer-Generated''}'
-      - '{''id'': 3, ''label'': ''Stop-Motion''}'
+      - Traditional
+      - Computer-Generated
+      - Stop-Motion
       required: false
     - id: 5
       name: animation_length

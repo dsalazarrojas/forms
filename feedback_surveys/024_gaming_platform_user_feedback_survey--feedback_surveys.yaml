@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Very dissatisfied''}'
-      - '{''value'': 2, ''label'': ''Somewhat dissatisfied''}'
-      - '{''value'': 3, ''label'': ''Neutral''}'
-      - '{''value'': 4, ''label'': ''Somewhat satisfied''}'
-      - '{''value'': 5, ''label'': ''Very satisfied''}'
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
       required: true
     - id: 4
       name: improvement_opportunities
@@ -35,10 +35,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Bugs'', ''label'': ''Bugs''}'
-      - '{''value'': ''Performance'', ''label'': ''Performance''}'
-      - '{''value'': ''User interface'', ''label'': ''User interface''}'
-      - '{''value'': ''Content'', ''label'': ''Content''}'
+      - Bugs
+      - Performance
+      - User interface
+      - Content
       required: true
     - id: 5
       name: recommendations

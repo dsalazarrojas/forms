@@ -4,296 +4,86 @@ inputSchema:
     title: Laser Tag Online Booking Form
     pages:
     - id: 1
-      name: event_planner_form
-      label: Event Planner Form
+      name: event_form_title
+      label: Event Title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: event_start_date
-      label: Event Start Date
+      name: event_form_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_form_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_form_start_date
+      label: Start Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 3
-      name: event_start_time
-      label: Event Start Time
+      required: true
+    - id: 5
+      name: event_form_start_time
+      label: Start Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 4
-      name: end_date
+      required: true
+    - id: 6
+      name: event_form_end_date
       label: End Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 5
-      name: end_time
+      required: true
+    - id: 7
+      name: event_form_end_time
       label: End Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 6
-      name: event_duration
-      label: Event Duration
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: event_name
-      label: Event Name
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 8
-      name: event_description
-      label: Event Description
+      name: event_form_duration
+      label: Duration
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 9
-      name: event_location
-      label: Event Location
+      name: event_form_organizer
+      label: Organizer
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: event_date
-      label: Event Date
+      name: event_form_created_by
+      label: Created By
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: event_start_time
-      label: Event Start Time
+      name: event_form_updated_by
+      label: Updated By
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: event_end_date
-      label: Event End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: event_end_time
-      label: Event End Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: event_duration_in_hours
-      label: Event Duration in Hours
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: event_duration_in_minutes
-      label: Event Duration in Minutes
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: event_duration_in_hours
-      label: Event Duration in Hours
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: event_start_date
-      label: Event Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: event_start_time
-      label: Event Start Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: event_end_date
-      label: Event End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: event_end_time
-      label: Event End Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: event_duration
-      label: Event Duration
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: event_name
-      label: Event Name
+      name: event_form_notes
+      label: Notes
       hint: null
       type: text
       options: []
-      required: false
-    - id: 23
-      name: event_description
-      label: Event Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: event_location
-      label: Event Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: event_notes
-      label: Event Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: event_organizer
-      label: Event Organizer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: event_status
-      label: Event Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: event_created_by
-      label: Event Created By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: event_created_on
-      label: Event Created On
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 30
-      name: event_updated_by
-      label: Event Updated By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: event_updated_on
-      label: Event Updated On
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 32
-      name: event_updated_at
-      label: Event Updated At
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 33
-      name: event_last_updated_at
-      label: Event Last Updated At
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 34
-      name: event_start_date
-      label: Event Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 35
-      name: event_start_time
-      label: Event Start Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 36
-      name: event_end_date
-      label: Event End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 37
-      name: event_end_time
-      label: Event End Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 38
-      name: event_duration
-      label: Event Duration
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 39
-      name: event_name
-      label: Event Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: event_description
-      label: Event Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: event_location
-      label: Event Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: event_notes
-      label: Event Notes
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

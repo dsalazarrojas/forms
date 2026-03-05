@@ -65,10 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I agree to terms and conditions'', ''value'': ''I agree to
-        terms and conditions''}'
-      - '{''label'': ''I do not agree to terms and conditions'', ''value'': ''I do
-        not agree to terms and conditions''}'
+      - I agree to terms and conditions
+      - I do not agree to terms and conditions
       required: false
     - id: 10
       name: submit_comment
@@ -76,9 +74,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''This form was easy to use'', ''value'': ''This form was easy
-        to use''}'
-      - '{''label'': ''This form was difficult to use'', ''value'': ''This form was
-        difficult to use''}'
-      - '{''label'': ''This form was okay'', ''value'': ''This form was okay''}'
+      - This form was easy to use
+      - This form was difficult to use
+      - This form was okay
       required: false

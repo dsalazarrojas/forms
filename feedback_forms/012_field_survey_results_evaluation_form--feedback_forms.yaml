@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Phone''}'
-      - '{''id'': 2, ''label'': ''Email''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Phone
+      - Email
+      - Both
       required: true
     - id: 5
       name: comments_page
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Save Draft''}'
-      - '{''id'': 3, ''label'': ''Cancel''}'
+      - Submit
+      - Save Draft
+      - Cancel
       required: true
     - id: 7
       name: date_page

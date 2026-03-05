@@ -4,204 +4,73 @@ inputSchema:
     title: Online Booking Form With Moneris
     pages:
     - id: 1
-      name: online_booking_form_with_moneris
-      label: Online Booking Form With Moneris
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: category
-      label: Category
-      hint: null
+      label: Event Planner Forms
+      hint: Select a category for this form
       type: select_one
       options:
       - Event Planner Forms
       - Other
-      required: false
-    - id: 3
+      required: true
+    - id: 2
       name: description
       label: Description
-      hint: null
+      hint: Describe this form's purpose and functionality
       type: text
       options: []
       required: false
-    - id: 4
-      name: form_ids
+    - id: 3
+      name: form_id
       label: Form ID
       hint: Enter your unique 4-digit form ID
       type: number
       options: []
-      required: false
-    - id: 5
-      name: description
-      label: Description
-      hint: This form will instantly process online payments with Moneris, the most
-        popular Canadian payment gateway.
-      type: text
-      options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 4
       name: output_file
       label: Output File
-      hint: null
+      hint: Name for saved output files
       type: text
       options: []
       required: false
-    - id: 7
+    - id: 5
       name: assigned_tool
       label: Assigned Tool
-      hint: null
+      hint: Select a tool or platform this form is integrated with
       type: select_one
       options:
       - chatjimmy
+      - Google Calendar
       - Other
       required: false
-    - id: 8
-      name: category
-      label: Category
-      hint: null
+    - id: 6
+      name: categories
+      label: Categories
+      hint: Select multiple categories for this form
       type: select_multiple
       options:
       - Event Planner Forms
       - Event Forms
       - Forms
       required: false
+    - id: 7
+      name: description_2
+      label: Form Description
+      hint: Describe how this form will help users manage events
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: integration_description
+      label: Integration Description
+      hint: Explain how this form integrates with calendars, CRMs, and spreadsheets
+      type: text
+      options: []
+      required: false
     - id: 9
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: description
-      label: Description
-      hint: Integrate this form with your calendar, CRM, or spreadsheets to organize
-        reservation information.
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: description
-      label: Description
-      hint: With your custom online booking form, you can spend less time managing
-        requests and more time making your guests happy.
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Event Planner Forms
-      - Other
-      required: false
-    - id: 14
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - Event Planner Forms
-      - Event Forms
-      required: false
-    - id: 16
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - Event Planner Forms
-      - Event Forms
-      required: false
-    - id: 17
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Event Planner Forms
-      - Other
-      required: false
-    - id: 18
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - Event Planner Forms
-      - Event Forms
-      required: false
-    - id: 19
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - Event Planner Forms
-      - Event Forms
-      required: false
-    - id: 20
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Event Planner Forms
-      - Other
-      required: false
-    - id: 21
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Event Planner Forms
-      - Other
-      required: false
-    - id: 22
-      name: description
-      label: Description
-      hint: This form will instantly process online payments with Moneris, the most
-        popular Canadian payment gateway.
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: description
-      label: Description
-      hint: null
+      name: notes
+      label: Notes
+      hint: Add any additional notes about this form
       type: text
       options: []
       required: false

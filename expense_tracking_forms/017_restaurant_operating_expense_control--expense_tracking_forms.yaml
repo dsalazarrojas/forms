@@ -4,218 +4,44 @@ inputSchema:
     title: Restaurant Operating Expense Control
     pages:
     - id: 1
-      name: main
-      label: main
-      hint: null
+      name: restaurant_operating_expense_form
+      label: Form
+      hint: Form to be filled out for restaurant operating expenses
       type: note
       options: []
       required: false
     - id: 2
       name: section_1
-      label: section 1
+      label: Restaurant Information
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 3
-      name: restaurant_name
-      label: restaurant name
+      name: section_1_expense_type
+      label: Expense Type
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: address
-      label: address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: start_date
-      label: start date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: end_date
-      label: end date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: expense_type
-      label: expense type
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Type 1''}'
-      - '{''id'': 2, ''label'': ''Type 2''}'
-      required: false
-    - id: 8
-      name: expense_amount
-      label: expense amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
       name: section_2
-      label: section 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: section_2_item_1
-      label: item 1
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Item 1''}'
-      - '{''id'': 2, ''label'': ''Item 2''}'
-      required: false
-    - id: 11
-      name: section_2_item_1_value
-      label: item 1 value
+      label: Multiple Selections
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
-      name: section_2_item_2
-      label: item 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: section_2_item_2_value
-      label: item 2 value
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
+      required: true
+    - id: 5
       name: section_3
-      label: section 3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: section_3_item_1
-      label: item 1
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Item 1''}'
-      - '{''id'': 2, ''label'': ''Item 2''}'
-      required: false
-    - id: 16
-      name: section_3_item_1_value
-      label: item 1 value
+      label: More Multiple Selections
       hint: null
       type: text
       options: []
-      required: false
-    - id: 17
-      name: section_3_item_2
-      label: item 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: section_3_item_2_value
-      label: item 2 value
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
+      required: true
+    - id: 6
       name: section_4
-      label: section 4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: section_4_item_1
-      label: item 1
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Item 1''}'
-      - '{''id'': 2, ''label'': ''Item 2''}'
-      required: false
-    - id: 21
-      name: section_4_item_1_value
-      label: item 1 value
+      label: Final Multiple Selections
       hint: null
       type: text
       options: []
-      required: false
-    - id: 22
-      name: section_4_item_2
-      label: item 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: section_4_item_2_value
-      label: item 2 value
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: section_5
-      label: section 5
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: section_5_item_1
-      label: item 1
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Item 1''}'
-      - '{''id'': 2, ''label'': ''Item 2''}'
-      required: false
-    - id: 26
-      name: section_5_item_1_value
-      label: item 1 value
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: section_5_item_2
-      label: item 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: section_5_item_2_value
-      label: item 2 value
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

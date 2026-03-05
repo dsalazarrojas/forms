@@ -15,177 +15,135 @@ inputSchema:
     title: Plant Monitoring Form
     pages:
     - id: 1
-      name: plant_monitoring_form_page_1
-      label: Plant Monitoring Form Page 1
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: monitor_plant_type
+      label: What type of plant is being monitored?
+      hint: Please select a plant type
+      type: select_one
+      options:
+      - Crop
+      - Flower
+      - Tree
+      - Shrub
+      - Other (please specify)
+      required: true
     - id: 2
-      name: plant_monitoring_form_page_2
-      label: Monitoring Data
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: monitor_plant_location
+      label: Location of the monitored plant
+      hint: Please select the plant location
+      type: select_one
+      options:
+      - Field
+      - Greenhouse
+      - Indoor
+      - Other (please specify)
+      required: true
     - id: 3
-      name: plant_monitoring_form_page_3
-      label: Additional Information
-      hint: null
-      type: text
+      name: monitor_temperature_celsius
+      label: Current temperature of the plant (in Celsius)
+      hint: Please enter the temperature
+      type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: plant_monitering_form_page_4
-      label: Monitoring Data
-      hint: null
-      type: text
+      name: monitor_temperature_fahrenheit
+      label: Current temperature of the plant (in Fahrenheit)
+      hint: Please enter the temperature
+      type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: plant_monitering_form_page_5
-      label: Additional Information
-      hint: null
-      type: text
+      name: monitor_moisture
+      label: Current moisture level of the plant (in percentage)
+      hint: Please enter the moisture level
+      type: number
       options: []
-      required: false
+      required: true
     - id: 6
-      name: plant_monitering_form_page_6
-      label: Plant Monitoring Form Page 1
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: monitor_disease_pests
+      label: Has the plant shown any signs of disease or pests?
+      hint: Please select Yes or No
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 7
-      name: plant_monitering_form_page_7
-      label: Monitoring Data
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: monitor_watering_frequency
+      label: How often is the plant watered?
+      hint: Please select the frequency
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Other (please specify)
+      required: true
     - id: 8
-      name: plant_monitering_form_page_8
-      label: Additional Information
-      hint: null
-      type: text
+      name: monitor_rainwater_collected
+      label: How much rainwater is collected from the plant?
+      hint: Please enter the amount
+      type: number
       options: []
       required: false
     - id: 9
-      name: plant_monitering_form_page_9
-      label: Plant Monitoring Form Page 2
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: monitor_fertilization
+      label: Has the plant been fertilized recently?
+      hint: Please select Yes or No
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 10
-      name: plant_monitering_form_page_10
-      label: Monitoring Data
-      hint: null
-      type: text
-      options: []
+      name: monitor_fertilizer_type
+      label: What type of fertilizer was used?
+      hint: Please select the type of fertilizer
+      type: select_one
+      options:
+      - Organic
+      - Inorganic
+      - Other (please specify)
       required: false
     - id: 11
-      name: plant_monitering_form_page_11
-      label: Additional Information
-      hint: null
-      type: text
-      options: []
+      name: monitor_growth_stage
+      label: What is the current growth stage of the plant?
+      hint: Please select a growth stage
+      type: select_one
+      options:
+      - Seedling
+      - Sprouting
+      - Mature
+      - Other (please specify)
       required: false
     - id: 12
-      name: plant_monitering_form_page_12
-      label: Plant Monitoring Form Page 3
-      hint: null
+      name: monitor_additional_info
+      label: Additional information about the plant
+      hint: Please provide any additional information
       type: text
       options: []
       required: false
     - id: 13
-      name: plant_monitering_form_page_13
-      label: Plant Monitoring Form Page 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: plant_monitering_form_page_14
-      label: Plant Monitoring Form Page 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: plant_monitering_form_page_15
-      label: Date
-      hint: null
+      name: monitor_date
+      label: Date of last monitoring
+      hint: Please enter the date
       type: date
       options: []
+      required: true
+    - id: 14
+      name: monitor_plant_status
+      label: What is the current status of the plant?
+      hint: Please select a status
+      type: select_one
+      options:
+      - Healthy
+      - Diseased
+      - Damaged
+      - Other (please specify)
       required: false
-    - id: 16
-      name: plant_monitering_form_page_16
-      label: Plant Monitoring Form Page 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: plant_monitering_form_page_17
-      label: Plant Monitering Form Page 17
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: plant_monitering_form_page_18
-      label: Plant Monitoring Form Page 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: plant_monitoring_form_page_19
-      label: Plant Monitoring Form Page 9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: plant_monitoring_form_page_20
-      label: Additional Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: plant_monitoring_form_page_21
-      label: Plant Monitoring Form Page 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: plant_monitoring_form_page_22
-      label: Plant Monitoring Form Page 10
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: plant_monitoring_form_page_23
-      label: Monitoring Data
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: plant_monitoring_form_page_24
-      label: Additional Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: plant_monitoring_form_page_25
-      label: Plant Monitoring Form Page 11
-      hint: null
+    - id: 15
+      name: monitor_notes
+      label: Notes
+      hint: Please provide any additional notes
       type: text
       options: []
       required: false

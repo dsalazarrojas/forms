@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Personal''}'
-      - '{''label'': ''Business''}'
+      - Personal
+      - Business
       required: false
     - id: 4
       name: description
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''USD''}'
-      - '{''label'': ''CAD''}'
-      - '{''label'': ''EUR''}'
+      - USD
+      - CAD
+      - EUR
       required: false
     - id: 8
       name: submitted_by
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Alice''}'
-      - '{''label'': ''Bob''}'
-      - '{''label'': ''Charlie''}'
+      - Alice
+      - Bob
+      - Charlie
       required: false
     - id: 9
       name: approved_by
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Alice''}'
-      - '{''label'': ''Bob''}'
-      - '{''label'': ''Charlie''}'
+      - Alice
+      - Bob
+      - Charlie
       required: false
     - id: 10
       name: comments

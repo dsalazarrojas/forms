@@ -1,85 +1,74 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Auction Participation Rules Acknowledgment
     pages:
-      - id: 1
-        name: rules_acknowledgment
-        label: -- Rules Acknowledgment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: participant_name
-        label: Participant name
-        hint: Full name for the record
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: participant_email
-        label: Participant email
-        hint: We will send a copy of this acknowledgement
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: event_name
-        label: Event name
-        hint: Name of the auction event
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: agree_to_rules
-        label: I agree to the auction participation rules
-        hint: Participant must agree to proceed
-        type: select_one
-        options:
-          - I agree
-          - I do not agree
-        required: true
-      - id: 6
-        name: payment_terms_understood
-        label: Payment terms understood
-        hint: Confirm understanding of payment timing and fees
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 7
-        name: pickup_terms_understood
-        label: Pickup and delivery terms understood
-        hint: Confirm pickup timeframes and responsibilities
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 8
-        name: special_accommodations
-        label: Special accommodations requested
-        hint: Describe any accessibility or accommodation needs
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: additional_comments
-        label: Additional comments
-        hint: Any other notes or questions
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: rules_acknowledgment
+      label: -- Rules Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name for the record
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Participant email
+      hint: We will send a copy of this acknowledgement
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event name
+      hint: Name of the auction event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: agree_to_rules
+      label: I agree to the auction participation rules
+      hint: Participant must agree to proceed
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 6
+      name: payment_terms_understood
+      label: Payment terms understood
+      hint: Confirm understanding of payment timing and fees
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: pickup_terms_understood
+      label: Pickup and delivery terms understood
+      hint: Confirm pickup timeframes and responsibilities
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: special_accommodations
+      label: Special accommodations requested
+      hint: Describe any accessibility or accommodation needs
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: Any other notes or questions
+      type: text
+      options: []
+      required: false

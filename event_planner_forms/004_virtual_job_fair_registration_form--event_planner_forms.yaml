@@ -1,193 +1,135 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Virtual Job Fair Registration Form
     pages:
     - id: 1
-      name: name
-      label: Name
+      name: attendee_name
+      label: Attendee Name
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: name
-      label: Name
-      hint: Your Name
-      type: text
-      options: []
-      required: true
-    - id: 3
-      name: email
-      label: Email
+      name: attendee_email
+      label: Attendee Email
       hint: null
       type: email
       options: []
       required: true
-    - id: 4
+    - id: 3
       name: company
       label: Company
       hint: null
       type: text
       options: []
       required: true
-    - id: 5
+    - id: 4
       name: company_address
       label: Company Address
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
+    - id: 5
       name: role
       label: Role
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''CEO'', ''value'': ''CEO''}'
-      - '{''id'': 2, ''label'': ''Marketing Manager'', ''value'': ''Marketing Manager''}'
-      - '{''id'': 3, ''label'': ''Intern'', ''value'': ''Intern''}'
+      - CEO
+      - Marketing Manager
+      - Intern
       required: true
-    - id: 7
+    - id: 6
       name: job_title
       label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_description
+      label: Job Description
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: job_title
-      label: Job Title
+      name: job_requirements
+      label: Job Requirements
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: job_title
-      label: Job Title
+      name: company_contact_name
+      label: Company Contact Name
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: job_title
-      label: Job Title
+      name: company_contact_email
+      label: Company Contact Email
       hint: null
-      type: text
+      type: email
       options: []
       required: false
     - id: 11
-      name: job_description
-      label: Job Description
+      name: exhibitor_or_job_seeker
+      label: Are you an exhibitor or a job seeker?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Exhibitor
+      - Job Seeker
+      required: true
     - id: 12
-      name: job_requirements
-      label: Job Requirements
+      name: organization_name
+      label: Organization Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: job_requirements
-      label: Job Requirements
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: job_requirements
-      label: Job Requirements
+      name: job_role
+      label: Job Role
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 15
-      name: job_title
-      label: Job Title
+      name: job_title_2
+      label: Job Title 2
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 16
-      name: job_description
-      label: Job Description
+      name: job_description_2
+      label: Job Description 2
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 17
-      name: job_requirements
-      label: Job Requirements
+      name: job_requirements_2
+      label: Job Requirements 2
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 18
-      name: job_description
-      label: Job Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: job_requirements
-      label: Job Requirements
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: job_requirements
-      label: Job Requirements
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: job_requirements
-      label: Job Requirements
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: job_requirements
-      label: Job Requirements
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: job_description
-      label: Job Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: job_requirements
-      label: Job Requirements
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: job_description
-      label: Job Description
+      name: additional_comments_2
+      label: Additional Comments 2
       hint: null
       type: text
       options: []

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Suggestion 1''}'
-      - '{''id'': 2, ''label'': ''Suggestion 2''}'
-      - '{''id'': 3, ''label'': ''Suggestion 3''}'
+      - Suggestion 1
+      - Suggestion 2
+      - Suggestion 3
       required: false
     - id: 5
       name: service_quality
@@ -70,10 +70,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Poor''}'
-      - '{''id'': 2, ''label'': ''Average''}'
-      - '{''id'': 3, ''label'': ''Good''}'
-      - '{''id'': 4, ''label'': ''Excellent''}'
+      - Poor
+      - Average
+      - Good
+      - Excellent
       required: false
     - id: 10
       name: staff_helpfulness_scale
@@ -88,10 +88,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not Useful''}'
-      - '{''id'': 2, ''label'': ''Useful''}'
-      - '{''id'': 3, ''label'': ''Very Useful''}'
-      - '{''id'': 4, ''label'': ''Extremely Useful''}'
+      - Not Useful
+      - Useful
+      - Very Useful
+      - Extremely Useful
       required: false
     - id: 12
       name: event_recommend
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': False}'
-      - '{''id'': 2, ''label'': ''Maybe''}'
-      - '{''id'': 3, ''label'': True}'
+      - 'False'
+      - Maybe
+      - 'True'
       required: false
     - id: 13
       name: contact_name

@@ -1,172 +1,139 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Evaluation Form
     pages:
-      - id: 1
-        name: section_student_info
-        label: -- Student Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: student_name
-        label: Student Full Name
-        hint: Name of child being evaluated
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: evaluator_name
-        label: Evaluator Name
-        hint: Full name and title
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: evaluation_date
-        label: Date of Evaluation
-        hint: When the assessment took place
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: section_social_emotional
-        label: -- Social and Emotional Skills --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: peer_interactions
-        label: Interactions with Peers
-        hint: Ability to play and cooperate
-        type: select_one
-        options:
-          - label: Consistently Demonstrates
-            value: consistently
-          - label: Often Demonstrates
-            value: often
-          - label: Sometimes Demonstrates
-            value: sometimes
-          - label: Rarely Demonstrates
-            value: rarely
-        required: true
-      - id: 7
-        name: self_regulation
-        label: Emotional Self-Regulation
-        hint: Managing feelings and reactions
-        type: select_one
-        options:
-          - label: Consistently Demonstrates
-            value: consistently
-          - label: Often Demonstrates
-            value: often
-          - label: Sometimes Demonstrates
-            value: sometimes
-          - label: Rarely Demonstrates
-            value: rarely
-        required: true
-      - id: 8
-        name: section_academic_perf
-        label: -- Academic Performance --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: reading_literacy
-        label: Reading and Literacy
-        hint: Language and communication skills
-        type: select_one
-        options:
-          - label: Above Grade Level
-            value: above
-          - label: At Grade Level
-            value: at
-          - label: Below Grade Level
-            value: below
-        required: true
-      - id: 10
-        name: mathematics_skills
-        label: Mathematics Skills
-        hint: Number sense and logic
-        type: select_one
-        options:
-          - label: Above Grade Level
-            value: above
-          - label: At Grade Level
-            value: at
-          - label: Below Grade Level
-            value: below
-        required: true
-      - id: 11
-        name: section_behavioral
-        label: -- Behavioral Observations --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: following_directions
-        label: Ability to Follow Directions
-        hint: Listening and execution
-        type: select_one
-        options:
-          - label: Consistently Demonstrates
-            value: consistently
-          - label: Often Demonstrates
-            value: often
-          - label: Sometimes Demonstrates
-            value: sometimes
-          - label: Rarely Demonstrates
-            value: rarely
-        required: true
-      - id: 13
-        name: focus_attention
-        label: Focus and Attention
-        hint: Task persistence and concentration
-        type: select_one
-        options:
-          - label: Consistently Demonstrates
-            value: consistently
-          - label: Often Demonstrates
-            value: often
-          - label: Sometimes Demonstrates
-            value: sometimes
-          - label: Rarely Demonstrates
-            value: rarely
-        required: true
-      - id: 14
-        name: section_summary
-        label: -- Evaluator Summary --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: evaluator_summary
-        label: Summary of Strengths and Areas for Growth
-        hint: Provide detailed qualitative feedback
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: specific_recommendations
-        label: Specific Recommendations for Support
-        hint: Intervention strategies or goals
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Full Name
+      hint: Name of child being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Full name and title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: When the assessment took place
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_social_emotional
+      label: -- Social and Emotional Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: peer_interactions
+      label: Interactions with Peers
+      hint: Ability to play and cooperate
+      type: select_one
+      options:
+      - Consistently Demonstrates
+      - Often Demonstrates
+      - Sometimes Demonstrates
+      - Rarely Demonstrates
+      required: true
+    - id: 7
+      name: self_regulation
+      label: Emotional Self-Regulation
+      hint: Managing feelings and reactions
+      type: select_one
+      options:
+      - Consistently Demonstrates
+      - Often Demonstrates
+      - Sometimes Demonstrates
+      - Rarely Demonstrates
+      required: true
+    - id: 8
+      name: section_academic_perf
+      label: -- Academic Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reading_literacy
+      label: Reading and Literacy
+      hint: Language and communication skills
+      type: select_one
+      options:
+      - Above Grade Level
+      - At Grade Level
+      - Below Grade Level
+      required: true
+    - id: 10
+      name: mathematics_skills
+      label: Mathematics Skills
+      hint: Number sense and logic
+      type: select_one
+      options:
+      - Above Grade Level
+      - At Grade Level
+      - Below Grade Level
+      required: true
+    - id: 11
+      name: section_behavioral
+      label: -- Behavioral Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: following_directions
+      label: Ability to Follow Directions
+      hint: Listening and execution
+      type: select_one
+      options:
+      - Consistently Demonstrates
+      - Often Demonstrates
+      - Sometimes Demonstrates
+      - Rarely Demonstrates
+      required: true
+    - id: 13
+      name: focus_attention
+      label: Focus and Attention
+      hint: Task persistence and concentration
+      type: select_one
+      options:
+      - Consistently Demonstrates
+      - Often Demonstrates
+      - Sometimes Demonstrates
+      - Rarely Demonstrates
+      required: true
+    - id: 14
+      name: section_summary
+      label: -- Evaluator Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: evaluator_summary
+      label: Summary of Strengths and Areas for Growth
+      hint: Provide detailed qualitative feedback
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: specific_recommendations
+      label: Specific Recommendations for Support
+      hint: Intervention strategies or goals
+      type: text
+      options: []
+      required: false

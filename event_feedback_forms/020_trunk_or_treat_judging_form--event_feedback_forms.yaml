@@ -1,54 +1,75 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Trunk Or Treat Judging Form
     pages:
     - id: 1
-      name: trunk_or_treat_judging_form
+      name: trunk_or_treat_judging_form_event
+      label: Event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trunk_or_treat_judging_form_theme
+      label: Theme
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: trunk_or_treat_judging_form_decorations
+      label: Decorations
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 4
+      name: trunk_or_treat_judging_form_food
+      label: Food
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: trunk_or_treat_judging_form_trunk
       label: Trunk
       hint: null
       type: select_one
       options:
-      - 'Best Theme: Halloween'
-      - 'Best Use of Lights: Decorative'
-      - 'Best Overall: Outstanding'
-      - 'Best Food: Delicious'
-      - 'Best Trunk: Awesome'
-      - 'Best Use of Theme: Creative'
-      - 'Best Team Spirit: Excellent'
-      - 'Best Costumes: Fun'
-      required: true
-    - id: 2
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: trunk_or_treat_judging_form_team_spirit
+      label: Team Spirit
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
       name: trunk_or_treat_judging_form_score
       label: Score
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: true
-    - id: 3
-      name: trunk_or_treat_judging_form_score_comment
-      label: Score
-      hint: Please provide a brief comment for your score.
-      type: note
-      options: []
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 4
+    - id: 8
       name: trunk_or_treat_judging_form_attended
       label: Attended
       hint: null
@@ -56,155 +77,25 @@ inputSchema:
       options:
       - 'True'
       - 'False'
-      required: true
-    - id: 5
-      name: trunk_or_treat_judging_form_event_name
-      label: Event
-      hint: null
-      type: text
-      options: []
       required: false
-    - id: 6
-      name: trunk_or_treat_judging_form_location
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
+    - id: 9
       name: trunk_or_treat_judging_form_event_date
       label: Event Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 8
-      name: trunk_or_treat_judging_form_event_time
-      label: Event
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 9
-      name: trunk_or_treat_judging_form_event_time_end
-      label: Event
-      hint: null
-      type: time
-      options: []
-      required: false
     - id: 10
-      name: trunk_or_treat_judging_form_event_time_end_am_pm
-      label: Event
+      name: trunk_or_treat_judging_form_location
+      label: Location
       hint: null
-      type: select_multiple
-      options:
-      - AM
-      - PM
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 11
-      name: trunk_or_treat_judging_form_event_time_end_period
-      label: Event
-      hint: null
-      type: select_multiple
-      options:
-      - AM
-      - PM
-      required: false
-    - id: 12
-      name: trunk_or_treat_judging_form_event_time_start
-      label: Event
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: trunk_or_treat_judging_form_event_date
-      label: Event
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: trunk_or_treat_judging_form_event_location
-      label: Event
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: trunk_or_treat_judging_form_event
-      label: Event
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: trunk_or_treat_judging_form
-      label: Trunk
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: trunk_or_treat_judging_form_score_2
-      label: Score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: trunk_or_treat_judging_form_score_3
-      label: Score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: trunk_or_treat_judging_form_score_4
-      label: Score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: trunk_or_treat_judging_form_score_5
-      label: Score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: trunk_or_treat_judging_form_score_6
-      label: Score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: trunk_or_treat_judging_form_score_7
-      label: Score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: trunk_or_treat_judging_form_score_8
-      label: Score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: trunk_or_treat_judging_form_score_9
-      label: Score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: trunk_or_treat_judging_form_score_10
-      label: Score
-      hint: null
-      type: text
+      name: trunk_or_treat_judging_form_comment
+      label: Comment
+      hint: Please provide a brief comment for the event
+      type: note
       options: []
       required: false

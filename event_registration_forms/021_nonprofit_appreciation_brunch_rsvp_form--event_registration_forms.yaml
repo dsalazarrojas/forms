@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''attendee_1'', ''label'': ''attendee_1''}'
-      - '{''name'': ''attendee_2'', ''label'': ''attendee_2''}'
-      - '{''name'': ''other'', ''label'': ''other''}'
+      - attendee 1
+      - attendee 2
+      - other
       required: true
     - id: 3
       name: guest_email
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''attending'', ''label'': ''attending''}'
-      - '{''name'': ''not_attending'', ''label'': ''not_attending''}'
+      - attending
+      - not attending
       required: true
     - id: 6
       name: rsvp_status_note

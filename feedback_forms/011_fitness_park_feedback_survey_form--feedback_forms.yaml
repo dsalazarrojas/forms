@@ -4,25 +4,32 @@ inputSchema:
     title: Fitness Park Feedback Survey Form
     pages:
     - id: 1
-      name: equipment
+      name: fitness_park_feedback
+      label: Fitness Park Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fitness_park_equipment
       label: Equipment
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 2
-      name: cleanliness
+    - id: 3
+      name: fitness_park_cleanliness
       label: Cleanliness
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 3
-      name: overall_satisfaction
+    - id: 4
+      name: fitness_park_overall_satisfaction
       label: Overall Satisfaction
       hint: null
       type: select_one
@@ -30,171 +37,10 @@ inputSchema:
       - Satisfied
       - Dissatisfied
       required: true
-    - id: 4
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 5
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: equipment_ratings
-      label: Equipment Ratings
-      hint: Rate the equipment 1-5
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: cleaniness_ratings
-      label: Cleanliness Ratings
-      hint: Rate the cleanliness 1-5
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: overall_satisfaction_ratings
-      label: Overall Satisfaction
-      hint: Rate the overall satisfaction 1-5
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: comments
-      label: Comments
+      name: fitness_park_ratings
+      label: Ratings
       hint: null
       type: text
       options: []
-      required: false
-    - id: 10
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: equipment_list
-      label: Equipment
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: cleanliness_list
-      label: Cleanliness
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: overall_satisfaction_list
-      label: Overall Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Satisfied
-      - Dissatisfied
-      required: false
-    - id: 16
-      name: equipment_rating
-      label: Equipment Rating
-      hint: Rate the equipment 1-5
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: cleanliness_rating
-      label: Cleanliness Rating
-      hint: Rate the cleanliness 1-5
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: overall_satisfaction_rating
-      label: Overall Satisfaction Rating
-      hint: Rate the overall satisfaction 1-5
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: equipment_list_2
-      label: Equipment
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: cleanliness_list_2
-      label: Cleanliness
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: overall_satisfaction_list_2
-      label: Overall Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Satisfied
-      - Dissatisfied
       required: false

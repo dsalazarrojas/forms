@@ -1,124 +1,101 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Play Date Feedback
     pages:
-      - id: 1
-        name: section_general_feedback
-        label: -- General Play Date Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: parent_name
-        label: Your Full Name
-        hint: Name of person providing feedback
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: child_name
-        label: Child Name
-        hint: Child who participated
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: play_date_date
-        label: Date of Play Date
-        hint: Select from calendar
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: section_experience_rating
-        label: -- Experience Rating --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: overall_rating
-        label: Overall experience rating
-        hint: How was the play date?
-        type: select_one
-        options:
-          - label: Excellent - Everyone had fun
-            value: excellent
-          - label: Good - Mostly positive
-            value: good
-          - label: Fair - Some issues
-            value: fair
-          - label: Poor - Not recommended
-            value: poor
-        required: true
-      - id: 7
-        name: favorite_activities
-        label: Favorite activities during the play date
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - label: Art and Creative Crafts
-            value: art
-          - label: Reading and Storytelling
-            value: reading
-          - label: Outdoor and Physical Play
-            value: outdoor
-          - label: Board Games and Puzzles
-            value: games
-          - label: Building Blocks and Construction
-            value: blocks
-        required: false
-      - id: 8
-        name: section_future_plans
-        label: -- Future Plans --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: play_again
-        label: Would your child like to play again?
-        hint: Interest in future sessions
-        type: select_one
-        options:
-          - label: Yes - Definitely
-            value: yes
-          - label: No - Not interested
-            value: no
-          - label: Unsure - Need to ask child
-            value: unsure
-        required: true
-      - id: 10
-        name: suggestions_text
-        label: Suggestions for next time
-        hint: Activities or improvements
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: concerns_text
-        label: Any concerns or issues during the play date?
-        hint: Safety or behavior concerns
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: today_date
-        label: Today Date
-        hint: Submission date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_general_feedback
+      label: -- General Play Date Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Your Full Name
+      hint: Name of person providing feedback
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_name
+      label: Child Name
+      hint: Child who participated
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: play_date_date
+      label: Date of Play Date
+      hint: Select from calendar
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_experience_rating
+      label: -- Experience Rating --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_rating
+      label: Overall experience rating
+      hint: How was the play date?
+      type: select_one
+      options:
+      - Excellent - Everyone had fun
+      - Good - Mostly positive
+      - Fair - Some issues
+      - Poor - Not recommended
+      required: true
+    - id: 7
+      name: favorite_activities
+      label: Favorite activities during the play date
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Art and Creative Crafts
+      - Reading and Storytelling
+      - Outdoor and Physical Play
+      - Board Games and Puzzles
+      - Building Blocks and Construction
+      required: false
+    - id: 8
+      name: section_future_plans
+      label: -- Future Plans --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: play_again
+      label: Would your child like to play again?
+      hint: Interest in future sessions
+      type: select_one
+      options:
+      - Yes - Definitely
+      - No - Not interested
+      - Unsure - Need to ask child
+      required: true
+    - id: 10
+      name: suggestions_text
+      label: Suggestions for next time
+      hint: Activities or improvements
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: concerns_text
+      label: Any concerns or issues during the play date?
+      hint: Safety or behavior concerns
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: today_date
+      label: Today Date
+      hint: Submission date
+      type: date
+      options: []
+      required: true

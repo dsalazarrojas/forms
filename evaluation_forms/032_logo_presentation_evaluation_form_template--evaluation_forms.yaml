@@ -5,68 +5,56 @@ inputSchema:
     pages:
     - id: 1
       name: form_1
-      label: Logo Presentation Evaluation Form
+      label: Overall Presentation
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 2
       name: form_2
-      label: Form Category
+      label: Color Scheme Effectiveness
       hint: null
       type: select_one
       options:
-      - Logo Concept
+      - Logo Design
       - Brand Guidelines
       - Design Style
       - Overall Impression
       required: true
     - id: 3
       name: form_3
-      label: Form Subcategory
-      hint: null
-      type: select_multiple
-      options:
-      - Logo Design
-      - Color Scheme
-      - Typography
-      - Composition
-      required: false
-    - id: 4
-      name: form_4
-      label: Form Comment
+      label: Composition
       hint: null
       type: text
       options: []
       required: true
-    - id: 5
-      name: form_5
-      label: Form Rating
+    - id: 4
+      name: form_4
+      label: Typography Effectiveness
       hint: null
       type: number
       options: []
       required: true
-    - id: 6
-      name: form_6
-      label: Form Comment
+    - id: 5
+      name: form_5
+      label: Overall Impression
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
-      name: form_7
-      label: Form Category
+      required: true
+    - id: 6
+      name: form_6
+      label: Category
       hint: null
       type: select_one
       options:
       - Logo Design
       - Brand Guidelines
       - Design Style
-      - Overall Impression
       required: true
-    - id: 8
-      name: form_8
-      label: Form Subcategory
+    - id: 7
+      name: form_7
+      label: Subcategory
       hint: null
       type: select_multiple
       options:
@@ -74,4 +62,43 @@ inputSchema:
       - Color Scheme
       - Typography
       - Composition
+      required: true
+    - id: 8
+      name: form_8
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
       required: false
+    - id: 9
+      name: form_9
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: form_10
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: form_11
+      label: Logo Type
+      hint: null
+      type: select_one
+      options:
+      - Icon
+      - Wordmark
+      - Lettermark
+      - Emblem
+      required: true
+    - id: 12
+      name: form_12
+      label: Logo Size
+      hint: null
+      type: number
+      options: []
+      required: true

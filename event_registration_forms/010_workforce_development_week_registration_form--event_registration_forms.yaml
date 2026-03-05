@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Attendee'', ''value'': ''attendee''}'
-      - '{''id'': 2, ''label'': ''Speaker'', ''value'': ''speaker''}'
-      - '{''id'': 3, ''label'': ''Both'', ''value'': ''both''}'
+      - Attendee
+      - Speaker
+      - Both
       required: false
     - id: 12
       name: attendee_type_other
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''In Person'', ''value'': ''in_person''}'
-      - '{''id'': 2, ''label'': ''Online'', ''value'': ''online''}'
-      - '{''id'': 3, ''label'': ''Hybrid'', ''value'': ''hybrid''}'
+      - In Person
+      - Online
+      - Hybrid
       required: false
     - id: 15
       name: registration_method_other

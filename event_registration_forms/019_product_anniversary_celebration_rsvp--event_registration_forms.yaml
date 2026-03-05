@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Vegetarian'', ''label'': ''Vegetarian''}'
-      - '{''value'': ''Vegan'', ''label'': ''Vegan''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Vegetarian
+      - Vegan
+      - Other
       required: false
     - id: 4
       name: event_date
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: comment

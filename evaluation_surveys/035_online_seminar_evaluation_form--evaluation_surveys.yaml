@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Present''}'
-      - '{''id'': 2, ''name'': ''Absent''}'
-      - '{''id'': 3, ''name'': ''Unable to attend''}'
+      - Present
+      - Absent
+      - Unable to attend
       required: true
     - id: 3
       name: seminar_satisfaction
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Poor''}'
+      - Very Good
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 4
       name: seminar_topics
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Relevant''}'
-      - '{''id'': 2, ''name'': ''Partially Relevant''}'
-      - '{''id'': 3, ''name'': ''Not Relevant''}'
+      - Relevant
+      - Partially Relevant
+      - Not Relevant
       required: false
     - id: 5
       name: seminar_organization
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Useful''}'
-      - '{''id'': 2, ''name'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''Not Enough''}'
+      - Useful
+      - Fair
+      - Not Enough
       required: false
     - id: 8
       name: seminar_location
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Unable to say''}'
+      - 'True'
+      - 'False'
+      - Unable to say
       required: true
     - id: 12
       name: seminar_followup
@@ -116,10 +116,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Within 1 month''}'
-      - '{''id'': 2, ''name'': ''Within 3 months''}'
-      - '{''id'': 3, ''name'': ''Within 6 months''}'
-      - '{''id'': 4, ''name'': ''Never''}'
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Never
       required: true
     - id: 15
       name: seminar_additional_comments
@@ -148,10 +148,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Every Month''}'
-      - '{''id'': 2, ''name'': ''Every 3 months''}'
-      - '{''id'': 3, ''name'': ''Every 6 months''}'
-      - '{''id'': 4, ''name'': ''Rarely''}'
+      - Every Month
+      - Every 3 months
+      - Every 6 months
+      - Rarely
       required: false
     - id: 19
       name: seminar_attendance_frequency_suggestions
@@ -180,10 +180,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Within 1 month''}'
-      - '{''id'': 2, ''name'': ''Within 3 months''}'
-      - '{''id'': 3, ''name'': ''Within 6 months''}'
-      - '{''id'': 4, ''name'': ''Never''}'
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Never
       required: false
     - id: 23
       name: seminar_additional_next_seminar

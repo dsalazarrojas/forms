@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''too_short''}'
-      - '{''id'': 2, ''label'': ''too_long''}'
-      - '{''id'': 3, ''label'': ''confusing''}'
-      - '{''id'': 4, ''label'': ''good''}'
+      - too short
+      - too long
+      - confusing
+      - good
       required: true
     - id: 3
       name: product_info
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''not_enough_info''}'
-      - '{''id'': 2, ''label'': ''too_much_info''}'
-      - '{''id'': 3, ''label'': ''just_right''}'
+      - not enough info
+      - too much info
+      - just right
       required: true
     - id: 4
       name: payment_process
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''too_complicated''}'
-      - '{''id'': 2, ''label'': ''too_simple''}'
-      - '{''id'': 3, ''label'': ''just_right''}'
+      - too complicated
+      - too simple
+      - just right
       required: true
     - id: 5
       name: overall_experience
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''no_suggestions''}'
-      - '{''id'': 2, ''label'': ''have_suggestions''}'
-      - '{''id'': 3, ''label'': ''unsure''}'
+      - no suggestions
+      - have suggestions
+      - unsure
       required: false
     - id: 8
       name: feedback
@@ -113,7 +113,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''not_submitted''}'
-      - '{''id'': 2, ''label'': ''partially_submitted''}'
-      - '{''id'': 3, ''label'': ''fully_submitted''}'
+      - not submitted
+      - partially submitted
+      - fully submitted
       required: true

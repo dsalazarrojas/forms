@@ -1,84 +1,73 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Book Fair Author Admission Form
     pages:
-      - id: 1
-        name: author_info
-        label: -- Author Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: author_name
-        label: Author name
-        hint: Legal or pen name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: email
-        label: Email address
-        hint: For event coordination
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: book_title
-        label: Book title
-        hint: Title to promote at fair
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: preferred_booth_size
-        label: Preferred booth size
-        hint: Space requirements
-        type: select_one
-        options:
-          - Table only
-          - Table and chair
-          - Booth with signage
-        required: true
-      - id: 6
-        name: travel_needs
-        label: Travel needs
-        hint: Any travel or accommodation requirements
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: speaking_availability
-        label: Speaking availability
-        hint: Available times for readings or panels
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: sales_will_occur
-        label: Will book sales occur
-        hint: If author will sell books at event
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 9
-        name: additional_requirements
-        label: Additional requirements
-        hint: Any other event needs
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: author_info
+      label: -- Author Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: author_name
+      label: Author name
+      hint: Legal or pen name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For event coordination
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: book_title
+      label: Book title
+      hint: Title to promote at fair
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_booth_size
+      label: Preferred booth size
+      hint: Space requirements
+      type: select_one
+      options:
+      - Table only
+      - Table and chair
+      - Booth with signage
+      required: true
+    - id: 6
+      name: travel_needs
+      label: Travel needs
+      hint: Any travel or accommodation requirements
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: speaking_availability
+      label: Speaking availability
+      hint: Available times for readings or panels
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sales_will_occur
+      label: Will book sales occur
+      hint: If author will sell books at event
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: additional_requirements
+      label: Additional requirements
+      hint: Any other event needs
+      type: text
+      options: []
+      required: false

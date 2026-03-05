@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''undecided''}'
+      - 'True'
+      - 'False'
+      - undecided
       required: false
     - id: 7
       name: attended_another_event
@@ -54,16 +54,16 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1}'
-      - '{''value'': 2}'
-      - '{''value'': 3}'
-      - '{''value'': 4}'
-      - '{''value'': 5}'
-      - '{''value'': 6}'
-      - '{''value'': 7}'
-      - '{''value'': 8}'
-      - '{''value'': 9}'
-      - '{''value'': 10}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
       required: false
     - id: 8
       name: recommended_event
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''undecided''}'
+      - 'True'
+      - 'False'
+      - undecided
       required: false
     - id: 9
       name: feedback
@@ -102,11 +102,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''social_media''}'
-      - '{''value'': ''friend''}'
-      - '{''value'': ''email''}'
-      - '{''value'': ''flyer''}'
-      - '{''value'': ''other''}'
+      - social media
+      - friend
+      - email
+      - flyer
+      - other
       required: false
     - id: 13
       name: event_interest
@@ -114,13 +114,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''conferences''}'
-      - '{''value'': ''workshops''}'
-      - '{''value'': ''lectures''}'
-      - '{''value'': ''webinars''}'
-      - '{''value'': ''training''}'
-      - '{''value'': ''seminars''}'
-      - '{''value'': ''other''}'
+      - conferences
+      - workshops
+      - lectures
+      - webinars
+      - training
+      - seminars
+      - other
       required: false
     - id: 14
       name: event_type
@@ -128,16 +128,16 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''conferences''}'
-      - '{''value'': ''workshops''}'
-      - '{''value'': ''lectures''}'
-      - '{''value'': ''webinars''}'
-      - '{''value'': ''training''}'
-      - '{''value'': ''seminars''}'
-      - '{''value'': ''networking''}'
-      - '{''value'': ''meetups''}'
-      - '{''value'': ''panels''}'
-      - '{''value'': ''other''}'
+      - conferences
+      - workshops
+      - lectures
+      - webinars
+      - training
+      - seminars
+      - networking
+      - meetups
+      - panels
+      - other
       required: false
     - id: 15
       name: speaker_presentation
@@ -145,10 +145,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''excellent''}'
-      - '{''value'': ''good''}'
-      - '{''value'': ''average''}'
-      - '{''value'': ''poor''}'
+      - excellent
+      - good
+      - average
+      - poor
       required: false
     - id: 16
       name: speaker_interaction
@@ -156,10 +156,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''excellent''}'
-      - '{''value'': ''good''}'
-      - '{''value'': ''average''}'
-      - '{''value'': ''poor''}'
+      - excellent
+      - good
+      - average
+      - poor
       required: false
     - id: 17
       name: venue
@@ -167,10 +167,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''excellent''}'
-      - '{''value'': ''good''}'
-      - '{''value'': ''average''}'
-      - '{''value'': ''poor''}'
+      - excellent
+      - good
+      - average
+      - poor
       required: false
     - id: 18
       name: materials
@@ -178,10 +178,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''excellent''}'
-      - '{''value'': ''good''}'
-      - '{''value'': ''average''}'
-      - '{''value'': ''poor''}'
+      - excellent
+      - good
+      - average
+      - poor
       required: false
     - id: 19
       name: food_and_drinks
@@ -189,10 +189,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''excellent''}'
-      - '{''value'': ''good''}'
-      - '{''value'': ''average''}'
-      - '{''value'': ''poor''}'
+      - excellent
+      - good
+      - average
+      - poor
       required: false
     - id: 20
       name: overall_experience
@@ -200,8 +200,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''excellent''}'
-      - '{''value'': ''good''}'
-      - '{''value'': ''average''}'
-      - '{''value'': ''poor''}'
+      - excellent
+      - good
+      - average
+      - poor
       required: false

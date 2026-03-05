@@ -23,48 +23,48 @@ inputSchema:
       required: false
     - id: 2
       name: moodboard_goal
-      label: What-is-the-goal-of-your-moodboard-
+      label: What's the goal of your moodboard?
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: moodboard_image
-      label: Please-select-an-image-to-use-as-your-moodboard
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: true
-    - id: 4
-      name: moodboard_image_url
-      label: Image-url
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: moodboard_description
-      label: Describe-your-moodboard
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 6
-      name: moodboard_color
-      label: Select-color-for-your-moodboard
+      label: Please choose an image to use as your moodboard
       hint: null
       type: select_one
       options:
       - Blue
       - Red
       - Green
+      required: true
+    - id: 4
+      name: moodboard_image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
       required: false
+    - id: 5
+      name: moodboard_description
+      label: Describe your moodboard
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: moodboard_color_1
+      label: Select a color for your moodboard
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Red
+      - Green
+      required: true
     - id: 7
       name: moodboard_color_2
-      label: Select-another-color-for-your-moodboard
+      label: Select another color for your moodboard
       hint: null
       type: select_multiple
       options:
@@ -73,178 +73,8 @@ inputSchema:
       - Green
       required: false
     - id: 8
-      name: moodboard_color_3
-      label: What-is-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 9
-      name: moodboard_color_4
-      label: Select-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 10
-      name: moodboard_color_5
-      label: What-is-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 11
-      name: moodboard_color_6
-      label: Select-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 12
-      name: moodboard_color_7
-      label: What-is-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 13
-      name: moodboard_color_8
-      label: Select-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 14
-      name: moodboard_color_9
-      label: What-is-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 15
-      name: moodboard_color_10
-      label: Select-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 16
-      name: moodboard_color_11
-      label: What-is-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 17
-      name: moodboard_color_12
-      label: Select-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 18
-      name: moodboard_color_13
-      label: What-is-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 19
-      name: moodboard_color_14
-      label: Select-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 20
-      name: moodboard_color_15
-      label: What-is-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 21
-      name: moodboard_color_16
-      label: Select-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 22
-      name: moodboard_color_17
-      label: What-is-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 23
-      name: moodboard_color_18
-      label: Select-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 24
-      name: moodboard_color_19
-      label: What-is-another-color-for-your-moodboard
-      hint: null
-      type: select_multiple
-      options:
-      - Blue
-      - Red
-      - Green
-      required: false
-    - id: 25
-      name: moodboard_color_20
-      label: Select-another-color-for-your-moodboard
+      name: moodboard_colors
+      label: Select multiple colors for your moodboard
       hint: null
       type: select_multiple
       options:

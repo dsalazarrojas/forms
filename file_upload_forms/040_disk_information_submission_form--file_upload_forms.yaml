@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''SATA''}'
-      - '{''id'': 2, ''label'': ''PCIe''}'
-      - '{''id'': 3, ''label'': ''NVMe''}'
+      - SATA
+      - PCIe
+      - NVMe
       required: false
     - id: 5
       name: storage_location
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Offline''}'
-      - '{''id'': 3, ''label'': ''Decommissioned''}'
+      - Active
+      - Offline
+      - Decommissioned
       required: false
     - id: 7
       name: remarks
@@ -71,6 +71,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''IT Team''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - IT Team
+      - Other
       required: false

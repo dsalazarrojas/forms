@@ -18,9 +18,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''bronze'', ''name'': ''Bronze''}'
-      - '{''id'': ''silver'', ''name'': ''Silver''}'
-      - '{''id'': ''gold'', ''name'': ''Gold''}'
+      - Bronze
+      - Silver
+      - Gold
       required: false
     - id: 3
       name: event_id
@@ -77,6 +77,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': False, ''name'': False}'
-      - '{''id'': True, ''name'': True}'
+      - 'False'
+      - 'True'
       required: false

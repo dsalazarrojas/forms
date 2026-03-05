@@ -145,8 +145,8 @@ inputSchema:
       hint: Does your activity require notification of the safety officer?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 19
@@ -155,8 +155,8 @@ inputSchema:
       hint: Does your activity require a security assessment?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 20
@@ -173,8 +173,8 @@ inputSchema:
       hint: Are there any potential risks associated with your after-hours access?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: risk_details
@@ -203,8 +203,8 @@ inputSchema:
       hint: Will you be removing any equipment or materials from the facility?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 26
       name: equipment_details
@@ -226,8 +226,8 @@ inputSchema:
       hint: Does this request require supervisor approval?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 29
       name: supervisor_name
@@ -250,8 +250,8 @@ inputSchema:
         access
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 32
       name: liability_acknowledgment
@@ -260,8 +260,8 @@ inputSchema:
         my after-hours access
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 33
       name: signature

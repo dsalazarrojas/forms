@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Negative''}'
-      - '{''label'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: true
     - id: 6
       name: feedback_question_2
@@ -47,11 +47,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat Dissatisfied''}'
-      - '{''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: true
     - id: 7
       name: additional_feedback

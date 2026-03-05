@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Same Day''}'
-      - '{''id'': 2, ''name'': ''2-5 Business Days''}'
-      - '{''id'': 3, ''name'': ''1-2 weeks''}'
+      - Same Day
+      - 2-5 Business Days
+      - 1-2 weeks
       required: false
     - id: 3
       name: reorder_item
@@ -26,10 +26,10 @@ inputSchema:
       hint: Enter items in your facility's inventory
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Paper Towels''}'
-      - '{''id'': 2, ''name'': ''Toilet Paper''}'
-      - '{''id'': 3, ''name'': ''Air Freshener''}'
-      - '{''id'': 4, ''name'': ''Soap''}'
+      - Paper Towels
+      - Toilet Paper
+      - Air Freshener
+      - Soap
       required: true
     - id: 4
       name: quantity

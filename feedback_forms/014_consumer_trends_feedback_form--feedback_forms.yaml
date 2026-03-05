@@ -1,173 +1,162 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Consumer Trends Feedback Form
     pages:
-      - id: 1
-        name: section_respondent_info
-        label: -- Respondent Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: age_group
-        label: What is your age group?
-        hint: Select one
-        type: select_one
-        options:
-          - Under 18
-          - 18-24
-          - 25-34
-          - 35-44
-          - 45-54
-          - 55-64
-          - 65+
-        required: true
-      - id: 3
-        name: geographic_region
-        label: Geographic Region
-        hint: Where do you currently live?
-        type: select_one
-        options:
-          - North America
-          - Europe
-          - Asia-Pacific
-          - Latin America
-          - Middle East/Africa
-        required: true
-      - id: 4
-        name: section_consumer_behavior
-        label: -- Consumer Behavior Trends --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: shopping_preference
-        label: Primary Shopping Preference
-        hint: Where do you do most of your shopping?
-        type: select_one
-        options:
-          - In-store
-          - Online
-          - Mobile App
-          - Social Media Marketplaces
-        required: true
-      - id: 6
-        name: brand_loyalty_factors
-        label: Factors That Drive Brand Loyalty
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Price
-          - Quality
-          - Customer Service
-          - Sustainability/Ethical Practices
-          - Personalization/Customization
-          - Brand Reputation
-        required: true
-      - id: 7
-        name: trend_awareness_source
-        label: Where do you discover new trends?
-        hint: Select your primary source
-        type: select_one
-        options:
-          - Social Media (Instagram, TikTok, etc.)
-          - Online Blogs/Articles
-          - Word of Mouth/Friends
-          - TV/Streaming Commercials
-          - Magazines/Print Media
-        required: true
-      - id: 8
-        name: section_emerging_trends
-        label: -- Emerging Trends and Interests --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: interest_in_subscription_models
-        label: Interest in Subscription-based Services
-        hint: How likely are you to subscribe to a product?
-        type: select_one
-        options:
-          - Very Likely
-          - Somewhat Likely
-          - Not Likely
-          - Already Subscribed to Many
-        required: true
-      - id: 10
-        name: importance_of_ai_personalization
-        label: Importance of AI-driven Personalization
-        hint: How much do you value personalized recommendations?
-        type: select_one
-        options:
-          - Very Important
-          - Moderately Important
-          - Slightly Important
-          - Not Important
-        required: true
-      - id: 11
-        name: use_of_mobile_payment
-        label: Frequency of Mobile Payment Usage
-        hint: Use of Apple Pay, Google Pay, etc.
-        type: select_one
-        options:
-          - Always
-          - Often
-          - Sometimes
-          - Rarely
-          - Never
-        required: true
-      - id: 12
-        name: section_feedback
-        label: -- General Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: future_trend_prediction
-        label: What is one trend you predict for the next year?
-        hint: Share your insights
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: overall_shopping_satisfaction
-        label: Overall Shopping Experience Satisfaction
-        hint: General satisfaction with current retail trends
-        type: select_one
-        options:
-          - 1 - Very Dissatisfied
-          - 2
-          - 3 - Neutral
-          - 4
-          - 5 - Very Satisfied
-        required: true
-      - id: 15
-        name: feedback_comments
-        label: Any Additional Feedback or Comments
-        hint: Anything else you would like to share
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: submission_date
-        label: Submission Date
-        hint: Today's date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_group
+      label: What is your age group?
+      hint: Select one
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
+    - id: 3
+      name: geographic_region
+      label: Geographic Region
+      hint: Where do you currently live?
+      type: select_one
+      options:
+      - North America
+      - Europe
+      - Asia-Pacific
+      - Latin America
+      - Middle East/Africa
+      required: true
+    - id: 4
+      name: section_consumer_behavior
+      label: -- Consumer Behavior Trends --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: shopping_preference
+      label: Primary Shopping Preference
+      hint: Where do you do most of your shopping?
+      type: select_one
+      options:
+      - In-store
+      - Online
+      - Mobile App
+      - Social Media Marketplaces
+      required: true
+    - id: 6
+      name: brand_loyalty_factors
+      label: Factors That Drive Brand Loyalty
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Price
+      - Quality
+      - Customer Service
+      - Sustainability/Ethical Practices
+      - Personalization/Customization
+      - Brand Reputation
+      required: true
+    - id: 7
+      name: trend_awareness_source
+      label: Where do you discover new trends?
+      hint: Select your primary source
+      type: select_one
+      options:
+      - Social Media (Instagram, TikTok, etc.)
+      - Online Blogs/Articles
+      - Word of Mouth/Friends
+      - TV/Streaming Commercials
+      - Magazines/Print Media
+      required: true
+    - id: 8
+      name: section_emerging_trends
+      label: -- Emerging Trends and Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: interest_in_subscription_models
+      label: Interest in Subscription-based Services
+      hint: How likely are you to subscribe to a product?
+      type: select_one
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Not Likely
+      - Already Subscribed to Many
+      required: true
+    - id: 10
+      name: importance_of_ai_personalization
+      label: Importance of AI-driven Personalization
+      hint: How much do you value personalized recommendations?
+      type: select_one
+      options:
+      - Very Important
+      - Moderately Important
+      - Slightly Important
+      - Not Important
+      required: true
+    - id: 11
+      name: use_of_mobile_payment
+      label: Frequency of Mobile Payment Usage
+      hint: Use of Apple Pay, Google Pay, etc.
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 12
+      name: section_feedback
+      label: -- General Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: future_trend_prediction
+      label: What is one trend you predict for the next year?
+      hint: Share your insights
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: overall_shopping_satisfaction
+      label: Overall Shopping Experience Satisfaction
+      hint: General satisfaction with current retail trends
+      type: select_one
+      options:
+      - 1 - Very Dissatisfied
+      - '2'
+      - 3 - Neutral
+      - '4'
+      - 5 - Very Satisfied
+      required: true
+    - id: 15
+      name: feedback_comments
+      label: Any Additional Feedback or Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

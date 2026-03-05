@@ -16,21 +16,35 @@ inputSchema:
     pages:
     - id: 1
       name: participant_name
-      label: Participant Name
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: email_address
-      label: Email Address
+      label: What is your email address?
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 3
+      name: event_date
+      label: When was the workshop event held?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: session_time
+      label: What time did you attend the session?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
       name: rating
-      label: Rating
+      label: How would you rate the session?
       hint: null
       type: select_one
       options:
@@ -38,30 +52,9 @@ inputSchema:
       - Good
       - Fair
       required: true
-    - id: 4
-      name: feedback_description
-      label: Feedback Description
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 5
-      name: event_date
-      label: Event Date
-      hint: null
-      type: date
-      options: []
-      required: false
     - id: 6
-      name: session_time
-      label: Session Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
-      name: registeer_venue
-      label: Registration Venue
+      name: venue
+      label: Which venue did you attend?
       hint: null
       type: select_one
       options:
@@ -69,9 +62,9 @@ inputSchema:
       - Venue 2
       - Venue 3
       required: true
-    - id: 8
+    - id: 7
       name: session_topic
-      label: Session Topic
+      label: Which session topic did you find most valuable?
       hint: null
       type: select_multiple
       options:
@@ -79,121 +72,23 @@ inputSchema:
       - Topic 2
       - Topic 3
       required: true
-    - id: 9
+    - id: 8
       name: participant_comment
-      label: Participant Comment
+      label: What comments do you have about the session?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_tools
+      label: Were there any tools assigned to you?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: event_title
-      label: Event Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: workshop_title
-      label: Workshop Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: event_description
-      label: Event Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: session_description
-      label: Session Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: assigned_form
-      label: Assigned Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: participant_name_2
-      label: Participant Name 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: participant_email_2
-      label: Participant Email 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: participant_name_3
-      label: Participant Name 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: participant_email_3
-      label: Participant Email 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: participant_name_4
-      label: Participant Name 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: participant_email_4
-      label: Participant Email 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: participant_name
-      label: Participant Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: participant_email
-      label: Participant Email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: participant_name_2
-      label: Participant Name 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: participant_email_2
-      label: Participant Email 2
+      name: session_title
+      label: What is the event title?
       hint: null
       type: text
       options: []

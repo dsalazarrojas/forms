@@ -5,191 +5,149 @@ inputSchema:
     pages:
     - id: 1
       name: project_brief
-      label: Project Brief
-      hint: null
+      label: Project Description
+      hint: Brief description of the project
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: reference_image
       label: Reference Image
-      hint: null
+      hint: URL or upload reference image
       type: text
       options: []
       required: false
     - id: 3
-      name: deadline
+      name: deadline_date
       label: Deadline
-      hint: null
+      hint: Date by which project needs to be completed
       type: date
       options: []
       required: false
     - id: 4
-      name: image_files
-      label: Image Files
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 5
-      name: project_brief_file
-      label: Project Brief File
-      hint: null
-      type: text
+      name: deadline_time
+      label: Deadline Time
+      hint: Time by which project needs to be completed
+      type: time
       options: []
       required: false
+    - id: 5
+      name: image_files
+      label: Image Files
+      hint: Select multiple image files
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
     - id: 6
-      name: reference_image_file
-      label: Reference Image File
-      hint: null
+      name: contact_info
+      label: Contact Information
+      hint: Provide contact information
       type: text
       options: []
       required: false
     - id: 7
-      name: notes
-      label: Notes
-      hint: null
-      type: note
+      name: contact_info_email
+      label: Contact Email
+      hint: Email address
+      type: email
       options: []
       required: false
     - id: 8
-      name: deadline_time
-      label: Deadline
-      hint: null
-      type: time
+      name: contact_info_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
       options: []
       required: false
     - id: 9
-      name: contact_info
-      label: Contact Info
-      hint: null
+      name: contact_info_website
+      label: Contact Website
+      hint: Website URL
       type: text
       options: []
       required: false
     - id: 10
-      name: project_brief_text
-      label: Project Brief
-      hint: null
+      name: contact_info_address
+      label: Contact Address
+      hint: Street address
       type: text
       options: []
       required: false
     - id: 11
-      name: contact_info_email
-      label: Contact Info
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: image_files_2
-      label: Image Files 2
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 13
-      name: image_files_3
-      label: Image Files 3
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 14
-      name: contact_info_phone
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: deadline_date
-      label: Deadline
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
       name: notes
-      label: Notes
-      hint: null
+      label: Additional Notes
+      hint: Any additional notes or information
       type: note
       options: []
       required: false
-    - id: 17
-      name: contact_info_website
-      label: Contact Info
-      hint: null
+    - id: 12
+      name: project_brief_file
+      label: Project Brief File
+      hint: Upload project brief file
       type: text
       options: []
       required: false
-    - id: 18
+    - id: 13
+      name: project_brief_text
+      label: Project Brief
+      hint: Brief description of the project
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: image_files_2
+      label: Image Files 2
+      hint: Select multiple image files
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 15
+      name: image_files_3
+      label: Image Files 3
+      hint: Select multiple image files
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 16
       name: image_files_4
       label: Image Files 4
-      hint: null
+      hint: Select multiple image files
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 19
-      name: contact_info_address
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: deadline_time
-      label: Deadline
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: contact_info_phone_2
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: project_brief_file_2
-      label: Project Brief File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: contact_info_phone_3
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: project_brief_text_2
-      label: Project Brief
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
+    - id: 17
       name: image_files_5
       label: Image Files 5
-      hint: null
+      hint: Select multiple image files
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 18
+      name: project_brief_file_2
+      label: Project Brief File 2
+      hint: Upload project brief file 2
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_brief_text_2
+      label: Project Brief 2
+      hint: Brief description of the project 2
+      type: text
+      options: []
       required: false

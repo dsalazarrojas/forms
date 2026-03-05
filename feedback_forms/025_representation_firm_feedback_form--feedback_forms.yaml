@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''chatjimmy''}'
-      - '{''label'': ''other''}'
+      - chatjimmy
+      - other
       required: false
     - id: 10
       name: submitted
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''submitted''}'
-      - '{''label'': ''not_submitted''}'
+      - submitted
+      - not submitted
       required: true
     - id: 11
       name: comments
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''comments1''}'
-      - '{''label'': ''comments2''}'
-      - '{''label'': ''comments3''}'
+      - comments1
+      - comments2
+      - comments3
       required: false
     - id: 12
       name: submit

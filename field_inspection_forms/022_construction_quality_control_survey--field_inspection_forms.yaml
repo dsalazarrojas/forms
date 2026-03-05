@@ -175,7 +175,7 @@ inputSchema:
       - Yes, Extensive
       - Yes, Moderate
       - Yes, Minor
-      - false
+      - 'False'
       required: true
     - id: 19
       name: photos_documentation
@@ -183,8 +183,8 @@ inputSchema:
       hint: Were photos taken for documentation
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: testing_required
@@ -192,8 +192,8 @@ inputSchema:
       hint: Is additional testing needed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Already Completed
       required: false
     - id: 21
@@ -217,8 +217,8 @@ inputSchema:
       hint: Should work stop until approved
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: overall_assessment
@@ -237,8 +237,8 @@ inputSchema:
       hint: Is reinspection needed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: follow_up_date

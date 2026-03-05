@@ -1,190 +1,119 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Public Opinion Poll Questionnaire
     pages:
     - id: 1
-      name: general_information
-      label: General Information
+      name: public_opinion_1
+      label: What do you think is the most pressing issue in our community?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: contact_information
-      label: Contact Information
+      name: customer_service
+      label: How do you rate our customer service?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 3
-      name: demographic_info_1
-      label: Demographic Info 1
-      hint: null
+      name: community_engagement
+      label: What are your thoughts on community engagement?
+      hint: Please provide details.
       type: text
       options: []
       required: false
     - id: 4
-      name: demographic_info_2
-      label: Demographic Info 2
+      name: social_media
+      label: How often do you visit our social media pages?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
       required: false
     - id: 5
-      name: contact_information
-      label: Contact Information
+      name: local_businesses
+      label: How often do you shop at local businesses?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
       required: false
     - id: 6
-      name: demographic_info_3
-      label: Demographic Info 3
-      hint: null
+      name: quality_of_life
+      label: How do you feel about our community's overall quality of life?
+      hint: Please provide details.
       type: text
       options: []
       required: false
     - id: 7
-      name: public_opinion_1
-      label: Public Opinion 1
-      hint: null
+      name: public_transportation
+      label: What do you think we should improve in terms of public transportation?
+      hint: Please provide details.
       type: text
       options: []
       required: false
     - id: 8
-      name: public_opinion_2
-      label: Public Opinion 2
+      name: events_activities
+      label: Do you have any suggestions for new events or activities?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: feedback
-      label: Feedback
+      name: public_opinion_2
+      label: What do you think is the most important issue in our community?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: public_opinion_3
-      label: Public Opinion 3
+      name: customer_service_2
+      label: Customer Service 2
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 11
-      name: demographic_info_4
-      label: Demographic Info 4
+      name: community_facilities
+      label: How do you rate our community facilities?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 12
-      name: public_opinion_4
-      label: Public Opinion 4
+      name: shopping_frequency
+      label: Shopping Frequency
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
       required: false
     - id: 13
-      name: public_opinion_5
-      label: Public Opinion 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: public_opinion_6
-      label: Public Opinion 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: public_opinion_7
-      label: Public Opinion 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: public_opinion_8
-      label: Public Opinion 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: public_opinion_9
-      label: Public Opinion 9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: public_opinion_10
-      label: Public Opinion 10
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: feedback
-      label: Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
       name: contact_information
       label: Contact Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: email
-      label: Email
-      hint: Email address
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: phone
-      label: Phone
-      hint: Phone number
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: public_opinion_11
-      label: Public Opinion 11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: public_opinion_12
-      label: Public Opinion 12
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: public_opinion_13
-      label: Public Opinion 13
       hint: null
       type: text
       options: []

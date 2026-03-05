@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Month''}'
-      - '{''label'': ''3 months''}'
-      - '{''label'': ''6 months''}'
-      - '{''label'': ''12 months''}'
+      - Month
+      - 3 months
+      - 6 months
+      - 12 months
       required: false
     - id: 3
       name: rental_rate
@@ -125,9 +125,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Paid''}'
-      - '{''label'': ''Unpaid''}'
-      - '{''label'': ''Partially Paid''}'
+      - Paid
+      - Unpaid
+      - Partially Paid
       required: false
     - id: 18
       name: payment_date
@@ -170,8 +170,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 24
       name: cancellation_reason
@@ -179,9 +179,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Insufficient Demand''}'
-      - '{''label'': ''Unplanned Event Cancelation''}'
-      - '{''label'': ''Unexpected Event Cancelation''}'
+      - Insufficient Demand
+      - Unplanned Event Cancelation
+      - Unexpected Event Cancelation
       required: false
     - id: 25
       name: cancellation_notes

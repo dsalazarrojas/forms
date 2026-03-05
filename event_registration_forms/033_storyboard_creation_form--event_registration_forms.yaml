@@ -16,176 +16,147 @@ inputSchema:
     pages:
     - id: 1
       name: storyboard_creation_form_page_1
-      label: Storyboard Creation Form
+      label: Page 1
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: storyboard_creation_form_page_2
-      label: Storyboard Creation Form
+      label: What's your name?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: storyboard_creation_form_page_3
-      label: Storyboard Creation Form
+      label: What's your email?
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 4
       name: storyboard_creation_form_page_4
-      label: Storyboard Creation Form
+      label: When is the event?
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 5
       name: storyboard_creation_form_page_5
-      label: Storyboard Creation Form
+      label: What's your role?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Attendee
+      - Speaker
+      - Organizer
+      required: true
     - id: 6
       name: storyboard_creation_form_page_6
-      label: Storyboard Creation Form
+      label: Are you attending?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Yes, I am attending
+      - No, I am not attending
+      required: true
     - id: 7
       name: storyboard_creation_form_page_7
-      label: Storyboard Creation Form
+      label: Why are you attending?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
       name: storyboard_creation_form_page_8
-      label: Storyboard Creation Form
+      label: What do you hope to get out of this event?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
       name: storyboard_creation_form_page_9
-      label: Storyboard Creation Form
+      label: Do you agree?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 10
       name: storyboard_creation_form_page_10
-      label: Storyboard Creation Form
+      label: Additional comments?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: storyboard_creation_form_page_11
-      label: Storyboard Creation Form
+      label: Do you need help?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Yes, I need help
+      - No, I do not need help
+      required: true
     - id: 12
       name: storyboard_creation_form_page_12
-      label: Storyboard Creation Form
+      label: How can we help you?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
       name: storyboard_creation_form_page_13
-      label: Storyboard Creation Form
+      label: Do you have any other comments?
       hint: null
       type: text
       options: []
       required: false
     - id: 14
       name: storyboard_creation_form_page_14
-      label: Storyboard Creation Form
+      label: Are there any questions you'd like to ask?
       hint: null
       type: text
       options: []
       required: false
     - id: 15
       name: storyboard_creation_form_page_15
-      label: Storyboard Creation Form
+      label: Have you already registered for this event?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Yes, I have already registered
+      - No, I have not registered
+      required: true
     - id: 16
       name: storyboard_creation_form_page_16
-      label: Storyboard Creation Form
+      label: Do you have a special request?
       hint: null
       type: text
       options: []
       required: false
     - id: 17
       name: storyboard_creation_form_page_17
-      label: Storyboard Creation Form
+      label: Is there anything else?
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: storyboard_creation_form_page_18
-      label: Storyboard Creation Form
+      label: Do you have any further comments?
       hint: null
       type: text
       options: []
       required: false
     - id: 19
       name: storyboard_creation_form_page_19
-      label: Storyboard Creation Form
+      label: Is this the end?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: storyboard_creation_form_page_20
-      label: Storyboard Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: storyboard_creation_form_page_21
-      label: Storyboard Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: storyboard_creation_form_page_22
-      label: Storyboard Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: storyboard_creation_form_page_23
-      label: Storyboard Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: storyboard_creation_form_page_24
-      label: Storyboard Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: storyboard_creation_form_page_25
-      label: Storyboard Creation Form
-      hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false

@@ -1,284 +1,273 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Coaching Observation Form
     pages:
-      - id: 1
-        name: observer_name
-        label: Observer Name
-        hint: Name of person conducting observation
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: observer_role
-        label: Observer Role
-        hint: Your position or title
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: coach_name
-        label: Coach Name
-        hint: Name of coach being observed
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: observation_date
-        label: Observation Date
-        hint: Date of observation
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: observation_time
-        label: Observation Time
-        hint: Start time of session
-        type: time
-        options: []
-        required: true
-      - id: 6
-        name: session_duration
-        label: Session Duration
-        hint: How long was the session
-        type: select_one
-        options:
-          - 30 Minutes
-          - 45 Minutes
-          - 60 Minutes
-          - 90 Minutes
-          - Over 90 Minutes
-        required: true
-      - id: 7
-        name: session_type
-        label: Session Type
-        hint: What type of session was observed
-        type: select_one
-        options:
-          - Individual Coaching
-          - Group Coaching
-          - Team Session
-          - Workshop
-          - Assessment
-        required: true
-      - id: 8
-        name: client_or_group
-        label: Client or Group Description
-        hint: Describe who was coached
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: session_objectives
-        label: Session Objectives
-        hint: What were the goals of this session
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: coach_preparation
-        label: Coach Preparation Rating
-        hint: How well prepared was the coach
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 11
-        name: coach_presence
-        label: Coach Presence Rating
-        hint: Rate coach presence and demeanor
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 12
-        name: active_listening
-        label: Active Listening Skills
-        hint: Rate how well coach listened
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 13
-        name: questioning_techniques
-        label: Questioning Techniques
-        hint: Rate quality of questions asked
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 14
-        name: feedback_quality
-        label: Feedback Quality
-        hint: Rate the feedback provided
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 15
-        name: rapport_building
-        label: Rapport Building
-        hint: Rate coach ability to build rapport
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 16
-        name: goal_setting_facilitation
-        label: Goal Setting Facilitation
-        hint: Rate how well coach facilitated goals
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 17
-        name: client_engagement
-        label: Client Engagement Level
-        hint: How engaged was the client
-        type: select_one
-        options:
-          - Very Engaged
-          - Engaged
-          - Moderately Engaged
-          - Somewhat Disengaged
-          - Disengaged
-        required: true
-      - id: 18
-        name: session_structure
-        label: Session Structure
-        hint: How well organized was the session
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 19
-        name: time_management
-        label: Time Management
-        hint: Rate how well time was used
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 20
-        name: coaching_ethics
-        label: Coaching Ethics Demonstrated
-        hint: Were ethical standards maintained
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 21
-        name: strengths_observed
-        label: Strengths Observed
-        hint: What did the coach do well
-        type: text
-        options: []
-        required: true
-      - id: 22
-        name: areas_for_improvement
-        label: Areas for Improvement
-        hint: What could be improved
-        type: text
-        options: []
-        required: true
-      - id: 23
-        name: key_moments
-        label: Key Moments in Session
-        hint: Describe significant moments
-        type: text
-        options: []
-        required: false
-      - id: 24
-        name: recommendations
-        label: Recommendations for Coach
-        hint: What should coach work on
-        type: text
-        options: []
-        required: true
-      - id: 25
-        name: follow_up_needed
-        label: Is Follow-Up Needed
-        hint: Does this require further action
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 26
-        name: follow_up_date
-        label: Follow-Up Date
-        hint: When should follow-up occur
-        type: date
-        options: []
-        required: false
-      - id: 27
-        name: overall_effectiveness
-        label: Overall Session Effectiveness
-        hint: Rate overall session
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 28
-        name: observer_signature_date
-        label: Observer Signature Date
-        hint: Today date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: observer_name
+      label: Observer Name
+      hint: Name of person conducting observation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: observer_role
+      label: Observer Role
+      hint: Your position or title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_name
+      label: Coach Name
+      hint: Name of coach being observed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: observation_date
+      label: Observation Date
+      hint: Date of observation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: observation_time
+      label: Observation Time
+      hint: Start time of session
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: session_duration
+      label: Session Duration
+      hint: How long was the session
+      type: select_one
+      options:
+      - 30 Minutes
+      - 45 Minutes
+      - 60 Minutes
+      - 90 Minutes
+      - Over 90 Minutes
+      required: true
+    - id: 7
+      name: session_type
+      label: Session Type
+      hint: What type of session was observed
+      type: select_one
+      options:
+      - Individual Coaching
+      - Group Coaching
+      - Team Session
+      - Workshop
+      - Assessment
+      required: true
+    - id: 8
+      name: client_or_group
+      label: Client or Group Description
+      hint: Describe who was coached
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_objectives
+      label: Session Objectives
+      hint: What were the goals of this session
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: coach_preparation
+      label: Coach Preparation Rating
+      hint: How well prepared was the coach
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: coach_presence
+      label: Coach Presence Rating
+      hint: Rate coach presence and demeanor
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: active_listening
+      label: Active Listening Skills
+      hint: Rate how well coach listened
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: questioning_techniques
+      label: Questioning Techniques
+      hint: Rate quality of questions asked
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: feedback_quality
+      label: Feedback Quality
+      hint: Rate the feedback provided
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: rapport_building
+      label: Rapport Building
+      hint: Rate coach ability to build rapport
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: goal_setting_facilitation
+      label: Goal Setting Facilitation
+      hint: Rate how well coach facilitated goals
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: client_engagement
+      label: Client Engagement Level
+      hint: How engaged was the client
+      type: select_one
+      options:
+      - Very Engaged
+      - Engaged
+      - Moderately Engaged
+      - Somewhat Disengaged
+      - Disengaged
+      required: true
+    - id: 18
+      name: session_structure
+      label: Session Structure
+      hint: How well organized was the session
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: time_management
+      label: Time Management
+      hint: Rate how well time was used
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: coaching_ethics
+      label: Coaching Ethics Demonstrated
+      hint: Were ethical standards maintained
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: strengths_observed
+      label: Strengths Observed
+      hint: What did the coach do well
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could be improved
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: key_moments
+      label: Key Moments in Session
+      hint: Describe significant moments
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recommendations
+      label: Recommendations for Coach
+      hint: What should coach work on
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: follow_up_needed
+      label: Is Follow-Up Needed
+      hint: Does this require further action
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 26
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: When should follow-up occur
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: overall_effectiveness
+      label: Overall Session Effectiveness
+      hint: Rate overall session
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 28
+      name: observer_signature_date
+      label: Observer Signature Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

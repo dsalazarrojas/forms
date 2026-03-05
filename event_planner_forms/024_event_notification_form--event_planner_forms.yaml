@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 7, ''label'': ''Active''}'
-      - '{''id'': 8, ''label'': ''Inactive''}'
-      - '{''id'': 9, ''label'': ''Cancelled''}'
+      - Active
+      - Inactive
+      - Cancelled
       required: false
     - id: 7
       name: notify_authorities
@@ -54,9 +54,9 @@ inputSchema:
       hint: Check who should be notified
       type: select_multiple
       options:
-      - '{''id'': 11, ''label'': ''Police''}'
-      - '{''id'': 12, ''label'': ''Mayor''}'
-      - '{''id'': 13, ''label'': ''Fire Department''}'
+      - Police
+      - Mayor
+      - Fire Department
       required: false
     - id: 8
       name: event_type
@@ -64,9 +64,9 @@ inputSchema:
       hint: What type of event is this
       type: select_one
       options:
-      - '{''id'': 15, ''label'': ''Meeting''}'
-      - '{''id'': 16, ''label'': ''Concert''}'
-      - '{''id'': 17, ''label'': ''Wedding''}'
+      - Meeting
+      - Concert
+      - Wedding
       required: false
     - id: 9
       name: contact_number
@@ -88,8 +88,8 @@ inputSchema:
       hint: Tool assigned to handle this event
       type: select_one
       options:
-      - '{''id'': 21, ''label'': ''chatjimmy''}'
-      - '{''id'': 22, ''label'': ''chatjimmy2''}'
+      - chatjimmy
+      - chatjimmy2
       required: false
     - id: 12
       name: assigned_user
@@ -113,9 +113,9 @@ inputSchema:
       hint: Status of the submission
       type: select_one
       options:
-      - '{''id'': 26, ''label'': ''Approved''}'
-      - '{''id'': 27, ''label'': ''In Progress''}'
-      - '{''id'': 28, ''label'': ''Reopened''}'
-      - '{''id'': 29, ''label'': ''Closed''}'
-      - '{''id'': 30, ''label'': ''Rejected''}'
+      - Approved
+      - In Progress
+      - Reopened
+      - Closed
+      - Rejected
       required: false

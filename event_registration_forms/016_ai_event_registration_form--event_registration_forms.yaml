@@ -51,16 +51,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Standard Attendee
-        value: standard
-      - label: Student / Academic
-        value: student
-      - label: Speaker / VIP
-        value: speaker
-      - label: Press / Media
-        value: press
-      - label: Exhibitor
-        value: exhibitor
+      - Standard Attendee
+      - Student / Academic
+      - Speaker / VIP
+      - Press / Media
+      - Exhibitor
       required: true
     - id: 8
       name: experience_header
@@ -75,12 +70,9 @@ inputSchema:
       hint: How would you rate your expertise?
       type: select_one
       options:
-      - label: Expert (Researcher/Developer)
-        value: expert
-      - label: Intermediate (Power User/Business Leader)
-        value: intermediate
-      - label: Novice (Curious/Beginner)
-        value: novice
+      - Expert (Researcher/Developer)
+      - Intermediate (Power User/Business Leader)
+      - Novice (Curious/Beginner)
       required: true
     - id: 10
       name: breakout_session_interests
@@ -88,16 +80,11 @@ inputSchema:
       hint: Select all that apply.
       type: select_multiple
       options:
-      - label: Generative AI & LLMs
-        value: gen_ai
-      - label: AI Strategy & Governance
-        value: strategy
-      - label: Machine Learning Operations (MLOps)
-        value: mlops
-      - label: Ethical AI & Regulation
-        value: ethics
-      - label: AI in Business & Finance
-        value: business
+      - Generative AI & LLMs
+      - AI Strategy & Governance
+      - Machine Learning Operations (MLOps)
+      - Ethical AI & Regulation
+      - AI in Business & Finance
       required: true
     - id: 11
       name: logistics_header
@@ -112,20 +99,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: No restrictions
-        value: none
-      - label: Vegetarian
-        value: vegetarian
-      - label: Vegan
-        value: vegan
-      - label: Gluten-Free
-        value: gluten_free
-      - label: Halal
-        value: halal
-      - label: Kosher
-        value: kosher
-      - label: Nut Allergy
-        value: nut_allergy
+      - No restrictions
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Halal
+      - Kosher
+      - Nut Allergy
       required: true
     - id: 13
       name: networking_app_consent
@@ -133,10 +113,8 @@ inputSchema:
       hint: Share your name and company with other attendees.
       type: select_one
       options:
-      - label: Yes, I want to network
-        value: true
-      - label: No, keep my info private
-        value: false
+      - Yes, I want to network
+      - No, keep my info private
       required: true
     - id: 14
       name: t_shirt_size
@@ -144,16 +122,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Small
-        value: s
-      - label: Medium
-        value: m
-      - label: Large
-        value: l
-      - label: XL
-        value: xl
-      - label: XXL
-        value: xxl
+      - Small
+      - Medium
+      - Large
+      - XL
+      - XXL
       required: false
     - id: 15
       name: referral_source
@@ -161,14 +134,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Email Newsletter
-        value: newsletter
-      - label: LinkedIn
-        value: linkedin
-      - label: Colleague Referral
-        value: referral
-      - label: Professional Association
-        value: association
+      - Email Newsletter
+      - LinkedIn
+      - Colleague Referral
+      - Professional Association
       required: false
     - id: 16
       name: emergency_contact_info
@@ -183,8 +152,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Yes, I agree
-        value: true
+      - Yes, I agree
       - Other
       required: true
     - id: 18

@@ -13,170 +13,63 @@ inputSchema:
     - id: 2
       name: assessment_questions
       label: Assessment Questions
-      hint: Select the standards you are evaluating the student against
+      hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 3
       name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
+      label: Student's Answer
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
+      name: comments
+      label: Comments
+      hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
+      name: assessment_score
+      label: Assessment Score
+      hint: null
+      type: number
       options: []
-      required: false
+      required: true
     - id: 6
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
+      name: progress_status
+      label: Progress Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Started
+      - Ongoing
+      - Completed
+      required: true
     - id: 7
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
+      name: next_action
+      label: Next Action or Follow-up
+      hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
+      name: meeting_standards
+      label: Meeting Standards
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 9
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
+      name: assessor_signature
+      label: Assessor's Signature
+      hint: null
       type: text
       options: []
-      required: false
-    - id: 10
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: assessment_answers
-      label: Assessment Answers
-      hint: Enter the student's answer for each question
-      type: text
-      options: []
-      required: false
+      required: true

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Development'', ''value'': ''development''}'
-      - '{''label'': ''Sales'', ''value'': ''sales''}'
-      - '{''label'': ''Support'', ''value'': ''support''}'
+      - Development
+      - Sales
+      - Support
       required: false
     - id: 5
       name: team_leader
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Team Lead'', ''value'': ''team_lead''}'
-      - '{''label'': ''Member'', ''value'': ''member''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Team Lead
+      - Member
+      - Other
       required: false
     - id: 10
       name: feedback_group
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Product'', ''value'': ''product''}'
-      - '{''label'': ''Customer Success'', ''value'': ''customer_satisfaction''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Product
+      - Customer Success
+      - Other
       required: false
     - id: 11
       name: submitter
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Team Lead'', ''value'': ''team_lead''}'
-      - '{''label'': ''Member'', ''value'': ''member''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Team Lead
+      - Member
+      - Other
       required: false
     - id: 12
       name: role_in_group_in_project
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Team Lead'', ''value'': ''team_lead''}'
-      - '{''label'': ''Member'', ''value'': ''member''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Team Lead
+      - Member
+      - Other
       required: false
     - id: 13
       name: role_in_project
@@ -131,9 +131,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active'', ''value'': ''active''}'
-      - '{''label'': ''Inactive'', ''value'': ''inactive''}'
-      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      - Active
+      - Inactive
+      - Completed
       required: false
     - id: 17
       name: team_status
@@ -141,9 +141,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active'', ''value'': ''active''}'
-      - '{''label'': ''Inactive'', ''value'': ''inactive''}'
-      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      - Active
+      - Inactive
+      - Completed
       required: false
     - id: 18
       name: feedback_type
@@ -151,9 +151,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Product'', ''value'': ''product''}'
-      - '{''label'': ''Service'', ''value'': ''service''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Product
+      - Service
+      - Other
       required: false
     - id: 19
       name: team_description
@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Submit Now'', ''value'': ''submit_now''}'
-      - '{''label'': ''Save and Continue'', ''value'': ''save_and_continue''}'
+      - Submit Now
+      - Save and Continue
       required: false
     - id: 21
       name: submit_date

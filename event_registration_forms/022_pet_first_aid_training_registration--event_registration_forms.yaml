@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Morning''}'
-      - '{''label'': ''Afternoon''}'
-      - '{''label'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 10
       name: number_of_pets
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Dog''}'
-      - '{''label'': ''Cat''}'
-      - '{''label'': ''Other''}'
+      - Dog
+      - Cat
+      - Other
       required: false
     - id: 12
       name: first_aid_services
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Basic''}'
-      - '{''label'': ''Advanced''}'
-      - '{''label'': ''Refresher''}'
+      - Basic
+      - Advanced
+      - Refresher
       required: false
     - id: 13
       name: payment_terms
@@ -116,8 +116,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Bank Transfer (EFT)''}'
-      - '{''label'': ''Cash''}'
+      - Bank Transfer (EFT)
+      - Cash
       required: false
     - id: 16
       name: confirmation
@@ -125,8 +125,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I understand that by signing this form, I am confirming that
-        I have read the course policies.''}'
+      - I understand that by signing this form, I am confirming that I have read the
+        course policies.
       - Other
       required: false
     - id: 17
@@ -135,6 +135,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Paid''}'
-      - '{''label'': ''Pending''}'
+      - Paid
+      - Pending
       required: false

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''playwright''}'
-      - '{''value'': ''html''}'
-      - '{''value'': ''other''}'
+      - playwright
+      - html
+      - other
       required: true
     - id: 5
       name: upload_type
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''upload''}'
-      - '{''value'': ''link''}'
+      - upload
+      - link
       required: true
     - id: 6
       name: description
@@ -56,8 +56,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''qa''}'
-      - '{''value'': ''engineering''}'
+      - qa
+      - engineering
       required: true
     - id: 8
       name: status
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''inactive''}'
-      - '{''value'': ''pending''}'
+      - active
+      - inactive
+      - pending
       required: true
     - id: 9
       name: review_status
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''not_started''}'
-      - '{''value'': ''in_progress''}'
+      - not started
+      - in progress
       required: false
     - id: 10
       name: comments
@@ -91,8 +91,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''jimmy''}'
-      - '{''value'': ''prophets''}'
+      - jimmy
+      - prophets
       required: false
     - id: 12
       name: review_by
@@ -100,8 +100,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''john''}'
-      - '{''value'': ''jane''}'
+      - john
+      - jane
       required: false
     - id: 13
       name: created_at

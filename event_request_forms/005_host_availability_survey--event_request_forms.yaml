@@ -5,35 +5,35 @@ inputSchema:
     pages:
     - id: 1
       name: host_availability
-      label: Host Availbility
+      label: Host Availability
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: event_preferences
-      label: Event Preferences
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
       name: event_type
       label: Event Type
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 4
+    - id: 3
       name: available_dates
       label: Available Dates
       hint: null
       type: date
       options: []
+      required: false
+    - id: 4
+      name: event_preferences
+      label: Event Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: start_time
@@ -50,8 +50,8 @@ inputSchema:
       options: []
       required: false
     - id: 7
-      name: notes
-      label: Notes
+      name: additional_notes
+      label: Additional Notes
       hint: null
       type: note
       options: []
@@ -71,76 +71,23 @@ inputSchema:
       options: []
       required: false
     - id: 10
-      name: email_hint
-      label: Confirm Email
-      hint: Enter your email address
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: phone_hint
-      label: Confirm Phone
-      hint: Enter your phone number
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: additional_notes
-      label: Additional Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
       name: confirm_email
       label: Confirm Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 14
+    - id: 11
       name: confirm_phone
       label: Confirm Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
-      name: event_type
-      label: Event Type
+    - id: 12
+      name: other_event_preferences
+      label: Other Event Preferences
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: event_preferences
-      label: Event Preferences
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: start_time
-      label: Start Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: end_time
-      label: End Time
-      hint: null
-      type: time
+      type: text
       options: []
       required: false

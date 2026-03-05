@@ -1,105 +1,94 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Conference Content Quality Assessment Form
     pages:
-      - id: 1
-        name: assessor_name
-        label: Assessor name
-        hint: Person completing evaluation
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: session_title
-        label: Session title being evaluated
-        hint: Title of the presentation
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: speaker_name
-        label: Speaker name
-        hint: Name of presenter
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: content_relevance
-        label: Content relevance rating
-        hint: How relevant was the content to the audience
-        type: select_one
-        options:
-          - Highly relevant
-          - Relevant
-          - Somewhat relevant
-          - Not relevant
-        required: true
-      - id: 5
-        name: delivery_quality
-        label: Delivery quality rating
-        hint: Presentation skills and clarity
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 6
-        name: engagement_level
-        label: Audience engagement level
-        hint: Interaction and questions from attendees
-        type: select_one
-        options:
-          - High
-          - Moderate
-          - Low
-          - None
-        required: false
-      - id: 7
-        name: practical_takeaways
-        label: Practical takeaways provided
-        hint: Were actionable insights provided
-        type: select_one
-        options:
-          - Yes
-          - Somewhat
-          - No
-        required: false
-      - id: 8
-        name: improvement_suggestions
-        label: Suggestions for improvement
-        hint: How could the session be improved
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: overall_rating
-        label: Overall session rating
-        hint: Final overall assessment
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 10
-        name: additional_comments
-        label: Additional comments
-        hint: Any other observations
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: assessor_name
+      label: Assessor name
+      hint: Person completing evaluation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_title
+      label: Session title being evaluated
+      hint: Title of the presentation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: speaker_name
+      label: Speaker name
+      hint: Name of presenter
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: content_relevance
+      label: Content relevance rating
+      hint: How relevant was the content to the audience
+      type: select_one
+      options:
+      - Highly relevant
+      - Relevant
+      - Somewhat relevant
+      - Not relevant
+      required: true
+    - id: 5
+      name: delivery_quality
+      label: Delivery quality rating
+      hint: Presentation skills and clarity
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: engagement_level
+      label: Audience engagement level
+      hint: Interaction and questions from attendees
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      - None
+      required: false
+    - id: 7
+      name: practical_takeaways
+      label: Practical takeaways provided
+      hint: Were actionable insights provided
+      type: select_one
+      options:
+      - 'True'
+      - Somewhat
+      - 'False'
+      required: false
+    - id: 8
+      name: improvement_suggestions
+      label: Suggestions for improvement
+      hint: How could the session be improved
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_rating
+      label: Overall session rating
+      hint: Final overall assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

@@ -5,57 +5,139 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: Financial Statement
+      label: Overall Impression
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: page_2
-      label: Financial Statement Review Satisfaction Survey
+      label: Financial Analyst Experience
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 3
       name: page_3
-      label: Contact Info
-      hint: Please provide prophets details below
-      type: email
+      label: Clarity of Financial Statement
+      hint: null
+      type: number
       options: []
-      required: false
+      required: true
     - id: 4
       name: page_4
-      label: Contact Info
+      label: Understanding of Review Process
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: page_5
-      label: Contact Info
+      label: Issues or Concerns
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 6
       name: page_6
-      label: Contact Info
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: page_7
+      label: Timeliness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: page_8
+      label: Necessary Information
+      hint: null
+      type: select_one
+      options:
+      - Received all necessary information
+      - Received some necessary information
+      - Received no necessary information
+      required: true
+    - id: 9
+      name: page_9
+      label: Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - Recommend
+      - Not Recommend
+      - Not at this time
+      required: true
+    - id: 10
+      name: page_10
+      label: Likelihood of Use
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: page_11
+      label: Previous Use
+      hint: null
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: page_12
+      label: Source of Information
+      hint: null
+      type: select_multiple
+      options:
+      - Internet
+      - Social Media
+      - Recommendation
+      - Other
+      required: true
+    - id: 13
+      name: page_13
       label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: page_14
+      label: Page 14
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: page_15
+      label: Page 15
       hint: null
       type: note
       options: []
       required: false
-    - id: 8
-      name: page_8
-      label: Contact Info
+    - id: 16
+      name: page_16
+      label: Page 16
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: page_17
+      label: Page 17
       hint: null
       type: email
+      options: []
+      required: false
+    - id: 18
+      name: page_18
+      label: Page 18
+      hint: null
+      type: text
       options: []
       required: false

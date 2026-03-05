@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''social_media'', ''value'': ''social_media''}'
-      - '{''id'': 2, ''name'': ''online_search'', ''value'': ''online_search''}'
-      - '{''id'': 3, ''name'': ''word_of_mouth'', ''value'': ''word_of_mouth''}'
-      - '{''id'': 4, ''name'': ''other'', ''value'': ''other''}'
+      - social media
+      - online search
+      - word of mouth
+      - other
       required: true
     - id: 3
       name: what_do_you_like
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''design'', ''value'': ''design''}'
-      - '{''id'': 2, ''name'': ''features'', ''value'': ''features''}'
-      - '{''id'': 3, ''name'': ''overall_experience'', ''value'': ''overall_experience''}'
+      - design
+      - features
+      - overall experience
       required: true
     - id: 4
       name: how_did_you_feel
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
-      - '{''id'': 3, ''name'': ''maybe'', ''value'': ''maybe''}'
+      - 'True'
+      - 'False'
+      - maybe
       required: true
     - id: 8
       name: have_you_used
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''before'', ''value'': ''before''}'
-      - '{''id'': 2, ''name'': ''after'', ''value'': ''after''}'
-      - '{''id'': 3, ''name'': ''never'', ''value'': ''never''}'
+      - before
+      - after
+      - never
       required: true
     - id: 9
       name: how_long_did_you
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''less_than_15'', ''value'': ''less_than_15''}'
-      - '{''id'': 2, ''name'': ''more_than_15'', ''value'': ''more_than_15''}'
+      - less than 15
+      - more than 15
       required: true
     - id: 10
       name: will_you_use
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
-      - '{''id'': 3, ''name'': ''maybe'', ''value'': ''maybe''}'
+      - 'True'
+      - 'False'
+      - maybe
       required: true
     - id: 11
       name: how_much_time
@@ -104,11 +104,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''feature_1'', ''value'': ''feature_1''}'
-      - '{''id'': 2, ''name'': ''feature_2'', ''value'': ''feature_2''}'
-      - '{''id'': 3, ''name'': ''feature_3'', ''value'': ''feature_3''}'
-      - '{''id'': 4, ''name'': ''feature_4'', ''value'': ''feature_4''}'
-      - '{''id'': 5, ''name'': ''feature_5'', ''value'': ''feature_5''}'
+      - feature 1
+      - feature 2
+      - feature 3
+      - feature 4
+      - feature 5
       required: false
     - id: 13
       name: what_do_we_miss
@@ -144,9 +144,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''one'', ''value'': ''one'', ''required'': True}'
-      - '{''id'': 2, ''name'': ''two'', ''value'': ''two''}'
-      - '{''id'': 3, ''name'': ''three'', ''value'': ''three''}'
+      - one
+      - two
+      - three
       required: true
     - id: 18
       name: how_would_rate
@@ -163,9 +163,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
-      - '{''id'': 3, ''name'': ''maybe'', ''value'': ''maybe''}'
+      - 'True'
+      - 'False'
+      - maybe
       required: true
     - id: 20
       name: how_much
@@ -180,9 +180,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
-      - '{''id'': 3, ''name'': ''maybe'', ''value'': ''maybe''}'
+      - 'True'
+      - 'False'
+      - maybe
       required: false
     - id: 22
       name: rating_scale
@@ -190,11 +190,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''scale_1'', ''value'': ''scale_1''}'
-      - '{''id'': 2, ''name'': ''scale_2'', ''value'': ''scale_2''}'
-      - '{''id'': 3, ''name'': ''scale_3'', ''value'': ''scale_3''}'
-      - '{''id'': 4, ''name'': ''scale_4'', ''value'': ''scale_4''}'
-      - '{''id'': 5, ''name'': ''scale_5'', ''value'': ''scale_5''}'
+      - scale 1
+      - scale 2
+      - scale 3
+      - scale 4
+      - scale 5
       required: false
     - id: 23
       name: how_long
@@ -209,9 +209,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
-      - '{''id'': 3, ''name'': ''maybe'', ''value'': ''maybe''}'
+      - 'True'
+      - 'False'
+      - maybe
       required: false
     - id: 25
       name: would_recommend_to_friends_2
@@ -219,7 +219,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
-      - '{''id'': 3, ''name'': ''maybe'', ''value'': ''maybe''}'
+      - 'True'
+      - 'False'
+      - maybe
       required: false

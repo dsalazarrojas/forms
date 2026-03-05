@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Unsatisfactory''}'
-      - '{''id'': 2, ''label'': ''Satisfactory''}'
-      - '{''id'': 3, ''label'': ''Needs Improvement''}'
+      - Unsatisfactory
+      - Satisfactory
+      - Needs Improvement
       required: false
     - id: 9
       name: evaluation_outcome_other
@@ -110,9 +110,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Draft''}'
-      - '{''id'': 2, ''label'': ''Published''}'
-      - '{''id'': 3, ''label'': ''Deleted''}'
+      - Draft
+      - Published
+      - Deleted
       required: false
     - id: 16
       name: supervisor_id

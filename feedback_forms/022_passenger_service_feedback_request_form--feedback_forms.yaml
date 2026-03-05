@@ -4,39 +4,24 @@ inputSchema:
     title: Passenger Service Feedback Request Form
     pages:
     - id: 1
-      name: passenger_service_feedback_request_form_page_1
-      label: passenger_service_request_form
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 2
-      name: passenger_service_request_form
-      label: passenger_service_request_form
+      name: form_page_1
+      label: General Feedback
       hint: null
       type: text
       options: []
       required: false
-    - id: 3
-      name: service_type
-      label: service_type
+    - id: 2
+      name: form_page_2
+      label: Issues?
       hint: null
-      type: select_one
+      type: checkbox
       options:
-      - Bus
-      - Train
-      - Flight
-      required: true
-    - id: 4
-      name: route_id
-      label: route
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 5
+      - Option A
+      - Option B
+      required: false
+    - id: 3
       name: service_rating
-      label: service_rating
+      label: Service Rating
       hint: null
       type: select_one
       options:
@@ -45,149 +30,114 @@ inputSchema:
       - Fair
       - Poor
       required: true
-    - id: 6
-      name: service_rating_value
-      label: service_rating_value
+    - id: 4
+      name: rating_value
+      label: Rating Value
       hint: null
       type: number
       options: []
       required: true
-    - id: 7
+    - id: 5
       name: comments
-      label: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: passenger_service_request_form_page_2
-      label: passenger_service_request_form
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 9
-      name: passenger_service_request_form
-      label: passenger_service_request_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
+    - id: 6
       name: passenger_name
-      label: passenger_name
+      label: Passenger Name
       hint: null
       type: text
       options: []
       required: true
-    - id: 11
+    - id: 7
       name: contact_info
-      label: contact_info
+      label: Contact Info
       hint: null
       type: email
       options: []
       required: true
-    - id: 12
+    - id: 8
       name: phone
-      label: phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: date
-      label: date
+    - id: 9
+      name: travel_date
+      label: Travel Date
       hint: null
       type: date
       options: []
       required: true
-    - id: 14
-      name: time
-      label: time
+    - id: 10
+      name: travel_time
+      label: Travel Time
       hint: null
       type: time
       options: []
       required: true
-    - id: 15
+    - id: 11
       name: note
-      label: note
+      label: Additional Comments
       hint: null
-      type: note
+      type: text
       options: []
       required: false
-    - id: 16
+    - id: 12
+      name: route_number
+      label: Route Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: passenger_service_type
+      label: Passenger Service Type
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Train
+      - Flight
+      required: true
+    - id: 14
       name: route
-      label: route
+      label: Route
       hint: null
       type: text
       options: []
       required: true
+    - id: 15
+      name: form_page_3
+      label: Form Page 3
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Train
+      - Flight
+      required: true
+    - id: 16
+      name: route_id
+      label: Route ID
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 17
-      name: form_submission
-      label: form_submission
+      name: form_page_4
+      label: Form Page 4
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: passenger_service_request_form_page_3
-      label: passenger_service_request_form
+      name: route_2
+      label: Route 2
       hint: null
       type: text
       options: []
       required: true
-    - id: 19
-      name: route
-      label: route
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: service_type
-      label: service_type
-      hint: null
-      type: select_one
-      options:
-      - Bus
-      - Train
-      - Flight
-      required: true
-    - id: 21
-      name: route
-      label: route
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: service_type
-      label: service_type
-      hint: null
-      type: select_one
-      options:
-      - Bus
-      - Train
-      - Flight
-      required: true
-    - id: 23
-      name: route_id
-      label: route_id
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 24
-      name: passenger_service_request_form_page_4
-      label: passenger_service_request_form
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false

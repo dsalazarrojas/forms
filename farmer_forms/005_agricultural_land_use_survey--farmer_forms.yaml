@@ -116,8 +116,8 @@ inputSchema:
       hint: Are livestock kept on the property
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: livestock_types
@@ -182,7 +182,7 @@ inputSchema:
       - Yes, fully certified
       - Partially certified
       - In transition
-      - false
+      - 'False'
       required: true
     - id: 18
       name: years_in_operation

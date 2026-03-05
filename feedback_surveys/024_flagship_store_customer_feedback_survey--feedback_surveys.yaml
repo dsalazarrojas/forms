@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Excellent''}'
-      - '{''value'': ''Good''}'
-      - '{''value'': ''Fair''}'
-      - '{''value'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 3
       name: rating_scale
@@ -38,7 +38,7 @@ inputSchema:
     - id: 5
       name: time
       label: What time did you visit Flagship Store?
-      hint: "h:mm a"
+      hint: h:mm a
       type: time
       options: []
       required: false

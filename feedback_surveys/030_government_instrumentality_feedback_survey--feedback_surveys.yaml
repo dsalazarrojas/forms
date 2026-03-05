@@ -30,9 +30,9 @@ inputSchema:
       hint: Select one agency providing service
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: service_1_hints
@@ -43,13 +43,13 @@ inputSchema:
       required: false
     - id: 6
       name: service_2
-      label: Agency Service
+      label: Service 2
       hint: Select one agency providing service
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
       name: service_2_hints
@@ -74,7 +74,7 @@ inputSchema:
       required: false
     - id: 10
       name: satisfaction_2
-      label: Satisfaction
+      label: Satisfaction 2
       hint: null
       type: text
       options: []
@@ -106,9 +106,9 @@ inputSchema:
       hint: Select one reporting period
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 15
       name: reporting_period_hints
@@ -119,7 +119,7 @@ inputSchema:
       required: false
     - id: 16
       name: prophets
-      label: Prophets
+      label: Prophets (2)
       hint: null
       type: number
       options: []
@@ -161,28 +161,28 @@ inputSchema:
       required: false
     - id: 22
       name: additional_comments_hints
-      label: Additional comments
+      label: Additional Comments Hints
       hint: null
       type: text
       options: []
       required: false
     - id: 23
       name: additional_comments_1
-      label: Additional Comments
+      label: Additional Comments 1
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: additional_comments_1_hints
-      label: Additional Comments
+      label: Additional Comments 1 Hints
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: additional_comments_2
-      label: Additional Comments
+      label: Additional Comments 2
       hint: null
       type: text
       options: []

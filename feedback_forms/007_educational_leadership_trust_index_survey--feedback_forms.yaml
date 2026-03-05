@@ -4,21 +4,14 @@ inputSchema:
     title: Educational Leadership Trust Index Survey
     pages:
     - id: 1
-      name: form_1_name
-      label: Educational Leadership Trust Index Survey
+      name: school_name
+      label: Name of the school
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: form_1_name
-      label: What is the name of your school?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: form_1_name
+      name: select_one
       label: Select one
       hint: null
       type: select_one
@@ -26,38 +19,8 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 4
-      name: form_1_name
-      label: Select multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: form_1_name
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: form_1_name
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
-      name: form_1_name
-      label: Educational leadership level
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: form_1_name
+    - id: 3
+      name: edu_leadership_level
       label: Educational leadership level
       hint: null
       type: select_one
@@ -65,29 +28,54 @@ inputSchema:
       - High
       - Low
       required: false
-    - id: 9
-      name: form_1_name
+    - id: 4
+      name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 10
-      name: form_1_name
-      label: Phone
+      required: true
+    - id: 5
+      name: role_in_school
+      label: Role in the school
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: form_1_name
+    - id: 6
+      name: years_working_in_school
+      label: Years working in the school
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: time_in_school
+      label: Time in school
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: role_in_school_1
       label: What is your role in the school?
       hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: role_in_school_2
+      label: Role In School 2
+      hint: null
       type: text
       options: []
       required: false
-    - id: 12
-      name: form_1_name
+    - id: 10
+      name: years_working_in_school_1
       label: How long have you worked in the school?
       hint: null
       type: select_one
@@ -95,108 +83,21 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 13
-      name: form_1_name
-      label: How long have you worked in the school?
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: form_1_name
-      label: What is your role in the school?
+    - id: 11
+      name: role_in_school_3
+      label: Role In School 3
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 15
-      name: form_1_name
-      label: What is your role in the school?
+    - id: 12
+      name: role_in_school_4
+      label: Role In School 4
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 16
-      name: form_1_name
-      label: What is your role in the school?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: form_1_name
-      label: What is your role in the school?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: form_1_name
-      label: What is your role in the school?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: form_1_name
-      label: What is your role in the school?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: form_1_name
-      label: What is your role in the school?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: form_1_name
-      label: What is your role in the school?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_1_name
-      label: What is your role in the school?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_1_name
-      label: What is your role in the school?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_1_name
-      label: What is your role in the school?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_1_name
-      label: What is your role in the school?
-      hint: null
-      type: text
-      options: []
       required: false

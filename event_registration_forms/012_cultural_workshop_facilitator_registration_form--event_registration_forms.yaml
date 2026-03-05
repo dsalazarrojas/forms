@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''info@example.com''}'
-      - '{''value'': ''example@email.com''}'
-      - '{''value'': ''example2@email.com''}'
+      - info@example.com
+      - example@email.com
+      - example2@email.com
       required: false
     - id: 7
       name: phone
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1234567890}'
-      - '{''value'': ''0987654321''}'
-      - '{''value'': ''0192837465''}'
+      - '1234567890'
+      - 0987654321
+      - 0192837465
       required: false
     - id: 8
       name: event_date
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''workshop''}'
-      - '{''value'': ''conference''}'
-      - '{''value'': ''meeting''}'
+      - workshop
+      - conference
+      - meeting
       required: false
     - id: 13
       name: event_location

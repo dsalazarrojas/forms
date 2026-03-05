@@ -5,193 +5,76 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: section_1
-      label: Section 1
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Option 1''}'
-      - '{''value'': ''Option 2''}'
-      - '{''value'': ''Option 3''}'
-      required: false
-    - id: 3
-      name: section_1_1
-      label: Subsection 1
-      hint: null
+      label: General Feedback
+      hint: Please share your overall thoughts about the sports equipment.
       type: text
       options: []
       required: false
-    - id: 4
-      name: section_1_2
-      label: Subsection 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
+    - id: 3
       name: section_2
-      label: Section 2
-      hint: null
+      label: Ease of Use
+      hint: How easy was it to use the equipment?
       type: select_one
       options:
-      - '{''value'': ''Option 1''}'
-      - '{''value'': ''Option 2''}'
-      required: false
+      - Very Easy
+      - Somewhat Easy
+      - Neutral
+      - Somewhat Hard
+      - Very Hard
+      required: true
+    - id: 4
+      name: section_3
+      label: Comfort
+      hint: How comfortable did you find the equipment?
+      type: select_one
+      options:
+      - Very Comfortable
+      - Somewhat Comfortable
+      - Neutral
+      - Somewhat Uncomfortable
+      - Very Uncomfortable
+      required: true
+    - id: 5
+      name: section_4
+      label: Quality
+      hint: How would you rate the quality of the equipment?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 6
-      name: section_2_1
-      label: Subsection 1
-      hint: null
-      type: date
-      options: []
-      required: false
+      name: section_5
+      label: Recommendation
+      hint: How likely are you to recommend the equipment to others?
+      type: select_one
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Neutral
+      - Somewhat Unlikely
+      - Very Unlikely
+      required: true
     - id: 7
-      name: section_2_2
-      label: Subsection 2
-      hint: null
-      type: time
+      name: section_6
+      label: Demographics
+      hint: Please answer the following questions about yourself.
+      type: text
       options: []
       required: false
     - id: 8
-      name: section_2_3
-      label: Subsection 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: section_3
-      label: Section 3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: section_3_1
-      label: Subsection 1
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: section_3_2
-      label: Subsection 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: section_4
-      label: Section 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: section_4_1
-      label: Subsection 1
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: section_4_2
-      label: Subsection 2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: section_5
-      label: Section 5
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: section_5_1
-      label: Subsection 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: section_6
-      label: Section 6
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: section_6_1
-      label: Subsection 1
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: section_7
-      label: Section 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: section_7_1
-      label: Subsection 1
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
       name: section_8
-      label: Section 8
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: section_8_1
-      label: Subsection 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: section_9
-      label: Section 9
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: section_9_1
-      label: Subsection 1
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: submission
-      label: Submission
-      hint: null
+      label: Additional Comments
+      hint: Do you have any additional comments or suggestions?
       type: text
       options: []
       required: false

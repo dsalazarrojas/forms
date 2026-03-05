@@ -67,12 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''credit-card'', ''label'': ''Credit Card'', ''hint'':
-        None, ''type'': ''select_one'', ''options'': []}'
-      - '{''id'': 2, ''name'': ''bank-transfer'', ''label'': ''Bank Transfer'', ''hint'':
-        None, ''type'': ''select_one'', ''options'': []}'
-      - '{''id'': 3, ''name'': ''cash'', ''label'': ''Cash'', ''hint'': None, ''type'':
-        ''select_one'', ''options'': []}'
+      - Credit Card
+      - Bank Transfer
+      - Cash
       required: false
     - id: 10
       name: payment_date
@@ -101,12 +98,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''attendee-1'', ''label'': ''Attendee 1'', ''hint'':
-        None, ''type'': ''select_multiple'', ''options'': []}'
-      - '{''id'': 2, ''name'': ''attendee-2'', ''label'': ''Attendee 2'', ''hint'':
-        None, ''type'': ''select_multiple'', ''options'': []}'
-      - '{''id'': 3, ''name'': ''attendee-3'', ''label'': ''Attendee 3'', ''hint'':
-        None, ''type'': ''select_multiple'', ''options'': []}'
+      - Attendee 1
+      - Attendee 2
+      - Attendee 3
       required: false
     - id: 14
       name: payment_confirmation
@@ -179,10 +173,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pending'', ''label'': ''Pending'', ''hint'': None,
-        ''type'': ''select_one'', ''options'': []}'
-      - '{''id'': 2, ''name'': ''paid'', ''label'': ''Paid'', ''hint'': None, ''type'':
-        ''select_one'', ''options'': []}'
+      - Pending
+      - Paid
       required: false
     - id: 24
       name: attendee_quantity
@@ -197,10 +189,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''credit-card'', ''label'': ''Credit Card'', ''hint'':
-        None, ''type'': ''select_one'', ''options'': []}'
-      - '{''id'': 2, ''name'': ''bank-transfer'', ''label'': ''Bank Transfer'', ''hint'':
-        None, ''type'': ''select_one'', ''options'': []}'
-      - '{''id'': 3, ''name'': ''cash'', ''label'': ''Cash'', ''hint'': None, ''type'':
-        ''select_one'', ''options'': []}'
+      - Credit Card
+      - Bank Transfer
+      - Cash
       required: false

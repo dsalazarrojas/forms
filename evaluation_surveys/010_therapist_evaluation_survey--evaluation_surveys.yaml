@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Strengths'', ''value'': ''Strengths''}'
-      - '{''label'': ''Weaknesses'', ''value'': ''Weaknesses''}'
+      - Strengths
+      - Weaknesses
       required: false
     - id: 9
       name: therapist_weaknesses
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Strengths'', ''value'': ''Strengths''}'
-      - '{''label'': ''Weaknesses'', ''value'': ''Weaknesses''}'
-      - '{''label'': ''None'', ''value'': ''''}'
+      - Strengths
+      - Weaknesses
+      - None
       required: false
     - id: 10
       name: therapist_improvement
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Strengths'', ''value'': ''Strengths''}'
-      - '{''label'': ''Weaknesses'', ''value'': ''Weaknesses''}'
+      - Strengths
+      - Weaknesses
       required: false
     - id: 11
       name: communication_effectiveness

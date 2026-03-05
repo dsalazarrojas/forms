@@ -4,185 +4,108 @@ inputSchema:
     title: Favorite Channel Submission Form
     pages:
     - id: 1
-      name: favorite_channel
+      name: channel_1
       label: What is your favorite channel
-      hint: null
+      hint: Please provide the name of your favorite channel
       type: text
       options: []
       required: false
     - id: 2
-      name: select_option_1
-      label: Which of the following channels is your favorite
-      hint: null
+      name: time_1
+      label: When is your favorite time to visit
+      hint: HH -MM 24 hour format
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: frequency_1
+      label: How often do you visit your favorite channel
+      hint: Never, occasionally, frequently, always
       type: select_one
       options:
-      - channel_a
-      - channel_b
-      - channel_c
-      required: true
-    - id: 3
-      name: select_option_2
-      label: Which of the following channels is your favorite
-      hint: null
-      type: select_multiple
-      options:
-      - channel_d
-      - channel_e
-      - channel_f
+      - Never
+      - Occasionally
+      - Frequently
+      - Always
       required: false
     - id: 4
-      name: select_option_3
-      label: Which of the following channels is your favorite
-      hint: null
+      name: interaction_1
+      label: How do you usually interact with your channel
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social Media
+      - Mobile App
+      - Website
+      required: false
+    - id: 5
+      name: type_1
+      label: What type of content do you usually consume on your channel
+      hint: Select one option that best describes the content type
+      type: select_one
+      options:
+      - Live stream
+      - Video on-demand
+      required: false
+    - id: 6
+      name: recommend_1
+      label: Would you recommend our channel to a friend?
+      hint: Scale - 1-5
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 5
-      name: date
-      label: When is your favorite time?
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: time
-      label: At what time do you like to visit?
-      hint: null
-      type: time
-      options: []
+      - Other
       required: false
     - id: 7
-      name: note
-      label: Any additional comments?
-      hint: null
+      name: more_info_1
+      label: Tell us more about your favorite channel
+      hint: Please provide additional comments
       type: note
       options: []
       required: false
     - id: 8
+      name: channels_1
+      label: What makes our channel unique from others?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Content variety
+      - Content quality
+      - User engagement
+      - Community interaction
+      - Unique features
+      - Other
+      required: false
+    - id: 9
       name: email
-      label: Your email address
-      hint: null
+      label: What is your email address?
+      hint: Format - example@example.com
       type: email
       options: []
       required: false
-    - id: 9
+    - id: 10
       name: phone
-      label: Your phone number
+      label: What is your phone number?
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: true
     - id: 11
-      name: time
-      label: Time
-      hint: null
-      type: time
+      name: channel_name
+      label: Can you describe your favorite channel in one sentence?
+      hint: Provide a brief summary
+      type: text
       options: []
       required: false
     - id: 12
-      name: favorite_channel_1
-      label: What is your favorite channel?
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: favorite_channel_2
-      label: What is your favorite channel?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: favorite_channel_3
-      label: What is your favorite channel?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: favorite_channel_4
-      label: What is your favorite channel?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: favorite_channel_5
-      label: What is your favorite channel?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: favorite_channel_6
-      label: What is your favorite channel?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: favorite_channel_7
-      label: What is your favorite channel?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: favorite_channel_8
-      label: What is your favorite channel?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: favorite_channel_9
-      label: What is your favorite channel?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: favorite_channel_10
-      label: What is your favorite channel?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: favorite_channel_11
-      label: What is your favorite channel?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: favorite_channel_12
-      label: What is your favorite channel?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: favorite_channel_13
-      label: What is your favorite channel?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: favorite_channel_14
-      label: What is your favorite channel?
-      hint: null
-      type: text
-      options: []
+      name: channels_2
+      label: How likely are you to recommend our channel to a friend?
+      hint: Select one option
+      type: select_one
+      options:
+      - Not likely
+      - Somewhat likely
+      - Very likely
+      - Extremely likely
       required: false

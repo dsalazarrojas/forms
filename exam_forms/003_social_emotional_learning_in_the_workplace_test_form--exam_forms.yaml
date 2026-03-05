@@ -15,22 +15,22 @@ inputSchema:
     title: Social Emotional Learning In The Workplace Test Form
     pages:
     - id: 1
-      name: social_emotional_learning_in_the_workplace_test_form
+      name: intro
       label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: social_emotional_learning_in_the_workplace_test_form_question_1
+      name: experience_anxiety_stress
       label: Have you ever been told that you are too sensitive or overly emotional?
-      hint: null
+      hint: Describe your experience with anxiety or stress
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: social_emotional_learning_in_the_workplace_test_form_answer_1_1
-      label: 'yes'
+      name: answer_anxiety_stress_1
+      label: Always
       hint: null
       type: select_one
       options:
@@ -40,20 +40,16 @@ inputSchema:
       - Never
       required: true
     - id: 4
-      name: social_emotional_learning_in_the_workplace_test_form_question_2
-      label: How often do you experience feelings of anxiety or stress?
-      hint: null
-      type: select_multiple
-      options:
-      - Always
-      - Mostly
-      - Rarely
-      - Never
+      name: practice_self_reflection
+      label: How often do you practice self-reflection?
+      hint: Describe your self-reflection habits
+      type: text
+      options: []
       required: true
     - id: 5
-      name: social_emotional_learning_in_the_workplace_test_form_answer_2_1
-      label: Always
-      hint: null
+      name: set_boundaries
+      label: Do you have difficulty setting boundaries?
+      hint: Describe any boundary-setting challenges
       type: select_one
       options:
       - Always
@@ -62,16 +58,20 @@ inputSchema:
       - Never
       required: true
     - id: 6
-      name: social_emotional_learning_in_the_workplace_test_form_question_3
-      label: Have you ever experienced feelings of burnout or emotional exhaustion?
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: seek_feedback
+      label: How often do you seek feedback from others?
+      hint: Describe your feedback-seeking habits
+      type: select_multiple
+      options:
+      - Always
+      - Mostly
+      - Rarely
+      - Never
+      required: true
     - id: 7
-      name: social_emotional_learning_in_the_workplace_test_form_answer_3_1
-      label: 'yes'
-      hint: null
+      name: assert_needs
+      label: Do you have difficulty asserting your needs?
+      hint: Describe any need-asserting challenges
       type: select_one
       options:
       - Always
@@ -80,20 +80,16 @@ inputSchema:
       - Never
       required: true
     - id: 8
-      name: social_emotional_learning_in_the_workplace_test_form_question_4
-      label: How often do you practice self-reflection?
-      hint: null
-      type: select_multiple
-      options:
-      - Always
-      - Mostly
-      - Rarely
-      - Never
+      name: engage_self_care
+      label: How often do you engage in activities that promote self-care?
+      hint: Describe your self-care habits
+      type: text
+      options: []
       required: true
     - id: 9
-      name: social_emotional_learning_in_the_workplace_test_form_answer_4_1
-      label: Always
-      hint: null
+      name: manage_emotions
+      label: Do you have difficulty managing your emotions?
+      hint: Describe any emotional management challenges
       type: select_one
       options:
       - Always
@@ -102,16 +98,16 @@ inputSchema:
       - Never
       required: true
     - id: 10
-      name: social_emotional_learning_in_the_workplace_test_form_question_5
-      label: How often do you engage in activities that promote relaxation?
-      hint: null
+      name: social_connections
+      label: How often do you engage in activities that promote social connections?
+      hint: Describe your social connection habits
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: social_emotional_learning_in_the_workplace_test_form_answer_5_1
-      label: Always
-      hint: null
+      name: empathize_others
+      label: Do you have difficulty empathizing with others?
+      hint: Describe any empathizing challenges
       type: select_one
       options:
       - Always
@@ -120,16 +116,16 @@ inputSchema:
       - Never
       required: true
     - id: 12
-      name: social_emotional_learning_in_the_workplace_test_form_question_6
-      label: Have you ever experienced difficulty in setting boundaries?
-      hint: null
+      name: seek_help
+      label: How often do you seek help from others when needed?
+      hint: Describe your help-seeking habits
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: social_emotional_learning_in_the_workplace_test_form_answer_6_1
-      label: 'yes'
-      hint: null
+      name: recognize_emotions
+      label: Do you have difficulty recognizing and understanding your emotions?
+      hint: Describe any emotional recognition challenges
       type: select_one
       options:
       - Always
@@ -138,114 +134,16 @@ inputSchema:
       - Never
       required: true
     - id: 14
-      name: social_emotional_learning_in_the_workplace_test_form_question_7
-      label: How often do you seek feedback from others?
-      hint: null
-      type: select_multiple
-      options:
-      - Always
-      - Mostly
-      - Rarely
-      - Never
+      name: relax_promote
+      label: How often do you engage in activities that promote relaxation?
+      hint: Describe your relaxation habits
+      type: text
+      options: []
       required: true
     - id: 15
-      name: social_emotional_learning_in_the_workplace_test_form_answer_7_1
-      label: Always
-      hint: null
-      type: select_one
-      options:
-      - Always
-      - Mostly
-      - Rarely
-      - Never
-      required: true
-    - id: 16
-      name: social_emotional_learning_in_the_workplace_test_form_question_8
-      label: Have you ever experienced difficulty in asserting your needs?
-      hint: null
+      name: final_questions
+      label: Do you have any other comments or concerns?
+      hint: Describe any other comments or concerns
       type: text
       options: []
       required: false
-    - id: 17
-      name: social_emotional_learning_in_the_workplace_test_form_answer_8_1
-      label: 'yes'
-      hint: null
-      type: select_one
-      options:
-      - Always
-      - Mostly
-      - Rarely
-      - Never
-      required: true
-    - id: 18
-      name: social_emotional_learning_in_the_workplace_test_form_question_9
-      label: How often do you engage in activities that promote self-care?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: social_emotional_learning_in_the_workplace_test_form_answer_9_1
-      label: Always
-      hint: null
-      type: select_one
-      options:
-      - Always
-      - Mostly
-      - Rarely
-      - Never
-      required: true
-    - id: 20
-      name: social_emotional_learning_in_the_workplace_test_form_question_10
-      label: Have you ever experienced difficulty in managing emotions?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: social_emotional_learning_in_the_workplace_test_form_answer_10_1
-      label: 'yes'
-      hint: null
-      type: select_one
-      options:
-      - Always
-      - Mostly
-      - Rarely
-      - Never
-      required: true
-    - id: 22
-      name: social_emotional_learning_in_the_workplace_test_form_question_11
-      label: How often do you engage in activities that promote social connections?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: social_emotional_learning_in_the_workplace_test_form_answer_11_1
-      label: Always
-      hint: null
-      type: select_one
-      options:
-      - Always
-      - Mostly
-      - Rarely
-      - Never
-      required: true
-    - id: 24
-      name: social_emotional_learning_in_the_workplace_test_form_question_12
-      label: Have you ever experienced difficulty in empathizing with others?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: social_emotional_learning_in_the_workplace_test_form_answer_12_1
-      label: 'yes'
-      hint: null
-      type: select_one
-      options:
-      - Always
-      - Mostly
-      - Rarely
-      - Never
-      required: true

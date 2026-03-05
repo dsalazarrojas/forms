@@ -37,11 +37,11 @@ inputSchema:
       hint: Rate from 1 to 5
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 6
       name: items_returned
@@ -63,8 +63,8 @@ inputSchema:
       hint: Select yes if follow up is required
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: staff_notes

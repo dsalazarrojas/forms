@@ -4,27 +4,25 @@ inputSchema:
     title: geoSystemsFeedbackSurvey
     pages:
     - id: 1
-      name: userfeedback
-      label: User feedback
+      name: overall_impression
+      label: What is your overall impression of geoSystems?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: rating
-      label: Rating
+      label: How would you rate your experience with geoSystems?
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 3
-      name: mappingplatform
-      label: Mapping Platform
+      name: mapping_platform
+      label: Which mapping platform do you use most frequently?
       hint: null
       type: select_multiple
       options:
@@ -33,178 +31,92 @@ inputSchema:
       - OpenStreetMap
       required: true
     - id: 4
-      name: dateused
-      label: Date used
+      name: time_used
+      label: How long did you use geoSystems for?
       hint: null
-      type: date
+      type: time
       options: []
       required: false
     - id: 5
-      name: timeused
-      label: Time used
+      name: feedback
+      label: What is your feedback about geoSystems?
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 7
       name: email
       label: Email
       hint: null
       type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
       options: []
       required: true
     - id: 8
-      name: phone
-      label: Phone
+      name: mapping_platform_2
+      label: Which mapping platform do you prefer for geoSystems?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Google Maps
+      - ArcGIS
+      - OpenStreetMap
       required: true
     - id: 9
-      name: platform
-      label: Platform
-      hint: null
-      type: select_one
-      options:
-      - Google Maps
-      - ArcGIS
-      - OpenStreetMap
-      required: true
-    - id: 10
-      name: feedback
-      label: Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: rating
-      label: Rating
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: true
-    - id: 13
-      name: mappingplatform
-      label: Mapping Platform
-      hint: null
-      type: select_multiple
-      options:
-      - Google Maps
-      - ArcGIS
-      - OpenStreetMap
-      required: true
-    - id: 14
-      name: dateused
-      label: Date used
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: timeused
-      label: Time used
+      name: time_used_2
+      label: Time Used 2
       hint: null
       type: time
       options: []
       required: false
-    - id: 16
+    - id: 10
       name: comments
-      label: Comments
+      label: Do you have any comments about geoSystems?
       hint: null
       type: note
       options: []
       required: false
-    - id: 17
-      name: email
-      label: Email
+    - id: 11
+      name: rating_again
+      label: How would you rate your experience with geoSystems again?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 12
+      name: email_confirmation
+      label: Is this email address correct?
       hint: null
       type: email
       options: []
       required: true
-    - id: 18
-      name: phone
-      label: Phone
+    - id: 13
+      name: phone_confirmation
+      label: Is this phone number correct?
       hint: null
       type: text
       options: []
       required: true
-    - id: 19
-      name: platform
-      label: Platform
-      hint: null
-      type: select_one
-      options:
-      - Google Maps
-      - ArcGIS
-      - OpenStreetMap
-      required: true
-    - id: 20
-      name: feedback
-      label: Feedback
+    - id: 14
+      name: feedback_again
+      label: Do you have any further comments?
       hint: null
       type: text
       options: []
       required: false
-    - id: 21
-      name: comments
-      label: Comments
+    - id: 15
+      name: platform_improvement
+      label: Is there anything we can improve on geoSystems?
       hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: rating
-      label: Rating
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: true
-    - id: 23
-      name: mappingplatform
-      label: Mapping Platform
-      hint: null
-      type: select_multiple
-      options:
-      - Google Maps
-      - ArcGIS
-      - OpenStreetMap
-      required: false
-    - id: 24
-      name: dateused
-      label: Date used
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: timeused
-      label: Time used
-      hint: null
-      type: time
+      type: text
       options: []
       required: false

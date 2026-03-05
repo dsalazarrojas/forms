@@ -98,7 +98,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
+      - 'True'
       - No - Uses standard template
       required: true
     - id: 12
@@ -136,7 +136,7 @@ inputSchema:
       hint: required for production updates
       type: select_one
       options:
-      - true
+      - 'True'
       - Not Applicable
       required: true
     - id: 16
@@ -145,8 +145,8 @@ inputSchema:
       hint: recommended for large imports
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: error_handling

@@ -1,176 +1,165 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Book Club Check In Form
     pages:
-      - id: 1
-        name: member_name
-        label: Full Name
-        hint: Enter your first and last name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: email_address
-        label: Email Address
-        hint: Your contact email
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: membership_id
-        label: Membership ID
-        hint: Your book club member ID if applicable
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: meeting_date
-        label: Meeting Date
-        hint: Date of this meeting
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: meeting_location
-        label: Meeting Location
-        hint: Where is the meeting held
-        type: select_one
-        options:
-          - Main Library Room A
-          - Main Library Room B
-          - Community Center
-          - Coffee Shop Downtown
-          - Online Virtual Meeting
-          - Private Home
-        required: true
-      - id: 6
-        name: attendance_status
-        label: Attendance Status
-        hint: Are you attending today
-        type: select_one
-        options:
-          - Present
-          - Arriving Late
-          - Leaving Early
-          - Virtual Attendance
-        required: true
-      - id: 7
-        name: book_title_read
-        label: Current Book Title
-        hint: Title of the book being discussed
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: book_author
-        label: Book Author
-        hint: Author of the current book
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: reading_completion
-        label: How much of the book did you read
-        hint: Select your completion level
-        type: select_one
-        options:
-          - Did not read
-          - Partially read
-          - Mostly read
-          - Fully read
-          - Reread for discussion
-        required: true
-      - id: 10
-        name: book_rating
-        label: How would you rate this book
-        hint: Your overall rating
-        type: select_one
-        options:
-          - 5 Stars Excellent
-          - 4 Stars Very Good
-          - 3 Stars Good
-          - 2 Stars Fair
-          - 1 Star Poor
-        required: true
-      - id: 11
-        name: favorite_character
-        label: Favorite Character
-        hint: Who was your favorite character
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: discussion_topics
-        label: Topics You Want to Discuss
-        hint: Select topics of interest
-        type: select_multiple
-        options:
-          - Plot Analysis
-          - Character Development
-          - Themes and Symbolism
-          - Writing Style
-          - Historical Context
-          - Personal Connections
-        required: false
-      - id: 13
-        name: brought_snacks
-        label: Did you bring snacks or drinks
-        hint: For potluck style meetings
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Applicable
-        required: false
-      - id: 14
-        name: next_meeting_availability
-        label: Availability for Next Meeting
-        hint: When can you attend next
-        type: select_multiple
-        options:
-          - Weekday Mornings
-          - Weekday Afternoons
-          - Weekday Evenings
-          - Weekend Mornings
-          - Weekend Afternoons
-          - Weekend Evenings
-        required: false
-      - id: 15
-        name: book_suggestions
-        label: Book Suggestions for Future
-        hint: Any books you recommend
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: feedback_comments
-        label: Additional Comments or Feedback
-        hint: Any other thoughts to share
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: volunteer_help
-        label: Would you like to volunteer to help
-        hint: Select areas you can help with
-        type: select_multiple
-        options:
-          - Host a meeting
-          - Bring snacks
-          - Lead discussion
-          - Send reminders
-          - Manage social media
-          - Cannot volunteer
-        required: false
+    - id: 1
+      name: member_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: membership_id
+      label: Membership ID
+      hint: Your book club member ID if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: meeting_date
+      label: Meeting Date
+      hint: Date of this meeting
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: meeting_location
+      label: Meeting Location
+      hint: Where is the meeting held
+      type: select_one
+      options:
+      - Main Library Room A
+      - Main Library Room B
+      - Community Center
+      - Coffee Shop Downtown
+      - Online Virtual Meeting
+      - Private Home
+      required: true
+    - id: 6
+      name: attendance_status
+      label: Attendance Status
+      hint: Are you attending today
+      type: select_one
+      options:
+      - Present
+      - Arriving Late
+      - Leaving Early
+      - Virtual Attendance
+      required: true
+    - id: 7
+      name: book_title_read
+      label: Current Book Title
+      hint: Title of the book being discussed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: book_author
+      label: Book Author
+      hint: Author of the current book
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reading_completion
+      label: How much of the book did you read
+      hint: Select your completion level
+      type: select_one
+      options:
+      - Did not read
+      - Partially read
+      - Mostly read
+      - Fully read
+      - Reread for discussion
+      required: true
+    - id: 10
+      name: book_rating
+      label: How would you rate this book
+      hint: Your overall rating
+      type: select_one
+      options:
+      - 5 Stars Excellent
+      - 4 Stars Very Good
+      - 3 Stars Good
+      - 2 Stars Fair
+      - 1 Star Poor
+      required: true
+    - id: 11
+      name: favorite_character
+      label: Favorite Character
+      hint: Who was your favorite character
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: discussion_topics
+      label: Topics You Want to Discuss
+      hint: Select topics of interest
+      type: select_multiple
+      options:
+      - Plot Analysis
+      - Character Development
+      - Themes and Symbolism
+      - Writing Style
+      - Historical Context
+      - Personal Connections
+      required: false
+    - id: 13
+      name: brought_snacks
+      label: Did you bring snacks or drinks
+      hint: For potluck style meetings
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 14
+      name: next_meeting_availability
+      label: Availability for Next Meeting
+      hint: When can you attend next
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      - Weekend Evenings
+      required: false
+    - id: 15
+      name: book_suggestions
+      label: Book Suggestions for Future
+      hint: Any books you recommend
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: feedback_comments
+      label: Additional Comments or Feedback
+      hint: Any other thoughts to share
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: volunteer_help
+      label: Would you like to volunteer to help
+      hint: Select areas you can help with
+      type: select_multiple
+      options:
+      - Host a meeting
+      - Bring snacks
+      - Lead discussion
+      - Send reminders
+      - Manage social media
+      - Cannot volunteer
+      required: false

@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Strongly disagree''}'
-      - '{''value'': 2, ''label'': ''Somewhat disagree''}'
-      - '{''value'': 3, ''label'': ''Neutral''}'
-      - '{''value'': 4, ''label'': ''Somewhat agree''}'
-      - '{''value'': 5, ''label'': ''Strongly agree''}'
+      - Strongly disagree
+      - Somewhat disagree
+      - Neutral
+      - Somewhat agree
+      - Strongly agree
       required: false
     - id: 3
       name: team_work_environment
@@ -35,11 +35,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Team members often work together on tasks and
-        projects''}'
-      - '{''value'': 2, ''label'': ''Team members often share knowledge and ideas''}'
-      - '{''value'': 3, ''label'': ''Team members often help each other with work''}'
-      - '{''value'': 4, ''label'': ''Team members often communicate effectively''}'
+      - Team members often work together on tasks and projects
+      - Team members often share knowledge and ideas
+      - Team members often help each other with work
+      - Team members often communicate effectively
       required: false
     - id: 5
       name: problem_prophetsolving
@@ -54,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Top-down''}'
-      - '{''value'': 2, ''label'': ''Bottom-up''}'
-      - '{''value'': 3, ''label'': ''Both''}'
+      - Top-down
+      - Bottom-up
+      - Both
       required: false
     - id: 7
       name: conflict_resolution
@@ -71,10 +70,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Not often''}'
-      - '{''value'': 2, ''label'': ''Occasionally''}'
-      - '{''value'': 3, ''label'': ''Often''}'
-      - '{''value'': 4, ''label'': ''Almost always''}'
+      - Not often
+      - Occasionally
+      - Often
+      - Almost always
       required: false
     - id: 9
       name: feedback
@@ -89,10 +88,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Email''}'
-      - '{''value'': 2, ''label'': ''Phone''}'
-      - '{''value'': 3, ''label'': ''Instant Messenger''}'
-      - '{''value'': 4, ''label'': ''In-person''}'
+      - Email
+      - Phone
+      - Instant Messenger
+      - In-person
       required: false
     - id: 11
       name: collaboration_tools
@@ -100,10 +99,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Asana''}'
-      - '{''value'': 2, ''label'': ''Trello''}'
-      - '{''value'': 3, ''label'': ''Slack''}'
-      - '{''value'': 4, ''label'': ''Microsoft Teams''}'
+      - Asana
+      - Trello
+      - Slack
+      - Microsoft Teams
       required: false
     - id: 12
       name: work_satisfaction
@@ -111,11 +110,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Very dissatisfied''}'
-      - '{''value'': 2, ''label'': ''Somewhat dissatisfied''}'
-      - '{''value'': 3, ''label'': ''Neutral''}'
-      - '{''value'': 4, ''label'': ''Somewhat satisfied''}'
-      - '{''value'': 5, ''label'': ''Very satisfied''}'
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
       required: false
     - id: 13
       name: time_spend
@@ -123,9 +122,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Less than 20''}'
-      - '{''value'': 2, ''label'': ''21-40''}'
-      - '{''value'': 3, ''label'': ''41-60''}'
-      - '{''value'': 4, ''label'': ''61-80''}'
-      - '{''value'': 5, ''label'': ''81-100''}'
+      - Less than 20
+      - 21-40
+      - 41-60
+      - 61-80
+      - 81-100
       required: false

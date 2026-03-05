@@ -5,239 +5,203 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: What was the quality of the training?
+      label: Training Effectiveness
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - very effective
+      - somewhat effective
+      - not at all effective
+      required: true
     - id: 2
       name: page_2
-      label: How would you rate your experience?
+      label: Organization
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_satisfied''}'
-      - '{''value'': ''somewhat_satisfied''}'
-      - '{''value'': ''neutral''}'
-      - '{''value'': ''somewhat_dissatisfied''}'
-      - '{''value'': ''very_dissatisfied''}'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 3
       name: page_3
-      label: Was the training well-organized?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      required: false
-    - id: 4
-      name: page_4
-      label: How likely are you to recommend this training?
+      label: Recommendation
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_likely''}'
-      - '{''value'': ''somewhat_likely''}'
-      - '{''value'': ''not_at_all_likely''}'
-      required: false
-    - id: 5
-      name: page_5
-      label: Any additional comments?
+      - very likely
+      - somewhat likely
+      - not at all likely
+      required: true
+    - id: 4
+      name: page_4
+      label: Additional Comments
       hint: null
       type: note
       options: []
       required: false
+    - id: 5
+      name: page_5
+      label: Training Duration
+      hint: null
+      type: select_one
+      options:
+      - less than 5 minutes
+      - more than 5 minutes but less than 10 minutes
+      - more than 10 minutes
+      required: false
     - id: 6
       name: page_6
-      label: How did we do?
+      label: Participation
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - very likely
+      - somewhat likely
+      - not at all likely
       required: false
     - id: 7
       name: page_7
-      label: How long did the training last?
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: page_8
-      label: How likely are you to participate in another training?
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''very_likely''}'
-      - '{''value'': ''somewhat_likely''}'
-      - '{''value'': ''not_at_all_likely''}'
-      required: false
-    - id: 9
-      name: page_9
-      label: Any questions?
+      label: Questions
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: page_8
+      label: Quality
+      hint: null
+      type: select_one
+      options:
+      - very satisfied
+      - somewhat satisfied
+      - neutral
+      - somewhat dissatisfied
+      - very dissatisfied
+      required: false
+    - id: 9
+      name: page_9
+      label: Duration
+      hint: null
+      type: select_one
+      options:
+      - less than 5 minutes
+      - more than 5 minutes
+      - more than 10 minutes
       required: false
     - id: 10
       name: page_10
-      label: How long would you give this training?
+      label: Participation 2
       hint: null
       type: select_one
       options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      - very likely
+      - somewhat likely
+      - not at all likely
       required: false
     - id: 11
       name: page_11
-      label: How long would you give this training?
+      label: Additional Comments 2
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false
     - id: 12
       name: page_12
-      label: How long would you give this training?
+      label: Open-ended
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false
     - id: 13
       name: page_13
-      label: How long would you give this training?
+      label: Page 13
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false
     - id: 14
       name: page_14
-      label: How long would you give this training?
+      label: Additional Comments 3
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false
     - id: 15
       name: page_15
-      label: How long would you give this training?
+      label: Additional Comments 4
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false
     - id: 16
       name: page_16
-      label: How long would you give this training?
+      label: Additional Comments 5
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false
     - id: 17
       name: page_17
-      label: How long would you give this training?
+      label: Additional Comments 6
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false
     - id: 18
       name: page_18
-      label: How long would you give this training?
+      label: Additional Comments 7
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false
     - id: 19
       name: page_19
-      label: How long would you give this training?
+      label: Additional Comments 8
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false
     - id: 20
       name: page_20
-      label: How long would you give this training?
+      label: Additional Comments 9
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false
     - id: 21
       name: page_21
-      label: How long would you give this training?
+      label: Additional Comments 10
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false
     - id: 22
       name: page_22
-      label: How long would you give this training?
+      label: Additional Comments 11
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false
     - id: 23
       name: page_23
-      label: How long would you give this training?
+      label: Additional Comments 12
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false
     - id: 24
       name: page_24
-      label: How long would you give this training?
+      label: Additional Comments 13
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false
     - id: 25
       name: page_25
-      label: How long would you give this training?
+      label: Additional Comments 14
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''more_than_5_minutes''}'
-      - '{''value'': ''more_than_10_minutes''}'
-      - '{''value'': ''more_than_15_minutes''}'
+      type: note
+      options: []
       required: false

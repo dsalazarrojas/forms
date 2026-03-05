@@ -4,15 +4,17 @@ inputSchema:
     title: Facility Upgrade Voting Form
     pages:
     - id: 1
-      name: facility_upgrade_voting_form_page
-      label: Facility Upgrade Voting Form
+      name: facility_upgrade_voting_form_page_1
+      label: What type of facility upgrade would you prefer?
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 2
       name: facility_upgrade_voting_form_page_2
-      label: Facility Upgrade Voting Form
+      label: Which location would you prefer for the upgrade?
       hint: null
       type: select_one
       options:
@@ -21,60 +23,60 @@ inputSchema:
       required: false
     - id: 3
       name: facility_upgrade_voting_form_page_3
-      label: Facility Upgrade Voting Form
+      label: How many people would be impacted by the upgrade?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 4
       name: facility_upgrade_voting_form_page_4
-      label: Facility Upgrade Voting Form
+      label: When would you like the upgrade to happen?
       hint: null
       type: date
       options: []
       required: false
     - id: 5
       name: facility_upgrade_voting_form_page_5
-      label: Facility Upgrade Voting Form
+      label: What time of day would you prefer for the upgrade?
       hint: null
       type: time
       options: []
       required: false
     - id: 6
       name: facility_upgrade_voting_form_page_6
-      label: Facility Upgrade Voting Form
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: facility_upgrade_voting_form_page_7
-      label: Facility Upgrade Voting Form
+      label: How would you like to receive updates about the upgrade?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
+    - id: 7
+      name: facility_upgrade_voting_form_page_7
+      label: What benefits do you think the upgrade would bring?
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 8
       name: facility_upgrade_voting_form_page_8
-      label: Facility Upgrade Voting Form
+      label: How do you feel about the upgrade's budget?
       hint: null
-      type: email
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 9
       name: facility_upgrade_voting_form_page_9
-      label: Facility Upgrade Voting Form
+      label: Would you like to provide any additional comments about the upgrade?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
       name: facility_upgrade_voting_form_page_10
-      label: Facility Upgrade Voting Form
+      label: How likely are you to participate in the upgrade?
       hint: null
       type: select_one
       options:
@@ -83,7 +85,7 @@ inputSchema:
       required: false
     - id: 11
       name: facility_upgrade_voting_form_page_11
-      label: Facility Upgrade Voting Form
+      label: What is the expected duration of the upgrade process?
       hint: null
       type: select_one
       options:
@@ -92,21 +94,23 @@ inputSchema:
       required: false
     - id: 12
       name: facility_upgrade_voting_form_page_12
-      label: Facility Upgrade Voting Form
+      label: How would you rate the importance of the upgrade?
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 13
       name: facility_upgrade_voting_form_page_13
-      label: Facility Upgrade Voting Form
+      label: What is your expected outcome of the upgrade?
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 14
       name: facility_upgrade_voting_form_page_14
-      label: Facility Upgrade Voting Form
+      label: Do you expect any challenges with the upgrade?
       hint: null
       type: select_multiple
       options:
@@ -115,21 +119,25 @@ inputSchema:
       required: false
     - id: 15
       name: facility_upgrade_voting_form_page_15
-      label: Facility Upgrade Voting Form
+      label: Do you expect any positive outcomes with the upgrade?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 16
       name: facility_upgrade_voting_form_page_16
-      label: Facility Upgrade Voting Form
+      label: Do you think the upgrade is a good idea?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 17
       name: facility_upgrade_voting_form_page_17
-      label: Facility Upgrade Voting Form
+      label: What is your preferred method of communication for the upgrade?
       hint: null
       type: select_one
       options:
@@ -138,41 +146,7 @@ inputSchema:
       required: false
     - id: 18
       name: facility_upgrade_voting_form_page_18
-      label: Facility Upgrade Voting Form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: facility_upgrade_voting_form_page_19
-      label: Facility Upgrade Voting Form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: facility_upgrade_voting_form_page_20
-      label: Facility Upgrade Voting Form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: facility_upgrade_voting_form_page_21
-      label: Facility Upgrade Voting Form
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: facility_upgrade_voting_form_page_22
-      label: Facility Upgrade Voting Form
+      label: Do you have any other suggestions for the upgrade?
       hint: null
       type: text
       options: []

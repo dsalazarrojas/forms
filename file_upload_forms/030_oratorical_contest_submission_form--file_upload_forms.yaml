@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I agree''}'
-      - '{''label'': ''I disagree''}'
+      - I agree
+      - I disagree
       required: true
     - id: 12
       name: event_agreement
@@ -88,7 +88,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: true

@@ -15,221 +15,106 @@ inputSchema:
     title: Vision And Lighting Assessment Form
     pages:
     - id: 1
-      name: facility_id
-      label: facility_id
+      name: introduction
+      label: What is your position in the organization?
       hint: null
-      type: select_one
-      options:
-      - Facilities 1
-      - Facilities 2
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 2
-      name: location
-      label: location
+      name: facility_name
+      label: What is the name of your facility?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: area_id
-      label: area_id
+      name: lighting_condition
+      label: What is the overall condition of the lighting at your facility?
       hint: null
-      type: select_one
-      options:
-      - Area 1
-      - Area 2
-      - Area 3
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: lighting_condition_id
-      label: lighting_condition_id
+      name: lighting_level
+      label: What is the current lighting level at your facility?
       hint: null
       type: select_one
       options:
-      - Condition 1
-      - Condition 2
-      - Condition 3
-      required: false
+      - Adequate
+      - Inadequate
+      required: true
     - id: 5
-      name: lighting_level_id
-      label: lighting_level_id
+      name: lighting_intensity
+      label: What is the intensity of the lighting at your facility?
       hint: null
       type: select_one
       options:
-      - Level 1
-      - Level 2
-      - Level 3
-      required: false
+      - Sufficient
+      - Insufficient
+      required: true
     - id: 6
-      name: lighting_intensity_id
-      label: lighting_intensity_id
-      hint: null
-      type: select_one
-      options:
-      - Intensity 1
-      - Intensity 2
-      - Intensity 3
-      required: false
-    - id: 7
-      name: lighting_characteristics
-      label: lighting_characteristics
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
       name: observations
-      label: observations
+      label: Please note any observations about the lighting conditions at your facility
       hint: null
       type: text
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 7
       name: issue_reported
-      label: issue_reported
+      label: If there is an issue with the lighting, please report it
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
+    - id: 8
+      name: next_action
+      label: What action will be taken to address the issue?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: next_action_date
+      label: What is the next action due date?
+      hint: null
+      type: date
+      options: []
+      required: true
     - id: 10
-      name: action_taken
-      label: action_taken
+      name: follow_up_status
+      label: What is the status of the follow-up?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Completed
+      - Ongoing
+      - Scheduled
+      required: true
     - id: 11
-      name: next_action_due
-      label: next_action_due
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: next_action_by
-      label: next_action_by
-      hint: null
-      type: select_one
-      options:
-      - User 1
-      - User 2
-      - User 3
-      required: false
-    - id: 13
-      name: action_status
-      label: action_status
-      hint: null
-      type: select_one
-      options:
-      - Status 1
-      - Status 2
-      - Status 3
-      required: false
-    - id: 14
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: select_one
-      options:
-      - Follow-up 1
-      - Follow-up 2
-      - Follow-up 3
-      required: false
-    - id: 16
-      name: follow_up_by
-      label: follow_up_by
-      hint: null
-      type: select_one
-      options:
-      - Follow-up 1
-      - Follow-up 2
-      - Follow-up 3
-      required: false
-    - id: 17
-      name: follow_up_date
-      label: follow_up_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: follow_up_by
-      label: follow_up_by
-      hint: null
-      type: select_one
-      options:
-      - Follow-up 1
-      - Follow-up 2
-      - Follow-up 3
-      required: false
-    - id: 19
-      name: follow_up_status
-      label: follow_up_status
-      hint: null
-      type: select_one
-      options:
-      - Status 1
-      - Status 2
-      - Status 3
-      required: false
-    - id: 20
-      name: follow_up_comments
-      label: follow_up_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: facility_manager_id
-      label: facility_manager_id
-      hint: null
-      type: select_one
-      options:
-      - Manager 1
-      - Manager 2
-      - Manager 3
-      required: false
-    - id: 22
       name: follow_up_frequency
-      label: follow_up_frequency
+      label: What is the follow-up frequency?
       hint: null
       type: select_one
       options:
-      - Frequency 1
-      - Frequency 2
-      - Frequency 3
-      required: false
-    - id: 23
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 12
       name: follow_up_method
-      label: follow_up_method
+      label: How will the follow-up be conducted?
       hint: null
       type: select_one
       options:
-      - Method 1
-      - Method 2
-      - Method 3
-      required: false
-    - id: 24
-      name: follow_up_status
-      label: follow_up_status
-      hint: null
-      type: select_one
-      options:
-      - Status 1
-      - Status 2
-      - Status 3
-      required: false
-    - id: 25
+      - Phone Call
+      - Email
+      - Meeting
+      required: true
+    - id: 13
       name: follow_up_comments
-      label: follow_up_comments
+      label: Please enter any follow-up comments
       hint: null
       type: text
       options: []
-      required: false
+      required: true

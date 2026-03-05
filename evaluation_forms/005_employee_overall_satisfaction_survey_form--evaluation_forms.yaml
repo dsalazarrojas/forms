@@ -23,31 +23,137 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - very likely
+      - somewhat likely
+      - not likely
+      - not at all
       required: false
     - id: 4
       name: overall_happiness_2
-      label: Overall Happiness
+      label: Overall Happiness 2
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 5
       name: mission_understanding_2
-      label: Mission Understanding
+      label: Mission Understanding 2
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: recommend_company_2
-      label: Recommend Company
+      label: Recommend Company 2
       hint: null
       type: select_multiple
       options:
-      - option4
-      - option5
-      - option6
+      - very likely
+      - somewhat likely
+      - not likely
+      - not at all
+      required: false
+    - id: 7
+      name: work_life_balance
+      label: Work-Life Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback_from_manager
+      label: Feedback from Manager
+      hint: null
+      type: select_multiple
+      options:
+      - often
+      - occasionally
+      - rarely
+      required: true
+    - id: 9
+      name: growth_opportunities
+      label: Growth Opportunities
+      hint: null
+      type: select_one
+      options:
+      - strongly agree
+      - somewhat agree
+      - neutral
+      - somewhat disagree
+      - strongly disagree
+      required: false
+    - id: 10
+      name: feedback_importance
+      label: Feedback Importance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: communication
+      label: Communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: growth_opportunities_2
+      label: Growth Opportunities 2
+      hint: null
+      type: select_one
+      options:
+      - strongly agree
+      - somewhat agree
+      - neutral
+      - somewhat disagree
+      - strongly disagree
+      required: false
+    - id: 13
+      name: report_issues
+      label: Report Issues
+      hint: null
+      type: select_one
+      options:
+      - very likely
+      - somewhat likely
+      - not likely
+      - not at all
+      required: false
+    - id: 14
+      name: empowered_to_own_work
+      label: Empowered to Own Work
+      hint: null
+      type: select_multiple
+      options:
+      - often
+      - occasionally
+      - rarely
+      required: true
+    - id: 15
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: communication_2
+      label: Communication 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: support_growth
+      label: Support for Growth
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: support_growth_2
+      label: Support Growth 2
+      hint: null
+      type: number
+      options: []
       required: false

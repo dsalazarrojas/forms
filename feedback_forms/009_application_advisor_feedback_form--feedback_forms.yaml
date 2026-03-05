@@ -1,86 +1,88 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Application Advisor Feedback Form
     pages:
-      - id: 1
-        name: student_name
-        label: Student name
-        hint: Full name of the student
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: advisor_name
-        label: Advisor name
-        hint: Name of the assigned advisor
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: meeting_date
-        label: Meeting date
-        hint: Date of the advising session
-        type: date
-        options: []
-        required: false
-      - id: 4
-        name: satisfaction_rating
-        label: Satisfaction rating
-        hint: Rate overall satisfaction with advising
-        type: select_one
-        options: [Very satisfied, Satisfied, Neutral, Dissatisfied, Very dissatisfied]
-        required: true
-      - id: 5
-        name: clarity_of_advice
-        label: Clarity of advice
-        hint: Was the guidance clear and actionable
-        type: select_one
-        options: [Yes, No, Partly]
-        required: true
-      - id: 6
-        name: usefulness
-        label: Usefulness of recommendations
-        hint: How helpful were the recommendations
-        type: select_one
-        options: [Very useful, Somewhat useful, Not useful]
-        required: true
-      - id: 7
-        name: improvements_suggested
-        label: Improvements suggested
-        hint: Suggestions to improve advising
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: follow_up_needed
-        label: Follow up needed
-        hint: Is further follow up required
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 9
-        name: follow_up_actions
-        label: Follow up actions
-        hint: Describe next steps if follow up is needed
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: additional_comments
-        label: Additional comments
-        hint: Any other feedback
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: Full name of the student
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: advisor_name
+      label: Advisor name
+      hint: Name of the assigned advisor
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_date
+      label: Meeting date
+      hint: Date of the advising session
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_rating
+      label: Satisfaction rating
+      hint: Rate overall satisfaction with advising
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 5
+      name: clarity_of_advice
+      label: Clarity of advice
+      hint: Was the guidance clear and actionable
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partly
+      required: true
+    - id: 6
+      name: usefulness
+      label: Usefulness of recommendations
+      hint: How helpful were the recommendations
+      type: select_one
+      options:
+      - Very useful
+      - Somewhat useful
+      - Not useful
+      required: true
+    - id: 7
+      name: improvements_suggested
+      label: Improvements suggested
+      hint: Suggestions to improve advising
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_needed
+      label: Follow up needed
+      hint: Is further follow up required
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: follow_up_actions
+      label: Follow up actions
+      hint: Describe next steps if follow up is needed
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

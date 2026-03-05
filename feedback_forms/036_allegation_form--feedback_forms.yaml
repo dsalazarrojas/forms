@@ -125,8 +125,8 @@ inputSchema:
       hint: Anyone else present?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: witness_names
@@ -197,7 +197,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I consent
-      - false
+      - 'False'
       required: true
     - id: 24
       name: confidentiality_request
@@ -232,8 +232,8 @@ inputSchema:
       hint: Are you pursuing legal options?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Undecided
       required: false
     - id: 28

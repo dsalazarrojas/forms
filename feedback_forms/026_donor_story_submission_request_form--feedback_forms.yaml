@@ -84,7 +84,7 @@ inputSchema:
       required: false
     - id: 11
       name: submission_form_options
-      label: None
+      label: Submission Form Options
       hint: null
       type: select_one
       options:
@@ -105,15 +105,13 @@ inputSchema:
       required: false
     - id: 13
       name: additional_info_options
-      label: None
+      label: Additional Info Options
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 14
       name: assigned_form
@@ -124,7 +122,7 @@ inputSchema:
       required: false
     - id: 15
       name: assigned_form_label
-      label: None
+      label: Assigned Form Label
       hint: null
       type: text
       options: []

@@ -4,96 +4,96 @@ inputSchema:
     title: covid_19_waxing_boutique_waiver_form
     pages:
     - id: 1
-      name: covid_19_waxing_boutique_waiver_form_1
-      label: covid_19_waxing_boutique_waiver_form_1
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 2
       name: medical_conditions
-      label: medical_conditions
+      label: medical conditions
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''High Blood Pressure''}'
-      - '{''label'': ''Diabetes''}'
-      - '{''label'': ''Allergic Reaction''}'
+      - High Blood Pressure
+      - Diabetes
+      - Allergic Reaction
+      - None
       required: true
-    - id: 3
-      name: allergies
+    - id: 2
+      name: medical_allergies
       label: allergies
       hint: null
       type: text
       options: []
       required: true
-    - id: 4
+    - id: 3
       name: medical_facility_name
-      label: medical_facility_name
+      label: doctor's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_facility_address
+      label: medical facility address
       hint: null
       type: text
       options: []
       required: true
     - id: 5
-      name: medical_facility_address
-      label: medical_facility_address
+      name: medical_facility_phone
+      label: phone number
       hint: null
       type: text
       options: []
       required: true
     - id: 6
-      name: medical_facility_phone
-      label: medical_facility_phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
       name: medical_facility_email
-      label: medical_facility_email
+      label: email
       hint: null
       type: email
       options: []
       required: true
-    - id: 8
+    - id: 7
       name: medical_facility_license
-      label: medical_facility_license
+      label: license
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_facility_state_license
+      label: state license
       hint: null
       type: text
       options: []
       required: true
     - id: 9
-      name: medical_facility_state_license
-      label: medical_facility_state_license
+      name: medical_facility_city
+      label: city
       hint: null
       type: text
       options: []
       required: true
     - id: 10
-      name: medical_facility_city
-      label: medical_facility_city
+      name: medical_facility_zip
+      label: zip code
       hint: null
       type: text
       options: []
       required: true
     - id: 11
-      name: medical_facility_zip
-      label: medical_facility_zip
+      name: medical_facility_country
+      label: country
       hint: null
       type: text
       options: []
       required: true
     - id: 12
-      name: medical_facility_country
-      label: medical_facility_country
+      name: medical_facility_state
+      label: state
       hint: null
       type: text
       options: []
       required: true
     - id: 13
-      name: medical_facility_state
-      label: medical_facility_state
+      name: medical_facility_federal_license
+      label: federal license
       hint: null
       type: text
       options: []
@@ -106,78 +106,8 @@ inputSchema:
       options: []
       required: false
     - id: 15
-      name: medical_facility_federal_license
-      label: medical_facility_federal_license
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: medical_facility_city
-      label: medical_facility_city
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: medical_facility_state
-      label: medical_facility_state
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: medical_facility_address
-      label: medical_facility_address
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: medical_facility_license
-      label: medical_facility_license
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: medical_facility_fax_number
-      label: medical_facility_fax_number
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: medical_facility_country
-      label: medical_facility_country
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: medical_facility_state
-      label: medical_facility_state
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: medical_facility_phone_number
-      label: medical_facility_phone_number
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: medical_facility_email
-      label: medical_facility_email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 25
       name: medical_facility_website
-      label: medical_facility_website
+      label: website
       hint: null
       type: text
       options: []

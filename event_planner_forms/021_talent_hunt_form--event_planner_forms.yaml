@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Full-time''}'
-      - '{''id'': 2, ''name'': ''Part-time''}'
-      - '{''id'': 3, ''name'': ''Freelance''}'
+      - Full-time
+      - Part-time
+      - Freelance
       required: true
     - id: 8
       name: availability
@@ -61,13 +61,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Monday''}'
-      - '{''id'': 2, ''name'': ''Tuesday''}'
-      - '{''id'': 3, ''name'': ''Wednesday''}'
-      - '{''id'': 4, ''name'': ''Thursday''}'
-      - '{''id'': 5, ''name'': ''Friday''}'
-      - '{''id'': 6, ''name'': ''Saturday''}'
-      - '{''id'': 7, ''name'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: true
     - id: 9
       name: preferred_work_location
@@ -103,8 +103,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Weeks''}'
-      - '{''id'': 2, ''name'': ''Months''}'
+      - Weeks
+      - Months
       required: false
     - id: 14
       name: notice_start_date
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''days''}'
-      - '{''id'': 2, ''name'': ''weeks''}'
-      - '{''id'': 3, ''name'': ''months''}'
+      - days
+      - weeks
+      - months
       required: false
     - id: 16
       name: notice_end_date
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''days''}'
-      - '{''id'': 2, ''name'': ''weeks''}'
-      - '{''id'': 3, ''name'': ''months''}'
+      - days
+      - weeks
+      - months
       required: false
     - id: 18
       name: notice_period_type
@@ -146,8 +146,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Regular''}'
-      - '{''id'': 2, ''name'': ''Temporary''}'
+      - Regular
+      - Temporary
       required: true
     - id: 19
       name: work_schedule
@@ -183,9 +183,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Full-time''}'
-      - '{''id'': 2, ''name'': ''Part-time''}'
-      - '{''id'': 3, ''name'': ''Freelance''}'
+      - Full-time
+      - Part-time
+      - Freelance
       required: false
     - id: 24
       name: contact_email

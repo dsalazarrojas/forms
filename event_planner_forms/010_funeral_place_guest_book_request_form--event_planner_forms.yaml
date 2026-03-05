@@ -4,34 +4,16 @@ inputSchema:
     title: Funeral Place Guest Book Request Form
     pages:
     - id: 1
-      name: funeral_place_guest_book_request_form_fields
-      label: funeral_place_guest_book_request_form_fields
-      hint: null
+      name: name
+      label: Name
+      hint: Please enter your name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: name
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: name
-      label: name
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
       name: relationship_to_deceased
-      label: relationship_to_deceased
-      hint: null
+      label: Relationship to Deceased
+      hint: How are you related to the deceased?
       type: select_one
       options:
       - Deceased Spouse
@@ -39,163 +21,71 @@ inputSchema:
       - Deceased Parent
       - Deceased Grandparent
       - Deceased Sibling
-      - Deceased Grandchild
-      - Deceased Parent-in-law
       - Deceased Grandparent-in-law
-      - Other
+      - Other (please specify)
+      - Deceased Grandchild
+      required: true
+    - id: 3
+      name: attended_funeral_service
+      label: Attended Funeral Service
+      hint: Please indicate if you attended the funeral service
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: attended_viewing
+      label: Attended Viewing
+      hint: Please indicate if you attended the viewing
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 5
-      name: name
-      label: name
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      name: contact_information
+      label: Contact Information
+      hint: Please provide your contact information
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: name
-      label: name
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      name: message_for_family
+      label: Special Message or Memory of Deceased
+      hint: Please share a special message or memory of the deceased
+      type: text
+      options: []
       required: false
     - id: 7
-      name: name
-      label: name
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: name
-      label: name
-      hint: null
+      name: attended_other_events
+      label: Attended Other Events
+      hint: Please indicate if you attended other events
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: other_events_attended
+      label: Other Events Attended
+      hint: Please specify which other events you attended
+      type: text
+      options: []
       required: false
     - id: 9
-      name: name
-      label: name
-      hint: null
+      name: how_did_you_hear
+      label: How did you hear about the funeral?
+      hint: Please specify how you heard about the funeral
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
+      name: receive_updates
+      label: Would you like to receive updates from the family?
+      hint: Please indicate if you would like to receive updates
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false

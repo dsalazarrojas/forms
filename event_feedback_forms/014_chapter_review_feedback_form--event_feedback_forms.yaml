@@ -1,98 +1,87 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Chapter Review Feedback Form
     pages:
-      - id: 1
-        name: section_header
-        label: -- Chapter Review Feedback --
-        hint: Collect feedback from attendees or members after a chapter event
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_name
-        label: respondent name
-        hint: optional for anonymous feedback
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: event_date
-        label: event date
-        hint: date of the chapter meeting or event
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: overall_satisfaction
-        label: overall satisfaction
-        hint: rate your overall satisfaction
-        type: select_one
-        options:
-          - Very dissatisfied
-          - Dissatisfied
-          - Neutral
-          - Satisfied
-          - Very satisfied
-        required: true
-      - id: 5
-        name: top_highlights
-        label: top highlights
-        hint: what worked well during the meeting
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: areas_for_improvement
-        label: areas for improvement
-        hint: suggestions to improve future meetings
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: volunteer_interest
-        label: volunteer interest
-        hint: would you be interested in volunteering
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Maybe
-        required: false
-      - id: 8
-        name: session_relevance
-        label: session relevance
-        hint: how relevant were the topics covered
-        type: select_one
-        options:
-          - Not relevant
-          - Somewhat relevant
-          - Relevant
-          - Highly relevant
-        required: true
-      - id: 9
-        name: additional_comments
-        label: additional comments
-        hint: any other feedback
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: follow_up_contact
-        label: follow up contact
-        hint: if you want a response, provide email
-        type: email
-        options: []
-        required: false
+    - id: 1
+      name: section_header
+      label: -- Chapter Review Feedback --
+      hint: Collect feedback from attendees or members after a chapter event
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: respondent name
+      hint: optional for anonymous feedback
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: event date
+      hint: date of the chapter meeting or event
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: overall_satisfaction
+      label: overall satisfaction
+      hint: rate your overall satisfaction
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very satisfied
+      required: true
+    - id: 5
+      name: top_highlights
+      label: top highlights
+      hint: what worked well during the meeting
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: areas_for_improvement
+      label: areas for improvement
+      hint: suggestions to improve future meetings
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_interest
+      label: volunteer interest
+      hint: would you be interested in volunteering
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 8
+      name: session_relevance
+      label: session relevance
+      hint: how relevant were the topics covered
+      type: select_one
+      options:
+      - Not relevant
+      - Somewhat relevant
+      - Relevant
+      - Highly relevant
+      required: true
+    - id: 9
+      name: additional_comments
+      label: additional comments
+      hint: any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_contact
+      label: follow up contact
+      hint: if you want a response, provide email
+      type: email
+      options: []
+      required: false

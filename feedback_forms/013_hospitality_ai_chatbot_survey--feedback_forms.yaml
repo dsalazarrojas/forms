@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Never''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Often''}'
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
       required: false
     - id: 3
       name: user_experience
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Chatbot Response''}'
-      - '{''label'': ''Contextualization''}'
-      - '{''label'': ''Customization''}'
-      - '{''label'': ''Integration with third-party services''}'
+      - Chatbot Response
+      - Contextualization
+      - Customization
+      - Integration with third-party services
       required: false
     - id: 5
       name: interaction_type
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Text''}'
-      - '{''label'': ''Voice''}'
-      - '{''label'': ''Visual''}'
+      - Text
+      - Voice
+      - Visual
       required: false
     - id: 6
       name: feedback_type
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Technical''}'
-      - '{''label'': ''Functional''}'
-      - '{''label'': ''User Experience''}'
+      - Technical
+      - Functional
+      - User Experience
       required: false
     - id: 7
       name: rating
@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Chat''}'
+      - Phone
+      - Email
+      - Chat
       required: false
     - id: 10
       name: email_address

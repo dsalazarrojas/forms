@@ -1,239 +1,228 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Athlete Mentorship Program Feedback Survey
     pages:
-      - id: 1
-        name: participation_header
-        label: -- Program Participation Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: participant_name
-        label: Your Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: partner_name
-        label: Mentor or Mentee Name
-        hint: The person you were paired with
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: participant_role
-        label: Your Role in the Program
-        hint: null
-        type: select_one
-        options:
-          - Mentor
-          - Mentee
-        required: true
-      - id: 5
-        name: program_duration
-        label: Duration of Participation
-        hint: null
-        type: select_one
-        options:
-          - 1 to 3 months
-          - 4 to 6 months
-          - 7 to 12 months
-          - More than 1 year
-        required: true
-      - id: 6
-        name: communication_header
-        label: -- Relationship and Communication --
-        hint: 1 is Poor, 5 is Excellent
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: interaction_frequency
-        label: Frequency of Interaction
-        hint: How often did you meet or communicate?
-        type: select_one
-        options:
-          - Multiple times per week
-          - Once per week
-          - Bi-weekly
-          - Once per month
-          - Occasionally
-        required: true
-      - id: 8
-        name: communication_quality
-        label: Quality of Communication
-        hint: null
-        type: select_one
-        options:
-          - 1 - Poor
-          - 2 - Fair
-          - 3 - Satisfactory
-          - 4 - Good
-          - 5 - Excellent
-        required: true
-      - id: 9
-        name: scheduling_ease
-        label: Ease of Scheduling Meetings
-        hint: null
-        type: select_one
-        options:
-          - 1 - Difficult
-          - 2 - Somewhat Difficult
-          - 3 - Neutral
-          - 4 - Easy
-          - 5 - Very Easy
-        required: true
-      - id: 10
-        name: support_feeling
-        label: Feeling of Support from your Partner
-        hint: null
-        type: select_one
-        options:
-          - 1 - No support
-          - 2 - Minimal support
-          - 3 - Moderate support
-          - 4 - Strong support
-          - 5 - Exceptional support
-        required: true
-      - id: 11
-        name: impact_header
-        label: -- Impact and Development --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: goal_achievement
-        label: Achievement of Initial Program Goals
-        hint: null
-        type: select_one
-        options:
-          - 1 - No progress
-          - 2 - Some progress
-          - 3 - Moderate achievement
-          - 4 - Significant achievement
-          - 5 - Goals exceeded
-        required: true
-      - id: 13
-        name: athletic_improvement
-        label: Improvement in Athletic Performance
-        hint: Resulting from the mentorship
-        type: select_one
-        options:
-          - 1 - No change
-          - 2 - Slight improvement
-          - 3 - Moderate improvement
-          - 4 - Significant improvement
-          - 5 - Exceptional improvement
-        required: true
-      - id: 14
-        name: personal_improvement
-        label: Improvement in Personal Development
-        hint: Life skills, mindset, etc.
-        type: select_one
-        options:
-          - 1 - No change
-          - 2 - Slight improvement
-          - 3 - Moderate improvement
-          - 4 - Significant improvement
-          - 5 - Exceptional improvement
-        required: true
-      - id: 15
-        name: most_valuable_aspect
-        label: Most Valuable Aspect of the Program
-        hint: What did you find most helpful?
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: program_challenges
-        label: Challenges Faced during the Program
-        hint: Any obstacles to your success?
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: management_header
-        label: -- Program Management --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 18
-        name: orientation_satisfaction
-        label: Satisfaction with Initial Training and Orientation
-        hint: null
-        type: select_one
-        options:
-          - 1 - Dissatisfied
-          - 2 - Neutral
-          - 3 - Satisfied
-          - 4 - Very Satisfied
-        required: true
-      - id: 19
-        name: admin_support_satisfaction
-        label: Satisfaction with Administrative Support
-        hint: Staff responsiveness and resources
-        type: select_one
-        options:
-          - 1 - Dissatisfied
-          - 2 - Neutral
-          - 3 - Satisfied
-          - 4 - Very Satisfied
-        required: true
-      - id: 20
-        name: improvement_suggestions
-        label: Suggestions for Program Improvement
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: recommendation_status
-        label: Would you recommend this program to other athletes?
-        hint: null
-        type: select_one
-        options:
-          - Yes, definitely
-          - Yes, with reservations
-          - No
-        required: true
-      - id: 22
-        name: future_interest
-        label: Future Participation Interest
-        hint: Would you participate again in a future cycle?
-        type: select_one
-        options:
-          - Yes
-          - Maybe
-          - No
-        required: true
-      - id: 23
-        name: additional_comments
-        label: Any additional comments or feedback?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 24
-        name: survey_date
-        label: Date of Feedback
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: participation_header
+      label: -- Program Participation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: partner_name
+      label: Mentor or Mentee Name
+      hint: The person you were paired with
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_role
+      label: Your Role in the Program
+      hint: null
+      type: select_one
+      options:
+      - Mentor
+      - Mentee
+      required: true
+    - id: 5
+      name: program_duration
+      label: Duration of Participation
+      hint: null
+      type: select_one
+      options:
+      - 1 to 3 months
+      - 4 to 6 months
+      - 7 to 12 months
+      - More than 1 year
+      required: true
+    - id: 6
+      name: communication_header
+      label: -- Relationship and Communication --
+      hint: 1 is Poor, 5 is Excellent
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: interaction_frequency
+      label: Frequency of Interaction
+      hint: How often did you meet or communicate?
+      type: select_one
+      options:
+      - Multiple times per week
+      - Once per week
+      - Bi-weekly
+      - Once per month
+      - Occasionally
+      required: true
+    - id: 8
+      name: communication_quality
+      label: Quality of Communication
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Satisfactory
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 9
+      name: scheduling_ease
+      label: Ease of Scheduling Meetings
+      hint: null
+      type: select_one
+      options:
+      - 1 - Difficult
+      - 2 - Somewhat Difficult
+      - 3 - Neutral
+      - 4 - Easy
+      - 5 - Very Easy
+      required: true
+    - id: 10
+      name: support_feeling
+      label: Feeling of Support from your Partner
+      hint: null
+      type: select_one
+      options:
+      - 1 - No support
+      - 2 - Minimal support
+      - 3 - Moderate support
+      - 4 - Strong support
+      - 5 - Exceptional support
+      required: true
+    - id: 11
+      name: impact_header
+      label: -- Impact and Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: goal_achievement
+      label: Achievement of Initial Program Goals
+      hint: null
+      type: select_one
+      options:
+      - 1 - No progress
+      - 2 - Some progress
+      - 3 - Moderate achievement
+      - 4 - Significant achievement
+      - 5 - Goals exceeded
+      required: true
+    - id: 13
+      name: athletic_improvement
+      label: Improvement in Athletic Performance
+      hint: Resulting from the mentorship
+      type: select_one
+      options:
+      - 1 - No change
+      - 2 - Slight improvement
+      - 3 - Moderate improvement
+      - 4 - Significant improvement
+      - 5 - Exceptional improvement
+      required: true
+    - id: 14
+      name: personal_improvement
+      label: Improvement in Personal Development
+      hint: Life skills, mindset, etc.
+      type: select_one
+      options:
+      - 1 - No change
+      - 2 - Slight improvement
+      - 3 - Moderate improvement
+      - 4 - Significant improvement
+      - 5 - Exceptional improvement
+      required: true
+    - id: 15
+      name: most_valuable_aspect
+      label: Most Valuable Aspect of the Program
+      hint: What did you find most helpful?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: program_challenges
+      label: Challenges Faced during the Program
+      hint: Any obstacles to your success?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: management_header
+      label: -- Program Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: orientation_satisfaction
+      label: Satisfaction with Initial Training and Orientation
+      hint: null
+      type: select_one
+      options:
+      - 1 - Dissatisfied
+      - 2 - Neutral
+      - 3 - Satisfied
+      - 4 - Very Satisfied
+      required: true
+    - id: 19
+      name: admin_support_satisfaction
+      label: Satisfaction with Administrative Support
+      hint: Staff responsiveness and resources
+      type: select_one
+      options:
+      - 1 - Dissatisfied
+      - 2 - Neutral
+      - 3 - Satisfied
+      - 4 - Very Satisfied
+      required: true
+    - id: 20
+      name: improvement_suggestions
+      label: Suggestions for Program Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: recommendation_status
+      label: Would you recommend this program to other athletes?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, with reservations
+      - 'False'
+      required: true
+    - id: 22
+      name: future_interest
+      label: Future Participation Interest
+      hint: Would you participate again in a future cycle?
+      type: select_one
+      options:
+      - 'True'
+      - Maybe
+      - 'False'
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Any additional comments or feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: survey_date
+      label: Date of Feedback
+      hint: null
+      type: date
+      options: []
+      required: true

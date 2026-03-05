@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Session A''}'
-      - '{''id'': 2, ''label'': ''Session B''}'
-      - '{''id'': 3, ''label'': ''Session C''}'
+      - Session A
+      - Session B
+      - Session C
       required: true
     - id: 6
       name: contact_email
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''AI/ML''}'
-      - '{''id'': 2, ''label'': ''Data Science''}'
-      - '{''id'': 3, ''label'': ''Cybersecurity''}'
-      - '{''id'': 4, ''label'': ''Networking''}'
+      - AI/ML
+      - Data Science
+      - Cybersecurity
+      - Networking
       required: true
     - id: 10
       name: follow_up
@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: comments
@@ -116,8 +116,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: contact_twitter

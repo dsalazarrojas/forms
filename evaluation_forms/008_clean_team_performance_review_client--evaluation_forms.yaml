@@ -1,98 +1,87 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: CLEAN TEAM Performance Review Client
     pages:
-      - id: 1
-        name: header
-        label: -- Client Feedback --
-        hint: Client evaluation of services provided by Clean Team
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: client_name
-        label: Client name
-        hint: Organization or individual providing feedback
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: service_date
-        label: Service date
-        hint: Date services were provided
-        type: date
-        options: []
-        required: false
-      - id: 4
-        name: service_quality
-        label: Service quality
-        hint: Rate the overall quality of service
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 5
-        name: timeliness
-        label: Timeliness of service
-        hint: Was the team punctual and on schedule
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 6
-        name: communication
-        label: Communication clarity
-        hint: Rate communication and professionalism
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 7
-        name: issues_reported
-        label: Issues reported
-        hint: Describe any problems encountered
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: recommendations
-        label: Recommendations
-        hint: Suggestions for improvement
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: would_recommend
-        label: Would recommend service
-        hint: Client willingness to recommend
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 10
-        name: client_contact
-        label: Client contact
-        hint: Phone or email for follow up
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: header
+      label: -- Client Feedback --
+      hint: Client evaluation of services provided by Clean Team
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Organization or individual providing feedback
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_date
+      label: Service date
+      hint: Date services were provided
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: service_quality
+      label: Service quality
+      hint: Rate the overall quality of service
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: timeliness
+      label: Timeliness of service
+      hint: Was the team punctual and on schedule
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: communication
+      label: Communication clarity
+      hint: Rate communication and professionalism
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: issues_reported
+      label: Issues reported
+      hint: Describe any problems encountered
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendations
+      label: Recommendations
+      hint: Suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: would_recommend
+      label: Would recommend service
+      hint: Client willingness to recommend
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: client_contact
+      label: Client contact
+      hint: Phone or email for follow up
+      type: text
+      options: []
+      required: false

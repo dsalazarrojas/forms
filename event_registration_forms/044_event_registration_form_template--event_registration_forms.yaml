@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: event_status
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: contact_name
@@ -150,42 +150,42 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: event_status
-      label: Event Status
+      name: event_status_2
+      label: Event Status 2
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 22
-      name: event_tags
-      label: Event Tags
+      name: event_tags_2
+      label: Event Tags 2
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 23
-      name: event_description
-      label: Event Description
+      name: event_description_2
+      label: Event Description 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: event_location
-      label: Event Location
+      name: event_location_2
+      label: Event Location 2
       hint: null
       type: text
       options: []
       required: false
     - id: 25
-      name: event_start_time
-      label: Event Start Time
+      name: event_start_time_2
+      label: Event Start Time 2
       hint: null
       type: time
       options: []

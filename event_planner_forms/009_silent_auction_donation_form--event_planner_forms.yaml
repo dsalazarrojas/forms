@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Individual''}'
-      - '{''id'': 2, ''name'': ''Business''}'
-      - '{''id'': 3, ''name'': ''Organization''}'
+      - Individual
+      - Business
+      - Organization
       required: false
     - id: 6
       name: donation_type
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Prize''}'
-      - '{''id'': 2, ''name'': ''Gift''}'
-      - '{''id'': 3, ''name'': ''Grant''}'
+      - Prize
+      - Gift
+      - Grant
       required: false
     - id: 7
       name: contact_email

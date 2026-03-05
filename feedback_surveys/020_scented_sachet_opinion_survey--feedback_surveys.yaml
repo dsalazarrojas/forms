@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option-1
-      - option-2
-      - option-3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: usage_habit
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option-1
-      - option-2
-      - option-3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: satisfaction_level
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option-1
-      - option-2
-      - option-3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
       name: usage_habits
@@ -67,27 +67,27 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option-1
-      - option-2
-      - option-3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
-      name: satisfaction_level
-      label: satisfaction-level
+      name: satisfaction_level_2
+      label: Satisfaction Level 2
       hint: null
       type: number
       options: []
       required: false
     - id: 10
-      name: follow_up_contact
-      label: follow-up-contact
+      name: follow_up_contact_2
+      label: Follow Up Contact 2
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: recommendation
-      label: recommendation
+      name: recommendation_2
+      label: Recommendation 2
       hint: null
       type: text
       options: []
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option-1
-      - option-2
-      - option-3
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 17
       name: follow_up_follow_up_date
@@ -178,9 +178,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option-1
-      - option-2
-      - option-3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 24
       name: follow_up_follow_up_preference

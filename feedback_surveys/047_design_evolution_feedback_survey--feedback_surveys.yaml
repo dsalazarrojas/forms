@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''design layout'', ''label'': ''Layout''}'
-      - '{''id'': 2, ''name'': ''visual style'', ''label'': ''Visual style''}'
-      - '{''id'': 3, ''name'': ''functionality'', ''label'': ''Functionality''}'
-      - '{''id'': 4, ''name'': ''user experience'', ''label'': ''User experience''}'
+      - Layout
+      - Visual style
+      - Functionality
+      - User experience
       required: true
     - id: 4
       name: feedback
@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''submit'', ''label'': ''Submit''}'
-      - '{''id'': 2, ''name'': ''cancel'', ''label'': ''Cancel''}'
+      - Submit
+      - Cancel
       required: true
     - id: 7
       name: email

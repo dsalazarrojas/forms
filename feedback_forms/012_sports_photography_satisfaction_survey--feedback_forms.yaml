@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good'', ''value'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor'', ''value'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 3
       name: professionalism
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good'', ''value'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor'', ''value'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 4
       name: delivery_time
@@ -38,9 +38,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Fast'', ''value'': ''Fast''}'
-      - '{''id'': 2, ''label'': ''Average'', ''value'': ''Average''}'
-      - '{''id'': 3, ''label'': ''Slow'', ''value'': ''Slow''}'
+      - Fast
+      - Average
+      - Slow
       required: false
     - id: 5
       name: overall_satisfaction
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Satisfied'', ''value'': ''Satisfied''}'
-      - '{''id'': 2, ''label'': ''Neutral'', ''value'': ''Neutral''}'
-      - '{''id'': 3, ''label'': ''Dissatisfied'', ''value'': ''Dissatisfied''}'
+      - Satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 6
       name: additional_comments

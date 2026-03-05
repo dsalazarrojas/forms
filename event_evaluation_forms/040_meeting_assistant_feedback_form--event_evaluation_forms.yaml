@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Positive'', ''value'': 1}'
-      - '{''label'': ''Neutral'', ''value'': 2}'
-      - '{''label'': ''Negative'', ''value'': 3}'
+      - Positive
+      - Neutral
+      - Negative
       required: false
     - id: 5
       name: meeting_facilities
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good'', ''value'': 1}'
-      - '{''label'': ''Fair'', ''value'': 2}'
-      - '{''label'': ''Not Available'', ''value'': 3}'
+      - Good
+      - Fair
+      - Not Available
       required: false
     - id: 6
       name: suggestion

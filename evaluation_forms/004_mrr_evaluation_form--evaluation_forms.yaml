@@ -16,18 +16,18 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''January''}'
-      - '{''label'': ''February''}'
-      - '{''label'': ''March''}'
-      - '{''label'': ''April''}'
-      - '{''label'': ''May''}'
-      - '{''label'': ''June''}'
-      - '{''label'': ''July''}'
-      - '{''label'': ''August''}'
-      - '{''label'': ''September''}'
-      - '{''label'': ''October''}'
-      - '{''label'': ''November''}'
-      - '{''label'': ''December''}'
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
       required: false
     - id: 3
       name: year
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 2022}'
-      - '{''label'': 2023}'
-      - '{''label'': 2024}'
+      - '2022'
+      - '2023'
+      - '2024'
       required: false
     - id: 4
       name: revenue
@@ -101,11 +101,10 @@ inputSchema:
       hint: Select the main growth driver for the month
       type: select_multiple
       options:
-      - '{''label'': ''Increase in Average Revenue Per User (ARPU)''}'
-      - '{''label'': ''Increase in User Growth''}'
-      - '{''label'': ''Increase in Average Revenue Per User (ARPU) and Increase in
-        User Growth''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Increase in Average Revenue Per User (ARPU)
+      - Increase in User Growth
+      - Increase in Average Revenue Per User (ARPU) and Increase in User Growth
+      - Other (please specify)
       required: false
     - id: 13
       name: next_steps
@@ -120,8 +119,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''ChatJIMMY''}'
-      - '{''label'': ''Jane Doe''}'
+      - ChatJIMMY
+      - Jane Doe
       required: false
     - id: 15
       name: reviewed_by
@@ -129,6 +128,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''ChatJIMMY''}'
-      - '{''label'': ''Jane Doe''}'
+      - ChatJIMMY
+      - Jane Doe
       required: false

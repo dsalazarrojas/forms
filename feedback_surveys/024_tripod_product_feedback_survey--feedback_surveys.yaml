@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Poor''}'
-      - '{''value'': ''Fair''}'
-      - '{''value'': ''Good''}'
-      - '{''value'': ''Very Good''}'
-      - '{''value'': ''Excellent''}'
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
       required: false
     - id: 3
       name: rating_scale
@@ -28,11 +28,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Quality Issues''}'
-      - '{''value'': ''Functionality Issues''}'
-      - '{''value'': ''Design Issues''}'
-      - '{''value'': ''Not Enough Features''}'
-      - '{''value'': ''Other''}'
+      - Quality Issues
+      - Functionality Issues
+      - Design Issues
+      - Not Enough Features
+      - Other
       required: false
     - id: 4
       name: email
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Windows''}'
-      - '{''value'': ''Linux''}'
-      - '{''value'': ''macOS''}'
+      - Windows
+      - Linux
+      - macOS
       required: false
     - id: 11
       name: device_type
@@ -92,10 +92,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Camera''}'
-      - '{''value'': ''Monitor''}'
-      - '{''value'': ''Tripod''}'
-      - '{''value'': ''Other''}'
+      - Camera
+      - Monitor
+      - Tripod
+      - Other
       required: false
     - id: 12
       name: tripod_model

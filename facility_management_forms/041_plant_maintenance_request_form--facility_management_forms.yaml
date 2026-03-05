@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''Repair''}'
-      - '{''id'': 20, ''name'': ''Maintenance''}'
-      - '{''id'': 30, ''name'': ''Scheduling''}'
+      - Repair
+      - Maintenance
+      - Scheduling
       required: false
     - id: 5
       name: request_date
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 40, ''name'': ''High''}'
-      - '{''id'': 50, ''name'': ''Medium''}'
-      - '{''id'': 60, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 8
       name: assigned_to
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 200, ''name'': ''Completed''}'
-      - '{''id'': 210, ''name'': ''In Progress''}'
-      - '{''id'': 220, ''name'': ''Scheduled''}'
+      - Completed
+      - In Progress
+      - Scheduled
       required: false
     - id: 12
       name: note

@@ -1,323 +1,312 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Company Retreat Location Voting Form
     pages:
-      - id: 1
-        name: employee_full_name
-        label: Full Name
-        hint: First and last name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: employee_email
-        label: Email Address
-        hint: Company email
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: department
-        label: Department
-        hint: Your department
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: office_location
-        label: Office Location
-        hint: Where you work
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: retreat_dates
-        label: Proposed Retreat Dates
-        hint: When is the retreat?
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: section_voting
-        label: -- Location Options --
-        hint: Vote for your preferred location
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: first_choice
-        label: First Choice Location
-        hint: Your top preference
-        type: select_one
-        options:
-          - Mountain Resort
-          - Beach Resort
-          - Urban Hotel
-          - Lakeside Retreat
-          - Desert Spa
-          - Countryside Lodge
-          - Conference Center
-          - Other
-        required: true
-      - id: 8
-        name: first_choice_reason
-        label: Why did you choose this location?
-        hint: Your reasoning
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: second_choice
-        label: Second Choice Location
-        hint: Your backup preference
-        type: select_one
-        options:
-          - Mountain Resort
-          - Beach Resort
-          - Urban Hotel
-          - Lakeside Retreat
-          - Desert Spa
-          - Countryside Lodge
-          - Conference Center
-          - Other
-        required: true
-      - id: 10
-        name: third_choice
-        label: Third Choice Location
-        hint: Your third preference
-        type: select_one
-        options:
-          - Mountain Resort
-          - Beach Resort
-          - Urban Hotel
-          - Lakeside Retreat
-          - Desert Spa
-          - Countryside Lodge
-          - Conference Center
-          - Other
-        required: false
-      - id: 11
-        name: section_preferences
-        label: -- Retreat Preferences --
-        hint: Your preferences
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: accommodation_preference
-        label: Accommodation Preference
-        hint: Room type
-        type: select_one
-        options:
-          - Single room
-          - Shared room (2 people)
-          - Shared room (4 people)
-          - No accommodation needed
-          - No preference
-        required: true
-      - id: 13
-        name: dietary_requirements
-        label: Dietary Requirements
-        hint: Any restrictions
-        type: select_multiple
-        options:
-          - None
-          - Vegetarian
-          - Vegan
-          - Gluten-free
-          - Dairy-free
-          - Nut allergy
-          - Halal
-          - Kosher
-          - Other
-        required: true
-      - id: 14
-        name: dietary_details
-        label: Please specify dietary requirements
-        hint: Details
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: activity_interest
-        label: Which activities interest you?
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Team building exercises
-          - Workshops and training
-          - Outdoor adventures
-          - Spa and relaxation
-          - Sports activities
-          - Cultural excursions
-          - Evening entertainment
-          - Free time
-          - Other
-        required: true
-      - id: 16
-        name: activity_not_interested
-        label: Which activities are you NOT interested in?
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Team building exercises
-          - Workshops and training
-          - Outdoor adventures
-          - Spa and relaxation
-          - Sports activities
-          - Cultural excursions
-          - Evening entertainment
-          - None, open to all
-        required: false
-      - id: 17
-        name: section_logistics
-        label: -- Logistics --
-        hint: Travel and accessibility
-        type: note
-        options: []
-        required: false
-      - id: 18
-        name: travel_distance
-        label: How far are you willing to travel?
-        hint: Maximum distance
-        type: select_one
-        options:
-          - Under 1 hour
-          - 1-2 hours
-          - 2-4 hours
-          - 4-8 hours
-          - Any distance
-        required: true
-      - id: 19
-        name: transportation_preference
-        label: Preferred Transportation
-        hint: How to get there
-        type: select_one
-        options:
-          - Company bus
-          - Personal vehicle
-          - Carpool
-          - Flight
-          - Train
-          - No preference
-        required: true
-      - id: 20
-        name: accessibility_needs
-        label: Do you have any accessibility needs?
-        hint: Accommodations
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: section_attendance
-        label: -- Attendance --
-        hint: Your availability
-        type: note
-        options: []
-        required: false
-      - id: 22
-        name: attendance_likelihood
-        label: How likely are you to attend?
-        hint: Attendance probability
-        type: select_one
-        options:
-          - Definitely attending
-          - Probably attending
-          - Unsure
-          - Probably not attending
-          - Definitely not attending
-        required: true
-      - id: 23
-        name: attendance_barriers
-        label: If not attending, what are the barriers?
-        hint: Obstacles
-        type: text
-        options: []
-        required: false
-      - id: 24
-        name: plus_one
-        label: Will you bring a guest (if allowed)?
-        hint: Guest attendance
-        type: select_one
-        options:
-          - No
-          - Yes
-          - Maybe
-          - Not applicable
-        required: false
-      - id: 25
-        name: section_budget
-        label: -- Budget Considerations --
-        hint: Cost preferences
-        type: note
-        options: []
-        required: false
-      - id: 26
-        name: budget_preference
-        label: What is your budget preference?
-        hint: Cost priority
-        type: select_one
-        options:
-          - Lowest cost option
-          - Moderate cost
-          - Premium experience
-          - No preference
-        required: true
-      - id: 27
-        name: willing_to_contribute
-        label: Would you be willing to contribute personally for upgrades?
-        hint: Personal contribution
-        type: select_one
-        options:
-          - No
-          - Yes, for room upgrade
-          - Yes, for activities
-          - Yes, for both
-        required: false
-      - id: 28
-        name: section_suggestions
-        label: -- Suggestions --
-        hint: Your ideas
-        type: note
-        options: []
-        required: false
-      - id: 29
-        name: location_suggestions
-        label: Do you have any location suggestions?
-        hint: Specific venues
-        type: text
-        options: []
-        required: false
-      - id: 30
-        name: activity_suggestions
-        label: What activities would you like to see?
-        hint: Activity ideas
-        type: text
-        options: []
-        required: false
-      - id: 31
-        name: additional_comments
-        label: Any additional comments or concerns?
-        hint: Your thoughts
-        type: text
-        options: []
-        required: false
-      - id: 32
-        name: vote_date
-        label: Vote Date
-        hint: Today's date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: employee_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_email
+      label: Email Address
+      hint: Company email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: office_location
+      label: Office Location
+      hint: Where you work
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: retreat_dates
+      label: Proposed Retreat Dates
+      hint: When is the retreat?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_voting
+      label: -- Location Options --
+      hint: Vote for your preferred location
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: first_choice
+      label: First Choice Location
+      hint: Your top preference
+      type: select_one
+      options:
+      - Mountain Resort
+      - Beach Resort
+      - Urban Hotel
+      - Lakeside Retreat
+      - Desert Spa
+      - Countryside Lodge
+      - Conference Center
+      - Other
+      required: true
+    - id: 8
+      name: first_choice_reason
+      label: Why did you choose this location?
+      hint: Your reasoning
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: second_choice
+      label: Second Choice Location
+      hint: Your backup preference
+      type: select_one
+      options:
+      - Mountain Resort
+      - Beach Resort
+      - Urban Hotel
+      - Lakeside Retreat
+      - Desert Spa
+      - Countryside Lodge
+      - Conference Center
+      - Other
+      required: true
+    - id: 10
+      name: third_choice
+      label: Third Choice Location
+      hint: Your third preference
+      type: select_one
+      options:
+      - Mountain Resort
+      - Beach Resort
+      - Urban Hotel
+      - Lakeside Retreat
+      - Desert Spa
+      - Countryside Lodge
+      - Conference Center
+      - Other
+      required: false
+    - id: 11
+      name: section_preferences
+      label: -- Retreat Preferences --
+      hint: Your preferences
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: accommodation_preference
+      label: Accommodation Preference
+      hint: Room type
+      type: select_one
+      options:
+      - Single room
+      - Shared room (2 people)
+      - Shared room (4 people)
+      - No accommodation needed
+      - No preference
+      required: true
+    - id: 13
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any restrictions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Halal
+      - Kosher
+      - Other
+      required: true
+    - id: 14
+      name: dietary_details
+      label: Please specify dietary requirements
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: activity_interest
+      label: Which activities interest you?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Team building exercises
+      - Workshops and training
+      - Outdoor adventures
+      - Spa and relaxation
+      - Sports activities
+      - Cultural excursions
+      - Evening entertainment
+      - Free time
+      - Other
+      required: true
+    - id: 16
+      name: activity_not_interested
+      label: Which activities are you NOT interested in?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Team building exercises
+      - Workshops and training
+      - Outdoor adventures
+      - Spa and relaxation
+      - Sports activities
+      - Cultural excursions
+      - Evening entertainment
+      - None, open to all
+      required: false
+    - id: 17
+      name: section_logistics
+      label: -- Logistics --
+      hint: Travel and accessibility
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: travel_distance
+      label: How far are you willing to travel?
+      hint: Maximum distance
+      type: select_one
+      options:
+      - Under 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - 4-8 hours
+      - Any distance
+      required: true
+    - id: 19
+      name: transportation_preference
+      label: Preferred Transportation
+      hint: How to get there
+      type: select_one
+      options:
+      - Company bus
+      - Personal vehicle
+      - Carpool
+      - Flight
+      - Train
+      - No preference
+      required: true
+    - id: 20
+      name: accessibility_needs
+      label: Do you have any accessibility needs?
+      hint: Accommodations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_attendance
+      label: -- Attendance --
+      hint: Your availability
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: attendance_likelihood
+      label: How likely are you to attend?
+      hint: Attendance probability
+      type: select_one
+      options:
+      - Definitely attending
+      - Probably attending
+      - Unsure
+      - Probably not attending
+      - Definitely not attending
+      required: true
+    - id: 23
+      name: attendance_barriers
+      label: If not attending, what are the barriers?
+      hint: Obstacles
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: plus_one
+      label: Will you bring a guest (if allowed)?
+      hint: Guest attendance
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      - Maybe
+      - Not applicable
+      required: false
+    - id: 25
+      name: section_budget
+      label: -- Budget Considerations --
+      hint: Cost preferences
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: budget_preference
+      label: What is your budget preference?
+      hint: Cost priority
+      type: select_one
+      options:
+      - Lowest cost option
+      - Moderate cost
+      - Premium experience
+      - No preference
+      required: true
+    - id: 27
+      name: willing_to_contribute
+      label: Would you be willing to contribute personally for upgrades?
+      hint: Personal contribution
+      type: select_one
+      options:
+      - 'False'
+      - Yes, for room upgrade
+      - Yes, for activities
+      - Yes, for both
+      required: false
+    - id: 28
+      name: section_suggestions
+      label: -- Suggestions --
+      hint: Your ideas
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: location_suggestions
+      label: Do you have any location suggestions?
+      hint: Specific venues
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: activity_suggestions
+      label: What activities would you like to see?
+      hint: Activity ideas
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: additional_comments
+      label: Any additional comments or concerns?
+      hint: Your thoughts
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: vote_date
+      label: Vote Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Building''}'
-      - '{''value'': ''Office''}'
-      - '{''value'': ''Office Building''}'
-      - '{''value'': ''Parking Garage''}'
+      - Building
+      - Office
+      - Office Building
+      - Parking Garage
       required: true
     - id: 3
       name: facility_location
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Automatic''}'
-      - '{''value'': ''Manual''}'
-      - '{''value'': ''Automatic Door''}'
-      - '{''value'': ''Manual Door''}'
+      - Automatic
+      - Manual
+      - Automatic Door
+      - Manual Door
       required: true
     - id: 5
       name: door_location
@@ -52,9 +52,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Threshold Reduction''}'
-      - '{''value'': ''Automatic Door Operator''}'
-      - '{''value'': ''Soft Closing''}'
+      - Threshold Reduction
+      - Automatic Door Operator
+      - Soft Closing
       required: false
     - id: 7
       name: comments
@@ -97,6 +97,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Facilities''}'
-      - '{''value'': ''Security''}'
+      - Facilities
+      - Security
       required: true

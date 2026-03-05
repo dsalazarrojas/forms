@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: payment_method
@@ -32,10 +32,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''bank_transfer''}'
-      - '{''id'': 2, ''label'': ''cash''}'
-      - '{''id'': 3, ''label'': ''credit_card''}'
-      - '{''id'': 4, ''label'': ''other''}'
+      - bank transfer
+      - cash
+      - credit card
+      - other
       required: false
     - id: 5
       name: application_fee
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''paid''}'
-      - '{''id'': 2, ''label'': ''pending''}'
-      - '{''id'': 3, ''label'': ''declined''}'
+      - paid
+      - pending
+      - declined
       required: false
     - id: 9
       name: note

@@ -4,186 +4,92 @@ inputSchema:
     title: Travel Blog Video Upload Form
     pages:
     - id: 1
-      name: form_input
-      label: Form Input
+      name: video_title
+      label: Video Title
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: file_attachment
-      label: File
+      name: video_description
+      label: Video Description
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: file_description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: file_type
-      label: Type
+      name: video_type
+      label: Video Type
       hint: null
       type: select_multiple
       options:
       - video
       - image
       - document
-      required: false
+      required: true
+    - id: 4
+      name: video_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 5
-      name: upload_button
-      label: Upload
+      name: video_license
+      label: License
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - all
+      - restricted
+      - public
+      required: true
     - id: 6
-      name: submit
-      label: Submit
+      name: video_author
+      label: Author
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: file_url
-      label: URL
+      name: video_date
+      label: Date
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 8
-      name: file_tags
-      label: Tags
+      name: video_time
+      label: Time
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 9
-      name: file_comments
-      label: Comments
+      name: video_phone
+      label: Phone
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: file_license
-      label: License
-      hint: null
-      type: select_one
-      options:
-      - all
-      - restricted
-      - public
-      required: false
-    - id: 11
-      name: file_author
-      label: Author
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: file_date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: file_time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: file_phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: file_email
+      name: video_email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 16
-      name: file_url
+      required: true
+    - id: 11
+      name: video_url
       label: URL
       hint: null
       type: text
       options: []
-      required: false
-    - id: 17
-      name: file_tags
-      label: Tags
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: file_comments
+      required: true
+    - id: 12
+      name: video_comments
       label: Comments
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
-      name: file_license
-      label: License
-      hint: null
-      type: select_one
-      options:
-      - all
-      - restricted
-      - public
-      required: false
-    - id: 20
-      name: file_author
-      label: Author
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: file_date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: file_time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: file_phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: file_email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: file_url
-      label: URL
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

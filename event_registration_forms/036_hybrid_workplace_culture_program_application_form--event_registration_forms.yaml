@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Team-building''}'
-      - '{''id'': 2, ''label'': ''Training''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Team-building
+      - Training
+      - Other
       required: true
     - id: 5
       name: program_date
@@ -75,10 +75,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Self''}'
-      - '{''id'': 2, ''label'': ''Colleague''}'
-      - '{''id'': 3, ''label'': ''Supervisor''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Self
+      - Colleague
+      - Supervisor
+      - Other
       required: false
     - id: 11
       name: assigned_tool
@@ -86,6 +86,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''tony''}'
+      - chatjimmy
+      - tony
       required: true

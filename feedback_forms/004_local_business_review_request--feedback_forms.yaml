@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '5'
-      - '4'
-      - '3'
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: true
     - id: 4
       name: testimonial
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 6
       name: date
@@ -94,7 +94,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - feedback_forms
+      - feedback forms
       - Other
       required: true
     - id: 13
@@ -124,7 +124,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - feedback_forms
+      - feedback forms
       - Other
       required: true
     - id: 17
@@ -158,31 +158,31 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: form_description
+      name: form_description_2
       label: form form description
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: form_category
-      label: form category
+      name: form_category_2
+      label: Form Category 2
       hint: null
       type: select_one
       options:
-      - feedback_forms
+      - feedback forms
       - Other
       required: true
     - id: 23
-      name: form_output_file
-      label: form output file
+      name: form_output_file_2
+      label: Form Output File 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: form_assigned_tool
-      label: form assigned tool
+      name: form_assigned_tool_2
+      label: Form Assigned Tool 2
       hint: null
       type: select_one
       options:
@@ -190,8 +190,8 @@ inputSchema:
       - Other
       required: false
     - id: 25
-      name: form_form_title
-      label: form form title
+      name: form_form_title_2
+      label: Form Form Title 2
       hint: null
       type: text
       options: []

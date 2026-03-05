@@ -67,10 +67,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Net 10% of Estimate'', ''value'': ''net''}'
-      - '{''label'': ''Net 20% of Estimate'', ''value'': ''net20''}'
-      - '{''label'': ''Gross'', ''value'': ''gross''}'
-      - '{''label'': ''Other (Specify)'', ''value'': ''other''}'
+      - Net 10% of Estimate
+      - Net 20% of Estimate
+      - Gross
+      - Other (Specify)
       required: true
     - id: 10
       name: payment_method
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Check'', ''value'': ''check''}'
-      - '{''label'': ''Electronic Funds Transfer (EFT)'', ''value'': ''eft''}'
-      - '{''label'': ''Other (Specify)'', ''value'': ''other''}'
+      - Check
+      - Electronic Funds Transfer (EFT)
+      - Other (Specify)
       required: true
     - id: 11
       name: payment_terms_notes

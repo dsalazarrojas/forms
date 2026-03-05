@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Funny''}'
-      - '{''id'': 2, ''label'': ''Story''}'
-      - '{''id'': 3, ''label'': ''Joke''}'
+      - Funny
+      - Story
+      - Joke
       required: false
     - id: 5
       name: subcategory
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Funny''}'
-      - '{''id'': 2, ''label'': ''Story''}'
+      - Funny
+      - Story
       required: false
     - id: 6
       name: content_type
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''text''}'
-      - '{''id'': 2, ''label'': ''image''}'
-      - '{''id'': 3, ''label'': ''video''}'
+      - text
+      - image
+      - video
       required: false
     - id: 7
       name: tags
@@ -59,8 +59,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''funny''}'
-      - '{''id'': 2, ''label'': ''story''}'
+      - funny
+      - story
       required: false
     - id: 8
       name: user_name
@@ -89,8 +89,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Online''}'
-      - '{''id'': 2, ''label'': ''Offline''}'
+      - Online
+      - Offline
       required: false
     - id: 12
       name: user_website

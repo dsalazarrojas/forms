@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 2
       name: notification_method
@@ -187,15 +187,15 @@ inputSchema:
       - Other
       required: false
     - id: 21
-      name: favorite_notification_time
-      label: Favorite Notification Time
+      name: favorite_notification_time_2
+      label: Favorite Notification Time 2
       hint: null
       type: time
       options: []
       required: false
     - id: 22
-      name: favorite_notification_method
-      label: Favorite Notification Method
+      name: favorite_notification_method_2
+      label: Favorite Notification Method 2
       hint: null
       type: select_one
       options:
@@ -205,8 +205,8 @@ inputSchema:
       - Other
       required: false
     - id: 23
-      name: no_notifications
-      label: No Notifications
+      name: no_notifications_2
+      label: No Notifications 2
       hint: null
       type: select_one
       options:

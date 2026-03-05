@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Excellent''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
+      - Excellent
+      - Good
+      - Fair
       required: false
     - id: 3
       name: behavioral_changes
@@ -26,8 +26,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: behaviors
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Use electric vehicle''}'
-      - '{''id'': 2, ''name'': ''Use public transportation''}'
-      - '{''id'': 3, ''name'': ''Reduce vehicle usage''}'
+      - Use electric vehicle
+      - Use public transportation
+      - Reduce vehicle usage
       required: false
     - id: 5
       name: time_spent_outdoors
@@ -87,8 +87,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''User''}'
-      - '{''id'': 2, ''name'': ''Guest''}'
+      - User
+      - Guest
       required: false
     - id: 12
       name: submitted_at
@@ -110,6 +110,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Urban''}'
-      - '{''id'': 2, ''name'': ''Rural''}'
+      - Urban
+      - Rural
       required: false

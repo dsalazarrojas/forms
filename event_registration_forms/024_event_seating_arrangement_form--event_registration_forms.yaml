@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''wedding''}'
-      - '{''value'': ''conference''}'
-      - '{''value'': ''festival''}'
+      - wedding
+      - conference
+      - festival
       required: false
     - id: 3
       name: number_of_guests
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''round_table''}'
-      - '{''value'': ''rectangular_table''}'
-      - '{''value'': ''buffet''}'
+      - round table
+      - rectangular table
+      - buffet
       required: false
     - id: 5
       name: table_size
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''small''}'
-      - '{''value'': ''large''}'
-      - '{''value'': ''extra_large''}'
+      - small
+      - large
+      - extra large
       required: false
     - id: 6
       name: table_layout
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''linear''}'
-      - '{''value'': ''u_shaped''}'
-      - '{''value'': ''horseshoe''}'
+      - linear
+      - u shaped
+      - horseshoe
       required: true
     - id: 7
       name: seat_position
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''white''}'
-      - '{''value'': ''black''}'
-      - '{''value'': ''red''}'
+      - white
+      - black
+      - red
       required: false
     - id: 9
       name: chair_type
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''standard''}'
-      - '{''value'': ''vip''}'
-      - '{''value'': ''wheelchair_accessible''}'
+      - standard
+      - vip
+      - wheelchair accessible
       required: false
     - id: 10
       name: tablecloth_type
@@ -92,7 +92,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''plain''}'
-      - '{''value'': ''lace''}'
-      - '{''value'': ''flowers''}'
+      - plain
+      - lace
+      - flowers
       required: false

@@ -11,185 +11,87 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: nurse_educator_name
+      name: nurse_educator
       label: Nurse Educator
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: preceptor
-      label: Preceptor
+      name: worked_with_preceptor
+      label: Have you worked with this preceptor before?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: program_coordinator
-      label: Program Coordinator
+      label: Are you a Program Coordinator?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
-      name: competency_assessments
-      label: Competency Assessments
+      name: evaluation_frequency
+      label: How often are evaluations performed for this program?
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 6
+      name: evaluation_due_date
+      label: What is the evaluation due date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
       name: evaluation_comments
-      label: Evaluation Comments
+      label: What are your evaluation comments for this feedback?
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
+    - id: 8
       name: evaluation_rating
-      label: Evaluation Rating
+      label: What rating would you give to this program?
       hint: null
       type: number
       options: []
       required: false
-    - id: 8
-      name: evaluation_frequency
-      label: Evaluation Frequency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 9
-      name: evaluation_due_date
-      label: Evaluation Due Date
+      name: next_evaluation
+      label: What are your next evaluation plans?
       hint: null
       type: date
       options: []
       required: false
     - id: 10
-      name: evaluation_comments
-      label: Evaluation Comments
+      name: evaluation_frequency_2
+      label: How often will you evaluate this program?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: next_evaluation
-      label: Next Evaluation
+      name: evaluation_comments_2
+      label: What are your evaluation comments?
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 12
-      name: evaluation_frequency_2
-      label: Evaluation Frequency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: evaluation_deduction
-      label: Evaluation Deduction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: evaluation_comments_2
-      label: Evaluation Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
       name: evaluation_rating_2
-      label: Evaluation Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: evaluation_frequency_3
-      label: Evaluation Frequency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: evaluation_due_date_2
-      label: Evaluation Due Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: evaluation_frequency_4
-      label: Evaluation Frequency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: evaluation_comments_3
-      label: Evaluation Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: evaluation_rating_3
-      label: Evaluation Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: evaluation_frequency_5
-      label: Evaluation Frequency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: evaluation_due_date_3
-      label: Evaluation Due Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: evaluation_frequency_6
-      label: Evaluation Frequency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: evaluation_comments_4
-      label: Evaluation Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: evaluation_rating_4
-      label: Evaluation Rating
+      label: Evaluation Rating 2
       hint: null
       type: number
       options: []

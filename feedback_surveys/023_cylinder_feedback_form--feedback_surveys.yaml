@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Poor''}'
-      - '{''id'': 2, ''label'': ''Average''}'
-      - '{''id'': 3, ''label'': ''Excellent''}'
+      - Poor
+      - Average
+      - Excellent
       required: false
     - id: 2
       name: overall_satisfaction
@@ -19,9 +19,9 @@ inputSchema:
       hint: Rate your overall satisfaction with this cylinder
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very dissatisfied''}'
-      - '{''id'': 2, ''label'': ''Neutral''}'
-      - '{''id'': 3, ''label'': ''Very satisfied''}'
+      - Very dissatisfied
+      - Neutral
+      - Very satisfied
       required: false
     - id: 3
       name: performance
@@ -29,9 +29,9 @@ inputSchema:
       hint: Rate the cylinder's performance
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Poor''}'
-      - '{''id'': 2, ''label'': ''Average''}'
-      - '{''id'': 3, ''label'': ''Excellent''}'
+      - Poor
+      - Average
+      - Excellent
       required: false
     - id: 4
       name: maintenance_cost
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Poor''}'
-      - '{''id'': 2, ''label'': ''Average''}'
-      - '{''id'': 3, ''label'': ''Excellent''}'
+      - Poor
+      - Average
+      - Excellent
       required: false
     - id: 6
       name: improvement_suggestions
@@ -140,10 +140,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''0-25''}'
-      - '{''id'': 2, ''label'': ''26-50''}'
-      - '{''id'': 3, ''label'': ''51-75''}'
-      - '{''id'': 4, ''label'': ''76-100''}'
+      - 0-25
+      - 26-50
+      - 51-75
+      - 76-100
       required: false
     - id: 19
       name: rating_scale_comment
@@ -179,9 +179,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Archived''}'
+      - Active
+      - Inactive
+      - Archived
       required: false
     - id: 24
       name: user_comments

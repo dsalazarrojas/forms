@@ -48,7 +48,7 @@ inputSchema:
     - id: 7
       name: event_time
       label: Event Time
-      hint: "HH:MM AM/PM"
+      hint: HH:MM AM/PM
       type: time
       options: []
       required: true
@@ -86,10 +86,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Turkey'', ''value'': ''turkey''}'
-      - '{''label'': ''Ham'', ''value'': ''ham''}'
-      - '{''label'': ''Veggie'', ''value'': ''veggie''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Turkey
+      - Ham
+      - Veggie
+      - Other
       required: true
     - id: 13
       name: side_dish
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Mashed Potatoes'', ''value'': ''mashed_potatoes''}'
-      - '{''label'': ''Green Bean Casserole'', ''value'': ''green_bean_casserole''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Mashed Potatoes
+      - Green Bean Casserole
+      - Other
       required: true
     - id: 14
       name: dessert
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pumpkin Pie'', ''value'': ''pumpkin_pie''}'
-      - '{''label'': ''Apple Pie'', ''value'': ''apple_pie''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Pumpkin Pie
+      - Apple Pie
+      - Other
       required: false
     - id: 15
       name: comments

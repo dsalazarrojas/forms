@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''General Construction''}'
-      - '{''id'': 2, ''label'': ''Home Improvement''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - General Construction
+      - Home Improvement
+      - Other
       required: true
     - id: 3
       name: service_type_input
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''General Labor''}'
-      - '{''id'': 2, ''label'': ''Labor + Materials''}'
-      - '{''id'': 3, ''label'': ''Service Only''}'
+      - General Labor
+      - Labor + Materials
+      - Service Only
       required: true
     - id: 4
       name: project_location_input
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Upload Documents''}'
-      - '{''id'': 2, ''label'': ''Share Location''}'
-      - '{''id'': 3, ''label'': ''Other (optional)''}'
+      - Upload Documents
+      - Share Location
+      - Other (optional)
       required: false
     - id: 11
       name: submit_button
@@ -95,7 +95,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I confirm I have read the estimate request form.''}'
-      - '{''id'': 2, ''label'': ''I do not confirm I have read the estimate request
-        form.''}'
+      - I confirm I have read the estimate request form.
+      - I do not confirm I have read the estimate request form.
       required: true

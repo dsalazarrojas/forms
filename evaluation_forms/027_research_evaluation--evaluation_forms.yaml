@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 3.1, ''name'': ''good'', ''label'': ''Good''}'
-      - '{''id'': 3.2, ''name'': ''poor'', ''label'': ''Poor''}'
-      - '{''id'': 3.3, ''name'': ''average'', ''label'': ''Average''}'
+      - Good
+      - Poor
+      - Average
       required: false
     - id: 4
       name: evaluation_topic_understanding
@@ -33,12 +33,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 4.1, ''name'': ''clear'', ''label'': ''Clear''}'
-      - '{''id'': 4.2, ''name'': ''confusing'', ''label'': ''Confusing''}'
-      - '{''id'': 4.3, ''name'': ''neutral'', ''label'': ''Neutral''}'
-      - '{''id'': 4.4, ''name'': ''good'', ''label'': ''Good''}'
-      - '{''id'': 4.5, ''name'': ''poor'', ''label'': ''Poor''}'
-      - '{''id'': 4.6, ''name'': ''average'', ''label'': ''Average''}'
+      - Clear
+      - Confusing
+      - Neutral
+      - Good
+      - Poor
+      - Average
       required: false
     - id: 5
       name: evaluation_technology_usage
@@ -46,13 +46,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 5.1, ''name'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
-      - '{''id'': 5.2, ''name'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 5.3, ''name'': ''neither_satisfied'', ''label'': ''Neither Satisfied
-        Nor Dissatisfied''}'
-      - '{''id'': 5.4, ''name'': ''somewhat_dissatisfied'', ''label'': ''Somewhat
-        Dissatisfied''}'
-      - '{''id'': 5.5, ''name'': ''very_dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied Nor Dissatisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 6
       name: evaluation_media_usage
@@ -60,13 +58,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 6.1, ''name'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
-      - '{''id'': 6.2, ''name'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 6.3, ''name'': ''neither_satisfied'', ''label'': ''Neither Satisfied
-        Nor Dissatisfied''}'
-      - '{''id'': 6.4, ''name'': ''somewhat_dissatisfied'', ''label'': ''Somewhat
-        Dissatisfied''}'
-      - '{''id'': 6.5, ''name'': ''very_dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied Nor Dissatisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 7
       name: evaluation_findings_evidence
@@ -95,10 +91,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 10.1, ''name'': ''completed'', ''label'': ''Completed''}'
-      - '{''id'': 10.2, ''name'': ''incomplete'', ''label'': ''Incomplete''}'
-      - '{''id'': 10.3, ''name'': ''partially_completed'', ''label'': ''Partially
-        Completed''}'
+      - Completed
+      - Incomplete
+      - Partially Completed
       required: false
     - id: 11
       name: evaluator_experience
@@ -106,9 +101,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 11.1, ''name'': ''good'', ''label'': ''Good''}'
-      - '{''id'': 11.2, ''name'': ''average'', ''label'': ''Average''}'
-      - '{''id'': 11.3, ''name'': ''poor'', ''label'': ''Poor''}'
+      - Good
+      - Average
+      - Poor
       required: false
     - id: 12
       name: form_relevant
@@ -116,13 +111,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 12.1, ''name'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
-      - '{''id'': 12.2, ''name'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 12.3, ''name'': ''neither_satisfied'', ''label'': ''Neither Satisfied
-        Nor Dissatisfied''}'
-      - '{''id'': 12.4, ''name'': ''somewhat_dissatisfied'', ''label'': ''Somewhat
-        Dissatisfied''}'
-      - '{''id'': 12.5, ''name'': ''very_dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied Nor Dissatisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 13
       name: form_useful
@@ -130,13 +123,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 13.1, ''name'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
-      - '{''id'': 13.2, ''name'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 13.3, ''name'': ''neither_satisfied'', ''label'': ''Neither Satisfied
-        Nor Dissatisfied''}'
-      - '{''id'': 13.4, ''name'': ''somewhat_dissatisfied'', ''label'': ''Somewhat
-        Dissatisfied''}'
-      - '{''id'': 13.5, ''name'': ''very_dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied Nor Dissatisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 14
       name: evaluator_relevant
@@ -144,13 +135,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 14.1, ''name'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
-      - '{''id'': 14.2, ''name'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 14.3, ''name'': ''neither_satisfied'', ''label'': ''Neither Satisfied
-        Nor Dissatisfied''}'
-      - '{''id'': 14.4, ''name'': ''somewhat_dissatisfied'', ''label'': ''Somewhat
-        Dissatisfied''}'
-      - '{''id'': 14.5, ''name'': ''very_dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied Nor Dissatisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 15
       name: evaluator_useful
@@ -158,13 +147,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 15.1, ''name'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
-      - '{''id'': 15.2, ''name'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 15.3, ''name'': ''neither_satisfied'', ''label'': ''Neither Satisfied
-        Nor Dissatisfied''}'
-      - '{''id'': 15.4, ''name'': ''somewhat_dissatisfied'', ''label'': ''Somewhat
-        Dissatisfied''}'
-      - '{''id'': 15.5, ''name'': ''very_dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied Nor Dissatisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 16
       name: form_completion_time
@@ -172,10 +159,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 16.1, ''name'': ''less_than_30_minutes'', ''label'': ''Less than
-        30 minutes''}'
-      - '{''id'': 16.2, ''name'': ''more_than_30_minutes'', ''label'': ''More than
-        30 minutes''}'
+      - Less than 30 minutes
+      - More than 30 minutes
       required: false
     - id: 17
       name: form_completion_comments

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 3
       name: threat_category
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Cyber''}'
-      - '{''id'': 2, ''name'': ''Physical''}'
-      - '{''id'': 3, ''name'': ''Environmental''}'
-      - '{''id'': 4, ''name'': ''Social''}'
+      - Cyber
+      - Physical
+      - Environmental
+      - Social
       required: false
     - id: 4
       name: threat_frequency
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Rare''}'
-      - '{''id'': 2, ''name'': ''Occasional''}'
-      - '{''id'': 3, ''name'': ''Frequent''}'
+      - Rare
+      - Occasional
+      - Frequent
       required: false
     - id: 5
       name: threat_impact
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Accepted''}'
-      - '{''id'': 2, ''name'': ''Recommended''}'
-      - '{''id'': 3, ''name'': ''Not Recommended''}'
+      - Accepted
+      - Recommended
+      - Not Recommended
       required: false
     - id: 9
       name: mitigation_plan

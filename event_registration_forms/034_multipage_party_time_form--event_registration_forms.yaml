@@ -27,28 +27,28 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: date
       label: Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
       name: start_time
       label: Start Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 5
       name: end_time
       label: End Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 6
       name: party_type
       label: Party Type
@@ -58,9 +58,9 @@ inputSchema:
       - Day Party
       - Night Party
       - Event Party
-      required: false
+      required: true
     - id: 7
-      name: party_details
+      name: party_location
       label: Party Location
       hint: null
       type: text
@@ -77,126 +77,15 @@ inputSchema:
       - Charlie
       required: false
     - id: 9
-      name: event_description
+      name: party_description
       label: Party Description
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: event_description
-      label: Party Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: party_details
+      name: party_address
       label: Party Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: event_description
-      label: Party Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: party_details
-      label: Party Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: party_details
-      label: Party Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: guest_list
-      label: Guest List
-      hint: null
-      type: select_multiple
-      options:
-      - Bob
-      - Charlie
-      - David
-      required: false
-    - id: 16
-      name: party_details
-      label: Party Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: party_details
-      label: Party Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: host_name
-      label: Host Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: start_time
-      label: Start Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: end_time
-      label: End Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: party_type
-      label: Party Type
-      hint: null
-      type: select_one
-      options:
-      - Day Party
-      - Night Party
-      - Event Party
-      required: false
-    - id: 22
-      name: party_details
-      label: Party Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: party_details
-      label: Party Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: party_details
-      label: Host Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: party_details
-      label: Party Details
       hint: null
       type: text
       options: []

@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Malware''}'
-      - '{''id'': 2, ''label'': ''Phishing''}'
-      - '{''id'': 3, ''label'': ''Ransomware''}'
-      - '{''id'': 4, ''label'': ''Data Breach''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Malware
+      - Phishing
+      - Ransomware
+      - Data Breach
+      - Other
       required: false
     - id: 3
       name: incident_date
@@ -126,10 +126,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''CSV''}'
-      - '{''id'': 2, ''label'': ''Excel''}'
-      - '{''id'': 3, ''label'': ''PDF''}'
-      - '{''id'': 4, ''label'': ''Word''}'
+      - CSV
+      - Excel
+      - PDF
+      - Word
       required: false
     - id: 18
       name: upload_file2

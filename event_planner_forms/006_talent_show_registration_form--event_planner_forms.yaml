@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''singer'', ''value'': ''singer''}'
-      - '{''label'': ''dancer'', ''value'': ''dancer''}'
-      - '{''label'': ''musician'', ''value'': ''musician''}'
+      - singer
+      - dancer
+      - musician
       required: false
     - id: 6
       name: performance_date
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''singer'', ''value'': ''singer''}'
-      - '{''label'': ''dancer'', ''value'': ''dancer''}'
-      - '{''label'': ''musician'', ''value'': ''musician''}'
+      - singer
+      - dancer
+      - musician
       required: false
     - id: 11
       name: upload_attachment

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Sedan''}'
-      - '{''id'': 2, ''value'': ''Truck''}'
-      - '{''id'': 3, ''value'': ''SUV''}'
+      - Sedan
+      - Truck
+      - SUV
       required: false
     - id: 3
       name: vehicle_number
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: notes
@@ -147,8 +147,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Business''}'
-      - '{''id'': 2, ''value'': ''Personal''}'
+      - Business
+      - Personal
       required: false
     - id: 21
       name: expense_subcategory
@@ -156,9 +156,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Carpooling''}'
-      - '{''id'': 2, ''value'': ''Business Travel''}'
-      - '{''id'': 3, ''value'': ''Gas''}'
+      - Carpooling
+      - Business Travel
+      - Gas
       required: false
     - id: 22
       name: submission_status
@@ -166,7 +166,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Approved''}'
-      - '{''id'': 2, ''value'': ''Rejected''}'
-      - '{''id'': 3, ''value'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: false

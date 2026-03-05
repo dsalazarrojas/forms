@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Bad''}'
+      - Very Good
+      - Good
+      - Bad
       required: false
     - id: 6
       name: customer_service
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Bad''}'
+      - Very Good
+      - Good
+      - Bad
       required: false
     - id: 7
       name: email
@@ -74,7 +74,7 @@ inputSchema:
       required: false
     - id: 10
       name: feedback_form_submitted_time
-      label: Feedback Form Submitted
+      label: Feedback Form Submitted Time
       hint: null
       type: time
       options: []
@@ -95,13 +95,13 @@ inputSchema:
       required: false
     - id: 13
       name: customer_service_improvement_list
-      label: Customer Service Improvement
+      label: Customer Service Improvement List
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Bad''}'
+      - Very Good
+      - Good
+      - Bad
       required: false
     - id: 14
       name: contact_name
@@ -112,14 +112,14 @@ inputSchema:
       required: false
     - id: 15
       name: contact_email
-      label: Email
+      label: Contact Email
       hint: null
       type: email
       options: []
       required: false
     - id: 16
       name: contact_phone
-      label: Phone
+      label: Contact Phone
       hint: null
       type: text
       options: []
@@ -186,6 +186,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false

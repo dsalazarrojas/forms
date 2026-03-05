@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''admin''}'
-      - '{''id'': 2, ''name'': ''user''}'
-      - '{''id'': 3, ''name'': ''manager''}'
+      - admin
+      - user
+      - manager
       required: true
     - id: 6
       name: feedback_type
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''comment''}'
-      - '{''id'': 2, ''name'': ''suggestion''}'
-      - '{''id'': 3, ''name'': ''complaint''}'
+      - comment
+      - suggestion
+      - complaint
       required: true
     - id: 7
       name: comment

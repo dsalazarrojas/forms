@@ -27,11 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
-      - option5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: assigned_tool
@@ -39,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: form_ids
@@ -72,22 +70,22 @@ inputSchema:
       options: []
       required: false
     - id: 8
-      name: assigned_tool
-      label: Assigned Tool
+      name: assigned_tool_2
+      label: Assigned Tool 2
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: category
-      label: Category
+      name: category_2
+      label: Category 2
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: output_file
-      label: Output File
+      name: output_file_2
+      label: Output File 2
       hint: null
       type: text
       options: []

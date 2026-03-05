@@ -30,8 +30,8 @@ inputSchema:
       hint: Check if this email address matches with participant_name
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''participant_email_verification_1'', ''label'': True}'
-      - '{''id'': 2, ''name'': ''participant_email_verification_2'', ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: participant_program
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''participant_program_1'', ''label'': ''Program 1''}'
-      - '{''id'': 2, ''name'': ''participant_program_2'', ''label'': ''Program 2''}'
-      - '{''id'': 3, ''name'': ''participant_program_3'', ''label'': ''Program 3''}'
+      - Program 1
+      - Program 2
+      - Program 3
       required: false
     - id: 6
       name: participant_start_date

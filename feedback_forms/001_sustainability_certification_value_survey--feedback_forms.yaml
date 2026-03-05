@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''GRS (Greenhouse Gas Protocol)''}'
-      - '{''label'': ''ISO 14001''}'
-      - '{''label'': ''B Corp''}'
-      - '{''label'': ''Other''}'
+      - GRS (Greenhouse Gas Protocol)
+      - ISO 14001
+      - B Corp
+      - Other
       required: true
     - id: 3
       name: name
@@ -55,8 +55,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: sustainability_rating
@@ -95,7 +95,7 @@ inputSchema:
       required: false
     - id: 13
       name: page1_name
-      label: name
+      label: Page1 Name
       hint: null
       type: text
       options: []
@@ -109,37 +109,37 @@ inputSchema:
       required: true
     - id: 15
       name: page1_email
-      label: email
+      label: Page1 Email
       hint: null
       type: email
       options: []
       required: true
     - id: 16
       name: page1_comment
-      label: comment
+      label: Page1 Comment
       hint: null
       type: text
       options: []
       required: false
     - id: 17
       name: page1_sustainability_certified
-      label: is_sustainability_certified
+      label: Page1 Sustainability Certified
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: page1_sustainability_rating
-      label: sustainability_rating
+      label: Page1 Sustainability Rating
       hint: null
       type: number
       options: []
       required: true
     - id: 19
       name: page1_sustainability_comment
-      label: comment_on_sustainability
+      label: Page1 Sustainability Comment
       hint: null
       type: text
       options: []
@@ -160,28 +160,28 @@ inputSchema:
       required: false
     - id: 22
       name: page2_name
-      label: name
+      label: Page2 Name
       hint: null
       type: text
       options: []
       required: true
     - id: 23
       name: page2_phone
-      label: phone
+      label: Page2 Phone
       hint: null
       type: text
       options: []
       required: true
     - id: 24
       name: page2_email
-      label: email
+      label: Page2 Email
       hint: null
       type: email
       options: []
       required: true
     - id: 25
       name: page2_comment
-      label: comment
+      label: Page2 Comment
       hint: null
       type: text
       options: []

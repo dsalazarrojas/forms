@@ -4,187 +4,79 @@ inputSchema:
     title: Open Evening Feedback Survey
     pages:
     - id: 1
-      name: first_name
-      label: First name
+      name: purpose
+      label: What was the purpose of this event?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: last_name
-      label: Last name
+      name: relevance_rating
+      label: How would you rate the relevance of the event topic to your interests?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: most_interesting_aspect
+      label: What was the most interesting aspect of the event?
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 3
-      name: event_date
-      label: Event Date
-      hint: null
-      type: date
       options: []
       required: false
     - id: 4
-      name: event_time
-      label: Event Time
+      name: satisfied_with_event_organization
+      label: Were you satisfied with the event organization?
       hint: null
-      type: time
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Neutral
+      - Bad
+      - Very Bad
+      required: true
     - id: 5
-      name: feedback
-      label: Feedback
+      name: attend_another_event
+      label: Would you attend another event like this?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 6
       name: suggestions
-      label: Suggestion
+      label: Do you have any suggestions for future events?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: suggestions_other
-      label: Other suggestions
+      name: venue_comments
+      label: What did you think of the venue?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: comments
-      label: Comments
+      name: recommendation_confidence
+      label: How likely are you to recommend this event to a friend?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 9
-      name: email
-      label: Email
+      name: event_duration
+      label: How long did you stay at the event?
       hint: null
-      type: email
+      type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: phone
-      label: Phone
+      name: other_comments
+      label: Do you have any other comments or suggestions?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: category_other
-      label: Other Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: rating
-      label: Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: rating_range
-      label: Rating Range
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: rating
-      label: Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: category_other
-      label: Other Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: rating
-      label: Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

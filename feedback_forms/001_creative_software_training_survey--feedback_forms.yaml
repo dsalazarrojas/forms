@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': None, ''value'': None}'
-      - '{''id'': 2, ''text'': None, ''value'': None}'
-      - '{''id'': 3, ''text'': None, ''value'': None}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 4
       name: training_level
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Basic'', ''value'': ''Basic''}'
-      - '{''id'': 2, ''text'': ''Intermediate'', ''value'': ''Intermediate''}'
-      - '{''id'': 3, ''text'': ''Advanced'', ''value'': ''Advanced''}'
-      - '{''id'': 4, ''text'': ''Expert'', ''value'': ''Expert''}'
+      - Basic
+      - Intermediate
+      - Advanced
+      - Expert
       required: false
     - id: 5
       name: date
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Low'', ''value'': 1}'
-      - '{''id'': 2, ''text'': ''Medium'', ''value'': 2}'
-      - '{''id'': 3, ''text'': ''High'', ''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 12
       name: feedback

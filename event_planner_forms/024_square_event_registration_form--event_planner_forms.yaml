@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Cash''}'
-      - '{''label'': ''Card''}'
-      - '{''label'': ''Online Payment''}'
+      - Cash
+      - Card
+      - Online Payment
       required: true
     - id: 10
       name: order_total
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Paid''}'
-      - '{''label'': ''Not Paid''}'
-      - '{''label'': ''Pending''}'
+      - Paid
+      - Not Paid
+      - Pending
       required: true
     - id: 12
       name: order_status
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Confirmed''}'
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Cancelled''}'
+      - Confirmed
+      - Pending
+      - Cancelled
       required: true
     - id: 13
       name: notes
@@ -109,8 +109,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Online''}'
-      - '{''label'': ''Offline''}'
+      - Online
+      - Offline
       required: true
     - id: 15
       name: event_category
@@ -118,9 +118,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Food''}'
-      - '{''label'': ''Drink''}'
-      - '{''label'': ''Event''}'
+      - Food
+      - Drink
+      - Event
       required: true
     - id: 16
       name: event_tags
@@ -163,9 +163,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Available''}'
-      - '{''label'': ''Sold Out''}'
-      - '{''label'': ''Pending''}'
+      - Available
+      - Sold Out
+      - Pending
       required: true
     - id: 22
       name: payment_gateway
@@ -173,9 +173,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Stripe''}'
-      - '{''label'': ''PayPal''}'
-      - '{''label'': ''Square''}'
+      - Stripe
+      - PayPal
+      - Square
       required: true
     - id: 23
       name: ticket_venue

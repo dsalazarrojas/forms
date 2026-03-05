@@ -4,177 +4,88 @@ inputSchema:
     title: Volunteer Skill Mapping Survey
     pages:
     - id: 1
-      name: volunteer_survey_form_1
-      label: Volunteer Survey
+      name: first_name
+      label: First Name
       hint: null
-      type: number
+      type: text
       options: []
       required: true
     - id: 2
-      name: volunteer_survey_form_2
-      label: Volunteer Survey
+      name: last_name
+      label: Last Name
       hint: null
-      type: number
+      type: text
       options: []
       required: true
     - id: 3
-      name: volunteer_survey_form_3
-      label: Volunteer Survey
-      hint: null
-      type: number
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
       options: []
       required: true
     - id: 4
-      name: volunteer_survey_form_4
-      label: Volunteer Survey
+      name: volunteer_role
+      label: Volunteer Role
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Volunteer
+      - Non-Volunteer
       required: true
     - id: 5
-      name: volunteer_survey_form_5
-      label: Volunteer Survey
+      name: skills_list
+      label: What skills do you have?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Leadership
+      - Communication
+      - Team Management
+      - Time Management
+      - Problem Solving
+      - Organization
+      - Public Speaking
+      - Project Management
+      - Event Planning
+      - Data Analysis
+      - Financial Management
+      - Fundraising
+      - Grant Writing
+      - Marketing
+      - Social Media
+      - Volunteering
+      - Grant Research
+      - Community Outreach
+      - Grant Management
+      - Budgeting
+      - Reporting
+      - Research
+      - Writing
       required: true
     - id: 6
-      name: volunteer_survey_form_6
-      label: Volunteer Survey
+      name: availability
+      label: Availability
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - On-Demand
       required: true
     - id: 7
-      name: volunteer_survey_form_7
-      label: Volunteer Survey
+      name: volunteer_suggestions
+      label: Do you have any suggestions or ideas for future surveys?
       hint: null
-      type: number
+      type: note
       options: []
-      required: true
+      required: false
     - id: 8
-      name: volunteer_survey_form_8
-      label: Volunteer Survey
+      name: consent
+      label: Consent
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
       required: true
-    - id: 9
-      name: volunteer_survey_form_9
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 10
-      name: volunteer_survey_form_10
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 11
-      name: volunteer_survey_form_11
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: volunteer_survey_form_12
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: volunteer_survey_form_13
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: volunteer_survey_form_14
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: volunteer_survey_form_15
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: volunteer_survey_form_16
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: volunteer_survey_form_17
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: volunteer_survey_form_18
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: volunteer_survey_form_19
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: volunteer_survey_form_20
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: volunteer_survey_form_21
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: volunteer_survey_form_22
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: volunteer_survey_form_23
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: volunteer_survey_form_24
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: volunteer_survey_form_25
-      label: Volunteer Survey
-      hint: null
-      type: number
-      options: []
-      required: false

@@ -5,291 +5,158 @@ inputSchema:
     pages:
     - id: 1
       name: overall_workplace_culture
-      label: Overall Workplace Culture
+      label: Overall, the workplace culture is
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
     - id: 2
       name: job_ownership
       label: I feel a sense of ownership for my work
       hint: null
       type: select_one
       options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Strongly Disagree
+      required: true
     - id: 3
       name: workplace_safety
-      label: Workplace safety
+      label: The level of workplace safety is
       hint: null
       type: select_multiple
       options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
+      - Strongly Agree
+      - Agree
+      - Neither Agree nor Disagree
+      - Disagree
+      - Strongly Disagree
+      required: true
     - id: 4
       name: job_satisfaction
-      label: Job Satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: feedback_on_culture
-      label: Overall, my feedback on workplace culture
-      hint: null
-      type: select_one
-      options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 6
-      name: feedback_on_safety
-      label: Overall, my feedback on workplace safety
-      hint: null
-      type: select_one
-      options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 7
-      name: overall_satisfaction
-      label: Overall, my satisfaction
+      label: Overall Satisfaction
       hint: null
       type: select_multiple
       options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Very Satisfied
+      - Not Very Unsatisfied
+      - Very Unsatisfied
+      required: true
+    - id: 5
+      name: culture_and_safety
+      label: Overall, my feedback on culture and safety
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neither Agree nor Disagree
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 6
+      name: overall_satisfaction
+      label: Overall, I am satisfied with my workplace
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Very Satisfied
+      - Not Very Unsatisfied
+      - Very Unsatisfied
+      required: true
+    - id: 7
+      name: feedback_culture
+      label: Feedback on my current culture
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 8
-      name: overall_satisfaction_2
-      label: Overall, my satisfaction
-      hint: null
-      type: select_one
-      options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 9
       name: feedback_safety
-      label: Feedback, Safety
+      label: Feedback on my current workplace safety
       hint: null
-      type: select_multiple
-      options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 10
-      name: culture_and_safety
-      label: Culture and Safety
-      hint: null
-      type: select_one
-      options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 11
-      name: overall_workplace_safety
-      label: Overall, workplace safety
-      hint: null
-      type: select_multiple
-      options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 12
-      name: culture_safety
-      label: Overall, Culture and Safety
-      hint: null
-      type: select_multiple
-      options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 13
-      name: overall_satisfaction_2_2
-      label: Overall, my satisfaction
-      hint: null
-      type: number
+      type: text
       options: []
       required: false
-    - id: 14
+    - id: 9
+      name: overall_safety
+      label: Overall, I feel safe in my workplace
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Very Satisfied
+      - Not Very Unsatisfied
+      - Very Unsatisfied
+      required: true
+    - id: 10
       name: job_satisfaction_2
-      label: Job Satisfaction
+      label: I am satisfied with my job overall
       hint: null
       type: select_multiple
       options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 15
-      name: workplace_satisfaction
-      label: Workplace Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 16
-      name: job_satisfaction_2
-      label: Job Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 17
-      name: job_ownership_2
-      label: I feel a sense of ownership for my work
-      hint: null
-      type: select_one
-      options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 18
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Very Satisfied
+      - Not Very Unsatisfied
+      - Very Unsatisfied
+      required: true
+    - id: 11
       name: workplace_satisfaction_2
-      label: Workplace Satisfaction
+      label: My workplace is satisfying
       hint: null
       type: select_multiple
       options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 19
-      name: job_ownership_2
-      label: I feel a sense of ownership for my work
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Very Satisfied
+      - Not Very Unsatisfied
+      - Very Unsatisfied
+      required: true
+    - id: 12
+      name: feelings_of_ownership
+      label: I feel ownership for my work
       hint: null
       type: select_one
       options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 20
-      name: overall_workplace_culture_2
-      label: Overall, Workplace Culture
-      hint: null
-      type: select_multiple
-      options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 21
+      - Strongly Agree
+      - Agree
+      - Neither Agree nor Disagree
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 13
       name: culture_satisfaction
-      label: Culture Satisfaction
+      label: I am satisfied with the culture of my workplace
       hint: null
       type: select_multiple
       options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 22
-      name: overall_satisfaction_3
-      label: Overall, my satisfaction
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Very Satisfied
+      - Not Very Unsatisfied
+      - Very Unsatisfied
+      required: true
+    - id: 14
+      name: overall_safety_2
+      label: Overall Safety 2
       hint: null
       type: select_multiple
       options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 23
-      name: overall_satisfaction_3
-      label: Overall, my satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 24
-      name: feedback_culture
-      label: Feedback, Culture
-      hint: null
-      type: select_multiple
-      options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
-    - id: 25
-      name: job_satisfaction_3
-      label: Job Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - '1.0'
-      - '2.0'
-      - '3.0'
-      - '4.0'
-      - '5.0'
-      required: false
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Very Satisfied
+      - Not Very Unsatisfied
+      - Very Unsatisfied
+      required: true

@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''company_a''}'
-      - '{''value'': ''company_b''}'
-      - '{''value'': ''company_c''}'
+      - company a
+      - company b
+      - company c
       required: true
     - id: 2
       name: employee_name
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''standard''}'
-      - '{''value'': ''premium''}'
+      - standard
+      - premium
       required: false
     - id: 6
       name: event_date
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''meeting''}'
-      - '{''value'': ''conference''}'
-      - '{''value'': ''workshop''}'
+      - meeting
+      - conference
+      - workshop
       required: false
     - id: 17
       name: event_size
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''small''}'
-      - '{''value'': ''medium''}'
-      - '{''value'': ''large''}'
+      - small
+      - medium
+      - large
       required: false
     - id: 18
       name: pass_type_details
@@ -141,8 +141,8 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: company
-      label: Company
+      name: company_2
+      label: Company 2
       hint: null
       type: text
       options: []
@@ -162,15 +162,15 @@ inputSchema:
       options: []
       required: false
     - id: 22
-      name: event_details
-      label: Event Details
+      name: event_details_2
+      label: Event Details 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: notes
-      label: Notes
+      name: notes_2
+      label: Notes 2
       hint: null
       type: text
       options: []
@@ -183,8 +183,8 @@ inputSchema:
       options: []
       required: false
     - id: 25
-      name: event_date
-      label: Event Date
+      name: event_date_2
+      label: Event Date 2
       hint: null
       type: date
       options: []

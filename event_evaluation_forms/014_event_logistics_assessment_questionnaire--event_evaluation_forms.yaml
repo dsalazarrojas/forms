@@ -7,110 +7,92 @@ inputSchema:
       name: event_logistics_assessment_questionnaire_page_1
       label: Event Details
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: event_logistics_assessment_questionnaire_page_2
-      label: Planning
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_logistics_assessment_questionnaire_page_3
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_logistics_assessment_questionnaire_page_4
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_logistics_assessment_questionnaire_page_5
+      label: Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: event_logistics_assessment_questionnaire_page_6
+      label: Event Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: event_logistics_assessment_questionnaire_page_7
+      label: Event Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: event_logistics_assessment_questionnaire_page_3
-      label: Logistics
+      - Conference
+      - Workshop
+      - Festival
+      - Meeting
+      required: true
+    - id: 8
+      name: event_logistics_assessment_questionnaire_page_8
+      label: Event Status
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: event_logistics_assessment_questionnaire_page_4
-      label: Venue
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: event_logistics_assessment_questionnaire_page_5
-      label: Food and Beverage
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: event_logistics_assessment_questionnaire_page_6
-      label: Communication
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: event_logistics_assessment_questionnaire_page_7
-      label: Evaluation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: event_logistics_assessment_questionnaire_page_8
-      label: Review and Recommendations
-      hint: null
-      type: time
-      options: []
-      required: false
+      - Planned
+      - In Progress
+      - Completed
+      required: true
     - id: 9
       name: event_logistics_assessment_questionnaire_page_9
-      label: Review and Recommendations
+      label: Venue Description
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 10
       name: event_logistics_assessment_questionnaire_page_10
-      label: Review and Recommendations
+      label: Communication Plan
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 11
       name: event_logistics_assessment_questionnaire_page_11
-      label: Review and Recommendations
+      label: Evaluation Criteria
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 12
       name: event_logistics_assessment_questionnaire_page_12
       label: Review and Recommendations
       hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: event_logistics_assessment_questionnaire_page_13
-      label: Review and Recommendations
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: event_logistics_assessment_questionnaire_page_14
-      label: Review and Recommendations
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: event_logistics_assessment_questionnaire_page_15
-      label: Review and Recommendations
-      hint: null
-      type: time
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false

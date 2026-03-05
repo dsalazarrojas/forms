@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Pass''}'
-      - '{''id'': 2, ''value'': ''Fail''}'
-      - '{''id'': 3, ''value'': ''N/A''}'
+      - Pass
+      - Fail
+      - N/A
       required: true
     - id: 6
       name: comments
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''User 1''}'
-      - '{''id'': 2, ''value'': ''User 2''}'
-      - '{''id'': 3, ''value'': ''User 3''}'
+      - User 1
+      - User 2
+      - User 3
       required: true
     - id: 11
       name: assigned_to
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''chatjimmy''}'
-      - '{''id'': 2, ''value'': ''chatjimmy2''}'
-      - '{''id'': 3, ''value'': ''chatjimmy3''}'
+      - chatjimmy
+      - chatjimmy2
+      - chatjimmy3
       required: true
     - id: 12
       name: assigned_date
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''High''}'
-      - '{''id'': 2, ''value'': ''Medium''}'
-      - '{''id'': 3, ''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 15
       name: status
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''In Progress''}'
-      - '{''id'': 2, ''value'': ''Done''}'
-      - '{''id'': 3, ''value'': ''Cancelled''}'
+      - In Progress
+      - Done
+      - Cancelled
       required: true
     - id: 16
       name: notes
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''In Progress''}'
-      - '{''id'': 2, ''value'': ''Done''}'
-      - '{''id'': 3, ''value'': ''Cancelled''}'
+      - In Progress
+      - Done
+      - Cancelled
       required: true
     - id: 18
       name: task_description
@@ -181,9 +181,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''High''}'
-      - '{''id'': 2, ''value'': ''Medium''}'
-      - '{''id'': 3, ''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 24
       name: status_2
@@ -191,9 +191,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''In Progress''}'
-      - '{''id'': 2, ''value'': ''Done''}'
-      - '{''id'': 3, ''value'': ''Cancelled''}'
+      - In Progress
+      - Done
+      - Cancelled
       required: false
     - id: 25
       name: task_status_2
@@ -201,7 +201,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''In Progress''}'
-      - '{''id'': 2, ''value'': ''Done''}'
-      - '{''id'': 3, ''value'': ''Cancelled''}'
+      - In Progress
+      - Done
+      - Cancelled
       required: false

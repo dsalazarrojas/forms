@@ -5,188 +5,45 @@ inputSchema:
     pages:
     - id: 1
       name: expense_categorization
-      label: Expense Categorization
+      label: How do you currently categorize expenses?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 2
       name: review_process
-      label: review_process
+      label: Can you walk us through your review process?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 3
-      name: prophets
-      label: Prophets
+      name: category_improvement
+      label: What do you think is the current state of our category system?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: category_improvement
-      label: Category Improvement
+      name: category_improvement_ideas
+      label: What ideas do you have to improve the category system?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: category_improvement_ideas
-      label: Category Improvement Ideas
+      name: expense_type
+      label: What types of expenses are you currently categorizing under "Expenses"?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: category_improvement_ideas_1
-      label: Category Improvement ideas
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 7
-      name: category_improvement_ideas_2
-      label: Category Improvement ideas
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: prophets
-      label: Prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: expense_type
-      label: Expense Type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: expense_type_ideas
-      label: Expense Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: expense_type_ideas_1
-      label: Expense Type
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: expense_type_ideas_2
-      label: Expense Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: expense_type_ideas_3
-      label: Expense Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
       name: expense_ideas
-      label: Expenses Ideas
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: expense_ideas_1
-      label: Expense Ideas
+      label: How can we simplify the categorization of expenses?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 16
-      name: expense_ideas_2
-      label: Expense Ideas
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: expense_type_ideas
-      label: Expense Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: expense_ideas
-      label: Expenses
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: expense_type_ideas
-      label: Expense Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: expense_ideas_1
-      label: Expense Ideas
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: expense_ideas_2
-      label: Expense Ideas
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: expense_ideas
-      label: Expenses
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: expense_type
-      label: Expense Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: expense_ideas_1
-      label: Expense Ideas
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: expense_ideas
-      label: Expenses
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

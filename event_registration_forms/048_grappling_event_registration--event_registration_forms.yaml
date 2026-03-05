@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Beginner'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Intermediate'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Advanced'', ''value'': 3}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: false
     - id: 4
       name: waiver
@@ -35,8 +35,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I accept'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Decline'', ''value'': 2}'
+      - I accept
+      - Decline
       required: false
     - id: 5
       name: submit

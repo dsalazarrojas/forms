@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 31, ''name'': ''Parent'', ''label'': ''Parent''}'
-      - '{''id'': 32, ''name'': ''Teacher'', ''label'': ''Teacher''}'
-      - '{''id'': 33, ''name'': ''Leader'', ''label'': ''Leader''}'
+      - Parent
+      - Teacher
+      - Leader
       required: true
     - id: 4
       name: role_other
@@ -47,10 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 61, ''name'': ''Highly Satisfied'', ''label'': ''Highly Satisfied''}'
-      - '{''id'': 62, ''name'': ''Moderately Satisfied'', ''label'': ''Moderately
-        Satisfied''}'
-      - '{''id'': 63, ''name'': ''Not Satisfied'', ''label'': ''Not Satisfied''}'
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Not Satisfied
       required: true
     - id: 7
       name: email

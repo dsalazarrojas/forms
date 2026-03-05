@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cat''}'
-      - '{''id'': 2, ''label'': ''Dog''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Cat
+      - Dog
+      - Other
       required: false
     - id: 4
       name: pet_age
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Healthy'', ''selected'': True}'
-      - '{''id'': 2, ''label'': ''Sick''}'
-      - '{''id'': 3, ''label'': ''Dead''}'
+      - Healthy
+      - Sick
+      - Dead
       required: false
     - id: 6
       name: pet_symptoms

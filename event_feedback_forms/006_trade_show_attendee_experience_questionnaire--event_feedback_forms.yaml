@@ -4,282 +4,83 @@ inputSchema:
     title: trade_show_attendee_experience_questionnaire
     pages:
     - id: 1
-      name: trade_show_experience_questionnaire
-      label: Trade Show Experience Questionnaire
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
       name: overall_experience_rating
       label: Overall Experience Rating
       hint: null
       type: number
       options: []
-      required: false
-    - id: 3
-      name: trade_show_experience_rating
-      label: Trade Show Experience Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: value_for_money
-      label: Value For Money
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 2
       name: likely_to_recommend
       label: Likely to Recommend
       hint: null
       type: select_one
       options:
-      - 1 - Not Likely
-      - 2 - Somewhat Likely
-      - 3 - Likely
-      - 4 - Very Likely
-      - 5 - Extremely Likely
-      required: false
+      - Not Likely
+      - Somewhat Likely
+      - Likely
+      - Very Likely
+      - Extremely Likely
+      required: true
+    - id: 3
+      name: value_for_money
+      label: Value for Money
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: category_interest
+      label: Category Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Not Interested
+      - Somewhat Interested
+      - Interested
+      - Very Interested
+      - Extremely Interested
+      required: true
+    - id: 5
+      name: session_interest
+      label: Session Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Not Interested
+      - Somewhat Interested
+      - Interested
+      - Very Interested
+      - Extremely Interested
+      required: true
     - id: 6
+      name: likely_to_attend_next
+      label: Likely to Attend Next
+      hint: null
+      type: select_one
+      options:
+      - Not Likely
+      - Somewhat Likely
+      - Likely
+      - Very Likely
+      - Extremely Likely
+      required: true
+    - id: 7
+      name: likely_to_recommend_venue
+      label: Likely to Recommend Venue
+      hint: null
+      type: select_one
+      options:
+      - Not Likely
+      - Somewhat Likely
+      - Likely
+      - Very Likely
+      - Extremely Likely
+      required: true
+    - id: 8
       name: feedback
       label: Feedback
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Not Satisfied
-      - 2 - Somewhat Satisfied
-      - 3 - Satisfied
-      - 4 - Very Satisfied
-      - 5 - Extremely Satisfied
-      required: false
-    - id: 7
-      name: category_interest
-      label: Category Interest
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Not Interested
-      - 2 - Somewhat Interested
-      - 3 - Interested
-      - 4 - Very Interested
-      - 5 - Extremely Interested
-      required: false
-    - id: 8
-      name: session_interest
-      label: Session Interest
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Not Interested
-      - 2 - Somewhat Interested
-      - 3 - Interested
-      - 4 - Very Interested
-      - 5 - Extremely Interested
-      required: false
-    - id: 9
-      name: likely_to_attend
-      label: Likely to Attend
-      hint: null
-      type: select_one
-      options:
-      - 1 - Not Likely
-      - 2 - Somewhat Likely
-      - 3 - Likely
-      - 4 - Very Likely
-      - 5 - Extremely Likely
-      required: false
-    - id: 10
-      name: likely_to_attend_next
-      label: Likely to Attend Next
-      hint: null
-      type: select_one
-      options:
-      - 1 - Not Likely
-      - 2 - Somewhat Likely
-      - 3 - Likely
-      - 4 - Very Likely
-      - 5 - Extremely Likely
-      required: false
-    - id: 11
-      name: likely_to_attend_venue
-      label: Likely to Attend Venue
-      hint: null
-      type: select_one
-      options:
-      - 1 - Not Likely
-      - 2 - Somewhat Likely
-      - 3 - Likely
-      - 4 - Very Likely
-      - 5 - Extremely Likely
-      required: false
-    - id: 12
-      name: likely_to_recommend_venue
-      label: Likely to Recommend Venue
-      hint: null
-      type: select_one
-      options:
-      - 1 - Not Likely
-      - 2 - Somewhat Likely
-      - 3 - Likely
-      - 4 - Very Likely
-      - 5 - Extremely Likely
-      required: false
-    - id: 13
-      name: category_interest
-      label: Category Interest
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Not Interested
-      - 2 - Somewhat Interested
-      - 3 - Interested
-      - 4 - Very Interested
-      - 5 - Extremely Interested
-      required: false
-    - id: 14
-      name: session_interest
-      label: Session Interest
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Not Interested
-      - 2 - Somewhat Interested
-      - 3 - Interested
-      - 4 - Very Interested
-      - 5 - Extremely Interested
-      required: false
-    - id: 15
-      name: likely_to_attend_next
-      label: Likely to Attend Next
-      hint: null
-      type: select_one
-      options:
-      - 1 - Not Likely
-      - 2 - Somewhat Likely
-      - 3 - Likely
-      - 4 - Very Likely
-      - 5 - Extremely Likely
-      required: false
-    - id: 16
-      name: likely_to_attend_venue
-      label: Likely to Attend Venue
-      hint: null
-      type: select_one
-      options:
-      - 1 - Not Likely
-      - 2 - Somewhat Likely
-      - 3 - Likely
-      - 4 - Very Likely
-      - 5 - Extremely Likely
-      required: false
-    - id: 17
-      name: likely_to_recommend_venue
-      label: Likely to Recommend Venue
-      hint: null
-      type: select_one
-      options:
-      - 1 - Not Likely
-      - 2 - Somewhat Likely
-      - 3 - Likely
-      - 4 - Very Likely
-      - 5 - Extremely Likely
-      required: false
-    - id: 18
-      name: category_interest
-      label: Category Interest
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Not Interested
-      - 2 - Somewhat Interested
-      - 3 - Interested
-      - 4 - Very Interested
-      - 5 - Extremely Interested
-      required: false
-    - id: 19
-      name: session_interest
-      label: Session Interest
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Not Interested
-      - 2 - Somewhat Interested
-      - 3 - Interested
-      - 4 - Very Interested
-      - 5 - Extremely Interested
-      required: false
-    - id: 20
-      name: likely_to_attend_venue
-      label: Likely to Attend Venue
-      hint: null
-      type: select_one
-      options:
-      - 1 - Not Likely
-      - 2 - Somewhat Likely
-      - 3 - Likely
-      - 4 - Very Likely
-      - 5 - Extremely Likely
-      required: false
-    - id: 21
-      name: likely_to_recommend_venue
-      label: Likely to Recommend Venue
-      hint: null
-      type: select_one
-      options:
-      - 1 - Not Likely
-      - 2 - Somewhat Likely
-      - 3 - Likely
-      - 4 - Very Likely
-      - 5 - Extremely Likely
-      required: false
-    - id: 22
-      name: category_interest
-      label: Category Interest
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Not Interested
-      - 2 - Somewhat Interested
-      - 3 - Interested
-      - 4 - Very Interested
-      - 5 - Extremely Interested
-      required: false
-    - id: 23
-      name: session_interest
-      label: Session Interest
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Not Interested
-      - 2 - Somewhat Interested
-      - 3 - Interested
-      - 4 - Very Interested
-      - 5 - Extremely Interested
-      required: false
-    - id: 24
-      name: likely_to_recommend_venue
-      label: Likely to Recommend Venue
-      hint: null
-      type: select_one
-      options:
-      - 1 - Not Likely
-      - 2 - Somewhat Likely
-      - 3 - Likely
-      - 4 - Very Likely
-      - 5 - Extremely Likely
-      required: false
-    - id: 25
-      name: likely_to_attend_venue
-      label: Likely to Attend Venue
-      hint: null
-      type: select_one
-      options:
-      - 1 - Not Likely
-      - 2 - Somewhat Likely
-      - 3 - Likely
-      - 4 - Very Likely
-      - 5 - Extremely Likely
-      required: false
+      hint: Please provide any additional comments or suggestions for future events
+      type: note
+      options: []
+      required: true

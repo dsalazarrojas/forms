@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Reading''}'
-      - '{''id'': 2, ''name'': ''Math''}'
+      - Reading
+      - Math
       required: true
     - id: 5
       name: paypal_email
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''PayPal''}'
-      - '{''id'': 2, ''name'': ''Stripe''}'
+      - PayPal
+      - Stripe
       required: true
     - id: 7
       name: notes

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not Sure''}'
+      - 'True'
+      - 'False'
+      - Not Sure
       required: false
     - id: 4
       name: too_large
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not Sure''}'
+      - 'True'
+      - 'False'
+      - Not Sure
       required: false
     - id: 5
       name: perfect_size
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not Sure''}'
+      - 'True'
+      - 'False'
+      - Not Sure
       required: false
     - id: 6
       name: size_opinion
@@ -53,10 +53,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Small''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Large''}'
-      - '{''id'': 4, ''label'': ''Extra Large''}'
+      - Small
+      - Medium
+      - Large
+      - Extra Large
       required: false
     - id: 7
       name: date_of_purchase
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Web''}'
-      - '{''id'': 2, ''label'': ''Mobile''}'
-      - '{''id'': 3, ''label'': ''In-Person''}'
+      - Web
+      - Mobile
+      - In-Person
       required: false
     - id: 15
       name: submitted_to
@@ -123,10 +123,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Sales''}'
-      - '{''id'': 2, ''label'': ''Customer Service''}'
-      - '{''id'': 3, ''label'': ''Marketing''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Sales
+      - Customer Service
+      - Marketing
+      - Other
       required: false
     - id: 16
       name: submitted_from
@@ -134,9 +134,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Store''}'
-      - '{''id'': 2, ''label'': ''Online''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Store
+      - Online
+      - Other
       required: false
     - id: 17
       name: store_info

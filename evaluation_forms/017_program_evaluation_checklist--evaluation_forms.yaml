@@ -16,23 +16,23 @@ inputSchema:
     pages:
     - id: 1
       name: program_evaluation_checklist_page_1
-      label: Program Evaluation Checklist
+      label: Program Evaluation Checklist Overview
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: program_evaluation_checklist_page_2
+      name: evaluation_criteria
       label: Evaluation Criteria
       hint: null
       type: select_multiple
       options:
-      - Evaluation of program outcomes
-      - Evaluation of program process
-      - Evaluation of program management
+      - Program goals
+      - Program objectives
+      - Outcome metrics
       required: false
     - id: 3
-      name: program_evaluation_checklist_page_3
+      name: evaluation_methods
       label: Evaluation Methods
       hint: null
       type: select_one
@@ -42,7 +42,7 @@ inputSchema:
       - Focus Groups
       required: false
     - id: 4
-      name: program_evaluation_checklist_page_4
+      name: stakeholders_involved
       label: Stakeholders Involved
       hint: null
       type: select_multiple
@@ -52,14 +52,14 @@ inputSchema:
       - Stakeholders
       required: false
     - id: 5
-      name: program_evaluation_checklist_page_5
+      name: evaluation_schedule
       label: Evaluation Schedule
       hint: null
       type: date
       options: []
       required: false
     - id: 6
-      name: program_evaluation_checklist_page_6
+      name: evaluation_frequency
       label: Evaluation Frequency
       hint: null
       type: select_one
@@ -69,7 +69,7 @@ inputSchema:
       - Annually
       required: false
     - id: 7
-      name: program_evaluation_checklist_page_7
+      name: evaluation_tools
       label: Evaluation Tools
       hint: null
       type: select_multiple
@@ -79,17 +79,14 @@ inputSchema:
       - Interviews
       required: false
     - id: 8
-      name: program_evaluation_checklist_page_8
+      name: evaluation_process
       label: Evaluation Process
       hint: null
-      type: select_multiple
-      options:
-      - Systematic
-      - Iterative
-      - Continuous
+      type: text
+      options: []
       required: false
     - id: 9
-      name: program_evaluation_checklist_page_9
+      name: evaluation_outcomes
       label: Evaluation Outcomes
       hint: null
       type: select_multiple
@@ -99,7 +96,7 @@ inputSchema:
       - Enhanced skills
       required: false
     - id: 10
-      name: program_evaluation_checklist_page_10
+      name: review_revision
       label: Review and Revision
       hint: null
       type: select_multiple
@@ -109,110 +106,16 @@ inputSchema:
       - As needed
       required: false
     - id: 11
-      name: program_evaluation_checklist_page_11
+      name: evaluation_report
       label: Evaluation Report
       hint: null
-      type: select_one
-      options:
-      - Quarterly
-      - Semiannually
-      - Annually
+      type: text
+      options: []
       required: false
     - id: 12
-      name: program_evaluation_checklist_page_12
+      name: evaluation_timeline
       label: Evaluation Timeline
       hint: null
       type: date
-      options: []
-      required: false
-    - id: 13
-      name: program_evaluation_checklist_page_13
-      label: Program Evaluation Checklist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: program_evaluation_checklist_page_14
-      label: Evaluation Criteria
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: program_evaluation_checklist_page_15
-      label: Evaluation Methods
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: program_evaluation_checklist_page_16
-      label: Stakeholders Involved
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: program_evaluation_checklist_page_17
-      label: Evaluation Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: program_evaluation_checklist_page_18
-      label: Evaluation Tools
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: program_evaluation_checklist_page_19
-      label: Evaluation Process
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: program_evaluation_checklist_page_20
-      label: Evaluation Outcomes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: program_evaluation_checklist_page_21
-      label: Review and Revision
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: program_evaluation_checklist_page_22
-      label: Evaluation Report
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: program_evaluation_checklist_page_23
-      label: Evaluation Timeline
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: program_evaluation_checklist_page_24
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: program_evaluation_checklist_page_25
-      label: Additional Recommendations
-      hint: null
-      type: text
       options: []
       required: false

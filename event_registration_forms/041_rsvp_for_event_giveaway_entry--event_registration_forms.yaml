@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: true
     - id: 4
       name: giveaway_entry_status
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not Eligible''}'
+      - 'True'
+      - 'False'
+      - Not Eligible
       required: true
     - id: 5
       name: event_attendee
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''None''}'
+      - Email
+      - Phone
+      - None
       required: false
     - id: 14
       name: follow_up_2
@@ -109,8 +109,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
+      - Email
+      - Phone
       required: false
     - id: 15
       name: follow_up_3
@@ -118,6 +118,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
+      - Email
+      - Phone
       required: false

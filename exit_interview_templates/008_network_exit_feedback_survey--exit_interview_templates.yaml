@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''1 - Very Dissatisfied''}'
-      - '{''id'': 2, ''label'': ''2 - Somewhat Dissatisfied''}'
-      - '{''id'': 3, ''label'': ''3 - Neutral''}'
-      - '{''id'': 4, ''label'': ''4 - Somewhat Satisfied''}'
-      - '{''id'': 5, ''label'': ''5 - Very Satisfied''}'
+      - 1 - Very Dissatisfied
+      - 2 - Somewhat Dissatisfied
+      - 3 - Neutral
+      - 4 - Somewhat Satisfied
+      - 5 - Very Satisfied
       required: false
     - id: 4
       name: frequency_of_contact
@@ -35,11 +35,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Never''}'
-      - '{''id'': 2, ''label'': ''Rarely''}'
-      - '{''id'': 3, ''label'': ''Occasionally''}'
-      - '{''id'': 4, ''label'': ''Frequently''}'
-      - '{''id'': 5, ''label'': ''Almost Daily''}'
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Almost Daily
       required: false
     - id: 5
       name: retention_driver
@@ -82,11 +82,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''1 - Very Low''}'
-      - '{''id'': 2, ''label'': ''2 - Low''}'
-      - '{''id'': 3, ''label'': ''3 - Neutral''}'
-      - '{''id'': 4, ''label'': ''4 - High''}'
-      - '{''id'': 5, ''label'': ''5 - Very High''}'
+      - 1 - Very Low
+      - 2 - Low
+      - 3 - Neutral
+      - 4 - High
+      - 5 - Very High
       required: false
     - id: 11
       name: communication_with_members
@@ -94,11 +94,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''1 - Very Poor''}'
-      - '{''id'': 2, ''label'': ''2 - Poor''}'
-      - '{''id'': 3, ''label'': ''3 - Neutral''}'
-      - '{''id'': 4, ''label'': ''4 - Good''}'
-      - '{''id'': 5, ''label'': ''5 - Excellent''}'
+      - 1 - Very Poor
+      - 2 - Poor
+      - 3 - Neutral
+      - 4 - Good
+      - 5 - Excellent
       required: false
     - id: 12
       name: training_opportunities
@@ -114,11 +114,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Never''}'
-      - '{''id'': 2, ''label'': ''Less than 1 hour''}'
-      - '{''id'': 3, ''label'': ''1-2 hours''}'
-      - '{''id'': 4, ''label'': ''2-3 hours''}'
-      - '{''id'': 5, ''label'': ''More than 3 hours''}'
+      - Never
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-3 hours
+      - More than 3 hours
       required: false
     - id: 14
       name: feedback_to_network
@@ -140,11 +140,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Bad''}'
-      - '{''id'': 2, ''label'': ''Bad''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Good''}'
-      - '{''id'': 5, ''label'': ''Excellent''}'
+      - Very Bad
+      - Bad
+      - Neutral
+      - Good
+      - Excellent
       required: false
     - id: 17
       name: final_comments

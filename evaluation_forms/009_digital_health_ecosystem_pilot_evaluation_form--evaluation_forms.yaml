@@ -4,194 +4,71 @@ inputSchema:
     title: digital_health_ecosystem_pilot_evaluation_form
     pages:
     - id: 1
-      name: pilot_partners
-      label: pilot_partners
+      name: partner_info
+      label: Pilot Partners
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Partner 1
+      - Partner 2
       required: true
     - id: 2
-      name: feedback_on_benefits
-      label: feedback_on_benefits
-      hint: Please provide feedback on the benefits of the pilot.
+      name: benefits
+      label: Evaluation form benefits
+      hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: feedback_on_challenges
-      label: feedback_on_challenges
+      name: challenges
+      label: Evaluation form challenges
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: improvements
-      label: improvements
+      name: overall_feel
+      label: Overall Feel
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Positive
+      - Negative
       required: true
     - id: 5
-      name: evaluation_period
-      label: evaluation_period
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 6
-      name: time_of_evaluation
-      label: time_of_evaluation
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 7
-      name: feedback_on_improvements
-      label: feedback_on_improvements
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: field_8
-      label: Field 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: contact_information
-      label: contact_information
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 10
-      name: additional_feedback
-      label: prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
       name: evaluation_score
-      label: evaluation_score
+      label: Evaluation form score
       hint: null
       type: number
       options: []
       required: true
-    - id: 13
+    - id: 6
       name: rating
-      label: rating
+      label: Rating
       hint: null
       type: select_one
       options:
       - Good
       - Fair
       required: true
-    - id: 14
-      name: overall_feel
-      label: overall_feelประก
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 15
-      name: comments_on_improvements
-      label: comments_on_improvements
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: evaluation_form_completion_date
-      label: prophets
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: evaluation_form_completion_time
-      label: time_of_evaluation_form_completion
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: contact_name
-      label: contact_name
+    - id: 7
+      name: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: true
-    - id: 19
-      name: contact_email
-      label: contact_email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 20
-      name: contact_phone
-      label: contact_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: contact_department
-      label: prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: contact_address
-      label: contact_address
+    - id: 8
+      name: contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: true
-    - id: 23
-      name: contact_title
-      label: contact_title
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 24
-      name: evaluation_form_completion_date
-      label: evaluation_form_completion_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: contact_name
-      label: contact_name
+    - id: 9
+      name: form_completion_info
+      label: Form Completion Info
       hint: null
       type: text
       options: []
       required: true
-    - id: 26
-      name: evaluation_form_completion_time
-      label: evaluation_form_completion_time
-      hint: null
-      type: time
-      options: []
-      required: false

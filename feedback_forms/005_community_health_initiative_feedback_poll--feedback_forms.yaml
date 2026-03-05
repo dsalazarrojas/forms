@@ -1,101 +1,90 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Community Health Initiative Feedback Poll
     pages:
-      - id: 1
-        name: poll_intro
-        label: -- Feedback Poll --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_age_range
-        label: Age range
-        hint: Select the range that applies to you
-        type: select_one
-        options:
-          - Under 18
-          - 18 to 34
-          - 35 to 54
-          - 55 and over
-        required: true
-      - id: 3
-        name: attended_program
-        label: Have you attended the program
-        hint: Select yes if you participated
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 4
-        name: satisfaction_level
-        label: Overall satisfaction level
-        hint: Rate your experience
-        type: select_one
-        options:
-          - Very satisfied
-          - Satisfied
-          - Neutral
-          - Dissatisfied
-          - Very dissatisfied
-        required: true
-      - id: 5
-        name: most_helpful_component
-        label: Most helpful component
-        hint: Which part helped you most
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: suggested_improvements
-        label: Suggested improvements
-        hint: Share any ideas to improve the program
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: recommend_to_others
-        label: Would you recommend this program
-        hint: Select yes if likely to recommend
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 8
-        name: additional_comments
-        label: Additional comments
-        hint: Any other feedback you want to share
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: contact_for_follow_up
-        label: Contact me for follow up
-        hint: Provide email if you want follow up
-        type: email
-        options: []
-        required: false
-      - id: 10
-        name: consent_to_share
-        label: Consent to share feedback anonymously
-        hint: Agree to share responses for reporting
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
+    - id: 1
+      name: poll_intro
+      label: -- Feedback Poll --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_age_range
+      label: Age range
+      hint: Select the range that applies to you
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 34
+      - 35 to 54
+      - 55 and over
+      required: true
+    - id: 3
+      name: attended_program
+      label: Have you attended the program
+      hint: Select yes if you participated
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: satisfaction_level
+      label: Overall satisfaction level
+      hint: Rate your experience
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 5
+      name: most_helpful_component
+      label: Most helpful component
+      hint: Which part helped you most
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggested_improvements
+      label: Suggested improvements
+      hint: Share any ideas to improve the program
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommend_to_others
+      label: Would you recommend this program
+      hint: Select yes if likely to recommend
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback you want to share
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_for_follow_up
+      label: Contact me for follow up
+      hint: Provide email if you want follow up
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_share
+      label: Consent to share feedback anonymously
+      hint: Agree to share responses for reporting
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

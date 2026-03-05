@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Conference''}'
-      - '{''id'': 2, ''value'': ''Trade Show''}'
-      - '{''id'': 3, ''value'': ''Seminar''}'
+      - Conference
+      - Trade Show
+      - Seminar
       required: true
     - id: 6
       name: feedback
@@ -152,8 +152,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Marketing''}'
-      - '{''id'': 2, ''value'': ''Sales''}'
+      - Marketing
+      - Sales
       required: true
     - id: 22
       name: exhibitor_survey_form_22
@@ -182,6 +182,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -55,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - General attendee
-        - Speaker or presenter
-        - Volunteer
-        - Staff or organizer
-        - Vendor or exhibitor
+      - General attendee
+      - Speaker or presenter
+      - Volunteer
+      - Staff or organizer
+      - Vendor or exhibitor
       required: true
     - id: 7
       name: disability_or_access_need
@@ -67,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Yes
-        - No
-        - Prefer not to say
+      - 'True'
+      - 'False'
+      - Prefer not to say
       required: false
     - id: 8
       name: section_venue_accessibility
@@ -84,11 +73,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Fair
-        - Poor
-        - Very Poor
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
       required: true
     - id: 10
       name: restroom_accessibility
@@ -96,12 +85,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Fair
-        - Poor
-        - Very Poor
-        - Did not use
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      - Did not use
       required: true
     - id: 11
       name: signage_wayfinding
@@ -109,11 +98,11 @@ inputSchema:
       hint: Were signs clear, visible, and helpful for navigation
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Fair
-        - Poor
-        - Very Poor
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
       required: true
     - id: 12
       name: section_event_content
@@ -128,10 +117,10 @@ inputSchema:
       hint: e.g., large print, braille, digital, audio
       type: select_one
       options:
-        - Yes, fully accessible
-        - Partially accessible
-        - Not accessible
-        - Not applicable
+      - Yes, fully accessible
+      - Partially accessible
+      - Not accessible
+      - Not applicable
       required: true
     - id: 14
       name: captioning_available
@@ -139,10 +128,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Yes, and it was effective
-        - Yes, but quality was poor
-        - No, but it was needed
-        - No, and it was not needed
+      - Yes, and it was effective
+      - Yes, but quality was poor
+      - No, but it was needed
+      - No, and it was not needed
       required: true
     - id: 15
       name: assistive_technology_support
@@ -150,10 +139,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Yes
-        - No
-        - Not sure
-        - Not needed
+      - 'True'
+      - 'False'
+      - Not sure
+      - Not needed
       required: false
     - id: 16
       name: section_overall
@@ -168,11 +157,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Fair
-        - Poor
-        - Very Poor
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
       required: true
     - id: 18
       name: accommodations_requested
@@ -180,10 +169,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Yes, and they were fully met
-        - Yes, but they were only partially met
-        - Yes, but they were not met
-        - No, I did not request any
+      - Yes, and they were fully met
+      - Yes, but they were only partially met
+      - Yes, but they were not met
+      - No, I did not request any
       required: true
     - id: 19
       name: barriers_encountered
@@ -205,9 +194,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Definitely yes
-        - Probably yes
-        - Not sure
-        - Probably not
-        - Definitely not
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably not
+      - Definitely not
       required: true

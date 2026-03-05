@@ -16,13 +16,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Treadmill''}'
-      - '{''label'': ''Stationary Bike''}'
-      - '{''label'': ''Free Weights''}'
-      - '{''label'': ''Resistance Bands''}'
-      - '{''label'': ''Yoga Ball''}'
-      - '{''label'': ''Other (please specify)''}'
-      - '{''label'': ''Please select one''}'
+      - Treadmill
+      - Stationary Bike
+      - Free Weights
+      - Resistance Bands
+      - Yoga Ball
+      - Other (please specify)
+      - Please select one
       required: false
     - id: 3
       name: equipment_quality
@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
-      - '{''label'': ''Very Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
       required: false
     - id: 4
       name: durability
@@ -42,11 +42,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
-      - '{''label'': ''Very Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
       required: false
     - id: 5
       name: recommend_equipment
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Yes''}'
-      - '{''label'': ''No''}'
-      - '{''label'': ''Maybe''}'
+      - 'Yes'
+      - 'No'
+      - Maybe
       required: false
     - id: 6
       name: comments
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Physical Fitness''}'
-      - '{''label'': ''Yoga or Pilates''}'
-      - '{''label'': ''Strength Training''}'
-      - '{''label'': ''Stretching or Flexibility''}'
-      - '{''label'': ''Rehabilitation''}'
+      - Physical Fitness
+      - Yoga or Pilates
+      - Strength Training
+      - Stretching or Flexibility
+      - Rehabilitation
       required: false

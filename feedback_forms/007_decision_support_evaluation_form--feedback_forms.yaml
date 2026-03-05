@@ -11,192 +11,81 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: form_section_1
+      name: section_1
       label: Section 1
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - I strongly agree
+      - I somewhat agree
+      - I neither agree nor disagree
+      - I somewhat disagree
+      - I strongly disagree
       required: false
     - id: 3
-      name: field_1
-      label: Question 1
+      name: question_1
+      label: How satisfied are you with the decision support?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
     - id: 4
-      name: field_2
-      label: Question 2
+      name: time_of_interaction
+      label: What is the time you first interacted with this service?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: experience_description
+      label: Briefly describe your experience with this service
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
-      name: section_2
-      label: Section 2
+      required: true
+    - id: 6
+      name: time_spent
+      label: How much time did you spend on this interaction?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: frequency
+      label: How often will you use this service in the future?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: field_3
-      label: Option 1
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: field_4
-      label: Option 2
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - Very often
+      - Somewhat often
+      - Rarely
+      - Never
       required: false
     - id: 8
-      name: field_5
-      label: Option 3
+      name: usage_frequency
+      label: How many times have you used this service?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: past_experience
+      label: Have you ever used this service before?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: section_3
-      label: Section 3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 10
-      name: field_6
-      label: Option 1
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: field_7
-      label: Option 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: field_8
-      label: Option 3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: field_9
-      label: Option 4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: field_10
-      label: Option 5
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: section_4
-      label: Section 4
+      name: feedback
+      label: Additional feedback or suggestions?
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 16
-      name: field_11
-      label: Question 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: field_12
-      label: Question 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: section_5
-      label: Section 5
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: field_13
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: section_6
-      label: Section 6
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: field_14
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: section_7
-      label: Section 7
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: field_15
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: section_8
-      label: Section 8
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: field_16
-      label: Field 1
-      hint: null
-      type: number
       options: []
       required: false

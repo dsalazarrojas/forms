@@ -15,98 +15,158 @@ inputSchema:
     title: Student Conference Time Preference Form
     pages:
     - id: 1
-      name: start_time_1
-      label: start_time
+      name: start_time
+      label: What time do you want the event to start?
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 2
-      name: start_time_2
-      label: start_time
+      name: end_time
+      label: What time do you want the event to end?
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 3
-      name: end_time_1
-      label: end_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 4
-      name: end_time_2
-      label: end_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 5
       name: preferred_language
-      label: preferred_language
+      label: What is your preferred language?
       hint: null
       type: select_one
       options:
       - English
       - French
       - Spanish
+      - German
+      - Chinese
+      - Portuguese
+      - Arabic
+      - Russian
+      - Japanese
       required: false
-    - id: 6
+    - id: 4
       name: required_languages
-      label: required_languages
+      label: Which languages do you require?
       hint: null
       type: select_multiple
       options:
       - English
       - French
-      required: false
-    - id: 7
-      name: required_languages_1
-      label: required_languages
-      hint: null
-      type: select_multiple
-      options:
-      - French
       - Spanish
+      - German
+      - Chinese
+      - Portuguese
+      - Russian
       required: false
-    - id: 8
+    - id: 5
       name: available_time_slots
-      label: available_time_slots
+      label: Which time slots are available?
       hint: null
       type: select_multiple
       options:
-      - 8:00-09:00
+      - 08:00-09:00
       - 09:00-10:00
       - 10:00-11:00
+      - 11:00-12:00
+      - 12:00-13:00
+      - 13:00-14:00
+      - 14:00-15:00
+      - 15:00-16:00
       required: false
-    - id: 9
+    - id: 6
       name: available_time_slots_1
-      label: available_time_slots
+      label: Available Time Slots 1
       hint: null
       type: select_multiple
       options:
       - 10:00-11:00
       - 11:00-12:00
       - 12:00-13:00
+      - 13:00-14:00
+      - 14:00-15:00
+      required: false
+    - id: 7
+      name: available_time_slots_2
+      label: Available Time Slots 2
+      hint: null
+      type: select_multiple
+      options:
+      - 12:00-13:00
+      - 13:00-14:00
+      required: false
+    - id: 8
+      name: schedule_preferences
+      label: What are your schedule preferences?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: schedule_preferences_1
+      label: Schedule Preferences 1
+      hint: null
+      type: note
+      options: []
       required: false
     - id: 10
-      name: schedule_preferences
-      label: schedule_preferences
+      name: schedule_preferences_2
+      label: Schedule Preferences 2
       hint: null
       type: note
       options: []
       required: false
     - id: 11
-      name: schedule_preferences_1
-      label: schedule_preferences_1
+      name: schedule_preferences_3
+      label: Schedule Preferences 3
       hint: null
       type: note
       options: []
       required: false
     - id: 12
-      name: schedule_preferences_2
-      label: schedule_preferences_2
+      name: schedule_preferences_4
+      label: Schedule Preferences 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: schedule_preferences_5
+      label: Schedule Preferences 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: schedule_preferences_6
+      label: Schedule Preferences 6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: schedule_preferences_7
+      label: Schedule Preferences 7
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: schedule_preferences_8
+      label: Schedule Preferences 8
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: schedule_preferences_9
+      label: Schedule Preferences 9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: schedule_preferences_10
+      label: Schedule Preferences 10
       hint: null
       type: note
       options: []

@@ -5,184 +5,92 @@ inputSchema:
     pages:
     - id: 1
       name: participant_satisfaction
-      label: participant_satisfaction
-      hint: null
+      label: Overall Satisfaction
+      hint: Rate your satisfaction with the event
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: event_location
+      label: Event Location
+      hint: Rate your satisfaction with the event location
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 3
+      name: participant_satisfaction2
+      label: Event Organization
+      hint: Rate your satisfaction with the event organization
       type: number
       options: []
       required: false
-    - id: 2
-      name: event_location
-      label: event_location
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: score_satisfaction
-      label: satisfaction_level
-      hint: null
-      type: select_one
-      options:
-      - Satisfied
-      - Dissatisfied
-      required: false
     - id: 4
-      name: improvement_suggestions
-      label: improvement_suggestions
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 5
       name: event_date
-      label: event_date
+      label: Event Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 6
+    - id: 5
       name: event_time
-      label: event_time
+      label: Event Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 7
+    - id: 6
       name: contact_number
-      label: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_name
+      label: Participant Name
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: participant_name
-      label: participant_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
       name: feedback_comments
-      label: feedback_comments
+      label: Feedback Comments
       hint: null
       type: note
       options: []
       required: false
-    - id: 10
-      name: event_location
-      label: event_location
+    - id: 9
+      name: event_location2
+      label: Event Location2
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 11
-      name: participant_satisfaction
-      label: participant_satisfaction
+    - id: 10
+      name: participant_satisfaction3
+      label: Participant Satisfaction3
       hint: null
       type: number
       options: []
       required: false
-    - id: 12
-      name: event_date
-      label: event_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: event_time
-      label: event_time
+    - id: 11
+      name: event_time2
+      label: Event Time Slot
       hint: null
       type: time
       options: []
       required: false
-    - id: 14
-      name: contact_number
-      label: contact_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: participant_name
-      label: participant_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: feedback_comments
-      label: feedback_comments
+    - id: 12
+      name: improvement_suggestions
+      label: Improvement Suggestions
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 17
-      name: event_location
-      label: event_location
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: participant_satisfaction
-      label: participant_satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: participant_satisfaction2
-      label: participant_satisfaction2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: participant_satisfaction3
-      label: participant_satisfaction3
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: participant_satisfaction4
-      label: participant_satisfaction4
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: participant_satisfaction5
-      label: participant_satisfaction5
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: participant_satisfaction6
-      label: participant_satisfaction6
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: participant_satisfaction7
-      label: participant_satisfaction7
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: participant_satisfaction8
-      label: participant_satisfaction8
-      hint: null
-      type: number
       options: []
       required: false

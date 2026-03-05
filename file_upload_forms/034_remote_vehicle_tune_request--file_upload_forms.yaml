@@ -4,203 +4,103 @@ inputSchema:
     title: Remote Vehicle Tune Request
     pages:
     - id: 1
-      name: prophets
-      label: remote_vehicle_tune_request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: vehicle_id
-      label: vehicle_id
-      hint: Vehicle ID
+      label: Vehicle ID
+      hint: Please enter the vehicle's ID
       type: number
       options: []
-      required: false
-    - id: 3
-      name: year
-      label: year
-      hint: Year
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: make
-      label: make
-      hint: null
+      required: true
+    - id: 2
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Please select the vehicle's make
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 5
-      name: model
-      label: model
-      hint: null
-      type: select_multiple
+      required: true
+    - id: 3
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Please select the vehicle's model
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 6
+      required: true
+    - id: 4
       name: customer_goals
-      label: customer_goals
-      hint: Customer goals
+      label: Customer Goals
+      hint: Please enter your customer goals
       type: text
       options: []
-      required: false
-    - id: 7
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: file
-      label: file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 5
       name: vehicle_year
-      label: vehicle_year
-      hint: null
+      label: Vehicle Year
+      hint: Please enter the vehicle's year
       type: date
       options: []
-      required: false
+      required: true
+    - id: 6
+      name: file_details
+      label: File Details
+      hint: Please upload a file with vehicle details
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_details
+      label: Vehicle Details
+      hint: Please enter vehicle details
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: file_type
+      label: File Type
+      hint: Please select the file type
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: file_url
+      label: File URL
+      hint: Please enter the file URL
+      type: text
+      options: []
+      required: true
     - id: 10
       name: customer_goals_list
-      label: customer_goals_list
-      hint: Customer goals
+      label: Customer Goals List
+      hint: Please select customer goals
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 11
       name: customer_goals_list_value
-      label: customer_goals_list_value
-      hint: null
+      label: Customer Goals List Value
+      hint: Please select customer goals list value
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 12
-      name: vehicle_make
-      label: vehicle_make
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      name: notes
+      label: Notes
+      hint: Please enter notes
+      type: text
+      options: []
+      required: true
     - id: 13
-      name: vehicle_model
-      label: vehicle_model
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: customer_goal
-      label: customer_goal
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: customer_goal_value
-      label: customer_goal_value
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: customer_goal_value_list
-      label: customer_goal_value_list
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: file_type
-      label: file_type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: file_url
-      label: file_url
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: customer_goals_list_value
-      label: customer_goals_list_value
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: vehicle_details
-      label: vehicle_details
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: vehicle_id
-      label: vehicle_id
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: customer_goals_list
-      label: customer_goals_list
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: submit
-      label: submit
-      hint: null
+      label: Submit
+      hint: Please submit your request
       type: text
       options: []
-      required: false
+      required: true

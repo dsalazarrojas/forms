@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''maybe''}'
-      - '{''label'': ''not_applying''}'
+      - 'True'
+      - 'False'
+      - maybe
+      - not applying
       required: false
     - id: 6
       name: attended_all_events
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''partially''}'
-      - '{''label'': ''did_not_attend''}'
+      - 'True'
+      - 'False'
+      - partially
+      - did not attend
       required: false
     - id: 7
       name: attended_all_lectures
@@ -59,10 +59,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''partially''}'
-      - '{''label'': ''did_not_attend''}'
+      - 'True'
+      - 'False'
+      - partially
+      - did not attend
       required: false
     - id: 8
       name: attended_all_tutorials
@@ -70,10 +70,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''partially''}'
-      - '{''label'': ''did_not_attend''}'
+      - 'True'
+      - 'False'
+      - partially
+      - did not attend
       required: false
     - id: 9
       name: attended_all_seminars
@@ -81,10 +81,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''partially''}'
-      - '{''label'': ''did_not_attend''}'
+      - 'True'
+      - 'False'
+      - partially
+      - did not attend
       required: false
     - id: 10
       name: overall_satisfaction
@@ -92,11 +92,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''very_satisfied''}'
-      - '{''label'': ''somewhat_satisfied''}'
-      - '{''label'': ''neutral''}'
-      - '{''label'': ''somewhat_dissatisfied''}'
-      - '{''label'': ''very_dissatisfied''}'
+      - very satisfied
+      - somewhat satisfied
+      - neutral
+      - somewhat dissatisfied
+      - very dissatisfied
       required: false
     - id: 11
       name: recommend_to_participants
@@ -104,8 +104,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: recommend_to_organization
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: will_attend_next_semester
@@ -122,10 +122,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''maybe''}'
-      - '{''label'': ''not_applying''}'
+      - 'True'
+      - 'False'
+      - maybe
+      - not applying
       required: false
     - id: 14
       name: suggestions

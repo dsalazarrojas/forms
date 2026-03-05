@@ -5,194 +5,146 @@ inputSchema:
     pages:
     - id: 1
       name: suggestion_program_entry_form_page_1
-      label: feedback_form
+      label: What is your suggestion?
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: suggestion_form
-      label: suggestion_form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: submit_suggestion
-      label: submit_suggestion
+      name: suggestion_program_entry_form_page_2
+      label: When did you experience this issue?
       hint: null
       type: date
+      options: []
+      required: true
+    - id: 3
+      name: suggestion_program_entry_form_page_3
+      label: What time of day did you experience this issue?
+      hint: null
+      type: time
       options: []
       required: false
     - id: 4
-      name: suggestion_details
-      label: suggestion_details
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: suggestion_program_entry_form_page_2
-      label: feedback_form2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: suggestion_program_entry_form_page_3
-      label: suggestion_form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
       name: suggestion_program_entry_form_page_4
-      label: suggestion_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: suggestion_program_entry_form_page_5
-      label: suggestion_program_entry_form
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 9
-      name: submit_suggestion
-      label: submit_suggestion
+      label: Did you experience a positive or negative issue?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: suggestion_program_entry_form_page_6
-      label: suggestion_form
+      - Yes, positive
+      - No, negative
+      required: true
+    - id: 5
+      name: suggestion_program_entry_form_page_5
+      label: How often would you like to be contacted about this issue?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
+      - Yes, always
+      - Yes, sometimes
+      - No, never
+      required: true
+    - id: 6
+      name: suggestion_program_entry_form_page_6
+      label: How would you rate your confidence in your suggestion?
+      hint: null
+      type: select_multiple
+      options:
+      - Very confident
+      - Somewhat confident
+      - Not very confident
+      - Not at all confident
+      required: true
+    - id: 7
       name: suggestion_program_entry_form_page_7
-      label: suggestion_details
+      label: What would you like to see improved?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 8
       name: suggestion_program_entry_form_page_8
-      label: suggestion_program_entry_form
+      label: Do you have any additional details about your suggestion?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: suggestion_program_entry_form_page_9
+      label: What do you think is the root cause of the issue?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: suggestion_program_entry_form_page_10
+      label: Do you have any suggestions for solutions?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: suggestion_program_entry_form_page_11
+      label: Would you like to submit this suggestion anonymously?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: suggestion_program_entry_form_page_12
+      label: Would you like to receive updates on this issue?
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, always
+      - Yes, sometimes
+      - No, never
+      required: true
+    - id: 13
+      name: suggestion_program_entry_form_page_13
+      label: How would you like to receive updates?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: suggestion_program_entry_form_page_14
+      label: Do you have any other comments?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: suggestion_program_entry_form_page_15
+      label: Would you like to attach any files to your suggestion?
       hint: null
       type: note
       options: []
-      required: false
-    - id: 13
-      name: suggestion_program_entry_form_page_9
-      label: feedback_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: suggestion_program_entry_form_page_10
-      label: suggestion_form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: suggestion_program_entry_form_page_11
-      label: suggestion_details
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 16
-      name: suggestion_program_entry_form_page_12
-      label: suggestion_program_entry_form
+      name: suggestion_program_entry_form_page_16
+      label: Is this suggestion related to an existing issue?
+      hint: null
+      type: select_one
+      options:
+      - Yes, existing issue
+      - No, new issue
+      required: true
+    - id: 17
+      name: suggestion_program_entry_form_page_17
+      label: Do you have any other questions or concerns?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 17
-      name: suggestion_program_entry_form_page_13
-      label: suggestion_form
+      required: true
+    - id: 18
+      name: suggestion_program_entry_form_page_18
+      label: Can we follow up with you about this issue?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: suggestion_program_entry_form_page_14
-      label: suggestion_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: suggestion_program_entry_form_page_15
-      label: suggestion_program_entry_form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: suggestion_program_entry_form_page_16
-      label: suggestion_form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: suggestion_program_entry_form_page_17
-      label: suggestion_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: suggestion_program_entry_form_page_18
-      label: suggestion_program_entry_form
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: suggestion_program_entry_form_page_19
-      label: feedback_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: suggestion_program_entry_form_page_20
-      label: suggestion_form
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: suggestion_program_entry_form_page_21
-      label: suggestion_details
-      hint: null
-      type: time
-      options: []
-      required: false
+      - Yes, always
+      - Yes, sometimes
+      - No, never
+      required: true

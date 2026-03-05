@@ -4,183 +4,67 @@ inputSchema:
     title: TYB Happy Sheets
     pages:
     - id: 1
-      name: tyb_happy_sheets_feedback_form_1_reporter
-      label: feedback_form_1
+      name: reporter
+      label: Who reported this feedback?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: tyb_happy_sheets_feedback_form_1_rating
-      label: rating
+      name: feedback_form_1_rating
+      label: Overall rating
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: tyb_happy_sheets_feedback_form_1_comment
-      label: comment
+      name: feedback_form_1_satisfaction
+      label: How satisfied were you?
       hint: null
-      type: text
+      type: number
       options: []
       required: true
     - id: 4
-      name: tyb_happy_sheets_feedback_form_1_rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 5
-      name: tyb_happy_sheets_feedback_form_1_satisfaction
-      label: satisfaction
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: tyb_happy_sheets_feedback_form_1_satisfaction
-      label: satisfaction
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
-      name: tyb_happy_sheets_feedback_form_1_recommendedistency
-      label: recommended
-      hint: null
-      type: select_one
-      options:
-      - 'yes'
-      - 'no'
-      required: true
-    - id: 8
-      name: tyb_happy_sheets_feedback_form_1_recommended
-      label: recommended
+      name: recommended
+      label: Would you recommend this service?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 9
-      name: tyb_happy_sheets_feedback_form_1_satisfaction
-      label: satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: tyb_happy_sheets_feedback_form_1_recommended
-      label: recommended
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: tyb_happy_sheets_feedback_form_1_time
-      label: time
+      required: true
+    - id: 5
+      name: time_of_visit
+      label: Time of visit
       hint: null
       type: time
       options: []
       required: true
-    - id: 12
-      name: tyb_happy_sheets_feedback_form_1_date
-      label: date
+    - id: 6
+      name: date_of_visit
+      label: Date of visit
       hint: null
       type: text
       options: []
       required: true
-    - id: 13
-      name: tyb_happy_sheets_feedback_form_1_phone
-      label: contact_phone
+    - id: 7
+      name: contact_phone
+      label: Contact phone
       hint: null
       type: text
       options: []
       required: true
-    - id: 14
-      name: tyb_happy_sheets_feedback_form_1_email
-      label: email
+    - id: 8
+      name: email
+      label: Contact email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 15
-      name: tyb_happy_sheets_feedback_form_1_contact_email
-      label: contact_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: tyb_happy_sheets_feedback_form_1_comment
-      label: feedback
+      required: true
+    - id: 9
+      name: feedback
+      label: Additional comment
       hint: null
       type: note
       options: []
       required: true
-    - id: 17
-      name: tyb_happy_sheets_feedback_form_1_rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: tyb_happy_sheets_feedback_form_1_satisfaction
-      label: satisfaction
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: tyb_happy_sheets_feedback_form_1_recommended
-      label: recommended
-      hint: null
-      type: select_one
-      options:
-      - 'yes'
-      - 'no'
-      required: true
-    - id: 20
-      name: tyb_happy_sheets_feedback_form_1_reporter
-      label: reporter
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: tyb_happy_sheets_feedback_form_1_satisfaction
-      label: satisfaction
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: tyb_happy_sheets_feedback_form_1_comment
-      label: comment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: tyb_happy_sheets_feedback_form_1_phone
-      label: contact_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: tyb_happy_sheets_feedback_form_1_recommended
-      label: recommended
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: tyb_happy_sheets_feedback_form_1_recommended
-      label: recommended
-      hint: null
-      type: text
-      options: []
-      required: false

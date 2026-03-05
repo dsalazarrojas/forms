@@ -65,12 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 9.1, ''name'': ''event_type'', ''label'': ''Event Type'', ''value'':
-        ''Trade Show''}'
-      - '{''id'': 9.2, ''name'': ''event_type'', ''label'': ''Trade Show'', ''value'':
-        ''Trade Show''}'
-      - '{''id'': 9.3, ''name'': ''event_type'', ''label'': ''Seminar'', ''value'':
-        ''Seminar''}'
+      - Event Type
+      - Trade Show
+      - Seminar
       required: false
     - id: 10
       name: business_services
@@ -78,12 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 10.1, ''name'': ''business_services'', ''label'': ''Networking'',
-        ''value'': ''Networking''}'
-      - '{''id'': 10.2, ''name'': ''business_services'', ''label'': ''Marketing'',
-        ''value'': ''Marketing''}'
-      - '{''id'': 10.3, ''name'': ''business_services'', ''label'': ''Sponsorship'',
-        ''value'': ''Sponsorship''}'
+      - Networking
+      - Marketing
+      - Sponsorship
       required: false
     - id: 11
       name: collaboration_goals
@@ -91,12 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 11.1, ''name'': ''collaboration_goals'', ''label'': ''Collaboration'',
-        ''value'': ''Collaboration''}'
-      - '{''id'': 11.2, ''name'': ''collaboration_goals'', ''label'': ''Sponsorship'',
-        ''value'': ''Sponsorship''}'
-      - '{''id'': 11.3, ''name'': ''collaboration_goals'', ''label'': ''Partnership'',
-        ''value'': ''Partnership''}'
+      - Collaboration
+      - Sponsorship
+      - Partnership
       required: false
     - id: 12
       name: organization
@@ -132,8 +123,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 16.1, ''name'': ''email'', ''label'': ''Email'', ''value'': ''email''}'
-      - '{''id'': 16.2, ''name'': ''phone'', ''label'': ''Phone'', ''value'': ''phone''}'
+      - Email
+      - Phone
       required: false
     - id: 17
       name: event_date
@@ -155,9 +146,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 19.1, ''name'': ''location'', ''label'': ''Online'', ''value'':
-        ''Online''}'
-      - '{''id'': 19.2, ''name'': ''location'', ''label'': ''Local'', ''value'': ''Local''}'
+      - Online
+      - Local
       required: false
     - id: 20
       name: event_duration
@@ -165,10 +155,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 20.1, ''name'': ''event_duration'', ''label'': ''Half-day'', ''value'':
-        ''Half-day''}'
-      - '{''id'': 20.2, ''name'': ''event_duration'', ''label'': ''Full-day'', ''value'':
-        ''Full-day''}'
-      - '{''id'': 20.3, ''name'': ''event_duration'', ''label'': ''All-day'', ''value'':
-        ''All-day''}'
+      - Half-day
+      - Full-day
+      - All-day
       required: false

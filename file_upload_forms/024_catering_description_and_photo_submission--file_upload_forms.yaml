@@ -186,7 +186,7 @@ inputSchema:
       options:
       - Yes - Fully Insured
       - Yes - Partially Insured
-      - false
+      - 'False'
       required: true
     - id: 23
       name: references_available
@@ -194,8 +194,8 @@ inputSchema:
       hint: Can you provide references
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: additional_comments

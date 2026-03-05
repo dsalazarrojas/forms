@@ -4,199 +4,48 @@ inputSchema:
     title: Electronic File Submission Form
     pages:
     - id: 1
-      name: file_submission_form
-      label: form_title
+      name: file_name
+      label: File Name
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: file_name
-      label: file_name
+      name: file_description
+      label: File Description
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: date_uploaded
-      label: date_uploaded
+      name: file_attachment
+      label: Is it Attached?
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 4
-      name: file_description
-      label: file_description
+      name: attachment_type
+      label: Attachment Type
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 5
-      name: file_attachment
-      label: file_attachment
+      name: file_size
+      label: File Size
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 6
-      name: attachment_type
-      label: attachment_type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: file_size
-      label: file_size
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: file_hash
-      label: file_hash
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: file_version
-      label: file_version
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
       name: file_tags
-      label: file_tags
+      label: File Tags
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: file_tags_list
-      label: file_tags_list
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: file_description_list
-      label: file_description_list
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: file_attachment_list
-      label: file_attachment_list
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: attachment_type_list
-      label: attachment_type_list
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: file_size_list
-      label: file_size_list
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: file_hash_list
-      label: file_hash_list
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: file_version_list
-      label: file_version_list
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: file_tags_list_2
-      label: file_tags_list_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: file_tags_list_2
-      label: file_tags_list_2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: file_tags_list_3
-      label: file_tags_list_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: file_tags_list_3
-      label: file_tags_list_3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: file_tags_list_4
-      label: file_tags_list_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: file_tags_list_4
-      label: file_tags_list_4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: file_tags_list_5
-      label: file_tags_list_5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: file_tags_list_5
-      label: file_tags_list_5
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very good''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Very good
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 2
       name: project_milestones
@@ -20,10 +20,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not yet''}'
-      - '{''id'': 3, ''label'': ''Delayed''}'
-      - '{''id'': 4, ''label'': ''Cancelled''}'
+      - Completed
+      - Not yet
+      - Delayed
+      - Cancelled
       required: true
     - id: 3
       name: project_adoption
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 5
       name: feedback
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''EST''}'
-      - '{''id'': 2, ''label'': ''PST''}'
+      - EST
+      - PST
       required: false
     - id: 11
       name: comments
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In Progress''}'
-      - '{''id'': 2, ''label'': ''Completed''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - In Progress
+      - Completed
+      - Cancelled
       required: true
     - id: 13
       name: additional_comments
@@ -188,9 +188,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 25
       name: project_urgency
@@ -198,7 +198,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false

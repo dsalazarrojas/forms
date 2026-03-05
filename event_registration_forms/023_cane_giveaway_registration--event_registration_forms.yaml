@@ -89,7 +89,7 @@ inputSchema:
       - Yes - walker
       - Yes - wheelchair
       - Yes - other
-      - false
+      - 'False'
       required: true
     - id: 12
       name: cane_type_needed
@@ -166,8 +166,8 @@ inputSchema:
       hint: Doctor recommendation
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Pending consultation
       required: false
     - id: 19
@@ -259,7 +259,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I agree
-      - false
+      - 'False'
       required: true
     - id: 28
       name: registration_date

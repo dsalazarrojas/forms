@@ -4,272 +4,125 @@ inputSchema:
     title: Tenant Empowerment Perception Survey
     pages:
     - id: 1
-      name: survey_form
-      label: tenant_survey_form
+      name: communication_satisfaction
+      label: How would you rate your overall satisfaction with communication from
+        your landlord/property manager?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 2
-      name: renter_awareness
-      label: what_is_renter_awareness
+      name: communication_frequency
+      label: How often do you communicate with your landlord/property manager?
+      hint: null
+      type: select_one
+      options:
+      - Very frequent
+      - Frequent
+      - Occasional
+      - Rare
+      required: false
+    - id: 3
+      name: communication_channel
+      label: Which of the following channels do you most often use to communicate
+        with your landlord/property manager?
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - phone
+      - in person
+      required: true
+    - id: 4
+      name: tenant_awareness
+      label: How would you rate your awareness of maintenance and repairs in your
+        building/property?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: maintenance_frequency
+      label: How often do you experience maintenance or repairs in your building/property?
+      hint: null
+      type: select_one
+      options:
+      - Very frequent
+      - Frequent
+      - Occasional
+      - Rare
+      required: false
+    - id: 6
+      name: communication_effectiveness
+      label: How would you rate the effectiveness of communication from your landlord/property
+        manager?
       hint: null
       type: number
       options: []
       required: false
-    - id: 3
-      name: communication_effectiveness
-      label: communication_effectiveness
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 10, ''label'': ''very_satisfied''}'
-      - '{''id'': 20, ''label'': ''satisfied''}'
-      - '{''id'': 30, ''label'': ''neutral''}'
-      - '{''id'': 40, ''label'': ''dissatisfied''}'
-      - '{''id'': 50, ''label'': ''very_dissatisfied''}'
-      required: false
-    - id: 4
-      name: improvement_ideas
-      label: improvement_ideas
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: feedback
-      label: tenant_feedback
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 100, ''label'': ''communication''}'
-      - '{''id'': 110, ''label'': ''maintenance''}'
-      - '{''id'': 120, ''label'': ''repairs''}'
-      - '{''id'': 130, ''label'': ''other''}'
-      required: false
-    - id: 6
-      name: communication_satisfaction
-      label: communication_satisfaction
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 200, ''label'': ''very_satisfied''}'
-      - '{''id'': 210, ''label'': ''satisfied''}'
-      - '{''id'': 220, ''label'': ''neutral''}'
-      - '{''id'': 230, ''label'': ''dissatisfied''}'
-      - '{''id'': 240, ''label'': ''very_dissatisfied''}'
-      required: false
     - id: 7
-      name: communication_frequency
-      label: communication_frequency
+      name: communication_satisfaction_2
+      label: How satisfied are you with the overall condition of your building/property?
       hint: null
-      type: time
+      type: number
       options: []
       required: false
     - id: 8
-      name: communication_channel
-      label: communication_channel
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 400, ''label'': ''email''}'
-      - '{''id'': 410, ''label'': ''phone''}'
-      - '{''id'': 420, ''label'': ''in_person''}'
-      required: false
-    - id: 9
-      name: tenant_awareness
-      label: tenant_awareness
+      name: maintenance_satisfaction
+      label: How would you rate the satisfaction with maintenance and repairs in your
+        building/property?
       hint: null
       type: number
       options: []
       required: false
+    - id: 9
+      name: feedback
+      label: How often do you provide feedback to your landlord/property manager?
+      hint: null
+      type: select_one
+      options:
+      - Very frequent
+      - Frequent
+      - Occasional
+      - Rare
+      required: true
     - id: 10
-      name: tenant_awareness_rating
-      label: tenant_awareness_rating
+      name: tenant_survey
+      label: How would you rate your satisfaction with the overall condition of your
+        building/property?
       hint: null
       type: number
       options: []
       required: false
     - id: 11
-      name: communication_frequency_rating
-      label: communication_frequency_rating
+      name: maintenance_awareness
+      label: How often do you receive maintenance or repair notifications from your
+        landlord/property manager?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Very frequent
+      - Frequent
+      - Occasional
+      - Rare
       required: false
     - id: 12
-      name: tenant_feedback
-      label: tenant_feedback
+      name: maintenance_frequency_2
+      label: How often do you experience issues with maintenance and repairs in your
+        building/property?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''id'': 500, ''label'': ''very_satisfied''}'
-      - '{''id'': 510, ''label'': ''satisfied''}'
-      - '{''id'': 520, ''label'': ''neutral''}'
-      - '{''id'': 530, ''label'': ''dissatisfied''}'
-      - '{''id'': 540, ''label'': ''very_dissatisfied''}'
+      - Very frequent
+      - Frequent
+      - Occasional
+      - Rare
       required: false
     - id: 13
-      name: maintenance_frequency
-      label: maintenance_frequency
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 600, ''label'': ''very_frequent''}'
-      - '{''id'': 610, ''label'': ''frequent''}'
-      - '{''id'': 620, ''label'': ''occasional''}'
-      - '{''id'': 630, ''label'': ''rare''}'
-      required: false
-    - id: 14
-      name: maintenance_satisfaction
-      label: maintenance_satisfaction
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 700, ''label'': ''very_satisfied''}'
-      - '{''id'': 710, ''label'': ''satisfied''}'
-      - '{''id'': 720, ''label'': ''neutral''}'
-      - '{''id'': 730, ''label'': ''dissatisfied''}'
-      - '{''id'': 740, ''label'': ''very_dissatisfied''}'
-      required: false
-    - id: 15
-      name: maintenance_frequency_rating
-      label: maintenance_frequency_rating
+      name: maintenance_satisfaction_2
+      label: How would you rate your satisfaction with the overall condition of maintenance
+        and repairs in your building/property?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 16
-      name: tenant_survey
-      label: tenant_survey
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 800, ''label'': ''very_satisfied''}'
-      - '{''id'': 810, ''label'': ''satisfied''}'
-      - '{''id'': 820, ''label'': ''neutral''}'
-      - '{''id'': 830, ''label'': ''dissatisfied''}'
-      - '{''id'': 840, ''label'': ''very_dissatisfied''}'
-      required: false
-    - id: 17
-      name: communication_satisfaction_rating
-      label: communication_satisfaction_rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: maintenance_satisfaction_rating
-      label: maintenance_satisfaction_rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: tenant_awareness_rating2
-      label: tenant_awareness_rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: communication_effectiveness_rating
-      label: communication_effectiveness_rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: renter_awareness2
-      label: renter_awareness
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 900, ''label'': ''very_satisfied''}'
-      - '{''id'': 910, ''label'': ''satisfied''}'
-      - '{''id'': 920, ''label'': ''neutral''}'
-      - '{''id'': 930, ''label'': ''dissatisfied''}'
-      - '{''id'': 940, ''label'': ''very_dissatisfied''}'
-      required: false
-    - id: 22
-      name: maintenance_frequency_rating2
-      label: maintenance_frequency_rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: communication_frequency_rating2
-      label: communication_frequency_rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: feedback2
-      label: feedback
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1000, ''label'': ''very_satisfied''}'
-      - '{''id'': 1010, ''label'': ''satisfied''}'
-      - '{''id'': 1020, ''label'': ''neutral''}'
-      - '{''id'': 1030, ''label'': ''dissatisfied''}'
-      - '{''id'': 1040, ''label'': ''very_dissatisfied''}'
-      required: false
-    - id: 25
-      name: maintenance_satisfaction2
-      label: maintenance_satisfaction
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1100, ''label'': ''very_satisfied''}'
-      - '{''id'': 1110, ''label'': ''satisfied''}'
-      - '{''id'': 1120, ''label'': ''neutral''}'
-      - '{''id'': 1130, ''label'': ''dissatisfied''}'
-      - '{''id'': 1140, ''label'': ''very_dissatisfied''}'
-      required: false
-    - id: 26
-      name: maintenance_awareness
-      label: maintenance_awareness
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1200, ''label'': ''very_satisfied''}'
-      - '{''id'': 1210, ''label'': ''satisfied''}'
-      - '{''id'': 1220, ''label'': ''neutral''}'
-      - '{''id'': 1230, ''label'': ''dissatisfied''}'
-      - '{''id'': 1240, ''label'': ''very_dissatisfied''}'
-      required: false
-    - id: 27
-      name: maintenance_awareness_rating
-      label: maintenance_awareness_rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 28
-      name: maintenance_frequency2
-      label: maintenance_frequency
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1300, ''label'': ''very_frequent''}'
-      - '{''id'': 1310, ''label'': ''frequent''}'
-      - '{''id'': 1320, ''label'': ''occasional''}'
-      - '{''id'': 1330, ''label'': ''rare''}'
-      required: false
-    - id: 29
-      name: maintenance_satisfaction_rating2
-      label: maintenance_satisfaction_rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 30
-      name: maintenance_frequency_rating2
-      label: maintenance_frequency_rating
-      hint: null
-      type: number
-      options: []
-      required: false
+      required: true

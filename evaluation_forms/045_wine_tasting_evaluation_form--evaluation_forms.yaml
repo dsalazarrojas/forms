@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Red'', ''label'': ''Red''}'
-      - '{''id'': 2, ''name'': ''White'', ''label'': ''White''}'
-      - '{''id'': 3, ''name'': ''Sparkling'', ''label'': ''Sparkling''}'
+      - Red
+      - White
+      - Sparkling
       required: false
     - id: 9
       name: region
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Bordeaux'', ''label'': ''Bordeaux''}'
-      - '{''id'': 2, ''name'': ''Burgundy'', ''label'': ''Burgundy''}'
-      - '{''id'': 3, ''name'': ''Rioja'', ''label'': ''Rioja''}'
+      - Bordeaux
+      - Burgundy
+      - Rioja
       required: false
     - id: 10
       name: vintage
@@ -78,7 +78,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': 1990, ''label'': 1990}'
-      - '{''id'': 2, ''name'': 1995, ''label'': 1995}'
-      - '{''id'': 3, ''name'': 2000, ''label'': 2000}'
+      - '1990'
+      - '1995'
+      - '2000'
       required: false

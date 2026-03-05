@@ -14,35 +14,38 @@ inputSchema:
       required: false
     - id: 2
       name: date_visited
-      label: date_visited
+      label: Date Visited
       hint: null
       type: date
       options: []
       required: false
     - id: 3
       name: room_name
-      label: room_name
+      label: Room Name
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: event_length
-      label: event_length
+      label: Event Length
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Too short
+      - Just right
+      - Too long
       required: false
     - id: 5
       name: overall_impact
-      label: overall_impact
+      label: Overall Impact
       hint: null
       type: number
       options: []
       required: false
     - id: 6
       name: room_difficulty
-      label: room_difficulty
+      label: Room Difficulty
       hint: null
       type: select_one
       options:
@@ -54,7 +57,7 @@ inputSchema:
       required: false
     - id: 7
       name: event_enjoyment
-      label: event_enjoyment
+      label: Event Enjoyment
       hint: null
       type: select_one
       options:
@@ -65,29 +68,29 @@ inputSchema:
       required: false
     - id: 8
       name: room_clarity
-      label: room_clarity
+      label: Room Clarity
       hint: null
       type: select_one
       options:
       - Very clear
       - Somewhat clear
       - Neutral
-      - Somewhat confused
-      - Very confused
+      - Somewhat unclear
+      - Very unclear
       required: false
     - id: 9
       name: room_puzzles
-      label: room_puzzles
+      label: Room Puzzles
       hint: null
       type: select_multiple
       options:
-      - Puzzles were well-designed
-      - Puzzles were somewhat well-designed
-      - Puzzles were poorly designed
+      - Puzzles were logical
+      - Puzzles were somewhat logical
+      - Puzzles were illogical
       required: false
     - id: 10
       name: room_decor
-      label: room_decor
+      label: Room Decor
       hint: null
       type: select_one
       options:
@@ -99,7 +102,7 @@ inputSchema:
       required: false
     - id: 11
       name: event_story
-      label: event_story
+      label: Event Story
       hint: null
       type: select_multiple
       options:
@@ -109,9 +112,9 @@ inputSchema:
       required: false
     - id: 12
       name: event_atmosphere
-      label: event_atmosphere
+      label: Event Atmosphere
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - Perfect
       - Somewhat
@@ -119,9 +122,9 @@ inputSchema:
       required: false
     - id: 13
       name: event_clarity
-      label: event_clarity
+      label: Event Clarity
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - Very clear
       - Somewhat clear
@@ -131,9 +134,9 @@ inputSchema:
       required: false
     - id: 14
       name: event_imagination
-      label: event_imagination
+      label: Event Imagination
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - Very easy to imagine
       - Somewhat easy to imagine
@@ -143,9 +146,9 @@ inputSchema:
       required: false
     - id: 15
       name: event_originality
-      label: event_originality
+      label: Event Originality
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - Very original
       - Somewhat original
@@ -154,82 +157,8 @@ inputSchema:
       - Very unoriginal
       required: false
     - id: 16
-      name: event_length
-      label: event_length
-      hint: null
-      type: select_one
-      options:
-      - Too short
-      - Just right
-      - Too long
-      required: false
-    - id: 17
-      name: event_puzzles
-      label: event_puzzles
-      hint: null
-      type: select_multiple
-      options:
-      - Puzzles were logical
-      - Puzzles were somewhat logical
-      - Puzzles were illogical
-      required: false
-    - id: 18
-      name: event_imagination
-      label: event_imagination
-      hint: null
-      type: select_multiple
-      options:
-      - Engaging story
-      - Somewhat engaging story
-      - Not engaging story
-      required: false
-    - id: 19
-      name: event_clarity
-      label: event_clarity
-      hint: null
-      type: select_multiple
-      options:
-      - Very clear
-      - Somewhat clear
-      - Neutral
-      - Somewhat unclear
-      - Very unclear
-      required: false
-    - id: 20
-      name: event_puzzles
-      label: event_puzzles
-      hint: null
-      type: select_multiple
-      options:
-      - Puzzles were logical
-      - Puzzles were somewhat logical
-      - Puzzles were illogical
-      required: false
-    - id: 21
-      name: event_originality
-      label: event_originality
-      hint: null
-      type: select_multiple
-      options:
-      - Very original
-      - Somewhat original
-      - Neutral
-      - Somewhat unoriginal
-      - Very unoriginal
-      required: false
-    - id: 22
-      name: event_atmosphere
-      label: event_atmosphere
-      hint: null
-      type: select_multiple
-      options:
-      - Perfect
-      - Somewhat
-      - Not good
-      required: false
-    - id: 23
-      name: event_imagination
-      label: event_imagination
+      name: room_imagination
+      label: Room Imagination
       hint: null
       type: select_multiple
       options:
@@ -239,9 +168,9 @@ inputSchema:
       - Somewhat hard to imagine
       - Very hard to imagine
       required: false
-    - id: 24
-      name: event_length
-      label: event_length
+    - id: 17
+      name: event_length_2
+      label: Event Length 2
       hint: null
       type: select_multiple
       options:
@@ -249,9 +178,9 @@ inputSchema:
       - Just right
       - Too long
       required: false
-    - id: 25
-      name: event_clarify
-      label: event_clarify
+    - id: 18
+      name: room_clarify
+      label: Room Clarify
       hint: null
       type: select_one
       options:
@@ -260,4 +189,81 @@ inputSchema:
       - Neutral
       - Somewhat unclear
       - Very unclear
+      required: false
+    - id: 19
+      name: event_imagination_2
+      label: Event Imagination 2
+      hint: null
+      type: select_multiple
+      options:
+      - Very easy to imagine
+      - Somewhat easy to imagine
+      - Neutral
+      - Somewhat hard to imagine
+      - Very hard to imagine
+      required: false
+    - id: 20
+      name: event_originality_2
+      label: Event Originality 2
+      hint: null
+      type: select_multiple
+      options:
+      - Very original
+      - Somewhat original
+      - Neutral
+      - Somewhat unoriginal
+      - Very unoriginal
+      required: false
+    - id: 21
+      name: room_length
+      label: Room Length
+      hint: null
+      type: select_multiple
+      options:
+      - Too short
+      - Just right
+      - Too long
+      required: false
+    - id: 22
+      name: event_clarity_2
+      label: Event Clarity 2
+      hint: null
+      type: select_multiple
+      options:
+      - Very clear
+      - Somewhat clear
+      - Neutral
+      - Somewhat unclear
+      - Very unclear
+      required: false
+    - id: 23
+      name: event_puzzles
+      label: Event Puzzles
+      hint: null
+      type: select_multiple
+      options:
+      - Puzzles were logical
+      - Puzzles were somewhat logical
+      - Puzzles were illogical
+      required: false
+    - id: 24
+      name: room_enjoyment
+      label: Room Enjoyment
+      hint: null
+      type: select_one
+      options:
+      - Very much
+      - Somewhat
+      - A little
+      - Not at all
+      required: false
+    - id: 25
+      name: room_atmosphere
+      label: Room Atmosphere
+      hint: null
+      type: select_multiple
+      options:
+      - Perfect
+      - Somewhat
+      - Not good
       required: false

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Event1'', ''value'': 1}'
-      - '{''label'': ''Event2'', ''value'': 2}'
-      - '{''label'': ''Event3'', ''value'': 3}'
+      - Event1
+      - Event2
+      - Event3
       required: false
     - id: 3
       name: performance
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Performance1'', ''value'': 1}'
-      - '{''label'': ''Performance2'', ''value'': 2}'
-      - '{''label'': ''Performance3'', ''value'': 3}'
+      - Performance1
+      - Performance2
+      - Performance3
       required: false
     - id: 4
       name: attendance
@@ -36,8 +36,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': 1}'
-      - '{''label'': False, ''value'': 2}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: comments
@@ -185,8 +185,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active'', ''value'': 1}'
-      - '{''label'': ''Inactive'', ''value'': 2}'
+      - Active
+      - Inactive
       required: false
     - id: 26
       name: field_26

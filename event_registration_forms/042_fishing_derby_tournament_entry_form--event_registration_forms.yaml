@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Trout''}'
-      - '{''value'': ''Salmon''}'
-      - '{''value'': ''Bass''}'
-      - '{''value'': ''Catfish''}'
-      - '{''value'': ''Other''}'
+      - Trout
+      - Salmon
+      - Bass
+      - Catfish
+      - Other
       required: true
     - id: 7
       name: fish_length_in_inches
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: true
     - id: 10
       name: is_qualified_to_enter
@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: special_requests
@@ -123,10 +123,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Fly''}'
-      - '{''value'': ''Spinning''}'
-      - '{''value'': ''Bait''}'
-      - '{''value'': ''Other''}'
+      - Fly
+      - Spinning
+      - Bait
+      - Other
       required: true
     - id: 17
       name: bait_used
@@ -134,8 +134,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Live''}'
-      - '{''value'': ''Artificial''}'
+      - Live
+      - Artificial
       required: true
     - id: 18
       name: tackle_used
@@ -143,10 +143,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Rod''}'
-      - '{''value'': ''Reel''}'
-      - '{''value'': ''Net''}'
-      - '{''value'': ''Other''}'
+      - Rod
+      - Reel
+      - Net
+      - Other
       required: true
     - id: 19
       name: fish_caught_with
@@ -154,9 +154,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Hand''}'
-      - '{''value'': ''Net''}'
-      - '{''value'': ''Other''}'
+      - Hand
+      - Net
+      - Other
       required: true
     - id: 20
       name: number_of_fish_caught
@@ -185,8 +185,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: is_reserving_for_minor_age
@@ -194,14 +194,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''6 years old''}'
-      - '{''value'': ''7-9 years old''}'
-      - '{''value'': ''10-12 years old''}'
-      - '{''value'': ''13-15 years old''}'
-      - '{''value'': ''16-17 years old''}'
-      - '{''value'': ''18-20 years old''}'
-      - '{''value'': ''21-23 years old''}'
-      - '{''value'': ''24 years old or older''}'
+      - 6 years old
+      - 7-9 years old
+      - 10-12 years old
+      - 13-15 years old
+      - 16-17 years old
+      - 18-20 years old
+      - 21-23 years old
+      - 24 years old or older
       required: true
     - id: 25
       name: confirm
@@ -209,6 +209,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false

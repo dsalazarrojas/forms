@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -41,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Social'', ''label'': ''Social''}'
-      - '{''id'': 2, ''name'': ''Influencer'', ''label'': ''Influencer''}'
-      - '{''id'': 3, ''name'': ''Affiliate'', ''label'': ''Affiliate''}'
+      - Social
+      - Influencer
+      - Affiliate
       required: true
     - id: 5
       name: campaign_link
@@ -58,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Very Satisfied'', ''label'': ''Very Satisfied''}'
-      - '{''id'': 2, ''name'': ''Satisfied'', ''label'': ''Satisfied''}'
-      - '{''id'': 3, ''name'': ''Not Satisfied'', ''label'': ''Not Satisfied''}'
-      - '{''id'': 4, ''name'': ''Very Dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Satisfied
+      - Not Satisfied
+      - Very Dissatisfied
       required: true
     - id: 7
       name: comments
@@ -76,8 +65,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Google'', ''label'': ''Google''}'
-      - '{''id'': 2, ''name'': ''Social'', ''label'': ''Social''}'
+      - Google
+      - Social
       required: true
     - id: 9
       name: recommended_features
@@ -85,8 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: follow_up
@@ -94,8 +83,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Follow-up'', ''label'': ''Follow-up''}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - Follow-up
+      - 'False'
       required: true
     - id: 11
       name: email_subject
@@ -117,8 +106,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Sent'', ''label'': ''Sent''}'
-      - '{''id'': 2, ''name'': ''Not Sent'', ''label'': ''Not Sent''}'
+      - Sent
+      - Not Sent
       required: true
     - id: 14
       name: email_to
@@ -126,9 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''To Email'', ''label'': ''To Email''}'
-      - '{''id'': 2, ''name'': ''From Email'', ''label'': ''From Email''}'
-      - '{''id'': 3, ''name'': False, ''label'': False}'
+      - To Email
+      - From Email
+      - 'False'
       required: true
     - id: 15
       name: email_from
@@ -143,8 +132,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: additional_comments
@@ -173,11 +162,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Chat'', ''label'': ''Chat''}'
-      - '{''id'': 2, ''name'': ''Email'', ''label'': ''Email''}'
-      - '{''id'': 3, ''name'': ''Phone'', ''label'': ''Phone''}'
-      - '{''id'': 4, ''name'': ''In-app'', ''label'': ''In-app''}'
-      - '{''id'': 5, ''name'': False, ''label'': False}'
+      - Chat
+      - Email
+      - Phone
+      - In-app
+      - 'False'
       required: true
     - id: 21
       name: platform_promotions_time
@@ -215,24 +204,24 @@ inputSchema:
       options: []
       required: true
     - id: 26
-      name: additional_comments
-      label: Additional Comments
+      name: additional_comments_2
+      label: Additional Comments 2
       hint: null
       type: text
       options: []
       required: true
     - id: 27
-      name: platform_promotions
-      label: Platform Promotions
+      name: platform_promotions_2
+      label: Platform Promotions 2
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Google'', ''label'': ''Google''}'
-      - '{''id'': 2, ''name'': ''Social'', ''label'': ''Social''}'
+      - Google
+      - Social
       required: true
     - id: 28
-      name: platform_promotions_comments
-      label: Platform Promotions Comments
+      name: platform_promotions_comments_2
+      label: Platform Promotions Comments 2
       hint: null
       type: text
       options: []

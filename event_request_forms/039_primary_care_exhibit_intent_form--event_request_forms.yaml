@@ -5,188 +5,77 @@ inputSchema:
     pages:
     - id: 1
       name: exhibitor_contact
-      label: Exhibitor Contact
-      hint: null
+      label: Exhibitor Contact Information
+      hint: Provide contact information for the exhibitor
       type: text
       options: []
       required: false
     - id: 2
       name: focus_areas
-      label: Focus Areas
-      hint: null
+      label: What are your focus areas?
+      hint: Select up to three focus areas
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Primary Care
+      - Medical
+      - Wellness
+      required: true
     - id: 3
       name: availability
-      label: Availability
-      hint: null
-      type: text
+      label: What dates are you available?
+      hint: Provide dates you are available
+      type: date
       options: []
-      required: false
+      required: true
     - id: 4
       name: exhibit_intent
-      label: Intent
-      hint: null
+      label: What is the purpose of your exhibit?
+      hint: Briefly describe the purpose of your exhibit
       type: text
       options: []
       required: false
     - id: 5
-      name: focus_areas
-      label: Focus Areas
-      hint: null
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional information
       type: text
       options: []
       required: false
     - id: 6
-      name: additional_notes
-      label: Additional Notes
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: primary_care_focus_areas
+      label: Primary Care Focus Areas
+      hint: Select up to three primary care focus areas
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 7
       name: email
       label: Email
-      hint: null
+      hint: Provide your email address
       type: email
       options: []
-      required: false
+      required: true
     - id: 8
       name: phone
       label: Phone
-      hint: null
+      hint: Provide your phone number
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: primary_care_focus_areas
-      label: Primary Care Focus Areas
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 10
-      name: availability
+      name: availability_2
       label: Availability
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: exhibit_intent
-      label: Intent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: focus_areas
-      label: Focus Areas
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: additional_notes
-      label: Additional Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: primary_care_focus_areas
-      label: Primary Care Focus Areas
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 17
-      name: availability
-      label: Availability
-      hint: null
+      hint: Select your availability
       type: time
       options: []
-      required: false
-    - id: 18
-      name: exhibit_intent
-      label: Intent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: focus_areas
-      label: Focus Areas
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: additional_notes
-      label: Additional Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: primary_care_focus_areas
-      label: Primary Care Focus Areas
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 24
-      name: availability
-      label: Availability
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: exhibit_intent
-      label: Intent
-      hint: null
+      required: true
+    - id: 10
+      name: additional_notes_2
+      label: Additional Notes 2
+      hint: Any additional information
       type: text
       options: []
       required: false

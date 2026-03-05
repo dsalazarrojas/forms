@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: event_feedback_form_event_status
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Not Started''}'
+      - Completed
+      - In Progress
+      - Not Started
       required: true
     - id: 13
       name: event_feedback_form_participant_rating_reasons
@@ -98,13 +98,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Overall Experience''}'
-      - '{''label'': ''Session Content''}'
-      - '{''label'': ''Session Length''}'
-      - '{''label'': ''Session Organization''}'
-      - '{''label'': ''Session Materials''}'
-      - '{''label'': ''Session Engagement''}'
-      - '{''label'': ''Session Follow-up''}'
+      - Overall Experience
+      - Session Content
+      - Session Length
+      - Session Organization
+      - Session Materials
+      - Session Engagement
+      - Session Follow-up
       required: false
     - id: 14
       name: event_feedback_form_participant_rating_comments

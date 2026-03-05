@@ -5,20 +5,23 @@ inputSchema:
     pages:
     - id: 1
       name: participant_id
-      label: Participant Id
+      label: Participant ID
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
       name: participant_rating
-      label: Satisfaction Rating
+      label: Overall Satisfaction
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Satisfied
-      - Dissatisfied
-      required: false
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
     - id: 3
       name: comments
       label: Comments
@@ -28,197 +31,86 @@ inputSchema:
       required: false
     - id: 4
       name: assigned_tool_id
-      label: Assigned Tool
+      label: Tool Assigned
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: category_id
-      label: Category Id
+      label: Category ID
       hint: null
       type: number
       options: []
       required: false
     - id: 6
-      name: participant_rating
-      label: Somewhat Satisfied
+      name: participant_rating_2
+      label: Satisfactory Level
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 7
-      name: participant_rating
-      label: Very Satisfied
+      name: participant_rating_3
+      label: Dissatisfactory Level
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 8
-      name: comments
-      label: Somewhat Dissatisfied
+      name: participant_id_2
+      label: Satisfied
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: participant_rating
-      label: Neutral
+      name: participant_rating_4
+      label: Not Satisfied
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
-      name: participant_rating
-      label: Very Dissatisfied
+      name: participant_id_3
+      label: Somewhat Dissatisfied
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: participant_id
-      label: Very Satisfied
+      name: participant_rating_5
+      label: Not Dissatisfied
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: participant_id
-      label: Somewhat Satisfied
+      name: comments_2
+      label: Comments 2
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: comments
-      label: Somewhat Dissatisfied
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: participant_id
-      label: Very Dissatisfied
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: participant_rating
-      label: Very Satisfied
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: participant_rating
-      label: Somewhat Satisfied
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: comments
-      label: Very Satisfied
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: participant_rating
-      label: Somewhat Dissatisfied
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: participant_id
-      label: Very Dissatisfied
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: participant_rating
-      label: Neutral
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: comments
-      label: Somewhat Dissatisfied
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: participant_id
-      label: Neutral
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: participant_rating
-      label: Very Dissatisfied
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: participant_id
-      label: Somewhat Dissatisfied
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: comments
-      label: Very Dissatisfied
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false

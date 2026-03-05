@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Basic''}'
-      - '{''value'': ''Premium''}'
-      - '{''value'': ''Pro''}'
+      - Basic
+      - Premium
+      - Pro
       required: true
     - id: 8
       name: photo_servers
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 2}'
-      - '{''value'': 3}'
-      - '{''value'': 4}'
+      - '2'
+      - '3'
+      - '4'
       required: true
     - id: 9
       name: photo_resolution
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''720px''}'
-      - '{''value'': ''1080px''}'
-      - '{''value'': ''1440px''}'
+      - 720px
+      - 1080px
+      - 1440px
       required: true
     - id: 10
       name: photo_printing
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''On site''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Download''}'
+      - On site
+      - Email
+      - Download
       required: true
     - id: 11
       name: photo_upload

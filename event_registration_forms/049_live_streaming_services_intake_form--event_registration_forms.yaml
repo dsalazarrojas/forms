@@ -19,7 +19,7 @@ inputSchema:
       required: true
     - id: 3
       name: event_details
-      label: Event Details
+      label: Event Details (2)
       hint: null
       type: text
       options: []
@@ -44,18 +44,19 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
-      - option_3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
-      name: live_streaming_services
-      label: Live Streaming Options
+      name: live_streaming_services_2
+      label: Live Streaming Services 2
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
       name: event_date
@@ -86,13 +87,14 @@ inputSchema:
       options: []
       required: true
     - id: 12
-      name: live_streaming_services
-      label: Live Streaming Options
+      name: live_streaming_services_3
+      label: Live Streaming Services 3
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
       name: event_type
@@ -100,8 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 14
       name: client_name

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Hazardous''}'
-      - '{''id'': 2, ''name'': ''Non-Hazardous''}'
-      - '{''id'': 3, ''name'': ''Special''}'
+      - Hazardous
+      - Non-Hazardous
+      - Special
       required: false
     - id: 3
       name: facility_capacity
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Industrial''}'
-      - '{''id'': 2, ''name'': ''Commercial''}'
-      - '{''id'': 3, ''name'': ''Residential''}'
+      - Industrial
+      - Commercial
+      - Residential
       required: true
     - id: 20
       name: facility_details_16
@@ -148,9 +148,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Hazardous''}'
-      - '{''id'': 2, ''name'': ''Non-Hazardous''}'
-      - '{''id'': 3, ''name'': ''Mixed''}'
+      - Hazardous
+      - Non-Hazardous
+      - Mixed
       required: false
     - id: 21
       name: facility_details_17

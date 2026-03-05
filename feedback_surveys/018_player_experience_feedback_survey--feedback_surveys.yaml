@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -20,11 +9,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Positive''}'
-      - '{''id'': 2, ''label'': ''Positive''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Negative''}'
-      - '{''id'': 5, ''label'': ''Very Negative''}'
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
       required: false
     - id: 2
       name: playtested_games
@@ -32,8 +21,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: suggestions
@@ -48,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Satisfied''}'
-      - '{''id'': 2, ''label'': ''Satisfied''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Dissatisfied''}'
-      - '{''id'': 5, ''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 5
       name: feedback
@@ -74,10 +63,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Graphics''}'
-      - '{''id'': 2, ''label'': ''Music''}'
-      - '{''id'': 3, ''label'': ''Story''}'
-      - '{''id'': 4, ''label'': ''Gameplay''}'
+      - Graphics
+      - Music
+      - Story
+      - Gameplay
       required: false
     - id: 8
       name: improvement_suggestions

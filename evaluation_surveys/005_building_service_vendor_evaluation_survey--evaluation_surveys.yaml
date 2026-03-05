@@ -1,116 +1,105 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Building Service Vendor Evaluation Survey
     pages:
-      - id: 1
-        name: header
-        label: -- Vendor Evaluation --
-        hint: Use this form to evaluate vendor performance for building services
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: vendor_name
-        label: Vendor Name
-        hint: Name of the vendor evaluated
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: service_type
-        label: Type of Service Provided
-        hint: Describe the service delivered by the vendor
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: contract_reference
-        label: Contract Reference or PO
-        hint: Optional purchase order or contract number
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: timeliness_rating
-        label: Timeliness of Service
-        hint: Rate how timely the vendor completed work
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 6
-        name: quality_rating
-        label: Quality of Work
-        hint: Rate the workmanship and adherence to specifications
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 7
-        name: communication_rating
-        label: Communication and Responsiveness
-        hint: Rate the vendor on communication clarity and responsiveness
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 8
-        name: safety_compliance
-        label: Safety Compliance
-        hint: Rate adherence to safety protocols
-        type: select_one
-        options:
-          - Compliant
-          - Minor issues
-          - Major issues
-          - Non compliant
-        required: true
-      - id: 9
-        name: overall_satisfaction
-        label: Overall Satisfaction
-        hint: Overall assessment of vendor performance
-        type: select_one
-        options:
-          - Very satisfied
-          - Satisfied
-          - Neutral
-          - Dissatisfied
-          - Very dissatisfied
-        required: true
-      - id: 10
-        name: improvement_recommendations
-        label: Improvement Recommendations
-        hint: Suggestions to improve vendor performance or contract terms
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: follow_up_required
-        label: Is Follow Up Required
-        hint: Indicate whether procurement or contract manager should follow up
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
+    - id: 1
+      name: header
+      label: -- Vendor Evaluation --
+      hint: Use this form to evaluate vendor performance for building services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: Name of the vendor evaluated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_type
+      label: Type of Service Provided
+      hint: Describe the service delivered by the vendor
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contract_reference
+      label: Contract Reference or PO
+      hint: Optional purchase order or contract number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: timeliness_rating
+      label: Timeliness of Service
+      hint: Rate how timely the vendor completed work
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: quality_rating
+      label: Quality of Work
+      hint: Rate the workmanship and adherence to specifications
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: communication_rating
+      label: Communication and Responsiveness
+      hint: Rate the vendor on communication clarity and responsiveness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: safety_compliance
+      label: Safety Compliance
+      hint: Rate adherence to safety protocols
+      type: select_one
+      options:
+      - Compliant
+      - Minor issues
+      - Major issues
+      - Non compliant
+      required: true
+    - id: 9
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Overall assessment of vendor performance
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: improvement_recommendations
+      label: Improvement Recommendations
+      hint: Suggestions to improve vendor performance or contract terms
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_required
+      label: Is Follow Up Required
+      hint: Indicate whether procurement or contract manager should follow up
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

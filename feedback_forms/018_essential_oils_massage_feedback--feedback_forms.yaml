@@ -9,11 +9,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent'', ''value'': 5}'
-      - '{''label'': ''Good'', ''value'': 4}'
-      - '{''label'': ''Average'', ''value'': 3}'
-      - '{''label'': ''Fair'', ''value'': 2}'
-      - '{''label'': ''Poor'', ''value'': 1}'
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
       required: false
     - id: 2
       name: therapist_rating
@@ -21,11 +21,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''5 stars'', ''value'': 5}'
-      - '{''label'': ''4 stars'', ''value'': 4}'
-      - '{''label'': ''3 stars'', ''value'': 3}'
-      - '{''label'': ''2 stars'', ''value'': 2}'
-      - '{''label'': ''1 star'', ''value'': 1}'
+      - 5 stars
+      - 4 stars
+      - 3 stars
+      - 2 stars
+      - 1 star
       required: false
     - id: 3
       name: comments
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: email
@@ -91,12 +91,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Lavender'', ''value'': ''lavender''}'
-      - '{''label'': ''Peppermint'', ''value'': ''peppermint''}'
-      - '{''label'': ''Lemon'', ''value'': ''lemon''}'
-      - '{''label'': ''Eucalyptus'', ''value'': ''eucalyptus''}'
-      - '{''label'': ''Frankincense'', ''value'': ''frankincense''}'
-      - '{''label'': ''Other (please specify)'', ''value'': ''other''}'
+      - Lavender
+      - Peppermint
+      - Lemon
+      - Eucalyptus
+      - Frankincense
+      - Other (please specify)
       required: false
     - id: 12
       name: massage_type
@@ -104,11 +104,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Swedish'', ''value'': ''swedish''}'
-      - '{''label'': ''Deep Tissue'', ''value'': ''deep-tissue''}'
-      - '{''label'': ''Hot stone'', ''value'': ''hot-stone''}'
-      - '{''label'': ''Aromatherapy'', ''value'': ''aromatherapy''}'
-      - '{''label'': ''Other (please specify)'', ''value'': ''other''}'
+      - Swedish
+      - Deep Tissue
+      - Hot stone
+      - Aromatherapy
+      - Other (please specify)
       required: false
     - id: 13
       name: area_massaged
@@ -116,13 +116,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Back'', ''value'': ''back''}'
-      - '{''label'': ''Head/Neck'', ''value'': ''head-neck''}'
-      - '{''label'': ''Shoulders'', ''value'': ''shoulders''}'
-      - '{''label'': ''Arms'', ''value'': ''arms''}'
-      - '{''label'': ''Legs'', ''value'': ''legs''}'
-      - '{''label'': ''Feet'', ''value'': ''feet''}'
-      - '{''label'': ''Other (please specify)'', ''value'': ''other''}'
+      - Back
+      - Head/Neck
+      - Shoulders
+      - Arms
+      - Legs
+      - Feet
+      - Other (please specify)
       required: false
     - id: 14
       name: area_massaged_other
@@ -158,11 +158,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very light'', ''value'': 1}'
-      - '{''label'': ''Light'', ''value'': 2}'
-      - '{''label'': ''Medium'', ''value'': 3}'
-      - '{''label'': ''Firm'', ''value'': 4}'
-      - '{''label'': ''Very firm'', ''value'': 5}'
+      - Very light
+      - Light
+      - Medium
+      - Firm
+      - Very firm
       required: false
     - id: 19
       name: massage_environment
@@ -170,11 +170,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Quiet'', ''value'': ''quiet''}'
-      - '{''label'': ''Relaxing'', ''value'': ''relaxing''}'
-      - '{''label'': ''Soothing'', ''value'': ''sooth''}'
-      - '{''label'': ''Busy'', ''value'': ''busy''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Quiet
+      - Relaxing
+      - Soothing
+      - Busy
+      - Other
       required: false
     - id: 20
       name: massage_environment_other
@@ -189,11 +189,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 5, ''value'': 5}'
-      - '{''label'': 4, ''value'': 4}'
-      - '{''label'': 3, ''value'': 3}'
-      - '{''label'': 2, ''value'': 2}'
-      - '{''label'': 1, ''value'': 1}'
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
       required: false
     - id: 22
       name: will_recommend
@@ -201,8 +201,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: would_recommend_therapist
@@ -210,8 +210,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: follow_up

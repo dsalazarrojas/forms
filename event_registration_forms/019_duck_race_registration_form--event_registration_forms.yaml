@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Participant''}'
-      - '{''label'': ''Caregiver''}'
-      - '{''label'': ''Emergency Contact''}'
+      - Participant
+      - Caregiver
+      - Emergency Contact
       required: true
     - id: 7
       name: registration_date
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Participant''}'
-      - '{''label'': ''Caregiver''}'
-      - '{''label'': ''Other''}'
+      - Participant
+      - Caregiver
+      - Other
       required: false
     - id: 9
       name: event_date
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Female''}'
-      - '{''label'': ''Non-Binary''}'
+      - Male
+      - Female
+      - Non-Binary
       required: true
     - id: 12
       name: participant_ethnicity
@@ -95,11 +95,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Asian''}'
-      - '{''label'': ''Black''}'
-      - '{''label'': ''Hispanic''}'
-      - '{''label'': ''White''}'
-      - '{''label'': ''Other''}'
+      - Asian
+      - Black
+      - Hispanic
+      - White
+      - Other
       required: false
     - id: 13
       name: participant_fee
@@ -142,10 +142,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''California''}'
-      - '{''label'': ''New York''}'
-      - '{''label'': ''Florida''}'
-      - '{''label'': ''Other''}'
+      - California
+      - New York
+      - Florida
+      - Other
       required: true
     - id: 19
       name: participant_zip
@@ -190,10 +190,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Small''}'
-      - '{''label'': ''Large''}'
-      - '{''label'': ''X-Large''}'
-      - '{''label'': ''Other''}'
+      - Small
+      - Large
+      - X-Large
+      - Other
       required: true
     - id: 25
       name: participant_t_shirt_style
@@ -201,7 +201,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Solid''}'
-      - '{''label'': ''Hoodie''}'
-      - '{''label'': ''Other''}'
+      - Solid
+      - Hoodie
+      - Other
       required: true

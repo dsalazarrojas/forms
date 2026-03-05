@@ -1,94 +1,83 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Civic Engagement Workshop Reservation Form
     pages:
-      - id: 1
-        name: attendee_name
-        label: Attendee name
-        hint: Full name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: email
-        label: Email address
-        hint: For confirmation and materials
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: organization
-        label: Organization or school
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: session_choice
-        label: Session choice
-        hint: Select preferred session
-        type: select_one
-        options:
-          - Morning session
-          - Afternoon session
-          - Evening session
-        required: true
-      - id: 5
-        name: dietary_requirements
-        label: Dietary requirements
-        hint: Specify dietary needs
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: accessibility_needs
-        label: Accessibility needs
-        hint: Indicate required accommodations
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: emergency_contact
-        label: Emergency contact name and phone
-        hint: Provide contact details
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: consent_photo
-        label: Consent for photography
-        hint: Allow event photos to be used
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 9
-        name: payment_status
-        label: Payment status if applicable
-        hint: Indicate if fee was paid
-        type: select_one
-        options:
-          - Paid
-          - Pending
-          - Waived
-        required: false
-      - id: 10
-        name: submission_date
-        label: Submission date
-        hint: Use today date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: attendee_name
+      label: Attendee name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For confirmation and materials
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization or school
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_choice
+      label: Session choice
+      hint: Select preferred session
+      type: select_one
+      options:
+      - Morning session
+      - Afternoon session
+      - Evening session
+      required: true
+    - id: 5
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: Specify dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Indicate required accommodations
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide contact details
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_photo
+      label: Consent for photography
+      hint: Allow event photos to be used
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: payment_status
+      label: Payment status if applicable
+      hint: Indicate if fee was paid
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Waived
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true

@@ -16,9 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - File Upload Forms
-      - Other
-      - Promotional Materials
+      - Option A
+      - Option B
       required: true
     - id: 3
       name: description
@@ -28,169 +27,57 @@ inputSchema:
       options: []
       required: true
     - id: 4
-      name: form_file
-      label: Form File
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
       name: upload_date
       label: Upload Date
       hint: null
       type: date
       options: []
       required: true
-    - id: 6
-      name: form_file_upload
-      label: File Upload
+    - id: 5
+      name: form_file
+      label: Form File
       hint: null
       type: text
       options: []
       required: true
+    - id: 6
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 7
-      name: form_file_url
-      label: File URL
+      name: file_name
+      label: File Name
       hint: null
       type: text
       options: []
       required: true
     - id: 8
-      name: form_notes
-      label: Notes
-      hint: Optional
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: file_size
-      label: File Size
+      name: category_uploads
+      label: Category Uploads
       hint: null
-      type: number
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 9
+      name: upload_by
+      label: Uploaded By
+      hint: null
+      type: text
       options: []
       required: true
     - id: 10
-      name: file_name
-      label: File Name
+      name: form_url
+      label: Form URL
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 11
-      name: category_uploads
-      label: Category Uploads
-      hint: null
-      type: select_multiple
-      options:
-      - Image
-      - Video
-      - Audio
-      required: true
-    - id: 12
-      name: upload_by
-      label: Uploaded By
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: form_url
-      label: Form URL
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: form_notes
-      label: Notes
-      hint: Optional
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: file_size
-      label: File Size
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: file_name
-      label: File Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: category_uploads
-      label: Category Uploads
-      hint: null
-      type: select_multiple
-      options:
-      - Image
-      - Video
-      - Audio
-      required: false
-    - id: 18
-      name: upload_by
-      label: Uploaded By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: form_url
-      label: Form URL
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: form_notes
-      label: Notes
-      hint: Optional
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: file_size
-      label: File Size
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: file_name
-      label: File Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: category_uploads
-      label: Category Uploads
-      hint: null
-      type: select_multiple
-      options:
-      - Image
-      - Video
-      - Audio
-      required: false
-    - id: 24
-      name: upload_by
-      label: Uploaded By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_url
-      label: Form URL
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
       name: form_notes
       label: Notes
       hint: Optional

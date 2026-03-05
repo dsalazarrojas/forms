@@ -1,172 +1,161 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Best Delivery Service Nomination Form
     pages:
-      - id: 1
-        name: nominator_info_header
-        label: -- Your Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: nominator_name_text
-        label: Nominator Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: nominator_email_address
-        label: Nominator Email
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: nominee_details_header
-        label: -- Nominee Service Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: delivery_service_name
-        label: Delivery Service Name
-        hint: Name of the company being nominated
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: service_website_link
-        label: Website or App Link
-        hint: URL to the service's online presence
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: service_type_category
-        label: Service Type
-        hint: Select the primary industry category
-        type: select_one
-        options:
-          - Food and Restaurant Delivery
-          - Courier and Parcel Services
-          - Grocery Delivery
-          - Pharmacy and Healthcare Delivery
-          - Specialized and Luxury Delivery
-          - Other
-        required: true
-      - id: 8
-        name: service_quality_header
-        label: -- Service Quality Assessment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: delivery_speed_rating
-        label: Speed of Delivery
-        hint: How timely are their deliveries
-        type: select_one
-        options:
-          - Excellent - Usually early
-          - Good - On time
-          - Average - Occasional delays
-          - Poor - Often late
-        required: true
-      - id: 10
-        name: reliability_assessment
-        label: Overall Reliability
-        hint: Consistency of service
-        type: select_one
-        options:
-          - Very Reliable - Never missed a delivery
-          - Usually Reliable
-          - Sometimes Unreliable
-          - Not Reliable
-        required: true
-      - id: 11
-        name: package_condition_rating
-        label: Package Condition on Arrival
-        hint: Quality of handling during transit
-        type: select_one
-        options:
-          - Pristine - Handled with care
-          - Good - Normal wear and tear
-          - Minor Damage - Occasionally dented
-          - Often Damaged - Poor handling
-        required: true
-      - id: 12
-        name: customer_support_score
-        label: Customer Support Quality
-        hint: Rate from 1 (Poor) to 5 (Excellent)
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 13
-        name: detailed_nomination_header
-        label: -- Detailed Nomination --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: nomination_justification
-        label: Why are you nominating this service
-        hint: Describe what makes them stand out from competitors
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: positive_experience_example
-        label: Specific Positive Experience
-        hint: Share a brief story of a time they exceeded expectations
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: final_details_header
-        label: -- Additional Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: service_region
-        label: Primary Region of Service
-        hint: City, state, or country where you use this service
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: additional_comments_text
-        label: Any other comments
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: submission_date_stamp
-        label: Date of Nomination
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: nominator_info_header
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_name_text
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email_address
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominee_details_header
+      label: -- Nominee Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: delivery_service_name
+      label: Delivery Service Name
+      hint: Name of the company being nominated
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_website_link
+      label: Website or App Link
+      hint: URL to the service's online presence
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_type_category
+      label: Service Type
+      hint: Select the primary industry category
+      type: select_one
+      options:
+      - Food and Restaurant Delivery
+      - Courier and Parcel Services
+      - Grocery Delivery
+      - Pharmacy and Healthcare Delivery
+      - Specialized and Luxury Delivery
+      - Other
+      required: true
+    - id: 8
+      name: service_quality_header
+      label: -- Service Quality Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: delivery_speed_rating
+      label: Speed of Delivery
+      hint: How timely are their deliveries
+      type: select_one
+      options:
+      - Excellent - Usually early
+      - Good - On time
+      - Average - Occasional delays
+      - Poor - Often late
+      required: true
+    - id: 10
+      name: reliability_assessment
+      label: Overall Reliability
+      hint: Consistency of service
+      type: select_one
+      options:
+      - Very Reliable - Never missed a delivery
+      - Usually Reliable
+      - Sometimes Unreliable
+      - Not Reliable
+      required: true
+    - id: 11
+      name: package_condition_rating
+      label: Package Condition on Arrival
+      hint: Quality of handling during transit
+      type: select_one
+      options:
+      - Pristine - Handled with care
+      - Good - Normal wear and tear
+      - Minor Damage - Occasionally dented
+      - Often Damaged - Poor handling
+      required: true
+    - id: 12
+      name: customer_support_score
+      label: Customer Support Quality
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 13
+      name: detailed_nomination_header
+      label: -- Detailed Nomination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: nomination_justification
+      label: Why are you nominating this service
+      hint: Describe what makes them stand out from competitors
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: positive_experience_example
+      label: Specific Positive Experience
+      hint: Share a brief story of a time they exceeded expectations
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: final_details_header
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: service_region
+      label: Primary Region of Service
+      hint: City, state, or country where you use this service
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_comments_text
+      label: Any other comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_date_stamp
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true

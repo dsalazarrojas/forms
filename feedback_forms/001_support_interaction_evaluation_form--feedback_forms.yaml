@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Effective''}'
-      - '{''id'': 2, ''label'': ''Ineffective''}'
-      - '{''id'': 3, ''label'': ''Somewhat Ineffective''}'
-      - '{''id'': 4, ''label'': ''Not Effective''}'
-      - '{''id'': 5, ''label'': ''Not Applicable''}'
+      - Effective
+      - Ineffective
+      - Somewhat Ineffective
+      - Not Effective
+      - Not Applicable
       required: true
     - id: 5
       name: resolution_level
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Strong''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Weak''}'
+      - Strong
+      - Fair
+      - Weak
       required: true
     - id: 7
       name: additional_comments

@@ -44,8 +44,8 @@ inputSchema:
       hint: Would you recommend this product for its taste?
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: recommendation_quality
@@ -53,8 +53,8 @@ inputSchema:
       hint: Would you recommend this product for its quality?
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: recommendation_appearance
@@ -62,8 +62,8 @@ inputSchema:
       hint: Would you recommend this product for its appearance?
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: recommendation_service
@@ -71,8 +71,8 @@ inputSchema:
       hint: Would you recommend this product for its service?
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: rating_satisfied
@@ -80,11 +80,11 @@ inputSchema:
       hint: How satisfied are you with the grilled wing?
       type: select_one
       options:
-      - '{''value'': ''Very Satisfied''}'
-      - '{''value'': ''Somewhat Satisfied''}'
-      - '{''value'': ''Somewhat Dissatisfied''}'
-      - '{''value'': ''Very Dissatisfied''}'
-      - '{''value'': ''Not At All''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      - Not At All
       required: false
     - id: 11
       name: rating_would_buy
@@ -92,8 +92,8 @@ inputSchema:
       hint: Would you purchase this product again?
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: rating_improve
@@ -101,8 +101,8 @@ inputSchema:
       hint: Would you recommend this product to someone else?
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: rating_improve_reason
@@ -110,10 +110,10 @@ inputSchema:
       hint: Please select the reason(s) that you would improve
       type: select_multiple
       options:
-      - '{''value'': ''Taste''}'
-      - '{''value'': ''Quality''}'
-      - '{''value'': ''Appearance''}'
-      - '{''value'': ''Service''}'
+      - Taste
+      - Quality
+      - Appearance
+      - Service
       required: false
     - id: 14
       name: rating_improve_other
@@ -142,8 +142,8 @@ inputSchema:
       hint: Please select the action
       type: select_one
       options:
-      - '{''value'': ''Implemented''}'
-      - '{''value'': ''Not Implemented''}'
+      - Implemented
+      - Not Implemented
       required: false
     - id: 18
       name: rating_improve_comments

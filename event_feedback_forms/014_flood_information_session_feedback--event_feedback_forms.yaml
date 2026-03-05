@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1 - Not satisfied''}'
-      - '{''label'': ''2 - Neutral''}'
-      - '{''label'': ''3 - Satisfied''}'
-      - '{''label'': ''4 - Highly Satisfied''}'
-      - '{''label'': ''5 - Very Satisfied''}'
+      - 1 - Not satisfied
+      - 2 - Neutral
+      - 3 - Satisfied
+      - 4 - Highly Satisfied
+      - 5 - Very Satisfied
       required: false
     - id: 4
       name: comments
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Suggestion 1''}'
-      - '{''label'': ''Suggestion 2''}'
-      - '{''label'': ''Suggestion 3''}'
+      - Suggestion 1
+      - Suggestion 2
+      - Suggestion 3
       required: false
     - id: 6
       name: email

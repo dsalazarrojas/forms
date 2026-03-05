@@ -1,149 +1,171 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Contemporary Art Evaluation Form
     pages:
-      - id: 1
-        name: section_artwork_info
-        label: -- Artwork Details --
-        hint: Please complete this evaluation for each artwork.
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: artwork_title
-        label: Artwork Title
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: artist_name
-        label: Artist Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: artwork_medium
-        label: Artwork Medium
-        hint: Select all that apply
-        type: select_multiple
-        options: [Painting, Sculpture, Installation, Photography, Digital Art, Mixed Media, Performance Art, Video Art, Other]
-        required: true
-      - id: 5
-        name: artwork_dimensions
-        label: Artwork Dimensions
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: section_artistic_merit
-        label: -- Artistic Merit and Technical Skill --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: artistic_merit_rating
-        label: Artistic Merit Rating
-        hint: 1 being poor, 5 being excellent
-        type: select_one
-        options: [1, 2, 3, 4, 5]
-        required: true
-      - id: 8
-        name: technical_skill_rating
-        label: Technical Skill Rating
-        hint: 1 being poor, 5 being excellent
-        type: select_one
-        options: [1, 2, 3, 4, 5]
-        required: true
-      - id: 9
-        name: original_conceptual_approach
-        label: Originality and Conceptual Approach
-        hint: 1 being poor, 5 being excellent
-        type: select_one
-        options: [1, 2, 3, 4, 5]
-        required: true
-      - id: 10
-        name: section_evaluator_recommendations
-        label: -- Evaluator Recommendations --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: evaluator_name
-        label: Evaluator Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 12
-        name: evaluator_id
-        label: Evaluator Identification Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: evaluation_date
-        label: Evaluation Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 14
-        name: evaluator_recommendation
-        label: Evaluator Recommendation
-        hint: null
-        type: select_one
-        options: [Highly Recommend, Recommend, Neutral, Do Not Recommend, Re-evaluate]
-        required: true
-      - id: 15
-        name: section_confirmation
-        label: -- Confirmation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: evaluation_completed
-        label: Evaluation Completed?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 17
-        name: additional_comments
-        label: Any additional details or comments?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 18
-        name: signature_confirmation
-        label: I confirm that the information provided is accurate
-        hint: null
-        type: select_one
-        options: [I Agree, I Disagree]
-        required: true
-      - id: 19
-        name: report_generated_date
-        label: Date of Report Generation
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_artwork_info
+      label: -- Artwork Details --
+      hint: Please complete this evaluation for each artwork.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artwork_title
+      label: Artwork Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: artwork_medium
+      label: Artwork Medium
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Painting
+      - Sculpture
+      - Installation
+      - Photography
+      - Digital Art
+      - Mixed Media
+      - Performance Art
+      - Video Art
+      - Other
+      required: true
+    - id: 5
+      name: artwork_dimensions
+      label: Artwork Dimensions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_artistic_merit
+      label: -- Artistic Merit and Technical Skill --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: artistic_merit_rating
+      label: Artistic Merit Rating
+      hint: 1 being poor, 5 being excellent
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 8
+      name: technical_skill_rating
+      label: Technical Skill Rating
+      hint: 1 being poor, 5 being excellent
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 9
+      name: original_conceptual_approach
+      label: Originality and Conceptual Approach
+      hint: 1 being poor, 5 being excellent
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 10
+      name: section_evaluator_recommendations
+      label: -- Evaluator Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: evaluator_name
+      label: Evaluator Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: evaluator_id
+      label: Evaluator Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: evaluator_recommendation
+      label: Evaluator Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Highly Recommend
+      - Recommend
+      - Neutral
+      - Do Not Recommend
+      - Re-evaluate
+      required: true
+    - id: 15
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: evaluation_completed
+      label: Evaluation Completed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Any additional details or comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signature_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 19
+      name: report_generated_date
+      label: Date of Report Generation
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -106,8 +106,8 @@ inputSchema:
       hint: Are drawings part of your submission
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: specifications_included
@@ -115,8 +115,8 @@ inputSchema:
       hint: Are specifications included
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: bonding_capacity
@@ -147,7 +147,7 @@ inputSchema:
       options:
       - Yes, Attached
       - Yes, Available on Request
-      - false
+      - 'False'
       required: false
     - id: 20
       name: special_conditions

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John''}'
-      - '{''id'': 2, ''label'': ''Jane''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - John
+      - Jane
+      - Other
       required: false
     - id: 3
       name: interaction_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''In-store''}'
-      - '{''id'': 2, ''label'': ''Online''}'
-      - '{''id'': 3, ''label'': ''Phone''}'
+      - In-store
+      - Online
+      - Phone
       required: false
     - id: 4
       name: interaction_details
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Resolved''}'
-      - '{''id'': 2, ''label'': ''Not Resolved''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Resolved
+      - Not Resolved
+      - Pending
       required: false
     - id: 8
       name: resolution_details

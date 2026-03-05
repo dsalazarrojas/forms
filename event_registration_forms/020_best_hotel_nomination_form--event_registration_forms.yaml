@@ -1,204 +1,193 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Best Hotel Nomination Form
     pages:
-      - id: 1
-        name: nominator_profile_header
-        label: -- Nominator Profile --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: nominator_full_name
-        label: Your Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: organization_agency_name
-        label: Organization or Agency
-        hint: Name of your company or travel agency
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: nominator_email_addr
-        label: Your Contact Email
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 5
-        name: hotel_nominee_header
-        label: -- Hotel Nominee Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: hotel_legal_name
-        label: Hotel Name
-        hint: Official name of the property
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: hotel_location_city_country
-        label: Hotel Location
-        hint: City and Country
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: hotel_brand_chain
-        label: Hotel Brand or Chain
-        hint: If applicable (e.g., Marriott, Hyatt, Independent)
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: award_category_select
-        label: Category for Award
-        hint: Select the primary category for this hotel
-        type: select_one
-        options:
-          - Luxury and Ultra-Luxury
-          - Boutique and Lifestyle
-          - Business and Corporate
-          - Family-Friendly Resort
-          - Sustainable and Eco-Friendly
-          - Budget and Economy
-          - Other
-        required: true
-      - id: 10
-        name: performance_ratings_header
-        label: -- Performance Ratings --
-        hint: Rate from 1 (Poor) to 5 (Excellent)
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: service_quality_rating
-        label: Service Quality and Staff Conduct
-        hint: How was the guest experience
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 12
-        name: room_comfort_rating
-        label: Room Quality and Comfort
-        hint: Condition of rooms and bedding
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 13
-        name: food_beverage_rating
-        label: Food and Beverage Quality
-        hint: On-site dining experience
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 14
-        name: facilities_rating
-        label: Facilities and Amenities
-        hint: Pool, Gym, Spa, etc.
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 15
-        name: accessibility_rating
-        label: Location and Accessibility
-        hint: Proximity to attractions or business centers
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 16
-        name: justification_header
-        label: -- Detailed Justification --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: recognition_reason_desc
-        label: Why does this hotel deserve to be recognized
-        hint: Describe the key factors that make this hotel stand out
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: unique_experience_desc
-        label: Describe a unique experience at this hotel
-        hint: A specific moment or service that impressed you
-        type: text
-        options: []
-        required: true
-      - id: 19
-        name: industry_contribution_desc
-        label: How has this hotel contributed to the hospitality industry
-        hint: Innovations or leadership in the sector
-        type: text
-        options: []
-        required: true
-      - id: 20
-        name: verification_header
-        label: -- Verification --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 21
-        name: recent_stay_confirmation
-        label: Have you stayed at this hotel in the last 12 months
-        hint: null
-        type: select_one
-        options:
-          - Yes - I have stayed recently
-          - No - I have visited or work in the industry
-        required: true
-      - id: 22
-        name: nomination_final_date_stamp
-        label: Date of Nomination
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: nominator_profile_header
+      label: -- Nominator Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_agency_name
+      label: Organization or Agency
+      hint: Name of your company or travel agency
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nominator_email_addr
+      label: Your Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: hotel_nominee_header
+      label: -- Hotel Nominee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: hotel_legal_name
+      label: Hotel Name
+      hint: Official name of the property
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hotel_location_city_country
+      label: Hotel Location
+      hint: City and Country
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: hotel_brand_chain
+      label: Hotel Brand or Chain
+      hint: If applicable (e.g., Marriott, Hyatt, Independent)
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: award_category_select
+      label: Category for Award
+      hint: Select the primary category for this hotel
+      type: select_one
+      options:
+      - Luxury and Ultra-Luxury
+      - Boutique and Lifestyle
+      - Business and Corporate
+      - Family-Friendly Resort
+      - Sustainable and Eco-Friendly
+      - Budget and Economy
+      - Other
+      required: true
+    - id: 10
+      name: performance_ratings_header
+      label: -- Performance Ratings --
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: service_quality_rating
+      label: Service Quality and Staff Conduct
+      hint: How was the guest experience
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 12
+      name: room_comfort_rating
+      label: Room Quality and Comfort
+      hint: Condition of rooms and bedding
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 13
+      name: food_beverage_rating
+      label: Food and Beverage Quality
+      hint: On-site dining experience
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 14
+      name: facilities_rating
+      label: Facilities and Amenities
+      hint: Pool, Gym, Spa, etc.
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 15
+      name: accessibility_rating
+      label: Location and Accessibility
+      hint: Proximity to attractions or business centers
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 16
+      name: justification_header
+      label: -- Detailed Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: recognition_reason_desc
+      label: Why does this hotel deserve to be recognized
+      hint: Describe the key factors that make this hotel stand out
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: unique_experience_desc
+      label: Describe a unique experience at this hotel
+      hint: A specific moment or service that impressed you
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: industry_contribution_desc
+      label: How has this hotel contributed to the hospitality industry
+      hint: Innovations or leadership in the sector
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: verification_header
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: recent_stay_confirmation
+      label: Have you stayed at this hotel in the last 12 months
+      hint: null
+      type: select_one
+      options:
+      - Yes - I have stayed recently
+      - No - I have visited or work in the industry
+      required: true
+    - id: 22
+      name: nomination_final_date_stamp
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true

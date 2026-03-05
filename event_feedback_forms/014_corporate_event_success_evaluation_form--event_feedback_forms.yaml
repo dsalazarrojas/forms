@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Meeting''}'
-      - '{''value'': ''Training''}'
-      - '{''value'': ''Conference''}'
+      - Meeting
+      - Training
+      - Conference
       required: false
     - id: 3
       name: location
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Jimmy''}'
-      - '{''value'': ''John''}'
-      - '{''value'': ''Jane''}'
+      - Jimmy
+      - John
+      - Jane
       required: true
     - id: 14
       name: follow_up_date
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Done''}'
-      - '{''value'': ''Not Done''}'
-      - '{''value'': ''Pending''}'
+      - Done
+      - Not Done
+      - Pending
       required: false
     - id: 17
       name: follow_up_notes
@@ -137,8 +137,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Chatjimmy''}'
-      - '{''value'': ''Other''}'
+      - Chatjimmy
+      - Other
       required: false
     - id: 19
       name: follow_up_frequency
@@ -146,9 +146,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 20
       name: follow_up_method
@@ -156,9 +156,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Call''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''In-app Message''}'
+      - Call
+      - Email
+      - In-app Message
       required: false
     - id: 21
       name: follow_up_message

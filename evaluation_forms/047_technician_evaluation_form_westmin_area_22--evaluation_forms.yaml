@@ -4,15 +4,15 @@ inputSchema:
     title: Technician Evaluation Form Westmin Area 22
     pages:
     - id: 1
-      name: feedback
-      label: feedback
+      name: page_1
+      label: What were your overall impressions of our technician's performance?
       hint: null
-      type: text
+      type: note
       options: []
-      required: false
+      required: true
     - id: 2
-      name: ratings
-      label: performance ratings
+      name: page_2
+      label: Please rate the technician's communication skills -
       hint: null
       type: select_multiple
       options:
@@ -20,150 +20,99 @@ inputSchema:
       - Good
       - Fair
       - Poor
-      required: false
+      required: true
     - id: 3
-      name: comments
-      label: comments
+      name: page_3
+      label: Please rate the technician's technical skills -
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: page_4
+      label: Please rate the technician's problem-solving skills -
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: page_5
+      label: What was the technician's attitude towards you?
       hint: null
       type: note
       options: []
-      required: false
-    - id: 4
-      name: technician_name
-      label: technician name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: technician_id
-      label: technician id
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 6
-      name: date
-      label: date
+      name: page_6
+      label: Please rate the technician's overall service -
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 7
-      name: time
-      label: time
+      name: page_7
+      label: What was the most impressive aspect of the service?
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: rating_1
-      label: rating 1
+      name: page_8
+      label: Was the service completed on time?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 9
-      name: rating_2
-      label: rating 2
+      name: page_9
+      label: Was the service completed within budget?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 10
-      name: rating_3
-      label: rating 3
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: score_1
-      label: score 1
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: score_2
-      label: score 2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: score_3
-      label: score 3
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: evaluation_area
-      label: evaluation area
+      name: page_10
+      label: Please rate the technician's professionalism -
       hint: null
       type: select_one
       options:
-      - Westmin 1
-      - Westmin 2
-      required: false
-    - id: 15
-      name: submitted_by
-      label: submitted by
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: submitted_on
-      label: submitted on
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: submitted_at
-      label: submitted at
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: technician_id
-      label: technician id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: technician_name
-      label: technician name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: feedback
-      label: feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: rating
-      label: rating
-      hint: null
-      type: select_multiple
-      options:
       - Excellent
       - Good
       - Fair
       - Poor
-      required: false
-    - id: 22
-      name: comments
-      label: comments
+      required: true
+    - id: 11
+      name: page_11
+      label: Please rate the technician's timeliness -
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - On time
+      - Late
+      - Early
+      required: true
+    - id: 12
+      name: page_12
+      label: Please submit this form once complete
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true

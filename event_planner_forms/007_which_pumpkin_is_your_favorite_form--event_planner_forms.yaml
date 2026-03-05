@@ -9,11 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pumpkins'', ''label'': ''Pumpkins'', ''selected'':
-        True}'
-      - '{''id'': 2, ''name'': ''gourds'', ''label'': ''Gourds'', ''selected'': False}'
-      - '{''id'': 3, ''name'': ''squash'', ''label'': ''Squash'', ''selected'': False}'
-      - '{''id'': 4, ''name'': ''other'', ''label'': ''Other'', ''selected'': False}'
+      - Pumpkins
+      - Gourds
+      - Squash
+      - Other
       required: false
     - id: 2
       name: favorite_color
@@ -21,10 +20,10 @@ inputSchema:
       hint: What is your favorite color?
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''green'', ''label'': ''Green'', ''selected'': False}'
-      - '{''id'': 2, ''name'': ''yellow'', ''label'': ''Yellow'', ''selected'': False}'
-      - '{''id'': 3, ''name'': ''orange'', ''label'': ''Orange'', ''selected'': False}'
-      - '{''id'': 4, ''name'': ''other'', ''label'': ''Other'', ''selected'': False}'
+      - Green
+      - Yellow
+      - Orange
+      - Other
       required: false
     - id: 3
       name: favorite_shape
@@ -32,11 +31,10 @@ inputSchema:
       hint: What is your favorite shape?
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''round'', ''label'': ''Round'', ''selected'': False}'
-      - '{''id'': 2, ''name'': ''square'', ''label'': ''Square'', ''selected'': False}'
-      - '{''id'': 3, ''name'': ''triangle'', ''label'': ''Triangle'', ''selected'':
-        False}'
-      - '{''id'': 4, ''name'': ''other'', ''label'': ''Other'', ''selected'': False}'
+      - Round
+      - Square
+      - Triangle
+      - Other
       required: false
     - id: 4
       name: submit

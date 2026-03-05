@@ -4,8 +4,8 @@ inputSchema:
     title: Saddle Bench Feedback Survey
     pages:
     - id: 1
-      name: satisfaction
-      label: How satisfied are you
+      name: question1
+      label: How satisfied are you with the saddle bench experience?
       hint: null
       type: select_multiple
       options:
@@ -16,8 +16,8 @@ inputSchema:
       - Very dissatisfied
       required: false
     - id: 2
-      name: comfort
-      label: How comfortable are you with the saddle
+      name: question2
+      label: How comfortable did you feel using the saddle?
       hint: null
       type: select_one
       options:
@@ -28,36 +28,36 @@ inputSchema:
       - Very uncomfortable
       required: false
     - id: 3
-      name: improvement
-      label: How can we improve the saddle?
+      name: question3
+      label: What did you find most helpful in improving the saddle?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: contact_info
-      label: How can we contact you?
+      name: question4
+      label: Contact Information
       hint: null
       type: email
       options: []
       required: false
     - id: 5
-      name: additional_comments
-      label: Additional comments
+      name: question5
+      label: Additional Comments
       hint: null
       type: note
       options: []
       required: false
     - id: 6
-      name: rating
-      label: Rating (1-5)
+      name: question6
+      label: Rate your experience (1-5)
       hint: null
       type: number
       options: []
       required: false
     - id: 7
-      name: facility
-      label: Which facility?
+      name: question7
+      label: Which facility used the saddle?
       hint: null
       type: select_one
       options:
@@ -67,8 +67,8 @@ inputSchema:
       - Facility D
       required: false
     - id: 8
-      name: department
-      label: Which department?
+      name: question8
+      label: Which department used the saddle?
       hint: null
       type: select_one
       options:
@@ -78,8 +78,8 @@ inputSchema:
       - Department D
       required: false
     - id: 9
-      name: shift
-      label: Which shift?
+      name: question9
+      label: Which shift did you work on?
       hint: null
       type: select_one
       options:
@@ -89,8 +89,8 @@ inputSchema:
       - 4th shift
       required: false
     - id: 10
-      name: contact_shift
-      label: How often do you work on this shift?
+      name: question10
+      label: How often do you use the saddle?
       hint: null
       type: select_one
       options:
@@ -100,21 +100,21 @@ inputSchema:
       - Never
       required: false
     - id: 11
-      name: contact_time
+      name: question11
       label: What time do you contact us?
       hint: null
       type: time
       options: []
       required: false
     - id: 12
-      name: contact_date
+      name: question12
       label: On which date do you contact us?
       hint: null
       type: date
       options: []
       required: false
     - id: 13
-      name: contact_method
+      name: question13
       label: How do you contact us?
       hint: null
       type: select_one
@@ -124,7 +124,7 @@ inputSchema:
       - Text
       required: false
     - id: 14
-      name: contact_other
+      name: question14
       label: Do you have any other contact preferences?
       hint: null
       type: select_multiple
@@ -133,22 +133,22 @@ inputSchema:
       - 'False'
       required: false
     - id: 15
-      name: additional_comments_2
-      label: Additional comments
+      name: question15
+      label: Question15
       hint: null
       type: note
       options: []
       required: false
     - id: 16
-      name: rating_2
-      label: Rating (1-5)
+      name: question16
+      label: Question16
       hint: null
       type: number
       options: []
       required: false
     - id: 17
-      name: facility_2
-      label: Which facility?
+      name: question17
+      label: Question17
       hint: null
       type: select_one
       options:
@@ -158,8 +158,8 @@ inputSchema:
       - Facility D
       required: false
     - id: 18
-      name: department_2
-      label: Which department?
+      name: question18
+      label: Question18
       hint: null
       type: select_one
       options:
@@ -169,8 +169,8 @@ inputSchema:
       - Department D
       required: false
     - id: 19
-      name: shift_2
-      label: Which shift?
+      name: question19
+      label: Which shift used the saddle?
       hint: null
       type: select_one
       options:
@@ -180,8 +180,8 @@ inputSchema:
       - 4th shift
       required: false
     - id: 20
-      name: contact_shift_2
-      label: How often do you work on this shift?
+      name: question20
+      label: Question20
       hint: null
       type: select_one
       options:
@@ -191,22 +191,22 @@ inputSchema:
       - Never
       required: false
     - id: 21
-      name: contact_time_2
-      label: What time do you contact us?
+      name: question21
+      label: Question21
       hint: null
       type: time
       options: []
       required: false
     - id: 22
-      name: contact_date_2
-      label: On which date do you contact us?
+      name: question22
+      label: Question22
       hint: null
       type: date
       options: []
       required: false
     - id: 23
-      name: contact_method_2
-      label: How do you contact us?
+      name: question23
+      label: Question23
       hint: null
       type: select_one
       options:
@@ -215,8 +215,8 @@ inputSchema:
       - Text
       required: false
     - id: 24
-      name: contact_other_2
-      label: Do you have any other contact preferences?
+      name: question24
+      label: Question24
       hint: null
       type: select_multiple
       options:

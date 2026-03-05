@@ -4,22 +4,26 @@ inputSchema:
     title: Faculty Live Demo Feedback
     pages:
     - id: 1
-      name: demo_rated
-      label: What did you rate
+      name: presenter_rating
+      label: What did you rate the presenter's performance?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 2
       name: feedback
-      label: What do you think
+      label: What were your thoughts on the presentation?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: presenter_effectiveness
-      label: How effective was the presenter
+      label: How effective was the presenter?
       hint: null
       type: select_one
       options:
@@ -29,8 +33,8 @@ inputSchema:
       - Poor
       required: true
     - id: 4
-      name: suggestions_for_improvement
-      label: Do you have any suggestions for improvement
+      name: suggestions
+      label: Do you have any suggestions for improvement?
       hint: null
       type: text
       options: []
@@ -39,7 +43,7 @@ inputSchema:
       name: comments
       label: Comments
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 6
@@ -71,120 +75,43 @@ inputSchema:
       options: []
       required: false
     - id: 10
-      name: comments_phone_number
-      label: Comments phone number
+      name: comments_2
+      label: Comments 2
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: comments
-      label: Comments
+      name: suggestions_for_improvement
+      label: Suggestion for improvement
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: comments_email
-      label: Comments email
+      name: comments_phone_2
+      label: Comments Phone 2
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: comments_phone_number
-      label: Comments phone number
+      name: comments_from_phone
+      label: Comments from phone
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: comments_to_phone
-      label: Comments to phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: comments_to_email
-      label: Comments to email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: comments_from_phone
-      label: Comments from phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: email
+      name: email_2
       label: Email
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: comments_to_phone
-      label: Comments to phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: comments_to_email
-      label: Comments to email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: phone_number
-      label: Phone number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: comments_from_phone
-      label: Comments from phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: comments_email
-      label: Comments email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: comments_phone_number
-      label: Comments phone number
+    - id: 15
+      name: phone
+      label: Phone
       hint: null
       type: text
       options: []

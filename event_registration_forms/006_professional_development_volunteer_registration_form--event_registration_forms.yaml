@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''workshop''}'
-      - '{''value'': ''training''}'
-      - '{''value'': ''seminar''}'
-      - '{''value'': ''other''}'
+      - workshop
+      - training
+      - seminar
+      - other
       required: false
     - id: 7
       name: workshop_name
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''staff''}'
-      - '{''value'': ''volunteer''}'
-      - '{''value'': ''guest''}'
+      - staff
+      - volunteer
+      - guest
       required: false
     - id: 11
       name: workshop_location
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''onsite''}'
-      - '{''value'': ''offsite''}'
-      - '{''value'': ''virtual''}'
+      - onsite
+      - offsite
+      - virtual
       required: false
     - id: 12
       name: volunteer_hours

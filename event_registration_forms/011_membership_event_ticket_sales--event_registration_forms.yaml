@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Public''}'
-      - '{''label'': ''Private''}'
+      - Public
+      - Private
       required: false
     - id: 8
       name: member_status
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Member''}'
-      - '{''label'': ''Non Member''}'
+      - Member
+      - Non Member
       required: false
     - id: 9
       name: ticket_selections
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Ticket 1''}'
-      - '{''label'': ''Ticket 2''}'
-      - '{''label'': ''Ticket 3''}'
+      - Ticket 1
+      - Ticket 2
+      - Ticket 3
       required: false
     - id: 10
       name: payment_method
@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pay Online''}'
-      - '{''label'': ''Pay Offline''}'
+      - Pay Online
+      - Pay Offline
       required: false
     - id: 11
       name: payment_amount

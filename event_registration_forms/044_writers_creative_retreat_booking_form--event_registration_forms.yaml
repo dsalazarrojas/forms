@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: message
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Early''}'
-      - '{''label'': ''Late''}'
-      - '{''label'': ''Flexible''}'
+      - Early
+      - Late
+      - Flexible
       required: false
     - id: 11
       name: arrival_details
@@ -133,9 +133,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Early''}'
-      - '{''label'': ''Late''}'
-      - '{''label'': ''Flexible''}'
+      - Early
+      - Late
+      - Flexible
       required: false
     - id: 19
       name: participant_arrival_details
@@ -171,7 +171,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Approved''}'
-      - '{''label'': ''Cancelled''}'
+      - Pending
+      - Approved
+      - Cancelled
       required: false

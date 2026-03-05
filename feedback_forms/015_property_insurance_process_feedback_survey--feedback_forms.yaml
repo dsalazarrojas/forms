@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''highly_satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''name'': ''somewhat_dissatisfied''}'
-      - '{''id'': 4, ''name'': ''highly_dissatisfied''}'
+      - highly satisfied
+      - somewhat satisfied
+      - somewhat dissatisfied
+      - highly dissatisfied
       required: false
     - id: 4
       name: stage_2_policy_issue
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''no_issues''}'
-      - '{''id'': 2, ''name'': ''issues_with_insurer''}'
-      - '{''id'': 3, ''name'': ''issues_with_broker''}'
-      - '{''id'': 4, ''name'': ''issues_with_process''}'
+      - no issues
+      - issues with insurer
+      - issues with broker
+      - issues with process
       required: false
     - id: 5
       name: stage_3_claim_process
@@ -45,11 +45,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_good''}'
-      - '{''id'': 2, ''name'': ''somewhat_good''}'
-      - '{''id'': 3, ''name'': ''neutral''}'
-      - '{''id'': 4, ''name'': ''very_poor''}'
-      - '{''id'': 5, ''name'': ''poor''}'
+      - very good
+      - somewhat good
+      - neutral
+      - very poor
+      - poor
       required: false
     - id: 6
       name: communication
@@ -78,10 +78,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''mostly_available''}'
-      - '{''id'': 2, ''name'': ''somewhat_available''}'
-      - '{''id'': 3, ''name'': ''mostly_unavailable''}'
-      - '{''id'': 4, ''name'': ''completely_unavailable''}'
+      - mostly available
+      - somewhat available
+      - mostly unavailable
+      - completely unavailable
       required: false
     - id: 10
       name: stage_2_broker_availability
@@ -89,10 +89,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''mostly_available''}'
-      - '{''id'': 2, ''name'': ''somewhat_available''}'
-      - '{''id'': 3, ''name'': ''mostly_unavailable''}'
-      - '{''id'': 4, ''name'': ''completely_unavailable''}'
+      - mostly available
+      - somewhat available
+      - mostly unavailable
+      - completely unavailable
       required: false
     - id: 11
       name: stage_3_documentation
@@ -100,10 +100,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''mostly_documented''}'
-      - '{''id'': 2, ''name'': ''somewhat_documented''}'
-      - '{''id'': 3, ''name'': ''mostly_un_documented''}'
-      - '{''id'': 4, ''name'': ''completely_un_documented''}'
+      - mostly documented
+      - somewhat documented
+      - mostly un documented
+      - completely un documented
       required: false
     - id: 12
       name: stage_4_follow_up
@@ -111,10 +111,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''mostly_followed''}'
-      - '{''id'': 2, ''name'': ''somewhat_followed''}'
-      - '{''id'': 3, ''name'': ''mostly_unfollowed''}'
-      - '{''id'': 4, ''name'': ''completely_unfollowed''}'
+      - mostly followed
+      - somewhat followed
+      - mostly unfollowed
+      - completely unfollowed
       required: false
     - id: 13
       name: stage_5_insurance_broker_fees
@@ -143,8 +143,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: stage_9_policy_price
@@ -166,9 +166,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''no_claim''}'
-      - '{''id'': 2, ''name'': ''claim_in_progress''}'
-      - '{''id'': 3, ''name'': ''claim_paid_out''}'
+      - no claim
+      - claim in progress
+      - claim paid out
       required: false
     - id: 20
       name: stage_12_policy_cancellation
@@ -176,9 +176,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''no_cancellation''}'
-      - '{''id'': 2, ''name'': ''cancelled''}'
-      - '{''id'': 3, ''name'': ''cancelled_with_reason''}'
+      - no cancellation
+      - cancelled
+      - cancelled with reason
       required: false
     - id: 21
       name: stage_13_policy_renewal
@@ -186,9 +186,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''no_renewal''}'
-      - '{''id'': 2, ''name'': ''renewed''}'
-      - '{''id'': 3, ''name'': ''not_yet_renewed''}'
+      - no renewal
+      - renewed
+      - not yet renewed
       required: false
     - id: 22
       name: stage_14_policy_changes
@@ -196,9 +196,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''no_changes''}'
-      - '{''id'': 2, ''name'': ''yes_changes''}'
-      - '{''id'': 3, ''name'': ''pending_changes''}'
+      - no changes
+      - yes changes
+      - pending changes
       required: false
     - id: 23
       name: stage_15_insurer_commission

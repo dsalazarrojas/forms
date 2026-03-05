@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not satisfied'', ''value'': 0}'
-      - '{''label'': ''Satisfied'', ''value'': 1}'
-      - '{''label'': ''Very satisfied'', ''value'': 2}'
+      - Not satisfied
+      - Satisfied
+      - Very satisfied
       required: false
     - id: 4
       name: suggestion
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Support'', ''value'': ''Support''}'
-      - '{''label'': ''Feedback'', ''value'': ''Feedback''}'
-      - '{''label'': ''Suggestion'', ''value'': ''Suggestion''}'
+      - Support
+      - Feedback
+      - Suggestion
       required: false
     - id: 8
       name: comment
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''ChatJIMMY'', ''value'': ''chatjimmy''}'
-      - '{''label'': ''chatjimmy-2'', ''value'': ''chatjimmy-2''}'
+      - ChatJIMMY
+      - chatjimmy-2
       required: false
     - id: 10
       name: submitted_by
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''User'', ''value'': ''User''}'
-      - '{''label'': ''Admin'', ''value'': ''Admin''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - User
+      - Admin
+      - Other
       required: false
     - id: 11
       name: submit_date
@@ -104,9 +104,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Office'', ''value'': ''Office''}'
-      - '{''label'': ''Home'', ''value'': ''Home''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - Office
+      - Home
+      - Other
       required: false
     - id: 14
       name: submitter
@@ -114,9 +114,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''User'', ''value'': ''User''}'
-      - '{''label'': ''Admin'', ''value'': ''Admin''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - User
+      - Admin
+      - Other
       required: false
     - id: 15
       name: submitted_by_email
@@ -138,8 +138,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Local'', ''value'': ''local''}'
-      - '{''label'': ''Public'', ''value'': ''public''}'
+      - Local
+      - Public
       required: false
     - id: 18
       name: submitted_by_browser
@@ -147,9 +147,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Safari'', ''value'': ''safari''}'
-      - '{''label'': ''Chrome'', ''value'': ''chrome''}'
-      - '{''label'': ''Firefox'', ''value'': ''firefox''}'
+      - Safari
+      - Chrome
+      - Firefox
       required: false
     - id: 19
       name: submitted_by_platform
@@ -157,9 +157,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Windows'', ''value'': ''windows''}'
-      - '{''label'': ''Mac'', ''value'': ''mac''}'
-      - '{''label'': ''Linux'', ''value'': ''linux''}'
+      - Windows
+      - Mac
+      - Linux
       required: false
     - id: 20
       name: submitted_by_os
@@ -167,9 +167,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Windows 10'', ''value'': ''windows-10''}'
-      - '{''label'': ''Windows 7'', ''value'': ''windows-7''}'
-      - '{''label'': ''Mac OS'', ''value'': ''mac-os''}'
+      - Windows 10
+      - Windows 7
+      - Mac OS
       required: false
     - id: 21
       name: submitted_by_language
@@ -177,9 +177,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''English'', ''value'': ''en''}'
-      - '{''label'': ''French'', ''value'': ''fr''}'
-      - '{''label'': ''Spanish'', ''value'': ''es''}'
+      - English
+      - French
+      - Spanish
       required: false
     - id: 22
       name: submitted_by_country
@@ -187,9 +187,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''United States'', ''value'': ''us''}'
-      - '{''label'': ''Canada'', ''value'': ''ca''}'
-      - '{''label'': ''Mexico'', ''value'': ''mx''}'
+      - United States
+      - Canada
+      - Mexico
       required: false
     - id: 23
       name: submitted_by_region
@@ -197,9 +197,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''North America'', ''value'': ''na''}'
-      - '{''label'': ''South America'', ''value'': ''sa''}'
-      - '{''label'': ''Europe'', ''value'': ''europe''}'
+      - North America
+      - South America
+      - Europe
       required: false
     - id: 24
       name: submitted_by_city
@@ -207,9 +207,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''New York'', ''value'': ''new-york''}'
-      - '{''label'': ''London'', ''value'': ''london''}'
-      - '{''label'': ''Paris'', ''value'': ''paris''}'
+      - New York
+      - London
+      - Paris
       required: false
     - id: 25
       name: submitted_by_device
@@ -217,7 +217,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Desktop'', ''value'': ''desktop''}'
-      - '{''label'': ''Laptop'', ''value'': ''laptop''}'
-      - '{''label'': ''Mobile'', ''value'': ''mobile''}'
+      - Desktop
+      - Laptop
+      - Mobile
       required: false

@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''audio'', ''value'': ''audio''}'
-      - '{''id'': 2, ''label'': ''video'', ''value'': ''video''}'
-      - '{''id'': 3, ''label'': ''both'', ''value'': ''both''}'
+      - audio
+      - video
+      - both
       required: false
     - id: 8
       name: speaker_notes
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''pending'', ''value'': ''pending''}'
-      - '{''id'': 2, ''label'': ''completed'', ''value'': ''completed''}'
-      - '{''id'': 3, ''label'': ''cancelled'', ''value'': ''cancelled''}'
+      - pending
+      - completed
+      - cancelled
       required: false
     - id: 12
       name: event_recorder
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''video'', ''value'': ''video''}'
-      - '{''id'': 2, ''label'': ''audio'', ''value'': ''audio''}'
-      - '{''id'': 3, ''label'': ''image'', ''value'': ''image''}'
+      - video
+      - audio
+      - image
       required: false
     - id: 17
       name: file_url

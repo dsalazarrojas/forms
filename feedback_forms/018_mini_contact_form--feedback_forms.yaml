@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Product''}'
-      - '{''id'': 2, ''label'': ''Website''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Product
+      - Website
+      - Other
       required: true
     - id: 7
       name: feedback
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: animation_speed
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Fast''}'
-      - '{''id'': 2, ''label'': ''Slow''}'
+      - Fast
+      - Slow
       required: false
     - id: 10
       name: animation_repeat
@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Once''}'
-      - '{''id'': 2, ''label'': ''Loop''}'
+      - Once
+      - Loop
       required: false
     - id: 11
       name: other_info

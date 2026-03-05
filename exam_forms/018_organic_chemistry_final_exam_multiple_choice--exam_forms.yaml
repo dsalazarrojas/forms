@@ -4,216 +4,91 @@ inputSchema:
     title: Organic Chemistry Final Exam (Multiple Choice)
     pages:
     - id: 1
-      name: first_page
-      label: First Page
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: question_1
-      label: Which is the correct molecular formula of the compound with the molecular
+      name: molecular_formula_1
+      label: What is the correct molecular formula of the compound with the molecular
         weight of 18 g/mol?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: question_2
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 2
+      name: boiling_point_1
       label: Which of the following compounds have the lowest boiling point?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
-    - id: 4
-      name: question_3
+    - id: 3
+      name: melting_point_1
       label: Which of the following compounds have the highest melting point?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 4
+      name: reaction_order_1
+      label: What is the correct order of the following reaction?
+      hint: null
+      type: text
+      options: []
       required: true
     - id: 5
-      name: question_4
-      label: What is the correct order of the following reaction?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: question_5
+      name: molecular_formula_2
       label: What is the correct molecular formula of the compound?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 6
+      name: molecular_weight_1
+      label: What is the molecular weight of the compound in g/mol?
+      hint: null
+      type: number
+      options: []
       required: true
     - id: 7
-      name: question_6
-      label: What is the molecular weight of the compound in g/mol?
+      name: boiling_point_2
+      label: What is the boiling point of the compound?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 8
-      name: question_7
-      label: What is the boiling point of the compound?
+      name: melting_point_2
+      label: What is the melting point of the compound?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 9
-      name: question_8
-      label: What is the melting point of the compound?
+      name: chemical_structure_1
+      label: What is the chemical structure of the compound?
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 10
-      name: question_9
-      label: What is the chemical formula of the compound?
+      name: reaction_order_2
+      label: Reaction Order 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: question_10
-      label: What is the chemical structure of the compound?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: question_11
-      label: What is the correct order of the following reaction?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: question_12
-      label: What is the molecular weight of the compound in g/mol?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: question_13
-      label: What is the boiling point of the compound?
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 15
-      name: question_14
-      label: What is the melting point of the compound?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 16
-      name: question_15
-      label: What is the chemical structure of the compound?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: question_16
-      label: What is the correct molecular formula of the compound?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 18
-      name: question_17
-      label: What is the molecular weight of the compound in g/mol?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: question_18
-      label: What is the boiling point of the compound?
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 20
-      name: question_19
-      label: What is the melting point of the compound?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 21
-      name: question_20
-      label: What is the chemical structure of the compound?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: question_21
-      label: What is the correct order of the following reaction?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: question_22
-      label: What is the molecular weight of the compound in g/mol?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: question_23
-      label: What is the boiling point of the compound?
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 25
-      name: question_24
-      label: What is the melting point of the compound?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true

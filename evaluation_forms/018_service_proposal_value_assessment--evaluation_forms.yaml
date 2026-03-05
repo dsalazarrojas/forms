@@ -16,11 +16,11 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''None''}'
-      - '{''id'': 2, ''name'': ''Software Development''}'
-      - '{''id'': 3, ''name'': ''Consulting''}'
-      - '{''id'': 4, ''name'': ''Training''}'
-      - '{''id'': 5, ''name'': ''Other''}'
+      - None
+      - Software Development
+      - Consulting
+      - Training
+      - Other
       required: false
     - id: 3
       name: service_details
@@ -35,9 +35,9 @@ inputSchema:
       hint: Select one that applies
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Financial Savings''}'
-      - '{''id'': 2, ''name'': ''Improved Efficiency''}'
-      - '{''id'': 3, ''name'': ''Reduced Risk''}'
+      - Financial Savings
+      - Improved Efficiency
+      - Reduced Risk
       required: false
     - id: 5
       name: expected_costs
@@ -59,7 +59,7 @@ inputSchema:
       hint: Select one that applies
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false

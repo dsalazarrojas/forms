@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Attendee 1'', ''value'': ''Attendee 1''}'
-      - '{''label'': ''Attendee 2'', ''value'': ''Attendee 2''}'
-      - '{''label'': ''Attendee 3'', ''value'': ''Attendee 3''}'
-      - '{''label'': ''Other (Please Specify)'', ''value'': ''other''}'
+      - Attendee 1
+      - Attendee 2
+      - Attendee 3
+      - Other (Please Specify)
       required: true
     - id: 4
       name: guests_attending
@@ -34,12 +34,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': 1, ''value'': ''1''}'
-      - '{''label'': 2, ''value'': ''2''}'
-      - '{''label'': 3, ''value'': ''3''}'
-      - '{''label'': ''4-6'', ''value'': ''4-6''}'
-      - '{''label'': ''7-12'', ''value'': ''7-12''}'
-      - '{''label'': ''More'', ''value'': ''more''}'
+      - '1'
+      - '2'
+      - '3'
+      - 4-6
+      - 7-12
+      - More
       required: true
     - id: 5
       name: event_date
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
-      - '{''label'': ''Undecided'', ''value'': ''undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: true
     - id: 13
       name: rsvp_message

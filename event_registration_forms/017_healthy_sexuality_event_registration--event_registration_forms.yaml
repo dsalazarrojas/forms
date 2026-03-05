@@ -44,9 +44,9 @@ inputSchema:
       hint: 'null'
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Workshop''}'
-      - '{''id'': 2, ''label'': ''Session''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Workshop
+      - Session
+      - Other
       required: false
     - id: 7
       name: participant_name
@@ -75,9 +75,9 @@ inputSchema:
       hint: 'null'
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''French''}'
+      - English
+      - Spanish
+      - French
       required: false
     - id: 11
       name: participant_additional_details
@@ -92,9 +92,9 @@ inputSchema:
       hint: 'null'
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Vegetarian''}'
-      - '{''id'': 2, ''label'': ''Non Vegetarian''}'
-      - '{''id'': 3, ''label'': ''Vegan''}'
+      - Vegetarian
+      - Non Vegetarian
+      - Vegan
       required: false
     - id: 13
       name: organizer_name

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''case_management'', ''value'': ''Case Management''}'
-      - '{''id'': 2, ''name'': ''counseling'', ''value'': ''Counseling''}'
-      - '{''id'': 3, ''name'': ''support_group'', ''value'': ''Support Group''}'
+      - Case Management
+      - Counseling
+      - Support Group
       required: true
     - id: 4
       name: social_support
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''single'', ''value'': ''Single''}'
-      - '{''id'': 2, ''name'': ''married'', ''value'': ''Married''}'
-      - '{''id'': 3, ''name'': ''divorced'', ''value'': ''Divorced''}'
-      - '{''id'': 4, ''name'': ''widowed'', ''value'': ''Widowed''}'
+      - Single
+      - Married
+      - Divorced
+      - Widowed
       required: false
     - id: 7
       name: income
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''employed'', ''value'': ''Employed''}'
-      - '{''id'': 2, ''name'': ''student'', ''value'': ''Student''}'
-      - '{''id'': 3, ''name'': ''retired'', ''value'': ''Retired''}'
+      - Employed
+      - Student
+      - Retired
       required: true
     - id: 9
       name: employment_income
@@ -96,11 +96,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''value'': ''Yes''}'
-      - '{''id'': 2, ''name'': False, ''value'': ''No''}'
-      - '{''id'': 3, ''name'': ''unsure'', ''value'': ''Unsure''}'
-      - '{''id'': 4, ''name'': ''pending_review'', ''value'': ''Pending Review''}'
-      - '{''id'': 5, ''name'': ''not_applicable'', ''value'': ''Not Applicable''}'
+      - 'Yes'
+      - 'No'
+      - Unsure
+      - Pending Review
+      - Not Applicable
       required: true
     - id: 13
       name: disability_status
@@ -108,11 +108,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': ''Yes''}'
-      - '{''id'': 2, ''name'': False, ''value'': ''No''}'
-      - '{''id'': 3, ''name'': ''pending_review'', ''value'': ''Pending Review''}'
-      - '{''id'': 4, ''name'': ''unsure'', ''value'': ''Unsure''}'
-      - '{''id'': 5, ''name'': ''not_applicable'', ''value'': ''Not Applicable''}'
+      - 'Yes'
+      - 'No'
+      - Pending Review
+      - Unsure
+      - Not Applicable
       required: false
     - id: 14
       name: veterans_benefits
@@ -120,11 +120,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''value'': ''Yes''}'
-      - '{''id'': 2, ''name'': False, ''value'': ''No''}'
-      - '{''id'': 3, ''name'': ''pending_review'', ''value'': ''Pending Review''}'
-      - '{''id'': 4, ''name'': ''unsure'', ''value'': ''Unsure''}'
-      - '{''id'': 5, ''name'': ''not_applicable'', ''value'': ''Not Applicable''}'
+      - 'Yes'
+      - 'No'
+      - Pending Review
+      - Unsure
+      - Not Applicable
       required: false
     - id: 15
       name: medical_condition
@@ -188,11 +188,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': ''Yes''}'
-      - '{''id'': 2, ''name'': False, ''value'': ''No''}'
-      - '{''id'': 3, ''name'': ''pending_review'', ''value'': ''Pending Review''}'
-      - '{''id'': 4, ''name'': ''unsure'', ''value'': ''Unsure''}'
-      - '{''id'': 5, ''name'': ''not_applicable'', ''value'': ''Not Applicable''}'
+      - 'Yes'
+      - 'No'
+      - Pending Review
+      - Unsure
+      - Not Applicable
       required: true
     - id: 24
       name: medical_history

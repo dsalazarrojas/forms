@@ -1,188 +1,70 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Speaker Evaluation Form
     pages:
     - id: 1
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
+      name: overall_presentation_quality
+      label: Overall Presentation Quality
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: evaluation_comments
-      label: Evaluation Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: presentation_delivery
-      label: presentation_delivery
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: relevance
-      label: relevance
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: organization
-      label: organization
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: suggestions_for_improvement
-      label: suggestions_for_improvement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: speaker_evaluation_form_rating
-      label: speaker_evaluation_form_rating
+      name: speaker_communication_style
+      label: Speaker's Communication Style
       hint: null
       type: select_one
       options:
-      - '{''rating'': ''Excellent'', ''rating_label'': ''Excellent''}'
-      - '{''rating'': ''Good'', ''rating_label'': ''Good''}'
-      - '{''rating'': ''Fair'', ''rating_label'': ''Fair''}'
-      - '{''rating'': ''Poor'', ''rating_label'': ''Poor''}'
-      required: false
-    - id: 8
-      name: speaker_evaluation_form_additional_comments
-      label: speaker_evaluation_form_additional_comments
+      - clear
+      - concise
+      - engaging
+      - confusing
+      - boring
+      required: true
+    - id: 3
+      name: relevance
+      label: Relevance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: helpfulness
+      label: Helpfulness
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Very helpful''}'
-      - '{''text'': ''Somewhat helpful''}'
-      - '{''text'': ''Not very helpful''}'
-      - '{''text'': ''Not at all helpful''}'
+      - Very helpful
+      - Somewhat helpful
+      - Not very helpful
+      - Not at all helpful
+      required: true
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
       required: false
-    - id: 9
+    - id: 8
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
-      options: []
-      required: false
-    - id: 10
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: speaker_evaluation_form
-      label: speaker_evaluation_form
-      hint: null
-      type: text
       options: []
       required: false

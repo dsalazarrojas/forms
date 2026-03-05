@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1 - Not Satisfied'', ''value'': ''Not Satisfied''}'
-      - '{''label'': ''2 - Somewhat Satisfied'', ''value'': ''Somewhat Satisfied''}'
-      - '{''label'': ''3 - Neutral'', ''value'': ''Neutral''}'
-      - '{''label'': ''4 - Somewhat Satisfied'', ''value'': ''Somewhat Satisfied''}'
-      - '{''label'': ''5 - Very Satisfied'', ''value'': ''Very Satisfied''}'
+      - 1 - Not Satisfied
+      - 2 - Somewhat Satisfied
+      - 3 - Neutral
+      - 4 - Somewhat Satisfied
+      - 5 - Very Satisfied
       required: false
     - id: 3
       name: massage_quality
@@ -28,9 +28,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Too Hard'', ''value'': ''Too Hard''}'
-      - '{''label'': ''Too Soft'', ''value'': ''Too Soft''}'
-      - '{''label'': ''Just right'', ''value'': ''Just right''}'
+      - Too Hard
+      - Too Soft
+      - Just right
       required: false
     - id: 4
       name: oil_selection
@@ -38,9 +38,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Lavender'', ''value'': ''Lavender''}'
-      - '{''label'': ''Eucalyptus'', ''value'': ''Eucalyptus''}'
-      - '{''label'': ''Frankincense'', ''value'': ''Frankincense''}'
+      - Lavender
+      - Eucalyptus
+      - Frankincense
       required: false
     - id: 5
       name: comments

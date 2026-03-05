@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''Mail'', ''value'': ''mail''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Phone
+      - Email
+      - Mail
+      - Other
       required: false
     - id: 5
       name: rsvp_response
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Attending'', ''value'': ''attending''}'
-      - '{''label'': ''Not Attending'', ''value'': ''not_attending''}'
-      - '{''label'': ''Maybe'', ''value'': ''maybe''}'
+      - Attending
+      - Not Attending
+      - Maybe
       required: false
     - id: 6
       name: note

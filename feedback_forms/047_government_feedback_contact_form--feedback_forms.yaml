@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''feedback'', ''label'': ''Feedback''}'
-      - '{''value'': ''suggestion'', ''label'': ''Suggestion''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - Feedback
+      - Suggestion
+      - Other
       required: false
     - id: 6
       name: department
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''department1'', ''label'': ''Department 1''}'
-      - '{''value'': ''department2'', ''label'': ''Department 2''}'
-      - '{''value'': ''department3'', ''label'': ''Department 3''}'
+      - Department 1
+      - Department 2
+      - Department 3
       required: false
     - id: 7
       name: submit

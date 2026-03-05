@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''On Time'', ''value'': ''On Time''}'
-      - '{''id'': 2, ''label'': ''Late'', ''value'': ''Late''}'
-      - '{''id'': 3, ''label'': ''No Response'', ''value'': ''No Response''}'
+      - On Time
+      - Late
+      - No Response
       required: false
     - id: 11
       name: support_team_lead_email
@@ -117,11 +117,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''On Hold'', ''value'': ''On Hold''}'
-      - '{''id'': 2, ''label'': ''Done'', ''value'': ''Done''}'
-      - '{''id'': 3, ''label'': ''Pending'', ''value'': ''Pending''}'
-      - '{''id'': 4, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      - '{''id'': 5, ''label'': ''Unknown'', ''value'': ''Unknown''}'
+      - On Hold
+      - Done
+      - Pending
+      - In Progress
+      - Unknown
       required: false
     - id: 17
       name: resolution_status_comment
@@ -166,22 +166,22 @@ inputSchema:
       options: []
       required: false
     - id: 23
-      name: support_team_lead
-      label: Support Team Lead
+      name: support_team_lead_2
+      label: Support Team Lead 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: support_team_lead_email
-      label: Support Team Lead Email
+      name: support_team_lead_email_2
+      label: Support Team Lead Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 25
-      name: support_team_lead_phone
-      label: Support Team Lead Phone
+      name: support_team_lead_phone_2
+      label: Support Team Lead Phone 2
       hint: null
       type: text
       options: []

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pending''}'
-      - '{''id'': 2, ''name'': ''successful''}'
-      - '{''id'': 3, ''name'': ''failed''}'
+      - pending
+      - successful
+      - failed
       required: false
     - id: 4
       name: customer_satisfaction
@@ -33,8 +33,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''satisfied''}'
-      - '{''id'': 2, ''name'': ''not_satisfied''}'
+      - satisfied
+      - not satisfied
       required: false
     - id: 5
       name: customer_comments
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''chatjimmy''}'
+      - chatjimmy
+      - Other
       required: false
     - id: 11
       name: customer_contact_info
@@ -86,10 +86,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''phone''}'
-      - '{''id'': 2, ''name'': ''email''}'
-      - '{''id'': 3, ''name'': ''social_media''}'
-      - '{''id'': 4, ''name'': ''chat''}'
+      - phone
+      - email
+      - social media
+      - chat
       required: false
     - id: 12
       name: customer_feedback_sent_date_time
@@ -104,6 +104,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''store''}'
-      - '{''id'': 2, ''name'': ''website''}'
+      - store
+      - website
       required: false

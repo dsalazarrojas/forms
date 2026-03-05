@@ -1,103 +1,92 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Charity Donor Experience Inquiry Form
     pages:
-      - id: 1
-        name: header
-        label: -- Donor Experience Inquiry --
-        hint: Gather feedback from donors about their giving experience
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: donor_name
-        label: donor name
-        hint: optional for anonymous responses
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: donor_email
-        label: donor email
-        hint: contact for follow up if requested
-        type: email
-        options: []
-        required: false
-      - id: 4
-        name: donation_date
-        label: donation date
-        hint: date of most recent donation
-        type: date
-        options: []
-        required: false
-      - id: 5
-        name: satisfaction_with_process
-        label: satisfaction with process
-        hint: rate your experience making the donation
-        type: select_one
-        options:
-          - Very dissatisfied
-          - Dissatisfied
-          - Neutral
-          - Satisfied
-          - Very satisfied
-        required: true
-      - id: 6
-        name: ease_of_donation
-        label: ease of donation
-        hint: rate how easy the process was
-        type: select_one
-        options:
-          - Very difficult
-          - Difficult
-          - Neutral
-          - Easy
-          - Very easy
-        required: true
-      - id: 7
-        name: communication_feedback
-        label: communication feedback
-        hint: feedback on acknowledgement and stewardship communications
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: improvement_suggestions
-        label: improvement suggestions
-        hint: suggestions to improve donor experience
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: willingness_to_recommend
-        label: willingness to recommend
-        hint: would you recommend donating to this organization
-        type: select_one
-        options:
-          - Definitely not
-          - Probably not
-          - Maybe
-          - Probably yes
-          - Definitely yes
-        required: true
-      - id: 10
-        name: follow_up_request
-        label: follow up request
-        hint: may we contact you to discuss your feedback
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
+    - id: 1
+      name: header
+      label: -- Donor Experience Inquiry --
+      hint: Gather feedback from donors about their giving experience
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: donor name
+      hint: optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_email
+      label: donor email
+      hint: contact for follow up if requested
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: donation_date
+      label: donation date
+      hint: date of most recent donation
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_with_process
+      label: satisfaction with process
+      hint: rate your experience making the donation
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very satisfied
+      required: true
+    - id: 6
+      name: ease_of_donation
+      label: ease of donation
+      hint: rate how easy the process was
+      type: select_one
+      options:
+      - Very difficult
+      - Difficult
+      - Neutral
+      - Easy
+      - Very easy
+      required: true
+    - id: 7
+      name: communication_feedback
+      label: communication feedback
+      hint: feedback on acknowledgement and stewardship communications
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: improvement_suggestions
+      label: improvement suggestions
+      hint: suggestions to improve donor experience
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: willingness_to_recommend
+      label: willingness to recommend
+      hint: would you recommend donating to this organization
+      type: select_one
+      options:
+      - Definitely not
+      - Probably not
+      - Maybe
+      - Probably yes
+      - Definitely yes
+      required: true
+    - id: 10
+      name: follow_up_request
+      label: follow up request
+      hint: may we contact you to discuss your feedback
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

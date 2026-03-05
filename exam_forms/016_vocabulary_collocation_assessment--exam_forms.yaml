@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''A''}'
-      - '{''value'': ''B''}'
-      - '{''value'': ''C''}'
-      - '{''value'': ''D''}'
+      - A
+      - B
+      - C
+      - D
       required: false
     - id: 3
       name: collocation_score
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''submitted''}'
-      - '{''value'': ''pending''}'
-      - '{''value'': ''cancelled''}'
+      - submitted
+      - pending
+      - cancelled
       required: false
     - id: 8
       name: student_score
@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''completed''}'
-      - '{''value'': ''incomplete''}'
-      - '{''value'': ''not_started''}'
+      - completed
+      - incomplete
+      - not started
       required: false
     - id: 11
       name: completion_time
@@ -103,8 +103,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''completed''}'
-      - '{''value'': ''not_completed''}'
+      - completed
+      - not completed
       required: false
     - id: 14
       name: submission_date
@@ -147,7 +147,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1}'
-      - '{''value'': 2}'
-      - '{''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false

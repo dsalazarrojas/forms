@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Volunteer''}'
-      - '{''label'': ''Non-Volunteer''}'
+      - Volunteer
+      - Non-Volunteer
       required: false
     - id: 4
       name: volunteer_organization
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Once''}'
-      - '{''label'': ''Ongoing''}'
-      - '{''label'': ''Multiple''}'
-      - '{''label'': ''Rarely''}'
+      - Once
+      - Ongoing
+      - Multiple
+      - Rarely
       required: false
     - id: 6
       name: feedback
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''On-Site''}'
-      - '{''label'': ''Virtual''}'
-      - '{''label'': ''Both''}'
+      - On-Site
+      - Virtual
+      - Both
       required: false
     - id: 11
       name: volunteer_manager
@@ -90,8 +90,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Volunteer''}'
-      - '{''label'': ''Non-Volunteer''}'
+      - Volunteer
+      - Non-Volunteer
       required: false
     - id: 12
       name: volunteer_manager_title
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Fundraising''}'
-      - '{''label'': ''Educational''}'
-      - '{''label'': ''Both''}'
+      - Fundraising
+      - Educational
+      - Both
       required: false
     - id: 14
       name: volunteer_type
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Individual''}'
-      - '{''label'': ''Group''}'
-      - '{''label'': ''Both''}'
+      - Individual
+      - Group
+      - Both
       required: false
     - id: 15
       name: hours_served
@@ -147,10 +147,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Rarely''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
       required: false
     - id: 19
       name: volunteer_status
@@ -158,8 +158,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 20
       name: manager_rating
@@ -195,9 +195,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''On-Site''}'
-      - '{''label'': ''Virtual''}'
-      - '{''label'': ''Both''}'
+      - On-Site
+      - Virtual
+      - Both
       required: false
     - id: 25
       name: evaluation_comments

@@ -4,184 +4,79 @@ inputSchema:
     title: Teacher Effectiveness Review Evaluation Form
     pages:
     - id: 1
-      name: evaluation_form_1
-      label: teacher_effectiveness_review
+      name: effectiveness_delivery
+      label: How effective is the teacher in delivering the course material?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Very effective
+      - Somewhat effective
+      - Not very effective
+      - Not at all effective
+      required: true
     - id: 2
-      name: evaluation_form_2
-      label: teacher_evaluation_form
+      name: teaching_style
+      label: How would you rate the teacher's teaching style?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 3
-      name: evaluation_form_3
-      label: teaching_effectiveness
+      name: teaching_engagement
+      label: How engaging is the teacher in class?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Very engaging
+      - Somewhat engaging
+      - Not very engaging
+      - Not at all engaging
+      required: true
     - id: 4
-      name: evaluation_form_4
-      label: evaluation_process
+      name: communication_skills
+      label: How would you rate the teacher's communication skills?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 5
-      name: evaluation_form_5
-      label: feedback_form
+      name: classroom_management
+      label: How well does the teacher manage classroom behavior?
       hint: null
-      type: email
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Very well
+      - Somewhat well
+      - Not very well
+      - Not at all well
+      required: true
     - id: 6
-      name: evaluation_form_6
-      label: educator_performance
+      name: adaptability
+      label: How would you rate the teacher's ability to adapt to student needs?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 7
-      name: evaluation_form_7
-      label: teaching_effectiveness_rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: evaluation_form_8
-      label: evaluation_form
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: evaluation_form_9
-      label: review_form
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: evaluation_form_10
-      label: evaluation_process
+      name: overall_effectiveness
+      label: What is your overall rating of the teacher's effectiveness?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: evaluation_form_11
-      label: teacher_evaluation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: evaluation_form_12
-      label: evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: teacher_effectiveness
-      label: teacher_evaluation_form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: evaluation_form_14
-      label: teacher_evalutation_form
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: evaluation_form_15
-      label: teacher_effectiveness_rating_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: teacher_effectiveness_review_form
-      label: teacher_performance_form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: teacher_effectiveness_review_form
-      label: teacher_performance_rating
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: evaluation_form_18
-      label: teacher_form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: teacher_evaluation_form
-      label: teacher_form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: evaluation_form_20
-      label: evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: teacher_evaluation_form
-      label: teacher_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: evaluation_form_22
-      label: evaluation_form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: teacher_effectiveness_form
-      label: teacher_effectiveness_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: teacher_effectiveness_form
-      label: teacher_effectiveness_rating
-      hint: null
-      type: number
-      options: []
-      required: false
+      - Very effective
+      - Somewhat effective
+      - Not very effective
+      - Not at all effective
+      required: true

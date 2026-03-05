@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Employees''}'
-      - '{''value'': ''Customers''}'
-      - '{''value'': ''Students''}'
-      - '{''value'': ''Community stakeholders''}'
+      - Employees
+      - Customers
+      - Students
+      - Community stakeholders
       required: false
     - id: 4
       name: share_frequency
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Quarterly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
       required: false
     - id: 5
       name: share_timing
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Immediately''}'
-      - '{''value'': ''After each survey''}'
-      - '{''value'': ''At end of survey''}'
+      - Immediately
+      - After each survey
+      - At end of survey
       required: false
     - id: 6
       name: share_medium
@@ -55,10 +55,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Text message''}'
-      - '{''value'': ''In person''}'
-      - '{''value'': ''Other (please specify)''}'
+      - Email
+      - Text message
+      - In person
+      - Other (please specify)
       required: true
     - id: 7
       name: other_share_medium

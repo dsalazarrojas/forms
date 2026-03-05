@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''PDF''}'
-      - '{''label'': ''JPG''}'
-      - '{''label'': ''PNG''}'
-      - '{''label'': ''CSV''}'
-      - '{''label'': ''XML''}'
+      - PDF
+      - JPG
+      - PNG
+      - CSV
+      - XML
       required: false
     - id: 3
       name: urgency
@@ -28,9 +28,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 4
       name: file_description
@@ -52,9 +52,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''PDF''}'
-      - '{''label'': ''DOCX''}'
-      - '{''label'': ''CSV''}'
+      - PDF
+      - DOCX
+      - CSV
       required: false
     - id: 7
       name: submit

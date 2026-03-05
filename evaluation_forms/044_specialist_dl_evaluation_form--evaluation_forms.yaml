@@ -9,7 +9,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Employee'', ''label'': ''Employee''}'
+      - Employee
       - Other
       required: true
     - id: 2
@@ -25,10 +25,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Q1'', ''label'': ''Q1''}'
-      - '{''value'': ''Q2'', ''label'': ''Q2''}'
-      - '{''value'': ''Q3'', ''label'': ''Q3''}'
-      - '{''value'': ''Q4'', ''label'': ''Q4''}'
+      - Q1
+      - Q2
+      - Q3
+      - Q4
       required: false
     - id: 4
       name: comments
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Specialist 1'', ''label'': ''Specialist 1''}'
-      - '{''value'': ''Specialist 2'', ''label'': ''Specialist 2''}'
+      - Specialist 1
+      - Specialist 2
       required: true
     - id: 8
       name: evaluation_form_status
@@ -66,8 +66,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Draft'', ''label'': ''Draft''}'
-      - '{''value'': ''Published'', ''label'': ''Published''}'
+      - Draft
+      - Published
       required: false
     - id: 9
       name: review_date
@@ -82,6 +82,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: true

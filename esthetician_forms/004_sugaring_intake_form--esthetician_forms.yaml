@@ -62,10 +62,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': 1, ''value'': ''Never''}'
-      - '{''options'': 2, ''value'': ''Rarely''}'
-      - '{''options'': 3, ''value'': ''Occasionally''}'
-      - '{''options'': 4, ''value'': ''Almost Every Day''}'
+      - Never
+      - Rarely
+      - Occasionally
+      - Almost Every Day
       required: false
     - id: 9
       name: hair_removal_area
@@ -73,15 +73,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''options'': 1, ''value'': ''Full Body''}'
-      - '{''options'': 2, ''value'': ''Face''}'
-      - '{''options'': 3, ''value'': ''Back/Neckline''}'
-      - '{''options'': 4, ''value'': ''Eyebrow''}'
-      - '{''options'': 5, ''value'': ''Bikini Line''}'
-      - '{''options'': 6, ''value'': ''Lip/Chin''}'
-      - '{''options'': 7, ''value'': ''Eyelashes''}'
-      - '{''options'': 8, ''value'': ''Eyebrow Bumps''}'
-      - '{''options'': 9, ''value'': ''Full Body/Upper Lip''}'
+      - Full Body
+      - Face
+      - Back/Neckline
+      - Eyebrow
+      - Bikini Line
+      - Lip/Chin
+      - Eyelashes
+      - Eyebrow Bumps
+      - Full Body/Upper Lip
       required: false
     - id: 10
       name: technician
@@ -110,12 +110,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''options'': 1, ''value'': ''Full Body''}'
-      - '{''options'': 2, ''value'': ''Face''}'
-      - '{''options'': 3, ''value'': ''Back/Neckline''}'
-      - '{''options'': 4, ''value'': ''Eyebrow''}'
-      - '{''options'': 5, ''value'': ''Eyelashes''}'
-      - '{''options'': 6, ''value'': ''Eyebrow Bumps''}'
+      - Full Body
+      - Face
+      - Back/Neckline
+      - Eyebrow
+      - Eyelashes
+      - Eyebrow Bumps
       required: false
     - id: 14
       name: medical_concerns
@@ -123,11 +123,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''options'': 1, ''value'': ''None''}'
-      - '{''options'': 2, ''value'': ''Skin Conditions''}'
-      - '{''options'': 3, ''value'': ''Ingrown Hairs''}'
-      - '{''options'': 4, ''value'': ''Infection''}'
-      - '{''options'': 5, ''value'': ''Allergies''}'
+      - None
+      - Skin Conditions
+      - Ingrown Hairs
+      - Infection
+      - Allergies
       required: false
     - id: 15
       name: pain_level
@@ -135,10 +135,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': 1, ''value'': ''No Pain''}'
-      - '{''options'': 2, ''value'': ''Little Pain''}'
-      - '{''options'': 3, ''value'': ''Some Pain''}'
-      - '{''options'': 4, ''value'': ''A Lot of Pain''}'
+      - No Pain
+      - Little Pain
+      - Some Pain
+      - A Lot of Pain
       required: false
     - id: 16
       name: num_sessions
@@ -146,9 +146,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': 1, ''value'': 1}'
-      - '{''options'': 2, ''value'': 2}'
-      - '{''options'': 3, ''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 17
       name: desired_outcome
@@ -156,9 +156,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''options'': 1, ''value'': ''Smooth and Silky Skin''}'
-      - '{''options'': 2, ''value'': ''Reduced Hair Growth''}'
-      - '{''options'': 3, ''value'': ''Reduced Ingrown Hairs''}'
+      - Smooth and Silky Skin
+      - Reduced Hair Growth
+      - Reduced Ingrown Hairs
       required: false
     - id: 18
       name: notes
@@ -182,8 +182,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': 1, ''value'': True}'
-      - '{''options'': 2, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: consent_date

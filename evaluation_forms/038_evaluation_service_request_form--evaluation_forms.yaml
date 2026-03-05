@@ -1,146 +1,116 @@
 inputSchema:
   type: object
   properties:
-    title: evaluation service request form
+    title: Evaluation Service Request Form
     pages:
     - id: 1
       name: business_name
       label: Business Name
-      hint: null
+      hint: Provide your business name and contact information.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: email
       label: Email
-      hint: null
+      hint: Enter your email address.
       type: email
       options: []
-      required: false
+      required: true
     - id: 3
       name: phone_number
       label: Phone Number
-      hint: null
+      hint: Enter your phone number.
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: description
-      label: Description
-      hint: null
+      label: Description of Service Request
+      hint: Please describe the service you are requesting.
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: select_one
-      label: Select One
-      hint: null
+      label: Preferred Time of Day
+      hint: Select your preferred time of day for the evaluation.
       type: select_one
       options:
-      - Hawaii
-      - Oahu
-      - Maui
-      - Kona
-      required: false
+      - 08:00 AM - 10:00 AM
+      - 10:00 AM - 12:00 PM
+      - 12:00 PM - 02:00 PM
+      - 02:00 PM - 04:00 PM
+      - 04:00 PM - 06:00 PM
+      - 06:00 PM - 08:00 PM
+      - 08:00 PM - 10:00 PM
+      required: true
     - id: 6
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Hawaii
-      - Oahu
-      - Maui
-      - Kona
-      required: false
-    - id: 7
       name: date
-      label: Date
-      hint: null
+      label: Preferred Date and Time
+      hint: Select your preferred date and time for the evaluation.
       type: date
       options: []
-      required: false
-    - id: 8
-      name: time
-      label: Time
-      hint: null
-      type: time
+      required: true
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Specify the tool(s) to be used during the evaluation.
+      type: text
       options: []
-      required: false
+      required: true
+    - id: 8
+      name: category
+      label: Category
+      hint: Select the category of the evaluation.
+      type: select_one
+      options:
+      - Quality
+      - Safety
+      - Security
+      required: true
     - id: 9
+      name: select_multiple
+      label: Select Multiple Locations
+      hint: Select multiple locations for the evaluation.
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: true
+    - id: 10
       name: note
-      label: Note
-      hint: null
+      label: Additional Notes
+      hint: Please provide any additional comments or notes.
       type: note
       options: []
       required: false
-    - id: 10
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 11
-      name: category
-      label: Category
-      hint: null
+      name: repeat_category
+      label: Repeat Category
+      hint: Another category for evaluation.
       type: text
       options: []
       required: false
     - id: 12
-      name: category
-      label: Category
-      hint: null
+      name: more_repeat_category
+      label: More Repeat Category
+      hint: Yet another category for evaluation.
       type: text
       options: []
       required: false
     - id: 13
-      name: category
-      label: Category
-      hint: null
+      name: another_repeat_category
+      label: Another Repeat Category
+      hint: Another category for evaluation.
       type: text
       options: []
       required: false
     - id: 14
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: category
-      label: Category
-      hint: null
+      name: last_repeat_category
+      label: Last Repeat Category
+      hint: The last category for evaluation.
       type: text
       options: []
       required: false

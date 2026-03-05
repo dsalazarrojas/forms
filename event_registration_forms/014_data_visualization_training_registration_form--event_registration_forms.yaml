@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Data Scientist'', ''label'': ''Data Scientist''}'
-      - '{''id'': 2, ''value'': ''Data Analyst'', ''label'': ''Data Analyst''}'
-      - '{''id'': 3, ''value'': ''Other'', ''label'': ''Other''}'
+      - Data Scientist
+      - Data Analyst
+      - Other
       required: true
     - id: 6
       name: comments
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Online'', ''label'': ''Online''}'
-      - '{''id'': 2, ''value'': ''On-site'', ''label'': ''On-site''}'
-      - '{''id'': 3, ''value'': ''Hybrid'', ''label'': ''Hybrid''}'
+      - Online
+      - On-site
+      - Hybrid
       required: true
     - id: 13
       name: training_length
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Half-day'', ''label'': ''Half-day''}'
-      - '{''id'': 2, ''value'': ''Full-day'', ''label'': ''Full-day''}'
-      - '{''id'': 3, ''value'': ''Multi-day'', ''label'': ''Multi-day''}'
+      - Half-day
+      - Full-day
+      - Multi-day
       required: true
     - id: 14
       name: training_format
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''In-person'', ''label'': ''In-person''}'
-      - '{''id'': 2, ''value'': ''Online'', ''label'': ''Online''}'
-      - '{''id'': 3, ''value'': ''Hybrid'', ''label'': ''Hybrid''}'
+      - In-person
+      - Online
+      - Hybrid
       required: true
     - id: 15
       name: training_level
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Beginner'', ''label'': ''Beginner''}'
-      - '{''id'': 2, ''value'': ''Intermediate'', ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''value'': ''Advanced'', ''label'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: false
     - id: 16
       name: session_language
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''English'', ''label'': ''English''}'
-      - '{''id'': 2, ''value'': ''Spanish'', ''label'': ''Spanish''}'
-      - '{''id'': 3, ''value'': ''Mandarin'', ''label'': ''Mandarin''}'
+      - English
+      - Spanish
+      - Mandarin
       required: true
     - id: 17
       name: session_time
@@ -160,9 +160,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Instructor 1'', ''label'': ''Instructor 1''}'
-      - '{''id'': 2, ''value'': ''Instructor 2'', ''label'': ''Instructor 2''}'
-      - '{''id'': 3, ''value'': ''Instructor 3'', ''label'': ''Instructor 3''}'
+      - Instructor 1
+      - Instructor 2
+      - Instructor 3
       required: true
     - id: 21
       name: course
@@ -170,9 +170,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Course 1'', ''label'': ''Course 1''}'
-      - '{''id'': 2, ''value'': ''Course 2'', ''label'': ''Course 2''}'
-      - '{''id'': 3, ''value'': ''Course 3'', ''label'': ''Course 3''}'
+      - Course 1
+      - Course 2
+      - Course 3
       required: false
     - id: 22
       name: notes

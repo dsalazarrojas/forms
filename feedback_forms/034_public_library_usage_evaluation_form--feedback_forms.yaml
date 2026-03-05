@@ -12,30 +12,23 @@ inputSchema:
       required: false
     - id: 2
       name: services_used
-      label: services_used
+      label: Services Used
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: suggestions
-      label: suggestions
+      label: Suggestions
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: contact_method
-      label: contact_method
+      label: Contact Method
       hint: null
       type: select_one
       options:
@@ -43,100 +36,103 @@ inputSchema:
       - Email
       - Phone Call
       required: false
-    - id: 6
+    - id: 5
       name: contact_person
-      label: contact_person
+      label: Contact Person
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
+    - id: 6
       name: contact_email
-      label: contact_email
+      label: Contact Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: contact_phone
-      label: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_notes
+      label: Contact Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: contact_notes
-      label: contact_notes
+      name: contact_method_other
+      label: Other Contact Method
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: contact_method_other
-      label: contact_method_other
+      name: contact_email_other
+      label: Other Contact Email
       hint: null
-      type: text
+      type: email
       options: []
       required: false
     - id: 11
-      name: contact_method_other_other
-      label: contact_method_other_other
+      name: contact_phone_other
+      label: Other Contact Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: contact_method_other_other
-      label: contact_method_other_other
+      name: contact_notes_other
+      label: Other Contact Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: contact_email_other
-      label: contact_email_other
+      name: public_library_usage_other
+      label: Other Public Library Usage
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 14
-      name: contact_phone_other
-      label: contact_phone_other
+      name: services_used_other
+      label: Other Services Used
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: contact_notes_other
-      label: contact_phone_other
+      name: suggestions_other
+      label: Other Suggestions
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: contact_method_other_other
-      label: contact_method_other_other
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: public_library_usage_other
-      label: public_library_usage_other
+      name: contact_method_additional
+      label: Additional Contact Method
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Contact Form
+      - Email
+      - Phone Call
       required: false
     - id: 18
-      name: services_used_other
-      label: services_used_other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: suggestions_other
-      label: suggestions_other
+      name: public_library_usage_additional
+      label: Additional Public Library Usage
       hint: null
       type: text
       options: []

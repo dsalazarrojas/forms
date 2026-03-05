@@ -133,8 +133,8 @@ inputSchema:
       hint: Have you had chemical peels before
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: previous_peel_details
@@ -161,7 +161,7 @@ inputSchema:
       options:
       - Yes, pregnant
       - Yes, nursing
-      - false
+      - 'False'
       - Not applicable
       required: true
     - id: 20
@@ -189,7 +189,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I acknowledge
-      - false
+      - 'False'
       required: true
     - id: 23
       name: aftercare_instructions
@@ -207,7 +207,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I agree
-      - false
+      - 'False'
       required: true
     - id: 25
       name: no_guarantees
@@ -216,7 +216,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I understand
-      - false
+      - 'False'
       required: true
     - id: 26
       name: alternative_treatments
@@ -224,8 +224,8 @@ inputSchema:
       hint: I have discussed alternative treatment options
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 27
       name: questions_answered
@@ -233,8 +233,8 @@ inputSchema:
       hint: All my questions have been answered
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 28
       name: voluntary_consent
@@ -243,7 +243,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, voluntarily
-      - false
+      - 'False'
       required: true
     - id: 29
       name: patient_signature
@@ -252,7 +252,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I consent
-      - false
+      - 'False'
       required: true
     - id: 30
       name: signature_date
@@ -275,5 +275,5 @@ inputSchema:
       type: select_one
       options:
       - Yes, confirmed
-      - false
+      - 'False'
       required: true

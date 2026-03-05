@@ -51,8 +51,8 @@ inputSchema:
       hint: Do any guests have dietary needs
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: vegetarian_count
@@ -146,7 +146,7 @@ inputSchema:
       options:
       - Yes - Attached
       - Yes - Will Send Later
-      - false
+      - 'False'
       required: true
     - id: 21
       name: buffet_labels_needed
@@ -154,8 +154,8 @@ inputSchema:
       hint: Do you need allergen labels
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: separate_preparation
@@ -163,8 +163,8 @@ inputSchema:
       hint: For severe allergies
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: false
     - id: 23

@@ -45,9 +45,9 @@ inputSchema:
       type: select_one
       options:
       - Strongly Yes
-      - true
+      - 'True'
       - Neutral
-      - false
+      - 'False'
       - Strongly No
       required: true
     - id: 7
@@ -86,7 +86,7 @@ inputSchema:
       - Yes, excellent
       - Yes, adequate
       - Somewhat
-      - false
+      - 'False'
       - Unsure
       required: false
     - id: 10
@@ -102,8 +102,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not sure
       - Prefer not to say
       required: false

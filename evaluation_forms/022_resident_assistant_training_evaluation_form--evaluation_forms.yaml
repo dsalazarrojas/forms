@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Beginner''}'
-      - '{''label'': ''Intermediate''}'
-      - '{''label'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: false
     - id: 8
       name: evaluation_scale
@@ -61,11 +61,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Unsatisfactory''}'
-      - '{''label'': ''Needs Improvement''}'
-      - '{''label'': ''Satisfactory''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Excellent''}'
+      - Unsatisfactory
+      - Needs Improvement
+      - Satisfactory
+      - Good
+      - Excellent
       required: false
     - id: 9
       name: recommendations
@@ -94,10 +94,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''1-2''}'
-      - '{''label'': 3}'
-      - '{''label'': 4}'
-      - '{''label'': 5}'
+      - 1-2
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 13
       name: trainer_name

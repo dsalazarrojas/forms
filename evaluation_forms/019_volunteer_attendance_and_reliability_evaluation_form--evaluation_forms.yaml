@@ -4,189 +4,113 @@ inputSchema:
     title: Volunteer Attendance And Reliability Evaluation Form
     pages:
     - id: 1
-      name: volunteer_attendance_and_reliability_evaluation_form
+      name: volunteer_form
       label: Volunteer
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: date
+      name: date_form
       label: Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
-      name: volunteer_name
+      name: volunteer_name_form
       label: Volunteer Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: attendance_score
+      name: attendance_score_form
       label: Attendance Score
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 5
       name: attendance_score_scale
       label: Attendance Score Scale
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Scale 1'', ''label'': ''Scale 1''}'
-      - '{''id'': 2, ''name'': ''Scale 2'', ''label'': ''Scale 2''}'
-      - '{''id'': 3, ''name'': ''Scale 3'', ''label'': ''Scale 3''}'
-      required: false
+      - Scale 1
+      - Scale 2
+      - Scale 3
+      required: true
     - id: 6
       name: attendance_score_scale_value
       label: Attendance Score Scale Value
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: attendance
-      label: Attendance
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: reliability_score
+      name: reliability_score_form
       label: Reliability
       hint: null
       type: number
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 8
       name: reliability_score_scale
       label: Reliability Score Scale
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Scale 1'', ''label'': ''Scale 1''}'
-      - '{''id'': 2, ''name'': ''Scale 2'', ''label'': ''Scale 2''}'
-      - '{''id'': 3, ''name'': ''Scale 3'', ''label'': ''Scale 3''}'
-      required: false
-    - id: 10
+      - Scale 1
+      - Scale 2
+      - Scale 3
+      required: true
+    - id: 9
       name: reliability_score_scale_value
       label: Reliability Score Scale Value
       hint: null
       type: number
       options: []
-      required: false
-    - id: 11
-      name: comments
+      required: true
+    - id: 10
+      name: comments_form
       label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
-      name: email
+    - id: 11
+      name: email_form
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 13
-      name: phone
+      required: true
+    - id: 12
+      name: phone_form
       label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
-      name: assigned_tool
+    - id: 13
+      name: assigned_tool_form
       label: Assigned Tool
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
-      name: assigned_tool_user
+    - id: 14
+      name: assigned_tool_user_form
       label: Assigned Tool User
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
+    - id: 15
       name: comments_and_additional_comments
       label: Comments and additional comments
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 17
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: volunteer_name
-      label: Volunteer Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: attendance_score
-      label: Attendance Score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: attendance_score_scale
-      label: Attendance Score Scale
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Scale 1'', ''label'': ''Scale 1''}'
-      - '{''id'': 2, ''name'': ''Scale 2'', ''label'': ''Scale 2''}'
-      - '{''id'': 3, ''name'': ''Scale 3'', ''label'': ''Scale 3''}'
-      required: false
-    - id: 21
-      name: attendance_score_scale_value
-      label: Attendance Score Scale Value
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: attendance
-      label: Attendance
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: reliability_score
-      label: Reliability
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: reliability_score_scale
-      label: Reliability Score Scale
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Scale 1'', ''label'': ''Scale 1''}'
-      - '{''id'': 2, ''name'': ''Scale 2'', ''label'': ''Scale 2''}'
-      - '{''id'': 3, ''name'': ''Scale 3'', ''label'': ''Scale 3''}'
-      required: false
-    - id: 25
-      name: reliability_score_scale_value
-      label: Reliability Score Scale Value
-      hint: null
-      type: number
       options: []
       required: false

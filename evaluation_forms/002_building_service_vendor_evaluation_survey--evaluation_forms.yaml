@@ -1,215 +1,204 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Building Service Vendor Evaluation Survey
     pages:
-      - id: 1
-        name: vendor_information
-        label: Vendor Information
-        hint: Identify the vendor being evaluated
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: vendor_name
-        label: Vendor Name
-        hint: Name of the service vendor
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: service_type
-        label: Service Type
-        hint: Type of service provided
-        type: select_one
-        options:
-        - Cleaning Services
-        - Security Services
-        - Maintenance
-        - Landscaping
-        - HVAC Services
-        - Electrical Services
-        - Plumbing Services
-        - Pest Control
-        - Other
-        required: true
-      - id: 4
-        name: evaluation_period
-        label: Evaluation Period
-        hint: Time period for this evaluation
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: evaluator_info
-        label: Evaluator Information
-        hint: Your details
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: evaluator_name
-        label: Evaluator Name
-        hint: Your full name
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: evaluator_role
-        label: Evaluator Role
-        hint: Your position or title
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: department
-        label: Department
-        hint: Your department
-        type: select_one
-        options:
-        - Facilities
-        - Administration
-        - Operations
-        - Management
-        - Other
-        required: true
-      - id: 9
-        name: quality_ratings
-        label: Quality Ratings
-        hint: Rate the vendor performance
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: service_quality
-        label: Service Quality
-        hint: Overall quality of services rendered
-        type: select_one
-        options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
-        required: true
-      - id: 11
-        name: timeliness
-        label: Timeliness
-        hint: How punctual and timely is the vendor
-        type: select_one
-        options:
-        - Always On Time
-        - Usually On Time
-        - Sometimes Late
-        - Often Late
-        - Consistently Late
-        required: true
-      - id: 12
-        name: professionalism
-        label: Professionalism
-        hint: Staff behavior and professionalism
-        type: select_one
-        options:
-        - Highly Professional
-        - Professional
-        - Acceptable
-        - Unprofessional
-        - Very Unprofessional
-        required: true
-      - id: 13
-        name: reliability
-        label: Reliability
-        hint: Consistency of service delivery
-        type: select_one
-        options:
-        - Very Reliable
-        - Reliable
-        - Somewhat Reliable
-        - Unreliable
-        - Very Unreliable
-        required: true
-      - id: 14
-        name: value_for_money
-        label: Value for Money
-        hint: Quality relative to cost
-        type: select_one
-        options:
-        - Excellent Value
-        - Good Value
-        - Fair Value
-        - Poor Value
-        - Very Poor Value
-        required: true
-      - id: 15
-        name: communication
-        label: Communication
-        hint: How well does the vendor communicate
-        type: select_one
-        options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
-        required: true
-      - id: 16
-        name: detailed_feedback
-        label: Detailed Feedback
-        hint: Additional comments and suggestions
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: strengths
-        label: Vendor Strengths
-        hint: What does this vendor do well
-        type: text
-        options: []
-        required: false
-      - id: 18
-        name: areas_for_improvement
-        label: Areas for Improvement
-        hint: What could be improved
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: would_recommend
-        label: Would You Recommend This Vendor
-        hint: Would you recommend to other organizations
-        type: select_one
-        options:
-        - Yes
-        - No
-        - Maybe
-        required: true
-      - id: 20
-        name: contract_renewal
-        label: Contract Renewal Recommendation
-        hint: Should we renew the contract
-        type: select_one
-        options:
-        - Strongly Recommend Renewal
-        - Recommend Renewal
-        - Neutral
-        - Recommend Against Renewal
-        - Strongly Recommend Against Renewal
-        required: true
-      - id: 21
-        name: additional_comments
-        label: Additional Comments
-        hint: Any other feedback
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: vendor_information
+      label: Vendor Information
+      hint: Identify the vendor being evaluated
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: Name of the service vendor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_type
+      label: Service Type
+      hint: Type of service provided
+      type: select_one
+      options:
+      - Cleaning Services
+      - Security Services
+      - Maintenance
+      - Landscaping
+      - HVAC Services
+      - Electrical Services
+      - Plumbing Services
+      - Pest Control
+      - Other
+      required: true
+    - id: 4
+      name: evaluation_period
+      label: Evaluation Period
+      hint: Time period for this evaluation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluator_info
+      label: Evaluator Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: evaluator_role
+      label: Evaluator Role
+      hint: Your position or title
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Facilities
+      - Administration
+      - Operations
+      - Management
+      - Other
+      required: true
+    - id: 9
+      name: quality_ratings
+      label: Quality Ratings
+      hint: Rate the vendor performance
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: service_quality
+      label: Service Quality
+      hint: Overall quality of services rendered
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 11
+      name: timeliness
+      label: Timeliness
+      hint: How punctual and timely is the vendor
+      type: select_one
+      options:
+      - Always On Time
+      - Usually On Time
+      - Sometimes Late
+      - Often Late
+      - Consistently Late
+      required: true
+    - id: 12
+      name: professionalism
+      label: Professionalism
+      hint: Staff behavior and professionalism
+      type: select_one
+      options:
+      - Highly Professional
+      - Professional
+      - Acceptable
+      - Unprofessional
+      - Very Unprofessional
+      required: true
+    - id: 13
+      name: reliability
+      label: Reliability
+      hint: Consistency of service delivery
+      type: select_one
+      options:
+      - Very Reliable
+      - Reliable
+      - Somewhat Reliable
+      - Unreliable
+      - Very Unreliable
+      required: true
+    - id: 14
+      name: value_for_money
+      label: Value for Money
+      hint: Quality relative to cost
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 15
+      name: communication
+      label: Communication
+      hint: How well does the vendor communicate
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 16
+      name: detailed_feedback
+      label: Detailed Feedback
+      hint: Additional comments and suggestions
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: strengths
+      label: Vendor Strengths
+      hint: What does this vendor do well
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could be improved
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: would_recommend
+      label: Would You Recommend This Vendor
+      hint: Would you recommend to other organizations
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
+    - id: 20
+      name: contract_renewal
+      label: Contract Renewal Recommendation
+      hint: Should we renew the contract
+      type: select_one
+      options:
+      - Strongly Recommend Renewal
+      - Recommend Renewal
+      - Neutral
+      - Recommend Against Renewal
+      - Strongly Recommend Against Renewal
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

@@ -1,103 +1,92 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Color Street Product Satisfaction Survey
     pages:
-      - id: 1
-        name: header
-        label: -- Product Satisfaction Survey --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_name
-        label: Respondent name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: purchase_date
-        label: Purchase date
-        hint: YYYY-MM-DD
-        type: date
-        options: []
-        required: false
-      - id: 4
-        name: product_purchased
-        label: Product purchased
-        hint: Name or SKU
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: satisfaction_rating
-        label: Satisfaction rating
-        hint: 1 low to 5 high
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 6
-        name: likelihood_to_recommend
-        label: Likelihood to recommend
-        hint: 1 low to 10 high
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-          - 6
-          - 7
-          - 8
-          - 9
-          - 10
-        required: false
-      - id: 7
-        name: favorite_feature
-        label: Favorite feature
-        hint: What did you like most
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: improvement_suggestions
-        label: Improvement suggestions
-        hint: How can we improve the product
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: would_purchase_again
-        label: Would purchase again
-        hint: Yes or no
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 10
-        name: additional_comments
-        label: Additional comments
-        hint: Free text
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: header
+      label: -- Product Satisfaction Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: purchase_date
+      label: Purchase date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: product_purchased
+      label: Product purchased
+      hint: Name or SKU
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: satisfaction_rating
+      label: Satisfaction rating
+      hint: 1 low to 5 high
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 6
+      name: likelihood_to_recommend
+      label: Likelihood to recommend
+      hint: 1 low to 10 high
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 7
+      name: favorite_feature
+      label: Favorite feature
+      hint: What did you like most
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: improvement_suggestions
+      label: Improvement suggestions
+      hint: How can we improve the product
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: would_purchase_again
+      label: Would purchase again
+      hint: Yes or no
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Free text
+      type: text
+      options: []
+      required: false

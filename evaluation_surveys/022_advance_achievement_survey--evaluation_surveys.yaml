@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -51,8 +40,8 @@ inputSchema:
       hint: Select yes or no
       type: select_one
       options:
-      - Yes
-      - No
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: most_valuable_component
@@ -74,11 +63,11 @@ inputSchema:
       hint: Rate from 1 low to 5 high
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 9
       name: follow_up_contact
@@ -86,6 +75,6 @@ inputSchema:
       hint: Provide contact if yes
       type: select_one
       options:
-      - Yes
-      - No
+      - 'True'
+      - 'False'
       required: false

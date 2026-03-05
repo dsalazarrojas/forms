@@ -15,177 +15,69 @@ inputSchema:
     title: Event Debrief Form
     pages:
     - id: 1
-      name: event_debrief_form
-      label: Event Debrief Form
-      hint: null
+      name: event_debrief_form_1
+      label: What was the purpose of the event?
+      hint: Please describe the main purpose of the event.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: event_debrief_form
-      label: Date Of Event
-      hint: null
+      name: event_debrief_form_2
+      label: When did the event take place?
+      hint: Date of the event.
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
-      name: event_debrief_form
-      label: Location Of Event
-      hint: null
+      name: event_debrief_form_3
+      label: Where was the event held?
+      hint: Venue of the event.
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: event_debrief_form
-      label: Time Of Event
-      hint: null
-      type: time
+      name: event_debrief_form_4
+      label: What was the duration of the event?
+      hint: How long did the event last?
+      type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: event_debrief_form
-      label: Reason For Debrief
-      hint: null
+      name: event_debrief_form_5
+      label: Who was the debriefer?
+      hint: Name of the person who debriefed the event.
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: event_debrief_form
-      label: Debriefer
-      hint: null
+      name: event_debrief_form_6
+      label: What was the reason for debriefing the event?
+      hint: Description of the reason for debriefing.
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: event_debrief_form
-      label: Debriefer Title
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: event_debrief_form_7
+      label: How did you find the debriefing process?
+      hint: Rate your experience with the debriefing process.
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 8
-      name: event_debrief_form
-      label: Event Description
-      hint: null
+      name: event_debrief_form_8
+      label: Any suggestions for improvement?
+      hint: Describe any suggestions you have for improving the debriefing process.
       type: text
       options: []
       required: false
     - id: 9
-      name: event_debrief_form
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: event_debrief_form
-      label: Debriefed Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: event_debrief_form
-      label: Debried Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: event_debrief_form
-      label: Reason For Debrief
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: event_debrief_form
-      label: Debrieffor
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: event_debrief_form
-      label: Reason For Debrief
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: event_debrief_form
-      label: Event
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: event_debrief_form
-      label: Debrieff
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: event_debrief_form
-      label: Debrieef
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: event_debrief_form
-      label: Debrieef
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: event_debrief_form
-      label: Event
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: event_debrief_form
-      label: Debrieff
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: event_debrief_form
-      label: Reason
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: event_debrief_form
-      label: Event Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: event_debrief_form
-      label: Debrieff
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: event_debrief_form
-      label: Debrieff
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: event_debrief_form
-      label: Debrieff
-      hint: null
+      name: event_debrief_form_9
+      label: Did you have any concerns during the debriefing process?
+      hint: Describe any concerns you had during the debriefing process.
       type: text
       options: []
       required: false

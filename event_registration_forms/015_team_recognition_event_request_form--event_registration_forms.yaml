@@ -15,57 +15,85 @@ inputSchema:
     title: Team Recognition Event Request Form
     pages:
     - id: 1
-      name: team_recognition_event_request_form
-      label: team_recognition_event_request_form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
       name: team_recognition_event_date
-      label: team_recognition_event_date
+      label: Event Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 3
+      required: true
+    - id: 2
       name: team_recognition_event_time
-      label: team_recognition_event_time
+      label: Event Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 4
+      required: true
+    - id: 3
       name: team_recognition_event_venue
-      label: team_recognition_event_venue
+      label: Event Location (Venue)
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: team_recognition_event_venue_address
-      label: team_recognition_event_venue
+      label: Event Address
       hint: null
       type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: team_recognition_event_venue_city
-      label: team_recognition_event_venue
+      label: City
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: team_recognition_event_venue_state
-      label: team_recognition_event_venue
+      label: State/Province
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: team_recognition_event_venue_postal_code
-      label: team_recognition_event_venue
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: team_recognition_event_requesting_member
+      label: Requesting Team Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: team_recognition_event_team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: team_recognition_event_recognition_type
+      label: Recognition Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: team_recognition_event_description
+      label: Brief Description of Event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: team_recognition_event_additional_notes
+      label: Additional Notes
       hint: null
       type: text
       options: []

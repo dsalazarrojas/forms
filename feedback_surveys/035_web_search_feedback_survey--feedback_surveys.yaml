@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
       required: false
     - id: 3
       name: feedback
@@ -63,11 +63,11 @@ inputSchema:
       hint: Please select from the following
       type: select_multiple
       options:
-      - '{''label'': ''Desktop''}'
-      - '{''label'': ''Mobile''}'
-      - '{''label'': ''Tablet''}'
-      - '{''label'': ''Laptop''}'
-      - '{''label'': ''Other''}'
+      - Desktop
+      - Mobile
+      - Tablet
+      - Laptop
+      - Other
       required: false
     - id: 9
       name: search_location
@@ -75,10 +75,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''United States''}'
-      - '{''label'': ''Canada''}'
-      - '{''label'': ''Mexico''}'
-      - '{''label'': ''Other''}'
+      - United States
+      - Canada
+      - Mexico
+      - Other
       required: false
     - id: 10
       name: improvement
@@ -86,10 +86,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Search results''}'
-      - '{''label'': ''Navigation''}'
-      - '{''label'': ''Search results display''}'
-      - '{''label'': ''Other''}'
+      - Search results
+      - Navigation
+      - Search results display
+      - Other
       required: false
     - id: 11
       name: comments

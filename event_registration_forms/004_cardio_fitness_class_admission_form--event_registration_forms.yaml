@@ -44,12 +44,9 @@ inputSchema:
       hint: Select the one that describes you best
       type: select_one
       options:
-      - label: Beginner (New to cardio)
-        value: beginner
-      - label: Intermediate (Regularly active)
-        value: intermediate
-      - label: Advanced (High fitness level)
-        value: advanced
+      - Beginner (New to cardio)
+      - Intermediate (Regularly active)
+      - Advanced (High fitness level)
       required: true
     - id: 7
       name: health_disclaimer_header
@@ -85,10 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: I Agree
-        value: agree
-      - label: I Disagree
-        value: disagree
+      - I Agree
+      - I Disagree
       required: true
     - id: 12
       name: participant_initials

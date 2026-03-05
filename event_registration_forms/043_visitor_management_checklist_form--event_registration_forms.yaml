@@ -4,209 +4,103 @@ inputSchema:
     title: Visitor Management Checklist Form
     pages:
     - id: 1
-      name: first_page
-      label: first_page
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
+      name: introduction
+      label: Introduction
+      hint: Please take a moment to read this form carefully.
+      type: note
+      options: []
       required: false
     - id: 2
-      name: security_question
-      label: security_question
-      hint: null
+      name: visitor_contact_info
+      label: Visitor Contact Information
+      hint: Please fill in the visitor's contact information below.
       type: text
       options: []
       required: true
     - id: 3
-      name: contact_info
-      label: contact_info
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: photo
-      label: photo
-      hint: null
+      name: visitor_photo
+      label: Photo
+      hint: Please take a photo of the visitor.
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 4
+      name: tool_assignment
+      label: Tool Assignment
+      hint: Choose the tool to be assigned to the visitor.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 5
-      name: comments
-      label: comments
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 6
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
+      name: security_question
+      label: Security Question
+      hint: Please answer the security question to ensure the visitor's identity.
       type: select_one
       options:
-      - chatjimmy
-      - chatbot
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
-    - id: 7
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: date
-      label: date
-      hint: null
+    - id: 6
+      name: visit_date_and_time
+      label: Visit Date and Time
+      hint: Please enter the visit date and time.
       type: date
       options: []
       required: true
-    - id: 10
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 11
-      name: note
-      label: note
-      hint: null
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Please provide any additional comments.
       type: note
       options: []
       required: false
-    - id: 12
-      name: comments
-      label: comments
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: photo
-      label: photo
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 14
+    - id: 8
       name: email
-      label: email
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 15
-      name: phone
-      label: phone
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 16
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: true
-    - id: 17
-      name: security_question
-      label: security_question
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: date
-      label: date
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: time
-      label: time
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: note
-      label: note
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: comments
-      label: comments
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: security_question
-      label: security_question
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: photo
-      label: photo
-      hint: null
+      label: Email
+      hint: Please enter the visitor's email.
       type: email
       options: []
       required: false
-    - id: 25
-      name: note
-      label: note
-      hint: null
+    - id: 9
+      name: phone
+      label: Phone
+      hint: Please enter the visitor's phone number.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_and_confirmation
+      label: Review and Confirmation
+      hint: Please review and confirm the visit information.
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: additional_security_question
+      label: Additional Security Question
+      hint: Please answer the additional security question.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 12
+      name: photo_capture
+      label: Photo Capture
+      hint: Please capture the visitor's photo.
       type: select_one
       options:
-      - option1
-      - option2
-      required: true
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false

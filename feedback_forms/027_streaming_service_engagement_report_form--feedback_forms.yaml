@@ -15,109 +15,144 @@ inputSchema:
     title: Streaming Service Engagement Report Form
     pages:
     - id: 1
-      name: category
-      label: Category
-      hint: null
+      name: category_select
+      label: What's your preferred category?
+      hint: Please select one option
       type: select_one
       options:
-      - Select Category
-      - Select Category 1
-      - Select Category 2
-      required: false
+      - Sports
+      - Entertainment
+      - Music
+      - Gaming
+      required: true
     - id: 2
       name: name
-      label: Name
-      hint: null
+      label: What's your name?
+      hint: Please provide your full name
       type: text
       options: []
       required: true
     - id: 3
       name: email
-      label: Email
-      hint: null
+      label: What's your email?
+      hint: Please provide a valid email address
       type: email
       options: []
       required: true
     - id: 4
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: feedback
-      label: Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: category
+      name: channel_watched
       label: How often do you watch the channel?
-      hint: null
+      hint: Select one option
       type: select_one
       options:
-      - Select Option 1
-      - Select Option 2
-      - Select Option 3
-      required: false
-    - id: 7
-      name: name
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 5
+      name: channel_watch_time
       label: Name
-      hint: null
+      hint: Please provide your name for channel
       type: text
       options: []
       required: true
-    - id: 8
-      name: email
+    - id: 6
+      name: email_chan
       label: Email
-      hint: null
+      hint: Please provide a valid email address for channel
       type: email
       options: []
       required: true
-    - id: 9
-      name: feedback
-      label: Feedback
-      hint: null
+    - id: 7
+      name: comments
+      label: Additional comments
+      hint: Please provide any additional comments
       type: text
       options: []
       required: false
-    - id: 10
-      name: category
-      label: Category
-      hint: null
+    - id: 8
+      name: channel_feedback
+      label: Feedback about channel
+      hint: Please provide any feedback
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: categories_select_multiple
+      label: Select categories
+      hint: Select multiple options
       type: select_multiple
       options:
-      - Select Category 1
-      - Select Category 2
-      - Select Category 3
+      - Sports
+      - Entertainment
+      - Music
+      - Gaming
+      required: false
+    - id: 10
+      name: channel_name_again
+      label: Channel Name Again
+      hint: Please provide your name again
+      type: text
+      options: []
       required: false
     - id: 11
-      name: name
-      label: Name
-      hint: null
-      type: text
+      name: email_chan_again
+      label: Email Chan Again
+      hint: Please provide a valid email address again
+      type: email
       options: []
       required: true
     - id: 12
-      name: email
-      label: Email
-      hint: null
-      type: email
+      name: channel_comments
+      label: Comments
+      hint: Please provide any additional comments
+      type: text
       options: []
       required: false
     - id: 13
-      name: comments
-      label: Comments
-      hint: null
+      name: channel_feedback_again
+      label: Feedback
+      hint: Please provide any feedback
       type: text
       options: []
       required: false
     - id: 14
-      name: feedback
-      label: Feedback
-      hint: null
+      name: channel_cat_select_multiple_again
+      label: Channel Cat Select Multiple Again
+      hint: Select multiple options
+      type: select_multiple
+      options:
+      - Sports
+      - Entertainment
+      - Music
+      - Gaming
+      required: false
+    - id: 15
+      name: channel_name_again_again
+      label: Channel Name Again Again
+      hint: Please provide your name again
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email_chan_again_again
+      label: Email Chan Again Again
+      hint: Please provide a valid email address again
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: channel_additional_comments
+      label: Channel Additional Comments
+      hint: Please provide any additional comments
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: channel_final_feedback
+      label: Final feedback
+      hint: Please provide any final feedback
       type: text
       options: []
       required: false

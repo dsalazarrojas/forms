@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Customer Support''}'
-      - '{''value'': ''Operations''}'
-      - '{''value'': ''Management''}'
-      - '{''value'': ''Other''}'
+      - Customer Support
+      - Operations
+      - Management
+      - Other
       required: false
     - id: 6
       name: question2
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Sometimes''}'
+      - 'True'
+      - 'False'
+      - Sometimes
       required: false
     - id: 7
       name: question3
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: question6
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not at all''}'
-      - '{''value'': ''Not very likely''}'
-      - '{''value'': ''Somewhat likely''}'
-      - '{''value'': ''Very likely''}'
-      - '{''value'': ''Absolutely likely''}'
+      - Not at all
+      - Not very likely
+      - Somewhat likely
+      - Very likely
+      - Absolutely likely
       required: false

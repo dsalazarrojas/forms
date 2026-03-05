@@ -4,181 +4,56 @@ inputSchema:
     title: Online Course Feedback Questionnaire
     pages:
     - id: 1
-      name: first_page
-      label: Online Course Feedback Questionnaire
+      name: overall_impression
+      label: Briefly describe your overall impression of the course
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: feedback
-      label: feedback
+      label: Feedback on the course content
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: rating
-      label: rating
-      hint: null
+      label: Course Rating
+      hint: Scale 1-10
       type: number
       options: []
       required: true
     - id: 4
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 5
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: date_completed
-      label: Date Completed
+      name: course_completion_info
+      label: Date and Time of Course Completion
       hint: null
       type: date
       options: []
+      required: true
+    - id: 5
+      name: course_name
+      label: What is the name of the course you took?
+      hint: null
+      type: select_one
+      options:
+      - Course 1
+      - Course 2
+      - Course 3
+      required: true
+    - id: 6
+      name: courses_submitted
+      label: Which courses have you submitted so far?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Course 1
+      - Course 2
       required: false
     - id: 7
-      name: time_completed
-      label: Time Completed
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: course_name
-      label: Course Name
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Course 1''}'
-      - '{''id'': 2, ''label'': ''Course 2''}'
-      required: true
-    - id: 10
-      name: course_name
-      label: Course Name
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Course 1''}'
-      - '{''id'': 2, ''label'': ''Course 2''}'
-      required: false
-    - id: 11
       name: submitted_by
-      label: Submitted By
+      label: Your name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
-      name: course_name
-      label: Course Name
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Course 1''}'
-      - '{''id'': 2, ''label'': ''Course 2''}'
-      - '{''id'': 3, ''label'': ''Course 3''}'
-      required: true
-    - id: 13
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: email
-      label: Email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: course_name
-      label: Course Name
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Course 1''}'
-      - '{''id'': 2, ''label'': ''Course 2''}'
-      required: false
-    - id: 23
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: course_name
-      label: Course Name
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Course 1''}'
-      - '{''id'': 2, ''label'': ''Course 2''}'
       required: false

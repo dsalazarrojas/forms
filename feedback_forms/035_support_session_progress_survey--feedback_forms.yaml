@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Okay''}'
-      - '{''label'': ''Not Good''}'
-      - '{''label'': ''Not at all''}'
+      - Excellent
+      - Very Good
+      - Okay
+      - Not Good
+      - Not at all
       required: true
     - id: 7
       name: open_ended_question_1
@@ -91,11 +91,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Highly Satisfied''}'
-      - '{''label'': ''Moderately Satisfied''}'
-      - '{''label'': ''Not Satisfied''}'
-      - '{''label'': ''Not at all''}'
-      - '{''label'': ''Not Sure''}'
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Not Satisfied
+      - Not at all
+      - Not Sure
       required: false
     - id: 13
       name: email
@@ -124,8 +124,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: follow_up_comments

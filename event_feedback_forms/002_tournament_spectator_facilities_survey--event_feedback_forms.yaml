@@ -4,17 +4,17 @@ inputSchema:
     title: Tournament Spectator Facilities Survey
     pages:
     - id: 1
-      name: venue_facilities_1
-      label: How was the venue?
+      name: venue_maintenance
+      label: Was the venue well-maintained?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 2
-      name: facilities_1
-      label: Was the overall quality of facilities good?
+      name: facilities_quality
+      label: Overall quality of facilities
       hint: null
       type: select_one
       options:
@@ -22,79 +22,52 @@ inputSchema:
       - Poor
       required: true
     - id: 3
-      name: facilities_2
-      label: Was the overall quality of facilities good?
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Poor
-      required: false
-    - id: 4
-      name: food_and_beverages_1
-      label: Food and Beverages availability?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 5
-      name: food_and_beverages_2
-      label: Food and Beverages quality?
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Poor
-      required: true
-    - id: 6
-      name: parking_1
+      name: parking_easy
       label: Was the parking easy to use?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 7
-      name: parking_2
-      label: Was the parking well maintained?
+    - id: 4
+      name: parking_maintenance
+      label: Was the parking well-maintained?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 8
-      name: staff_1
+    - id: 5
+      name: staff_friendly
       label: Were the staff friendly and helpful?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 9
-      name: staff_2
+    - id: 6
+      name: staff_professional
       label: Was the staff professional?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 10
+    - id: 7
       name: overall_experience
       label: Overall experience?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 11
-      name: facilities_3
+    - id: 8
+      name: facilities_quality_1
       label: Facilities quality?
       hint: null
       type: select_multiple
@@ -102,25 +75,43 @@ inputSchema:
       - Good
       - Poor
       required: true
-    - id: 12
-      name: food_and_beverages_3
-      label: Food and Beverages quality?
+    - id: 9
+      name: food_beverages_availability
+      label: Food and Beverages availability?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: overall_value
+      label: Overall value for money?
       hint: null
       type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: facilities_availability
+      label: Facilities availability?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: staff_quality
+      label: Staff quality?
+      hint: null
+      type: select_multiple
       options:
       - Good
       - Poor
       required: true
     - id: 13
-      name: overall_quality
-      label: Overall quality?
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Poor
-      required: true
-    - id: 14
       name: overall_satisfaction
       label: Overall satisfaction?
       hint: null
@@ -129,102 +120,48 @@ inputSchema:
       - Satisfied
       - Dissatisfied
       required: true
-    - id: 15
-      name: overall_value
-      label: Overall value for money?
+    - id: 14
+      name: overall_quality
+      label: Overall quality?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Good
+      - Poor
+      required: true
+    - id: 15
+      name: overall_value_1
+      label: Overall Value 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 16
-      name: facilities_4
-      label: Facilities availability?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 17
-      name: staff_3
-      label: Staff quality?
+      name: facilities_quality_1_2
+      label: Facilities Quality 1 2
       hint: null
       type: select_multiple
       options:
       - Good
       - Poor
       required: true
+    - id: 17
+      name: facilities_availability_1
+      label: Facilities Availability 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 18
-      name: overall_5
-      label: Overall experience?
+      name: overall_experience_1
+      label: Overall Experience 1
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 19
-      name: overall_satisfaction_5
-      label: Overall satisfaction?
-      hint: null
-      type: select_multiple
-      options:
-      - Satisfied
-      - Dissatisfied
-      required: true
-    - id: 20
-      name: overall_value_5
-      label: Overall value for money?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 21
-      name: facilities_5
-      label: Facilities quality?
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Poor
-      required: true
-    - id: 22
-      name: facilities_6
-      label: Facilities availability?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 23
-      name: facilities_7
-      label: Facilities quality?
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Poor
-      required: true
-    - id: 24
-      name: facilities_8
-      label: Facilities availability?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 25
-      name: facilities_9
-      label: Facilities availability?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true

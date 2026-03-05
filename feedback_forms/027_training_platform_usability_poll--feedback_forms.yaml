@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1 - Very Good''}'
-      - '{''label'': ''2 - Good''}'
-      - '{''label'': ''3 - Fair''}'
-      - '{''label'': ''4 - Poor''}'
+      - 1 - Very Good
+      - 2 - Good
+      - 3 - Fair
+      - 4 - Poor
       required: false
     - id: 3
       name: content_relevance
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''1 - Very relevant''}'
-      - '{''label'': ''2 - Somewhat relevant''}'
-      - '{''label'': ''3 - Not very relevant''}'
-      - '{''label'': ''4 - Not at all relevant''}'
+      - 1 - Very relevant
+      - 2 - Somewhat relevant
+      - 3 - Not very relevant
+      - 4 - Not at all relevant
       required: false
     - id: 4
       name: overall_satisfaction
@@ -38,11 +38,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1 - Very satisfied''}'
-      - '{''label'': ''2 - Somewhat satisfied''}'
-      - '{''label'': ''3 - Neutral''}'
-      - '{''label'': ''4 - Somewhat dissatisfied''}'
-      - '{''label'': ''5 - Very dissatisfied''}'
+      - 1 - Very satisfied
+      - 2 - Somewhat satisfied
+      - 3 - Neutral
+      - 4 - Somewhat dissatisfied
+      - 5 - Very dissatisfied
       required: false
     - id: 5
       name: suggestions

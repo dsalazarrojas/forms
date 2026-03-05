@@ -4,205 +4,125 @@ inputSchema:
     title: Monthly Training Follow Up Form
     pages:
     - id: 1
-      name: form_title
-      label: form_title
+      name: form_title_1
+      label: Monthly Training Follow Up Form
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: category
-      label: category
+      name: participant_category
+      label: Participant Category
       hint: null
       type: select_one
       options:
-      - category_a
-      - category_b
-      required: false
+      - category a
+      - category b
+      required: true
     - id: 3
-      name: description
-      label: description
+      name: participant_description_1
+      label: Participant Description
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: date
-      label: date
+      name: participant_date
+      label: Participant Date
       hint: null
       type: date
       options: []
       required: true
-    - id: 6
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: training_type
-      label: training_type
+    - id: 5
+      name: training_type_1
+      label: Training Type
       hint: null
       type: select_multiple
       options:
-      - training_type_a
-      - training_type_b
+      - training type a
+      - training type b
       required: true
-    - id: 8
-      name: location
-      label: location
+    - id: 6
+      name: participant_location
+      label: Participant Location
       hint: null
       type: select_one
       options:
-      - location_a
-      - location_b
+      - location a
+      - location b
       required: true
-    - id: 9
-      name: comments
-      label: comments
+    - id: 7
+      name: participant_comments_1
+      label: Participant Comments
       hint: null
       type: note
       options: []
-      required: false
-    - id: 10
-      name: comments
-      label: comments
+      required: true
+    - id: 8
+      name: participant_id_1
+      label: Participant ID
       hint: null
-      type: note
+      type: select_one
+      options:
+      - participant id a
+      - participant id b
+      required: true
+    - id: 9
+      name: participant_email_1
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: participant_phone_1
+      label: Participant Phone
+      hint: null
+      type: text
       options: []
       required: true
     - id: 11
-      name: participant_id
-      label: participant_id
+      name: training_status_1
+      label: Training Status
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - participant_id_a
-      - participant_id_b
+      - training status a
+      - training status b
       required: true
     - id: 12
-      name: email
-      label: email
+      name: participant_rating_1
+      label: Participant Rating
       hint: null
-      type: email
-      options: []
+      type: select_one
+      options:
+      - rating a
+      - rating b
       required: true
     - id: 13
-      name: phone
-      label: phone
+      name: rating_scale_1
+      label: Rating Scale
       hint: null
-      type: text
-      options: []
-      required: true
+      type: select_one
+      options:
+      - rating scale a
+      - rating scale b
+      required: false
     - id: 14
-      name: email
-      label: email
+      name: follow_up_1
+      label: Follow Up
       hint: null
-      type: email
-      options: []
-      required: false
+      type: select_one
+      options:
+      - follow up a
+      - follow up b
+      required: true
     - id: 15
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: training_status
-      label: training_status
-      hint: null
-      type: select_multiple
-      options:
-      - training_status_a
-      - training_status_b
-      required: true
-    - id: 17
-      name: training_status
-      label: training_status
-      hint: null
-      type: select_multiple
-      options:
-      - training_status_a
-      - training_status_b
-      required: false
-    - id: 18
-      name: participant_comments
-      label: participant_comments
+      name: participant_follow_up_status_1
+      label: Participant Follow Up Status
       hint: null
       type: select_one
       options:
-      - participant_comments_a
-      - participant_comments_b
-      required: true
-    - id: 19
-      name: participant_comments
-      label: participant_comments
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: select_one
-      options:
-      - follow_up_a
-      - follow_up_b
-      required: true
-    - id: 21
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: participant_rating
-      label: participant_rating
-      hint: null
-      type: select_one
-      options:
-      - participant_rating_a
-      - participant_rating_b
-      required: true
-    - id: 23
-      name: participant_rating
-      label: participant_rating
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 24
-      name: rating_scale
-      label: rating_scale
-      hint: null
-      type: select_one
-      options:
-      - rating_scale_a
-      - rating_scale_b
-      required: false
-    - id: 25
-      name: rating_scale
-      label: rating_scale
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
+      - follow up status a
+      - follow up status b
       required: false

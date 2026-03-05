@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''admin'', ''label'': ''Admin''}'
-      - '{''value'': ''super-admin'', ''label'': ''Super Admin''}'
-      - '{''value'': ''user'', ''label'': ''User''}'
+      - Admin
+      - Super Admin
+      - User
       required: false
     - id: 3
       name: vendor_access
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''restricted'', ''label'': ''Restricted''}'
-      - '{''value'': ''general'', ''label'': ''General''}'
-      - '{''value'': ''public'', ''label'': ''Public''}'
+      - Restricted
+      - General
+      - Public
       required: false
     - id: 4
       name: attendee_email

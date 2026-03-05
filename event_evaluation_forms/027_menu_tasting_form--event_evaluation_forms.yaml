@@ -4,88 +4,95 @@ inputSchema:
     title: Menu Tasting Form
     pages:
     - id: 1
-      name: form_title
-      label: Form Title
+      name: form_name
+      label: Your Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: form_description
-      label: Form Description
+      name: presentation_rating
+      label: How would you rate the presentation of the dish?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: form_category
-      label: Form Category
+      name: flavor_rating
+      label: How good was the flavor of the dish?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: produce_freshness
+      label: How fresh is the produce?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: cuisine_type
+      label: What type of cuisine does the dish belong to?
       hint: null
       type: select_one
       options:
-      - Event Evaluation Forms
-      - Other Form
-      required: false
-    - id: 4
-      name: form_tags
-      label: Form Tags
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: form_image
-      label: Form Image
-      hint: null
-      type: text
-      options: []
-      required: false
+      - American
+      - Italian
+      - Chinese
+      - Indian
+      required: true
     - id: 6
-      name: form_id
-      label: Form ID
+      name: appeal_rating
+      label: How much does the dish appeal to you?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: event_evaluation_form_1_1
-      label: Rating
+      name: portion_size_rating
+      label: How would you rate the portion size?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 8
-      name: event_evaluation_form_1_2
-      label: Rating
+      name: have_again_rating
+      label: How much would you like to have it again?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 9
-      name: event_evaluation_form_1_3
-      label: Rating
+      name: price_range
+      label: What is the price range you are willing to pay for this dish?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - $5-$10
+      - $10-$15
+      - $15-$20
+      required: true
     - id: 10
-      name: event_evaluation_form_1_4
-      label: Rating
+      name: recommendation
+      label: How likely are you to recommend this dish to friends?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 11
-      name: event_evaluation_form_1_5
-      label: Rating
+      name: discount_request
+      label: Would you like to have a discount on this dish?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 12
-      name: event_evaluation_form_1_6
-      label: Rating
+      name: overall_experience
+      label: How would you rate the overall experience?
       hint: null
       type: number
       options: []
-      required: false
+      required: true

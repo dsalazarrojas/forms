@@ -30,7 +30,7 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 5
       name: date
       label: Date
@@ -49,7 +49,7 @@ inputSchema:
       name: note
       label: Note
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 8
@@ -58,17 +58,17 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 9
       name: select_multiple
       label: Select Multiple
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Option A
+      - Option B
       required: false
     - id: 10
       name: decimal
@@ -83,151 +83,4 @@ inputSchema:
       hint: null
       type: number
       options: []
-      required: false
-    - id: 12
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: decimal
-      label: Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: integer
-      label: Integer
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: decimal
-      label: Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: integer
-      label: Integer
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 26
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 27
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 28
-      name: decimal
-      label: Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 29
-      name: integer
-      label: Integer
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 30
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

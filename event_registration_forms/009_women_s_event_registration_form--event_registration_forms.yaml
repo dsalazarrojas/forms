@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Conference''}'
-      - '{''id'': 2, ''label'': ''Workshop''}'
-      - '{''id'': 3, ''label'': ''Seminar''}'
+      - Conference
+      - Workshop
+      - Seminar
       required: false
     - id: 5
       name: attendees
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Friend''}'
-      - '{''id'': 2, ''label'': ''Family Member''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Friend
+      - Family Member
+      - Both
       required: false
     - id: 6
       name: attendee_info
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Online Payment''}'
-      - '{''id'': 2, ''label'': ''Offline Payment''}'
+      - Online Payment
+      - Offline Payment
       required: false
     - id: 9
       name: comments

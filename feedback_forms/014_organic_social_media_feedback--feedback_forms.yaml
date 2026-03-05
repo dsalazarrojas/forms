@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Bad''}'
+      - Excellent
+      - Good
+      - Neutral
+      - Bad
       required: true
     - id: 7
       name: category
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Negative''}'
-      - '{''label'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: true
     - id: 8
       name: comment

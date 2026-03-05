@@ -1,93 +1,82 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Conditional Logic Document Submission
     pages:
-      - id: 1
-        name: submitter_name
-        label: Submitter name
-        hint: Name of person submitting documents
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: contact_email
-        label: Contact email
-        hint: For submission confirmation
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: document_type
-        label: Document type
-        hint: Select type of document to upload
-        type: select_one
-        options:
-          - Resume
-          - ID
-          - Certificate
-          - Contract
-          - Other
-        required: true
-      - id: 4
-        name: upload_instructions
-        label: Upload instructions
-        hint: Conditional instructions based on selection
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: file_upload_reference
-        label: File upload reference
-        hint: Provide the uploaded file name or ID
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: description
-        label: Description of document
-        hint: Short description of the uploaded file
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: do_you_require_assistance
-        label: Do you require assistance with your upload
-        hint: If yes staff will follow up
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 8
-        name: additional_documents
-        label: Additional documents list
-        hint: List other files to be submitted
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: confidentiality_notice
-        label: Confidentiality notice
-        hint: Read only notice about document handling
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: submission_reference
-        label: Submission reference
-        hint: System generated reference after submission
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: submitter_name
+      label: Submitter name
+      hint: Name of person submitting documents
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For submission confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: document_type
+      label: Document type
+      hint: Select type of document to upload
+      type: select_one
+      options:
+      - Resume
+      - ID
+      - Certificate
+      - Contract
+      - Other
+      required: true
+    - id: 4
+      name: upload_instructions
+      label: Upload instructions
+      hint: Conditional instructions based on selection
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: file_upload_reference
+      label: File upload reference
+      hint: Provide the uploaded file name or ID
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: description
+      label: Description of document
+      hint: Short description of the uploaded file
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: do_you_require_assistance
+      label: Do you require assistance with your upload
+      hint: If yes staff will follow up
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: additional_documents
+      label: Additional documents list
+      hint: List other files to be submitted
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confidentiality_notice
+      label: Confidentiality notice
+      hint: Read only notice about document handling
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submission_reference
+      label: Submission reference
+      hint: System generated reference after submission
+      type: text
+      options: []
+      required: false

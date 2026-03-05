@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''not_satisfied'', ''text'': ''Not Satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''text'': ''Somewhat Satisfied''}'
-      - '{''id'': 3, ''name'': ''very_satisfied'', ''text'': ''Very Satisfied''}'
+      - not satisfied
+      - somewhat satisfied
+      - very satisfied
       required: true
     - id: 3
       name: event_feedback_form_venue
@@ -61,12 +61,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''venue'', ''text'': ''Venue''}'
-      - '{''id'': 2, ''name'': ''presentation'', ''text'': ''Presentation''}'
-      - '{''id'': 3, ''name'': ''speakers'', ''text'': ''Speakers''}'
-      - '{''id'': 4, ''name'': ''catering'', ''text'': ''Catering''}'
-      - '{''id'': 5, ''name'': ''overall'', ''text'': ''Overall''}'
-      - '{''id'': 6, ''name'': ''logistics'', ''text'': ''Logistics''}'
+      - venue
+      - presentation
+      - speakers
+      - catering
+      - overall
+      - logistics
       required: true
     - id: 9
       name: event_feedback_form_agree
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''agree'', ''text'': ''Agree''}'
-      - '{''id'': 2, ''name'': ''not_agree'', ''text'': ''Not Agree''}'
-      - '{''id'': 3, ''name'': ''neutral'', ''text'': ''Neutral''}'
+      - agree
+      - not agree
+      - neutral
       required: true
     - id: 10
       name: event_feedback_form_dont_know
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''agree'', ''text'': ''Agree''}'
-      - '{''id'': 2, ''name'': ''not_agree'', ''text'': ''Not Agree''}'
-      - '{''id'': 3, ''name'': ''neutral'', ''text'': ''Neutral''}'
+      - agree
+      - not agree
+      - neutral
       required: false
     - id: 11
       name: event_feedback_form_dont_know_other
@@ -108,7 +108,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''venue'', ''text'': ''Venue''}'
-      - '{''id'': 2, ''name'': ''not_venue'', ''text'': ''Not Venue''}'
-      - '{''id'': 3, ''name'': ''neutral'', ''text'': ''Neutral''}'
+      - venue
+      - not venue
+      - neutral
       required: false

@@ -4,199 +4,144 @@ inputSchema:
     title: Stallholder Operations Form
     pages:
     - id: 1
-      name: event_title
-      label: event_title
+      name: event_details
+      label: Event Details
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: event_start_date
-      label: event_start_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 3
-      name: event_end_date
-      label: event_end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 4
-      name: event_location
-      label: event_location
+      name: stallholder_details
+      label: Stallholder Details
       hint: null
       type: text
       options: []
       required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_id
+      label: Event ID
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      required: false
     - id: 5
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
       name: event_status
-      label: event_status
+      label: Event Status
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active'', ''label'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''inactive''}'
-      - '{''id'': 3, ''name'': ''canceled'', ''label'': ''canceled''}'
-      required: false
-    - id: 6
-      name: event_notes
-      label: event_notes
-      hint: null
-      type: note
-      options: []
+      - Active
+      - Inactive
+      - Canceled
       required: false
     - id: 7
       name: stallholder_name
-      label: stallholder_name
+      label: Stallholder Name
       hint: null
       type: text
       options: []
       required: false
     - id: 8
       name: stallholder_status
-      label: stallholder_status
+      label: Stallholder Status
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active'', ''label'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''inactive''}'
-      - '{''id'': 3, ''name'': ''pending'', ''label'': ''pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: false
     - id: 9
       name: stallholder_notes
-      label: stallholder_notes
+      label: Stallholder Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 10
       name: contact_name
-      label: contact_name
+      label: Contact Name
       hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: contact_email
-      label: contact_email
+      label: Contact Email
       hint: null
       type: email
       options: []
       required: false
     - id: 12
       name: phone_numbers
-      label: phone_numbers
+      label: Phone Numbers
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: event_id
-      label: event_id
+      name: event_id_2
+      label: Event Id 2
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': 1, ''label'': 1}'
-      - '{''id'': 2, ''name'': 2, ''label'': 2}'
+      - '1'
+      - '2'
       required: false
     - id: 14
-      name: stallholder_id
-      label: stallholder_id
+      name: event_status_id
+      label: Event Status ID
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': 1, ''label'': 1}'
-      - '{''id'': 2, ''name'': 2, ''label'': 2}'
+      - '1'
+      - '2'
       required: false
     - id: 15
-      name: event_status_id
-      label: event_status_id
+      name: event_start_date_id
+      label: Event Start Date ID
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': 1, ''label'': 1}'
-      - '{''id'': 2, ''name'': 2, ''label'': 2}'
+      - '1'
+      - '2'
       required: false
     - id: 16
-      name: event_start_date_id
-      label: event_start_date_id
+      name: event_end_date_id
+      label: Event End Date ID
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': 1, ''label'': 1}'
-      - '{''id'': 2, ''name'': 2, ''label'': 2}'
+      - '1'
+      - '2'
       required: false
     - id: 17
-      name: event_end_date_id
-      label: event_end_date_id
+      name: event_start_date
+      label: Event Start Date
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': 1, ''label'': 1}'
-      - '{''id'': 2, ''name'': 2, ''label'': 2}'
+      type: date
+      options: []
       required: false
     - id: 18
-      name: event_location
-      label: event_location
+      name: event_end_date
+      label: Event End Date
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: event_status
-      label: event_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''active'', ''label'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''inactive''}'
-      - '{''id'': 3, ''name'': ''canceled'', ''label'': ''canceled''}'
-      required: false
-    - id: 20
-      name: stallholder_name
-      label: stallholder_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: stallholder_status
-      label: stallholder_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''active'', ''label'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''inactive''}'
-      - '{''id'': 3, ''name'': ''pending'', ''label'': ''pending''}'
-      required: false
-    - id: 22
-      name: stallholder_notes
-      label: stallholder_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: contact_name
-      label: contact_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: contact_email
-      label: contact_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: phone_numbers
-      label: phone_numbers
-      hint: null
-      type: text
+      type: date
       options: []
       required: false

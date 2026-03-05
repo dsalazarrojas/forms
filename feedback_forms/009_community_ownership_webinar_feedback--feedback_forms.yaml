@@ -1,206 +1,195 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Community Ownership Webinar Feedback
     pages:
-      - id: 1
-        name: welcome
-        label: Thank You for Attending Our Webinar
-        hint: Please share your feedback to help us improve
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: webinar_title
-        label: Which Webinar Did You Attend
-        hint: Select from the list
-        type: select_one
-        options:
-        - Introduction to Community Ownership
-        - Cooperative Business Models
-        - Community Land Trusts
-        - Employee Ownership Transition
-        - Financing Community Projects
-        - Legal Structures for Ownership
-        - Other
-        required: true
-      - id: 3
-        name: webinar_date
-        label: Date Attended
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: overall_rating
-        label: Overall Webinar Rating
-        hint: null
-        type: select_one
-        options:
-        - Excellent
-        - Very Good
-        - Good
-        - Fair
-        - Poor
-        required: true
-      - id: 5
-        name: content_quality
-        label: Quality of Content
-        hint: null
-        type: select_one
-        options:
-        - Excellent
-        - Very Good
-        - Good
-        - Fair
-        - Poor
-        required: true
-      - id: 6
-        name: presenter_rating
-        label: Presenter Effectiveness
-        hint: null
-        type: select_one
-        options:
-        - Excellent
-        - Very Good
-        - Good
-        - Fair
-        - Poor
-        required: true
-      - id: 7
-        name: pacing
-        label: Pace of Presentation
-        hint: null
-        type: select_one
-        options:
-        - Too Fast
-        - Just Right
-        - Too Slow
-        required: true
-      - id: 8
-        name: length
-        label: Length of Webinar
-        hint: null
-        type: select_one
-        options:
-        - Too Short
-        - Just Right
-        - Too Long
-        required: true
-      - id: 9
-        name: learning_objectives
-        label: Were Learning Objectives Met
-        hint: null
-        type: select_one
-        options:
-        - Completely
-        - Mostly
-        - Somewhat
-        - Not Really
-        - Not At All
-        required: true
-      - id: 10
-        name: key_takeaways
-        label: What Were Your Key Takeaways
-        hint: Main points you learned
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: most_valuable
-        label: What Was Most Valuable
-        hint: Best part of the webinar
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: improvements
-        label: What Could Be Improved
-        hint: Suggestions for improvement
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: topics_future
-        label: What Topics Would You Like in Future Webinars
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: recommend_colleague
-        label: Would You Recommend to a Colleague
-        hint: null
-        type: select_one
-        options:
-        - Definitely Yes
-        - Probably Yes
-        - Maybe
-        - Probably No
-        - Definitely No
-        required: true
-      - id: 15
-        name: additional_resources
-        label: Would You Like Additional Resources
-        hint: null
-        type: select_one
-        options:
-        - Yes - Send Me Resources
-        - No - I Have What I Need
-        required: true
-      - id: 16
-        name: follow_up
-        label: Would You Like a Follow-Up Consultation
-        hint: null
-        type: select_one
-        options:
-        - Yes
-        - No
-        - Maybe
-        required: false
-      - id: 17
-        name: organization_type
-        label: Type of Organization
-        hint: Optional
-        type: select_one
-        options:
-        - Nonprofit
-        - For-Profit Business
-        - Government Agency
-        - Community Group
-        - Individual
-        - Academic Institution
-        - Other
-        required: false
-      - id: 18
-        name: role
-        label: Your Role
-        hint: Optional
-        type: select_one
-        options:
-        - Executive Director
-        - Manager
-        - Staff Member
-        - Board Member
-        - Community Member
-        - Student
-        - Other
-        required: false
-      - id: 19
-        name: additional_comments
-        label: Any Additional Comments
-        hint: We appreciate your feedback
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: welcome
+      label: Thank You for Attending Our Webinar
+      hint: Please share your feedback to help us improve
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: webinar_title
+      label: Which Webinar Did You Attend
+      hint: Select from the list
+      type: select_one
+      options:
+      - Introduction to Community Ownership
+      - Cooperative Business Models
+      - Community Land Trusts
+      - Employee Ownership Transition
+      - Financing Community Projects
+      - Legal Structures for Ownership
+      - Other
+      required: true
+    - id: 3
+      name: webinar_date
+      label: Date Attended
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: overall_rating
+      label: Overall Webinar Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: content_quality
+      label: Quality of Content
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: presenter_rating
+      label: Presenter Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: pacing
+      label: Pace of Presentation
+      hint: null
+      type: select_one
+      options:
+      - Too Fast
+      - Just Right
+      - Too Slow
+      required: true
+    - id: 8
+      name: length
+      label: Length of Webinar
+      hint: null
+      type: select_one
+      options:
+      - Too Short
+      - Just Right
+      - Too Long
+      required: true
+    - id: 9
+      name: learning_objectives
+      label: Were Learning Objectives Met
+      hint: null
+      type: select_one
+      options:
+      - Completely
+      - Mostly
+      - Somewhat
+      - Not Really
+      - Not At All
+      required: true
+    - id: 10
+      name: key_takeaways
+      label: What Were Your Key Takeaways
+      hint: Main points you learned
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: most_valuable
+      label: What Was Most Valuable
+      hint: Best part of the webinar
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: improvements
+      label: What Could Be Improved
+      hint: Suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: topics_future
+      label: What Topics Would You Like in Future Webinars
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recommend_colleague
+      label: Would You Recommend to a Colleague
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 15
+      name: additional_resources
+      label: Would You Like Additional Resources
+      hint: null
+      type: select_one
+      options:
+      - Yes - Send Me Resources
+      - No - I Have What I Need
+      required: true
+    - id: 16
+      name: follow_up
+      label: Would You Like a Follow-Up Consultation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 17
+      name: organization_type
+      label: Type of Organization
+      hint: Optional
+      type: select_one
+      options:
+      - Nonprofit
+      - For-Profit Business
+      - Government Agency
+      - Community Group
+      - Individual
+      - Academic Institution
+      - Other
+      required: false
+    - id: 18
+      name: role
+      label: Your Role
+      hint: Optional
+      type: select_one
+      options:
+      - Executive Director
+      - Manager
+      - Staff Member
+      - Board Member
+      - Community Member
+      - Student
+      - Other
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Any Additional Comments
+      hint: We appreciate your feedback
+      type: text
+      options: []
+      required: false

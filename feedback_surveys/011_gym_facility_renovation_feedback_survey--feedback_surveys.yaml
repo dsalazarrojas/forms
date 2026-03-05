@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Upgrade''}'
-      - '{''label'': ''Maintenance''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''None''}'
+      - Upgrade
+      - Maintenance
+      - Other
+      - None
       required: false
     - id: 3
       name: feedback_on_upgrade
@@ -34,11 +34,11 @@ inputSchema:
       hint: Scale of 1-5
       type: select_multiple
       options:
-      - '{''label'': 1}'
-      - '{''label'': 2}'
-      - '{''label'': 3}'
-      - '{''label'': 4}'
-      - '{''label'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 5
       name: suggestions_for_improvement
