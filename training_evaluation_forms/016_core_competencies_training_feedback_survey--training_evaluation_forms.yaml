@@ -4,191 +4,104 @@ inputSchema:
     title: Core Competencies Training Feedback Survey
     pages:
     - id: 1
-      name: feedback_from_trainee
-      label: feedback_from_trainee
-      hint: null
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied are you with the training session?
       type: text
       options: []
       required: true
     - id: 2
-      name: overall_satisfaction
-      label: overall_satisfaction
-      hint: null
-      type: select_one
-      options:
-      - Satisfied
-      - Dissatisfied
+      name: feedback_from_trainee
+      label: Feedback from Trainee
+      hint: Please provide feedback on how I can improve.
+      type: text
+      options: []
       required: true
     - id: 3
-      name: feedback_from_trainer
-      label: feedback_from_trainer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: future_satisfaction
-      label: future_satisfaction
-      hint: null
+      label: Future Satisfaction
+      hint: What do you think you will achieve from this training?
       type: text
       options: []
-      required: false
-    - id: 5
-      name: core_competencies
-      label: core_competencies
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: true
-    - id: 6
+    - id: 4
+      name: core_competencies_topics
+      label: Core Competencies Topics
+      hint: Which of the following core competencies did we cover in this session?
+      type: select_multiple
+      options:
+      - Yes, I understand
+      - No, not clear
+      required: true
+    - id: 5
       name: session_length
-      label: session_length
-      hint: null
+      label: Session Length
+      hint: How long did the session last?
       type: number
       options: []
-      required: false
-    - id: 7
-      name: session_duration
-      label: session_duration
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 6
       name: session_date
-      label: session_date
-      hint: null
+      label: Session Date
+      hint: On what date did the session take place?
       type: date
       options: []
       required: true
-    - id: 9
-      name: session_time
-      label: session_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
+    - id: 7
       name: session_location
-      label: session_location
-      hint: null
+      label: Session Location
+      hint: Where did the training session take place?
       type: text
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 8
       name: trainee_feedback
-      label: trainee_feedback
-      hint: null
+      label: Trainee Feedback
+      hint: What did you think of the training session?
       type: text
       options: []
-      required: false
-    - id: 12
-      name: trainee_satisfaction
-      label: trainee_satisfaction
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: core_competencies_topics
-      label: core_competencies_topics
-      hint: null
+      required: true
+    - id: 9
+      name: trainee_attendance
+      label: Trainee Attendance
+      hint: Were you able to attend the full session?
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 14
-      name: session_notes
-      label: session_notes
-      hint: null
-      type: note
+      required: true
+    - id: 10
+      name: feedback_from_session
+      label: Feedback from Session
+      hint: What were some key takeaways or feedback on the session?
+      type: text
       options: []
-      required: false
-    - id: 15
-      name: session_notes
-      label: session_notes
-      hint: null
-      type: note
+      required: true
+    - id: 11
+      name: session_improvements
+      label: Session Improvements
+      hint: Are there any areas where you think we could improve the session?
+      type: text
       options: []
-      required: false
-    - id: 16
+      required: true
+    - id: 12
+      name: trainee_satisfaction
+      label: Trainee Satisfaction
+      hint: How satisfied are you with the training session?
+      type: text
+      options: []
+      required: true
+    - id: 13
       name: trainee_email
-      label: trainee_email
-      hint: null
+      label: Trainee Email
+      hint: Please provide your email for future communications.
       type: email
       options: []
       required: false
-    - id: 17
-      name: trainee_phone
-      label: trainee_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: session_length_minutes
-      label: session_length_minutes
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 19
-      name: future_session_improvements
-      label: future_session_improvements
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: core_competencies_topics
-      label: core_competencies_topics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 21
-      name: session_location
-      label: session_location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: trainee_attendance
-      label: trainee_attendance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 23
+    - id: 14
       name: trainee_notes
-      label: trainee_notes
-      hint: null
+      label: Trainee Notes
+      hint: Any additional notes or comments?
       type: note
       options: []
       required: false
-    - id: 24
-      name: feedback_from_session
-      label: feedback_from_session
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: feedback_from_session
-      label: feedback_from_session
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true

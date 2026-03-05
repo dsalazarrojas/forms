@@ -1,107 +1,96 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Conference Keynote Topic Survey
     pages:
-      - id: 1
-        name: respondent_name
-        label: Respondent name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: email
-        label: Contact email
-        hint: For follow up about topics
-        type: email
-        options: []
-        required: false
-      - id: 3
-        name: topic_interest
-        label: Select preferred keynote topics
-        hint: Choose up to three topics
-        type: select_multiple
-        options:
-          - Innovation and technology
-          - Leadership and culture
-          - Sustainability and climate
-          - Diversity and inclusion
-          - Future of work
-          - Industry specific trends
-        required: true
-      - id: 4
-        name: format_preference
-        label: Preferred keynote format
-        hint: Lecture, interview, or fireside chat
-        type: select_one
-        options:
-          - Lecture
-          - Interview
-          - Fireside chat
-          - Panel
-        required: false
-      - id: 5
-        name: speaker_profile
-        label: Preferred speaker profile
-        hint: Academic, industry leader, or practitioner
-        type: select_one
-        options:
-          - Academic
-          - Industry leader
-          - Practitioner
-          - Influencer
-        required: false
-      - id: 6
-        name: reason_for_choice
-        label: Reason for topic choice
-        hint: What would make the topic valuable to you
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: session_length
-        label: Preferred session length
-        hint: Ideal duration for a keynote
-        type: select_one
-        options:
-          - 20 minutes
-          - 30 minutes
-          - 45 minutes
-          - 60 minutes
-        required: false
-      - id: 8
-        name: additional_topics
-        label: Additional topic suggestions
-        hint: Other topics you would like to see
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: willingness_to_participate
-        label: Willingness to participate in panels
-        hint: Volunteer as moderator or panelist
-        type: select_one
-        options:
-          - Yes
-          - Maybe
-          - No
-        required: false
-      - id: 10
-        name: comments
-        label: Additional comments
-        hint: Any other input about keynotes
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Contact email
+      hint: For follow up about topics
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: topic_interest
+      label: Select preferred keynote topics
+      hint: Choose up to three topics
+      type: select_multiple
+      options:
+      - Innovation and technology
+      - Leadership and culture
+      - Sustainability and climate
+      - Diversity and inclusion
+      - Future of work
+      - Industry specific trends
+      required: true
+    - id: 4
+      name: format_preference
+      label: Preferred keynote format
+      hint: Lecture, interview, or fireside chat
+      type: select_one
+      options:
+      - Lecture
+      - Interview
+      - Fireside chat
+      - Panel
+      required: false
+    - id: 5
+      name: speaker_profile
+      label: Preferred speaker profile
+      hint: Academic, industry leader, or practitioner
+      type: select_one
+      options:
+      - Academic
+      - Industry leader
+      - Practitioner
+      - Influencer
+      required: false
+    - id: 6
+      name: reason_for_choice
+      label: Reason for topic choice
+      hint: What would make the topic valuable to you
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_length
+      label: Preferred session length
+      hint: Ideal duration for a keynote
+      type: select_one
+      options:
+      - 20 minutes
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      required: false
+    - id: 8
+      name: additional_topics
+      label: Additional topic suggestions
+      hint: Other topics you would like to see
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: willingness_to_participate
+      label: Willingness to participate in panels
+      hint: Volunteer as moderator or panelist
+      type: select_one
+      options:
+      - 'True'
+      - Maybe
+      - 'False'
+      required: false
+    - id: 10
+      name: comments
+      label: Additional comments
+      hint: Any other input about keynotes
+      type: text
+      options: []
+      required: false

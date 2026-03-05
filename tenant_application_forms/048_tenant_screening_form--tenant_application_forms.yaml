@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Employed'', ''label'': ''Employed''}'
-      - '{''value'': ''Unemployed'', ''label'': ''Unemployed''}'
-      - '{''value'': ''Student'', ''label'': ''Student''}'
-      - '{''value'': ''Disabled'', ''label'': ''Disabled''}'
+      - Employed
+      - Unemployed
+      - Student
+      - Disabled
       required: true
     - id: 7
       name: income_proof
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''W2'', ''label'': ''W2''}'
-      - '{''value'': ''W4'', ''label'': ''W4''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - W2
+      - W4
+      - Other
       required: false
     - id: 8
       name: income_frequency
@@ -65,11 +65,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Daily'', ''label'': ''Daily''}'
-      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
-      - '{''value'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
-      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
-      - '{''value'': ''Annual'', ''label'': ''Annual''}'
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Annual
       required: false
     - id: 9
       name: rental_application_form_notes
@@ -84,8 +84,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: tenant_screening_form_lease_terms

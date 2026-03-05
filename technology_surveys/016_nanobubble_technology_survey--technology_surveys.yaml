@@ -15,191 +15,81 @@ inputSchema:
     title: Nanobubble Technology Survey
     pages:
     - id: 1
-      name: form_header
-      label: Form Header
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
       name: awareness
-      label: Awareness
+      label: What is your current level of awareness about nanobubble technology?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very High''}'
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Not at all''}'
-      required: false
-    - id: 3
-      name: form_header_2
-      label: Form Header 2
+      - Very High
+      - High
+      - Low
+      - Not at all
+      required: true
+    - id: 2
+      name: nanobubble_technologies
+      label: List the nanobubble technologies you are aware of
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: use_case
+      label: How do you currently use nanobubble technology?
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: use_cases
-      label: Use cases
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Awareness_goals''}'
-      - '{''label'': ''Cost_reduction''}'
-      - '{''label'': ''Productive_process''}'
-      - '{''label'': ''Other''}'
-      required: false
-    - id: 5
       name: benefits
-      label: Benefits
+      label: What are the benefits you get from using nanobubble technology?
       hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Easy_to_adopt''}'
-      - '{''label'': ''High_quality_data''}'
-      - '{''label'': ''Increased_accuracy''}'
-      - '{''label'': ''Other''}'
-      required: false
-    - id: 6
+      type: text
+      options: []
+      required: true
+    - id: 5
       name: challenges
-      label: Challenges
+      label: What are the challenges you face when using nanobubble technology?
       hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Limited_access''}'
-      - '{''label'': ''High_cost''}'
-      - '{''label'': ''Other''}'
-      required: false
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: goals
+      label: What are your goals for nanobubble technology?
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 7
-      name: awareness
-      label: Awareness
-      hint: Enter the number of nanobubble technologies you are aware of
+      name: interest
+      label: Which nanobubble technology are you most interested in?
+      hint: null
       type: text
       options: []
       required: true
     - id: 8
-      name: awareness
-      label: Awareness
-      hint: Enter the nanobubble technology you are most familiar with
+      name: preference
+      label: What is your preferred nanobubble technology?
+      hint: null
       type: text
       options: []
       required: true
     - id: 9
-      name: awareness
-      label: Awareness
-      hint: Enter the nanobubble technology you are most interested in
+      name: challenges_use
+      label: What are your challenges when using nanobubble technology?
+      hint: null
       type: text
       options: []
       required: true
     - id: 10
-      name: awareness
-      label: Awareness
-      hint: Enter the nanobubble technology you most often use
+      name: future_goals
+      label: What are your future goals for nanobubble technology?
+      hint: null
       type: text
       options: []
       required: true
     - id: 11
-      name: awareness
-      label: Awareness
-      hint: Enter the nanobubble technology you would like to see developed
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: awareness
-      label: Awareness
-      hint: Enter the nanobubble technology you have most experience with
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: awareness
-      label: Awareness
-      hint: Enter the nanobubble technology you would like to see in the future
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: awareness
-      label: Awareness
-      hint: Enter the nanobubble technology you are most likely to recommend
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: awareness
-      label: Awareness
-      hint: Enter the nanobubble technology you would like to learn more about
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: awareness
-      label: Awareness
-      hint: Enter the nanobubble technology you would use
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: awareness
-      label: Awareness
-      hint: Enter the nanobubble technology you would recommend
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: awareness
-      label: Awareness
-      hint: Enter the nanobubble technology you are familiar with
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: awareness_challenges
-      label: Challenges
-      hint: Enter the challenges you face when using nanobubble technology
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: awareness
-      label: Awareness
-      hint: Enter the challenges you face when using nanobubble technology
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: awareness
-      label: Awareness
-      hint: Enter the challenges you face when developing or implementing nanobubble
-        technology
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: awareness
-      label: Awareness
-      hint: Enter prophets related to nanobubbles technology
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: goals
-      label: Goals
-      hint: What are your goals for nanobubble technology
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: benefits_goals
-      label: Benefits_goals
-      hint: What benefits do you get when using nanobubble technology
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: form_footer
+      name: footer
       label: Form Footer
       hint: null
       type: note

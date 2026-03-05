@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Marketing''}'
-      - '{''id'': 2, ''value'': ''Sales''}'
-      - '{''id'': 3, ''value'': ''Customer Support''}'
+      - Marketing
+      - Sales
+      - Customer Support
       required: true
     - id: 4
       name: job_title
@@ -51,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''On-site''}'
-      - '{''id'': 2, ''value'': ''Remote''}'
-      - '{''id'': 3, ''value'': ''Hybrid''}'
+      - On-site
+      - Remote
+      - Hybrid
       required: true
     - id: 6
       name: manager_contact
@@ -68,8 +57,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''John''}'
-      - '{''id'': 2, ''value'': ''Jane''}'
+      - John
+      - Jane
       required: false
     - id: 8
       name: colleagues
@@ -77,9 +66,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Alex''}'
-      - '{''id'': 2, ''value'': ''Bob''}'
-      - '{''id'': 3, ''value'': ''Mike''}'
+      - Alex
+      - Bob
+      - Mike
       required: false
     - id: 9
       name: collaborators
@@ -87,9 +76,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Sam''}'
-      - '{''id'': 2, ''value'': ''Alex''}'
-      - '{''id'': 3, ''value'': ''John''}'
+      - Sam
+      - Alex
+      - John
       required: false
     - id: 10
       name: team_members
@@ -97,9 +86,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Bob''}'
-      - '{''id'': 2, ''value'': ''Mike''}'
-      - '{''id'': 3, ''value'': ''Jane''}'
+      - Bob
+      - Mike
+      - Jane
       required: false
     - id: 11
       name: direct_reports
@@ -107,9 +96,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Sam''}'
-      - '{''id'': 2, ''value'': ''John''}'
-      - '{''id'': 3, ''value'': ''Bob''}'
+      - Sam
+      - John
+      - Bob
       required: false
     - id: 12
       name: indirect_reports
@@ -117,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Alex''}'
-      - '{''id'': 2, ''value'': ''Jane''}'
-      - '{''id'': 3, ''value'': ''Mike''}'
+      - Alex
+      - Jane
+      - Mike
       required: false
     - id: 13
       name: reports_to_manager
@@ -127,9 +116,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''John''}'
-      - '{''id'': 2, ''value'': ''Bob''}'
-      - '{''id'': 3, ''value'': ''Mike''}'
+      - John
+      - Bob
+      - Mike
       required: false
     - id: 14
       name: work_from_home
@@ -137,8 +126,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: work_hours
@@ -174,10 +163,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''EST''}'
-      - '{''id'': 2, ''value'': ''CST''}'
-      - '{''id'': 3, ''value'': ''MST''}'
-      - '{''id'': 4, ''value'': ''PST''}'
+      - EST
+      - CST
+      - MST
+      - PST
       required: true
     - id: 20
       name: team_meetings
@@ -192,9 +181,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Daily''}'
-      - '{''id'': 2, ''value'': ''Weekly''}'
-      - '{''id'': 3, ''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 22
       name: team_meetings_time

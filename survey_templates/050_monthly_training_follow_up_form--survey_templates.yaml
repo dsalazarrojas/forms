@@ -69,8 +69,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy''}'
-      - '{''value'': ''other''}'
+      - chatjimmy
+      - other
       required: false
     - id: 10
       name: category
@@ -173,14 +173,14 @@ inputSchema:
       required: false
     - id: 23
       name: follow_up_next_follow_up
-      label: Next Follow-up
+      label: Follow Up Next Follow Up
       hint: null
       type: date
       options: []
       required: false
     - id: 24
       name: follow_up_follow_up_method
-      label: Follow-up Method
+      label: Follow Up Follow Up Method
       hint: null
       type: select_one
       options:
@@ -189,7 +189,7 @@ inputSchema:
       required: false
     - id: 25
       name: follow_up_follow_up_status
-      label: Follow-up Status
+      label: Follow Up Follow Up Status
       hint: null
       type: select_one
       options:

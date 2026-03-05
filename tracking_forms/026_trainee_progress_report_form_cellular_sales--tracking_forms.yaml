@@ -5,207 +5,155 @@ inputSchema:
     pages:
     - id: 1
       name: overall_performance
-      label: overall_performance
+      label: Overall Performance
       hint: null
       type: select_multiple
       options:
-      - good
-      - fair
-      - poor
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 2
-      name: communication
-      label: communication
+      name: communication_skills
+      label: Communication Skills
       hint: null
       type: select_multiple
       options:
-      - good
-      - fair
-      - poor
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 3
-      name: communication_with_trainee
-      label: communication_with_trainee
+      name: time_management
+      label: Time Management
       hint: null
       type: select_multiple
       options:
-      - good
-      - fair
-      - poor
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 4
-      name: time_management
-      label: time_management
+      name: skills_proficiency
+      label: Skills Proficiency
       hint: null
       type: select_multiple
       options:
-      - good
-      - fair
-      - poor
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 5
-      name: skills
-      label: skills
-      hint: null
-      type: select_multiple
-      options:
-      - good
-      - fair
-      - poor
-      required: true
-    - id: 6
       name: attitude
-      label: attitude
+      label: Attitude
       hint: null
       type: select_multiple
       options:
-      - good
-      - fair
-      - poor
-      required: true
-    - id: 7
-      name: work_knowledge
-      label: work_knowledge
-      hint: null
-      type: select_multiple
-      options:
-      - good
-      - fair
-      - poor
-      required: true
-    - id: 8
-      name: areas_for_improvement
-      label: areas_for_improvement
-      hint: null
-      type: select_multiple
-      options:
-      - communication
-      - time_management
-      - skills
-      - attitude
-      - work_knowledge
+      - Good
+      - Fair
+      - Poor
       required: false
-    - id: 9
+    - id: 6
+      name: work_knowledge
+      label: Work Knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Time Management
+      - Skills
+      - Attitude
+      - Work Knowledge
+      required: false
+    - id: 8
       name: support_given
-      label: support_given
+      label: Support Given
       hint: null
       type: select_multiple
       options:
       - 'True'
       - 'False'
       required: false
-    - id: 10
+    - id: 9
       name: comments
-      label: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trainee_name
+      label: Trainee Name
       hint: null
       type: text
       options: []
       required: false
     - id: 11
+      name: mentor_name
+      label: Mentor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: trainee_progress_status
+      label: Trainee Progress Status
+      hint: null
+      type: select_multiple
+      options:
+      - On Track
+      - Off Track
+      - Unknown
+      required: false
+    - id: 14
+      name: training_progress_form_id
+      label: Training Progress Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
       name: submission_date
-      label: submission_date
+      label: Submission Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 12
+    - id: 16
       name: submission_time
-      label: submission_time
+      label: Submission Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 13
-      name: trainee_name
-      label: trainee_name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: mentor_name
-      label: mentor_name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: form_id
-      label: form_id
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 16
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 17
-      name: submitted_by
-      label: submitted_by
+      name: comments_2
+      label: Comments 2
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: trainee_progress_status
-      label: trainee_progress_status
-      hint: null
-      type: select_multiple
-      options:
-      - on_track
-      - off_track
-      - unknown
-      required: true
-    - id: 19
-      name: training_progress_form_id
-      label: training_progress_form_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: submission_date
-      label: submission_date
+      name: submission_date_2
+      label: Submission Date 2
       hint: null
       type: date
-      options: []
-      required: false
-    - id: 21
-      name: submission_time
-      label: submission_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: trainee_progress_report_status
-      label: trainee_progress_report_status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: comments
-      label: comments
-      hint: null
-      type: text
       options: []
       required: false

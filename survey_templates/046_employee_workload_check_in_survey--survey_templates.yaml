@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Never''}'
-      - '{''label'': ''Slightly''}'
-      - '{''label'': ''Somewhat''}'
-      - '{''label'': ''A lot''}'
-      - '{''label'': ''A lot of the time''}'
+      - Never
+      - Slightly
+      - Somewhat
+      - A lot
+      - A lot of the time
       required: false
     - id: 3
       name: workload_capacity
@@ -28,10 +28,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Always''}'
-      - '{''label'': ''Most of the time''}'
-      - '{''label'': ''Slightly''}'
-      - '{''label'': ''Never''}'
+      - Always
+      - Most of the time
+      - Slightly
+      - Never
       required: false
     - id: 4
       name: work_hours
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Unsure''}'
+      - 'True'
+      - 'False'
+      - Unsure
       required: false
     - id: 6
       name: workload_management
@@ -56,11 +56,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Well''}'
-      - '{''label'': ''Well''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat''}'
-      - '{''label'': ''Not Very Well''}'
+      - Very Well
+      - Well
+      - Neutral
+      - Somewhat
+      - Not Very Well
       required: false
     - id: 7
       name: communication
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Always''}'
-      - '{''label'': ''Most of the time''}'
-      - '{''label'': ''Slightly''}'
-      - '{''label'': ''Never''}'
+      - Always
+      - Most of the time
+      - Slightly
+      - Never
       required: false
     - id: 8
       name: team_support
@@ -79,10 +79,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Always''}'
-      - '{''label'': ''Often''}'
-      - '{''label'': ''Slightly''}'
-      - '{''label'': ''Never''}'
+      - Always
+      - Often
+      - Slightly
+      - Never
       required: false
     - id: 9
       name: work_life_balance
@@ -90,10 +90,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Always''}'
-      - '{''label'': ''Often''}'
-      - '{''label'': ''Slightly''}'
-      - '{''label'': ''Never''}'
+      - Always
+      - Often
+      - Slightly
+      - Never
       required: false
     - id: 10
       name: manager_support
@@ -101,10 +101,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Always''}'
-      - '{''label'': ''Often''}'
-      - '{''label'': ''Slightly''}'
-      - '{''label'': ''Never''}'
+      - Always
+      - Often
+      - Slightly
+      - Never
       required: false
     - id: 11
       name: workload_check_in_frequency
@@ -112,10 +112,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
       required: false
     - id: 12
       name: workload_status_update_frequency
@@ -123,10 +123,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
       required: false
     - id: 13
       name: comments
@@ -150,15 +150,15 @@ inputSchema:
       options: []
       required: false
     - id: 16
-      name: comments
+      name: comments_2
       label: Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: comments
-      label: Additional Comments
+      name: comments_3
+      label: Comments 3
       hint: null
       type: text
       options: []
@@ -178,43 +178,43 @@ inputSchema:
       options: []
       required: false
     - id: 20
-      name: comments
+      name: comments_4
       label: Team Member Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 21
-      name: comments
-      label: Manager Comments
+      name: comments_5
+      label: Comments 5
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: comments
+      name: comments_6
       label: Additional Manager Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: comments
+      name: comments_7
       label: Other Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: comments
-      label: Comments
+      name: comments_8
+      label: Comments 8
       hint: null
       type: text
       options: []
       required: false
     - id: 25
-      name: comments
-      label: Comments
+      name: comments_9
+      label: Comments 9
       hint: null
       type: text
       options: []

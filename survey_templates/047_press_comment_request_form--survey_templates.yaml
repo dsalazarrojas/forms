@@ -5,92 +5,64 @@ inputSchema:
     pages:
     - id: 1
       name: first_page
-      label: first_page_label
-      hint: null
+      label: First Name
+      hint: Please enter your first name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: press_comment
-      label: press_comment_label
-      hint: null
+      name: last_name
+      label: Last Name
+      hint: Please enter your last name
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: submit
-      label: submit_button
-      hint: null
+      name: press_comment
+      label: Press Comment
+      hint: Enter any comments or feedback
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: name
-      label: name_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: email
-      label: email_label
-      hint: null
+      label: Email
+      hint: Please enter your email address
       type: email
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: date
-      label: date_label
-      hint: null
+      label: Date
+      hint: Please enter your availability for the press conference
       type: date
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: time
-      label: time_label
-      hint: null
+      label: Time
+      hint: Please enter your preferred time for the press conference
       type: time
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: phone
-      label: phone_label
+      label: Phone Number
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submit_button
+      label: Submit
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: comments
-      label: comments_label
+      name: error_name
+      label: Error Name
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 10
-      name: submit_button_label
-      label: submit_button_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: name_error
-      label: name_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: email_error
-      label: email_label
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 13
-      name: date_error
-      label: date_label
-      hint: null
-      type: date
       options: []
       required: false

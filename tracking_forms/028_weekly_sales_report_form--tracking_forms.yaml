@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''North''}'
-      - '{''id'': 2, ''name'': ''South''}'
-      - '{''id'': 3, ''name'': ''East''}'
-      - '{''id'': 4, ''name'': ''West''}'
+      - North
+      - South
+      - East
+      - West
       required: true
     - id: 3
       name: total_revenue
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''John''}'
-      - '{''id'': 2, ''name'': ''Jane''}'
-      - '{''id'': 3, ''name'': ''Jim''}'
+      - John
+      - Jane
+      - Jim
       required: true
     - id: 5
       name: notes
@@ -65,7 +65,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Bob''}'
-      - '{''id'': 2, ''name'': ''Alice''}'
-      - '{''id'': 3, ''name'': ''Mike''}'
+      - Bob
+      - Alice
+      - Mike
       required: false

@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
       name: security_concerns_other
@@ -68,7 +68,7 @@ inputSchema:
       required: false
     - id: 9
       name: measures_other
-      label: Other (please specify)
+      label: Measures Other
       hint: null
       type: text
       options: []
@@ -84,7 +84,7 @@ inputSchema:
       required: false
     - id: 11
       name: training_other
-      label: Other (please specify)
+      label: Training Other
       hint: null
       type: text
       options: []
@@ -100,7 +100,7 @@ inputSchema:
       required: false
     - id: 13
       name: incident_response_other
-      label: Other (please specify)
+      label: Incident Response Other
       hint: null
       type: text
       options: []
@@ -116,7 +116,7 @@ inputSchema:
       required: false
     - id: 15
       name: incident_reporting_other
-      label: Other (please specify)
+      label: Incident Reporting Other
       hint: null
       type: text
       options: []
@@ -127,13 +127,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 17
       name: incident_response_plan_other
-      label: Other (please specify)
+      label: Incident Response Plan Other
       hint: null
       type: text
       options: []
@@ -149,7 +149,7 @@ inputSchema:
       required: false
     - id: 19
       name: data_backup_other
-      label: Other (please specify)
+      label: Data Backup Other
       hint: null
       type: text
       options: []

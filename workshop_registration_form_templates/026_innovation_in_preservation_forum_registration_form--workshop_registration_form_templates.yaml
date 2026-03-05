@@ -5,112 +5,58 @@ inputSchema:
     pages:
     - id: 1
       name: general_details
-      label: General Details
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: name
-      label: name
+      name: contact_info
+      label: How can we contact you?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 4
-      name: phone
-      label: phone
+      name: phone_info
+      label: What is your phone number?
       hint: null
       type: text
       options: []
       required: false
+    - id: 4
+      name: comments
+      label: Do you have any comments about this form?
+      hint: null
+      type: note
+      options: []
+      required: false
     - id: 5
-      name: address
-      label: address
+      name: name
+      label: Name
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: comments
-      label: comments
+      name: contact_method
+      label: How can we reach you?
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 7
-      name: name_2
-      label: name
+      name: phone_verification
+      label: Is this your phone number?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 8
-      name: email_2
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: phone_2
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: comments_2
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: form_submission
-      label: Form Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: comments_3
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: general_details_2
-      label: general_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: name_3
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: email_3
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: phone_3
-      label: phone
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: text
       options: []

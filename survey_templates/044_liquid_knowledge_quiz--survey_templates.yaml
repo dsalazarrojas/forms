@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''True/False''}'
-      - '{''text'': ''Multiple Choice''}'
-      - '{''text'': ''Multiple Select''}'
+      - True/False
+      - Multiple Choice
+      - Multiple Select
       required: false
     - id: 3
       name: quiz_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''True/False''}'
-      - '{''text'': ''Survey''}'
-      - '{''text'': ''Quizlet''}'
+      - True/False
+      - Survey
+      - Quizlet
       required: false
     - id: 4
       name: number_of_questions
@@ -57,11 +57,11 @@ inputSchema:
       hint: Separate each option with a comma
       type: select_multiple
       options:
-      - '{''text'': ''A''}'
-      - '{''text'': ''B''}'
-      - '{''text'': ''C''}'
-      - '{''text'': ''D''}'
-      - '{''text'': ''E''}'
+      - A
+      - B
+      - C
+      - D
+      - E
       required: false
     - id: 8
       name: submit

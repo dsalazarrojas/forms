@@ -1,94 +1,83 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Civic Learning In Higher Education Registration Form
     pages:
-      - id: 1
-        name: student_name
-        label: Student name
-        hint: Full name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: student_id
-        label: Student ID
-        hint: University identifier
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: email
-        label: Student email
-        hint: For course materials
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: program_of_study
-        label: Program of study
-        hint: Major or department
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: training_session
-        label: Training session choice
-        hint: Choose preferred session
-        type: select_one
-        options:
-          - Module 1 civic fundamentals
-          - Module 2 community research
-          - Module 3 advocacy practice
-        required: true
-      - id: 6
-        name: accommodation_needs
-        label: Accommodation needs
-        hint: Accessibility or assistance
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: credit_preference
-        label: Credit preference
-        hint: Request academic credit or certificate
-        type: select_one
-        options:
-          - Certificate only
-          - Academic credit requested
-          - No credit
-        required: false
-      - id: 8
-        name: emergency_contact
-        label: Emergency contact name and phone
-        hint: Provide contact info
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: consent_media
-        label: Consent for media use
-        hint: Allow photos recordings for materials
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 10
-        name: submission_date
-        label: Submission date
-        hint: Use today date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: University identifier
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Student email
+      hint: For course materials
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: program_of_study
+      label: Program of study
+      hint: Major or department
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_session
+      label: Training session choice
+      hint: Choose preferred session
+      type: select_one
+      options:
+      - Module 1 civic fundamentals
+      - Module 2 community research
+      - Module 3 advocacy practice
+      required: true
+    - id: 6
+      name: accommodation_needs
+      label: Accommodation needs
+      hint: Accessibility or assistance
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: credit_preference
+      label: Credit preference
+      hint: Request academic credit or certificate
+      type: select_one
+      options:
+      - Certificate only
+      - Academic credit requested
+      - No credit
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide contact info
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_media
+      label: Consent for media use
+      hint: Allow photos recordings for materials
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true

@@ -72,7 +72,7 @@ inputSchema:
       hint: If applicable
       type: select_one
       options:
-      - true
+      - 'True'
       - Not required for my nationality
       - In progress
       required: true
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 15
       name: special_assistance_reminder
@@ -114,7 +114,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes (Already requested)
       - Yes (Need to request now)
       required: true

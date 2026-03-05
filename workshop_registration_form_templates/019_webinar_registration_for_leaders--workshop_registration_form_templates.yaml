@@ -4,210 +4,128 @@ inputSchema:
     title: Webinar Registration For Leaders
     pages:
     - id: 1
-      name: webinar_registration_for_leaders
-      label: Webinar Registration
-      hint: null
+      name: name
+      label: Full Name
+      hint: Enter your full name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: contact_details
-      label: Contact Details
-      hint: null
-      type: text
+      name: contact_email
+      label: Email
+      hint: Enter a valid email address
+      type: email
       options: []
-      required: false
+      required: true
     - id: 3
-      name: goals_and_objectives
-      label: Goals And Objectives
-      hint: null
+      name: contact_phone
+      label: Phone
+      hint: Enter your phone number
       type: text
       options: []
       required: false
     - id: 4
-      name: consent
-      label: Consent
-      hint: null
-      type: text
+      name: preferred_date
+      label: Preferred Date
+      hint: Select a date
+      type: date
       options: []
       required: false
     - id: 5
-      name: email
-      label: Email
-      hint: null
-      type: email
+      name: preferred_time
+      label: Preferred Time
+      hint: Select a time
+      type: time
       options: []
       required: false
     - id: 6
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
+      name: select_preference
+      label: Select Your Preference
+      hint: Choose an option
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
+      name: select_preferred
+      label: Select Your Preferred
+      hint: Choose options
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
-      name: time
-      label: Time
-      hint: null
-      type: time
+      name: note
+      label: Additional Note
+      hint: Enter any additional notes
+      type: note
       options: []
       required: false
     - id: 9
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 10
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 11
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: email
-      label: Email
-      hint: null
+      name: confirm_email
+      label: Confirm Email
+      hint: Re-enter your email address
       type: email
       options: []
-      required: false
-    - id: 13
-      name: phone
-      label: Phone
-      hint: null
+      required: true
+    - id: 10
+      name: confirm_phone
+      label: Confirm Phone
+      hint: Re-enter your phone number
       type: text
       options: []
       required: false
-    - id: 14
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: date
-      label: Date
-      hint: null
+    - id: 11
+      name: confirm_date
+      label: Confirm Date
+      hint: Re-select a date
       type: date
       options: []
       required: false
-    - id: 16
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 17
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 18
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 19
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 20
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 22
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 23
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 24
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 25
-      name: note
-      label: Note
-      hint: null
-      type: note
+    - id: 12
+      name: confirm_time
+      label: Confirm Time
+      hint: Re-select a time
+      type: time
       options: []
       required: false
+    - id: 13
+      name: confirm_select
+      label: Confirm Your Selection
+      hint: Re-choose an option
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 14
+      name: confirm_preferred
+      label: Confirm Your Preferred
+      hint: Re-choose options
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 15
+      name: terms
+      label: Terms and Conditions
+      hint: Accept the terms and conditions
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

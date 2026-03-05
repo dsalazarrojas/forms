@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''domestic''}'
-      - '{''id'': 2, ''label'': ''international''}'
-      - '{''id'': 3, ''label'': ''other''}'
+      - domestic
+      - international
+      - other
       required: false
     - id: 3
       name: travel_booking_method
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''direct''}'
-      - '{''id'': 2, ''label'': ''agency''}'
-      - '{''id'': 3, ''label'': ''online''}'
-      - '{''id'': 4, ''label'': ''offline''}'
+      - direct
+      - agency
+      - online
+      - offline
       required: false
     - id: 4
       name: travel_dates
@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''very_satisfactory''}'
-      - '{''id'': 2, ''label'': ''satisfactory''}'
-      - '{''id'': 3, ''label'': ''neutral''}'
-      - '{''id'': 4, ''label'': ''dissatisfactory''}'
+      - very satisfactory
+      - satisfactory
+      - neutral
+      - dissatisfactory
       required: false
     - id: 7
       name: website_experience
@@ -62,10 +62,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''very_satisfactory''}'
-      - '{''id'': 2, ''label'': ''satisfactory''}'
-      - '{''id'': 3, ''label'': ''neutral''}'
-      - '{''id'': 4, ''label'': ''dissatisfactory''}'
+      - very satisfactory
+      - satisfactory
+      - neutral
+      - dissatisfactory
       required: false
     - id: 8
       name: website_feature
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''design''}'
-      - '{''id'': 2, ''label'': ''content''}'
-      - '{''id'': 3, ''label'': ''navigation''}'
+      - design
+      - content
+      - navigation
       required: false
     - id: 9
       name: website_feature_2
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''design''}'
-      - '{''id'': 2, ''label'': ''content''}'
-      - '{''id'': 3, ''label'': ''navigation''}'
+      - design
+      - content
+      - navigation
       required: false
     - id: 10
       name: website_feature_3
@@ -114,10 +114,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''very_satisfactory''}'
-      - '{''id'': 2, ''label'': ''satisfactory''}'
-      - '{''id'': 3, ''label'': ''neutral''}'
-      - '{''id'': 4, ''label'': ''dissatisfactory''}'
+      - very satisfactory
+      - satisfactory
+      - neutral
+      - dissatisfactory
       required: false
     - id: 14
       name: website_feature
@@ -125,9 +125,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''design''}'
-      - '{''id'': 2, ''label'': ''content''}'
-      - '{''id'': 3, ''label'': ''navigation''}'
+      - design
+      - content
+      - navigation
       required: false
     - id: 15
       name: website_feature_3
@@ -135,7 +135,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''design''}'
-      - '{''id'': 2, ''label'': ''content''}'
-      - '{''id'': 3, ''label'': ''navigation''}'
+      - design
+      - content
+      - navigation
       required: false

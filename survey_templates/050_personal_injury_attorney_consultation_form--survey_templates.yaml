@@ -86,13 +86,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Aetna'', ''label'': ''Aetna''}'
-      - '{''value'': ''Blue Cross'', ''label'': ''Blue Cross''}'
-      - '{''value'': ''Blue Shield'', ''label'': ''Blue Shield''}'
-      - '{''value'': ''Cigna'', ''label'': ''Cigna''}'
-      - '{''value'': ''Humana'', ''label'': ''Humana''}'
-      - '{''value'': ''None'', ''label'': ''None''}'
-      - '{''value'': ''UnitedHealth'', ''label'': ''UnitedHealth''}'
+      - Aetna
+      - Blue Cross
+      - Blue Shield
+      - Cigna
+      - Humana
+      - None
+      - UnitedHealth
       required: true
     - id: 13
       name: insurance_provider_other
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Car Accident'', ''label'': ''Car Accident''}'
-      - '{''value'': ''Slip and Fall'', ''label'': ''Slip and Fall''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Car Accident
+      - Slip and Fall
+      - Other
       required: false
     - id: 15
       name: witnesses
@@ -117,9 +117,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': 1}'
-      - '{''value'': 2, ''label'': 2}'
-      - '{''value'': 3, ''label'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 16
       name: medical_bills
@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: medical_reports
@@ -136,8 +136,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: police_report
@@ -145,8 +145,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: hospitalization
@@ -154,8 +154,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: lost_wages
@@ -163,8 +163,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: emotional_disturbance
@@ -172,8 +172,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: physical_disturbance
@@ -181,8 +181,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: property_damage
@@ -190,8 +190,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: vehicle
@@ -199,8 +199,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: other_injuries

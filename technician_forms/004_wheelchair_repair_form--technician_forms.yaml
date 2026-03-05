@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Standard'', ''text'': ''Standard''}'
-      - '{''value'': ''Recliner'', ''text'': ''Recliner''}'
-      - '{''value'': ''Manual'', ''text'': ''Manual''}'
+      - Standard
+      - Recliner
+      - Manual
       required: true
     - id: 3
       name: customer_name
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Minor'', ''text'': ''Minor''}'
-      - '{''value'': ''Major'', ''text'': ''Major''}'
-      - '{''value'': ''Maintenance'', ''text'': ''Maintenance''}'
+      - Minor
+      - Major
+      - Maintenance
       required: true
     - id: 6
       name: repair_status
@@ -50,10 +50,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''In Progress'', ''text'': ''In Progress''}'
-      - '{''value'': ''Complete'', ''text'': ''Complete''}'
-      - '{''value'': ''Pending'', ''text'': ''Pending''}'
-      - '{''value'': ''Cancel'', ''text'': ''Cancel''}'
+      - In Progress
+      - Complete
+      - Pending
+      - Cancel
       required: true
     - id: 7
       name: notes

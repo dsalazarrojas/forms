@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -48,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Student
-        - Entry-level professional
-        - Mid-career professional
-        - Senior professional
-        - Academic or educator
+      - Student
+      - Entry-level professional
+      - Mid-career professional
+      - Senior professional
+      - Academic or educator
       required: true
     - id: 6
       name: section_general_accounting
@@ -67,10 +56,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Assets = Liabilities + Equity
-        - Revenue = Expenses + Profit
-        - Assets = Revenue - Liabilities
-        - Equity = Assets + Liabilities
+      - Assets = Liabilities + Equity
+      - Revenue = Expenses + Profit
+      - Assets = Revenue - Liabilities
+      - Equity = Assets + Liabilities
       required: true
     - id: 8
       name: q2_accrual_basis
@@ -78,10 +67,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - When cash is received
-        - When the performance obligation is satisfied
-        - At the end of the fiscal year
-        - When the invoice is sent
+      - When cash is received
+      - When the performance obligation is satisfied
+      - At the end of the fiscal year
+      - When the invoice is sent
       required: true
     - id: 9
       name: q3_depreciation
@@ -89,10 +78,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Straight-line
-        - Declining balance
-        - Sum-of-the-years-digits
-        - First-in, first-out
+      - Straight-line
+      - Declining balance
+      - Sum-of-the-years-digits
+      - First-in, first-out
       required: true
     - id: 10
       name: q4_current_asset
@@ -100,10 +89,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Land
-        - Accounts receivable
-        - Goodwill
-        - Long-term investments
+      - Land
+      - Accounts receivable
+      - Goodwill
+      - Long-term investments
       required: true
     - id: 11
       name: section_ifrs_questions
@@ -118,10 +107,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - International Financial Reporting Standards
-        - International Fiscal Regulatory Standards
-        - Internal Financial Recording System
-        - International Finance and Revenue Standards
+      - International Financial Reporting Standards
+      - International Fiscal Regulatory Standards
+      - Internal Financial Recording System
+      - International Finance and Revenue Standards
       required: true
     - id: 13
       name: q6_ifrs_issuer
@@ -129,10 +118,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - FASB
-        - IASB
-        - SEC
-        - AICPA
+      - FASB
+      - IASB
+      - SEC
+      - AICPA
       required: true
     - id: 14
       name: q7_fair_value
@@ -140,10 +129,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Historical cost of an asset
-        - Price received to sell an asset in an orderly transaction
-        - Replacement cost of an asset
-        - Net book value after depreciation
+      - Historical cost of an asset
+      - Price received to sell an asset in an orderly transaction
+      - Replacement cost of an asset
+      - Net book value after depreciation
       required: true
     - id: 15
       name: q8_inventory_method
@@ -151,10 +140,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - FIFO
-        - Weighted average
-        - LIFO
-        - Specific identification
+      - FIFO
+      - Weighted average
+      - LIFO
+      - Specific identification
       required: true
     - id: 16
       name: q9_ifrs_vs_gaap
@@ -162,10 +151,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - IFRS allows LIFO, GAAP does not
-        - IFRS is principles-based, GAAP is rules-based
-        - GAAP is used globally, IFRS is not
-        - IFRS does not require financial statements
+      - IFRS allows LIFO, GAAP does not
+      - IFRS is principles-based, GAAP is rules-based
+      - GAAP is used globally, IFRS is not
+      - IFRS does not require financial statements
       required: true
     - id: 17
       name: q10_lease_standard
@@ -173,10 +162,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - IFRS 9
-        - IFRS 15
-        - IFRS 16
-        - IFRS 17
+      - IFRS 9
+      - IFRS 15
+      - IFRS 16
+      - IFRS 17
       required: true
     - id: 18
       name: section_self_assessment
@@ -191,11 +180,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Very confident
-        - Confident
-        - Somewhat confident
-        - Not very confident
-        - Not confident at all
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not very confident
+      - Not confident at all
       required: true
     - id: 20
       name: training_interest
@@ -203,7 +192,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Yes
-        - Maybe
-        - No
+      - 'True'
+      - Maybe
+      - 'False'
       required: false

@@ -15,7 +15,7 @@ inputSchema:
       - Other
       required: true
     - id: 2
-      name: mba_qualifying_survey_page_1
+      name: mba_qualifying_survey_page_2
       label: What is your current occupation
       hint: null
       type: select_one
@@ -24,90 +24,22 @@ inputSchema:
       - 'No'
       required: true
     - id: 3
-      name: mba_qualifying_survey_page_2
-      label: What is your current annual income
-      hint: Enter a number
-      type: number
-      options: []
-      required: false
-    - id: 4
       name: mba_qualifying_survey_page_3
-      label: What is your current annual income (if employed)
+      label: What is your current annual income
       hint: null
       type: number
       options: []
       required: true
-    - id: 5
+    - id: 4
       name: mba_qualifying_survey_page_4
-      label: What is your highest level of education
-      hint: null
-      type: select_one
-      options:
-      - Bachelors degree
-      - Masters degree
-      - Doctorate degree
-      - Other
-      required: true
-    - id: 6
-      name: mba_qualifying_survey_page_5
       label: How many years do you have work experience
       hint: null
       type: number
       options: []
       required: true
-    - id: 7
-      name: mba_qualifying_survey_page_6
-      label: What is your current occupation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 8
-      name: mba_qualifying_survey_page_7
-      label: What is your current location
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 9
-      name: mba_qualifying_survey_page_8
-      label: What is your highest degree level
-      hint: null
-      type: select_one
-      options:
-      - Bachelors degree
-      - Masters degree
-      - Doctorate degree
-      - Other
-      required: true
-    - id: 10
-      name: mba_qualifying_survey_page_9
-      label: What is your current annual income
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 11
-      name: mba_qualifying_survey_page_10
-      label: How many years do you have work experience in a management role
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 12
-      name: mba_qualifying_survey_page_11
-      label: What is your current annual income (if employed)
-      hint: Enter a number
-      type: number
-      options: []
-      required: true
-    - id: 13
-      name: mba_qualifying_survey_page_12
-      label: Do you have any prior experience of a professional certification
+    - id: 5
+      name: mba_qualifying_survey_page_5
+      label: Do you have any prior experience with a professional certification
       hint: null
       type: select_one
       options:
@@ -115,24 +47,40 @@ inputSchema:
       - 'no'
       - unknown
       required: true
-    - id: 14
-      name: mba_qualifying_survey_page_13
-      label: How many years do you have experience with a professional certification
+    - id: 6
+      name: mba_qualifying_survey_page_6
+      label: Have you taken the GMAT or GRE
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'yes'
+      - 'no'
       required: true
-    - id: 15
-      name: mba_qualifying_survey_page_14
-      label: What is your current annual income
-      hint: Enter a number
+    - id: 7
+      name: mba_qualifying_survey_page_7
+      label: What was your GMAT or GRE score
+      hint: null
       type: number
       options: []
       required: true
-    - id: 16
-      name: mba_qualifying_survey_page_15
+    - id: 8
+      name: mba_qualifying_survey_page_8
+      label: Do you have any prior experience of business administration
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 9
+      name: mba_qualifying_survey_page_9
+      label: What is your annual income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: mba_qualifying_survey_page_10
       label: Do you have an MBA degree
       hint: null
       type: select_one
@@ -140,9 +88,27 @@ inputSchema:
       - 'yes'
       - 'no'
       required: true
-    - id: 17
-      name: mba_qualifying_survey_page_16
-      label: What is your highest degree level
+    - id: 11
+      name: mba_qualifying_survey_page_11
+      label: Have you taken any other entrance exams
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 12
+      name: mba_qualifying_survey_page_12
+      label: What is your current location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: mba_qualifying_survey_page_13
+      label: Mba Qualifying Survey Page 13
       hint: null
       type: select_one
       options:
@@ -151,66 +117,39 @@ inputSchema:
       - Doctorate degree
       - Other
       required: true
-    - id: 18
+    - id: 14
+      name: mba_qualifying_survey_page_14
+      label: Mba Qualifying Survey Page 14
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: mba_qualifying_survey_page_15
+      label: Mba Qualifying Survey Page 15
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 16
+      name: mba_qualifying_survey_page_16
+      label: How many years do you have experience with a professional certification
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
       name: mba_qualifying_survey_page_17
-      label: What is your annual income
+      label: Mba Qualifying Survey Page 17
       hint: null
       type: number
       options: []
       required: true
-    - id: 19
+    - id: 18
       name: mba_qualifying_survey_page_18
-      label: Have you taken the GMAT or GRE
-      hint: null
-      type: select_one
-      options:
-      - 'yes'
-      - 'no'
-      required: true
-    - id: 20
-      name: mba_qualifying_survey_page_19
-      label: What was your GMAT or GRE score
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 21
-      name: mba_qualifying_survey_page_20
-      label: Have you taken any other entrance exams
-      hint: null
-      type: select_one
-      options:
-      - 'yes'
-      - 'no'
-      required: true
-    - id: 22
-      name: mba_qualifying_survey_page_21
-      label: What is your current location
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 23
-      name: mba_qualifying_survey_page_22
-      label: Do you have any prior experience in any of the areas of business administration
-      hint: null
-      type: select_one
-      options:
-      - 'yes'
-      - 'no'
-      required: true
-    - id: 24
-      name: mba_qualifying_survey_page_23
-      label: What is your annual income
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 25
-      name: mba_qualifying_survey_page_24
-      label: Do you have any prior experience of a professional certification
+      label: Have you had any prior experience in business administration
       hint: null
       type: select_one
       options:

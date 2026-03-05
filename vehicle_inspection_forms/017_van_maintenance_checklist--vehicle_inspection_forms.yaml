@@ -5,233 +5,139 @@ inputSchema:
     pages:
     - id: 1
       name: van_maintenance_checklist_page_1
-      label: Van Maintenance Checklist
+      label: Vehicle Maintenance
       hint: null
       type: select_multiple
       options:
       - Engine Oil Check
-      - Battery Check
-      - Brake Pads Check
-      - Brake Fluid Check
-      - Transmission Check
-      - Tire Condition Check
       - Air Filter Check
-      - Fuel Filter Check
+      - Brake Pads Check
+      - Tire Condition Check
+      - Brake Fluid Check
       - Spark Plug Check
-      - Battery Terminals Check
-      - Headlight Check
-      - Taillight Check
-      - Brake Light Check
-      - Windshield Check
-      - Horn Check
-      - Steering Check
-      - Suspension Check
-      - Steering Fluid Check
-      - Axle Check
       required: false
     - id: 2
       name: van_maintenance_checklist_page_2
-      label: Van Maintenance Checklist
+      label: Brake Pads and Fluid
       hint: null
       type: select_one
       options:
-      - Oil Change
-      - Tire Rotation
-      - Battery Replacement
-      - Brake Pad Replacement
-      - Spark Plug Replacement
-      - Air Filter Replacement
-      - Fuel Filter Replacement
-      - Spark Plug Replacement
-      - Brake Fluid Replacement
-      - Brake Pads Replacement
-      - Tire Rotation
-      - Suspension Repair
-      - Steering Adjustment
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: van_maintenance_checklist_page_3
-      label: Van Maintenance Checklist
+      label: Tire Maintenance
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Tire Rotation
+      - Tire Balance
+      - Tire Alignment
       required: false
     - id: 4
       name: van_maintenance_checklist_page_4
-      label: Van Maintenance Checklist
+      label: Battery and Electrical
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: van_maintenance_checklist_page_5
-      label: Van Maintenance Checklist
+      label: Vehicle Inspection
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 6
       name: van_maintenance_checklist_page_6
-      label: Van Maintenance Checklist
+      label: Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 7
       name: van_maintenance_checklist_page_7
-      label: Van Maintenance Checklist
+      label: Brake Fluid Level
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 8
       name: van_maintenance_checklist_page_8
-      label: Van Maintenance Checklist
+      label: Brake Fluid Type
       hint: null
-      type: email
-      options: []
+      type: select_one
+      options:
+      - Mineral Oil
+      - Synthetic Oil
       required: false
     - id: 9
       name: van_maintenance_checklist_page_9
-      label: Van Maintenance Checklist
-      hint: null
-      type: select_multiple
-      options:
-      - Van Maintenance Checklist
-      - Van Maintenance Checklist
-      - Van Maintenance Checklist
-      required: false
-    - id: 10
-      name: van_maintenance_checklist_page_10
-      label: Van Maintenance Checklist
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: van_maintenance_checklist_page_11
-      label: Van Maintenance Checklist
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: van_maintenance_checklist_page_12
-      label: Van Maintenance Checklist
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: van_maintenance_checklist_page_13
-      label: Van Maintenance Checklist
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: van_maintenance_checklist_page_14
-      label: Van Maintenance Checklist
-      hint: null
-      type: select_one
-      options:
-      - Van Maintenance Checklist
-      - Van Maintenance Checklist
-      - Van Maintenance Checklist
-      required: false
-    - id: 15
-      name: van_maintenance_checklist_page_15
-      label: Van Maintenance Checklist
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: van_maintenance_checklist_page_16
-      label: Van Maintenance Checklist
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: van_maintenance_checklist_page_17
-      label: Van Maintenance Checklist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: van_maintenance_checklist_page_18
-      label: Van Maintenance Checklist
+      label: Vehicle Age
       hint: null
       type: date
       options: []
       required: false
-    - id: 19
-      name: van_maintenance_checklist_page_19
-      label: Van Maintenance Checklist
+    - id: 10
+      name: van_maintenance_checklist_page_10
+      label: Vehicle Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Van
+      - Truck
+      - SUV
       required: false
-    - id: 20
-      name: van_maintenance_checklist_page_20
-      label: Van Maintenance Checklist
+    - id: 11
+      name: van_maintenance_checklist_page_11
+      label: Maintenance Frequency
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Van Maintenance Checklist
-      - Van Maintenance Checklist
-      - Van Maintenance Checklist
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
-    - id: 21
-      name: van_maintenance_checklist_page_21
-      label: Van Maintenance Checklist
+    - id: 12
+      name: van_maintenance_checklist_page_12
+      label: Last Service Date
       hint: null
-      type: time
+      type: date
       options: []
       required: false
-    - id: 22
-      name: van_maintenance_checklist_page_22
-      label: Van Maintenance Checklist
+    - id: 13
+      name: van_maintenance_checklist_page_13
+      label: Van Maintenance Checklist Page 13
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: van_maintenance_checklist_page_14
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 23
-      name: van_maintenance_checklist_page_23
-      label: Van Maintenance Checklist
+    - id: 15
+      name: van_maintenance_checklist_page_15
+      label: Next Service Date
       hint: null
-      type: number
+      type: date
       options: []
       required: false
-    - id: 24
-      name: van_maintenance_checklist_page_24
-      label: Van Maintenance Checklist
+    - id: 16
+      name: van_maintenance_checklist_page_16
+      label: Vehicle Identification
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: van_maintenance_checklist_page_25
-      label: Van Maintenance Checklist
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - Make
+      - Model
+      - Year
       required: false

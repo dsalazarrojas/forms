@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''School''}'
-      - '{''id'': 2, ''label'': ''Nonprofit''}'
-      - '{''id'': 3, ''label'': ''Training Team''}'
+      - School
+      - Nonprofit
+      - Training Team
       required: true
     - id: 5
       name: consent_date
@@ -68,11 +68,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Basic''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advanced''}'
-      - '{''id'': 4, ''label'': ''Expert''}'
-      - '{''id'': 5, ''label'': ''Master''}'
+      - Basic
+      - Intermediate
+      - Advanced
+      - Expert
+      - Master
       required: true
     - id: 10
       name: certification_status
@@ -80,10 +80,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pending''}'
-      - '{''id'': 2, ''label'': ''Active''}'
-      - '{''id'': 3, ''label'': ''Expired''}'
-      - '{''id'': 4, ''label'': ''Not Available''}'
+      - Pending
+      - Active
+      - Expired
+      - Not Available
       required: true
     - id: 11
       name: notes

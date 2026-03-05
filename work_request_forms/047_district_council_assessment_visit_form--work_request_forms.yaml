@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''smoke''}'
-      - '{''value'': ''heat''}'
-      - '{''value'': ''multi_sensor''}'
-      - '{''value'': ''carbon_monoxide''}'
+      - smoke
+      - heat
+      - multi sensor
+      - carbon monoxide
       required: false
     - id: 4
       name: assessment_location
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''office''}'
-      - '{''value'': ''site''}'
-      - '{''value'': ''other''}'
+      - office
+      - site
+      - other
       required: false
     - id: 5
       name: assessment_date

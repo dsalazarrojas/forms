@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''participant''}'
-      - '{''id'': 2, ''label'': ''volunteer''}'
-      - '{''id'': 3, ''label'': ''staff''}'
+      - participant
+      - volunteer
+      - staff
       required: false
     - id: 4
       name: volunteer_experience_survey_evaluation_form_program_name
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''unsure''}'
+      - 'True'
+      - 'False'
+      - unsure
       required: true
     - id: 11
       name: volunteer_experience_survey_evaluation_form_what_made_your_experience_worth_it
@@ -99,8 +99,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: volunteer_experience_survey_evaluation_form_were_you_participating
@@ -108,8 +108,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: volunteer_experience_survey_evaluation_form_what_made_it_hard_for_you
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''unsure''}'
+      - 'True'
+      - 'False'
+      - unsure
       required: true
     - id: 19
       name: volunteer_experience_survey_evaluation_form_would_you_recommend
@@ -148,8 +148,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: volunteer_experience_survey_evaluation_form_additional_comments

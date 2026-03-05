@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Dr. Smith''}'
-      - '{''id'': 2, ''name'': ''Dr. Johnson''}'
-      - '{''id'': 3, ''name'': ''Dr. Thompson''}'
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Thompson
       required: false
     - id: 7
       name: appointment_note
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Fever''}'
-      - '{''id'': 2, ''name'': ''Allergies''}'
-      - '{''id'': 3, ''name'': ''Arthritis''}'
+      - Fever
+      - Allergies
+      - Arthritis
       required: false
     - id: 9
       name: owner_contact
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Form Submitter''}'
-      - '{''id'': 2, ''name'': ''Owner''}'
+      - Form Submitter
+      - Owner
       required: false
     - id: 11
       name: submitter_name

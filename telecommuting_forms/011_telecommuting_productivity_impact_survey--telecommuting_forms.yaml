@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Prefer not to say''}'
+      - 'True'
+      - 'False'
+      - Prefer not to say
       required: false
     - id: 4
       name: working_hours
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Slightly better''}'
-      - '{''id'': 2, ''label'': ''Much better''}'
-      - '{''id'': 3, ''label'': ''Much worse''}'
-      - '{''id'': 4, ''label'': ''Not affected''}'
+      - Slightly better
+      - Much better
+      - Much worse
+      - Not affected
       required: false
     - id: 7
       name: productivity

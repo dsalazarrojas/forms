@@ -6,126 +6,119 @@ inputSchema:
     - id: 1
       name: transfer_date
       label: Date of Transfer
-      hint: Date animal is being transferred
+      hint: null
       type: date
       options: []
       required: true
     - id: 2
-      name: section_transferring_party
-      label: -- Transferring Party Information --
-      hint: Current owner or caretaker
+      name: transferring_party_name
+      label: Transferring Party Information
+      hint: null
       type: note
       options: []
       required: false
     - id: 3
-      name: transferring_party_name
-      label: Name
-      hint: Your full name
+      name: transferring_party_name_2
+      label: Full Name
+      hint: null
       type: text
       options: []
       required: true
     - id: 4
       name: transferring_party_address
       label: Address
-      hint: Street address
+      hint: null
       type: text
       options: []
       required: true
     - id: 5
       name: transferring_party_city
       label: City
-      hint: City
+      hint: null
       type: text
       options: []
       required: true
     - id: 6
       name: transferring_party_state
       label: State
-      hint: State or province
+      hint: null
       type: text
       options: []
       required: true
     - id: 7
       name: transferring_party_phone
       label: Phone Number
-      hint: Contact phone
+      hint: null
       type: text
       options: []
       required: true
     - id: 8
       name: transferring_party_email
       label: Email Address
-      hint: Contact email
+      hint: null
       type: email
       options: []
       required: false
     - id: 9
-      name: section_receiving_party
-      label: -- Receiving Party Information --
-      hint: New owner or caretaker
+      name: receiving_party_name
+      label: Receiving Party Information
+      hint: null
       type: note
       options: []
       required: false
     - id: 10
-      name: receiving_party_name
-      label: Name
-      hint: Full name of receiving party
+      name: receiving_party_name_2
+      label: Receiving Party Name 2
+      hint: null
       type: text
       options: []
       required: true
     - id: 11
       name: receiving_party_address
-      label: Address
-      hint: Street address
+      label: Receiving Party Address
+      hint: null
       type: text
       options: []
       required: true
     - id: 12
       name: receiving_party_city
-      label: City
-      hint: City
+      label: Receiving Party City
+      hint: null
       type: text
       options: []
       required: true
     - id: 13
       name: receiving_party_state
-      label: State
-      hint: State or province
+      label: Receiving Party State
+      hint: null
       type: text
       options: []
       required: true
     - id: 14
       name: receiving_party_phone
-      label: Phone Number
-      hint: Contact phone
+      label: Receiving Party Phone
+      hint: null
       type: text
       options: []
       required: true
     - id: 15
       name: receiving_party_email
-      label: Email Address
-      hint: Contact email
+      label: Receiving Party Email
+      hint: null
       type: email
       options: []
       required: false
     - id: 16
-      name: section_animal_info
-      label: -- Animal Information --
-      hint: Details about the animal
-      type: note
-      options: []
-      required: false
-    - id: 17
       name: animal_name
       label: Animal Name
-      hint: Pet's name
+      hint: null
       type: text
       options: []
       required: true
-    - id: 18
+    - id: 17
       name: animal_species
       label: Species
-      hint: Type of animal
+      hint: null
       type: select_one
       options:
       - Dog
@@ -137,155 +130,82 @@ inputSchema:
       - Exotic Animal
       - Other
       required: true
-    - id: 19
+    - id: 18
       name: animal_breed
       label: Breed
-      hint: Breed or mix
+      hint: null
       type: text
       options: []
       required: false
-    - id: 20
+    - id: 19
       name: animal_age
       label: Age
-      hint: Age of animal
+      hint: null
       type: text
       options: []
       required: true
-    - id: 21
+    - id: 20
       name: animal_gender
       label: Gender
-      hint: Male or female
+      hint: null
       type: select_one
       options:
       - Male
       - Female
       required: true
-    - id: 22
+    - id: 21
       name: animal_color
       label: Color or Markings
-      hint: Physical description
+      hint: null
       type: text
       options: []
       required: false
-    - id: 23
+    - id: 22
       name: animal_weight
       label: Weight
-      hint: Weight in pounds or kilograms
+      hint: null
       type: number
       options: []
       required: false
-    - id: 24
+    - id: 23
       name: animal_microchip
       label: Microchip Number
-      hint: Identification number if applicable
+      hint: null
       type: text
       options: []
       required: false
+    - id: 24
+      name: section_medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
     - id: 25
-      name: animal_photo
-      label: Photo or Identifying Features
-      hint: Description of identifying features
+      name: medical_conditions
+      label: Known Medical Conditions
+      hint: null
       type: text
       options: []
       required: false
     - id: 26
-      name: section_medical_history
-      label: -- Medical History --
-      hint: Health information about animal
-      type: note
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
       options: []
       required: false
     - id: 27
-      name: medical_conditions
-      label: Known Medical Conditions
-      hint: Any health issues
+      name: allergies
+      label: Allergies or Dietary Restrictions
+      hint: null
       type: text
       options: []
       required: false
     - id: 28
-      name: current_medications
-      label: Current Medications
-      hint: Medications being taken
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: allergies
-      label: Allergies or Dietary Restrictions
-      hint: Any known allergies
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: vaccination_status
-      label: Vaccination Status
-      hint: Current vaccination status
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: spay_neuter
-      label: Spay or Neuter Status
-      hint: Whether animal has been spayed or neutered
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      - Unknown
-      required: true
-    - id: 32
-      name: veterinarian_name
-      label: Current Veterinarian Name
-      hint: Name of vet
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: veterinarian_contact
-      label: Veterinarian Contact Information
-      hint: Phone or email
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: section_behavior
-      label: -- Behavioral Information --
-      hint: Behavioral characteristics
-      type: note
-      options: []
-      required: false
-    - id: 35
-      name: behavioral_notes
-      label: Behavioral Notes
-      hint: Temperament and personality
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: known_issues
-      label: Known Behavioral or Medical Issues
-      hint: Any concerns
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: special_care_needs
-      label: Special Care or Training Needs
-      hint: Specific requirements
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: section_transfer_reason
-      label: -- Reason for Transfer --
-      hint: Why animal is being transferred
-      type: note
-      options: []
-      required: false
-    - id: 39
       name: transfer_reason
       label: Reason for Transfer
-      hint: Explanation
+      hint: null
       type: select_one
       options:
       - Adoption
@@ -296,51 +216,79 @@ inputSchema:
       - End of Life Care
       - Other
       required: true
-    - id: 40
+    - id: 29
       name: transfer_reason_details
       label: Additional Details
-      hint: More information about reason
+      hint: null
       type: text
       options: []
       required: false
-    - id: 41
-      name: section_acknowledgment
-      label: -- Acknowledgment and Agreement --
-      hint: Confirmation of transfer
+    - id: 30
+      name: section_behavioral_info
+      label: Behavioral Information
+      hint: null
       type: note
       options: []
       required: false
-    - id: 42
+    - id: 31
+      name: behavioral_notes
+      label: Behavioral Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: known_issues
+      label: Known Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: special_care_needs
+      label: Special Care or Training Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: section_acknowledgment
+      label: Acknowledgment and Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
       name: acknowledge_receipt
       label: Receiving Party Acknowledges Receipt
-      hint: Confirm receipt of animal
+      hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 43
+    - id: 36
       name: acknowledge_condition
       label: Receiving Party Acknowledges Condition
-      hint: Accept animal in current condition
+      hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 44
+    - id: 37
       name: release_transferring_party
       label: Transferring Party Released from Liability
-      hint: Confirm release of responsibility
+      hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 45
+    - id: 38
       name: additional_notes
       label: Additional Notes
-      hint: Any other relevant information
+      hint: null
       type: text
       options: []
       required: false

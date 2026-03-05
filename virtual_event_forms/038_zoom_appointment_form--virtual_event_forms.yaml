@@ -16,10 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Zoom''}'
-      - '{''value'': ''Zoom''}'
-      - '{''value'': ''Other''}'
-      - '{''value'': ''Other''}'
+      - Zoom
+      - Other
       required: false
     - id: 3
       name: participant_info
@@ -27,8 +25,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Participant 1''}'
-      - '{''value'': ''Participant 2''}'
+      - Participant 1
+      - Participant 2
       required: false
     - id: 4
       name: start_time
@@ -64,10 +62,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pay Now''}'
-      - '{''value'': ''Pay Later''}'
-      - '{''value'': ''Other''}'
-      - '{''value'': ''Other''}'
+      - Pay Now
+      - Pay Later
+      - Other
       required: false
     - id: 9
       name: payment_status
@@ -75,10 +72,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Paid''}'
-      - '{''value'': ''Unpaid''}'
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Cancelled''}'
+      - Paid
+      - Unpaid
+      - Pending
+      - Cancelled
       required: false
     - id: 10
       name: participant_role
@@ -86,9 +83,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Host''}'
-      - '{''value'': ''Host''}'
-      - '{''value'': ''Participant''}'
+      - Host
+      - Participant
       required: false
     - id: 11
       name: appointment_status
@@ -96,10 +92,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Scheduled''}'
-      - '{''value'': ''Unavailable''}'
-      - '{''value'': ''Available''}'
-      - '{''value'': ''Cancelled''}'
+      - Scheduled
+      - Unavailable
+      - Available
+      - Cancelled
       required: false
     - id: 12
       name: participant_name

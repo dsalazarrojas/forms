@@ -4,106 +4,97 @@ inputSchema:
     title: unss_functionality_feedback_survey
     pages:
     - id: 1
-      name: intro
-      label: UNSS Functionality Feedback Survey Form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: ratings
-      label: What do you think of the overall functionality of UNSS?
-      hint: null
+      name: introduction
+      label: What is your overall impression of UNSS?
+      hint: Please share your feedback on the functionality of UNSS.
       type: text
       options: []
       required: false
-    - id: 3
-      name: ratings_1_1
-      label: Satisfaction
-      hint: null
+    - id: 2
+      name: satisfaction
+      label: How satisfied are you with UNSS overall?
+      hint: On a scale of 0-10, how satisfied are you with UNSS?
       type: number
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: features_satisfaction_1
+      label: What feature of UNSS do you find most helpful?
+      hint: null
+      type: select_one
+      options:
+      - Very Helpful
+      - Somewhat Helpful
+      - Not Very Helpful
+      - Not at All Helpful
+      required: true
     - id: 4
-      name: ratings_1_2
-      label: Improvement ideas
+      name: areas_for_improvement_1
+      label: What aspect of UNSS would you like to see improved?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: ratings_1_3
-      label: Rating
+      name: satisfaction_2
+      label: How satisfied are you with UNSS feature 2?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 6
-      name: ratings_1_4
-      label: Rating scale
+      name: features_satisfaction_2
+      label: What feature of UNSS 2 would you like to see improved?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very Helpful
+      - Somewhat Helpful
+      - Not Very Helpful
+      - Not at All Helpful
+      required: true
     - id: 7
-      name: ratings_2_1
-      label: Satisfaction
+      name: satisfaction_3
+      label: How satisfied are you with UNSS feature 3?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 8
-      name: ratings_2_2
-      label: Rating
+      name: features_satisfaction_3
+      label: What feature of UNSS 3 would you like to see improved?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very Helpful
+      - Somewhat Helpful
+      - Not Very Helpful
+      - Not at All Helpful
+      required: true
     - id: 9
-      name: ratings_2_3
-      label: Rating scale
+      name: open_ended_feedback_1
+      label: Do you have any additional feedback for UNSS?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: ratings_3_1
-      label: Satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: ratings_3_2
-      label: Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: ratings_3_3
-      label: Rating scale
+      name: open_ended_feedback_2
+      label: Are there any other areas you would like to see improved?
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: ratings_4_1
-      label: Satisfaction
+    - id: 11
+      name: open_ended_feedback_3
+      label: Is there anything that you found particularly useful about UNSS?
       hint: null
-      type: number
+      type: text
       options: []
       required: false
-    - id: 14
-      name: ratings_4_2
-      label: Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: ratings_4_3
-      label: Rating scale
+    - id: 12
+      name: open_ended_feedback_4
+      label: Are there any features that you did not like or found confusing?
       hint: null
       type: text
       options: []

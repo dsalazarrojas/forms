@@ -16,11 +16,11 @@ inputSchema:
       hint: Select a rating from 1-5
       type: select_one
       options:
-      - '{''name'': 1}'
-      - '{''name'': 2}'
-      - '{''name'': 3}'
-      - '{''name'': 4}'
-      - '{''name'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 3
       name: feedback
@@ -79,12 +79,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Fiction''}'
-      - '{''name'': ''Nonfiction''}'
-      - '{''name'': ''Romance''}'
-      - '{''name'': ''Mystery''}'
-      - '{''name'': ''Science Fiction''}'
-      - '{''name'': ''Fantasy''}'
+      - Fiction
+      - Nonfiction
+      - Romance
+      - Mystery
+      - Science Fiction
+      - Fantasy
       required: false
     - id: 11
       name: author

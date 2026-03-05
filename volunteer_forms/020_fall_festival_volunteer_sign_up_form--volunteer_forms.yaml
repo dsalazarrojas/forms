@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Morning'', ''value'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon'', ''value'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening'', ''value'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: true
     - id: 3
       name: volunteer_form_3
@@ -122,14 +122,14 @@ inputSchema:
       required: true
     - id: 17
       name: volunteer_form_17
-      label: Volunteer Availability
+      label: Volunteer Form 17
       hint: null
       type: time
       options: []
       required: true
     - id: 18
       name: volunteer_form_18
-      label: Volunteer Shift
+      label: Volunteer Form 18
       hint: null
       type: select_multiple
       options:
@@ -156,7 +156,7 @@ inputSchema:
       required: false
     - id: 21
       name: volunteer_form_21
-      label: Volunteer Team Member
+      label: Volunteer Form 21
       hint: null
       type: select_multiple
       options:
@@ -172,7 +172,7 @@ inputSchema:
       required: false
     - id: 23
       name: volunteer_form_23
-      label: Volunteer Role
+      label: Volunteer Form 23
       hint: null
       type: text
       options: []

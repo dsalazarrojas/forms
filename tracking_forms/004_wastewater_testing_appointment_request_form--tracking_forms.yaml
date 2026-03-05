@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '[{''id'': 1, ''value'': ''Water sample'', ''label'': ''Water sample''}]'
-      - '[{''id'': 2, ''value'': ''Wastewater sample'', ''label'': ''Wastewater sample''}]'
-      - '[{''id'': 3, ''value'': ''Stormwater sample'', ''label'': ''Stormwater sample''}]'
-      - '[{''id'': 4, ''value'': ''Other'', ''label'': ''Other''}]'
+      - Water sample
+      - Wastewater sample
+      - Stormwater sample
+      - Other
       required: false
     - id: 7
       name: testing_location
@@ -55,10 +55,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '[{''id'': 1, ''value'': ''Lab'', ''label'': ''Lab''}]'
-      - '[{''id'': 2, ''value'': ''Remote'', ''label'': ''Remote''}]'
-      - '[{''id'': 3, ''value'': ''Field'', ''label'': ''Field''}]'
-      - '[{''id'': 4, ''value'': ''Other'', ''label'': ''Other''}]'
+      - Lab
+      - Remote
+      - Field
+      - Other
       required: false
     - id: 8
       name: testing_frequency
@@ -66,10 +66,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '[{''id'': 1, ''value'': ''once'', ''label'': ''once''}]'
-      - '[{''id'': 2, ''value'': ''daily'', ''label'': ''daily''}]'
-      - '[{''id'': 3, ''value'': ''weekly'', ''label'': ''weekly''}]'
-      - '[{''id'': 4, ''value'': ''monthly'', ''label'': ''monthly''}]'
+      - once
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 9
       name: testing_method
@@ -77,10 +77,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '[{''id'': 1, ''value'': ''Laboratory Testing'', ''label'': ''Laboratory Testing''}]'
-      - '[{''id'': 2, ''value'': ''Onsite Testing'', ''label'': ''Onsite Testing''}]'
-      - '[{''id'': 3, ''value'': ''Field Testing'', ''label'': ''Field Testing''}]'
-      - '[{''id'': 4, ''value'': ''Other'', ''label'': ''Other''}]'
+      - Laboratory Testing
+      - Onsite Testing
+      - Field Testing
+      - Other
       required: false
     - id: 10
       name: testing_frequency_comments
@@ -158,9 +158,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '[{''id'': 1, ''value'': ''Phone'', ''label'': ''Phone''}]'
-      - '[{''id'': 2, ''value'': ''Email'', ''label'': ''Email''}]'
-      - '[{''id'': 3, ''value'': ''Other'', ''label'': ''Other''}]'
+      - Phone
+      - Email
+      - Other
       required: false
     - id: 21
       name: other_contact_method
@@ -182,8 +182,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '[{''id'': 1, ''value'': ''chatjimmy'', ''label'': ''chatjimmy''}]'
-      - '[{''id'': 2, ''value'': ''other'', ''label'': ''other''}]'
+      - chatjimmy
+      - other
       required: false
     - id: 24
       name: assigned_to_comments

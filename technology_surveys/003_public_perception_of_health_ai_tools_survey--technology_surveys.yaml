@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Developer'', ''value'': ''1''}'
-      - '{''id'': 2, ''text'': ''Manager'', ''value'': ''2''}'
-      - '{''id'': 3, ''text'': ''Data Scientist'', ''value'': ''3''}'
+      - '1'
+      - '2'
+      - '3'
       required: true
     - id: 3
       name: question_2
@@ -26,8 +26,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True, ''value'': ''yes''}'
-      - '{''id'': 2, ''text'': False, ''value'': ''no''}'
+      - 'yes'
+      - 'no'
       required: false
     - id: 4
       name: question_3
@@ -35,10 +35,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Daily'', ''value'': ''daily''}'
-      - '{''id'': 2, ''text'': ''Weekly'', ''value'': ''weekly''}'
-      - '{''id'': 3, ''text'': ''Monthly'', ''value'': ''monthly''}'
-      - '{''id'': 4, ''text'': ''Rarely'', ''value'': ''rarely''}'
+      - daily
+      - weekly
+      - monthly
+      - rarely
       required: true
     - id: 5
       name: question_4
@@ -53,11 +53,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Data Analysis'', ''value'': ''1''}'
-      - '{''id'': 2, ''text'': ''Predictive Modeling'', ''value'': ''2''}'
-      - '{''id'': 3, ''text'': ''Personalized Medicine'', ''value'': ''3''}'
-      - '{''id'': 4, ''text'': ''Other (please specify)'', ''value'': ''4''}'
-      - '{''id'': 5, ''text'': ''None'', ''value'': ''5''}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 7
       name: question_6
@@ -65,11 +65,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Very accurate'', ''value'': ''1''}'
-      - '{''id'': 2, ''text'': ''Somewhat accurate'', ''value'': ''2''}'
-      - '{''id'': 3, ''text'': ''Not very accurate'', ''value'': ''3''}'
-      - '{''id'': 4, ''text'': ''Not at all accurate'', ''value'': ''4''}'
-      - '{''id'': 5, ''text'': ''Unsure'', ''value'': ''5''}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 8
       name: question_7
@@ -77,11 +77,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Very easy'', ''value'': ''1''}'
-      - '{''id'': 2, ''text'': ''Somewhat easy'', ''value'': ''2''}'
-      - '{''id'': 3, ''text'': ''Not very easy'', ''value'': ''3''}'
-      - '{''id'': 4, ''text'': ''Not at all easy'', ''value'': ''4''}'
-      - '{''id'': 5, ''text'': ''Unsure'', ''value'': ''5''}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 9
       name: question_8
@@ -89,8 +89,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': True, ''value'': ''yes''}'
-      - '{''id'': 2, ''text'': False, ''value'': ''no''}'
+      - 'yes'
+      - 'no'
       required: false
     - id: 10
       name: question_9
@@ -98,10 +98,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Improved accuracy'', ''value'': ''1''}'
-      - '{''id'': 2, ''text'': ''Enhanced features'', ''value'': ''2''}'
-      - '{''id'': 3, ''text'': ''Increased efficiency'', ''value'': ''3''}'
-      - '{''id'': 4, ''text'': ''Personalized recommendations'', ''value'': ''4''}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 11
       name: note

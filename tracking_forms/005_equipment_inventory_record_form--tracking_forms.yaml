@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Sold''}'
-      - '{''id'': 3, ''label'': ''Offline''}'
+      - Active
+      - Sold
+      - Offline
       required: true
     - id: 3
       name: asset_location
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Floor 1''}'
-      - '{''id'': 2, ''label'': ''Warehouse''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Floor 1
+      - Warehouse
+      - Other
       required: true
     - id: 4
       name: last_maintenance_date

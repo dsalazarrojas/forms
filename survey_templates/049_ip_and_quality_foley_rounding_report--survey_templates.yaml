@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''N/A''}'
-      - '{''value'': ''Catheter placement''}'
-      - '{''value'': ''Catheter removal''}'
-      - '{''value'': ''Other''}'
+      - N/A
+      - Catheter placement
+      - Catheter removal
+      - Other
       required: true
     - id: 7
       name: reason_for_quality_round
@@ -55,10 +55,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''N/A''}'
-      - '{''value'': ''Foley removal''}'
-      - '{''value'': ''Foley adjustment''}'
-      - '{''value'': ''Other''}'
+      - N/A
+      - Foley removal
+      - Foley adjustment
+      - Other
       required: true
     - id: 8
       name: support_needed
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 13
       name: notes

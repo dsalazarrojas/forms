@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''QA''}'
-      - '{''value'': ''Engineering''}'
-      - '{''value'': ''Lab''}'
+      - QA
+      - Engineering
+      - Lab
       required: true
     - id: 5
       name: shift
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''A''}'
-      - '{''value'': ''B''}'
-      - '{''value'': ''C''}'
+      - A
+      - B
+      - C
       required: false
     - id: 6
       name: date
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''bug''}'
-      - '{''value'': ''other''}'
+      - bug
+      - other
       required: true
     - id: 10
       name: issue_description
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''resolved''}'
-      - '{''value'': ''not resolved''}'
-      - '{''value'': ''pending''}'
+      - resolved
+      - not resolved
+      - pending
       required: true
     - id: 12
       name: feedback
@@ -111,8 +111,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''yes''}'
-      - '{''value'': ''no''}'
+      - 'yes'
+      - 'no'
       required: false
     - id: 15
       name: reviewer

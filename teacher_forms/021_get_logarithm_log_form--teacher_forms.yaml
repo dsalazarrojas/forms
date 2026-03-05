@@ -4,61 +4,94 @@ inputSchema:
     title: Get Logarithm (log) Form
     pages:
     - id: 1
-      name: base_number
-      label: base_number
-      hint: null
+      name: base_number_input
+      label: What is the base number?
+      hint: Enter the base number
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
-      name: exponent_number
-      label: exponent_number
-      hint: null
+      name: exponent_number_input
+      label: What is the exponent number?
+      hint: Enter the exponent number
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: logarithm_result
-      label: logarithm_result
+      name: logarithm_result_text
+      label: What is the result of the logarithm?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: logarithm_base
-      label: logarithm_base
+      name: base_select_one
+      label: What base are you using?
       hint: null
       type: select_one
       options:
       - '2'
       - '10'
-      - natural
+      - Natural
       required: true
     - id: 5
-      name: logarithm_result
-      label: logarithm_result
+      name: logarithm_base_select_one
+      label: What is the logarithm base?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - '2'
+      - '10'
+      - Natural
+      required: true
     - id: 6
-      name: logarithm_result
-      label: logarithm_result
+      name: is_result_correct
+      label: Is the result correct?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 7
-      name: logarithm_result
-      label: logarithm_result
+      name: logarithm_result_note
+      label: Logarithm Result Note
       hint: null
-      type: text
+      type: note
       options: []
-      required: false
+      required: true
     - id: 8
-      name: logarithm_result
-      label: logarithm_result
+      name: base_logarithm_input
+      label: What is the base of the logarithm?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: exponentiation_input
+      label: What is the result of the exponentiation?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: logarithm_result_text_2
+      label: Logarithm Result Text 2
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 11
+      name: exponentiation_input_2
+      label: Exponentiation Input 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: logarithm_result_text_3
+      label: Logarithm Result Text 3
+      hint: null
+      type: text
+      options: []
+      required: true

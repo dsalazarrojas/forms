@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Miami''}'
-      - '{''id'': 2, ''value'': ''New Orleans''}'
-      - '{''id'': 3, ''value'': ''New York''}'
+      - Miami
+      - New Orleans
+      - New York
       required: false
     - id: 3
       name: duration
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Shirts''}'
-      - '{''id'': 2, ''value'': ''Pants''}'
-      - '{''id'': 3, ''value'': ''Socks''}'
+      - Shirts
+      - Pants
+      - Socks
       required: false
     - id: 6
       name: travel_docs
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Passport''}'
-      - '{''id'': 2, ''value'': ''ID Card''}'
-      - '{''id'': 3, ''value'': ''Credit Card''}'
+      - Passport
+      - ID Card
+      - Credit Card
       required: false
     - id: 7
       name: flight_info
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Departure''}'
-      - '{''id'': 2, ''value'': ''Arrival''}'
-      - '{''id'': 3, ''value'': ''Flight Number''}'
+      - Departure
+      - Arrival
+      - Flight Number
       required: false
     - id: 8
       name: hotel_info
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Name''}'
-      - '{''id'': 2, ''value'': ''Address''}'
-      - '{''id'': 3, ''value'': ''Phone''}'
+      - Name
+      - Address
+      - Phone
       required: false
     - id: 9
       name: car_rental
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: travel_agents
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''John''}'
-      - '{''id'': 2, ''value'': ''Jane''}'
-      - '{''id'': 3, ''value'': ''Joe''}'
+      - John
+      - Jane
+      - Joe
       required: false
     - id: 11
       name: comments

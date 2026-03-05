@@ -44,12 +44,9 @@ inputSchema:
       hint: For pricing and seating
       type: select_one
       options:
-      - label: Under 2 years - Free Entry
-        value: infant
-      - label: 2 to 12 years - Child Rate
-        value: child
-      - label: 13 to 17 years - Junior Rate
-        value: junior
+      - Under 2 years - Free Entry
+      - 2 to 12 years - Child Rate
+      - 13 to 17 years - Junior Rate
       required: true
     - id: 7
       name: section_specific_needs
@@ -64,10 +61,8 @@ inputSchema:
       hint: For wheelchairs or limited mobility
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: stroller_access_status
@@ -75,10 +70,8 @@ inputSchema:
       hint: Helps with venue planning
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: section_contact_delivery

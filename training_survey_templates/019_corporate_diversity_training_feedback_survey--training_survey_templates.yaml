@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Unconscious bias''}'
-      - '{''value'': 2, ''label'': ''Microaggressions''}'
-      - '{''value'': 3, ''label'': ''Implicit bias''}'
-      - '{''value'': 4, ''label'': ''Other''}'
+      - Unconscious bias
+      - Microaggressions
+      - Implicit bias
+      - Other
       required: true
     - id: 3
       name: feedback
@@ -41,8 +41,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: manager_name

@@ -18,10 +18,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Daily''}'
-      - '{''text'': ''Weekly''}'
-      - '{''text'': ''Monthly''}'
-      - '{''text'': ''Yearly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
       required: false
     - id: 3
       name: content_type
@@ -29,11 +29,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Images''}'
-      - '{''text'': ''Videos''}'
-      - '{''text'': ''Audio''}'
-      - '{''text'': ''Text''}'
-      - '{''text'': ''Mix''}'
+      - Images
+      - Videos
+      - Audio
+      - Text
+      - Mix
       required: false
     - id: 4
       name: frequency_create
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Daily''}'
-      - '{''text'': ''Weekly''}'
-      - '{''text'': ''Monthly''}'
-      - '{''text'': ''Yearly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
       required: false
     - id: 5
       name: desired_features
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Daily''}'
-      - '{''text'': ''Weekly''}'
-      - '{''text'': ''Monthly''}'
-      - '{''text'': ''Yearly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
       required: false
     - id: 7
       name: frequency_learn
@@ -72,10 +72,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Daily''}'
-      - '{''text'': ''Weekly''}'
-      - '{''text'': ''Monthly''}'
-      - '{''text'': ''Yearly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
       required: false
     - id: 8
       name: content_type_other
@@ -86,7 +86,7 @@ inputSchema:
       required: false
     - id: 9
       name: platform_other
-      label: Other
+      label: Platform Other
       hint: Specify other platforms
       type: text
       options: []
@@ -97,10 +97,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Anki''}'
-      - '{''text'': ''Quizlet''}'
-      - '{''text'': ''AnkiDroid''}'
-      - '{''text'': ''None''}'
+      - Anki
+      - Quizlet
+      - AnkiDroid
+      - None
       required: false
     - id: 11
       name: content_types
@@ -108,15 +108,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Vocab''}'
-      - '{''text'': ''Grammar''}'
-      - '{''text'': ''Idioms''}'
-      - '{''text'': ''Formula''}'
-      - '{''text'': ''None''}'
+      - Vocab
+      - Grammar
+      - Idioms
+      - Formula
+      - None
       required: false
     - id: 12
       name: content_other
-      label: Other
+      label: Content Other
       hint: Specify other types of content
       type: text
       options: []
@@ -150,7 +150,7 @@ inputSchema:
       required: false
     - id: 16
       name: frequency_use_other
-      label: Other
+      label: Frequency Use Other
       hint: Specify how often do you use other platforms
       type: text
       options: []

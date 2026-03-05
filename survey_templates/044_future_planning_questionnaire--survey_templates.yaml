@@ -15,204 +15,139 @@ inputSchema:
     title: future_planning_questionnaire
     pages:
     - id: 1
-      name: future_planning_questionnaire
-      label: future_planning_questionnaire
+      name: future_goal_questionnaire
+      label: future goals
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 2
-      name: future_planning_questionnaire_section1
-      label: what_are_your_future_goals
+      name: current_goals_question
+      label: current goals
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: future_planning_questionnaire_section2
-      label: goals_and_objectives
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 4
-      name: date_of_goal
-      label: date_of_goal
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
-      name: description_of_goal
-      label: description_of_goal
+      name: short_term_goal_description
+      label: short-term goals description
       hint: null
       type: note
       options: []
       required: false
-    - id: 6
-      name: goal_1
-      label: goal_1
+    - id: 4
+      name: long_term_goal_description
+      label: long-term goals description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: planning_style_question
+      label: planning style
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 6
+      name: current_planning_method_question
+      label: current planning method
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 7
-      name: goal_2
-      label: goal_2
+      name: current_skills_question
+      label: current skills
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
+      type: text
+      options: []
       required: false
     - id: 8
-      name: goal_3
-      label: goal_3
+      name: future_skills_question
+      label: future skills
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
+      type: text
+      options: []
       required: false
     - id: 9
-      name: goal_4
-      label: goal_4
+      name: time_management_question
+      label: time management
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
-      name: goal_5
-      label: goal_5
+      name: priorities_question
+      label: priorities
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
+      type: text
+      options: []
       required: false
     - id: 11
-      name: goal_6
-      label: goal_6
+      name: next_steps_question
+      label: next steps
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
+      type: text
+      options: []
       required: false
     - id: 12
-      name: goal_7
-      label: goal_7
+      name: reflection_question
+      label: reflection
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
+      type: note
+      options: []
       required: false
     - id: 13
-      name: goal_8
-      label: goal_8
+      name: values_question
+      label: values
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
+      type: text
+      options: []
       required: false
     - id: 14
-      name: goal_9
-      label: goal_9
+      name: hobby_activity_question
+      label: hobby activity
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 15
-      name: goal_10
-      label: goal_10
+      name: future_planning_questionnaire_section1_hint
+      label: Future Planning Questionnaire Section1 Hint
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
+      type: text
+      options: []
       required: false
     - id: 16
-      name: future_planning_questionnaire_section1_hint
-      label: what_are_your_current_goals
+      name: future_planning_questionnaire_section2_hint
+      label: Future Planning Questionnaire Section2 Hint
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: future_planning_questionnaire_section2_hint
-      label: what_are_your_values
+      name: future_planning_questionnaire_section3_hint
+      label: Future Planning Questionnaire Section3 Hint
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: future_planning_questionnaire_section3_hint
-      label: what_are_your_values
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
       name: future_planning_questionnaire_section4_hint
-      label: what_are_your_current_skills
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: future_planning_questionnaire_section5_hint
-      label: what_are_your_current_skills
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: future_planning_questionnaire_section6_hint
-      label: what_are_your_future_planning_style
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 22
-      name: future_planning_questionnaire_section7_hint
-      label: what_are_your_current_planning_method
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: future_planning_questionnaire_section8_hint
-      label: what_are_your_future_planning_method
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: future_planning_questionnaire_section9_hint
-      label: what_are_your_future_planning_method
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: future_planning_questionnaire_section10_hint
-      label: what_are_your_future_planning_method
+      label: Future Planning Questionnaire Section4 Hint
       hint: null
       type: text
       options: []

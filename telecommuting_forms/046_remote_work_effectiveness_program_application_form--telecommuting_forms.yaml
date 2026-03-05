@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Engineering''}'
-      - '{''id'': 2, ''label'': ''Finance''}'
-      - '{''id'': 3, ''label'': ''Marketing''}'
+      - Engineering
+      - Finance
+      - Marketing
       required: false
     - id: 4
       name: work_location
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Home office''}'
-      - '{''id'': 2, ''label'': ''Client site''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Home office
+      - Client site
+      - Other
       required: false
     - id: 5
       name: hours_worked_per_week
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Flexible''}'
-      - '{''id'': 2, ''label'': ''Part-time''}'
-      - '{''id'': 3, ''label'': ''Full-time''}'
+      - Flexible
+      - Part-time
+      - Full-time
       required: false
     - id: 9
       name: reason_for_request
@@ -137,8 +137,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approved''}'
-      - '{''id'': 2, ''label'': ''Denied''}'
+      - Approved
+      - Denied
       required: false
     - id: 19
       name: submission_date

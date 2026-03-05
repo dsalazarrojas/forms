@@ -4,30 +4,47 @@ inputSchema:
     title: Family Reunion T-Shirt Order Form
     pages:
     - id: 1
-      name: family_reunion_t_shirt_order_form
-      label: family_reunion_t_shirt_order_form
+      name: family_reunion_name
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: family_reunion_t_shirt_order_form
-      label: family_reunion_t_shirt_order_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: family_reunion_t_shirt_order_form
-      label: family_reunion_t_shirt_order_form
+      name: t_shirt_quantity
+      label: How many t-shirts do you need?
       hint: null
       type: number
       options: []
       required: true
-    - id: 4
-      name: family_reunion_t_shirt_order_form
-      label: family_reunion_t_shirt_order_form
+    - id: 3
+      name: email_address
+      label: What is your email address?
       hint: null
       type: text
       options: []
       required: true
+    - id: 4
+      name: reunion_date
+      label: When is the family reunion?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: What is your phone number?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: attendance_plan
+      label: How do you plan to attend the family reunion?
+      hint: null
+      type: select_one
+      options:
+      - In person
+      - Virtual
+      - Unable to attend
+      required: false

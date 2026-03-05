@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Highway''}'
-      - '{''value'': ''Railway''}'
-      - '{''value'': ''Waterway''}'
+      - Highway
+      - Railway
+      - Waterway
       required: false
     - id: 5
       name: distance
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Logistics''}'
-      - '{''value'': ''Operations''}'
-      - '{''value'': ''Management''}'
+      - Logistics
+      - Operations
+      - Management
       required: false
     - id: 10
       name: improvement_recommendations
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Traffic Jam''}'
-      - '{''value'': ''Weather Conditions''}'
-      - '{''value'': ''Road Conditions''}'
+      - Traffic Jam
+      - Weather Conditions
+      - Road Conditions
       required: false
     - id: 14
       name: route_issues_date
@@ -123,8 +123,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: route_affected_reason
@@ -139,9 +139,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Cancelled''}'
+      - Active
+      - Inactive
+      - Cancelled
       required: false
     - id: 19
       name: transport_id
@@ -163,9 +163,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Trucking''}'
-      - '{''value'': ''Rail''}'
-      - '{''value'': ''Ship''}'
+      - Trucking
+      - Rail
+      - Ship
       required: false
     - id: 22
       name: transport_number

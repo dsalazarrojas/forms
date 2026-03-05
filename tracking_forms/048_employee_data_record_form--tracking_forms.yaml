@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Software Engineer''}'
-      - '{''id'': 2, ''name'': ''Data Scientist''}'
-      - '{''id'': 3, ''name'': ''Manager''}'
+      - Software Engineer
+      - Data Scientist
+      - Manager
       required: false
     - id: 4
       name: job_role
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Software Development''}'
-      - '{''id'': 2, ''name'': ''Data Analysis''}'
-      - '{''id'': 3, ''name'': ''Project Management''}'
+      - Software Development
+      - Data Analysis
+      - Project Management
       required: false
     - id: 5
       name: department
@@ -71,7 +71,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
-      - '{''id'': 3, ''name'': ''Resigned''}'
+      - Active
+      - Inactive
+      - Resigned
       required: false

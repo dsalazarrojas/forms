@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Primary''}'
-      - '{''label'': ''Secondary''}'
-      - '{''label'': ''Tertiary''}'
+      - Primary
+      - Secondary
+      - Tertiary
       required: false
     - id: 5
       name: relationship_type
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Family''}'
-      - '{''label'': ''Friend''}'
-      - '{''label'': ''Other''}'
+      - Family
+      - Friend
+      - Other
       required: false
     - id: 6
       name: relationship_depth
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Shallow''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Deep''}'
+      - Shallow
+      - Medium
+      - Deep
       required: false
     - id: 7
       name: primary_contact
@@ -60,12 +60,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Mother''}'
-      - '{''label'': ''Father''}'
-      - '{''label'': ''Brother''}'
-      - '{''label'': ''Sister''}'
-      - '{''label'': ''Partner''}'
-      - '{''label'': ''Other''}'
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Partner
+      - Other
       required: false
     - id: 8
       name: secondary_contact
@@ -73,12 +73,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Father''}'
-      - '{''label'': ''Mother''}'
-      - '{''label'': ''Brother''}'
-      - '{''label'': ''Sister''}'
-      - '{''label'': ''Partner''}'
-      - '{''label'': ''Other''}'
+      - Father
+      - Mother
+      - Brother
+      - Sister
+      - Partner
+      - Other
       required: false
     - id: 9
       name: support_level
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Emotional''}'
-      - '{''label'': ''Financial''}'
-      - '{''label'': ''Practical''}'
+      - Emotional
+      - Financial
+      - Practical
       required: false
     - id: 10
       name: support_source
@@ -96,10 +96,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Family''}'
-      - '{''label'': ''Friend''}'
-      - '{''label'': ''Community''}'
-      - '{''label'': ''Other''}'
+      - Family
+      - Friend
+      - Community
+      - Other
       required: false
     - id: 11
       name: support_level_other
@@ -114,10 +114,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Rare''}'
-      - '{''label'': ''Occasional''}'
-      - '{''label'': ''Often''}'
-      - '{''label'': ''Frequently''}'
+      - Rare
+      - Occasional
+      - Often
+      - Frequently
       required: false
     - id: 13
       name: support_type
@@ -125,9 +125,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Emotional''}'
-      - '{''label'': ''Financial''}'
-      - '{''label'': ''Practical''}'
+      - Emotional
+      - Financial
+      - Practical
       required: false
     - id: 14
       name: support_type_other
@@ -142,9 +142,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 16
       name: support_system_other

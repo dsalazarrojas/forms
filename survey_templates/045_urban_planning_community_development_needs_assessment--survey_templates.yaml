@@ -4,205 +4,99 @@ inputSchema:
     title: Urban Planning Community Development Needs Assessment
     pages:
     - id: 1
-      name: resident_feedback
-      label: Resident Feedback
+      name: community_infrastructure
+      label: Overall Condition of Community Infrastructure
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 2
-      name: priority_improvement_1
-      label: What is the one thing that would have the most significant positive impact
+      name: community_resources
+      label: Community Resources
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: priority_improvement_2
-      label: What is the one thing that would have the most significant negative impact
+      name: public_services
+      label: Quality of Public Services
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 4
-      name: priority_improvement_3
-      label: What is the one thing that would have the most significant positive impact
+      name: priority_improvement_1
+      label: First Priority Improvement
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - Improve Road Conditions
+      - Enhance Public Transportation
+      - Increase Access to Parks
+      - Enhance Public Spaces
       required: false
     - id: 5
-      name: priority_improvement_4
-      label: What is the one thing that would have the most significant positive impact
+      name: priority_improvement_2
+      label: Second Priority Improvement
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - Improve Public Healthcare
+      - Enhance Education System
+      - Increase Public Safety
+      - Support Community Events
       required: false
     - id: 6
-      name: priority_improvement_5
-      label: What is the one thing that would have the most significant positive impact
+      name: priority_improvement_3
+      label: Third Priority Improvement
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - Improve Public Transportation
+      - Enhance Public Spaces
+      - Increase Community Engagement
+      - Support Local Businesses
       required: false
     - id: 7
-      name: priority_improvement_6
-      label: What is the one thing that would have the most significant positive impact
+      name: additional_feedback
+      label: Additional Feedback
       hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      type: text
+      options: []
       required: false
     - id: 8
-      name: priority_improvement_7
-      label: What is the one thing that would have the most significant positive impact
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: false
-    - id: 9
-      name: community_resource_1
-      label: What community resources would be beneficial
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: community_resource_2
-      label: What community resources would be beneficial
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: community_resource_3
-      label: What community resources would be beneficial
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: community_resource_4
-      label: What community resources would be beneficial
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: community_resource_5
-      label: What community resources would be beneficial
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: community_resource_6
-      label: What community resources would be beneficial
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: community_resource_7
-      label: What community resources would be beneficial
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: community_resource_8
-      label: What community resources would be beneficial
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: community_resource_9
-      label: What community resources would be beneficial
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: community_resource_10
-      label: What community resources would be beneficial
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: additional_feedback
-      label: Do you have any other comments or feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
       name: survey_submitter
-      label: How did you come across this survey
+      label: How Did You Come Across This Survey?
       hint: null
       type: select_one
       options:
       - Website
       - Social Media
-      - Word of mouth
+      - Word of Mouth
       - Other
       required: false
-    - id: 21
+    - id: 9
       name: contact_info
-      label: Your contact info
+      label: Contact Info
       hint: null
       type: text
       options: []
       required: false
-    - id: 22
-      name: survey_submitter_name
-      label: Your Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
+    - id: 10
       name: contact_email
       label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 24
+    - id: 11
       name: contact_phone
       label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 25
+    - id: 12
       name: submit
       label: Submit
       hint: null

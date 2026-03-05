@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option1'': ''7 days''}'
-      - '{''option2'': ''14 days''}'
-      - '{''option2'': ''21 days''}'
-      - '{''option3'': ''30 days''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 10
       name: payment_method
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option1'': ''Bank transfer''}'
-      - '{''option2'': ''Check''}'
-      - '{''option3'': ''Credit card''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 11
       name: payment_frequency
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option1'': ''One-time''}'
-      - '{''option2'': ''Ongoing''}'
+      - Option 1
+      - Option 2
       required: true
     - id: 12
       name: cancellation_policy
@@ -95,10 +95,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option1'': ''24 hours prior''}'
-      - '{''option2'': ''72 hours prior''}'
-      - '{''option2'': ''48 hours prior''}'
-      - '{''option3'': ''30 days prior''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: true
     - id: 13
       name: cancellation_fees
@@ -169,8 +169,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option1'': True}'
-      - '{''option2'': False}'
+      - Option 1
+      - Option 2
       required: true
     - id: 23
       name: payment_terms_notes

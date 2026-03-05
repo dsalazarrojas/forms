@@ -1,283 +1,272 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cleaning Routine Tracking Form
     pages:
-      - id: 1
-        name: section_header_facility
-        label: -- Facility Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: facility_name
-        label: Facility Name
-        hint: Name of the building or facility
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: facility_location
-        label: Facility Location
-        hint: Address or location identifier
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: facility_manager
-        label: Facility Manager
-        hint: Name of the person responsible
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: section_header_tracking
-        label: -- Daily Tracking --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: tracking_date
-        label: Tracking Date
-        hint: Date of cleaning activities
-        type: date
-        options: []
-        required: true
-      - id: 7
-        name: shift_period
-        label: Shift Period
-        hint: Morning, afternoon, or evening shift
-        type: select_one
-        options:
-          - Morning (6 AM - 2 PM)
-          - Afternoon (2 PM - 10 PM)
-          - Evening (10 PM - 6 AM)
-          - All Day
-        required: true
-      - id: 8
-        name: cleaning_staff
-        label: Cleaning Staff Member(s)
-        hint: Names of staff assigned
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: supervisor
-        label: Shift Supervisor
-        hint: Name of supervising person
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: section_header_areas
-        label: -- Areas Cleaned --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: entryway_cleaned
-        label: Entryway and Lobby
-        hint: null
-        type: select_one
-        options:
-          - Yes - Complete
-          - Yes - Partial
-          - No
-          - Not Applicable
-        required: true
-      - id: 12
-        name: restrooms_cleaned
-        label: Restrooms
-        hint: null
-        type: select_one
-        options:
-          - Yes - Complete
-          - Yes - Partial
-          - No
-          - Not Applicable
-        required: true
-      - id: 13
-        name: break_room_cleaned
-        label: Break/Rest Room
-        hint: null
-        type: select_one
-        options:
-          - Yes - Complete
-          - Yes - Partial
-          - No
-          - Not Applicable
-        required: true
-      - id: 14
-        name: offices_cleaned
-        label: Office Areas
-        hint: null
-        type: select_one
-        options:
-          - Yes - Complete
-          - Yes - Partial
-          - No
-          - Not Applicable
-        required: true
-      - id: 15
-        name: conference_rooms_cleaned
-        label: Conference/Meeting Rooms
-        hint: null
-        type: select_one
-        options:
-          - Yes - Complete
-          - Yes - Partial
-          - No
-          - Not Applicable
-        required: true
-      - id: 16
-        name: hallways_cleaned
-        label: Hallways and Corridors
-        hint: null
-        type: select_one
-        options:
-          - Yes - Complete
-          - Yes - Partial
-          - No
-          - Not Applicable
-        required: true
-      - id: 17
-        name: common_areas_cleaned
-        label: Common Areas
-        hint: null
-        type: select_one
-        options:
-          - Yes - Complete
-          - Yes - Partial
-          - No
-          - Not Applicable
-        required: true
-      - id: 18
-        name: trash_emptied
-        label: Trash Emptied and Replaced
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - Partial
-          - No
-        required: true
-      - id: 19
-        name: section_header_tasks
-        label: -- Specific Tasks Completed --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 20
-        name: floors_swept_mopped
-        label: Floors - Swept and mopped
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - Partial
-          - No
-        required: true
-      - id: 21
-        name: surfaces_dusted
-        label: Surfaces - Dusted and wiped
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - Partial
-          - No
-        required: true
-      - id: 22
-        name: windows_cleaned
-        label: Windows - Cleaned
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - Partial
-          - No
-          - Not Applicable
-        required: true
-      - id: 23
-        name: carpets_vacuumed
-        label: Carpets - Vacuumed
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - Partial
-          - No
-          - Not Applicable
-        required: true
-      - id: 24
-        name: bathrooms_sanitized
-        label: Bathrooms - Sanitized
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - Partial
-          - No
-        required: true
-      - id: 25
-        name: section_header_observations
-        label: -- Observations and Issues --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 26
-        name: issues_encountered
-        label: Issues Encountered During Cleaning
-        hint: Describe any problems
-        type: text
-        options: []
-        required: false
-      - id: 27
-        name: maintenance_needed
-        label: Maintenance or Repairs Needed
-        hint: Any broken equipment or damage?
-        type: text
-        options: []
-        required: false
-      - id: 28
-        name: supplies_needed
-        label: Supplies That Need Restocking
-        hint: What supplies are low?
-        type: text
-        options: []
-        required: false
-      - id: 29
-        name: quality_rating
-        label: Overall Cleaning Quality Rating
-        hint: How well was the cleaning done?
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 30
-        name: comments
-        label: Additional Comments
-        hint: Any other observations or notes
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: section_header_facility
+      label: -- Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: Name of the building or facility
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_location
+      label: Facility Location
+      hint: Address or location identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_manager
+      label: Facility Manager
+      hint: Name of the person responsible
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_tracking
+      label: -- Daily Tracking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: tracking_date
+      label: Tracking Date
+      hint: Date of cleaning activities
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: shift_period
+      label: Shift Period
+      hint: Morning, afternoon, or evening shift
+      type: select_one
+      options:
+      - Morning (6 AM - 2 PM)
+      - Afternoon (2 PM - 10 PM)
+      - Evening (10 PM - 6 AM)
+      - All Day
+      required: true
+    - id: 8
+      name: cleaning_staff
+      label: Cleaning Staff Member(s)
+      hint: Names of staff assigned
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supervisor
+      label: Shift Supervisor
+      hint: Name of supervising person
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_areas
+      label: -- Areas Cleaned --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: entryway_cleaned
+      label: Entryway and Lobby
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete
+      - Yes - Partial
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 12
+      name: restrooms_cleaned
+      label: Restrooms
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete
+      - Yes - Partial
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 13
+      name: break_room_cleaned
+      label: Break/Rest Room
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete
+      - Yes - Partial
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 14
+      name: offices_cleaned
+      label: Office Areas
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete
+      - Yes - Partial
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 15
+      name: conference_rooms_cleaned
+      label: Conference/Meeting Rooms
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete
+      - Yes - Partial
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 16
+      name: hallways_cleaned
+      label: Hallways and Corridors
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete
+      - Yes - Partial
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 17
+      name: common_areas_cleaned
+      label: Common Areas
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete
+      - Yes - Partial
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 18
+      name: trash_emptied
+      label: Trash Emptied and Replaced
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - Partial
+      - 'False'
+      required: true
+    - id: 19
+      name: section_header_tasks
+      label: -- Specific Tasks Completed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: floors_swept_mopped
+      label: Floors - Swept and mopped
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - Partial
+      - 'False'
+      required: true
+    - id: 21
+      name: surfaces_dusted
+      label: Surfaces - Dusted and wiped
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - Partial
+      - 'False'
+      required: true
+    - id: 22
+      name: windows_cleaned
+      label: Windows - Cleaned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - Partial
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 23
+      name: carpets_vacuumed
+      label: Carpets - Vacuumed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - Partial
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 24
+      name: bathrooms_sanitized
+      label: Bathrooms - Sanitized
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - Partial
+      - 'False'
+      required: true
+    - id: 25
+      name: section_header_observations
+      label: -- Observations and Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: issues_encountered
+      label: Issues Encountered During Cleaning
+      hint: Describe any problems
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: maintenance_needed
+      label: Maintenance or Repairs Needed
+      hint: Any broken equipment or damage?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: supplies_needed
+      label: Supplies That Need Restocking
+      hint: What supplies are low?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: quality_rating
+      label: Overall Cleaning Quality Rating
+      hint: How well was the cleaning done?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 30
+      name: comments
+      label: Additional Comments
+      hint: Any other observations or notes
+      type: text
+      options: []
+      required: false

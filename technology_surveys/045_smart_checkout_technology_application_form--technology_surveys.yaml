@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_likely'', ''label'': ''very_likely''}'
-      - '{''value'': ''somewhat_likely'', ''label'': ''somewhat_likely''}'
-      - '{''value'': ''not_likely'', ''label'': ''not_likely''}'
+      - very likely
+      - somewhat likely
+      - not likely
       required: false
     - id: 3
       name: rollout_timing
@@ -33,8 +33,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''operational_needs_1'', ''label'': ''operational_needs_1''}'
-      - '{''value'': ''operational_needs_2'', ''label'': ''operational_needs_2''}'
+      - operational needs 1
+      - operational needs 2
       required: false
     - id: 5
       name: business_fit
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_good'', ''label'': ''very_good''}'
-      - '{''value'': ''somewhat_good'', ''label'': ''somewhat_good''}'
-      - '{''value'': ''not_good'', ''label'': ''not_good''}'
+      - very good
+      - somewhat good
+      - not good
       required: false
     - id: 6
       name: review_request
@@ -59,8 +59,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''approved'', ''label'': ''approved''}'
-      - '{''value'': ''rejected'', ''label'': ''rejected''}'
+      - approved
+      - rejected
       required: false
     - id: 8
       name: additional_comments
@@ -82,7 +82,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 11

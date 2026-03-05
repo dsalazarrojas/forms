@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 5
       name: dietary_restrictions
@@ -39,10 +39,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Vegetarian''}'
-      - '{''label'': ''Vegan''}'
-      - '{''label'': ''Gluten-free''}'
-      - '{''label'': ''Other''}'
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Other
       required: false
     - id: 6
       name: rsvp_date

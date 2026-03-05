@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I agree to the terms and conditions'', ''value'': ''agree''}'
-      - '{''label'': ''I do not agree to the terms and conditions'', ''value'': ''disagree''}'
+      - I agree to the terms and conditions
+      - I do not agree to the terms and conditions
       required: false
     - id: 4
       name: upload_url
@@ -39,10 +39,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Classification'', ''value'': ''classification''}'
-      - '{''label'': ''Identification'', ''value'': ''identification''}'
-      - '{''label'': ''Object Detection'', ''value'': ''object_detection''}'
-      - '{''label'': ''Segmentation'', ''value'': ''segmentation''}'
+      - Classification
+      - Identification
+      - Object Detection
+      - Segmentation
       required: true
     - id: 6
       name: upload_url_label
@@ -57,7 +57,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Started'', ''value'': ''not_started''}'
-      - '{''label'': ''In Progress'', ''value'': ''in_progress''}'
-      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      - Not Started
+      - In Progress
+      - Completed
       required: true

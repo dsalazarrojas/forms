@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''parent'', ''label'': ''Parent''}'
-      - '{''id'': 2, ''name'': ''spouse'', ''label'': ''Spouse''}'
-      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      - Parent
+      - Spouse
+      - Other
       required: false
     - id: 5
       name: emergency_phone
@@ -75,16 +75,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''weight_loss'', ''label'': ''Weight Loss''}'
-      - '{''id'': 2, ''name'': ''muscle_gain'', ''label'': ''Muscle Gain''}'
-      - '{''id'': 3, ''name'': ''endurance'', ''label'': ''Endurance''}'
-      - '{''id'': 4, ''name'': ''flexibility'', ''label'': ''Flexibility''}'
-      - '{''id'': 5, ''name'': ''injury_recovery'', ''label'': ''Injury Recovery''}'
-      - '{''id'': 6, ''name'': ''strength'', ''label'': ''Strength''}'
-      - '{''id'': 7, ''name'': ''endurance'', ''label'': ''Endurance''}'
-      - '{''id'': 8, ''name'': ''power'', ''label'': ''Power''}'
-      - '{''id'': 9, ''name'': ''agility'', ''label'': ''Agility''}'
-      - '{''id'': 10, ''name'': ''balance'', ''label'': ''Balance''}'
+      - Weight Loss
+      - Muscle Gain
+      - Endurance
+      - Flexibility
+      - Injury Recovery
+      - Strength
+      - Power
+      - Agility
+      - Balance
       required: false
     - id: 11
       name: available_trainingsessions
@@ -99,9 +98,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''morning'', ''label'': ''Morning''}'
-      - '{''id'': 2, ''name'': ''afternoon'', ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''name'': ''evening'', ''label'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 13
       name: available_trainingsession_days
@@ -109,13 +108,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''mon'', ''label'': ''Mon''}'
-      - '{''id'': 2, ''name'': ''tue'', ''label'': ''Tue''}'
-      - '{''id'': 3, ''name'': ''wed'', ''label'': ''Wed''}'
-      - '{''id'': 4, ''name'': ''thu'', ''label'': ''Thu''}'
-      - '{''id'': 5, ''name'': ''fri'', ''label'': ''Fri''}'
-      - '{''id'': 6, ''name'': ''sat'', ''label'': ''Sat''}'
-      - '{''id'': 7, ''name'': ''sun'', ''label'': ''Sun''}'
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
       required: false
     - id: 14
       name: trainingsession_duration
@@ -123,9 +122,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': 30, ''label'': 30}'
-      - '{''id'': 2, ''name'': 60, ''label'': 60}'
-      - '{''id'': 3, ''name'': 90, ''label'': 90}'
+      - '30'
+      - '60'
+      - '90'
       required: false
     - id: 15
       name: available_trainingsession_dates
@@ -161,9 +160,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''parent'', ''label'': ''Parent''}'
-      - '{''id'': 2, ''name'': ''spouse'', ''label'': ''Spouse''}'
-      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      - Parent
+      - Spouse
+      - Other
       required: false
     - id: 20
       name: emergency_contact_name

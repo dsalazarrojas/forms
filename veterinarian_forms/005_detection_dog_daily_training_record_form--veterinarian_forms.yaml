@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Obedience''}'
-      - '{''id'': 2, ''label'': ''Protection''}'
-      - '{''id'': 3, ''label'': ''Tracking''}'
+      - Obedience
+      - Protection
+      - Tracking
       required: false
     - id: 3
       name: date_and_time
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Basic''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advance''}'
+      - Basic
+      - Intermediate
+      - Advance
       required: false
     - id: 6
       name: notes
@@ -106,14 +106,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Harness''}'
-      - '{''id'': 2, ''label'': ''Leash''}'
-      - '{''id'': 3, ''label'': ''Ball''}'
-      - '{''id'': 4, ''label'': ''Clicker''}'
-      - '{''id'': 5, ''label'': ''Target stick''}'
-      - '{''id'': 6, ''label'': ''Treats''}'
-      - '{''id'': 7, ''label'': ''Other (please specify)''}'
-      - '{''id'': 8, ''label'': ''Other (please specify)''}'
+      - Harness
+      - Leash
+      - Ball
+      - Clicker
+      - Target stick
+      - Treats
+      - Other (please specify)
       required: false
     - id: 15
       name: other_equipment_used

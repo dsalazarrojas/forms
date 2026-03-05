@@ -4,224 +4,90 @@ inputSchema:
     title: curriculum_planning_form
     pages:
     - id: 1
-      name: subject_areas_1
-      label: subject_areas
+      name: subject_areas
+      label: What are the subjects to be taught?
       hint: null
       type: select_multiple
       options:
-      - Science
-      - Math
       - English
-      required: true
+      - Math
+      - Science
+      required: false
     - id: 2
-      name: subject_areas_2
-      label: subject_areas
-      hint: null
-      type: select_multiple
-      options:
-      - History
-      - Geography
-      - Art
-      required: true
-    - id: 3
-      name: class_name_1
-      label: class_name
-      hint: null
-      type: text
+      name: total_classes
+      label: How many classes are to be planned?
+      hint: Enter a number
+      type: number
       options: []
-      required: true
-    - id: 4
-      name: class_name_2
-      label: class_name
+      required: false
+    - id: 3
+      name: class_names
+      label: What is the class name?
       hint: null
       type: text
       options: []
       required: false
+    - id: 4
+      name: subject_periods
+      label: What is the period for each class?
+      hint: null
+      type: select_one
+      options:
+      - First
+      - Second
+      - Third
+      required: true
     - id: 5
-      name: class_name_3
-      label: class_name
+      name: teacher_comments
+      label: Any comments or remarks about the classes?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: class_name_4
-      label: class_name
+      name: assigned_user
+      label: To whom will the classes be assigned?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Other
+      required: true
     - id: 7
-      name: class_name_5
-      label: class_name
+      name: dates
+      label: What are the specific dates of each period?
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 8
-      name: class_name_6
-      label: class_name
+      name: venue
+      label: Will the classes be held indoors or outdoors?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Indoors
+      - Outdoors
+      required: true
     - id: 9
-      name: class_name_7
-      label: class_name
+      name: time
+      label: Will the classes be conducted during the day or at night?
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 10
-      name: class_name_8
-      label: class_name
+      name: outcomes
+      label: What are the expected outcomes of each class?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: subject_periods_1
-      label: subject_periods
-      hint: null
-      type: select_one
-      options:
-      - First
-      - Second
-      - Third
-      required: true
-    - id: 12
-      name: subject_periods_2
-      label: subject_periods
-      hint: null
-      type: select_one
-      options:
-      - First
-      - Second
-      - Third
-      required: true
-    - id: 13
-      name: subject_periods_3
-      label: subject_periods
-      hint: null
-      type: select_one
-      options:
-      - First
-      - Second
-      - Third
-      required: false
-    - id: 14
-      name: subject_periods_4
-      label: subject_periods
-      hint: null
-      type: select_one
-      options:
-      - First
-      - Second
-      - Third
-      required: false
-    - id: 15
-      name: subject_periods_5
-      label: subject_periods
-      hint: null
-      type: select_one
-      options:
-      - First
-      - Second
-      - Third
-      required: false
-    - id: 16
-      name: subject_periods_6
-      label: subject_periods
-      hint: null
-      type: select_one
-      options:
-      - First
-      - Second
-      - Third
-      required: false
-    - id: 17
-      name: subject_periods_7
-      label: subject_periods
-      hint: null
-      type: select_one
-      options:
-      - First
-      - Second
-      - Third
-      required: false
-    - id: 18
-      name: subject_periods_8
-      label: subject_periods
-      hint: null
-      type: select_one
-      options:
-      - First
-      - Second
-      - Third
-      required: false
-    - id: 19
-      name: subject_periods_9
-      label: subject_periods
-      hint: null
-      type: select_one
-      options:
-      - First
-      - Second
-      - Third
-      required: false
-    - id: 20
-      name: subject_periods_10
-      label: subject_periods
-      hint: null
-      type: select_one
-      options:
-      - First
-      - Second
-      - Third
-      required: false
-    - id: 21
-      name: teacher_comments
-      label: teacher_comments
+      name: resources
+      label: Are there any specific resources to be used in the classes?
       hint: null
       type: text
       options: []
       required: false
-    - id: 22
-      name: subject_periods_11
-      label: subject_periods
-      hint: null
-      type: select_one
-      options:
-      - First
-      - Second
-      - Third
-      required: false
-    - id: 23
-      name: subject_periods_12
-      label: subject_periods
-      hint: null
-      type: select_one
-      options:
-      - First
-      - Second
-      - Third
-      required: false
-    - id: 24
-      name: subject_periods_13
-      label: subject_periods
-      hint: null
-      type: select_one
-      options:
-      - First
-      - Second
-      - Third
-      required: false
-    - id: 25
-      name: assigned_user
-      label: assigned_user
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - Other
-      required: true

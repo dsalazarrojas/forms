@@ -5,120 +5,105 @@ inputSchema:
     pages:
     - id: 1
       name: intro_page
-      label: Survey for School Use
-      hint: null
+      label: Survey Introduction
+      hint: This survey is for school use only.
       type: note
       options: []
       required: false
     - id: 2
-      name: student_survey_page
-      label: Student Survey
-      hint: null
+      name: basic_needs_question_page
+      label: What do you need most when you're feeling stressed or overwhelmed?
+      hint: Select one option.
       type: text
       options: []
       required: false
     - id: 3
-      name: student_survey_page_2
-      label: Student Basic Needs
-      hint: null
-      type: select_multiple
+      name: access_to_food_page
+      label: Access to Basic Needs
+      hint: Select one option.
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Often
+      - Sometimes
+      - Never
       required: false
     - id: 4
-      name: student_survey_page_3
-      label: Basic Needs
-      hint: How often do you have access to food?
-      type: select_one
+      name: rating_access_page
+      label: Rate Your Access to Basic Needs
+      hint: Select all that apply.
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - Food
+      - Shelter
+      - Clothing and Personal Care
+      - Education and Job Training
+      - Health Care
+      - Other (please specify)
       required: false
     - id: 5
-      name: student_survey_page_4
-      label: Basic Needs
-      hint: How often do you have access to basic needs?
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: lacking_basic_needs_page
+      label: Basic Needs I'm Lacking
+      hint: Please specify a basic need.
+      type: text
+      options: []
       required: false
     - id: 6
-      name: basic_needs_page
-      label: Basic Needs
-      hint: null
+      name: access_to_shelter_page
+      label: Access to Shelter
+      hint: Select one option.
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - Often
+      - Sometimes
+      - Never
       required: false
     - id: 7
-      name: basic_needs_page_2
-      label: Basic Needs
-      hint: null
+      name: difficulty_accessing_needs_page
+      label: Basic Needs I'm Having Difficulty Accessing
+      hint: Select all that apply.
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Food
+      - Shelter
+      - Clothing and Personal Care
+      - Education and Job Training
+      - Health Care
+      - Other (please specify)
       required: false
     - id: 8
-      name: basic_needs_page_3
-      label: Basic Needs
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: challenging_situation_page
+      label: Challenging Situation
+      hint: Please share a situation where you had to choose between basic needs.
+      type: note
+      options: []
       required: false
     - id: 9
-      name: basic_needs_page_4
-      label: Basic Needs
-      hint: null
-      type: select_multiple
+      name: access_to_care_page
+      label: Access To Care Page
+      hint: Select one option.
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Often
+      - Sometimes
+      - Never
       required: false
     - id: 10
-      name: survey_questions_page
-      label: Survey Questions
-      hint: null
+      name: suggestions_page
+      label: Suggestion
+      hint: Please suggest an idea to improve access to basic needs.
       type: text
       options: []
       required: false
     - id: 11
-      name: survey_questions_page_2
-      label: Basic Needs
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 12
-      name: survey_questions_page_3
-      label: Basic Needs
-      hint: null
+      name: satisfaction_page
+      label: Satisfaction with Access to Basic Needs
+      hint: Select all that apply.
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: survey_questions_page_4
-      label: Basic Needs
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      - None
       required: false

@@ -30,9 +30,9 @@ inputSchema:
       hint: Select up to 3 concerns.
       type: select_multiple
       options:
-      - '{''label'': ''Security''}'
-      - '{''label'': ''Cost''}'
-      - '{''label'': ''Aesthetics''}'
+      - Security
+      - Cost
+      - Aesthetics
       required: false
     - id: 5
       name: satisfaction
@@ -40,11 +40,11 @@ inputSchema:
       hint: How satisfied are you with your current smart lock?
       type: select_one
       options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat Dissatisfied''}'
-      - '{''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 6
       name: additional_comments
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Private''}'
-      - '{''label'': ''Public''}'
+      - Private
+      - Public
       required: false
     - id: 11
       name: company_size
@@ -89,14 +89,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1-10''}'
-      - '{''label'': ''11-50''}'
-      - '{''label'': ''51-200''}'
-      - '{''label'': ''201-1000''}'
-      - '{''label'': ''1001-5000''}'
-      - '{''label'': ''5001-10000''}'
-      - '{''label'': 10001}'
-      - '{''label'': ''10000+''}'
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-1000
+      - 1001-5000
+      - 5001-10000
+      - '10001'
+      - 10000+
       required: false
     - id: 12
       name: department

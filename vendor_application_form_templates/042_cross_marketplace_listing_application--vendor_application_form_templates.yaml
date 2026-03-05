@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''category1'', ''label'': ''Category 1''}'
-      - '{''id'': 2, ''name'': ''category2'', ''label'': ''Category 2''}'
-      - '{''id'': 3, ''name'': ''category3'', ''label'': ''Category 3''}'
+      - Category 1
+      - Category 2
+      - Category 3
       required: false
     - id: 5
       name: description
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''image1'', ''label'': ''Image 1''}'
-      - '{''id'': 2, ''name'': ''image2'', ''label'': ''Image 2''}'
-      - '{''id'': 3, ''name'': ''image3'', ''label'': ''Image 3''}'
+      - Image 1
+      - Image 2
+      - Image 3
       required: false
     - id: 9
       name: shipping_details
@@ -145,7 +145,7 @@ inputSchema:
       required: false
     - id: 19
       name: shipping_cost_value
-      label: Shipping Cost
+      label: Shipping Cost Value
       hint: null
       type: number
       options: []
@@ -159,14 +159,14 @@ inputSchema:
       required: false
     - id: 21
       name: shipping_weight_value
-      label: Shipping Weight
+      label: Shipping Weight Value
       hint: null
       type: number
       options: []
       required: false
     - id: 22
-      name: shipping_weight_unit
-      label: Shipping Weight Unit
+      name: shipping_weight_unit_2
+      label: Shipping Weight Unit 2
       hint: null
       type: select_one
       options:
@@ -191,7 +191,7 @@ inputSchema:
       required: false
     - id: 25
       name: shipping_price_value
-      label: Shipping Price
+      label: Shipping Price Value
       hint: null
       type: number
       options: []

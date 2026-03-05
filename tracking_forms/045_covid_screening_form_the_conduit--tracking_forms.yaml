@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -69,9 +58,9 @@ inputSchema:
       hint: Temperature of 100.4F or higher
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 9
       name: conduit_cough
@@ -79,9 +68,9 @@ inputSchema:
       hint: New or persistent cough
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 10
       name: conduit_difficulty_breathing
@@ -89,9 +78,9 @@ inputSchema:
       hint: Shortness of breath
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 11
       name: conduit_loss_taste_smell
@@ -99,9 +88,9 @@ inputSchema:
       hint: New loss of taste or smell
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 12
       name: conduit_muscle_pain
@@ -109,9 +98,9 @@ inputSchema:
       hint: Unusual muscle aches
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 13
       name: conduit_headache
@@ -119,9 +108,9 @@ inputSchema:
       hint: Unusual headache
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 14
       name: conduit_sore_throat
@@ -129,9 +118,9 @@ inputSchema:
       hint: Throat pain or irritation
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 15
       name: conduit_nausea_diarrhea
@@ -139,9 +128,9 @@ inputSchema:
       hint: Gastrointestinal symptoms
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 16
       name: conduit_exposure_header
@@ -156,9 +145,9 @@ inputSchema:
       hint: Been within 6 feet of someone positive
       type: select_one
       options:
-        - No contact
-        - Yes, contact within 14 days
-        - Yes, contact within 48 hours
+      - No contact
+      - Yes, contact within 14 days
+      - Yes, contact within 48 hours
       required: true
     - id: 18
       name: conduit_contact_details
@@ -180,9 +169,9 @@ inputSchema:
       hint: Any positive COVID test
       type: select_one
       options:
-        - Never tested positive
-        - Previously tested positive - recovered
-        - Recently tested positive
+      - Never tested positive
+      - Previously tested positive - recovered
+      - Recently tested positive
       required: true
     - id: 21
       name: conduit_positive_test_date
@@ -204,10 +193,10 @@ inputSchema:
       hint: Based on responses provided
       type: select_one
       options:
-        - Passed screening - clear
-        - Failed screening - refer for testing
-        - Refer to healthcare provider
-        - Recommend isolation
+      - Passed screening - clear
+      - Failed screening - refer for testing
+      - Refer to healthcare provider
+      - Recommend isolation
       required: true
     - id: 24
       name: conduit_recommendations

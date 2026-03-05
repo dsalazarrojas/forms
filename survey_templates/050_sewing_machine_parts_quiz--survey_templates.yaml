@@ -4,215 +4,92 @@ inputSchema:
     title: Sewing Machine Parts Quiz
     pages:
     - id: 1
-      name: sewing_machine_parts_quiz
-      label: what_is_a_sewing_machine
+      name: question_1
+      label: What is a sewing machine used for?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - sewing, embroidery, and other crafts
+      - quilting and sewing
+      - tailoring and embroidery
       required: false
     - id: 2
-      name: sewing_machine_parts_quiz
-      label: parts_of_a_sewing_machine
+      name: question_2
+      label: Basic parts of a sewing machine
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Bobbin winder
+      - Spare bobbin holder
+      - Bobbin case
+      - Sewing machine needle
+      - Thread guides
+      - Liner
+      - Presser foot
+      - Take-up lever
+      - Sewing machine presser
       required: false
     - id: 3
-      name: correct_sewing_machine_part
-      label: correct_sewing_machine_part
+      name: question_3
+      label: Correct part used for a specific function
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Bobbin winder
+      - Spare bobbin holder
+      - Bobbin case
+      - Sewing machine needle
       required: false
     - id: 4
-      name: sewing_machine_part
-      label: incorrect_sewing_machine_part
+      name: question_4
+      label: Parts used for a specific function
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Bobbin winder
+      - Spare bobbin holder
+      - Bobbin case
+      - Sewing machine needle
       required: false
     - id: 5
-      name: sewing_machine_part_quiz_question
-      label: what_is_a_sewing_machine_used_for
+      name: question_5
+      label: Correct sewing machine used for
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Sewing machine
+      - Overlock machine
+      - Quilter's machine
       required: false
     - id: 6
-      name: correct_sewing_machine_part_quiz
-      label: what_is_a_sewing_machine_used_for
+      name: question_6
+      label: Question 6
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Bobbin winder
+      - Spare bobbin holder
+      - Bobbin case
+      - Sewing machine needle
       required: false
     - id: 7
-      name: parts_of_a_sewing_machine_quiz_question
-      label: what_parts_are_used_in_a_sewing_machine
+      name: question_7
+      label: Correct sewing machine used for a specific task
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Sewing machine
+      - Overlock machine
+      - Quilter's machine
       required: false
     - id: 8
-      name: what_parts_used_in_a_sewing_machine
-      label: what_parts_used_in_a_sewing_machine
+      name: question_8
+      label: Parts used for a specific task
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: correct_sewing_machine_used_for
-      label: correct_parts_used_in_a_sewing_machine
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: wrong_sewing_machine_used_for
-      label: incorrect_parts_used_in_a_sewing_machine
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: correct_quiz_question
-      label: correct_sewing_machine_used_for
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: what_is_a_sewing_machine_part_quiz_question
-      label: what_is_a_sewing_machine_part
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: what_is_a_sewing_machine_used_for_quiz
-      label: what_is_a_sewing_machine_used_for
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: correct_sewing_machine_part_quiz
-      label: correct_sewing_machine_part
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: parts_of_a_sewing_machine_quiz_question
-      label: parts_of_a_sewing_machine_quiz
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: correct_parts_used_in_a_sewing_machine
-      label: correct_parts_used_in_a_sewing_machine
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: what_is_a_sewing_machine_used_for_quiz
-      label: what_is_a_sewing_machine_used_for_quiz
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: correct_sewing_machine_used_for_quiz
-      label: correct_sewing_machine_used_for_quiz
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: what_parts_used_in_a_sewing_machine_quiz
-      label: what_parts_used_in_a_sewing_machine_quiz
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: correct_parts_used_in_a_sewing_machine_quiz
-      label: correct_parts_used_in_a_sewing_machine_quiz
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: correct_sewing_machine_used_for_quiz
-      label: correct_sewing_machine_used_for_quiz
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: incorrect_parts_used_in_a_sewing_machine_quiz
-      label: incorrect_parts_used_in_a_sewing_machine_quiz
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: correct_sewing_machine_quiz_question
-      label: correct_sewing_machine_quiz_question
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: what_is_a_sewing_machine_part_quiz_question
-      label: what_is_a_sewing_machine_part_quiz_question
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: what_is_a_sewing_machine_used_for_quiz
-      label: what_is_a_sewing_machine_used_for_quiz
-      hint: null
-      type: text
-      options: []
+      - Bobbin winder
+      - Spare bobbin holder
+      - Bobbin case
+      - Sewing machine needle
       required: false

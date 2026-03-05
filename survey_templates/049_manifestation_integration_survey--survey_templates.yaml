@@ -4,24 +4,22 @@ inputSchema:
     title: manifestation_integration_survey
     pages:
     - id: 1
-      name: page_1
-      label: page_1
+      name: current_integration_goals
+      label: current integration goals
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 2
-      name: manifestation_goals
-      label: manifestation goals
+      name: current_manifestation_progress
+      label: current manifestation progress
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 3
-      name: current_progress
-      label: current progress
+      name: support_needs
+      label: support needs
       hint: null
       type: select_multiple
       options:
@@ -36,61 +34,45 @@ inputSchema:
       options: []
       required: false
     - id: 5
-      name: support_needs
-      label: support needs
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: client_name
-      label: client name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: manifestation_practitioner
-      label: manifestation practitioner
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
       name: integration_progress
       label: integration progress
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: coaching_relationship
-      label: coaching relationship
+    - id: 6
+      name: integration_practitioner_relationship
+      label: integration practitioner relationship
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 10
-      name: manifestation_practitioner_relationship
-      label: manifestation practitioner relationship
+    - id: 7
+      name: comments
+      label: comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: client_wellness_practitioner
-      label: client wellness practitioner
+    - id: 8
+      name: is_survey_urgent
+      label: is survey urgent
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 12
+    - id: 9
+      name: integration_survey_comments
+      label: integration survey comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
       name: support_needs_urgent
       label: support needs urgent
       hint: null
@@ -99,248 +81,16 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 13
-      name: manifestation_integration_survey_form
-      label: manifestation integration survey form
+    - id: 11
+      name: previous_integration_experiences
+      label: previous integration experiences
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
-      name: integration_survey_form
-      label: integration survey form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: form_comments
-      label: form comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: form_comments_urgent
-      label: form comments urgent
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: integration_survey_form_urgent
-      label: integration survey form urgent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: comments_urgent
-      label: comments urgent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: survey_form_urgent
-      label: survey form urgent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: urgent_comments
-      label: urgent comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: integration
-      label: integration
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: integration_survey
-      label: integration survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: urgent
-      label: urgent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submit
-      label: submit
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 26
-      name: form_24_urgent
-      label: form 24 urgent
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 27
-      name: form_24
-      label: form 24
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: integration_urgency
-      label: integration urgency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 29
-      name: survey_urgent
-      label: survey urgent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: form_urgent
-      label: form urgent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: form_comments_urgent
-      label: form comments urgent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: comments_form_urgent
-      label: comments form urgent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: urgent_comments
-      label: urgent comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: comments_urgent
-      label: comments urgent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: survey_comments_urgent
-      label: survey comments urgent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: urgent_form
-      label: urgent form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: form_urgent_comments
-      label: form urgent comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: comments_urgent_form
-      label: comments urgent form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: survey_urgent_comments
-      label: survey urgent comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: urgent_comments_form
-      label: urgent comments form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: integration_survey_form_urgent
-      label: integration survey form urgent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: urgent_integration
-      label: urgent integration
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: urgent_integration_survey
-      label: urgent integration survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 44
-      name: urgent_integration_survey_form
-      label: urgent integration survey form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: urgent_survey_integration
-      label: urgent survey integration
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: urgent_survey_integration_form
-      label: urgent survey integration form
+    - id: 12
+      name: previous_manifestation_experiences
+      label: previous manifestation experiences
       hint: null
       type: text
       options: []

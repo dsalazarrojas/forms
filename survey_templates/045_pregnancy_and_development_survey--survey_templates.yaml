@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pregnant''}'
-      - '{''value'': ''Not Pregnant''}'
-      - '{''value'': ''Miscarriage''}'
-      - '{''value'': ''Other''}'
+      - Pregnant
+      - Not Pregnant
+      - Miscarriage
+      - Other
       required: true
     - id: 2
       name: prenatal_care_habits
@@ -20,10 +20,10 @@ inputSchema:
       hint: Please select all that apply
       type: select_multiple
       options:
-      - '{''value'': ''Yes, received regular prenatal check-ups and care''}'
-      - '{''value'': ''Yes, but did not receive regular prenatal check-ups and care''}'
-      - '{''value'': ''No, did not receive any prenatal care''}'
-      - '{''value'': ''Other, please describe''}'
+      - Yes, received regular prenatal check-ups and care
+      - Yes, but did not receive regular prenatal check-ups and care
+      - No, did not receive any prenatal care
+      - Other, please describe
       required: false
     - id: 3
       name: pregnancy_experiences
@@ -38,10 +38,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Boy''}'
-      - '{''value'': ''Girl''}'
-      - '{''value'': ''Twins''}'
-      - '{''value'': ''Other''}'
+      - Boy
+      - Girl
+      - Twins
+      - Other
       required: false
     - id: 5
       name: birth_date
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Positive''}'
-      - '{''value'': ''Negative''}'
-      - '{''value'': ''Not Done''}'
+      - Positive
+      - Negative
+      - Not Done
       required: false
     - id: 7
       name: ultrasound_result
@@ -66,8 +66,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Normal''}'
-      - '{''value'': ''Abnormal''}'
+      - Normal
+      - Abnormal
       required: false
     - id: 8
       name: birth_weight
@@ -96,8 +96,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Boy''}'
-      - '{''value'': ''Girl''}'
+      - Boy
+      - Girl
       required: false
     - id: 12
       name: birth_weight_gram
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Vaginal''}'
-      - '{''value'': ''C-section''}'
-      - '{''value'': ''Other''}'
+      - Vaginal
+      - C-section
+      - Other
       required: false
     - id: 14
       name: baby_age
@@ -185,9 +185,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Private''}'
-      - '{''value'': ''Public''}'
-      - '{''value'': ''Other''}'
+      - Private
+      - Public
+      - Other
       required: false
     - id: 24
       name: hospital_name

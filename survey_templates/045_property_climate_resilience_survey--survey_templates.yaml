@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Residential''}'
-      - '{''id'': 2, ''value'': ''Commercial''}'
-      - '{''id'': 3, ''value'': ''Industrial''}'
+      - Residential
+      - Commercial
+      - Industrial
       required: true
     - id: 3
       name: address_line_1
@@ -135,12 +124,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Extreme Weather''}'
-      - '{''id'': 2, ''value'': ''Sea Level Rise''}'
-      - '{''id'': 3, ''value'': ''Water Scarcity''}'
-      - '{''id'': 4, ''value'': ''Flood''}'
-      - '{''id'': 5, ''value'': ''Drought''}'
-      - '{''id'': 6, ''value'': ''Wildfire''}'
+      - Extreme Weather
+      - Sea Level Rise
+      - Water Scarcity
+      - Flood
+      - Drought
+      - Wildfire
       required: true
     - id: 18
       name: risk_severity
@@ -148,10 +137,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Low''}'
-      - '{''id'': 2, ''value'': ''Medium''}'
-      - '{''id'': 3, ''value'': ''High''}'
-      - '{''id'': 4, ''value'': ''Very High''}'
+      - Low
+      - Medium
+      - High
+      - Very High
       required: true
     - id: 19
       name: adaptation_mitigation_actions
@@ -173,14 +162,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Increased Extreme Weather''}'
-      - '{''id'': 2, ''value'': ''Sea Level Rise''}'
-      - '{''id'': 3, ''value'': ''Water Scarcity''}'
-      - '{''id'': 4, ''value'': ''Heat Wave''}'
-      - '{''id'': 5, ''value'': ''Drought''}'
-      - '{''id'': 6, ''value'': ''Wildfire''}'
-      - '{''id'': 7, ''value'': ''Increased Flood''}'
-      - '{''id'': 8, ''value'': ''Sea Ice''}'
+      - Increased Extreme Weather
+      - Sea Level Rise
+      - Water Scarcity
+      - Heat Wave
+      - Drought
+      - Wildfire
+      - Increased Flood
+      - Sea Ice
       required: true
     - id: 22
       name: current_risk_concerns

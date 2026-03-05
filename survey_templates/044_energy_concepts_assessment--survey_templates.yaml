@@ -4,180 +4,124 @@ inputSchema:
     title: Energy Concepts Assessment
     pages:
     - id: 1
-      name: page_one
+      name: introduction
       label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: energy_knowledge
-      label: What is your understanding of energy
-      hint: null
-      type: text
-      options: []
+      name: energy_attitude_1
+      label: Do you think energy is important?
+      hint: Select one of the options below.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 3
-      name: energy_knowledge_2
-      label: What is your understanding of energy
-      hint: null
-      type: text
-      options: []
+      name: energy_attitude_2
+      label: How does energy affect your daily life?
+      hint: Select one of the options below.
+      type: select_one
+      options:
+      - Very much
+      - A little
+      - Not at all
       required: true
     - id: 4
-      name: energy_knowledge_3
-      label: What is your understanding of energy
-      hint: null
-      type: text
-      options: []
+      name: energy_attitude_3
+      label: Energy is an important part of our lives.
+      hint: Select one of the options below.
+      type: select_one
+      options:
+      - Agree
+      - Disagree
       required: true
     - id: 5
-      name: energy_knowledge_4
-      label: What is your understanding of energy
-      hint: null
+      name: energy_knowledge_1
+      label: What is your understanding of energy?
+      hint: Please describe your understanding in 100 words.
       type: text
       options: []
       required: true
     - id: 6
-      name: energy_knowledge_5
-      label: What is your understanding of energy
-      hint: null
+      name: energy_knowledge_2
+      label: Energy is what?
+      hint: Please describe your understanding in 100 words.
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: attitudes
-      label: Attitudes towards energy
-      hint: null
-      type: select_one
+      name: energy_concept_1
+      label: Energy is renewable or non-renewable?
+      hint: Select all that apply.
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Renewable
+      - Non-renewable
+      required: true
     - id: 8
-      name: attitudes_2
-      label: attitudes-2
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      name: energy_knowledge_3
+      label: What is your understanding of energy efficiency?
+      hint: Please describe your understanding in 100 words.
+      type: text
+      options: []
       required: true
     - id: 9
+      name: energy_knowledge_4
+      label: What is your understanding of energy sources?
+      hint: Please describe your understanding in 100 words.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: energy_knowledge_5
+      label: What is your understanding of energy conversion?
+      hint: Please describe your understanding in 100 words.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: energy_knowledge_6
+      label: What is your understanding of energy storage?
+      hint: Please describe your understanding in 100 words.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: energy_concept_2
+      label: Energy sources can be harnessed to generate electricity.
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Solar
+      - Wind
+      - Hydro
+      - Nuclear
+      required: true
+    - id: 13
       name: page_two
       label: Page 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
+    - id: 14
       name: page_three
       label: Page 3
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: energy_knowledge_2
-      label: energy-knowledge-2
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: energy_knowledge
-      label: Energy
-      hint: Describe your understanding of energy in 100 words
-      type: text
-      options: []
-      required: true
-    - id: 13
+    - id: 15
       name: page_four
       label: Page 4
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
-      name: page_five
-      label: Page 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: energy_concepts_2
-      label: Energy Concepts
-      hint: Select all that apply
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
     - id: 16
-      name: energy_knowledge_6
-      label: What is your understanding of energy
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: energy_knowledge_7
-      label: What is your understanding of energy
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: energy_knowledge_8
-      label: What is your understanding of energy
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: energy_knowledge_9
-      label: What is your understanding of energy
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: energy_knowledge_10
-      label: What is your understanding of energy
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: energy_knowledge_11
-      label: What is your understanding of energy
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: energy_knowledge_12
-      label: What is your understanding of energy
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: page_six
-      label: Page 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: page_seven
-      label: Page 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: submit
       label: Submit
       hint: null

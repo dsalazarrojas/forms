@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''House''}'
-      - '{''id'': 2, ''name'': ''Commercial''}'
-      - '{''id'': 3, ''name'': ''Other''}'
-      - '{''id'': 4, ''name'': ''Land''}'
+      - House
+      - Commercial
+      - Other
+      - Land
       required: false
     - id: 3
       name: property_boundaries
@@ -41,8 +41,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: property_features
@@ -78,11 +78,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Single Family Home''}'
-      - '{''id'': 2, ''name'': ''Multi Family Home''}'
-      - '{''id'': 3, ''name'': ''Townhouse''}'
-      - '{''id'': 4, ''name'': ''Condo''}'
-      - '{''id'': 5, ''name'': ''Land''}'
+      - Single Family Home
+      - Multi Family Home
+      - Townhouse
+      - Condo
+      - Land
       required: false
     - id: 11
       name: property_address
@@ -97,11 +97,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Single Family Home''}'
-      - '{''id'': 2, ''name'': ''Multi Family Home''}'
-      - '{''id'': 3, ''name'': ''Townhouse''}'
-      - '{''id'': 4, ''name'': ''Condo''}'
-      - '{''id'': 5, ''name'': ''Land''}'
+      - Single Family Home
+      - Multi Family Home
+      - Townhouse
+      - Condo
+      - Land
       required: false
     - id: 13
       name: surveyor_name

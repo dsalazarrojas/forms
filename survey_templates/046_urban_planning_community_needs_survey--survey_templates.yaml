@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone''}'
-      - '{''id'': 3, ''name'': ''Mail''}'
-      - '{''id'': 4, ''name'': ''None''}'
+      - Email
+      - Phone
+      - Mail
+      - None
       required: true
     - id: 4
       name: neighborhood_characteristics
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Parks''}'
-      - '{''id'': 2, ''name'': ''Public Transportation''}'
-      - '{''id'': 3, ''name'': ''Community Center''}'
-      - '{''id'': 4, ''name'': ''None''}'
+      - Parks
+      - Public Transportation
+      - Community Center
+      - None
       required: false
     - id: 5
       name: neighborhood_satisfaction_rating

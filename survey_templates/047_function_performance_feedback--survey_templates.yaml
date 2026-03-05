@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Meeting''}'
-      - '{''label'': ''Training''}'
-      - '{''label'': ''Other''}'
+      - Meeting
+      - Training
+      - Other
       required: true
     - id: 3
       name: date
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: follow_up
@@ -56,10 +56,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Follow up via phone''}'
-      - '{''label'': ''Follow up via email''}'
-      - '{''label'': ''Follow up in person''}'
-      - '{''label'': ''No follow up''}'
+      - Follow up via phone
+      - Follow up via email
+      - Follow up in person
+      - No follow up
       required: true
     - id: 8
       name: comments
@@ -74,11 +74,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 5}'
-      - '{''label'': 4}'
-      - '{''label'': 3}'
-      - '{''label'': 2}'
-      - '{''label'': 1}'
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
       required: true
     - id: 10
       name: rating_comment
@@ -107,8 +107,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Send follow up via email''}'
-      - '{''label'': ''Do not send follow up via email''}'
+      - Send follow up via email
+      - Do not send follow up via email
       required: false
     - id: 14
       name: follow_up_phone
@@ -116,8 +116,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Send follow up via phone''}'
-      - '{''label'': ''Do not send follow up via phone''}'
+      - Send follow up via phone
+      - Do not send follow up via phone
       required: false
     - id: 15
       name: follow_up_in_person
@@ -125,8 +125,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Send follow up in person''}'
-      - '{''label'': ''Do not send follow up in person''}'
+      - Send follow up in person
+      - Do not send follow up in person
       required: false
     - id: 16
       name: follow_up_method
@@ -134,9 +134,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Follow up via email''}'
-      - '{''label'': ''Follow up via phone''}'
-      - '{''label'': ''Follow up in person''}'
+      - Follow up via email
+      - Follow up via phone
+      - Follow up in person
       required: false
     - id: 17
       name: follow_up_timeframe

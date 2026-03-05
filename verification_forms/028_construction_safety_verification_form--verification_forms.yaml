@@ -61,7 +61,7 @@ inputSchema:
       - Yes, All Workers
       - Yes, Most Workers
       - Partially
-      - false
+      - 'False'
       required: true
     - id: 9
       name: ppe_availability
@@ -72,7 +72,7 @@ inputSchema:
       - Yes, Fully Stocked
       - Yes, Adequate
       - Limited Supply
-      - false
+      - 'False'
       required: true
     - id: 10
       name: ppe_compliance
@@ -182,7 +182,7 @@ inputSchema:
       - Yes, Documented
       - Yes, Not Documented
       - Irregular
-      - false
+      - 'False'
       required: true
     - id: 20
       name: hazard_communication
@@ -193,7 +193,7 @@ inputSchema:
       - Yes, Complete Program
       - Yes, Basic Program
       - Partial
-      - false
+      - 'False'
       required: true
     - id: 21
       name: safety_meetings
@@ -204,7 +204,7 @@ inputSchema:
       - Yes, Daily
       - Yes, Weekly
       - Yes, Monthly
-      - false
+      - 'False'
       required: true
     - id: 22
       name: incident_reporting
@@ -215,7 +215,7 @@ inputSchema:
       - Yes, Formal System
       - Yes, Informal
       - Limited
-      - false
+      - 'False'
       required: true
     - id: 23
       name: violations_found
@@ -248,8 +248,8 @@ inputSchema:
       hint: Is reinspection needed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 27
       name: follow_up_date

@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Registered'', ''value'': ''Registered''}'
-      - '{''label'': ''Not Registered'', ''value'': ''Not Registered''}'
+      - Registered
+      - Not Registered
       required: false
     - id: 5
       name: attendee_name
@@ -116,8 +116,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Virtual Event'', ''value'': ''Virtual Event''}'
-      - '{''label'': ''In-person Event'', ''value'': ''In-person Event''}'
+      - Virtual Event
+      - In-person Event
       required: false
     - id: 17
       name: event_tag
@@ -181,6 +181,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

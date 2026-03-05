@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Average''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Average
+      - Poor
       required: false
     - id: 4
       name: event_attendant
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not Sure''}'
-      - '{''label'': ''Prefer not to say''}'
+      - 'True'
+      - 'False'
+      - Not Sure
+      - Prefer not to say
       required: false
     - id: 5
       name: exhibition_stand_rating
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Highly Likely''}'
-      - '{''label'': ''Somewhat Likely''}'
-      - '{''label'': ''Not at all Likely''}'
+      - Highly Likely
+      - Somewhat Likely
+      - Not at all Likely
       required: false
     - id: 8
       name: event_attendance

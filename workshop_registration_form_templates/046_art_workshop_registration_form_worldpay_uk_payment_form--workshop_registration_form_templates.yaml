@@ -136,8 +136,8 @@ inputSchema:
       hint: Do you need accommodations
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: accessibility_details
@@ -253,8 +253,8 @@ inputSchema:
       hint: I accept the terms and conditions
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 31
       name: cancellation_policy
@@ -263,7 +263,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Understand
-      - false
+      - 'False'
       required: true
     - id: 32
       name: data_protection
@@ -272,7 +272,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Agree
-      - false
+      - 'False'
       required: true
     - id: 33
       name: additional_comments

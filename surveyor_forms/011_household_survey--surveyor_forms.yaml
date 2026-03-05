@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Urban''}'
-      - '{''id'': 2, ''label'': ''Rural''}'
-      - '{''id'': 3, ''label'': ''Not Specified''}'
+      - Urban
+      - Rural
+      - Not Specified
       required: false
     - id: 3
       name: household_survey_employed_members
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''High School''}'
-      - '{''id'': 2, ''label'': ''College''}'
-      - '{''id'': 3, ''label'': ''University''}'
+      - High School
+      - College
+      - University
       required: true
     - id: 7
       name: household_survey_employed_occupation
@@ -57,10 +57,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Service''}'
-      - '{''id'': 2, ''label'': ''White Collar''}'
-      - '{''id'': 3, ''label'': ''Blue Collar''}'
-      - '{''id'': 4, ''label'': ''Not Specified''}'
+      - Service
+      - White Collar
+      - Blue Collar
+      - Not Specified
       required: false
     - id: 8
       name: household_survey_employed_family
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: household_survey_employed_hobbies
@@ -77,11 +77,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Sports''}'
-      - '{''id'': 2, ''label'': ''Music''}'
-      - '{''id'': 3, ''label'': ''Reading''}'
-      - '{''id'': 4, ''label'': ''Traveling''}'
-      - '{''id'': 5, ''label'': ''Not Specified''}'
+      - Sports
+      - Music
+      - Reading
+      - Traveling
+      - Not Specified
       required: false
     - id: 10
       name: household_survey_employed_housing
@@ -89,8 +89,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: household_survey_employed_marital_status
@@ -98,11 +98,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Single''}'
-      - '{''id'': 2, ''label'': ''Married''}'
-      - '{''id'': 3, ''label'': ''Divorced''}'
-      - '{''id'': 4, ''label'': ''Widow''}'
-      - '{''id'': 5, ''label'': ''Not Specified''}'
+      - Single
+      - Married
+      - Divorced
+      - Widow
+      - Not Specified
       required: false
     - id: 12
       name: household_survey_employed_marital_status_2
@@ -110,9 +110,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
-      - '{''id'': 3, ''label'': ''Not Specified''}'
+      - Male
+      - Female
+      - Not Specified
       required: true
     - id: 13
       name: household_survey_employed_education_level
@@ -120,10 +120,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''High School''}'
-      - '{''id'': 2, ''label'': ''Some College''}'
-      - '{''id'': 3, ''label'': ''College''}'
-      - '{''id'': 4, ''label'': ''Not Specified''}'
+      - High School
+      - Some College
+      - College
+      - Not Specified
       required: false
     - id: 14
       name: household_survey_employed_income_range
@@ -131,12 +131,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Under 1000''}'
-      - '{''id'': 2, ''label'': ''1000-5000''}'
-      - '{''id'': 3, ''label'': ''5000-10000''}'
-      - '{''id'': 4, ''label'': ''10000-20000''}'
-      - '{''id'': 5, ''label'': ''20000-100000''}'
-      - '{''id'': 6, ''label'': ''Not Specified''}'
+      - Under 1000
+      - 1000-5000
+      - 5000-10000
+      - 10000-20000
+      - 20000-100000
+      - Not Specified
       required: true
     - id: 15
       name: household_survey_employed_income_range_2
@@ -144,11 +144,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Less than 1000''}'
-      - '{''id'': 2, ''label'': ''1000-5000''}'
-      - '{''id'': 3, ''label'': ''5000-20000''}'
-      - '{''id'': 4, ''label'': ''20000-100000''}'
-      - '{''id'': 5, ''label'': ''Not Specified''}'
+      - Less than 1000
+      - 1000-5000
+      - 5000-20000
+      - 20000-100000
+      - Not Specified
       required: false
     - id: 16
       name: household_survey_employed_income_range_3
@@ -156,10 +156,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Less than 1000''}'
-      - '{''id'': 2, ''label'': ''1000-5000''}'
-      - '{''id'': 3, ''label'': ''5000-20000''}'
-      - '{''id'': 4, ''label'': ''Not Specified''}'
+      - Less than 1000
+      - 1000-5000
+      - 5000-20000
+      - Not Specified
       required: true
     - id: 17
       name: household_survey_employed_income_range_4
@@ -167,12 +167,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Under 1000''}'
-      - '{''id'': 2, ''label'': ''1000-5000''}'
-      - '{''id'': 3, ''label'': ''5000-10000''}'
-      - '{''id'': 4, ''label'': ''10000-50000''}'
-      - '{''id'': 5, ''label'': ''50000-100000''}'
-      - '{''id'': 6, ''label'': ''Not Specified''}'
+      - Under 1000
+      - 1000-5000
+      - 5000-10000
+      - 10000-50000
+      - 50000-100000
+      - Not Specified
       required: false
     - id: 18
       name: household_survey_employed_education_level_2
@@ -180,11 +180,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Less than High School''}'
-      - '{''id'': 2, ''label'': ''High School''}'
-      - '{''id'': 3, ''label'': ''Some College''}'
-      - '{''id'': 4, ''label'': ''College''}'
-      - '{''id'': 5, ''label'': ''Not Specified''}'
+      - Less than High School
+      - High School
+      - Some College
+      - College
+      - Not Specified
       required: true
     - id: 19
       name: household_survey_employed_education_level_3
@@ -192,11 +192,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Less than High School''}'
-      - '{''id'': 2, ''label'': ''High School''}'
-      - '{''id'': 3, ''label'': ''Some College''}'
-      - '{''id'': 4, ''label'': ''College''}'
-      - '{''id'': 5, ''label'': ''Not Specified''}'
+      - Less than High School
+      - High School
+      - Some College
+      - College
+      - Not Specified
       required: false
     - id: 20
       name: household_survey_employed_education_level_4
@@ -204,11 +204,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Less than High School''}'
-      - '{''id'': 2, ''label'': ''High School''}'
-      - '{''id'': 3, ''label'': ''Some College''}'
-      - '{''id'': 4, ''label'': ''College''}'
-      - '{''id'': 5, ''label'': ''Not Specified''}'
+      - Less than High School
+      - High School
+      - Some College
+      - College
+      - Not Specified
       required: true
     - id: 21
       name: household_survey_employed_education_level_5
@@ -216,11 +216,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Less than High School''}'
-      - '{''id'': 2, ''label'': ''High School''}'
-      - '{''id'': 3, ''label'': ''Some College''}'
-      - '{''id'': 4, ''label'': ''College''}'
-      - '{''id'': 5, ''label'': ''Not Specified''}'
+      - Less than High School
+      - High School
+      - Some College
+      - College
+      - Not Specified
       required: false
     - id: 22
       name: household_survey_employed_language
@@ -228,9 +228,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''Not Specified''}'
+      - English
+      - Spanish
+      - Not Specified
       required: true
     - id: 23
       name: household_survey_employed_language_2
@@ -238,9 +238,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''Not Specified''}'
+      - English
+      - Spanish
+      - Not Specified
       required: true
     - id: 24
       name: household_survey_employed_language_3
@@ -248,8 +248,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Not Specified''}'
+      - English
+      - Not Specified
       required: false
     - id: 25
       name: household_survey_employed_language_4
@@ -257,6 +257,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Not Specified''}'
+      - English
+      - Not Specified
       required: false

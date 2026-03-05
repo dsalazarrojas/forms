@@ -16,176 +16,106 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: plumbing_inspection_checklist_form
-      hint: null
+      label: General Areas
+      hint: Inspect floors, walls, and ceilings for any signs of water damage or leaks.
       type: text
       options: []
       required: false
     - id: 2
       name: page_2
-      label: general_areas
-      hint: null
-      type: text
-      options: []
+      label: Kitchen
+      hint: Inspect kitchen area, including sinks, faucets, and water heaters.
+      type: select_multiple
+      options:
+      - Sinks, faucets, and water heaters
+      - Drain and disposal systems
+      - Water supply lines and connections
+      - Other (specify)
       required: false
     - id: 3
-      name: page_2a
-      label: kitchen
-      hint: null
-      type: text
-      options: []
+      name: page_3
+      label: Bathroom
+      hint: Inspect bathroom area, including toilets, showers, and bathtubs.
+      type: select_multiple
+      options:
+      - Toilets and urinals
+      - Shower and bathtubs
+      - Sinks and vanities
+      - Other (specify)
       required: false
     - id: 4
-      name: page_2b
-      label: bathroom
-      hint: null
-      type: text
-      options: []
+      name: page_4
+      label: Laundry
+      hint: Inspect laundry area, including washing machines, dryers, and water supply
+        lines.
+      type: select_one
+      options:
+      - Good condition
+      - Repair needed
+      - Not inspected
       required: false
     - id: 5
-      name: page_3
-      label: laundry_area
-      hint: null
-      type: text
-      options: []
+      name: page_5
+      label: Outdoor
+      hint: Inspect outdoor areas, including outdoor faucets, hoses, and pipes.
+      type: select_multiple
+      options:
+      - Outdoor faucets
+      - Hoses and pipes
+      - Other (specify)
       required: false
     - id: 6
-      name: page_3a
-      label: laundry
-      hint: null
-      type: text
-      options: []
+      name: page_6
+      label: Electrical Systems
+      hint: Inspect electrical systems, including circuit breakers, outlets, and wiring.
+      type: select_multiple
+      options:
+      - Circuit breakers and fuses
+      - Outlets and switches
+      - Wiring and connections
+      - Other (specify)
       required: false
     - id: 7
-      name: page_3b
-      label: other_areas
-      hint: null
-      type: text
-      options: []
+      name: page_7
+      label: Plumbing Systems
+      hint: Inspect plumbing systems, including pipes, fixtures, and water meters.
+      type: select_multiple
+      options:
+      - Pipes and fixtures
+      - Water meters and regulators
+      - Drains and disposal systems
+      - Other (specify)
       required: false
     - id: 8
-      name: page_3b_a
-      label: other
-      hint: null
-      type: text
-      options: []
+      name: page_8
+      label: Heating and Air Conditioning Systems
+      hint: Inspect heating and air conditioning systems, including furnaces, air
+        conditioners, and vents.
+      type: select_multiple
+      options:
+      - Furnaces and air conditioners
+      - Vents and ducts
+      - Thermostats and controls
+      - Other (specify)
       required: false
     - id: 9
-      name: page_4
-      label: outdoor_areas
-      hint: null
-      type: text
-      options: []
+      name: page_9
+      label: Safety Features
+      hint: Inspect safety features, including smoke detectors, fire extinguishers,
+        and emergency exits.
+      type: select_multiple
+      options:
+      - Smoke detectors
+      - Fire extinguishers
+      - Emergency exits and exits signs
+      - Other (specify)
       required: false
     - id: 10
-      name: page_4a
-      label: outdoor
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: page_5
-      label: electrical_systems
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: page_5a
-      label: electrical_systems
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: page_6
-      label: plumbing_systems
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: page_6a
-      label: plumbing_systems
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: page_7
-      label: heating_air_conditioning_systems
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: page_7a
-      label: heating
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: page_7b
-      label: air_conditioning
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: page_8
-      label: safety_features
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: page_8a
-      label: safety
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: page_9
-      label: final_inspection
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: page_9a
-      label: final_checklist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: page_9b
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: page_9b_a
-      label: note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
       name: page_10
-      label: certification
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: page_10a
-      label: certification
-      hint: null
-      type: text
-      options: []
+      label: Certification
+      hint: Record the inspection findings and certification.
+      type: radio
+      options:
+      - Passed
+      - Failed
       required: false

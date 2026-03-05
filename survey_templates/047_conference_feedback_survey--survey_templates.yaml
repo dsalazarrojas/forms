@@ -1,106 +1,95 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Conference Feedback Survey
     pages:
-      - id: 1
-        name: respondent_name
-        label: Respondent name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: email
-        label: Contact email
-        hint: For follow up about feedback
-        type: email
-        options: []
-        required: false
-      - id: 3
-        name: overall_rating
-        label: Overall event rating
-        hint: Rate the overall conference
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 4
-        name: session_relevance
-        label: Session relevance
-        hint: How relevant were the sessions to your needs
-        type: select_one
-        options:
-          - Very relevant
-          - Somewhat relevant
-          - Not relevant
-        required: true
-      - id: 5
-        name: organization_rating
-        label: Organization and logistics rating
-        hint: Registration, signage, and staffing
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 6
-        name: value_for_money
-        label: Value for money
-        hint: Was the event worth the price
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-        required: false
-      - id: 7
-        name: networking_value
-        label: Networking value
-        hint: Quality of networking opportunities
-        type: select_one
-        options:
-          - High
-          - Moderate
-          - Low
-        required: false
-      - id: 8
-        name: speaker_feedback
-        label: Speaker feedback
-        hint: Comments about presenters or topics
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: suggestions
-        label: Suggestions for next year
-        hint: Ideas to improve future conferences
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: follow_up_consent
-        label: Consent to follow up
-        hint: Allow organizers to contact you about feedback
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Contact email
+      hint: For follow up about feedback
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: overall_rating
+      label: Overall event rating
+      hint: Rate the overall conference
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: session_relevance
+      label: Session relevance
+      hint: How relevant were the sessions to your needs
+      type: select_one
+      options:
+      - Very relevant
+      - Somewhat relevant
+      - Not relevant
+      required: true
+    - id: 5
+      name: organization_rating
+      label: Organization and logistics rating
+      hint: Registration, signage, and staffing
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: value_for_money
+      label: Value for money
+      hint: Was the event worth the price
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: networking_value
+      label: Networking value
+      hint: Quality of networking opportunities
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 8
+      name: speaker_feedback
+      label: Speaker feedback
+      hint: Comments about presenters or topics
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: Suggestions for next year
+      hint: Ideas to improve future conferences
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_consent
+      label: Consent to follow up
+      hint: Allow organizers to contact you about feedback
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

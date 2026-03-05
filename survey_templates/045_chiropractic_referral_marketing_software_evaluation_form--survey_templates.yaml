@@ -1,85 +1,74 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Chiropractic Referral Marketing Software Evaluation Form
     pages:
-      - id: 1
-        name: evaluator_name
-        label: Evaluator Name
-        hint: Person completing the evaluation
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: organization
-        label: Organization
-        hint: Clinic or practice name
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: software_name
-        label: Software Name
-        hint: Name of product being evaluated
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: ease_of_use
-        label: Ease of Use
-        hint: Rate user friendliness
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 5
-        name: referral_tracking
-        label: Referral Tracking Capability
-        hint: Does it track referrals effectively
-        type: select_one
-        options:
-          - Yes
-          - Partially
-          - No
-        required: true
-      - id: 6
-        name: integration_options
-        label: Integration Options
-        hint: Note integrations supported e.g., EHR, CRM
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: value_for_money
-        label: Value for Money
-        hint: Rate cost effectiveness
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 8
-        name: overall_recommendation
-        label: Overall Recommendation
-        hint: Would you recommend this product
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
+    - id: 1
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Person completing the evaluation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization
+      hint: Clinic or practice name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: software_name
+      label: Software Name
+      hint: Name of product being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ease_of_use
+      label: Ease of Use
+      hint: Rate user friendliness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: referral_tracking
+      label: Referral Tracking Capability
+      hint: Does it track referrals effectively
+      type: select_one
+      options:
+      - 'True'
+      - Partially
+      - 'False'
+      required: true
+    - id: 6
+      name: integration_options
+      label: Integration Options
+      hint: Note integrations supported e.g., EHR, CRM
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: value_for_money
+      label: Value for Money
+      hint: Rate cost effectiveness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: overall_recommendation
+      label: Overall Recommendation
+      hint: Would you recommend this product
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Banner''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - Banner
+      - Other
       required: true
     - id: 3
       name: banner_size
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Small''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: true
     - id: 4
       name: color_scheme
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Blue''}'
-      - '{''id'': 2, ''label'': ''Red''}'
-      - '{''id'': 3, ''label'': ''Green''}'
+      - Blue
+      - Red
+      - Green
       required: true
     - id: 5
       name: font_scheme
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Arial''}'
-      - '{''id'': 2, ''label'': ''Helvetica''}'
-      - '{''id'': 3, ''label'': ''Times New Roman''}'
+      - Arial
+      - Helvetica
+      - Times New Roman
       required: true
     - id: 6
       name: description
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Submit''}'
-      - '{''id'': 2, ''label'': ''Cancel''}'
+      - Submit
+      - Cancel
       required: true
     - id: 10
       name: form_comments
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 11
       name: form_comments_hint
@@ -116,8 +116,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: time

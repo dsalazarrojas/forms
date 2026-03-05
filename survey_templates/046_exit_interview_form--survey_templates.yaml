@@ -23,12 +23,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Job not offered''}'
-      - '{''value'': ''Job offer was not accepted''}'
-      - '{''value'': ''Job responsibilities changed''}'
-      - '{''value'': ''Company policies and procedures''}'
-      - '{''value'': ''Harassment or discrimination''}'
-      - '{''value'': ''Other''}'
+      - Job not offered
+      - Job offer was not accepted
+      - Job responsibilities changed
+      - Company policies and procedures
+      - Harassment or discrimination
+      - Other
       required: true
     - id: 4
       name: job_title
@@ -43,10 +43,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Sales''}'
-      - '{''value'': ''Marketing''}'
-      - '{''value'': ''Support''}'
-      - '{''value'': ''Other''}'
+      - Sales
+      - Marketing
+      - Support
+      - Other
       required: true
     - id: 6
       name: manager_questions

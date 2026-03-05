@@ -23,13 +23,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Adventure''}'
-      - '{''value'': ''Relaxation''}'
-      - '{''value'': ''Cultural''}'
-      - '{''value'': ''Beach''}'
-      - '{''value'': ''Food''}'
-      - '{''value'': ''History''}'
-      - '{''value'': ''Nature''}'
+      - Adventure
+      - Relaxation
+      - Cultural
+      - Beach
+      - Food
+      - History
+      - Nature
       required: false
     - id: 4
       name: trip_length
@@ -51,12 +51,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Family''}'
-      - '{''value'': ''Romantic''}'
-      - '{''value'': ''Adventure''}'
-      - '{''value'': ''Business''}'
-      - '{''value'': ''Food''}'
-      - '{''value'': ''History''}'
+      - Family
+      - Romantic
+      - Adventure
+      - Business
+      - Food
+      - History
       required: false
     - id: 7
       name: budget
@@ -92,10 +92,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Text''}'
-      - '{''value'': ''WhatsApp''}'
+      - Email
+      - Phone
+      - Text
+      - WhatsApp
       required: false
     - id: 12
       name: preferred_contact_time
@@ -103,10 +103,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
-      - '{''value'': ''Evening''}'
-      - '{''value'': ''Anytime''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
       required: false
     - id: 13
       name: travel_agency
@@ -184,8 +184,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: travel_agency_terms

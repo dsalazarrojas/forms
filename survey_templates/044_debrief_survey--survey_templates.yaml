@@ -5,171 +5,93 @@ inputSchema:
     pages:
     - id: 1
       name: intro_page
-      label: introduction_to_debrief_survey
-      hint: null
+      label: Introduction
+      hint: A brief welcome message to users.
       type: text
       options: []
       required: false
     - id: 2
       name: team_members
-      label: team_members
-      hint: null
+      label: Team members
+      hint: List the team members who were present during the event.
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Team Lead
+      - Event Coordinator
+      - Project Manager
+      - Team Member
+      - Others
       required: false
     - id: 3
       name: feedback
-      label: feedback_on_event_or_project
-      hint: null
+      label: Feedback
+      hint: Provide detailed feedback about the event or project.
       type: note
       options: []
       required: false
     - id: 4
-      name: ratings
-      label: overall_effectiveness_rating
+      name: effectiveness_rating
+      label: Overall Effectiveness Rating
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Highly effective
+      - Somewhat effective
+      - Not effective
       required: false
     - id: 5
       name: recommendations
-      label: what_to_improve
-      hint: null
+      label: Recommendations
+      hint: Suggest improvements for future events or projects.
       type: note
       options: []
       required: false
     - id: 6
       name: comments
-      label: additional_comments
-      hint: null
+      label: Additional Comments
+      hint: Provide any additional comments or notes.
       type: note
       options: []
       required: false
     - id: 7
-      name: conclusion_page
-      label: conclusion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: submit
-      label: submit
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 9
-      name: assigned_user
-      label: assigned_user
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: team_name
-      label: team_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: event_name
-      label: event_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: form_id
-      label: Form Id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: created_by
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: created_at
-      label: Created At
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: updated_at
-      label: Updated At
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: version
-      label: Version
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
       name: form_version
       label: Form Version
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
-      name: form_version_id
-      label: Form Version Id
+    - id: 8
+      name: form_id
+      label: Form ID
       hint: null
       type: number
       options: []
       required: false
-    - id: 19
+    - id: 9
       name: created_by
-      label: created_by
+      label: Created By
       hint: null
       type: text
       options: []
       required: false
-    - id: 20
+    - id: 10
       name: updated_by
-      label: updated_by
+      label: Updated By
       hint: null
       type: text
       options: []
       required: false
-    - id: 21
-      name: created_at
-      label: created_at
+    - id: 11
+      name: updated_at
+      label: Updated At
       hint: null
       type: date
       options: []
       required: false
-    - id: 22
-      name: updated_at
-      label: updated_at
+    - id: 12
+      name: form_version_id
+      label: Form Version ID
       hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: updated_at
-      label: updated_at
-      hint: null
-      type: text
+      type: number
       options: []
       required: false

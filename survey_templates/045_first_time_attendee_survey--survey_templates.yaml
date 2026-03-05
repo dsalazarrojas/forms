@@ -18,9 +18,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''maybe''}'
+      - 'True'
+      - 'False'
+      - maybe
       required: false
     - id: 3
       name: feedback
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''conference''}'
-      - '{''label'': ''workshop''}'
-      - '{''label'': ''seminar''}'
+      - conference
+      - workshop
+      - seminar
       required: false
     - id: 5
       name: event_date
@@ -59,8 +59,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: previous_attendee_status
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''first time''}'
-      - '{''label'': ''return''}'
+      - first time
+      - return
       required: false
     - id: 9
       name: attended_sponsored_event_before
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: sponsored
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: sponsor

@@ -4,177 +4,37 @@ inputSchema:
     title: Employee Handbook Compliance Time Off Form
     pages:
     - id: 1
-      name: employee_handbook_compliance_time_off_form
-      label: form_header
+      name: employee_information
+      label: Employee Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: employee_id
-      label: employee_id
+      name: time_off_request
+      label: Time Off Request
       hint: null
-      type: number
+      type: text
       options: []
-      required: true
+      required: false
     - id: 3
-      name: employee_email
-      label: employee_email
+      name: time_off_dates
+      label: Time Off Dates
       hint: null
-      type: email
+      type: text
       options: []
-      required: true
+      required: false
     - id: 4
-      name: employee_name
-      label: employee_name
+      name: signature_and_comments
+      label: Signature and Comments
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 5
-      name: date_of_departure
-      label: date_of_departure
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 6
-      name: reason_for_time_off
-      label: reason_for_time_off
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: text
-      options: []
-      required: true
-    - id: 7
-      name: time_off_days
-      label: time_off_days
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 8
-      name: time_off_request_date
-      label: time_off_request_date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 9
-      name: employee_signature
-      label: employee_signature
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 10
-      name: manager_signature
-      label: manager_signature
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: manager_name
-      label: manager_name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: time_off_request_date_approved
-      label: time_off_request_date_approved
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: time_off_request_date_rejected
-      label: time_off_request_date_rejected
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: manager_comments
-      label: manager_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: time_off_request_date_approved_manager
-      label: time_off_request_date_approved_manager
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: time_off_request_date_rejected_manager
-      label: time_off_request_date_rejected_manager
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: time_off_request_date_approved_hire_manager
-      label: time_off_request_date_approved_hire_manager
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: time_off_request_date_rejected_hire_manager
-      label: time_off_request_date_rejected_hire_manager
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: time_off_request_date_approved_hire_manager
-      label: time_off_request_date_approved_hire_manager
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: time_off_request_date_rejected_hire_manager
-      label: time_off_request_date_rejected_hire_manager
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: time_off_request_date_approved
-      label: time_off_request_date_approved
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 22
-      name: time_off_request_date_rejected
-      label: time_off_request_date_rejected
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 23
-      name: time_off_request_date_approved_manager
-      label: time_off_request_date_approved_manager
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: time_off_request_date_rejected_manager
-      label: time_off_request_date_rejected_manager
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: time_off_request_date_approved_hire
-      label: time_off_request_date_approved_hire
-      hint: null
-      type: date
       options: []
       required: false

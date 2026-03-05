@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Individual''}'
-      - '{''value'': ''Company''}'
+      - Individual
+      - Company
       required: true
     - id: 11
       name: vendor_category
@@ -81,10 +81,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Manufacturer''}'
-      - '{''value'': ''Retailer''}'
-      - '{''value'': ''Service''}'
-      - '{''value'': ''Other''}'
+      - Manufacturer
+      - Retailer
+      - Service
+      - Other
       required: true
     - id: 12
       name: business_name

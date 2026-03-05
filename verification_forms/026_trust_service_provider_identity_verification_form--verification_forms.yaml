@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Bank''}'
-      - '{''id'': 2, ''label'': ''Government''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Bank
+      - Government
+      - Other
       required: true
     - id: 12
       name: service_provider_logo
@@ -110,9 +110,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Manual Check''}'
-      - '{''id'': 2, ''label'': ''Automatic Check''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Manual Check
+      - Automatic Check
+      - Other
       required: true
     - id: 16
       name: review_status
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In Progress''}'
-      - '{''id'': 2, ''label'': ''Approved''}'
-      - '{''id'': 3, ''label'': ''Rejected''}'
+      - In Progress
+      - Approved
+      - Rejected
       required: true
     - id: 17
       name: date_of_verification
@@ -165,7 +165,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pending''}'
-      - '{''id'': 2, ''label'': ''Verified''}'
-      - '{''id'': 3, ''label'': ''Rejected''}'
+      - Pending
+      - Verified
+      - Rejected
       required: true

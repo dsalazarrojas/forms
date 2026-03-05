@@ -4,229 +4,87 @@ inputSchema:
     title: Fall Protection Knowledge Quiz
     pages:
     - id: 1
-      name: first_page
-      label: Fall Protection Knowledge Quiz
+      name: fall_protection_purpose
+      label: What is the primary purpose of fall protection in the workplace?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: section_1
-      label: Safety Awareness
+      name: fall_protection_frequency
+      label: How often should fall protection gear be inspected and maintained?
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
+      type: number
+      options: []
       required: true
     - id: 3
-      name: section_2
-      label: Fall Protection
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
-      required: true
-    - id: 4
-      name: section_3
-      label: Quiz Questions
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 5
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 6
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 7
-      name: section_4
-      label: Quiz Questions
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
-      required: true
-    - id: 8
-      name: section_5
-      label: Quiz Questions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
-      required: true
-    - id: 9
-      name: section_6
-      label: Quiz Questions
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
-      required: true
-    - id: 10
-      name: section_7
-      label: Quiz Questions
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
-      required: true
-    - id: 11
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 12
-      name: phone
-      label: Phone
+      name: hard_hat_wearing
+      label: What is the correct way to properly wear a hard hat?
       hint: null
       type: text
       options: []
       required: true
-    - id: 13
-      name: notes
-      label: Notes
+    - id: 4
+      name: fall_prevention_methods
+      label: How can one prevent falls from heights in the workplace?
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
-    - id: 14
-      name: section_8
-      label: Quiz Questions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
       required: true
-    - id: 15
-      name: section_9
-      label: Quiz Questions
+    - id: 5
+      name: first_aid_after_fall
+      label: What should be the first aid administered after a fall?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
+      type: text
+      options: []
       required: true
-    - id: 16
-      name: section_10
-      label: Quiz Questions
+    - id: 6
+      name: harness_max_weight
+      label: What is the maximum weight capacity of a fall protection harness?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
+      type: number
+      options: []
       required: true
-    - id: 17
-      name: section_11
-      label: Quiz Questions
+    - id: 7
+      name: harness_storage
+      label: How can one properly store a harness after each use?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
+      type: text
+      options: []
       required: true
-    - id: 18
-      name: section_12
-      label: Quiz Questions
+    - id: 8
+      name: emergency_procedure
+      label: What should be done in case of an emergency during a fall?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
+      type: text
+      options: []
       required: true
-    - id: 19
-      name: section_13
-      label: Quiz Questions
+    - id: 9
+      name: spotter_role
+      label: What is the role of a spotter in fall protection?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
-    - id: 20
-      name: section_14
-      label: Quiz Questions
+    - id: 10
+      name: ladder_misuse
+      label: How can one prevent ladder misuse in the workplace?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
+      type: text
+      options: []
       required: true
-    - id: 21
-      name: section_15
-      label: Quiz Questions
+    - id: 11
+      name: fall_protection_in_confined_spaces
+      label: What is the proper usage of fall protection gear in confined spaces?
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
+      type: text
+      options: []
       required: true
-    - id: 22
-      name: section_16
-      label: Quiz Questions
+    - id: 12
+      name: head_injury_first_aid
+      label: What should be the first aid administered after a head injury from a
+        fall?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
-      required: true
-    - id: 23
-      name: section_17
-      label: Quiz Questions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
-      required: true
-    - id: 24
-      name: section_18
-      label: Quiz Questions
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 25
-      name: section_19
-      label: Quiz Questions
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
+      type: text
+      options: []
       required: true

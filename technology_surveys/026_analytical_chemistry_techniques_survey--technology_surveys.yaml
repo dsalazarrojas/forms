@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -40,14 +29,22 @@ inputSchema:
       label: Primary techniques used
       hint: Select all that apply
       type: select_multiple
-      options: [HPLC, Mass spectrometry, Spectroscopy, Chromatography]
+      options:
+      - HPLC
+      - Mass spectrometry
+      - Spectroscopy
+      - Chromatography
       required: true
     - id: 5
       name: frequency_of_use
       label: Frequency of use
       hint: How often do you use these techniques
       type: select_one
-      options: [Daily, Weekly, Monthly, Rarely]
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
       required: false
     - id: 6
       name: training_needs
@@ -61,7 +58,12 @@ inputSchema:
       label: Equipment satisfaction rating
       hint: Rate from 1 to 5
       type: select_one
-      options: [1, 2, 3, 4, 5]
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 8
       name: comments

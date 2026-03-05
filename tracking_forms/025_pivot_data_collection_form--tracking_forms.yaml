@@ -7,79 +7,105 @@ inputSchema:
       name: data_sources
       label: Data Sources
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 2
-      name: row_fields
-      label: Row Fields
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: column_fields
-      label: Column Fields
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: aggregation_details
-      label: Aggregation Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: data_sources
-      label: Data Sources
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
       name: aggregation_method
       label: Aggregation Method
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: aggregation_type
-      label: Aggregation Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: aggregation_type
-      label: Aggregation Type
-      hint: null
       type: text
       options: []
       required: false
-    - id: 9
+    - id: 3
+      name: aggregation_type
+      label: Aggregation Type
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
       name: row_fields
       label: Row Fields
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false
-    - id: 10
+    - id: 5
       name: column_fields
       label: Column Fields
       hint: null
       type: text
       options: []
+      required: false
+    - id: 6
+      name: data_storage_location
+      label: Data Storage Location
+      hint: null
+      type: select_one
+      options:
+      - cloud
+      - on-premises
+      required: false
+    - id: 7
+      name: data_security
+      label: Data Security
+      hint: null
+      type: select_one
+      options:
+      - security measures
+      - none
+      required: false
+    - id: 8
+      name: data_collection_frequency
+      label: Data Collection Frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 9
+      name: data_collection_method
+      label: Data Collection Method
+      hint: null
+      type: select_one
+      options:
+      - manual
+      - automatic
+      required: false
+    - id: 10
+      name: data_type
+      label: Data Type
+      hint: null
+      type: select_one
+      options:
+      - numeric
+      - text
+      - date
+      required: false
+    - id: 11
+      name: row_fields_type
+      label: Row Fields Type
+      hint: null
+      type: select_one
+      options:
+      - numeric
+      - text
+      - date
+      required: false
+    - id: 12
+      name: column_fields_type
+      label: Column Fields Type
+      hint: null
+      type: select_one
+      options:
+      - numeric
+      - text
+      - date
       required: false

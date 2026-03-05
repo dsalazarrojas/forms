@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''project''}'
-      - '{''value'': ''task''}'
-      - '{''value'': ''event''}'
+      - project
+      - task
+      - event
       required: false
     - id: 6
       name: project
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''inactive''}'
-      - '{''value'': ''pending''}'
+      - active
+      - inactive
+      - pending
       required: false
     - id: 13
       name: comments
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''internal''}'
-      - '{''value'': ''external''}'
-      - '{''value'': ''none''}'
+      - internal
+      - external
+      - none
       required: false
     - id: 16
       name: notes
@@ -166,8 +166,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: participant_phone_verified
@@ -175,8 +175,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: participant_status
@@ -184,9 +184,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''inactive''}'
-      - '{''value'': ''pending''}'
+      - active
+      - inactive
+      - pending
       required: false
     - id: 24
       name: project_status

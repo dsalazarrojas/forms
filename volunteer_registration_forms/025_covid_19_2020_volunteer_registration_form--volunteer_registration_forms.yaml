@@ -75,7 +75,7 @@ inputSchema:
       - Yes - Active clinician
       - Yes - Healthcare support
       - Yes - Retired healthcare
-      - false
+      - 'False'
       required: true
     - id: 11
       name: medical_credentials
@@ -152,8 +152,8 @@ inputSchema:
       hint: COVID-19 risk factors
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Prefer not to say
       required: true
     - id: 18
@@ -162,8 +162,8 @@ inputSchema:
       hint: Do you live with high-risk individuals
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: covid_training
@@ -171,7 +171,7 @@ inputSchema:
       hint: Have you completed infection control training
       type: select_one
       options:
-      - true
+      - 'True'
       - No - Willing to complete
       - No - Not interested
       required: true
@@ -207,7 +207,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Consent
-      - false
+      - 'False'
       required: true
     - id: 24
       name: health_insurance
@@ -215,8 +215,8 @@ inputSchema:
       hint: Current coverage
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: liability_waiver
@@ -234,7 +234,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Agree
-      - false
+      - 'False'
       required: true
     - id: 27
       name: motivation

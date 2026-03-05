@@ -4,46 +4,32 @@ inputSchema:
     title: Shopping Behavior Survey
     pages:
     - id: 1
-      name: shopping_behavior_survey
-      label: shopping_behavior_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: shopping_frequency
-      label: shopping_frequency
+      name: question1
+      label: What is your average frequency of shopping at stores?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 3
-      name: shopping_frequency_type
-      label: shopping_frequency_type
+      required: true
+    - id: 2
+      name: question2
+      label: Do you usually shop online or offline?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 4
-      name: shopping_frequency_type_other
-      label: shopping_frequency_type_other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: shopping_online
-      label: shopping_online
+      - Online
+      - Offline
+      - Both
+      required: true
+    - id: 3
+      name: question3
+      label: How often do you shop online?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 6
-      name: shopping_online_type
-      label: shopping_online_type
+      required: true
+    - id: 4
+      name: question4
+      label: What type of store do you usually shop at (if online)?
       hint: null
       type: select_one
       options:
@@ -51,149 +37,93 @@ inputSchema:
       - Mobile App
       - Both
       - Other
-      required: false
-    - id: 7
-      name: shopping_online_type_other
-      label: shopping_online_type_other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: shopping_online_frequency
-      label: shopping_online_frequency
+      required: true
+    - id: 5
+      name: question5
+      label: How often do you shop in-store?
       hint: null
       type: number
+      options: []
+      required: true
+    - id: 6
+      name: question6
+      label: How often do you shop outside of stores?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: question7
+      label: Do you usually shop with a specific frequency in-store?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 8
+      name: question8
+      label: What is your favorite in-store shopping frequency?
+      hint: null
+      type: text
       options: []
       required: false
     - id: 9
-      name: shopping_frequency_in_store
-      label: shopping_frequency_in_store
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: shopping_frequency_in_store_type
-      label: shopping_frequency_type
+      name: question9
+      label: Do you shop online with a specific frequency?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 11
-      name: shopping_frequency_in_store_type_other
-      label: shopping_frequency_in_store_type_other
+    - id: 10
+      name: question10
+      label: What is your favorite online shopping frequency?
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
-      name: shopping_frequency_in_store
-      label: shopping_frequency_in_store
+    - id: 11
+      name: question11
+      label: Do you shop in-store with a specific frequency?
       hint: null
-      type: number
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 12
+      name: question12
+      label: Question12
+      hint: null
+      type: text
       options: []
       required: false
     - id: 13
-      name: shopping_frequency_in_store_frequency
-      label: shopping_frequency_in_store_frequency
+      name: question13
+      label: How often do you shop at other places outside of stores?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 14
-      name: shopping_frequency_in_store_type
-      label: shopping_frequency_type
+      name: question14
+      label: Do you shop at other places outside of stores with a specific frequency?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 15
-      name: shopping_frequency_in_store_type_other
-      label: shopping_frequency_type_other
+      name: question15
+      label: What is your favorite shopping frequency outside of stores?
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 16
-      name: shopping_frequency_in_store_frequency
-      label: shopping_frequency_in_store_frequency
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: shopping_frequency_in_store
-      label: shopping_frequency_in_store
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: shopping_frequency_outside
-      label: shopping_frequency_outside
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: shopping_frequency_outside_type
-      label: shopping_frequency_outside_type
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 20
-      name: shopping_frequency_outside_type_other
-      label: shopping_frequency_outside_type_other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: shopping_frequency_outside
-      label: shopping_frequency_outside
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: shopping_frequency_outside_type
-      label: shopping_frequency_outside_type
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 23
-      name: shopping_frequency_outside_frequency
-      label: shopping_frequency_outside_frequency
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: shopping_frequency_outside
-      label: shopping_frequency_outside
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: shopping_frequency_outside_frequency
-      label: shopping_frequency_outside_frequency
-      hint: null
-      type: number
       options: []
       required: false

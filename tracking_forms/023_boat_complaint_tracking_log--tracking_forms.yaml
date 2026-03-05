@@ -110,8 +110,8 @@ inputSchema:
       hint: Were there witnesses?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: witness_names
@@ -186,8 +186,8 @@ inputSchema:
       hint: Was the complainant satisfied?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Pending Follow-Up
       - Not Contacted
       required: false
@@ -197,8 +197,8 @@ inputSchema:
       hint: Is additional action needed?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: follow_up_date

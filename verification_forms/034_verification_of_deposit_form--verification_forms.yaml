@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Bank Draft''}'
-      - '{''label'': ''Check''}'
-      - '{''label'': ''Money Order''}'
-      - '{''label'': ''Other''}'
+      - Bank Draft
+      - Check
+      - Money Order
+      - Other
       required: true
     - id: 10
       name: notes
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''One Time Payment''}'
-      - '{''label'': ''Recurring Payment''}'
-      - '{''label'': ''Unknown''}'
+      - One Time Payment
+      - Recurring Payment
+      - Unknown
       required: false
     - id: 12
       name: verification_status
@@ -93,8 +93,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Verified''}'
-      - '{''label'': ''Unverified''}'
+      - Verified
+      - Unverified
       required: false
     - id: 13
       name: verification_method

@@ -5,13 +5,16 @@ inputSchema:
     pages:
     - id: 1
       name: patron_saint_selection
-      label: Select A Patron Saint
+      label: Select a Patron Saint
       hint: null
       type: select_one
       options:
-      - John the Baptist
-      - Mary
-      - Paul
+      - Saint John the Baptist
+      - Saint Mary
+      - Saint Paul
+      - Saint Michael
+      - Saint Peter
+      - Saint Francis of Assisi
       required: true
     - id: 2
       name: reason_for_choice
@@ -26,157 +29,38 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 4
-      name: other_info
-      label: Other Information
+      name: contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: email
-      label: Email
+      name: other_info
+      label: Other Information
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 6
-      name: phone
-      label: Phone
+      name: submission_date
+      label: Submission Date
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 7
-      name: comments
-      label: Comments
+      name: submitter
+      label: Submitter
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: submission_date
-      label: Submission Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: submitted_by
-      label: Submitter
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 10
-      name: submitter_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: submitter_email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 12
-      name: submitter_phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: submitter_other_info
-      label: Other Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: church_name_other
-      label: Church Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: other_info
-      label: Other Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: church_other_info
-      label: Other Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: church_other_info_other
-      label: Other Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: submission_date
-      label: Submission Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: submitted_by
-      label: Submitter
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: submitter_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: submitter_email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: submitter_phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: submitter_other_info
-      label: Other Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: other_info
-      label: Other Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: church_other_info
-      label: Other Information
+      name: church_info
+      label: Church Information
       hint: null
       type: text
       options: []

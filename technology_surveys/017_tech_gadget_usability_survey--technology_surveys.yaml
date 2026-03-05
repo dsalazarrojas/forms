@@ -4,204 +4,140 @@ inputSchema:
     title: Tech Gadget Usability Survey
     pages:
     - id: 1
-      name: tech_gadget_usability_survey_form
-      label: main
+      name: usage_frequency
+      label: How long do you use the tech gadget daily?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: user_info
-      label: user_info
+      name: user_experience
+      label: Rate the user experience of the tech gadget
       hint: null
-      type: text
-      options: []
-      required: false
+      type: radio
+      options:
+      - Very positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very negative
+      required: true
     - id: 3
-      name: product_info
-      label: product_info
+      name: favorite_features
+      label: Which features do you enjoy most about the tech gadget?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Performance
+      - Design
+      - User Interface
+      - Other (please specify)
       required: false
     - id: 4
-      name: tech_gadget_usability_survey_form_questions_1
-      label: main
+      name: likelihood_to_recommend
+      label: How likely are you to recommend the tech gadget to a friend?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very likely
+      - Somewhat likely
+      - Not very likely
+      - Not at all
+      required: true
     - id: 5
-      name: tech_gadget_usability_survey_form_questions_2
-      label: main
+      name: work_use
+      label: How often do you use the tech gadget for work?
       hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - Daily
+      - Weekly
+      - Occasionally
+      - Rarely
       required: false
     - id: 6
-      name: tech_gadget_usability_survey_form_questions_3
-      label: main
+      name: performance
+      label: How satisfied are you with the tech gadget's performance?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: radio
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
     - id: 7
-      name: tech_gadget_usability_survey_form_questions_4
-      label: main
+      name: suggestions
+      label: Do you have any suggestions for improving the tech gadget's usability?
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 8
-      name: tech_gadget_usability_survey_form_questions_5
-      label: main
+      name: battery_importance
+      label: How important is the battery life of the tech gadget to you?
       hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      - Not at all important
       required: false
     - id: 9
-      name: tech_gadget_usability_survey_form_questions_6
-      label: main
+      name: design_aesthetic
+      label: How would you rate the tech gadget's design aesthetic?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: radio
+      options:
+      - Very attractive
+      - Somewhat attractive
+      - Neutral
+      - Somewhat unattractive
+      - Very unattractive
+      required: true
     - id: 10
-      name: tech_gadget_usability_survey_form_questions_7
-      label: main
+      name: navigation
+      label: How easy is it to navigate the tech gadget's interface?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: radio
+      options:
+      - Very easy
+      - Somewhat easy
+      - Neutral
+      - Somewhat difficult
+      - Very difficult
+      required: true
     - id: 11
-      name: tech_gadget_usability_survey_form_questions_8
-      label: main
+      name: software_issues
+      label: Have you ever experienced any issues with the tech gadget's software
+        or hardware?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: tech_gadget_usability_survey_form_questions_9
-      label: main
+      name: price
+      label: Would you pay more for a tech gadget with better performance?
       hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 13
-      name: tech_gadget_usability_survey_form_questions_10
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: tech_gadget_usability_survey_form_questions_11
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: tech_gadget_usability_survey_form_questions_12
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: tech_gadget_usability_survey_form_questions_13
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: tech_gadget_usability_survey_form_questions_14
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: tech_gadget_usability_survey_form_questions_15
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: tech_gadget_usability_survey_form_questions_16
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: tech_gadget_usability_survey_form_questions_17
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: tech_gadget_usability_survey_form_questions_18
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: tech_gadget_usability_survey_form_questions_19
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: tech_gadget_usability_survey_form_questions_20
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: tech_gadget_usability_survey_form_questions_21
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: tech_gadget_usability_survey_form_questions_22
-      label: main
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: submission
-      label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 28
-      name: phone_number
-      label: phone_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
+    - id: 14
       name: note
-      label: note
+      label: Additional comments or feedback
       hint: null
       type: note
       options: []

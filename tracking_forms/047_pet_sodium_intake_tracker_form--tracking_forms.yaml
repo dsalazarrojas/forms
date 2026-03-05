@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 5.1, ''label'': ''Free feeding''}'
-      - '{''id'': 5.1, ''label'': ''Limited feeding''}'
-      - '{''id'': 5.2, ''label'': ''Intermittent feeding''}'
+      - Free feeding
+      - Limited feeding
+      - Intermittent feeding
       required: true
     - id: 6
       name: owner_name
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 8.1, ''label'': ''Dog''}'
-      - '{''id'': 8.2, ''label'': ''Cat''}'
-      - '{''id'': 8.3, ''label'': ''Other''}'
+      - Dog
+      - Cat
+      - Other
       required: true
     - id: 9
       name: notes

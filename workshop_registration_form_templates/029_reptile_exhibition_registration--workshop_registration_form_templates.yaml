@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''i_agree'', ''value'': True}'
-      - '{''name'': ''i_dont_agree'', ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: exhibit_type
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''reptile_show'', ''value'': ''Reptile Show''}'
-      - '{''name'': ''educational_event'', ''value'': ''Educational Event''}'
-      - '{''name'': ''trade_show'', ''value'': ''Trade Show''}'
+      - Reptile Show
+      - Educational Event
+      - Trade Show
       required: true
     - id: 7
       name: animal_species
@@ -56,8 +56,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''reptile'', ''value'': ''Reptile''}'
-      - '{''name'': ''other'', ''value'': ''Other''}'
+      - Reptile
+      - Other
       required: true
     - id: 8
       name: show_location
@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''on_site'', ''value'': ''On Site''}'
-      - '{''name'': ''off_site'', ''value'': ''Off Site''}'
+      - On Site
+      - Off Site
       required: true
     - id: 9
       name: exhibit_size

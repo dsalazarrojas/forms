@@ -4,148 +4,80 @@ inputSchema:
     title: prophets_form
     pages:
     - id: 1
-      name: user_input_1
-      label: enter_name
+      name: enter_name
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: select_type_1
-      label: choose_transportation_method
+      name: select_transport_method
+      label: How do you want to travel?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''option_1''}'
-      - '{''id'': 2, ''name'': ''option_2''}'
+      - bus
+      - car
+      - bike
       required: false
     - id: 3
-      name: select_type_2
-      label: choose_location
+      name: enter_location
+      label: Where is your starting location?
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''pickup_location''}'
-      - '{''id'': 2, ''name'': ''drop_off_location''}'
+      type: text
+      options: []
       required: false
     - id: 4
-      name: date_1
-      label: choose_date
+      name: enter_dropoff_location
+      label: Where is your destination?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: enter_date
+      label: What is your preferred date of travel?
       hint: null
       type: date
       options: []
       required: false
-    - id: 5
-      name: time_1
-      label: choose_time
+    - id: 6
+      name: enter_time
+      label: What time do you want to travel?
       hint: null
       type: time
       options: []
       required: false
-    - id: 6
-      name: note_1
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
     - id: 7
-      name: select_multiple_1
-      label: choose_transportation_method_2
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''option_1''}'
-      - '{''id'': 2, ''name'': ''option_2''}'
-      required: false
-    - id: 8
       name: enter_phone
-      label: enter_phone
+      label: Can we call or text you with updates?
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 8
+      name: enter_notes
+      label: Do you have any special requests or comments?
+      hint: null
+      type: note
       options: []
       required: false
     - id: 9
-      name: enter_email
-      label: enter_email
+      name: select_mode_of_transportation
+      label: What is your preferred mode of transportation?
       hint: null
-      type: email
-      options: []
+      type: select_multiple
+      options:
+      - bus
+      - car
+      - bike
       required: false
     - id: 10
-      name: user_input_10
-      label: enter_service
+      name: select_phone
+      label: Do you have a phone number you'd like to provide?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: enter_notes
-      label: enter_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: user_input_12
-      label: enter_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: enter_phone
-      label: enter_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: enter_email
-      label: enter_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: enter_phone
-      label: enter_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: enter_notes
-      label: enter_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: enter_phone
-      label: enter_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: enter_notes
-      label: enter_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: enter_phone
-      label: enter_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: enter_notes
-      label: enter_notes
-      hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false

@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Home'', ''label'': ''Home''}'
-      - '{''value'': ''Work'', ''label'': ''Work''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Home
+      - Work
+      - Other
       required: false
     - id: 6
       name: contact_type
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Contacted Person'', ''label'': ''Contacted Person''}'
-      - '{''value'': ''Shared Equipment'', ''label'': ''Shared Equipment''}'
-      - '{''value'': ''Shared Vehicle'', ''label'': ''Shared Vehicle''}'
-      - '{''value'': ''Shared Food'', ''label'': ''Shared Food''}'
+      - Contacted Person
+      - Shared Equipment
+      - Shared Vehicle
+      - Shared Food
       required: false
     - id: 7
       name: contact_duration
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Once'', ''label'': ''Once''}'
-      - '{''value'': ''Multiple Times'', ''label'': ''Multiple Times''}'
-      - '{''value'': ''Regularly'', ''label'': ''Regularly''}'
+      - Once
+      - Multiple Times
+      - Regularly
       required: false
     - id: 9
       name: contact_distance
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Air'', ''label'': ''Air''}'
-      - '{''value'': ''Water'', ''label'': ''Water''}'
-      - '{''value'': ''Ground'', ''label'': ''Ground''}'
+      - Air
+      - Water
+      - Ground
       required: false
     - id: 11
       name: contact_other_medium
@@ -99,10 +99,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Home'', ''label'': ''Home''}'
-      - '{''value'': ''Work'', ''label'': ''Work''}'
-      - '{''value'': ''School'', ''label'': ''School''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Home
+      - Work
+      - School
+      - Other
       required: false
     - id: 13
       name: contact_note
@@ -117,8 +117,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Affected'', ''label'': ''Affected''}'
-      - '{''value'': ''Not Affected'', ''label'': ''Not Affected''}'
+      - Affected
+      - Not Affected
       required: false
     - id: 15
       name: contact_other_location

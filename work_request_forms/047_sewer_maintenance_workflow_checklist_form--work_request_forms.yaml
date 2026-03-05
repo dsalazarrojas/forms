@@ -4,15 +4,15 @@ inputSchema:
     title: Sewer Maintenance Workflow Checklist Form
     pages:
     - id: 1
-      name: work_orders
-      label: Work Orders
+      name: work_order
+      label: Work Order
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: site_checks
-      label: Site Checks
+      name: site_check
+      label: Site Check
       hint: null
       type: select_multiple
       options:
@@ -20,8 +20,8 @@ inputSchema:
       - 'No'
       required: true
     - id: 3
-      name: safety_reviews
-      label: Safety Reviews
+      name: safety_review
+      label: Safety Review
       hint: null
       type: select_one
       options:
@@ -80,8 +80,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - High
+      - Low
+      - Medium
       required: true
     - id: 11
       name: status
@@ -125,79 +126,6 @@ inputSchema:
     - id: 16
       name: work_request_type
       label: Type
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: notes
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: location
-      label: Location
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 19
-      name: assigned_to
-      label: Assigned To
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 20
-      name: assigned_by
-      label: Assigned By
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 21
-      name: priority
-      label: Priority
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: status
-      label: Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: true
-    - id: 23
-      name: notes
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 25
-      name: phone
-      label: Phone
       hint: null
       type: text
       options: []

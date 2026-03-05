@@ -16,8 +16,8 @@ inputSchema:
       hint: Enter your Flight ID
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Flight 1''}'
-      - '{''id'': 2, ''label'': ''Flight 2''}'
+      - Flight 1
+      - Flight 2
       required: false
     - id: 3
       name: flight_number
@@ -36,28 +36,28 @@ inputSchema:
     - id: 5
       name: time_of_departure
       label: Time of Departure
-      hint: "HH:MM AM/PM"
+      hint: HH:MM AM/PM
       type: time
       options: []
       required: false
     - id: 6
       name: actual_time_of_departure
       label: Actual Time of Departure
-      hint: "HH:MM AM/PM"
+      hint: HH:MM AM/PM
       type: time
       options: []
       required: false
     - id: 7
       name: time_of_arrival
       label: Time of Arrival
-      hint: "HH:MM AM/PM"
+      hint: HH:MM AM/PM
       type: time
       options: []
       required: false
     - id: 8
       name: actual_time_of_arrival
       label: Actual Time of Arrival
-      hint: "HH:MM AM/PM"
+      hint: HH:MM AM/PM
       type: time
       options: []
       required: false
@@ -74,10 +74,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Scheduled''}'
-      - '{''id'': 2, ''label'': ''Delayed''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
-      - '{''id'': 4, ''label'': ''Diverted''}'
+      - Scheduled
+      - Delayed
+      - Cancelled
+      - Diverted
       required: false
     - id: 11
       name: reason_for_delay
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Weather''}'
-      - '{''id'': 2, ''label'': ''Air Traffic''}'
-      - '{''id'': 3, ''label'': ''Aircraft''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Weather
+      - Air Traffic
+      - Aircraft
+      - Other
       required: false

@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''president''}'
-      - '{''id'': 2, ''label'': ''secretary''}'
-      - '{''id'': 3, ''label'': ''treasurer''}'
-      - '{''id'': 4, ''label'': ''member''}'
+      - president
+      - secretary
+      - treasurer
+      - member
       required: false
     - id: 5
       name: consent_terms_and_conditions
@@ -41,8 +41,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I agree''}'
-      - '{''id'': 2, ''label'': ''I do not agree''}'
+      - I agree
+      - I do not agree
       required: false
     - id: 6
       name: contact_preferences
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''emergency_contact_1''}'
-      - '{''id'': 2, ''label'': ''emergency_contact_2''}'
-      - '{''id'': 3, ''label'': ''emergency_contact_3''}'
+      - emergency contact 1
+      - emergency contact 2
+      - emergency contact 3
       required: false
     - id: 13
       name: position_applying_list
@@ -102,10 +102,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''president''}'
-      - '{''id'': 2, ''label'': ''secretary''}'
-      - '{''id'': 3, ''label'': ''treasurer''}'
-      - '{''id'': 4, ''label'': ''member''}'
+      - president
+      - secretary
+      - treasurer
+      - member
       required: true
     - id: 14
       name: notes

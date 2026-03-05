@@ -4,197 +4,79 @@ inputSchema:
     title: software_update_employee_insights_report
     pages:
     - id: 1
-      name: software_update
-      label: Software Update
+      name: software_update_experience
+      label: Software Update Experience
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Current
+      - Previous
+      - None
+      required: true
     - id: 2
       name: category
       label: Category
       hint: null
       type: select_one
       options:
-      - Technology Surveys
+      - Technical difficulties
+      - Non-technical difficulties
       - Other
-      - Support
-      required: false
+      required: true
     - id: 3
       name: description
       label: Description
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: experience
-      label: Experience
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: issues
-      label: Issues
+      name: technical_issues
+      label: Technical Issues
       hint: null
       type: select_multiple
       options:
       - Technical difficulties
       - Non-technical difficulties
-      - Other
-      required: false
+      required: true
+    - id: 5
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
     - id: 6
-      name: release
-      label: Release
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: time
-      label: Time
+      name: time_of_day
+      label: Time of Day
       hint: null
       type: time
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 7
       name: feedback
       label: Feedback
       hint: null
-      type: note
+      type: text
       options: []
       required: false
-    - id: 10
+    - id: 8
       name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 9
       name: contact_number
       label: Contact Number
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 10
       name: comments
       label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Technical difficulties
-      - Non-technical difficulties
-      - Other
-      required: false
-    - id: 14
-      name: release
-      label: Release
-      hint: null
-      type: select_one
-      options:
-      - Previous
-      - Current
-      - Future
-      required: false
-    - id: 15
-      name: experience
-      label: Experience
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: issues
-      label: Issues
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: release
-      label: Release
-      hint: null
-      type: select_one
-      options:
-      - Current
-      - Previous
-      - None
-      required: false
-    - id: 18
-      name: feedback
-      label: Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: suggestions
-      label: Suggestions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Technical difficulties
-      - Non-technical difficulties
-      - Other
-      required: false
-    - id: 22
-      name: issues
-      label: Issues
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: release
-      label: Release
-      hint: null
-      type: select_one
-      options:
-      - Current
-      - Previous
-      - None
-      required: false
-    - id: 24
-      name: experience
-      label: Experience
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: contact_number
-      label: Contact Number
       hint: null
       type: text
       options: []

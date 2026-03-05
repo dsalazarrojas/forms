@@ -27,7 +27,7 @@ inputSchema:
     - id: 4
       name: time
       label: Time of wedding
-      hint: "hh:mm"
+      hint: hh:mm
       type: time
       options: []
       required: false
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Home''}'
-      - '{''id'': 2, ''name'': ''Restaurant''}'
-      - '{''id'': 3, ''name'': ''Hotel''}'
+      - Home
+      - Restaurant
+      - Hotel
       required: false
     - id: 8
       name: wedding_attendance_7
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Formal''}'
-      - '{''id'': 2, ''name'': ''Casual''}'
-      - '{''id'': 3, ''name'': ''Wedding dress code 1''}'
+      - Formal
+      - Casual
+      - Wedding dress code 1
       required: false
     - id: 9
       name: wedding_attendance_8
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: false
     - id: 11
       name: wedding_attendance_10

@@ -4,178 +4,80 @@ inputSchema:
     title: logo_upload_and_change_form
     pages:
     - id: 1
-      name: logo_uploads
-      label: logo_uploads
+      name: logo_uploader
+      label: Logo Uploader
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 2
-      name: change_request
-      label: change_request
+      name: purpose
+      label: What is the purpose of this form?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: uploaded_file
-      label: uploaded_file
+      label: Upload logo file
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: upload_button
-      label: upload
+      name: change_request
+      label: Change request
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: submit_button
-      label: submit
+      name: confirmation
+      label: Confirmation of upload
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 6
-      name: description
-      label: description
+      name: submit_button
+      label: Submit
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: form_id
-      label: form_id
+      name: category
+      label: Category
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: category
-      label: category
+      name: assigned_tool
+      label: Assigned tool
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: assigned_tool
-      label: assigned_tool
+      name: form_version
+      label: Form version
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: form_version
-      label: form_version
+      name: output_file
+      label: Output file
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: output_file
-      label: output_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: uploaded_file_2
-      label: uploaded_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: uploaded_file_3
-      label: uploaded_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: uploaded_file_4
-      label: uploaded_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: uploaded_file_5
-      label: uploaded_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: uploaded_file_6
-      label: uploaded_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: uploaded_file_7
-      label: uploaded_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: uploaded_file_8
-      label: uploaded_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: uploaded_file_9
-      label: uploaded_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: uploaded_file_10
-      label: uploaded_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: uploaded_file_11
-      label: uploaded_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: uploaded_file_12
-      label: uploaded_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: uploaded_file_13
-      label: uploaded_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: uploaded_file_14
-      label: uploaded_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: submitted
-      label: submitted
+      label: Submitted
       hint: null
       type: text
       options: []

@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not Sure''}'
+      - 'True'
+      - 'False'
+      - Not Sure
       required: false
     - id: 6
       name: student_permission
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: student_attendance
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: school_start_date
@@ -114,6 +114,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': None}'
-      - '{''label'': None}'
+      - Option 1
+      - Option 2
       required: false

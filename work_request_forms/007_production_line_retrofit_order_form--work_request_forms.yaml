@@ -15,177 +15,77 @@ inputSchema:
     title: Production Line Retrofit Order Form
     pages:
     - id: 1
-      name: production_line_retrofit_order_form
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
+      name: production_line
+      label: Production Line
+      hint: What is the production line to be retrofitted?
+      type: select_one
+      options:
+      - Production Line 1
+      - Production Line 2
+      - Production Line 3
       required: false
     - id: 2
-      name: production_line_retrofit_order_form_page_2
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
+      name: date
+      label: Date
+      hint: What is the current date?
+      type: date
       options: []
       required: false
     - id: 3
-      name: production_line_retrofit_order_form_page_3
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
+      name: start_time
+      label: Start Time
+      hint: What is the start time?
+      type: time
       options: []
       required: false
     - id: 4
-      name: production_line_retrofit_order_form_page_4
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
+      name: duration
+      label: Duration
+      hint: How long does the retrofit take?
+      type: number
       options: []
       required: false
     - id: 5
-      name: production_line_retrofit_order_form_page_5
-      label: Production Line Retrofit Order
-      hint: null
+      name: description
+      label: Description
+      hint: Please describe the retrofit
       type: text
       options: []
       required: false
     - id: 6
-      name: production_line_retrofit_order_form_page_6
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
+      name: consent
+      label: Consent
+      hint: I consent to the terms and conditions
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
       required: false
     - id: 7
-      name: production_line_retrofit_order_form_page_7
-      label: Production Line Retrofit Order
-      hint: null
+      name: additional_info
+      label: Additional Info
+      hint: Is there any additional information to provide?
       type: text
       options: []
       required: false
     - id: 8
-      name: production_line_retrofit_order_form_page_8
-      label: Production Line Retrofit Order
-      hint: null
+      name: production_line_manager_name
+      label: Production Line Manager Name
+      hint: Who is the production line manager responsible?
       type: text
       options: []
       required: false
     - id: 9
-      name: production_line_retrofit_order_form_page_9
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
+      name: production_line_manager_email
+      label: Production Line Manager Email
+      hint: What is the production line manager's email?
+      type: email
       options: []
       required: false
     - id: 10
-      name: production_line_retrofit_order_form_page_10
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: production_line_retrofit_order_form_page_11
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: production_line_retrofit_order_form_page_12
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: production_line_retrofit_order_form_page_13
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: production_line_retrofit_order_form_page_14
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: production_line_retrofit_order_form_page_15
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: production_line_retrofit_order_form_page_16
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: production_line_retrofit_order_form_page_17
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: production_line_retrofit_order_form_page_18
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: production_line_retrofit_order_form_page_19
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: production_line_retrofit_order_form_page_20
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: production_line_retrofit_order_form_page_21
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: production_line_retrofit_order_form_page_22
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: production_line_retrofit_order_form_page_23
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: production_line_retrofit_order_form_page_24
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: production_line_retrofit_order_form_page_25
-      label: Production Line Retrofit Order
-      hint: null
-      type: text
+      name: production_line_manager_phone
+      label: Production Line Manager Phone
+      hint: What is the production line manager's phone number?
+      type: number
       options: []
       required: false

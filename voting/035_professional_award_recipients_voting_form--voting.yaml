@@ -16,176 +16,104 @@ inputSchema:
     pages:
     - id: 1
       name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: first_name
-      label: first_name
+      label: First Name
       hint: null
       type: text
       options: []
       required: true
+    - id: 2
+      name: agree_to_participate
+      label: Agree to participate in this voting process?
+      hint: null
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 3
-      name: last_name
-      label: last_name
+      name: occupation
+      label: Occupation
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: email
-      label: email
+      name: role_in_nominated_field
+      label: Role in the award-nominated field
       hint: null
-      type: email
+      type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: first_page
-      label: first_page
+      name: known_nominee
+      label: How long have you known the nominee?
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 6
-      name: first_page
-      label: first_page
+      name: rating
+      label: Rate the nominee's performance
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Outstanding
+      - Excellent
+      - Good
+      - Fair
+      - Not Impressive
       required: false
     - id: 7
-      name: first_page
-      label: first_page
+      name: recommendation_statement
+      label: Why would you recommend this nominee for the award?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: first_page
-      label: first_page
+      name: affiliation_with_nominee
+      label: Are you affiliated with the nominee's work or organization?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 9
-      name: first_page
-      label: first_page
+      name: relation_with_nominee
+      label: What is your relation to the nominee?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Friend
+      - Colleague
+      - Family Member
+      - Professional Association
+      - Mentor
+      - No Relation
       required: false
     - id: 10
-      name: first_page
-      label: first_page
+      name: email_address
+      label: Email Address
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 11
-      name: first_page
-      label: first_page
+      name: notify_winner
+      label: Would you like to be notified about the award winner(s)?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 12
-      name: first_page
-      label: first_page
+      name: supporting_statement
+      label: Would you like to provide a supporting statement for this nominee?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
       required: false

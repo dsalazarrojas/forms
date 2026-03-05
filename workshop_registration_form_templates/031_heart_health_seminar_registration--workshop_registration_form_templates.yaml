@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: preferred_language
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''English'', ''value'': ''english''}'
-      - '{''label'': ''Spanish'', ''value'': ''spanish''}'
-      - '{''label'': ''Chinese'', ''value'': ''chinese''}'
+      - English
+      - Spanish
+      - Chinese
       required: false
     - id: 7
       name: preferred_time
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Lunch'', ''value'': ''lunch''}'
-      - '{''label'': ''Snacks'', ''value'': ''snacks''}'
-      - '{''label'': ''Parking'', ''value'': ''parking''}'
+      - Lunch
+      - Snacks
+      - Parking
       required: false
     - id: 11
       name: workshop_preferences
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Heart Health'', ''value'': ''heart_health''}'
-      - '{''label'': ''Nutrition'', ''value'': ''nutrition''}'
-      - '{''label'': ''Fitness'', ''value'': ''fitness''}'
+      - Heart Health
+      - Nutrition
+      - Fitness
       required: false
     - id: 12
       name: additional_information

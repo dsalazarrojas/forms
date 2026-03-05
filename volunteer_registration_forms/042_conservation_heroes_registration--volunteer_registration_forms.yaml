@@ -79,8 +79,8 @@ inputSchema:
       hint: Minor status
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: parent_guardian_name
@@ -205,8 +205,8 @@ inputSchema:
       hint: Reliable transportation
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: group_registration
@@ -214,8 +214,8 @@ inputSchema:
       hint: Multiple volunteers
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 26
       name: group_size
@@ -250,8 +250,8 @@ inputSchema:
       hint: Do you consent if required
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 30
       name: liability_waiver
@@ -260,7 +260,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Accept
-      - false
+      - 'False'
       required: true
     - id: 31
       name: photo_release
@@ -268,8 +268,8 @@ inputSchema:
       hint: Can we use photos of you
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 32
       name: how_did_you_hear

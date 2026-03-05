@@ -122,7 +122,7 @@ inputSchema:
       options:
       - Yes - Normal
       - Yes - Unusual
-      - false
+      - 'False'
       required: true
     - id: 15
       name: odor_description
@@ -137,8 +137,8 @@ inputSchema:
       hint: Any infestation
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: pest_details
@@ -153,8 +153,8 @@ inputSchema:
       hint: Any water issues
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: cargo_match
@@ -195,7 +195,7 @@ inputSchema:
       options:
       - Yes - Multiple
       - Yes - Few
-      - false
+      - 'False'
       required: true
     - id: 24
       name: inspection_result
@@ -221,8 +221,8 @@ inputSchema:
       hint: Is reinspection required
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 27
       name: follow_up_date

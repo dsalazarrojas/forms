@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''High Blood Pressure''}'
-      - '{''label'': ''Diabetes''}'
-      - '{''label'': ''High Cholesterol''}'
-      - '{''label'': ''Heart Disease''}'
+      - None
+      - High Blood Pressure
+      - Diabetes
+      - High Cholesterol
+      - Heart Disease
       required: false
     - id: 5
       name: medications
@@ -42,10 +42,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Blood Pressure Medication''}'
-      - '{''label'': ''Insulin''}'
-      - '{''label'': ''Cholesterol Medication''}'
+      - None
+      - Blood Pressure Medication
+      - Insulin
+      - Cholesterol Medication
       required: false
     - id: 6
       name: allergies
@@ -53,10 +53,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Peanut Allergy''}'
-      - '{''label'': ''Gluten Intolerance''}'
-      - '{''label'': ''Shellfish Allergy''}'
+      - None
+      - Peanut Allergy
+      - Gluten Intolerance
+      - Shellfish Allergy
       required: false
     - id: 7
       name: medical_notes
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''John Doe''}'
-      - '{''label'': ''Jane Doe''}'
+      - None
+      - John Doe
+      - Jane Doe
       required: false
     - id: 9
       name: emergency_contact_relationship
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Mother''}'
-      - '{''label'': ''Father''}'
-      - '{''label'': ''Spouse''}'
+      - Mother
+      - Father
+      - Spouse
       required: false
     - id: 10
       name: medical_history

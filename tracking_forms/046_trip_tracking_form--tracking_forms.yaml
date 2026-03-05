@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Personal''}'
-      - '{''id'': 2, ''label'': ''Corporate''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Personal
+      - Corporate
+      - Other
       required: false
     - id: 6
       name: travel_agent
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Jimmy''}'
-      - '{''id'': 2, ''label'': ''Bob''}'
-      - '{''id'': 3, ''label'': ''Alice''}'
+      - Jimmy
+      - Bob
+      - Alice
       required: false
     - id: 7
       name: trip_notes
@@ -64,7 +64,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Archived''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - Active
+      - Archived
+      - Cancelled
       required: false

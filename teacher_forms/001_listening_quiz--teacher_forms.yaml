@@ -5,15 +5,15 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: Page 1
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: page_2
-      label: Listening Quiz
-      hint: Create interactive listening tests
+      label: Interactive Listening Test
+      hint: null
       type: text
       options: []
       required: false
@@ -26,8 +26,8 @@ inputSchema:
       required: false
     - id: 4
       name: page_4
-      label: Multiple Choice
-      hint: null
+      label: Multiple Choice Question
+      hint: Select the correct option
       type: select_one
       options:
       - A
@@ -37,72 +37,58 @@ inputSchema:
       required: false
     - id: 5
       name: page_5
-      label: Short Answer
-      hint: null
+      label: Short Answer Question
+      hint: Enter your answer
       type: text
       options: []
       required: false
     - id: 6
       name: page_6
-      label: Audio
-      hint: null
+      label: Audio File Upload
+      hint: Upload a audio file
       type: text
       options: []
       required: false
     - id: 7
       name: page_7
-      label: File Upload
-      hint: null
-      type: text
+      label: Date of Listening
+      hint: Enter the date of the listening test
+      type: date
       options: []
       required: false
     - id: 8
       name: page_8
-      label: Date
-      hint: null
-      type: date
+      label: Time of Listening
+      hint: Enter the time of the listening test
+      type: time
       options: []
       required: false
     - id: 9
       name: page_9
-      label: Time
-      hint: null
-      type: time
+      label: Contact Information
+      hint: Enter your email address
+      type: email
       options: []
       required: false
     - id: 10
       name: page_10
-      label: Email
-      hint: null
-      type: email
+      label: Additional Notes
+      hint: Add any additional comments
+      type: note
       options: []
       required: false
     - id: 11
       name: page_11
-      label: Phone
-      hint: null
-      type: text
-      options: []
+      label: Select One Question
+      hint: Select the correct option
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: page_12
-      label: Note
-      hint: Add a note to the form
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: page_13
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: page_14
-      label: Select Multiple
+      label: Select Multiple Question
       hint: Select multiple options
       type: select_multiple
       options:
@@ -111,86 +97,45 @@ inputSchema:
       - Option C
       - Option D
       required: false
+    - id: 13
+      name: page_13
+      label: Decimal Number Question
+      hint: Enter a decimal number
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: page_14
+      label: Integer Number Question
+      hint: Enter an integer number
+      type: number
+      options: []
+      required: false
     - id: 15
       name: page_15
-      label: Decimal Number
-      hint: null
-      type: number
+      label: Text Field
+      hint: Enter any text
+      type: text
       options: []
       required: false
     - id: 16
       name: page_16
-      label: Integer Number
-      hint: null
-      type: number
+      label: Time Question
+      hint: Enter a time
+      type: time
       options: []
       required: false
     - id: 17
       name: page_17
-      label: Text
-      hint: null
-      type: text
+      label: Date Question
+      hint: Enter a date
+      type: date
       options: []
       required: false
     - id: 18
       name: page_18
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: page_19
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: page_20
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: page_21
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option A
-      - Option B
-      - Option C
-      - Option D
-      required: false
-    - id: 22
-      name: page_22
-      label: Decimal Number
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: page_23
-      label: Integer Number
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: page_24
-      label: Text
-      hint: null
+      label: Submit Question
+      hint: Enter your response
       type: text
       options: []
-      required: false
-    - id: 25
-      name: page_25
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

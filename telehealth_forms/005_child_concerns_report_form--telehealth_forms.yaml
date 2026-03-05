@@ -1,114 +1,96 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Concerns Report Form
     pages:
-      - id: 1
-        name: section_reporter_info
-        label: -- Reporter Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: reporter_name
-        label: Teacher or Staff Name
-        hint: Name of person making report
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: section_child_details
-        label: -- Child Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 4
-        name: child_name
-        label: Child Full Name
-        hint: Name of child being observed
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: classroom_grade
-        label: Classroom or Grade Level
-        hint: Current placement
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: section_observation_details
-        label: -- Observation Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: area_of_concern
-        label: Areas of Concern
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - label: Behavioral Issues
-            value: behavioral
-          - label: Academic Performance
-            value: academic
-          - label: Social Interactions
-            value: social
-          - label: Physical Wellbeing
-            value: physical
-        required: true
-      - id: 8
-        name: description_of_observations
-        label: Description of Observations
-        hint: Provide specific examples and context
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: observation_date
-        label: Date of Primary Observation
-        hint: When did this behavior occur?
-        type: date
-        options: []
-        required: true
-      - id: 10
-        name: section_action_taken
-        label: -- Actions and Recommendations --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: parents_notified
-        label: Have parents been notified?
-        hint: Select status
-        type: select_one
-        options:
-          - label: Yes - Notified
-            value: yes
-          - label: No - Pending Review
-            value: no
-          - label: Not Applicable
-            value: na
-        required: true
-      - id: 12
-        name: next_steps
-        label: Next Steps Recommended
-        hint: e.g., Parent meeting, Evaluation request
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: section_reporter_info
+      label: -- Reporter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Teacher or Staff Name
+      hint: Name of person making report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_child_details
+      label: -- Child Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: child_name
+      label: Child Full Name
+      hint: Name of child being observed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: classroom_grade
+      label: Classroom or Grade Level
+      hint: Current placement
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_observation_details
+      label: -- Observation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: area_of_concern
+      label: Areas of Concern
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Behavioral Issues
+      - Academic Performance
+      - Social Interactions
+      - Physical Wellbeing
+      required: true
+    - id: 8
+      name: description_of_observations
+      label: Description of Observations
+      hint: Provide specific examples and context
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: observation_date
+      label: Date of Primary Observation
+      hint: When did this behavior occur?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: section_action_taken
+      label: -- Actions and Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: parents_notified
+      label: Have parents been notified?
+      hint: Select status
+      type: select_one
+      options:
+      - Yes - Notified
+      - No - Pending Review
+      - Not Applicable
+      required: true
+    - id: 12
+      name: next_steps
+      label: Next Steps Recommended
+      hint: e.g., Parent meeting, Evaluation request
+      type: text
+      options: []
+      required: false

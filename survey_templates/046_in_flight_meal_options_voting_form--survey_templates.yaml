@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Chicken''}'
-      - '{''id'': 2, ''name'': ''Beef''}'
-      - '{''id'': 3, ''name'': ''Fish''}'
-      - '{''id'': 4, ''name'': ''Salad''}'
+      - Chicken
+      - Beef
+      - Fish
+      - Salad
       required: true
     - id: 2
       name: flight_meal_feedback
@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: meal_type
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Hot Food''}'
-      - '{''id'': 2, ''name'': ''Cold Food''}'
-      - '{''id'': 3, ''name'': ''No Preference''}'
+      - Hot Food
+      - Cold Food
+      - No Preference
       required: true
     - id: 8
       name: rating
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''On Time''}'
-      - '{''id'': 2, ''name'': ''Delayed''}'
-      - '{''id'': 3, ''name'': ''Cancelled''}'
+      - On Time
+      - Delayed
+      - Cancelled
       required: false
     - id: 10
       name: flight_departure_time
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Bad''}'
-      - '{''id'': 3, ''name'': ''Neutral''}'
+      - Good
+      - Bad
+      - Neutral
       required: false
     - id: 13
       name: meal_preferences_2
@@ -108,11 +108,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Breakfast''}'
-      - '{''id'': 2, ''name'': ''Lunch''}'
-      - '{''id'': 3, ''name'': ''Dinner''}'
-      - '{''id'': 4, ''name'': ''Snack''}'
-      - '{''id'': 5, ''name'': ''Other''}'
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snack
+      - Other
       required: false
     - id: 14
       name: meal_preferences_3
@@ -120,10 +120,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Breakfast''}'
-      - '{''id'': 2, ''name'': ''Lunch''}'
-      - '{''id'': 3, ''name'': ''Dinner''}'
-      - '{''id'': 4, ''name'': ''Snack''}'
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snack
       required: false
     - id: 15
       name: flight_meal_service
@@ -131,9 +131,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Self-Service''}'
-      - '{''id'': 2, ''name'': ''Onboard''}'
-      - '{''id'': 3, ''name'': ''Not Applicable''}'
+      - Self-Service
+      - Onboard
+      - Not Applicable
       required: true
     - id: 16
       name: meal_frequency
@@ -141,8 +141,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Once''}'
-      - '{''id'': 2, ''name'': ''Multiple Times''}'
+      - Once
+      - Multiple Times
       required: false
     - id: 17
       name: meal_type_2
@@ -150,9 +150,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Hot Food''}'
-      - '{''id'': 2, ''name'': ''Cold Food''}'
-      - '{''id'': 3, ''name'': ''No Preference''}'
+      - Hot Food
+      - Cold Food
+      - No Preference
       required: false
     - id: 18
       name: food_type
@@ -160,9 +160,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Meat''}'
-      - '{''id'': 2, ''name'': ''Fruits''}'
-      - '{''id'': 3, ''name'': ''No Preference''}'
+      - Meat
+      - Fruits
+      - No Preference
       required: false
     - id: 19
       name: drink_type
@@ -170,10 +170,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Coffee''}'
-      - '{''id'': 2, ''name'': ''Tea''}'
-      - '{''id'': 3, ''name'': ''Juice''}'
-      - '{''id'': 4, ''name'': ''No Preference''}'
+      - Coffee
+      - Tea
+      - Juice
+      - No Preference
       required: false
     - id: 20
       name: food_type_2
@@ -181,9 +181,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Hot Food''}'
-      - '{''id'': 2, ''name'': ''Cold Food''}'
-      - '{''id'': 3, ''name'': ''No Preference''}'
+      - Hot Food
+      - Cold Food
+      - No Preference
       required: false
     - id: 21
       name: flight_meal_preferences_3
@@ -191,11 +191,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Breakfast''}'
-      - '{''id'': 2, ''name'': ''Lunch''}'
-      - '{''id'': 3, ''name'': ''Dinner''}'
-      - '{''id'': 4, ''name'': ''Snack''}'
-      - '{''id'': 5, ''name'': ''Other''}'
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snack
+      - Other
       required: false
     - id: 22
       name: flight_status_2
@@ -203,9 +203,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''On Time''}'
-      - '{''id'': 2, ''name'': ''Delayed''}'
-      - '{''id'': 3, ''name'': ''Cancelled''}'
+      - On Time
+      - Delayed
+      - Cancelled
       required: false
     - id: 23
       name: flight_meal_preferences_4
@@ -213,11 +213,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Breakfast''}'
-      - '{''id'': 2, ''name'': ''Lunch''}'
-      - '{''id'': 3, ''name'': ''Dinner''}'
-      - '{''id'': 4, ''name'': ''Snack''}'
-      - '{''id'': 5, ''name'': ''Other''}'
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snack
+      - Other
       required: false
     - id: 24
       name: passenger_phone
@@ -232,9 +232,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Breakfast''}'
-      - '{''id'': 2, ''name'': ''Lunch''}'
-      - '{''id'': 3, ''name'': ''Dinner''}'
-      - '{''id'': 4, ''name'': ''Snack''}'
-      - '{''id'': 5, ''name'': ''Other''}'
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snack
+      - Other
       required: false

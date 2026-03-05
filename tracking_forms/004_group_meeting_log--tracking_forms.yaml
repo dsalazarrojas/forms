@@ -39,8 +39,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: absent_member
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Joe''}'
-      - '{''id'': 2, ''name'': ''Jane''}'
-      - '{''id'': 3, ''name'': ''John''}'
+      - Joe
+      - Jane
+      - John
       required: false
     - id: 7
       name: add_member

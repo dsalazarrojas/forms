@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Refugee''}'
-      - '{''label'': ''Asylum Seeker''}'
+      - Refugee
+      - Asylum Seeker
       required: false
     - id: 6
       name: volunteer_experience
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Less than 6 months''}'
-      - '{''label'': ''More than 6 months''}'
+      - None
+      - Less than 6 months
+      - More than 6 months
       required: true
     - id: 7
       name: volunteer_skills
@@ -77,10 +77,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Family Member''}'
-      - '{''label'': ''Friend''}'
-      - '{''label'': ''Neighbor''}'
+      - None
+      - Family Member
+      - Friend
+      - Neighbor
       required: false
     - id: 11
       name: volunteer_interests
@@ -88,16 +88,16 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Community Service''}'
-      - '{''label'': ''Disaster Relief''}'
-      - '{''label'': ''Education''}'
-      - '{''label'': ''Environment''}'
-      - '{''label'': ''Health''}'
-      - '{''label'': ''Homelessness''}'
-      - '{''label'': ''Human Rights''}'
-      - '{''label'': ''Immigration''}'
-      - '{''label'': ''Refugees''}'
+      - None
+      - Community Service
+      - Disaster Relief
+      - Education
+      - Environment
+      - Health
+      - Homelessness
+      - Human Rights
+      - Immigration
+      - Refugees
       required: true
     - id: 12
       name: volunteer_agreement
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: volunteer_agreement_details
@@ -121,8 +121,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: volunteer_confirmation
@@ -130,8 +130,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: background_check_consent
@@ -139,8 +139,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: criminal_history
@@ -148,8 +148,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: volunteer_reference_details
@@ -171,11 +171,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Full-time''}'
-      - '{''label'': ''Part-time''}'
-      - '{''label'': ''Flexible''}'
-      - '{''label'': ''Variable''}'
+      - None
+      - Full-time
+      - Part-time
+      - Flexible
+      - Variable
       required: false
     - id: 21
       name: volunteer_availability_details
@@ -190,8 +190,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: volunteer_orientation_details

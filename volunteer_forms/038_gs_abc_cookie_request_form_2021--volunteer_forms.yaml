@@ -4,48 +4,8 @@ inputSchema:
     title: gs_abc_cookie_request_form_2021
     pages:
     - id: 1
-      name: volunteer_forms
-      label: Volunteer Forms
-      hint: null
-      type: select_one
-      options:
-      - A
-      - B
-      - C
-      required: true
-    - id: 2
-      name: form_id
-      label: form id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 3
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 4
-      name: output_file
-      label: output file
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: assigned_tool
-      label: assigned tool
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - chatjane
-      required: false
-    - id: 6
-      name: category
-      label: category
+      name: volunteer_form_type
+      label: Volunteer Form Type
       hint: null
       type: select_one
       options:
@@ -53,61 +13,33 @@ inputSchema:
       - Donor Forms
       - Other
       required: true
-    - id: 7
-      name: form_id
-      label: form id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 9
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 10
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
+    - id: 2
       name: cookie_type
-      label: cookie type
+      label: Cookie Type
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - ABC Cookies
       - DEF Cookies
       - GHI Cookies
       required: true
-    - id: 12
+    - id: 3
       name: cookie_size
-      label: cookie size
+      label: Cookie Size
       hint: null
       type: number
       options: []
       required: true
-    - id: 13
+    - id: 4
       name: cookie_quantity
-      label: cookie quantity
+      label: Cookie Quantity
       hint: null
       type: number
       options: []
       required: true
-    - id: 14
+    - id: 5
       name: cookie_color
-      label: cookie color
+      label: Cookie Color
       hint: null
       type: select_one
       options:
@@ -115,88 +47,58 @@ inputSchema:
       - Green
       - Blue
       required: true
-    - id: 15
+    - id: 6
       name: notes
-      label: notes
+      label: Notes
       hint: null
       type: text
       options: []
-      required: false
-    - id: 16
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
+      required: true
+    - id: 7
       name: assigned_tool
-      label: assigned tool
+      label: Assigned Tool
       hint: null
       type: select_one
       options:
-      - chatjimmy
-      - chatjane
+      - Chatjimmy
+      - Chatjane
       required: false
-    - id: 23
-      name: assigned_tool
-      label: assigned tool
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: notes_2
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool_2
+      label: Assigned Tool 2
       hint: null
       type: select_one
       options:
-      - chatjimmy
-      - chatjane
+      - Chatjane
+      - Chatjimmy
       required: false
-    - id: 24
-      name: assigned_tool
-      label: assigned tool
+    - id: 12
+      name: repeat_request
+      label: Repeat Request
       hint: null
-      type: select_one
+      type: checkbox
       options:
-      - chatjimmy
-      - chatjane
-      required: false
-    - id: 25
-      name: assigned_tool
-      label: assigned tool
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - chatjane
-      required: false
+      - Option A
+      - Option B
+      required: true

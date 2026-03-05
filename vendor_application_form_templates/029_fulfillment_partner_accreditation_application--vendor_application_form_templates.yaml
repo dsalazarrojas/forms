@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Logistics''}'
-      - '{''name'': ''3PL''}'
+      - Logistics
+      - 3PL
       required: false
     - id: 3
       name: contact_person
@@ -46,9 +46,9 @@ inputSchema:
       hint: Select services
       type: select_multiple
       options:
-      - '{''name'': ''Warehousing''}'
-      - '{''name'': ''Transportation''}'
-      - '{''name'': ''Packaging''}'
+      - Warehousing
+      - Transportation
+      - Packaging
       required: false
     - id: 7
       name: experience
@@ -56,9 +56,9 @@ inputSchema:
       hint: Select experience level
       type: select_one
       options:
-      - '{''name'': ''Less than 5 years''}'
-      - '{''name'': ''5-10 years''}'
-      - '{''name'': ''More than 5 years''}'
+      - Less than 5 years
+      - 5-10 years
+      - More than 5 years
       required: false
     - id: 8
       name: warehouse
@@ -80,9 +80,9 @@ inputSchema:
       hint: Enter location
       type: select_one
       options:
-      - '{''name'': ''Asia''}'
-      - '{''name'': ''Europe''}'
-      - '{''name'': ''North America''}'
+      - Asia
+      - Europe
+      - North America
       required: false
     - id: 11
       name: description
@@ -97,9 +97,9 @@ inputSchema:
       hint: Select current accreditation status
       type: select_multiple
       options:
-      - '{''name'': ''Active''}'
-      - '{''name'': ''Inactive''}'
-      - '{''name'': ''Pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: false
     - id: 13
       name: status_date
@@ -163,9 +163,9 @@ inputSchema:
       hint: Select reason for accreditation status
       type: select_one
       options:
-      - '{''name'': ''New Application''}'
-      - '{''name'': ''Existing Application''}'
-      - '{''name'': ''Re-Application''}'
+      - New Application
+      - Existing Application
+      - Re-Application
       required: false
     - id: 22
       name: acc_note
@@ -180,9 +180,9 @@ inputSchema:
       hint: Select reason for accreditation
       type: select_one
       options:
-      - '{''name'': ''New Application''}'
-      - '{''name'': ''Existing Application''}'
-      - '{''name'': ''Re-Application''}'
+      - New Application
+      - Existing Application
+      - Re-Application
       required: false
     - id: 24
       name: acc_reapply_date
@@ -197,7 +197,7 @@ inputSchema:
       hint: Select reapply reason
       type: select_one
       options:
-      - '{''name'': ''New Application''}'
-      - '{''name'': ''Existing Application''}'
-      - '{''name'': ''Re-Application''}'
+      - New Application
+      - Existing Application
+      - Re-Application
       required: false

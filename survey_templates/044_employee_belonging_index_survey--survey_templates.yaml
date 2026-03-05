@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Marketing''}'
-      - '{''id'': 2, ''label'': ''Sales''}'
-      - '{''id'': 3, ''label'': ''Customer Service''}'
-      - '{''id'': 4, ''label'': ''Engineering''}'
-      - '{''id'': 5, ''label'': ''IT''}'
+      - Marketing
+      - Sales
+      - Customer Service
+      - Engineering
+      - IT
       required: false
     - id: 4
       name: question_1
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: false
     - id: 5
       name: question_2
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Highly''}'
-      - '{''id'': 2, ''label'': ''Somewhat''}'
-      - '{''id'': 3, ''label'': ''Not at all''}'
+      - Highly
+      - Somewhat
+      - Not at all
       required: false
     - id: 6
       name: question_3

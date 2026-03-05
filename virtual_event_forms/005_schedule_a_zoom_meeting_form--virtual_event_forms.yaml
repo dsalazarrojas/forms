@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Meeting''}'
-      - '{''id'': 2, ''label'': ''Event''}'
-      - '{''id'': 3, ''label'': ''Webinar''}'
+      - Meeting
+      - Event
+      - Webinar
       required: false
     - id: 6
       name: attendees
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Coworker''}'
-      - '{''id'': 2, ''label'': ''Client''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Coworker
+      - Client
+      - Both
       required: false
     - id: 7
       name: notes
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Add''}'
-      - '{''id'': 2, ''label'': ''Remove''}'
-      - '{''id'': 3, ''label'': ''Update''}'
+      - Add
+      - Remove
+      - Update
       required: false
     - id: 11
       name: registrant_email
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Present''}'
-      - '{''id'': 2, ''label'': ''Absent''}'
-      - '{''id'': 3, ''label'': ''Maybe''}'
+      - Present
+      - Absent
+      - Maybe
       required: false
     - id: 15
       name: registrant_notes2

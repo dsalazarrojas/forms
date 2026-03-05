@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: select_reason_other
@@ -67,7 +67,7 @@ inputSchema:
       required: false
     - id: 9
       name: select_date_format_other
-      label: Other
+      label: Select Date Format Other
       hint: null
       type: text
       options: []
@@ -140,14 +140,14 @@ inputSchema:
       required: false
     - id: 19
       name: agency_other
-      label: Other
+      label: Agency Other
       hint: null
       type: text
       options: []
       required: false
     - id: 20
       name: agency_other_details
-      label: Agency (Other)
+      label: Agency Other Details
       hint: null
       type: text
       options: []
@@ -168,14 +168,14 @@ inputSchema:
       required: false
     - id: 23
       name: reason_for_denial_other
-      label: Other
+      label: Reason For Denial Other
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: reason_for_denial_other_reason
-      label: Reason for Denial (Other)
+      label: Reason For Denial Other Reason
       hint: null
       type: text
       options: []

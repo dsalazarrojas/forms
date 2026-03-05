@@ -18,10 +18,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Dry Van''}'
-      - '{''label'': ''Reefer Van''}'
-      - '{''label'': ''Conventional''}'
-      - '{''label'': ''Tanker''}'
+      - Dry Van
+      - Reefer Van
+      - Conventional
+      - Tanker
       required: false
     - id: 3
       name: cargo_securement
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Normal Operation''}'
-      - '{''label'': ''Warning''}'
-      - '{''label'': ''Malfunction''}'
+      - Normal Operation
+      - Warning
+      - Malfunction
       required: false
     - id: 8
       name: parking_brakes
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Normal Operation''}'
-      - '{''label'': ''Stiff''}'
-      - '{''label'': ''Malfunction''}'
+      - Normal Operation
+      - Stiff
+      - Malfunction
       required: false
     - id: 9
       name: trailer_connections

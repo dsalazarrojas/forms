@@ -1,288 +1,278 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Clinical Workshop Pre Survey
     pages:
-      - id: 1
-        name: survey_intro
-        label: Clinical Workshop Pre-Survey
-        hint: This survey helps us tailor the workshop content to your needs and experience level
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: participant_name
-        label: Your Name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: participant_id
-        label: Employee or Student ID
-        hint: If applicable
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: email
-        label: Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 5
-        name: department
-        label: Department or Unit
-        hint: null
-        type: select_one
-        options:
-          - Emergency
-          - ICU
-          - Medical-Surgical
-          - Pediatrics
-          - Obstetrics
-          - Oncology
-          - Cardiology
-          - Orthopedics
-          - Neurology
-          - Operating Room
-          - Administration
-          - Other
-        required: true
-      - id: 6
-        name: role
-        label: Your Role
-        hint: null
-        type: select_one
-        options:
-          - Nurse
-          - Physician
-          - Nurse Practitioner
-          - Physician Assistant
-          - Technician
-          - Therapist
-          - Pharmacist
-          - Administrator
-          - Student
-          - Other
-        required: true
-      - id: 7
-        name: years_experience
-        label: Years of Clinical Experience
-        hint: null
-        type: select_one
-        options:
-          - Student
-          - Less than 1 year
-          - 1-3 years
-          - 3-5 years
-          - 5-10 years
-          - 10+ years
-        required: true
-      - id: 8
-        name: workshop_topic
-        label: Workshop Topic
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: current_knowledge_level
-        label: Current Knowledge Level on This Topic
-        hint: null
-        type: select_one
-        options:
-          - None - Complete Beginner
-          - Basic - Some Exposure
-          - Intermediate - Working Knowledge
-          - Advanced - Proficient
-          - Expert - Can Teach Others
-        required: true
-      - id: 10
-        name: previous_training
-        label: Have You Had Previous Training on This Topic
-        hint: null
-        type: select_one
-        options:
-          - Yes Formal Training
-          - Yes Informal Training
-          - Self-Taught
-          - No
-        required: true
-      - id: 11
-        name: previous_training_details
-        label: Previous Training Details
-        hint: If yes describe
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: confidence_level
-        label: Current Confidence Level
-        hint: In applying this knowledge clinically
-        type: select_one
-        options:
-          - Not Confident at All
-          - Slightly Confident
-          - Moderately Confident
-          - Confident
-          - Very Confident
-        required: true
-      - id: 13
-        name: learning_goals
-        label: What Are Your Learning Goals
-        hint: What do you hope to gain from this workshop
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: specific_topics
-        label: Specific Topics You Want Covered
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: clinical_application
-        label: How Do You Plan to Apply This Knowledge
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: current_challenges
-        label: What Challenges Do You Currently Face
-        hint: Related to this topic
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: patient_population
-        label: Patient Population You Serve
-        hint: null
-        type: select_one
-        options:
-          - Pediatrics
-          - Adults
-          - Geriatrics
-          - Mixed
-          - Specialized Population
-        required: false
-      - id: 18
-        name: practice_setting
-        label: Practice Setting
-        hint: null
-        type: select_one
-        options:
-          - Academic Medical Center
-          - Community Hospital
-          - Private Practice
-          - Outpatient Clinic
-          - Long-Term Care
-          - Home Health
-          - Other
-        required: true
-      - id: 19
-        name: team_size
-        label: Size of Your Clinical Team
-        hint: null
-        type: select_one
-        options:
-          - Solo Practitioner
-          - 2-5 members
-          - 6-10 members
-          - 11-20 members
-          - 20+ members
-        required: false
-      - id: 20
-        name: resources_available
-        label: Resources Available at Your Facility
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Simulation Lab
-          - Skills Lab
-          - Online Learning Platform
-          - Journal Access
-          - Continuing Education Budget
-          - Mentorship Program
-          - Limited Resources
-          - Other
-        required: false
-      - id: 21
-        name: learning_preference
-        label: Preferred Learning Style
-        hint: null
-        type: select_one
-        options:
-          - Hands-On Practice
-          - Lectures and Presentations
-          - Case Studies
-          - Group Discussions
-          - Video Demonstrations
-          - Mixed Methods
-        required: false
-      - id: 22
-        name: barriers_to_implementation
-        label: Potential Barriers to Implementation
-        hint: What might prevent you from using new skills
-        type: text
-        options: []
-        required: false
-      - id: 23
-        name: support_needed
-        label: What Support Would You Need
-        hint: To implement new knowledge
-        type: text
-        options: []
-        required: false
-      - id: 24
-        name: certification_interest
-        label: Are You Interested in Certification
-        hint: Related to this topic
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Sure
-        required: false
-      - id: 25
-        name: how_did_you_hear
-        label: How Did You Hear About This Workshop
-        hint: null
-        type: select_one
-        options:
-          - Email
-          - Colleague
-          - Supervisor
-          - Website
-          - Social Media
-          - Professional Organization
-          - Other
-        required: false
-      - id: 26
-        name: accessibility_needs
-        label: Accessibility Requirements
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 27
-        name: additional_comments
-        label: Additional Comments
-        hint: Anything else you would like us to know
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: survey_intro
+      label: Clinical Workshop Pre-Survey
+      hint: This survey helps us tailor the workshop content to your needs and experience
+        level
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_id
+      label: Employee or Student ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department or Unit
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - ICU
+      - Medical-Surgical
+      - Pediatrics
+      - Obstetrics
+      - Oncology
+      - Cardiology
+      - Orthopedics
+      - Neurology
+      - Operating Room
+      - Administration
+      - Other
+      required: true
+    - id: 6
+      name: role
+      label: Your Role
+      hint: null
+      type: select_one
+      options:
+      - Nurse
+      - Physician
+      - Nurse Practitioner
+      - Physician Assistant
+      - Technician
+      - Therapist
+      - Pharmacist
+      - Administrator
+      - Student
+      - Other
+      required: true
+    - id: 7
+      name: years_experience
+      label: Years of Clinical Experience
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 8
+      name: workshop_topic
+      label: Workshop Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_knowledge_level
+      label: Current Knowledge Level on This Topic
+      hint: null
+      type: select_one
+      options:
+      - None - Complete Beginner
+      - Basic - Some Exposure
+      - Intermediate - Working Knowledge
+      - Advanced - Proficient
+      - Expert - Can Teach Others
+      required: true
+    - id: 10
+      name: previous_training
+      label: Have You Had Previous Training on This Topic
+      hint: null
+      type: select_one
+      options:
+      - Yes Formal Training
+      - Yes Informal Training
+      - Self-Taught
+      - 'False'
+      required: true
+    - id: 11
+      name: previous_training_details
+      label: Previous Training Details
+      hint: If yes describe
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confidence_level
+      label: Current Confidence Level
+      hint: In applying this knowledge clinically
+      type: select_one
+      options:
+      - Not Confident at All
+      - Slightly Confident
+      - Moderately Confident
+      - Confident
+      - Very Confident
+      required: true
+    - id: 13
+      name: learning_goals
+      label: What Are Your Learning Goals
+      hint: What do you hope to gain from this workshop
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: specific_topics
+      label: Specific Topics You Want Covered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: clinical_application
+      label: How Do You Plan to Apply This Knowledge
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: current_challenges
+      label: What Challenges Do You Currently Face
+      hint: Related to this topic
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_population
+      label: Patient Population You Serve
+      hint: null
+      type: select_one
+      options:
+      - Pediatrics
+      - Adults
+      - Geriatrics
+      - Mixed
+      - Specialized Population
+      required: false
+    - id: 18
+      name: practice_setting
+      label: Practice Setting
+      hint: null
+      type: select_one
+      options:
+      - Academic Medical Center
+      - Community Hospital
+      - Private Practice
+      - Outpatient Clinic
+      - Long-Term Care
+      - Home Health
+      - Other
+      required: true
+    - id: 19
+      name: team_size
+      label: Size of Your Clinical Team
+      hint: null
+      type: select_one
+      options:
+      - Solo Practitioner
+      - 2-5 members
+      - 6-10 members
+      - 11-20 members
+      - 20+ members
+      required: false
+    - id: 20
+      name: resources_available
+      label: Resources Available at Your Facility
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Simulation Lab
+      - Skills Lab
+      - Online Learning Platform
+      - Journal Access
+      - Continuing Education Budget
+      - Mentorship Program
+      - Limited Resources
+      - Other
+      required: false
+    - id: 21
+      name: learning_preference
+      label: Preferred Learning Style
+      hint: null
+      type: select_one
+      options:
+      - Hands-On Practice
+      - Lectures and Presentations
+      - Case Studies
+      - Group Discussions
+      - Video Demonstrations
+      - Mixed Methods
+      required: false
+    - id: 22
+      name: barriers_to_implementation
+      label: Potential Barriers to Implementation
+      hint: What might prevent you from using new skills
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: support_needed
+      label: What Support Would You Need
+      hint: To implement new knowledge
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: certification_interest
+      label: Are You Interested in Certification
+      hint: Related to this topic
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: false
+    - id: 25
+      name: how_did_you_hear
+      label: How Did You Hear About This Workshop
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Colleague
+      - Supervisor
+      - Website
+      - Social Media
+      - Professional Organization
+      - Other
+      required: false
+    - id: 26
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false

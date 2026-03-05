@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Measles''}'
-      - '{''value'': ''Rash''}'
-      - '{''value'': ''Fever''}'
-      - '{''value'': ''Rash with Fever''}'
+      - Measles
+      - Rash
+      - Fever
+      - Rash with Fever
       required: false
     - id: 5
       name: exposure_location
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Vaccinated''}'
-      - '{''value'': ''Not Vaccinated''}'
-      - '{''value'': ''Unknown''}'
+      - Vaccinated
+      - Not Vaccinated
+      - Unknown
       required: false
     - id: 11
       name: travel_history
@@ -128,9 +128,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Domestic''}'
-      - '{''value'': ''International''}'
-      - '{''value'': ''None''}'
+      - Domestic
+      - International
+      - None
       required: false
     - id: 18
       name: exposure_risk
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Low''}'
-      - '{''value'': ''Moderate''}'
-      - '{''value'': ''High''}'
+      - Low
+      - Moderate
+      - High
       required: false
     - id: 19
       name: exposure_source
@@ -176,7 +176,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Unknown''}'
+      - 'True'
+      - 'False'
+      - Unknown
       required: false

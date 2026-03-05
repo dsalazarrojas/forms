@@ -25,12 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Mr'', ''label'': ''Mr'', ''type'': ''text'', ''options'':
-        []}'
-      - '{''id'': 2, ''name'': ''Ms'', ''label'': ''Ms'', ''type'': ''text'', ''options'':
-        []}'
-      - '{''id'': 3, ''name'': ''Dr'', ''label'': ''Dr'', ''type'': ''text'', ''options'':
-        []}'
+      - Mr
+      - Ms
+      - Dr
       required: false
     - id: 4
       name: evaluation_scale
@@ -38,14 +35,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''scale_5'', ''label'': ''Scale 5'', ''type'': ''select_one'',
-        ''options'': []}'
-      - '{''id'': 2, ''name'': ''scale_7'', ''label'': ''Scale 7'', ''type'': ''select_one'',
-        ''options'': []}'
-      - '{''id'': 3, ''name'': ''scale_9'', ''label'': ''Scale 9'', ''type'': ''select_one'',
-        ''options'': []}'
-      - '{''id'': 4, ''name'': ''scale_10'', ''label'': ''Scale 10'', ''type'': ''select_one'',
-        ''options'': []}'
+      - Scale 5
+      - Scale 7
+      - Scale 9
+      - Scale 10
       required: false
     - id: 5
       name: evaluation_comment
@@ -60,12 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''excellent'', ''label'': ''Excellent'', ''type'':
-        ''text'', ''options'': []}'
-      - '{''id'': 2, ''name'': ''good'', ''label'': ''Good'', ''type'': ''text'',
-        ''options'': []}'
-      - '{''id'': 3, ''name'': ''average'', ''label'': ''Average'', ''type'': ''text'',
-        ''options'': []}'
+      - Excellent
+      - Good
+      - Average
       required: false
     - id: 7
       name: date_of_evaluation

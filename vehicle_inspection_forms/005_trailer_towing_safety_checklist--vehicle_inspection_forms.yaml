@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,9 +23,9 @@ inputSchema:
       hint: Check and perform necessary maintenance
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''N/A''}'
+      - 'True'
+      - 'False'
+      - N/A
       required: false
     - id: 4
       name: trailer_towing_safety_checklist_vehicle_condition
@@ -44,11 +33,11 @@ inputSchema:
       hint: Check vehicle condition before towing
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Poor''}'
-      - '{''id'': 4, ''label'': ''N/A''}'
-      - '{''id'': 5, ''label'': ''Failed''}'
+      - Good
+      - Fair
+      - Poor
+      - N/A
+      - Failed
       required: false
     - id: 5
       name: trailer_towing_safety_checklist_driver_experience
@@ -56,9 +45,9 @@ inputSchema:
       hint: Check driver experience and qualifications
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Experienced''}'
-      - '{''id'': 2, ''label'': ''Inexperienced''}'
-      - '{''id'': 3, ''label'': ''N/A''}'
+      - Experienced
+      - Inexperienced
+      - N/A
       required: false
     - id: 6
       name: trailer_towing_safety_checklist_weather_conditions
@@ -73,10 +62,10 @@ inputSchema:
       hint: Check trailer condition before towing
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Poor''}'
-      - '{''id'': 4, ''label'': ''N/A''}'
+      - Good
+      - Fair
+      - Poor
+      - N/A
       required: false
     - id: 8
       name: trailer_towing_safety_checklist_traction
@@ -91,9 +80,9 @@ inputSchema:
       hint: Check weight distribution before towing
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Within Limits''}'
-      - '{''id'': 2, ''label'': ''Not within Limits''}'
-      - '{''id'': 3, ''label'': ''N/A''}'
+      - Within Limits
+      - Not within Limits
+      - N/A
       required: false
     - id: 10
       name: trailer_towing_safety_checklist_brakes

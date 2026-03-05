@@ -1,18 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-
-
 inputSchema:
   type: object
   properties:
@@ -20,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: section_header_property
-      label: "--- Property & Inspector Information ---"
+      label: '--- Property & Inspector Information ---'
       hint: null
       type: note
       options: []
@@ -59,10 +44,10 @@ inputSchema:
       hint: Quick overall assessment
       type: select_one
       options:
-        - Good
-        - Fair (minor issues)
-        - Poor (major issues)
-        - Not accessible
+      - Good
+      - Fair (minor issues)
+      - Poor (major issues)
+      - Not accessible
       required: true
     - id: 7
       name: electrical_system_condition
@@ -70,10 +55,10 @@ inputSchema:
       hint: Note visible hazards or deficiencies
       type: select_one
       options:
-        - Good
-        - Requires repair
-        - Hazardous
-        - Not applicable
+      - Good
+      - Requires repair
+      - Hazardous
+      - Not applicable
       required: true
     - id: 8
       name: plumbing_system_condition
@@ -81,10 +66,10 @@ inputSchema:
       hint: Check for leaks, water damage
       type: select_one
       options:
-        - Good
-        - Requires repair
-        - Hazardous / active leak
-        - Not applicable
+      - Good
+      - Requires repair
+      - Hazardous / active leak
+      - Not applicable
       required: true
     - id: 9
       name: hvac_system_condition
@@ -92,10 +77,10 @@ inputSchema:
       hint: Operational status and obvious defects
       type: select_one
       options:
-        - Operational
-        - Partially operational
-        - Non-operational
-        - Not present
+      - Operational
+      - Partially operational
+      - Non-operational
+      - Not present
       required: true
     - id: 10
       name: observed_defects
@@ -103,12 +88,12 @@ inputSchema:
       hint: Check each observed issue
       type: select_multiple
       options:
-        - Roof leaks
-        - Faulty wiring
-        - Plumbing leaks
-        - HVAC failure
-        - Structural cracks
-        - Water intrusion / mold
+      - Roof leaks
+      - Faulty wiring
+      - Plumbing leaks
+      - HVAC failure
+      - Structural cracks
+      - Water intrusion / mold
       required: false
     - id: 11
       name: safety_rating
@@ -123,8 +108,8 @@ inputSchema:
       hint: Attach photos in platform if available
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: recommended_actions

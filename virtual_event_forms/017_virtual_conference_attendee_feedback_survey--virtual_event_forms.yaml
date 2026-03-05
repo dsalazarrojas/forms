@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''.reportedly''}'
-      - '{''label'': ''very_satisfied''}'
-      - '{''label'': ''fairly_satisfied''}'
-      - '{''label'': ''somewhat_satisfied''}'
-      - '{''label'': ''very_unhappy''}'
-      - '{''label'': ''not_at_all_satisfied''}'
+      - .reportedly
+      - very satisfied
+      - fairly satisfied
+      - somewhat satisfied
+      - very unhappy
+      - not at all satisfied
       required: false
     - id: 3
       name: feedback_on_sessions
@@ -50,8 +50,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: session_attendance_idea
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: session_attendance_ideas

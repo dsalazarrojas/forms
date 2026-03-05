@@ -4,191 +4,96 @@ inputSchema:
     title: Drone Filming Noise Impact Application Form
     pages:
     - id: 1
-      name: drone_filming_noise_impact_application_form
-      label: filming_noise_impact_form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: operator
-      label: operator
-      hint: null
+      name: operator_info
+      label: What is the operator's contact information?
+      hint: Please provide the operator's name and contact details.
       type: text
       options: []
-      required: false
-    - id: 3
+      required: true
+    - id: 2
       name: location
-      label: location
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
+      label: What is the location of the drone filming operation?
+      hint: Please enter the location where the operation took place.
+      type: text
+      options: []
+      required: true
+    - id: 3
       name: start_time
-      label: start_time
-      hint: null
+      label: What is the start time of the drone filming operation?
+      hint: Please enter the start time of the operation.
       type: time
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: end_time
-      label: end_time
-      hint: null
+      label: What is the end time of the drone filming operation?
+      hint: Please enter the end time of the operation.
       type: time
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: noise_level
-      label: noise_level
-      hint: null
+      label: What is the noise level of the drone filming operation?
+      hint: Please rate the noise level of the operation.
       type: number
       options: []
-      required: false
+      required: true
+    - id: 6
+      name: priority
+      label: Is the drone filming operation a priority for noise impact?
+      hint: Please select the priority level.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 7
-      name: drone_type
-      label: drone_type
-      hint: null
-      type: select_multiple
+      name: assigned_to
+      label: Is the drone filming operation assigned to a specific team member?
+      hint: Please select if the operation is assigned to a team member.
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 8
-      name: contact_name
-      label: contact_name
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: form_status
+      label: What is the status of the form (Active or Inactive)?
+      hint: Please select the status of the form.
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
     - id: 9
-      name: contact_email
-      label: contact_email
-      hint: null
-      type: email
+      name: comments
+      label: Any comments about the drone filming operation?
+      hint: Please provide any comments about the operation.
+      type: note
       options: []
-      required: false
+      required: true
     - id: 10
-      name: contact_phone
-      label: contact_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: comments
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: form_submitted_at
-      label: form_submitted_at
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: assigned_to
-      label: assigned_to
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: form_status
-      label: form_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 15
-      name: comments
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
       name: operator_comments
-      label: operator_comments
-      hint: null
+      label: Any comments from the operator about the drone filming operation?
+      hint: Please provide any comments from the operator.
       type: note
       options: []
-      required: false
-    - id: 17
-      name: comments
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
+      required: true
+    - id: 11
       name: submitted_by
-      label: submitted_by
-      hint: null
+      label: Who submitted the form?
+      hint: Please select who submitted the form.
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 19
-      name: form_status
-      label: form_status
-      hint: null
+      required: true
+    - id: 12
+      name: form_status_2
+      label: What is the status of the form?
+      hint: Please select the status of the form.
       type: select_one
       options:
       - Active
       - Inactive
-      required: false
-    - id: 20
-      name: assigned_to
-      label: assigned_to
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: comments
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: operator
-      label: operator
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: location
-      label: location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: start_time
-      label: start_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: end_time
-      label: end_time
-      hint: null
-      type: time
-      options: []
-      required: false
+      required: true

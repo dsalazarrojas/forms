@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Audi''}'
-      - '{''label'': ''BMW''}'
-      - '{''label'': ''Toyota''}'
+      - Audi
+      - BMW
+      - Toyota
       required: false
     - id: 3
       name: model_year
@@ -33,8 +33,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 5
       name: vehicle_type
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Car''}'
-      - '{''label'': ''Truck''}'
-      - '{''label'': ''SUV''}'
+      - Car
+      - Truck
+      - SUV
       required: false
     - id: 6
       name: vehicle_mileage
@@ -59,8 +59,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 8
       name: vehicle_last_inspection_date

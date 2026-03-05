@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Head''}'
-      - '{''value'': ''Assistant''}'
-      - '{''value'': ''Other''}'
+      - Head
+      - Assistant
+      - Other
       required: false
     - id: 8
       name: teacher_years_of_service
@@ -61,11 +61,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Less than 1 year''}'
-      - '{''value'': ''1-2 years''}'
-      - '{''value'': ''2-5 years''}'
-      - '{''value'': ''5-10 years''}'
-      - '{''value'': ''More than 10 years''}'
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
       required: false
     - id: 9
       name: teacher_department
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''A''}'
-      - '{''value'': ''B''}'
-      - '{''value'': ''C''}'
+      - A
+      - B
+      - C
       required: true
     - id: 10
       name: teacher_comment
@@ -111,8 +111,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Male''}'
-      - '{''value'': ''Female''}'
+      - Male
+      - Female
       required: true
     - id: 15
       name: student_address
@@ -162,8 +162,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
+      - Active
+      - Inactive
       required: true
     - id: 22
       name: student_previous_school
@@ -192,6 +192,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Complete''}'
-      - '{''value'': ''Incomplete''}'
+      - Complete
+      - Incomplete
       required: true

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Working''}'
-      - '{''value'': ''Not Working''}'
-      - '{''value'': ''Maintenance Required''}'
+      - Working
+      - Not Working
+      - Maintenance Required
       required: false
     - id: 3
       name: repair_priority
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 4
       name: issue_description
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Local''}'
-      - '{''value'': ''Satellite''}'
-      - '{''value'': ''Streaming''}'
+      - Local
+      - Satellite
+      - Streaming
       required: false
     - id: 6
       name: audio_format
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''MP3''}'
-      - '{''value'': ''WAV''}'
-      - '{''value'': ''FLAC''}'
+      - MP3
+      - WAV
+      - FLAC
       required: false
     - id: 7
       name: audio_volume
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''24/7''}'
-      - '{''value'': ''On Demand''}'
-      - '{''value'': ''Custom''}'
+      - 24/7
+      - On Demand
+      - Custom
       required: false
     - id: 10
       name: additional_notes
@@ -154,53 +154,53 @@ inputSchema:
       options: []
       required: true
     - id: 20
-      name: facility_name
-      label: Facility Name
+      name: facility_name_2
+      label: Facility Name 2
       hint: null
       type: text
       options: []
       required: false
     - id: 21
-      name: facility_address
-      label: Facility Address
+      name: facility_address_2
+      label: Facility Address 2
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: facility_manager
-      label: Facility Manager
+      name: facility_manager_2
+      label: Facility Manager 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: assigned_to
-      label: Assigned To
+      name: assigned_to_2
+      label: Assigned To 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: status
-      label: Status
+      name: status_2
+      label: Status 2
       hint: null
       type: select_one
       options:
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Completed''}'
-      - '{''value'': ''Cancelled''}'
+      - In Progress
+      - Completed
+      - Cancelled
       required: false
     - id: 25
-      name: comments
-      label: Comments
+      name: comments_2
+      label: Comments 2
       hint: null
       type: text
       options: []
       required: false
     - id: 26
-      name: facility_name
-      label: Facility Name
+      name: facility_name_3
+      label: Facility Name 3
       hint: null
       type: text
       options: []

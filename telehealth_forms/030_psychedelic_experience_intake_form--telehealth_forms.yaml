@@ -16,16 +16,16 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{1: ''LSD''}'
-      - '{2: ''Psilocybin''}'
-      - '{3: ''Ayahuasca''}'
-      - '{4: ''DMT''}'
-      - '{5: ''Mescaline''}'
-      - '{6: ''MDA''}'
-      - '{7: ''Ibogaine''}'
-      - '{8: ''Salvia Divinorum''}'
-      - '{9: ''DPT''}'
-      - '{10: ''DMT''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
       required: false
     - id: 3
       name: dosage
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{1: ''Home''}'
-      - '{2: ''Other''}'
-      - '{3: ''Outdoor''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 8
       name: other_setting
@@ -78,17 +78,17 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Anxious''}'
-      - '{2: ''Calm''}'
-      - '{3: ''Confused''}'
-      - '{4: ''Energetic''}'
-      - '{5: ''Fearful''}'
-      - '{6: ''Happy''}'
-      - '{7: ''Overwhelmed''}'
-      - '{8: ''Sad''}'
-      - '{9: ''Somnolent''}'
-      - '{10: ''Somnolent''}'
-      - '{11: ''Unchanged''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      - Option 11
       required: false
     - id: 10
       name: visuals
@@ -96,11 +96,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Bright''}'
-      - '{2: ''Complex''}'
-      - '{3: ''Simple''}'
-      - '{4: ''Varied''}'
-      - '{5: ''None''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 11
       name: feelings
@@ -108,15 +108,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Affectionate''}'
-      - '{2: ''Confused''}'
-      - '{3: ''Energetic''}'
-      - '{4: ''Focused''}'
-      - '{5: ''Happy''}'
-      - '{6: ''Overwhelmed''}'
-      - '{7: ''Sad''}'
-      - '{8: ''Somnolent''}'
-      - '{9: ''Unchanged''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
       required: false
     - id: 12
       name: bodily_sensations
@@ -124,13 +124,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Dizziness''}'
-      - '{2: ''Heaviness''}'
-      - '{3: ''Heat''}'
-      - '{4: ''Paresthesia''}'
-      - '{5: ''Temperature''}'
-      - '{6: ''Tingling''}'
-      - '{7: ''Unchanged''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
       required: false
     - id: 13
       name: altered_senses
@@ -138,14 +138,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Altered sense of time''}'
-      - '{2: ''Altered sense of self''}'
-      - '{3: ''Altered sense of touch''}'
-      - '{4: ''Altered sense of smell''}'
-      - '{5: ''Altered sense of taste''}'
-      - '{6: ''Altered sense of hearing''}'
-      - '{7: ''Altered sense of sight''}'
-      - '{8: ''Altered sense of spatial perception''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
       required: false
     - id: 14
       name: emotions
@@ -153,11 +153,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Fear''}'
-      - '{2: ''Guilt''}'
-      - '{3: ''Love''}'
-      - '{4: ''Sadness''}'
-      - '{5: ''Unchanged''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 15
       name: thoughts
@@ -165,11 +165,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Confused''}'
-      - '{2: ''Disorganized''}'
-      - '{3: ''Disorientated''}'
-      - '{4: ''Focused''}'
-      - '{5: ''Unchanged''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 16
       name: memories
@@ -177,9 +177,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Forgotten''}'
-      - '{2: ''Vivid''}'
-      - '{3: ''Unchanged''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 17
       name: music
@@ -187,10 +187,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Felt presence of music''}'
-      - '{2: ''Heard music''}'
-      - '{3: ''Heard own heartbeat''}'
-      - '{4: ''Unchanged''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 18
       name: visuals_permanent
@@ -198,10 +198,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Bright''}'
-      - '{2: ''Dots/lines/graphics''}'
-      - '{3: ''Simple shapes/formations''}'
-      - '{4: ''Unchanged''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 19
       name: visuals_transient
@@ -209,10 +209,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Bright''}'
-      - '{2: ''Dots/lines/graphics''}'
-      - '{3: ''Simple shapes/formations''}'
-      - '{4: ''Unchanged''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 20
       name: aftereffects
@@ -220,15 +220,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Confused''}'
-      - '{2: ''Disoriented''}'
-      - '{3: ''Energetic''}'
-      - '{4: ''Euphoria''}'
-      - '{5: ''Happy''}'
-      - '{6: ''Overwhelmed''}'
-      - '{7: ''Sad''}'
-      - '{8: ''Somnolent''}'
-      - '{9: ''Unchanged''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
       required: false
     - id: 21
       name: suggestions

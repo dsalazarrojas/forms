@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1001, ''label'': ''ABC Organization''}'
-      - '{''id'': 1002, ''label'': ''DEF Organization''}'
-      - '{''id'': 1003, ''label'': ''GHI Organization''}'
+      - ABC Organization
+      - DEF Organization
+      - GHI Organization
       required: false
     - id: 7
       name: start_date
@@ -68,13 +68,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 2001, ''label'': ''Monday''}'
-      - '{''id'': 2002, ''label'': ''Tuesday''}'
-      - '{''id'': 2003, ''label'': ''Wednesday''}'
-      - '{''id'': 2004, ''label'': ''Thursday''}'
-      - '{''id'': 2005, ''label'': ''Friday''}'
-      - '{''id'': 2006, ''label'': ''Saturday''}'
-      - '{''id'': 2007, ''label'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: true
     - id: 10
       name: comments
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 3001, ''label'': ''Clinical Volunteer''}'
-      - '{''id'': 3002, ''label'': ''Non-Clinical Volunteer''}'
-      - '{''id'': 3003, ''label'': ''Both Clinical and Non-Clinical Volunteer''}'
+      - Clinical Volunteer
+      - Non-Clinical Volunteer
+      - Both Clinical and Non-Clinical Volunteer
       required: true
     - id: 13
       name: clinical_experience
@@ -113,11 +113,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 4001, ''label'': ''High School''}'
-      - '{''id'': 4002, ''label'': "Bachelor''s"}'
-      - '{''id'': 4003, ''label'': "Master''s"}'
-      - '{''id'': 4004, ''label'': ''Doctorate''}'
-      - '{''id'': 4005, ''label'': ''Other''}'
+      - High School
+      - Bachelor's
+      - Master's
+      - Doctorate
+      - Other
       required: true
     - id: 15
       name: language
@@ -139,10 +139,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 5001, ''label'': ''Month''}'
-      - '{''id'': 5002, ''label'': ''Three Months''}'
-      - '{''id'': 5003, ''label'': ''Six Months''}'
-      - '{''id'': 5004, ''label'': ''Year''}'
+      - Month
+      - Three Months
+      - Six Months
+      - Year
       required: true
     - id: 18
       name: availability_days
@@ -150,13 +150,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 6001, ''label'': ''Monday''}'
-      - '{''id'': 6002, ''label'': ''Tuesday''}'
-      - '{''id'': 6003, ''label'': ''Wednesday''}'
-      - '{''id'': 6004, ''label'': ''Thursday''}'
-      - '{''id'': 6005, ''label'': ''Friday''}'
-      - '{''id'': 6006, ''label'': ''Saturday''}'
-      - '{''id'': 6007, ''label'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: true
     - id: 19
       name: availability_start_time
@@ -199,8 +199,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 7001, ''label'': True}'
-      - '{''id'': 7002, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: submitted_by

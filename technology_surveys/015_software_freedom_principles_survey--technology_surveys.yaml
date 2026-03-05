@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,13 +23,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Free and open-source software is distributed without any copyright''}'
-      - '{''label'': ''Free and open-source software has no cost, or can be distributed
-        at no cost''}'
-      - '{''label'': ''Free and open-source software is distributed under open-source
-        licenses that give users the freedom to study, modify and redistribute it''}'
-      - '{''label'': ''Free and open-source software is used for social good, such
-        as in education, science, or healthcare''}'
+      - Free and open-source software is distributed without any copyright
+      - Free and open-source software has no cost, or can be distributed at no cost
+      - Free and open-source software is distributed under open-source licenses that
+        give users the freedom to study, modify and redistribute it
+      - Free and open-source software is used for social good, such as in education,
+        science, or healthcare
       required: true
     - id: 4
       name: software_freedom_principles
@@ -48,17 +36,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Users have the freedom to use the software for any purpose''}'
-      - '{''label'': ''Users have the freedom to study the software and understand
-        how it works''}'
-      - '{''label'': ''Users have the freedom to modify and distribute copies of the
-        software''}'
-      - '{''label'': ''Users have the freedom to modify the software and distribute
-        derivative works based on it''}'
-      - '{''label'': ''Users have the freedom to make and sell a modified version
-        of the software''}'
-      - '{''label'': ''Users have the freedom to distribute copies of the software
-        and charge for it''}'
+      - Users have the freedom to use the software for any purpose
+      - Users have the freedom to study the software and understand how it works
+      - Users have the freedom to modify and distribute copies of the software
+      - Users have the freedom to modify the software and distribute derivative works
+        based on it
+      - Users have the freedom to make and sell a modified version of the software
+      - Users have the freedom to distribute copies of the software and charge for
+        it
       required: true
     - id: 5
       name: open_source_engagement
@@ -66,12 +51,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Contributing patches''}'
-      - '{''label'': ''Contributing code''}'
-      - '{''label'': ''Contributing documentation''}'
-      - '{''label'': ''Contributing to community projects''}'
-      - '{''label'': ''Participating in community decision-making''}'
-      - '{''label'': ''Advocating for free and open-source software''}'
+      - Contributing patches
+      - Contributing code
+      - Contributing documentation
+      - Contributing to community projects
+      - Participating in community decision-making
+      - Advocating for free and open-source software
       required: true
     - id: 6
       name: community_involvement
@@ -79,11 +64,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Participating in online forums''}'
-      - '{''label'': ''Participating in local meetups''}'
-      - '{''label'': ''Participating in social media groups''}'
-      - '{''label'': ''Participating in community events''}'
-      - '{''label'': ''Participating in hackathons''}'
+      - Participating in online forums
+      - Participating in local meetups
+      - Participating in social media groups
+      - Participating in community events
+      - Participating in hackathons
       required: false
     - id: 7
       name: awareness_and_values
@@ -91,18 +76,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Free and open-source software development is important for
-        the future of technology''}'
-      - '{''label'': ''The freedom to use, modify and distribute software is essential
-        for innovation''}'
-      - '{''label'': ''Free and open-source software is more secure than proprietary
-        software''}'
-      - '{''label'': ''Free and open-source software development is essential for
-        social good''}'
-      - '{''label'': ''Free and open-source software development is more efficient
-        than proprietary software development''}'
-      - '{''label'': ''Free and open-source software development is more reliable
-        than proprietary software development''}'
+      - Free and open-source software development is important for the future of technology
+      - The freedom to use, modify and distribute software is essential for innovation
+      - Free and open-source software is more secure than proprietary software
+      - Free and open-source software development is essential for social good
+      - Free and open-source software development is more efficient than proprietary
+        software development
+      - Free and open-source software development is more reliable than proprietary
+        software development
       required: false
     - id: 8
       name: open_source_benefits
@@ -110,12 +91,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''More cost-effective''}'
-      - '{''label'': ''More reliable''}'
-      - '{''label'': ''More efficient''}'
-      - '{''label'': ''More secure''}'
-      - '{''label'': ''More flexible''}'
-      - '{''label'': ''More innovative''}'
+      - More cost-effective
+      - More reliable
+      - More efficient
+      - More secure
+      - More flexible
+      - More innovative
       required: true
     - id: 9
       name: additional_comments

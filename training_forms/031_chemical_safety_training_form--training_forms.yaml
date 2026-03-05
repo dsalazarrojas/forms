@@ -128,8 +128,8 @@ inputSchema:
       hint: Did training include a test
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: test_score
@@ -151,8 +151,8 @@ inputSchema:
       hint: Was hands-on demonstration required
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: demonstration_passed
@@ -160,8 +160,8 @@ inputSchema:
       hint: Did trainee pass practical demonstration
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not applicable
       required: false
     - id: 19
@@ -170,8 +170,8 @@ inputSchema:
       hint: Was proper PPE fitting verified
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not applicable
       required: true
     - id: 20
@@ -220,8 +220,8 @@ inputSchema:
       hint: Did trainee receive certification
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: certification_expiry
@@ -237,7 +237,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I confirm
-      - false
+      - 'False'
       required: true
     - id: 27
       name: trainer_signature
@@ -246,7 +246,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I confirm
-      - false
+      - 'False'
       required: true
     - id: 28
       name: training_record_date

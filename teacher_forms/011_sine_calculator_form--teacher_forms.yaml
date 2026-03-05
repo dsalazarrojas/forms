@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Hz''}'
-      - '{''name'': ''MHz''}'
-      - '{''name'': ''kHz''}'
+      - Hz
+      - MHz
+      - kHz
       required: false
     - id: 6
       name: input_wavelength
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''meters''}'
-      - '{''name'': ''kilometers''}'
-      - '{''name'': ''microns''}'
+      - meters
+      - kilometers
+      - microns
       required: false
     - id: 8
       name: select_calculate_sine
@@ -66,8 +66,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True}'
-      - '{''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: select_calculate_cosine
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True}'
-      - '{''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: select_calculate_tangent
@@ -84,6 +84,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True}'
-      - '{''name'': False}'
+      - 'True'
+      - 'False'
       required: false

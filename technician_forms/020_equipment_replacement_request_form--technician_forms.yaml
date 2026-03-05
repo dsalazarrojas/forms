@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Equipment 1''}'
-      - '{''id'': 2, ''text'': ''Equipment 2''}'
+      - Equipment 1
+      - Equipment 2
       required: false
     - id: 3
       name: description
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Technician 1''}'
-      - '{''id'': 2, ''text'': ''Technician 2''}'
-      - '{''id'': 3, ''text'': ''Technician 3''}'
+      - Technician 1
+      - Technician 2
+      - Technician 3
       required: true
     - id: 8
       name: date_requested
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Active''}'
-      - '{''id'': 2, ''text'': ''Inactive''}'
+      - Active
+      - Inactive
       required: true
     - id: 10
       name: additional_comments

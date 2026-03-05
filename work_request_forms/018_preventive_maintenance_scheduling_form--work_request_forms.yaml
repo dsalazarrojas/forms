@@ -37,8 +37,9 @@ inputSchema:
       hint: Upload a photo or signature
       type: select_multiple
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: service_type
@@ -46,9 +47,9 @@ inputSchema:
       hint: Select service type
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
       name: schedule_date
@@ -66,61 +67,62 @@ inputSchema:
       required: false
     - id: 9
       name: schedule_date2
-      label: Schedule Date
+      label: Schedule Date2
       hint: null
       type: date
       options: []
       required: false
     - id: 10
       name: station_location2
-      label: Station Location
+      label: Station Location2
       hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: vehicle_info2
-      label: Vehicle Information
+      label: Vehicle Info2
       hint: null
       type: text
       options: []
       required: false
     - id: 12
       name: service_requirements2
-      label: Service Requirements
+      label: Service Requirements2
       hint: null
       type: text
       options: []
       required: false
     - id: 13
       name: images_with_signature2
-      label: Images with Signature
+      label: Images With Signature2
       hint: Upload a photo or signature
       type: select_multiple
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 14
       name: service_type2
-      label: Service Type
+      label: Service Type2
       hint: Select service type
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 15
       name: schedule_date3
-      label: Schedule Date
+      label: Schedule Date3
       hint: null
       type: date
       options: []
       required: false
     - id: 16
       name: schedule_time2
-      label: Schedule Time
+      label: Schedule Time2
       hint: null
       type: time
       options: []
@@ -148,21 +150,21 @@ inputSchema:
       required: false
     - id: 20
       name: notes2
-      label: Notes
+      label: Notes2
       hint: null
       type: note
       options: []
       required: false
     - id: 21
       name: email2
-      label: Email
+      label: Email2
       hint: null
       type: email
       options: []
       required: false
     - id: 22
       name: phone2
-      label: Phone
+      label: Phone2
       hint: null
       type: text
       options: []

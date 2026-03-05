@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''participant'', ''label'': ''participant''}'
-      - '{''name'': ''organizer'', ''label'': ''organizer''}'
-      - '{''name'': ''volunteer'', ''label'': ''volunteer''}'
+      - participant
+      - organizer
+      - volunteer
       required: false
     - id: 7
       name: event_type
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''conference'', ''label'': ''conference''}'
-      - '{''name'': ''meetup'', ''label'': ''meetup''}'
-      - '{''name'': ''workshop'', ''label'': ''workshop''}'
+      - conference
+      - meetup
+      - workshop
       required: false
     - id: 9
       name: date
@@ -109,8 +109,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''label'': True}'
-      - '{''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: confirm_name

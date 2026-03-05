@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Beginner''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: false
     - id: 5
       name: payment_method
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''PayPal''}'
-      - '{''id'': 2, ''label'': ''Stripe''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - PayPal
+      - Stripe
+      - Other
       required: false
     - id: 6
       name: date

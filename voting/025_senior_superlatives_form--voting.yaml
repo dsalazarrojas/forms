@@ -4,74 +4,84 @@ inputSchema:
     title: Senior Superlatives Form
     pages:
     - id: 1
-      name: senior_superlatives_form
-      label: Senior Superlatives Form
-      hint: null
+      name: introduction
+      label: What is your name?
+      hint: Please provide your full name.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: Name
-      hint: null
+      name: senior_name
+      label: What is the Senior Superlatives' name?
+      hint: Please provide the name of a senior you know.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: student_name
-      label: Student Name
+      name: relationship
+      label: What is your relationship to the Senior Superlatives?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Friend
+      - Mentor
+      - Colleague
+      - Classmate
+      - Other
+      required: true
     - id: 4
-      name: name_1
-      label: Name
+      name: feelings
+      label: How do you feel about the Senior Superlatives?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: senior_superlatives
-      label: Senior Superlatives
+      name: feedback
+      label: Additional feedback or comments about the Senior Superlatives?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferences
+      label: What are your preferences for the Senior Superlatives?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 6
-      name: name_2
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 7
-      name: name_3
-      label: Name
+      name: demographics
+      label: What is your demographic information?
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 8
-      name: name_4
-      label: Name
+      name: experiences
+      label: Can you describe your senior experiences?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: name_5
-      label: Name
+      name: recommendations
+      label: Who do you recommend for Senior Superlatives?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
-      name: name_6
-      label: Name
+      name: confirm
+      label: Are you ready to submit?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: radio
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

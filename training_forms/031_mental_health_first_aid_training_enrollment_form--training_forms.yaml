@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,12 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 4, ''name'': ''session_date'', ''label'': ''Session Date'', ''hint'':
-        None, ''type'': ''date'', ''options'': []}'
-      - '{''id'': 5, ''name'': ''session_time'', ''label'': ''Session Time'', ''hint'':
-        None, ''type'': ''time'', ''options'': []}'
-      - '{''id'': 6, ''name'': ''session_duration'', ''label'': ''Session Duration'',
-        ''hint'': None, ''type'': ''integer'', ''options'': []}'
+      - Session Date
+      - Session Time
+      - Session Duration
       required: false
     - id: 4
       name: emergency_contact
@@ -54,10 +40,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 9, ''name'': ''participant_status_option_1'', ''label'': ''Not Started'',
-        ''hint'': None, ''type'': ''text'', ''options'': []}'
-      - '{''id'': 10, ''name'': ''participant_status_option_2'', ''label'': ''In Progress'',
-        ''hint'': None, ''type'': ''text'', ''options'': []}'
-      - '{''id'': 11, ''name'': ''participant_status_option_3'', ''label'': ''Completed'',
-        ''hint'': None, ''type'': ''text'', ''options'': []}'
+      - Not Started
+      - In Progress
+      - Completed
       required: false

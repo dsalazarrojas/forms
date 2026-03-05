@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''unemployed''}'
-      - '{''value'': ''employed''}'
-      - '{''value'': ''retired''}'
-      - '{''value'': ''student''}'
+      - unemployed
+      - employed
+      - retired
+      - student
       required: false
     - id: 4
       name: family_member_age
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''male''}'
-      - '{''value'': ''female''}'
-      - '{''value'': ''other''}'
+      - male
+      - female
+      - other
       required: false
     - id: 6
       name: education_level
@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''high_school''}'
-      - '{''value'': ''bachelor''}'
-      - '{''value'': ''master''}'
-      - '{''value'': ''doctor''}'
+      - high school
+      - bachelor
+      - master
+      - doctor
       required: false
     - id: 7
       name: household_assets
@@ -69,10 +69,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''part_time''}'
-      - '{''value'': ''full_time''}'
-      - '{''value'': ''contract''}'
-      - '{''value'': ''self_employed''}'
+      - part time
+      - full time
+      - contract
+      - self employed
       required: false
     - id: 9
       name: family_member_marital_status
@@ -80,10 +80,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''married''}'
-      - '{''value'': ''single''}'
-      - '{''value'': ''divorced''}'
-      - '{''value'': ''widowed''}'
+      - married
+      - single
+      - divorced
+      - widowed
       required: false
     - id: 10
       name: family_member_country_of_birth
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''citizen''}'
-      - '{''value'': ''non_citizen''}'
-      - '{''value'': ''resident''}'
+      - citizen
+      - non citizen
+      - resident
       required: false
     - id: 14
       name: family_member_ethnic_group
@@ -129,8 +129,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 16
       name: family_member_language_spoken
@@ -145,9 +145,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''fluent''}'
-      - '{''value'': ''basic''}'
-      - '{''value'': ''none''}'
+      - fluent
+      - basic
+      - none
       required: false
     - id: 18
       name: family_member_employment_in_last_3_months
@@ -169,11 +169,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''elementary''}'
-      - '{''value'': ''high_school''}'
-      - '{''value'': ''vocational''}'
-      - '{''value'': ''bachelor''}'
-      - '{''value'': ''master''}'
+      - elementary
+      - high school
+      - vocational
+      - bachelor
+      - master
       required: false
     - id: 21
       name: family_member_education_field

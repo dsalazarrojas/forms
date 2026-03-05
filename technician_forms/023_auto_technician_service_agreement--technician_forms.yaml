@@ -240,8 +240,8 @@ inputSchema:
       hint: Is a deposit needed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 31
       name: deposit_amount
@@ -316,7 +316,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Authorize
-      - false
+      - 'False'
       required: true
     - id: 39
       name: additional_work
@@ -345,7 +345,7 @@ inputSchema:
       type: select_one
       options:
       - Yes Understood
-      - false
+      - 'False'
       required: true
     - id: 42
       name: personal_items
@@ -372,7 +372,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 45
       name: warranty_terms
@@ -381,7 +381,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 46
       name: client_signature

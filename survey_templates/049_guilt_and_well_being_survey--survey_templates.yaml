@@ -16,103 +16,50 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
-      hint: null
+      label: Introduction
+      hint: A brief overview of the survey and its purpose.
       type: note
       options: []
       required: false
     - id: 2
       name: question1
-      label: what_is_guilt
-      hint: null
+      label: What is guilt?
+      hint: Please describe your understanding of guilt.
       type: text
       options: []
       required: false
     - id: 3
       name: question2
-      label: how_does_guilt_affect
-      hint: null
+      label: How does guilt affect you?
+      hint: How do you typically respond to feelings of guilt?
       type: text
       options: []
       required: false
     - id: 4
       name: question3
-      label: how_does_it_affect
-      hint: null
-      type: text
+      label: How often do you experience guilt?
+      hint: On a scale of 1-10, how often do you feel guilty?
+      type: number
       options: []
       required: false
     - id: 5
       name: question4
-      label: frequency_of_guilt
-      hint: null
-      type: text
+      label: Intensity of guilt
+      hint: On a scale of 1-10, how intense is your guilt?
+      type: number
       options: []
       required: false
     - id: 6
       name: question5
-      label: intensity_of_guilt
-      hint: null
+      label: How does it affect you?
+      hint: How do you think guilt affects you emotionally?
       type: text
       options: []
       required: false
     - id: 7
-      name: question6
-      label: how_does_it_affect
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: question7
-      label: emotional_expression
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
       name: question8
-      label: coping_strategies
-      hint: null
-      type: select_one
-      options:
-      - Guilt
-      - Shame
-      - Pride
-      - Anger
-      required: true
-    - id: 10
-      name: question8
-      label: emotional_state
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: question9
-      label: emotional_expression
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: question10
-      label: how_do_people
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: question10
-      label: emotional_state
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: question11
-      label: coping_strategies
-      hint: null
+      label: Coping strategies
+      hint: Choose one or more from the list below
       type: select_multiple
       options:
       - Guilt
@@ -121,38 +68,97 @@ inputSchema:
       - Anger
       - Fear
       required: true
-    - id: 15
-      name: question12
-      label: emotional_expression
-      hint: null
+    - id: 8
+      name: question9
+      label: Emotional Expression
+      hint: How do you express your emotions in response to guilt?
       type: text
       options: []
       required: false
-    - id: 16
+    - id: 9
+      name: question10
+      label: Emotional state
+      hint: How do you feel when experiencing guilt?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question11
+      label: Question11
+      hint: Choose one or more from the list below
+      type: select_one
+      options:
+      - Guilt
+      - Shame
+      - Pride
+      - Anger
+      - Fear
+      required: true
+    - id: 11
+      name: question12
+      label: Question12
+      hint: How do you express your emotions in response to guilt?
+      type: text
+      options: []
+      required: false
+    - id: 12
       name: question13
-      label: emotional_state
-      hint: null
+      label: Question13
+      hint: How do you feel when experiencing guilt?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: question14
+      label: How do people respond to guilt?
+      hint: How do people typically respond to feelings of guilt?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question15
+      label: Question15
+      hint: How do you feel when experiencing guilt?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: question16
+      label: Question16
+      hint: Choose one or more from the list below
+      type: select_multiple
+      options:
+      - Guilt
+      - Shame
+      - Pride
+      - Anger
+      - Fear
+      required: true
+    - id: 16
+      name: question17
+      label: Question17
+      hint: How do you express your emotions in response to guilt?
       type: text
       options: []
       required: false
     - id: 17
-      name: question14
-      label: how_do_people
-      hint: null
+      name: question17_2
+      label: Question17 2
+      hint: How do you feel when experiencing guilt?
       type: text
       options: []
       required: false
     - id: 18
-      name: question14
-      label: emotional_state
-      hint: null
+      name: question18
+      label: Question18
+      hint: How do people typically respond to feelings of guilt?
       type: text
       options: []
       required: false
     - id: 19
-      name: question15
-      label: coping_strategies
-      hint: null
+      name: question19
+      label: Question19
+      hint: Choose one or more from the list below
       type: select_one
       options:
       - Guilt
@@ -162,9 +168,9 @@ inputSchema:
       - Fear
       required: true
     - id: 20
-      name: question16
-      label: emotional_expression
-      hint: null
+      name: question20
+      label: Question20
+      hint: How do you express your emotions in response to guilt?
       type: text
       options: []
       required: false

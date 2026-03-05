@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -41,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very dissatisfied'', ''value'': 1}'
-      - '{''label'': ''Somewhat dissatisfied'', ''value'': 2}'
-      - '{''label'': ''Neutral'', ''value'': 3}'
-      - '{''label'': ''Somewhat satisfied'', ''value'': 4}'
-      - '{''label'': ''Very satisfied'', ''value'': 5}'
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
       required: true
     - id: 5
       name: service_quality
@@ -53,10 +42,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Excellent'', ''value'': ''Excellent''}'
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Fair'', ''value'': ''Fair''}'
-      - '{''label'': ''Bad'', ''value'': ''Bad''}'
+      - Excellent
+      - Good
+      - Fair
+      - Bad
       required: false
     - id: 6
       name: communication
@@ -64,11 +53,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent'', ''value'': 5}'
-      - '{''label'': ''Good'', ''value'': 4}'
-      - '{''label'': ''Fair'', ''value'': 3}'
-      - '{''label'': ''Poor'', ''value'': 2}'
-      - '{''label'': ''Very Poor'', ''value'': 1}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
       required: false
     - id: 7
       name: cleanliness
@@ -76,11 +65,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent'', ''value'': 5}'
-      - '{''label'': ''Good'', ''value'': 4}'
-      - '{''label'': ''Fair'', ''value'': 3}'
-      - '{''label'': ''Poor'', ''value'': 2}'
-      - '{''label'': ''Very Poor'', ''value'': 1}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
       required: false
     - id: 8
       name: punctuality
@@ -88,11 +77,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent'', ''value'': 5}'
-      - '{''label'': ''Good'', ''value'': 4}'
-      - '{''label'': ''Fair'', ''value'': 3}'
-      - '{''label'': ''Late'', ''value'': 2}'
-      - '{''label'': ''Very Late'', ''value'': 1}'
+      - Excellent
+      - Good
+      - Fair
+      - Late
+      - Very Late
       required: false
     - id: 9
       name: value_for_money
@@ -100,11 +89,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very cheap'', ''value'': 1}'
-      - '{''label'': ''Somewhat cheap'', ''value'': 2}'
-      - '{''label'': ''Average'', ''value'': 3}'
-      - '{''label'': ''Somewhat expensive'', ''value'': 4}'
-      - '{''label'': ''Very expensive'', ''value'': 5}'
+      - Very cheap
+      - Somewhat cheap
+      - Average
+      - Somewhat expensive
+      - Very expensive
       required: false
     - id: 10
       name: comfort

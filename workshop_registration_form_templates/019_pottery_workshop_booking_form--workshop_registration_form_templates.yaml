@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cash''}'
-      - '{''id'': 2, ''label'': ''Credit/Debit''}'
-      - '{''id'': 3, ''label'': ''PayPal''}'
-      - '{''id'': 4, ''label'': ''Bank Transfer''}'
+      - Cash
+      - Credit/Debit
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 8
       name: payment_status
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Paid''}'
-      - '{''id'': 2, ''label'': ''Not Paid''}'
-      - '{''id'': 3, ''label'': ''Partially Paid''}'
+      - Paid
+      - Not Paid
+      - Partially Paid
       required: false
     - id: 9
       name: booking_status
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Confirmed''}'
-      - '{''id'': 2, ''label'': ''Pending''}'
-      - '{''id'': 3, ''label'': ''Canceled''}'
+      - Confirmed
+      - Pending
+      - Canceled
       required: false
     - id: 10
       name: workshop_time

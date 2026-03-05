@@ -5,139 +5,142 @@ inputSchema:
     pages:
     - id: 1
       name: first_page
-      label: First Page
-      hint: null
-      type: text
-      options: []
-      required: false
+      label: What was the first thing you had for breakfast?
+      hint: Please select your first breakfast item.
+      type: select_one
+      options:
+      - Apples
+      - Bananas
+      - Carrots
+      - Oranges
+      required: true
     - id: 2
-      name: first_page_header
-      label: Which of the following items did you eat
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: breakfast_item
-      label: Breakfast Item
-      hint: null
-      type: select_one
-      options:
-      - Apples
-      - Carrots
-      - Oranges
-      - Bananas
-      - Apples
-      - Carrots
-      - Oranges
-      - Bananas
-      required: false
-    - id: 4
-      name: breakfast_servings
-      label: How many servings
+      name: first_page_servings
+      label: How many servings?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 5
-      name: first_page_separator
-      label: _______________________________________
+      required: true
+    - id: 3
+      name: did_you_eat_snacks
+      label: Did you eat any snacks?
       hint: null
-      type: text
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: snacks
+      label: What snacks did you have?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Apples
+      - Bananas
+      - Carrots
+      - Oranges
+      required: true
+    - id: 5
+      name: first_page_servings_snacks
+      label: How many servings of snacks?
+      hint: null
+      type: number
       options: []
       required: false
     - id: 6
-      name: lunch_item
-      label: Lunch Item
-      hint: null
+      name: second_page
+      label: What was the main course for lunch?
+      hint: Please select your main course item.
       type: select_one
       options:
       - Apples
+      - Bananas
       - Carrots
       - Oranges
-      - Bananas
-      - Apples
-      - Carrots
-      - Oranges
-      - Bananas
-      required: false
+      required: true
     - id: 7
-      name: lunch_servings
-      label: How many servings
+      name: second_page_servings
+      label: Second Page Servings
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 8
-      name: first_page_separator
-      label: _______________________________________
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: dinner_item
-      label: Dinner Item
+      name: did_you_eat_snacks_2
+      label: Did you eat any additional snacks?
       hint: null
       type: select_one
       options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: additional_snacks
+      label: Additional Snacks
+      hint: Select all that apply.
+      type: select_multiple
+      options:
       - Apples
+      - Bananas
       - Carrots
       - Oranges
-      - Bananas
-      - Apples
-      - Carrots
-      - Oranges
-      - Bananas
-      required: false
+      required: true
     - id: 10
-      name: dinner_servings
-      label: How many servings
+      name: second_page_servings_snacks
+      label: How many servings of additional snacks?
       hint: null
       type: number
       options: []
       required: false
     - id: 11
-      name: first_page_separator
-      label: _______________________________________
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: third_page
+      label: What was the main course for dinner?
+      hint: Please select your main course item.
+      type: select_one
+      options:
+      - Apples
+      - Bananas
+      - Carrots
+      - Oranges
+      required: true
     - id: 12
-      name: snacks
-      label: Snacks
+      name: third_page_servings
+      label: Third Page Servings
       hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: did_you_eat_snacks_3
+      label: Did You Eat Snacks 3
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: additional_snacks_2
+      label: Additional Snacks 2
+      hint: Select all that apply.
       type: select_multiple
       options:
       - Apples
+      - Bananas
       - Carrots
       - Oranges
-      - Bananas
-      - Apples
-      - Carrots
-      - Oranges
-      - Bananas
-      required: false
-    - id: 13
-      name: snacks_servings
-      label: How many servings
+      required: true
+    - id: 15
+      name: third_page_servings_snacks
+      label: Third Page Servings Snacks
       hint: null
       type: number
       options: []
       required: false
-    - id: 14
-      name: first_page_footer
-      label: Please let us know if you have any questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: first_page_footer
-      label: _______________________________________
+    - id: 16
+      name: fourth_page
+      label: Additional comments or questions
       hint: null
       type: text
       options: []

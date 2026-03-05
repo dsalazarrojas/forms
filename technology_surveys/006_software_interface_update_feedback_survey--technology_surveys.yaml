@@ -58,10 +58,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Team''}'
-      - '{''label'': ''User''}'
-      - '{''label'': ''Administrator''}'
-      - '{''label'': ''Other''}'
+      - Team
+      - User
+      - Administrator
+      - Other
       required: true
     - id: 9
       name: role
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Team Member''}'
-      - '{''label'': ''Team Administrator''}'
-      - '{''label'': ''Other (e.g., Customer Support)''}'
+      - Team Member
+      - Team Administrator
+      - Other (e.g., Customer Support)
       required: false
     - id: 10
       name: date
@@ -100,9 +100,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Google Forms''}'
-      - '{''label'': ''Jotform''}'
-      - '{''label'': ''Other''}'
+      - Google Forms
+      - Jotform
+      - Other
       required: false
     - id: 14
       name: output_file
@@ -110,10 +110,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''pdf''}'
-      - '{''label'': ''excel''}'
-      - '{''label'': ''csv''}'
-      - '{''label'': ''other''}'
+      - pdf
+      - excel
+      - csv
+      - other
       required: false
     - id: 15
       name: comments

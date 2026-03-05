@@ -15,177 +15,115 @@ inputSchema:
     title: Workplace Health Safety Survey
     pages:
     - id: 1
-      name: workplace_health_safety_survey_page_1
-      label: Workplace Health Safety Survey
+      name: page_1
+      label: What is your work environment like?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: workplace_health_safety_survey_page_2
-      label: Workplace Health Safety Survey
+      name: page_2
+      label: Have you experienced any workplace hazards?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Agreed and reported the incident
+      - Not reported the incident
+      - Did not experience
+      required: true
     - id: 3
-      name: workplace_health_safety_survey_page_3
-      label: Workplace Health Safety Survey
+      name: page_3
+      label: Do you know how to access the company's safety and health policy documents?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: workplace_health_safety_survey_page_4
-      label: Workplace Health Safety Survey
+      name: page_4
+      label: Have you ever reported a safety or health issue?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Always
+      - Frequently
+      - Sometimes
+      - Never
+      required: true
     - id: 5
-      name: workplace_health_safety_survey_page_5
-      label: Workplace Health Safety Survey
+      name: page_5
+      label: Do you have access to a personal protective equipment (PPE) when needed?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 6
-      name: workplace_health_safety_survey_page_6
-      label: Workplace Health Safety Survey
+      name: page_6
+      label: Do you feel supported by your supervisor or manager regarding workplace
+        safety?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
     - id: 7
-      name: workplace_health_safety_survey_page_7
-      label: Workplace Health Safety Survey
+      name: page_7
+      label: How often do you feel that your work environment is safe?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Always safe
+      - Mostly safe
+      - Sometimes safe
+      - Not safe
+      - Not at all safe
+      required: true
     - id: 8
-      name: workplace_health_safety_survey_page_8
-      label: Workplace Health Safety Survey
+      name: page_8
+      label: Would you like to report incidents or concerns regarding work safety
+        or health?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 9
-      name: workplace_health_safety_survey_page_9
-      label: Workplace Health Safety Survey
+      name: page_9
+      label: Would you report the incident if you experienced or observed it?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - I would report it
+      - Not sure
+      - Not report it
+      required: true
     - id: 10
-      name: workplace_health_safety_survey_page_10
-      label: Workplace Health Safety Survey
+      name: page_10
+      label: How confident are you in the company's ability to handle reports of incidents
+        or concerns?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Neutral
+      - Somewhat not confident
+      - Not confident at all
+      required: true
     - id: 11
-      name: workplace_health_safety_survey_page_11
-      label: Workplace Health Safety Survey
+      name: page_11
+      label: How often do you experience stress or anxiety related to work?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: workplace_health_safety_survey_page_12
-      label: Workplace Health Safety Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: workplace_health_safety_survey_page_13
-      label: Workplace Health Safety Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: workplace_health_safety_survey_page_14
-      label: Workplace Health Safety Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: workplace_health_safety_survey_page_15
-      label: Workplace Health Safety Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: workplace_health_safety_survey_page_16
-      label: Workplace Health Safety Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: workplace_health_safety_survey_page_17
-      label: Workplace Health Safety Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: workplace_health_safety_survey_page_18
-      label: Workplace Health Safety Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: workplace_health_safety_survey_page_19
-      label: Workplace Health Safety Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: workplace_health_safety_survey_page_20
-      label: Workplace Health Safety Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: workplace_health_safety_survey_page_21
-      label: Workplace Health Safety Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: workplace_health_safety_survey_page_22
-      label: Workplace Health Safety Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: workplace_health_safety_survey_page_23
-      label: Workplace Health Safety Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: workplace_health_safety_survey_page_24
-      label: Workplace Health Safety Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: workplace_health_safety_survey_page_25
-      label: Workplace Health Safety Survey
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true

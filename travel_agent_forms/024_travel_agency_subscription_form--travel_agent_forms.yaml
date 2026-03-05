@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Monthly''}'
-      - '{''id'': 2, ''name'': ''Annual''}'
+      - Monthly
+      - Annual
       required: false
     - id: 5
       name: payment_method
@@ -39,10 +39,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Bank Transfer''}'
-      - '{''id'': 2, ''name'': ''Payroll Deduction''}'
-      - '{''id'': 3, ''name'': ''Online Payment''}'
-      - '{''id'': 4, ''name'': ''Check Payment''}'
+      - Bank Transfer
+      - Payroll Deduction
+      - Online Payment
+      - Check Payment
       required: false
     - id: 6
       name: subscription_date

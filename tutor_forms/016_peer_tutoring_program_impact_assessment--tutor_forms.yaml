@@ -4,213 +4,175 @@ inputSchema:
     title: Peer Tutoring Program Impact Assessment
     pages:
     - id: 1
-      name: peer_tutoring_program_impact_assessment_1
-      label: What is the purpose of the peer tutoring program in your school?
+      name: program_purpose
+      label: What is the purpose of the peer tutoring program?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: peer_tutoring_program_impact_assessment_2
+      name: meeting_frequency
       label: How often do you meet with students for peer tutoring?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: peer_tutoring_program_impact_assessment_3
+      name: session_duration
       label: What is the average number of students per session?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: peer_tutoring_program_impact_assessment_4
+      name: primary_goal
       label: Select the primary goal of the peer tutoring program
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Improve academic performance
+      - Enhance social skills
+      - Increase student engagement
       required: false
     - id: 5
-      name: peer_tutoring_program_impact_assessment_5
-      label: Select the secondary goal of the peer tutoring program
+      name: secondary_goals
+      label: Select the secondary goals of the peer tutoring program
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Improve academic performance
+      - Enhance social skills
+      - Increase student engagement
       required: false
     - id: 6
-      name: peer_tutoring_program_impact_assessment_6
+      name: session_time
       label: What is the average time per session?
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 7
-      name: peer_tutoring_program_impact_assessment_7
+      name: communication_methods
       label: What is the primary method of communication with students?
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Email
+      - Phone
+      - In-person
       required: false
     - id: 8
-      name: peer_tutoring_program_impact_assessment_8
-      label: What is the average number of sessions per week?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: peer_tutoring_program_impact_assessment_9
-      label: How many students are in the peer tutoring program?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: peer_tutoring_program_impact_assessment_10
-      label: What is the average time of day for sessions?
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: peer_tutoring_program_impact_assessment_11
+      name: data_collection
       label: What is the method of data collection for the peer tutoring program?
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Surveys
+      - Observations
+      - Interviews
       required: false
-    - id: 12
-      name: peer_tutoring_program_impact_assessment_12
-      label: How often do program staff meet with students?
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 13
-      name: peer_tutoring_program_impact_assessment_13
-      label: How many students are in the peer tutoring program?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: peer_tutoring_program_impact_assessment_14
-      label: What is the average number of students per group?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: peer_tutoring_program_impact_assessment_15
+    - id: 9
+      name: meeting_frequency_staff
       label: How often do staff members meet with students?
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Daily
+      - Weekly
+      - Monthly
       required: false
-    - id: 16
-      name: peer_tutoring_program_impact_assessment_16
-      label: What is the average time of day for sessions?
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: peer_tutoring_program_impact_assessment_17
-      label: What is the method of data collection for the peer tutoring program?
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 18
-      name: peer_tutoring_program_impact_assessment_18
-      label: How often do students meet with staff members?
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 19
-      name: peer_tutoring_program_impact_assessment_19
+    - id: 10
+      name: student_group_size
       label: What is the average number of students in each group?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 20
-      name: peer_tutoring_program_impact_assessment_20
-      label: What is the primary method of communication with staff members?
+      required: true
+    - id: 11
+      name: staff_meeting_frequency
+      label: How often do staff members meet with each other?
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Daily
+      - Weekly
+      - Monthly
       required: false
-    - id: 21
-      name: peer_tutoring_program_impact_assessment_21
+    - id: 12
+      name: staff_meeting_time
       label: What is the average time of day for staff meetings?
       hint: null
       type: time
       options: []
+      required: true
+    - id: 13
+      name: student_meeting_frequency
+      label: How often do students meet with each other?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
       required: false
-    - id: 22
-      name: peer_tutoring_program_impact_assessment_22
+    - id: 14
+      name: communication_staff
+      label: What is the primary method of communication with staff members?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false
+    - id: 15
+      name: session_time_2
+      label: What is the average time of day for sessions?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: data_collection_staff
       label: What is the method of data collection for staff members?
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Surveys
+      - Observations
+      - Interviews
       required: false
-    - id: 23
-      name: peer_tutoring_program_impact_assessment_23
-      label: How often do staff members meet with students?
+    - id: 17
+      name: staff_meeting_frequency_2
+      label: Staff Meeting Frequency 2
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Daily
+      - Weekly
+      - Monthly
       required: false
-    - id: 24
-      name: peer_tutoring_program_impact_assessment_24
-      label: What is the average time of day for staff-student meetings?
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: peer_tutoring_program_impact_assessment_25
+    - id: 18
+      name: student_meeting_frequency_staff
       label: How often do students meet with staff members?
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Daily
+      - Weekly
+      - Monthly
       required: false
+    - id: 19
+      name: group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: meeting_time
+      label: What is the average time of day for staff-student meetings?
+      hint: null
+      type: time
+      options: []
+      required: true

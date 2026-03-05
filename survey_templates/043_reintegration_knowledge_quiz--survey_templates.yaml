@@ -16,110 +16,127 @@ inputSchema:
     pages:
     - id: 1
       name: intro_page
-      label: intro
+      label: Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: page_1
-      label: questions
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - What is the reintegration process?
-      - 2 - What are some common barriers to reintegration?
-      - 3 - How do you know if someone needs help?
-      - 4 - What is an example of reintegration in action?
-      required: false
-    - id: 3
       name: question_1
-      label: reintegration_process
+      label: What is the reintegration process?
       hint: null
       type: select_multiple
       options:
       - Reunification and reconnection
-      - Reintegration and rebuilding
+      - Rebuilding
       - Integration and assimilation
-      - None of the above
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: question_2
+      label: What are common barriers to reintegration?
+      hint: null
+      type: select_multiple
+      options:
+      - Limited financial resources
+      - Lack of family support
+      - Social stigma
+      - Other (please specify)
       required: false
     - id: 4
-      name: question_1_hint
-      label: reintegration_process_hint
+      name: question_3
+      label: When do you know if someone needs help?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - They have difficulty accessing basic needs
+      - They have difficulty accessing specialized support
+      - They have difficulty in accessing other services
+      - They have no need for help
       required: false
     - id: 5
-      name: question_2
-      label: barriers
+      name: example
+      label: Example of reintegration in action
       hint: null
       type: select_multiple
       options:
-      - 1 - Limited financial resources
-      - 2 - Lack of family support
-      - 3 - Social stigma
-      - 4 - None of the above
+      - Family reunification
+      - Reconnection
+      - Integration
+      - None of the above
       required: false
     - id: 6
-      name: question_3
-      label: needs_assessment
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - They have difficulty accessing basic needs
-      - 2 - They have difficulty accessing specialized support
-      - 3 - They have difficulty in accessing other services
-      - 4 - They have no need for help
-      required: false
-    - id: 7
       name: question_4
-      label: example
-      hint: null
-      type: select_multiple
-      options:
-      - 1 - Family reunification
-      - 2 - Reconnection
-      - 3 - Integration
-      - 4 - None of the above
-      required: false
-    - id: 8
-      name: reintegration_process
-      label: reintegration_process
+      label: Reintegration process explanation
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: barriers
-      label: barriers
+    - id: 7
+      name: question_5
+      label: Barriers to reintegration
       hint: null
       type: select_multiple
       options:
-      - 1 - Limited financial resources
-      - 2 - Lack of family support
-      - 3 - Social stigma
-      - 4 - None of the above
+      - Limited financial resources
+      - Lack of family support
+      - Social stigma
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: question_6
+      label: Needs assessment for reintegration
+      hint: null
+      type: select_multiple
+      options:
+      - They have difficulty accessing basic needs
+      - They have difficulty accessing specialized support
+      - They have difficulty accessing other services
+      - They have no need for help
+      required: false
+    - id: 9
+      name: question_7
+      label: Example of a reconnected individual
+      hint: null
+      type: select_multiple
+      options:
+      - Family reunification
+      - Reconnection
+      - Integration
+      - None of the above
       required: false
     - id: 10
-      name: needs_assessment
-      label: needs_assessment
+      name: question_8
+      label: Additional feedback or comments
       hint: null
-      type: select_multiple
-      options:
-      - 1 - They have difficulty accessing basic needs
-      - 2 - They have difficulty accessing specialized support
-      - 3 - They have difficulty accessing other services
-      - 4 - They have no need for help
+      type: text
+      options: []
       required: false
     - id: 11
-      name: example
-      label: example
+      name: question_9
+      label: Demographic information
       hint: null
-      type: select_multiple
-      options:
-      - 1 - Family reunification
-      - 2 - Reconnection
-      - 3 - Integration
-      - 4 - None of the above
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_10
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: question_11
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question_12
+      label: Email
+      hint: null
+      type: email
+      options: []
       required: false

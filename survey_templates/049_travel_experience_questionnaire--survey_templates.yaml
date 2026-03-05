@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''not_satisfied''}'
-      - '{''label'': ''somewhat_satisfied''}'
-      - '{''label'': ''neutral''}'
-      - '{''label'': ''very_satisfied''}'
-      - '{''label'': ''extremely_satisfied''}'
+      - not satisfied
+      - somewhat satisfied
+      - neutral
+      - very satisfied
+      - extremely satisfied
       required: false
     - id: 4
       name: accommodation
@@ -63,10 +63,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''1-3_days''}'
-      - '{''label'': ''4-7_days''}'
-      - '{''label'': ''8-14_days''}'
-      - '{''label'': ''more_than_14_days''}'
+      - 1-3 days
+      - 4-7 days
+      - 8-14 days
+      - more than 14 days
       required: false
     - id: 9
       name: travel_date
@@ -95,10 +95,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''car''}'
-      - '{''label'': ''plane''}'
-      - '{''label'': ''public_transport''}'
-      - '{''label'': ''other''}'
+      - car
+      - plane
+      - public transport
+      - other
       required: false
     - id: 13
       name: travel_reason
@@ -120,11 +120,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''not_satisfied''}'
-      - '{''label'': ''somewhat_satisfied''}'
-      - '{''label'': ''neutral''}'
-      - '{''label'': ''very_satisfied''}'
-      - '{''label'': ''extremely_satisfied''}'
+      - not satisfied
+      - somewhat satisfied
+      - neutral
+      - very satisfied
+      - extremely satisfied
       required: false
     - id: 16
       name: rating

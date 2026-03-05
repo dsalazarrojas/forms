@@ -1,205 +1,194 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Backhaul Order Submission Form
     pages:
-      - id: 1
-        name: section_shipper_info
-        label: -- Shipper Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: shipper_name
-        label: Shipper Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: shipper_email
-        label: Shipper Email
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: shipper_phone
-        label: Shipper Phone Number
-        hint: null
-        type: phone
-        options: []
-        required: true
-      - id: 5
-        name: shipper_company
-        Label: Company Name
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: section_pickup_location
-        label: -- Pickup Location --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: pickup_address
-        label: Pickup Address
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: pickup_city
-        Label: City
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: pickup_state
-        label: State/Province
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: pickup_zip
-        Label: ZIP/Postal Code
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 11
-        name: pickup_date
-        label: Desired Pickup Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 12
-        name: pickup_time_window
-        label: Preferred Pickup Time Window
-        hint: null
-        type: select_one
-        options:
-          - Morning (6am - 12pm)
-          - Afternoon (12pm - 6pm)
-          - Evening (6pm - 10pm)
-          - Flexible
-        required: false
-      - id: 13
-        name: section_delivery_location
-        label: -- Delivery Location --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: delivery_address
-        label: Delivery Address
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: delivery_city
-        Label: City
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: delivery_state
-        label: State/Province
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 17
-        name: delivery_zip
-        Label: ZIP/Postal Code
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: section_cargo_details
-        label: -- Cargo Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 19
-        name: cargo_description
-        label: Cargo Description
-        hint: Type and nature of goods
-        type: text
-        options: []
-        required: true
-      - id: 20
-        name: weight_lbs
-        Label: Weight in Pounds
-        hint: null
-        type: decimal
-        options: []
-        required: true
-      - id: 21
-        name: dimensions
-        label: Dimensions (Length x Width x Height)
-        hint: In feet
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: freight_class
-        label: Freight Class
-        hint: null
-        type: select_one
-        options:
-          - 50
-          - 55
-          - 60
-          - 65
-          - 70
-          - "85"
-          - 100
-          - Other
-        required: false
-      - id: 23
-        name: hazmat
-        Label: Contains Hazardous Materials
-        hint: null
-        type: select_one
-        options:
-          - "No"
-          - "Yes"
-        required: true
-      - id: 24
-        name: special_requirements
-        label: Special Handling Requirements
-        hint: Temperature controlled, fragile, etc.
-        type: text
-        options: []
-        required: false
-      - id: 25
-        name: estimated_cost
-        Label: Estimated Cost
-        hint: In dollars
-        type: decimal
-        options: []
-        required: false
+    - id: 1
+      name: section_shipper_info
+      label: -- Shipper Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: shipper_name
+      label: Shipper Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shipper_email
+      label: Shipper Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shipper_phone
+      label: Shipper Phone Number
+      hint: null
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: shipper_company
+      Label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_pickup_location
+      label: -- Pickup Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: pickup_address
+      label: Pickup Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: pickup_city
+      Label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pickup_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pickup_zip
+      Label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: pickup_date
+      label: Desired Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: pickup_time_window
+      label: Preferred Pickup Time Window
+      hint: null
+      type: select_one
+      options:
+      - Morning (6am - 12pm)
+      - Afternoon (12pm - 6pm)
+      - Evening (6pm - 10pm)
+      - Flexible
+      required: false
+    - id: 13
+      name: section_delivery_location
+      label: -- Delivery Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: delivery_city
+      Label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: delivery_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: delivery_zip
+      Label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_cargo_details
+      label: -- Cargo Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: cargo_description
+      label: Cargo Description
+      hint: Type and nature of goods
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: weight_lbs
+      Label: Weight in Pounds
+      hint: null
+      type: decimal
+      options: []
+      required: true
+    - id: 21
+      name: dimensions
+      label: Dimensions (Length x Width x Height)
+      hint: In feet
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: freight_class
+      label: Freight Class
+      hint: null
+      type: select_one
+      options:
+      - '50'
+      - '55'
+      - '60'
+      - '65'
+      - '70'
+      - '85'
+      - '100'
+      - Other
+      required: false
+    - id: 23
+      name: hazmat
+      Label: Contains Hazardous Materials
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 24
+      name: special_requirements
+      label: Special Handling Requirements
+      hint: Temperature controlled, fragile, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: estimated_cost
+      Label: Estimated Cost
+      hint: In dollars
+      type: decimal
+      options: []
+      required: false

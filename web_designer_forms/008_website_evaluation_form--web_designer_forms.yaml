@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''excellent''}'
-      - '{''id'': 2, ''label'': ''Good'', ''value'': ''good''}'
-      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''fair''}'
-      - '{''id'': 4, ''label'': ''Poor'', ''value'': ''poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 3
       name: page_3
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Minimalist'', ''value'': ''minimalist''}'
-      - '{''id'': 2, ''label'': ''Modern'', ''value'': ''modern''}'
-      - '{''id'': 3, ''label'': ''Classic'', ''value'': ''classic''}'
-      - '{''id'': 4, ''label'': ''Custom'', ''value'': ''custom''}'
+      - Minimalist
+      - Modern
+      - Classic
+      - Custom
       required: true
     - id: 5
       name: page_5
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Easy'', ''value'': ''easy''}'
-      - '{''id'': 2, ''label'': ''Difficult'', ''value'': ''difficult''}'
-      - '{''id'': 3, ''label'': ''Neutral'', ''value'': ''neutral''}'
+      - Easy
+      - Difficult
+      - Neutral
       required: true
     - id: 6
       name: page_6
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Owner'', ''value'': ''owner''}'
-      - '{''id'': 2, ''label'': ''Manager'', ''value'': ''manager''}'
-      - '{''id'': 3, ''label'': ''Designer'', ''value'': ''designer''}'
+      - Owner
+      - Manager
+      - Designer
       required: true
     - id: 11
       name: page_11
@@ -128,8 +128,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Owner'', ''value'': ''owner''}'
-      - '{''id'': 2, ''label'': ''Manager'', ''value'': ''manager''}'
+      - Owner
+      - Manager
       required: false
     - id: 17
       name: page_17
@@ -186,8 +186,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Owner'', ''value'': ''owner''}'
-      - '{''id'': 2, ''label'': ''Manager'', ''value'': ''manager''}'
+      - Owner
+      - Manager
       required: false
     - id: 25
       name: page_25

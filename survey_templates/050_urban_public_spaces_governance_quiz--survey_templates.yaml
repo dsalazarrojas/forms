@@ -4,28 +4,28 @@ inputSchema:
     title: urban_public_spaces_governance_quiz
     pages:
     - id: 1
-      name: user_input_1
+      name: public_space_management
       label: Public Space Management
-      hint: null
+      hint: Please provide your thoughts on public space management
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: public_space_participation
       label: Public Space Participation
-      hint: Please provide your thoughts on public space participation
+      hint: Public Space Participation
       type: text
       options: []
       required: false
     - id: 3
       name: governance_priorities
       label: Governance Priorities
-      hint: null
+      hint: Please provide your priorities for governance
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 4
       name: email_address
@@ -42,139 +42,55 @@ inputSchema:
       options: []
       required: true
     - id: 6
-      name: user_input_6
-      label: Public Space Management
-      hint: Please provide your thoughts on public space management
+      name: public_space_maintenance
+      label: Public Space Maintenance
+      hint: Please provide your thoughts on public space maintenance
       type: text
       options: []
       required: false
     - id: 7
-      name: user_input_7
-      label: Public Space Maintenance
+      name: public_space_safety
+      label: Public Space Safety
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: user_input_8
-      label: Public Space Safety
-      hint: Please provide your thoughts on public space safety
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: user_input_9
+      name: public_space_accessibility
       label: Public Space Accessibility
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: user_input_10
+    - id: 9
+      name: public_space_usage
       label: Public Space Usage
       hint: Please provide your thoughts on public space usage
       type: text
       options: []
       required: false
-    - id: 11
+    - id: 10
       name: public_space_governance
       label: Public Space Governance
-      hint: Please describe the governance of public space
+      hint: null
       type: text
       options: []
       required: false
-    - id: 12
-      name: user_input_12
-      label: Public Space Maintenance
+    - id: 11
+      name: user_input_11
+      label: User Input 11
       hint: Please describe the maintenance of public space
       type: text
       options: []
       required: false
-    - id: 13
-      name: public_space_safety
-      label: Public Space Safety
-      hint: Please describe the safety of public space
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: public_space_maintenance
-      label: Public Space Maintenance
-      hint: Describe the maintenance of public space
-      type: text
-      options: []
-      required: false
-    - id: 15
+    - id: 12
       name: urban_planning
       label: Urban Planning
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
-      name: user_input_15
-      label: User input 15
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: public_space_participation
-      label: Public Space Participation
-      hint: Public Space Participation
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: user_input_16
-      label: User input 16
-      hint: User input 16
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: public_space_governance
-      label: Public Space Governance
-      hint: Public Space Governance
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: user_input_17
-      label: User input 17
-      hint: User input 17
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: public_space_safety
-      label: Public Space Safety
-      hint: Public Space Safety
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: user_input_18
-      label: User input 18
-      hint: User input 18
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: public_space_maintenance
-      label: Public Space Maintenance
-      hint: Public Space Maintenance
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: user_input_19
-      label: User input 19
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
+    - id: 13
       name: submit
       label: Submit
       hint: null

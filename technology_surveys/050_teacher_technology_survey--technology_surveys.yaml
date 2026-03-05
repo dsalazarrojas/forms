@@ -4,159 +4,128 @@ inputSchema:
     title: Teacher Technology Survey
     pages:
     - id: 1
-      name: page_1
-      label: Teacher Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: page_2
-      label: Technical Skills
+      name: teacher_experience_with_technology
+      label: What is your experience level with technology in the classroom?
       hint: null
       type: number
       options: []
+      required: true
+    - id: 2
+      name: technology_used_for_communication
+      label: What technology platforms do you use for communication with students
+        and parents?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Online forum
+      - Social media
       required: false
     - id: 3
-      name: page_3
-      label: Technology Used
+      name: hours_spent_on_professional_development
+      label: How many hours do you spend per week on professional development using
+        technology?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: technical_skills_needed
+      label: What type of technical skills do you think are essential for teachers
+        to have?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: page_4
-      label: Equipment Needed
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - Programming
+      - Data analysis
+      - Multimedia design
       required: false
     - id: 5
-      name: page_5
-      label: Knowledge and Skills
+      name: technical_training
+      label: Have you received any technical training or certifications in the past
+        2 years?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 6
-      name: page_6
-      label: Additional Comments
+      name: top_technologies_used
+      label: What are the top 3 technologies that you use in your classroom?
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - Computer
+      - Tablet
+      - Laptop
       required: false
     - id: 7
-      name: page_7
-      label: Technical Training
+      name: technical_support
+      label: How many hours of technical support do you receive from your school's
+        IT department per week?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 8
-      name: page_8
-      label: Technology Used in Class
+      name: lacking_skills
+      label: What are the top 3 technical skills that teachers in your school lack?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Programming
+      - Data analysis
+      - Multimedia design
       required: false
     - id: 9
-      name: page_9
-      label: Technology Skills Required
+      name: technical_issues
+      label: Have you had any issues with technology in the past year?
       hint: null
-      type: select_one
+      type: checkbox
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 10
-      name: page_10
-      label: Equipment Needed
+      name: technical_support_hours
+      label: How many hours do you spend on technical issues per week?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: future_technology_usage
+      label: What would you like to see in the future regarding technology usage in
+        school?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: technical_skills
+      label: What technical skills do you need to improve your teaching practice?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: page_11
-      label: Additional Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: page_12
-      label: Teacher Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: page_13
-      label: Technical Skills and Knowledge
-      hint: null
-      type: text
-      options: []
+      - Presentation design
+      - Data analysis
+      - Online resources
       required: false
     - id: 14
-      name: page_14
-      label: Technology Used
+      name: technical_skills_and_knowledge
+      label: What technical skills and knowledge would you like to acquire?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: page_15
-      label: Technical Training
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: page_16
-      label: Technology Used in Class
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: page_17
-      label: Skills and Knowledge
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: page_18
-      label: Technical Skills and Knowledge
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: page_19
-      label: Technical Skills and Knowledge
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      - Programming
+      - Data analysis
+      - Multimedia design
       required: false

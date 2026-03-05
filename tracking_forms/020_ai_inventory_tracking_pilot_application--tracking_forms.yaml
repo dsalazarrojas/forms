@@ -30,18 +30,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Manufacturing
-        value: manufacturing
-      - label: Warehousing & Distribution
-        value: warehousing
-      - label: Retail / Consumer Goods
-        value: retail
-      - label: Healthcare / Medical Supplies
-        value: healthcare
-      - label: E-commerce
-        value: ecommerce
-      - label: Other
-        value: other
+      - Manufacturing
+      - Warehousing & Distribution
+      - Retail / Consumer Goods
+      - Healthcare / Medical Supplies
+      - E-commerce
+      - Other
       required: true
     - id: 5
       name: inventory_size
@@ -49,14 +43,10 @@ inputSchema:
       hint: Approximate number of unique items tracked.
       type: select_one
       options:
-      - label: Under 1,000
-        value: under_1k
-      - label: 1,000 - 10,000
-        value: 1k_10k
-      - label: 10,001 - 50,000
-        value: 10k_50k
-      - label: Over 50,000
-        value: over_50k
+      - Under 1,000
+      - 1,000 - 10,000
+      - 10,001 - 50,000
+      - Over 50,000
       required: true
     - id: 6
       name: current_tracking_methods_header
@@ -71,14 +61,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Manual (Paper/Whiteboard)
-        value: manual
-      - label: Spreadsheets (Excel / Google Sheets)
-        value: spreadsheets
-      - label: Dedicated Inventory Software
-        value: dedicated_sw
-      - label: Enterprise Resource Planning (ERP)
-        value: erp
+      - Manual (Paper/Whiteboard)
+      - Spreadsheets (Excel / Google Sheets)
+      - Dedicated Inventory Software
+      - Enterprise Resource Planning (ERP)
       required: true
     - id: 8
       name: number_of_locations
@@ -93,16 +79,11 @@ inputSchema:
       hint: Select the top 3 challenges you hope to solve.
       type: select_multiple
       options:
-      - label: Low Inventory Accuracy
-        value: accuracy
-      - label: Frequent Stockouts / Overstocks
-        value: stock_balance
-      - label: Inaccurate Demand Forecasting
-        value: forecasting
-      - label: Time-consuming Manual Audits
-        value: manual_audits
-      - label: Poor Visibility Across Multiple Sites
-        value: visibility
+      - Low Inventory Accuracy
+      - Frequent Stockouts / Overstocks
+      - Inaccurate Demand Forecasting
+      - Time-consuming Manual Audits
+      - Poor Visibility Across Multiple Sites
       required: true
     - id: 10
       name: pilot_interest_header
@@ -117,16 +98,11 @@ inputSchema:
       hint: Which AI capabilities are most important to you?
       type: select_multiple
       options:
-      - label: Predictive Demand Forecasting
-        value: predictive_demand
-      - label: Computer Vision for Visual Counting
-        value: computer_vision
-      - label: Anomaly Detection (Theft/Damage/Loss)
-        value: anomaly_detection
-      - label: Automated Reorder Optimization
-        value: reorder_opt
-      - label: Warehouse Slotting Optimization
-        value: slotting
+      - Predictive Demand Forecasting
+      - Computer Vision for Visual Counting
+      - Anomaly Detection (Theft/Damage/Loss)
+      - Automated Reorder Optimization
+      - Warehouse Slotting Optimization
       required: true
     - id: 12
       name: technical_readiness
@@ -134,12 +110,9 @@ inputSchema:
       hint: Does your facility have reliable internet and hardware?
       type: select_one
       options:
-      - label: High Readiness (Reliable Fiber/Cloud Integrated)
-        value: high
-      - label: Moderate Readiness (Standard Internet/Willing to upgrade)
-        value: moderate
-      - label: Low Readiness (Spotty connection/Legacy hardware)
-        value: low
+      - High Readiness (Reliable Fiber/Cloud Integrated)
+      - Moderate Readiness (Standard Internet/Willing to upgrade)
+      - Low Readiness (Spotty connection/Legacy hardware)
       required: true
     - id: 13
       name: historical_data_availability
@@ -147,12 +120,9 @@ inputSchema:
       hint: Needed for training AI models.
       type: select_one
       options:
-      - label: Yes, structured and digital
-        value: yes_structured
-      - label: Yes, but needs cleaning
-        value: yes_unstructured
-      - label: false
-        value: false
+      - Yes, structured and digital
+      - Yes, but needs cleaning
+      - 'False'
       required: true
     - id: 14
       name: proposed_pilot_start_date
@@ -181,12 +151,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Budget Approved for Pilot
-        value: approved
-      - label: Seeking Approval / Research phase
-        value: seeking
-      - label: Requesting Fully Funded Pilot (Grant)
-        value: grant
+      - Budget Approved for Pilot
+      - Seeking Approval / Research phase
+      - Requesting Fully Funded Pilot (Grant)
       required: true
     - id: 18
       name: nda_acceptance
@@ -194,8 +161,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: No / Need Legal Review
-        value: legal_review
+      - 'True'
+      - No / Need Legal Review
       required: true

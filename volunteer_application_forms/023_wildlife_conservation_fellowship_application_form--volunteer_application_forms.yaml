@@ -73,12 +73,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''American''}'
-      - '{''label'': ''Canadian''}'
-      - '{''label'': ''Australian''}'
-      - '{''label'': ''British''}'
-      - '{''label'': ''Indian''}'
-      - '{''label'': ''Other''}'
+      - American
+      - Canadian
+      - Australian
+      - British
+      - Indian
+      - Other
       required: true
     - id: 11
       name: language
@@ -86,12 +86,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''Spanish''}'
-      - '{''label'': ''Mandarin''}'
-      - '{''label'': ''French''}'
-      - '{''label'': ''Portuguese''}'
-      - '{''label'': ''Other''}'
+      - English
+      - Spanish
+      - Mandarin
+      - French
+      - Portuguese
+      - Other
       required: false
     - id: 12
       name: education_level
@@ -99,10 +99,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Bachelor''}'
-      - '{''label'': ''Master''}'
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Other''}'
+      - Bachelor
+      - Master
+      - Doctor
+      - Other
       required: false
     - id: 13
       name: area_of_interest
@@ -145,9 +145,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
-      - '{''label'': ''Other''}'
+      - 'False'
+      - 'True'
+      - Other
       required: true
     - id: 19
       name: medical_certificate
@@ -183,8 +183,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: submit

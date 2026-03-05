@@ -9,11 +9,11 @@ inputSchema:
       hint: Rate this experience from 1 to 5
       type: select_one
       options:
-      - '{''label'': 1}'
-      - '{''label'': 2}'
-      - '{''label'': 3}'
-      - '{''label'': 4}'
-      - '{''label'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 2
       name: comments
@@ -35,11 +35,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Satisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Dissatisfied''}'
-      - '{''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 5
       name: photos
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: recommendations
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: additional_comments

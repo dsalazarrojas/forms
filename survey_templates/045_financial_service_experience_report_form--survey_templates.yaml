@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 4.1, ''label'': ''Bank''}'
-      - '{''id'': 4.2, ''label'': ''Insurance''}'
-      - '{''id'': 4.3, ''label'': ''Financial Advisor''}'
+      - Bank
+      - Insurance
+      - Financial Advisor
       required: true
     - id: 5
       name: service_quality
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 5.1, ''label'': ''Very Satisfied''}'
-      - '{''id'': 5.2, ''label'': ''Satisfied''}'
-      - '{''id'': 5.3, ''label'': ''Not Satisfied''}'
+      - Very Satisfied
+      - Satisfied
+      - Not Satisfied
       required: true
     - id: 6
       name: staff_attitude
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 6.1, ''label'': ''Friendly''}'
-      - '{''id'': 6.2, ''label'': ''Polite''}'
-      - '{''id'': 6.3, ''label'': ''Not Polite''}'
+      - Friendly
+      - Polite
+      - Not Polite
       required: true
     - id: 7
       name: communication_skills
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 7.1, ''label'': ''Good''}'
-      - '{''id'': 7.2, ''label'': ''Very Good''}'
-      - '{''id'': 7.3, ''label'': ''Excellent''}'
+      - Good
+      - Very Good
+      - Excellent
       required: true
     - id: 8
       name: resolution_time
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 8.1, ''label'': ''Less than 1 minute''}'
-      - '{''id'': 8.2, ''label'': ''1-2 minutes''}'
-      - '{''id'': 8.3, ''label'': ''2-5 minutes''}'
+      - Less than 1 minute
+      - 1-2 minutes
+      - 2-5 minutes
       required: true
     - id: 9
       name: overall_experience
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 9.1, ''label'': ''Excellent''}'
-      - '{''id'': 9.2, ''label'': ''Good''}'
-      - '{''id'': 9.3, ''label'': ''Fair''}'
+      - Excellent
+      - Good
+      - Fair
       required: false
     - id: 10
       name: comments
@@ -111,8 +111,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 13.1, ''label'': ''Once''}'
-      - '{''id'': 13.2, ''label'': ''Multiple Times''}'
+      - Once
+      - Multiple Times
       required: true
     - id: 14
       name: staff_name
@@ -176,9 +176,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 22.1, ''label'': ''Male''}'
-      - '{''id'': 22.2, ''label'': ''Female''}'
-      - '{''id'': 22.3, ''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: true
     - id: 23
       name: contact_method

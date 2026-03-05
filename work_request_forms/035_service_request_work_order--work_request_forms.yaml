@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Category 1''}'
-      - '{''id'': 2, ''name'': ''Category 2''}'
-      - '{''id'': 3, ''name'': ''Category 3''}'
+      - Category 1
+      - Category 2
+      - Category 3
       required: false
     - id: 3
       name: description
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Location 1''}'
-      - '{''id'': 2, ''name'': ''Location 2''}'
-      - '{''id'': 3, ''name'': ''Location 3''}'
+      - Location 1
+      - Location 2
+      - Location 3
       required: false
     - id: 5
       name: date
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Chat''}'
-      - '{''id'': 2, ''name'': ''Email''}'
-      - '{''id'': 3, ''name'': ''Phone''}'
+      - Chat
+      - Email
+      - Phone
       required: false
     - id: 11
       name: notes
@@ -95,8 +95,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Jimmy''}'
-      - '{''id'': 2, ''name'': ''John''}'
+      - Jimmy
+      - John
       required: false
     - id: 13
       name: submitted_by
@@ -104,8 +104,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''John''}'
-      - '{''id'': 2, ''name'': ''Jane''}'
+      - John
+      - Jane
       required: true
     - id: 14
       name: submitted_date
@@ -127,9 +127,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''Active''}'
-      - '{''id'': 3, ''name'': ''Closed''}'
+      - Pending
+      - Active
+      - Closed
       required: false
     - id: 17
       name: due_date
@@ -151,9 +151,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Provider 1''}'
-      - '{''id'': 2, ''name'': ''Provider 2''}'
-      - '{''id'': 3, ''name'': ''Provider 3''}'
+      - Provider 1
+      - Provider 2
+      - Provider 3
       required: false
     - id: 20
       name: service_type
@@ -161,9 +161,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Type 1''}'
-      - '{''id'': 2, ''name'': ''Type 2''}'
-      - '{''id'': 3, ''name'': ''Type 3''}'
+      - Type 1
+      - Type 2
+      - Type 3
       required: false
     - id: 21
       name: priority
@@ -171,9 +171,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 22
       name: comments

@@ -16,9 +16,9 @@ inputSchema:
       hint: Enter buyer details here
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Name''}'
-      - '{''id'': 2, ''label'': ''Email''}'
-      - '{''id'': 3, ''label'': ''Phone''}'
+      - Name
+      - Email
+      - Phone
       required: false
     - id: 3
       name: event_details
@@ -26,9 +26,9 @@ inputSchema:
       hint: Enter event details here
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Event 1''}'
-      - '{''id'': 2, ''label'': ''Event 2''}'
-      - '{''id'': 3, ''label'': ''Event 3''}'
+      - Event 1
+      - Event 2
+      - Event 3
       required: false
     - id: 4
       name: payment_details
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Credit Card''}'
-      - '{''id'': 2, ''label'': ''PayPal''}'
-      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 5
       name: ticket_quantity

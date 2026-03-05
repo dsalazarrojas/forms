@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Partially''}'
+      - 'True'
+      - 'False'
+      - Partially
       required: false
     - id: 4
       name: question_2
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Financial data''}'
-      - '{''id'': 2, ''label'': ''Customer data''}'
-      - '{''id'': 3, ''label'': ''Product data''}'
+      - Financial data
+      - Customer data
+      - Product data
       required: false
     - id: 5
       name: name
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Centralized database''}'
-      - '{''id'': 2, ''label'': ''Dispersed databases''}'
-      - '{''id'': 3, ''label'': ''No formal tracking system''}'
+      - Centralized database
+      - Dispersed databases
+      - No formal tracking system
       required: false
     - id: 9
       name: note
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Small''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 13
       name: location

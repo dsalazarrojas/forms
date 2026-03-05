@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent'', ''value'': 5}'
-      - '{''label'': ''Very good'', ''value'': 4}'
-      - '{''label'': ''Neutral'', ''value'': 3}'
-      - '{''label'': ''Poor'', ''value'': 2}'
-      - '{''label'': ''Terrible'', ''value'': 1}'
+      - Excellent
+      - Very good
+      - Neutral
+      - Poor
+      - Terrible
       required: false
     - id: 5
       name: comments
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Domestic'', ''value'': ''Domestic''}'
-      - '{''label'': ''International'', ''value'': ''International''}'
-      - '{''label'': ''Both'', ''value'': ''Both''}'
+      - Domestic
+      - International
+      - Both
       required: false
     - id: 9
       name: date_of_travel
@@ -87,8 +87,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: accommodation_type
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Hotel'', ''value'': ''Hotel''}'
-      - '{''label'': ''Hostel'', ''value'': ''Hostel''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - Hotel
+      - Hostel
+      - Other
       required: false
     - id: 13
       name: travel_agent_info

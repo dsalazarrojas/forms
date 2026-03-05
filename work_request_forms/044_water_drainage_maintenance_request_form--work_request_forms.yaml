@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''residential''}'
-      - '{''id'': ''commercial''}'
-      - '{''id'': ''other''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 3
       name: issue_description
@@ -50,8 +50,8 @@ inputSchema:
       hint: Select a technician to assign to the request.
       type: select_one
       options:
-      - '{''id'': ''John Doe''}'
-      - '{''id'': ''Jane Doe''}'
+      - Option 1
+      - Option 2
       required: true
     - id: 7
       name: status
@@ -59,9 +59,9 @@ inputSchema:
       hint: Select a status for the request.
       type: select_one
       options:
-      - '{''id'': ''Open''}'
-      - '{''id'': ''In Progress''}'
-      - '{''id'': ''Closed''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 8
       name: date_submitted

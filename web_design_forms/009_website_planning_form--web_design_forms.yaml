@@ -4,187 +4,150 @@ inputSchema:
     title: Website Planning Form
     pages:
     - id: 1
-      name: page_1
-      label: page_1
-      hint: null
+      name: website_details
+      label: Website details
+      hint: Describe your website
       type: text
       options: []
       required: false
     - id: 2
-      name: page_2
-      label: company_details
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: page_3
-      label: contact_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: page_4
-      label: company_details
-      hint: null
+      name: company_details
+      label: Company information
+      hint: Please provide company details
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 5
-      name: page_5
-      label: contact_details
-      hint: Provide a valid email address.
+    - id: 3
+      name: contact_details
+      label: Contact information
+      hint: Enter contact information
       type: email
       options: []
       required: false
-    - id: 6
-      name: page_6
-      label: phone_number
-      hint: null
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Enter a valid phone number
       type: text
       options: []
       required: false
+    - id: 5
+      name: project_details
+      label: Project details
+      hint: Describe your project details
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_deadline
+      label: Project deadline
+      hint: Enter a date for the project deadline
+      type: date
+      options: []
+      required: false
     - id: 7
-      name: page_7
-      label: project_details
-      hint: null
+      name: additional_info
+      label: Additional information
+      hint: Add any additional information
       type: text
       options: []
       required: false
     - id: 8
-      name: page_8
-      label: project_details
-      hint: Project details should be as specific as possible.
-      type: select_one
+      name: website_features
+      label: Website features
+      hint: Select the website features
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: page_9
-      label: website_details
-      hint: null
+      name: website_platform
+      label: Website platform
+      hint: Select your preferred website platform
+      type: select_one
+      options:
+      - WordPress
+      - Wix
+      - Squarespace
+      - Webflow
+      required: false
+    - id: 10
+      name: website_content
+      label: Website content
+      hint: Describe your website content
       type: text
       options: []
       required: false
-    - id: 10
-      name: page_10
-      label: website_details
-      hint: null
+    - id: 11
+      name: target_audience
+      label: Target audience
+      hint: Who is your target audience?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: page_11
-      label: website_details
-      hint: null
-      type: note
-      options: []
+      - Men
+      - Women
+      - Children
       required: false
     - id: 12
-      name: page_12
-      label: website_details
-      hint: Select all that apply
+      name: website_goals
+      label: Website goals
+      hint: What are your website goals?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Sales
+      - Marketing
+      - Informational
       required: false
     - id: 13
-      name: page_13
-      label: page_13
-      hint: null
+      name: website_launch_date
+      label: Website launch date
+      hint: Enter a date for the website launch
       type: date
       options: []
       required: false
     - id: 14
-      name: page_14
-      label: time
-      hint: null
+      name: website_launch_time
+      label: Website launch time
+      hint: Enter a time for the website launch
       type: time
       options: []
       required: false
     - id: 15
-      name: page_15
-      label: project_deadline
-      hint: null
-      type: date
+      name: website_url
+      label: Website URL
+      hint: Enter a valid website URL
+      type: text
       options: []
       required: false
     - id: 16
-      name: page_16
-      label: page_16
-      hint: null
-      type: text
-      options: []
+      name: website_status
+      label: Website status
+      hint: Select the website status
+      type: select_one
+      options:
+      - Under Construction
+      - Live
+      - Down
       required: false
     - id: 17
-      name: page_17
-      label: page_17
-      hint: null
-      type: text
-      options: []
+      name: website_analytics
+      label: Website analytics
+      hint: Select the website analytics
+      type: select_multiple
+      options:
+      - Google Analytics
+      - Google Ads
+      - Other
       required: false
     - id: 18
-      name: page_18
-      label: page_18
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: page_19
-      label: page_19
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: page_20
-      label: page_20
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: page_21
-      label: page_21
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: page_22
-      label: page_22
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: page_23
-      label: page_23
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: page_24
-      label: page_24
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: page_25
-      label: page_25
-      hint: null
-      type: text
-      options: []
+      name: website_security
+      label: Website security
+      hint: Select the website security
+      type: select_multiple
+      options:
+      - SSL
+      - No security
       required: false

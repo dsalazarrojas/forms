@@ -4,196 +4,97 @@ inputSchema:
     title: Rubik's Cube Lesson Quiz
     pages:
     - id: 1
-      name: lesson_quiz_form
-      label: Lesson Quiz Form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: feedback_form
-      label: Feedback Form
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: quiz_results
-      label: Quiz Results
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 4
-      name: lesson_quiz_form_comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: learner_name
       label: Learner Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 7
-      name: quiz_results
-      label: Quiz Results
+    - id: 2
+      name: experience_level
+      label: Experience Level
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 3
+      name: solving_method
+      label: Solving Method
+      hint: null
+      type: select_multiple
+      options:
+      - Rubik's Cube Algorithms
+      - Online resources
+      - Practice with friends
       required: false
+    - id: 4
+      name: practice_frequency
+      label: Practice Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: practice_duration
+      label: Practice Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: difficulty_level
+      label: Difficulty Level
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 8
-      name: lesson_quiz_form_comments
-      label: Comments
+      name: improvement_goal
+      label: Improvement Goal
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: learner_email
-      label: Learner Email
+      name: event_attendance
+      label: Event Attendance
       hint: null
-      type: email
-      options: []
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
       required: false
     - id: 10
-      name: quiz_results_2
-      label: Quiz Results 2
+      name: favorite_variation
+      label: Favorite Variation
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Rubik's Cube 3x3
+      - Rubik's Cube 4x4
+      - Rubik's Cube 5x5
       required: false
     - id: 11
-      name: comments_2
-      label: Comments 2
+      name: tips_recommendations
+      label: Tips and Recommendations
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: learner_name_2
-      label: Learner Name 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: email_2
-      label: Email 2
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: quiz_results_2
-      label: Quiz Results 2
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 15
-      name: comments_3
-      label: Comments 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: learner_name_2
-      label: Learner Name 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: email_3
-      label: Email 3
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: quiz_results_3
-      label: Quiz Results 3
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 19
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: email_4
-      label: Email 4
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: quiz_results_2
-      label: Quiz Results 2
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 22
-      name: comments_2
-      label: Comments 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: learner_name_3
-      label: Learner Name 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: learner_email_2
-      label: Learner Email 2
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: comments_4
-      label: Comments 4
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: text
       options: []

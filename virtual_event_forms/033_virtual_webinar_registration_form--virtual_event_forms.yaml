@@ -44,14 +44,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''EST'', ''label'': ''EST''}'
-      - '{''id'': 2, ''value'': ''CST'', ''label'': ''CST''}'
-      - '{''id'': 3, ''value'': ''PST'', ''label'': ''PST''}'
-      - '{''id'': 4, ''value'': ''MDT'', ''label'': ''MDT''}'
-      - '{''id'': 5, ''value'': ''EDT'', ''label'': ''EDT''}'
-      - '{''id'': 6, ''value'': ''CDT'', ''label'': ''CDT''}'
-      - '{''id'': 7, ''value'': ''CST'', ''label'': ''CST''}'
-      - '{''id'': 8, ''value'': ''MST'', ''label'': ''MST''}'
+      - EST
+      - CST
+      - PST
+      - MDT
+      - EDT
+      - CDT
+      - MST
       required: false
     - id: 7
       name: select_question
@@ -59,9 +58,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''value'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''value'': 3, ''label'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 8
       name: date

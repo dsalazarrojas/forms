@@ -4,26 +4,26 @@ inputSchema:
     title: Student Survey
     pages:
     - id: 1
-      name: course_materials
-      label: What are the teacher's materials and resources useful?
+      name: teacher_resources
+      label: What are the teacher's materials and resources useful for you?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 2
-      name: facilities
-      label: What are your thoughts about the facilities?
+      name: facilities_satisfaction
+      label: How satisfied are you with the facilities?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: instructor_quality
-      label: How would you rate your instructor?
+      label: How would you rate your instructor's quality?
       hint: null
       type: select_one
       options:
@@ -31,146 +31,140 @@ inputSchema:
       - Fair
       required: false
     - id: 4
-      name: facilities
-      label: What are your thoughts about the facilities?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: curriculum
+      name: curriculum_satisfaction
       label: What are your thoughts about the curriculum?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: feedback_and_assessment
+      label: How satisfied are you with the instructor's feedback and assessment?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 6
-      name: facilities
-      label: Facilities
+      name: communication_style
+      label: How would you rate the instructor's communication style?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Good
+      - Fair
       required: false
     - id: 7
-      name: facilities
-      label: What are your thoughts about the facilities?
+      name: teaching_pace
+      label: How would you rate the instructor's teaching pace?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Good
+      - Fair
       required: false
     - id: 8
-      name: facilities
-      label: What are your thoughts about the facilities?
+      name: overall_course_experience
+      label: How satisfied are you with the overall course experience?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: facilities
-      label: Facilities
+      name: course_materials
+      label: How would you rate the overall quality of the course materials?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Good
+      - Fair
       required: false
     - id: 10
-      name: facilities
-      label: Facilities
+      name: instructor_quality_important
+      label: How important is it to have an instructor with high quality?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Very important
+      - Important
       required: false
     - id: 11
-      name: facilities
-      label: Facilities
+      name: facilities_important
+      label: How important is it to have good facilities?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Very important
+      - Important
       required: false
     - id: 12
-      name: facilities
-      label: Facilities
+      name: communication_important
+      label: How important is it to have effective communication?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Very important
+      - Important
       required: false
     - id: 13
-      name: facilities
-      label: Facilities
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: facilities
-      label: Facilities
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: facilities
-      label: Facilities
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: facilities
-      label: Facilities
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: facilities
-      label: Facilities
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: facilities
-      label: Facilities
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: facilities
-      label: Facilities
+      name: course_content
+      label: How satisfied are you with the course content?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Good
+      - Fair
+      required: false
+    - id: 14
+      name: course_organization
+      label: How satisfied are you with the way the course is organized?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 15
+      name: instructor_availability
+      label: How satisfied are you with the instructor's availability for office hours?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: student_interaction
+      label: How satisfied are you with student interaction with each other and the
+        instructor?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: instructor_help
+      label: How satisfied are you with the instructor's help?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: overall_rating
+      label: What would you rate the course overall?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false

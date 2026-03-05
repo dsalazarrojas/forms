@@ -23,7 +23,7 @@ inputSchema:
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
       name: contact_phone
       label: Contact Phone
@@ -44,15 +44,15 @@ inputSchema:
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 7
       name: project_scope
       label: Project Scope
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: project_budget
@@ -83,102 +83,53 @@ inputSchema:
       options:
       - Active
       - Inactive
-      required: false
+      required: true
     - id: 12
-      name: project_manager
-      label: Project Manager
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
       name: project_location
       label: Project Location
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
+    - id: 13
       name: project_notes
       label: Project Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 15
+    - id: 14
       name: project_scope_options
       label: Project Scope Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: status_options
+      label: Status Options
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: status_options
-      label: Status Options
+      name: project_location_options
+      label: Project Location Options
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: status_options
-      label: Status Options
+      name: project_deadline_2
+      label: Project Deadline 2
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 18
-      name: status_options
-      label: Status Options
+      name: project_notes_2
+      label: Project Notes 2
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: project_scope_options
-      label: Project Scope Options
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: project_scope_options
-      label: Project Scope Options
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: project_scope_options
-      label: Project Scope Options
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: project_scope_options
-      label: Project Scope Options
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: project_scope_options
-      label: Project Scope Options
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: project_scope_options
-      label: Project Scope Options
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: project_scope_options
-      label: Project Scope Options
-      hint: null
-      type: text
+      type: note
       options: []
       required: false

@@ -23,11 +23,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''I have read and understand the information contained in this
-        document.''}'
-      - '{''label'': ''I have reviewed the information provided by the shelter regarding
-        the adoption of the animal.''}'
-      - '{''label'': ''I have discussed and understand the cost of adoption.''}'
+      - I have read and understand the information contained in this document.
+      - I have reviewed the information provided by the shelter regarding the adoption
+        of the animal.
+      - I have discussed and understand the cost of adoption.
       required: false
     - id: 4
       name: pet_adoption_agreement_terms
@@ -35,8 +34,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: pet_adoption_agreement_terms_note
@@ -51,8 +50,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: spay_neutered
@@ -60,8 +59,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: microchip
@@ -69,8 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: vaccination_status
@@ -78,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''up_to_date''}'
-      - '{''label'': ''pending''}'
-      - '{''label'': ''none''}'
+      - up to date
+      - pending
+      - none
       required: false
     - id: 10
       name: veterinary_services_notes
@@ -95,8 +94,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: veterinarian_notes
@@ -104,8 +103,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: veterinarian_signature
@@ -113,8 +112,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: veterinary_name
@@ -129,10 +128,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Dr.''}'
-      - '{''label'': ''Mr.''}'
-      - '{''label'': ''Mrs.''}'
-      - '{''label'': ''Ms.''}'
+      - Dr.
+      - Mr.
+      - Mrs.
+      - Ms.
       required: false
     - id: 16
       name: veterinary_date
@@ -154,8 +153,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: pet_owner_name
@@ -184,8 +183,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: pet_id

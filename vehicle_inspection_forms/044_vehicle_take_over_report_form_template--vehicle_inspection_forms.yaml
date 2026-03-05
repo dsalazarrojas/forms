@@ -23,9 +23,9 @@ inputSchema:
       hint: Check engine oil level
       type: select_one
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Adequate''}'
-      - '{''label'': ''High''}'
+      - Low
+      - Adequate
+      - High
       required: false
     - id: 4
       name: coolant_fuel
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Empty''}'
-      - '{''label'': ''Not Checked''}'
+      - Low
+      - Empty
+      - Not Checked
       required: false
     - id: 5
       name: windshield_wipers
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Clean''}'
-      - '{''label'': ''Dirty''}'
-      - '{''label'': ''Not Applicable''}'
+      - Clean
+      - Dirty
+      - Not Applicable
       required: false
     - id: 6
       name: vehicle_damages
@@ -53,8 +53,8 @@ inputSchema:
       hint: Check for any damages
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: vehicle_comment
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Employee A''}'
-      - '{''label'': ''Employee B''}'
-      - '{''label'': ''Employee C''}'
+      - Employee A
+      - Employee B
+      - Employee C
       required: false
     - id: 9
       name: employee_position
@@ -93,9 +93,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
-      - '{''label'': ''Unknown''}'
+      - Active
+      - Inactive
+      - Unknown
       required: false
     - id: 12
       name: vehicle_make
@@ -159,8 +159,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: vehicle_notes

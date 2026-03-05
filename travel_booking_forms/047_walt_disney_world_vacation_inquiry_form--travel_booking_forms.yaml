@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Family'', ''value'': ''family''}'
-      - '{''label'': ''Couple'', ''value'': ''couple''}'
-      - '{''label'': ''Solo'', ''value'': ''solo''}'
-      - '{''label'': ''Group'', ''value'': ''group''}'
+      - Family
+      - Couple
+      - Solo
+      - Group
       required: false
     - id: 4
       name: arrival_time
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': "Disney''s Grand Floridian Resort & Spa", ''value'': ''disneys_grand_floridian_resort_and_spa''}'
-      - '{''label'': "Disney''s Polynesian Resort", ''value'': ''disneys_polynesian_resort''}'
-      - '{''label'': "Disney''s BoardWalk", ''value'': ''disneys_boardwalk''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Disney's Grand Floridian Resort & Spa
+      - Disney's Polynesian Resort
+      - Disney's BoardWalk
+      - Other
       required: false
     - id: 7
       name: special_request
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: confirm_phone
@@ -89,8 +89,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: additional_information
@@ -140,9 +140,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Domestic'', ''value'': ''domestic''}'
-      - '{''label'': ''International'', ''value'': ''international''}'
-      - '{''label'': ''National'', ''value'': ''national''}'
+      - Domestic
+      - International
+      - National
       required: false
     - id: 19
       name: travel_destination
@@ -150,9 +150,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Florida'', ''value'': ''florida''}'
-      - '{''label'': ''California'', ''value'': ''california''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Florida
+      - California
+      - Other
       required: false
     - id: 20
       name: additional_travelers
@@ -167,9 +167,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Orlando International'', ''value'': ''orlando_international''}'
-      - '{''label'': ''Tampa International'', ''value'': ''tampa_international''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Orlando International
+      - Tampa International
+      - Other
       required: false
     - id: 22
       name: travel_currency
@@ -177,9 +177,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''USD'', ''value'': ''usd''}'
-      - '{''label'': ''Euro'', ''value'': ''euro''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - USD
+      - Euro
+      - Other
       required: false
     - id: 23
       name: travel_agency
@@ -187,8 +187,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Disney Travel Agency'', ''value'': ''disney_travel_agency''}'
-      - '{''label'': ''Another Agency'', ''value'': ''another_agency''}'
+      - Disney Travel Agency
+      - Another Agency
       required: false
     - id: 24
       name: travel_agent_name
@@ -203,8 +203,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 26
       name: confirm_travel_agent_name
@@ -212,8 +212,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 27
       name: travel_currency_2
@@ -221,9 +221,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''USD'', ''value'': ''usd''}'
-      - '{''label'': ''Euro'', ''value'': ''euro''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - USD
+      - Euro
+      - Other
       required: false
     - id: 28
       name: special_request_4

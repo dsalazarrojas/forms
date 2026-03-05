@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Vendor A''}'
-      - '{''id'': 2, ''name'': ''Vendor B''}'
-      - '{''id'': 3, ''name'': ''Vendor C''}'
+      - Vendor A
+      - Vendor B
+      - Vendor C
       required: false
     - id: 3
       name: vendor_address
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Food''}'
-      - '{''id'': 2, ''name'': ''Beverage''}'
-      - '{''id'': 3, ''name'': ''Service''}'
+      - Food
+      - Beverage
+      - Service
       required: false
     - id: 7
       name: booth_size
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Twitter''}'
-      - '{''id'': 2, ''name'': ''Facebook''}'
-      - '{''id'': 3, ''name'': ''Instagram''}'
+      - Twitter
+      - Facebook
+      - Instagram
       required: false
     - id: 11
       name: vendor_additional_info

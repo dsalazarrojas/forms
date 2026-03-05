@@ -16,10 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''payment_method_1'', ''label'': ''Bank Transfer''}'
-      - '{''id'': 2, ''name'': ''online_payment_gateway'', ''label'': ''Online Payment
-        Gateway''}'
-      - '{''id'': 3, ''name'': ''offline_payment'', ''label'': ''Offline Payment''}'
+      - Bank Transfer
+      - Online Payment Gateway
+      - Offline Payment
       required: false
     - id: 3
       name: payment_details
@@ -34,10 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''payment_method_1'', ''label'': ''Bank Transfer''}'
-      - '{''id'': 2, ''name'': ''online_payment_gateway'', ''label'': ''Online Payment
-        Gateway''}'
-      - '{''id'': 3, ''name'': ''offline_payment'', ''label'': ''Offline Payment''}'
+      - Bank Transfer
+      - Online Payment Gateway
+      - Offline Payment
       required: false
     - id: 5
       name: event_info
@@ -59,8 +57,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''payment_frequency_1'', ''label'': ''One Time''}'
-      - '{''id'': 2, ''name'': ''payment_frequency_2'', ''label'': ''Multiple Times''}'
+      - One Time
+      - Multiple Times
       required: false
     - id: 8
       name: payment_terms
@@ -75,8 +73,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''event_status_1'', ''label'': ''Active''}'
-      - '{''id'': 2, ''name'': ''event_status_2'', ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 10
       name: payment_status
@@ -84,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''payment_status_1'', ''label'': ''Paid''}'
-      - '{''id'': 2, ''name'': ''payment_status_2'', ''label'': ''Unpaid''}'
+      - Paid
+      - Unpaid
       required: false
     - id: 11
       name: event_type
@@ -93,8 +91,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''event_type_1'', ''label'': ''Virtual''}'
-      - '{''id'': 2, ''name'': ''event_type_2'', ''label'': ''In-Person''}'
+      - Virtual
+      - In-Person
       required: false
     - id: 12
       name: event_date
@@ -123,8 +121,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''event_time_zone_1'', ''label'': ''UTC''}'
-      - '{''id'': 2, ''name'': ''event_time_zone_2'', ''label'': ''EST''}'
+      - UTC
+      - EST
       required: false
     - id: 16
       name: event_organizer

@@ -4,188 +4,100 @@ inputSchema:
     title: Website Suggestion Form Template
     pages:
     - id: 1
-      name: form_input_1
-      label: Website Suggestion Form Template
+      name: website_name
+      label: What is the name of your website suggestion?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: form_input_2
-      label: Suggest A Website
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 3
-      name: form_input_3
-      label: Suggestion
+      name: description
+      label: Can you describe your website?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 4
-      name: form_input_4
-      label: Email
+      required: true
+    - id: 3
+      name: email
+      label: What is your email address?
       hint: null
       type: email
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: category
+      label: Which category does your website belong to?
+      hint: null
+      type: select_one
+      options:
+      - Website 1
+      - Website 2
+      - Website 3
+      required: true
     - id: 5
-      name: form_input_5
-      label: Phone
+      name: date
+      label: What is the date for your website?
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 6
-      name: form_input_6
-      label: Category
+      name: form_type
+      label: Can you suggest a form type for your website?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
+      - Form 1
+      - Form 2
+      - Form 3
+      required: true
     - id: 7
-      name: form_input_7
-      label: Description
+      name: repeat_date
+      label: Can you provide another date for your website?
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 8
-      name: form_input_8
-      label: Description
+      name: suggestion
+      label: Can you suggest another website?
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: form_input_9
-      label: Form
+      name: select_date
+      label: Can you suggest a date for your website?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Date 1
+      - Date 2
+      - Date 3
+      required: true
     - id: 10
-      name: form_input_10
-      label: Suggest
+      name: select_suggestion
+      label: Can you suggest another form type?
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
+      - Suggest 1
+      - Suggest 2
+      - Suggest 3
+      required: true
     - id: 11
-      name: form_input_11
-      label: Suggest
+      name: phone
+      label: What is your phone number?
       hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 12
-      name: form_input_12
-      label: Date
+      name: confirm_date
+      label: Is this a repeat question for dates?
       hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: form_input_13
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: form_input_14
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: form_input_15
-      label: Suggest
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: form_input_16
-      label: Suggest
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: form_input_17
-      label: Suggest
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: form_input_18
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: form_input_19
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: form_input_20
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: form_input_21
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: form_input_22
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: form_input_23
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: form_input_24
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: form_input_25
-      label: Suggest
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true

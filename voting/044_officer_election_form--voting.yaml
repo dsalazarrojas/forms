@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''President''}'
-      - '{''id'': 2, ''label'': ''Vice President''}'
-      - '{''id'': 3, ''label'': ''Secretary''}'
-      - '{''id'': 4, ''label'': ''Treasurer''}'
+      - President
+      - Vice President
+      - Secretary
+      - Treasurer
       required: false
     - id: 7
       name: vote_issued_by_other
@@ -104,12 +104,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not Applicable''}'
-      - '{''id'': 4, ''label'': ''Other''}'
-      - '{''id'': 5, ''label'': ''Not Provided''}'
-      - '{''id'': 6, ''label'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Not Applicable
+      - Other
+      - Not Provided
+      - Undecided
       required: false
     - id: 15
       name: submitted_by
@@ -117,9 +117,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''User 1''}'
-      - '{''id'': 2, ''label'': ''User 2''}'
-      - '{''id'': 3, ''label'': ''User 3''}'
+      - User 1
+      - User 2
+      - User 3
       required: false
     - id: 16
       name: submission_date

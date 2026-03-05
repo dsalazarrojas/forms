@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Poor''}'
-      - '{''label'': ''Very Poor''}'
+      - Excellent
+      - Good
+      - Poor
+      - Very Poor
       required: false
     - id: 6
       name: service_satisfaction
@@ -48,11 +48,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Highly Satisified''}'
-      - '{''label'': ''Satisified''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Dissatisfied''}'
-      - '{''label'': ''Very Dissatisfied''}'
+      - Highly Satisified
+      - Satisified
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 7
       name: improvement_areas
@@ -60,10 +60,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Communication''}'
-      - '{''label'': ''Responsiveness''}'
-      - '{''label'': ''Timeliness''}'
-      - '{''label'': ''Other''}'
+      - Communication
+      - Responsiveness
+      - Timeliness
+      - Other
       required: false
     - id: 8
       name: comments

@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''American'', ''label'': ''American''}'
-      - '{''value'': ''British'', ''label'': ''British''}'
-      - '{''value'': ''Canadian'', ''label'': ''Canadian''}'
-      - '{''value'': ''German'', ''label'': ''German''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - American
+      - British
+      - Canadian
+      - German
+      - Other
       required: false
     - id: 7
       name: gender
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Male'', ''label'': ''Male''}'
-      - '{''value'': ''Female'', ''label'': ''Female''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 8
       name: country_of_residence
@@ -66,10 +66,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Canada'', ''label'': ''Canada''}'
-      - '{''value'': ''United States'', ''label'': ''United States''}'
-      - '{''value'': ''Mexico'', ''label'': ''Mexico''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Canada
+      - United States
+      - Mexico
+      - Other
       required: false
     - id: 9
       name: travel_agency_name

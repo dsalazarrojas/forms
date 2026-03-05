@@ -15,177 +15,165 @@ inputSchema:
     title: Utility Cost And Vendor Information Form
     pages:
     - id: 1
-      name: utility_cost_and_vendor_information_form_page_1
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: page_1
+      label: What kind of utility do you use?
+      hint: Please describe the type of utility you are using.
+      type: select_one
+      options:
+      - Electricity
+      - Gas
+      - Water
+      - Internet
+      - Other (please specify)
+      required: true
     - id: 2
-      name: utility_cost_and_vendor_information_form_page_2
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: page_2
+      label: Do you currently have a contract with your utility supplier?
+      hint: Check one of the options below.
+      type: select_one
+      options:
+      - 'True'
+      - No, I cancelled my contract
+      - No, never had one
+      required: true
     - id: 3
-      name: utility_cost_and_vendor_information_form_page_3
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: page_3
+      label: How do you typically make payments for your utility bills?
+      hint: You can select one or more of the options below.
+      type: select_multiple
+      options:
+      - Online (e.g. bank transfer, digital wallet)
+      - In-person (e.g. bank branch, convenience store)
+      - Mail (e.g. check, money order)
+      - Other (please specify)
+      required: true
     - id: 4
-      name: utility_cost_and_vendor_information_form_page_4
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
+      name: page_4
+      label: How much does your utility bill typically cost?
+      hint: Enter a number.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: utility_cost_and_vendor_information_form_page_5
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: page_5
+      label: Do you agree with the prices of your current utility supplier?
+      hint: Choose one of the options below.
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 6
-      name: utility_cost_and_vendor_information_form_page_6
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: page_6
+      label: Who do you contact for utility-related issues?
+      hint: Choose one of the options below.
+      type: select_one
+      options:
+      - Customer Service
+      - Billing Department
+      - Technical Support
+      - Other (please specify)
+      required: true
     - id: 7
-      name: utility_cost_and_vendor_information_form_page_7
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: page_7
+      label: What time of day do you typically pay your utility bills?
+      hint: Select a time of day.
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Other (please specify)
+      required: true
     - id: 8
-      name: utility_cost_and_vendor_information_form_page_8
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: page_8
+      label: Do you have any concerns about your utility supplier?
+      hint: Choose one of the options below.
+      type: select_multiple
+      options:
+      - Quality of service
+      - Pricing
+      - Communication
+      - Other (please specify)
+      required: true
     - id: 9
-      name: utility_cost_and_vendor_information_form_page_9
-      label: Utility Cost and Vendor Information
-      hint: null
+      name: page_9
+      label: What is your current supplier?
+      hint: Enter the name of your current supplier.
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: utility_cost_and_vendor_information_form_page_10
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
+      name: page_10
+      label: How long have you been with your current supplier?
+      hint: Enter a number.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 11
-      name: utility_cost_and_vendor_information_form_page_11
-      label: Utility Cost and Vendor Information
-      hint: null
+      name: page_11
+      label: Do you have any other questions or concerns about your utility supplier?
+      hint: You can type as much or as little as you'd like.
       type: text
       options: []
       required: false
     - id: 12
-      name: utility_cost_and_vendor_information_form_page_12
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: page_12
+      label: Do you agree with the terms and conditions of your contract with your
+        utility supplier?
+      hint: Choose one of the options below.
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 13
-      name: utility_cost_and_vendor_information_form_page_13
-      label: Utility Cost and Vendor Information
-      hint: null
+      name: page_13
+      label: Do you have any other comments or feedback about your utility supplier?
+      hint: You can type as much or as little as you'd like.
       type: text
       options: []
       required: false
     - id: 14
-      name: utility_cost_and_vendor_information_form_page_14
-      label: Utility Cost and Vendor Information
-      hint: null
+      name: page_14
+      label: Do you have any other questions or concerns about this form?
+      hint: You can type as much or as little as you'd like.
       type: text
       options: []
       required: false
     - id: 15
-      name: utility_cost_and_vendor_information_form_page_15
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
+      name: page_15
+      label: Do you have a preferred method of communication for utility-related issues?
+      hint: Choose one of the options below.
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      - Other (please specify)
       required: false
     - id: 16
-      name: utility_cost_and_vendor_information_form_page_16
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
+      name: page_16
+      label: Do you have a preferred time of day for utility-related communication?
+      hint: Select a time of day.
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Other (please specify)
       required: false
     - id: 17
-      name: utility_cost_and_vendor_information_form_page_17
-      label: Utility Cost and Vendor Information
-      hint: null
+      name: page_17
+      label: Do you have any other comments or feedback about this form?
+      hint: You can type as much or as little as you'd like.
       type: text
       options: []
       required: false
     - id: 18
-      name: utility_cost_and_vendor_information_form_page_18
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: utility_cost_and_vendor_information_form_page_19
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: utility_cost_and_vendor_information_form_page_20
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: utility_cost_and_vendor_information_form_page_21
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: utility_cost_and_vendor_information_form_page_22
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: utility_cost_and_vendor_information_form_page_23
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: utility_cost_and_vendor_information_form_page_24
-      label: Utility Cost and Vendor Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: utility_cost_and_vendor_information_form_page_25
-      label: Utility Cost and Vendor Information
-      hint: null
+      name: page_18
+      label: Page 18
+      hint: You can type as much or as little as you'd like.
       type: text
       options: []
       required: false

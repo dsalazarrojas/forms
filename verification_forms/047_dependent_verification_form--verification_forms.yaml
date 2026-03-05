@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Single''}'
-      - '{''label'': ''Married''}'
-      - '{''label'': ''Other''}'
+      - Single
+      - Married
+      - Other
       required: true
     - id: 5
       name: dependent_relationship_type
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Son''}'
-      - '{''label'': ''Daughter''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''Step-Child''}'
+      - Son
+      - Daughter
+      - Other
+      - Step-Child
       required: true
     - id: 6
       name: dependent_age
@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Female''}'
+      - Male
+      - Female
       required: true
     - id: 8
       name: dependent_income_verification
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Employed''}'
-      - '{''label'': ''Unemployed''}'
-      - '{''label'': ''Self-Employed''}'
+      - Employed
+      - Unemployed
+      - Self-Employed
       required: true
     - id: 9
       name: dependent_proof_of_income
@@ -154,8 +154,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Employed''}'
-      - '{''label'': ''Unemployed''}'
+      - Employed
+      - Unemployed
       required: true
     - id: 21
       name: dependent_proof_of_employment_last_four_digits

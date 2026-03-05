@@ -58,12 +58,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 81, ''name'': ''car'', ''value'': ''car''}'
-      - '{''id'': 82, ''name'': ''bus'', ''value'': ''bus''}'
-      - '{''id'': 82, ''name'': ''plane'', ''value'': ''plane''}'
-      - '{''id'': 83, ''name'': ''train'', ''value'': ''train''}'
-      - '{''id'': 84, ''name'': ''bike'', ''value'': ''bike''}'
-      - '{''id'': 85, ''name'': ''other'', ''value'': ''other''}'
+      - car
+      - bus
+      - plane
+      - train
+      - bike
+      - other
       required: true
     - id: 9
       name: travel_reason
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 131, ''name'': ''Jim'', ''value'': ''jimmmy''}'
-      - '{''id'': 132, ''name'': ''Jane'', ''value'': ''jane''}'
-      - '{''id'': 132, ''name'': ''John'', ''value'': ''john''}'
+      - jimmmy
+      - jane
+      - john
       required: true
     - id: 14
       name: travel_status
@@ -109,8 +109,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 141, ''name'': ''approved'', ''value'': ''approved''}'
-      - '{''id'': 142, ''name'': ''pending'', ''value'': ''pending''}'
+      - approved
+      - pending
       required: true
     - id: 15
       name: email

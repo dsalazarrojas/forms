@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''id'': 2, ''label'': ''Email'', ''value'': ''email''}'
-      - '{''id'': 3, ''label'': ''InPerson'', ''value'': ''in_person''}'
+      - Phone
+      - Email
+      - InPerson
       required: false
     - id: 3
       name: contact_info
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''VeryGood'', ''value'': ''very_good''}'
-      - '{''id'': 2, ''label'': ''Good'', ''value'': ''good''}'
-      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''fair''}'
-      - '{''id'': 4, ''label'': ''VeryFair'', ''value'': ''very_fair''}'
+      - VeryGood
+      - Good
+      - Fair
+      - VeryFair
       required: false
     - id: 5
       name: question2
@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: question5

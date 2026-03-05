@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''AI-Expert''}'
-      - '{''label'': ''AI-Novice''}'
-      - '{''label'': ''Other''}'
+      - AI-Expert
+      - AI-Novice
+      - Other
       required: false
     - id: 3
       name: benefits
@@ -27,9 +27,9 @@ inputSchema:
         apply.
       type: select_multiple
       options:
-      - '{''label'': ''Improved student outcomes''}'
-      - '{''label'': ''Increased teacher efficiency''}'
-      - '{''label'': ''Other''}'
+      - Improved student outcomes
+      - Increased teacher efficiency
+      - Other
       required: false
     - id: 4
       name: concerns
@@ -38,10 +38,10 @@ inputSchema:
         that apply.
       type: select_multiple
       options:
-      - '{''label'': ''Privacy''}'
-      - '{''label'': ''Security''}'
-      - '{''label'': ''Cost''}'
-      - '{''label'': ''Other''}'
+      - Privacy
+      - Security
+      - Cost
+      - Other
       required: false
     - id: 5
       name: responsible_use
@@ -49,9 +49,9 @@ inputSchema:
       hint: How do you believe AI should be used in education? Check all that apply.
       type: select_multiple
       options:
-      - '{''label'': ''Transparency''}'
-      - '{''label'': ''Accountability''}'
-      - '{''label'': ''Other''}'
+      - Transparency
+      - Accountability
+      - Other
       required: false
     - id: 6
       name: student_outcomes
@@ -101,9 +101,9 @@ inputSchema:
       hint: What level of AI expertise do you have?
       type: select_one
       options:
-      - '{''label'': ''AI-Expert''}'
-      - '{''label'': ''AI-Novice''}'
-      - '{''label'': ''Other''}'
+      - AI-Expert
+      - AI-Novice
+      - Other
       required: false
     - id: 13
       name: institution_size
@@ -111,10 +111,10 @@ inputSchema:
       hint: What is the size of your institution?
       type: select_one
       options:
-      - '{''label'': ''Small''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Large''}'
-      - '{''label'': ''Other''}'
+      - Small
+      - Medium
+      - Large
+      - Other
       required: false
     - id: 14
       name: age_range
@@ -122,10 +122,10 @@ inputSchema:
       hint: What age range of students does your institution primarily serve?
       type: select_multiple
       options:
-      - '{''label'': ''Elementary School''}'
-      - '{''label'': ''High School''}'
-      - '{''label'': ''College''}'
-      - '{''label'': ''Other''}'
+      - Elementary School
+      - High School
+      - College
+      - Other
       required: false
     - id: 15
       name: years_in_education
@@ -133,10 +133,10 @@ inputSchema:
       hint: How many years of experience do you have in education?
       type: select_one
       options:
-      - '{''label'': ''0-5''}'
-      - '{''label'': ''6-15''}'
-      - '{''label'': ''16-25''}'
-      - '{''label'': ''26+''}'
+      - 0-5
+      - 6-15
+      - 16-25
+      - 26+
       required: false
     - id: 16
       name: department
@@ -144,9 +144,9 @@ inputSchema:
       hint: What department do you work in?
       type: select_multiple
       options:
-      - '{''label'': ''IT''}'
-      - '{''label'': ''Curriculum Development''}'
-      - '{''label'': ''Other''}'
+      - IT
+      - Curriculum Development
+      - Other
       required: false
     - id: 17
       name: additional_info
@@ -203,6 +203,6 @@ inputSchema:
       hint: I confirm that my submission is accurate
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false

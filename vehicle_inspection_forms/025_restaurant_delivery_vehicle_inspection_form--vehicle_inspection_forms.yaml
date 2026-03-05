@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Car''}'
-      - '{''id'': 2, ''label'': ''Truck''}'
-      - '{''id'': 3, ''label'': ''Bike''}'
+      - Car
+      - Truck
+      - Bike
       required: false
     - id: 3
       name: photo_documentation
@@ -47,8 +47,8 @@ inputSchema:
       hint: Signed inspection report submitted by
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Supervisor''}'
+      - Manager
+      - Supervisor
       required: false
     - id: 7
       name: manager_name

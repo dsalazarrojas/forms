@@ -5,187 +5,135 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
-      hint: null
+      label: How do you view militarism in general?
+      hint: Please describe your perception of militarism.
       type: text
       options: []
       required: false
     - id: 2
-      name: militarism_attitudes
-      label: how_do_you_view_militarism
-      hint: null
+      name: personal_experience
+      label: Have you personally experienced conflict?
+      hint: Yes, No, Don't know
       type: select_one
       options:
-      - '{''label'': ''very_highly'', ''value'': ''high''}'
-      - '{''label'': ''not_at_all'', ''value'': ''not_at_all''}'
-      - '{''label'': ''somewhat'', ''value'': ''somewhat''}'
-      - '{''label'': ''not_at_all'', ''value'': ''not_at_all''}'
+      - 'Yes'
+      - 'No'
+      - Don't know
       required: true
     - id: 3
-      name: experience_conflict
-      label: have_you_personally_experienced
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
-      required: true
-    - id: 4
       name: conflict_resolution
-      label: what_would_you_do
-      hint: null
+      label: What would you do to resolve a conflict?
+      hint: Please describe your approach to conflict resolution.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: peace_efforts
+      label: What do you think is the most effective approach to peace efforts?
+      hint: Describe your thoughts on peace efforts.
       type: text
       options: []
       required: false
     - id: 5
-      name: peace_efforts
-      label: what_do_you_think
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''very_important'', ''value'': ''very_important''}'
-      - '{''label'': ''somewhat_important'', ''value'': ''somewhat_important''}'
-      - '{''label'': ''not_at_all'', ''value'': ''not_at_all''}'
-      required: true
-    - id: 6
-      name: conflict_resolution
-      label: how_do_you_respond
-      hint: null
+      name: conflict_response
+      label: How do you respond to conflict?
+      hint: Agree, Disagree, Neither
       type: select_multiple
       options:
-      - '{''label'': ''agree'', ''value'': ''agree''}'
-      - '{''label'': ''disagree'', ''value'': ''disagree''}'
-      - '{''label'': ''neither'', ''value'': ''neither''}'
+      - Agree
+      - Disagree
+      - Neither
       required: true
-    - id: 7
-      name: comments
-      label: comments
-      hint: null
-      type: note
+    - id: 6
+      name: importance_of_militarism
+      label: How important is it to address militarism?
+      hint: Scale - 1-10
+      type: number
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: email
-      label: email
-      hint: null
+      label: Email
+      hint: Please enter your email address
       type: email
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: phone
-      label: phone
+      label: Phone Number
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: introduction
-      label: introduction
+      name: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: conflict_resolution
-      label: conflict_resolution
+      name: contact_info_2
+      label: Contact Info 2
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: peace_efforts
-      label: peace_efforts
+      name: conflict_resolution_1
+      label: What do you think is the best way to resolve conflict?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: conflict_resolutions
-      label: conflict_resolutions
+      name: militarism_attitudes
+      label: What is your attitude towards militarism?
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: introduction
-      label: introduction
+      name: contact_info_2_2
+      label: Contact Info 2 2
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: militarism_attitudes
-      label: militarism_attitudes
+      name: conflict_resolution_2
+      label: Conflict Resolution 2
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Agree
+      - Disagree
+      - Neither
+      required: true
     - id: 16
-      name: introduction
-      label: introduction
+      name: conflict_resolution_3
+      label: What do you do to resolve conflict?
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: conflict_resolution
-      label: conflict_resolution
+      name: militarism_2
+      label: Militarism 2
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: conflict_resolution_2
-      label: conflict_resolution_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: conflict_resolution_2
-      label: conflict_resolution_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: conflict_resolution_2
-      label: conflict_resolution_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: conflict_resolution_3
-      label: conflict_resolution_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: militarism
-      label: militarism
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: militarism
-      label: militarism
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: militarism
-      label: militarism
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: militarism_2
-      label: militarism_2
+      name: peace_efforts_1
+      label: Peace Efforts 1
       hint: null
       type: text
       options: []

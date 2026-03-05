@@ -1,107 +1,96 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Academic Recognition Fairness Survey
     pages:
-      - id: 1
-        name: section_demographics
-        label: -- Respondent Background --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: role
-        label: Respondent role
-        hint: Select your primary role
-        type: select_one
-        options:
-          - Student
-          - Faculty
-          - Staff
-          - Administrator
-        required: true
-      - id: 3
-        name: perception_of_fairness
-        label: Perception of fairness in recognition
-        hint: Rate fairness of recognition processes
-        type: select_one
-        options:
-          - Very fair
-          - Somewhat fair
-          - Neutral
-          - Somewhat unfair
-          - Very unfair
-        required: true
-      - id: 4
-        name: diversity_of_awardees
-        label: Diversity among awardees
-        hint: Rate diversity and inclusivity of recipients
-        type: select_one
-        options:
-          - Very diverse
-          - Somewhat diverse
-          - Not diverse
-        required: false
-      - id: 5
-        name: transparency_of_process
-        label: Transparency of recognition process
-        hint: Rate how transparent the process is
-        type: select_one
-        options:
-          - Very transparent
-          - Somewhat transparent
-          - Not transparent
-        required: false
-      - id: 6
-        name: barriers_to_recognition
-        label: Barriers to receiving recognition
-        hint: Select barriers that apply
-        type: select_multiple
-        options:
-          - Lack of awareness
-          - Bias or favoritism
-          - Limited nomination channels
-          - Unequal resource distribution
-        required: false
-      - id: 7
-        name: suggested_changes
-        label: Suggested changes to improve fairness
-        hint: Actions that would increase fairness
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: experience_examples
-        label: Examples of unfair or fair experiences
-        hint: Share specific examples if comfortable
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: anonymity_preference
-        label: Preference for anonymity
-        hint: Would you like your response to be anonymous
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 10
-        name: additional_comments
-        label: Additional comments
-        hint: Any other feedback on recognition processes
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: section_demographics
+      label: -- Respondent Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Respondent role
+      hint: Select your primary role
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Staff
+      - Administrator
+      required: true
+    - id: 3
+      name: perception_of_fairness
+      label: Perception of fairness in recognition
+      hint: Rate fairness of recognition processes
+      type: select_one
+      options:
+      - Very fair
+      - Somewhat fair
+      - Neutral
+      - Somewhat unfair
+      - Very unfair
+      required: true
+    - id: 4
+      name: diversity_of_awardees
+      label: Diversity among awardees
+      hint: Rate diversity and inclusivity of recipients
+      type: select_one
+      options:
+      - Very diverse
+      - Somewhat diverse
+      - Not diverse
+      required: false
+    - id: 5
+      name: transparency_of_process
+      label: Transparency of recognition process
+      hint: Rate how transparent the process is
+      type: select_one
+      options:
+      - Very transparent
+      - Somewhat transparent
+      - Not transparent
+      required: false
+    - id: 6
+      name: barriers_to_recognition
+      label: Barriers to receiving recognition
+      hint: Select barriers that apply
+      type: select_multiple
+      options:
+      - Lack of awareness
+      - Bias or favoritism
+      - Limited nomination channels
+      - Unequal resource distribution
+      required: false
+    - id: 7
+      name: suggested_changes
+      label: Suggested changes to improve fairness
+      hint: Actions that would increase fairness
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: experience_examples
+      label: Examples of unfair or fair experiences
+      hint: Share specific examples if comfortable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: anonymity_preference
+      label: Preference for anonymity
+      hint: Would you like your response to be anonymous
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback on recognition processes
+      type: text
+      options: []
+      required: false

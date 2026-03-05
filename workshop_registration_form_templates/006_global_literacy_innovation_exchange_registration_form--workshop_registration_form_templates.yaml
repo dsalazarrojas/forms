@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pacific''}'
-      - '{''id'': 2, ''label'': ''Central''}'
-      - '{''id'': 3, ''label'': ''Eastern''}'
+      - Pacific
+      - Central
+      - Eastern
       required: false
     - id: 7
       name: participant_country
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''United States''}'
-      - '{''id'': 2, ''label'': ''Canada''}'
-      - '{''id'': 3, ''label'': ''Mexico''}'
+      - United States
+      - Canada
+      - Mexico
       required: true
     - id: 8
       name: registration_method
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Online''}'
-      - '{''id'': 2, ''label'': ''On-Site''}'
-      - '{''id'': 3, ''label'': ''Phone''}'
+      - Online
+      - On-Site
+      - Phone
       required: false
     - id: 9
       name: participant_additional_info
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Bank Transfer''}'
-      - '{''id'': 2, ''label'': ''Cash''}'
-      - '{''id'': 3, ''label'': ''Credit/Debit Card''}'
+      - Bank Transfer
+      - Cash
+      - Credit/Debit Card
       required: true
     - id: 13
       name: confirm_payment

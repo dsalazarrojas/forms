@@ -4,58 +4,130 @@ inputSchema:
     title: Holiday Celebration Guessing Poll
     pages:
     - id: 1
-      name: snow_count_1
-      label: How many snowflakes will fall in December?
-      hint: Give your prediction
-      type: number
+      name: participant_info_1
+      label: Participant Information
+      hint: null
+      type: text
       options: []
       required: false
     - id: 2
-      name: snow_count_2
-      label: How many snowflakes will fall in December?
-      hint: Give your prediction
+      name: nyc_snowfall_1
+      label: Snowfall in New York City, USA
+      hint: null
       type: number
       options: []
       required: false
     - id: 3
-      name: snow_count_3
-      label: How many snowflakes will fall in December?
-      hint: Give your prediction
+      name: tokyo_snowfall_1
+      label: Snowfall in Tokyo, Japan
+      hint: null
       type: number
       options: []
       required: false
     - id: 4
-      name: snow_count_4
-      label: How many snowflakes will fall in December?
-      hint: Give your prediction
+      name: paris_snowfall_1
+      label: Snowfall in Paris, France
+      hint: null
       type: number
       options: []
       required: false
     - id: 5
-      name: snow_count_5
-      label: How many snowflakes will fall in December?
-      hint: Give your prediction
-      type: number
+      name: favorite_snow_destination_1
+      label: Favorite Winter Destination
+      hint: null
+      type: text
       options: []
       required: false
     - id: 6
-      name: snow_count_6
-      label: How many snowflakes will fall in December?
-      hint: Give your prediction
+      name: visits_to_snow_destination_1
+      label: Times visited favorite snow destination
+      hint: null
       type: number
       options: []
       required: false
     - id: 7
-      name: snow_count_7
-      label: How many snowflakes will fall in December?
-      hint: Give your prediction
-      type: number
+      name: favorite_activity_1
+      label: Favorite Winter Activity
+      hint: null
+      type: text
       options: []
       required: false
     - id: 8
-      name: snow_count_8
-      label: How many snowflakes will fall in December?
-      hint: Give your prediction
+      name: month_with_most_snowfall_1
+      label: Month with most snowfall in hometown
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      - Other
+      required: false
+    - id: 9
+      name: hometown_snowfall_1
+      label: Snowfall in hometown in December
+      hint: null
       type: number
+      options: []
+      required: false
+    - id: 10
+      name: favorite_holiday_tradition_1
+      label: Favorite Holiday Tradition related to snowfall
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: number_of_snowshoes_1
+      label: Number of snowshoes owned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: most_snowfall_region_1
+      label: Region with most snowfall
+      hint: null
+      type: select_multiple
+      options:
+      - North America
+      - South America
+      - Europe
+      - Asia
+      - Africa
+      required: false
+    - id: 13
+      name: least_snowfall_region_1
+      label: Region with least snowfall
+      hint: null
+      type: select_multiple
+      options:
+      - North America
+      - South America
+      - Europe
+      - Asia
+      - Africa
+      required: false
+    - id: 14
+      name: nyc_snowfall_2
+      label: Nyc Snowfall 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: time_of_day_1
+      label: Time of day to go outside when it's snowing
+      hint: null
+      type: time
       options: []
       required: false

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -16,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: user_profile_header
-      label: --- Personalize Your AI Mentor ---
+      label: '--- Personalize Your AI Mentor ---'
       hint: Help us tailor your AI mentoring experience to your unique needs.
       type: note
       options: []
@@ -34,18 +23,12 @@ inputSchema:
       hint: What do you want to be mentored in?
       type: select_one
       options:
-      - label: Software Development / Coding
-        value: coding
-      - label: Business Strategy & Entrepreneurship
-        value: business
-      - label: Creative Writing & Content
-        value: writing
-      - label: Data Science & Analytics
-        value: data_science
-      - label: Personal Growth & Wellness
-        value: wellness
-      - label: Academic Research
-        value: research
+      - Software Development / Coding
+      - Business Strategy & Entrepreneurship
+      - Creative Writing & Content
+      - Data Science & Analytics
+      - Personal Growth & Wellness
+      - Academic Research
       required: true
     - id: 4
       name: skill_level_baseline
@@ -53,18 +36,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Novice (Just starting)
-        value: novice
-      - label: Intermediate (Have foundational knowledge)
-        value: intermediate
-      - label: Advanced (Proficient / Professional)
-        value: advanced
-      - label: Expert (Specialized / Lead role)
-        value: expert
+      - Novice (Just starting)
+      - Intermediate (Have foundational knowledge)
+      - Advanced (Proficient / Professional)
+      - Expert (Specialized / Lead role)
       required: true
     - id: 5
       name: mentorship_style_header
-      label: --- Mentorship Style & Tone ---
+      label: '--- Mentorship Style & Tone ---'
       hint: null
       type: note
       options: []
@@ -75,14 +54,10 @@ inputSchema:
       hint: How should the AI interact with you?
       type: select_one
       options:
-      - label: Encouraging & Supportive (Positive reinforcement)
-        value: supportive
-      - label: Direct & Critical (No-nonsense feedback)
-        value: direct
-      - label: Socratic (Guides you with questions)
-        value: socratic
-      - label: Analytical (Data and evidence focused)
-        value: analytical
+      - Encouraging & Supportive (Positive reinforcement)
+      - Direct & Critical (No-nonsense feedback)
+      - Socratic (Guides you with questions)
+      - Analytical (Data and evidence focused)
       required: true
     - id: 7
       name: mentor_tone
@@ -90,14 +65,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Professional / Formal
-        value: professional
-      - label: Casual / Friendly
-        value: casual
-      - label: Academic / Serious
-        value: academic
-      - label: Quirky / Humorous
-        value: quirky
+      - Professional / Formal
+      - Casual / Friendly
+      - Academic / Serious
+      - Quirky / Humorous
       required: true
     - id: 8
       name: interaction_frequency
@@ -105,18 +76,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Daily (Morning/Evening Sync)
-        value: daily
-      - label: Twice Weekly
-        value: biweekly
-      - label: Weekly Summary
-        value: weekly
-      - label: Never (I will initiate all contact)
-        value: on_demand
+      - Daily (Morning/Evening Sync)
+      - Twice Weekly
+      - Weekly Summary
+      - Never (I will initiate all contact)
       required: true
     - id: 9
       name: customization_details_header
-      label: --- Content and Logistics ---
+      label: '--- Content and Logistics ---'
       hint: null
       type: note
       options: []
@@ -134,12 +101,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: High-level / Conceptual
-        value: high_level
-      - label: Standard / Balanced
-        value: standard
-      - label: Deep-dive / Technical details
-        value: deep_dive
+      - High-level / Conceptual
+      - Standard / Balanced
+      - Deep-dive / Technical details
       required: true
     - id: 12
       name: preferred_input_method
@@ -147,14 +111,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: Text Chat
-        value: text
-      - label: Voice / Audio Messages
-        value: voice
-      - label: Code Review / Code Snippets
-        value: code
-      - label: Visual / Diagrams
-        value: visual
+      - Text Chat
+      - Voice / Audio Messages
+      - Code Review / Code Snippets
+      - Visual / Diagrams
       required: true
     - id: 13
       name: tool_integrations
@@ -162,14 +122,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: Google Calendar
-        value: calendar
-      - label: GitHub / GitLab
-        value: github
-      - label: Notion / Obsidian
-        value: docs
-      - label: Slack / Discord
-        value: chat_apps
+      - Google Calendar
+      - GitHub / GitLab
+      - Notion / Obsidian
+      - Slack / Discord
       required: false
     - id: 14
       name: data_memory_preference
@@ -177,12 +133,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Full Memory (Retain all context indefinitely)
-        value: full_memory
-      - label: Session-only Memory (Forget after each topic)
-        value: session_only
-      - label: Personalized (Keep goals, forget small talk)
-        value: personalized
+      - Full Memory (Retain all context indefinitely)
+      - Session-only Memory (Forget after each topic)
+      - Personalized (Keep goals, forget small talk)
       required: true
     - id: 15
       name: primary_language

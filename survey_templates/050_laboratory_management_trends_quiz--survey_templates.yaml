@@ -5,226 +5,127 @@ inputSchema:
     pages:
     - id: 1
       name: role
-      label: role
+      label: Your role in laboratory management
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Laboratory Manager
+      - Scientist
+      - Technician
+      - Other
       required: true
     - id: 2
       name: role_type
-      label: role_type
+      label: Your role type in laboratory management
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Laboratory Manager
+      - Scientist
+      - Technician
+      - Other
       required: true
     - id: 3
-      name: key_trends
-      label: key_trends
+      name: lab_management_trends
+      label: What are the key trends in laboratory management?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Automation
+      - Data Analysis
+      - Quality Control
+      - Other
       required: true
     - id: 4
       name: challenges
-      label: challenges
+      label: What are the key challenges in laboratory management?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Time Management
+      - Budget Management
+      - Resource Management
+      - Other
       required: true
     - id: 5
-      name: technology_adoption
-      label: technology_adoption
+      name: technologies
+      label: What technologies are being adopted in laboratory management?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Laboratory Information Management Systems (LIMS)
+      - Electronic Laboratory Notebooks (ELN)
+      - Laboratory Robotics
+      - Other
       required: true
     - id: 6
-      name: role
-      label: what_is_your_role
+      name: technology_adoption
+      label: Which technologies are being adopted in laboratory management?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - LIMS
+      - ELN
+      - Laboratory Robotics
+      - Other
       required: true
     - id: 7
-      name: role_type
-      label: what_is_your_role_type
+      name: technology_effectiveness
+      label: How effective are the technologies in laboratory management?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Highly effective
+      - Somewhat effective
+      - Not very effective
       required: true
     - id: 8
-      name: what_are_the_key_trends
-      label: what_are_the_key_trends
+      name: benefits
+      label: What are the benefits of technology adoption in laboratory management?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Increased efficiency
+      - Improved accuracy
+      - Reduced costs
       required: true
     - id: 9
-      name: what_are_the_key_trends_challenges
-      label: what_are_the_key_trends_challenges
+      name: challenges_tech
+      label: What are the challenges of technology adoption in laboratory management?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - High costs
+      - Limited accessibility
+      - Training requirements
       required: true
     - id: 10
-      name: what_are_technologies_being_adopted
-      label: what_are_technologies_being_adopted
+      name: tech_impact
+      label: How does technology affect laboratory management?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Positively
+      - Negatively
+      - Neutral
       required: true
     - id: 11
-      name: role
-      label: role
+      name: future
+      label: What is the future of laboratory management?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Increased automation
+      - Improved collaboration
+      - Enhanced data analysis
       required: true
     - id: 12
-      name: role_type
-      label: role_type
+      name: improvement
+      label: How can laboratory management be improved?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 13
-      name: challenges
-      label: challenges
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 14
-      name: technology_adoption
-      label: technology_adoption
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 15
-      name: role
-      label: role
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 16
-      name: role_type
-      label: role_type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 17
-      name: challenges
-      label: challenges
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 18
-      name: technology_adoption
-      label: technology_adoption
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 19
-      name: role
-      label: role
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 20
-      name: role_type
-      label: role_type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 21
-      name: challenges
-      label: challenges
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: technology_adoption
-      label: technology_adoption
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 23
-      name: role
-      label: role
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 24
-      name: role_type
-      label: role_type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 25
-      name: role
-      label: role
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - Improved communication
+      - Enhanced training
+      - Better resource allocation
       required: true

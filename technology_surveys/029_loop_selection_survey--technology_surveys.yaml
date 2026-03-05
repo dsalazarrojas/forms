@@ -5,240 +5,197 @@ inputSchema:
     pages:
     - id: 1
       name: intro
-      label: introduction
-      hint: null
+      label: Introduction
+      hint: Please answer the following questions to help us understand your experience
+        with loops.
       type: note
       options: []
       required: false
     - id: 2
       name: projects
-      label: projects
+      label: What kind of projects do you have experience with?
       hint: null
       type: select_multiple
       options:
-      - Projects I'm involved in
-      - Projects that are similar to my job
-      - Projects in my industry
+      - Open-ended text input
+      - Projects with loops
       - None of the above
       required: false
     - id: 3
-      name: ease_of_use
-      label: ease_of_use
-      hint: On a scale of 1-5
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: challenges
-      label: challenges
-      hint: null
-      type: select_multiple
-      options:
-      - Difficulty understanding the loop
-      - Difficulty using the loop in my work
-      - Difficulty finding resources to help me with the loop
-      - None of the above
-      required: false
-    - id: 5
-      name: team_involvement
-      label: team_involvement
-      hint: null
-      type: select_multiple
-      options:
-      - Involving my team
-      - Involving my team members directly
-      - Involving my team manager
-      - None of the above
-      required: false
-    - id: 6
       name: frequency
-      label: frequency
+      label: How often do you use loops in your work?
       hint: null
       type: select_one
       options:
       - Daily
       - Weekly
       - Monthly
-      - Quarterly
       - Never
       required: false
-    - id: 7
-      name: projects_class
-      label: projects_class
-      hint: null
-      type: select_multiple
-      options:
-      - In progress
-      - Completed
-      - On hold
-      - None of the above
-      required: false
-    - id: 8
-      name: loop_selection
-      label: loop_selection
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 9
+    - id: 4
       name: loop_type
-      label: loop_type
+      label: Which type of loops do you prefer?
       hint: null
       type: select_one
       options:
       - Open
       - Closed
-      - S-closed
+      - S-Closed
       - None of the above
       required: false
-    - id: 10
-      name: projects
-      label: projects
-      hint: null
-      type: select_one
-      options:
-      - Projects I'm currently working on
-      - None of the above
-      required: false
-    - id: 11
-      name: loop_involvement
-      label: loop_involvement
-      hint: null
-      type: select_multiple
-      options:
-      - Involving my self
-      - Involving my team members
-      - Involving my team members prophets
-      - None of the above
-      required: false
-    - id: 12
+    - id: 5
       name: ease_of_use
-      label: ease_of_use
+      label: How easy is it to use loops in your work?
       hint: null
       type: select_one
       options:
       - Easy
       - Medium
       - Hard
+      - None of the above
+      required: false
+    - id: 6
+      name: resources
+      label: What kind of resources do you usually use to find help with loops?
+      hint: null
+      type: select_multiple
+      options:
+      - Documentation
+      - Team members
+      - Internet
+      - None of the above
+      required: false
+    - id: 7
+      name: team_involvement
+      label: How often do you involve your team in loop-related tasks?
+      hint: null
+      type: select_multiple
+      options:
+      - Involving my team
+      - Involving my team members directly
+      - None of the above
+      - Other
+      required: false
+    - id: 8
+      name: projects_class
+      label: Which type of projects do you usually work on that involve loops?
+      hint: null
+      type: select_multiple
+      options:
+      - Projects I'm currently working on
+      - Projects with loops
+      - Projects without loops
+      - None of the above
+      required: false
+    - id: 9
+      name: loop_involvement
+      label: How involved do you get with your team members when working with loops?
+      hint: null
+      type: select_multiple
+      options:
+      - Involving my team members
+      - Involving my team members prophets
+      - None of the above
+      - Involving my team manager
+      - Other
+      required: false
+    - id: 10
+      name: difficulties
+      label: What kind of difficulties do you face when using loops?
+      hint: null
+      type: select_multiple
+      options:
+      - Difficulty understanding the loop
+      - Difficulty using the loop in my work
+      - None of the above
+      - Difficulty finding resources to help me with the loop
+      required: false
+    - id: 11
+      name: help
+      label: Which resources do you usually get help from when working with loops?
+      hint: null
+      type: select_multiple
+      options:
+      - Documentation
+      - Team members
+      - Internet
+      - None of the above
+      required: false
+    - id: 12
+      name: preferences
+      label: Which kind of loops do you usually prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - None of the above
+      - Other
       required: false
     - id: 13
-      name: frequency
-      label: frequency
+      name: loop_selection
+      label: Which kind of loops do you usually select?
+      hint: null
+      type: select_multiple
+      options:
+      - Involving my team
+      - Involving my team members
+      - Involving my team members prophets
+      - None of the above
+      required: false
+    - id: 14
+      name: projects_2
+      label: Which kind of projects do you usually work on?
+      hint: null
+      type: select_multiple
+      options:
+      - Projects I'm currently working on
+      - None of the above
+      - Other
+      required: false
+    - id: 15
+      name: frequency_loop
+      label: How often do you use loops in your daily tasks?
       hint: null
       type: select_one
       options:
       - Daily
+      - Weekly
       - Monthly
-      required: false
-    - id: 14
-      name: team_involvement
-      label: team_involvement
-      hint: null
-      type: select_one
-      options:
-      - Involving my team
-      - Other
-      required: false
-    - id: 15
-      name: projects_class
-      label: projects_class
-      hint: null
-      type: select_one
-      options:
-      - Projects in progress
-      - None of the above
+      - Never
       required: false
     - id: 16
-      name: loop_involvement
-      label: loop_involvement
+      name: team
+      label: How involved do you get with your team when working with loops?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - Involving my team
-      - Involving my team manager
+      - Involving my team members
       - None of the above
+      - Other
       required: false
     - id: 17
-      name: projects
-      label: projects
+      name: help_from_team
+      label: Which kind of help do you usually get from your team when working with
+        loops?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
+      - Involving my team
+      - Involving my team members
+      - Involving my team members prophets
       - None of the above
       - Other
       required: false
     - id: 18
-      name: loop_type
-      label: loop_type
-      hint: null
-      type: select_one
-      options:
-      - None of the above
-      - Other
-      required: false
-    - id: 19
-      name: frequency
-      label: frequency
-      hint: null
-      type: select_one
-      options:
-      - Quarterly
-      - Other
-      required: false
-    - id: 20
-      name: projects
-      label: projects
+      name: projects_in_progress
+      label: Which kind of projects do you usually work on that involve loops?
       hint: null
       type: select_multiple
       options:
-      - Involving my team members directly
-      - Involving my team manager
-      - None of the above
-      required: false
-    - id: 21
-      name: loop_selection
-      label: loop_selection
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 22
-      name: projects
-      label: projects
-      hint: null
-      type: select_one
-      options:
-      - None of the above
-      - Other
-      required: false
-    - id: 23
-      name: projects_class
-      label: projects_class
-      hint: null
-      type: select_one
-      options:
-      - Projects I've worked on in the past
-      - None of the above
-      required: false
-    - id: 24
-      name: frequency
-      label: frequency
-      hint: null
-      type: select_one
-      options:
-      - Never
-      - Other
-      required: false
-    - id: 25
-      name: projects
-      label: projects
-      hint: null
-      type: select_multiple
-      options:
-      - Projects I've worked on in the past
+      - Projects with loops
+      - Projects in progress
+      - Projects without loops
       - None of the above
       required: false

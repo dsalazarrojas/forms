@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 4
       name: assess_risk_factors
@@ -33,11 +33,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Age''}'
-      - '{''value'': ''Dizziness''}'
-      - '{''value'': ''Confusion''}'
-      - '{''value'': ''History''}'
-      - '{''value'': ''Medication''}'
+      - Age
+      - Dizziness
+      - Confusion
+      - History
+      - Medication
       required: false
     - id: 5
       name: medication_side_effects
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Sedatives''}'
-      - '{''value'': ''Antidepressants''}'
-      - '{''value'': ''Anti-anxiety''}'
+      - Sedatives
+      - Antidepressants
+      - Anti-anxiety
       required: false
     - id: 6
       name: patient_medication_list
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Low''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 8
       name: assessment_date

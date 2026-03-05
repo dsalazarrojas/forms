@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''excellent''}'
-      - '{''id'': 2, ''label'': ''average''}'
-      - '{''id'': 3, ''label'': ''poor''}'
+      - excellent
+      - average
+      - poor
       required: false
     - id: 4
       name: class_satisfaction
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''very_satisfied''}'
-      - '{''id'': 2, ''label'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''label'': ''not_satisfied''}'
-      - '{''id'': 4, ''label'': ''very_dissatisfied''}'
+      - very satisfied
+      - somewhat satisfied
+      - not satisfied
+      - very dissatisfied
       required: false
     - id: 5
       name: class_length
@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''too_short''}'
-      - '{''id'': 2, ''label'': ''just_right''}'
-      - '{''id'': 3, ''label'': ''too_long''}'
+      - too short
+      - just right
+      - too long
       required: false
     - id: 6
       name: class_difficulty
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''excellent''}'
-      - '{''id'': 2, ''label'': ''average''}'
-      - '{''id'': 3, ''label'': ''poor''}'
+      - excellent
+      - average
+      - poor
       required: false
     - id: 8
       name: class_location
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''online''}'
-      - '{''id'': 2, ''label'': ''in_person''}'
-      - '{''id'': 3, ''label'': ''other''}'
+      - online
+      - in person
+      - other
       required: false
     - id: 9
       name: class_time
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''morning''}'
-      - '{''id'': 2, ''label'': ''afternoon''}'
-      - '{''id'': 3, ''label'': ''evening''}'
+      - morning
+      - afternoon
+      - evening
       required: false
     - id: 10
       name: class_frequency
@@ -98,7 +98,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''very_familiar''}'
-      - '{''id'': 2, ''label'': ''somewhat_familiar''}'
-      - '{''id'': 3, ''label'': ''not_familiar''}'
+      - very familiar
+      - somewhat familiar
+      - not familiar
       required: false

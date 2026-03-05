@@ -72,10 +72,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Gas''}'
-      - '{''id'': 2, ''label'': ''Electric''}'
-      - '{''id'': 3, ''label'': ''Hybrid''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Gas
+      - Electric
+      - Hybrid
+      - Other
       required: false
     - id: 11
       name: vehicle_transmission
@@ -83,10 +83,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Manual''}'
-      - '{''id'': 2, ''label'': ''Automatic''}'
-      - '{''id'': 3, ''label'': ''CVT/Semiautomatic''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Manual
+      - Automatic
+      - CVT/Semiautomatic
+      - Other
       required: false
     - id: 12
       name: vehicle_type

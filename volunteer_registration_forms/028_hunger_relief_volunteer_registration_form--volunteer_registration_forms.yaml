@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''8-10'', ''label'': ''8-10 hours''}'
-      - '{''id'': 2, ''name'': ''11-20 hours''}'
-      - '{''id'': 3, ''name'': ''More than 20 hours''}'
+      - 8-10 hours
+      - 11-20 hours
+      - More than 20 hours
       required: false
     - id: 3
       name: volunteer_days
@@ -26,11 +26,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Monday''}'
-      - '{''id'': 2, ''name'': ''Tuesday''}'
-      - '{''id'': 3, ''name'': ''Wednesday''}'
-      - '{''id'': 4, ''name'': ''Thursday''}'
-      - '{''id'': 5, ''name'': ''Friday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
       required: false
     - id: 4
       name: volunteer_shifts
@@ -38,9 +38,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Day''}'
-      - '{''id'': 2, ''name'': ''Afternoon''}'
-      - '{''id'': 3, ''name'': ''Evening''}'
+      - Day
+      - Afternoon
+      - Evening
       required: false
     - id: 5
       name: volunteer_availability
@@ -97,6 +97,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false

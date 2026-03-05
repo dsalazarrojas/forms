@@ -4,132 +4,101 @@ inputSchema:
     title: Customer Support Feedback Survey
     pages:
     - id: 1
-      name: customer_support_feedback_survey_page_1
-      label: customer_support_feedback_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: customer_support_feedback_survey_page_2
-      label: customer_support_feedback_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: customer_support_feedback_survey_page_3
-      label: customer_support_feedback_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: customer_support_feedback_survey_page_4
-      label: customer_support_feedback_survey
-      hint: null
+      name: contact_reason
+      label: What was the reason for your recent contact with our support team?
+      hint: Please select a reason.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - I was having trouble with a product/service.
+      - I had a general inquiry.
+      - I experienced a technical issue.
+      - I needed help with an order.
+      required: false
+    - id: 2
+      name: experience_rating
+      label: How would you rate your overall experience with our support team?
+      hint: Select a rating from 1 to 5.
+      type: select_one
+      options:
+      - 1 - Very Poor
+      - 2 - Poor
+      - 3 - Neutral
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 3
+      name: issue_resolution
+      label: Were you satisfied with the resolution of your issue?
+      hint: Please respond with a yes or no answer.
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 4
+      name: email_notifications
+      label: Would you like to receive email notifications from our support team in
+        the future?
+      hint: Select a preference.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 5
-      name: customer_support_feedback_survey_page_5
-      label: customer_support_feedback_survey
-      hint: null
-      type: select_multiple
+      name: responsiveness
+      label: How would you rate the responsiveness of our support team?
+      hint: Rate from 1 to 5.
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 1 - Very Slow
+      - 2 - Slow
+      - 3 - Average
+      - 4 - Fast
+      - 5 - Extremely Fast
       required: false
     - id: 6
-      name: customer_support_feedback_survey_page_6
-      label: customer_support_feedback_survey
-      hint: null
-      type: date
+      name: additional_feedback
+      label: Do you have any additional feedback or suggestions for our support team?
+      hint: Please provide any additional comments.
+      type: text
       options: []
       required: false
     - id: 7
-      name: customer_support_feedback_survey_page_7
-      label: customer_support_feedback_survey
-      hint: null
-      type: time
-      options: []
+      name: past_contact
+      label: Have you received any support from our team in the past?
+      hint: Please respond with a yes or no answer.
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 8
-      name: customer_support_feedback_survey_page_8
-      label: customer_support_feedback_survey
-      hint: null
-      type: note
+      name: main_issue
+      label: What was the main issue you contacted us about?
+      hint: Please provide a brief description.
+      type: text
       options: []
       required: false
     - id: 9
-      name: customer_support_feedback_survey_page_9
-      label: customer_support_feedback_survey
-      hint: null
-      type: email
-      options: []
+      name: communication
+      label: How did you feel about the communication from our support team during
+        your recent contact?
+      hint: Rate from 1 to 5.
+      type: select_one
+      options:
+      - 1 - Very Poor
+      - 2 - Poor
+      - 3 - Neutral
+      - 4 - Good
+      - 5 - Excellent
       required: false
     - id: 10
-      name: customer_support_feedback_survey_page_10
-      label: customer_support_feedback_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: customer_support_feedback_survey_page_11
-      label: customer_support_feedback_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: customer_support_feedback_survey_page_12
-      label: customer_support_feedback_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: customer_support_feedback_survey_page_13
-      label: customer_support_feedback_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: customer_support_feedback_survey_page_14
-      label: customer_support_feedback_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: customer_support_feedback_survey_page_15
-      label: customer_support_feedback_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: customer_support_feedback_survey_page_16
-      label: customer_support_feedback_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: customer_support_feedback_survey_page_17
-      label: customer_support_feedback_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: customer_support_feedback_survey_page_18
-      label: customer_support_feedback_survey
-      hint: null
-      type: text
-      options: []
+      name: recommendation
+      label: Would you recommend our support team to a friend or colleague?
+      hint: Select a preference.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false

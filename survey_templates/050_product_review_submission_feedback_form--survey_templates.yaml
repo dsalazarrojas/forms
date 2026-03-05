@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: submission_date
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Website''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''Email''}'
+      - Website
+      - Phone
+      - Email
       required: true
     - id: 9
       name: submission_ip
@@ -70,6 +70,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Public Network''}'
-      - '{''id'': 2, ''label'': ''Private Network''}'
+      - Public Network
+      - Private Network
       required: true

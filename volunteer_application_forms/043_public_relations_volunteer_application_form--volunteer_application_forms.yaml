@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''SMS''}'
-      - '{''id'': 4, ''label'': ''In Person''}'
+      - Email
+      - Phone
+      - SMS
+      - In Person
       required: false
     - id: 3
       name: job_title
@@ -50,13 +50,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      - '{''id'': 4, ''label'': ''Thursday''}'
-      - '{''id'': 5, ''label'': ''Friday''}'
-      - '{''id'': 6, ''label'': ''Saturday''}'
-      - '{''id'': 7, ''label'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 7
       name: availability_confirmation
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Available''}'
-      - '{''id'': 2, ''label'': ''Unavailable''}'
+      - Available
+      - Unavailable
       required: false
     - id: 8
       name: emergency_contact

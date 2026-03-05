@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: employee_satisfaction_2
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
       name: communication_with_teams
@@ -64,29 +64,29 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: communication_with_teams_2
-      label: How satisfied are employees with communication with their teams
+      label: Communication With Teams 2
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: communication_with_teams_3
-      label: How satisfied are employees with communication with their teams
+      label: Communication With Teams 3
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
       name: job_satisfaction
@@ -97,7 +97,7 @@ inputSchema:
       required: false
     - id: 12
       name: job_satisfaction_2
-      label: Overall job satisfaction
+      label: Job Satisfaction 2
       hint: null
       type: number
       options: []

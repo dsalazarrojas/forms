@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''workshop''}'
-      - '{''value'': ''class''}'
-      - '{''value'': ''webinar''}'
+      - workshop
+      - class
+      - webinar
       required: false
     - id: 3
       name: session_date
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_satisfied''}'
-      - '{''value'': ''somewhat_satisfied''}'
-      - '{''value'': ''not_satisfied''}'
+      - very satisfied
+      - somewhat satisfied
+      - not satisfied
       required: false
     - id: 9
       name: session_improvement_areas
@@ -71,12 +71,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''presentation''}'
-      - '{''value'': ''facilitation''}'
-      - '{''value'': ''pace''}'
-      - '{''value'': ''content''}'
-      - '{''value'': ''materials''}'
-      - '{''value'': ''other''}'
+      - presentation
+      - facilitation
+      - pace
+      - content
+      - materials
+      - other
       required: false
     - id: 10
       name: session_suggestions

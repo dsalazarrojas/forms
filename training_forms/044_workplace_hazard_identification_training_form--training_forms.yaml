@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Risk'', ''value'': ''Risk''}'
-      - '{''label'': ''Hazard'', ''value'': ''Hazard''}'
-      - '{''label'': ''Injury'', ''value'': ''Injury''}'
+      - Risk
+      - Hazard
+      - Injury
       required: false
     - id: 3
       name: risk_factors_description
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Reporting'', ''value'': ''Reporting''}'
-      - '{''label'': ''Investigation'', ''value'': ''Investigation''}'
-      - '{''label'': ''Corrective action'', ''value'': ''Corrective action''}'
+      - Reporting
+      - Investigation
+      - Corrective action
       required: false
     - id: 6
       name: training_materials
@@ -50,9 +50,9 @@ inputSchema:
       hint: What training materials were used
       type: select_one
       options:
-      - '{''label'': ''Video'', ''value'': ''Video''}'
-      - '{''label'': ''Presentation'', ''value'': ''Presentation''}'
-      - '{''label'': ''Manual'', ''value'': ''Manual''}'
+      - Video
+      - Presentation
+      - Manual
       required: false
     - id: 7
       name: training_location
@@ -102,9 +102,9 @@ inputSchema:
       hint: How would you rate the effectiveness of the training session
       type: select_one
       options:
-      - '{''label'': ''Effective'', ''value'': ''Effective''}'
-      - '{''label'': ''Not effective'', ''value'': ''Not effective''}'
-      - '{''label'': ''Somewhat effective'', ''value'': ''Somewhat effective''}'
+      - Effective
+      - Not effective
+      - Somewhat effective
       required: false
     - id: 14
       name: evaluation_comments

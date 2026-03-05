@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Home''}'
-      - '{''id'': 2, ''label'': ''Commercial''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Home
+      - Commercial
+      - Other
       required: false
     - id: 3
       name: household_size
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Recycling''}'
-      - '{''id'': 2, ''label'': ''Composting''}'
-      - '{''id'': 3, ''label'': ''Landfill''}'
+      - Recycling
+      - Composting
+      - Landfill
       required: false
     - id: 5
       name: recycling_frequency
@@ -43,10 +43,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
       required: false
     - id: 6
       name: collection_type
@@ -54,11 +54,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Weekly''}'
-      - '{''id'': 2, ''label'': ''Bi-Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Quarterly''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Other
       required: false
     - id: 7
       name: waste_type
@@ -66,10 +66,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Organic''}'
-      - '{''id'': 2, ''label'': ''Inorganic''}'
-      - '{''id'': 3, ''label'': ''Glass''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Organic
+      - Inorganic
+      - Glass
+      - Other
       required: false
     - id: 8
       name: disposal_location
@@ -77,10 +77,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Home''}'
-      - '{''id'': 2, ''label'': ''Curbside''}'
-      - '{''id'': 3, ''label'': ''Landfill''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Home
+      - Curbside
+      - Landfill
+      - Other
       required: false
     - id: 9
       name: waste_description
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 11
       name: survey_completed
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: contact_info

@@ -15,183 +15,189 @@ inputSchema:
     title: Student Daily Wellness Screening Form
     pages:
     - id: 1
-      name: student_daily_wellness_screening_form_fields
-      label: Screening Questions
+      name: introduction
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: student_daily_wellness_screening_form_fields_section_1
-      label: Screening Questions
+      name: section_1
+      label: Physical Health
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: student_daily_wellness_screening_form_fields_section_2
-      label: Screening Questions
+      name: question_1
+      label: Have you experienced any physical symptoms or discomforts over the past
+        24 hours?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Feeling fatigued
+      - Experiencing pain or aches
+      - Nausea or vomiting
       required: false
     - id: 4
-      name: student_daily_wellness_screening_form_fields_section_3
-      label: Screening Questions
+      name: question_2
+      label: How would you rate your energy levels today?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Average
+      - Low
+      - Very Low
+      required: true
     - id: 5
-      name: student_daily_wellness_screening_form_fields_section_4
-      label: Screening Questions
+      name: question_3
+      label: Have you experienced any changes in your bowel movements or digestive
+        issues?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Diarrhea
+      - Constipation
+      - Vomiting
       required: false
     - id: 6
-      name: student_daily_wellness_screening_form_fields_section_5
-      label: Screening Questions
+      name: question_4
+      label: Are you experiencing any difficulty swallowing?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'False'
+      - Yes, occasionally
+      - Yes, often
       required: false
     - id: 7
-      name: student_daily_wellness_screening_form_fields_section_6
-      label: Screening Questions
+      name: question_5
+      label: Have you had any recent episodes of dizziness or lightheadedness?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
       required: false
     - id: 8
-      name: student_daily_wellness_screening_form_fields_section_7
-      label: Screening Questions
+      name: section_2
+      label: Emotional & Mental Health
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: student_daily_wellness_screening_form_fields_section_8
-      label: Screening Questions
+      name: question_6
+      label: Are you experiencing any emotional or mental concerns?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Feeling anxious or nervous
+      - Feeling hopeless or depressed
+      - Experiencing difficulty sleeping
+      - Experiencing mood swings
+      - Other (please specify)
+      required: true
     - id: 10
-      name: student_daily_wellness_screening_form_fields_section_9
-      label: Screening Questions
+      name: question_7
+      label: Do you feel overwhelmed or stressed?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very low
+      - Low
+      - Average
+      - High
+      - Very high
+      required: true
     - id: 11
-      name: student_daily_wellness_screening_form_fields_section_10
-      label: Screening Questions
+      name: question_8
+      label: Have you experienced any emotional or mental health concerns over the
+        past 30 days?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Anxiety
+      - Depression
+      - Other (please specify)
       required: false
     - id: 12
-      name: student_daily_wellness_screening_form_fields_section_11
-      label: Screening Questions
+      name: section_3
+      label: Social Interactions
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: student_daily_wellness_screening_form_fields_section_12
-      label: Screening Questions
+      name: question_9
+      label: Have you experienced any social anxiety or shyness over the past 30 days?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Social anxiety
+      - Shyness
       required: false
     - id: 14
-      name: student_daily_wellness_screening_form_fields_section_13
-      label: Screening Questions
+      name: question_10
+      label: Do you enjoy spending time with others?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Very often
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
       required: false
     - id: 15
-      name: student_daily_wellness_screening_form_fields_section_14
-      label: Screening Questions
+      name: question_11
+      label: Have you experienced difficulty making social interactions or conversations?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'False'
+      - Yes, occasionally
+      - Yes, often
       required: false
     - id: 16
-      name: student_daily_wellness_screening_form_fields_section_15
-      label: Screening Questions
+      name: section_4
+      label: Academic & School Life
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: student_daily_wellness_screening_form_fields_section_16
-      label: Screening Questions
+      name: question_12
+      label: Are you having trouble concentrating or staying focused?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'False'
+      - Yes, occasionally
+      - Yes, often
       required: false
     - id: 18
-      name: student_daily_wellness_screening_form_fields_section_17
-      label: Screening Questions
+      name: question_13
+      label: Have you had any difficulty falling or staying asleep?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'False'
+      - Yes, occasionally
+      - Yes, often
       required: false
     - id: 19
-      name: student_daily_wellness_screening_form_fields_section_18
-      label: Screening Questions
+      name: section_5
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 20
-      name: student_daily_wellness_screening_form_fields_section_19
-      label: Screening Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: student_daily_wellness_screening_form_fields_section_20
-      label: Screening Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: student_daily_wellness_screening_form_fields_section_21
-      label: Screening Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: student_daily_wellness_screening_form_fields_section_22
-      label: Screening Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: student_daily_wellness_screening_form_fields_section_23
-      label: Screening Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: student_daily_wellness_screening_form_fields_section_24
-      label: Screening Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: student_daily_wellness_screening_form_fields_section_25
-      label: Screening Questions
+      name: additional_comments
+      label: Additional comments or concerns
       hint: null
       type: text
       options: []

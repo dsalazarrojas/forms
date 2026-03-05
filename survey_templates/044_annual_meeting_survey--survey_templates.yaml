@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -41,10 +30,10 @@ inputSchema:
       hint: Which meeting?
       type: select_one
       options:
-        - 2026
-        - 2025
-        - 2024
-        - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       required: true
     - id: 5
       name: attendance_type
@@ -52,9 +41,9 @@ inputSchema:
       hint: How did you attend?
       type: select_one
       options:
-        - In Person
-        - Virtual
-        - Hybrid
+      - In Person
+      - Virtual
+      - Hybrid
       required: true
     - id: 6
       name: first_time_attendee
@@ -62,8 +51,8 @@ inputSchema:
       hint: Is this your first?
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: years_attended
@@ -71,11 +60,11 @@ inputSchema:
       hint: How many years?
       type: select_one
       options:
-        - First Time
-        - 2-3 Years
-        - 4-5 Years
-        - 6-10 Years
-        - Over 10 Years
+      - First Time
+      - 2-3 Years
+      - 4-5 Years
+      - 6-10 Years
+      - Over 10 Years
       required: false
     - id: 8
       name: overall_satisfaction
@@ -83,11 +72,11 @@ inputSchema:
       hint: Rate the meeting
       type: select_one
       options:
-        - Very Satisfied
-        - Satisfied
-        - Neutral
-        - Dissatisfied
-        - Very Dissatisfied
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
       required: true
     - id: 9
       name: registration_process
@@ -95,11 +84,11 @@ inputSchema:
       hint: Rate registration
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
       required: true
     - id: 10
       name: venue_quality
@@ -107,12 +96,12 @@ inputSchema:
       hint: Rate the venue
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
-        - Not Applicable
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      - Not Applicable
       required: false
     - id: 11
       name: content_quality
@@ -120,11 +109,11 @@ inputSchema:
       hint: Rate content
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
       required: true
     - id: 12
       name: speaker_quality
@@ -132,11 +121,11 @@ inputSchema:
       hint: Rate speakers
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
       required: true
     - id: 13
       name: session_variety
@@ -144,11 +133,11 @@ inputSchema:
       hint: Rate variety
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
       required: true
     - id: 14
       name: networking_value
@@ -156,11 +145,11 @@ inputSchema:
       hint: Rate networking
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
       required: true
     - id: 15
       name: exhibit_quality
@@ -168,12 +157,12 @@ inputSchema:
       hint: Rate exhibits
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
-        - Not Applicable
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      - Not Applicable
       required: false
     - id: 16
       name: food_and_beverage
@@ -181,12 +170,12 @@ inputSchema:
       hint: Rate catering
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Average
-        - Below Average
-        - Poor
-        - Not Provided
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      - Not Provided
       required: false
     - id: 17
       name: value_for_money
@@ -194,11 +183,11 @@ inputSchema:
       hint: Was it worth it?
       type: select_one
       options:
-        - Excellent Value
-        - Good Value
-        - Fair Value
-        - Poor Value
-        - Very Poor Value
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
       required: true
     - id: 18
       name: expectations_met
@@ -206,10 +195,10 @@ inputSchema:
       hint: Were they met?
       type: select_one
       options:
-        - Exceeded
-        - Met
-        - Partially Met
-        - Not Met
+      - Exceeded
+      - Met
+      - Partially Met
+      - Not Met
       required: true
     - id: 19
       name: key_learnings
@@ -245,11 +234,11 @@ inputSchema:
       hint: Will you return?
       type: select_one
       options:
-        - Very Likely
-        - Likely
-        - Neutral
-        - Unlikely
-        - Very Unlikely
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
       required: true
     - id: 24
       name: likelihood_to_recommend
@@ -257,11 +246,11 @@ inputSchema:
       hint: Would you recommend?
       type: select_one
       options:
-        - Very Likely
-        - Likely
-        - Neutral
-        - Unlikely
-        - Very Unlikely
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
       required: true
     - id: 25
       name: suggestions_for_improvement

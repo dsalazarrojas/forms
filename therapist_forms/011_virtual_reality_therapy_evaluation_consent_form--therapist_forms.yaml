@@ -6,181 +6,132 @@ inputSchema:
     - id: 1
       name: client_info
       label: Client Information
-      hint: null
+      hint: Please provide your contact information
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: treatment_info
-      label: treatment_info
-      hint: null
+      label: Treatment Information
+      hint: Provide details about your current treatment
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: consent_form
-      label: consent
-      hint: null
-      type: text
-      options: []
-      required: false
+      label: Consent
+      hint: Please indicate your consent for therapy
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
     - id: 4
-      name: contact_info
-      label: contact_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: notes
-      label: notes
-      hint: null
+      label: Notes
+      hint: Please provide any relevant notes or observations
       type: note
       options: []
       required: false
-    - id: 6
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 7
-      name: phone
-      label: phone
-      hint: null
+    - id: 5
+      name: schedule_info
+      label: Schedule Information
+      hint: Provide your availability for sessions
       type: text
       options: []
-      required: false
-    - id: 8
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: time
-      label: time
-      hint: null
+      required: true
+    - id: 6
+      name: schedule_time
+      label: Schedule Time
+      hint: Specify a preferred time for sessions
       type: time
       options: []
       required: false
-    - id: 10
+    - id: 7
       name: select_one
-      label: select_one
-      hint: null
+      label: Select One
+      hint: Choose one of the options
       type: select_one
       options:
       - 'Yes'
       - 'No'
+      required: true
+    - id: 8
+      name: schedule_date
+      label: Schedule Date
+      hint: Specify a preferred date for sessions
+      type: date
+      options: []
       required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Please provide your email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Please provide your phone number
+      type: text
+      options: []
+      required: true
     - id: 11
+      name: phone2
+      label: Phone2
+      hint: Please provide your phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email2
+      label: Email2
+      hint: Please provide your email address
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone3
+      label: Phone3
+      hint: Please provide your phone number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email3
+      label: Email3
+      hint: Please provide your email address
+      type: email
+      options: []
+      required: false
+    - id: 15
       name: select_multiple
-      label: select_multiple
-      hint: null
+      label: Select Multiple
+      hint: Choose multiple options
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 12
-      name: date_range
-      label: date_range
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: time_range
-      label: time_range
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
+    - id: 16
       name: note
-      label: note
-      hint: null
+      label: Note
+      hint: Please provide any additional notes
       type: note
       options: []
       required: false
-    - id: 15
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 17
-      name: email
-      label: email
-      hint: null
-      type: email
+      name: contact_info
+      label: Contact Information
+      hint: Please provide your contact information
+      type: text
       options: []
       required: false
     - id: 18
-      name: phone
-      label: phone
-      hint: null
+      name: contact_info_2
+      label: Contact Info 2
+      hint: Please provide your contact information
       type: text
       options: []
-      required: false
-    - id: 19
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: select_one
-      label: select_one
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Rarely''}'
+      - Daily
+      - Weekly
+      - Rarely
       required: false
     - id: 9
       name: frequency_of_use_comments
@@ -77,11 +77,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''User profiles''}'
-      - '{''id'': 2, ''label'': ''Messaging''}'
-      - '{''id'': 3, ''label'': ''Customization options''}'
-      - '{''id'': 4, ''label'': ''Search''}'
-      - '{''id'': 5, ''label'': ''Notifications''}'
+      - User profiles
+      - Messaging
+      - Customization options
+      - Search
+      - Notifications
       required: false
     - id: 11
       name: overall_rating

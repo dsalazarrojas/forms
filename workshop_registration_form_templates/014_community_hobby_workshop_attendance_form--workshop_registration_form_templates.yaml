@@ -1,92 +1,81 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Community Hobby Workshop Attendance Form
     pages:
-      - id: 1
-        name: header
-        label: -- Attendance Form --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: participant_name
-        label: Participant name
-        hint: Full name for attendance tracking
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: email
-        label: Email address
-        hint: Optional contact for updates
-        type: email
-        options: []
-        required: false
-      - id: 4
-        name: workshop_title
-        label: Workshop title
-        hint: Name of hobby workshop attended
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: date_attended
-        label: Date attended
-        hint: Date of the session
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: materials_needed
-        label: Materials needed
-        hint: List any materials provided or needed
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: skill_level
-        label: Skill level
-        hint: Select participant skill level
-        type: select_one
-        options:
-          - Beginner
-          - Intermediate
-          - Advanced
-        required: false
-      - id: 8
-        name: feedback
-        label: Feedback on session
-        hint: Optional comments about the workshop
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: would_return
-        label: Would you attend again
-        hint: Indicate likelihood to return
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Maybe
-        required: false
-      - id: 10
-        name: follow_up_interest
-        label: Interested in follow up events
-        hint: Provide email if interested
-        type: email
-        options: []
-        required: false
+    - id: 1
+      name: header
+      label: -- Attendance Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name for attendance tracking
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Optional contact for updates
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: workshop_title
+      label: Workshop title
+      hint: Name of hobby workshop attended
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_attended
+      label: Date attended
+      hint: Date of the session
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: materials_needed
+      label: Materials needed
+      hint: List any materials provided or needed
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: skill_level
+      label: Skill level
+      hint: Select participant skill level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback on session
+      hint: Optional comments about the workshop
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: would_return
+      label: Would you attend again
+      hint: Indicate likelihood to return
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 10
+      name: follow_up_interest
+      label: Interested in follow up events
+      hint: Provide email if interested
+      type: email
+      options: []
+      required: false

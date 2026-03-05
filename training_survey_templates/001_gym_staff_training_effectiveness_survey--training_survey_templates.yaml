@@ -4,79 +4,50 @@ inputSchema:
     title: Gym Staff Training Effectiveness Survey
     pages:
     - id: 1
-      name: form_0
-      label: Staff Training
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: form_1
-      label: Staff Training Category
+      name: staff_training_overall_quality
+      label: Overall Quality of Training
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: form_2
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: form_3
-      label: Training Type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: form_4
-      label: How often do you train on this topic?
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 2
+      name: training_frequency
+      label: How often do you attend training sessions?
       hint: null
       type: select_one
       options:
       - Every week
       - Every 2 weeks
-      - Every 4 weeks
+      - Every month
       - Rarely
-      required: false
-    - id: 6
-      name: form_5
-      label: How would you rate the effectiveness of the training provided?
+      required: true
+    - id: 3
+      name: training_topics
+      label: What topics do you typically attend training on?
+      hint: null
+      type: select_multiple
+      options:
+      - Management
+      - Operations
+      - Technical
+      - Other
+      required: true
+    - id: 4
+      name: training_relevance
+      label: How would you rate the relevance of the training to your job?
       hint: null
       type: select_one
       options:
       - Good
       - Fair
-      required: false
-    - id: 7
-      name: form_6
-      label: How would you rate the relevance of the content to your role?
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 8
-      name: form_7
-      label: How would you rate the relevance of the content to your work activities?
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 9
-      name: form_8
-      label: How often do you get to use the skills you've learned from training in
-        your work?
+      - Poor
+      required: true
+    - id: 5
+      name: skill_application
+      label: How often do you apply the skills learned from training in your work?
       hint: null
       type: select_one
       options:
@@ -84,145 +55,71 @@ inputSchema:
       - Every week
       - Every 2 weeks
       - Rarely
-      required: false
-    - id: 10
-      name: form_9
-      label: How often do you get feedback on your performance from the training provided?
+      required: true
+    - id: 6
+      name: feedback_performance
+      label: What feedback do you receive on your performance after training?
       hint: null
       type: select_one
       options:
+      - Regularly
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 7
+      name: effectiveness_improvement
+      label: How would you rate the effectiveness of the training in improving your
+        job performance?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: practice_opportunity
+      label: How often do you get to practice what you learned from training?
+      hint: null
+      type: select_one
+      options:
+      - Every day
       - Every week
       - Every 2 weeks
-      - Every 4 weeks
       - Rarely
+      required: true
+    - id: 9
+      name: value_aspect
+      label: What is the most valuable aspect of the training provided?
+      hint: null
+      type: text
+      options: []
       required: false
-    - id: 11
-      name: form_10
-      label: What do you do when there are gaps in your knowledge or skills?
+    - id: 10
+      name: materials_use
+      label: How often do you get to use the training materials after training?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Every day
+      - Every week
+      - Every 2 weeks
+      - Rarely
+      required: true
+    - id: 11
+      name: recommendations
+      label: What would you recommend to improve the training?
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 12
-      name: form_11
-      label: Additional Comments
+      name: worth_time
+      label: Do you think the training is worth your time?
       hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: form_12
-      label: What is your role?
-      hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Trainer
-      - Trainer
-      - Assessor
-      - Assessor
-      - Other
-      required: false
-    - id: 14
-      name: form_13
-      label: What is your department/section?
-      hint: null
-      type: select_multiple
-      options:
-      - Management
-      - Front Office
-      - Back office
-      - Other
-      required: false
-    - id: 15
-      name: form_14
-      label: None
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: form_15
-      label: None
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: form_16
-      label: None
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: form_17
-      label: None
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: form_18
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: form_19
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: form_20
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: form_21
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: form_22
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: form_23
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: form_24
-      label: None
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true

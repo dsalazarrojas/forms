@@ -79,13 +79,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''underwriting'', ''label'': ''Underwriting''}'
-      - '{''id'': 2, ''name'': ''claims'', ''label'': ''Claims''}'
-      - '{''id'': 3, ''name'': ''policy'', ''label'': ''Policy''}'
-      - '{''id'': 4, ''name'': ''underwriting_and_claims'', ''label'': ''Underwriting
-        and Claims''}'
-      - '{''id'': 5, ''name'': ''underwriting_and_policy'', ''label'': ''Underwriting
-        and Policy''}'
+      - Underwriting
+      - Claims
+      - Policy
+      - Underwriting and Claims
+      - Underwriting and Policy
       required: true
     - id: 12
       name: submit
@@ -93,11 +91,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''underwriting'', ''label'': ''Underwriting''}'
-      - '{''id'': 2, ''name'': ''claims'', ''label'': ''Claims''}'
-      - '{''id'': 3, ''name'': ''policy'', ''label'': ''Policy''}'
-      - '{''id'': 4, ''name'': ''underwriting_and_claims'', ''label'': ''Underwriting
-        and Claims''}'
-      - '{''id'': 5, ''name'': ''underwriting_and_policy'', ''label'': ''Underwriting
-        and Policy''}'
+      - Underwriting
+      - Claims
+      - Policy
+      - Underwriting and Claims
+      - Underwriting and Policy
       required: true

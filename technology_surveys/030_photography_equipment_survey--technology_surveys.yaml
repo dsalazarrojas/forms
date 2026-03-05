@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 4
       name: satisfaction_score
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''DSLR''}'
-      - '{''label'': ''Mirrorless''}'
-      - '{''label'': ''Action''}'
-      - '{''label'': ''Other''}'
+      - DSLR
+      - Mirrorless
+      - Action
+      - Other
       required: false
     - id: 7
       name: purchase_camera_body_type
@@ -58,10 +58,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''DSLR''}'
-      - '{''label'': ''Mirrorless''}'
-      - '{''label'': ''Action''}'
-      - '{''label'': ''Other''}'
+      - DSLR
+      - Mirrorless
+      - Action
+      - Other
       required: false
     - id: 8
       name: lens_type
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Prime''}'
-      - '{''label'': ''Zoom''}'
-      - '{''label'': ''Other''}'
+      - Prime
+      - Zoom
+      - Other
       required: false
     - id: 9
       name: purchase_lens_type
@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Prime''}'
-      - '{''label'': ''Zoom''}'
-      - '{''label'': ''Other''}'
+      - Prime
+      - Zoom
+      - Other
       required: false
     - id: 10
       name: purchase_date

@@ -37,10 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': 1, ''value'': ''General Admission Ticket'', ''label'': ''General
-        Admission Ticket''}'
-      - '{''name'': 2, ''value'': ''VIP Ticket'', ''label'': ''VIP Ticket''}'
-      - '{''name'': 3, ''value'': ''Family Ticket'', ''label'': ''Family Ticket''}'
+      - General Admission Ticket
+      - VIP Ticket
+      - Family Ticket
       required: false
     - id: 6
       name: select_multiple_ticket_types
@@ -48,10 +47,9 @@ inputSchema:
       hint: Select all applicable ticket types
       type: select_multiple
       options:
-      - '{''name'': 1, ''value'': ''General Admission Ticket'', ''label'': ''General
-        Admission Ticket''}'
-      - '{''name'': 2, ''value'': ''VIP Ticket'', ''label'': ''VIP Ticket''}'
-      - '{''name'': 3, ''value'': ''Family Ticket'', ''label'': ''Family Ticket''}'
+      - General Admission Ticket
+      - VIP Ticket
+      - Family Ticket
       required: false
     - id: 7
       name: event_date
@@ -87,9 +85,9 @@ inputSchema:
       hint: Status of the ticket
       type: select_one
       options:
-      - '{''name'': 1, ''value'': ''New'', ''label'': ''New''}'
-      - '{''name'': 2, ''value'': ''Sold'', ''label'': ''Sold''}'
-      - '{''name'': 3, ''value'': ''Cancelled'', ''label'': ''Cancelled''}'
+      - New
+      - Sold
+      - Cancelled
       required: false
     - id: 12
       name: ticket_status_note

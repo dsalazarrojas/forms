@@ -1,79 +1,104 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Saint Biography Quiz
     pages:
     - id: 1
-      name: saint_biography_quiz
-      label: saint_biography_quiz
-      hint: null
+      name: page_1
+      label: Your Name
+      hint: Please share your name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name_of_saint
-      label: name_of_saint
+      name: page_2
+      label: Your Favorite Saint
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: saint_biography_quiz_date
-      label: saint_biography_quiz_date
+      name: page_3
+      label: Most Interesting Fact
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 4
-      name: saint_biography_quiz_time
-      label: saint_biography_quiz_time
-      hint: null
-      type: time
+      name: page_4
+      label: How You Learned
+      hint: Book, article, movie, or conversation
+      type: text
       options: []
       required: false
     - id: 5
-      name: saint_biography_quiz_what_did_you_learn
-      label: what_did_you_learn
-      hint: null
+      name: page_5
+      label: Inspiring Story
+      hint: A story that motivates you
       type: text
       options: []
       required: false
     - id: 6
-      name: saint_biography_quiz_what_did_you_learn
-      label: what_did_you_learn
+      name: page_6
+      label: Biggest Impact
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
     - id: 7
-      name: saint_biography_quiz_what_did_you_learn
-      label: what_did_you_learn
+      name: page_7
+      label: First Impression
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: saint_biography_quiz_what_did_you_learn
-      label: what_did_you_learn
+      name: page_8
+      label: Saint Learned About
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 9
+      name: page_9
+      label: Helped You In
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: saint_biography_quiz_what_did_you_learn
-      label: what_did_you_learn
+    - id: 10
+      name: page_10
+      label: Story
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 11
+      name: page_11
+      label: Saint Admired
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 12
+      name: page_12
+      label: Additional Comments
+      hint: null
+      type: note
       options: []
       required: false

@@ -4,77 +4,81 @@ inputSchema:
     title: hoa_community_improvement_voting_form
     pages:
     - id: 1
-      name: project_1
-      label: Project 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: project_2
-      label: Project 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: category
-      label: Category
+      name: project_selection
+      label: Select a project
       hint: null
       type: select_multiple
       options:
-      - Improvement 1
-      - Improvement 2
-      - Improvement 3
+      - Project 1
+      - Project 2
+      - Project 3
+      - Project 4
+      - Project 5
       required: true
-    - id: 4
-      name: priority
-      label: Priority
+    - id: 2
+      name: priority_selection
+      label: Choose the priority level
       hint: null
       type: select_one
       options:
       - High
       - Medium
       - Low
-      required: false
-    - id: 5
-      name: description
-      label: Description
-      hint: Describe the project in more detail
+      required: true
+    - id: 3
+      name: project_description
+      label: Describe your selected project
+      hint: null
       type: text
       options: []
       required: true
-    - id: 6
-      name: vote
-      label: Vote
+    - id: 4
+      name: vote_confirmation
+      label: Do you support the selected project?
       hint: null
       type: select_one
       options:
       - 'True'
       - 'False'
       - Abstain
-      required: false
+      required: true
+    - id: 5
+      name: email_confirmation
+      label: Confirm your email address
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: name_selection
+      label: Provide your name
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 7
-      name: additional_comments
-      label: Additional Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: email
-      label: Contact Information
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: phone
+      name: contact_number
       label: Contact Phone
       hint: null
       type: text
       options: []
       required: false
+    - id: 8
+      name: confirm_submission
+      label: Confirm Submission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: confirm_email_address
+      label: Confirm Email Address
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 10
       name: contact_info
       label: Contact Information
@@ -83,27 +87,13 @@ inputSchema:
       options: []
       required: false
     - id: 11
-      name: submit
-      label: Submit
+      name: additional_comments
+      label: Additional Comments
       hint: null
-      type: text
+      type: note
       options: []
-      required: true
+      required: false
     - id: 12
-      name: confirm
-      label: Confirm Submission
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: email_address
-      label: Email Address
-      hint: Enter your email address
-      type: text
-      options: []
-      required: true
-    - id: 14
       name: confirm_email
       label: Confirm Email
       hint: null
@@ -112,92 +102,3 @@ inputSchema:
       - 'True'
       - 'False'
       required: true
-    - id: 15
-      name: confirm_email_address
-      label: Confirm Email
-      hint: Enter your email address
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: contact_phone
-      label: Contact Phone
-      hint: Enter your phone number
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: contact_number
-      label: Contact Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: vote_2
-      label: Vote 2
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      - Abstain
-      required: false
-    - id: 20
-      name: vote_3
-      label: Vote 3
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      - Abstain
-      required: false
-    - id: 21
-      name: vote_4
-      label: Vote 4
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      - Abstain
-      required: false
-    - id: 22
-      name: vote_5
-      label: Vote 5
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      - Abstain
-      required: false
-    - id: 23
-      name: additional_comments_2
-      label: Additional Comments 2
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: contact_number_2
-      label: Contact Number 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: name_2
-      label: Name 2
-      hint: null
-      type: text
-      options: []
-      required: false

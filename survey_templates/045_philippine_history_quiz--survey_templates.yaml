@@ -6,14 +6,14 @@ inputSchema:
     - id: 1
       name: introduction
       label: introduction
-      hint: null
+      hint: This is the introduction page
       type: text
       options: []
       required: true
     - id: 2
       name: category
-      label: category
-      hint: null
+      label: native_category
+      hint: Please select your native category
       type: select_one
       options:
       - History
@@ -23,111 +23,75 @@ inputSchema:
       - Culture
       required: true
     - id: 3
-      name: question_1
-      label: question_1
-      hint: null
+      name: age
+      label: age
+      hint: Please enter your age
       type: number
       options: []
       required: true
     - id: 4
-      name: question_2
-      label: question_2
-      hint: null
+      name: historical_periods
+      label: favorite_historical_periods
+      hint: Select your favorite historical periods
       type: select_multiple
       options:
-      - a
-      - b
-      - c
+      - Pre-Colonial Period
+      - Spanish Colonial Era
+      - Japanese Occupation
+      - American Colonial Era
+      - Post-War Period
+      - Contemporary Era
       required: true
     - id: 5
-      name: date_of_birth
-      label: date_of_birth
-      hint: null
+      name: favorite_event
+      label: favorite_event
+      hint: Please select your favorite historical event
+      type: select_one
+      options:
+      - Bataan Death March
+      - Battle of Mactan
+      - Discovery of the Bicol Region
+      - Founding of the Republic of the Philippines
+      - Philippine-American War
+      required: true
+    - id: 6
+      name: birthdate
+      label: birthdate
+      hint: Please enter your birthdate
       type: date
       options: []
       required: true
-    - id: 6
-      name: goals
-      label: _goals
-      hint: null
-      type: select_one
-      options:
-      - a
-      - b
-      - c
-      required: false
     - id: 7
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
+      name: goals
+      label: short_term_goals
+      hint: Select your short-term goals
+      type: select_multiple
+      options:
+      - Personal Development
+      - Career Development
+      - Social Contribution
+      - Financial Security
+      - Travel and Leisure
+      - Other (please specify)
+      required: true
     - id: 8
       name: email
       label: email
-      hint: null
+      hint: Do you have an email?
       type: email
       options: []
       required: true
     - id: 9
       name: phone
       label: phone
-      hint: null
+      hint: Please enter your phone number
       type: text
       options: []
       required: true
     - id: 10
       name: submit
       label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: goals
-      label: _goals
-      hint: null
-      type: select_multiple
-      options:
-      - a
-      - b
-      - c
-      required: false
-    - id: 12
-      name: goals
-      label: _goals
-      hint: null
-      type: select_multiple
-      options:
-      - a
-      - b
-      - c
-      required: false
-    - id: 13
-      name: goals
-      label: _goals
-      hint: null
-      type: select_multiple
-      options:
-      - a
-      - b
-      - c
-      required: false
-    - id: 14
-      name: goals
-      label: _goals
-      hint: null
-      type: select_multiple
-      options:
-      - a
-      - b
-      - c
-      required: false
-    - id: 15
-      name: submit
-      label: submit
-      hint: null
+      hint: Please submit the form
       type: text
       options: []
       required: false

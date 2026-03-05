@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Employed''}'
-      - '{''label'': ''Self-Employed''}'
-      - '{''label'': ''Retired''}'
+      - Employed
+      - Self-Employed
+      - Retired
       required: false
     - id: 4
       name: tenant_reference_verification_4_employment_type
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Part-time''}'
-      - '{''label'': ''Full-time''}'
-      - '{''label'': ''Seasonal''}'
+      - Part-time
+      - Full-time
+      - Seasonal
       required: false
     - id: 5
       name: tenant_reference_verification_5_employment_duration
@@ -59,9 +59,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Voluntarily''}'
-      - '{''label'': ''Unemployed''}'
-      - '{''label'': ''Retired''}'
+      - Voluntarily
+      - Unemployed
+      - Retired
       required: false
     - id: 8
       name: tenant_reference_verification_8_employment_ended_date

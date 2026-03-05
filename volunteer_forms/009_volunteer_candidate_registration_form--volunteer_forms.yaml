@@ -51,11 +51,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''General'', ''value'': ''General''}'
-      - '{''id'': 2, ''label'': ''Administrative'', ''value'': ''Administrative''}'
-      - '{''id'': 3, ''label'': ''Events'', ''value'': ''Events''}'
-      - '{''id'': 4, ''label'': ''Fundraising'', ''value'': ''Fundraising''}'
-      - '{''id'': 5, ''label'': ''Other'', ''value'': ''Other''}'
+      - General
+      - Administrative
+      - Events
+      - Fundraising
+      - Other
       required: false
     - id: 8
       name: volunteer_frequency
@@ -63,11 +63,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''One-time'', ''value'': ''One-time''}'
-      - '{''id'': 2, ''label'': ''Ongoing'', ''value'': ''Ongoing''}'
-      - '{''id'': 3, ''label'': ''Weekly'', ''value'': ''Weekly''}'
-      - '{''id'': 4, ''label'': ''Bi-Weekly'', ''value'': ''Bi-Weekly''}'
-      - '{''id'': 5, ''label'': ''Monthly'', ''value'': ''Monthly''}'
+      - One-time
+      - Ongoing
+      - Weekly
+      - Bi-Weekly
+      - Monthly
       required: false
     - id: 9
       name: volunteer_time
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''1-5 hours'', ''value'': ''1-5''}'
-      - '{''id'': 2, ''label'': ''6-10 hours'', ''value'': ''6-10''}'
-      - '{''id'': 3, ''label'': ''More than 10 hours'', ''value'': ''More than 10''}'
+      - 1-5 hours
+      - 6-10 hours
+      - More than 10 hours
       required: false
     - id: 10
       name: email
@@ -130,14 +130,14 @@ inputSchema:
       required: false
     - id: 17
       name: emergency_phone
-      label: Phone
+      label: Emergency Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: emergency_email
-      label: Email
+      label: Emergency Email
       hint: null
       type: email
       options: []
@@ -186,7 +186,7 @@ inputSchema:
       required: false
     - id: 25
       name: submitted
-      label: Submit
+      label: Submitted
       hint: null
       type: text
       options: []

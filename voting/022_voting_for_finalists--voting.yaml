@@ -5,94 +5,95 @@ inputSchema:
     pages:
     - id: 1
       name: voting_for_finalists_page_1
-      label: Voting For Finalists
+      label: Select Your Vote
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      - I'm Not Sure
+      required: true
     - id: 2
       name: voting_for_finalists_page_2
-      label: Voting For Finalists
+      label: Describe Your Preferences
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: voting_for_finalists_page_3
-      label: Vote
+      label: Date of Vote
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
       name: voting_for_finalists_page_4
-      label: Vote
+      label: Time of Vote
       hint: null
       type: time
       options: []
       required: false
     - id: 5
       name: voting_for_finalists_page_5
-      label: Vote
+      label: Email Address
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 6
       name: voting_for_finalists_page_6
-      label: Voting For Finalists
+      label: Rating 1
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 7
       name: voting_for_finalists_page_7
-      label: Voting For Finalists
+      label: Rating 2
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 8
       name: voting_for_finalists_page_8
-      label: Vote
+      label: Select Multiple Options
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: voting_for_finalists_page_9
-      label: Vote
+      label: Vote for Group
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 10
       name: voting_for_finalists_page_10
-      label: Vote
+      label: Voting For Finalists Page 10
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: voting_for_finalists_page_11
-      label: Voting For Finalists
+      label: Voting For Finalists Page 11
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 12
       name: voting_for_finalists_page_12
-      label: Voting For Finalists
+      label: Thoughts
       hint: null
       type: text
       options: []

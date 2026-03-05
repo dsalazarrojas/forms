@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 6
       name: comments
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Audio''}'
-      - '{''label'': ''Video''}'
-      - '{''label'': ''Both''}'
+      - Audio
+      - Video
+      - Both
       required: false
     - id: 8
       name: additional_comments
@@ -135,10 +135,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Routine''}'
-      - '{''label'': ''Emergency''}'
-      - '{''label'': ''Follow-up''}'
-      - '{''label'': ''Other''}'
+      - Routine
+      - Emergency
+      - Follow-up
+      - Other
       required: true
     - id: 19
       name: reason_visit
@@ -167,9 +167,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Negative''}'
-      - '{''label'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: true
     - id: 23
       name: follow_up_needed
@@ -177,8 +177,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: follow_up_status
@@ -186,10 +186,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Scheduled''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Complete''}'
-      - '{''label'': ''None''}'
+      - Scheduled
+      - In Progress
+      - Complete
+      - None
       required: true
     - id: 25
       name: patient_survey

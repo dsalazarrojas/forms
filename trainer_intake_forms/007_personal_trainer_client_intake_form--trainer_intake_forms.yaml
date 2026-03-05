@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Weight Loss''}'
-      - '{''id'': 2, ''value'': ''Fat Loss''}'
-      - '{''id'': 3, ''value'': ''Strength Training''}'
-      - '{''id'': 4, ''value'': ''Endurance Training''}'
+      - Weight Loss
+      - Fat Loss
+      - Strength Training
+      - Endurance Training
       required: false
     - id: 4
       name: medical_history
@@ -59,8 +48,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Medical Procedure 1''}'
-      - '{''id'': 2, ''value'': ''Medical Procedure 2''}'
+      - Medical Procedure 1
+      - Medical Procedure 2
       required: false
     - id: 7
       name: medical_conditions
@@ -68,8 +57,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Medical Condition 1''}'
-      - '{''id'': 2, ''value'': ''Medical Condition 2''}'
+      - Medical Condition 1
+      - Medical Condition 2
       required: false
     - id: 8
       name: medication
@@ -196,6 +185,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Medical Professional 1''}'
-      - '{''id'': 2, ''value'': ''Medical Professional 2''}'
+      - Medical Professional 1
+      - Medical Professional 2
       required: false

@@ -54,9 +54,9 @@ inputSchema:
       type: select_one
       options:
       - 1 - just myself
-      - 2
-      - 3
-      - 4
+      - '2'
+      - '3'
+      - '4'
       - 5 or more
       required: false
     - id: 7
@@ -83,8 +83,8 @@ inputSchema:
       hint: The religious service portion
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Only the reception
       required: true
     - id: 10
@@ -93,8 +93,8 @@ inputSchema:
       hint: The celebration party
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: meal_preference
@@ -122,8 +122,8 @@ inputSchema:
       hint: Will you consume alcohol
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Wine only
       required: true
     - id: 14
@@ -149,8 +149,8 @@ inputSchema:
       hint: Parking information
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: hotel_accommodation
@@ -179,8 +179,8 @@ inputSchema:
       hint: May you be included in event photos
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: special_accommodations

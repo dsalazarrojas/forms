@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''John Doe'', ''value'': ''John Doe''}'
-      - '{''id'': 2, ''name'': ''Jane Doe'', ''value'': ''Jane Doe''}'
-      - '{''id'': 3, ''name'': ''Joe Doe'', ''value'': ''Joe Doe''}'
+      - John Doe
+      - Jane Doe
+      - Joe Doe
       required: false
     - id: 5
       name: delivery_date
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''NYC'', ''value'': ''NYC''}'
-      - '{''id'': 2, ''name'': ''LAX'', ''value'': ''LAX''}'
-      - '{''id'': 3, ''name'': ''JFK'', ''value'': ''JFK''}'
+      - NYC
+      - LAX
+      - JFK
       required: false
     - id: 7
       name: carrier_id
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''In Transit'', ''value'': ''In Transit''}'
-      - '{''id'': 2, ''name'': ''Delivered'', ''value'': ''Delivered''}'
-      - '{''id'': 3, ''name'': ''Picked Up'', ''value'': ''Picked Up''}'
+      - In Transit
+      - Delivered
+      - Picked Up
       required: false
     - id: 10
       name: notes

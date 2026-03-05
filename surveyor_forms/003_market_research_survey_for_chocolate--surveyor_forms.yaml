@@ -5,187 +5,79 @@ inputSchema:
     pages:
     - id: 1
       name: intro_page
-      label: introduction
+      label: Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: demographics_page
-      label: demographics
+      label: Demographics
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: purchasing_habits_page
-      label: purchasing habits
+      label: Purchasing Habits
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: contact_info_page
-      label: contact info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: contact_info_page
-      label: contact info
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 6
-      name: contact_info_page_2
-      label: contact info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: contact_info_page_3
-      label: contact info
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: contact_info_page_4
-      label: contact info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: contact_info_page_5
-      label: contact info
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 10
-      name: contact_info_page_6
-      label: contact info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: contact_info_page_7
-      label: contact info
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: contact_info_page_8
-      label: contact info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: contact_info_page_9
-      label: contact info
+      name: contact_method_page
+      label: Contact Method
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Email
+      - Phone
+      - Social Media
+      - In-person
       required: false
-    - id: 14
-      name: contact_info_page_10
-      label: contact info
+    - id: 6
+      name: contact_preferences_page
+      label: Contact Preferences
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Text Message
+      - Phone Call
+      - Email
+      - Social Media
+      - In-person
       required: false
-    - id: 15
-      name: contact_info_page_11
-      label: contact info
+    - id: 7
+      name: date_of_birth_page
+      label: Date of Birth
       hint: null
       type: date
       options: []
       required: false
-    - id: 16
-      name: contact_info_page_12
-      label: contact info
+    - id: 8
+      name: time_zone_page
+      label: Time Zone
       hint: null
       type: time
       options: []
       required: false
-    - id: 17
-      name: contact_info_page_13
-      label: contact info
+    - id: 9
+      name: additional_comments_page
+      label: Additional Comments
       hint: null
       type: note
       options: []
       required: false
-    - id: 18
-      name: contact_info_page_14
-      label: contact info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: contact_info_page_15
-      label: contact info
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: contact_info_page_16
-      label: contact info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: contact_info_page_17
-      label: contact info
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 22
-      name: contact_info_page_18
-      label: contact info
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 23
-      name: contact_info_page_19
-      label: contact info
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: contact_info_page_20
-      label: contact info
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: contact_info_page_21
-      label: contact info
+    - id: 10
+      name: survey_completion_page
+      label: Survey Completion
       hint: null
       type: note
       options: []

@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Rarely''}'
-      - '{''id'': 2, ''label'': ''Occasionally''}'
-      - '{''id'': 3, ''label'': ''Frequently''}'
-      - '{''id'': 4, ''label'': ''Almost always''}'
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Almost always
       required: false
     - id: 3
       name: question_2
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Less than a month''}'
-      - '{''id'': 2, ''label'': ''1-3 months''}'
-      - '{''id'': 3, ''label'': ''4-6 months''}'
-      - '{''id'': 4, ''label'': ''More than 6 months''}'
+      - Less than a month
+      - 1-3 months
+      - 4-6 months
+      - More than 6 months
       required: false
     - id: 4
       name: question_3
@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': False}'
-      - '{''id'': 2, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 7
       name: question_6
@@ -62,10 +62,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Not likely''}'
-      - '{''id'': 2, ''label'': ''Neutral''}'
-      - '{''id'': 3, ''label'': ''Likely''}'
-      - '{''id'': 4, ''label'': ''Very Likely''}'
+      - Not likely
+      - Neutral
+      - Likely
+      - Very Likely
       required: false
     - id: 8
       name: question_7
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Data analysis''}'
-      - '{''id'': 2, ''label'': ''Project planning''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Data analysis
+      - Project planning
+      - Other
       required: false
     - id: 9
       name: question_8
@@ -83,10 +83,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Easy to use''}'
-      - '{''id'': 2, ''label'': ''High quality data''}'
-      - '{''id'': 3, ''label'': ''Customizable reports''}'
-      - '{''id'': 4, ''label'': ''None of the above''}'
+      - Easy to use
+      - High quality data
+      - Customizable reports
+      - None of the above
       required: false
     - id: 10
       name: question_9
@@ -94,6 +94,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': False}'
-      - '{''id'': 2, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false

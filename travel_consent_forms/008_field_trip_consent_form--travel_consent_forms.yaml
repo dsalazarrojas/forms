@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Mother''}'
-      - '{''label'': ''Father''}'
-      - '{''label'': ''Guardian''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''None''}'
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      - None
       required: false
     - id: 4
       name: contact_details
@@ -56,8 +56,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: allergies
@@ -114,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I understand and agree''}'
-      - '{''label'': ''I do not understand and do not agree''}'
+      - I understand and agree
+      - I do not understand and do not agree
       required: false
     - id: 16
       name: parent_agreement
@@ -123,8 +123,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I understand and agree''}'
-      - '{''label'': ''I do not understand and do not agree''}'
+      - I understand and agree
+      - I do not understand and do not agree
       required: false
     - id: 17
       name: emergency_response_plan
@@ -132,8 +132,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: student_absence

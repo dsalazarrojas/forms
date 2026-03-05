@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Department 1''}'
-      - '{''id'': 2, ''name'': ''Department 2''}'
-      - '{''id'': 3, ''name'': ''Department 3''}'
+      - Department 1
+      - Department 2
+      - Department 3
       required: false
     - id: 5
       name: training_session_date
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Highly Engaging''}'
-      - '{''id'': 2, ''name'': ''Somewhat Engaging''}'
-      - '{''id'': 3, ''name'': ''Not Engaging''}'
+      - Highly Engaging
+      - Somewhat Engaging
+      - Not Engaging
       required: false
     - id: 8
       name: comments
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Instructor Led''}'
-      - '{''id'': 2, ''name'': ''Self Paced''}'
-      - '{''id'': 3, ''name'': ''Virtual Class''}'
+      - Instructor Led
+      - Self Paced
+      - Virtual Class
       required: false
     - id: 14
       name: session_location
@@ -109,8 +109,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Online''}'
-      - '{''id'': 2, ''name'': ''Offline''}'
+      - Online
+      - Offline
       required: false
     - id: 15
       name: training_program
@@ -188,8 +188,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 26
       name: submitted_on

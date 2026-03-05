@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approved''}'
-      - '{''id'': 2, ''label'': ''Denied''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Approved
+      - Denied
+      - Pending
       required: false
     - id: 6
       name: assigned_to
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John''}'
-      - '{''id'': 2, ''label'': ''Jane''}'
-      - '{''id'': 3, ''label'': ''Jim''}'
+      - John
+      - Jane
+      - Jim
       required: false
     - id: 7
       name: comments
@@ -64,7 +64,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 2, ''label'': ''other''}'
+      - other
       - Other
       required: false
     - id: 9

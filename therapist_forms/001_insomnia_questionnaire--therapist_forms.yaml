@@ -79,11 +79,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Often''}'
-      - '{''label'': ''Usually''}'
-      - '{''label'': ''Always''}'
+      - Rarely
+      - Sometimes
+      - Often
+      - Usually
+      - Always
       required: false
     - id: 12
       name: difficulty_falling_asleep
@@ -91,12 +91,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Not at all''}'
-      - '{''label'': ''Less than 30 minutes''}'
-      - '{''label'': ''30-60 minutes''}'
-      - '{''label'': ''61-120 minutes''}'
-      - '{''label'': ''More than 120 minutes''}'
-      - '{''label'': ''More than 3 hours''}'
+      - Not at all
+      - Less than 30 minutes
+      - 30-60 minutes
+      - 61-120 minutes
+      - More than 120 minutes
+      - More than 3 hours
       required: false
     - id: 13
       name: sleep_stages
@@ -104,12 +104,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''1 stage''}'
-      - '{''label'': ''2 stages''}'
-      - '{''label'': ''3 stages''}'
-      - '{''label'': ''4 stages''}'
-      - '{''label'': ''5 stages''}'
-      - '{''label'': ''6 stages''}'
+      - 1 stage
+      - 2 stages
+      - 3 stages
+      - 4 stages
+      - 5 stages
+      - 6 stages
       required: false
     - id: 14
       name: sleep_latency_duration
@@ -138,11 +138,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Satisfactory''}'
-      - '{''label'': ''Fairly Satisfactory''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
-      - '{''label'': ''Unsatisfactory''}'
+      - Very Satisfactory
+      - Fairly Satisfactory
+      - Fair
+      - Poor
+      - Unsatisfactory
       required: false
     - id: 18
       name: sleep_latency_satisfactory_frequency
@@ -150,10 +150,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Every Day''}'
-      - '{''label'': ''2-3 times per week''}'
-      - '{''label'': ''1 time per week''}'
-      - '{''label'': ''Rarely''}'
+      - Every Day
+      - 2-3 times per week
+      - 1 time per week
+      - Rarely
       required: false
     - id: 19
       name: sleep_latency_satisfactory_duration
@@ -182,12 +182,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Not at all''}'
-      - '{''label'': ''A bit''}'
-      - '{''label'': ''A little''}'
-      - '{''label'': ''Somewhat''}'
-      - '{''label'': ''A lot''}'
-      - '{''label'': ''Extremely''}'
+      - Not at all
+      - A bit
+      - A little
+      - Somewhat
+      - A lot
+      - Extremely
       required: false
     - id: 23
       name: sleep_quality_felt_impact
@@ -195,11 +195,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Satisfactory''}'
-      - '{''label'': ''Fairly Satisfactory''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
-      - '{''label'': ''Unsatisfactory''}'
+      - Very Satisfactory
+      - Fairly Satisfactory
+      - Fair
+      - Poor
+      - Unsatisfactory
       required: false
     - id: 24
       name: sleep_disruption

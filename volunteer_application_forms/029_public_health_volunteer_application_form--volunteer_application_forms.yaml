@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Available''}'
-      - '{''id'': 2, ''label'': ''Not Available''}'
+      - Available
+      - Not Available
       required: false
     - id: 4
       name: volunteer_experience
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Medical''}'
-      - '{''id'': 2, ''label'': ''Administrative''}'
-      - '{''id'': 3, ''label'': ''Communication''}'
+      - Medical
+      - Administrative
+      - Communication
       required: false
     - id: 6
       name: medical_info
@@ -98,8 +98,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: first_name

@@ -5,207 +5,101 @@ inputSchema:
     pages:
     - id: 1
       name: policyholder_feedback
-      label: policyholder_feedback
+      label: Policyholder Feedback
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: rating
-      label: rate
+      label: Rating
       hint: null
       type: select_one
       options:
       - Good
       - Fair
+      - Poor
+      - Excellent
       required: false
     - id: 3
-      name: feedback
-      label: feedback
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: contact_method
-      label: best_method_to_contact
+      name: best_method_to_contact
+      label: Best Method to Contact
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Email
+      - Phone
+      - In-Person
+      - Online Form
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 5
-      name: name
-      label: name
+      name: contact_information
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: contact_information
-      label: contact_information
+      name: policy_number
+      label: Policy Number
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: policy_number
-      label: policy_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
       name: date_of_birth
-      label: date_of_birth
+      label: Date of Birth
       hint: null
       type: date
       options: []
       required: false
-    - id: 11
+    - id: 8
       name: policyholder_relationship_status
-      label: policyholder_relationship_status
+      label: Policyholder Relationship Status
       hint: null
       type: select_multiple
       options:
-      - policyholder_is_our_client
-      - policyholder_is_not_our_client
-      - policyholder_is_ex_client
-      - policyholder_is_ex_client_in_progress
+      - Policyholder is our client
+      - Policyholder is not our client
+      - Policyholder is ex-client
+      - Policyholder is ex-client in progress
       required: false
-    - id: 12
+    - id: 9
       name: contact_frequency
-      label: contact_frequency
+      label: Contact Frequency
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Regularly
+      - Occasionally
+      - Never
       required: false
-    - id: 13
+    - id: 10
       name: comments
-      label: comments
-      hint: null
-      type: select_multiple
-      options:
-      - comments_0
-      - comments_1
-      - comments_2
-      - comments_3
-      - comments_4
-      - comments_5
-      - comments_6
-      - comments_7
-      - comments_8
-      - comments_9
-      required: false
-    - id: 14
-      name: date
-      label: date
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: assigned_to
-      label: assigned_to
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: assigned_to
-      label: assigned_to
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: comments
-      label: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
+    - id: 11
       name: assigned_to
-      label: assigned_to
+      label: Assigned to
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 20
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: assigned_to
-      label: assigned_to
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: assigned_to
-      label: assigned_to
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: comments
-      label: comments
+    - id: 12
+      name: comments_2
+      label: Comments 2
       hint: null
       type: text
       options: []

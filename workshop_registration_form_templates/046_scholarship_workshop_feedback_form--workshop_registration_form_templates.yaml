@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 6
       name: select_multiple
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 7
       name: date
@@ -80,82 +80,55 @@ inputSchema:
       options: []
       required: false
     - id: 11
-      name: form_title
-      label: Form Title
+      name: workshop_name
+      label: Workshop Name
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: rating
-      label: Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: select
-      label: Select
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 15
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 16
-      name: date
-      label: Date
+      name: workshop_date
+      label: Workshop Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 17
-      name: time
-      label: Time
+    - id: 13
+      name: workshop_time
+      label: Workshop Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 18
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: phone
-      label: Phone
+    - id: 14
+      name: workshop_location
+      label: Workshop Location
       hint: null
       type: text
       options: []
       required: false
-    - id: 21
+    - id: 15
+      name: workshop_attendance
+      label: Workshop Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: workshop_comments
+      label: Workshop Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: workshop_suggestions
+      label: Workshop Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
       name: submit
       label: Submit
       hint: null

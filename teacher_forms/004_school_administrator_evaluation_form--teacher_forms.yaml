@@ -12,31 +12,31 @@ inputSchema:
       required: false
     - id: 2
       name: schooladministrator
-      label: SchoolAdministrator
+      label: School Administrator Performance
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Excellent''}'
-      - '{''id'': 2, ''name'': ''Very Good''}'
-      - '{''id'': 3, ''name'': ''Good''}'
-      - '{''id'': 4, ''name'': ''Fair''}'
-      - '{''id'': 5, ''name'': ''Poor''}'
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 3
       name: communication
-      label: Communication
+      label: Communication Skills
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Excellent''}'
-      - '{''id'': 2, ''name'': ''Very Good''}'
-      - '{''id'': 3, ''name'': ''Good''}'
-      - '{''id'': 4, ''name'': ''Fair''}'
-      - '{''id'': 5, ''name'': ''Poor''}'
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 4
       name: leadership
-      label: Leadership
+      label: Leadership Style
       hint: null
       type: number
       options: []
@@ -50,29 +50,36 @@ inputSchema:
       required: true
     - id: 6
       name: schooladministrator_1
-      label: SchoolAdministrator
+      label: School Administrator
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Mr. Smith''}'
-      - '{''id'': 2, ''name'': ''Mrs. Doe''}'
+      - Mr. Smith
+      - Mrs. Doe
       required: false
     - id: 7
       name: communication_2
-      label: Communication
+      label: Communication 2
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Excellent''}'
-      - '{''id'': 2, ''name'': ''Very Good''}'
-      - '{''id'': 3, ''name'': ''Good''}'
-      - '{''id'': 4, ''name'': ''Fair''}'
-      - '{''id'': 5, ''name'': ''Poor''}'
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 8
       name: leadership_2
-      label: Leadership
+      label: Leadership 2
       hint: null
       type: number
       options: []
       required: false
+    - id: 9
+      name: evaluation
+      label: Evaluation Summary
+      hint: null
+      type: text
+      options: []
+      required: true

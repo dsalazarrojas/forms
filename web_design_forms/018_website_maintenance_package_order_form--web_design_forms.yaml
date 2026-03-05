@@ -4,159 +4,92 @@ inputSchema:
     title: Website Maintenance Package Order Form
     pages:
     - id: 1
-      name: order_info
-      label: order_information
+      name: website_info
+      label: Website Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: package_selection
-      label: package_selection
+      name: maintenance_package
+      label: Select a Maintenance Package
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 3
       name: payment_method
-      label: payment_method
+      label: Payment Method
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: website_url
-      label: website_url
+      name: order_notes
+      label: Order Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: website_title
-      label: website_title
+      name: maintenance_type
+      label: Select a Maintenance Type
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: maintenance_type
-      label: maintenance_type
+      name: order_status
+      label: Order Status
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 7
-      name: order_notes
-      label: order_notes
-      hint: null
-      type: note
+      type: text
       options: []
-      required: false
-    - id: 8
-      name: payment_status
-      label: payment_status
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 9
+      required: true
+    - id: 7
       name: due_date
-      label: due_date
+      label: Due Date
       hint: null
-      type: date
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
       options: []
       required: false
     - id: 10
-      name: assigned_to
-      label: assigned_to
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
       name: order_id
-      label: order_id
+      label: Order ID
       hint: null
       type: text
       options: []
-      required: false
-    - id: 14
+      required: true
+    - id: 11
       name: package_id
-      label: package_id
+      label: Package ID
       hint: null
       type: text
       options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 12
       name: price
-      label: price
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: order_status
-      label: order_status
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 17
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 18
-      name: due_date
-      label: due_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: assigned_to
-      label: assigned_to
+      label: Price
       hint: null
       type: text
       options: []
-      required: false
-    - id: 20
+      required: true
+    - id: 13
       name: order_comments
-      label: order_comments
+      label: Order Comments
       hint: null
       type: text
       options: []

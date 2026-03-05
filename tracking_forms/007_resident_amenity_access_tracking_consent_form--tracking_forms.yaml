@@ -1,207 +1,122 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Resident Amenity Access Tracking Consent Form
     pages:
     - id: 1
-      name: resident_ameity_access_tracking_consent_form_page1
-      label: resident_amenity_access_tracking_consent
-      hint: null
+      name: resident_amenity_access_tracking_consent_form_page1
+      label: What is your name?
+      hint: Please enter your name
       type: text
       options: []
       required: false
     - id: 2
       name: resident_amenity_access_tracking_consent_form_page2
-      label: amenity_access_tracking
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      label: What is your contact number?
+      hint: Please enter your contact number
+      type: text
+      options: []
       required: true
     - id: 3
       name: resident_amenity_access_tracking_consent_form_page3
-      label: resident_information
-      hint: null
+      label: What is your email address?
+      hint: Please enter your email address
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: resident_amenity_access_tracking_consent_form_page4
-      label: contact_number
-      hint: null
-      type: text
-      options: []
-      required: false
+      label: Emergency Contact?
+      hint: Please choose your emergency contact
+      type: select_one
+      options:
+      - Spouse
+      - Other
+      required: true
     - id: 5
       name: resident_amenity_access_tracking_consent_form_page5
-      label: email_address
-      hint: null
+      label: Relationship with Emergency Contact
+      hint: Please enter your relationship with emergency contact
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: resident_amenity_access_tracking_consent_form_page6
-      label: emergency_contact_name
-      hint: null
-      type: text
-      options: []
-      required: false
+      label: Emergency Contact Information?
+      hint: Please choose if you want to receive emergency contact information
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 7
       name: resident_amenity_access_tracking_consent_form_page7
-      label: emergency_contact_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: resident_amenity_access_tracking_consent_form_page8
-      label: emergency_contact_email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: resident_amenity_access_tracking_consent_form_page9
-      label: resident_amenity_access_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: resident_amenity_access_tracking_consent_form_page10
-      label: resident_amenity_access_tracking_consent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: resident_amenity_access_tracking_consent_form_page11
-      label: resident_amenity_access_tracking_consent_2
-      hint: null
+      label: What do you consent to?
+      hint: Please choose what you consent to
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: resident_amenity_access_tracking_consent_form_page8
+      label: Do you want to be contacted?
+      hint: Please choose if you want to be contacted
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: resident_amenity_access_tracking_consent_form_page9
+      label: What do you want to share with management?
+      hint: Please choose what you want to share
+      type: select_multiple
+      options:
+      - Information
+      - Nothing
+      required: true
+    - id: 10
+      name: resident_amenity_access_tracking_consent_form_page10
+      label: Do you want to be contacted for other reason?
+      hint: Please choose if you want to be contacted
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: resident_amenity_access_tracking_consent_form_page11
+      label: Emergency Contact's Name
+      hint: Please enter emergency contact's name
+      type: text
+      options: []
       required: true
     - id: 12
       name: resident_amenity_access_tracking_consent_form_page12
-      label: emergency_contact
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Spouse'', ''value'': ''spouse''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      label: Emergency Contact's Number
+      hint: Please enter emergency contact's number
+      type: text
+      options: []
       required: true
     - id: 13
       name: resident_amenity_access_tracking_consent_form_page13
-      label: emergency_contact_relationship
-      hint: null
+      label: Emergency Contact's Email
+      hint: Please enter emergency contact's email
       type: text
       options: []
-      required: false
+      required: true
     - id: 14
       name: resident_amenity_access_tracking_consent_form_page14
-      label: emergency_contact_name
-      hint: null
+      label: Emergency Contact's Relationship
+      hint: Please enter emergency contact's relationship
       type: text
       options: []
-      required: false
+      required: true
     - id: 15
       name: resident_amenity_access_tracking_consent_form_page15
-      label: emergency_contact_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: resident_amenity_access_tracking_consent_form_page16
-      label: emergency_contact_email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: resident_amenity_access_tracking_consent_form_page17
-      label: resident_amenity_access_tracking_consent_notes
-      hint: null
+      label: Consent Notes
+      hint: Please enter your consent notes
       type: note
       options: []
-      required: false
-    - id: 18
-      name: resident_amenity_access_tracking_consent_form_page18
-      label: emergency_contact_relationship
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: resident_amenity_access_tracking_consent_form_page19
-      label: resident_amenity_access_tracking_consent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: resident_amenity_access_tracking_consent_form_page20
-      label: resident_amenity_access_tracking_consent_2
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
-      required: true
-    - id: 21
-      name: resident_amenity_access_tracking_consent_form_page21
-      label: resident_amenity_access_tracking_consent_3
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
-      required: true
-    - id: 22
-      name: resident_amenity_access_tracking_consent_form_page22
-      label: resident_amenity_access_tracking_consent_4
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Spouse'', ''value'': ''spouse''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
-      required: true
-    - id: 23
-      name: resident_amenity_access_tracking_consent_form_page23
-      label: resident_amenity_access_notes
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
-      required: true
-    - id: 24
-      name: resident_amenity_access_tracking_consent_form_page24
-      label: amenity_access_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: resident_amenity_access_tracking_consent_form_page25
-      label: resident_amenity_access_tracking_consent_5
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
       required: false

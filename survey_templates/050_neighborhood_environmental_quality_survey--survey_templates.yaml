@@ -44,11 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '5'
-      - '4'
-      - '3'
-      - '2'
-      - '1'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
       name: photo_description
@@ -75,16 +73,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '10'
-      - '9'
-      - '8'
-      - '7'
-      - '6'
-      - '5'
-      - '4'
-      - '3'
-      - '2'
-      - '1'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: odor_level
@@ -92,16 +83,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '10'
-      - '9'
-      - '8'
-      - '7'
-      - '6'
-      - '5'
-      - '4'
-      - '3'
-      - '2'
-      - '1'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
       name: trash_count
@@ -162,11 +146,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '5'
-      - '4'
-      - '3'
-      - '2'
-      - '1'
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 19
       name: rating_reason
@@ -198,26 +180,24 @@ inputSchema:
       required: false
     - id: 23
       name: neighborhood_rating_reason
-      label: Rating Reason
+      label: Neighborhood Rating Reason
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: neighborhood_rating
-      label: Neighborhood Rating
+      name: neighborhood_rating_2
+      label: Neighborhood Rating 2
       hint: null
       type: select_multiple
       options:
-      - '5'
-      - '4'
-      - '3'
-      - '2'
-      - '1'
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 25
-      name: rating_comment
-      label: Rating Comment
+      name: rating_comment_2
+      label: Rating Comment 2
       hint: null
       type: text
       options: []

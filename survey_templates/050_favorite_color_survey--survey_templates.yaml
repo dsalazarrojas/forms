@@ -5,209 +5,98 @@ inputSchema:
     pages:
     - id: 1
       name: main_page
-      label: What is your favorite color
+      label: What is your favorite color?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: main_page_1
+      name: main_page_2
       label: Select your favorite color
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Purple
+      required: true
     - id: 3
-      name: main_page_2
-      label: Select one or more
+      name: main_page_3
+      label: Do you like bright colors?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
-      name: main_page_3
-      label: What is your favorite color
+      name: main_page_4
+      label: What is your favorite shade of your favorite color?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Dark
+      - Light
       required: false
     - id: 5
-      name: main_page_4
-      label: Select one or more
+      name: main_page_5
+      label: Do you prefer warm or cool colors?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Warm
+      - Cool
       required: false
     - id: 6
-      name: main_page_5
-      label: Select one
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
       name: main_page_6
-      label: Select one or more
+      label: Select one or more colors
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      required: true
+    - id: 7
+      name: main_page_7
+      label: Do you like colors with high saturation?
+      hint: null
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: main_page_7
-      label: Select one or more
+      name: main_page_8
+      label: Select one or more colors from the palette
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Pastel Pink
+      - Mint Green
+      - Royal Blue
+      - Sunshine Yellow
       required: false
     - id: 9
-      name: main_page_8
-      label: What is your favorite color
+      name: main_page_9
+      label: Do you like colors with low saturation?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 10
-      name: main_page_9
-      label: Select one or more
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
       name: main_page_10
-      label: Select one
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: main_page_11
-      label: Select one or more
+      label: Select one or more colors from the range
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: main_page_12
-      label: Select one or more
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: main_page_13
-      label: Select one or more
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: main_page_14
-      label: Select one or more
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: main_page_15
-      label: Select one or more
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: main_page_16
-      label: Select one or more
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: main_page_17
-      label: Select one or more
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: main_page_18
-      label: Select one or more
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: main_page_19
-      label: Select one or more
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: main_page_20
-      label: What is your favorite color
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: main_page_21
-      label: Select one or more
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: main_page_22
-      label: Select one or more
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: main_page_23
-      label: Select one or more
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      - Orange
+      - Red
+      - Red-Violet
+      - Yellow-Green
       required: false

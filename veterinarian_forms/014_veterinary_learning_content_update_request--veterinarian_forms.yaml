@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Content Update''}'
-      - '{''label'': ''Content Review''}'
+      - Content Update
+      - Content Review
       required: true
     - id: 3
       name: content_type
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Text''}'
-      - '{''label'': ''Image''}'
-      - '{''label'': ''Video''}'
+      - Text
+      - Image
+      - Video
       required: true
     - id: 4
       name: description
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Animal Hospital''}'
-      - '{''label'': ''Pet Clinics''}'
-      - '{''label'': ''Pet Care Centers''}'
+      - Animal Hospital
+      - Pet Clinics
+      - Pet Care Centers
       required: true
     - id: 6
       name: veterinarians
@@ -87,7 +87,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: true
     - id: 12
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Attachment 1''}'
-      - '{''label'': ''Attachment 2''}'
-      - '{''label'': ''Attachment 3''}'
+      - Attachment 1
+      - Attachment 2
+      - Attachment 3
       required: false
     - id: 17
       name: files
@@ -134,9 +134,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''File 1''}'
-      - '{''label'': ''File 2''}'
-      - '{''label'': ''File 3''}'
+      - File 1
+      - File 2
+      - File 3
       required: false
     - id: 18
       name: uploaded_by
@@ -193,6 +193,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Draft''}'
-      - '{''label'': ''Published''}'
+      - Draft
+      - Published
       required: true

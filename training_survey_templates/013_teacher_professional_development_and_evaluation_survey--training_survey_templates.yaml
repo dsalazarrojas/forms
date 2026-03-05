@@ -4,31 +4,31 @@ inputSchema:
     title: Teacher Professional Development And Evaluation Survey
     pages:
     - id: 1
-      name: training_survey_templates_1
-      label: Training Survey Templates
+      name: training_survey_templates
+      label: What are the training survey templates used for?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Yes, for training and evaluation
+      - No, only for evaluation
+      required: true
     - id: 2
       name: form_id
-      label: Form Id
+      label: What is the form ID?
       hint: null
       type: number
       options: []
       required: false
     - id: 3
-      name: description
-      label: Description
+      name: teacher_professional_development_and_evaluation_survey_description
+      label: Description of the teacher professional development and evaluation survey
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: assigned_tool
-      label: Assigned Tool
+      label: Which tool has been assigned to you?
       hint: null
       type: select_one
       options:
@@ -37,71 +37,64 @@ inputSchema:
       required: false
     - id: 5
       name: category
-      label: Category
+      label: What category does the tool belong to?
       hint: null
       type: select_one
       options:
       - Training Survey Templates
       - Evaluation
       - Development
-      required: false
+      required: true
     - id: 6
       name: output_file
-      label: Output File
+      label: What is the output file format?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: teacher_professional_development_and_evaluation_survey_description
+      name: teacher_professional_development_and_evaluation_survey_description_2
       label: Description
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: form_id
-      label: Form Id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: assigned_tool
-      label: Assigned Tool
+      name: assigned_tool_2
+      label: Which tool is assigned to you?
       hint: null
       type: select_one
       options:
       - chatjimmy
       - Other
       required: false
-    - id: 10
-      name: category
-      label: Category
+    - id: 9
+      name: category_2
+      label: Category 2
       hint: null
       type: select_one
       options:
       - Training Survey Templates
       - Evaluation
       - Development
+      required: true
+    - id: 10
+      name: output_file_2
+      label: Output File 2
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 11
-      name: output_file
-      label: Output File
+      name: teacher_professional_development_and_evaluation_survey_description_3
+      label: Teacher Professional Development And Evaluation Survey Description 3
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: teacher_professional_development_and_evaluation_survey_description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: form_id
-      label: Form Id
+      name: form_id_2
+      label: Form Id 2
       hint: null
       type: number
       options: []

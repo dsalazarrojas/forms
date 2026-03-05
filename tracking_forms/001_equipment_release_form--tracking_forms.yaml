@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -20,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''employee_1'', ''label'': ''John Doe''}'
-      - '{''value'': ''employee_2'', ''label'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 2
       name: equipment
@@ -29,8 +18,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''equipment_1'', ''label'': ''Laptop''}'
-      - '{''value'': ''equipment_2'', ''label'': ''Mobile Phone''}'
+      - Laptop
+      - Mobile Phone
       required: false
     - id: 3
       name: reason
@@ -66,8 +55,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''manager_1'', ''label'': ''John Smith''}'
-      - '{''value'': ''manager_2'', ''label'': ''Jane Smith''}'
+      - John Smith
+      - Jane Smith
       required: false
     - id: 8
       name: department
@@ -75,6 +64,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''department_1'', ''label'': ''Sales and Marketing''}'
-      - '{''value'': ''department_2'', ''label'': ''Customer Support''}'
+      - Sales and Marketing
+      - Customer Support
       required: false

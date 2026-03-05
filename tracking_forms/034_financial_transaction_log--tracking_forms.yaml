@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Income''}'
-      - '{''id'': 2, ''label'': ''Expense''}'
-      - '{''id'': 3, ''label'': ''Transfer''}'
+      - Income
+      - Expense
+      - Transfer
       required: true
     - id: 3
       name: transaction_amount
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''USD''}'
-      - '{''id'': 2, ''label'': ''CAD''}'
+      - USD
+      - CAD
       required: true
     - id: 6
       name: transaction_reference
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Income''}'
-      - '{''id'': 2, ''label'': ''Expense''}'
-      - '{''id'': 3, ''label'': ''Transfer''}'
+      - Income
+      - Expense
+      - Transfer
       required: false
     - id: 12
       name: transaction_amount_2
@@ -108,8 +108,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''USD''}'
-      - '{''id'': 2, ''label'': ''CAD''}'
+      - USD
+      - CAD
       required: false
     - id: 15
       name: transaction_reference_2

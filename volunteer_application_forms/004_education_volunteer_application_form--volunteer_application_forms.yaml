@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Email''}'
-      - '{''label'': ''In-person''}'
+      - Phone
+      - Email
+      - In-person
       required: true
     - id: 5
       name: availability
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Monday to Friday''}'
-      - '{''label'': ''Saturday''}'
-      - '{''label'': ''Sunday''}'
-      - '{''label'': ''Other''}'
+      - Monday to Friday
+      - Saturday
+      - Sunday
+      - Other
       required: true
     - id: 6
       name: start_date
@@ -86,11 +86,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Monday''}'
-      - '{''label'': ''Tuesday''}'
-      - '{''label'': ''Wednesday''}'
-      - '{''label'': ''Thursday''}'
-      - '{''label'': ''Friday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
       required: true
     - id: 12
       name: availability_2
@@ -98,8 +98,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Monday to Friday''}'
-      - '{''label'': ''Weekend''}'
+      - Monday to Friday
+      - Weekend
       required: true
     - id: 13
       name: volunteer_type

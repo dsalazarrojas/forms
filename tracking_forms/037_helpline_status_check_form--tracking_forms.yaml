@@ -4,49 +4,51 @@ inputSchema:
     title: Helpline Status Check Form
     pages:
     - id: 1
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: helpline_status
-      label: helpline_status
+      name: helpline_status_page
+      label: Is helpline active?
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
-      required: true
-    - id: 3
-      name: helpline_priority
-      label: helpline_priority
+      required: false
+    - id: 2
+      name: customer_support_page
+      label: Does customer support available?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 4
-      name: issue_description
-      label: issue_description
+    - id: 3
+      name: issue_description_page
+      label: Describe any issues
       hint: null
       type: note
       options: []
       required: false
-    - id: 5
-      name: customer_support
-      label: customer_support
+    - id: 4
+      name: priority_page
+      label: Is priority set?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: customer_support_status_page
+      label: Is customer support active?
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
       required: false
     - id: 6
-      name: customer_support_status
-      label: customer_support_status
+      name: helpline_status_page_2
+      label: Helpline Status
       hint: null
       type: select_one
       options:
@@ -54,17 +56,17 @@ inputSchema:
       - Inactive
       required: false
     - id: 7
-      name: customer_support_priority
-      label: customer_support_priority
+      name: customer_support_page_2
+      label: Customer Support Page 2
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: customer_support_status
-      label: customer_support_status
+      name: customer_support_status_page_2
+      label: Customer Support Status Page 2
       hint: null
       type: select_one
       options:
@@ -72,20 +74,16 @@ inputSchema:
       - Inactive
       required: false
     - id: 9
-      name: customer_support_priority
-      label: customer_support_priority
+      name: issue_description_page_2
+      label: Issue Description Page 2
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: note
+      options: []
       required: false
     - id: 10
-      name: customer_support_status
-      label: customer_support_status
+      name: customer_note_page
+      label: Any additional notes
       hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
+      type: note
+      options: []
       required: false

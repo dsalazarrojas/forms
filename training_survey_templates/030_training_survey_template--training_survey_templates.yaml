@@ -4,64 +4,91 @@ inputSchema:
     title: Training Survey Template
     pages:
     - id: 1
-      name: training_survey_template
-      label: training_survey_template
+      name: purpose
+      label: What is the purpose of the training session?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: category
-      label: category
+      name: quality_rating
+      label: How would you rate the overall quality of the training session?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 3
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: assigned_tool
-      label: assigned_tool
+      name: topics_covered
+      label: Which of the following topics were covered during the training session?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Leadership
+      - Management
+      - Communication
+      - Time Management
       required: false
-    - id: 5
-      name: form_id
-      label: form_id
+    - id: 4
+      name: training_hours
+      label: How many hours did you spend on the training session?
       hint: null
       type: number
       options: []
       required: false
-    - id: 6
-      name: description
-      label: description
+    - id: 5
+      name: date
+      label: On what date did the training session take place?
       hint: null
-      type: text
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_end_time
+      label: What time did the training session start and end?
+      hint: null
+      type: time
       options: []
       required: false
     - id: 7
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: category
-      label: category
+      name: facilitator_performance
+      label: How would you rate the training facilitator's performance?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: comments
+      label: Are there any other comments you would like to provide?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: relevance
+      label: How would you rate the overall relevance of the training session to your
+        job requirements?
+      hint: null
+      type: select_one
+      options:
+      - Very relevant
+      - Somewhat relevant
+      - Not very relevant
+      required: false
+    - id: 10
+      name: effectiveness
+      label: How would you rate the overall effectiveness of the training session?
+      hint: null
+      type: select_one
+      options:
+      - Highly effective
+      - Somewhat effective
+      - Not very effective
       required: false

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''applied''}'
-      - '{''value'': ''leased''}'
-      - '{''value'': ''not_leased''}'
+      - applied
+      - leased
+      - not leased
       required: false
     - id: 7
       name: move_in_date
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''house''}'
-      - '{''value'': ''apartment''}'
-      - '{''value'': ''condo''}'
+      - house
+      - apartment
+      - condo
       required: false
     - id: 9
       name: reported_area_type
@@ -134,12 +134,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''reported_area_size_1_sq_ft'', ''label'': ''Reported Area Size
-        1 Sq Ft''}'
-      - '{''value'': ''reported_area_size_2_sq_in'', ''label'': ''Reported Area Size
-        2 Sq In''}'
-      - '{''value'': ''reported_area_size_3_sq_m'', ''label'': ''Reported Area Size
-        3 Sq M''}'
+      - Reported Area Size 1 Sq Ft
+      - Reported Area Size 2 Sq In
+      - Reported Area Size 3 Sq M
       required: false
     - id: 19
       name: parking_info
@@ -168,9 +165,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''lease''}'
-      - '{''value'': ''sublease''}'
-      - '{''value'': ''sublease''}'
+      - lease
+      - sublease
       required: false
     - id: 23
       name: lease_type
@@ -178,9 +174,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''single''}'
-      - '{''value'': ''joint''}'
-      - '{''value'': ''joint''}'
+      - single
+      - joint
       required: false
     - id: 24
       name: reported_area_size_4_sq_in

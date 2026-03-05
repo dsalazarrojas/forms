@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: tech_leads_count
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Some''}'
-      - '{''id'': 2, ''label'': ''Partial''}'
-      - '{''id'': 3, ''label'': ''None''}'
+      - Some
+      - Partial
+      - None
       required: false
     - id: 6
       name: has_ict_equipment
@@ -49,10 +49,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Computers''}'
-      - '{''id'': 2, ''label'': ''Laptops''}'
-      - '{''id'': 3, ''label'': ''Tablets''}'
-      - '{''id'': 4, ''label'': ''Mobile Phones''}'
+      - Computers
+      - Laptops
+      - Tablets
+      - Mobile Phones
       required: false
     - id: 7
       name: has_internet_access
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Fast Internet''}'
-      - '{''id'': 2, ''label'': ''Medium Internet''}'
-      - '{''id'': 3, ''label'': ''No Internet''}'
+      - Fast Internet
+      - Medium Internet
+      - No Internet
       required: true
     - id: 8
       name: has_support_services
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Email Support''}'
-      - '{''id'': 2, ''label'': ''Phone Support''}'
-      - '{''id'': 3, ''label'': ''Online Chat Support''}'
+      - Email Support
+      - Phone Support
+      - Online Chat Support
       required: true
     - id: 9
       name: has_technology_support
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Email Support''}'
-      - '{''id'': 2, ''label'': ''Phone Support''}'
-      - '{''id'': 3, ''label'': ''Online Chat Support''}'
+      - Email Support
+      - Phone Support
+      - Online Chat Support
       required: false
     - id: 10
       name: has_technology_training
@@ -90,8 +90,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Basic Computer Training''}'
-      - '{''id'': 2, ''label'': ''Advanced Computer Training''}'
+      - Basic Computer Training
+      - Advanced Computer Training
       required: false
     - id: 11
       name: has_technology_resources
@@ -106,10 +106,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Firewall''}'
-      - '{''id'': 2, ''label'': ''Anti-virus''}'
-      - '{''id'': 3, ''label'': ''Encryption''}'
-      - '{''id'': 4, ''label'': ''Backup''}'
+      - Firewall
+      - Anti-virus
+      - Encryption
+      - Backup
       required: false
     - id: 13
       name: has_digital_storage
@@ -117,8 +117,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Local Server''}'
-      - '{''id'': 2, ''label'': ''Cloud Storage''}'
+      - Local Server
+      - Cloud Storage
       required: false
     - id: 14
       name: has_network_admin
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Network Admin''}'
-      - '{''id'': 2, ''label'': ''System Admin''}'
-      - '{''id'': 3, ''label'': ''IT Manager''}'
+      - Network Admin
+      - System Admin
+      - IT Manager
       required: true
     - id: 15
       name: has_it_training
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Network Training''}'
-      - '{''id'': 2, ''label'': ''System Training''}'
-      - '{''id'': 3, ''label'': ''IT Training''}'
+      - Network Training
+      - System Training
+      - IT Training
       required: false
     - id: 16
       name: it_skills_level
@@ -146,9 +146,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Basic''}'
-      - '{''id'': 2, ''label'': ''Advanced''}'
-      - '{''id'': 3, ''label'': ''Expert''}'
+      - Basic
+      - Advanced
+      - Expert
       required: true
     - id: 17
       name: has_other_technology
@@ -156,6 +156,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Software''}'
-      - '{''id'': 2, ''label'': ''Hardware''}'
+      - Software
+      - Hardware
       required: true

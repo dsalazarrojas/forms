@@ -1,206 +1,195 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Beta Product Early Adopter Feedback Questionnaire
     pages:
-      - id: 1
-        name: early_adopter_profile_header
-        label: -- Early Adopter Profile --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: beta_user_name
-        label: Your Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: beta_user_email
-        label: Your Email Address
-        hint: For follow-up questions
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: beta_product_name_text
-        label: Beta Product Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: usage_duration_select
-        label: How long have you been using the beta product
-        hint: null
-        type: select_one
-        options:
-          - Less than 1 week
-          - 1 to 2 weeks
-          - 3 to 4 weeks
-          - Over 1 month
-        required: true
-      - id: 6
-        name: initial_impressions_header
-        label: -- Initial Impressions and UX --
-        hint: Rate from 1 (Poor) to 5 (Outstanding)
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: onboarding_ease_rating
-        label: Ease of Setup and Onboarding
-        hint: How smooth was your first experience
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 8
-        name: ui_design_rating
-        label: User Interface (UI) Design
-        hint: Visual appeal and layout
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 9
-        name: most_useful_feature_desc
-        label: Most Useful Feature
-        hint: What do you use most often
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: least_useful_feature_desc
-        label: Least Useful or Confusing Feature
-        hint: What part is difficult to understand
-        type: text
-        options: []
-        required: true
-      - id: 11
-        name: performance_reliability_header
-        label: -- Performance and Reliability --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: stability_assessment_choice
-        label: Overall Product Stability
-        hint: Frequency of bugs or crashes
-        type: select_one
-        options:
-          - Very Stable - No issues
-          - Minor Bugs - Occasional glitches
-          - Frequent Issues - Needs work
-        required: true
-      - id: 13
-        name: speed_responsiveness_rating
-        label: Speed and Responsiveness
-        hint: Performance and loading times
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 14
-        name: technical_issues_narrative
-        label: Describe any technical issues you encountered
-        hint: Help us identify bugs
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: value_improvement_header
-        label: -- Value Proposition and Improvement --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: core_problem_solving_rating
-        label: How well does the product solve your core problem
-        hint: Effectiveness of the solution
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 17
-        name: missing_feature_request
-        label: What one feature is missing that you would like to see
-        hint: Your top priority for next release
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: net_promoter_score_proxy
-        label: Likelihood to recommend after official launch
-        hint: From 1 (Not likely) to 5 (Extremely likely)
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 19
-        name: willingness_to_pay_status
-        label: Willingness to pay for the final version
-        hint: Investment interest
-        type: select_one
-        options:
-          - Very Likely - I would pay
-          - Likely
-          - Neutral - depends on price
-          - Unlikely
-        required: true
-      - id: 20
-        name: conclusion_header
-        label: -- Conclusion --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 21
-        name: product_team_feedback_text
-        label: Any other feedback for the product team
-        hint: Final thoughts or encouragement
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: feedback_completion_date
-        label: Date of Questionnaire
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: early_adopter_profile_header
+      label: -- Early Adopter Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: beta_user_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: beta_user_email
+      label: Your Email Address
+      hint: For follow-up questions
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: beta_product_name_text
+      label: Beta Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: usage_duration_select
+      label: How long have you been using the beta product
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1 to 2 weeks
+      - 3 to 4 weeks
+      - Over 1 month
+      required: true
+    - id: 6
+      name: initial_impressions_header
+      label: -- Initial Impressions and UX --
+      hint: Rate from 1 (Poor) to 5 (Outstanding)
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: onboarding_ease_rating
+      label: Ease of Setup and Onboarding
+      hint: How smooth was your first experience
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 8
+      name: ui_design_rating
+      label: User Interface (UI) Design
+      hint: Visual appeal and layout
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 9
+      name: most_useful_feature_desc
+      label: Most Useful Feature
+      hint: What do you use most often
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: least_useful_feature_desc
+      label: Least Useful or Confusing Feature
+      hint: What part is difficult to understand
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: performance_reliability_header
+      label: -- Performance and Reliability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: stability_assessment_choice
+      label: Overall Product Stability
+      hint: Frequency of bugs or crashes
+      type: select_one
+      options:
+      - Very Stable - No issues
+      - Minor Bugs - Occasional glitches
+      - Frequent Issues - Needs work
+      required: true
+    - id: 13
+      name: speed_responsiveness_rating
+      label: Speed and Responsiveness
+      hint: Performance and loading times
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 14
+      name: technical_issues_narrative
+      label: Describe any technical issues you encountered
+      hint: Help us identify bugs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: value_improvement_header
+      label: -- Value Proposition and Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: core_problem_solving_rating
+      label: How well does the product solve your core problem
+      hint: Effectiveness of the solution
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 17
+      name: missing_feature_request
+      label: What one feature is missing that you would like to see
+      hint: Your top priority for next release
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: net_promoter_score_proxy
+      label: Likelihood to recommend after official launch
+      hint: From 1 (Not likely) to 5 (Extremely likely)
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 19
+      name: willingness_to_pay_status
+      label: Willingness to pay for the final version
+      hint: Investment interest
+      type: select_one
+      options:
+      - Very Likely - I would pay
+      - Likely
+      - Neutral - depends on price
+      - Unlikely
+      required: true
+    - id: 20
+      name: conclusion_header
+      label: -- Conclusion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: product_team_feedback_text
+      label: Any other feedback for the product team
+      hint: Final thoughts or encouragement
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: feedback_completion_date
+      label: Date of Questionnaire
+      hint: null
+      type: date
+      options: []
+      required: true

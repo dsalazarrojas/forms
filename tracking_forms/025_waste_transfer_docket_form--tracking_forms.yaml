@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''submit_form'', ''label'': ''Submit Form''}'
-      - '{''id'': 2, ''name'': ''decline_form'', ''label'': ''Decline Form''}'
-      - '{''id'': 3, ''name'': ''save_draft'', ''label'': ''Save Draft''}'
+      - Submit Form
+      - Decline Form
+      - Save Draft
       required: false
     - id: 12
       name: email_address
@@ -96,10 +96,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''confirm_submit_form'', ''label'': ''Confirm Submit
-        Form''}'
-      - '{''id'': 2, ''name'': ''confirm_decline_form'', ''label'': ''Confirm Decline
-        Form''}'
+      - Confirm Submit Form
+      - Confirm Decline Form
       required: false
     - id: 14
       name: confirm_email_address
@@ -107,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''confirm_email'', ''label'': ''Confirm Email''}'
-      - '{''id'': 2, ''name'': ''confirm_phone'', ''label'': ''Confirm Phone Number''}'
+      - Confirm Email
+      - Confirm Phone Number
       required: false
     - id: 15
       name: confirm_phone
@@ -116,6 +114,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''confirm_phone'', ''label'': ''Confirm Phone Number''}'
-      - '{''id'': 2, ''name'': ''confirm_email'', ''label'': ''Confirm Email''}'
+      - Confirm Phone Number
+      - Confirm Email
       required: false

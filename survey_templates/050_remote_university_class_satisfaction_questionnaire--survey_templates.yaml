@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Poor''}'
-      - '{''id'': 2, ''label'': ''Poor''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Good''}'
-      - '{''id'': 5, ''label'': ''Excellent''}'
+      - Very Poor
+      - Poor
+      - Neutral
+      - Good
+      - Excellent
       required: true
     - id: 4
       name: instructor_name
@@ -42,10 +42,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Poor''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Good''}'
-      - '{''id'': 4, ''label'': ''Excellent''}'
+      - Poor
+      - Fair
+      - Good
+      - Excellent
       required: false
     - id: 6
       name: course_materials
@@ -53,11 +53,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Poor''}'
-      - '{''id'': 2, ''label'': ''Poor''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Good''}'
-      - '{''id'': 5, ''label'': ''Excellent''}'
+      - Very Poor
+      - Poor
+      - Neutral
+      - Good
+      - Excellent
       required: true
     - id: 7
       name: communication
@@ -65,11 +65,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Poor''}'
-      - '{''id'': 2, ''label'': ''Poor''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Good''}'
-      - '{''id'': 5, ''label'': ''Excellent''}'
+      - Very Poor
+      - Poor
+      - Neutral
+      - Good
+      - Excellent
       required: true
     - id: 8
       name: feedback
@@ -182,8 +182,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Fall''}'
-      - '{''id'': 2, ''label'': ''Spring''}'
+      - Fall
+      - Spring
       required: true
     - id: 24
       name: year

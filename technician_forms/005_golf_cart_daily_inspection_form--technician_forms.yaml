@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Fair'', ''value'': ''Fair''}'
-      - '{''label'': ''Poor'', ''value'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 3
       name: suspension_system
@@ -37,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Needs Adjustment'', ''value'': ''Needs Adjustment''}'
-      - '{''label'': ''Failed'', ''value'': ''Failed''}'
-      - '{''label'': ''Not Inspected'', ''value'': ''Not Inspected''}'
+      - Good
+      - Needs Adjustment
+      - Failed
+      - Not Inspected
       required: true
     - id: 4
       name: engine
@@ -48,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Needs Service'', ''value'': ''Needs Service''}'
-      - '{''label'': ''Failed'', ''value'': ''Failed''}'
+      - Good
+      - Needs Service
+      - Failed
       required: true
     - id: 5
       name: frame_and_body
@@ -58,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Minor Damage'', ''value'': ''Minor Damage''}'
-      - '{''label'': ''Major Damage'', ''value'': ''Major Damage''}'
+      - Good
+      - Minor Damage
+      - Major Damage
       required: true
     - id: 6
       name: tires
@@ -68,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Worn'', ''value'': ''Worn''}'
-      - '{''label'': ''Flat'', ''value'': ''Flat''}'
+      - Good
+      - Worn
+      - Flat
       required: true
     - id: 7
       name: battery
@@ -78,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Needs Service'', ''value'': ''Needs Service''}'
-      - '{''label'': ''Dead'', ''value'': ''Dead''}'
+      - Good
+      - Needs Service
+      - Dead
       required: true
     - id: 8
       name: lights
@@ -88,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Faded'', ''value'': ''Faded''}'
-      - '{''label'': ''Failed'', ''value'': ''Failed''}'
+      - Good
+      - Faded
+      - Failed
       required: true
     - id: 9
       name: horn
@@ -98,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Failing'', ''value'': ''Failing''}'
-      - '{''label'': ''Failed'', ''value'': ''Failed''}'
+      - Good
+      - Failing
+      - Failed
       required: true
     - id: 10
       name: steering_and_safety
@@ -108,9 +97,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Needs Adjustment'', ''value'': ''Needs Adjustment''}'
-      - '{''label'': ''Failed'', ''value'': ''Failed''}'
+      - Good
+      - Needs Adjustment
+      - Failed
       required: true
     - id: 11
       name: seat_and_safety_belts
@@ -118,8 +107,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Not Inspected'', ''value'': ''Not Inspected''}'
+      - Good
+      - Not Inspected
       required: true
     - id: 12
       name: fire_suppression_system
@@ -127,8 +116,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Not Inspected'', ''value'': ''Not Inspected''}'
+      - Good
+      - Not Inspected
       required: true
     - id: 13
       name: emergency_exit
@@ -136,8 +125,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Not Inspected'', ''value'': ''Not Inspected''}'
+      - Good
+      - Not Inspected
       required: true
     - id: 14
       name: horn_alarm
@@ -145,9 +134,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Failing'', ''value'': ''Failing''}'
-      - '{''label'': ''Failed'', ''value'': ''Failed''}'
+      - Good
+      - Failing
+      - Failed
       required: true
     - id: 15
       name: parking_brake
@@ -155,9 +144,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Failing'', ''value'': ''Failing''}'
-      - '{''label'': ''Failed'', ''value'': ''Failed''}'
+      - Good
+      - Failing
+      - Failed
       required: true
     - id: 16
       name: electrical_system
@@ -165,9 +154,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Needs Service'', ''value'': ''Needs Service''}'
-      - '{''label'': ''Failed'', ''value'': ''Failed''}'
+      - Good
+      - Needs Service
+      - Failed
       required: true
     - id: 17
       name: transmission
@@ -175,9 +164,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Needs Service'', ''value'': ''Needs Service''}'
-      - '{''label'': ''Failed'', ''value'': ''Failed''}'
+      - Good
+      - Needs Service
+      - Failed
       required: true
     - id: 18
       name: drive_train
@@ -185,9 +174,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Needs Service'', ''value'': ''Needs Service''}'
-      - '{''label'': ''Failed'', ''value'': ''Failed''}'
+      - Good
+      - Needs Service
+      - Failed
       required: true
     - id: 19
       name: frame_and_engine_mounts
@@ -195,9 +184,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Minor Damage'', ''value'': ''Minor Damage''}'
-      - '{''label'': ''Major Damage'', ''value'': ''Major Damage''}'
+      - Good
+      - Minor Damage
+      - Major Damage
       required: true
     - id: 20
       name: axles_and_drive_shafts
@@ -205,9 +194,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Needs Adjustment'', ''value'': ''Needs Adjustment''}'
-      - '{''label'': ''Failed'', ''value'': ''Failed''}'
+      - Good
+      - Needs Adjustment
+      - Failed
       required: true
     - id: 21
       name: wheels
@@ -215,9 +204,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Minor Damage'', ''value'': ''Minor Damage''}'
-      - '{''label'': ''Major Damage'', ''value'': ''Major Damage''}'
+      - Good
+      - Minor Damage
+      - Major Damage
       required: true
     - id: 22
       name: tires_and_tire_pressure
@@ -225,9 +214,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Needs Adjustment'', ''value'': ''Needs Adjustment''}'
-      - '{''label'': ''Failed'', ''value'': ''Failed''}'
+      - Good
+      - Needs Adjustment
+      - Failed
       required: true
     - id: 23
       name: brakes_and_brake_lines
@@ -235,9 +224,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Needs Adjustment'', ''value'': ''Needs Adjustment''}'
-      - '{''label'': ''Failed'', ''value'': ''Failed''}'
+      - Good
+      - Needs Adjustment
+      - Failed
       required: true
     - id: 24
       name: steering
@@ -245,8 +234,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Not Inspected'', ''value'': ''Not Inspected''}'
+      - Good
+      - Not Inspected
       required: true
     - id: 25
       name: comments

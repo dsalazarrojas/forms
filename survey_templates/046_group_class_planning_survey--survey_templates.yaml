@@ -4,204 +4,105 @@ inputSchema:
     title: Group Class Planning Survey
     pages:
     - id: 1
-      name: survey_header
-      label: Group Class Planning Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: survey_name
-      label: name
+      name: class_title
+      label: Class Title
       hint: null
       type: text
       options: []
       required: true
-    - id: 3
-      name: survey_category
+    - id: 2
+      name: class_category
       label: Category
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - General
+      - Advanced
+      - Intermediate
       required: true
-    - id: 4
-      name: survey_tag
-      label: tag
+    - id: 3
+      name: class_tags
+      label: Tags
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
-      name: survey_description
+    - id: 4
+      name: class_description
       label: Description
       hint: null
       type: text
       options: []
       required: true
-    - id: 6
-      name: survey_category_id
-      label: Category ID
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 7
-      name: survey_tag_id
-      label: Tag ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: survey_start_time
+    - id: 5
+      name: class_start_time
       label: Start Time
       hint: null
       type: time
       options: []
       required: true
-    - id: 9
-      name: survey_end_time
+    - id: 6
+      name: class_end_time
       label: End Time
       hint: null
       type: time
       options: []
       required: true
-    - id: 10
-      name: survey_questions
+    - id: 7
+      name: class_questions
       label: Questions
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Question 1
+      - Question 2
+      - Question 3
+      - Question 4
+      - Question 5
       required: true
-    - id: 11
-      name: survey_questions_id
-      label: Questions ID
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 12
-      name: survey_questions_type
+    - id: 8
+      name: class_questions_type
       label: Questions Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Theory
+      - Practical
+      - Both
       required: true
-    - id: 13
-      name: survey_questions_sort
-      label: Questions Sort
+    - id: 9
+      name: class_questions_sort
+      label: Sort Questions
+      hint: null
+      type: select_multiple
+      options:
+      - Ascending
+      - Descending
+      required: true
+    - id: 10
+      name: class_questions_sort_order
+      label: Sort Order
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: class_questions_sort_option
+      label: Sort Option
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
+      - Other
       required: true
-    - id: 14
-      name: survey_questions_sort_option
-      label: Questions Sort Option
+    - id: 12
+      name: class_questions_sort_order_confirmation
+      label: Confirm Sort Order
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 15
-      name: survey_questions_sort_order
-      label: Questions Sort Order
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 16
-      name: survey_questions_sort_order_option
-      label: Questions Sort Order Option
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 17
-      name: survey_questions_sort_order_sort
-      label: Questions Sort Order Sort
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 18
-      name: survey_questions_sort_order_sort_option
-      label: Questions Sort Order Sort Option
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 19
-      name: survey_questions_sort_order_sort_option
-      label: Questions Sort Order Sort Option
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 20
-      name: survey_questions_sort_order_sort_option
-      label: Questions Sort Order Sort Option
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 21
-      name: survey_questions_sort_order_sort_option
-      label: Questions Sort Order Sort Option
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: survey_questions_sort_order_sort_option
-      label: Questions Sort Order Sort Option
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 23
-      name: survey_questions_sort_order_sort_option
-      label: Questions Sort Order Sort Option
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 24
-      name: survey_questions_sort_order_sort
-      label: Questions Sort Order Sort
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 25
-      name: survey_questions_sort_order_sort_option
-      label: Questions Sort Order Sort Option
-      hint: null
-      type: select_multiple
+      type: checkbox
       options:
       - 'Yes'
       - 'No'

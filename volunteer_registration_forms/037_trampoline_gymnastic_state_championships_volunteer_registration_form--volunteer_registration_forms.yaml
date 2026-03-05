@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Morning Session (8-12pm)''}'
-      - '{''value'': 2, ''label'': ''Afternoon Session (12-4pm)''}'
-      - '{''value'': 3, ''label'': ''Full Day Shift (8am-4pm)''}'
+      - Morning Session (8-12pm)
+      - Afternoon Session (12-4pm)
+      - Full Day Shift (8am-4pm)
       required: false
     - id: 9
       name: availability_days
@@ -68,12 +68,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Sunday''}'
-      - '{''value'': ''Saturday''}'
-      - '{''value'': ''Friday''}'
-      - '{''value'': ''Thursday''}'
-      - '{''value'': ''Tuesday''}'
-      - '{''value'': ''Monday''}'
+      - Sunday
+      - Saturday
+      - Friday
+      - Thursday
+      - Tuesday
+      - Monday
       required: false
     - id: 10
       name: availability_time_blocks
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''1 hour block''}'
-      - '{''value'': 2, ''label'': ''2 hour block''}'
-      - '{''value'': 3, ''label'': ''3 hour block''}'
+      - 1 hour block
+      - 2 hour block
+      - 3 hour block
       required: false
     - id: 11
       name: special_requests

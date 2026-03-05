@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: family_support
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
       name: personal_support
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
       name: other_support
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
       name: feeling_often
@@ -133,7 +133,7 @@ inputSchema:
       required: false
     - id: 16
       name: self_care_details
-      label: Details
+      label: Self Care Details
       hint: null
       type: text
       options: []
@@ -147,7 +147,7 @@ inputSchema:
       required: false
     - id: 18
       name: self_care_strategies_details
-      label: Details
+      label: Self Care Strategies Details
       hint: null
       type: text
       options: []
@@ -161,7 +161,7 @@ inputSchema:
       required: false
     - id: 20
       name: self_care_self_care_plan_details
-      label: Details
+      label: Self Care Self Care Plan Details
       hint: null
       type: text
       options: []
@@ -175,7 +175,7 @@ inputSchema:
       required: false
     - id: 22
       name: feeling_towards_teacher_details
-      label: Details
+      label: Feeling Towards Teacher Details
       hint: null
       type: text
       options: []
@@ -189,7 +189,7 @@ inputSchema:
       required: false
     - id: 24
       name: feeling_towards_colleague_details
-      label: Details
+      label: Feeling Towards Colleague Details
       hint: null
       type: text
       options: []

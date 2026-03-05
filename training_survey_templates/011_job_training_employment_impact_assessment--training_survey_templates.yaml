@@ -25,8 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 4
       name: job_training_employment_impact_scale
@@ -43,8 +44,8 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: job_training_employment_outcome_scale
-      label: job training employment outcome scale
+      name: job_training_employment_outcome_scale_2
+      label: Job Training Employment Outcome Scale 2
       hint: null
       type: number
       options: []
@@ -160,8 +161,8 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: job_training_employment_impact_scale
-      label: job training employment impact scale
+      name: job_training_employment_impact_scale_2
+      label: Job Training Employment Impact Scale 2
       hint: null
       type: select_one
       options:
@@ -169,8 +170,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 22
-      name: job_training_employment_outcome_scale
-      label: job training employment outcome scale
+      name: job_training_employment_outcome_scale_3
+      label: Job Training Employment Outcome Scale 3
       hint: null
       type: select_one
       options:
@@ -178,8 +179,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 23
-      name: job_training_employment_impact
-      label: job training employment impact
+      name: job_training_employment_impact_2
+      label: Job Training Employment Impact 2
       hint: null
       type: select_multiple
       options:

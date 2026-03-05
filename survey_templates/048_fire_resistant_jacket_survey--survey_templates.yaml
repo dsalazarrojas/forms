@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''excellent''}'
-      - '{''value'': ''very good''}'
-      - '{''value'': ''neutral''}'
-      - '{''value'': ''poor''}'
-      - '{''value'': ''very poor''}'
+      - excellent
+      - very good
+      - neutral
+      - poor
+      - very poor
       required: false
     - id: 4
       name: comfort
@@ -63,7 +63,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''undecided''}'
+      - 'True'
+      - 'False'
+      - undecided
       required: false

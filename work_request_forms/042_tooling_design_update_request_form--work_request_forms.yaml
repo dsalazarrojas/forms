@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Tooling'', ''label'': ''Tooling''}'
-      - '{''value'': ''Machining'', ''label'': ''Machining''}'
-      - '{''value'': ''Welding'', ''label'': ''Welding''}'
+      - Tooling
+      - Machining
+      - Welding
       required: true
     - id: 3
       name: description
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Major'', ''label'': ''Major''}'
-      - '{''value'': ''Minor'', ''label'': ''Minor''}'
-      - '{''value'': ''Major/Minor'', ''label'': ''Major/Minor''}'
+      - Major
+      - Minor
+      - Major/Minor
       required: true
     - id: 8
       name: change_status
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pending'', ''label'': ''Pending''}'
-      - '{''value'': ''Completed'', ''label'': ''Completed''}'
-      - '{''value'': ''Rejected'', ''label'': ''Rejected''}'
+      - Pending
+      - Completed
+      - Rejected
       required: true
     - id: 9
       name: comment
@@ -151,8 +151,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''submit'', ''label'': ''submit''}'
-      - '{''value'': ''save_for_later'', ''label'': ''save_for_later''}'
+      - submit
+      - save for later
       required: true
     - id: 21
       name: tooling_design_update_request_form_comments

@@ -4,64 +4,92 @@ inputSchema:
     title: Emerging Technology Integration Voting Form
     pages:
     - id: 1
-      name: emerging_technology_integration_voting_form_1
-      label: Emerging Technology Integration
+      name: intro_page
+      label: Please describe the current state of Emerging Technology in your organization.
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: emerging_technology_integration_voting_form_2
-      label: Emerging Technology Integration
+      name: role_page
+      label: What is your role in the organization (e.g., developer, manager, user)?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: familiarity_page
+      label: How familiar are you with Emerging Technology (on a scale of 1-10)?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: benefits_page
+      label: What are the key benefits of Emerging Technology (e.g., automation, security,
+        scalability)?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: use_cases_page
+      label: What are some key use cases for Emerging Technology (e.g., data analytics,
+        AI, IoT)?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: importance_page
+      label: How important is Emerging Technology for our business (on a scale of
+        1-10)?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: relevant_technology_page
+      label: Which Emerging Technology is the most relevant to our business (select
+        one)?
       hint: null
       type: select_one
       options:
       - Emerging Technology
       - Another Technology
       - Yet Another Technology
-      required: false
-    - id: 3
-      name: emerging_technology_integration_voting_form_3
-      label: What are the key benefits of this emerging technology?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: emerging_technology_integration_voting_form_4
-      label: What are some key use cases for this emerging technology?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: emerging_technology_integration_voting_form_5
-      label: How important is this emerging technology for our business?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: emerging_technology_integration_voting_form_6
-      label: Emerging Technology Integration
+      required: true
+    - id: 8
+      name: relevant_technologies_page
+      label: Which Emerging Technologies are most relevant to our business (select
+        multiple)?
       hint: null
       type: select_multiple
       options:
       - Emerging Technology
       - Another Technology
       - Yet Another Technology
-      required: false
-    - id: 7
-      name: emerging_technology_integration_voting_form_7
-      label: Emerging Technology Integration
+      required: true
+    - id: 9
+      name: adoption_date_page
+      label: What is the expected date of adoption for Emerging Technology in our
+        organization?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 8
-      name: emerging_technology_integration_voting_form_8
-      label: Emerging Technology Integration
+      required: true
+    - id: 10
+      name: adoption_time_page
+      label: What time of day do you think Emerging Technology will be widely adopted
+        in our organization?
       hint: null
       type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments_page
+      label: Do you have any additional comments or concerns regarding Emerging Technology?
+      hint: null
+      type: text
       options: []
       required: false

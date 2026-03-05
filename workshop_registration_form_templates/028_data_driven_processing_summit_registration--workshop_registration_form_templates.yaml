@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I accept the terms and conditions'', ''value'': True}'
-      - '{''label'': ''I do not accept the terms and conditions'', ''value'': False}'
+      - I accept the terms and conditions
+      - I do not accept the terms and conditions
       required: false
     - id: 6
       name: attendance_preferences
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Virtual'', ''value'': ''Virtual''}'
-      - '{''label'': ''In-person'', ''value'': ''In-person''}'
-      - '{''label'': ''Both'', ''value'': ''Both''}'
+      - Virtual
+      - In-person
+      - Both
       required: false
     - id: 7
       name: dietary_restrictions
@@ -56,10 +56,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Vegetarian'', ''value'': ''Vegetarian''}'
-      - '{''label'': ''Vegan'', ''value'': ''Vegan''}'
-      - '{''label'': ''Gluten-free'', ''value'': ''Gluten-free''}'
-      - '{''label'': ''None of the above'', ''value'': ''None of the above''}'
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - None of the above
       required: false
     - id: 8
       name: dietary_restrictions_note
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Online payment'', ''value'': ''Online payment''}'
-      - '{''label'': ''Offline payment'', ''value'': ''Offline payment''}'
+      - Online payment
+      - Offline payment
       required: false
     - id: 10
       name: additional_info
@@ -83,10 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''I have any food allergies'', ''value'': ''I have any food allergies''}'
-      - '{''label'': ''I have any medical conditions'', ''value'': ''I have any medical
-        conditions''}'
-      - '{''label'': ''None of the above'', ''value'': ''None of the above''}'
+      - I have any food allergies
+      - I have any medical conditions
+      - None of the above
       required: false
     - id: 11
       name: special_requests

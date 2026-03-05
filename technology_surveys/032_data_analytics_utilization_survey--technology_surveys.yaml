@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -35,12 +24,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Tableau'', ''value'': ''Tableau''}'
-      - '{''id'': 2, ''name'': ''Power BI'', ''value'': ''Power BI''}'
-      - '{''id'': 3, ''name'': ''Qlik'', ''value'': ''Qlik''}'
-      - '{''id'': 4, ''name'': ''Google BigQuery'', ''value'': ''Google BigQuery''}'
-      - '{''id'': 5, ''name'': ''Amazon Redshift'', ''value'': ''Amazon Redshift''}'
-      - '{''id'': 6, ''name'': ''Other'', ''value'': ''Other''}'
+      - Tableau
+      - Power BI
+      - Qlik
+      - Google BigQuery
+      - Amazon Redshift
+      - Other
       required: true
     - id: 4
       name: benefits
@@ -56,9 +45,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Google'', ''value'': ''Google''}'
-      - '{''id'': 2, ''name'': ''Jotform'', ''value'': ''Jotform''}'
-      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      - Google
+      - Jotform
+      - Other
       required: true
     - id: 6
       name: submission_comments
@@ -66,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Google'', ''value'': ''Google''}'
-      - '{''id'': 2, ''name'': ''Jotform'', ''value'': ''Jotform''}'
-      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      - Google
+      - Jotform
+      - Other
       required: false
     - id: 7
       name: assigned_tool
@@ -76,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''Other'', ''value'': ''Other''}'
+      - chatjimmy
+      - Other
       required: true
     - id: 8
       name: output_file
@@ -92,8 +81,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Technology Surveys'', ''value'': ''Technology Surveys''}'
-      - '{''id'': 2, ''name'': ''Other'', ''value'': ''Other''}'
+      - Technology Surveys
+      - Other
       required: false
     - id: 10
       name: description
@@ -115,8 +104,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''Other'', ''value'': ''Other''}'
+      - chatjimmy
+      - Other
       required: false
     - id: 13
       name: submission_id

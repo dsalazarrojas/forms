@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -17,190 +6,87 @@ inputSchema:
     - id: 1
       name: take_precautions
       label: Take Precautions
-      hint: null
+      hint: Describe any precautions taken while performing electrical work
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: personal_equipment
-      label: personal_equipment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: electrical_shock
-      label: electrical_shock
+      name: review_precautions
+      label: Review Precautions
       hint: null
       type: select_one
       options:
-      - electrical_shock_hazard
-      - electrical_shock_risk
-      required: false
-    - id: 4
-      name: lockout_tag
-      label: lockout_tag
-      hint: null
+      - review precautions 1
+      - review precautions 2
+      required: true
+    - id: 3
+      name: electrical_lockout_tag
+      label: Lockout Tag
+      hint: Complete lockout tag with all electrical disconnects
       type: select_multiple
       options:
-      - lockout_tag_required
-      - lockout_tag_inadequate
+      - lockout tag required
+      - lockout tag inadequate
+      required: true
+    - id: 4
+      name: electrical_lockout_precautions
+      label: Electrical Lockout Precautions
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 5
-      name: electrical_shock_prevention
-      label: electrical_shock_prevention
+      name: electrical_shock_prevention_precautions
+      label: Electrical Shock Prevention Precautions
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: electrical_lockout
-      label: electrical_lockout
+      name: review_precautions_precautions
+      label: Review Precautions Precautions
       hint: null
-      type: select_multiple
-      options:
-      - electrical_lockout_complete
-      - electrical_lockout_incomplete
+      type: text
+      options: []
       required: false
     - id: 7
-      name: electrical_lockout_tag
-      label: electrical_lockout_tag
+      name: electrical_lockout_tag_precautions
+      label: Electrical Lockout Tag Precautions
       hint: null
-      type: select_multiple
-      options:
-      - electrical_lockout_tag_complete
-      - electrical_lockout_tag_incomplete
+      type: text
+      options: []
       required: false
     - id: 8
-      name: electrical_lockout_precautions
-      label: electrical_lockout_precautions
+      name: electrical_lockout_precautions_precautions
+      label: Electrical Lockout Precautions Precautions
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: review_precautions
-      label: review_precautions
+      name: electrical_shock_precautions
+      label: Electrical Shock Precautions
       hint: null
-      type: select_one
-      options:
-      - review_precautions_1
-      - review_precautions_2
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 10
-      name: review_precautions_details
-      label: review_precautions_details
+      name: review_precautions_precautions_precautions
+      label: Review Precautions Precautions Precautions
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: lockout_precautions
-      label: lockout_precautions
+      name: lockout_tag_precautions
+      label: Lockout Tag Precautions
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: electrical_shock_prevention_precautions
-      label: electrical_shock_prevention_precautions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: electrical_lockout_precautions_precautions
-      label: electrical_lockout_precautions_precautions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: review_precautions_precautions
-      label: review_precautions_precautions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: review_precautions_review
-      label: review_precautions_review
-      hint: null
-      type: select_multiple
-      options:
-      - review_precautions_review_1
-      - review_precautions_review_2
-      required: false
-    - id: 16
-      name: lockout_precautions_precautions
-      label: lockout_precautions_precautions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: electrical_lockout_tag_precautions
-      label: electrical_lockout_tag_precautions
-      hint: null
-      type: select_multiple
-      options:
-      - electrical_lockout_tag_precautions_complete
-      - electrical_lockout_tag_precautions_incomplete
-      required: false
-    - id: 18
-      name: review_precautions_precautions_details
-      label: review_precautions_precautions_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: lockout_tag_precautions_precautions
-      label: lockout_tag_precautions_precautions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: electrical_shock_risk_precautions
-      label: electrical_shock_risk_precautions
-      hint: null
-      type: select_multiple
-      options:
-      - electrical_shock_risk_precautions_complete
-      - electrical_shock_risk_precautions_incomplete
-      required: false
-    - id: 21
-      name: review_precautions_precautions_precautions
-      label: review_precautions_precautions_precautions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: lockout_tag_precautions
-      label: lockout_tag_precautions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: electrical_lockout_precautions_precautions
-      label: electrical_lockout_precautions_precautions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: review_precautions_precautions_details
-      label: review_precautions_precautions_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: electrical_lockout_precautions
-      label: electrical_lockout_precautions
+      name: electrical_lockout_precautions_precautions_2
+      label: Electrical Lockout Precautions Precautions 2
       hint: null
       type: text
       options: []

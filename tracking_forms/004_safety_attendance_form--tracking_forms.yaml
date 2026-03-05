@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: comments
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''weekly'', ''label'': ''Weekly''}'
-      - '{''value'': ''monthly'', ''label'': ''Monthly''}'
-      - '{''value'': ''quarterly'', ''label'': ''Quarterly''}'
+      - Weekly
+      - Monthly
+      - Quarterly
       required: false
     - id: 17
       name: safety_meeting_frequency
@@ -126,11 +126,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''daily'', ''label'': ''Daily''}'
-      - '{''value'': ''weekly'', ''label'': ''Weekly''}'
-      - '{''value'': ''monthly'', ''label'': ''Monthly''}'
-      - '{''value'': ''quarterly'', ''label'': ''Quarterly''}'
-      - '{''value'': ''never'', ''label'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
       required: false
     - id: 18
       name: safety_meeting_status
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active'', ''label'': ''Active''}'
-      - '{''value'': ''inactive'', ''label'': ''Inactive''}'
-      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: false
     - id: 19
       name: safety_meeting_description
@@ -176,9 +176,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active'', ''label'': ''Active''}'
-      - '{''value'': ''inactive'', ''label'': ''Inactive''}'
-      - '{''value'': ''completed'', ''label'': ''Completed''}'
+      - Active
+      - Inactive
+      - Completed
       required: false
     - id: 24
       name: meeting_start_time

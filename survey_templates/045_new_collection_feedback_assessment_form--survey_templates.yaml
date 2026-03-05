@@ -16,230 +16,93 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: new_collection_feedback_assessment_form
-      hint: null
+      label: New Collection Feedback
+      hint: Please provide a brief title for your feedback
       type: text
       options: []
       required: false
     - id: 2
-      name: form_title
-      label: collection_name
-      hint: null
+      name: collection_name
+      label: Collection Name
+      hint: What is the name of the collection you are providing feedback on?
       type: text
       options: []
       required: false
     - id: 3
-      name: form_collection_name
-      label: collection_name
-      hint: null
+      name: collection_description
+      label: Collection Description
+      hint: Please provide a brief description of the collection
       type: text
       options: []
       required: false
     - id: 4
-      name: form_collection_name
-      label: collection_name
+      name: what_did_you_think_of_when_you_saw_the_collection
+      label: What did you think of when you saw the collection?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: form_question_1
-      label: what_did_you_think_of_when_you_saw_the_collection
+      name: what_did_you_like_most_about_the_collection
+      label: What did you like most about the collection?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: form_question_1
-      label: what_did_you_think_of_when_you_saw_the_collection
+      name: what_did_you_like_least_about_the_collection
+      label: What did you like least about the collection?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: form_question_2
-      label: what_did_you_like_most_about_the_collection
-      hint: null
-      type: text
-      options: []
+      name: form_collection_satisfaction
+      label: Rate your satisfaction with the collection
+      hint: Rate on a scale from 1 to 10
+      type: select_one
+      options:
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 8
-      name: form_question_2
-      label: what_did_you_like_most_about_the_collection
-      hint: null
-      type: text
-      options: []
+      name: would_you_recommend_this_collection_to_a_friend
+      label: Would you recommend this collection to a friend?
+      hint: Yes or No
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: form_question_3
-      label: what_did_you_like_least_about_the_collection
-      hint: null
+      name: suggestions_for_improvement
+      label: What would you like to see improved in the collection?
+      hint: Any suggestions for improvement?
       type: text
       options: []
       required: false
     - id: 10
-      name: form_question_3
-      label: what_did_you_like_least_about_the_collection
-      hint: null
+      name: form_collection_satisfaction_2
+      label: Form Collection Satisfaction 2
+      hint: Rate on a scale from 1 to 10
+      type: select_one
+      options:
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
+      required: false
+    - id: 11
+      name: form_question_1
+      label: Additional comments
+      hint: Any additional comments about the collection?
       type: text
       options: []
       required: false
-    - id: 11
-      name: form_collection_satisfaction
-      label: what_did_you_rate_your_satisfaction_with_the_collection
-      hint: Rate on a scale from 1 to 10
-      type: select_one
-      options:
-      - '1'
-      - '10'
-      required: false
     - id: 12
-      name: form_collection_satisfaction
-      label: what_did_you_rate_your_satisfaction_with_the_collection
-      hint: Rate on a scale from 1 to 10
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      - '6'
-      - '7'
-      - '8'
-      - '9'
-      - '10'
-      required: false
-    - id: 13
-      name: form_collection_satisfaction
-      label: what_did_you_rate_your_satisfaction_with_the_collection
-      hint: Rate on a scale from 1 to 10
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      - '6'
-      - '7'
-      - '8'
-      - '9'
-      - '10'
-      required: false
-    - id: 14
-      name: form_collection_satisfaction
-      label: what_did_you_rate_your_satisfaction_with_the_collection
-      hint: Rate on a scale from 1 to 10
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      - '6'
-      - '7'
-      - '8'
-      - '9'
-      - '10'
-      required: false
-    - id: 15
-      name: form_question_1
-      label: would_you_recommend_this_collection_to_a_friend
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 16
-      name: form_question_1
-      label: would_you_recommend_this_collection_to_a_friend
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 17
-      name: form_question_1
-      label: would_you_recommend_this_collection_to_a_friend
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 18
-      name: form_question_1
-      label: would_you_recommend_this_collection_to_a_friend
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 19
-      name: form_question_1
-      label: would_you_recommend_this_collection_to_a_friend
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 20
-      name: form_question_1
-      label: would_you_recommend_this_collection_to_a_friend
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 21
-      name: form_question_1
-      label: would_you_recommend_this_collection_to_a_friend
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 22
-      name: form_question_1
-      label: would_you_recommend_this_collection_to_a_friend
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 23
-      name: form_question_1
-      label: would_you_recommend_this_collection_to_a_friend
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 24
-      name: form_question_1
-      label: would_you_recommend_this_collection_to_a_friend
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 25
-      name: form_question_1
-      label: would_you_recommend_this_collection_to_a_friend
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
+      name: form_question_1_2
+      label: Contact Information
+      hint: Please provide your contact information for follow up
+      type: text
+      options: []
       required: false

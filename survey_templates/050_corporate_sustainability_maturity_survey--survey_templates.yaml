@@ -29,86 +29,88 @@ inputSchema:
       options: []
       required: false
     - id: 3
-      name: domain_page
-      label: Domain
-      hint: null
+      name: sustainability_management_page
+      label: Sustainability Management
+      hint: Describe your approach to sustainability management.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: human_rights_page
+      label: Human Rights
+      hint: How important is human rights in the company's operations?
       type: select_one
       options:
-      - '1: Sustainability Management'
-      - '2: Human Rights'
-      - '3: Environmental Impact'
-      - '4: Stakeholder Engagement'
-      - '5: Social and Ethical'
-      - '6: Community'
-      required: false
-    - id: 4
-      name: maturity_level_page
-      label: Maturity Level
-      hint: null
-      type: select_multiple
-      options:
-      - '1: High'
-      - '2: Medium'
-      - '3: Low'
-      - '4: Not Applicable'
-      required: false
+      - High
+      - Medium
+      - Low
+      - Not Applicable
+      required: true
     - id: 5
-      name: challenges_page
-      label: Challenges
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: challenges_page
-      label: Challenges
-      hint: null
+      name: environmental_impact_page
+      label: Environmental Impact
+      hint: How does the company measure its environmental impact?
       type: select_multiple
       options:
-      - '1: Lack of clear objectives'
-      - '2: Limited resources'
-      - '3: Lack of clear policies'
-      - '4: Lack of clear communication'
-      - '5: Lack of clear metrics'
-      required: false
-    - id: 7
-      name: challenges_page
-      label: Challenges
-      hint: null
+      - Greenhouse Gas Emissions
+      - Water Usage
+      - Energy Consumption
+      - Waste Management
+      - Recycling
+      required: true
+    - id: 6
+      name: stakeholder_engagement_page
+      label: Stakeholder Engagement
+      hint: How does the company engage with stakeholders to promote transparency
+        and accountability?
       type: text
       options: []
-      required: false
+      required: true
+    - id: 7
+      name: social_ethics_page
+      label: Social and Ethical
+      hint: What are the company's key social and ethical priorities?
+      type: select_multiple
+      options:
+      - Diversity and Inclusion
+      - Human Rights
+      - Fair Labor Practices
+      - Supply Chain Responsibility
+      required: true
     - id: 8
-      name: introduction_page
-      label: Introduction
-      hint: null
-      type: note
+      name: community_page
+      label: Community
+      hint: How does the company contribute to the well-being of local communities?
+      type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: conclusion_page
-      label: Conclusion
-      hint: null
-      type: note
-      options: []
-      required: false
+      name: challenges_page
+      label: Challenges
+      hint: What are some of the main challenges the company faces in achieving its
+        sustainability goals?
+      type: select_multiple
+      options:
+      - Lack of clear objectives
+      - Limited resources
+      - Lack of clear policies
+      - Lack of clear communication
+      - Lack of clear metrics
+      required: true
     - id: 10
       name: submission_page
       label: Submission
       hint: null
       type: select_one
       options:
-      - '1: Submit'
-      - '2: Save Draft'
-      - '3: Cancel'
-      required: false
+      - Submit
+      - Save Draft
+      - Cancel
+      required: true
     - id: 11
-      name: submission_page
-      label: Submission
+      name: conclusion_page
+      label: Conclusion
       hint: null
-      type: select_multiple
-      options:
-      - '1: Submit'
-      - '2: Save Draft'
-      - '3: Cancel'
+      type: note
+      options: []
       required: false

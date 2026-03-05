@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': False}'
-      - '{''value'': 3, ''label'': ''Sometimes''}'
-      - '{''value'': 4, ''label'': ''Unable to determine''}'
+      - 'True'
+      - 'False'
+      - Sometimes
+      - Unable to determine
       required: true
     - id: 4
       name: communication_skills
@@ -69,11 +69,11 @@ inputSchema:
       hint: On a scale of 1-5
       type: select_one
       options:
-      - '{''value'': 1, ''label'': 1}'
-      - '{''value'': 2, ''label'': 2}'
-      - '{''value'': 3, ''label'': 3}'
-      - '{''value'': 4, ''label'': 4}'
-      - '{''value'': 5, ''label'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 10
       name: peer_rating
@@ -81,16 +81,16 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': 1}'
-      - '{''value'': 2, ''label'': 2}'
-      - '{''value'': 3, ''label'': 3}'
-      - '{''value'': 4, ''label'': 4}'
-      - '{''value'': 5, ''label'': 5}'
-      - '{''value'': 6, ''label'': 6}'
-      - '{''value'': 7, ''label'': 7}'
-      - '{''value'': 8, ''label'': 8}'
-      - '{''value'': 9, ''label'': 9}'
-      - '{''value'': 10, ''label'': 10}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
       required: true
     - id: 11
       name: teacher_comments

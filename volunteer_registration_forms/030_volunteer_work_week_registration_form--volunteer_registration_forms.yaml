@@ -74,7 +74,6 @@ inputSchema:
       options:
       - Volunteer
       - Staff
-      - Volunteer
       - Other
       required: true
     - id: 11
@@ -103,7 +102,7 @@ inputSchema:
       type: select_one
       options:
       - chatjimmy
-      - chatjimmy
+      - Other
       required: true
     - id: 14
       name: category
@@ -127,49 +126,49 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 030_volunteer_work_week_registration_form--volunteer_registration_forms
-      - 031_volunteer_work_week_registration_form--volunteer_registration_forms
+      - 030 volunteer work week registration form--volunteer registration forms
+      - 031 volunteer work week registration form--volunteer registration forms
       required: false
     - id: 17
-      name: description
-      label: description
+      name: description_2
+      label: Description 2
       hint: null
       type: note
       options: []
       required: false
     - id: 18
-      name: description
-      label: description
+      name: description_3
+      label: Description 3
       hint: null
       type: text
       options: []
       required: false
     - id: 19
-      name: assigned_tool
-      label: assigned_tool
+      name: assigned_tool_2
+      label: Assigned Tool 2
       hint: null
       type: select_one
       options:
       - chatjimmy
-      - chatjimmy
+      - Other
       required: false
     - id: 20
-      name: form_ids
-      label: form_ids
+      name: form_ids_2
+      label: Form Ids 2
       hint: null
       type: text
       options: []
       required: false
     - id: 21
-      name: description
-      label: description
+      name: description_4
+      label: Description 4
       hint: null
       type: note
       options: []
       required: false
     - id: 22
-      name: category
-      label: category
+      name: category_2
+      label: Category 2
       hint: null
       type: select_multiple
       options:
@@ -177,8 +176,8 @@ inputSchema:
       - Other
       required: false
     - id: 23
-      name: output_file
-      label: output_file
+      name: output_file_2
+      label: Output File 2
       hint: null
       type: select_multiple
       options:
@@ -186,15 +185,15 @@ inputSchema:
       - 'No'
       required: false
     - id: 24
-      name: description
-      label: description
+      name: description_5
+      label: Description 5
       hint: null
       type: text
       options: []
       required: false
     - id: 25
-      name: form_ids
-      label: form_ids
+      name: form_ids_3
+      label: Form Ids 3
       hint: null
       type: text
       options: []

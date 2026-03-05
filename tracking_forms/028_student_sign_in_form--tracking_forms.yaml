@@ -5,67 +5,69 @@ inputSchema:
     pages:
     - id: 1
       name: student_id
-      label: Student Id
+      label: Student ID
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
       name: name
       label: Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: date
       label: Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
       name: time
       label: Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 5
       name: school_id
-      label: School Id
+      label: School ID
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 6
       name: teacher_id
-      label: Teacher Id
+      label: Teacher ID
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 7
       name: attendance
       label: Attendance
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 8
       name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 9
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
       name: notes
       label: Notes
@@ -74,130 +76,20 @@ inputSchema:
       options: []
       required: false
     - id: 11
-      name: form_id
-      label: Form Id
+      name: assigned_tool
+      label: Assigned Tool
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Form Builder
+      - Form Manager
+      - Chart.js
+      - Other
+      required: true
     - id: 12
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - Form Builder
-      - Form Manager
-      - Chart.js
-      required: true
-    - id: 13
       name: form_id
-      label: Form Id
+      label: Form ID
       hint: null
       type: number
       options: []
-      required: false
-    - id: 14
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - Form Builder
-      - Form Manager
-      - Chart.js
-      required: false
-    - id: 15
-      name: form_id
-      label: Form Id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - Form Builder
-      - Form Manager
-      - Chart.js
-      required: false
-    - id: 17
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - -.report - 'Chart.js'
-      - Other
       required: true
-    - id: 18
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - Form Builder
-      - Form Manager
-      required: true
-    - id: 19
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - Form Builder
-      - Other
-      required: true
-    - id: 20
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: form_id
-      label: Form Id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - Form Manager
-      - Other
-      required: false
-    - id: 23
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - Chart.js
-      - Other
-      required: true
-    - id: 25
-      name: form_id
-      label: Form Id
-      hint: null
-      type: number
-      options: []
-      required: false

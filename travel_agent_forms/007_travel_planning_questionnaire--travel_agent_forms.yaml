@@ -1,98 +1,84 @@
 inputSchema:
   type: object
   properties:
-    title: travel_planning_questionnaire
+    title: Travel Planning Questionnaire
     pages:
     - id: 1
-      name: travel_agent_form
-      label: Travel Agent Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: travel_date
-      label: travel_date
+      label: What is the travel date?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 3
+      required: true
+    - id: 2
       name: travel_length
-      label: travel_length
+      label: How long do you plan to travel?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 4
+      required: true
+    - id: 3
       name: travel_agent
-      label: travel_agent
+      label: Who is your preferred travel agent?
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Agent A''}'
-      - '{''text'': ''Agent B''}'
-      - '{''text'': ''Agent C''}'
-      required: false
-    - id: 5
-      name: travel_agent_form
-      label: Travel Agent Form
+      - One day
+      - Two days
+      - Three days
+      required: true
+    - id: 4
+      name: travel_agents
+      label: Which travel agents do you prefer to contact for your travel plans?
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Agent A''}'
-      - '{''text'': ''Agent B''}'
-      - '{''text'': ''Agent C''}'
-      required: false
-    - id: 6
-      name: travel_duration
-      label: travel_duration
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
+      - Agent A
+      - Agent B
+      - Agent C
+      required: true
+    - id: 5
       name: travel_budget
-      label: travel_budget
+      label: What is your travel budget?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 6
       name: travel_notes
-      label: travel_notes
+      label: Do you have any travel notes or comments?
       hint: null
       type: note
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 7
       name: travel_email
-      label: travel_email
+      label: What is your email address?
       hint: null
       type: email
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 8
       name: travel_phone
-      label: travel_phone
+      label: What is your phone number?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: travel_agent_form
-      label: Travel Agent Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: travel_length
-      label: travel_length
+      required: true
+    - id: 9
+      name: travel_days
+      label: How many days do you plan to stay?
       hint: null
       type: select_one
       options:
-      - '{''text'': ''One day''}'
-      - '{''text'': ''Two days''}'
-      - '{''text'': ''Three days''}'
+      - One day
+      - Two days
+      - Three days
+      required: true
+    - id: 10
+      name: travel_form
+      label: Do you have any other requests or questions for us?
+      hint: null
+      type: text
+      options: []
       required: false

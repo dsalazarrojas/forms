@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''male''}'
-      - '{''id'': 2, ''name'': ''female''}'
-      - '{''id'': 3, ''name'': ''other''}'
+      - male
+      - female
+      - other
       required: false
     - id: 4
       name: phone_usage
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Several times a week''}'
-      - '{''id'': 3, ''name'': ''Rarely''}'
-      - '{''id'': 4, ''name'': ''Never''}'
+      - Daily
+      - Several times a week
+      - Rarely
+      - Never
       required: false
     - id: 5
       name: screen_size
@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Small''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Large''}'
-      - '{''id'': 4, ''name'': ''Extra Large''}'
+      - Small
+      - Medium
+      - Large
+      - Extra Large
       required: false
     - id: 6
       name: phone_os
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 7, ''name'': ''iOS''}'
-      - '{''id'': 8, ''name'': ''Android''}'
-      - '{''id'': 9, ''name'': ''other''}'
+      - iOS
+      - Android
+      - other
       required: false
     - id: 7
       name: social_media
@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 11, ''name'': ''Facebook''}'
-      - '{''id'': 12, ''name'': ''Twitter''}'
-      - '{''id'': 13, ''name'': ''Instagram''}'
-      - '{''id'': 14, ''name'': ''Other''}'
+      - Facebook
+      - Twitter
+      - Instagram
+      - Other
       required: false
     - id: 8
       name: email_address
@@ -97,10 +97,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 19, ''name'': ''Always''}'
-      - '{''id'': 20, ''name'': ''Often''}'
-      - '{''id'': 21, ''name'': ''Sometimes''}'
-      - '{''id'': 22, ''name'': ''Rarely''}'
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
       required: false
     - id: 12
       name: battery_life
@@ -108,10 +108,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 24, ''name'': ''0-10''}'
-      - '{''id'': 25, ''name'': ''10-20''}'
-      - '{''id'': 26, ''name'': ''20-50''}'
-      - '{''id'': 27, ''name'': ''More than 50''}'
+      - 0-10
+      - 10-20
+      - 20-50
+      - More than 50
       required: false
     - id: 13
       name: additional_comments

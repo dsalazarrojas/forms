@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 0, ''value'': ''Poor''}'
-      - '{''label'': 1, ''value'': ''Fair''}'
-      - '{''label'': 2, ''value'': ''Good''}'
-      - '{''label'': 3, ''value'': ''Excellent''}'
+      - '0'
+      - '1'
+      - '2'
+      - '3'
       required: true
     - id: 6
       name: pain_level
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': 0, ''value'': ''None''}'
-      - '{''label'': 1, ''value'': ''Minor''}'
-      - '{''label'': 2, ''value'': ''Moderate''}'
-      - '{''label'': 3, ''value'': ''Severe''}'
+      - '0'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 7
       name: mental_health_condition

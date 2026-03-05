@@ -15,37 +15,44 @@ inputSchema:
     title: Mobile Computing Knowledge Quiz
     pages:
     - id: 1
-      name: mobile_computing_knowledge_quiz
-      label: What_is_the_role_of_the_operating_system
-      hint: null
-      type: select_one
-      options:
-      - Android
-      - iOS
-      - Windows
-      - Other
-      required: false
-    - id: 2
-      name: which_of_the_following_are_characteristic_of_mobile_computing
-      label: characteristic_of_mobile_computing
-      hint: null
-      type: select_multiple
-      options:
-      - Portability
-      - Accessibility
-      - Flexibility
-      - Cost
-      required: false
-    - id: 3
-      name: what_is_the_difference_between_wi
-      label: what_is_the_difference_between_wifi
+      name: mobile_computing_knowledge_quiz_page_1
+      label: Mobile Computing Knowledge Quiz Page 1
       hint: null
       type: text
       options: []
       required: false
+    - id: 2
+      name: question_2
+      label: What is the role of the operating system?
+      hint: null
+      type: select_one
+      options:
+      - Android OS
+      - iOS
+      - Windows
+      - Linux
+      required: false
+    - id: 3
+      name: question_3
+      label: Which of the following are characteristics of mobile computing?
+      hint: null
+      type: select_multiple
+      options:
+      - Portable
+      - Accessible
+      - Flexible
+      - Secure
+      required: false
     - id: 4
-      name: what_is_the_primary_function_of_an_app
-      label: primary_function_of_an_application
+      name: question_4
+      label: What is the difference between Wi-Fi and other wireless technologies?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_5
+      label: What is the primary function of an app?
       hint: null
       type: select_one
       options:
@@ -54,182 +61,76 @@ inputSchema:
       - Entertainment
       - Security
       required: false
-    - id: 5
-      name: which_of_the_following_is_a_component
-      label: component_of_a_mobile_device
+    - id: 6
+      name: question_6
+      label: What are the components of a mobile device?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - CPU
       - GPU
       - RAM
       - Storage
       required: false
-    - id: 6
-      name: what_is_an_example_of_a_mobile_computing_device
-      label: example_of_a_mobile_device
+    - id: 7
+      name: question_7
+      label: What are some examples of mobile computing devices?
       hint: null
       type: select_multiple
       options:
       - Smartphone
       - Laptop
       - PDA
-      - None
+      - Smartwatch
       required: false
-    - id: 7
-      name: what_is_the_primary_input_method
-      label: primary_input_method
+    - id: 8
+      name: question_8
+      label: What is the primary input method for mobile devices?
       hint: null
       type: select_one
       options:
       - Touchscreen
       - Keyboard
       - Voice
-      - None
+      - Stylus
       required: false
-    - id: 8
-      name: what_is_the_difference_between_a
-      label: difference_between_a
+    - id: 9
+      name: question_9
+      label: What are the differences between mobile and other devices?
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: what_is_an_example_of_a_mobile
-      label: example_of_a_mobile_application
+    - id: 10
+      name: question_10
+      label: What are some examples of mobile applications?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - Weather
       - Maps
       - Games
       - Social Media
       required: false
-    - id: 10
-      name: what_is_an_example_of_a
-      label: example_of_a
+    - id: 11
+      name: question_11
+      label: What are some examples of popular mobile applications?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - Google Maps
       - Uber
       - Facebook
       - Amazon
       required: false
-    - id: 11
-      name: what_is_the_primary_output_method
-      label: primary_output_method
+    - id: 12
+      name: question_12
+      label: What are the output methods for mobile devices?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - Display
       - Sound
       - Vibration
       - None
-      required: false
-    - id: 12
-      name: what_is_an_example_of_a
-      label: example_of_a
-      hint: null
-      type: select_multiple
-      options:
-      - Touchscreen
-      - Keyboard
-      - Voice
-      - None
-      required: false
-    - id: 13
-      name: what_is_an_example_of
-      label: example_of_a
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: what_is_an_example_of
-      label: example_of_an
-      hint: null
-      type: select_multiple
-      options:
-      - Google Maps
-      - Uber
-      - Amazon
-      - Facebook
-      required: false
-    - id: 15
-      name: what_is_the_name_of
-      label: name_of
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: what_is_an_example_of
-      label: example_of
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: what_is_an_example_of
-      label: example_of_a
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: what_is_an_example_of
-      label: example_of_an
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: what_is_an_example_of
-      label: example_of_a
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: what_is_an_example
-      label: example
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: what_is_an_example
-      label: example
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: what_is_an_example
-      label: example
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: what_is_an_example
-      label: example
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: what_is_an_example
-      label: example
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: what_is_an_example
-      label: example
-      hint: null
-      type: text
-      options: []
       required: false

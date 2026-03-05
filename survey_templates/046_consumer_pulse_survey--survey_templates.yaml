@@ -1,238 +1,227 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Consumer Pulse Survey
     pages:
-      - id: 1
-        name: respondent_id
-        label: Respondent ID
-        hint: Optional identification number
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: survey_date
-        label: Survey Date
-        hint: Date of completion
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: age_range
-        label: Age Range
-        hint: Select your age group
-        type: select_one
-        options:
-          - Under 18
-          - 18-24
-          - 25-34
-          - 35-44
-          - 45-54
-          - 55-64
-          - 65+
-        required: true
-      - id: 4
-        name: gender
-        label: Gender
-        hint: Select your gender
-        type: select_one
-        options:
-          - Male
-          - Female
-          - Non-Binary
-          - Prefer Not to Say
-          - Other
-        required: false
-      - id: 5
-        name: location
-        label: Location
-        hint: City and state
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: overall_satisfaction
-        label: Overall Satisfaction
-        hint: Rate your overall satisfaction
-        type: select_one
-        options:
-          - Very Satisfied
-          - Satisfied
-          - Neutral
-          - Dissatisfied
-          - Very Dissatisfied
-        required: true
-      - id: 7
-        name: brand_perception
-        label: Brand Perception
-        hint: How do you view our brand
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Below Average
-          - Poor
-        required: true
-      - id: 8
-        name: product_quality
-        label: Product Quality
-        hint: Rate the quality of products
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Below Average
-          - Poor
-        required: true
-      - id: 9
-        name: customer_service
-        label: Customer Service
-        hint: Rate customer service
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Below Average
-          - Poor
-        required: true
-      - id: 10
-        name: value_for_money
-        label: Value for Money
-        hint: Rate the value
-        type: select_one
-        options:
-          - Excellent Value
-          - Good Value
-          - Fair Value
-          - Poor Value
-          - Very Poor Value
-        required: true
-      - id: 11
-        name: likelihood_recommend
-        label: Likelihood to Recommend
-        hint: How likely to recommend to others
-        type: select_one
-        options:
-          - Very Likely
-          - Likely
-          - Neutral
-          - Unlikely
-          - Very Unlikely
-        required: true
-      - id: 12
-        name: recent_experience
-        label: Recent Experience
-        hint: Describe your recent experience
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: purchase_intent
-        label: Purchase Intention
-        hint: How likely to purchase in next 3 months
-        type: select_one
-        options:
-          - Very Likely
-          - Likely
-          - Neutral
-          - Unlikely
-          - Very Unlikely
-        required: true
-      - id: 14
-        name: trust_level
-        label: Trust Level
-        hint: How much do you trust the brand
-        type: select_one
-        options:
-          - Completely Trust
-          - Mostly Trust
-          - Somewhat Trust
-          - Slightly Trust
-          - Do Not Trust
-        required: true
-      - id: 15
-        name: communication_rating
-        label: Communication Rating
-        hint: Rate our communications
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Below Average
-          - Poor
-        required: false
-      - id: 16
-        name: website_experience
-        label: Website Experience
-        hint: Rate your website experience
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Below Average
-          - Poor
-          - Not Applicable
-        required: false
-      - id: 17
-        name: social_media_engagement
-        label: Social Media Engagement
-        hint: Do you follow us on social media
-        type: select_one
-        options:
-          - Yes, Multiple Platforms
-          - Yes, One Platform
-          - No
-        required: false
-      - id: 18
-        name: improvement_priorities
-        label: Improvement Priorities
-        hint: Select what needs most improvement
-        type: select_multiple
-        options:
-          - Product Quality
-          - Pricing
-          - Customer Service
-          - Website
-          - Delivery Speed
-          - Product Variety
-          - Communication
-          - Returns Process
-          - Other
-        required: false
-      - id: 19
-        name: top_satisfaction_driver
-        label: Top Satisfaction Driver
-        hint: What matters most to you
-        type: select_one
-        options:
-          - Product Quality
-          - Price
-          - Customer Service
-          - Convenience
-          - Brand Reputation
-          - Innovation
-          - Sustainability
-        required: true
-      - id: 20
-        name: additional_feedback
-        label: Additional Feedback
-        hint: Any other thoughts to share
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: respondent_id
+      label: Respondent ID
+      hint: Optional identification number
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_date
+      label: Survey Date
+      hint: Date of completion
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: age_range
+      label: Age Range
+      hint: Select your age group
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: City and state
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your overall satisfaction
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 7
+      name: brand_perception
+      label: Brand Perception
+      hint: How do you view our brand
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 8
+      name: product_quality
+      label: Product Quality
+      hint: Rate the quality of products
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 9
+      name: customer_service
+      label: Customer Service
+      hint: Rate customer service
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 10
+      name: value_for_money
+      label: Value for Money
+      hint: Rate the value
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 11
+      name: likelihood_recommend
+      label: Likelihood to Recommend
+      hint: How likely to recommend to others
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 12
+      name: recent_experience
+      label: Recent Experience
+      hint: Describe your recent experience
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: purchase_intent
+      label: Purchase Intention
+      hint: How likely to purchase in next 3 months
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 14
+      name: trust_level
+      label: Trust Level
+      hint: How much do you trust the brand
+      type: select_one
+      options:
+      - Completely Trust
+      - Mostly Trust
+      - Somewhat Trust
+      - Slightly Trust
+      - Do Not Trust
+      required: true
+    - id: 15
+      name: communication_rating
+      label: Communication Rating
+      hint: Rate our communications
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: false
+    - id: 16
+      name: website_experience
+      label: Website Experience
+      hint: Rate your website experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 17
+      name: social_media_engagement
+      label: Social Media Engagement
+      hint: Do you follow us on social media
+      type: select_one
+      options:
+      - Yes, Multiple Platforms
+      - Yes, One Platform
+      - 'False'
+      required: false
+    - id: 18
+      name: improvement_priorities
+      label: Improvement Priorities
+      hint: Select what needs most improvement
+      type: select_multiple
+      options:
+      - Product Quality
+      - Pricing
+      - Customer Service
+      - Website
+      - Delivery Speed
+      - Product Variety
+      - Communication
+      - Returns Process
+      - Other
+      required: false
+    - id: 19
+      name: top_satisfaction_driver
+      label: Top Satisfaction Driver
+      hint: What matters most to you
+      type: select_one
+      options:
+      - Product Quality
+      - Price
+      - Customer Service
+      - Convenience
+      - Brand Reputation
+      - Innovation
+      - Sustainability
+      required: true
+    - id: 20
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other thoughts to share
+      type: text
+      options: []
+      required: false

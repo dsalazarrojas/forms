@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Workflow''}'
-      - '{''id'': 2, ''name'': ''Product''}'
-      - '{''id'': 3, ''name'': ''Service''}'
+      - Workflow
+      - Product
+      - Service
       required: true
     - id: 3
       name: suggestion
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Other''}'
-      - '{''id'': 2, ''name'': ''Workflow''}'
-      - '{''id'': 3, ''name'': ''Product''}'
+      - Other
+      - Workflow
+      - Product
       required: true
     - id: 5
       name: impact
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 6
       name: benefit
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: comments
@@ -132,12 +132,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''New''}'
-      - '{''id'': 2, ''name'': ''In Progress''}'
-      - '{''id'': 3, ''name'': ''Approved''}'
-      - '{''id'': 4, ''name'': ''Approved (Archived)''}'
-      - '{''id'': 5, ''name'': ''Closed''}'
-      - '{''id'': 6, ''name'': ''Rejected''}'
+      - New
+      - In Progress
+      - Approved
+      - Approved (Archived)
+      - Closed
+      - Rejected
       required: true
     - id: 18
       name: created_by
@@ -187,9 +187,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 25
       name: tags

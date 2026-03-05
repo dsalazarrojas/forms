@@ -4,151 +4,146 @@ inputSchema:
     title: Student Council Nomination Form
     pages:
     - id: 1
-      name: student_council_nominations
-      label: Student Nominations
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: Role of Interest
+      hint: null
+      type: select_one
+      options:
+      - President
+      - Vice President
+      - Secretary
+      - Treasurer
+      - Other
+      required: true
+    - id: 4
+      name: available
+      label: Available to Serve
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 2
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: name_title
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: position_id
-      label: Position
-      hint: null
-      type: text
-      options: []
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 5
-      name: name_title
-      label: Name
+      name: skills
+      label: Skills and Strengths
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: student_council_nominations
-      label: Student Nominations
+      name: availability
+      label: Availability
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: date
+      options: []
       required: false
     - id: 7
-      name: name
-      label: Name
+      name: contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: name_title
-      label: Name
+      name: position_id
+      label: Position Desires
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: position_id
-      label: Position
+      name: student_council_nominations
+      label: Student Council Nominations
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 10
-      name: name_title
-      label: Name
+      name: student_council_committee
+      label: Student Council Committee
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: student_council_nominations
-      label: Student Nominations
+      name: school_events
+      label: School Events
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: name
-      label: Name
+      name: extracurricular_activities
+      label: Extracurricular Activities
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 13
-      name: name_title
-      label: Name
+      name: student_leadership
+      label: Student Leadership
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 14
-      name: position_id
-      label: Position
+      name: class_representative
+      label: Class Representative
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: position_ideas
+      label: Position Ideas
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
-      name: student_council_nominations
-      label: Student Nominations
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 16
-      name: name
-      label: Name
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 17
       name: name_title
-      label: Name
+      label: Name Title
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: position_id
+      name: position_id_2
       label: Position
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: student_council_nominations
-      label: Student Nominations
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: name
-      label: Name
       hint: null
       type: text
       options: []

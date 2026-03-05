@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 5
       name: face_recognition_accuracy
@@ -55,11 +55,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very easy''}'
-      - '{''id'': 2, ''label'': ''Somewhat easy''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Somewhat difficult''}'
-      - '{''id'': 5, ''label'': ''Very difficult''}'
+      - Very easy
+      - Somewhat easy
+      - Neutral
+      - Somewhat difficult
+      - Very difficult
       required: false
     - id: 8
       name: face_recognition_helpfulness
@@ -67,11 +67,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Very helpful''}'
-      - '{''id'': 2, ''label'': ''Somewhat helpful''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Somewhat unhelpful''}'
-      - '{''id'': 5, ''label'': ''Very unhelpful''}'
+      - Very helpful
+      - Somewhat helpful
+      - Neutral
+      - Somewhat unhelpful
+      - Very unhelpful
       required: false
     - id: 9
       name: face_recognition_confidence
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 11
       name: face_recognition_security_confidence
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 12
       name: email

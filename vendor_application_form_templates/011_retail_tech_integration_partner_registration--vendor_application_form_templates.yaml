@@ -1,192 +1,101 @@
 inputSchema:
   type: object
   properties:
-    title: retail_tech_integration_partner_registration
+    title: Retail Tech Integration Partner Registration
     pages:
     - id: 1
-      name: retail_tech_integration_partner_details
-      label: retail_tech_integration_partner_details
+      name: retail_tech_integration_interest
+      label: What is your retail tech integration interest?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 2
-      name: integration_interests
-      label: integration_interests
+      name: retail_tech_integration_interests
+      label: What are your retail tech integration interests?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 3
       name: integration_details
-      label: integration_details
+      label: Tell us more about your integration
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: consent_and_acceptance
-      label: consent_and_acceptance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: email
-      label: email
+      label: What is your business email?
       hint: null
       type: email
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: phone_number
-      label: phone_number
+      label: What is your phone number?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
+    - id: 6
+      name: integration_type
+      label: What is your integration type?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 7
-      name: integration_interests_select_one
-      label: what_is_your_integration_interest
+      name: integration_types
+      label: What are your integration types?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 8
-      name: integration_interests_select_multiple
-      label: what_are_your_integration_interests
+      name: integration_date
+      label: What is your integration date?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: date
+      options: []
+      required: true
     - id: 9
-      name: integration_details_text_area
-      label: tell_us_more_about_your_integration
+      name: integration_time
+      label: What is your integration time?
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 10
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
+      name: integration_notes
+      label: Do you have any notes about your integration?
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
+      name: other_integration_interests
+      label: Do you have any other integration interests?
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 12
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
+      name: retail_tech_integration_status
+      label: What is your retail tech integration status?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 17
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: retail_tech_integration_partner_registration
-      label: retail_tech_integration_partner_registration
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

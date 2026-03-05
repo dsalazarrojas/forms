@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Water'', ''value'': ''water''}'
-      - '{''id'': 2, ''label'': ''Foam'', ''value'': ''foam''}'
-      - '{''id'': 3, ''label'': ''Dry'', ''value'': ''dry''}'
+      - Water
+      - Foam
+      - Dry
       required: false
     - id: 3
       name: fire_extinguisher_condition
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Good'', ''value'': ''good''}'
-      - '{''id'': 2, ''label'': ''Partially Extinguished'', ''value'': ''partially_extinguished''}'
-      - '{''id'': 3, ''label'': ''Needs Recharge'', ''value'': ''needs_recharge''}'
+      - Good
+      - Partially Extinguished
+      - Needs Recharge
       required: false
     - id: 4
       name: fire_extinguisher_tag
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Kitchen'', ''value'': ''kitchen''}'
-      - '{''id'': 2, ''label'': ''Bathroom'', ''value'': ''bathroom''}'
-      - '{''id'': 3, ''label'': ''Office'', ''value'': ''office''}'
+      - Kitchen
+      - Bathroom
+      - Office
       required: false
     - id: 10
       name: notes

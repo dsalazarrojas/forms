@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''type1'', ''label'': ''type1''}'
-      - '{''id'': 2, ''name'': ''type2'', ''label'': ''type2''}'
-      - '{''id'': 3, ''name'': ''type3'', ''label'': ''type3''}'
+      - type1
+      - type2
+      - type3
       required: true
     - id: 3
       name: hinge_size
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''size1'', ''label'': ''size1''}'
-      - '{''id'': 2, ''name'': ''size2'', ''label'': ''size2''}'
-      - '{''id'': 3, ''name'': ''size3'', ''label'': ''size3''}'
+      - size1
+      - size2
+      - size3
       required: true
     - id: 4
       name: hinge_location
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''address1'', ''label'': ''address1''}'
-      - '{''id'': 2, ''name'': ''address2'', ''label'': ''address2''}'
-      - '{''id'': 3, ''name'': ''address3'', ''label'': ''address3''}'
+      - address1
+      - address2
+      - address3
       required: false
     - id: 10
       name: schedule_date
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''status1'', ''label'': ''status1''}'
-      - '{''id'': 2, ''name'': ''status2'', ''label'': ''status2''}'
-      - '{''id'': 3, ''name'': ''status3'', ''label'': ''status3''}'
+      - Status 1
+      - Status 2
+      - Status 3
       required: true
     - id: 15
       name: hinge_installation_comments

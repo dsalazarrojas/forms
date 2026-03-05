@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''A little''}'
-      - '{''id'': 3, ''label'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''A lot''}'
-      - '{''id'': 5, ''label'': ''Extremely''}'
+      - None
+      - A little
+      - Somewhat
+      - A lot
+      - Extremely
       required: true
     - id: 3
       name: anxiety_scale
@@ -39,11 +28,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''A little''}'
-      - '{''id'': 3, ''label'': ''Somewhat''}'
-      - '{''id'': 4, ''label'': ''A lot''}'
-      - '{''id'': 5, ''label'': ''Extremely''}'
+      - None
+      - A little
+      - Somewhat
+      - A lot
+      - Extremely
       required: true
     - id: 4
       name: sleep_questions
@@ -51,11 +40,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''6-7 hours''}'
-      - '{''id'': 2, ''label'': ''7-8 hours''}'
-      - '{''id'': 3, ''label'': ''8-9 hours''}'
-      - '{''id'': 4, ''label'': ''9-10 hours''}'
-      - '{''id'': 5, ''label'': ''More than 10 hours''}'
+      - 6-7 hours
+      - 7-8 hours
+      - 8-9 hours
+      - 9-10 hours
+      - More than 10 hours
       required: false
     - id: 5
       name: medical_questions
@@ -119,8 +108,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Not active''}'
+      - Active
+      - Not active
       required: true
     - id: 14
       name: medical_practice_name

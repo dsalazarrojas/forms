@@ -16,11 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': None, ''value'': ''Enjoy the weather'', ''label'': ''Enjoy
-        the weather''}'
-      - '{''options'': None, ''value'': ''Visit family and friends'', ''label'': ''Visit
-        family and friends''}'
-      - '{''options'': None, ''value'': ''Other'', ''label'': ''Other''}'
+      - Enjoy the weather
+      - Visit family and friends
+      - Other
       required: true
     - id: 3
       name: travel_method
@@ -28,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''options'': None, ''value'': ''By car'', ''label'': ''By car''}'
-      - '{''options'': None, ''value'': ''By train'', ''label'': ''By train''}'
-      - '{''options'': None, ''value'': ''By plane'', ''label'': ''By plane''}'
+      - By car
+      - By train
+      - By plane
       required: false
     - id: 4
       name: date_of_travel

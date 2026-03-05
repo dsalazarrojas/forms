@@ -16,9 +16,9 @@ inputSchema:
       hint: Select a desk to book
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Desk 1''}'
-      - '{''id'': 2, ''label'': ''Desk 2''}'
-      - '{''id'': 3, ''label'': ''Desk 3''}'
+      - Desk 1
+      - Desk 2
+      - Desk 3
       required: false
     - id: 3
       name: booking_date
@@ -75,9 +75,9 @@ inputSchema:
       hint: User who will be assigned to the desk
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''User 1''}'
-      - '{''id'': 2, ''label'': ''User 2''}'
-      - '{''id'': 3, ''label'': ''User 3''}'
+      - User 1
+      - User 2
+      - User 3
       required: false
     - id: 11
       name: comment

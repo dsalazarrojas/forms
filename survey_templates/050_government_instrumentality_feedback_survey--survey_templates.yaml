@@ -5,182 +5,176 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: Government Instrumentality Feedback Survey
+      label: Welcome to the Survey!
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: agency
-      label: agency
+      name: agency_satisfaction
+      label: Are you satisfied with the agency's work?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 3
-      name: rating_scale
-      label: Satisfaction
-      hint: null
+      name: service_rating
+      label: Rate the service provided
+      hint: Scale 1-5
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: comments
-      label: Comments
+      name: service_comments
+      label: Comments about the service
       hint: null
       type: note
       options: []
       required: false
     - id: 5
-      name: rating_scale_service
-      label: rating_scale_service
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
+      name: service_interaction_satisfaction
+      label: Satisfaction with service interaction
+      hint: Scale 1-5
+      type: number
+      options: []
       required: false
     - id: 6
-      name: satisfaction
-      label: Satisfaction
+      name: comments_service_interaction
+      label: Comments about service interaction
       hint: null
-      type: number
+      type: note
       options: []
       required: false
     - id: 7
-      name: comments_service
-      label: Comments about agency
-      hint: null
-      type: note
+      name: follow_up_satisfaction
+      label: Satisfaction with follow-up
+      hint: Scale 1-5
+      type: number
       options: []
       required: false
     - id: 8
-      name: rating_scale_citizen_interaction
-      label: rating_scale_citizen_interaction
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 9
-      name: satisfaction_citizen_interaction
-      label: Satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: comments_citizen_interaction
-      label: Comments about service
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: service_quality
-      label: How would you rate the quality of the service offered
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Poor
-      required: false
-    - id: 12
-      name: satisfaction_service_quality
-      label: Satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: comments_service_quality
-      label: Comments about service quality
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: satisfaction_follow_up
-      label: Satisfaction with follow-up
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
       name: comments_follow_up
       label: Comments about follow-up
       hint: null
       type: note
       options: []
       required: false
-    - id: 17
-      name: additional_comments
-      label: Comments
+    - id: 9
+      name: service_quality
+      label: Comments about service quality
       hint: null
       type: note
       options: []
       required: false
-    - id: 18
-      name: rating_average
-      label: rating_average
-      hint: null
+    - id: 10
+      name: service_interaction_quality
+      label: Satisfaction with service interaction quality
+      hint: Scale 1-5
       type: number
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: Are you satisfied with follow-up?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: comments_follow_up_2
+      label: Comments Follow Up 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: overall_service_quality
+      label: Satisfaction with overall service quality
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: comments_overall_service_quality
+      label: Comments about overall service quality
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: total_service_quality
+      label: Comments about total service quality
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: average_service_quality
+      label: Comments about average service quality
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: total_service_quality_2
+      label: Satisfaction with total service quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 18
+      name: comments_total_service_quality
+      label: Comments Total Service Quality
+      hint: null
+      type: note
       options: []
       required: false
     - id: 19
-      name: comments_average
-      label: Comments
+      name: follow_up_averag
+      label: Are you satisfied with follow-up quality?
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 20
-      name: average
-      label: average
+      name: overall_service_quality_rating
+      label: Overall Service Quality Rating
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 21
-      name: comments_average
-      label: Comments about the average
+      name: comments_overall_service_quality_2
+      label: Comments Overall Service Quality 2
       hint: null
       type: note
       options: []
       required: false
     - id: 22
-      name: average_service
-      label: average_service
+      name: total_service_quality_averag
+      label: Total Service Quality Averag
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: note
+      options: []
       required: false
     - id: 23
-      name: comments_average_service
-      label: Comments about average service
+      name: average_service_averag
+      label: Average Service Averag
       hint: null
       type: note
       options: []
       required: false
     - id: 24
-      name: rating_total
-      label: rating_total
+      name: overall_service_rating
+      label: Rating of overall service quality
       hint: null
       type: select_multiple
       options:
@@ -188,8 +182,8 @@ inputSchema:
       - Fair
       required: false
     - id: 25
-      name: comments_total
-      label: Comments total
+      name: comments_overall_service
+      label: Comments Overall Service
       hint: null
       type: note
       options: []

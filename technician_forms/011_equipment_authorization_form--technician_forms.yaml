@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': 1, ''label'': ''Crane''}'
-      - '{''name'': 2, ''label'': ''Digger''}'
-      - '{''name'': 3, ''label'': ''Other''}'
+      - Crane
+      - Digger
+      - Other
       required: true
     - id: 3
       name: authorized_by
@@ -26,8 +26,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': 1, ''label'': ''John Doe''}'
-      - '{''name'': 2, ''label'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 4
       name: start_date
@@ -63,7 +63,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': 1, ''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: true
     - id: 9
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': 1, ''label'': ''Available''}'
-      - '{''name'': 2, ''label'': ''Authorized''}'
-      - '{''name'': 3, ''label'': ''Authorized with conditions''}'
+      - Available
+      - Authorized
+      - Authorized with conditions
       required: true
     - id: 10
       name: submission_date
@@ -96,8 +96,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': 1, ''label'': ''Open''}'
-      - '{''name'': 2, ''label'': ''Closed''}'
+      - Open
+      - Closed
       required: true
     - id: 13
       name: comments_status
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': 1, ''label'': ''Open''}'
-      - '{''name'': 2, ''label'': ''Closed''}'
+      - Open
+      - Closed
       required: false
     - id: 14
       name: equipment_number
@@ -191,6 +191,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': 1, ''label'': ''John Doe''}'
-      - '{''name'': 2, ''label'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: false

@@ -4,213 +4,72 @@ inputSchema:
     title: Social Connection Feedback Form
     pages:
     - id: 1
-      name: user_input_page_1
-      label: Community Insights
-      hint: null
-      type: select_multiple
+      name: community_vibes
+      label: Do you regularly visit our community?
+      hint: Tell us how often you interact with our community
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: true
     - id: 2
-      name: user_input_page_2
-      label: Belonging
-      hint: How do you feel about belonging in this community?
+      name: belonging_scale
+      label: How would you rate your belonging feelings?
+      hint: Rate your sense of belonging on a scale
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: user_input_page_3
-      label: Satisfaction
-      hint: null
+      name: satisfaction_survey
+      label: What is your satisfaction level?
+      hint: Rate your overall satisfaction with our community
       type: select_one
       options:
+      - Very Satisfied
       - Satisfied
+      - Neutral
       - Dissatisfied
-      required: false
+      - Very Dissatisfied
+      required: true
     - id: 4
-      name: user_input_page_4
-      label: Barriers
-      hint: What prevents you from connecting with others?
+      name: barriers_to_connection
+      label: What prevents you from connecting with others?
+      hint: Share any challenges you face in connecting with others
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: user_input_page_5
-      label: Comments
-      hint: Additional comments or feedback
-      type: note
-      options: []
-      required: false
+      name: self_expression
+      label: Can you be yourself in our community?
+      hint: Share your experiences
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 6
-      name: user_input_page_6
-      label: Email
-      hint: null
-      type: email
-      options: []
+      name: feedback_form
+      label: Have you had a positive experience in our community?
+      hint: Share your thoughts
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 7
-      name: user_input_page_7
-      label: Phone
-      hint: null
-      type: text
-      options: []
+      name: support_system
+      label: Is our community support system adequate?
+      hint: Tell us about your experiences
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: user_input_page_8
-      label: Time
-      hint: null
-      type: time
+      name: comments
+      label: Do you have any comments or feedback?
+      hint: Additional comments or suggestions
+      type: note
       options: []
-      required: false
-    - id: 9
-      name: user_input_page_9
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: user_input_page_10
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: user_input_page_11
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: user_input_page_12
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: user_input_page_13
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: user_input_page_14
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: user_input_page_15
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: user_input_page_16
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: user_input_page_17
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: user_input_page_18
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: user_input_page_19
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: user_input_page_20
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: user_input_page_21
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: user_input_page_22
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: user_input_page_23
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: user_input_page_24
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: user_input_page_25
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

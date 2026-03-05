@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''short_term''}'
-      - '{''id'': 2, ''value'': ''long_term''}'
-      - '{''id'': 3, ''value'': ''financial''}'
+      - short term
+      - long term
+      - financial
       required: false
     - id: 4
       name: start_date
@@ -61,7 +61,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''not_started''}'
-      - '{''id'': 2, ''value'': ''in_progress''}'
-      - '{''id'': 3, ''value'': ''done''}'
+      - not started
+      - in progress
+      - done
       required: false

@@ -5,183 +5,102 @@ inputSchema:
     pages:
     - id: 1
       name: first_page
-      label: first_question
+      label: How do you prefer to be referred to?
+      hint: null
+      type: select_one
+      options:
+      - He/His/He/Him
+      - She/Her/She/Her
+      - They/Them/They/Them
+      required: true
+    - id: 2
+      name: second_page
+      label: What pronouns do you use to refer to yourself?
+      hint: null
+      type: select_multiple
+      options:
+      - He/His/He/Him
+      - She/Her/She/Her
+      - They/Them/They/Them
+      - Neutered
+      required: true
+    - id: 3
+      name: time_of_day
+      label: What time do you usually wake up?
+      hint: 24-hour format, e.g., 06 -00
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: preferred_pronoun
+      label: Do you prefer to be referred to by your name or a neutral pronoun?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 2
-      name: first_page_question_2
-      label: question_2
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 3
-      name: time_of_day
-      label: time_of_day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 4
-      name: first_page_note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
+      required: true
     - id: 5
-      name: first_page_email
-      label: email
-      hint: null
+      name: email
+      label: Email
+      hint: Please enter your email address
       type: email
       options: []
-      required: false
+      required: true
     - id: 6
-      name: first_page_phone
-      label: phone
-      hint: null
+      name: phone
+      label: Phone
+      hint: Please enter your phone number
       type: text
       options: []
       required: false
     - id: 7
-      name: first_page_note
-      label: note_2
+      name: note
+      label: Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 8
-      name: first_page_note
-      label: note_3
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: first_page_email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 10
-      name: first_page_phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: first_page_email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: first_page_phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: first_page_email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: first_page_phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: first_page_email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: first_page_phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: first_page_email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: first_page_phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: first_page_email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: first_page_phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: first_page_email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: first_page_phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: first_page_email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: first_page_phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: first_page_submit
-      label: submit
+      name: agree_to_updates
+      label: Do you agree to receive updates about the project?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
+      required: true
+    - id: 9
+      name: bedtime
+      label: What time do you usually go to bed?
+      hint: 24-hour format, e.g., 22 -00
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: restroom_pronoun
+      label: Do you prefer to use the restroom with which pronoun?
+      hint: null
+      type: select_one
+      options:
+      - He/His/He/Him
+      - She/Her/She/Her
+      - They/Them/They/Them
+      - Neutral
+      required: true
+    - id: 11
+      name: other_notes
+      label: Other notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: agree_to_emails
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
       required: false

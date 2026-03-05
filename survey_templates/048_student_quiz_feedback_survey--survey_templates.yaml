@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Student''}'
-      - '{''id'': 2, ''label'': ''Teacher''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Student
+      - Teacher
+      - Both
       required: false
     - id: 2
       name: questions
@@ -19,10 +19,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Too easy''}'
-      - '{''id'': 2, ''label'': ''Just right''}'
-      - '{''id'': 3, ''label'': ''Too hard''}'
-      - '{''id'': 4, ''label'': "I don''t know"}'
+      - Too easy
+      - Just right
+      - Too hard
+      - I don't know
       required: false
     - id: 3
       name: comments

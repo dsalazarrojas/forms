@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cash''}'
-      - '{''id'': 2, ''label'': ''Credit''}'
-      - '{''id'': 3, ''label'': ''PayPal''}'
-      - '{''id'': 4, ''label'': ''Bank''}'
+      - Cash
+      - Credit
+      - PayPal
+      - Bank
       required: true
     - id: 5
       name: payment_amount
@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Paid''}'
-      - '{''id'': 2, ''label'': ''Not Paid''}'
+      - Paid
+      - Not Paid
       required: true
     - id: 7
       name: payment_date

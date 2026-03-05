@@ -4,173 +4,101 @@ inputSchema:
     title: Device Keyboard Haptic Feedback Settings Request Form
     pages:
     - id: 1
-      name: device_haptic_feedback_settings_request_form
-      label: request_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: device_haptic_feedback_settings_description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: user_feedback_type
-      label: feedback_type
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 4
-      name: user_device_type
-      label: device_type
+      name: device_type
+      label: Haptic Feedback Settings Form
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - phone
+      - laptop
+      - tablet
+      - watch
+      - other
+      required: true
+    - id: 2
+      name: haptic_feedback_type
+      label: Haptic Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - vibration
+      - resistance
+      - click
+      - haptic
+      required: true
+    - id: 3
+      name: haptic_feedback_settings
+      label: Haptic Feedback Settings
+      hint: null
+      type: select_multiple
+      options:
+      - light
+      - medium
+      - strong
+      - none
+      required: true
+    - id: 4
+      name: device_model
+      label: Device Model
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 5
-      name: user_device_model
-      label: device_model
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: user_haptic_feedback_setting
-      label: haptic_feedback_setting
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: user_haptic_feedback_description
-      label: description
+      name: haptic_feedback_description
+      label: Haptic Feedback Description
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
-      name: user_submission_date
-      label: submission_date
+      required: true
+    - id: 6
+      name: submission_date
+      label: Submission Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 9
-      name: user_submission_time
-      label: submission_time
+      required: true
+    - id: 7
+      name: submission_time
+      label: Submission Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 10
-      name: user_comment
-      label: comment
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
       hint: null
-      type: note
+      type: text
       options: []
       required: false
-    - id: 11
-      name: user_email
-      label: email
+    - id: 9
+      name: email
+      label: Email
       hint: null
       type: email
       options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
       required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - default
+      - custom
+      required: true
     - id: 12
-      name: user_phone
-      label: phone
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: user_assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 14
-      name: user_comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: user_additional_comments
-      label: additional_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: user_department
-      label: department
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: user_assigned_to
-      label: assigned_to
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: user_requesting_user
-      label: requesting_user
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: user_department
-      label: department
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: user_comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: user_additional_comments
-      label: additional_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: user_department
-      label: department
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Front Door''}'
-      - '{''id'': 2, ''name'': ''Rear Door''}'
-      - '{''id'': 3, ''name'': ''Handle''}'
+      - Front Door
+      - Rear Door
+      - Handle
       required: true
     - id: 5
       name: damage_condition
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Broken''}'
-      - '{''id'': 2, ''name'': ''Cracked''}'
-      - '{''id'': 3, ''name'': ''Dented''}'
+      - Broken
+      - Cracked
+      - Dented
       required: true
     - id: 6
       name: repair_info

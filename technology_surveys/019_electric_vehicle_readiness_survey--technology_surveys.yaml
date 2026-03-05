@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: true
     - id: 3
       name: name_of_ev
@@ -33,10 +33,10 @@ inputSchema:
       hint: Check all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Workplace charging''}'
-      - '{''id'': 2, ''label'': ''Home charging''}'
-      - '{''id'': 3, ''label'': ''Public charging''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Workplace charging
+      - Home charging
+      - Public charging
+      - Other
       required: false
     - id: 5
       name: charging_frequency
@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
       required: true
     - id: 6
       name: driving_frequency
@@ -62,10 +62,10 @@ inputSchema:
       hint: Select one
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Home''}'
-      - '{''id'': 2, ''label'': ''Workplace''}'
-      - '{''id'': 3, ''label'': ''Public''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Home
+      - Workplace
+      - Public
+      - Other
       required: true
     - id: 8
       name: vehicle_make
@@ -94,11 +94,11 @@ inputSchema:
       hint: Check all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Education and awareness''}'
-      - '{''id'': 2, ''label'': ''Test drive opportunities''}'
-      - '{''id'': 3, ''label'': ''Workplace charging infrastructure''}'
-      - '{''id'': 4, ''label'': ''Vehicle pricing and incentives''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Education and awareness
+      - Test drive opportunities
+      - Workplace charging infrastructure
+      - Vehicle pricing and incentives
+      - Other
       required: false
     - id: 12
       name: comments
@@ -141,9 +141,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: true
     - id: 18
       name: comments_additional
@@ -172,11 +172,11 @@ inputSchema:
       hint: Select one
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sedan''}'
-      - '{''id'': 2, ''label'': ''SUV''}'
-      - '{''id'': 3, ''label'': ''Truck''}'
-      - '{''id'': 4, ''label'': ''Van''}'
-      - '{''id'': 5, ''label'': ''Motorcycle''}'
+      - Sedan
+      - SUV
+      - Truck
+      - Van
+      - Motorcycle
       required: true
     - id: 22
       name: vehicle_size
@@ -184,11 +184,11 @@ inputSchema:
       hint: Select one
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Compact''}'
-      - '{''id'': 2, ''label'': ''Full-size''}'
-      - '{''id'': 3, ''label'': ''Large''}'
-      - '{''id'': 4, ''label'': ''Extra Large''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Compact
+      - Full-size
+      - Large
+      - Extra Large
+      - Other
       required: true
     - id: 23
       name: vehicle_color
@@ -196,11 +196,11 @@ inputSchema:
       hint: Select one
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Black''}'
-      - '{''id'': 2, ''label'': ''White''}'
-      - '{''id'': 3, ''label'': ''Gray''}'
-      - '{''id'': 4, ''label'': ''Silver''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Black
+      - White
+      - Gray
+      - Silver
+      - Other
       required: true
     - id: 24
       name: vehicle_type_of_vehicle
@@ -208,11 +208,11 @@ inputSchema:
       hint: Select one
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Hatchback''}'
-      - '{''id'': 2, ''label'': ''SUV''}'
-      - '{''id'': 3, ''label'': ''Wagon''}'
-      - '{''id'': 4, ''label'': ''Van''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Hatchback
+      - SUV
+      - Wagon
+      - Van
+      - Other
       required: false
     - id: 25
       name: vehicle_other

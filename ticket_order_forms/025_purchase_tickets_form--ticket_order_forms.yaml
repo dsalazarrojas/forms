@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 10, ''label'': 5}'
-      - '{''value'': 25, ''label'': 10}'
+      - '5'
+      - '10'
       required: false
     - id: 4
       name: purchase_tickets
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 10, ''label'': 5}'
-      - '{''value'': 25, ''label'': 10}'
-      - '{''value'': 0, ''label'': ''Unrestricted''}'
+      - '5'
+      - '10'
+      - Unrestricted
       required: false
     - id: 7
       name: submit
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''submit'', ''label'': ''Submit''}'
-      - '{''value'': ''cancel'', ''label'': ''Cancel''}'
+      - Submit
+      - Cancel
       required: false
     - id: 8
       name: errors

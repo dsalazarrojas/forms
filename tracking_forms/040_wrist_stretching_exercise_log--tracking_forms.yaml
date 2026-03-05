@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 1}'
-      - '{''id'': 2, ''label'': 2}'
-      - '{''id'': 3, ''label'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: true
     - id: 4
       name: reps_completed
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': 1}'
-      - '{''id'': 2, ''label'': 2}'
-      - '{''id'': 3, ''label'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 5
       name: muscle_stretched
@@ -43,11 +43,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Flexor Carpi Ulnaris''}'
-      - '{''id'': 2, ''label'': ''Extensor Pollicis''}'
-      - '{''id'': 3, ''label'': ''Extensor Carpi Radialis''}'
-      - '{''id'': 4, ''label'': ''Pronator Teres''}'
-      - '{''id'': 5, ''label'': ''Flexor Carpi Radialis''}'
+      - Flexor Carpi Ulnaris
+      - Extensor Pollicis
+      - Extensor Carpi Radialis
+      - Pronator Teres
+      - Flexor Carpi Radialis
       required: true
     - id: 6
       name: notes
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Trainer''}'
-      - '{''id'': 2, ''label'': ''User''}'
+      - Trainer
+      - User
       required: true
     - id: 10
       name: session_id

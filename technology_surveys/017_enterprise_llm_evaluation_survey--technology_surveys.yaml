@@ -11,8 +11,8 @@ inputSchema:
       options: []
       required: true
     - id: 2
-      name: provider_id
-      label: select_provider
+      name: select_provider
+      label: Select a Provider
       hint: null
       type: select_one
       options:
@@ -20,48 +20,51 @@ inputSchema:
       - 'No'
       required: true
     - id: 3
-      name: provider
-      label: selected_provider
+      name: selected_provider
+      label: Selected Provider
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: performance_rating
-      label: performance_rating
+      label: Performance Rating
       hint: null
       type: select_one
       options:
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 5
       name: adoption_rating
-      label: adoption_rating
+      label: Adoption Rating
       hint: null
       type: select_one
       options:
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 6
       name: satisfaction_rating
-      label: satisfaction_rating
+      label: Satisfaction Rating
       hint: null
       type: select_one
       options:
       - Satisfied
       - Dissatisfied
-      required: false
+      - Neutral
+      required: true
     - id: 7
-      name: recommendation
-      label: would_recommend
+      name: would_recommend
+      label: Would Recommend
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 8
       name: comments
       label: Comments
@@ -119,8 +122,8 @@ inputSchema:
       options: []
       required: true
     - id: 16
-      name: category
-      label: Category
+      name: category_selection
+      label: Category Selection
       hint: null
       type: select_multiple
       options:
@@ -128,8 +131,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 17
-      name: description
-      label: Description
+      name: description_selection
+      label: Description Selection
       hint: null
       type: select_multiple
       options:
@@ -137,8 +140,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 18
-      name: assigned_tool
-      label: Assigned Tool
+      name: tool_selection
+      label: Tool Selection
       hint: null
       type: select_multiple
       options:
@@ -146,8 +149,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 19
-      name: output_file
-      label: Output File
+      name: tool_selection2
+      label: Tool Selection 2
       hint: null
       type: select_multiple
       options:
@@ -155,8 +158,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 20
-      name: assigned_tool
-      label: Assigned Tool
+      name: tool_selection3
+      label: Tool Selection 3
       hint: null
       type: select_multiple
       options:
@@ -164,8 +167,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 21
-      name: assigned_tool
-      label: Assigned Tool
+      name: tool_selection_2
+      label: Tool Selection (4)
       hint: null
       type: select_multiple
       options:
@@ -173,8 +176,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 22
-      name: assigned_tool
-      label: Assigned Tool
+      name: tool_selection4
+      label: Tool Selection4
       hint: null
       type: select_multiple
       options:
@@ -182,26 +185,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 23
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: assigned_tool
-      label: Assigned Tool
+      name: tool_selection5
+      label: Tool Selection 5
       hint: null
       type: select_multiple
       options:

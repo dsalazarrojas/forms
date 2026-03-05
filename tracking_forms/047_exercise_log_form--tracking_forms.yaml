@@ -53,10 +53,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Google Fit''}'
-      - '{''label'': ''Apple Health''}'
-      - '{''label'': ''Fitbit''}'
-      - '{''label'': ''Other''}'
+      - Google Fit
+      - Apple Health
+      - Fitbit
+      - Other
       required: true
     - id: 8
       name: sync_frequency
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 9
       name: synced_with_app
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: sync_status
@@ -83,8 +83,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Syncing''}'
-      - '{''label'': ''Not Synced''}'
+      - Syncing
+      - Not Synced
       required: false
     - id: 11
       name: app_id

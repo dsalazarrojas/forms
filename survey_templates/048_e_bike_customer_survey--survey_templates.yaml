@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not Sure''}'
+      - 'True'
+      - 'False'
+      - Not Sure
       required: false
     - id: 3
       name: e_bike_liking
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''required'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Decline''}'
+      - 'True'
+      - 'False'
+      - Decline
       required: true
     - id: 12
       name: e_bike_terms_and_conditions
@@ -136,16 +136,16 @@ inputSchema:
       required: false
     - id: 18
       name: e_bike_agree_terms
-      label: agree with our terms and conditions
+      label: E Bike Agree Terms
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Decline''}'
+      - 'True'
+      - 'False'
+      - Decline
       required: true
     - id: 19
-      name: e_bike_terms_and_conditions
+      name: e_bike_terms_and_conditions_2
       label: E Bike Terms And Conditions
       hint: null
       type: text
@@ -153,7 +153,7 @@ inputSchema:
       required: true
     - id: 20
       name: e_bike_upload_uploads_uploads
-      label: uploads
+      label: E Bike Upload Uploads Uploads
       hint: null
       type: select_multiple
       options:
@@ -162,14 +162,14 @@ inputSchema:
       required: false
     - id: 21
       name: e_bike_additional_comments_uploads
-      label: additional comments
+      label: E Bike Additional Comments Uploads
       hint: null
       type: text
       options: []
       required: false
     - id: 22
       name: e_bike_agree_terms_uploads
-      label: agree with our terms and conditions
+      label: E Bike Agree Terms Uploads
       hint: null
       type: select_multiple
       options:
@@ -185,7 +185,7 @@ inputSchema:
       required: true
     - id: 24
       name: e_bike_agree_conditions
-      label: agree with our terms and conditions
+      label: E Bike Agree Conditions
       hint: null
       type: select_multiple
       options:

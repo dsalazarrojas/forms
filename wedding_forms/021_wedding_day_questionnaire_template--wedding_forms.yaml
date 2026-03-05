@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''bride''}'
-      - '{''value'': ''groom''}'
-      - '{''value'': ''other''}'
+      - bride
+      - groom
+      - other
       required: false
     - id: 4
       name: wedding_party_count
@@ -40,11 +40,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''bride''}'
-      - '{''value'': ''groom''}'
-      - '{''value'': ''family''}'
-      - '{''value'': ''friends''}'
-      - '{''value'': ''other''}'
+      - bride
+      - groom
+      - family
+      - friends
+      - other
       required: false
     - id: 6
       name: wedding_party_attendees
@@ -52,8 +52,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: wedding_party_special_services
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: wedding_services
@@ -70,10 +70,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''flowers''}'
-      - '{''value'': ''music''}'
-      - '{''value'': ''transportation''}'
-      - '{''value'': ''photography''}'
+      - flowers
+      - music
+      - transportation
+      - photography
       required: false
     - id: 9
       name: ceremony_details

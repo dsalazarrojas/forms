@@ -163,8 +163,8 @@ inputSchema:
       hint: Within 6 feet for 15+ minutes
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 20
@@ -249,8 +249,8 @@ inputSchema:
       hint: Increases COVID risk
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Prefer not to say
       required: true
     - id: 28
@@ -284,7 +284,7 @@ inputSchema:
       hint: Do you need assistance
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes - Food delivery
       - Yes - Medical care
       - Yes - Housing
@@ -322,8 +322,8 @@ inputSchema:
       hint: Is additional contact needed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 36
       name: follow_up_date

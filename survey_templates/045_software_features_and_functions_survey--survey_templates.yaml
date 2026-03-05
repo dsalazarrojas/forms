@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,8 +16,8 @@ inputSchema:
       hint: What are your thoughts about these features?
       type: select_multiple
       options:
-      - '{''label'': ''Feature 1'', ''value'': 1}'
-      - '{''label'': ''Feature 2'', ''value'': 2}'
+      - Feature 1
+      - Feature 2
       required: false
     - id: 3
       name: section2
@@ -36,9 +25,9 @@ inputSchema:
       hint: How do these features perform?
       type: select_one
       options:
-      - '{''label'': ''High'', ''value'': 1}'
-      - '{''label'': ''Medium'', ''value'': 2}'
-      - '{''label'': ''Low'', ''value'': 3}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 4
       name: section3
@@ -46,9 +35,9 @@ inputSchema:
       hint: How do you rate these features in terms of usability?
       type: select_multiple
       options:
-      - '{''label'': ''High'', ''value'': 1}'
-      - '{''label'': ''Medium'', ''value'': 2}'
-      - '{''label'': ''Low'', ''value'': 3}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 5
       name: section4

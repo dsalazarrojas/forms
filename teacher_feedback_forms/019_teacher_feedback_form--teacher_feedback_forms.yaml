@@ -16,218 +16,159 @@ inputSchema:
     pages:
     - id: 1
       name: teacher_performance
-      label: How was teacher performance?
+      label: How was the teacher's performance?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: lesson_planning
-      label: Lesson planning and delivery
+      name: lesson_planning_and_delivery
+      label: How was lesson planning and delivery?
       hint: null
       type: note
       options: []
       required: false
     - id: 3
-      name: teaching_styles
-      label: Teaching styles and techniques
+      name: teaching_styles_and_techniques
+      label: What are your thoughts on the teacher's teaching styles and techniques?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: student_engagement
-      label: Student engagement
+      label: How engaged do you feel with the teacher?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: teacher_availability
-      label: Teacher availability
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: feedback_frequency
-      label: Feedback frequency
+      label: What is your feedback frequency on the teacher's availability?
       hint: null
       type: text
       options: []
       required: false
+    - id: 6
+      name: feedback_frequency
+      label: How often do you receive feedback from the teacher?
+      hint: null
+      type: number
+      options: []
+      required: false
     - id: 7
       name: teacher_support
-      label: Teacher support
+      label: How does the teacher support you in your learning?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
       name: teacher_helpfulness
-      label: Helpfulness
+      label: How helpful do you find the teacher's responses to your questions?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
       name: teacher_professionalism
-      label: Professionalism
+      label: Does the teacher demonstrate professional behavior?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: teacher_effectiveness
-      label: Effectiveness
+      label: How effective is the teacher in their role?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Highly Effective
+      - Moderately Effective
+      - Not Very Effective
       required: false
     - id: 11
       name: teacher_communication
-      label: Communication
+      label: How does the teacher communicate effectively with you?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Clearly
+      - Effectively
+      - Not Clearly
+      - Not Effectively
       required: false
     - id: 12
       name: teacher_friendly
-      label: Friendly
+      label: How friendly and approachable is the teacher?
       hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - Very Friendly
+      - Somewhat Friendly
+      - Not Very Friendly
+      - Not at All Friendly
       required: false
     - id: 13
       name: teacher_responsive
-      label: Responsive
+      label: How responsive is the teacher to your needs?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: teacher_supportive
-      label: Supportive
+      label: Does the teacher provide supportive guidance and feedback?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      - Never
       required: false
     - id: 15
       name: teacher_responsible
-      label: Responsible
+      label: Does the teacher take responsibility for their actions and decisions?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: teacher_prepared
-      label: Prepared
+      label: How prepared is the teacher for classes and lessons?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Very Prepared
+      - Somewhat Prepared
+      - Not Very Prepared
       required: false
     - id: 17
-      name: teacher_professionals
-      label: Professionals
+      name: teacher_professionalism_2
+      label: How professional is the teacher in their interactions with you?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Very Professional
+      - Somewhat Professional
+      - Not Very Professional
+      - Not at All Professional
       required: false
     - id: 18
-      name: teacher_punctuality
-      label: Punctuality
+      name: punctuality
+      label: Does the teacher exhibit punctuality in their work?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: teacher_punctuality
-      label: Punctuality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: teacher_punctuality
-      label: Punctuality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: teacher_punctuality
-      label: Punctuality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: teacher_punctuality
-      label: Punctuality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: teacher_punctuality
-      label: Punctuality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: teacher_punctuality
-      label: Punctuality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: teacher_punctuality
-      label: Punctuality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: teacher_punctuality
-      label: Punctuality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: teacher_punctuality
-      label: Punctuality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: teacher_punctuality
-      label: Punctuality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: teacher_punctuality
-      label: Punctuality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: teacher_punctuality
-      label: Punctuality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: teacher_punctuality
-      label: Punctuality
-      hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - Always
+      - Mostly
+      - Rarely
+      - Never
       required: false

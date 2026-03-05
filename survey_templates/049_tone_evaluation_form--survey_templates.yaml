@@ -5,145 +5,121 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: Tone Evaluation Form
+      label: What is your overall impression of the text?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 1. Very positive
+      - 2. Positive
+      - 3. Neutral
+      - 4. Negative
+      - 5. Very negative
+      required: true
     - id: 2
       name: page_2
-      label: Select the Tone of the text
+      label: Select all the tones that you feel are present in the text.
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 1. Friendly
+      - 2. Formal
+      - 3. Critical
+      - 4. Positive
+      - 5. Negative
+      - 6. Very positive
+      - 7. Very negative
+      required: true
     - id: 3
-      name: tone_1
-      label: Tone
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 4
-      name: tone_2
-      label: Tone
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 5
-      name: tone_3
-      label: Tone
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 6
       name: page_3
-      label: Tone Evaluation Form
+      label: How would you rate the text's tone?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: feedback_1
-      label: Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: feedback_2
-      label: Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: feedback_3
-      label: Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
+      type: select_one
+      options:
+      - 1. Very positive
+      - 2. Positive
+      - 3. Neutral
+      - 4. Negative
+      - 5. Very negative
+      required: true
+    - id: 4
       name: page_4
-      label: Tone Evaluation Form
+      label: What are your overall feedback on the text?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 5
+      name: page_5
+      label: What do you think about the text's content?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: page_6
+      label: How does the text's tone make you feel?
+      hint: null
+      type: select_one
+      options:
+      - 1. Very positive
+      - 2. Positive
+      - 3. Neutral
+      - 4. Negative
+      - 5. Very negative
+      required: true
+    - id: 7
+      name: page_7
+      label: Do you have any additional feedback about the text?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: page_8
+      label: Is the text's tone consistent with the content?
+      hint: null
+      type: select_one
+      options:
+      - 1. Yes
+      - 2. No
+      required: true
+    - id: 9
+      name: page_9
+      label: How would you rate the text's tone if you were to read it again?
+      hint: null
+      type: select_one
+      options:
+      - 1. Very positive
+      - 2. Positive
+      - 3. Neutral
+      - 4. Negative
+      - 5. Very negative
+      required: true
+    - id: 10
+      name: page_10
+      label: Would you recommend the text to a friend?
+      hint: null
+      type: select_one
+      options:
+      - 1. Yes
+      - 2. No
+      required: true
     - id: 11
-      name: tone_4
-      label: Tone
+      name: page_11
+      label: Why or why not?
       hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 12
-      name: tone_5
-      label: Tone
+      name: page_12
+      label: How would you rate the text overall?
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 13
-      name: tone_6
-      label: Tone
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 14
-      name: feedback_3
-      label: Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: submit
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: feedback_4
-      label: Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
+      - 1. Very positive
+      - 2. Positive
+      - 3. Neutral
+      - 4. Negative
+      - 5. Very negative
+      required: true

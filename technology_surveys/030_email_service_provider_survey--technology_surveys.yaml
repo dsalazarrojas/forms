@@ -4,194 +4,141 @@ inputSchema:
     title: email_service_provider_survey
     pages:
     - id: 1
-      name: email_service_provider_survey_page_1
-      label: email_service_provider_survey_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: email_service_provider_survey_form_page_2
-      label: email_service_provider_survey_comments
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 3
-      name: email_service_provider_survey_form_page_3
-      label: email_service_provider_survey_email_service
+      name: email_service_selection
+      label: Email Service Selection
       hint: null
       type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: email_service_provider_survey_form_page_4
-      label: email_service_provider_survey_feature_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: email_service_provider_survey_form_page_5
-      label: email_service_provider_survey_satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: email_service_provider_survey_form_page_6
-      label: email_service_provider_survey_feature_painpoints
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: email_service_provider_survey_form_page_7
-      label: email_service_provider_survey_why_did_you_choose_your_current_email_service
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: email_service_provider_survey_form_page_8
-      label: email_service_provider_survey_what_is_your_primary_email_service
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: email_service_provider_survey_form_page_9
-      label: email_service_provider_survey_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: email_service_provider_survey_form_page_10
-      label: email_service_provider_survey_additional_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: email_service_provider_survey_form_page_11
-      label: email_service_provider_survey_is_this_survey_understood
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: email_service_provider_survey_form_page_12
-      label: email_service_provider_survey_is_form_completed
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: email_service_provider_survey_form_page_13
-      label: email_service_provider_survey_is_survey_understood
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: email_service_provider_survey_form_page_14
-      label: email_service_provider_survey_is_form_completed
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: email_service_provider_survey_form_page_15
-      label: email_service_provider_survey_is_form_understood
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: email_service_provider_survey_form_page_16
-      label: email_service_provider_survey_is_survey_completed
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: email_service_provider_survey_form_page_17
-      label: email_service_provider_survey_what_is_your_current_email_service
-      hint: null
-      type: select_multiple
       options:
       - Gmail
       - Outlook
       - Office 365
       - Yahoo
       - Hotmail
-      required: false
-    - id: 18
-      name: email_service_provider_survey_form_page_18
-      label: email_service_provider_survey_why_did_you_choose_your_current_email_service
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: email_service_provider_survey_form_page_19
-      label: email_service_provider_survey_what_is_your_reasons_for_choosing_your_current_email_service
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: email_service_provider_survey_form_page_20
-      label: email_service_provider_survey_feature_preferences
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: email_service_provider_survey_form_page_21
-      label: email_service_provider_survey_feature_preferences_2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: email_service_provider_survey_form_page_22
-      label: email_service_provider_survey_feature_preferences_3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: email_service_provider_survey_form_page_23
-      label: email_service_provider_survey_satisfaction
+      required: true
+    - id: 2
+      name: service_satisfaction
+      label: Service Satisfaction
       hint: null
       type: number
       options: []
-      required: false
-    - id: 24
-      name: email_service_provider_survey_form_page_24
-      label: email_service_provider_survey_painpoints
+      required: true
+    - id: 3
+      name: feature_preferences
+      label: Feature Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: pain_points
+      label: Pain Points
       hint: null
       type: text
       options: []
-      required: false
-    - id: 25
-      name: email_service_provider_survey_form_page_25
-      label: email_service_provider_survey_what_is_your_ideal_email_service
+      required: true
+    - id: 5
+      name: reasons_for_choosing
+      label: Reasons for Choosing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: feature_comparison
+      label: Feature Comparison
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 7
+      name: satisfaction_breakdown
+      label: Satisfaction Breakdown
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: ideal_email_service
+      label: Ideal Email Service
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_comparison
+      label: Service Comparison
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pain_points_breakdown
+      label: Pain Points Breakdown
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: feature_prioritization
+      label: Feature Prioritization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: form_completion_confirmation
+      label: Form Completion Confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_email_service
+      label: Current Email Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: ideal_email_service_feature
+      label: Ideal Email Service Feature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reasons_for_changing
+      label: Reasons for Changing
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: satisfaction_breakdown_feature
+      label: Satisfaction Breakdown Feature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: reasons_for_staying
+      label: Reasons for Staying
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: feature_comparison_breakdown
+      label: Feature Comparison Breakdown
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive''}'
-      - '{''id'': 3, ''name'': ''sold''}'
-      - '{''id'': 4, ''name'': ''scrapped''}'
+      - active
+      - inactive
+      - sold
+      - scrapped
       required: true
     - id: 3
       name: maintenance_date
@@ -55,10 +55,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''good''}'
-      - '{''id'': 2, ''name'': ''fair''}'
-      - '{''id'': 3, ''name'': ''poor''}'
-      - '{''id'': 4, ''name'': ''unknown''}'
+      - good
+      - fair
+      - poor
+      - unknown
       required: true
     - id: 8
       name: brake_condition
@@ -66,10 +66,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''good''}'
-      - '{''id'': 2, ''name'': ''fair''}'
-      - '{''id'': 3, ''name'': ''poor''}'
-      - '{''id'': 4, ''name'': ''unknown''}'
+      - good
+      - fair
+      - poor
+      - unknown
       required: true
     - id: 9
       name: engine_condition
@@ -77,10 +77,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''good''}'
-      - '{''id'': 2, ''name'': ''fair''}'
-      - '{''id'': 3, ''name'': ''poor''}'
-      - '{''id'': 4, ''name'': ''unknown''}'
+      - good
+      - fair
+      - poor
+      - unknown
       required: true
     - id: 10
       name: vehicle_inspection
@@ -88,10 +88,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''completed''}'
-      - '{''id'': 2, ''name'': ''not completed''}'
-      - '{''id'': 3, ''name'': ''overdue''}'
-      - '{''id'': 4, ''name'': ''unknown''}'
+      - completed
+      - not completed
+      - overdue
+      - unknown
       required: true
     - id: 11
       name: driver_qualification
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''valid''}'
-      - '{''id'': 2, ''name'': ''invalid''}'
-      - '{''id'': 3, ''name'': ''unknown''}'
+      - valid
+      - invalid
+      - unknown
       required: true
     - id: 12
       name: vehicle_registration
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''registered''}'
-      - '{''id'': 2, ''name'': ''not registered''}'
-      - '{''id'': 3, ''name'': ''unknown''}'
+      - registered
+      - not registered
+      - unknown
       required: false
     - id: 13
       name: driver_licensing
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''valid''}'
-      - '{''id'': 2, ''name'': ''invalid''}'
-      - '{''id'': 3, ''name'': ''unknown''}'
+      - valid
+      - invalid
+      - unknown
       required: false
     - id: 14
       name: safety_inspection
@@ -129,10 +129,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''completed''}'
-      - '{''id'': 2, ''name'': ''not completed''}'
-      - '{''id'': 3, ''name'': ''overdue''}'
-      - '{''id'': 4, ''name'': ''unknown''}'
+      - completed
+      - not completed
+      - overdue
+      - unknown
       required: false
     - id: 15
       name: vehicle_identification
@@ -140,9 +140,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''valid''}'
-      - '{''id'': 2, ''name'': ''invalid''}'
-      - '{''id'': 3, ''name'': ''unknown''}'
+      - valid
+      - invalid
+      - unknown
       required: false
     - id: 16
       name: vehicle_certification
@@ -150,9 +150,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''valid''}'
-      - '{''id'': 2, ''name'': ''invalid''}'
-      - '{''id'': 3, ''name'': ''unknown''}'
+      - valid
+      - invalid
+      - unknown
       required: false
     - id: 17
       name: fuel_record
@@ -160,10 +160,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''completed''}'
-      - '{''id'': 2, ''name'': ''not completed''}'
-      - '{''id'': 3, ''name'': ''overdue''}'
-      - '{''id'': 4, ''name'': ''unknown''}'
+      - completed
+      - not completed
+      - overdue
+      - unknown
       required: false
     - id: 18
       name: tire_pressure
@@ -171,10 +171,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''correct''}'
-      - '{''id'': 2, ''name'': ''low''}'
-      - '{''id'': 3, ''name'': ''high''}'
-      - '{''id'': 4, ''name'': ''unknown''}'
+      - correct
+      - low
+      - high
+      - unknown
       required: false
     - id: 19
       name: emergency_kit
@@ -182,9 +182,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''present''}'
-      - '{''id'': 2, ''name'': ''absent''}'
-      - '{''id'': 3, ''name'': ''unknown''}'
+      - present
+      - absent
+      - unknown
       required: false
     - id: 20
       name: fire_extinguisher
@@ -192,9 +192,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''present''}'
-      - '{''id'': 2, ''name'': ''absent''}'
-      - '{''id'': 3, ''name'': ''unknown''}'
+      - present
+      - absent
+      - unknown
       required: false
     - id: 21
       name: first_aid_kit
@@ -202,9 +202,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''present''}'
-      - '{''id'': 2, ''name'': ''absent''}'
-      - '{''id'': 3, ''name'': ''unknown''}'
+      - present
+      - absent
+      - unknown
       required: false
     - id: 22
       name: reflective_vests
@@ -212,9 +212,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''present''}'
-      - '{''id'': 2, ''name'': ''absent''}'
-      - '{''id'': 3, ''name'': ''unknown''}'
+      - present
+      - absent
+      - unknown
       required: false
     - id: 23
       name: safety_helmets
@@ -222,9 +222,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''present''}'
-      - '{''id'': 2, ''name'': ''absent''}'
-      - '{''id'': 3, ''name'': ''unknown''}'
+      - present
+      - absent
+      - unknown
       required: false
     - id: 24
       name: emergency_contact_info
@@ -232,9 +232,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''present''}'
-      - '{''id'': 2, ''name'': ''absent''}'
-      - '{''id'': 3, ''name'': ''unknown''}'
+      - present
+      - absent
+      - unknown
       required: false
     - id: 25
       name: other_equipment
@@ -242,7 +242,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''present''}'
-      - '{''id'': 2, ''name'': ''absent''}'
-      - '{''id'': 3, ''name'': ''unknown''}'
+      - present
+      - absent
+      - unknown
       required: false

@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Poor''}'
-      - '{''id'': 4, ''label'': ''Excellent''}'
-      - '{''id'': 5, ''label'': ''Bad''}'
+      - Good
+      - Fair
+      - Poor
+      - Excellent
+      - Bad
       required: false
     - id: 4
       name: pain_level
@@ -49,10 +49,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Limited''}'
-      - '{''id'': 4, ''label'': ''Not Applicable''}'
+      - 'True'
+      - 'False'
+      - Limited
+      - Not Applicable
       required: false
     - id: 7
       name: muscle_strengthening
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: muscle_strengthening_frequency

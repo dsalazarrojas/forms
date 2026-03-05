@@ -4,204 +4,101 @@ inputSchema:
     title: national-salary-survey-for-technology
     pages:
     - id: 1
-      name: national_salary_survey_for_technology_form
+      name: national_salary_survey_form
       label: National Salary Survey For Technology
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: experience_level
       label: Experience Level
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Junior Developer
+      - Mid-Level Developer
+      - Senior Developer
+      - Leader
+      required: true
     - id: 3
       name: average_salary
       label: Average Salary
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
       name: tech_stack
       label: Tech Stack
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Backend
+      - Frontend
+      - DevOps
+      - Data Science
+      required: true
     - id: 5
       name: job_type
       label: Job Type
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Full-time
+      - Part-time
+      - Freelance
+      required: true
     - id: 6
       name: location
       label: Location
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
       name: job_title
       label: Job Title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
       name: company_size
       label: Company Size
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Small
+      - Medium
+      - Large
+      - Enterprise
+      required: true
     - id: 9
       name: years_of_experience
       label: Years of Experience
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 10
       name: education
       label: Education
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
       name: industry
       label: Industry
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: tech_stack_2
-      label: Tech Stack
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 13
-      name: job_type_2
-      label: Job Type
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 14
-      name: location_2
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: job_title_2
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: company_size_2
-      label: Company Size
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 17
-      name: years_of_experience_2
-      label: Years of Experience
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: education_2
-      label: Education
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: industry_2
-      label: Industry
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
       name: job_description
       label: Job Description
       hint: null
       type: text
       options: []
-      required: false
-    - id: 21
-      name: job_type_3
-      label: Job Type
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 22
-      name: location_3
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: job_title_3
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: company_size_3
-      label: Company Size
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 25
-      name: years_of_experience_3
-      label: Years of Experience
-      hint: null
-      type: number
-      options: []
-      required: false
+      required: true

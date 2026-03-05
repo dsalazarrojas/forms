@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''agree''}'
-      - '{''value'': ''decline''}'
+      - agree
+      - decline
       required: false
     - id: 4
       name: data_collection_purpose
@@ -43,10 +32,10 @@ inputSchema:
       hint: Please select all that apply
       type: select_multiple
       options:
-      - '{''value'': ''marketing''}'
-      - '{''value'': ''fundraising''}'
-      - '{''value'': ''research''}'
-      - '{''value'': ''other''}'
+      - marketing
+      - fundraising
+      - research
+      - other
       required: false
     - id: 5
       name: data_privacy_practices
@@ -61,8 +50,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 7
       name: data_security
@@ -70,9 +59,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_secure''}'
-      - '{''value'': ''somewhat_secure''}'
-      - '{''value'': ''not_secure_at_all''}'
+      - very secure
+      - somewhat secure
+      - not secure at all
       required: false
     - id: 8
       name: data_control
@@ -80,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''complete_control''}'
-      - '{''value'': ''limited_control''}'
-      - '{''value'': ''no_control''}'
+      - complete control
+      - limited control
+      - no control
       required: false
     - id: 9
       name: data_retention
@@ -90,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''indefinite''}'
-      - '{''value'': ''finite''}'
+      - indefinite
+      - finite
       required: false
     - id: 10
       name: data_deletion
@@ -99,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''never''}'
-      - '{''value'': ''on_request''}'
-      - '{''value'': ''1_year''}'
+      - never
+      - on request
+      - 1 year
       required: false
     - id: 11
       name: data_access
@@ -109,9 +98,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''you''}'
-      - '{''value'': ''staff''}'
-      - '{''value'': ''third_party''}'
+      - you
+      - staff
+      - third party
       required: false
     - id: 12
       name: data_transfer
@@ -119,8 +108,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 13
       name: data_compliance
@@ -128,9 +117,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''GDPR''}'
-      - '{''value'': ''CCPA''}'
-      - '{''value'': ''HIPAA''}'
+      - GDPR
+      - CCPA
+      - HIPAA
       required: false
     - id: 14
       name: data_analytics
@@ -138,8 +127,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 15
       name: data_automation
@@ -147,8 +136,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 16
       name: data_security_measures

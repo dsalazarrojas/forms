@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening''}'
-      - '{''id'': 4, ''label'': ''Late Night''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - Late Night
       required: false
     - id: 5
       name: reasons_for_sugar_consumption
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Hunger''}'
-      - '{''id'': 2, ''label'': ''Boredom''}'
-      - '{''id'': 3, ''label'': ''Social''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Hunger
+      - Boredom
+      - Social
+      - Other
       required: false
     - id: 6
       name: sugar_sources
@@ -52,11 +52,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Table sugar''}'
-      - '{''id'': 2, ''label'': ''Honey''}'
-      - '{''id'': 3, ''label'': ''Maple syrup''}'
-      - '{''id'': 4, ''label'': ''Fruits''}'
-      - '{''id'': 5, ''label'': ''Dairy''}'
+      - Table sugar
+      - Honey
+      - Maple syrup
+      - Fruits
+      - Dairy
       required: false
     - id: 7
       name: notes

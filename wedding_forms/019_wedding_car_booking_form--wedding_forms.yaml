@@ -4,15 +4,15 @@ inputSchema:
     title: Wedding Car Booking Form
     pages:
     - id: 1
-      name: wedding_car_venue
+      name: wedding_venue
       label: Wedding Venue
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: wedding_car_type
-      label: wedding_car_type
+      name: wedding_vehicle_type
+      label: Wedding Vehicle Type
       hint: null
       type: select_one
       options:
@@ -22,42 +22,42 @@ inputSchema:
       required: false
     - id: 3
       name: wedding_guests
-      label: wedding_guests
+      label: Wedding Guests
       hint: null
       type: number
       options: []
       required: false
     - id: 4
       name: wedding_date
-      label: wedding_date
+      label: Wedding Date
       hint: null
       type: date
       options: []
       required: false
     - id: 5
       name: wedding_time
-      label: wedding_time
+      label: Wedding Time
       hint: null
       type: time
       options: []
       required: false
     - id: 6
       name: bride_name
-      label: bride_name
+      label: Bride's Name
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: groom_name
-      label: groom_name
+      label: Groom's Name
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: wedding_car_colour
-      label: wedding_car_colour
+      name: desired_color
+      label: Desired Wedding Car Color
       hint: null
       type: select_one
       options:
@@ -66,8 +66,8 @@ inputSchema:
       - Green
       required: false
     - id: 9
-      name: wedding_car_colour
-      label: wedding_car_colour
+      name: desired_color_2
+      label: Desired Color 2
       hint: null
       type: select_one
       options:
@@ -76,158 +76,29 @@ inputSchema:
       - Green
       required: false
     - id: 10
-      name: wedding_car_colour
-      label: wedding_car_colour
+      name: wedding_cars_needed
+      label: Wedding Cars Needed
       hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
+      type: number
+      options: []
       required: false
     - id: 11
-      name: wedding_car_colour
-      label: wedding_car_colour
+      name: wedding_time_2
+      label: Wedding Time 2
       hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
+      type: time
+      options: []
       required: false
     - id: 12
-      name: wedding_car_colour
-      label: wedding_car_colour
+      name: wedding_venue_2
+      label: Wedding Venue 2
       hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
+      type: text
+      options: []
       required: false
     - id: 13
-      name: wedding_car_colour
-      label: wedding_car_colour
-      hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
-      required: false
-    - id: 14
-      name: wedding_car_colour
-      label: wedding_car_colour
-      hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
-      required: false
-    - id: 15
-      name: wedding_car_colour
-      label: wedding_car_colour
-      hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
-      required: false
-    - id: 16
-      name: wedding_car_colour
-      label: wedding_car_colour
-      hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
-      required: false
-    - id: 17
-      name: wedding_car_colour
-      label: wedding_car_colour
-      hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
-      required: false
-    - id: 18
-      name: wedding_car_colour
-      label: wedding_car_colour
-      hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
-      required: false
-    - id: 19
-      name: wedding_car_colour
-      label: wedding_car_colour
-      hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
-      required: false
-    - id: 20
-      name: wedding_car_colour
-      label: wedding_car_colour
-      hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
-      required: false
-    - id: 21
-      name: wedding_car_colour
-      label: wedding_car_colour
-      hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
-      required: false
-    - id: 22
-      name: wedding_car_colour
-      label: wedding_car_colour
-      hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
-      required: false
-    - id: 23
-      name: wedding_car_colour
-      label: wedding_car_colour
-      hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
-      required: false
-    - id: 24
-      name: wedding_car_colour
-      label: wedding_car_colour
-      hint: null
-      type: select_one
-      options:
-      - Red
-      - Blue
-      - Green
-      required: false
-    - id: 25
-      name: wedding_car_colour
-      label: wedding_car_colour
+      name: desired_color_3
+      label: Desired Color 3
       hint: null
       type: select_one
       options:

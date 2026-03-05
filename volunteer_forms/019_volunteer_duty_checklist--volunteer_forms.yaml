@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''volunteer1''}'
-      - '{''value'': ''volunteer2''}'
+      - volunteer1
+      - volunteer2
       required: true
     - id: 3
       name: task_status
@@ -25,8 +25,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''completed''}'
-      - '{''value'': ''incomplete''}'
+      - completed
+      - incomplete
       required: true
     - id: 4
       name: due_date
@@ -55,7 +55,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: true
     - id: 8

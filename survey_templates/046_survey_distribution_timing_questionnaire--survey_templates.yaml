@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''email''}'
-      - '{''id'': 2, ''label'': ''phone''}'
-      - '{''id'': 3, ''label'': ''message''}'
-      - '{''id'': 4, ''label'': ''text''}'
+      - email
+      - phone
+      - message
+      - text
       required: false
     - id: 3
       name: time_of_day
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''morning''}'
-      - '{''id'': 2, ''label'': ''afternoon''}'
-      - '{''id'': 3, ''label'': ''evening''}'
+      - morning
+      - afternoon
+      - evening
       required: false
     - id: 4
       name: day_of_week
@@ -37,13 +37,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''monday''}'
-      - '{''id'': 2, ''label'': ''tuesday''}'
-      - '{''id'': 3, ''label'': ''wednesday''}'
-      - '{''id'': 4, ''label'': ''thursday''}'
-      - '{''id'': 5, ''label'': ''friday''}'
-      - '{''id'': 6, ''label'': ''saturday''}'
-      - '{''id'': 7, ''label'': ''sunday''}'
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+      - saturday
+      - sunday
       required: false
     - id: 5
       name: day_of_month
@@ -51,11 +51,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''first''}'
-      - '{''id'': 2, ''label'': ''second''}'
-      - '{''id'': 3, ''label'': ''third''}'
-      - '{''id'': 4, ''label'': ''fourth''}'
-      - '{''id'': 5, ''label'': ''fifth''}'
+      - first
+      - second
+      - third
+      - fourth
+      - fifth
       required: false
     - id: 6
       name: survey_frequency
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''one_time''}'
-      - '{''id'': 2, ''label'': ''daily''}'
-      - '{''id'': 3, ''label'': ''weekly''}'
+      - one time
+      - daily
+      - weekly
       required: false
     - id: 7
       name: start_time
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''minutes''}'
-      - '{''id'': 2, ''label'': ''hours''}'
-      - '{''id'': 3, ''label'': ''days''}'
+      - minutes
+      - hours
+      - days
       required: false
     - id: 11
       name: time_zone
@@ -104,11 +104,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''EST''}'
-      - '{''id'': 2, ''label'': ''PST''}'
-      - '{''id'': 3, ''label'': ''CST''}'
-      - '{''id'': 4, ''label'': ''MST''}'
-      - '{''id'': 5, ''label'': ''AST''}'
+      - EST
+      - PST
+      - CST
+      - MST
+      - AST
       required: false
     - id: 12
       name: timezone
@@ -116,11 +116,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''America''}'
-      - '{''id'': 2, ''label'': ''Europe''}'
-      - '{''id'': 3, ''label'': ''Asia''}'
-      - '{''id'': 4, ''label'': ''Africa''}'
-      - '{''id'': 5, ''label'': ''Australia''}'
+      - America
+      - Europe
+      - Asia
+      - Africa
+      - Australia
       required: false
     - id: 13
       name: timezone_offset
@@ -128,11 +128,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 0}'
-      - '{''id'': 2, ''label'': 1}'
-      - '{''id'': 3, ''label'': 2}'
-      - '{''id'': 4, ''label'': 3}'
-      - '{''id'': 5, ''label'': 4}'
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 14
       name: timezone_offset_2
@@ -140,11 +140,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 0}'
-      - '{''id'': 2, ''label'': -1}'
-      - '{''id'': 3, ''label'': -2}'
-      - '{''id'': 4, ''label'': -3}'
-      - '{''id'': 5, ''label'': -4}'
+      - '0'
+      - '-1'
+      - '-2'
+      - '-3'
+      - '-4'
       required: false
     - id: 15
       name: timezone_offset_3
@@ -152,11 +152,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 0}'
-      - '{''id'': 2, ''label'': -1}'
-      - '{''id'': 3, ''label'': -2}'
-      - '{''id'': 4, ''label'': -3}'
-      - '{''id'': 5, ''label'': -4}'
+      - '0'
+      - '-1'
+      - '-2'
+      - '-3'
+      - '-4'
       required: false
     - id: 16
       name: timezone_offset_4
@@ -164,11 +164,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 0}'
-      - '{''id'': 2, ''label'': 1}'
-      - '{''id'': 3, ''label'': 2}'
-      - '{''id'': 4, ''label'': 3}'
-      - '{''id'': 5, ''label'': 4}'
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 17
       name: timezone_offset_5
@@ -176,11 +176,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 0}'
-      - '{''id'': 2, ''label'': 1}'
-      - '{''id'': 3, ''label'': 2}'
-      - '{''id'': 4, ''label'': 3}'
-      - '{''id'': 5, ''label'': 4}'
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 18
       name: timezone_offset_6
@@ -188,11 +188,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 0}'
-      - '{''id'': 2, ''label'': 1}'
-      - '{''id'': 3, ''label'': 2}'
-      - '{''id'': 4, ''label'': 3}'
-      - '{''id'': 5, ''label'': 4}'
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 19
       name: timezone_offset_7
@@ -200,11 +200,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 0}'
-      - '{''id'': 2, ''label'': -1}'
-      - '{''id'': 3, ''label'': -2}'
-      - '{''id'': 4, ''label'': -3}'
-      - '{''id'': 5, ''label'': -4}'
+      - '0'
+      - '-1'
+      - '-2'
+      - '-3'
+      - '-4'
       required: false
     - id: 20
       name: timezone_offset_8
@@ -212,11 +212,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 0}'
-      - '{''id'': 2, ''label'': -1}'
-      - '{''id'': 3, ''label'': -2}'
-      - '{''id'': 4, ''label'': -3}'
-      - '{''id'': 5, ''label'': -4}'
+      - '0'
+      - '-1'
+      - '-2'
+      - '-3'
+      - '-4'
       required: false
     - id: 21
       name: timezone_offset_9
@@ -224,11 +224,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 0}'
-      - '{''id'': 2, ''label'': 1}'
-      - '{''id'': 3, ''label'': 2}'
-      - '{''id'': 4, ''label'': 3}'
-      - '{''id'': 5, ''label'': 4}'
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 22
       name: timezone_offset_10
@@ -236,11 +236,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 0}'
-      - '{''id'': 2, ''label'': 1}'
-      - '{''id'': 3, ''label'': 2}'
-      - '{''id'': 4, ''label'': 3}'
-      - '{''id'': 5, ''label'': 4}'
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 23
       name: timezone_offset_11
@@ -248,11 +248,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 0}'
-      - '{''id'': 2, ''label'': 1}'
-      - '{''id'': 3, ''label'': 2}'
-      - '{''id'': 4, ''label'': 3}'
-      - '{''id'': 5, ''label'': 4}'
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 24
       name: timezone_offset_12
@@ -260,11 +260,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 0}'
-      - '{''id'': 2, ''label'': 1}'
-      - '{''id'': 3, ''label'': 2}'
-      - '{''id'': 4, ''label'': 3}'
-      - '{''id'': 5, ''label'': 4}'
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 25
       name: timezone_offset_13
@@ -272,9 +272,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 0}'
-      - '{''id'': 2, ''label'': 1}'
-      - '{''id'': 3, ''label'': 2}'
-      - '{''id'': 4, ''label'': 3}'
-      - '{''id'': 5, ''label'': 4}'
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false

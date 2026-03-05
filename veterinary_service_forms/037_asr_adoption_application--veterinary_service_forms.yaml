@@ -63,8 +63,8 @@ inputSchema:
       hint: Landlord approval is required for rental properties
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not applicable - I own my home
       required: true
     - id: 9
@@ -80,8 +80,8 @@ inputSchema:
       hint: List any pets you currently own
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: current_pets_details
@@ -131,11 +131,10 @@ inputSchema:
       hint: Select your preferred veterinary clinic or veterinarian
       type: select_one
       options:
-      - true
+      - 'True'
       - I have a vet selected
-      - true
       - I will find a vet
-      - false
+      - 'False'
       - but I will arrange care
       required: true
     - id: 18
@@ -144,8 +143,8 @@ inputSchema:
       hint: Fees vary by animal type and age
       type: select_one
       options:
-      - true
+      - 'True'
       - I understand and agree
-      - false
+      - 'False'
       - I need more information
       required: true

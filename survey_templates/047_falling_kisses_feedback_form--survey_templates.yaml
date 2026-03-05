@@ -5,106 +5,85 @@ inputSchema:
     pages:
     - id: 1
       name: overall_rating
-      label: overall_rating
-      hint: null
+      label: What did you think about our service?
+      hint: Rate from 1-5
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
       name: rating_satisfaction
-      label: rating_satisfaction
-      hint: null
+      label: How satisfied were you with our service?
+      hint: Rate from 1-5
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
       name: rating_quality
-      label: rating_quality
-      hint: null
+      label: How would you rate the quality of our service?
+      hint: Rate from 1-5
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
       name: rating_value
-      label: rating_value
-      hint: null
+      label: Do you think you got value for money?
+      hint: Rate from 1-5
       type: number
       options: []
-      required: false
+      required: true
     - id: 5
       name: rating_presentation
-      label: rating_presentation
-      hint: null
+      label: How was the presentation of our service?
+      hint: Rate from 1-5
       type: number
       options: []
-      required: false
+      required: true
     - id: 6
       name: rating_service
-      label: rating_service
-      hint: null
+      label: How would you rate the service experience?
+      hint: Rate from 1-5
       type: number
       options: []
-      required: false
+      required: true
     - id: 7
       name: rating_food_and_drinks
-      label: rating_food_and_drinks
-      hint: null
+      label: How was the food and drinks quality?
+      hint: Rate from 1-5
       type: number
       options: []
-      required: false
+      required: true
     - id: 8
-      name: rating_value
-      label: rating_value
-      hint: null
-      type: number
+      name: comments
+      label: Any comments about our service?
+      hint: Please share your thoughts
+      type: text
       options: []
       required: false
     - id: 9
-      name: rating_presentation
-      label: rating_presentation
-      hint: null
-      type: number
+      name: suggestions
+      label: Do you have any suggestions for us?
+      hint: Help us improve
+      type: text
       options: []
       required: false
     - id: 10
-      name: rating_service
-      label: rating_service
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: rating_food_and_drinks
-      label: rating_food_and_drinks
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: suggestions
-      label: suggestions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
       name: email
-      label: email
-      hint: null
+      label: Email address
+      hint: Please enter your email address
       type: email
       options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 11
       name: phone
-      label: phone
-      hint: null
+      label: Phone number
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: feedback
+      label: Additional comments or questions?
+      hint: If you have anything else you'd like to share, please do
       type: text
       options: []
       required: false

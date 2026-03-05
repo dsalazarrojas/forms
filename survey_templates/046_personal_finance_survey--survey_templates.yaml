@@ -1,54 +1,28 @@
 inputSchema:
   type: object
   properties:
-    title: personal-finance-survey
+    title: Personal Finance Survey
     pages:
     - id: 1
-      name: personal_income_1
+      name: annual_income
       label: Annual income in thousands
       hint: null
       type: number
       options: []
       required: false
     - id: 2
-      name: family_size_1
-      label: family_size
-      hint: null
-      type: select_one
-      options:
-      - Single
-      - Married
-      - Both
-      - Other
-      required: false
-    - id: 3
-      name: annual_savings_1
-      label: Annual savings
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: employment_status_1
+      name: employment_status
       label: Employment status
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - Employed
       - Self-employed
       - Student
       - Retired
-      - Other
-      required: false
-    - id: 5
-      name: annual_savings_2
-      label: Annual savings
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: income_source_1
+      required: true
+    - id: 3
+      name: income_source
       label: Income source
       hint: null
       type: select_multiple
@@ -58,15 +32,15 @@ inputSchema:
       - Business
       - Other
       required: false
-    - id: 7
-      name: annual_savings_3
+    - id: 4
+      name: annual_savings
       label: Annual savings
       hint: null
       type: number
       options: []
       required: false
-    - id: 8
-      name: family_member_1
+    - id: 5
+      name: family_type
       label: Is this information about an individual or a family?
       hint: null
       type: select_one
@@ -74,9 +48,59 @@ inputSchema:
       - Individual
       - Family
       required: false
+    - id: 6
+      name: annual_expense_budget
+      label: Annual expense budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: outstanding_debt
+      label: Do you have any outstanding debt?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 8
+      name: annual_savings_percentage
+      label: Annual savings as a percentage of income
+      hint: null
+      type: number
+      options: []
+      required: false
     - id: 9
+      name: employment_type
+      label: Employment type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contractor
+      - Freelancer
+      required: false
+    - id: 10
+      name: dependents
+      label: Do you have any dependents?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 11
+      name: annual_savings_2
+      label: Annual Savings 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
       name: income_source_2
-      label: Income source
+      label: Income Source 2
       hint: null
       type: select_multiple
       options:
@@ -84,18 +108,4 @@ inputSchema:
       - Investments
       - Business
       - Other
-      required: false
-    - id: 10
-      name: annual_savings_4
-      label: Annual savings
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: annual_savings_5
-      label: Annual savings
-      hint: null
-      type: number
-      options: []
       required: false

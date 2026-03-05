@@ -4,192 +4,63 @@ inputSchema:
     title: Facility Technology Adoption Survey
     pages:
     - id: 1
-      name: intro_page
+      name: introduction_page
       label: Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: survey_page
-      label: Technology Adoption
+      name: tech_adoption
+      label: Current Technology Adoption
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - Mobile devices
+      - Computers
+      - Software
+      - Other (please specify)
+      - No technology adoption
       required: false
     - id: 3
-      name: facilities_page
-      label: Facilities
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: comments_page
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: tech_page
-      label: Technology
+      name: used_technology
+      label: Technologies Used
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - Mobile devices
+      - Computers
+      - Software
+      - Other (please specify)
+      - None
+      required: false
+    - id: 4
+      name: facility_count
+      label: Facility Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: facility_purpose
+      label: Facility Purpose
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 6
-      name: tech_page
-      label: Technology
+      name: maintenance_state
+      label: Current Maintenance State
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
       required: false
     - id: 7
-      name: facilities_page
-      label: Facilities
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: submission_page
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 9
-      name: comments_page
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: comments_page
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: submission_page
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: comments_page
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: technology_page
-      label: Technology
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: facilities_page
-      label: Facilities
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: submission_page
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: comments_page
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: comments_page
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: submission_page
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: comments_page
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: technology_page
-      label: Technology
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: facilities_page
-      label: Facilities
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: submission_page
-      label: Submission
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: comments_page
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: tech_page
-      label: Technology
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: facilities_page
-      label: Facilities
+      name: tech_types
+      label: Technology Types Used
       hint: null
       type: text
       options: []

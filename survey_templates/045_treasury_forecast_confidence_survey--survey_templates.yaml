@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''very_confident''}'
-      - '{''label'': ''somewhat_confident''}'
-      - '{''label'': ''not_confident''}'
-      - '{''label'': ''unsure''}'
+      - very confident
+      - somewhat confident
+      - not confident
+      - unsure
       required: false
     - id: 4
       name: questions_1_2
@@ -34,11 +34,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''accurate_forecast''}'
-      - '{''label'': ''inaccurate_forecast''}'
-      - '{''label'': ''uncertain_forecast''}'
-      - '{''label'': ''other''}'
-      - '{''label'': ''unsure''}'
+      - accurate forecast
+      - inaccurate forecast
+      - uncertain forecast
+      - other
+      - unsure
       required: false
     - id: 5
       name: questions_2
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''liquidity_management''}'
-      - '{''label'': ''cashflow''}'
-      - '{''label'': ''other''}'
+      - liquidity management
+      - cashflow
+      - other
       required: false
     - id: 6
       name: questions_3
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: questions_4_1

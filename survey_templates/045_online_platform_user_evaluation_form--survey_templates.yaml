@@ -11,81 +11,81 @@ inputSchema:
       options: []
       required: true
     - id: 2
-      name: rating
+      name: overall_rating
       label: Overall Rating (1-5)
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: rating_comment
-      label: Rating Comment
+      name: user_experience
+      label: User Experience
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: experience
-      label: User Experience
-      hint: e.g., user interface, navigation, performance
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: issues
+      name: issues_encountered
       label: Issues Encountered
-      hint: Describe any issues you have encountered.
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 5
+      name: any_suggestions
+      label: Any Suggestions?
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: recommendations
-      label: Recommendations
-      hint: Any suggestions for improvement?
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: phone
       label: Phone Number
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 9
-      name: feedback
+      name: additional_feedback
       label: Additional Feedback
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
       name: select_multiple
       label: Select Multiple
-      hint: Select all that apply
+      hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
+      - I Agree
+      - I Disagree
+      - Other
+      required: true
     - id: 11
       name: select_one
       label: Select One
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
+      - I Agree
+      - I Disagree
+      - Other
+      required: true
     - id: 12
       name: date
       label: Date
@@ -108,244 +108,133 @@ inputSchema:
       options: []
       required: false
     - id: 15
-      name: email_repeat
-      label: Email
+      name: select_multiple_repeat
+      label: Select Multiple Repeat
       hint: null
-      type: email
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - I Agree
+      - I Disagree
+      - Other
+      required: true
     - id: 16
-      name: phone_repeat
-      label: Phone Number
+      name: select_one_repeat
+      label: Select One Repeat
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      - Other
+      required: true
     - id: 17
-      name: select_multiple_repeat
-      label: Select Multiple
-      hint: Select all that apply
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
+      name: overall_satisfaction_repeat
+      label: Overall Satisfaction Repeat
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 18
-      name: select_one_repeat
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 19
-      name: date_repeat
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: time_repeat
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: note_repeat
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: platform_name_repeat
-      label: Platform Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: rating_repeat
-      label: Overall Rating (1-5)
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: experience_repeat
-      label: User Experience
-      hint: e.g., user interface, navigation, performance
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: issues_repeat
-      label: Issues Encountered
-      hint: Describe any issues you have encountered.
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: recommendations_repeat
-      label: Recommendations
-      hint: Any suggestions for improvement?
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: email_repeat
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 28
-      name: phone_repeat
-      label: Phone Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
       name: feedback_repeat
-      label: Additional Feedback
+      label: Feedback Repeat
       hint: null
       type: text
       options: []
-      required: false
-    - id: 30
-      name: select_multiple_repeat
-      label: Select Multiple
-      hint: Select all that apply
+      required: true
+    - id: 19
+      name: select_multiple_repeat_2
+      label: Select Multiple Repeat 2
+      hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 31
-      name: select_one_repeat
-      label: Select One
+      - I Agree
+      - I Disagree
+      - Other
+      required: true
+    - id: 20
+      name: select_one_repeat_2
+      label: Select One Repeat 2
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 32
-      name: date_repeat
-      label: Date
+      - I Agree
+      - I Disagree
+      - Other
+      required: true
+    - id: 21
+      name: overall_satisfaction_repeat_2
+      label: Overall Satisfaction Repeat 2
       hint: null
-      type: date
+      type: number
       options: []
-      required: false
-    - id: 33
-      name: time_repeat
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 34
-      name: note_repeat
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 35
-      name: platform_name_repeat
-      label: Platform Name
+      required: true
+    - id: 22
+      name: feedback_repeat_2
+      label: Feedback Repeat 2
       hint: null
       type: text
       options: []
-      required: false
-    - id: 36
-      name: overall_satisfaction
-      label: Overall Satisfaction
-      hint: On a scale of 1-10
-      type: number
-      options: []
-      required: false
-    - id: 37
+      required: true
+    - id: 23
       name: improvement_needed
       label: Improvement Needed
-      hint: Describe any areas of improvement
+      hint: null
       type: text
       options: []
-      required: false
-    - id: 38
+      required: true
+    - id: 24
       name: email_repeat
-      label: Email
+      label: Email Repeat
       hint: null
       type: email
       options: []
-      required: false
-    - id: 39
+      required: true
+    - id: 25
       name: phone_repeat
-      label: Phone Number
+      label: Phone Repeat
       hint: null
       type: text
       options: []
-      required: false
-    - id: 40
-      name: select_multiple_repeat
-      label: Select Multiple
-      hint: Select all that apply
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 41
-      name: select_one_repeat
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 42
-      name: date_repeat
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 43
-      name: time_repeat
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 44
+      required: true
+    - id: 26
       name: note_repeat
-      label: Note
+      label: Note Repeat
       hint: null
       type: note
       options: []
-      required: false
-    - id: 45
-      name: platform_name_repeat
-      label: Platform Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: overall_satisfaction_repeat
-      label: Overall Satisfaction
+      required: true
+    - id: 27
+      name: overall_satisfaction_repeat_3
+      label: Overall Satisfaction Repeat 3
       hint: null
       type: number
       options: []
-      required: false
+      required: true
+    - id: 28
+      name: feedback_repeat_3
+      label: Feedback Repeat 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: improvement_repeat
+      label: Improvement Repeat
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: overall_satisfaction_repeat_3_2
+      label: Overall Satisfaction Repeat 3 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 31
+      name: feedback_repeat_3_2
+      label: Feedback Repeat 3 2
+      hint: null
+      type: text
+      options: []
+      required: true

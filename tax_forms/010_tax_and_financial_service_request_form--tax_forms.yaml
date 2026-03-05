@@ -4,184 +4,96 @@ inputSchema:
     title: Tax And Financial Service Request Form
     pages:
     - id: 1
-      name: tax_and_financial_service_request_form
-      label: tax_and_financial_service_request
+      name: tax_and_financial_service_request
+      label: Tax and financial service request
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: tax_and_financial_service_request_form
-      label: tax_and_financial_service_request_form
+      name: tax_id
+      label: Tax ID
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 3
-      name: tax_id
-      label: tax_id
+      name: financial_service_request
+      label: Financial service request
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 4
-      name: tax_id
-      label: tax_id
+      name: date_of_service_request
+      label: Date of service request
       hint: null
-      type: number
+      type: date
       options: []
       required: false
     - id: 5
-      name: financial_service_request
-      label: financial_service_request
+      name: time_of_service_request
+      label: Time of service request
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 6
-      name: financial_service_request
-      label: financial_service_request
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
-      name: date_of_service_request
-      label: date_of_service_request
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: date_of_service_request
-      label: date_of_service_request
-      hint: null
-      type: date
-      options: []
-      required: false
     - id: 9
-      name: time_of_service_request
-      label: time_of_service_request
+      name: tax_and_financial_service
+      label: Tax and financial service
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 10
-      name: time_of_service_request
-      label: time_of_service_request
+      name: service_requests
+      label: Service requests
       hint: null
-      type: time
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 11
-      name: notes
-      label: notes
+      name: additional_notes
+      label: Additional notes
       hint: null
       type: note
       options: []
       required: false
     - id: 12
-      name: notes
-      label: notes
+      name: tax_return
+      label: Tax return
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 13
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: tax_and_financial_service
-      label: tax_and_financial_service
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: tax_and_financial_service
-      label: tax_and_financial_service
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: service_requests
-      label: service_requests
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: service_requests
-      label: service_requests
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: additional_notes
-      label: additional_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: additional_notes
-      label: additional_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: tax_return
-      label: tax_return
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: tax_return
-      label: tax_return
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
       name: customer_service
-      label: customer_service
+      label: Customer service
       hint: null
       type: text
       options: []

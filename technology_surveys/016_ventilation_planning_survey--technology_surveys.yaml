@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''System 1''}'
-      - '{''id'': 2, ''label'': ''System 2''}'
-      - '{''id'': 3, ''label'': ''System 3''}'
+      - System 1
+      - System 2
+      - System 3
       required: false
     - id: 7
       name: system_capacity
@@ -166,8 +166,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Engineer''}'
-      - '{''id'': 2, ''label'': ''Project Manager''}'
+      - Engineer
+      - Project Manager
       required: false
     - id: 24
       name: project_status
@@ -175,9 +175,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''On Hold''}'
+      - Active
+      - Inactive
+      - On Hold
       required: false
     - id: 25
       name: review_date

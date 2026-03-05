@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Commercial Vessel''}'
-      - '{''id'': 2, ''label'': ''Private Vessel''}'
-      - '{''id'': 3, ''label'': ''Military Vessel''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Commercial Vessel
+      - Private Vessel
+      - Military Vessel
+      - Other
       required: false
     - id: 2
       name: weather_conditions
@@ -20,10 +20,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Wind''}'
-      - '{''id'': 2, ''label'': ''Wave''}'
-      - '{''id'': 3, ''label'': ''Sea State''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Wind
+      - Wave
+      - Sea State
+      - Other
       required: false
     - id: 3
       name: operating_area
@@ -59,9 +59,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Satisfactory''}'
-      - '{''id'': 2, ''label'': ''Unsatisfactory''}'
-      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      - Satisfactory
+      - Unsatisfactory
+      - Not Applicable
       required: false
     - id: 8
       name: crew_condition
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Satisfactory''}'
-      - '{''id'': 2, ''label'': ''Unsatisfactory''}'
-      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      - Satisfactory
+      - Unsatisfactory
+      - Not Applicable
       required: false
     - id: 9
       name: operating_area_note

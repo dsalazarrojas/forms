@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,12 +16,12 @@ inputSchema:
       hint: Age or age range
       type: select_one
       options:
-        - Under 10
-        - 10-12
-        - 13-15
-        - 16-18
-        - Over 18
-        - Prefer Not to Say
+      - Under 10
+      - 10-12
+      - 13-15
+      - 16-18
+      - Over 18
+      - Prefer Not to Say
       required: true
     - id: 3
       name: school_name
@@ -54,10 +43,10 @@ inputSchema:
       hint: Have you been bullied
       type: select_one
       options:
-        - Yes, Multiple Times
-        - Yes, Once
-        - No
-        - Prefer Not to Say
+      - Yes, Multiple Times
+      - Yes, Once
+      - 'False'
+      - Prefer Not to Say
       required: true
     - id: 6
       name: bullying_type_experienced
@@ -65,14 +54,14 @@ inputSchema:
       hint: What happened to you
       type: select_multiple
       options:
-        - Physical Bullying
-        - Verbal Insults
-        - Social Exclusion
-        - Cyberbullying
-        - Rumors or Gossip
-        - Threats
-        - Sexual Harassment
-        - Not Applicable
+      - Physical Bullying
+      - Verbal Insults
+      - Social Exclusion
+      - Cyberbullying
+      - Rumors or Gossip
+      - Threats
+      - Sexual Harassment
+      - Not Applicable
       required: false
     - id: 7
       name: bullying_impact
@@ -80,12 +69,12 @@ inputSchema:
       hint: Emotional impact
       type: select_multiple
       options:
-        - Sad or Depressed
-        - Anxious or Scared
-        - Angry
-        - Ashamed or Embarrassed
-        - No Significant Impact
-        - Other
+      - Sad or Depressed
+      - Anxious or Scared
+      - Angry
+      - Ashamed or Embarrassed
+      - No Significant Impact
+      - Other
       required: false
     - id: 8
       name: witnessed_bullying
@@ -93,10 +82,10 @@ inputSchema:
       hint: Seen others being bullied
       type: select_one
       options:
-        - Yes, Multiple Times
-        - Yes, Once
-        - No
-        - Unsure
+      - Yes, Multiple Times
+      - Yes, Once
+      - 'False'
+      - Unsure
       required: true
     - id: 9
       name: witness_response
@@ -104,12 +93,12 @@ inputSchema:
       hint: Your response
       type: select_one
       options:
-        - Reported It to Adults
-        - Supported the Victim
-        - Did Nothing
-        - Ignored It
-        - Joined In
-        - Not Applicable
+      - Reported It to Adults
+      - Supported the Victim
+      - Did Nothing
+      - Ignored It
+      - Joined In
+      - Not Applicable
       required: false
     - id: 10
       name: bullied_others
@@ -117,10 +106,10 @@ inputSchema:
       hint: Been a bully yourself
       type: select_one
       options:
-        - Yes
-        - No
-        - Maybe Without Realizing
-        - Prefer Not to Say
+      - 'True'
+      - 'False'
+      - Maybe Without Realizing
+      - Prefer Not to Say
       required: true
     - id: 11
       name: school_safety
@@ -128,11 +117,11 @@ inputSchema:
       hint: General safety feeling
       type: select_one
       options:
-        - Very Safe
-        - Mostly Safe
-        - Somewhat Safe
-        - Not Safe
-        - Very Unsafe
+      - Very Safe
+      - Mostly Safe
+      - Somewhat Safe
+      - Not Safe
+      - Very Unsafe
       required: true
     - id: 12
       name: school_response
@@ -140,11 +129,11 @@ inputSchema:
       hint: School intervention efforts
       type: select_one
       options:
-        - Very Effective
-        - Effective
-        - Somewhat Effective
-        - Not Effective
-        - Don't Know
+      - Very Effective
+      - Effective
+      - Somewhat Effective
+      - Not Effective
+      - Don't Know
       required: true
     - id: 13
       name: staff_awareness
@@ -152,10 +141,10 @@ inputSchema:
       hint: Do teachers notice
       type: select_one
       options:
-        - Very Aware
-        - Somewhat Aware
-        - Not Very Aware
-        - Not Aware
+      - Very Aware
+      - Somewhat Aware
+      - Not Very Aware
+      - Not Aware
       required: true
     - id: 14
       name: reporting_process
@@ -163,10 +152,10 @@ inputSchema:
       hint: Is process accessible
       type: select_one
       options:
-        - Very Easy
-        - Somewhat Easy
-        - Difficult
-        - Very Difficult
+      - Very Easy
+      - Somewhat Easy
+      - Difficult
+      - Very Difficult
       required: true
     - id: 15
       name: trust_reporting
@@ -174,10 +163,10 @@ inputSchema:
       hint: Confidence in reporting
       type: select_one
       options:
-        - Very Confident
-        - Somewhat Confident
-        - Not Confident
-        - Don't Know
+      - Very Confident
+      - Somewhat Confident
+      - Not Confident
+      - Don't Know
       required: true
     - id: 16
       name: peer_support
@@ -185,11 +174,11 @@ inputSchema:
       hint: Student involvement
       type: select_one
       options:
-        - Strongly Support
-        - Support
-        - Neutral
-        - Oppose
-        - Strongly Oppose
+      - Strongly Support
+      - Support
+      - Neutral
+      - Oppose
+      - Strongly Oppose
       required: true
     - id: 17
       name: improvement_suggestions
@@ -204,10 +193,10 @@ inputSchema:
       hint: Counseling services
       type: select_one
       options:
-        - Yes, Definitely
-        - Maybe
-        - No
-        - Don't Know Where to Find Help
+      - Yes, Definitely
+      - Maybe
+      - 'False'
+      - Don't Know Where to Find Help
       required: false
     - id: 19
       name: additional_comments

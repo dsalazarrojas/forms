@@ -1,44 +1,195 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Social Media Volunteer Registration Form
     pages:
     - id: 1
-      name: snake_case_string
-      label: <text_without_colons>
+      name: first_name
+      label: First Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: snake_case_string
-      label: <text_without_colons>
+      name: last_name
+      label: Last Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: snake_case_string
-      label: <text_without_colons>
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: interest_in_social_media
+      label: Interest in Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Twitter
+      - Facebook
+      - Instagram
+      - TikTok
+      - LinkedIn
+      - YouTube
+      required: true
+    - id: 8
+      name: how_did_you_find_us
+      label: How did you find us?
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Word of mouth
+      - Online search
+      - Friend/Family
+      - Other (please specify)
+      required: true
+    - id: 9
+      name: what_is_your_expertise
+      label: What is your expertise?
+      hint: null
+      type: select_multiple
+      options:
+      - Content creation
+      - Community management
+      - Social media advertising
+      - Event planning
+      - Graphic design
+      - Other (please specify)
+      required: true
+    - id: 10
+      name: how_many_hours
+      label: How many hours can you volunteer per week?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: volunteer_type
+      label: Volunteer Type
+      hint: null
+      type: select_multiple
+      options:
+      - General
+      - Content creator
+      - Event coordinator
+      - Administrative
+      - Other (please specify)
+      required: true
+    - id: 12
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_day
+      label: Time of Day Preference
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Arabic
+      - Other (please specify)
+      required: false
+    - id: 15
+      name: how_did_you_hear_about_us
+      label: How did you hear about us?
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Word of mouth
+      - Online search
+      - Friend/Family
+      - Other (please specify)
+      required: false
+    - id: 16
+      name: people_to_volunteer_with
+      label: How many people can you volunteer with?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: language_2
+      label: Language 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 4
-      name: snake_case_string
-      label: <text_without_colons>
+    - id: 19
+      name: confirm_volunteer_type
+      label: Confirm Volunteer Type
       hint: null
-      type: text
+      type: select_multiple
+      options:
+      - General
+      - Content creator
+      - Event coordinator
+      - Administrative
+      - Other (please specify)
+      required: true
+    - id: 20
+      name: how_did_you_hear_about_us_2
+      label: How Did You Hear About Us 2
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Word of mouth
+      - Online search
+      - Friend/Family
+      - Other (please specify)
+      required: true
+    - id: 21
+      name: time_preferenced
+      label: Time Preferenced
+      hint: null
+      type: time
       options: []
       required: false

@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 4
       name: price_value
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Fair''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Excellent''}'
+      - Fair
+      - Good
+      - Excellent
       required: false
     - id: 5
       name: quality_of_ingredients
@@ -51,11 +51,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Satisfied''}'
-      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Somewhat Dissatisfied''}'
-      - '{''id'': 5, ''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 7
       name: would_recommend
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: additional_comments
@@ -79,11 +79,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Social Media''}'
-      - '{''id'': 2, ''label'': ''Online Search''}'
-      - '{''id'': 3, ''label'': ''Referral''}'
-      - '{''id'': 4, ''label'': ''Store''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Social Media
+      - Online Search
+      - Referral
+      - Store
+      - Other
       required: false
     - id: 10
       name: email

@@ -44,12 +44,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''HR''}'
-      - '{''name'': ''Accounting''}'
-      - '{''name'': ''Marketing''}'
-      - '{''name'': ''Sales''}'
-      - '{''name'': ''Support''}'
-      - '{''name'': ''Management''}'
+      - HR
+      - Accounting
+      - Marketing
+      - Sales
+      - Support
+      - Management
       required: false
     - id: 7
       name: manager_approval
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Approve''}'
-      - '{''name'': ''Deny''}'
-      - '{''name'': ''Forward to supervisor''}'
+      - Approve
+      - Deny
+      - Forward to supervisor
       required: false
     - id: 8
       name: time_off_start_date
@@ -116,45 +116,42 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Christmas''}'
-      - '{''name'': "New Year''s Day"}'
-      - '{''name'': ''Good Friday''}'
-      - '{''name'': ''Easter Monday''}'
-      - '{''name'': ''Easter Tuesday''}'
-      - '{''name'': ''Easter Wednesday''}'
-      - '{''name'': ''Easter Thursday''}'
-      - '{''name'': ''Easter Friday''}'
-      - '{''name'': ''Easter Saturday''}'
-      - '{''name'': ''Easter Sunday''}'
-      - '{''name'': ''Eid al-Fitr''}'
-      - '{''name'': ''Eid al-Adha''}'
-      - '{''name'': ''Diwali''}'
-      - '{''name'': ''Hanukkah''}'
-      - '{''name'': ''Rosh Hashanah''}'
-      - '{''name'': ''Sukkot''}'
-      - '{''name'': ''Thanksgiving Day''}'
-      - '{''name'': ''Thanksgiving Night''}'
-      - '{''name'': ''Christmas Day''}'
-      - '{''name'': ''Christmas Night''}'
-      - '{''name'': "New Year''s Day Eve"}'
-      - '{''name'': "New Year''s Day Morning"}'
-      - '{''name'': ''Nowruz''}'
-      - '{''name'': ''Chinese New Year''}'
-      - '{''name'': "Chinese New Year''s Eve"}'
-      - '{''name'': "Chinese New Year''s Morning"}'
-      - '{''name'': ''Nowruz Day''}'
-      - '{''name'': ''Nowruz Night''}'
-      - '{''name'': ''Nowruz Morning''}'
-      - '{''name'': ''Nowruz Evening''}'
-      - '{''name'': ''Nowruz Afternoon''}'
-      - '{''name'': ''Nowruz Afternoon''}'
-      - '{''name'': ''Nowruz Afternoon''}'
-      - '{''name'': ''Hanukkah Day''}'
-      - '{''name'': ''Hanukkah Night''}'
-      - '{''name'': ''Hanukkah Morning''}'
-      - '{''name'': ''Hanukkah Evening''}'
-      - '{''name'': ''Hanukkah Afternoon''}'
-      - '{''name'': ''Hanukkah Afternoon''}'
+      - Christmas
+      - New Year's Day
+      - Good Friday
+      - Easter Monday
+      - Easter Tuesday
+      - Easter Wednesday
+      - Easter Thursday
+      - Easter Friday
+      - Easter Saturday
+      - Easter Sunday
+      - Eid al-Fitr
+      - Eid al-Adha
+      - Diwali
+      - Hanukkah
+      - Rosh Hashanah
+      - Sukkot
+      - Thanksgiving Day
+      - Thanksgiving Night
+      - Christmas Day
+      - Christmas Night
+      - New Year's Day Eve
+      - New Year's Day Morning
+      - Nowruz
+      - Chinese New Year
+      - Chinese New Year's Eve
+      - Chinese New Year's Morning
+      - Nowruz Day
+      - Nowruz Night
+      - Nowruz Morning
+      - Nowruz Evening
+      - Nowruz Afternoon
+      - Hanukkah Day
+      - Hanukkah Night
+      - Hanukkah Morning
+      - Hanukkah Evening
+      - Hanukkah Afternoon
       required: false
     - id: 16
       name: time_off_requester_name

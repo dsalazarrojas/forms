@@ -15,19 +15,19 @@ inputSchema:
     title: Exam Date Poll Colorful
     pages:
     - id: 1
-      name: exam_date_poll_colorful_form_1
-      label: select_exam_date
-      hint: null
+      name: exam_date_form_1
+      label: Select Exam Date
+      hint: What date would you like to have the exam on?
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 2
-      name: exam_date_poll_colorful_form_2
-      label: select_poll_color
-      hint: null
+      name: exam_color_form_2
+      label: Select Poll Color
+      hint: What color would you like to have for the poll?
       type: select_multiple
       options:
       - blue
@@ -35,73 +35,76 @@ inputSchema:
       - green
       required: false
     - id: 3
-      name: exam_date_poll_colorful_form_3
-      label: select_exam_period
-      hint: null
+      name: exam_period_form_3
+      label: Select Exam Period
+      hint: What time of day would you like to have the exam on?
       type: select_one
       options:
-      - 8-00
-      - 8-30
-      - 9-00
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
-      name: exam_date_poll_colorful_form_4
-      label: exam_date
-      hint: null
+      name: exam_date_form_4
+      label: Exam Date
+      hint: What date would you like to have the exam on?
       type: date
       options: []
       required: false
     - id: 5
-      name: exam_date_poll_colorful_form_5
-      label: exam_time
-      hint: null
+      name: exam_time_form_5
+      label: Exam Time
+      hint: What time would you like to have the exam on?
       type: time
       options: []
       required: false
     - id: 6
-      name: exam_date_poll_colorful_form_6
-      label: select_exam_date
+      name: exam_date_form_6
+      label: Select Exam Date (Repeat)
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
-      name: exam_date_poll_colorful_form_7
-      label: select_exam_period
+      name: exam_period_form_7
+      label: Select Exam Period (Repeat)
       hint: null
       type: select_one
       options:
-      - 8-00
-      - 8-30
-      - 9-00
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
-      name: exam_date_poll_colorful_form_8
-      label: select_exam_time
+      name: exam_time_form_8
+      label: Select Exam Time
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
-      name: exam_date_poll_colorful_form_9
-      label: select_exam_date
+      name: exam_date_form_9
+      label: Exam Date Form 9
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
-      name: exam_date_poll_colorful_form_10
-      label: select_exam_period
+      name: exam_form_10
+      label: Exam Form 10
       hint: null
       type: select_one
       options:
-      - 8-00
-      - 8-30
-      - 9-00
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

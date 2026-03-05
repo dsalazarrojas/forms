@@ -5,194 +5,97 @@ inputSchema:
     pages:
     - id: 1
       name: route_pricing_survey
-      label: Route Pricing
+      label: What is the route name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: route_pricing_survey_page_2
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 3
-      name: route_pricing_survey_page_3
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 4
-      name: route_pricing_survey_page_4
-      label: Route Cost
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: route_pricing_survey_page_5
-      label: Route Cost Hint
+      name: departure_time
+      label: What is the departure time?
       hint: null
       type: time
       options: []
       required: false
-    - id: 6
-      name: route_pricing_survey_page_6
-      label: Date
+    - id: 3
+      name: arrival_time
+      label: What is the arrival time?
       hint: null
-      type: date
+      type: time
       options: []
       required: false
-    - id: 7
-      name: route_pricing_survey_page_7
-      label: Transportation
+    - id: 4
+      name: transportation_type
+      label: What type of transportation is used for this route?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - car
+      - plane
+      - train
+      - bus
+      - bike
+      required: false
+    - id: 5
+      name: route_cost
+      label: What is the cost of the route?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: is_available_for_delivery
+      label: Is the route available for delivery?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: contact_method
+      label: How would you like to contact us?
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - mail
       required: false
     - id: 8
-      name: route_pricing_survey_page_8
-      label: Delivery
+      name: email_address
+      label: What is your email address?
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
+      type: email
+      options: []
       required: false
     - id: 9
-      name: route_pricing_survey_page_9
-      label: Phone
+      name: notes
+      label: Do you have any additional comments or notes about the route?
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 10
-      name: route_pricing_survey_page_10
-      label: Email
+      name: estimated_travel_time
+      label: What is the estimated travel time for the route?
       hint: null
-      type: email
+      type: number
       options: []
       required: false
     - id: 11
-      name: route_pricing_survey_page_11
-      label: Note
+      name: number_of_people
+      label: How many people are traveling on this route?
       hint: null
-      type: note
+      type: number
       options: []
       required: false
     - id: 12
-      name: route_pricing_survey_page_12
-      label: Route Cost Hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: route_pricing_survey_page_13
-      label: Route Cost Hint 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: route_pricing_survey_page_14
-      label: Route Price
+      name: additional_costs
+      label: Are there any additional costs associated with the route?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 15
-      name: route_pricing_survey_page_15
-      label: Route Price Hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: route_pricing_survey_page_16
-      label: Route Cost
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: route_pricing_survey_page_17
-      label: Route Cost Hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: route_pricing_survey_page_18
-      label: Transportation
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 19
-      name: route_pricing_survey_page_19
-      label: Transportation Hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: route_pricing_survey_page_20
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: route_pricing_survey_page_21
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: route_pricing_survey_page_22
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: route_pricing_survey_page_23
-      label: Route Cost
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: route_pricing_survey_page_24
-      label: Route Cost Hint
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: route_pricing_survey_page_25
-      label: Route Pricing Survey
-      hint: null
-      type: text
-      options: []
+      - 'True'
+      - 'False'
       required: false

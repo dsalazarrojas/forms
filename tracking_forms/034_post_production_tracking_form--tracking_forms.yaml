@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''PDF''}'
-      - '{''id'': 2, ''label'': ''Word''}'
-      - '{''id'': 3, ''label'': ''Excel''}'
+      - PDF
+      - Word
+      - Excel
       required: false
     - id: 3
       name: due_date
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Design''}'
-      - '{''id'': 2, ''label'': ''Development''}'
-      - '{''id'': 3, ''label'': ''Production''}'
+      - Design
+      - Development
+      - Production
       required: false
     - id: 6
       name: post_hours_budget

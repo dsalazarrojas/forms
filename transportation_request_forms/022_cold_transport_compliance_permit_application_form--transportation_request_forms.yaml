@@ -1,88 +1,77 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cold Transport Compliance Permit Application Form
     pages:
-      - id: 1
-        name: header
-        label: -- Permit Application --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: applicant_name
-        label: Applicant name
-        hint: Company or individual applying
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: vehicle_registration
-        label: Vehicle registration number
-        hint: Truck or trailer registration
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: route_description
-        label: Route description
-        hint: Typical routes and stops
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: temperature_controls
-        label: Temperature controls description
-        hint: Equipment used for temperature control
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: compliance_documentation
-        label: Compliance documentation available
-        hint: Certificates or inspection reports
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 7
-        name: contact_email
-        label: Contact email
-        hint: For permit correspondence
-        type: email
-        options: []
-        required: true
-      - id: 8
-        name: requested_permit_start
-        label: Requested permit start date
-        hint: YYYY-MM-DD
-        type: date
-        options: []
-        required: false
-      - id: 9
-        name: requested_permit_end
-        label: Requested permit end date
-        hint: YYYY-MM-DD
-        type: date
-        options: []
-        required: false
-      - id: 10
-        name: special_conditions
-        label: Special conditions
-        hint: Any restrictions or conditions
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: header
+      label: -- Permit Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Company or individual applying
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_registration
+      label: Vehicle registration number
+      hint: Truck or trailer registration
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: route_description
+      label: Route description
+      hint: Typical routes and stops
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: temperature_controls
+      label: Temperature controls description
+      hint: Equipment used for temperature control
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: compliance_documentation
+      label: Compliance documentation available
+      hint: Certificates or inspection reports
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact email
+      hint: For permit correspondence
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: requested_permit_start
+      label: Requested permit start date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: requested_permit_end
+      label: Requested permit end date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: special_conditions
+      label: Special conditions
+      hint: Any restrictions or conditions
+      type: text
+      options: []
+      required: false

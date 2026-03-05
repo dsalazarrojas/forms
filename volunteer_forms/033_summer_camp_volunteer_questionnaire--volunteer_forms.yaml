@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Text Message''}'
-      - '{''label'': ''In Person''}'
+      - Phone
+      - Email
+      - Text Message
+      - In Person
       required: false
     - id: 6
       name: volunteer_preferred_language
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''Spanish''}'
-      - '{''label'': ''French''}'
-      - '{''label'': ''Other''}'
+      - English
+      - Spanish
+      - French
+      - Other
       required: false
     - id: 7
       name: volunteer_available_time
@@ -66,13 +66,13 @@ inputSchema:
       hint: Select all days you are available
       type: select_multiple
       options:
-      - '{''label'': ''Monday''}'
-      - '{''label'': ''Tuesday''}'
-      - '{''label'': ''Wednesday''}'
-      - '{''label'': ''Thursday''}'
-      - '{''label'': ''Friday''}'
-      - '{''label'': ''Saturday''}'
-      - '{''label'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 9
       name: volunteer_experience
@@ -80,10 +80,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Summer Camps''}'
-      - '{''label'': ''Camp Counselor''}'
-      - '{''label'': ''Group Leader''}'
-      - '{''label'': ''Other''}'
+      - Summer Camps
+      - Camp Counselor
+      - Group Leader
+      - Other
       required: false
     - id: 10
       name: volunteer_vehicles
@@ -91,10 +91,10 @@ inputSchema:
       hint: Select all vehicles you own or have access to
       type: select_multiple
       options:
-      - '{''label'': ''Car''}'
-      - '{''label'': ''Truck''}'
-      - '{''label'': ''Bike''}'
-      - '{''label'': ''Other''}'
+      - Car
+      - Truck
+      - Bike
+      - Other
       required: false
     - id: 11
       name: volunteer_medical_conditions
@@ -102,10 +102,10 @@ inputSchema:
       hint: Select all medical conditions you have
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Allergies''}'
-      - '{''label'': ''Medical Condition 1''}'
-      - '{''label'': ''Medical Condition 2''}'
+      - None
+      - Allergies
+      - Medical Condition 1
+      - Medical Condition 2
       required: false
     - id: 12
       name: volunteer_medical_emergencies
@@ -113,10 +113,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''First Aid''}'
-      - '{''label'': ''CPR''}'
-      - '{''label'': ''EpiPen''}'
-      - '{''label'': ''Other''}'
+      - First Aid
+      - CPR
+      - EpiPen
+      - Other
       required: false
     - id: 13
       name: volunteer_emergency_contacts
@@ -124,8 +124,8 @@ inputSchema:
       hint: Please enter at least one emergency contact
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Name1''}'
-      - '{''label'': ''Name2''}'
-      - '{''label'': ''Name3''}'
+      - None
+      - Name1
+      - Name2
+      - Name3
       required: false

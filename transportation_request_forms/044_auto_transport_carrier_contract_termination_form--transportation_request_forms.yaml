@@ -1,133 +1,122 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Auto Transport Carrier Contract Termination Form
     pages:
-      - id: 1
-        name: contract_id_header
-        label: -- Contract Identification --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: carrier_company_name
-        label: Carrier Company Name
-        hint: Entity on the transport contract
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: contract_ref
-        label: Contract Reference Number
-        hint: Your unique agreement ID
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: effective_date
-        label: Contract Effective Date
-        hint: When the agreement originally began
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: termination_details_header
-        label: -- Termination Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: requested_termination_date
-        label: Requested Termination Date
-        hint: Last day of active contract
-        type: date
-        options: []
-        required: true
-      - id: 7
-        name: termination_reason
-        label: Reason for Termination
-        hint: Select the primary cause
-        type: select_one
-        options:
-          - Service Quality
-          - Price Increase
-          - Contract Expiration
-          - Business Closure
-          - Change in Strategy
-        required: true
-      - id: 8
-        name: termination_cause_desc
-        label: Description of Termination Cause
-        hint: Briefly explain the decision
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: logistics_header
-        label: -- Outstanding Logistics --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: loads_in_transit
-        label: Outstanding Loads in Transit?
-        hint: Are there active shipments?
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 11
-        name: pending_load_ids
-        label: Load IDs Pending Delivery
-        hint: List any remaining loads
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: final_payment_status
-        label: Final Payment Status
-        hint: Current state of account settlement
-        type: select_one
-        options:
-          - Paid
-          - Pending
-          - Dispute
-        required: true
-      - id: 13
-        name: acknowledgments_header
-        label: -- Acknowledgments --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: confirm_notice
-        label: Confirm 30-Day Notice Period
-        hint: Has the required notice period been met?
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 15
-        name: authorized_rep
-        label: Authorized Representative Name
-        hint: Person authorized to terminate the contract
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: contract_id_header
+      label: -- Contract Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: carrier_company_name
+      label: Carrier Company Name
+      hint: Entity on the transport contract
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contract_ref
+      label: Contract Reference Number
+      hint: Your unique agreement ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: effective_date
+      label: Contract Effective Date
+      hint: When the agreement originally began
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: termination_details_header
+      label: -- Termination Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: requested_termination_date
+      label: Requested Termination Date
+      hint: Last day of active contract
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: termination_reason
+      label: Reason for Termination
+      hint: Select the primary cause
+      type: select_one
+      options:
+      - Service Quality
+      - Price Increase
+      - Contract Expiration
+      - Business Closure
+      - Change in Strategy
+      required: true
+    - id: 8
+      name: termination_cause_desc
+      label: Description of Termination Cause
+      hint: Briefly explain the decision
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: logistics_header
+      label: -- Outstanding Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: loads_in_transit
+      label: Outstanding Loads in Transit?
+      hint: Are there active shipments?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: pending_load_ids
+      label: Load IDs Pending Delivery
+      hint: List any remaining loads
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: final_payment_status
+      label: Final Payment Status
+      hint: Current state of account settlement
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Dispute
+      required: true
+    - id: 13
+      name: acknowledgments_header
+      label: -- Acknowledgments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: confirm_notice
+      label: Confirm 30-Day Notice Period
+      hint: Has the required notice period been met?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: authorized_rep
+      label: Authorized Representative Name
+      hint: Person authorized to terminate the contract
+      type: text
+      options: []
+      required: true

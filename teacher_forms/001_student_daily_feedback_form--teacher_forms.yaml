@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Teacher 1''}'
-      - '{''value'': ''Teacher 2''}'
-      - '{''value'': ''Teacher 3''}'
+      - Teacher 1
+      - Teacher 2
+      - Teacher 3
       required: true
     - id: 12
       name: assigned_by
@@ -89,8 +89,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Jimmy''}'
-      - '{''value'': ''Jane''}'
+      - Jimmy
+      - Jane
       required: true
     - id: 13
       name: submitted_by
@@ -98,8 +98,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Jimmy''}'
-      - '{''value'': ''Jane''}'
+      - Jimmy
+      - Jane
       required: true
     - id: 14
       name: status
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Open''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Done''}'
+      - Open
+      - In Progress
+      - Done
       required: true
     - id: 15
       name: priority
@@ -117,9 +117,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Low''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 16
       name: category
@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Teacher Forms''}'
-      - '{''value'': ''Other''}'
+      - Teacher Forms
+      - Other
       required: false
     - id: 17
       name: tags
@@ -192,6 +192,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Jimmy''}'
-      - '{''value'': ''Jane''}'
+      - Jimmy
+      - Jane
       required: false

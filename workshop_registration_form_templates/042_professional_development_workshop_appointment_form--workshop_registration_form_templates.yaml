@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''9-1'', ''label'': ''Submit'', ''value'': ''submit''}'
-      - '{''id'': ''9-2'', ''label'': ''Cancel'', ''value'': ''cancel''}'
+      - Submit
+      - Cancel
       required: true
     - id: 10
       name: participant_agreement
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''10-1'', ''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''id'': ''10-2'', ''label'': ''Decline'', ''value'': ''decline''}'
+      - Agree
+      - Decline
       required: false
     - id: 11
       name: notes

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 7
       name: supporter_location
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Online''}'
-      - '{''id'': 2, ''label'': ''In-person''}'
+      - Online
+      - In-person
       required: false
     - id: 8
       name: supporter_interests
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Environmentalism''}'
-      - '{''id'': 2, ''label'': ''Social Justice''}'
-      - '{''id'': 3, ''label'': ''Human Rights''}'
+      - Environmentalism
+      - Social Justice
+      - Human Rights
       required: false
     - id: 9
       name: supporter_occupation
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Student''}'
-      - '{''id'': 2, ''label'': ''Employee''}'
-      - '{''id'': 3, ''label'': ''Retiree''}'
+      - Student
+      - Employee
+      - Retiree
       required: false
     - id: 10
       name: supporter_income
@@ -90,10 +90,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''High School''}'
-      - '{''id'': 2, ''label'': ''Some College''}'
-      - '{''id'': 3, ''label'': "Bachelor''s"}'
-      - '{''id'': 4, ''label'': "Master''s"}'
+      - High School
+      - Some College
+      - Bachelor's
+      - Master's
       required: false
     - id: 12
       name: supporter_job_title
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Student''}'
-      - '{''id'': 2, ''label'': ''Employee''}'
-      - '{''id'': 3, ''label'': ''Manager''}'
+      - Student
+      - Employee
+      - Manager
       required: false
     - id: 13
       name: supporter_work_hours
@@ -111,9 +111,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''1-10 hours''}'
-      - '{''id'': 2, ''label'': ''11-20 hours''}'
-      - '{''id'': 3, ''label'': ''More than 20 hours''}'
+      - 1-10 hours
+      - 11-20 hours
+      - More than 20 hours
       required: false
     - id: 14
       name: supporter_email

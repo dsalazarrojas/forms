@@ -15,359 +15,82 @@ inputSchema:
     title: Domestic Travel Time Off Form
     pages:
     - id: 1
-      name: first_page
-      label: Domestic Travel Time Off Form
+      name: employee_info
+      label: Employee Information
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: travel_dates
       label: Domestic Travel Dates
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
       name: travel_type
       label: Travel Type
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Vacation''}'
-      - '{''label'': ''Business''}'
-      - '{''label'': ''Personal''}'
-      required: false
+      - Vacation
+      - Business
+      - Personal
+      required: true
     - id: 4
       name: travel_destination
-      label: Domestic Travel Destination
+      label: Travel Destination
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: travel_reason
       label: Travel Reason
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: travel_duration
       label: Total Duration
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: travel_start_date
-      label: Start Date
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: travel_end_date
-      label: End Date
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: travel_return_date
-      label: Return Date
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
       name: travel_cost
       label: Domestic Travel Cost
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: travel_currency
-      label: Travel Currency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: travel_expenses
-      label: Expenses
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: travel_documents
-      label: Attach Documents
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
+      required: true
+    - id: 8
       name: approval_status
       label: Approval Status
       hint: null
       type: text
       options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 9
       name: comments
       label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
-      name: submitted_by
-      label: Submitted By
+    - id: 10
+      name: submitted_info
+      label: Submitted Info
       hint: null
       type: text
       options: []
-      required: false
-    - id: 17
-      name: submitted_on
-      label: Submitted On
+      required: true
+    - id: 11
+      name: approval_info
+      label: Approval Info
       hint: null
       type: text
       options: []
-      required: false
-    - id: 18
-      name: approved_by
-      label: Approved By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: approved_on
-      label: Approved On
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: rejected_by
-      label: Rejected By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: rejected_on
-      label: Rejected On
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: rejected_reason
-      label: Rejected Reason
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: travel_type_details
-      label: Travel Type
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Personal''}'
-      - '{''label'': ''Business''}'
-      required: false
-    - id: 24
-      name: travel_destination_details
-      label: Domestic Travel Destination
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: travel_currency_details
-      label: Travel Currency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: travel_cost_details
-      label: Domestic Travel Cost
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: travel_expenses_details
-      label: Expenses
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: approval_status_details
-      label: Approval Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: comments_details
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: submitted_by_details
-      label: Submitted By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: submitted_on_details
-      label: Submitted On
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: approved_by_details
-      label: Approved By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: approved_on_details
-      label: Approved On
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: rejected_by_details
-      label: Rejected By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: rejected_on_details
-      label: Rejected On
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: rejected_reason_details
-      label: Rejected Reason
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: travel_type_details_additional
-      label: Travel Type
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Personal''}'
-      - '{''label'': ''Business''}'
-      required: false
-    - id: 38
-      name: travel_destination_details_additional
-      label: Domestic Travel Destination
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: travel_currency_details_additional
-      label: Travel Currency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: travel_cost_details_additional
-      label: Domestic Travel Cost
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: travel_expenses_details_additional
-      label: Expenses
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: approval_status_details_additional
-      label: Approval Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: comments_details_additional
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 44
-      name: submitted_by_details_additional
-      label: Submitted By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: submitted_on_details_additional
-      label: Submitted On
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: approved_by_details_additional
-      label: Approved By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 47
-      name: approved_on_details_additional
-      label: Approved On
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 48
-      name: rejected_by_details_additional
-      label: Rejected By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 49
-      name: rejected_on_details_additional
-      label: Rejected On
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 50
-      name: rejected_reason_details_additional
-      label: Rejected Reason
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

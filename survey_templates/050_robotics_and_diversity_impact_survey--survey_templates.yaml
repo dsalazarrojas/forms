@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''male''}'
-      - '{''label'': ''female''}'
-      - '{''label'': ''other''}'
+      - male
+      - female
+      - other
       required: false
     - id: 3
       name: ethnicity
@@ -26,11 +26,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''White''}'
-      - '{''label'': ''Black or African American''}'
-      - '{''label'': ''Hispanic or Latino''}'
-      - '{''label'': ''Asian''}'
-      - '{''label'': ''Other''}'
+      - White
+      - Black or African American
+      - Hispanic or Latino
+      - Asian
+      - Other
       required: false
     - id: 4
       name: age
@@ -45,12 +45,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Less than High School''}'
-      - '{''label'': ''High School''}'
-      - '{''label'': ''Some College''}'
-      - '{''label'': "Bachelor''s Degree"}'
-      - '{''label'': "Master''s Degree"}'
-      - '{''label'': ''Doctoral Degree''}'
+      - Less than High School
+      - High School
+      - Some College
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctoral Degree
       required: false
     - id: 6
       name: work_experience
@@ -58,10 +58,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1-5 years''}'
-      - '{''label'': ''5-10 years''}'
-      - '{''label'': ''10-20 years''}'
-      - '{''label'': ''More than 20 years''}'
+      - 1-5 years
+      - 5-10 years
+      - 10-20 years
+      - More than 20 years
       required: false
     - id: 7
       name: diversity_focus_area
@@ -69,10 +69,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Hiring and recruitment''}'
-      - '{''label'': ''Training and development''}'
-      - '{''label'': ''Inclusivity in robotics''}'
-      - '{''label'': ''Other''}'
+      - Hiring and recruitment
+      - Training and development
+      - Inclusivity in robotics
+      - Other
       required: false
     - id: 8
       name: diversity_focus_area_other
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High School''}'
-      - '{''label'': ''College/University''}'
-      - '{''label'': ''Community''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''None''}'
+      - High School
+      - College/University
+      - Community
+      - Other
+      - None
       required: false

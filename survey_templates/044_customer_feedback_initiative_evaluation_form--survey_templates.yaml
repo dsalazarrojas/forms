@@ -23,10 +23,10 @@ inputSchema:
       hint: How satisfied are you with our service?
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Very satisfied''}'
-      - '{''id'': 2, ''value'': ''Somewhat satisfied''}'
-      - '{''id'': 3, ''value'': ''Somewhat dissatisfied''}'
-      - '{''id'': 4, ''value'': ''Very dissatisfied''}'
+      - Very satisfied
+      - Somewhat satisfied
+      - Somewhat dissatisfied
+      - Very dissatisfied
       required: false
     - id: 4
       name: customer_complaint
@@ -34,8 +34,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: customer_recommend
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
-      - '{''id'': 3, ''value'': ''Not sure''}'
+      - 'True'
+      - 'False'
+      - Not sure
       required: false
     - id: 6
       name: customer_comment
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''CEO''}'
-      - '{''id'': 2, ''value'': ''Manager''}'
-      - '{''id'': 3, ''value'': ''Team Member''}'
+      - CEO
+      - Manager
+      - Team Member
       required: false
     - id: 12
       name: customer_department
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Marketing''}'
-      - '{''id'': 2, ''value'': ''Sales''}'
-      - '{''id'': 3, ''value'': ''Support''}'
+      - Marketing
+      - Sales
+      - Support
       required: false
     - id: 13
       name: customer_rating_5
